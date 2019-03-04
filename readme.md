@@ -1,8 +1,12 @@
-![Temporary tileset demo](https://cdn.discordapp.com/attachments/365907426270117888/552185179511324692/stairs_and_more.png)
-
 Ultimate Cataclysm (UltiCa) is a community made tileset for Cataclysm:dark days ahead
 
-This repository stores individual sprites for UltiCa in PNG format, and also source files with layering in PSD (Photoshop) or XCF (gimp 2.10) format.
+This repository stores individual sprites for UltiCa in PNG format, and also source files with layering in PSD (Photoshop) or XCF (gimp 2.10) format. At some point in the near future once we've stabilized how this is going to work, we will design an automatic assembler that will put these pngs together into a file with JSON ids.
+
+## Folder/Filename Structure
+- put files into the best appropriate folder (terrain, furniture, mutations, items, etc)
+- give files a name based on the JSON ID they suit, eg t_floor
+- if multiple files apply to that ID, make a subfolder eg terrain/t_floor/ for all the views
+- for the moment, there isn't a clear naming convention after that. Working on it.
 
 ## Style Guides
 - 32x32 tile base
@@ -11,6 +15,3 @@ This repository stores individual sprites for UltiCa in PNG format, and also sou
 - avoid outlines.
 - the default light source is assumed to come from above and to the lef
 - use PNG transparency to create a 50% opaque black drop shadow when possible, extending behind and to the right of the sprite.
-
-Terrain tiles that autotile - ie. change perspective based on their connections to each other - should be drawn in the autotile format using this template.
-![Autotile template](https://github.com/I-am-Erk/CDDA-Tilesets/blob/master/template_autotile.png)
