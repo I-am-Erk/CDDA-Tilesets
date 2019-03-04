@@ -15,3 +15,7 @@ This repository stores individual sprites for UltiCa in PNG format, and also sou
 - avoid outlines.
 - the default light source is assumed to come from above and to the lef
 - use PNG transparency to create a 50% opaque black drop shadow when possible, extending behind and to the right of the sprite.
+
+## licensing
+
+Cataclysm:Dark Days Ahead and the Ultimate Cataclysm tileset is the result of contributions from volunteers under the Creative Commons Attribution ShareAlike 3.0 license. The code and content of the game is free to use, modify, and redistribute for any purpose whatsoever. See http://creativecommons.org/licenses/by-sa/3.0/ for details. Some code distributed with the project is not part of the project and is released under different software licenses, the files covered by different software licenses have their own license notices.
