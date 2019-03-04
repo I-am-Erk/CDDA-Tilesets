@@ -1,7 +1,7 @@
 Ultimate Cataclysm (UltiCa) is a community made tileset for Cataclysm:dark days ahead
 
 This repository stores individual sprites for UltiCa in PNG format, and also source files with layering in PSD (Photoshop) or XCF (gimp 2.10) format. At some point in the near future once we've stabilized how this is going to work, we will design an automatic assembler that will put these pngs together into a file with JSON ids.
-![Temporary screenshot](https://cdn.discordapp.com/attachments/365907426270117888/552185179511324692/stairs_and_more.png)
+![Current screenshot](./Ultimate_Cataclysm/screenshots/2019-03-02_stairsandmore.png)
 
 ## Folder/Filename Structure
 - put files into the best appropriate folder (terrain, furniture, mutations, items, etc)
