@@ -7,7 +7,8 @@ This repository stores individual sprites for UltiCa in PNG format, and also sou
 - 32x32 tile base
 - character and monster sprites 64x64 with 8px offset from the ground to give them a 3d look
 - all art should be in a pseudo-16 bit format. While you can use the full range of modern colour palettes, each colour block of a sprite should be limited to 3-6 colours. For example a blue shirt might have one light blue highlight, two medium blue main colours, one dark blue shade, and one very dark blue-green shade.
-- avoid outlines.
+- avoid outlines on terrain and character/monster sprites
+ Items and wielded items (not worn) should have a single pixel black lower edge outline.
 - the default light source is assumed to come from above and to the left
 - use PNG transparency to create a 50% opaque black drop shadow when possible, extending behind and to the right of the sprite.
 
