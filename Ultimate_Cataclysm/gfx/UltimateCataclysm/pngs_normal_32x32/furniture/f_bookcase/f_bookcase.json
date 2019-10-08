@@ -1,0 +1,8 @@
+{
+  "id": "f_bookcase",
+  "fg": [
+    { "weight": 1, "sprite": "bookshelf-full" }, 
+    { "weight": 1, "sprite": "bookshelf-empty" }
+  ],
+  "bg": []
+}

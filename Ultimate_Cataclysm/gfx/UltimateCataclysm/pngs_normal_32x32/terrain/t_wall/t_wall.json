@@ -1,0 +1,38 @@
+{
+  "id": "t_wall",
+  "multitile": true,
+  "fg": ["t_wall_horizontal"],
+  "bg": [],
+  "additional_tiles": [
+    {
+      "id": "center",
+      "bg": [],
+      "fg": ["t_wall_horizontal", "t_wall_vertical"]
+    },
+    {
+      "id": "corner",
+      "bg": [],
+      "fg": ["t_wall_corner_top_left", "t_wall_corner_top_right", "t_wall_corner_bottom_right", "t_wall_corner_bottom_left"]
+    },
+    {
+      "id": "t_connection",
+      "bg": [],
+      "fg": ["t_wall_horizontal", "t_wall_vertical"]
+    },
+    {
+      "id": "edge",
+      "bg": [],
+      "fg": ["f_bench_edge"]
+    },
+    {
+      "id": "end_piece",
+      "bg": [],
+      "fg": ["t_wall_end_piece_top", "t_wall_end_piece_bottom"]
+    },
+    {
+      "bg": [],
+      "id": "unconnected",
+      "fg": ["t_wall_unconnected"]
+    }
+  ]
+}
