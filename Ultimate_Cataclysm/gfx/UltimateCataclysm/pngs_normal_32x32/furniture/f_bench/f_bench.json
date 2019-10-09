@@ -1,0 +1,38 @@
+{
+  "id": "f_bench",
+  "multitile": true,
+  "fg": ["f_bench_center"],
+  "bg": [],
+  "additional_tiles": [
+    {
+      "id": "center",
+      "bg": [],
+      "fg": ["f_bench_center"]
+    },
+    {
+      "id": "corner",
+      "bg": [],
+      "fg": ["f_bench_center"]
+    },
+    {
+      "id": "t_connection",
+      "bg": [],
+      "fg": ["f_bench_center"]
+    },
+    {
+      "id": "edge",
+      "bg": [],
+      "fg": ["f_bench_edge"]
+    },
+    {
+      "id": "end_piece",
+      "bg": [],
+      "fg": ["f_bench_end_piece_top", "f_bench_end_piece_left", "f_bench_end_piece_bottom", "f_bench_end_piece_right"]
+    },
+    {
+      "bg": [],
+      "id": "unconnected",
+      "fg": ["f_bench_center"]
+    }
+  ]
+}
