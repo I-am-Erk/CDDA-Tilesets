@@ -16,6 +16,7 @@ This repository stores individual sprites for UltiCa in PNG format, and also sou
 - Item tiles should be as close to scale as they can be while still recognizable. When in doubt, err on the side of larger, but avoid filling an entire 32x32 tile with a single nail or it would look like a nail as large as a survivor. For many items that are small in real life it might help if they're drawn on a 16x16 canvas first.
 - Even for single items, putting multiple items into the icon could give it more recognizability without making it look comically huge.
 - Items and wielded items (not worn) should have a single pixel black lower edge outline.
+- Containers, like jars or bottles, should be drawn empty as the game will use the same tile no matter the actual content of the item.
 
 ### Folder/Filename Structure
 - put files into the best appropriate folder (terrain, furniture, mutations, items, etc)
