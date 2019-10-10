@@ -91,6 +91,7 @@ def main():
 
     with open(os.path.join(args.out, f"{args.tile}.json"), "w") as tile_json_file:
         json.dump(json_content, tile_json_file, indent = 2)
+        tile_json_file.write("\n")
 
 if __name__ == "__main__":
     main()
