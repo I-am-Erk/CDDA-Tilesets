@@ -1,5 +1,5 @@
 {
   "id": "f_bookcase",
-  "fg": [ "bookshelf-empty" ],
+  "fg": [ "f_bookcase" ],
   "bg": []
 }
