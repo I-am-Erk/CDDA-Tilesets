@@ -1,38 +1,62 @@
 {
   "id": "t_wall",
   "multitile": true,
-  "fg": ["t_wall_horizontal"],
+  "fg": [
+    "t_wall_unconnected"
+  ],
   "bg": [],
   "additional_tiles": [
     {
       "id": "center",
       "bg": [],
-      "fg": ["t_wall_horizontal", "t_wall_vertical"]
+      "fg": [
+        "t_wall_center"
+      ]
     },
     {
       "id": "corner",
       "bg": [],
-      "fg": ["t_wall_corner_top_left", "t_wall_corner_top_right", "t_wall_corner_bottom_right", "t_wall_corner_bottom_left"]
+      "fg": [
+        "t_wall_corner_nw",
+        "t_wall_corner_sw",
+        "t_wall_corner_se",
+        "t_wall_corner_ne"
+      ]
     },
     {
       "id": "t_connection",
       "bg": [],
-      "fg": ["t_wall_horizontal", "t_wall_vertical"]
+      "fg": [
+        "t_wall_t_connection_n",
+        "t_wall_t_connection_w",
+        "t_wall_t_connection_s",
+        "t_wall_t_connection_e"
+      ]
     },
     {
       "id": "edge",
       "bg": [],
-      "fg": ["f_bench_edge"]
+      "fg": [
+        "t_wall_edge_ns",
+        "t_wall_edge_ew"
+      ]
     },
     {
       "id": "end_piece",
       "bg": [],
-      "fg": ["t_wall_end_piece_top", "t_wall_end_piece_bottom"]
+      "fg": [
+        "t_wall_end_piece_n",
+        "t_wall_end_piece_w",
+        "t_wall_end_piece_s",
+        "t_wall_end_piece_e"
+      ]
     },
     {
       "bg": [],
       "id": "unconnected",
-      "fg": ["t_wall_unconnected"]
+      "fg": [
+        "t_wall_unconnected"
+      ]
     }
   ]
 }
