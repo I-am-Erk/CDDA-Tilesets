@@ -1,4 +1,6 @@
-Ultimate Cataclysm (UltiCa) is a community made tileset for Cataclysm:dark days ahead
+Ultimate Cataclysm (UltiCa) is a community made tileset for Cataclysm:dark days ahead.
+
+Most of the development discussion and direction can be found on [Discord](https://discord.gg/kAXNZuy). This is a general summary.
 
 This repository stores individual sprites for UltiCa in PNG format, and also source files with layering in PSD (Photoshop) or XCF (gimp 2.10) format. These will then be compiled into a tileset using a python script maintained by mlangsdorf.
 
