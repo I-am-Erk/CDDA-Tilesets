@@ -1,5 +1,5 @@
 {
-  "id": "t_wall_scrap",
+  "id": "t_scrap_wall",
   "fg": [
     { "weight":4, "sprite": "t_wall_scrap"},
     { "weight":2, "sprite": "t_wall_scrap2"}
