@@ -1,8 +1,0 @@
-{
-  "id": "t_rock_floor",
-  "fg": [
-    { "weight":4, "sprite": "t_rock_floor"},
-    { "weight":2, "sprite": "t_rock_floor2"}
-  ],
-  "bg": []
-}
