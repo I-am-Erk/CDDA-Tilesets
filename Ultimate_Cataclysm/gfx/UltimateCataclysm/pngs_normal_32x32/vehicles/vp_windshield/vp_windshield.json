@@ -1,0 +1,26 @@
+{
+  "id": "vp_windshield",
+  "fg": "vp_windshield",
+  "rotates": true,
+  "multitile": true,
+  "bg": [],
+  "additional_tiles": [
+    {
+      "id": [ "center", "edge", "unconnected" ],
+      "bg": [],
+      "fg": [
+        "vp_windshield"
+      ]
+    },
+    {
+      "id": [ "end_piece", "t_connection", "corner" ],
+      "bg": [],
+      "fg": [
+        "vp_windshield_end_piece_n",
+        "vp_windshield_end_piece_w",
+        "vp_windshield_end_piece_s",
+        "vp_windshield_end_piece_e"
+      ]
+    }
+  ]
+}
