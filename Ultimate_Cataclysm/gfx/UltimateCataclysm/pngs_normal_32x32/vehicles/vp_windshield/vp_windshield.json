@@ -6,14 +6,42 @@
   "bg": [],
   "additional_tiles": [
     {
-      "id": [ "center", "edge", "unconnected" ],
+      "id": "center",
+      "bg": [],
+      "fg": [ "vp_windshield" ]
+    },
+    {
+      "id": "edge",
+      "bg": [],
+      "fg": [ "vp_windshield" ]
+    },
+    {
+      "id": "unconnected",
+      "bg": [],
+      "fg": [ "vp_windshield" ]
+    },
+    {
+      "id": "end_piece",
       "bg": [],
       "fg": [
-        "vp_windshield"
+        "vp_windshield_end_piece_n",
+        "vp_windshield_end_piece_w",
+        "vp_windshield_end_piece_s",
+        "vp_windshield_end_piece_e"
       ]
     },
     {
-      "id": [ "end_piece", "t_connection", "corner" ],
+      "id": "t_connection",
+      "bg": [],
+      "fg": [
+        "vp_windshield_end_piece_n",
+        "vp_windshield_end_piece_w",
+        "vp_windshield_end_piece_s",
+        "vp_windshield_end_piece_e"
+      ]
+    },
+    {
+      "id": "corner",
       "bg": [],
       "fg": [
         "vp_windshield_end_piece_n",
