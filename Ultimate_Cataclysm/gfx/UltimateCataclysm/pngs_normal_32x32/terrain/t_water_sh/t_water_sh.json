@@ -10,7 +10,7 @@
       "id": "center",
       "bg": [],
       "fg": [
-        "t_water_sh_center"
+        "t_water_sh_center", "t_water_sh_center2", "t_water_sh_center3"
       ]
     },
     {
