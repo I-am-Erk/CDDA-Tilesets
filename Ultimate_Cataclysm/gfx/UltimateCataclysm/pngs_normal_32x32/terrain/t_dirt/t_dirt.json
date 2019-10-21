@@ -1,22 +1,18 @@
 {
   "id": "t_dirt",
   "fg": [
-            { "weight":100, "sprite": "t_dirt" },
-            { "weight":70, "sprite": "t_dirt2" },
-			{ "weight":30, "sprite": "t_dirt1_rocks1" },
-			{ "weight":30, "sprite": "t_dirt1_rocks2" },
-			{ "weight":10, "sprite": "t_dirt1_rocks3" },
-			{ "weight":20, "sprite": "t_dirt2_rocks1" },
-			{ "weight":20, "sprite": "t_dirt2_rocks2" },
-			{ "weight":8, "sprite": "t_dirt2_rocks3" },
-			{ "weight":20, "sprite": "t_dirt1_grass1" },
-			{ "weight":20, "sprite": "t_dirt1_grass2" },
-			{ "weight":10, "sprite": "t_dirt1_grass3" },
-			{ "weight":10, "sprite": "t_dirt2_grass1" },
-			{ "weight":10, "sprite": "t_dirt2_grass2" },
-			{ "weight":5, "sprite": "t_dirt2_grass3" },
-			{ "weight":20, "sprite": "t_dirt1_grassrocks" },
-			{ "weight":10, "sprite": "t_dirt2_grassrocks" }
+    { "weight":100, "sprite": "t_dirt" },
+    { "weight":70, "sprite": "t_dirt2" },
+	{ "weight":30, "sprite": "t_dirt_fg_rocks1" },
+	{ "weight":30, "sprite": "t_dirt_fg_rocks2" },
+	{ "weight":10, "sprite": "t_dirt_fg_rocks3" },
+	{ "weight":20, "sprite": "t_dirt_fg_grass1" },
+	{ "weight":20, "sprite": "t_dirt_fg_grass2" },
+	{ "weight":10, "sprite": "t_dirt_fg_grass3" },
+	{ "weight":10, "sprite": "t_dirt_fg_grassrocks" }
   ],
-  "bg": []
+  "bg": [
+    { "weight":100, "sprite": "t_dirt" },
+    { "weight":70, "sprite": "t_dirt2" }
+  ]
 }
