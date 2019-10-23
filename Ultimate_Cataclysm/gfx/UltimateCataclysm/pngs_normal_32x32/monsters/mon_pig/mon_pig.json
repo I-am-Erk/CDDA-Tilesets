@@ -1,0 +1,9 @@
+{
+  "id": "mon_pig",
+  "fg": [
+    { "weight": 8, "sprite": "mon_pig" },
+    { "weight": 3, "sprite": "mon_dirt_pig" },
+    { "weight": 1, "sprite": "mon_fat_pig" }
+  ],
+  "bg": []
+}
