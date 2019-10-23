@@ -2,7 +2,7 @@
   "id": "mon_moose",
   "fg": [
     { "weight": 2, "sprite": "mon_moose" },
-    { "weight": 1, "sprite": "mon_moose_female" }
+    { "weight": 2, "sprite": "mon_moose_female" }
   ],
   "bg": []
 }
