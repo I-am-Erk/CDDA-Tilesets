@@ -6,5 +6,5 @@
     { "weight":100, "sprite": "t_tree_dead3" },
     { "weight":100, "sprite": "t_tree_dead4" }
   ],
-  "bg": ["t_dirt"]
+  "bg": []
 }
