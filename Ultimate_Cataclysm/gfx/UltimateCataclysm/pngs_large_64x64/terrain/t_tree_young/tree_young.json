@@ -4,17 +4,15 @@
     { "weight":100, "sprite": "t_tree_young" },
     { "weight":100, "sprite": "t_tree_young2" }
   ],
-  "bg": ["t_dirt"]
+  "bg": []
 },
 {
   "id": "t_tree_young_season_autumn",
     "fg": [
     { "weight":100, "sprite": "t_tree_young_season_autumn" },
-    { "weight":100, "sprite": "t_tree_young_season_autumn2" },
-    { "weight":100, "sprite": "t_tree_young_season_autumn-b" },
-    { "weight":100, "sprite": "t_tree_young_season_autumn2-b" },
+    { "weight":100, "sprite": "t_tree_young_season_autumn2" }
   ],
-    "bg": ["t_dirt"],
+    "bg": [],
     "rotates": false
 },
 {
@@ -23,6 +21,6 @@
     { "weight":100, "sprite": "t_tree_young_season_winter" },
     { "weight":100, "sprite": "t_tree_young_season_winter2" }
   ],
-    "bg": ["t_dirt"],
+    "bg": [],
     "rotates": false
 }
