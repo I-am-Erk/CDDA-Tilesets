@@ -1,0 +1,11 @@
+{
+  "id": "t_shrub",
+  "fg": [ "t_shrub" ],
+  "bg": ["t_dirt"]
+},
+{
+  "id": "t_shrub_season_winter",
+    "fg": [ "t_shrub_winter" ],
+    "bg": ["t_dirt"],
+    "rotates": false
+}
