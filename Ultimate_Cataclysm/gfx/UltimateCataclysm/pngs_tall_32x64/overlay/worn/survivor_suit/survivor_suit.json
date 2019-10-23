@@ -1,7 +1,7 @@
 {
-  "id": "overlay_worn_survivor_suit",
+  "id": "overlay_male_worn_survivor_suit",
   "fg": [
-    "survivor_suit"
+    "survivor_suit_m"
   ],
   "bg": [ ]
 }
