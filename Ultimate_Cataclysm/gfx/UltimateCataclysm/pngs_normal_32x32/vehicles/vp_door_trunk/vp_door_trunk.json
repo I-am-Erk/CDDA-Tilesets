@@ -7,7 +7,8 @@
   "additional_tiles": [
     {
       "id": "open",
-      "fg": "vp_door_trunk_open"
+      "fg": "vp_door_trunk_open",
+      "bg": []
     }
   ]
 }
