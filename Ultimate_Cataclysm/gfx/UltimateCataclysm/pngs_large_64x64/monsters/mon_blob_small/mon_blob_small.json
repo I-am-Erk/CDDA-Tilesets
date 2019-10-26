@@ -1,0 +1,8 @@
+{
+  "id": "mon_blob_small",
+  "fg": [
+    { "weight": 1, "sprite": "mon_blob_small" },
+    { "weight": 1, "sprite": "mon_blob_small_alt" }
+  ],
+  "bg": []
+}
