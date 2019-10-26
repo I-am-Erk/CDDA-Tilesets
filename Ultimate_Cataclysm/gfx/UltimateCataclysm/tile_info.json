@@ -17,7 +17,7 @@
     "huge.png": { "sprite_width": 64, "sprite_height": 96, "sprite_offset_x": -16, "sprite_offset_y": -64  }
   },
   {
-    "giant.png": { "sprite_width": 96, "sprite_height": 96, "sprite_offset_x": -48, "sprite_offset_y": -64  }
+    "giant.png": { "sprite_width": 96, "sprite_height": 96, "sprite_offset_x": -32, "sprite_offset_y": -64  }
   },
   {
     "fallback.png": {

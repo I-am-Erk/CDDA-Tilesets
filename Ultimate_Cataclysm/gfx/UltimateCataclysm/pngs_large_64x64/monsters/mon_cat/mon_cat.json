@@ -1,0 +1,8 @@
+{
+  "id": "mon_cat",
+  "fg": [
+    { "weight": 1, "sprite": "mon_cat" },
+    { "weight": 1, "sprite": "mon_cat_alt" }
+  ],
+  "bg": []
+}
