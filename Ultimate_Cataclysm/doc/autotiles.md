@@ -12,10 +12,15 @@ Currently, there are only a few of these tiles supported in CDDA, although some 
 These break down into a few parts as recognized by the game.
 
 **corner**: as you'd expect, these are corners of the connected tiles, attaching to two adjacent tiles that are perpendicular to the tile in question.
+
 **edge**: these are tiles connected either on the top-bottom or left-right sides, arranged in a straight line.
+
 **center**: This is a 4-way intersection tile, connected on all sides.
+
 **t_connection**: These are the 3-way intersection tiles.
+
 **end_piece**: These tiles are connected only on one side.
+
 **unconnected**: This is a tile just hanging out alone.
 
 #### Things like benches
