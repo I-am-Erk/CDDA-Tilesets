@@ -1,0 +1,1 @@
+{"id": "f_bench", "fg": ["30_f_bench_0"], "multitile": true, "additional_tiles": [{"id": "edge", "fg": ["30_f_bench_0"], "bg": []}, {"id": "end_piece", "fg": ["31_f_bench_1"], "bg": []}], "rotates": true, "bg": []}

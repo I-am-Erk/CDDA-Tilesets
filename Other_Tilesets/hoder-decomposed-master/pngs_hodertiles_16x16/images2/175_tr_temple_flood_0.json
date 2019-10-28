@@ -1,0 +1,1 @@
+{"id": "vp_cargo_space", "fg": ["175_tr_temple_flood_0"], "bg": ["104_vp_frame_wood_vertical_2_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["1881_vp_seat_1"], "bg": []}]}

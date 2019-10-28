@@ -1,0 +1,15 @@
+{
+  "rotates": false,
+  "bg": [
+    
+  ],
+  "id": [
+    "shotcanister_bearing",
+    "shotcanister_flechette",
+    "shotcanister_pebble",
+    "shotcanister_scrap"
+  ],
+  "fg": [
+    "24668_shotcanister_bearing_0"
+  ]
+}

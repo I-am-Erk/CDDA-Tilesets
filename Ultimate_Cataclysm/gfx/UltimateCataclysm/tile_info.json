@@ -20,6 +20,12 @@
     "giant.png": { "sprite_width": 96, "sprite_height": 96, "sprite_offset_x": -32, "sprite_offset_y": -64  }
   },
   {
+    "filler_udp.png": { "filler": true }
+  },
+  {
+    "filler_hoder.png": { "filler": true }
+  },
+  {
     "fallback.png": {
       "source": "https://github.com/Chezzo/Cataclysm-DDA/blob/0ca0b5307f1b2fab7edb5519a3176e1d887087a7/gfx/ChestHole32Tileset/fallback.png",
       "fallback": true

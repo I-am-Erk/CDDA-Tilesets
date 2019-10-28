@@ -1,0 +1,13 @@
+{
+  "rotates": false,
+  "bg": [
+    
+  ],
+  "id": [
+    "corpse_mon_deer_small",
+    "corpse_mon_deer_rutting"
+  ],
+  "fg": [
+    "24336_corpse_mon_deer_small_0"
+  ]
+}
