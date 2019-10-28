@@ -20,10 +20,7 @@
     "giant.png": { "sprite_width": 96, "sprite_height": 96, "sprite_offset_x": -32, "sprite_offset_y": -64  }
   },
   {
-    "filler_udp.png": { "filler": true }
-  },
-  {
-    "filler_hoder.png": { "filler": true }
+    "filler.png": { "filler": true }
   },
   {
     "fallback.png": {
