@@ -1,0 +1,10 @@
+{
+  "rotates": true,
+  "bg": [
+    "5239_mon_laserturret_1"
+  ],
+  "id": "mon_turret_shot",
+  "fg": [
+    "22753_mon_turret_shot_0"
+  ]
+}
