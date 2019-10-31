@@ -3,7 +3,7 @@
   "id": "t_grass_autumn",
   "multitile": true,
   "fg": [
-    "t_grass_unconnected"
+    "t_grass_autumn_unconnected"
   ],
   "bg": [ "t_dirt_autumn" ],
   "additional_tiles": [
