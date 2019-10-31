@@ -31,7 +31,7 @@
     ]
   },
   {
-    "id": "t_grass_tall_summer",
+    "id": "t_grass_tall_season_summer",
     "multitile": true,
     "fg": [ "t_grass_tall_summer_unconnected" ],
     "bg": [ "t_dirt_summer" ],
@@ -76,7 +76,7 @@
     ]
   },
   {
-    "id": "t_grass_tall_autumn",
+    "id": "t_grass_tall_season_autumn",
     "multitile": true,
     "fg": [ "t_grass_tall_autumn_unconnected" ],
     "bg": [ "t_dirt_autumn" ],
