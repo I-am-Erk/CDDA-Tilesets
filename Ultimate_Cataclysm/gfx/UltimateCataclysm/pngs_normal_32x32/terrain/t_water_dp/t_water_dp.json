@@ -1,11 +1,6 @@
-Cataclysm: Dark Days Ahead JSON Web Linting Tool
-This is a tool to help modders and editors of the open source game Cataclysm: Dark Days Ahead write JSON in the game's expected format.
-
-Paste some JSON into the field below and click "Lint" to run an autoformatter against it.
-
 [
   {
-    "id": "t_water_dp",
+    "id": [ "t_water_dp", "t_swater_dp" ],
     "multitile": true,
     "fg": [ "t_water_dp_unconnected" ],
     "bg": [ "t_dirt" ],
@@ -31,7 +26,7 @@ Paste some JSON into the field below and click "Lint" to run an autoformatter ag
     ]
   },
   {
-    "id": "t_water_dp_season_summer",
+    "id": [ "t_water_dp_season_summer", "t_swater_dp_season_summer" ],
     "multitile": true,
     "fg": [ "t_water_dp_unconnected" ],
     "bg": [ "t_dirt_summer" ],
@@ -57,7 +52,7 @@ Paste some JSON into the field below and click "Lint" to run an autoformatter ag
     ]
   },
   {
-    "id": "t_water_dp_season_autumn",
+    "id": [ "t_water_dp_season_autumn", "t_swater_dp_season_autumn" ],
     "multitile": true,
     "fg": [ "t_water_dp_unconnected" ],
     "bg": [ "t_dirt_autumn" ],
