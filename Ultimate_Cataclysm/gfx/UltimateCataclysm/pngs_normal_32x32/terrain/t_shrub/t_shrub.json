@@ -5,7 +5,7 @@
     "bg": [ "t_dirt" ]
   },
   {
-    "id": "t_shrub_season_summer,
+    "id": "t_shrub_season_summer",
     "fg": [ "t_shrub" ],
     "bg": [ "t_dirt_summer" ]
   },
