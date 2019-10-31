@@ -1,6 +1,6 @@
 [
   {
-    "id": [ "t_grass_tall", "f_grass_tall" ],
+    "id": "t_grass_tall",
     "multitile": true,
     "fg": [ "t_grass_tall_unconnected" ],
     "bg": [ "t_dirt" ],
@@ -31,7 +31,7 @@
     ]
   },
   {
-    "id": [ "t_grass_tall_summer", "f_grass_tall" ],
+    "id": "t_grass_tall_summer",
     "multitile": true,
     "fg": [ "t_grass_tall_summer_unconnected" ],
     "bg": [ "t_dirt_summer" ],
@@ -76,7 +76,7 @@
     ]
   },
   {
-    "id": [ "t_grass_tall_autumn", "f_grass_tall" ],
+    "id": "t_grass_tall_autumn",
     "multitile": true,
     "fg": [ "t_grass_tall_autumn_unconnected" ],
     "bg": [ "t_dirt_autumn" ],
