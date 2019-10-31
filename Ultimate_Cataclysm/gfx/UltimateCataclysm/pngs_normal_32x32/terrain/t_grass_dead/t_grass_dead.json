@@ -31,7 +31,7 @@
     ]
   },
   {
-    "id": "t_grass_dead_summer",
+    "id": "t_grass_dead_season_summer",
     "multitile": true,
     "fg": [ "t_grass_dead_unconnected" ],
     "bg": [ "t_dirt_summer" ],
@@ -93,7 +93,7 @@
     ]
   },
   {
-    "id": "t_grass_dead_autumn",
+    "id": "t_grass_dead_season_autumn",
     "multitile": true,
     "fg": [ "t_grass_dead_unconnected" ],
     "bg": [ "t_dirt_autumn" ],
