@@ -5,12 +5,12 @@
     "bg": [ { "weight": 100, "sprite": "t_dirt" }, { "weight": 100, "sprite": "t_dirt2" } ]
   },
   {
-    "id": "t_dirt_summer",
+    "id": "t_pit_summer",
     "fg": [ "t_pit" ],
     "bg": [ { "weight": 100, "sprite": "t_dirt_summer" }, { "weight": 100, "sprite": "t_dirt_summer2" } ]
   },
   {
-    "id": "t_dirt_autumn",
+    "id": "t_pit_autumn",
     "fg": [ "t_pit" ],
     "bg": [ { "weight": 100, "sprite": "t_dirt_autumn" }, { "weight": 100, "sprite": "t_dirt_autumn2" } ]
   }
