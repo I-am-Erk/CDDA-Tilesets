@@ -4,6 +4,7 @@
     "fg": [ "f_indoor_plant" ],
     "bg": [ ]
   },
+  {
     "id": "f_indoor_plant_y",
     "fg": [ "f_indoor_plant_y" ],
     "bg": [ ]
