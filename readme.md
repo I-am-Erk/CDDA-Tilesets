@@ -2,16 +2,14 @@ Ultimate Cataclysm (UltiCa) is a community made tileset for Cataclysm:dark days 
 
 Most of the development discussion and direction can be found on [Discord](https://discord.gg/kAXNZuy). This is a general summary.
 
-This repository stores individual sprites for UltiCa in PNG format, and also source files with layering in PSD (Photoshop) or XCF (gimp 2.10) format. These will then be compiled into a tileset using a python script maintained by mlangsdorf.
-
-![Current screenshot](./Ultimate_Cataclysm/screenshots/example_8oct2019.png)
-
-
 ## Installation:
 - Download the latest release (for example UltiCaDemo_2019-10-30.zip) from the [releases](https://github.com/I-am-Erk/CDDA-Tilesets/releases) page
 - Extract the zip folder after you downloaded it.
 - Put the UltimateCataclysm folder in your cataclysmdda\gfx folder. It should look like cataclysmdda\gfx\UltimateCataclysm.
 
+![Current screenshot](./Ultimate_Cataclysm/screenshots/example_8oct2019.png)
+
+This repository stores individual sprites for UltiCa in PNG format, and also source files with layering in PSD (Photoshop) or XCF (gimp 2.10) format. These will then be compiled into a tileset using a python script maintained by mlangsdorf.
 
 ## Style Guides
 - 32x32 tile base
