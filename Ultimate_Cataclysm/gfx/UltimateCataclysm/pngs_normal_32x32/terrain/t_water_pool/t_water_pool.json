@@ -1,5 +1,5 @@
 {
-  "id": "t_water_pool",
+  "id": [ "t_water_pool", "t_water_pool_shallow" ],
   "multitile": true,
   "fg": [
     "t_water_pool_unconnected"

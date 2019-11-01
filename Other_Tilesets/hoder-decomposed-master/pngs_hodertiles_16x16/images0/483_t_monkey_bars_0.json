@@ -1,1 +1,0 @@
-{"id": "t_monkey_bars", "fg": ["483_t_monkey_bars_0"], "bg": ["2_t_hole_1"], "multitile": true, "additional_tiles": [{"id": "center", "fg": ["483_t_monkey_bars_0"], "bg": ["2_t_hole_1"]}, {"id": "corner", "fg": ["484_t_monkey_bars_2"], "bg": ["2_t_hole_1"]}, {"id": "t_connection", "fg": ["485_t_monkey_bars_3"], "bg": ["2_t_hole_1"]}], "rotates": false}

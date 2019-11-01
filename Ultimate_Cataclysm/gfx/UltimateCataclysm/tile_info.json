@@ -23,7 +23,10 @@
     "incomplete.png": { "filler": true }
   },
   {
-    "fillerhoder.png": { "filler": true }
+    "fillerhoder.png": { 
+      "source": "https://github.com/CleverRaven/Cataclysm-DDA/tree/b2d1f9f6cf6fae9c5076d29f9779e0ca6c03c222/gfx/HoderTileset",
+      "filler": true 
+    }
   },
   {
     "fillerudp.png": { "filler": true }

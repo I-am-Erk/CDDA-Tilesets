@@ -1,1 +1,0 @@
-{"id": "t_slide", "fg": ["482_t_slide_0"], "bg": ["2_t_hole_1"], "multitile": true, "additional_tiles": [{"id": "edge", "fg": ["482_t_slide_0"], "bg": ["2_t_hole_1"]}, {"id": "end_piece", "fg": ["481_t_slide_2"], "bg": ["2_t_hole_1"]}], "rotates": false}
