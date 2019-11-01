@@ -37,7 +37,7 @@
       "id": "edge",
       "bg": [],
       "fg": [
-        "t_wall_glass_edge_ns",
+        "t_wall_glass_v4",
         "t_wall_glass_edge_ew"
       ]
     },
