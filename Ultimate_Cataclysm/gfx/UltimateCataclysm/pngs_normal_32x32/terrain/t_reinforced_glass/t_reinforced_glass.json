@@ -1,0 +1,62 @@
+{
+  "id": "t_reinforced_glass",
+  "multitile": true,
+  "fg": [
+    "t_reinforced_glass_unconnected"
+  ],
+  "bg": [],
+  "additional_tiles": [
+    {
+      "id": "center",
+      "bg": [],
+      "fg": [
+        "t_reinforced_glass_center"
+      ]
+    },
+    {
+      "id": "corner",
+      "bg": [],
+      "fg": [
+        "t_reinforced_glass_corner_nw",
+        "t_reinforced_glass_corner_sw",
+        "t_reinforced_glass_corner_se",
+        "t_reinforced_glass_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "bg": [],
+      "fg": [
+        "t_reinforced_glass_t_connection_n",
+        "t_reinforced_glass_t_connection_w",
+        "t_reinforced_glass_t_connection_s",
+        "t_reinforced_glass_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "bg": [],
+      "fg": [
+        "t_reinforced_glass_edge_ns",
+        "t_reinforced_glass_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "bg": [],
+      "fg": [
+        "t_reinforced_glass_end_piece_n",
+        "t_reinforced_glass_end_piece_w",
+        "t_reinforced_glass_end_piece_s",
+        "t_reinforced_glass_end_piece_e"
+      ]
+    },
+    {
+      "bg": [],
+      "id": "unconnected",
+      "fg": [
+        "t_reinforced_glass_unconnected"
+      ]
+    }
+  ]
+}
