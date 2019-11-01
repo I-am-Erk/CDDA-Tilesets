@@ -11,13 +11,7 @@
         "bg": [  ],
         "fg": [ "f_dumpster_end_n", "f_dumpster_end_w", "f_dumpster_end_s", "f_dumpster_end_e" ]
       },
-    {
-      "bg": [],
-      "id": "unconnected",
-      "fg": [
-        "f_dumpster_unconnected"
-      ]
-    }
+      { "bg": [  ], "id": "unconnected", "fg": [ "f_dumpster_unconnected" ] }
     ]
   }
 ]
