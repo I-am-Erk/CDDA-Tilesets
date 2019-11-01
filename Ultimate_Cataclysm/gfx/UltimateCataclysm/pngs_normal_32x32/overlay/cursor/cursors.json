@@ -10,8 +10,8 @@
     "bg": [ ]
   },
   {
-    "id": "highlight_items",
-    "fg": [ "highlight_items" ],
+    "id": "highlight_item",
+    "fg": [ "highlight_item" ],
     "bg": [ ]
   },
   {
