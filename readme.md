@@ -6,6 +6,13 @@ This repository stores individual sprites for UltiCa in PNG format, and also sou
 
 ![Current screenshot](./Ultimate_Cataclysm/screenshots/example_8oct2019.png)
 
+
+## Installation:
+- Download the latest release (for example UltiCaDemo_2019-10-30.zip) from the [releases](https://github.com/I-am-Erk/CDDA-Tilesets/releases) page
+- Extract the zip folder after you downloaded it.
+- Put the UltimateCataclysm folder in your cataclysmdda\gfx folder. It should look like cataclysmdda\gfx\UltimateCataclysm.
+
+
 ## Style Guides
 - 32x32 tile base
 - character and monster sprites 64x64 with 8px offset from the ground to give them a 3d look
