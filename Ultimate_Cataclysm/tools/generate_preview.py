@@ -8,13 +8,13 @@ Generate preview for wielded/worn, item and moster sprites.
 
 2. Generate wielded or worn preview:
 ./generate_preview.py -i ../gfx -o preview.png --scale 2
-                      --overlay jeans rebar
+                      --overlays jeans rebar
                       --overlay-skin dark
 
 3. Generate items preview with overlays (merge of --items and --overlay with the same id):
 ./generate_preview.py -i ../gfx -o preview.png --scale 2
-                      --overlay-with-items maid_hat maid_dress stocking
-                      --overlay-gender female --overlay-skin pink
+                      --overlays-with-items maid_hat maid_dress stocking
+                      --overlays-gender female --overlay-skin pink
 
 4. Generate monsters preview:
 ./generate_preview.py -i ../gfx -o preview.png --scale 2
@@ -24,8 +24,8 @@ Generate preview for wielded/worn, item and moster sprites.
 ./generate_preview.py -i ../gfx -o preview.png --scale 2
                       --monster mon_bee mon_ant
                       --items 2x4 stick scrap
-                      --overlay-with-items box_small box_medium box_large
-                      --overlay jumpsuit
+                      --overlays-with-items box_small box_medium box_large
+                      --overlays jumpsuit
 """
 
 import os
@@ -63,6 +63,25 @@ def parse_json_item(item):
         res = [[{'id': j, 'fg': str(Path(item.parent, f"{i['fg'][0]}.png")), 'w': w, 'h': h} for j in wrap(i['id'])] for i in raw]
         return flatten(res)
 
+
+def find_simple(db, id):
+    entry = next((i for i in db if i['id'] == id), None)
+    if entry:
+        return pyvips.Image.new_from_file(entry['fg'], access='sequential')
+    else:
+        return None
+
+
+def find_overlay(db, skin, gender, id):
+    entry = next((i for i in db if i['id'].startswith(f'overlay_{gender}') and i['id'].endswith('_' + id)), None)
+    if not entry:
+        entry = next((i for i in db if i['id'].startswith(f'overlay_') and i['id'].endswith('_' + id)), None)
+    if entry:
+        image = pyvips.Image.new_from_file(entry['fg'], access='sequential')
+        image = skin.composite2(image, "VIPS_BLEND_MODE_OVER")
+        return image
+    else:
+        return None
 
 def main():
     # args and args validation
@@ -158,12 +177,9 @@ def main():
         for chunk in chunks:
             arr = []
             for id in chunk:
-                entry = next((i for i in items if i['id'] == id), None)
-                if entry:
-                    image = pyvips.Image.new_from_file(entry['fg'], access='sequential')
-                    arr.append(image)
-                else:
-                    print(f'\033[93m  ⚠️  warning: item with id \"{id}\" does not exist in the tileset !\033[0m')
+                image = find_simple(items, id)
+                if image: arr.append(image)
+                else: print(f'\033[93m  ⚠️  warning: item with id \"{id}\" does not exist in the tileset !\033[0m')
             if arr:
                 layer_image = pyvips.Image.arrayjoin(arr, across=len(chunk))
                 layers.append(layer_image)
@@ -174,15 +190,9 @@ def main():
         for chunk in chunks:
             arr = []
             for id in chunk:
-                entry = next((i for i in overlays if i['id'].startswith(f'overlay_{args.overlay_gender}') and i['id'].endswith('_' + id)), None)
-                if not entry:
-                    entry = next((i for i in overlays if i['id'].startswith(f'overlay_') and i['id'].endswith('_' + id)), None)
-                if entry:
-                    image = pyvips.Image.new_from_file(entry['fg'], access='sequential')
-                    image = skin.composite2(image, "VIPS_BLEND_MODE_OVER")
-                    arr.append(image)
-                else:
-                    print(f'\033[93m  ⚠️  warning: overlay for id \"{id}\" does not exist in the tileset !\033[0m')
+                image = find_overlay(overlays, skin, args.overlay_gender, id)
+                if image: arr.append(image)
+                else: print(f'\033[93m  ⚠️  warning: overlay for id \"{id}\" does not exist in the tileset !\033[0m')
             if arr:
                 layer_image = pyvips.Image.arrayjoin(arr, across=len(chunk))
                 layers.append(layer_image)
@@ -193,22 +203,20 @@ def main():
         for chunk in chunks:
             arr = []
             for id in chunk:
-                entry = next((i for i in overlays if i['id'].startswith(f'overlay_{args.overlay_gender}') and i['id'].endswith('_' + id)), None)
-                if not entry:
-                    entry = next((i for i in overlays if i['id'].startswith(f'overlay_') and i['id'].endswith('_' + id)), None)
-                if entry:
-                    image = pyvips.Image.new_from_file(entry['fg'], access='sequential')
-                    image = skin.composite2(image, "VIPS_BLEND_MODE_OVER")
-                    arr.append(image)
-                else:
+                overlay_image = find_overlay(overlays, skin, args.overlay_gender, id)
+                if not overlay_image: 
                     print(f'\033[93m  ⚠️  warning: overlay for id \"{id}\" does not exist in the tileset !\033[0m')
-            for id in chunk:
-                entry = next((i for i in items if i['id'] == id), None)
-                if entry:
-                    image = pyvips.Image.new_from_file(entry['fg'], access='sequential')
-                    arr.append(image)
-                else:
+
+                item_image = find_simple(items, id)
+                if not item_image: 
                     print(f'\033[93m  ⚠️  warning: item with id \"{id}\" does not exist in the tileset !\033[0m')
+
+                if overlay_image and item_image:
+                    arr.append(pyvips.Image.arrayjoin([overlay_image, item_image], across=1))
+                elif overlay_image:
+                    arr.append(overlay_image)
+                elif item_image:
+                    arr.append(item_image)
             if arr:
                 layer_image = pyvips.Image.arrayjoin(arr, across=len(chunk))
                 layers.append(layer_image)
@@ -219,12 +227,9 @@ def main():
         for chunk in chunks:
             arr = []
             for id in chunk:
-                entry = next((i for i in monsters if i['id'] == id), None)
-                if entry:
-                    image = pyvips.Image.new_from_file(entry['fg'], access='sequential')
-                    arr.append(image)
-                else:
-                    print(f'\033[93m  ⚠️  warning: monster with id \"{id}\" does not exist in the tileset !\033[0m')
+                image = find_simple(monsters, id)
+                if image: arr.append(image)
+                else: print(f'\033[93m  ⚠️  warning: monster with id \"{id}\" does not exist in the tileset !\033[0m')
             if arr:
                 layer_image = pyvips.Image.arrayjoin(arr, across=len(chunk))
                 layers.append(layer_image)
