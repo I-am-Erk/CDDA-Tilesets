@@ -35,6 +35,7 @@ from pathlib import Path
 import pyvips
 import itertools
 import sys
+from functools import reduce
 from math import ceil
 
 def wrap(l):
@@ -54,6 +55,15 @@ def deep_empty(l):
         if not isinstance(item, list) or not deep_empty(item):
             return False
     return True
+
+
+def res_or_warn(fun, warn):
+    res = fun()
+    if res:
+        return res
+    else:
+        print(f'\033[93m  ⚠️  warning: {warn}\033[0m')
+        return None
 
 
 def map_fg(path, item):
@@ -76,7 +86,7 @@ def find_simple(db, id):
     entry = next((i for i in db if i['id'] == id), None)
     if entry:
         images = [pyvips.Image.new_from_file(x, access='sequential') for x in entry['fg']]
-        return pyvips.Image.arrayjoin(images)
+        return images
     else:
         return None
 
@@ -87,9 +97,24 @@ def find_overlay(db, skin, gender, id):
         entry = next((i for i in db if i['id'].startswith(f'overlay_') and i['id'].endswith('_' + id)), None)
     if entry:
         images = [skin.composite2(pyvips.Image.new_from_file(x, access='sequential'), "VIPS_BLEND_MODE_OVER") for x in entry['fg']]
-        return pyvips.Image.arrayjoin(images)
+        return images
     else:
         return None
+
+
+def pack_sprites(l, grid_size, fun):
+    chunks = chunked(l, grid_size)
+    layers = []
+    for chunk in chunks:
+        arr = []
+        for id in chunk:
+            res = fun(id)
+            if res:
+                arr.extend(res)
+        if arr:
+            out = reduce(lambda img, new: img.join(new, 'horizontal', expand=True, align='centre'), arr)
+            layers.append(out)
+    return layers
 
 
 def main():
@@ -181,70 +206,47 @@ def main():
 
     if conf['items']['ids']:
         print('\033[94m       items..')
-        chunks = chunked(conf['items']['ids'], args.grid_width)
-        for chunk in chunks:
-            arr = []
-            for id in chunk:
-                image = find_simple(items, id)
-                if image: arr.append(image)
-                else: print(f'\033[93m  ⚠️  warning: item with id \"{id}\" does not exist in the tileset !\033[0m')
-            if arr:
-                layer_image = pyvips.Image.arrayjoin(arr, across=len(chunk))
-                layers.append(layer_image)
+        layers.extend(pack_sprites(conf['items']['ids'], args.grid_width,
+                      lambda id: res_or_warn(lambda: find_simple(items, id), 
+                                             f"overlay for id \"{id}\" does not exist in the tileset !")))
 
     if conf['overlays']['ids']:
         print('\033[94m       overlays..')
-        chunks = chunked(conf['overlays']['ids'], args.grid_width)
-        for chunk in chunks:
-            arr = []
-            for id in chunk:
-                image = find_overlay(overlays, skin, args.overlay_gender, id)
-                if image: arr.append(image)
-                else: print(f'\033[93m  ⚠️  warning: overlay for id \"{id}\" does not exist in the tileset !\033[0m')
-            if arr:
-                layer_image = pyvips.Image.arrayjoin(arr, across=len(chunk))
-                layers.append(layer_image)
-
-    if conf['overitems']['ids']:
-        print('\033[94m       overlays with items..')
-        chunks = chunked(conf['overitems']['ids'], args.grid_width)
-        for chunk in chunks:
-            arr = []
-            for id in chunk:
-                overlay_image = find_overlay(overlays, skin, args.overlay_gender, id)
-                if not overlay_image: 
-                    print(f'\033[93m  ⚠️  warning: overlay for id \"{id}\" does not exist in the tileset !\033[0m')
-
-                item_image = find_simple(items, id)
-                if not item_image: 
-                    print(f'\033[93m  ⚠️  warning: item with id \"{id}\" does not exist in the tileset !\033[0m')
-
-                if overlay_image and item_image:
-                    arr.append(pyvips.Image.arrayjoin([overlay_image, item_image], across=1))
-                elif overlay_image:
-                    arr.append(overlay_image)
-                elif item_image:
-                    arr.append(item_image)
-            if arr:
-                layer_image = pyvips.Image.arrayjoin(arr, across=len(chunk))
-                layers.append(layer_image)
+        gender = args.overlay_gender
+        layers.extend(pack_sprites(conf['overlays']['ids'], args.grid_width,
+                      lambda id: res_or_warn(lambda: find_overlay(overlays, skin, gender, id), 
+                                             f"overlay for id \"{id}\" does not exist in the tileset !")))
 
     if conf['monsters']['ids']:
         print('\033[94m       monsters..')
-        chunks = chunked(conf['monsters']['ids'], args.grid_width)
-        for chunk in chunks:
-            arr = []
-            for id in chunk:
-                image = find_simple(monsters, id)
-                if image: arr.append(image)
-                else: print(f'\033[93m  ⚠️  warning: monster with id \"{id}\" does not exist in the tileset !\033[0m')
-            if arr:
-                layer_image = pyvips.Image.arrayjoin(arr, across=len(chunk))
-                layers.append(layer_image)
+        layers.extend(pack_sprites(conf['monsters']['ids'], args.grid_width,
+                      lambda id: res_or_warn(lambda: find_simple(monsters, id),
+                                             f"monster with id \"{id}\" does not exist in the tileset !")))
+
+    if conf['overitems']['ids']:
+        print('\033[94m       overlays with items..')
+        def _pack_overitem(id):
+            overlay_images = find_overlay(overlays, skin, args.overlay_gender, id)
+            if not overlay_images: 
+                print(f'\033[93m  ⚠️  warning: overlay for id \"{id}\" does not exist in the tileset !\033[0m')
+
+            item_images = find_simple(items, id)
+            if not item_images: 
+                print(f'\033[93m  ⚠️  warning: item with id \"{id}\" does not exist in the tileset !\033[0m')
+            if overlay_images and item_images:
+                image = pyvips.Image.arrayjoin(overlay_images)
+                image = image.join(pyvips.Image.arrayjoin(item_images), 'vertical')
+                return [image]
+            elif overlay_images:
+                return overlay_images
+            elif item_images:
+                return item_images
+
+        layers.extend(pack_sprites(conf['overitems']['ids'], args.grid_width, _pack_overitem))
 
     print('\033[94m       writing..\033[0m')
     if layers:
-        outimage = pyvips.Image.arrayjoin(layers, across=1, halign='centre', valign='centre')
+        outimage = reduce(lambda img, new: img.join(new, 'vertical', expand=True, align='centre'), layers)
         outimage = outimage.resize(args.scale, kernel='nearest')
         outimage.write_to_file(args.output)
     else:
