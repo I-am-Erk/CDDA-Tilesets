@@ -56,18 +56,27 @@ def deep_empty(l):
     return True
 
 
+def map_fg(path, item):
+    if type(item) is dict:
+        id = item["sprite"]
+    else:
+        id = item
+    return str(Path(path.parent, f"{id}.png"))
+
+
 def parse_json_item(item):
     with open(item) as f:
         raw = wrap(json.load(f))
         w, h = [x for x in item.parts if x.startswith('pngs_')][0].split('_')[-1].split('x')
-        res = [[{'id': j, 'fg': str(Path(item.parent, f"{i['fg'][0]}.png")), 'w': w, 'h': h} for j in wrap(i['id'])] for i in raw]
+        res = [[{'id': j, 'fg': list(map(lambda x: map_fg(item, x), i['fg'])), 'w': w, 'h': h} for j in wrap(i['id'])] for i in raw]
         return flatten(res)
 
 
 def find_simple(db, id):
     entry = next((i for i in db if i['id'] == id), None)
     if entry:
-        return pyvips.Image.new_from_file(entry['fg'], access='sequential')
+        images = [pyvips.Image.new_from_file(x, access='sequential') for x in entry['fg']]
+        return pyvips.Image.arrayjoin(images)
     else:
         return None
 
@@ -77,11 +86,11 @@ def find_overlay(db, skin, gender, id):
     if not entry:
         entry = next((i for i in db if i['id'].startswith(f'overlay_') and i['id'].endswith('_' + id)), None)
     if entry:
-        image = pyvips.Image.new_from_file(entry['fg'], access='sequential')
-        image = skin.composite2(image, "VIPS_BLEND_MODE_OVER")
-        return image
+        images = [skin.composite2(pyvips.Image.new_from_file(x, access='sequential'), "VIPS_BLEND_MODE_OVER") for x in entry['fg']]
+        return pyvips.Image.arrayjoin(images)
     else:
         return None
+
 
 def main():
     # args and args validation
@@ -118,7 +127,6 @@ def main():
     overlays = flatten([parse_json_item(f) for f in Path(args.input).rglob('overlay/**/*.json')])
     print('       collecting monsters..\033[0m')
     monsters = flatten([parse_json_item(f) for f in Path(args.input).rglob('monsters/**/*.json')])
-
 
     # configuration
     conf = {
