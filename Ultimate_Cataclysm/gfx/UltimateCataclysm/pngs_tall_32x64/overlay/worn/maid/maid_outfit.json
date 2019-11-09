@@ -1,0 +1,22 @@
+[
+  {
+    "id": "overlay_female_worn_maid_hat",
+    "fg": ["maid_hat_f"],
+    "bg": []
+  },
+  {
+    "id": "overlay_female_worn_maid_dress",
+    "fg": ["maid_dress_f"],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_worn_maid_hat",
+    "fg": ["maid_hat_m"],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_worn_maid_dress",
+    "fg": ["maid_dress_m"],
+    "bg": []
+  }
+]
