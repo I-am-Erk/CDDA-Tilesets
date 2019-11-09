@@ -1,0 +1,22 @@
+[
+    {
+      "id": "maid_hat",
+      "fg": ["maid_hat"],
+      "bg": []
+    },
+    {
+      "id": "maid_dress",
+      "fg": ["maid_dress"],
+      "bg": []
+    },
+    {
+      "id": "stockings",
+      "fg": ["stockings"],
+      "bg": []
+    },
+    {
+      "id": "dress_shoes",
+      "fg": ["dress_shoes"],
+      "bg": []
+    }
+]
