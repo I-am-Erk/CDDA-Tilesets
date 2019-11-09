@@ -1,0 +1,17 @@
+[
+  {
+    "id": "water",
+    "fg": [ "water" ],
+    "bg": [ ]
+  },
+  {
+    "id": "water_clean",
+    "fg": [ "water_clean" ],
+    "bg": [ ]
+  },
+  {
+    "id": "blood",
+    "fg": [ "blood" ],
+    "bg": [ ]
+  }
+]
