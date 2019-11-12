@@ -1,0 +1,22 @@
+[
+  {
+    "id": "mon_ant",
+    "fg": ["mon_ant"],
+    "bg": []
+  },
+  {
+    "id": "mon_ant_acid",
+    "fg": ["mon_ant_acid"],
+    "bg": []
+  },
+  {
+    "id": "corpse_mon_ant",
+    "fg": ["corpse_mon_ant"],
+    "bg": []
+  },
+  {
+    "id": "corpse_mon_ant_acid",
+    "fg": ["corpse_mon_ant_acid"],
+    "bg": []
+  }
+]
