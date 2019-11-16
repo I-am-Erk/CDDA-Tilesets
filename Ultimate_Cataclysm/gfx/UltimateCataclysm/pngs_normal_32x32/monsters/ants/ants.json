@@ -18,5 +18,25 @@
     "id": "corpse_mon_ant_acid",
     "fg": ["corpse_mon_ant_acid"],
     "bg": []
+  },
+  {
+    "id": "mon_ant_larva",
+    "fg": ["mon_ant_larva"],
+    "bg": []
+  },
+  {
+    "id": "mon_ant_acid_larva",
+    "fg": ["mon_ant_acid_larva"],
+    "bg": []
+  },
+  {
+    "id": "corpse_mon_ant_larva",
+    "fg": ["corpse_mon_ant_larva"],
+    "bg": []
+  },
+  {
+    "id": "corpse_mon_ant_acid_larva",
+    "fg": ["corpse_mon_ant_acid_larva"],
+    "bg": []
   }
 ]
