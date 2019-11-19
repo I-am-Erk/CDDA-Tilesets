@@ -1,0 +1,12 @@
+[
+  {
+    "id": "overlay_female_worn_mask_dust",
+    "fg": ["mask_dust_f"],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_worn_mask_dust",
+    "fg": ["mask_dust_m"],
+    "bg": []
+  }
+]
