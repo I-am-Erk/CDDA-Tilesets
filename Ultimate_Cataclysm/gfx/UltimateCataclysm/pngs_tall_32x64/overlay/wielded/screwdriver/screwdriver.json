@@ -1,0 +1,12 @@
+[
+  {
+    "id": "overlay_male_wielded_screwdriver",
+    "fg": [ "screwdriver_m" ],
+    "bg": []
+  },
+  {
+    "id": "overlay_female_wielded_screwdriver",
+    "fg": [ "screwdriver_f" ],
+    "bg": []
+  }
+]
