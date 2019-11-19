@@ -1,0 +1,32 @@
+[
+  {
+    "id": "overlay_wielded_corpse_mon_ant",
+    "fg": ["mon_ant_mf"],
+    "bg": []
+  },
+  {
+    "id": "overlay_wielded_corpse_mon_ant_soldier",
+    "fg": ["mon_ant_mf"],
+    "bg": []
+  },
+  {
+    "id": "overlay_wielded_corpse_mon_ant_queen",
+    "fg": ["mon_ant_mf"],
+    "bg": []
+  },
+  {
+    "id": "overlay_wielded_corpse_mon_ant_acid",
+    "fg": ["mon_ant_acid_mf"],
+    "bg": []
+  },
+  {
+    "id": "overlay_wielded_corpse_mon_ant_acid_soldier",
+    "fg": ["mon_ant_acid_mf"],
+    "bg": []
+  },
+  {
+    "id": "overlay_wielded_corpse_mon_ant_acid_queen",
+    "fg": ["mon_ant_acid_mf"],
+    "bg": []
+  }
+]
