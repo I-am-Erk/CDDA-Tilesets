@@ -1,0 +1,8 @@
+{
+  "id": "mon_zombie_child",
+  "fg": [
+    { "weight": 1, "sprite": "mon_zombie_child_1" },
+    { "weight": 1, "sprite": "mon_zombie_child_2" }
+  ],
+  "bg": []
+}
