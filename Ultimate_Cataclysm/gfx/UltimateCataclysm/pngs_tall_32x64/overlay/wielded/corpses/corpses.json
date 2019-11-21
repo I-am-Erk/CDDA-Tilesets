@@ -5,7 +5,7 @@
     "bg": []
   },
   {
-    "id": "overlay_wielded_corpse_mon_ant_acid", "overlay_wielded_corpse_mon_ant_acid_soldier", "overlay_wielded_corpse_mon_ant_acid_queen"],
+    "id": ["overlay_wielded_corpse_mon_ant_acid", "overlay_wielded_corpse_mon_ant_acid_soldier", "overlay_wielded_corpse_mon_ant_acid_queen"],
     "fg": ["mon_ant_acid_mf"],
     "bg": []
   },
