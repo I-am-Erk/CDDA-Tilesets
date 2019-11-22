@@ -1,0 +1,184 @@
+[
+  {
+    "id": "novel_adventure",
+    "fg": [
+      "novel_adventure"
+    ],
+    "bg": []
+  },
+  {
+    "id": "novel_buddy",
+    "fg": [
+      "novel_buddy"
+    ],
+    "bg": []
+  },
+  {
+    "id": "novel_coa",
+    "fg": [
+      "novel_coa"
+    ],
+    "bg": []
+  },
+  {
+    "id": "novel_coa2",
+    "fg": [
+      "novel_coa2"
+    ],
+    "bg": []
+  },
+  {
+    "id": "novel_crime",
+    "fg": [
+      "novel_crime"
+    ],
+    "bg": []
+  },
+  {
+    "id": "novel_crime2",
+    "fg": [
+      "novel_crime2"
+    ],
+    "bg": []
+  },
+  {
+    "id": "novel_drama",
+    "fg": [
+      "novel_drama"
+    ],
+    "bg": []
+  },
+  {
+    "id": "novel_erotic",
+    "fg": [
+      "novel_erotic"
+    ],
+    "bg": []
+  },
+  {
+    "id": "novel_experimental",
+    "fg": [
+      "novel_experimental"
+    ],
+    "bg": []
+  },
+  {
+    "id": "novel_fantasy",
+    "fg": [
+      "novel_fantasy"
+    ],
+    "bg": []
+  },
+  {
+    "id": "novel_horror",
+    "fg": [
+      "novel_horror"
+    ],
+    "bg": []
+  },
+  {
+    "id": "novel_mystery",
+    "fg": [
+      "novel_mystery"
+    ],
+    "bg": []
+  },
+  {
+    "id": "novel_pulp",
+    "fg": [
+      "novel_pulp"
+    ],
+    "bg": []
+  },
+  {
+    "id": "novel_road",
+    "fg": [
+      "novel_road"
+    ],
+    "bg": []
+  },
+  {
+    "id": "novel_romance",
+    "fg": [
+      "novel_romance"
+    ],
+    "bg": []
+  },
+  {
+    "id": "novel_samurai",
+    "fg": [
+      "novel_samurai"
+    ],
+    "bg": []
+  },
+  {
+    "id": "novel_satire",
+    "fg": [
+      "novel_satire"
+    ],
+    "bg": []
+  },
+  {
+    "id": "novel_scifi",
+    "fg": [
+      "novel_scifi"
+    ],
+    "bg": []
+  },
+  {
+    "id": "novel_sports",
+    "fg": [
+      "novel_sports"
+    ],
+    "bg": []
+  },
+  {
+    "id": "novel_spy",
+    "fg": [
+      "novel_spy"
+    ],
+    "bg": []
+  },
+  {
+    "id": "novel_swash",
+    "fg": [
+      "novel_swash"
+    ],
+    "bg": []
+  },
+  {
+    "id": "novel_thriller",
+    "fg": [
+      "novel_thriller"
+    ],
+    "bg": []
+  },
+  {
+    "id": "novel_tragedy",
+    "fg": [
+      "novel_tragedy"
+    ],
+    "bg": []
+  },
+  {
+    "id": "novel_war",
+    "fg": [
+      "novel_war"
+    ],
+    "bg": []
+  },
+  {
+    "id": "novel_war2",
+    "fg": [
+      "novel_war2"
+    ],
+    "bg": []
+  },
+  {
+    "id": "novel_western",
+    "fg": [
+      "novel_western"
+    ],
+    "bg": []
+  }
+]
