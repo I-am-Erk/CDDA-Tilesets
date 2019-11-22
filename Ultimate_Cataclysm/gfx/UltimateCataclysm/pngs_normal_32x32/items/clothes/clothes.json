@@ -18,5 +18,15 @@
       "id": "dress_shoes",
       "fg": ["dress_shoes"],
       "bg": []
+    },
+    {
+      "id": "bra",
+      "fg": ["bra"],
+      "bg": []
+    },
+    {
+      "id": "panties",
+      "fg": ["panties"],
+      "bg": []
     }
 ]
