@@ -1,0 +1,37 @@
+[
+  {
+    "id": "many_years_old_newspaper",
+    "fg": [
+      "many_years_old_newspaper"
+    ],
+    "bg": []
+  },
+  {
+    "id": "months_old_newspaper",
+    "fg": [
+      "months_old_newspaper"
+    ],
+    "bg": []
+  },
+  {
+    "id": "newest_newspaper",
+    "fg": [
+      "newest_newspaper"
+    ],
+    "bg": []
+  },
+  {
+    "id": "one_year_old_newspaper",
+    "fg": [
+      "one_year_old_newspaper"
+    ],
+    "bg": []
+  },
+  {
+    "id": "weeks_old_newspaper",
+    "fg": [
+      "weeks_old_newspaper"
+    ],
+    "bg": []
+  }
+]
