@@ -1,0 +1,12 @@
+[
+  {
+    "id": "overlay_male_wielded_pillow",
+    "fg": ["pillow_m"],
+    "bg": []
+  },
+  {
+    "id": "overlay_female_wielded_pillow",
+    "fg": ["pillow_f"],
+    "bg": []
+  }
+]
