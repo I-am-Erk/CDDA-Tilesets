@@ -28,5 +28,20 @@
       "id": "panties",
       "fg": ["panties"],
       "bg": []
-    }
+    },
+  {
+    "id": "hat_knit",
+    "fg": ["hat_knit"],
+    "bg": []
+  },
+  {
+    "id": "hoodie",
+    "fg": ["hoodie"],
+    "bg": []
+  },
+  {
+    "id": "mask_dust",
+    "fg": ["mask_dust"],
+    "bg": []
+  }
 ]
