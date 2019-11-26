@@ -54,5 +54,12 @@
       "tomato"
     ],
     "bg": []
+  },
+  {
+    "id": "egg_bird",
+    "fg": [
+      "egg_bird"
+    ],
+    "bg": []
   }
 ]
