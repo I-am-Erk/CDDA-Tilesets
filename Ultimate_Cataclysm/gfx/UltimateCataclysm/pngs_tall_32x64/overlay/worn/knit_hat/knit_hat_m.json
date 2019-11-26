@@ -1,5 +1,5 @@
 {
-  "id": "overlay_male_worn_knit_hat",
-  "fg": ["knit_hat_m"],
+  "id": "overlay_male_worn_hat_knit",
+  "fg": ["hat_knit_m"],
   "bg": []
 }
