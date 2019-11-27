@@ -1,0 +1,23 @@
+[
+  {
+    "id": "aspirin",
+    "fg": [
+      "aspirin"
+    ],
+    "bg": []
+  },
+  {
+    "id": "bandages",
+    "fg": [
+      "bandages"
+    ],
+    "bg": []
+  },
+  {
+    "id": "syringe",
+    "fg": [
+      "syringe"
+    ],
+    "bg": []
+  }
+]
