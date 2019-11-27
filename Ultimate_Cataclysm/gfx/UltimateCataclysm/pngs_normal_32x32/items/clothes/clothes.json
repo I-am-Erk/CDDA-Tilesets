@@ -46,16 +46,17 @@
   },
   {
     "id": "longshirt",
-    "fg": [
-      "longshirt"
-    ],
+    "fg": ["longshirt"],
     "bg": []
   },
   {
     "id": "sneakers",
-    "fg": [
-      "sneakers"
-    ],
+    "fg": ["sneakers"],
+    "bg": []
+  },
+  {
+    "id": "undershirt",
+    "fg": ["undershirt"],
     "bg": []
   }
 ]
