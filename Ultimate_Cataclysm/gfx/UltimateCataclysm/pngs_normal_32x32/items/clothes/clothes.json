@@ -43,5 +43,19 @@
     "id": "mask_dust",
     "fg": ["mask_dust"],
     "bg": []
+  },
+  {
+    "id": "longshirt",
+    "fg": [
+      "longshirt"
+    ],
+    "bg": []
+  },
+  {
+    "id": "sneakers",
+    "fg": [
+      "sneakers"
+    ],
+    "bg": []
   }
 ]

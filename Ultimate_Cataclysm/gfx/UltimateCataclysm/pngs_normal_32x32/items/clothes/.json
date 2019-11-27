@@ -1,0 +1,16 @@
+[
+  {
+    "id": "longshirt",
+    "fg": [
+      "longshirt"
+    ],
+    "bg": []
+  },
+  {
+    "id": "sneakers",
+    "fg": [
+      "sneakers"
+    ],
+    "bg": []
+  }
+]
