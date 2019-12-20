@@ -13,5 +13,15 @@
     "id": "mon_zombie_dog",
     "fg": ["mon_zombie_dog"],
     "bg": []
+  },
+  {
+    "id": "mon_dog_beagle",
+    "fg": ["mon_dog_beagle"],
+    "bg": []
+  },
+  {
+    "id": "mon_dog_gshepherd",
+    "fg": ["mon_dog_gshepherd"],
+    "bg": []
   }
 ]
