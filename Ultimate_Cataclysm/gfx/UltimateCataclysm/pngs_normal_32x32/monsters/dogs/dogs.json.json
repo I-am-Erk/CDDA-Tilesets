@@ -1,0 +1,17 @@
+[
+  {
+    "id": "mon_dog",
+    "fg": ["mon_dog"],
+    "bg": []
+  },
+  {
+    "id": "mon_dog_skeleton",
+    "fg": ["mon_dog_skeleton"],
+    "bg": []
+  },
+  {
+    "id": "mon_zombie_dog",
+    "fg": ["mon_zombie_dog"],
+    "bg": []
+  }
+]
