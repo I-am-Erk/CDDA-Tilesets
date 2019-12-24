@@ -26,6 +26,7 @@
     "id": "mon_dog_gshepherd",
     "fg": ["mon_dog_gshepherd"],
     "bg": []
+  },
   {
     "id": "mon_dog_boxer",
     "fg": ["mon_dog_boxer"],
