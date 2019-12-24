@@ -11,7 +11,10 @@
   },
   {
     "id": "mon_zombie_dog",
-    "fg": ["mon_zombie_dog"],
+    "fg": [
+      { "weight": 1, "sprite": "mon_zombie_dog" },
+      { "weight": 1, "sprite": "mon_zombie_dog_2" }
+    ],
     "bg": []
   },
   {
@@ -22,6 +25,10 @@
   {
     "id": "mon_dog_gshepherd",
     "fg": ["mon_dog_gshepherd"],
+    "bg": []
+  {
+    "id": "mon_dog_boxer",
+    "fg": ["mon_dog_boxer"],
     "bg": []
   }
 ]
