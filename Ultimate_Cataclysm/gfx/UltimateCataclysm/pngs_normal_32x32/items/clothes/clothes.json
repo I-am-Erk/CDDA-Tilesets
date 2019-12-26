@@ -58,5 +58,15 @@
     "id": "undershirt",
     "fg": ["undershirt"],
     "bg": []
+  },
+  {
+    "id": "boy_shorts",
+    "fg": ["boy_shorts"],
+    "bg": []
+  },
+  {
+    "id": "boxer_shorts",
+    "fg": ["boxer_shorts"],
+    "bg": []
   }
 ]
