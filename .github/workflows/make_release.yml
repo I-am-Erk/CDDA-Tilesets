@@ -1,0 +1,68 @@
+# Creates a release using compose.py from https://github.com/CleverRaven/Cataclysm-DDA
+#
+# This action is triggerd by pushing any tag starting with v (e.g. v1.0.1 or v3.D)
+#
+# The release archive will be named using the version number from the tag (e.g. UltimateCataclysm-1.0)
+
+on:
+  push:
+    tags:
+    - 'v*'
+
+name: Make Release
+
+jobs:
+  build:
+    name: Make Release
+    runs-on: ubuntu-latest
+    container: alpine:3.11
+    steps:
+      - name: Install Dependencies
+        run: |
+          apk add --no-cache musl-dev gcc vips-dev python3-dev curl zip
+          pip3 install pyvips
+
+      - name: Checkout Code
+        uses: actions/checkout@master
+
+      - name: Build
+        id: build
+        run: |
+          curl https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/compose.py -O
+
+          cd Ultimate_Cataclysm
+          python3 ../compose.py UltimateCataclysm
+          cd ..
+
+          release_name=UltimateCataclysm-$(basename $GITHUB_REF | cut -c 2-)
+          tileset_dir=Ultimate_Cataclysm/gfx/UltimateCataclysm
+
+          mkdir $release_name
+          mv $tileset_dir/*.png            $release_name
+          mv $tileset_dir/tile_config.json $release_name
+          mv $tileset_dir/tileset.txt      $release_name
+
+          zip -r $release_name.zip $release_name
+
+          echo ::set-output name=release_name::$release_name
+
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1.0.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ github.ref }}
+          release_name: Ultimate Cataclysm ${{ github.ref }}
+          draft: false
+          prerelease: false
+
+      - name: Upload Release Asset
+        uses: actions/upload-release-asset@v1.0.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./${{ steps.build.outputs.release_name }}.zip
+          asset_name: ${{ steps.build.outputs.release_name }}.zip
+          asset_content_type: application/zip
