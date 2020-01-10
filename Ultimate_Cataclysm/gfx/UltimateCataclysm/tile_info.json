@@ -27,37 +27,7 @@
       "source": "https://github.com/CleverRaven/Cataclysm-DDA/tree/b2d1f9f6cf6fae9c5076d29f9779e0ca6c03c222/gfx/HoderTileset",
       "filler": true 
     }
-  },
-  {
-    "fillerudp.png": { "filler": true }
-  },
-  {
-    "fillerudpbig.png": {
-      "filler": true,
-      "sprite_offset_x": -16,
-      "sprite_offset_y": -16,
-      "sprite_height": 48,
-      "sprite_width": 64
-    }
-  },
-  { 
-    "fillerudplarge.png": { 
-      "filler": true,
-      "sprite_offset_x": -16,
-      "sprite_offset_y": -48,
-      "sprite_height": 80,
-      "sprite_width": 64
-    }
-  },
-  { 
-    "fillerudphuge.png": {
-      "filler": true,
-      "sprite_offset_x": -48,
-      "sprite_offset_y": -48,
-      "sprite_height": 128,
-      "sprite_width": 160
-    }
-  },
+  }
   {
     "fallback.png": {
       "source": "https://github.com/Chezzo/Cataclysm-DDA/blob/0ca0b5307f1b2fab7edb5519a3176e1d887087a7/gfx/ChestHole32Tileset/fallback.png",
