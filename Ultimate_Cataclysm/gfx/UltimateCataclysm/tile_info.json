@@ -27,7 +27,7 @@
       "source": "https://github.com/CleverRaven/Cataclysm-DDA/tree/b2d1f9f6cf6fae9c5076d29f9779e0ca6c03c222/gfx/HoderTileset",
       "filler": true 
     }
-  }
+  },
   {
     "fallback.png": {
       "source": "https://github.com/Chezzo/Cataclysm-DDA/blob/0ca0b5307f1b2fab7edb5519a3176e1d887087a7/gfx/ChestHole32Tileset/fallback.png",
