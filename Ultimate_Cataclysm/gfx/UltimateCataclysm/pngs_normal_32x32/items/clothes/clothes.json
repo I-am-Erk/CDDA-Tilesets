@@ -68,5 +68,45 @@
     "id": "boxer_shorts",
     "fg": ["boxer_shorts"],
     "bg": []
+  },
+  {
+    "id": "boots",
+    "fg": ["boots"],
+    "bg": []
+  },
+  {
+    "id": "hat_cotton",
+    "fg": ["hat_cotton"],
+    "bg": []
+  },
+  {
+    "id": "jeans",
+    "fg": ["jeans"],
+    "bg": []
+  },
+  {
+    "id": "pants",
+    "fg": ["pants"],
+    "bg": []
+  },
+  {
+    "id": "pants_cargo",
+    "fg": ["pants_cargo"],
+    "bg": []
+  },
+  {
+    "id": "socks",
+    "fg": ["socks"],
+    "bg": []
+  },
+  {
+    "id": "tank_top",
+    "fg": ["tank_top"],
+    "bg": []
+  },
+  {
+    "id": "tshirt",
+    "fg": ["tshirt"],
+    "bg": []
   }
 ]
