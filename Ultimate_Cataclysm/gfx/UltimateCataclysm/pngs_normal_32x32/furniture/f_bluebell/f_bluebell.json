@@ -1,0 +1,8 @@
+{
+  "id": "f_bluebell",
+  "fg": [
+    { "weight": 1, "sprite": "f_bluebell_1" },
+    { "weight": 2, "sprite": "f_bluebell_2" }
+  ],
+  "bg": []
+}
