@@ -1,0 +1,8 @@
+{
+  "id": "f_dahlia",
+  "fg": [
+    { "weight": 1, "sprite": "f_dahlia_1" },
+    { "weight": 2, "sprite": "f_dahlia_2" }
+  ],
+  "bg": []
+}
