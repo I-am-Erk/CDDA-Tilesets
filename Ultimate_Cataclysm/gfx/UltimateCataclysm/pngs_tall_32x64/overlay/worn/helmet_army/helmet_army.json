@@ -1,0 +1,16 @@
+[
+  {
+    "id": "overlay_female_worn_helmet_army",
+    "fg": [
+      "helmet_army_f"
+    ],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_worn_helmet_army",
+    "fg": [
+      "helmet_army_m"
+    ],
+    "bg": []
+  }
+]
