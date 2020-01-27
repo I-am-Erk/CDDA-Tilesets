@@ -62,69 +62,7 @@
     ]
   },
   {
-    "id": "t_grass_dead",
-    "multitile": true,
-    "fg": [ "t_grass_dead_unconnected" ],
-    "bg": [ "t_dirt_summer" ],
-    "additional_tiles": [
-      { "id": "center", "bg": [ "t_dirt_summer" ], "fg": [ "t_grass_dead_center" ] },
-      {
-        "id": "corner",
-        "bg": [ "t_dirt_summer" ],
-        "fg": [ "t_grass_dead_corner_nw", "t_grass_dead_corner_sw", "t_grass_dead_corner_se", "t_grass_dead_corner_ne" ]
-      },
-      {
-        "id": "t_connection",
-        "bg": [ "t_dirt_summer" ],
-        "fg": [
-          "t_grass_dead_t_connection_n",
-          "t_grass_dead_t_connection_w",
-          "t_grass_dead_t_connection_s",
-          "t_grass_dead_t_connection_e"
-        ]
-      },
-      { "id": "edge", "bg": [ "t_dirt_summer" ], "fg": [ "t_grass_dead_edge_ns", "t_grass_dead_edge_ew" ] },
-      {
-        "id": "end_piece",
-        "bg": [ "t_dirt_summer" ],
-        "fg": [ "t_grass_dead_end_piece_n", "t_grass_dead_end_piece_w", "t_grass_dead_end_piece_s", "t_grass_dead_end_piece_e" ]
-      },
-      { "bg": [ "t_dirt_summer" ], "id": "unconnected", "fg": [ "t_grass_dead_unconnected" ] }
-    ]
-  },
-  {
     "id": "t_grass_dead_season_autumn",
-    "multitile": true,
-    "fg": [ "t_grass_dead_unconnected" ],
-    "bg": [ "t_dirt_autumn" ],
-    "additional_tiles": [
-      { "id": "center", "bg": [ "t_dirt_autumn" ], "fg": [ "t_grass_dead_center" ] },
-      {
-        "id": "corner",
-        "bg": [ "t_dirt_autumn" ],
-        "fg": [ "t_grass_dead_corner_nw", "t_grass_dead_corner_sw", "t_grass_dead_corner_se", "t_grass_dead_corner_ne" ]
-      },
-      {
-        "id": "t_connection",
-        "bg": [ "t_dirt_autumn" ],
-        "fg": [
-          "t_grass_dead_t_connection_n",
-          "t_grass_dead_t_connection_w",
-          "t_grass_dead_t_connection_s",
-          "t_grass_dead_t_connection_e"
-        ]
-      },
-      { "id": "edge", "bg": [ "t_dirt_autumn" ], "fg": [ "t_grass_dead_edge_ns", "t_grass_dead_edge_ew" ] },
-      {
-        "id": "end_piece",
-        "bg": [ "t_dirt_autumn" ],
-        "fg": [ "t_grass_dead_end_piece_n", "t_grass_dead_end_piece_w", "t_grass_dead_end_piece_s", "t_grass_dead_end_piece_e" ]
-      },
-      { "bg": [ "t_dirt_autumn" ], "id": "unconnected", "fg": [ "t_grass_dead_unconnected" ] }
-    ]
-  },
-  {
-    "id": "t_grass_dead",
     "multitile": true,
     "fg": [ "t_grass_dead_unconnected" ],
     "bg": [ "t_dirt_autumn" ],
