@@ -1,0 +1,5 @@
+{
+  "id": ["t_window_boarded", "t_window_boarded_noglass"],
+  "fg": ["t_window_boarded"],
+  "bg": ["t_window"]
+}

@@ -1,0 +1,6 @@
+{
+  "id": "t_trunk",
+  "multitile": true,
+  "fg": ["t_trunk_ns", "t_trunk_ew"],
+  "bg": [ { "weight": 100, "sprite": "t_dirt" }, { "weight": 100, "sprite": "t_dirt2" } ]
+}
