@@ -108,5 +108,20 @@
     "id": "tshirt",
     "fg": ["tshirt"],
     "bg": []
+  },
+  {
+    "id": "beret",
+    "fg": ["beret"],
+    "bg": []
+  },
+  {
+    "id": "helmet_army",
+    "fg": ["helmet_army"],
+    "bg": []
+  },
+  {
+    "id": "balclava",
+    "fg": ["balclava"],
+    "bg": []
   }
 ]
