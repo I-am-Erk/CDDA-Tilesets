@@ -138,5 +138,10 @@
     "id": "helmet_barbute",
     "fg": ["helmet_barbute"],
     "bg": []
+  },
+  {
+    "id": "helmet_chitin",
+    "fg": ["helmet_chitin"],
+    "bg": []
   }
 ]
