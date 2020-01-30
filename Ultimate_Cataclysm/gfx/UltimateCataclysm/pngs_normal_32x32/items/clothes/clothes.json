@@ -133,5 +133,10 @@
     "id": "hat_ball",
     "fg": ["hat_ball"],
     "bg": []
+  },
+  {
+    "id": "helmet_barbute",
+    "fg": ["helmet_barbute"],
+    "bg": []
   }
 ]
