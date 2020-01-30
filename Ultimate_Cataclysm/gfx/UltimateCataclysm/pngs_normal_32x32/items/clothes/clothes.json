@@ -128,5 +128,10 @@
     "id": "helmet_kabuto",
     "fg": ["helmet_kabuto"],
     "bg": []
+  },
+  {
+    "id": "hat_ball",
+    "fg": ["hat_ball"],
+    "bg": []
   }
 ]
