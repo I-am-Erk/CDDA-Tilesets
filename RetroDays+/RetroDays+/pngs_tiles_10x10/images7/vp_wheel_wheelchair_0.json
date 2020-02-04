@@ -1,0 +1,1 @@
+{"id": "vp_wheel_wheelchair", "fg": ["2306_vp_wheel_wheelchair_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["2305_vp_wheel_bicycle_steerable_1"], "bg": []}], "bg": []}

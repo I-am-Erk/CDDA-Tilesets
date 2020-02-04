@@ -1,0 +1,1 @@
+{"id": ["vp_horn_car", "vp_horn_big", "vp_beeper", "vp_chimes"], "fg": ["2340_vp_horn_car_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["155_vp_cargo_bag_1"], "bg": []}], "bg": []}
