@@ -1,5 +1,12 @@
 [
   {
+    "id": "paperback_novel",
+    "fg": [
+      "novel_adventure"
+    ],
+    "bg": []
+  },
+  {
     "id": "novel_adventure",
     "fg": [
       "novel_adventure"
