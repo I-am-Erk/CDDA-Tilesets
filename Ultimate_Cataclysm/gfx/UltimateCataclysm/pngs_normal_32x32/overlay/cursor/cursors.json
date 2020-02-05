@@ -23,5 +23,10 @@
     "id": "line_trail",
     "fg": [ "line_trail" ],
     "bg": [ ]
+  },
+  {
+    "id": "animation_line",
+    "fg": [ "animation_line" ],
+    "bg": [ ]
   }
 ]
