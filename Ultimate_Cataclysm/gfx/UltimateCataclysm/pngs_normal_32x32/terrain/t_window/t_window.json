@@ -1,5 +1,12 @@
-{
+[
+  {
   "id": "t_window",
   "fg": ["t_window"],
   "bg": []
+},
+  {
+  "id": "t_window_empty",
+  "fg": ["t_window_empty"],
+  "bg": []
 }
+]
