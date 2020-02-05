@@ -1,0 +1,10 @@
+[
+  {
+    "id": "t_elevator",
+    "fg": [
+      { "weight": 100, "sprite": "t_elevator1" },
+      { "weight": 100, "sprite": "t_elevator2" }
+    ],
+    "bg": [ ]
+  }
+]
