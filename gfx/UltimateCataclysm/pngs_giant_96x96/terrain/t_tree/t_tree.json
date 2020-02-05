@@ -1,0 +1,33 @@
+[
+  {
+    "id": "t_tree",
+    "fg": [
+      { "weight": 100, "sprite": "t_tree_dead" },
+      { "weight": 100, "sprite": "t_tree_dead2" },
+      { "weight": 100, "sprite": "t_tree_dead3" },
+      { "weight": 100, "sprite": "t_tree_dead4" }
+    ],
+    "bg": [  ]
+  },
+  {
+    "id": "t_tree_season_summer",
+    "fg": [
+      { "weight": 100, "sprite": "t_tree" },
+      { "weight": 100, "sprite": "t_tree2" },
+      { "weight": 100, "sprite": "t_tree3" },
+      { "weight": 100, "sprite": "t_tree4" }
+    ],
+    "bg": [  ]
+  },
+  {
+    "id": "t_tree_season_autumn",
+    "fg": [
+      { "weight": 100, "sprite": "t_tree_season_autumn" },
+      { "weight": 100, "sprite": "t_tree_season_autumn2" },
+      { "weight": 100, "sprite": "t_tree_season_autumn3" },
+      { "weight": 100, "sprite": "t_tree_season_autumn4" }
+    ],
+    "bg": [  ],
+    "rotates": false
+  }
+]

@@ -28,14 +28,15 @@ jobs:
       - name: Build
         id: build
         run: |
+          mkdir build && cd build
           wget https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/compose.py
 
-          cd Ultimate_Cataclysm
-          python3 ../compose.py UltimateCataclysm
           cd ..
+          python3 build/compose.py UltimateCataclysm
+          cd build
 
           release_name=UltimateCataclysm-$(basename $GITHUB_REF | cut -c 2-)
-          tileset_dir=Ultimate_Cataclysm/gfx/UltimateCataclysm
+          tileset_dir=../gfx/UltimateCataclysm
 
           mkdir $release_name
           mv $tileset_dir/*.png            $release_name
@@ -63,6 +64,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./${{ steps.build.outputs.release_name }}.zip
+          asset_path: build/${{ steps.build.outputs.release_name }}.zip
           asset_name: ${{ steps.build.outputs.release_name }}.zip
           asset_content_type: application/zip
