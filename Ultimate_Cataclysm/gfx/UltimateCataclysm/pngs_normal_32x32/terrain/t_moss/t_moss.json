@@ -1,13 +1,12 @@
 [
-{
-  "id": "t_moss",
-  "fg": [ "t_moss" ],
-  "bg": [ ]
-},
+  {
+    "id": "t_moss",
+    "fg": [ "t_moss" ],
+    "bg": [  ]
+  },
   {
     "id": "t_moss_season_winter",
     "fg": [ "snow_deep" ],
-	"bg": [ ]
-  ]
+    "bg": [  ]
   }
-  ]
+]
