@@ -5,7 +5,7 @@
     "fg": [ "f_dumpster_unconnected" ],
     "bg": [  ],
     "additional_tiles": [
-      { "id": "edge", "bg": [  ], "fg": [ "f_dumpster_edge_ns", "f_dumpster_edge_we" ] },
+      { "id": "edge", "bg": [  ], "fg": [ "f_dumpster_edge_ns", "f_dumpster_edge_ew" ] },
       {
         "id": "end_piece",
         "bg": [  ],
