@@ -14,9 +14,9 @@
     "fg": [ "t_stump" ],
     "bg": [ "t_dirt_autumn" ]
   },
-{
-  "id": "t_stump_season_winter",
-  "fg": ["t_stump"],
-  "bg": ["snow_deep"]
-}
+  {
+    "id": "t_stump_season_winter",
+    "fg": [ "t_stump" ],
+    "bg": [ "snow_deep" ]
+  }
 ]

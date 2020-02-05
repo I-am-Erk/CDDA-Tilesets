@@ -1,15 +1,17 @@
-[{
-  "id": "t_railroad_rubble",
-  "fg": ["t_railroad_rubble"],
-  "bg": []
-},{
-  "id": "t_gravel",
-  "fg": ["t_railroad_rubble"],
-  "bg": []
-},
+[
+  {
+    "id": "t_railroad_rubble",
+    "fg": [ "t_railroad_rubble" ],
+    "bg": [  ]
+  },
+  {
+    "id": "t_gravel",
+    "fg": [ "t_railroad_rubble" ],
+    "bg": [  ]
+  },
   {
     "id": "t_railroad_rubble_season_winter",
     "fg": [ "snow_shallow" ],
-	"bg": [ ]
-  ]
-  }]
+    "bg": [  ]
+  }
+]

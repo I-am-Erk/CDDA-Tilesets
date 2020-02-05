@@ -17,7 +17,6 @@
   {
     "id": "t_shrub_season_winter",
     "fg": [ "t_shrub_winter" ],
-    "bg": [ "t_dirt" ],
-    "rotates": false
+    "bg": [ "snow_deep" ]
   }
 ]
