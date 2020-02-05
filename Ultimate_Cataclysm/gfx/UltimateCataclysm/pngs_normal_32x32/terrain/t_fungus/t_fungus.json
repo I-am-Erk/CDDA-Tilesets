@@ -40,23 +40,13 @@
       {
         "id": "t_connection",
         "bg": [ "t_dirt_summer" ],
-        "fg": [
-          "t_fungus_t_connection_n",
-          "t_fungus_t_connection_w",
-          "t_fungus_t_connection_s",
-          "t_fungus_t_connection_e"
-        ]
+        "fg": [ "t_fungus_t_connection_n", "t_fungus_t_connection_w", "t_fungus_t_connection_s", "t_fungus_t_connection_e" ]
       },
       { "id": "edge", "bg": [ "t_dirt_summer" ], "fg": [ "t_fungus_edge_ns", "t_fungus_edge_ew" ] },
       {
         "id": "end_piece",
         "bg": [ "t_dirt_summer" ],
-        "fg": [
-          "t_fungus_end_piece_n",
-          "t_fungus_end_piece_w",
-          "t_fungus_end_piece_s",
-          "t_fungus_end_piece_e"
-        ]
+        "fg": [ "t_fungus_end_piece_n", "t_fungus_end_piece_w", "t_fungus_end_piece_s", "t_fungus_end_piece_e" ]
       },
       { "bg": [ "t_dirt_summer" ], "id": "unconnected", "fg": [ "t_fungus_unconnected" ] }
     ]
@@ -76,23 +66,13 @@
       {
         "id": "t_connection",
         "bg": [ "t_dirt_autumn" ],
-        "fg": [
-          "t_fungus_t_connection_n",
-          "t_fungus_t_connection_w",
-          "t_fungus_t_connection_s",
-          "t_fungus_t_connection_e"
-        ]
+        "fg": [ "t_fungus_t_connection_n", "t_fungus_t_connection_w", "t_fungus_t_connection_s", "t_fungus_t_connection_e" ]
       },
       { "id": "edge", "bg": [ "t_dirt_autumn" ], "fg": [ "t_fungus_edge_ns", "t_fungus_edge_ew" ] },
       {
         "id": "end_piece",
         "bg": [ "t_dirt_autumn" ],
-        "fg": [
-          "t_fungus_end_piece_n",
-          "t_fungus_end_piece_w",
-          "t_fungus_end_piece_s",
-          "t_fungus_end_piece_e"
-        ]
+        "fg": [ "t_fungus_end_piece_n", "t_fungus_end_piece_w", "t_fungus_end_piece_s", "t_fungus_end_piece_e" ]
       },
       { "bg": [ "t_dirt_autumn" ], "id": "unconnected", "fg": [ "t_fungus_unconnected" ] }
     ]
@@ -112,23 +92,13 @@
       {
         "id": "t_connection",
         "bg": [ "snow_shallow" ],
-        "fg": [
-          "t_fungus_t_connection_n",
-          "t_fungus_t_connection_w",
-          "t_fungus_t_connection_s",
-          "t_fungus_t_connection_e"
-        ]
+        "fg": [ "t_fungus_t_connection_n", "t_fungus_t_connection_w", "t_fungus_t_connection_s", "t_fungus_t_connection_e" ]
       },
       { "id": "edge", "bg": [ "snow_shallow" ], "fg": [ "t_fungus_edge_ns", "t_fungus_edge_ew" ] },
       {
         "id": "end_piece",
         "bg": [ "snow_shallow" ],
-        "fg": [
-          "t_fungus_end_piece_n",
-          "t_fungus_end_piece_w",
-          "t_fungus_end_piece_s",
-          "t_fungus_end_piece_e"
-        ]
+        "fg": [ "t_fungus_end_piece_n", "t_fungus_end_piece_w", "t_fungus_end_piece_s", "t_fungus_end_piece_e" ]
       },
       { "bg": [ "snow_shallow" ], "id": "unconnected", "fg": [ "t_fungus_unconnected" ] }
     ]

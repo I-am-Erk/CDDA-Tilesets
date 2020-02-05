@@ -47,7 +47,6 @@
   {
     "id": "t_dirt_season_winter",
     "fg": [ "snow_shallow" ],
-	"bg": [ ]
-  ]
+    "bg": [  ]
   }
 ]
