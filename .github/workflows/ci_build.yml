@@ -22,7 +22,7 @@ jobs:
     steps:
       - name: Install Dependencies
         run: |
-          apk add --no-cache musl-dev gcc vips-dev python3-dev
+          apk add --no-cache musl-dev gcc vips-dev python3-dev zip
           pip3 install pyvips
 
       - name: Checkout Code
@@ -35,3 +35,22 @@ jobs:
 
           cd Ultimate_Cataclysm
           python3 ../compose.py UltimateCataclysm
+          cd ..
+
+          artifact_name=UltimateCataclysm-$(echo $GITHUB_SHA | cut -c -8)
+          tileset_dir=Ultimate_Cataclysm/gfx/UltimateCataclysm
+
+          mkdir $artifact_name
+          mv $tileset_dir/*.png            $artifact_name
+          mv $tileset_dir/tile_config.json $artifact_name
+          mv $tileset_dir/tileset.txt      $artifact_name
+
+          zip -r $artifact_name.zip $artifact_name
+
+          echo ::set-output name=artifact_name::$artifact_name
+
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v1
+        with:
+          name: ${{ steps.build.outputs.artifact_name }}.zip
+          path: ${{ steps.build.outputs.artifact_name }}.zip
