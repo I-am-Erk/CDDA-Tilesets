@@ -1,0 +1,7 @@
+[
+    { "id": ["sheet", "sheet_nylon", "sheet_nomex", "sheet_neoprene", "sheet_lycra", "sheet_felt", "sheet_faux_fur", "sheet_cotton"], "fg": "sheet", "bg": [], "rotates": false },
+	{ "id": ["sheet_season_autumn", "sheet_nylon_season_autumn", "sheet_nomex_season_autumn", "sheet_neoprene_season_autumn", "sheet_lycra_season_autumn", "sheet_felt_season_autumn", "sheet_faux_fur_season_autumn", "sheet_cotton_season_autumn"], "fg": "sheet_autumn", "bg": [], "rotates": false },
+	{ "id": ["sheet_season_winter", "sheet_nylon_season_winter", "sheet_nomex_season_winter", "sheet_neoprene_season_winter", "sheet_lycra_season_winter", "sheet_felt_season_winter", "sheet_faux_fur_season_winter", "sheet_cotton_season_winter"], "fg": "sheet_winter", "bg": [], "rotates": false },
+	{ "id": ["sheet_season_summer", "sheet_nylon_season_summer", "sheet_nomex_season_summer", "sheet_neoprene_season_summer", "sheet_lycra_season_summer", "sheet_felt_season_summer", "sheet_faux_fur_season_summer", "sheet_cotton_season_summer"], "fg": "sheet_summer", "bg": [], "rotates": false }
+]: false }
+]
