@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fd_web",
+    "fg": [
+      { "weight": 100, "sprite": "fd_web1" },
+      { "weight": 100, "sprite": "fd_web2" },
+      { "weight": 25, "sprite": "fd_web3" },
+      { "weight": 25, "sprite": "fd_web4" }
+    ],
+    "bg": [ ]
+  }
+]
