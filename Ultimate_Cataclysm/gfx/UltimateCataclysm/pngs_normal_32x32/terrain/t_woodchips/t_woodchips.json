@@ -3,5 +3,9 @@
     "id": "t_woodchips",
     "fg": [ "t_woodchips" ],
     "bg": [ ]
+  },{
+    "id": "t_woodchips_season_winter",
+    "fg": [ "snow_shallow" ],
+    "bg": [ ]
   }
 ]

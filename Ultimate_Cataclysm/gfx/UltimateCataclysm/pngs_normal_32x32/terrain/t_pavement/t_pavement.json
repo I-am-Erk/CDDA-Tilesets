@@ -1,5 +1,12 @@
+[
 {
   "id": "t_pavement",
   "fg": ["t_pavement"],
   "bg": []
-}
+},
+  {
+    "id": "t_pavement_season_winter",
+    "fg": [ "snow_shallow" ],
+	"bg": [ ]
+  ]
+  }]

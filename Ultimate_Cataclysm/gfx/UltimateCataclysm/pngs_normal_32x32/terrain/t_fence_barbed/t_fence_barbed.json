@@ -1,5 +1,22 @@
+[
 {
-  "id": "t_fence_barbed",
+  "id": "t_fence_barbed_season_spring",
   "fg": ["t_fence_barbed"],
   "bg": ["t_dirt"]
+},
+{
+  "id": "t_fence_barbed_season_summer",
+  "fg": ["t_fence_barbed"],
+  "bg": ["t_dirt_summer"]
+},
+{
+  "id": "t_fence_barbed_season_autumn",
+  "fg": ["t_fence_barbed"],
+  "bg": ["t_dirt_autumn"]
+},
+{
+  "id": "t_fence_barbed_season_winter",
+  "fg": ["t_fence_barbed"],
+  "bg": ["snow_shallow"]
 }
+]

@@ -43,5 +43,11 @@
       { "weight": 4, "sprite": "t_dirt_fg_grassrocks" }
     ],
     "bg": [ { "weight": 100, "sprite": "t_dirt_autumn" }, { "weight": 100, "sprite": "t_dirt_autumn2" } ]
+  },
+  {
+    "id": "t_dirt_season_winter",
+    "fg": [ "snow_shallow" ],
+	"bg": [ ]
+  ]
   }
 ]

@@ -76,5 +76,11 @@
       },
       { "bg": [ "t_dirt_autumn" ], "id": "unconnected", "fg": [ "t_clay_unconnected" ] }
     ]
+  },
+  {
+    "id": "t_clay_season_winter",
+    "fg": [ "snow_shallow" ],
+	"bg": [ ]
+  ]
   }
 ]

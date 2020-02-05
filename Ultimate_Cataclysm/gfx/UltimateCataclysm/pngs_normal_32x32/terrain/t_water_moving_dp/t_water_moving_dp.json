@@ -76,5 +76,31 @@
       },
       { "bg": [ "t_dirt_autumn" ], "id": "unconnected", "fg": [ "t_water_moving_dp_unconnected" ] }
     ]
+  },
+  {
+    "id": [ "t_water_moving_dp_season_winter", "t_swater_moving_dp_season_winter" ],
+    "multitile": true,
+    "fg": [ "t_water_moving_dp_unconnected" ],
+    "bg": [ "snow_dpallow" ],
+    "additional_tiles": [
+      { "id": "center", "bg": [ "snow_dpallow" ], "fg": [ "t_water_moving_dp_center" ] },
+      {
+        "id": "corner",
+        "bg": [ "snow_dpallow" ],
+        "fg": [ "t_water_moving_dp_corner_nw", "t_water_moving_dp_corner_sw", "t_water_moving_dp_corner_se", "t_water_moving_dp_corner_ne" ]
+      },
+      {
+        "id": "t_connection",
+        "bg": [ "snow_dpallow" ],
+        "fg": [ "t_water_moving_dp_t_connection_n", "t_water_moving_dp_t_connection_w", "t_water_moving_dp_t_connection_s", "t_water_moving_dp_t_connection_e" ]
+      },
+      { "id": "edge", "bg": [ "snow_dpallow" ], "fg": [ "t_water_moving_dp_edge_ns", "t_water_moving_dp_edge_ew" ] },
+      {
+        "id": "end_piece",
+        "bg": [ "snow_dpallow" ],
+        "fg": [ "t_water_moving_dp_end_piece_n", "t_water_moving_dp_end_piece_w", "t_water_moving_dp_end_piece_s", "t_water_moving_dp_end_piece_e" ]
+      },
+      { "bg": [ "snow_dpallow" ], "id": "unconnected", "fg": [ "t_water_moving_dp_unconnected" ] }
+    ]
   }
 ]

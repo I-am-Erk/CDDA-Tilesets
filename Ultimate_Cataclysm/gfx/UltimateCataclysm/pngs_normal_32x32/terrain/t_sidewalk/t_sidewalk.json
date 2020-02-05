@@ -1,4 +1,4 @@
-{
+[{
   "id": "t_sidewalk",
   "multitile": true,
   "fg": [
@@ -59,4 +59,10 @@
       ]
     }
   ]
+},
+{
+  "id": "t_sidewalk_season_winter",
+  "fg": ["snow_shallow"],
+  "bg": []
 }
+]

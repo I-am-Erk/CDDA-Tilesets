@@ -34,8 +34,21 @@
     "bg": [ "t_dirt_autumn" ]
   },
   {
-    "id": "t_underbrush_harvested_season_autumn",
+    "id": "t_underbrush_harvested_season_winter",
     "fg": [ "t_underbrush_harvested" ],
-    "bg": [ "t_dirt_autumn" ]
+    "bg": [ "snow_deep" ]
+  },
+  {
+    "id": "t_underbrush_season_winter",
+    "fg": [
+      { "weight": 100, "sprite": "t_underbrush" },
+      { "weight": 100, "sprite": "t_underbrush2" }
+    ],
+    "bg": [ "snow_deep" ]
+  },
+  {
+    "id": "t_underbrush_harvested_season_winter",
+    "fg": [ "t_underbrush_harvested" ],
+    "bg": [ "snow_deep" ]
   }
 ]

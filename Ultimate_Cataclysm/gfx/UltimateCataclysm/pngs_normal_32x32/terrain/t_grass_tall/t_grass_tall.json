@@ -119,5 +119,11 @@
       },
       { "bg": [ "t_dirt_autumn" ], "id": "unconnected", "fg": [ "t_grass_tall_autumn_unconnected" ] }
     ]
+  },
+  {
+    "id": "t_grass_tall_season_winter",
+    "fg": [ "snow_deep" ],
+	"bg": [ ]
+  ]
   }
 ]
