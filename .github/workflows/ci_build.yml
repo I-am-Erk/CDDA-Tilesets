@@ -31,14 +31,15 @@ jobs:
       - name: Build
         id: build
         run: |
+          mkdir build && cd build
           wget https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/compose.py
 
-          cd Ultimate_Cataclysm
-          python3 ../compose.py UltimateCataclysm
           cd ..
+          python3 build/compose.py UltimateCataclysm
+          cd build
 
           artifact_name=UltimateCataclysm-$(echo $GITHUB_SHA | cut -c -8)
-          tileset_dir=Ultimate_Cataclysm/gfx/UltimateCataclysm
+          tileset_dir=../gfx/UltimateCataclysm
 
           mkdir $artifact_name
           mv $tileset_dir/*.png            $artifact_name
@@ -53,4 +54,4 @@ jobs:
         uses: actions/upload-artifact@v1
         with:
           name: ${{ steps.build.outputs.artifact_name }}.zip
-          path: ${{ steps.build.outputs.artifact_name }}.zip
+          path: build/${{ steps.build.outputs.artifact_name }}.zip
