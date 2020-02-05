@@ -15,11 +15,11 @@ jobs:
   build:
     name: Make Release
     runs-on: ubuntu-latest
-    container: alpine:3.11
+    container: alpine:latest
     steps:
       - name: Install Dependencies
         run: |
-          apk add --no-cache musl-dev gcc vips-dev python3-dev curl zip
+          apk add --no-cache musl-dev gcc vips-dev python3-dev zip
           pip3 install pyvips
 
       - name: Checkout Code
@@ -28,7 +28,7 @@ jobs:
       - name: Build
         id: build
         run: |
-          curl https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/compose.py -O
+          wget https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/compose.py
 
           cd Ultimate_Cataclysm
           python3 ../compose.py UltimateCataclysm

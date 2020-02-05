@@ -1,0 +1,56 @@
+# preforms CI builds using compose.py from
+# https://github.com/CleverRaven/Cataclysm-DDA
+#
+# This action is triggerd by any PR against the master branch as well
+# as on any push to the master branch itself
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+
+name: CI Build
+
+jobs:
+  build:
+    name: CI Build
+    runs-on: ubuntu-latest
+    container: alpine:latest
+    steps:
+      - name: Install Dependencies
+        run: |
+          apk add --no-cache musl-dev gcc vips-dev python3-dev zip
+          pip3 install pyvips
+
+      - name: Checkout Code
+        uses: actions/checkout@master
+
+      - name: Build
+        id: build
+        run: |
+          wget https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/compose.py
+
+          cd Ultimate_Cataclysm
+          python3 ../compose.py UltimateCataclysm
+          cd ..
+
+          artifact_name=UltimateCataclysm-$(echo $GITHUB_SHA | cut -c -8)
+          tileset_dir=Ultimate_Cataclysm/gfx/UltimateCataclysm
+
+          mkdir $artifact_name
+          mv $tileset_dir/*.png            $artifact_name
+          mv $tileset_dir/tile_config.json $artifact_name
+          mv $tileset_dir/tileset.txt      $artifact_name
+
+          zip -r $artifact_name.zip $artifact_name
+
+          echo ::set-output name=artifact_name::$artifact_name
+
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v1
+        with:
+          name: ${{ steps.build.outputs.artifact_name }}.zip
+          path: ${{ steps.build.outputs.artifact_name }}.zip
