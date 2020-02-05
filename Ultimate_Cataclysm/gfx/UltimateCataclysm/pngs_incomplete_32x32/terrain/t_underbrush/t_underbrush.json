@@ -1,7 +1,10 @@
 [
   {
     "id": "t_underbrush",
-    "fg": [ "t_underbrush" ],
+    "fg": [
+      { "weight": 100, "sprite": "t_underbrush" },
+      { "weight": 100, "sprite": "t_underbrush2" }
+    ],
     "bg": [ "t_dirt" ]
   },
   {
@@ -11,7 +14,10 @@
   },
   {
     "id": "t_underbrush_season_summer",
-    "fg": [ "t_underbrush" ],
+    "fg": [
+      { "weight": 100, "sprite": "t_underbrush" },
+      { "weight": 100, "sprite": "t_underbrush2" }
+    ],
     "bg": [ "t_dirt_summer" ]
   },
   {
@@ -21,7 +27,10 @@
   },
   {
     "id": "t_underbrush_season_autumn",
-    "fg": [ "t_underbrush" ],
+    "fg": [
+      { "weight": 100, "sprite": "t_underbrush" },
+      { "weight": 100, "sprite": "t_underbrush2" }
+    ],
     "bg": [ "t_dirt_autumn" ]
   },
   {
