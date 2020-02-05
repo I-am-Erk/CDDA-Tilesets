@@ -7,7 +7,7 @@ Most of the development discussion and direction can be found on [Discord](https
 - Extract the zip folder after you downloaded it.
 - Put the UltimateCataclysm folder in your cataclysmdda\gfx folder. It should look like cataclysmdda\gfx\UltimateCataclysm.
 
-![Current screenshot](./Ultimate_Cataclysm/screenshots/example_8oct2019.png)
+![Current screenshot](./screenshots/UltimateCataclysm/example_8oct2019.png)
 
 This repository stores individual sprites for UltiCa in PNG format, and also source files with layering in PSD (Photoshop) or XCF (gimp 2.10) format. These will then be compiled into a tileset using a python script maintained by mlangsdorf.
 
