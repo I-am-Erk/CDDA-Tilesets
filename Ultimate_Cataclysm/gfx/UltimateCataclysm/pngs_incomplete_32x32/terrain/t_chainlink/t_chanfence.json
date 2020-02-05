@@ -1,5 +1,32 @@
+[
 {
   "id": "t_chainfence",
   "fg": ["t_chainlink"],
-  "bg": []
+  "bg": ["t_pavement"]
+},
+{
+  "id": "t_chaingate_c",
+  "fg": ["t_gate_chainlink_c"],
+  "bg": ["t_pavement"]
+},
+
+{
+  "id": "t_chaingate_l",
+  "fg": ["t_gate_chainlink_l"],
+  "bg": ["t_pavement"]
+},
+
+{
+  "id": "t_chaingate_o",
+  "fg": ["t_gate_chainlink_o"],
+  "bg": ["t_pavement"]
+},
+
+{
+  "id": "t_chainfence_posts",
+  "fg": ["t_chainfence_posts"],
+  "bg": ["t_pavement"]
 }
+]
+
+
