@@ -3,25 +3,25 @@
 Generate preview for wielded/worn, item and moster sprites.
 
 1. Generate items preview:
-./generate_preview.py -i ../gfx -o preview.png --scale 2
+./tools/generate_preview.py -i gfx -o preview.png --scale 2
                       --items rock sharp_rock
 
 2. Generate wielded or worn preview:
-./generate_preview.py -i ../gfx -o preview.png --scale 2
+./tools/generate_preview.py -i gfx -o preview.png --scale 2
                       --overlays jeans rebar
                       --overlay-skin dark
 
 3. Generate items preview with overlays (merge of --items and --overlay with the same id):
-./generate_preview.py -i ../gfx -o preview.png --scale 2
+./tools/generate_preview.py -i gfx -o preview.png --scale 2
                       --overlays-with-items maid_hat maid_dress stocking
                       --overlays-gender female --overlay-skin pink
 
 4. Generate monsters preview:
-./generate_preview.py -i ../gfx -o preview.png --scale 2
+./tools/generate_preview.py -i gfx -o preview.png --scale 2
                       --monster mon_bear mon_zombear mon_zombie
 
 5. Combine:
-./generate_preview.py -i ../gfx -o preview.png --scale 2
+./tools/generate_preview.py -i gfx -o preview.png --scale 2
                       --monster mon_bee mon_ant
                       --items 2x4 stick scrap
                       --overlays-with-items box_small box_medium box_large
