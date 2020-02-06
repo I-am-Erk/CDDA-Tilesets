@@ -148,5 +148,10 @@
     "id": "hat_noise_cancelling",
     "fg": ["hat_noise_cancelling"],
     "bg": []
+  },
+  {
+    "id": "ragpouch",
+    "fg": ["ragpouch"],
+    "bg": []
   }
 ]
