@@ -1,0 +1,10 @@
+[
+  {
+    "id": "mon_zombie_electric",
+    "fg": [
+      { "weight": 1, "sprite": "mon_zombie_electric_m" }, 
+      { "weight": 1, "sprite": "mon_zombie_electric_f" }
+    ],
+    "bg": []
+  }
+]
