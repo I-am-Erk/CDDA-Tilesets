@@ -1,0 +1,12 @@
+[
+  {
+    "id": "mon_zombie_acidic",
+    "fg": ["mon_zombie_acidic"],
+    "bg": []
+  },
+  {
+    "id": "mon_zombie_corrosive",
+    "fg": ["mon_zombie_corrosive"],
+    "bg": []
+  }
+]
