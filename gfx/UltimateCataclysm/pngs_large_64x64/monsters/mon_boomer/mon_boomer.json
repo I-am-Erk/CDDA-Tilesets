@@ -1,7 +1,7 @@
 {
   "id": "mon_boomer",
   "fg": [
-    { "weight": 1, "mon_boomer" }
+    { "weight": 1, "sprite": "mon_boomer" }
   ],
   "bg": []
 }
