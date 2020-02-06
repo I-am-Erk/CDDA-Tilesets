@@ -1,7 +1,5 @@
 {
   "id": "mon_zombie_rot",
-  "fg": [
-    { "weight": 1, "sprite": "mon_zombie_rot" }
-  ],
+  "fg": [ "mon_zombie_rot" ],
   "bg": []
 }
