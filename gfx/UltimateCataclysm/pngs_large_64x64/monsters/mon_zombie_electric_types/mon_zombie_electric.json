@@ -6,5 +6,13 @@
       { "weight": 1, "sprite": "mon_zombie_electric_f" }
     ],
     "bg": []
+  },
+  {
+    "id": "mon_zombie_nullfield",
+    "fg": [
+      { "weight": 1, "sprite": "mon_zombie_nullfield_m" }, 
+      { "weight": 1, "sprite": "mon_zombie_nullfield_f" }
+    ],
+    "bg": []
   }
 ]
