@@ -1,8 +1,12 @@
-{
-  "id": "mon_zombie_grappler",
-  "fg": [
-    { "weight": 1, "sprite": "mon_zombie_grappler" },
-    { "weight": 1, "sprite": "mon_zombie_grappler2" }
-  ],
-  "bg": []
-}
+[
+  {
+    "id": "mon_zombie_grabber",
+    "fg": [ "mon_zombie_grappler" ],
+    "bg": [  ]
+  },
+  {
+    "id": "mon_zombie_grappler",
+    "fg": [ "mon_zombie_grappler2" ],
+    "bg": [  ]
+  }
+]
