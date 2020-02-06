@@ -1,7 +1,8 @@
 {
   "id": "mon_zombie_gasbag",
   "fg": [
-    "mon_zombie_gasbag"
+    { "weight": 1, "mon_zombie_gasbag" },
+    { "weight": 1, "mon_zombie_gasbag2" }
   ],
   "bg": []
 }

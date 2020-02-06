@@ -1,0 +1,7 @@
+{
+  "id": "mon_zombie_smoker",
+  "fg": [
+    { "weight": 1, "mon_zombie_smoker" }
+  ],
+  "bg": []
+}
