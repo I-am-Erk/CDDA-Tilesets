@@ -153,5 +153,10 @@
     "id": "ragpouch",
     "fg": ["ragpouch"],
     "bg": []
+  },
+  {
+    "id": "cowboy_hat",
+    "fg": ["cowboy_hat"],
+    "bg": []
   }
 ]
