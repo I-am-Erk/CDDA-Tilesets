@@ -1,5 +1,12 @@
+[
   {
     "id": "mon_zombie_cop",
     "fg": ["mon_zombie_cop"],
     "bg": []
+  },
+  {
+    "id": "mon_zombie_labsecurity",
+    "fg": ["mon_zombie_labsecurity"],
+    "bg": []
   }
+]
