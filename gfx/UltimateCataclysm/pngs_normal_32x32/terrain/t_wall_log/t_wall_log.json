@@ -1,10 +1,8 @@
 {
   "id": "t_wall_log",
   "multitile": true,
-  "fg": [
-    "t_wall_log_unconnected"
-  ],
-  "bg": [],
+  "fg": ["t_wall_log_unconnected"],
+  "bg": ["t_dirt"],
   "additional_tiles": [
     {
       "id": "center",
@@ -35,7 +33,7 @@
     },
     {
       "id": "edge",
-      "bg": [],
+      "bg": ["t_dirt"],
       "fg": [
         "t_wall_log_edge_ns",
         "t_wall_log_edge_ew"
@@ -43,7 +41,7 @@
     },
     {
       "id": "end_piece",
-      "bg": [],
+      "bg": ["t_dirt"],
       "fg": [
         "t_wall_log_end_piece_n",
         "t_wall_log_end_piece_w",
@@ -52,7 +50,7 @@
       ]
     },
     {
-      "bg": [],
+      "bg": ["t_dirt"],
       "id": "unconnected",
       "fg": [
         "t_wall_log_unconnected"
