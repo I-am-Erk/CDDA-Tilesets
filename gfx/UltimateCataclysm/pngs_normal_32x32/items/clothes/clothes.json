@@ -158,5 +158,15 @@
     "id": "cowboy_hat",
     "fg": ["cowboy_hat"],
     "bg": []
+  },
+  {
+    "id": "turban",
+    "fg": ["turban"],
+    "bg": []
+  },
+  {
+    "id": "turban",
+    "fg": ["turban"],
+    "bg": []
   }
 ]
