@@ -163,5 +163,10 @@
     "id": "turban",
     "fg": ["turban"],
     "bg": []
+  },
+  {
+    "id": "hat_fur",
+    "fg": ["hat_fur"],
+    "bg": []
   }
 ]
