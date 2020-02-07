@@ -1,12 +1,5 @@
-[
 {
-  "id": "overlay_male_worn_dress_shoes",
-  "fg": ["dress_shoes"],
-  "bg": []
-},
-{
-  "id": "overlay_female_worn_dress_shoes",
+  "id": "overlay_worn_dress_shoes",
   "fg": ["dress_shoes"],
   "bg": []
 }
-]
