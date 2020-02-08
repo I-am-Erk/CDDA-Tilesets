@@ -2,6 +2,7 @@
   {
     "id": "t_chainfence",
     "multitile": true,
+	"rotates": false,
     "fg": [ "t_chainfence_ew" ],
     "bg": [ "t_pavement" ],
     "additional_tiles": [
