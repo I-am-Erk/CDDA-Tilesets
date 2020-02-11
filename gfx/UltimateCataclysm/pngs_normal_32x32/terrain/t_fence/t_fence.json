@@ -102,5 +102,45 @@
       },
       { "bg": [ "snow_shallow" ], "id": "unconnected", "fg": [ "t_fence_unconnected" ] }
     ]
+  },
+  {
+    "id": "t_fencegate_c_season_spring",
+    "fg": ["t_fencegate_c"],
+    "bg": ["t_dirt"]
+  },
+  {
+    "id": "t_fencegate_c_season_summer",
+    "fg": ["t_fencegate_c"],
+    "bg": ["t_dirt_summer"]
+  },
+  {
+    "id": "t_fencegate_c_season_autumn",
+    "fg": ["t_fencegate_c"],
+    "bg": ["t_dirt_autumn"]
+  },
+  {
+    "id": "t_fencegate_c_season_winter",
+    "fg": ["t_fencegate_c"],
+    "bg": ["snow_shallow"]
+  },
+  {
+    "id": "t_fencegate_o_season_spring",
+    "fg": ["t_fencegate_o"],
+    "bg": ["t_dirt"]
+  },
+  {
+    "id": "t_fencegate_o_season_summer",
+    "fg": ["t_fencegate_o"],
+    "bg": ["t_dirt_summer"]
+  },
+  {
+    "id": "t_fencegate_o_season_autumn",
+    "fg": ["t_fencegate_o"],
+    "bg": ["t_dirt_autumn"]
+  },
+  {
+    "id": "t_fencegate_o_season_winter",
+    "fg": ["t_fencegate_o"],
+    "bg": ["snow_shallow"]
   }
 ]
