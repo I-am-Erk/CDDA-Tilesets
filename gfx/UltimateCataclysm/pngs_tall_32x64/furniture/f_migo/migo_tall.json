@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f_alien_tendril",
+    "fg": ["f_alien_tendril"],
+    "bg": []
+  },
+  {
+    "id": "f_alien_zapper",
+    "fg": ["f_alien_zapper"],
+    "bg": []
+  }
+]
