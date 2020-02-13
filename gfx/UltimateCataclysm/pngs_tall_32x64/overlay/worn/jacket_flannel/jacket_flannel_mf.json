@@ -1,12 +1,12 @@
 [
 {
   "id": "overlay_female_worn_jacket_flannel",
-  "fg": ["coat_lab_f"],
+  "fg": ["jacket_flannel_f"],
   "bg": []
 },
 {
   "id": "overlay_male_worn_jacket_flannel",
-  "fg": ["coat_lab_m"],
+  "fg": ["jacket_flannel_m"],
   "bg": []
 }
 ]
