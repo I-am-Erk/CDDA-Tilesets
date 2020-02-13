@@ -16,7 +16,7 @@
   },
   {
     "id": "f_alien_pod_resin",
-    "fg": ["f_alien_pod"],
+    "fg": ["f_alien_pod_resin"],
     "bg": []
   }
 ]
