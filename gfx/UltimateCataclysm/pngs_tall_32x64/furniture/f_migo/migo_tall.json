@@ -10,7 +10,12 @@
     "bg": []
   },
   {
-    "id": [ "f_alien_pod", "f_alien_pod_organ", "f_alien_pod_resin" ],
+    "id": [ "f_alien_pod", "f_alien_pod_organ" ],
+    "fg": ["f_alien_pod"],
+    "bg": []
+  },
+  {
+    "id": "f_alien_pod_resin",
     "fg": ["f_alien_pod"],
     "bg": []
   }
