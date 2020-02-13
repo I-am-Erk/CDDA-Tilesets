@@ -1,6 +1,6 @@
 [
   {
-    "id": [ "t_window", "t_window_alarm" ]
+    "id": [ "t_window", "t_window_alarm" ],
     "fg": [ "t_window" ],
     "bg": [  ]
   },
