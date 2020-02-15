@@ -2,9 +2,11 @@
   {
     "id": "mon_zombie",
     "fg": [
-      { "weight": 1, "sprite": "mon_zombie_1" }, 
-      { "weight": 1, "sprite": "mon_zombie_2" }, 
-      { "weight": 1, "sprite": "mon_zombie_3" }
+      { "weight": 100, "sprite": "mon_zombie_1" }, 
+      { "weight": 150, "sprite": "mon_zombie_2" }, 
+      { "weight": 100, "sprite": "mon_zombie_3" }, 
+      { "weight": 100, "sprite": "mon_zombie_4" }, 
+      { "weight": 150, "sprite": "mon_zombie_5" }
     ],
     "bg": []
   },
