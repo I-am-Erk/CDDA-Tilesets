@@ -19,5 +19,47 @@
       "syringe"
     ],
     "bg": []
+  },
+  {
+    "id": "antibiotics",
+    "fg": [
+      "antibiotics"
+    ],
+    "bg": []
+  },
+    {
+    "id": "weak_antibiotic",
+    "fg": [
+      "weak_antibiotic"
+    ],
+    "bg": []
+  },
+  {
+    "id": "strong_antibiotic",
+    "fg": [
+      "strong_antibiotic"
+    ],
+    "bg": []
+  },
+  {
+    "id": "multiviatmin",
+    "fg": [
+      "multiviatmin"
+    ],
+    "bg": []
+  },
+  {
+    "id": "gummy_vitamins",
+    "fg": [
+      "gummy_vitamins"
+    ],
+    "bg": []
+  },
+  {
+    "id": "calcium_tablet",
+    "fg": [
+      "calcium_tablet"
+    ],
+    "bg": []
   }
 ]
