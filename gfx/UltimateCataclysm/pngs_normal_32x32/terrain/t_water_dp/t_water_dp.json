@@ -5,7 +5,15 @@
     "fg": [ "t_water_dp_unconnected" ],
     "bg": [ "t_dirt" ],
     "additional_tiles": [
-      { "id": "center", "bg": [ "t_dirt" ], "fg": [ "t_water_dp_center" ] },
+      {
+        "id": "center",
+        "bg": [ "t_dirt" ],
+        "fg": [
+          { "weight": 1, "sprite": "t_water_dp_center" },
+          { "weight": 1, "sprite": "t_water_dp_center2" },
+          { "weight": 1, "sprite": "t_water_dp_center3" }
+        ]
+      },
       {
         "id": "corner",
         "bg": [ "t_dirt" ],
@@ -31,7 +39,15 @@
     "fg": [ "t_water_dp_unconnected" ],
     "bg": [ "t_dirt_summer" ],
     "additional_tiles": [
-      { "id": "center", "bg": [ "t_dirt_summer" ], "fg": [ "t_water_dp_center" ] },
+      {
+        "id": "center",
+        "bg": [ "t_dirt_summer" ],
+        "fg": [
+          { "weight": 1, "sprite": "t_water_dp_center" },
+          { "weight": 1, "sprite": "t_water_dp_center2" },
+          { "weight": 1, "sprite": "t_water_dp_center3" }
+        ]
+      },
       {
         "id": "corner",
         "bg": [ "t_dirt_summer" ],
@@ -57,7 +73,15 @@
     "fg": [ "t_water_dp_unconnected" ],
     "bg": [ "t_dirt_autumn" ],
     "additional_tiles": [
-      { "id": "center", "bg": [ "t_dirt_autumn" ], "fg": [ "t_water_dp_center" ] },
+      {
+        "id": "center",
+        "bg": [ "t_dirt_autumn" ],
+        "fg": [
+          { "weight": 1, "sprite": "t_water_dp_center" },
+          { "weight": 1, "sprite": "t_water_dp_center2" },
+          { "weight": 1, "sprite": "t_water_dp_center3" }
+        ]
+      },
       {
         "id": "corner",
         "bg": [ "t_dirt_autumn" ],
@@ -83,7 +107,15 @@
     "fg": [ "t_water_dp_unconnected" ],
     "bg": [ "snow_shallow" ],
     "additional_tiles": [
-      { "id": "center", "bg": [ "snow_shallow" ], "fg": [ "t_water_dp_center" ] },
+      {
+        "id": "center",
+        "bg": [ "snow_shallow" ],
+        "fg": [
+          { "weight": 1, "sprite": "t_water_dp_center" },
+          { "weight": 1, "sprite": "t_water_dp_center2" },
+          { "weight": 1, "sprite": "t_water_dp_center3" }
+        ]
+      },
       {
         "id": "corner",
         "bg": [ "snow_shallow" ],
