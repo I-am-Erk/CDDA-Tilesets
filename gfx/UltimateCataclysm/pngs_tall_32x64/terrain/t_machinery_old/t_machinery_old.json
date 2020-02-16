@@ -2,6 +2,6 @@
   {
     "id": "t_machinery_old",
     "fg": ["t_machinery_old"],
-    "bg": ["t_dirtfloor"]
+    "bg": ["t_dirtfloor_center"]
   }
 ]

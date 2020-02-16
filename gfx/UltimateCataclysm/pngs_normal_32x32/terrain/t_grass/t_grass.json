@@ -5,7 +5,21 @@
     "fg": [ "t_grass_unconnected" ],
     "bg": [ "t_dirt" ],
     "additional_tiles": [
-      { "id": "center", "bg": [ "t_dirt" ], "fg": [ "t_grass_center" ] },
+      {
+        "id": "center",
+        "bg": [ "t_dirt" ],
+        "fg": [
+          { "weight": 1, "sprite": "t_grass_center" },
+          { "weight": 1, "sprite": "t_grass_center_1" },
+          { "weight": 1, "sprite": "t_grass_center_2" },
+          { "weight": 1, "sprite": "t_grass_center_3" },
+          { "weight": 1, "sprite": "t_grass_center_4" },
+          { "weight": 1, "sprite": "t_grass_center_5" },
+          { "weight": 1, "sprite": "t_grass_center_6" },
+          { "weight": 1, "sprite": "t_grass_center_7" },
+          { "weight": 1, "sprite": "t_grass_center_8" }
+        ]
+      },
       {
         "id": "corner",
         "bg": [ "t_dirt" ],
