@@ -24,18 +24,7 @@
         "t_wall_glass_t_connection_e"
       ]
     },
-    { "id": "edge_ns", "bg": [  ], "fg": [ "t_wall_glass_edge_ns" ] },
-    {
-      "id": "edge_ew",
-      "bg": [  ],
-      "fg": [
-        { "weight": 2, "sprite": "t_wall_glass_edge_ew_0" },
-        { "weight": 1, "sprite": "t_wall_glass_edge_ew_1" },
-        { "weight": 1, "sprite": "t_wall_glass_edge_ew_2" },
-        { "weight": 1, "sprite": "t_wall_glass_edge_ew_3" },
-        { "weight": 1, "sprite": "t_wall_glass_edge_ew_4" }
-      ]
-    },
+    { "id": "edge", "bg": [  ], "fg": [ "t_wall_glass_edge_ns", "t_wall_glass_edge_ew_0" ] },
     {
       "id": "end_piece",
       "bg": [  ],
