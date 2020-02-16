@@ -37,8 +37,14 @@
       "id": "edge",
       "bg": [],
       "fg": [
-        "t_wall_glass_v4",
-        "t_wall_glass_edge_ew"
+        "t_wall_glass_edge_ns",
+        [
+          { "weight": 2, "sprite": "t_wall_glass_edge_ew_0" },
+          { "weight": 1, "sprite": "t_wall_glass_edge_ew_1" },
+          { "weight": 1, "sprite": "t_wall_glass_edge_ew_2" },
+          { "weight": 1, "sprite": "t_wall_glass_edge_ew_3" },
+          { "weight": 1, "sprite": "t_wall_glass_edge_ew_4" }
+		[
       ]
     },
     {
