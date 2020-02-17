@@ -1,0 +1,17 @@
+[
+    {
+        "id": ["t_shrub_rose", "t_shrub_rose_harvested"],
+        "fg": ["t_shrub_rose_harvested"],
+        "bg": []
+    },
+    {
+        "id": "t_shrub_rose_season_autumn",
+        "fg": ["t_shrub_rose_autumn"],
+        "bg": []
+    },
+    {
+        "id": "t_shrub_rose_season_winter",
+        "fg": ["t_shrub_rose_winter"],
+        "bg": []
+    }
+]
