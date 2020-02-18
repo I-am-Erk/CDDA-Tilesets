@@ -1,0 +1,8 @@
+{
+  "id": "f_flower_tulip",
+  "fg": [
+    { "weight": 1, "sprite": "f_flower_tulip_1" },
+    { "weight": 2, "sprite": "f_flower_tulip_2" }
+  ],
+  "bg": []
+}
