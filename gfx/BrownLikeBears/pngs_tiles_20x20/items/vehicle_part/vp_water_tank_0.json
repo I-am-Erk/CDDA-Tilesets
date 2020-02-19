@@ -1,0 +1,1 @@
+{"id": "vp_water_tank", "fg": ["440_vp_fuel_tank_water_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["431_vp_engine_gas_1cyl_1"], "bg": []}], "bg": []}

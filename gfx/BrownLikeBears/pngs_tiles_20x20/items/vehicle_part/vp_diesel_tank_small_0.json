@@ -1,0 +1,1 @@
+{"id": "vp_diesel_tank_small", "fg": ["1843_vp_diesel_tank_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["431_vp_engine_gas_1cyl_1"], "bg": []}], "bg": []}

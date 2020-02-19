@@ -1,0 +1,1 @@
+{"id": "vp_robot_controls", "fg": ["1888_vp_robot_controls_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["430_t_missile_exploded_0"], "bg": []}], "bg": []}

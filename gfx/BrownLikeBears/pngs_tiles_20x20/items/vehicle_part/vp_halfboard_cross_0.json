@@ -1,0 +1,1 @@
+{"id": "vp_halfboard_cross", "fg": ["441_vp_halfboard_cross_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["430_t_missile_exploded_0"], "bg": []}], "bg": []}

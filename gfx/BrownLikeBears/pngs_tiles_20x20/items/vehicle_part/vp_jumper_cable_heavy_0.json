@@ -1,0 +1,1 @@
+{"id": "vp_jumper_cable_heavy", "fg": ["1827_vp_jumper_cable_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["430_t_missile_exploded_0"], "bg": []}], "bg": []}

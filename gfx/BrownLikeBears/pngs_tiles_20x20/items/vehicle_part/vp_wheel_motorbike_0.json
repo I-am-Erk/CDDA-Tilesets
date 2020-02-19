@@ -1,0 +1,1 @@
+{"id": "vp_wheel_motorbike", "fg": ["336_vp_wheel_unicycle_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["348_vp_wheel_1"], "bg": []}], "bg": []}

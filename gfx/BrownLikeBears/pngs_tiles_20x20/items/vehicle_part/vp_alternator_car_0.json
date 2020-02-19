@@ -1,0 +1,1 @@
+{"id": "vp_alternator_car", "fg": ["1415_vp_alternator_motorbike_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["431_vp_engine_gas_1cyl_1"], "bg": []}], "bg": []}
