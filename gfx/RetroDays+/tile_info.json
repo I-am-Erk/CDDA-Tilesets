@@ -5,10 +5,10 @@
     "pixelscale": 2
   },
   {
-    "tiles.png": { "//": "indices 0 to 3135" }
+    "tiles.png": {  }
   },
   {
-    "tiles_20x20.png": { "//": "indices 3136 to 3151", "sprite_offset_x": -5, "sprite_offset_y": -10, "sprite_width": 20, "sprite_height": 20 }
+    "large_20x20.png": { "sprite_offset_x": -5, "sprite_offset_y": -10, "sprite_width": 20, "sprite_height": 20 }
   },
   {
     "fallback.png": { "fallback": true }
