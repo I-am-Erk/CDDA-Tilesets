@@ -1,0 +1,1 @@
+{"id": "vp_seatbelt", "fg": ["444_seatbelt_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["425_seatbelt_1"], "bg": []}], "bg": []}

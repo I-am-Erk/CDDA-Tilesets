@@ -1,0 +1,1 @@
+{"id": "vp_minifridge", "fg": ["303_minifridge_0"], "rotates": false, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["381_vp_kitchen_unit_1"], "bg": []}], "bg": []}

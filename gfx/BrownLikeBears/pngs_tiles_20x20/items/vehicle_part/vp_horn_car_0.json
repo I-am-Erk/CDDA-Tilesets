@@ -1,0 +1,1 @@
+{"id": "vp_horn_car", "fg": ["550_vp_horn_car_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["430_t_missile_exploded_0"], "bg": []}], "bg": []}

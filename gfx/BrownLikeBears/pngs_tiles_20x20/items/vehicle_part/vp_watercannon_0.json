@@ -1,0 +1,1 @@
+{"id": "vp_watercannon", "fg": ["541_vp_plasmagun_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["1910_vp_watercannon_1"], "bg": []}], "bg": []}

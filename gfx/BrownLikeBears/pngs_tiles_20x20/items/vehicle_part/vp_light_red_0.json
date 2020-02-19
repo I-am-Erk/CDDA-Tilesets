@@ -1,0 +1,1 @@
+{"id": "vp_light_red", "fg": ["349_light_emergency_red_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["431_vp_engine_gas_1cyl_1"], "bg": []}], "bg": []}
