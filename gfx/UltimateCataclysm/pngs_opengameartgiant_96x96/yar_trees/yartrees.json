@@ -25,6 +25,11 @@
   "bg": []
 },
 {
+  "id": "t_tree_hickory_dead",
+  "fg": ["hickory_dead_yar"],
+  "bg": []
+},
+{
   "id": "t_tree_hickory_season_winter",
   "fg": ["hickory_dead_yar"],
   "bg": []
