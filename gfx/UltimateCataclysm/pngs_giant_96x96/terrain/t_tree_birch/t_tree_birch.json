@@ -3,11 +3,17 @@
     "id": "t_tree_birch",
     "fg": [
       { "weight": 1, "sprite": "t_tree_birch_1" },
-      { "weight": 1, "sprite": "t_tree_birch_2" },
-      { "weight": 1, "sprite": "t_tree_birch_3" }
+      { "weight": 1, "sprite": "t_tree_birch_2" }
     ],
-    "rotates": false,
-    "bg": [  ]
+    "bg": [ "t_dirt_giant" ]
+  },
+  {
+    "id": "t_tree_birch_season_summer",
+    "fg": [
+      { "weight": 1, "sprite": "t_tree_birch_1" },
+      { "weight": 1, "sprite": "t_tree_birch_2" }
+    ],
+    "bg": [ "t_dirt_summer_giant" ]
   },
   {
     "id": "t_tree_birch_season_winter",
@@ -15,18 +21,14 @@
       { "weight": 1, "sprite": "t_tree_birch_winter_1" },
       { "weight": 1, "sprite": "t_tree_birch_winter_2" }
     ],
-    "rotates": false,
-    "bg": [  ]
+    "bg": [ "snow_shallow_giant" ]
   },
   {
     "id": "t_tree_birch_season_autumn",
     "fg": [
       { "weight": 1, "sprite": "t_tree_birch_autumn_1" },
-      { "weight": 1, "sprite": "t_tree_birch_autumn_2" },
-      { "weight": 1, "sprite": "t_tree_birch_autumn_3" },
-      { "weight": 1, "sprite": "t_tree_birch_autumn_4" }
+      { "weight": 1, "sprite": "t_tree_birch_autumn_2" }
     ],
-    "bg": [  ],
-    "rotates": false
+    "bg": [ "t_dirt_autumn_giant" ]
   }
 ]
