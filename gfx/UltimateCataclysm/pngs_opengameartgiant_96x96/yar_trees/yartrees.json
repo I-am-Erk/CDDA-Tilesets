@@ -1,0 +1,32 @@
+[
+{
+  "id": "t_tree_chestnut",
+  "fg": ["yar_chestnut-003"],
+  "bg": []
+},
+{
+  "id": "t_tree_chestnut_season_winter",
+  "fg": ["yar_chestnut_dead"],
+  "bg": []
+},
+{
+  "id": "t_tree_pine",
+  "fg": ["pine_yar"],
+  "bg": []
+},
+{
+  "id": "t_tree_deadpine",
+  "fg": ["deadpine_yar"],
+  "bg": []
+},
+{
+  "id": "t_tree_hickory",
+  "fg": ["hickory_yar"],
+  "bg": []
+},
+{
+  "id": "t_tree_hickory_season_winter",
+  "fg": ["hickory_dead_yar"],
+  "bg": []
+}
+]
