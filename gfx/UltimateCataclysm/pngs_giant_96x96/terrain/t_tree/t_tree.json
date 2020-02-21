@@ -2,12 +2,12 @@
   {
     "id": "t_tree",
     "fg": [
-      { "weight": 100, "sprite": "t_tree_dead" },
-      { "weight": 100, "sprite": "t_tree_dead2" },
-      { "weight": 100, "sprite": "t_tree_dead3" },
-      { "weight": 100, "sprite": "t_tree_dead4" }
+      { "weight": 100, "sprite": "t_tree" },
+      { "weight": 100, "sprite": "t_tree2" },
+      { "weight": 100, "sprite": "t_tree3" },
+      { "weight": 100, "sprite": "t_tree4" }
     ],
-    "bg": [  ]
+    "bg": [ "t_dirt_giant" ]
   },
   {
     "id": "t_tree_season_summer",
@@ -17,7 +17,7 @@
       { "weight": 100, "sprite": "t_tree3" },
       { "weight": 100, "sprite": "t_tree4" }
     ],
-    "bg": [  ]
+    "bg": [ "t_dirt_summer_giant" ]
   },
   {
     "id": "t_tree_season_autumn",
@@ -27,7 +27,16 @@
       { "weight": 100, "sprite": "t_tree_season_autumn3" },
       { "weight": 100, "sprite": "t_tree_season_autumn4" }
     ],
-    "bg": [  ],
-    "rotates": false
+    "bg": [ "t_dirt_autumn_giant" ]
+  },
+  {
+    "id": "t_tree_season_winter",
+    "fg": [
+      { "weight": 100, "sprite": "t_tree_dead" },
+      { "weight": 100, "sprite": "t_tree_dead2" },
+      { "weight": 100, "sprite": "t_tree_dead3" },
+      { "weight": 100, "sprite": "t_tree_dead4" }
+    ],
+    "bg": [ "snow_shallow_giant" ]
   }
 ]
