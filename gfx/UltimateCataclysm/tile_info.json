@@ -29,7 +29,7 @@
     }
   },
   {
-    "opengameart_giant.png": { "sprite_width": 96, "sprite_height": 96, "sprite_offset_x": -32, "sprite_offset_y": -64, "filler": true  }
+    "opengameartgiant.png": { "sprite_width": 96, "sprite_height": 96, "sprite_offset_x": -32, "sprite_offset_y": -64, "filler": true  }
   },
   {
     "fallback.png": {
