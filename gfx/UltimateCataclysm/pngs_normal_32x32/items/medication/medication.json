@@ -61,5 +61,54 @@
       "calcium_tablet"
     ],
     "bg": []
+  },
+  {
+    "id": "oxycodone",
+    "fg": [
+      "oxycodone"
+    ],
+    "bg": []
+  },
+  {
+    "id": "tramadol",
+    "fg": [
+      "tramadol"
+    ],
+    "bg": []
+  },
+  {
+    "id": "codeine",
+    "fg": [
+      "codeine"
+    ],
+    "bg": []
+  },
+  {
+    "id": "prussian_blue",
+    "fg": [
+      "prussian_blue"
+    ],
+    "bg": []
+  },
+  {
+    "id": "iodine",
+    "fg": [
+      "iodine"
+    ],
+    "bg": []
+  },
+  {
+    "id": "antiparasitic",
+    "fg": [
+      "antiparasitic"
+    ],
+    "bg": []
+  },
+  {
+    "id": "antifungal",
+    "fg": [
+      "antifungal"
+    ],
+    "bg": []
   }
 ]

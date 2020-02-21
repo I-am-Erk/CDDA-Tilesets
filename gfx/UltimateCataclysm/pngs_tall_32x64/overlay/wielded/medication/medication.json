@@ -28,5 +28,40 @@
     "id": "overlay_wielded_gummy_vitamins",
     "fg": ["gummy_vitamins_mf"],
     "bg": []
+  },
+  {
+    "id": "overlay_wielded_antifungal",
+    "fg": ["antifungal_mf"],
+    "bg": []
+  },
+  {
+    "id": "overlay_wielded_antiparasitic",
+    "fg": ["antiparasitic_mf"],
+    "bg": []
+  },
+  {
+    "id": "overlay_wielded_iodine",
+    "fg": ["iodine_mf"],
+    "bg": []
+  },
+  {
+    "id": "overlay_wielded_prussian_blue",
+    "fg": ["prussian_blue_mf"],
+    "bg": []
+  },
+  {
+    "id": "overlay_wielded_tramadol",
+    "fg": ["tramadol_mf"],
+    "bg": []
+  },
+  {
+    "id": "overlay_wielded_codeine",
+    "fg": ["codeine_mf"],
+    "bg": []
+  },
+  {
+    "id": "overlay_wielded_oxycodone",
+    "fg": ["oxycodone_mf"],
+    "bg": []
   }
 ]
