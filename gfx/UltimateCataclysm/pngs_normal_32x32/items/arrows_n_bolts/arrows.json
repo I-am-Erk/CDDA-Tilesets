@@ -55,12 +55,12 @@
     "bg": [ ]
   },
   {
-    "id": "arrow_wooden",
+    "id": "arrow_wood",
     "fg": [ "arrow_wooden" ],
     "bg": [ ]
   },
   {
-    "id": "arrow_wooden_heavy",
+    "id": "arrow_wood_heavy",
     "fg": [ "arrow_wooden_heavy" ],
     "bg": [ ]
   }
