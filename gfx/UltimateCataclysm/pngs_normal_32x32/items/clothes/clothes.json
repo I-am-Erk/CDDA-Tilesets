@@ -1,172 +1,182 @@
 [
   {
-    "id": "maid_hat",
-    "fg": ["maid_hat"],
-    "bg": []
-  },
-  {
-    "id": "maid_dress",
-    "fg": ["maid_dress"],
-    "bg": []
-  },
-  {
-    "id": "stockings",
-    "fg": ["stockings"],
-    "bg": []
-  },
-  {
-    "id": "dress_shoes",
-    "fg": ["dress_shoes"],
-    "bg": []
-  },
-  {
-    "id": "bra",
-    "fg": ["bra"],
-    "bg": []
-  },
-  {
-    "id": "panties",
-    "fg": ["panties"],
-    "bg": []
-  },
-  {
-    "id": "hat_knit",
-    "fg": ["hat_knit"],
-    "bg": []
-  },
-  {
-    "id": "hoodie",
-    "fg": ["hoodie"],
-    "bg": []
-  },
-  {
-    "id": "mask_dust",
-    "fg": ["mask_dust"],
-    "bg": []
-  },
-  {
-    "id": "longshirt",
-    "fg": ["longshirt"],
-    "bg": []
-  },
-  {
-    "id": "sneakers",
-    "fg": ["sneakers"],
-    "bg": []
-  },
-  {
-    "id": "undershirt",
-    "fg": ["undershirt"],
-    "bg": []
-  },
-  {
-    "id": "boy_shorts",
-    "fg": ["boy_shorts"],
-    "bg": []
-  },
-  {
-    "id": "boxer_shorts",
-    "fg": ["boxer_shorts"],
-    "bg": []
-  },
-  {
-    "id": "boots",
-    "fg": ["boots"],
-    "bg": []
-  },
-  {
-    "id": "hat_cotton",
-    "fg": ["hat_cotton"],
-    "bg": []
-  },
-  {
-    "id": "jeans",
-    "fg": ["jeans"],
-    "bg": []
-  },
-  {
-    "id": "pants",
-    "fg": ["pants"],
-    "bg": []
-  },
-  {
-    "id": "pants_cargo",
-    "fg": ["pants_cargo"],
-    "bg": []
-  },
-  {
-    "id": "socks",
-    "fg": ["socks"],
-    "bg": []
-  },
-  {
-    "id": "tank_top",
-    "fg": ["tank_top"],
-    "bg": []
-  },
-  {
-    "id": "tshirt",
-    "fg": ["tshirt"],
-    "bg": []
+    "id": "balclava",
+    "fg": [ "balaclava" ],
+    "bg": [  ]
   },
   {
     "id": "beret",
-    "fg": ["beret"],
-    "bg": []
+    "fg": [ "beret" ],
+    "bg": [  ]
   },
   {
-    "id": "helmet_army",
-    "fg": ["helmet_army"],
-    "bg": []
+    "id": "boots",
+    "fg": [ "boots" ],
+    "bg": [  ]
   },
   {
-    "id": "balclava",
-    "fg": ["balaclava"],
-    "bg": []
+    "id": "boxer_shorts",
+    "fg": [ "boxer_shorts" ],
+    "bg": [  ]
   },
   {
-    "id": "helmet_kabuto",
-    "fg": ["helmet_kabuto"],
-    "bg": []
+    "id": "boy_shorts",
+    "fg": [ "boy_shorts" ],
+    "bg": [  ]
   },
   {
-    "id": "hat_ball",
-    "fg": ["hat_ball"],
-    "bg": []
-  },
-  {
-    "id": "helmet_barbute",
-    "fg": ["helmet_barbute"],
-    "bg": []
-  },
-  {
-    "id": "helmet_chitin",
-    "fg": ["helmet_chitin"],
-    "bg": []
-  },
-  {
-    "id": "hat_noise_cancelling",
-    "fg": ["hat_noise_cancelling"],
-    "bg": []
-  },
-  {
-    "id": "ragpouch",
-    "fg": ["ragpouch"],
-    "bg": []
+    "id": "bra",
+    "fg": [ "bra" ],
+    "bg": [  ]
   },
   {
     "id": "cowboy_hat",
-    "fg": ["cowboy_hat"],
-    "bg": []
+    "fg": [ "cowboy_hat" ],
+    "bg": [  ]
   },
   {
-    "id": "turban",
-    "fg": ["turban"],
-    "bg": []
+    "id": "dress_shoes",
+    "fg": [ "dress_shoes" ],
+    "bg": [  ]
+  },
+  {
+    "id": "hat_ball",
+    "fg": [ "hat_ball" ],
+    "bg": [  ]
+  },
+  {
+    "id": "hat_cotton",
+    "fg": [ "hat_cotton" ],
+    "bg": [  ]
   },
   {
     "id": "hat_fur",
-    "fg": ["hat_fur"],
-    "bg": []
+    "fg": [ "hat_fur" ],
+    "bg": [  ]
+  },
+  {
+    "id": "hat_knit",
+    "fg": [ "hat_knit" ],
+    "bg": [  ]
+  },
+  {
+    "id": "hat_noise_cancelling",
+    "fg": [ "hat_noise_cancelling" ],
+    "bg": [  ]
+  },
+  {
+    "id": "helmet_army",
+    "fg": [ "helmet_army" ],
+    "bg": [  ]
+  },
+  {
+    "id": "helmet_barbute",
+    "fg": [ "helmet_barbute" ],
+    "bg": [  ]
+  },
+  {
+    "id": "helmet_chitin",
+    "fg": [ "helmet_chitin" ],
+    "bg": [  ]
+  },
+  {
+    "id": "helmet_kabuto",
+    "fg": [ "helmet_kabuto" ],
+    "bg": [  ]
+  },
+  {
+    "id": "hoodie",
+    "fg": [ "hoodie" ],
+    "bg": [  ]
+  },
+  {
+    "id": "jeans",
+    "fg": [ "jeans" ],
+    "bg": [  ]
+  },
+  {
+    "id": "longshirt",
+    "fg": [ "longshirt" ],
+    "bg": [  ]
+  },
+  {
+    "id": "maid_dress",
+    "fg": [ "maid_dress" ],
+    "bg": [  ]
+  },
+  {
+    "id": "maid_hat",
+    "fg": [ "maid_hat" ],
+    "bg": [  ]
+  },
+  {
+    "id": "mask_dust",
+    "fg": [ "mask_dust" ],
+    "bg": [  ]
+  },
+  {
+    "id": "panties",
+    "fg": [ "panties" ],
+    "bg": [  ]
+  },
+  {
+    "id": "pants",
+    "fg": [ "pants" ],
+    "bg": [  ]
+  },
+  {
+    "id": "pants_cargo",
+    "fg": [ "pants_cargo" ],
+    "bg": [  ]
+  },
+  {
+    "id": "ragpouch",
+    "fg": [ "ragpouch" ],
+    "bg": [  ]
+  },
+  {
+    "id": "sneakers",
+    "fg": [ "sneakers" ],
+    "bg": [  ]
+  },
+  {
+    "id": "socks",
+    "fg": [ "socks" ],
+    "bg": [  ]
+  },
+  {
+    "id": "stockings",
+    "fg": [ "stockings" ],
+    "bg": [  ]
+  },
+  {
+    "id": "sweater",
+    "fg": [ "sweater" ],
+    "bg": [  ]
+  },
+  {
+    "id": "sweatshirt",
+    "fg": [ "sweatshirt" ],
+    "bg": [  ]
+  },
+  {
+    "id": "tank_top",
+    "fg": [ "tank_top" ],
+    "bg": [  ]
+  },
+  {
+    "id": "tshirt",
+    "fg": [ "tshirt" ],
+    "bg": [  ]
+  },
+  {
+    "id": "turban",
+    "fg": [ "turban" ],
+    "bg": [  ]
+  },
+  {
+    "id": "undershirt",
+    "fg": [ "undershirt" ],
+    "bg": [  ]
   }
 ]
