@@ -1,0 +1,12 @@
+[
+{
+  "id": "overlay_wielded_flashlight",
+  "fg": ["flashlight_wielded"],
+  "bg": []
+},
+{
+  "id": "overlay_wielded_heavy_flashlight",
+  "fg": ["heavy_flashlight_wielded"],
+  "bg": []
+}
+]
