@@ -25,6 +25,16 @@
     "bg": [  ]
   },
   {
+    "id": [ "overlay_effects_hot" ],
+    "fg": [ "overlay_effects_hot" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "overlay_effects_cold" ],
+    "fg": [ "overlay_effects_cold" ],
+    "bg": [  ]
+  },
+  {
     "id": [ "overlay_male_crouch", "overlay_female_crouch" ],
     "fg": [ "overlay_mf_crouch" ],
     "bg": [  ]
@@ -37,6 +47,11 @@
   {
     "id": [ "overlay_hostile_sees_player" ],
     "fg": [ "overlay_hostile_sees_player" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "zombie_revival_indicator" ],
+    "fg": [ "zombie_revival_indicator" ],
     "bg": [  ]
   }
 ]
