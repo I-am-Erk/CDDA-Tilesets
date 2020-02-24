@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./screenshots/UltimateCataclysm/showcase-feb-2020" alt="Showcase">
+    <img src="./screenshots/UltimateCataclysm/showcase-feb-2020.png" alt="Showcase">
 </p>
 
 <p align="center">
