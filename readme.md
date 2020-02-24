@@ -1,5 +1,5 @@
 <p align="center">
-![Current screenshot](./screenshots/UltimateCataclysm/example_8oct2019.png)
+    <img src="./screenshots/UltimateCataclysm/example_8oct2019.png" alt="Current screenshot">
 </p>
 
 <p align="center">
