@@ -23,7 +23,7 @@ This repository stores individual sprites for UltiCa in PNG format, and also sou
 
   It should look like: `cataclysmdda\gfx\UltimateCataclysm`.
 
-> ⚠️: If you have "Missing "tile_config.json" file" error upon loading tileset, this means that you downloaded and extracted the source code, and **not** the tileset. Consult #82.
+> ⚠️: If you have "Missing "tile_config.json" file" error upon loading tileset, this means that you downloaded and extracted the source code, and **not** the tileset. Consult [#82](../../issues/82).
 
 
 ## Style Guides
