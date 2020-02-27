@@ -15,6 +15,11 @@
     "bg": [  ]
   },
   {
+    "id": "boxer_briefs",
+    "fg": [ "boxer_briefs" ],
+    "bg": [  ]
+  },
+  {
     "id": "boxer_shorts",
     "fg": [ "boxer_shorts" ],
     "bg": [  ]
@@ -27,6 +32,11 @@
   {
     "id": "bra",
     "fg": [ "bra" ],
+    "bg": [  ]
+  },
+  {
+    "id": "briefs",
+    "fg": [ "briefs" ],
     "bg": [  ]
   },
   {
@@ -127,6 +137,11 @@
   {
     "id": "pants_cargo",
     "fg": [ "pants_cargo" ],
+    "bg": [  ]
+  },
+  {
+    "id": "polo_shirt",
+    "fg": [ "polo_shirt" ],
     "bg": [  ]
   },
   {
