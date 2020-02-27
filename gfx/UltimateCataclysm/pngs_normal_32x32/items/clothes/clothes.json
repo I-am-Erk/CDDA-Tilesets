@@ -178,5 +178,15 @@
     "id": "undershirt",
     "fg": [ "undershirt" ],
     "bg": [  ]
+  },
+  {
+    "id": "coat_lab",
+    "fg": [ "coat_lab" ],
+    "bg": [  ]
+  },
+  {
+    "id": "coat_rain",
+    "fg": [ "coat_rain" ],
+    "bg": [  ]
   }
 ]
