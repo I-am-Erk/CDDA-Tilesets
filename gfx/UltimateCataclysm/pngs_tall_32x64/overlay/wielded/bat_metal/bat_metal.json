@@ -1,0 +1,16 @@
+[
+  {
+    "id": "overlay_female_wielded_bat_metal",
+    "fg": [
+      "bat_metal_f"
+    ],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_wielded_bat_metal",
+    "fg": [
+      "bat_metal_m"
+    ],
+    "bg": []
+  }
+]
