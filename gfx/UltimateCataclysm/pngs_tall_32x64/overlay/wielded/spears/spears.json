@@ -1,0 +1,67 @@
+[
+  {
+    "id": "overlay_wielded_rebar",
+    "fg": ["rebar_mf"],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_wielded_pointy_stick",
+    "fg": ["pointy_stick_m"],
+    "bg": []
+  },
+  {
+    "id": "overlay_female_wielded_pointy_stick",
+    "fg": ["pointy_stick_f"],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_wielded_spear_wood",
+    "fg": ["spear_wood_m"],
+    "bg": []
+  },
+  {
+    "id": "overlay_female_wielded_spear_wood",
+    "fg": ["spear_wood_f"],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_wielded_spear_spike",
+    "fg": ["spear_spike_m"],
+    "bg": []
+  },
+  {
+    "id": "overlay_female_wielded_spear_spike",
+    "fg": ["spear_spike_f"],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_wielded_spear_knife",
+    "fg": ["spear_knife_m"],
+    "bg": []
+  },
+  {
+    "id": "overlay_female_wielded_spear_knife",
+    "fg": ["spear_knife_f"],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_wielded_spear_knife_superior",
+    "fg": ["spear_knife_superior_m"],
+    "bg": []
+  },
+  {
+    "id": "overlay_female_wielded_spear_knife_superior",
+    "fg": ["spear_knife_superior_f"],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_wielded_stick_long",
+    "fg": ["stick_long_m"],
+    "bg": []
+  },
+  {
+    "id": "overlay_female_wielded_stick_long",
+    "fg": ["stick_long_f"],
+    "bg": []
+  }
+]
