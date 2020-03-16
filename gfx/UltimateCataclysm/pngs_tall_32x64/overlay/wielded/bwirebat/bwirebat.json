@@ -1,0 +1,16 @@
+[
+  {
+    "id": "overlay_female_wielded_bwirebat",
+    "fg": [
+      "bwirebat_f"
+    ],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_wielded_bwirebat",
+    "fg": [
+      "bwirebat_m"
+    ],
+    "bg": []
+  }
+]
