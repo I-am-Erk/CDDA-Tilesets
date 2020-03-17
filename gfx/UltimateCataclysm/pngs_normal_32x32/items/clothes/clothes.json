@@ -203,5 +203,10 @@
     "id": "coat_rain",
     "fg": [ "coat_rain" ],
     "bg": [  ]
+  },
+  {
+    "id": "sports_bra",
+    "fg": [ "sports_bra" ],
+    "bg": [  ]
   }
 ]
