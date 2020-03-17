@@ -1,17 +1,7 @@
 [
   {
-    "id": "stick_long",
-    "fg": ["stick_long"],
-    "bg": []
-  },
-  {
     "id": "pointy_stick",
     "fg": ["pointy_stick"],
-    "bg": []
-  },
-  {
-    "id": "rebar",
-    "fg": ["rebar"],
     "bg": []
   },
   {

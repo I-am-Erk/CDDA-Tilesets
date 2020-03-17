@@ -1,0 +1,16 @@
+[
+  {
+    "id": "overlay_female_wielded_rebar",
+    "fg": [
+      "rebar_f"
+    ],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_wielded_rebar",
+    "fg": [
+      "rebar_m"
+    ],
+    "bg": []
+  }
+]
