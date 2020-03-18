@@ -208,5 +208,15 @@
     "id": "sports_bra",
     "fg": [ "sports_bra" ],
     "bg": [  ]
+  },
+  {
+    "id": "skirt",
+    "fg": [ "skirt" ],
+    "bg": [  ]
+  },
+  {
+    "id": "jacket_light",
+    "fg": [ "jacket_light" ],
+    "bg": [  ]
   }
 ]
