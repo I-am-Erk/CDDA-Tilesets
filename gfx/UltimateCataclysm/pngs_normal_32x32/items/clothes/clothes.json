@@ -218,5 +218,10 @@
     "id": "jacket_light",
     "fg": [ "jacket_light" ],
     "bg": [  ]
+  },
+  {
+    "id": "jacket_army",
+    "fg": [ "jacket_army" ],
+    "bg": [  ]
   }
 ]
