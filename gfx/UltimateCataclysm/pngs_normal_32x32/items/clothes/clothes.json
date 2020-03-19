@@ -223,5 +223,10 @@
     "id": "jacket_army",
     "fg": [ "jacket_army" ],
     "bg": [  ]
+  },
+  {
+    "id": "hat_hard",
+    "fg": [ "hat_hard" ],
+    "bg": [  ]
   }
 ]
