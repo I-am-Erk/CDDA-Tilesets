@@ -8,8 +8,7 @@ Generate preview for wielded/worn, item and moster sprites.
 
 2. Generate wielded or worn preview:
 ./tools/generate_preview.py -i gfx -o preview.png --scale 2
-                      --overlays jeans rebar
-                      --overlay-skin dark
+                      --overlays jeans rebar --overlay-skin dark
 
 3. Generate items preview with overlays (merge of --items and --overlay with the same id):
 ./tools/generate_preview.py -i gfx -o preview.png --scale 2
@@ -145,12 +144,12 @@ def main():
 
 
     # generate database
-    print('\033[94m  ℹ  database construction:')
+    print('\033[94m  ℹ  database construction:\033[0m')
     print('       collecting items..')
     items = flatten([parse_json_item(f) for f in Path(args.input).rglob('items/**/*.json')])
     print('       collecting overlays..')
     overlays = flatten([parse_json_item(f) for f in Path(args.input).rglob('overlay/**/*.json')])
-    print('       collecting monsters..\033[0m')
+    print('       collecting monsters..')
     monsters = flatten([parse_json_item(f) for f in Path(args.input).rglob('monsters/**/*.json')])
 
     # configuration
@@ -169,7 +168,7 @@ def main():
         }
     }
 
-    print('\033[94m  ℹ  configuration:\n{}\033[0m'.format(
+    print('\033[94m  ℹ  configuration:\n\033[0m{}'.format(
         '\n'.join(map(lambda x: ' ' * 7 + x, [
             f'preview items: {len(conf["items"]["ids"]) + len(conf["overitems"]["ids"])}',
             f'preview overlay: {len(conf["overlays"]["ids"]) + len(conf["overitems"]["ids"])}',
@@ -201,30 +200,30 @@ def main():
 
 
     # processing
-    print('\033[94m  ℹ  processing output image:')
+    print('\033[94m  ℹ  processing output image:\033[0m')
     layers = []
 
     if conf['items']['ids']:
-        print('\033[94m       items..')
+        print('       items..')
         layers.extend(pack_sprites(conf['items']['ids'], args.grid_width,
                       lambda id: res_or_warn(lambda: find_simple(items, id), 
                                              f"overlay for id \"{id}\" does not exist in the tileset !")))
 
     if conf['overlays']['ids']:
-        print('\033[94m       overlays..')
+        print('       overlays..')
         gender = args.overlay_gender
         layers.extend(pack_sprites(conf['overlays']['ids'], args.grid_width,
                       lambda id: res_or_warn(lambda: find_overlay(overlays, skin, gender, id), 
                                              f"overlay for id \"{id}\" does not exist in the tileset !")))
 
     if conf['monsters']['ids']:
-        print('\033[94m       monsters..')
+        print('       monsters..')
         layers.extend(pack_sprites(conf['monsters']['ids'], args.grid_width,
                       lambda id: res_or_warn(lambda: find_simple(monsters, id),
                                              f"monster with id \"{id}\" does not exist in the tileset !")))
 
     if conf['overitems']['ids']:
-        print('\033[94m       overlays with items..')
+        print('       overlays with items..')
         def _pack_overitem(id):
             overlay_images = find_overlay(overlays, skin, args.overlay_gender, id)
             if not overlay_images: 
@@ -244,7 +243,7 @@ def main():
 
         layers.extend(pack_sprites(conf['overitems']['ids'], args.grid_width, _pack_overitem))
 
-    print('\033[94m       writing..\033[0m')
+    print('       writing..')
     if layers:
         outimage = reduce(lambda img, new: img.join(new, 'vertical', expand=True, align='centre'), layers)
         outimage = outimage.resize(args.scale, kernel='nearest')
