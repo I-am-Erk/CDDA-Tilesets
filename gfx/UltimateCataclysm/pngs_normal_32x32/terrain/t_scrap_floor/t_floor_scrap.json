@@ -1,5 +1,5 @@
 {
-  "id": "f_floor_scrap",
+  "id": "t_floor_scrap",
   "multitile": true,
   "fg": [
     "f_floor_scrap_unconnected"
