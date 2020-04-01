@@ -16,6 +16,22 @@
     ]
   },
   {
+    "id": "t_chainfence_season_winter",
+    "multitile": true,
+	"rotates": false,
+    "fg": [ "t_chainfence_ew" ],
+    "bg": [ "snow_shallow" ],
+    "additional_tiles": [
+      { "id": "edge", "bg": [ "snow_shallow" ], "fg": [ "t_chainfence_ns", "t_chainfence_ew" ] },
+      {
+        "id": "end_piece",
+        "bg": [ "snow_shallow" ],
+        "fg": [ "t_chainfence_ns", "t_chainfence_ew", "t_chainfence_ns", "t_chainfence_ew" ]
+      },
+      { "bg": [ "snow_shallow" ], "id": "unconnected", "fg": [ "t_chainfence_ew" ] }
+    ]
+  },
+  {
     "id": "t_chaingate_c",
     "fg": [ "t_gate_chainlink_c" ],
     "bg": [ "t_pavement" ]
@@ -34,5 +50,25 @@
     "id": "t_chainfence_posts",
     "fg": [ "t_chainfence_posts" ],
     "bg": [ "t_pavement" ]
+  },
+  {
+    "id": "t_chaingate_c_season_winter",
+    "fg": [ "t_gate_chainlink_c" ],
+    "bg": [ "snow_shallow" ]
+  },
+  {
+    "id": "t_chaingate_l_season_winter",
+    "fg": [ "t_gate_chainlink_l" ],
+    "bg": [ "snow_shallow" ]
+  },
+  {
+    "id": "t_chaingate_o_season_winter",
+    "fg": [ "t_gate_chainlink_o" ],
+    "bg": [ "snow_shallow" ]
+  },
+  {
+    "id": "t_chainfence_posts_season_winter",
+    "fg": [ "t_chainfence_posts" ],
+    "bg": [ "snow_shallow" ]
   }
 ]

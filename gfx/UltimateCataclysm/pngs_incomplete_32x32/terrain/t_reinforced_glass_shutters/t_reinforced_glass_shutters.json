@@ -1,0 +1,12 @@
+[
+  {
+    "id": "t_reinforced_glass_shutter",
+    "fg": [ "t_reinforced_glass_shutter" ],
+    "bg": [  ]
+  },
+  {
+    "id": "t_reinforced_glass_shutter_open",
+    "fg": [ "t_reinforced_glass_shutter_open" ],
+    "bg": [  ]
+  }
+]
