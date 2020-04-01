@@ -2,6 +2,6 @@
   {
     "id": "t_machinery_heavy",
     "fg": ["t_machinery_heavy"],
-    "bg": ["t_dirt_tall"]
+    "bg": ["t_concrete_tall"]
   }
 ]
