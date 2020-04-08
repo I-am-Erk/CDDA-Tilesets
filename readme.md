@@ -28,13 +28,15 @@ This repository stores individual sprites for UltiCa in PNG format, and also sou
 
 ## Style Guides
 
-We don't have very strict rules about how and what you should be drawing, but we do have some guides that helps maintain consistency across sprites. These are divided between groups: *general*, *items* (things on the floor), *overlay* (wielded/worn/mutations), *monsters* and *terrain*.
+We have rules for sprites these days. Not because it's important to keep the tileset consistent, but to keep things recognizable on the screen in the game. Without strict rules, UltiCa will quickly turn into the pixels mash up. Rules and guidelines are divided between groups: *general*, *items* (things on the floor), *overlay* (wielded/worn/mutations), *monsters* and *terrain*.
 
 ### General
-- Try to draw with real life proportions;
-- Use a limited set of colors as in pseudo-16 bit format. This means that each "colour block" should use 3-6 colors for shades. For example a blue shirt might have one light blue highlight, two medium blue main colours, one dark blue shade, and one very dark blue-green shade.
+- Try to draw with realistic proportions;
+- Use a limited set of colors as in pseudo-16 bit format. This means that each "colour block" should use 3-6 colors for shades. For example a blue shirt might have one light blue highlight, two medium blue main colours, one dark blue shade, and one very dark blue-green shade. See [colors tutorials section](https://lospec.com/pixel-art-tutorials/tags/colors) on lospec if you having troubles with palette.
 - The default light source is assumed to come from above and to the left.
-- Avoid full black outlines.
+- Use hard-edges on foreground objects such as items and monsters. This is important because it makes things much more recognizable when zoomed out.
+    
+    <img src="./doc/guidelines/hard-edge.png"/>
 
 ### Items
 - 32x32 tile base; small items should fit within 16x16.
@@ -44,15 +46,20 @@ We don't have very strict rules about how and what you should be drawing, but we
 - 100% black underline; this helps to identify an item in the game world.
 
 ### Overlay
-- 32x64 tile base; see [base male sprite](./gfx/UltimateCataclysm/pngs_tall_32x64/overlay/skin/skin_light/skin_light_m.png) and [base female sprite](./gfx/UltimateCataclysm/pngs_tall_32x64/overlay/skin/skin_light/skin_light_f.png) for reference.
+- 32x64 tile base; use these as reference (base male and base female sprites): 
+
+    <img src="./gfx/UltimateCataclysm/pngs_tall_32x64/overlay/skin/skin_light/skin_light_m.png" /> <img src="./gfx/UltimateCataclysm/pngs_tall_32x64/overlay/skin/skin_light/skin_light_f.png" />
 
 ### Monsters
 - Take appropriate tile size; consider 32x64 a default human size.
 - Monster sprites should have ~8px offset from the ground to give them a 3d look.
-- Monsters should drop shadows when possible: 50% opaque black, extending behind and to the right of the sprite.
+- Monsters should drop shadows when possible: 50% opaque black, ellipsis under the body.
 
 ### Terrain
 - Walls and floors are 32x32, other things you should size accordingly to it's size in the world.
+- It's important to keep value level of the background objects (terrain, furniture) about 60-80, because it would define foreground entities (e.g. monsters) better.
+    
+    <img src="./doc/guidelines/bg-value.png"/>
 
 ## Folder/Filename Structure
 - Put files into the best appropriate folder (terrain, furniture, mutations, items, etc).
