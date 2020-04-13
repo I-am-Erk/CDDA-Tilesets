@@ -1,3 +1,16 @@
 .DS_Store
 # generated on build
 gfx/*/tile_config.json
+
+# UltimateCataclysm built sprite sheets
+gfx/UltimateCataclysm/fillerhoder.png
+gfx/UltimateCataclysm/giant.png
+gfx/UltimateCataclysm/incomplete.png
+gfx/UltimateCataclysm/huge.png
+gfx/UltimateCataclysm/large.png
+gfx/UltimateCataclysm/normal.png
+gfx/UltimateCataclysm/opengameartgiant.png
+gfx/UltimateCataclysm/tall.png
+
+# BrownLikeBears built sprite sheets
+gfx/BrownLikeBears/tiles.png
