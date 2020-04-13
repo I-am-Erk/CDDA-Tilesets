@@ -32,7 +32,7 @@ We have rules for sprites these days. Not because it's important to keep the til
 
 ### General
 - Try to draw with realistic proportions;
-- Use a limited set of colors as in pseudo-16 bit format. This means that each "colour block" should use 3-6 colors for shades. For example a blue shirt might have one light blue highlight, two medium blue main colours, one dark blue shade, and one very dark blue-green shade. See [colors tutorials section](https://lospec.com/pixel-art-tutorials/tags/colors) on lospec if you having troubles with palette.
+- Use a limited set of colors as in pseudo-16 bit format. This means that each "colour block" should use 3-6 colors for shades. For example a blue shirt might have one light blue highlight, two medium blue main colours, one dark blue shade, and one very dark blue-green shade. See [colors tutorials section](https://lospec.com/pixel-art-tutorials/tags/colors) on lospec if you're having troubles with palette.
 - The default light source is assumed to come from above and to the left.
 - Use hard-edges on foreground objects such as items and monsters. This is important because it makes things much more recognizable when zoomed out.
     
