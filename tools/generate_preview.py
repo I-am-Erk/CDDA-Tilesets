@@ -25,6 +25,10 @@ Generate preview for wielded/worn, item and moster sprites.
                       --items 2x4 stick scrap
                       --overlays-with-items box_small box_medium box_large
                       --overlays jumpsuit
+
+6. Generate anything from path:
+./tools/generate_preview.py -i gfx -o preview.png --scale 2
+                      --from-path pngs_normal_32x_32/monsters
 """
 
 import os
@@ -102,16 +106,17 @@ def find_overlay(db, skin, gender, id):
 
 
 def pack_sprites(l, grid_size, fun):
-    chunks = chunked(l, grid_size)
+    arr = []
+    for id in l:
+        res = fun(id)
+        if res:
+            arr.extend(res)
+
     layers = []
-    for chunk in chunks:
-        arr = []
-        for id in chunk:
-            res = fun(id)
-            if res:
-                arr.extend(res)
-        if arr:
-            out = reduce(lambda img, new: img.join(new, 'horizontal', expand=True, align='centre'), arr)
+    if arr:
+        chunks = chunked(arr, grid_size)
+        for chunk in chunks:
+            out = reduce(lambda img, new: img.join(new, 'horizontal', expand=True, align='centre'), chunk)
             layers.append(out)
     return layers
 
@@ -125,6 +130,7 @@ def main():
     ids_group.add_argument('--overlays', nargs='+', help='id for wield/worn to preview')
     ids_group.add_argument('--overlays-with-items', nargs='+', help='id for wield/worn + same id items to preview')
     ids_group.add_argument('--monsters', nargs='+', help='id for mosters to preview')
+    ids_group.add_argument('--from-path', nargs='+', help='get ids from jsons in given path')
 
     overlay_group = parser.add_argument_group('optional overlay options')
     overlay_group.add_argument('--overlay-gender', help='gender of a dummy', default='male', choices={'male', 'female'})
@@ -133,12 +139,12 @@ def main():
     base_group = parser.add_argument_group('base options')
     base_group.add_argument('-i', '--input', help='input path (gfx directory)', required=True)
     base_group.add_argument('-o', '--output', help='output path', default='output.png')
-    base_group.add_argument('-s', '--scale', help='output image scale', default=2)
-    base_group.add_argument('-gw', '--grid-width', help='maximum grid width of output image', default=9)
+    base_group.add_argument('-s', '--scale', help='output image scale', type=int, default=2)
+    base_group.add_argument('-gw', '--grid-width', help='maximum grid width of output image', type=int, default=9)
 
     args = parser.parse_args()
 
-    if not args.items and not args.overlays and not args.overlays_with_items and not args.monsters:
+    if not args.items and not args.overlays and not args.overlays_with_items and not args.monsters and not args.from_path:
         print(f'\033[91m  ✘  error: no input ids.\033[0m')
         sys.exit(1)
 
@@ -167,6 +173,17 @@ def main():
             'ids': args.monsters if args.monsters else []
         }
     }
+
+    if args.from_path:
+        for p in args.from_path:
+            gathered = flatten([parse_json_item(f) for f in Path(args.input).rglob(f'{p}/**/*.json')])
+            for data in gathered:
+                if data['id'].startswith('mon'):
+                    conf['monsters']['ids'].append(data['id'])
+                elif data['id'].startswith('overlay'):
+                    conf['overlays']['ids'].append(data['id'])
+                else:
+                    conf['items']['ids'].append(data['id'])
 
     print('\033[94m  ℹ  configuration:\n\033[0m{}'.format(
         '\n'.join(map(lambda x: ' ' * 7 + x, [
