@@ -8,5 +8,19 @@
     "id": "mon_zombie_corrosive",
     "fg": ["mon_zombie_corrosive"],
     "bg": []
+  },
+  {
+    "id": "mon_zombie_spitter",
+    "fg": [
+      "mon_zombie_spitter"
+    ],
+    "bg": []
+  },
+  {
+    "id": "corpse_mon_zombie_spitter",
+    "fg": [
+      "corpse_mon_zombie_spitter"
+    ],
+    "bg": []
   }
 ]
