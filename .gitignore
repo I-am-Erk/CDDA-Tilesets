@@ -15,3 +15,4 @@ gfx/UltimateCataclysm/tall.png
 # BrownLikeBears built sprite sheets
 gfx/BrownLikeBears/tiles.png
 build/compose.py
+tools/compose.py
