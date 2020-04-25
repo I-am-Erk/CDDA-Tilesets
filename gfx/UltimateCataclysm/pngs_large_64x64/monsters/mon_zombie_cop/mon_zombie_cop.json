@@ -2,11 +2,11 @@
   {
     "id": "mon_zombie_cop",
     "fg": ["mon_zombie_cop"],
-    "bg": []
+    "bg": ["shadow_64x64_normal"]
   },
   {
     "id": "mon_zombie_labsecurity",
     "fg": ["mon_zombie_labsecurity"],
-    "bg": []
+    "bg": ["shadow_64x64_normal"]
   }
 ]

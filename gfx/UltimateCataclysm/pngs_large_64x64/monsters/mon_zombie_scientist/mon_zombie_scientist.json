@@ -4,5 +4,5 @@
       { "weight": 1, "sprite": "mon_zombie_scientist_f" }, 
       { "weight": 1, "sprite": "mon_zombie_scientist_m" }
     ],
-    "bg": []
+    "bg": ["shadow_64x64_normal"]
   }
