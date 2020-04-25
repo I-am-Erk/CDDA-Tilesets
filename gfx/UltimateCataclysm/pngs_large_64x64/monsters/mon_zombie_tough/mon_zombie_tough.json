@@ -2,7 +2,7 @@
   {
     "id": "mon_zombie_tough",
     "fg": ["mon_zombie_tough"],
-    "bg": []
+    "bg": ["shadow_64x64_normal"]
   },
   {
     "id": "corpse_mon_zombie_tough",

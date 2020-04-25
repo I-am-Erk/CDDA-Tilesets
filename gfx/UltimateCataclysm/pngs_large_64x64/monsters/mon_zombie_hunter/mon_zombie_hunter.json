@@ -1,7 +1,5 @@
 {
   "id": "mon_zombie_hunter",
-  "fg": [
-    "mon_zombie_hunter"
-  ],
-  "bg": []
+  "fg": [ "mon_zombie_hunter" ],
+  "bg": ["shadow_64x64_medium"]
 }

@@ -2,12 +2,12 @@
   {
     "id": "mon_ant_soldier",
     "fg": ["mon_ant_soldier"],
-    "bg": []
+    "bg": ["shadow_64x64_large"]
   },
   {
     "id": "mon_ant_acid_soldier",
     "fg": ["mon_ant_acid_soldier"],
-    "bg": []
+    "bg": ["shadow_64x64_large"]
   },
   {
     "id": "corpse_mon_ant_soldier",
@@ -22,12 +22,12 @@
   {
     "id": "mon_ant_queen",
     "fg": ["mon_ant_queen"],
-    "bg": []
+    "bg": ["shadow_64x64_large"]
   },
   {
     "id": "mon_ant_acid_queen",
     "fg": ["mon_ant_acid_queen"],
-    "bg": []
+    "bg": ["shadow_64x64_large"]
   },
   {
     "id": "corpse_mon_ant_queen",

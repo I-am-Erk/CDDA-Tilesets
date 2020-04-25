@@ -1,5 +1,5 @@
 {
   "id": "mon_boomer",
   "fg": [ "mon_boomer" ],
-  "bg": []
+  "bg": ["shadow_64x64_normal"]
 }
