@@ -40,6 +40,11 @@
     "bg": [  ]
   },
   {
+    "id": "corset",
+    "fg": [ "corset" ],
+    "bg": [  ]
+  },
+  {
     "id": "cowboy_hat",
     "fg": [ "cowboy_hat" ],
     "bg": [  ]
