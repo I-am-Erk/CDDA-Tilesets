@@ -65,37 +65,53 @@ def res_or_warn(fun, warn):
         return None
 
 
-def map_fg(path, item):
-    if type(item) is dict:
-        id = item["sprite"]
-    else:
-        id = item
-    return str(Path(path.parent, f"{id}.png"))
+def map_img(item):
+    return item["sprite"] if type(item) is dict else item
 
 
 def parse_json_item(item):
     with open(item) as f:
         raw = wrap(json.load(f))
         w, h = [x for x in item.parts if x.startswith('pngs_')][0].split('_')[-1].split('x')
-        res = [[{'id': j, 'fg': list(map(lambda x: map_fg(item, x), i['fg'])), 'w': w, 'h': h} for j in wrap(i['id'])] for i in raw]
+        res = [[{
+            'id': j, 
+            'fg': list(map(map_img, i['fg'])), 
+            'bg': list(map(map_img, i['bg'])), 
+            'w': w, 
+            'h': h
+        } for j in wrap(i['id'])] for i in raw]
         return flatten(res)
 
 
-def find_simple(db, id):
+def get_img(images, id):
+    return str(images[id])
+
+
+def merge_fg_and_bg(images, fg, bg):
+    if bg and fg:
+        return [pyvips.Image.new_from_file(get_img(images, b), access='sequential')
+                .composite2(pyvips.Image.new_from_file(get_img(images, f), access='sequential'), "VIPS_BLEND_MODE_OVER") 
+                for f in fg for b in bg]
+    elif fg:
+        return [pyvips.Image.new_from_file(get_img(images, f), access='sequential') for f in fg]
+    else:
+        return []
+
+
+def find_simple(images, db, id):
     entry = next((i for i in db if i['id'] == id), None)
     if entry:
-        images = [pyvips.Image.new_from_file(x, access='sequential') for x in entry['fg']]
-        return images
+        return merge_fg_and_bg(images, entry['fg'], entry['bg'])
     else:
         return None
 
 
-def find_overlay(db, skin, gender, id):
+def find_overlay(images, db, skin, gender, id):
     entry = next((i for i in db if i['id'].startswith(f'overlay_{gender}') and i['id'].endswith('_' + id)), None)
     if not entry:
         entry = next((i for i in db if i['id'].startswith(f'overlay_') and i['id'].endswith('_' + id)), None)
     if entry:
-        images = [skin.composite2(pyvips.Image.new_from_file(x, access='sequential'), "VIPS_BLEND_MODE_OVER") for x in entry['fg']]
+        images = [skin.composite2(pyvips.Image.new_from_file(get_img(images, x), access='sequential'), "VIPS_BLEND_MODE_OVER") for x in entry['fg']]
         return images
     else:
         return None
@@ -145,6 +161,8 @@ def main():
 
     # generate database
     print('\033[94m  ℹ  database construction:\033[0m')
+    print('       collecting images..')
+    images = dict([(f.stem, f) for f in Path(args.input).rglob('**/*.png')])
     print('       collecting items..')
     items = flatten([parse_json_item(f) for f in Path(args.input).rglob('items/**/*.json')])
     print('       collecting overlays..')
@@ -193,7 +211,7 @@ def main():
                 raw = wrap(json.load(s))
                 for skindef in raw:
                     if skindef['id'] == skin_req_id:
-                        skin = pyvips.Image.new_from_file(str(Path(f.parent, f"{skindef['fg'][0]}.png")), access='sequential')
+                        skin = pyvips.Image.new_from_file(get_img(images, skindef['fg'][0]), access='sequential')
         if not skin:
             print(f'\033[91m  ✘  error: requested skin \"{args.overlay_skin}\" for gender \"{args.overlay_gender}\" not found !\033[0m')
             sys.exit(1)
@@ -206,30 +224,30 @@ def main():
     if conf['items']['ids']:
         print('       items..')
         layers.extend(pack_sprites(conf['items']['ids'], args.grid_width,
-                      lambda id: res_or_warn(lambda: find_simple(items, id), 
+                      lambda id: res_or_warn(lambda: find_simple(images, items, id), 
                                              f"overlay for id \"{id}\" does not exist in the tileset !")))
 
     if conf['overlays']['ids']:
         print('       overlays..')
         gender = args.overlay_gender
         layers.extend(pack_sprites(conf['overlays']['ids'], args.grid_width,
-                      lambda id: res_or_warn(lambda: find_overlay(overlays, skin, gender, id), 
+                      lambda id: res_or_warn(lambda: find_overlay(images, overlays, skin, gender, id), 
                                              f"overlay for id \"{id}\" does not exist in the tileset !")))
 
     if conf['monsters']['ids']:
         print('       monsters..')
         layers.extend(pack_sprites(conf['monsters']['ids'], args.grid_width,
-                      lambda id: res_or_warn(lambda: find_simple(monsters, id),
+                      lambda id: res_or_warn(lambda: find_simple(images, monsters, id),
                                              f"monster with id \"{id}\" does not exist in the tileset !")))
 
     if conf['overitems']['ids']:
         print('       overlays with items..')
         def _pack_overitem(id):
-            overlay_images = find_overlay(overlays, skin, args.overlay_gender, id)
+            overlay_images = find_overlay(images, overlays, skin, args.overlay_gender, id)
             if not overlay_images: 
                 print(f'\033[93m  ⚠️  warning: overlay for id \"{id}\" does not exist in the tileset !\033[0m')
 
-            item_images = find_simple(items, id)
+            item_images = find_simple(images,items, id)
             if not item_images: 
                 print(f'\033[93m  ⚠️  warning: item with id \"{id}\" does not exist in the tileset !\033[0m')
             if overlay_images and item_images:
