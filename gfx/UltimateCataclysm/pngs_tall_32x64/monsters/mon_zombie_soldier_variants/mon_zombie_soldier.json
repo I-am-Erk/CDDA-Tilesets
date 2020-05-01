@@ -2,6 +2,6 @@
 {
   "id": "mon_zombie_soldier",
   "fg": [ "soldier_filler" ],
-  "bg": [ ]
+  "bg": ["shadow_32x64_normal"]
 }
 ]

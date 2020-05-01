@@ -2,6 +2,6 @@
 {
   "id": "mon_zombie_brainless",
   "fg": [ "zombie_headless_f" ],
-  "bg": [ ]
+  "bg": ["shadow_32x64_normal"]
 }
 ]

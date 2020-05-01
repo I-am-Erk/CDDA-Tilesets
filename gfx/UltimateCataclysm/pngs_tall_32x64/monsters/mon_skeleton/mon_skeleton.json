@@ -2,6 +2,6 @@
 {
   "id": "mon_skeleton",
   "fg": ["mon_skeleton"],
-  "bg": []
+  "bg": ["shadow_32x64_normal"]
 }
 ]
