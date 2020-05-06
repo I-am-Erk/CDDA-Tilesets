@@ -17,7 +17,7 @@
   {
     "id": "t_tree_chestnut_season_winter",
     "fg": [ "chestnut_dead_yar" ],
-    "bg": [ "shallow_snow_giant" ]
+    "bg": [ "snow_shallow_giant" ]
   },
   {
     "id": "t_tree_pine",
@@ -37,7 +37,7 @@
   {
     "id": "t_tree_pine_season_winter",
     "fg": [ "pine_yar" ],
-    "bg": [ "shallow_snow_giant" ]
+    "bg": [ "snow_shallow_giant" ]
   },
   {
     "id": "t_tree_deadpine",
@@ -57,7 +57,7 @@
   {
     "id": "t_tree_deadpine_season_winter",
     "fg": [ "deadpine_yar" ],
-    "bg": [ "shallow_snow_giant" ]
+    "bg": [ "snow_shallow_giant" ]
   },
   {
     "id": "t_tree_hickory",
@@ -77,7 +77,7 @@
   {
     "id": "t_tree_hickory_season_winter",
     "fg": [ "hickory_dead_yar" ],
-    "bg": [ "shallow_snow_giant" ]
+    "bg": [ "snow_shallow_giant" ]
   },
   {
     "id": "t_tree_hickory_dead",
@@ -97,6 +97,6 @@
   {
     "id": "t_tree_hickory_dead_season_winter",
     "fg": [ "hickory_dead_yar" ],
-    "bg": [ "shallow_snow_giant" ]
+    "bg": [ "snow_shallow_giant" ]
   }
 ]

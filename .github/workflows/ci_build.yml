@@ -46,12 +46,10 @@ jobs:
           mv $tileset_dir/tile_config.json $artifact_name
           mv $tileset_dir/tileset.txt      $artifact_name
 
-          zip -r $artifact_name.zip $artifact_name
-
           echo ::set-output name=artifact_name::$artifact_name
 
       - name: Upload Artifacts
         uses: actions/upload-artifact@v1
         with:
-          name: ${{ steps.build.outputs.artifact_name }}.zip
-          path: build/${{ steps.build.outputs.artifact_name }}.zip
+          name: ${{ steps.build.outputs.artifact_name }}
+          path: build/${{ steps.build.outputs.artifact_name }}
