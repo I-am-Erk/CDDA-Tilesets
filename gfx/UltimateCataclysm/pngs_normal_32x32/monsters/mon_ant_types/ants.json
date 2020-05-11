@@ -2,12 +2,12 @@
   {
     "id": "mon_ant",
     "fg": ["mon_ant"],
-    "bg": []
+    "bg": ["shadow_32x32_normal"]
   },
   {
     "id": "mon_ant_acid",
     "fg": ["mon_ant_acid"],
-    "bg": []
+    "bg": ["shadow_32x32_normal"]
   },
   {
     "id": "corpse_mon_ant",
@@ -22,12 +22,12 @@
   {
     "id": "mon_ant_larva",
     "fg": ["mon_ant_larva"],
-    "bg": []
+    "bg": ["shadow_32x32_small"]
   },
   {
     "id": "mon_ant_acid_larva",
     "fg": ["mon_ant_acid_larva"],
-    "bg": []
+    "bg": ["shadow_32x32_small"]
   },
   {
     "id": "corpse_mon_ant_larva",
