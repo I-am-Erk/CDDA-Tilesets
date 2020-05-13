@@ -2,7 +2,7 @@
   "id": "t_console",
   "animated": true,
   "fg": [
-    { "weight": 15, "sprite": "t_console_0" },
+    { "weight": 15, "sprite": "160_t_console_0" },
     { "weight": 15, "sprite": "t_console_1" },
     { "weight": 15, "sprite": "t_console_2" },
     { "weight": 15, "sprite": "t_console_3" }
