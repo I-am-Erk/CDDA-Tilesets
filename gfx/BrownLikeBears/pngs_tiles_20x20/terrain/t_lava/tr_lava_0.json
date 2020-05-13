@@ -1,5 +1,5 @@
 {
-  "id": "t_lava",
+  "id": "tr_lava",
   "animated": true,
   "fg": [
     { "weight": 15, "sprite": "427_t_lava_0" },
