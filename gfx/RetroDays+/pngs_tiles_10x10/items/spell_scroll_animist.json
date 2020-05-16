@@ -1,0 +1,56 @@
+[
+  {
+    "id": "spell_scroll_smite",
+    "fg": "spell_scroll_animist",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_recover_mana",
+    "fg": "spell_scroll_animist",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_recover_pain",
+    "fg": "spell_scroll_animist",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_summon_zombie",
+    "fg": "spell_scroll_animist",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_summon_skeleton",
+    "fg": "spell_scroll_animist",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_summon_skeleton",
+    "fg": "spell_scroll_animist",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_summon_decayed_pouncer",
+    "fg": "spell_scroll_animist",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_necrotic_gaze",
+    "fg": "spell_scroll_animist",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_summon_wisps",
+    "fg": "spell_scroll_animist",
+    "rotates": false,
+    "bg": [  ]
+  }
+]

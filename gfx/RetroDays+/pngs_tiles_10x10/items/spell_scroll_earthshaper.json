@@ -1,0 +1,74 @@
+[
+  {
+    "id": "spell_scroll_stonefist",
+    "fg": "spell_scroll_earthshaper",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_seismic_stomp",
+    "fg": "spell_scroll_earthshaper",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_recover_stamina",
+    "fg": "spell_scroll_earthshaper",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_eshaper_shardspray",
+    "fg": "spell_scroll_earthshaper",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_eshaper_piercing_bolt",
+    "fg": "spell_scroll_earthshaper",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_eshaper_shardstorm",
+    "fg": "spell_scroll_earthshaper",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_eshaper_rockbolt",
+    "fg": "spell_scroll_earthshaper",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_clairvoyance",
+    "fg": "spell_scroll_earthshaper",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_lava_bomb",
+    "fg": "spell_scroll_earthshaper",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_acid_resistance",
+    "fg": "spell_scroll_earthshaper",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_earthshaper_stoneskin",
+    "fg": "spell_scroll_earthshaper",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_earthshaper_pillar",
+    "fg": "spell_scroll_earthshaper",
+    "rotates": false,
+    "bg": [  ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "spell_scroll_acid_resistance",
+    "fg": "spell_scroll",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_crystallize_mana",
+    "fg": "spell_scroll",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_dark_sight",
+    "fg": "spell_scroll",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_obfuscated_body",
+    "fg": "spell_scroll",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_blinding_flash",
+    "fg": "spell_scroll",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_create_atomic_light",
+    "fg": "spell_scroll",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_blinding_flash",
+    "fg": "spell_scroll",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_ethereal_grasp",
+    "fg": "spell_scroll",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_protection_aura",
+    "fg": "spell_scroll",
+    "rotates": false,
+    "bg": [  ]
+  }
+]

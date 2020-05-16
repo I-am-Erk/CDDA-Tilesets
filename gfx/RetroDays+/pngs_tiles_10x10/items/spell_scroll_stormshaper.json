@@ -1,0 +1,56 @@
+[
+  {
+    "id": "spell_scroll_jolt",
+    "fg": "spell_scroll_stormshaper",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_lightning_bolt",
+    "fg": "spell_scroll_stormshaper",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_windstrike",
+    "fg": "spell_scroll_stormshaper",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_windrun",
+    "fg": "spell_scroll_stormshaper",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_storm_hammer",
+    "fg": "spell_scroll_stormshaper",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_lightning_blast",
+    "fg": "spell_scroll_stormshaper",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "lightning_storm_scroll",
+    "fg": "spell_scroll_stormshaper",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_stormshaper_ionization",
+    "fg": "spell_scroll_stormshaper",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_stormshaper_wall_of_fog",
+    "fg": "spell_scroll_stormshaper",
+    "rotates": false,
+    "bg": [  ]
+  }
+]
