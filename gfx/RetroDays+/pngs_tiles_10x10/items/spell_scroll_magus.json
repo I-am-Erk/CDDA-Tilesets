@@ -1,0 +1,74 @@
+[
+  {
+    "id": "spell_scroll_magic_missile",
+    "fg": "spell_scroll_magus",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_phase_door",
+    "fg": "spell_scroll_magus",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_gravity_well",
+    "fg": "spell_scroll_magus",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_magus_mana_blast",
+    "fg": "spell_scroll_magus",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_magus_mana_bolt",
+    "fg": "spell_scroll_magus",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_magus_haste",
+    "fg": "spell_scroll_magus",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_magus_mana_beam",
+    "fg": "spell_scroll_magus",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_magus_escape",
+    "fg": "spell_scroll_magus",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_cats_grace",
+    "fg": "spell_scroll_magus",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_eagles_sight",
+    "fg": "spell_scroll_magus",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_ogres_strength",
+    "fg": "spell_scroll_magus",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_foxs_cunning",
+    "fg": "spell_scroll_magus",
+    "rotates": false,
+    "bg": [  ]
+  }
+]

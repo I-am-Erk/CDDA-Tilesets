@@ -1,0 +1,62 @@
+[
+  {
+    "id": "spell_scroll_light_healing",
+    "fg": "spell_scroll_biomancer",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_pain_split",
+    "fg": "spell_scroll_biomancer",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_vicious_tentacle",
+    "fg": "spell_scroll_biomancer",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_bio_grotesque",
+    "fg": "spell_scroll_biomancer",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_bio_acidicspray",
+    "fg": "spell_scroll_biomancer",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_bio_fleshpouch",
+    "fg": "spell_scroll_biomancer",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_bio_bonespear",
+    "fg": "spell_scroll_biomancer",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_biomancer_paralytic_dart",
+    "fg": "spell_scroll_biomancer",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_biomancer_visceral_projection",
+    "fg": "spell_scroll_biomancer",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_biomancer_coagulant_weave",
+    "fg": "spell_scroll_biomancer",
+    "rotates": false,
+    "bg": [  ]
+  }
+]

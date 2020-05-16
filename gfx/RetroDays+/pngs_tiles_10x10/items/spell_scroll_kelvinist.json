@@ -1,0 +1,80 @@
+[
+  {
+    "id": "spell_scroll_point_flare",
+    "fg": "spell_scroll_kelvinist",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_create_lighter",
+    "fg": "spell_scroll_kelvinist",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_ice_spike",
+    "fg": "spell_scroll_kelvinist",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_fireball",
+    "fg": "spell_scroll_kelvinist",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_cone_cold",
+    "fg": "spell_scroll_kelvinist",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_burning_hands",
+    "fg": "spell_scroll_kelvinist",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_frost_spray",
+    "fg": "spell_scroll_kelvinist",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_chilling_touch",
+    "fg": "spell_scroll_kelvinist",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_glide_ice",
+    "fg": "spell_scroll_kelvinist",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_hoary_blast",
+    "fg": "spell_scroll_kelvinist",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_ice_shield",
+    "fg": "spell_scroll_kelvinist",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_frost_armor",
+    "fg": "spell_scroll_kelvinist",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_glide_ice",
+    "fg": "spell_scroll_kelvinist",
+    "rotates": false,
+    "bg": [  ]
+  }
+]

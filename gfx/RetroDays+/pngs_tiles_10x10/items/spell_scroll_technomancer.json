@@ -1,0 +1,92 @@
+[
+  {
+    "id": "spell_scroll_bless",
+    "fg": "spell_scroll_technomancer",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_holy_blade",
+    "fg": "spell_scroll_technomancer",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_spirit_armor",
+    "fg": "spell_scroll_technomancer",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_create_atomic_lamp",
+    "fg": "spell_scroll_technomancer",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_recover_bionic_power",
+    "fg": "spell_scroll_technomancer",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_taze",
+    "fg": "spell_scroll_technomancer",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_quantum_tunnel_lesser",
+    "fg": "spell_scroll_technomancer",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_synaptic_stimulation",
+    "fg": "spell_scroll_technomancer",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_laze",
+    "fg": "spell_scroll_technomancer",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_animated_blade",
+    "fg": "spell_scroll_technomancer",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_mirror_image",
+    "fg": "spell_scroll_technomancer",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_x-ray",
+    "fg": "spell_scroll_technomancer",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_overcharge_eyes",
+    "fg": "spell_scroll_technomancer",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_invisibility",
+    "fg": "spell_scroll_technomancer",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_holographic_transposition",
+    "fg": "spell_scroll_technomancer",
+    "rotates": false,
+    "bg": [  ]
+  }
+]

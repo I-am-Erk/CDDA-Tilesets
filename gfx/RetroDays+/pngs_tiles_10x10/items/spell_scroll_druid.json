@@ -1,0 +1,56 @@
+[
+  {
+    "id": "spell_scroll_druid_veggrasp",
+    "fg": "spell_scroll_druid",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_druid_rootstrike",
+    "fg": "spell_scroll_druid",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_druid_woodshaft",
+    "fg": "spell_scroll_druid",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_druid_naturebow1",
+    "fg": "spell_scroll_druid",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_recover_fatigue",
+    "fg": "spell_scroll_druid",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_summon_cats",
+    "fg": "spell_scroll_druid",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_purification_seed",
+    "fg": "spell_scroll_druid",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_druidic_regrowth",
+    "fg": "spell_scroll_druid",
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "spell_scroll_druidic_healing",
+    "fg": "spell_scroll_druid",
+    "rotates": false,
+    "bg": [  ]
+  }
+]
