@@ -1,0 +1,32 @@
+[
+  {
+    "id": [ "t_window", "t_window_alarm" ],
+    "fg": [ "t_window" ],
+    "bg": [  ]
+  },
+  {
+    "id": "t_window_empty",
+    "fg": [ "t_window_empty" ],
+    "bg": [  ]
+  },
+  {
+    "id": "t_window_domestic",
+    "fg": [ "t_window_domestic" ],
+    "bg": [  ]
+  },
+  {
+    "id": "t_window_open",
+    "fg": [ "t_window_open" ],
+    "bg": [  ]
+  },
+  {
+    "id": "t_window_no_curtains",
+    "fg": [ "t_window_no_curtains" ],
+    "bg": [  ]
+  },
+  {
+    "id": "t_window_no_curtains_open",
+    "fg": [ "t_window_no_curtains_open" ],
+    "bg": [  ]
+  }
+]

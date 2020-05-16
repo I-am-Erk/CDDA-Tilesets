@@ -1,0 +1,102 @@
+[
+  {
+    "id": "t_tree_chestnut",
+    "fg": [ "chestnut_yar" ],
+    "bg": [ "t_dirt_giant" ]
+  },
+  {
+    "id": "t_tree_chestnut_season_summer",
+    "fg": [ "chestnut_dead_yar" ],
+    "bg": [ "t_dirt_summer_giant" ]
+  },
+  {
+    "id": "t_tree_chestnut_season_autumn",
+    "fg": [ "chestnut_dead_yar" ],
+    "bg": [ "t_dirt_autumn_giant" ]
+  },
+  {
+    "id": "t_tree_chestnut_season_winter",
+    "fg": [ "chestnut_dead_yar" ],
+    "bg": [ "snow_shallow_giant" ]
+  },
+  {
+    "id": "t_tree_pine",
+    "fg": [ "pine_yar" ],
+    "bg": [ "t_dirt_giant" ]
+  },
+  {
+    "id": "t_tree_pine_season_summer",
+    "fg": [ "pine_yar" ],
+    "bg": [ "t_dirt_summer_giant" ]
+  },
+  {
+    "id": "t_tree_pine_season_autumn",
+    "fg": [ "pine_yar" ],
+    "bg": [ "t_dirt_autumn_giant" ]
+  },
+  {
+    "id": "t_tree_pine_season_winter",
+    "fg": [ "pine_yar" ],
+    "bg": [ "snow_shallow_giant" ]
+  },
+  {
+    "id": "t_tree_deadpine",
+    "fg": [ "deadpine_yar" ],
+    "bg": [ "t_dirt_giant" ]
+  },
+  {
+    "id": "t_tree_deadpine_season_summer",
+    "fg": [ "deadpine_yar" ],
+    "bg": [ "t_dirt_summer_giant" ]
+  },
+  {
+    "id": "t_tree_deadpine_season_autumn",
+    "fg": [ "deadpine_yar" ],
+    "bg": [ "t_dirt_autumn_giant" ]
+  },
+  {
+    "id": "t_tree_deadpine_season_winter",
+    "fg": [ "deadpine_yar" ],
+    "bg": [ "snow_shallow_giant" ]
+  },
+  {
+    "id": "t_tree_hickory",
+    "fg": [ "hickory_yar" ],
+    "bg": [ "t_dirt_giant" ]
+  },
+  {
+    "id": "t_tree_hickory_season_summer",
+    "fg": [ "hickory_yar" ],
+    "bg": [ "t_dirt_summer_giant" ]
+  },
+  {
+    "id": "t_tree_hickory_season_autumn",
+    "fg": [ "hickory_yar" ],
+    "bg": [ "t_dirt_autumn_giant" ]
+  },
+  {
+    "id": "t_tree_hickory_season_winter",
+    "fg": [ "hickory_dead_yar" ],
+    "bg": [ "snow_shallow_giant" ]
+  },
+  {
+    "id": "t_tree_hickory_dead",
+    "fg": [ "hickory_dead_yar" ],
+    "bg": [ "t_dirt_giant" ]
+  },
+  {
+    "id": "t_tree_hickory_dead_season_summer",
+    "fg": [ "hickory_dead_yar" ],
+    "bg": [ "t_dirt_summer_giant" ]
+  },
+  {
+    "id": "t_tree_hickory_dead_season_autumn",
+    "fg": [ "hickory_dead_yar" ],
+    "bg": [ "t_dirt_autumn_giant" ]
+  },
+  {
+    "id": "t_tree_hickory_dead_season_winter",
+    "fg": [ "hickory_dead_yar" ],
+    "bg": [ "snow_shallow_giant" ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "id": ["t_shrub_rose"],
+        "fg": ["t_shrub_rose_harvested"],
+        "bg": ["t_dirt"]
+    },
+    {
+        "id": "t_shrub_rose_season_summer",
+        "fg": ["t_shrub_rose_harvested"],
+        "bg": ["t_dirt_summer"]
+    },
+    {
+        "id": "t_shrub_rose_harvested",
+        "fg": ["t_shrub_rose_harvested"],
+        "bg": ["t_dirt_autumn"]
+    },
+    {
+        "id": "t_shrub_rose_season_autumn",
+        "fg": ["t_shrub_rose_autumn"],
+        "bg": ["t_dirt_autumn"]
+    },
+    {
+        "id": "t_shrub_rose_season_winter",
+        "fg": ["t_shrub_rose_winter"],
+        "bg": ["snow_deep"]
+    }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "overlay_female_mutation_CHITIN2",
+    "fg": [
+      "chitin2_f"
+    ],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_mutation_CHITIN2",
+    "fg": [
+      "chitin2_m"
+    ],
+    "bg": []
+  }
+]

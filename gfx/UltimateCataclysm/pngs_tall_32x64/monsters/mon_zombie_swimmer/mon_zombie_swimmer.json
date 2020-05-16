@@ -1,0 +1,5 @@
+{
+  "id": "mon_zombie_swimmer",
+  "fg": ["swimzombie_bikini"],
+  "bg": ["shadow_32x64_normal"]
+}

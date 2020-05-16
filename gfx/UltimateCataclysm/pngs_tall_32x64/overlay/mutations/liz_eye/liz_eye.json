@@ -1,0 +1,16 @@
+[
+  {
+    "id": "overlay_female_mutation_LIZ_EYE",
+    "fg": [
+      "liz_eye_f"
+    ],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_mutation_LIZ_EYE",
+    "fg": [
+      "liz_eye_m"
+    ],
+    "bg": []
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "overlay_female_worn_hat_ball",
+    "fg": [
+      "hat_ball_f"
+    ],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_worn_hat_ball",
+    "fg": [
+      "hat_ball_m"
+    ],
+    "bg": []
+  }
+]

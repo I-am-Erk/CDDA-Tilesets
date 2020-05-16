@@ -1,0 +1,22 @@
+[
+  {
+    "id": "mon_zombie_acidic",
+    "fg": ["mon_zombie_acidic"],
+    "bg": ["shadow_64x64_normal"]
+  },
+  {
+    "id": "mon_zombie_corrosive",
+    "fg": ["mon_zombie_corrosive"],
+    "bg": ["shadow_64x64_normal"]
+  },
+  {
+    "id": "mon_zombie_spitter",
+    "fg": ["mon_zombie_spitter"],
+    "bg": ["shadow_64x64_normal"]
+  },
+  {
+    "id": "corpse_mon_zombie_spitter",
+    "fg": ["corpse_mon_zombie_spitter"],
+    "bg": []
+  }
+]

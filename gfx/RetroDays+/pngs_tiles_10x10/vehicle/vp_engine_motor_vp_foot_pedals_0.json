@@ -1,0 +1,1 @@
+{"id": ["vp_engine_motor", "vp_foot_pedals"], "fg": ["2250_vp_halfboard_cover_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["1183_vp_tank_medium_1"], "bg": []}], "bg": []}

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "overlay_female_mutation_FANGS",
+    "fg": [
+      "fangs_f"
+    ],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_mutation_FANGS",
+    "fg": [
+      "fangs_m"
+    ],
+    "bg": []
+  }
+]

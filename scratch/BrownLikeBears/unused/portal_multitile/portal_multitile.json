@@ -1,0 +1,25 @@
+{
+  "id": "tr_portal",
+  "animated": true,
+  "fg": [
+    { "weight": 10, "sprite": "12_tr_portal_0" },
+    { "weight": 10, "sprite": "tr_portal_1" },
+    { "weight": 10, "sprite": "tr_portal_2" },
+    { "weight": 10, "sprite": "tr_portal_3" },
+    { "weight": 10, "sprite": "tr_portal_4" },
+    { "weight": 10, "sprite": "tr_portal_5" }
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "center", "fg": [ "1748_tr_portal_1" ], "bg": [  ] },
+    { "id": "corner", "fg": [ "533_tr_portal_2" ], "bg": [  ] },
+    { "id": "edge", "fg": [ "1749_tr_portal_3" ], "bg": [  ] },
+    { "id": "t_connection", "fg": [ "1750_tr_portal_4" ], "bg": [  ] },
+    { "id": "end_piece", "fg": [ "1751_tr_portal_5" ], "bg": [  ] },
+    { "id": "unconnected", "fg": [ "12_tr_portal_0" ], "bg": [  ] }
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "tr_telepad",
+  "animated": true,
+  "fg": [
+    { "weight": 30, "sprite": "192_tr_telepad_0" },
+    { "weight": 30, "sprite": "tr_telepad_1" },
+    { "weight": 30, "sprite": "tr_telepad_2" },
+    { "weight": 30, "sprite": "tr_telepad_3" }
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

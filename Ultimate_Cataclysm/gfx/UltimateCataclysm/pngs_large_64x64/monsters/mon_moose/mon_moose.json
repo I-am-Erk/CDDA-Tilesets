@@ -1,8 +1,0 @@
-{
-  "id": "mon_moose",
-  "fg": [
-    { "weight": 2, "sprite": "mon_moose" },
-    { "weight": 2, "sprite": "mon_moose_female" }
-  ],
-  "bg": []
-}

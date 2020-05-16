@@ -1,0 +1,12 @@
+[
+{
+  "id": "t_stairs_up",
+  "fg": ["t_stairs_up"],
+  "bg": []
+},
+{
+  "id": "t_wood_stairs_up",
+  "fg": ["t_wood_stairs_up"],
+  "bg": []
+}
+]

@@ -1,0 +1,62 @@
+{
+  "id": "t_fence_wire",
+  "multitile": true,
+  "fg": [
+    "t_fence_wire_unconnected"
+  ],
+  "bg": [],
+  "additional_tiles": [
+    {
+      "id": "center",
+      "bg": [],
+      "fg": [
+        "t_fence_wire_center"
+      ]
+    },
+    {
+      "id": "corner",
+      "bg": [],
+      "fg": [
+        "t_fence_wire_corner_nw",
+        "t_fence_wire_corner_sw",
+        "t_fence_wire_corner_se",
+        "t_fence_wire_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "bg": [],
+      "fg": [
+        "t_fence_wire_t_connection_n",
+        "t_fence_wire_t_connection_w",
+        "t_fence_wire_t_connection_s",
+        "t_fence_wire_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "bg": [],
+      "fg": [
+        "t_fence_wire_edge_ns",
+        "t_fence_wire_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "bg": [],
+      "fg": [
+        "t_fence_wire_end_piece_n",
+        "t_fence_wire_end_piece_w",
+        "t_fence_wire_end_piece_s",
+        "t_fence_wire_end_piece_e"
+      ]
+    },
+    {
+      "bg": [],
+      "id": "unconnected",
+      "fg": [
+        "t_fence_wire_unconnected"
+      ]
+    }
+  ]
+}

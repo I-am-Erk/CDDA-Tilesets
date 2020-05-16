@@ -1,0 +1,18 @@
+[
+  {
+    "id": "mon_zombie",
+    "fg": [
+      { "weight": 100, "sprite": "mon_zombie_1" }, 
+      { "weight": 150, "sprite": "mon_zombie_2" }, 
+      { "weight": 100, "sprite": "mon_zombie_3" }, 
+      { "weight": 100, "sprite": "mon_zombie_4" }, 
+      { "weight": 150, "sprite": "mon_zombie_5" }
+    ],
+    "bg": [ "shadow_64x64_normal" ]
+  },
+  {
+    "id": ["corpse_mon_zombie", "corpse_mon_zombie_grappler", "corpse_mon_zombie_biter", "corpse_mon_zombie_hunter", "corpse_mon_zombie_brute", "corpse_mon_zombie_predator", "corpse_mon_zombie_necro", "corpse_mon_zombie_thorny", "corpse_mon_zombie_smoker", "corpse_mon_zombie_shady", "corpse_mon_zombie_master", "corpse_mon_zombie_acidic", "corpse_mon_zombie_fat", "corpse_mon_zombie_corrosive", "corpse_mon_zombie_screecher", "corpse_mon_zombie_scientist", "corpse_mon_zombie_runner", "corpse_mon_zombie_labsecurity", "corpse_mon_zombie_child", "corpse_mon_zombie_hulk", "corpse_mon_zombie_brute_grappler", "corpse_mon_zombie_brute_ninja", "corpse_mon_zombie_kevlar_2", "corpse_mon_zombie_kevlar_1", "corpse_mon_zombie_hazmat", "corpse_mon_zombie_electric", "corpse_mon_zombie_technician", "corpse_mon_zombie_fungus", "corpse_mon_zombie_cop", "corpse_mon_zombie_child_fungus", "corpse_mon_zombie_swimmer", "corpse_mon_zombie_mancroc", "corpse_mon_zombie_soldier", "corpse_mon_zombie_skull", "corpse_mon_zombie_brainless", "corpse_mon_zombie_survivor", "corpse_mon_zombie_brute_shocker", "corpse_mon_zombie_soldier_acid_1", "corpse_mon_zombie_soldier_blackops_2", "corpse_mon_zombie_soldier_blackops_1", "corpse_mon_zombie_soldier_acid_2", "corpse_mon_zombie_shriekling", "corpse_mon_zombie_ears", "corpse_mon_zombie_nullfield", "corpse_mon_zombie_waif", "corpse_mon_zombie_sproglodyte", "corpse_mon_zombie_creepy", "corpse_mon_zombie_anklebiter", "corpse_mon_zombie_bio_op", "corpse_mon_zombie_armored", "corpse_mon_zombie_prisoner", "corpse_mon_zombie_military_pilot"],
+    "fg": ["corpse_mon_zombie"],
+    "bg": []
+  }
+]

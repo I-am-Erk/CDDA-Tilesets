@@ -1,0 +1,8 @@
+{
+  "id": "mon_zombie_fat",
+  "fg": [
+    { "weight": 1, "sprite": "mon_zombie_fat" }, 
+    { "weight": 1, "sprite": "mon_zombie_fat_2" }
+  ],
+  "bg": ["shadow_64x64_normal"]
+}

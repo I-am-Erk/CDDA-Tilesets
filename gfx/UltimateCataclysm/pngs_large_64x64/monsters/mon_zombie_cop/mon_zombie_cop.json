@@ -1,0 +1,12 @@
+[
+  {
+    "id": "mon_zombie_cop",
+    "fg": ["mon_zombie_cop"],
+    "bg": ["shadow_64x64_normal"]
+  },
+  {
+    "id": "mon_zombie_labsecurity",
+    "fg": ["mon_zombie_labsecurity"],
+    "bg": ["shadow_64x64_normal"]
+  }
+]

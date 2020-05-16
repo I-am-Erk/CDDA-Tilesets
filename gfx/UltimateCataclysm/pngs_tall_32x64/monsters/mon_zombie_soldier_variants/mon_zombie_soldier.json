@@ -1,0 +1,7 @@
+[
+{
+  "id": "mon_zombie_soldier",
+  "fg": [ "soldier_filler" ],
+  "bg": ["shadow_32x64_normal"]
+}
+]
