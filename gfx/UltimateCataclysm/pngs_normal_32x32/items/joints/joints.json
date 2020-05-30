@@ -1,0 +1,17 @@
+[
+  {
+    "id": "joint",
+    "fg": [ "joint" ],
+    "bg": [  ]
+  },
+  {
+    "id": "joint_lit",
+    "fg": [ "joint_lit" ],
+    "bg": [  ]
+  },
+  {
+    "id": "joint_roach",
+    "fg": [ "joint_roach" ],
+    "bg": [  ]
+  }
+]
