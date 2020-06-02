@@ -233,5 +233,15 @@
     "id": "hat_hard",
     "fg": [ "hat_hard" ],
     "bg": [  ]
+  },
+  {
+    "id": "striped_pants",
+    "fg": [ "striped_pants" ],
+    "bg": [  ]
+  },
+  {
+    "id": "striped_shirt",
+    "fg": [ "striped_shirt" ],
+    "bg": [  ]
   }
 ]
