@@ -1,5 +1,5 @@
 {
   "id": "overlay_female_mutation_SKIN_DARK",
   "fg": ["skin_dark_f"],
-  "bg": []
+  "bg": ["shadow_32x64_normal"]
 }
