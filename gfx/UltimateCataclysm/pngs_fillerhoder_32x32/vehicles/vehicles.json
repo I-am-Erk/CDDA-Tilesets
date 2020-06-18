@@ -21,13 +21,6 @@
   "bg": []
 },
 {
-  "id": "vp_folding_seat",
-  "fg": [
-    "124_vp_seat_0"
-  ],
-  "bg": []
-},
-{
   "id": "vp_frame_cover",
   "fg": [
     "1817_vp_frame_cover_0"
@@ -290,27 +283,6 @@
   "id": "vp_hdframe_vertical_2",
   "fg": [
     "1784_vp_hdframe_vertical_2_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_reclining_seat",
-  "fg": [
-    "124_vp_seat_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_saddle",
-  "fg": [
-    "125_vp_saddle_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_seat",
-  "fg": [
-    "124_vp_seat_0"
   ],
   "bg": []
 },

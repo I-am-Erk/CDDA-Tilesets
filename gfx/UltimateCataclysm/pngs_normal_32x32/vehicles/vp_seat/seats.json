@@ -1,0 +1,11 @@
+[
+{
+  "id": [ "vp_folding_seat", "vp_reclining_seat", "vp_seat" ],
+  "bg": [ ],
+  "fg": "vp_seat_filler"
+},
+{
+  "id": "vp_saddle",
+  "bg": [ ],
+  "fg": "vp_saddle_filler"
+]

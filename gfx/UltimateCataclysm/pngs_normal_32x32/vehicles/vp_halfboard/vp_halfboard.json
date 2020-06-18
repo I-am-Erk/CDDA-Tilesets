@@ -1,6 +1,56 @@
-{
-  "id": "vp_halfboard_ne",
-  "fg": ["vp_halfboard_ne"],
-  "rotates": true,
-  "bg": []
-}
+[
+  {
+    "id": "vp_halfboard_ne",
+    "fg": [ "vp_halfboard_ne" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_halfboard_nw",
+    "fg": [ "vp_halfboard_nw" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_halfboard_se",
+    "fg": [ "vp_halfboard_se" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_halfboard_sw",
+    "fg": [ "vp_halfboard_sw" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_halfboard_vertical",
+    "fg": [ "vp_halfboard_vertical" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_halfboard_horizontal_2",
+    "fg": [ "vp_halfboard_horizontal_2" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_halfboard_horizontal",
+    "fg": [ "vp_halfboard_horizontal" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_halfboard_vertical_2",
+    "fg": [ "vp_halfboard_vertical_2" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_halfboard_cover",
+    "fg": [ "vp_halfboard_cover" ],
+    "rotates": true,
+    "bg": [  ]
+  }
+]
