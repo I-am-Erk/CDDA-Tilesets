@@ -20,15 +20,15 @@
     "multitile": true,
 	"rotates": false,
     "fg": [ "t_chainfence_ew" ],
-    "bg": [ "snow_shallow" ],
+    "bg": [ "snow_shallow_center" ],
     "additional_tiles": [
-      { "id": "edge", "bg": [ "snow_shallow" ], "fg": [ "t_chainfence_ns", "t_chainfence_ew" ] },
+      { "id": "edge", "bg": [ "snow_shallow_center" ], "fg": [ "t_chainfence_ns", "t_chainfence_ew" ] },
       {
         "id": "end_piece",
-        "bg": [ "snow_shallow" ],
+        "bg": [ "snow_shallow_center" ],
         "fg": [ "t_chainfence_ns", "t_chainfence_ew", "t_chainfence_ns", "t_chainfence_ew" ]
       },
-      { "bg": [ "snow_shallow" ], "id": "unconnected", "fg": [ "t_chainfence_ew" ] }
+      { "bg": [ "snow_shallow_center" ], "id": "unconnected", "fg": [ "t_chainfence_ew" ] }
     ]
   },
   {
@@ -54,21 +54,21 @@
   {
     "id": "t_chaingate_c_season_winter",
     "fg": [ "t_gate_chainlink_c" ],
-    "bg": [ "snow_shallow" ]
+    "bg": [ "snow_shallow_center" ]
   },
   {
     "id": "t_chaingate_l_season_winter",
     "fg": [ "t_gate_chainlink_l" ],
-    "bg": [ "snow_shallow" ]
+    "bg": [ "snow_shallow_center" ]
   },
   {
     "id": "t_chaingate_o_season_winter",
     "fg": [ "t_gate_chainlink_o" ],
-    "bg": [ "snow_shallow" ]
+    "bg": [ "snow_shallow_center" ]
   },
   {
     "id": "t_chainfence_posts_season_winter",
     "fg": [ "t_chainfence_posts" ],
-    "bg": [ "snow_shallow" ]
+    "bg": [ "snow_shallow_center" ]
   }
 ]

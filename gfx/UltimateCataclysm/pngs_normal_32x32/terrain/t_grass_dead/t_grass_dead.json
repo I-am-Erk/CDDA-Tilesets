@@ -94,7 +94,47 @@
   },
   {
     "id": "t_grass_dead_season_winter",
-    "fg": [ "snow_shallow" ],
-	"bg": [ ]
+    "multitile": true,
+    "fg": [ "snow_shallow_unconnected" ],
+    "bg": [ "t_dirt_winter" ],
+    "additional_tiles": [
+      {
+        "id": "center",
+        "bg": [ "t_dirt_winter" ],
+        "fg": [
+          { "weight": 1, "sprite": "snow_shallow_center" },
+          { "weight": 1, "sprite": "snow_shallow_center2" },
+          { "weight": 1, "sprite": "snow_shallow_center3" },
+          { "weight": 1, "sprite": "snow_shallow_center4" }
+        ]
+      },
+      {
+        "id": "corner",
+        "bg": [ "t_dirt_winter" ],
+        "fg": [ "snow_shallow_corner_nw", "snow_shallow_corner_sw", "snow_shallow_corner_se", "snow_shallow_corner_ne" ]
+      },
+      {
+        "id": "t_connection",
+        "bg": [ "t_dirt_winter" ],
+        "fg": [
+          "snow_shallow_t_connection_n",
+          "snow_shallow_t_connection_w",
+          "snow_shallow_t_connection_s",
+          "snow_shallow_t_connection_e"
+        ]
+      },
+      { "id": "edge", "bg": [ "t_dirt_winter" ], "fg": [ "snow_shallow_edge_ns", "snow_shallow_edge_ew" ] },
+      {
+        "id": "end_piece",
+        "bg": [ "t_dirt_winter" ],
+        "fg": [
+          "snow_shallow_end_piece_n",
+          "snow_shallow_end_piece_w",
+          "snow_shallow_end_piece_s",
+          "snow_shallow_end_piece_e"
+        ]
+      },
+      { "bg": [ "t_dirt_winter" ], "id": "unconnected", "fg": [ "snow_shallow_unconnected" ] }
+    ]
   }
 ]

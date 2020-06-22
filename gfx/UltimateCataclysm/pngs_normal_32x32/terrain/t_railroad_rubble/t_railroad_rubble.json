@@ -11,7 +11,7 @@
   },
   {
     "id": "t_railroad_rubble_season_winter",
-    "fg": [ "snow_shallow" ],
+    "fg": [ "snow_shallow_center" ],
     "bg": [  ]
   }
 ]

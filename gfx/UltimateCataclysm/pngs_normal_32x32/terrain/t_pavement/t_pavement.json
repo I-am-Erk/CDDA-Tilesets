@@ -6,7 +6,7 @@
   },
   {
     "id": "t_pavement_season_winter",
-    "fg": [ "snow_shallow" ],
+    "fg": [ "snow_shallow_center" ],
     "bg": [  ]
   }
 ]
