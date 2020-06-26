@@ -1,0 +1,16 @@
+[
+ {
+  "id": "f_scrap_antenna",
+  "animated": true,
+  "fg": [
+    { "weight": 15, "sprite": "f_scrap_antenna_frame_1" },
+    { "weight": 15, "sprite": "f_scrap_antenna_frame_2" },
+    { "weight": 15, "sprite": "f_scrap_antenna_frame_3" },
+    { "weight": 15, "sprite": "f_scrap_antenna_frame_4" },
+    { "weight": 15, "sprite": "f_scrap_antenna_frame_5" },
+    { "weight": 15, "sprite": "f_scrap_antenna_frame_6" }
+  ],
+  "rotates": false,
+  "bg": [  ]
+ }
+]
