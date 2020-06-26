@@ -2,10 +2,10 @@
  {
   "id": "mon_exodii_quad",
   "fg": [
-    { "weight": 15, "sprite": "mon_exodii_quad_1" },
-    { "weight": 10, "sprite": "mon_exodii_quad_2" },
-    { "weight": 15, "sprite": "mon_exodii_quad_3" },
-    { "weight": 15, "sprite": "mon_exodii_quad_4" }
+    { "weight": 15, "sprite": "mon_exodii_quadruped_1" },
+    { "weight": 10, "sprite": "mon_exodii_quadruped_2" },
+    { "weight": 15, "sprite": "mon_exodii_quadruped_3" },
+    { "weight": 15, "sprite": "mon_exodii_quadruped_4" }
   ],
   "bg": ["shadow_64x64_normal"]
  },
