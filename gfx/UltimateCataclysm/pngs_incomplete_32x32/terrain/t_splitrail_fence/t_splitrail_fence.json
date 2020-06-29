@@ -17,6 +17,6 @@
   {
     "id": "t_splitrail_fence_season_winter",
     "fg": [ "t_splitrail_fence" ],
-    "bg": [ "snow_shallow" ]
+    "bg": [ "snow_shallow_center" ]
   }
 ]

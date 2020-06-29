@@ -18,6 +18,6 @@
   {
     "id": "t_fence_post_season_winter",
     "fg": ["t_fence_unconnected"],
-    "bg": ["snow_shallow"]
+    "bg": ["snow_shallow_center"]
   }
 ]
