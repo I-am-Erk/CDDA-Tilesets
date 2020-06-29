@@ -11,7 +11,8 @@
         "fg": [
           { "weight": 1, "sprite": "t_water_dp_center" },
           { "weight": 1, "sprite": "t_water_dp_center2" },
-          { "weight": 1, "sprite": "t_water_dp_center3" }
+          { "weight": 1, "sprite": "t_water_dp_center3" },
+          { "weight": 1, "sprite": "t_water_dp_center4" }
         ]
       },
       {
@@ -105,11 +106,11 @@
     "id": [ "t_water_dp_season_winter", "t_swater_dp_season_winter" ],
     "multitile": true,
     "fg": [ "t_water_dp_unconnected" ],
-    "bg": [ "snow_shallow" ],
+    "bg": [ "snow_shallow_center" ],
     "additional_tiles": [
       {
         "id": "center",
-        "bg": [ "snow_shallow" ],
+        "bg": [ "snow_shallow_center" ],
         "fg": [
           { "weight": 1, "sprite": "t_water_dp_center" },
           { "weight": 1, "sprite": "t_water_dp_center2" },
@@ -118,21 +119,21 @@
       },
       {
         "id": "corner",
-        "bg": [ "snow_shallow" ],
+        "bg": [ "snow_shallow_center" ],
         "fg": [ "t_water_dp_corner_nw", "t_water_dp_corner_sw", "t_water_dp_corner_se", "t_water_dp_corner_ne" ]
       },
       {
         "id": "t_connection",
-        "bg": [ "snow_shallow" ],
+        "bg": [ "snow_shallow_center" ],
         "fg": [ "t_water_dp_t_connection_n", "t_water_dp_t_connection_w", "t_water_dp_t_connection_s", "t_water_dp_t_connection_e" ]
       },
-      { "id": "edge", "bg": [ "snow_shallow" ], "fg": [ "t_water_dp_edge_ns", "t_water_dp_edge_ew" ] },
+      { "id": "edge", "bg": [ "snow_shallow_center" ], "fg": [ "t_water_dp_edge_ns", "t_water_dp_edge_ew" ] },
       {
         "id": "end_piece",
-        "bg": [ "snow_shallow" ],
+        "bg": [ "snow_shallow_center" ],
         "fg": [ "t_water_dp_end_piece_n", "t_water_dp_end_piece_w", "t_water_dp_end_piece_s", "t_water_dp_end_piece_e" ]
       },
-      { "bg": [ "snow_shallow" ], "id": "unconnected", "fg": [ "t_water_dp_unconnected" ] }
+      { "bg": [ "snow_shallow_center" ], "id": "unconnected", "fg": [ "t_water_dp_unconnected" ] }
     ]
   }
 ]
