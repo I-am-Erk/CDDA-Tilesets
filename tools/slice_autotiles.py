@@ -14,6 +14,7 @@ parser.add_argument("tile", help="base name of the tile")
 parser.add_argument("size", type=int, help="tile size in pixels")
 parser.add_argument("image", help="path to autotile image")
 parser.add_argument("out", help="output path")
+parser.add_argument("--no-json", action='store_true', help="disable json file generation")
 
 
 def main():
@@ -49,6 +50,9 @@ def main():
 
     for path, index in parts.items():
         slices[index].pngsave(os.path.join(args.out, path))
+
+    if args.no_json:
+        return
 
     json_content = {
         "id": args.tile,
