@@ -13,5 +13,10 @@
     "id": "f_machinery_heavy",
     "fg": [ "f_machinery_heavy" ],
     "bg": [  ]
+  },
+  {
+    "id": "f_machinery_light",
+    "fg": [ "f_machinery_light" ],
+    "bg": [  ]
   }
 ]
