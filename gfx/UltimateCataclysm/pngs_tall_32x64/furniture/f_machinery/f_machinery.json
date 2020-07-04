@@ -1,0 +1,17 @@
+[
+  {
+    "id": "f_machinery_old",
+    "fg": [ "f_machinery_old" ],
+    "bg": [  ]
+  },
+  {
+    "id": "f_machinery_electronic",
+    "fg": [ "f_machinery_electronic" ],
+    "bg": [  ]
+  },
+  {
+    "id": "f_machinery_heavy",
+    "fg": [ "f_machinery_heavy" ],
+    "bg": [  ]
+  }
+]
