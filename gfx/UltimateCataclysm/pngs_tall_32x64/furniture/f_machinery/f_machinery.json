@@ -16,7 +16,10 @@
   },
   {
     "id": "f_machinery_light",
-    "fg": [ "f_machinery_light" ],
+    "fg": [ 
+      { "weight": 100, "sprite": "f_machinery_light" }, 
+      { "weight": 100, "sprite": "f_machinery_light-2" }
+    ],
     "bg": [  ]
   }
 ]
