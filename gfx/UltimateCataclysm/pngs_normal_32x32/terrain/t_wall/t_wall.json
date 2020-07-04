@@ -22,7 +22,7 @@
     {
       "id": "edge",
       "bg": [  ],
-      "fg": [ "t_wall_edge_ns", [ { "weight": 100, "sprite": "t_wall_edge_ew1" }, { "weight": 100, "sprite": "t_wall_edge_ew2" } ] ]
+      "fg": [ "t_wall_edge_ns", "t_wall_edge_ew" ]
     },
     {
       "id": "end_piece",
