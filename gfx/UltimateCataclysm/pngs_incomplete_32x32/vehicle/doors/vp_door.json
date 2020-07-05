@@ -22,7 +22,7 @@
   "additional_tiles": [
     {
       "id": "open",
-      "fg": "vp_door_TOP_open",
+      "fg": "vp_door_TOP",
       "bg": []
     }
   ]
@@ -36,7 +36,7 @@
   "additional_tiles": [
     {
       "id": "open",
-      "fg": "vp_door_BOTTOM_open",
+      "fg": "vp_door_BOTTOM",
       "bg": []
     }
   ]
