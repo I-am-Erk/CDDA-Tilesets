@@ -1,13 +1,13 @@
 {
-  "id": "vp_door",
-  "fg": "vp_door",
+  "id": "vp_door_trunk",
+  "fg": "vp_door_trunk",
   "bg": [],
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
     {
       "id": "open",
-      "fg": "vp_door_open",
+      "fg": "vp_trunk",
       "bg": []
     }
   ]

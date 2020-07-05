@@ -1,0 +1,44 @@
+[
+{
+  "id": "vp_door",
+  "fg": "vp_door_L",
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "open",
+      "fg": "vp_door_L_open",
+      "bg": []
+    }
+  ]
+},
+{
+  "id": "vp_door_nw",
+  "fg": "vp_door_L",
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "open",
+      "fg": "vp_door_L_open",
+      "bg": []
+    }
+  ]
+},
+{
+  "id": "vp_door_ne",
+  "fg": "vp_door_R",
+  "bg": [],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "open",
+      "fg": "vp_door_L_open",
+      "bg": []
+    }
+  ]
+}
+]

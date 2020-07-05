@@ -25,25 +25,25 @@
   },
   {
     "id": "vp_halfboard_vertical",
-    "fg": [ "vp_halfboard_vertical" ],
+    "fg": [ "vp_halfboard_vertical_L" ],
     "rotates": true,
     "bg": [  ]
   },
   {
     "id": "vp_halfboard_horizontal_2",
-    "fg": [ "vp_halfboard_horizontal_2" ],
+    "fg": [ "vp_halfboard_horizontal_bottom" ],
     "rotates": true,
     "bg": [  ]
   },
   {
     "id": "vp_halfboard_horizontal",
-    "fg": [ "vp_halfboard_horizontal" ],
+    "fg": [ "vp_halfboard_horizontal_top" ],
     "rotates": true,
     "bg": [  ]
   },
   {
     "id": "vp_halfboard_vertical_2",
-    "fg": [ "vp_halfboard_vertical_2" ],
+    "fg": [ "vp_halfboard_vertical_R" ],
     "rotates": true,
     "bg": [  ]
   },
