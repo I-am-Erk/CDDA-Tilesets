@@ -24,26 +24,38 @@
     "bg": [  ]
   },
   {
-    "id": "vp_halfboard_vertical",
-    "fg": [ "vp_halfboard_vertical_L" ],
+    "id": "vp_halfboard_vertical_left",
+    "fg": [ "vp_halfboard_left" ],
     "rotates": true,
     "bg": [  ]
   },
   {
-    "id": "vp_halfboard_horizontal_2",
-    "fg": [ "vp_halfboard_horizontal_bottom" ],
+    "id": "vp_halfboard_vertical_right",
+    "fg": [ "vp_halfboard_right" ],
     "rotates": true,
     "bg": [  ]
   },
   {
-    "id": "vp_halfboard_horizontal",
-    "fg": [ "vp_halfboard_horizontal_top" ],
+    "id": [ "vp_halfboard_horizontal", "vp_halfboard_horizontal_2" ],
+    "fg": [ "vp_halfboard_horizontal" ],
     "rotates": true,
     "bg": [  ]
   },
   {
-    "id": "vp_halfboard_vertical_2",
-    "fg": [ "vp_halfboard_vertical_R" ],
+    "id": "vp_halfboard_horizontal_front",
+    "fg": [ "vp_halfboard_front" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_halfboard_horizontal_rear",
+    "fg": [ "vp_halfboard_rear" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": [ "vp_halfboard_vertical", "vp_halfboard_vertical_2" ],
+    "fg": [ "vp_halfboard_vertical" ],
     "rotates": true,
     "bg": [  ]
   },

@@ -1,35 +1,35 @@
 [
 {
-  "id": "vp_door",
-  "fg": "vp_door_L",
+  "id": [ "vp_door", "vp_door_inboard" ],
+  "fg": "vp_door_inboard",
   "bg": [],
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
     {
       "id": "open",
-      "fg": "vp_door_L_open",
+      "fg": "vp_door_inboard",
       "bg": []
     }
   ]
 },
 {
-  "id": [ "vp_door_horizontal", "vp_door_cover" ],
-  "fg": "vp_door_TOP",
+  "id": [ "vp_door_front" ],
+  "fg": "vp_door_front",
   "bg": [],
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
     {
       "id": "open",
-      "fg": "vp_door_TOP",
+      "fg": "vp_door_front",
       "bg": []
     }
   ]
 },
 {
-  "id": [ "vp_door_horizontal2" ],
-  "fg": "vp_door_BOTTOM",
+  "id": [ "vp_door_rear" ],
+  "fg": "vp_door_rear",
   "bg": [],
   "rotates": true,
   "multitile": true,
@@ -42,7 +42,7 @@
   ]
 },
 {
-  "id": [ "vp_door_nw", "vp_door_vertical" ],
+  "id": [ "vp_door_nw", "vp_door_left", "vp_door_sw" ],
   "fg": "vp_door_L",
   "bg": [],
   "rotates": true,
@@ -56,7 +56,7 @@
   ]
 },
 {
-  "id": [ "vp_door_ne", "vp_door_vertical2" ],
+  "id": [ "vp_door_ne", "vp_door_right", "vp_door_se" ],
   "fg": "vp_door_R",
   "bg": [],
   "rotates": true,
