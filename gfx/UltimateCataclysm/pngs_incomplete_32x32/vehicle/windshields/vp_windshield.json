@@ -6,13 +6,13 @@
   "rotates": true
 },
 {
-  "id": [ "vp_windshield_horizontal", "vp_windshield_front", "vp_windshield_front_edge" ],
+  "id": [ "vp_windshield_horizontal", "vp_windshield_horizontal_front", "vp_windshield_front_edge" ],
   "fg": "vp_windshield_horizontal",
   "bg": [],
   "rotates": true
 },
 {
-  "id": [ "vp_windshield_rear", "vp_windshield_rear_edge" ],
+  "id": [ "vp_windshield_horizontal_rear", "vp_windshield_rear_edge" ],
   "fg": "vp_windshield_rear",
   "bg": [],
   "rotates": true
