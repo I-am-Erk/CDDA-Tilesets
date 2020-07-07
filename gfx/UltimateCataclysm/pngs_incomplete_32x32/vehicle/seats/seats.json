@@ -1,10 +1,9 @@
 [
 {
   "id": [ "vp_folding_seat", "vp_reclining_seat", "vp_seat" ],
-  "bg": [ ],
-  "fg": [ "vp_seat_up", "vp_seat_right", "vp_seat_left", "vp_seat_down" ],
   "rotates": true,
-  "multitile": true
+  "bg": [ ],
+  "fg": [ "vp_seat_up", "vp_seat_right", "vp_seat_left", "vp_seat_down" ]
 },
 {
   "id": "vp_saddle",
