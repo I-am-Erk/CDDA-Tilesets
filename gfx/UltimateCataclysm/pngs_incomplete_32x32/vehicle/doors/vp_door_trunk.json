@@ -1,6 +1,6 @@
 {
   "id": "vp_door_trunk",
-  "fg": [ "vp_door_trunk", "vp_door_trunk_rotE", "vp_door_trunk_rotW", "vp_door_trunk_rotS" ],
+  "fg": [ "vp_door_trunk", "vp_door_trunk_rotW", "vp_door_trunk_rotE", "vp_door_trunk_rotS" ],
   "bg": [],
   "rotates": true,
   "multitile": true,

@@ -43,7 +43,7 @@
 },
 {
   "id": [ "vp_door_nw", "vp_door_left", "vp_door_sw" ],
-  "fg": [ "vp_door_L", "vp_door_L_rotE", "vp_door_L_rotW", "vp_door_L_rotS" ],
+  "fg": [ "vp_door_L", "vp_door_L_rotW", "vp_door_L_rotE", "vp_door_L_rotS" ],
   "bg": [],
   "rotates": true,
   "multitile": true,
@@ -57,7 +57,7 @@
 },
 {
   "id": [ "vp_door_ne", "vp_door_right", "vp_door_se" ],
-  "fg": [ "vp_door_R", "vp_door_R_rotE", "vp_door_R_rotW", "vp_door_R_rotS" ],
+  "fg": [ "vp_door_R", "vp_door_R_rotW", "vp_door_R_rotE", "vp_door_R_rotS" ],
   "bg": [],
   "rotates": true,
   "multitile": true,
