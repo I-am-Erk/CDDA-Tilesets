@@ -5,8 +5,8 @@
     "bg": [  ]
   },
   {
-    "id": "vp_trunk_rear",
-    "fg": [ "vp_trunk_rear" ],
+    "id": "vp_trunk_rear_edge",
+    "fg": [ "vp_trunk_rear_edge" ],
     "bg": [  ]
   }
 ]
