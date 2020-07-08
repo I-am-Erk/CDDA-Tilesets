@@ -2,6 +2,7 @@
   {
     "id": "vp_trunk",
     "fg": "vp_trunk",
+    "rotates": true,
     "bg": [  ]
   },
   {
