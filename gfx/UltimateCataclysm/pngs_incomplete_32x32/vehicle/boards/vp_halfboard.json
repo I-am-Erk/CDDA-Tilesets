@@ -28,9 +28,7 @@
     "id": "vp_halfboard_vertical_left",
     "fg": [
       "vp_halfboard_vertical_left",
-      "vp_halfboard_vertical_left_rotW",
-      "vp_halfboard_vertical_left",
-      "vp_halfboard_vertical_left_rotE"
+      "vp_halfboard_vertical_left_rotW_right_rotE",
     ],
     "rotates": true,
     "bg": [  ]
@@ -39,9 +37,7 @@
     "id": "vp_halfboard_vertical_right",
     "fg": [
       "vp_halfboard_vertical_right",
-      "vp_halfboard_vertical_right_rotW",
-      "vp_halfboard_vertical_right",
-      "vp_halfboard_vertical_right_rotE"
+      "vp_halfboard_vertical_left_rotE_right_rotW",
     ],
     "rotates": true,
     "bg": [  ]
