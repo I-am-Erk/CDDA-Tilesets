@@ -1,44 +1,43 @@
 [
-{
-  "id": "vp_windshield",
-  "fg": "vp_windshield_horizontal",
-  "bg": [],
-  "rotates": true
-},
-{
-  "id": [ "vp_windshield_horizontal", "vp_windshield_horizontal_front", "vp_windshield_front_edge" ],
-  "fg": "vp_windshield_horizontal",
-  "bg": [],
-  "rotates": true
-},
-{
-  "id": [ "vp_windshield_horizontal_rear", "vp_windshield_rear_edge" ],
-  "fg": "vp_windshield_rear",
-  "bg": [],
-  "rotates": true
-},
-{
-  "id": "vp_windshield_nw",
+  {
+    "id": [ "vp_windshield", "vp_windshield_horizontal", "vp_windshield_horizontal_front", "vp_windshield_front_edge" ],
+    "fg": [
+      "vp_windshield_horizontal",
+      "vp_windshield_horizontal_rotW",
+      "vp_windshield_horizontal_rotS",
+      "vp_windshield_horizontal_rotE"
+    ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "vp_windshield_horizontal_rear", "vp_windshield_rear_edge" ],
+    "fg": "vp_windshield_rear",
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": "vp_windshield_nw",
     "fg": [ "vp_windshield_nw", "vp_windshield_nw_rotW", "vp_windshield_nw_rotS", "vp_windshield_nw_rotE" ],
-  "bg": [],                                              
-  "rotates": true                                        
-},                                                       
-{                                                        
-  "id": "vp_windshield_ne",                              
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": "vp_windshield_ne",
     "fg": [ "vp_windshield_ne", "vp_windshield_ne_rotW", "vp_windshield_ne_rotS", "vp_windshield_ne_rotE" ],
-  "bg": [],
-  "rotates": true
-},
-{
-  "id": "vp_windshield_left",
-  "fg": "vp_windshield_left",
-  "bg": [],
-  "rotates": true
-},
-{
-  "id": "vp_windshield_right",
-  "fg": "vp_windshield_right",
-  "bg": [],
-  "rotates": true
-}
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": "vp_windshield_left",
+    "fg": "vp_windshield_left",
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": "vp_windshield_right",
+    "fg": "vp_windshield_right",
+    "bg": [  ],
+    "rotates": true
+  }
 ]
