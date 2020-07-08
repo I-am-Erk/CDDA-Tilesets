@@ -1,0 +1,12 @@
+[
+  {
+    "id": "vp_trunk",
+    "fg": "vp_trunk",
+    "bg": [  ]
+  },
+  {
+    "id": "vp_trunk_rear",
+    "fg": [ "vp_trunk_rear" ],
+    "bg": [  ]
+  }
+]
