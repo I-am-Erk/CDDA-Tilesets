@@ -11,7 +11,11 @@
   },
   {
     "id": "f_machinery_heavy",
-    "fg": [ "f_machinery_heavy" ],
+    "fg": [ 
+      { "weight": 20, "sprite": "f_machinery_heavy1" }, 
+      { "weight": 150, "sprite": "f_machinery_heavy2" }, 
+      { "weight": 100, "sprite": "f_machinery_heavy3" }
+    ],
     "bg": [  ]
   },
   {
