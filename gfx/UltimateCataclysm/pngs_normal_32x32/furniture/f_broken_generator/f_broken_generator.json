@@ -3,5 +3,10 @@
     "id": "f_broken_generator",
     "fg": [ "f_broken_generator" ],
     "bg": [  ]
+  },
+  {
+    "id": "t_broken_generator",
+    "fg": [ "f_broken_generator" ],
+    "bg": [ "t_concrete" ]
   }
 ]
