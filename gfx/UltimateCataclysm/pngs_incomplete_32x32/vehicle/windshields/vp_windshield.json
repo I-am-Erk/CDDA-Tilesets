@@ -17,7 +17,7 @@
     "rotates": true
   },
   {
-    "id": [ "vp_windshield_horizontal_rear" ],
+    "id": [ "vp_windshield_horizontal_rear_edge" ],
     "fg": [
       "vp_windshield_rear_edge",
       "vp_windshield_rear_edge_rotW",
@@ -52,13 +52,13 @@
     "rotates": true
   },
   {
-    "id": "vp_windshield_left",
+    "id": [ "vp_windshield_vertical_left", "vp_windshield_left" ],
     "fg": [ "vp_windshield_left", "vp_windshield_left_rotW", "vp_windshield_left_rotS", "vp_windshield_left_rotE" ],
     "bg": [  ],
     "rotates": true
   },
   {
-    "id": "vp_windshield_right",
+    "id": [ "vp_windshield_vertical_right", "vp_windshield_right" ],
     "fg": [ "vp_windshield_right", "vp_windshield_right_rotW", "vp_windshield_right_rotS", "vp_windshield_right_rotE" ],
     "bg": [  ],
     "rotates": true
