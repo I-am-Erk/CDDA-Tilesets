@@ -65,11 +65,5 @@
     "fg": [ "vp_board_vertical_left" ],
     "rotates": true,
     "bg": [  ]
-  },
-  {
-    "id": "vp_board_cover",
-    "//": [ "vp_board_cover", "vp_board_cover_rotW", "vp_board_cover_rotS", "vp_board_cover_rotE" ],
-    "rotates": true,
-    "bg": [  ]
   }
 ]
