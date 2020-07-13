@@ -24,6 +24,14 @@
     "additional_tiles": [ { "id": "open", "fg": "vp_door_rear", "bg": [  ] } ]
   },
   {
+    "id": [ "vp_door_rear_edge" ],
+    "fg": "vp_door_rear_edge",
+    "bg": [  ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "open", "fg": "vp_door_rear", "bg": [  ] } ]
+  },
+  {
     "id": [ "vp_door_left" ],
     "fg": [ "vp_door_L", "vp_door_L_rotW", "vp_door_L_rotS", "vp_door_L_rotE" ],
     "bg": [  ],

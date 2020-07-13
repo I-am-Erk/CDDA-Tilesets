@@ -1,11 +1,11 @@
 [
   {
-    "id": "f_broken_generator",
+    "id": "f_generator_broken",
     "fg": [ "f_broken_generator" ],
     "bg": [  ]
   },
   {
-    "id": "t_broken_generator",
+    "id": "t_generator_broken",
     "fg": [ "f_broken_generator" ],
     "bg": [ "t_concrete_center" ]
   }
