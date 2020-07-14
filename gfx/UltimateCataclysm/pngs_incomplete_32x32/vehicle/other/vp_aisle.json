@@ -1,7 +1,13 @@
 [
   {
-    "id": "vp_aisle",
-    "fg": [ "vp_aisle" ],
+    "id": "vp_aisle_vertical",
+    "fg": [ "vp_aisle_vertical" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": "vp_aisle_horizontal",
+    "fg": [ "vp_aisle_horizontal" ],
     "bg": [  ],
     "rotates": true
   }
