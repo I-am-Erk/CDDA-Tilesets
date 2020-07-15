@@ -50,8 +50,14 @@
     "bg": [  ]
   },
   {
-    "id": [ "vp_hdhalfboard_horizontal", "vp_hdhalfboard_horizontal_2" ],
+    "id": [ "vp_hdhalfboard_horizontal" ],
     "fg": [ "vp_hdhalfboard_horizontal_front" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": [ "vp_hdhalfboard_horizontal_2" ],
+    "fg": [ "vp_hdhalfboard_horizontal_2_front" ],
     "rotates": true,
     "bg": [  ]
   },
