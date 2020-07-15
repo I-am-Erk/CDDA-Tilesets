@@ -50,8 +50,14 @@
     "bg": [  ]
   },
   {
-    "id": [ "vp_hdhalfboard_horizontal", "vp_hdhalfboard_horizontal_2" ],
+    "id": [ "vp_hdhalfboard_horizontal" ],
     "fg": [ "vp_hdhalfboard_horizontal_front" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": [ "vp_hdhalfboard_horizontal_2" ],
+    "fg": [ "vp_hdhalfboard_horizontal_2_front" ],
     "rotates": true,
     "bg": [  ]
   },
@@ -79,7 +85,19 @@
   },
   {
     "id": "vp_hdhalfboard_horizontal_rear",
-    "fg": [ "vp_hdhalfboard_horizontal_rear" ],
+    "fg": [ "vp_hdhalfboard_horizontal_rear",
+      "vp_hdhalfboard_horizontal_front_rotE",
+      "vp_hdhalfboard_horizontal_front",
+      "vp_hdhalfboard_horizontal_front_rotW" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_hdhalfboard_horizontal_2_rear",
+    "fg": [ "vp_hdhalfboard_horizontal_2_rear",
+      "vp_hdhalfboard_horizontal_2_front_rotE",
+      "vp_hdhalfboard_horizontal_2_front",
+      "vp_hdhalfboard_horizontal_2_front_rotW" ],
     "rotates": true,
     "bg": [  ]
   },
