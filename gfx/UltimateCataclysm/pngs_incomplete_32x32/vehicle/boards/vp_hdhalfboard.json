@@ -57,11 +57,22 @@
   },
   {
     "id": "vp_hdhalfboard_horizontal_front",
-    "fg": [ "vp_hdhalfboard_horizontal_front" ],
-    "//": [
+    "fg": [
+      "vp_hdhalfboard_horizontal_front",
       "vp_hdhalfboard_horizontal_front_rotW",
       "vp_hdhalfboard_horizontal_front_rotS",
       "vp_hdhalfboard_horizontal_front_rotE"
+    ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_hdhalfboard_horizontal_2_front",
+    "fg": [
+      "vp_hdhalfboard_horizontal_2_front",
+      "vp_hdhalfboard_horizontal_2_front_rotW",
+      "vp_hdhalfboard_horizontal_2_front_rotS",
+      "vp_hdhalfboard_horizontal_2_front_rotE"
     ],
     "rotates": true,
     "bg": [  ]
@@ -86,8 +97,7 @@
   },
   {
     "id": "vp_hdhalfboard_cover",
-    "fg": [ "vp_hdhalfboard_cover" ],
-    "//": [ "vp_hdhalfboard_cover_rotW", "vp_hdhalfboard_cover_rotS", "vp_hdhalfboard_cover_rotE" ],
+    "fg": [ "vp_hdhalfboard_cover", "vp_hdhalfboard_cover_rotW", "vp_hdhalfboard_cover_rotS", "vp_hdhalfboard_cover_rotE" ],
     "rotates": true,
     "bg": [  ]
   }
