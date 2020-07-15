@@ -5,7 +5,16 @@
     "fg": [ "t_pavement" ],
     "bg": [  ],
     "additional_tiles": [
-      { "id": "center", "bg": [  ], "fg": [ "t_pavement" ] },
+      {
+        "id": "center",
+        "bg": [  ],
+        "fg": [
+          { "weight": 1, "sprite": "t_pavement" },
+          { "weight": 1, "sprite": "t_pavement2" },
+          { "weight": 1, "sprite": "t_pavement3" },
+          { "weight": 1, "sprite": "t_pavement4" }
+        ]
+      },
       {
         "id": "corner",
         "bg": [ "t_dirt" ],
@@ -27,7 +36,16 @@
     "fg": [ "t_pavement" ],
     "bg": [  ],
     "additional_tiles": [
-      { "id": "center", "bg": [  ], "fg": [ "t_pavement" ] },
+      {
+        "id": "center",
+        "bg": [  ],
+        "fg": [
+          { "weight": 1, "sprite": "t_pavement" },
+          { "weight": 1, "sprite": "t_pavement2" },
+          { "weight": 1, "sprite": "t_pavement3" },
+          { "weight": 1, "sprite": "t_pavement4" }
+        ]
+      },
       {
         "id": "corner",
         "bg": [ "t_dirt_summer" ],
@@ -49,7 +67,16 @@
     "fg": [ "t_pavement" ],
     "bg": [  ],
     "additional_tiles": [
-      { "id": "center", "bg": [  ], "fg": [ "t_pavement" ] },
+      {
+        "id": "center",
+        "bg": [  ],
+        "fg": [
+          { "weight": 1, "sprite": "t_pavement" },
+          { "weight": 1, "sprite": "t_pavement2" },
+          { "weight": 1, "sprite": "t_pavement3" },
+          { "weight": 1, "sprite": "t_pavement4" }
+        ]
+      },
       {
         "id": "corner",
         "bg": [ "t_dirt_autumn" ],
