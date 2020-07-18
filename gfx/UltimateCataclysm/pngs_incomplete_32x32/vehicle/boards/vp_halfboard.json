@@ -88,22 +88,32 @@
     "id": "vp_halfboard_horizontal_2_front",
     "fg": [
       "vp_halfboard_horizontal_2_front",
-      "vp_halfboard_horizontal_front_rotW",
-      "vp_halfboard_horizontal_front_rotS",
-      "vp_halfboard_horizontal_front_rotE"
+      "vp_halfboard_horizontal_2_front_rotW",
+      "vp_halfboard_horizontal_2_front_rotS",
+      "vp_halfboard_horizontal_2_front_rotE"
     ],
     "rotates": true,
     "bg": [  ]
   },
   {
     "id": "vp_halfboard_horizontal_rear",
-    "fg": [ "vp_halfboard_horizontal_rear" ],
+    "fg": [
+      "vp_halfboard_horizontal_rear",
+      "vp_halfboard_horizontal_rear_rotW",
+      "vp_halfboard_horizontal_rear_rotS",
+      "vp_halfboard_horizontal_rear_rotE"
+    ],
     "rotates": true,
     "bg": [  ]
   },
   {
     "id": "vp_halfboard_horizontal_2_rear",
-    "fg": [ "vp_halfboard_horizontal_2_rear" ],
+    "fg": [
+      "vp_halfboard_horizontal_2_rear",
+      "vp_halfboard_horizontal_2_rear_rotW",
+      "vp_halfboard_horizontal_2_rear_rotS",
+      "vp_halfboard_horizontal_2_rear_rotE"
+    ],
     "rotates": true,
     "bg": [  ]
   },
