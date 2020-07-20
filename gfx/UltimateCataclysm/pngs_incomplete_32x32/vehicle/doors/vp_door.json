@@ -1,5 +1,13 @@
 [
   {
+    "id": [ "vp_door_interior" ],
+    "fg": "vp_door_rear",
+    "bg": [  ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "open", "fg": "vp_door_rear", "bg": [  ] } ]
+  },
+  {
     "id": [ "vp_door", "vp_door_inboard" ],
     "fg": "vp_door_inboard",
     "bg": [  ],
