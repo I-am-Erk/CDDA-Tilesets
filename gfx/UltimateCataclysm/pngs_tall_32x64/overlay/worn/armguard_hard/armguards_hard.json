@@ -1,0 +1,16 @@
+[
+  {
+    "id": "overlay_female_worn_armguard_hard",
+    "fg": [
+      "armguard_hard_f"
+    ],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_worn_armguard_hard",
+    "fg": [
+      "armguard_hard_m"
+    ],
+    "bg": []
+  }
+]
