@@ -1,0 +1,17 @@
+[
+{
+  "id": "fire_ax",
+  "fg": ["fire_ax"],
+  "bg": []
+},
+{
+  "id": "ax",
+  "fg": ["wood_ax"],
+  "bg": []
+},
+{
+  "id": "hatchet",
+  "fg": ["hatchet"],
+  "bg": []
+}
+]

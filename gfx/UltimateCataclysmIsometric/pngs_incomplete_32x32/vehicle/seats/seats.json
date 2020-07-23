@@ -1,0 +1,13 @@
+[
+  {
+    "id": [ "vp_folding_seat", "vp_reclining_seat", "vp_seat" ],
+    "rotates": true,
+    "bg": [  ],
+    "fg": [ "vp_seat_up", "vp_seat_left", "vp_seat_down", "vp_seat_right" ]
+  },
+  {
+    "id": "vp_saddle",
+    "bg": [  ],
+    "fg": "vp_saddle_filler"
+  }
+]

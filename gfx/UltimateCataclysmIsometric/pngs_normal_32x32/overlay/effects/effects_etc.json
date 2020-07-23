@@ -1,0 +1,57 @@
+[
+  {
+    "id": [ "overlay_effects_bleed" ],
+    "fg": [ "overlay_effects_bleed" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "overlay_effects_deaf" ],
+    "fg": [ "overlay_effects_deaf" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "overlay_effects_downed" ],
+    "fg": [ "overlay_effects_downed" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "overlay_effects_grabbed" ],
+    "fg": [ "overlay_effects_grabbed" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "overlay_effects_winded" ],
+    "fg": [ "overlay_effects_winded" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "overlay_effects_hot" ],
+    "fg": [ "overlay_effects_hot" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "overlay_effects_cold" ],
+    "fg": [ "overlay_effects_cold" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "overlay_male_crouch", "overlay_female_crouch" ],
+    "fg": [ "overlay_mf_crouch" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "overlay_male_run", "overlay_female_run" ],
+    "fg": [ "overlay_mf_run" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "overlay_hostile_sees_player" ],
+    "fg": [ "overlay_hostile_sees_player" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "zombie_revival_indicator" ],
+    "fg": [ "zombie_revival_indicator" ],
+    "bg": [  ]
+  }
+]

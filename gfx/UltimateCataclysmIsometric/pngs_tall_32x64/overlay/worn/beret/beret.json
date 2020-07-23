@@ -1,0 +1,16 @@
+[
+  {
+    "id": "overlay_female_worn_beret",
+    "fg": [
+      "beret_f"
+    ],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_worn_beret",
+    "fg": [
+      "beret_m"
+    ],
+    "bg": []
+  }
+]

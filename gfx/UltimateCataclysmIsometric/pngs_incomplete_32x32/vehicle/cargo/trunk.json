@@ -1,0 +1,25 @@
+[
+  {
+    "id": "vp_box",
+    "fg": [ "vp_box", "vp_box_rot" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_trunk",
+    "fg": "vp_trunk",
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_trunk_rear_edge",
+    "fg": [ "vp_trunk_rear_edge" ],
+    "bg": [  ]
+  },
+  {
+    "id": "vp_cargo_space",
+    "fg": "vp_cargo_space",
+    "rotates": true,
+    "bg": [  ]
+  }
+]

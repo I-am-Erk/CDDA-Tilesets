@@ -1,0 +1,16 @@
+[
+  {
+    "id": "overlay_female_worn_hat_noise_cancelling",
+    "fg": [
+      "hat_noise_cancelling_f"
+    ],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_worn_hat_noise_cancelling",
+    "fg": [
+      "hat_noise_cancelling_m"
+    ],
+    "bg": []
+  }
+]

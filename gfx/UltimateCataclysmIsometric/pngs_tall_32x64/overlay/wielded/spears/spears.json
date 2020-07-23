@@ -1,0 +1,92 @@
+[
+  {
+    "id": "overlay_male_wielded_pointy_stick",
+    "fg": ["pointy_stick_m"],
+    "bg": []
+  },
+  {
+    "id": "overlay_female_wielded_pointy_stick",
+    "fg": ["pointy_stick_f"],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_wielded_spear_wood",
+    "fg": ["spear_wood_m"],
+    "bg": []
+  },
+  {
+    "id": "overlay_female_wielded_spear_wood",
+    "fg": ["spear_wood_f"],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_wielded_spear_spike",
+    "fg": ["spear_spike_m"],
+    "bg": []
+  },
+  {
+    "id": "overlay_female_wielded_spear_spike",
+    "fg": ["spear_spike_f"],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_wielded_spear_knife",
+    "fg": ["spear_knife_m"],
+    "bg": []
+  },
+  {
+    "id": "overlay_female_wielded_spear_knife",
+    "fg": ["spear_knife_f"],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_wielded_spear_knife_superior",
+    "fg": ["spear_knife_superior_m"],
+    "bg": []
+  },
+  {
+    "id": "overlay_female_wielded_spear_knife_superior",
+    "fg": ["spear_knife_superior_f"],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_wielded_spear_rebar",
+    "fg": ["spear_rebar_m"],
+    "bg": []
+  },
+  {
+    "id": "overlay_female_wielded_spear_rebar",
+    "fg": ["spear_rebar_f"],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_wielded_spear_pipe",
+    "fg": ["spear_pipe_m"],
+    "bg": []
+  },
+  {
+    "id": "overlay_female_wielded_spear_pipe",
+    "fg": ["spear_pipe_f"],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_wielded_spear_steel",
+    "fg": ["spear_steel_m"],
+    "bg": []
+  },
+  {
+    "id": "overlay_female_wielded_spear_steel",
+    "fg": ["spear_steel_f"],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_wielded_spear_copper",
+    "fg": ["spear_copper_m"],
+    "bg": []
+  },
+  {
+    "id": "overlay_female_wielded_spear_copper",
+    "fg": ["spear_copper_f"],
+    "bg": []
+  }
+]

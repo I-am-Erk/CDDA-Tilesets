@@ -1,0 +1,16 @@
+[
+  {
+    "id": "overlay_female_mutation_BEAK_PECK",
+    "fg": [
+      "beak_peck_f"
+    ],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_mutation_BEAK_PECK",
+    "fg": [
+      "beak_peck_m"
+    ],
+    "bg": []
+  }
+]

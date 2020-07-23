@@ -1,0 +1,12 @@
+[
+  {
+    "id": "overlay_male_mutation_hair_white_mohawk",
+    "fg": ["hair_white_mohawk_m"],
+    "bg": []
+  },
+  {
+    "id": "overlay_female_mutation_hair_white_mohawk",
+    "fg": ["hair_white_mohawk_f"],
+    "bg": []
+  }
+]

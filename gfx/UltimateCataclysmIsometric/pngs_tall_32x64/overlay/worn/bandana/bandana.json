@@ -1,0 +1,16 @@
+[
+  {
+    "id": "overlay_female_worn_bandana",
+    "fg": [
+      "bandana_f"
+    ],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_worn_bandana",
+    "fg": [
+      "bandana_m"
+    ],
+    "bg": []
+  }
+]

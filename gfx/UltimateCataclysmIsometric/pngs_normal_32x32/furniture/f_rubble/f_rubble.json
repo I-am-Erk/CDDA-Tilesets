@@ -1,0 +1,12 @@
+[
+{
+  "id": "f_rubble",
+  "fg": [ "f_rubble" ],
+  "bg": [ ]
+},
+{
+  "id": "f_rubble_rock",
+  "fg": [ "f_rubble_rock" ],
+  "bg": [ ]
+}
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "mon_ant_soldier",
+    "fg": ["mon_ant_soldier"],
+    "bg": ["shadow_64x64_large"]
+  },
+  {
+    "id": "mon_ant_acid_soldier",
+    "fg": ["mon_ant_acid_soldier"],
+    "bg": ["shadow_64x64_large"]
+  },
+  {
+    "id": "corpse_mon_ant_soldier",
+    "fg": ["corpse_mon_ant_soldier"],
+    "bg": []
+  },
+  {
+    "id": "corpse_mon_ant_acid_soldier",
+    "fg": ["corpse_mon_ant_acid_soldier"],
+    "bg": []
+  },
+  {
+    "id": "mon_ant_queen",
+    "fg": ["mon_ant_queen"],
+    "bg": ["shadow_64x64_large"]
+  },
+  {
+    "id": "mon_ant_acid_queen",
+    "fg": ["mon_ant_acid_queen"],
+    "bg": ["shadow_64x64_large"]
+  },
+  {
+    "id": "corpse_mon_ant_queen",
+    "fg": ["corpse_mon_ant_queen"],
+    "bg": []
+  },
+  {
+    "id": "corpse_mon_ant_acid_queen",
+    "fg": ["corpse_mon_ant_acid_queen"],
+    "bg": []
+  }
+]

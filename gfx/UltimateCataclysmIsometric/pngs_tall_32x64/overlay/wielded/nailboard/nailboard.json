@@ -1,0 +1,16 @@
+[
+  {
+    "id": "overlay_female_wielded_nailboard",
+    "fg": [
+      "nailboard_f"
+    ],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_wielded_nailboard",
+    "fg": [
+      "nailboard_m"
+    ],
+    "bg": []
+  }
+]

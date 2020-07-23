@@ -1,0 +1,74 @@
+[
+  {
+    "id": "t_chainfence",
+    "multitile": true,
+	"rotates": false,
+    "fg": [ "t_chainfence_ew" ],
+    "bg": [ "t_pavement" ],
+    "additional_tiles": [
+      { "id": "edge", "bg": [ "t_pavement" ], "fg": [ "t_chainfence_ns", "t_chainfence_ew" ] },
+      {
+        "id": "end_piece",
+        "bg": [ "t_pavement" ],
+        "fg": [ "t_chainfence_ns", "t_chainfence_ew", "t_chainfence_ns", "t_chainfence_ew" ]
+      },
+      { "bg": [ "t_pavement" ], "id": "unconnected", "fg": [ "t_chainfence_ew" ] }
+    ]
+  },
+  {
+    "id": "t_chainfence_season_winter",
+    "multitile": true,
+	"rotates": false,
+    "fg": [ "t_chainfence_ew" ],
+    "bg": [ "snow_shallow_center" ],
+    "additional_tiles": [
+      { "id": "edge", "bg": [ "snow_shallow_center" ], "fg": [ "t_chainfence_ns", "t_chainfence_ew" ] },
+      {
+        "id": "end_piece",
+        "bg": [ "snow_shallow_center" ],
+        "fg": [ "t_chainfence_ns", "t_chainfence_ew", "t_chainfence_ns", "t_chainfence_ew" ]
+      },
+      { "bg": [ "snow_shallow_center" ], "id": "unconnected", "fg": [ "t_chainfence_ew" ] }
+    ]
+  },
+  {
+    "id": "t_chaingate_c",
+    "fg": [ "t_gate_chainlink_c" ],
+    "bg": [ "t_pavement" ]
+  },
+  {
+    "id": "t_chaingate_l",
+    "fg": [ "t_gate_chainlink_l" ],
+    "bg": [ "t_pavement" ]
+  },
+  {
+    "id": "t_chaingate_o",
+    "fg": [ "t_gate_chainlink_o" ],
+    "bg": [ "t_pavement" ]
+  },
+  {
+    "id": "t_chainfence_posts",
+    "fg": [ "t_chainfence_posts" ],
+    "bg": [ "t_pavement" ]
+  },
+  {
+    "id": "t_chaingate_c_season_winter",
+    "fg": [ "t_gate_chainlink_c" ],
+    "bg": [ "snow_shallow_center" ]
+  },
+  {
+    "id": "t_chaingate_l_season_winter",
+    "fg": [ "t_gate_chainlink_l" ],
+    "bg": [ "snow_shallow_center" ]
+  },
+  {
+    "id": "t_chaingate_o_season_winter",
+    "fg": [ "t_gate_chainlink_o" ],
+    "bg": [ "snow_shallow_center" ]
+  },
+  {
+    "id": "t_chainfence_posts_season_winter",
+    "fg": [ "t_chainfence_posts" ],
+    "bg": [ "snow_shallow_center" ]
+  }
+]

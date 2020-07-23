@@ -1,0 +1,8 @@
+{
+  "id": "f_grave_stone",
+  "fg": [
+    { "weight": 1, "sprite": "f_grave_stone_1" },
+    { "weight": 1, "sprite": "f_grave_stone_2" }
+  ],
+  "bg": []
+}

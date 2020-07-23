@@ -1,0 +1,12 @@
+[
+  {
+    "id": "overlay_female_wielded_corpse_generic_human",
+    "fg": ["corpse_generic_human_f"],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_wielded_corpse_generic_human",
+    "fg": ["corpse_generic_human_m"],
+    "bg": []
+  }
+]

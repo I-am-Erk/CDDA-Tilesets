@@ -1,0 +1,16 @@
+[
+  {
+    "id": "overlay_female_wielded_ak74",
+    "fg": [
+      "ak74_f"
+    ],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_wielded_ak74",
+    "fg": [
+      "ak74_m"
+    ],
+    "bg": []
+  }
+]

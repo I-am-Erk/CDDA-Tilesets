@@ -1,0 +1,68 @@
+[
+  {
+    "id": [ "vp_windshield_reinforced", "vp_windshield_reinforced_horizontal", "vp_windshield_reinforced_horizontal_front", "vp_windshield_reinforced_front_edge" ],
+    "fg": [
+      "vp_windshield_reinforced_horizontal_front",
+      "vp_windshield_reinforced_horizontal_front_rotW",
+      "vp_windshield_reinforced_horizontal_front_rotS",
+      "vp_windshield_reinforced_horizontal_front_rotE"
+    ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "vp_windshield_reinforced_horizontal_rear" ],
+    "fg": [ "vp_windshield_reinforced_horizontal_rear", "vp_windshield_reinforced_horizontal_rear_rotW", "vp_windshield_reinforced_horizontal_rear_rotS", "vp_windshield_reinforced_horizontal_rear_rotE" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "vp_windshield_reinforced_horizontal_rear_edge" ],
+    "fg": [
+      "vp_windshield_reinforced_horizontal_rear_edge",
+      "vp_windshield_reinforced_horizontal_rear_edge_rotW",
+      "vp_windshield_reinforced_horizontal_rear_edge_rotS",
+      "vp_windshield_reinforced_horizontal_rear_edge_rotE"
+    ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": "vp_windshield_reinforced_nw",
+    "fg": [ "vp_windshield_reinforced_nw" ], 
+	"//": [ "vp_windshield_reinforced_nw_rotW", "vp_windshield_reinforced_nw_rotS", "vp_windshield_reinforced_nw_rotE" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": "vp_windshield_reinforced_ne",
+    "fg": [ "vp_windshield_reinforced_ne" ], 
+	"//": [ "vp_windshield_reinforced_ne_rotW", "vp_windshield_reinforced_ne_rotS", "vp_windshield_reinforced_ne_rotE" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": "vp_windshield_reinforced_sw_edge",
+    "fg": [ "vp_windshield_reinforced_sw_edge", "vp_windshield_reinforced_sw_edge_rotW", "vp_windshield_reinforced_sw_edge", "vp_windshield_reinforced_sw_edge_rotE" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": "vp_windshield_reinforced_se_edge",
+    "fg": [ "vp_windshield_reinforced_se_edge", "vp_windshield_reinforced_se_edge_rotW", "vp_windshield_reinforced_se_edge", "vp_windshield_reinforced_se_edge_rotE" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "vp_windshield_reinforced_vertical_left", "vp_windshield_reinforced_left" ],
+    "fg": [ "vp_windshield_reinforced_vertical_left", "vp_windshield_reinforced_vertical_left_rotW", "vp_windshield_reinforced_vertical_left_rotS", "vp_windshield_reinforced_vertical_left_rotE" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "vp_windshield_reinforced_vertical_right", "vp_windshield_reinforced_right" ],
+    "fg": [ "vp_windshield_reinforced_vertical_right", "vp_windshield_reinforced_vertical_right_rotW", "vp_windshield_reinforced_vertical_right_rotS", "vp_windshield_reinforced_vertical_right_rotE" ],
+    "bg": [  ],
+    "rotates": true
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "overlay_female_worn_boxer_shorts",
+    "fg": [
+      "boxer_shorts_f"
+    ],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_worn_boxer_shorts",
+    "fg": [
+      "boxer_shorts_m"
+    ],
+    "bg": []
+  }
+]

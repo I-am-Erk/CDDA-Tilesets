@@ -1,0 +1,22 @@
+[
+  {
+    "id": "overlay_male_worn_blanket",
+    "fg": ["blanket_m"],
+    "bg": []
+  },
+  {
+    "id": "overlay_female_worn_blanket",
+    "fg": ["blanket_f"],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_worn_down_blanket",
+    "fg": ["down_blanket_m"],
+    "bg": []
+  },
+  {
+    "id": "overlay_female_worn_down_blanket",
+    "fg": ["down_blanket_f"],
+    "bg": []
+  }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "id": "mon_exodii_worker",
+  "fg": [
+    { "weight": 15, "sprite": "mon_exodii_worker_1" },
+    { "weight": 15, "sprite": "mon_exodii_worker_2" },
+    { "weight": 10, "sprite": "mon_exodii_worker_3" },
+    { "weight": 10, "sprite": "mon_exodii_worker_4" }
+  ],
+  "bg": ["shadow_32x64_normal"]
+ }
+]

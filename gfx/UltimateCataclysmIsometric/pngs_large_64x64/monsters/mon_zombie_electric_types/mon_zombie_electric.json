@@ -1,0 +1,18 @@
+[
+  {
+    "id": "mon_zombie_electric",
+    "fg": [
+      { "weight": 1, "sprite": "mon_zombie_electric_m" }, 
+      { "weight": 1, "sprite": "mon_zombie_electric_f" }
+    ],
+    "bg": ["shadow_64x64_normal"]
+  },
+  {
+    "id": "mon_zombie_nullfield",
+    "fg": [
+      { "weight": 1, "sprite": "mon_zombie_nullfield_m" }, 
+      { "weight": 1, "sprite": "mon_zombie_nullfield_f" }
+    ],
+    "bg": ["shadow_64x64_normal"]
+  }
+]

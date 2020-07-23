@@ -1,0 +1,27 @@
+[
+    {
+        "id": ["t_shrub_raspberry"],
+        "fg": ["t_shrub_raspberry"],
+        "bg": ["t_dirt"]
+    },
+    {
+        "id": ["t_shrub_raspberry_harvested"],
+        "fg": ["t_shrub_raspberry_harvested"],
+        "bg": ["t_dirt_summer"]
+    },
+    {
+        "id": "t_shrub_raspberry_season_summer",
+        "fg": ["t_shrub_raspberry_summer"],
+        "bg": ["t_dirt_summer"]
+    },
+    {
+        "id": "t_shrub_raspberry_season_autumn",
+        "fg": ["t_shrub_raspberry"],
+        "bg": ["t_dirt_autumn"]
+    },
+    {
+        "id": "t_shrub_raspberry_season_winter",
+        "fg": ["t_shrub_raspberry_winter"],
+        "bg": ["snow_deep"]
+    }
+]

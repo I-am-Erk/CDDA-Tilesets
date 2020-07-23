@@ -1,0 +1,17 @@
+{
+  "id": "vp_door_shutter",
+  "fg": [
+    "vp_door_shutter",
+    "vp_door_shutter_rotW",
+    "vp_door_shutter",
+    "vp_door_shutter_rotE"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "open", "fg": "vp_door_shutter_open", "bg": [  ] }
+  ]
+}

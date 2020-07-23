@@ -1,0 +1,12 @@
+[
+  {
+    "id": "overlay_male_mutation_hair_gray_short",
+    "fg": ["hair_gray_short_m"],
+    "bg": []
+  },
+  {
+    "id": "overlay_female_mutation_hair_gray_short",
+    "fg": ["hair_gray_short_f"],
+    "bg": []
+  }
+]

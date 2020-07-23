@@ -1,0 +1,12 @@
+[
+  {
+    "id": "f_alien_anemone",
+    "fg": ["f_alien_anemone"],
+    "bg": []
+  },
+  {
+    "id": "f_alien_table",
+    "fg": ["f_alien_table"],
+    "bg": []
+  }
+]

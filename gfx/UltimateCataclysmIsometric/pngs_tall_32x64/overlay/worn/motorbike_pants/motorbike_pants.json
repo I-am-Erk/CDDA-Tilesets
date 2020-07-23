@@ -1,0 +1,16 @@
+[
+  {
+    "id": "overlay_female_worn_motorbike_pants",
+    "fg": [
+      "motorbike_pants_f"
+    ],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_worn_motorbike_pants",
+    "fg": [
+      "motorbike_pants_m"
+    ],
+    "bg": []
+  }
+]

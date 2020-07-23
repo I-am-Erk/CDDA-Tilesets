@@ -1,0 +1,26 @@
+[{
+  "id": "id_industrial",
+  "fg": [
+    "id_industrial"
+  ],
+  "bg": [
+    
+  ]
+},{
+  "id": "id_military",
+  "fg": [
+    "id_military"
+  ],
+  "bg": [
+    
+  ]
+},{
+  "id": "id_science",
+  "fg": [
+    "id_science"
+  ],
+  "bg": [
+    
+  ]
+}
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "overlay_female_worn_gloves_fingerless",
+    "fg": [
+      "gloves_fingerless_f"
+    ],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_worn_gloves_fingerless",
+    "fg": [
+      "gloves_fingerless_m"
+    ],
+    "bg": []
+  }
+]
