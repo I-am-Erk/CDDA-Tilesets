@@ -1,0 +1,8 @@
+[
+  {
+    "id": "vp_basketsm",
+    "fg": [ "vp_basketsm_external_rotN", "vp_basketsm_external_rotW", "vp_basketsm_external_rotS", "vp_basketsm_external_rotE" ],
+    "rotates": true,
+    "bg": [  ]
+  }
+]

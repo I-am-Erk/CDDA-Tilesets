@@ -1,0 +1,8 @@
+[
+  {
+    "id": "vp_saddle",
+    "fg": [ "vp_saddle_rotN", "vp_saddle_rotW", "vp_saddle_rotS", "vp_saddle_rotE" ],
+    "rotates": true,
+    "bg": [  ]
+  }
+]
