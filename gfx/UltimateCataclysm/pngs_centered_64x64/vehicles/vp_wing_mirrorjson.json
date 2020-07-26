@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "vp_wing_mirror_left", "vp_wing_mirror" ],
+    "fg": [ "vp_wing_mirror_left_rotN", "vp_wing_mirror_left_rotW", "vp_wing_mirror_left_rotS", "vp_wing_mirror_left_rotE" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_wing_mirror_right",
+    "fg": [ "vp_wing_mirror_left_rotN", "vp_wing_mirror_left_rotW", "vp_wing_mirror_left_rotS", "vp_wing_mirror_left_rotE" ],
+    "rotates": true,
+    "bg": [  ]
+  }
+]
