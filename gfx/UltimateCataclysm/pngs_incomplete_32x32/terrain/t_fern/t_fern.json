@@ -1,0 +1,42 @@
+[
+  {
+    "id": "t_fern",
+    "fg": [ "t_fern" ],
+    "bg": [ "t_dirt" ]
+  },
+  {
+    "id": "t_fern_harvested",
+    "fg": [ "t_fern_harvested" ],
+    "bg": [ "t_dirt" ]
+  },
+  {
+    "id": "t_fern_season_summer",
+    "fg": [ "t_fern" ],
+    "bg": [ "t_dirt_summer" ]
+  },
+  {
+    "id": "t_fern_harvested_season_summer",
+    "fg": [ "t_fern_harvested" ],
+    "bg": [ "t_dirt_summer" ]
+  },
+  {
+    "id": "t_fern_season_autumn",
+    "fg": [ "t_fern" ],
+    "bg": [ "t_dirt_autumn" ]
+  },
+  {
+    "id": "t_fern_harvested_season_winter",
+    "fg": [ "t_fern_harvested" ],
+    "bg": [ "snow_deep" ]
+  },
+  {
+    "id": "t_fern_season_winter",
+    "fg": [ "t_fern" ],
+    "bg": [ "snow_deep" ]
+  },
+  {
+    "id": "t_fern_harvested_season_winter",
+    "fg": [ "t_fern_harvested" ],
+    "bg": [ "snow_deep" ]
+  }
+]
