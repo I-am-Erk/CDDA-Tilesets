@@ -15,6 +15,11 @@
     "bg": [  ]
   },
   {
+    "id": "vp_welding_rig",
+    "fg": [ "vp_welding_rig" ],
+    "bg": [  ]
+  },
+  {
     "id": "vp_craft_rig",
     "fg": [ "vp_craft_rig" ],
     "bg": [  ]
