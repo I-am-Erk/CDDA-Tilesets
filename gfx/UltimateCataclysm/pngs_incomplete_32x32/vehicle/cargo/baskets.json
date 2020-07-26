@@ -4,5 +4,11 @@
     "fg": [ "vp_basketsm_external_rotN", "vp_basketsm_external_rotW", "vp_basketsm_external_rotS", "vp_basketsm_external_rotE" ],
     "rotates": true,
     "bg": [  ]
+  },
+  {
+    "id": "vp_basketlg",
+    "fg": [ "vp_basketlg_rotN_rotS", "vp_basketlg_rotErotW", "vp_basketlg_rotN_rotS", "vp_basketlg_rotErotW" ],
+    "rotates": true,
+    "bg": [  ]
   }
 ]
