@@ -4,12 +4,11 @@
 
 <p align="center">
     <a href="https://discord.gg/kAXNZuy">
-        <img src="https://img.shields.io/discord/552510581161066497?logo=discord"
+        <img src="https://img.shields.io/discord/552510581161066497?style=flat-square&logo=discord"
             alt="chat on Discord"></a>
     <a href="https://github.com/I-am-Erk/CDDA-Tilesets/releases/latest">
-        <img src="https://img.shields.io/github/v/release/I-am-Erk/CDDA-Tilesets"
-            alt="latest release"></a>        
-            
+        <img src="https://img.shields.io/github/v/release/I-am-Erk/CDDA-Tilesets?style=flat-square"
+            alt="latest release"></a>
 </p>
         
 **UltiCa** (*Ulti*mate *Ca*taclysm) is a community made tileset for Cataclysm: Dark Days Ahead. It is inspired by old school pixel art games and tries to encapsulate a dark tone and atmosphere of utter desperation of the cataclysm.
@@ -66,6 +65,15 @@ We have rules for sprites these days. Not because it's important to keep the til
 - Give files a name based on the JSON ID they suit, eg `t_floor`.
 - If multiple files apply to that ID, make a subfolder eg `terrain/t_floor/` for all the views.
 - For the moment, there isn't a clear naming convention after that. Working on it.
+
+## Donations
+
+If you feel generous enough, you might consider donating to the artist. 
+
+| Artist | Link |
+|-|-|
+| I-am-Erk | N/a |
+| barsoosayque | <a href="https://liberapay.com/barsoosayque/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a> |
 
 ## Licensing
 Cataclysm:Dark Days Ahead and the Ultimate Cataclysm tileset is the result of contributions from volunteers under the Creative Commons Attribution ShareAlike 3.0 license. The code and content of the game is free to use, modify, and redistribute for any purpose whatsoever. See [Creative Commons](http://creativecommons.org/licenses/by-sa/3.0/) for details. Some code distributed with the project is not part of the project and is released under different software licenses, the files covered by different software licenses have their own license notices.
