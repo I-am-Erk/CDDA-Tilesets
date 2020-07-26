@@ -13,5 +13,5 @@
       },
       { "bg": ["t_dirt"], "id": "unconnected", "fg": [ "t_guardrail_unconnected" ] }
     ]
-  },
+  }
 ]
