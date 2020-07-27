@@ -43,7 +43,7 @@ We have rules for sprites these days. Not because it's important to keep the til
 - Item tiles should be as close to scale as they can be while still recognizable. When in doubt, err on the side of larger, but avoid filling an entire 32x32 tile with a single nail or it would look like a nail as large as a survivor.
 - Even for single items, putting multiple items into the icon could give it more recognizability without making it look comically huge.
 - Containers, like jars or bottles, should be drawn empty as the game will use the same tile no matter the actual content of the item.
-- 100% black underline without significant shadow on the floor so that they are not mistaken for furniture; this helps to identify an item in the game world.
+- 100% black underline without shadow on the floor so that they are not mistaken for furniture; this helps to identify an item in the game world.
 
 ### Overlay
 - 32x64 tile base; use these as reference (base male and base female sprites): 
