@@ -1,0 +1,15 @@
+# Summary
+
+- [Installation & Building](installation.md)
+- [Style guidelines](style/summary.md)
+    - [General](style/general.md)
+    - [Items]()
+    - [Overlay]()
+    - [Creatures]()
+    - [Terrain & Furniture]()
+- [How to]()
+    - [Tileset structure]()
+    - [Autotiles]()
+- [Tools]()
+    - [Slice autotiles]()
+    - [Generate preview]()
