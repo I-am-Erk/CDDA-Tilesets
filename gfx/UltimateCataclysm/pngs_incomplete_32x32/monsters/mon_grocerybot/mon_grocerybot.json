@@ -1,0 +1,12 @@
+[
+{
+  "id": "mon_grocerybot",
+  "fg": ["mon_grocerybot"],
+  "bg": ["shadow_32x32_small"]
+},
+{
+  "id": "mon_grocerybot_busted",
+  "fg": ["mon_grocerybot_busted"],
+  "bg": ["shadow_32x32_small"]
+}
+]

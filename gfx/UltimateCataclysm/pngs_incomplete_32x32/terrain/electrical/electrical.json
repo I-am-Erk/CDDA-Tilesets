@@ -1,0 +1,12 @@
+[
+{
+  "id": "t_current_trans",
+  "fg": ["t_current_trans"],
+  "bg": ["t_sidewalk_center"]
+},
+{
+  "id": "t_potential_trans",
+  "fg": ["t_potential_trans"],
+  "bg": ["t_sidewalk_center"]
+}
+]

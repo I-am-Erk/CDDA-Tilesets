@@ -1,0 +1,12 @@
+[
+{
+  "id": "alarmclock",
+  "fg": ["alarmclock"],
+  "bg": []
+},
+{
+  "id": "clock",
+  "fg": ["alarmclock"],
+  "bg": []
+}
+]
