@@ -1,0 +1,12 @@
+[
+{
+  "id": "bag_canvas",
+  "fg": ["bag_canvas"],
+  "bg": []
+},
+{
+  "id": "bag_canvas_small",
+  "fg": ["bag_canvas_small"],
+  "bg": []
+}
+]
