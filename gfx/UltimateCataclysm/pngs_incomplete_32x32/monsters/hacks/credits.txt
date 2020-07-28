@@ -1,0 +1,17 @@
+grenade_hack.png
+mon_grenade_hack.png
+nuke_hack.png
+mon_nuke_hack.png
+https://sketchfab.com/3d-models/military-drone-2169104d64e64999b7ff3781451a8702
+model by osiris2000
+rendered by int_ua
+
+
+mon_manhack.png
+mon_gasbomb_hack.png
+mon_flashbang_hack.png
+mon_c4_hack.png
+mon_EMP_hack.png
+https://sketchfab.com/3d-models/drone-9afce7aa67d246f2b9f42ad2eecc2a29
+model by kalinarm
+rendered by int_ua

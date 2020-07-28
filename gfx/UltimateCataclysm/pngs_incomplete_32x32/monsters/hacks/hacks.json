@@ -1,0 +1,47 @@
+[
+{
+  "id": "mon_grenade_hack",
+  "fg": ["mon_grenade_hack"],
+  "bg": ["shadow_32x32_small"]
+},
+{
+  "id": "mon_nuke_hack",
+  "fg": ["mon_nuke_hack"],
+  "bg": ["shadow_32x32_small"]
+},
+{
+  "id": "grenade_hack",
+  "fg": ["grenade_hack"],
+  "bg": []
+},
+{
+  "id": "nuke_hack",
+  "fg": ["nuke_hack"],
+  "bg": []
+},
+{
+  "id": "mon_manhack",
+  "fg": ["mon_manhack"],
+  "bg": ["shadow_32x32_small"]
+},
+{
+  "id": "mon_gasbomb_hack",
+  "fg": ["mon_gasbomb_hack"],
+  "bg": ["shadow_32x32_small"]
+},
+{
+  "id": "mon_flashbang_hack",
+  "fg": ["mon_flashbang_hack"],
+  "bg": ["shadow_32x32_small"]
+},
+{
+  "id": "mon_c4_hack",
+  "fg": ["mon_c4_hack"],
+  "bg": ["shadow_32x32_small"]
+},
+{
+  "id": "mon_EMP_hack",
+  "fg": ["mon_EMP_hack"],
+  "bg": ["shadow_32x32_small"]
+}
+]
