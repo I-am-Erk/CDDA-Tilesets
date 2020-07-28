@@ -1,0 +1,22 @@
+[
+{
+  "id": "mon_grenade_hack",
+  "fg": ["mon_grenade_hack"],
+  "bg": ["shadow_32x32_small"]
+},
+{
+  "id": "mon_nuke_hack",
+  "fg": ["mon_nuke_hack"],
+  "bg": ["shadow_32x32_small"]
+},
+{
+  "id": "grenade_hack",
+  "fg": ["grenade_hack"],
+  "bg": []
+},
+{
+  "id": "nuke_hack",
+  "fg": ["nuke_hack"],
+  "bg": []
+}
+]
