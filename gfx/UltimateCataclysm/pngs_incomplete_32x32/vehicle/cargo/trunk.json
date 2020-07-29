@@ -6,6 +6,12 @@
     "bg": [  ]
   },
   {
+    "id": "vp_box_wheelbarrow",
+    "fg": [ "vp_box_wheelbarrow_rotN", "vp_box_wheelbarrow_rotW", "vp_box_wheelbarrow_rotS", "vp_box_wheelbarrow_rotE" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
     "id": "vp_trunk",
     "fg": "vp_trunk",
     "rotates": true,
