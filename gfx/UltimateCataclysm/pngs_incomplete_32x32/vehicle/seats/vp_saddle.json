@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "vp_saddle", "vp_saddle_pedal" ],
+    "fg": [ "saddle_pedal_rotN", "saddle_pedal_rotW", "saddle_pedal_rotS", "saddle_pedal_rotE" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_saddle_motor",
+    "fg": [ "saddle_motor_rotN", "saddle_motor_rotW", "saddle_motor_rotS", "saddle_motor_rotE" ],
+    "rotates": true,
+    "bg": [  ]
+  }
+]
