@@ -1,0 +1,12 @@
+[
+{
+  "id": "solar_panel",
+  "fg": ["solar_panel"],
+  "bg": []
+},
+{
+  "id": "solar_cell",
+  "fg": ["solar_cell"],
+  "bg": []
+}
+]
