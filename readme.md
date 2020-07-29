@@ -18,13 +18,6 @@
 
 This repository stores individual sprites for UltiCa in PNG format, and also source files with layering in *PSD* (Photoshop), *XCF* (gimp 2.10) or *KRA* (Krita) formats. PNGs will then be compiled into a tileset using a python script maintained by mlangsdorf (The script is located in the main Cataclysm repo under `tools/gfx_tools/compose.py`).
 
-### Items
-- 32x32 tile base; small items should fit within 16x16.
-- Item tiles should be as close to scale as they can be while still recognizable. When in doubt, err on the side of larger, but avoid filling an entire 32x32 tile with a single nail or it would look like a nail as large as a survivor.
-- Even for single items, putting multiple items into the icon could give it more recognizability without making it look comically huge.
-- Containers, like jars or bottles, should be drawn empty as the game will use the same tile no matter the actual content of the item.
-- 100% black underline without shadow on the floor so that they are not mistaken for furniture; this helps to identify an item in the game world.
-
 ### Overlay
 - 32x64 tile base; use these as reference (base male and base female sprites): 
 

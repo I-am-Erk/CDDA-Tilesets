@@ -1,5 +1,7 @@
 # General style guidelines
 
+A bunch of rules that can be applied for every type of sprite.
+
 ## Use a limited set of colors as in pseudo-16 bit format
 
 ![colors](image/colors.png)

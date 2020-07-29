@@ -3,7 +3,7 @@
 - [Installation & Building](installation.md)
 - [Style guidelines](style/summary.md)
     - [General](style/general.md)
-    - [Items]()
+    - [Items](style/items.md)
     - [Overlay]()
     - [Creatures]()
     - [Terrain & Furniture]()
