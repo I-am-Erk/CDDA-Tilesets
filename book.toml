@@ -3,3 +3,7 @@ language = "en"
 multilingual = false
 src = "doc"
 title = "UltimateCataclysm — Documentation"
+
+[output.html]
+git-repository-url = "https://github.com/I-am-Erk/CDDA-Tilesets"
+git-repository-icon = "fa-github"

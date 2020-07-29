@@ -18,21 +18,6 @@
 
 This repository stores individual sprites for UltiCa in PNG format, and also source files with layering in *PSD* (Photoshop), *XCF* (gimp 2.10) or *KRA* (Krita) formats. PNGs will then be compiled into a tileset using a python script maintained by mlangsdorf (The script is located in the main Cataclysm repo under `tools/gfx_tools/compose.py`).
 
-### Overlay
-- 32x64 tile base; use these as reference (base male and base female sprites): 
-
-    <img src="./gfx/UltimateCataclysm/pngs_tall_32x64/overlay/skin/skin_light/skin_light_m.png" /> <img src="./gfx/UltimateCataclysm/pngs_tall_32x64/overlay/skin/skin_light/skin_light_f.png" />
-
-### Monsters
-- Take appropriate tile size; consider 32x64 a default human size.
-- Monster sprites should have ~8px offset from the ground to give them a 3d look.
-- Monsters should drop shadows when possible: 50% opaque black, ellipsis under the body.
-
-### Terrain
-- Walls and floors are 32x32, other things you should size accordingly to it's size in the world.
-- It's important to keep value level of the background objects (terrain, furniture) about 60-80, because it would define foreground entities (e.g. monsters) better.
-    
-    <img src="./doc/guidelines/bg-value.png"/>
 
 ## Folder/Filename Structure
 - Put files into the best appropriate folder (terrain, furniture, mutations, items, etc).
