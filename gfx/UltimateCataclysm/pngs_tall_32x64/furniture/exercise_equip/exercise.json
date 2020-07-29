@@ -3,5 +3,15 @@
     "id": "f_punching_bag",
     "fg": [ "f_punching_bag" ],
     "bg": [  ]
+  },
+  {
+    "id": "f_exercise",
+    "fg": [ "f_exercise" ],
+    "bg": [  ]
+  },
+  {
+    "id": "f_ergometer",
+    "fg": [ "f_ergometer" ],
+    "bg": [  ]
   }
 ]
