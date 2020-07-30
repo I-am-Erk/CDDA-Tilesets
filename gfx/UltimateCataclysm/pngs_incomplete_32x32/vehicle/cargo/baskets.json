@@ -6,8 +6,14 @@
     "bg": [  ]
   },
   {
-    "id": "vp_basketlg",
+    "id": [ "vp_basketlg", "vp_basketlg_external" ],
     "fg": [ "vp_basketlg_rotNrotS", "vp_basketlg_rotErotW", "vp_basketlg_rotNrotS", "vp_basketlg_rotErotW" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_basketlg_cart",
+    "fg": [ "vp_basketlg_rotNrotS", "vp_basketlg_cart_rotW", "vp_basketlg_rotNrotS", "vp_basketlg_cart_rotE" ],
     "rotates": true,
     "bg": [  ]
   }
