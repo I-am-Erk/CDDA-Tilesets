@@ -1,7 +1,5 @@
 {
-   "id": "mon_fish_medium_corpse",
-   "fg": [
-     "mon_fish_medium_corpse"
-	 ],
-	 "bg": []
-	 
+  "id": "corpse_mon_fish_medium",
+  "fg": [ "corpse_mon_fish_medium" ],
+  "bg": []
+} 
