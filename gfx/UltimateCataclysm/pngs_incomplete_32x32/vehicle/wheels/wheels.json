@@ -9,5 +9,11 @@
     "fg": [ "vp_wheel_bicycle_rotN", "vp_wheel_bicycle_rotW", "vp_wheel_bicycle_rotS", "vp_wheel_bicycle_rotE" ],
     "rotates": true,
     "bg": [  ]
+  },
+  {
+    "id": [ "vp_wheel_bicycle_rear" ],
+    "fg": [ "vp_wheel_bicycle_rotS", "vp_wheel_bicycle_rotE", "vp_wheel_bicycle_rotN", "vp_wheel_bicycle_rotW" ],
+    "rotates": true,
+    "bg": [  ]
   }
 ]
