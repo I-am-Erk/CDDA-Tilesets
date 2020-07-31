@@ -40,7 +40,7 @@
     "bg": [  ],
     "rotates": true,
     "multitile": true,
-    "additional_tiles": [ { "id": "open", "fg": "vp_door_rear", "bg": [  ] } ]
+    "additional_tiles": [ { "id": "open", "fg": "vp_door_rear_edge", "bg": [  ] } ]
   },
   {
     "id": [ "vp_door_left" ],
