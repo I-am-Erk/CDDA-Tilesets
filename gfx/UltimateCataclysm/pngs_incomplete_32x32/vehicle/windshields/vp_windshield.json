@@ -17,6 +17,17 @@
     "rotates": true
   },
   {
+    "id": [ "vp_windshield_horizontal_front_edge" ],
+    "fg": [
+      "vp_windshield_horizontal_front_edge_rotN",
+      "vp_windshield_horizontal_front_edge_rotW",
+      "vp_windshield_horizontal_front_edge_rotS",
+      "vp_windshield_horizontal_front_edge_rotE"
+    ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
     "id": [ "vp_windshield_horizontal_rear_edge" ],
     "fg": [
       "vp_windshield_rear_edge",
