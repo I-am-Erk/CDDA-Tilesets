@@ -13,16 +13,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Install Rust toolchain
-        uses: actions-rs/toolchain@v1
+      - name: Download mdBook
+        uses: Legion2/download-release-action@v2.1.0
         with:
-          toolchain: stable
-
-      - name: Install mdbook fork via cargo
-        uses: actions-rs/cargo@v1
-        with:
-          command: install
-          args: --git https://github.com/barsoosayque/mdBook.git --no-default-features --features search mdbook 
+          repository: barsoosayque/mdBook
+          tag: 'symlinks-patch'
+          path: .
+          file: mdbook.tar.gz
 
       - name: Build book
         run: mdbook build
