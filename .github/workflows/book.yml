@@ -22,7 +22,7 @@ jobs:
           token: "${{ secrets.GITHUB_TOKEN }}"
 
       - name: Build book
-        run: mdbook build
+        run: /tmp/mdbook/mdbook build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
