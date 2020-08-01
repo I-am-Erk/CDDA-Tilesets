@@ -1,1 +1,0 @@
-{"id": "f_pool_table", "fg": ["153_f_pool_table_0"], "multitile": true, "additional_tiles": [{"id": "corner", "fg": ["152_f_pool_table_1"], "bg": []}, {"id": "t_connection", "fg": ["153_f_pool_table_0"], "bg": []}], "rotates": false, "bg": []}

@@ -1,1 +1,0 @@
-This folder was originally used for grouping all fruits and vegetables from one source model.

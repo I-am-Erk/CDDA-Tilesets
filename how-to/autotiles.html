@@ -1,0 +1,326 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Autotiles - UltimateCataclysm — Documentation</title>
+        
+        
+
+
+        <!-- Custom HTML head -->
+        
+
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../installation.html"><strong aria-hidden="true">1.</strong> Installation &amp; Building</a></li><li class="chapter-item expanded "><a href="../style/summary.html"><strong aria-hidden="true">2.</strong> Style guidelines</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../style/general.html"><strong aria-hidden="true">2.1.</strong> General</a></li><li class="chapter-item expanded "><a href="../style/items.html"><strong aria-hidden="true">2.2.</strong> Items</a></li><li class="chapter-item expanded "><a href="../style/overlay.html"><strong aria-hidden="true">2.3.</strong> Overlay</a></li><li class="chapter-item expanded "><a href="../style/creatures.html"><strong aria-hidden="true">2.4.</strong> Creatures</a></li><li class="chapter-item expanded "><a href="../style/terrain-furniture.html"><strong aria-hidden="true">2.5.</strong> Terrain &amp; Furniture</a></li></ol></li><li class="chapter-item expanded "><strong aria-hidden="true">3.</strong> How to</li><li><ol class="section"><li class="chapter-item expanded "><a href="../how-to/structure.html"><strong aria-hidden="true">3.1.</strong> Tileset structure</a></li><li class="chapter-item expanded "><a href="../how-to/autotiles.html" class="active"><strong aria-hidden="true">3.2.</strong> Autotiles</a></li></ol></li><li class="chapter-item expanded "><strong aria-hidden="true">4.</strong> Tools</li><li><ol class="section"><li class="chapter-item expanded "><strong aria-hidden="true">4.1.</strong> Slice autotiles</li><li class="chapter-item expanded "><strong aria-hidden="true">4.2.</strong> Generate preview</li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">UltimateCataclysm — Documentation</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                        <a href="https://github.com/I-am-Erk/CDDA-Tilesets" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h3><a class="header" href="#autotiles" id="autotiles">Autotiles</a></h3>
+<p>Autotiles, referred to in CDDA game code as &quot;multitiles&quot;, are tiles that display differently
+depending on their relationship to other sprites in the group. Water is a classic example: drawing
+water as an autotile allows it to display as a single body with edges, instead of either individual
+little puddles, or a large blue expanse with no shoreline.</p>
+<p><img src="image/t_water_sh_autotile.png" alt="Water autotile" /></p>
+<p>To simplify drawing these tiles, we use a template with an 8x6 grid of all the tile boundary types
+in a predictable order. Transparency allows overlapping the same tiles on different backgrounds, so
+we don't have to redraw the water boundaries for dirt, grass, rock, etc. - we draw the water once,
+and the transparent edges allow it to overlap dirt, grass, rock, and so on.</p>
+<p>This template shows the standard arrangement of tile borders:</p>
+<p><img src="image/autotile_template_grid.png" alt="Autotile Template" /></p>
+<p>Black space indicates background, and white is the shape of the furniture or terrain. The sixteen
+tiles in the top-left 4x4 block contain the basic boundary shapes - these are the most important
+ones to draw.</p>
+<p>Both terrain and furniture tiles may use this template. Terrain like grass or fences:</p>
+<p><img src="image/t_grass_tall_autotile.png" alt="Tall grass terrain" />
+<img src="image/t_fence_autotile.png" alt="Fence terrain" /></p>
+<p>and furniture like bathtubs or benches:</p>
+<p><img src="image/f_bathtub_autotile.png" alt="Bathtub furniture" />
+<img src="image/f_bench_autotile.png" alt="Table furniture" /></p>
+<p>Currently, there are only a few of these tiles supported in CDDA, although some day it would be nice
+to have all of them available. With the current tile support there are two ways you might use an
+autotile, demonstrated by the bench and table autotiles. What we're missing is the ability to draw
+different types of <em>diagonal</em> connections. Without that, we have to represent things that are likely
+to have diagonal connections or unlikely to have them in different ways.</p>
+<p>These break down into a few parts as recognized by the game.</p>
+<ul>
+<li><strong>corner</strong>: These attach two adjacent tiles perpendicular to the tile in question.</li>
+<li><strong>edge</strong>: These tiles connected either on the top-bottom or left-right sides, in a straight line.</li>
+<li><strong>unconnected</strong>: This is a tile just hanging out alone, unconnected to its neighbors.</li>
+<li><strong>center</strong>: This is a 4-way intersection tile, connected on all sides.</li>
+<li><strong>end_piece</strong>: These tiles are connected only on one side.</li>
+<li><strong>t_connection</strong>: These are the 3-way intersection tiles.</li>
+</ul>
+<p><img src="image/f_bench_autotile_labels.png" alt="Autotile part labels" /></p>
+<h4><a class="header" href="#things-like-benches" id="things-like-benches">Things like benches</a></h4>
+<p><img src="image/f_bench_autotile.png" alt="Autotile: bench" /></p>
+<p>The bench autotile is an example of an autotile that we don't really expect to be displayed double-thick most of the time. Generally you're going to draw a bench like this:</p>
+<pre><code>.....
+bbbbb
+.....
+</code></pre>
+<p>rather than like this:</p>
+<pre><code>bb.bb
+bb.bb
+bb.bb
+</code></pre>
+<p>For this reason, the <strong>t_connection</strong> and <strong>center</strong> art for the bench are drawn as 3-way and 4-way intersections.</p>
+<h4><a class="header" href="#things-like-tables" id="things-like-tables">Things like tables</a></h4>
+<p><img src="image/f_table_autotile.png" alt="Autotile: table" /></p>
+<p>The table autotile is an example of a tile you would often expect to be drawn double-thick,
+connecting to itself. While you might also draw it one tile wide, two or more tiles of contiguous
+table are common. For this reason you can't assume there's an edge visible on a <strong>t_connection</strong> or
+<strong>center</strong> tile. Consider the center tile in a table like this, represented by a capital T amidst
+lower case:</p>
+<pre><code>.....
+.ttt.
+.tTt.
+.ttt.
+.....
+</code></pre>
+<p>That <strong>center</strong> tile can't be drawn as a 4-way intersection, or there would be holes in the table.
+It has to be drawn as a flat contiguous tabletop. Likewise the <strong>t_intersection</strong> tiles (the middle
+piece of each edge section) should be assumed to connect diagonally as well, again to prevent holes
+in the table.</p>
+<h3><a class="header" href="#slicing-autotiles" id="slicing-autotiles">Slicing autotiles</a></h3>
+<p>Before an autotile template can be used by the game, it needs to be sliced up into individual tiles.
+We use the <code>tools/slice_autotiles.py</code> script to achieve this.</p>
+<p>To run the script, you will need <a href="https://python.org">python</a> installed, as well as the libvips
+graphic library. Something like these commands should suffice to install them on Ubuntu:</p>
+<pre><code>$ sudo apt install python3-pip libvips
+$ pip3 install pyvips
+</code></pre>
+<p>If all goes well, you should be able to run the <code>slice_autotiles.py</code> script and see the usage note:</p>
+<pre><code>$ tools/slice_autotiles.py
+usage: slice_autotiles.py [-h] [--no-json] tile size image out
+slice_autotiles.py: error: the following arguments are required: tile, size, image, out
+</code></pre>
+<p>So if you have created a <code>mud_autotile.png</code> image, using the autotile template above, you can tell
+the script to slice it into 32x32-pixel tiles with a command like this:</p>
+<pre><code>$ tools/slice_autotiles.py mud 32 mud_autotile.png mud_tiles
+</code></pre>
+<p>This will create a <code>mud_tiles</code> folder with separate images for each tile in the template, along with
+a JSON file with connection data, for example:</p>
+<ul>
+<li>mud.json</li>
+<li>mud_center.png</li>
+<li>mud_corner_ne.png</li>
+<li>mud_corner_nw.png</li>
+<li>mud_corner_se.png</li>
+<li>mud_corner_sw.png</li>
+<li>mud_edge_ew.png</li>
+<li>mud_edge_ns.png</li>
+<li>mud_end_piece_e.png</li>
+<li>mud_end_piece_n.png</li>
+<li>mud_end_piece_s.png</li>
+<li>mud_end_piece_w.png</li>
+<li>mud_t_connection_e.png</li>
+<li>mud_t_connection_n.png</li>
+<li>mud_t_connection_s.png</li>
+<li>mud_t_connection_w.png</li>
+<li>mud_unconnected.png</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="../how-to/structure.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a rel="prev" href="../how-to/structure.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>
