@@ -9,8 +9,8 @@
     <a href="https://github.com/I-am-Erk/CDDA-Tilesets/releases/latest">
         <img src="https://img.shields.io/github/v/release/I-am-Erk/CDDA-Tilesets"
             alt="latest release"></a>
-    <a href="cdda-tilesets.github.io">
-        <img src="https://img.shields.io/badge/documentation-read-green"
+    <a href="i-am-erk.github.io/CDDA-Tilesets">
+        <img src="https://img.shields.io/badge/documentation-read-green?style=flat-square"
             alt="documentation"></a>
 </p>
         
@@ -18,16 +18,11 @@
 
 This repository stores individual sprites for UltiCa in PNG format, and also source files with layering in *PSD* (Photoshop), *XCF* (gimp 2.10) or *KRA* (Krita) formats. PNGs will then be compiled into a tileset using a python script maintained by mlangsdorf (The script is located in the main Cataclysm repo under `tools/gfx_tools/compose.py`).
 
-
-## Folder/Filename Structure
-- Put files into the best appropriate folder (terrain, furniture, mutations, items, etc).
-- Give files a name based on the JSON ID they suit, eg `t_floor`.
-- If multiple files apply to that ID, make a subfolder eg `terrain/t_floor/` for all the views.
-- For the moment, there isn't a clear naming convention after that. Working on it.
+For information about installing and contributing see [**documentation**](i-am-erk.github.io/CDDA-Tilesets).
 
 ## Donations
 
-If you feel generous enough, you might consider donating to artists. 
+If you feel generous enough, you might consider supporting artists. 
 
 | Artist | Link |
 |-|-|
