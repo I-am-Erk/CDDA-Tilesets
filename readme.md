@@ -7,7 +7,7 @@
         <img src="https://img.shields.io/discord/552510581161066497?style=flat-square&logo=discord"
             alt="chat on Discord"></a>
     <a href="https://github.com/I-am-Erk/CDDA-Tilesets/releases/latest">
-        <img src="https://img.shields.io/github/v/release/I-am-Erk/CDDA-Tilesets"
+        <img src="https://img.shields.io/github/v/release/I-am-Erk/CDDA-Tilesets?style=flat-square"
             alt="latest release"></a>
     <a href="https://i-am-erk.github.io/CDDA-Tilesets">
         <img src="https://img.shields.io/badge/documentation-read-green?style=flat-square"
