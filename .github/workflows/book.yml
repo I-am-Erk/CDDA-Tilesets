@@ -14,15 +14,12 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Install mdBook
-        uses: XAMPPRocky/get-github-release@v1
+        uses: jaxxstorm/action-install-gh-release@release/v1-alpha
         with:
-          owner: barsoosayque
-          repo: mdbook
-          matches: 'mdbook.tar.gz'
-          token: "${{ secrets.GITHUB_TOKEN }}"
+          repo: barsoosayque/mdbook
 
       - name: Build book
-        run: /tmp/mdbook/mdbook build
+        run: mdbook build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
