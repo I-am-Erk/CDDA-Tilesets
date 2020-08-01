@@ -22,7 +22,7 @@ jobs:
         uses: actions-rs/cargo@v1
         with:
           command: install
-          args: --git install --git https://github.com/barsoosayque/mdBook.git --no-default-features --features search mdbook 
+          args: --git https://github.com/barsoosayque/mdBook.git --no-default-features --features search mdbook 
 
       - name: Build book
         run: mdbook build
