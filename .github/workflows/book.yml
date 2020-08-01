@@ -19,6 +19,7 @@ jobs:
           owner: barsoosayque
           repo: mdbook
           matches: 'mdbook.tar.gz'
+          token: "${{ secrets.GITHUB_TOKEN }}"
 
       - name: Build book
         run: mdbook build
