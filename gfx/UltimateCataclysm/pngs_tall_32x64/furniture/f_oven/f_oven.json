@@ -1,5 +1,5 @@
 {
   "id": "f_oven",
-  "fg": ["oven"],
+  "fg": ["oven_faceN", "oven_faceW", "oven_faceS", "oven_faceE"],
   "bg": []
 }
