@@ -18,11 +18,10 @@ jobs:
         with:
           repository: barsoosayque/mdBook
           tag: 'symlinks-patch'
-          path: .
           file: mdbook.tar.gz
 
       - name: Build book
-        run: mdbook build
+        run: ./mdbook build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
