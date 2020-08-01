@@ -13,15 +13,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Download mdBook
-        uses: Legion2/download-release-action@v2.1.0
+      - name: Install mdBook
+        uses: XAMPPRocky/get-github-release@v1
         with:
-          repository: barsoosayque/mdBook
-          tag: 'symlinks-patch'
-          file: mdbook.tar.gz
+          owner: barsoosayque
+          repo: mdbook
+          matches: 'mdbook.tar.gz'
 
       - name: Build book
-        run: ./mdbook build
+        run: mdbook build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
