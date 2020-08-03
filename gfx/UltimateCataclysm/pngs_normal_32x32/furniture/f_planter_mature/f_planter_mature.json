@@ -55,7 +55,7 @@
       "bg": [],
       "id": "unconnected",
       "fg": [
-        "f_planter_mature_unconnected"
+        [ "f_planter_mature_unconnected", "f_planter_mature_unconnected" ]
       ]
     }
   ]
