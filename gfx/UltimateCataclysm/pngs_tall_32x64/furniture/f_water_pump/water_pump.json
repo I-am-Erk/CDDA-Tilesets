@@ -7,6 +7,6 @@
   {
     "id": "t_water_pump",
     "fg": [ "f_water_pump" ],
-    "bg": [ "t_sidewalk_center" ]
+    "bg": [ "t_concrete_tall" ]
   }
 ]
