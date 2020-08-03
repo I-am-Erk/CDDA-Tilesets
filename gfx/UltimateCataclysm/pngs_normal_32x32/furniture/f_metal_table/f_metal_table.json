@@ -54,9 +54,7 @@
     {
       "bg": [],
       "id": "unconnected",
-      "fg": [
-        [ "f_metal_table_unconnected", "f_metal_table_unconnected" ]
-      ]
+      "fg": [ "f_metal_table_unconnected", "f_metal_table_unconnected" ]
     }
   ]
 }

@@ -54,9 +54,7 @@
     {
       "bg": [],
       "id": "unconnected",
-      "fg": [
-        [ "f_planter_harvest_unconnected", "f_planter_harvest_unconnected" ]
-      ]
+      "fg": [ "f_planter_harvest_unconnected", "f_planter_harvest_unconnected" ]
     }
   ]
 }
