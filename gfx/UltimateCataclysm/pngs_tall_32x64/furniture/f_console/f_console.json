@@ -22,7 +22,7 @@
         "bg": [  ],
         "fg": [ "f_console_end_piece_n", "f_console_end_piece_w", "f_console_end_piece_s", "f_console_end_piece_e" ]
       },
-      { "bg": [  ], "id": "unconnected", "fg": [ "f_console_unconnected", "f_console_unconnected" ] }
+      { "bg": [  ], "id": "unconnected", "fg": [ "f_console_unconnected", "f_console_unconnected_faceW", "f_console_unconnected", "f_console_unconnected_faceE" ] }
     ]
   },
   {
@@ -63,7 +63,7 @@
           "f_console_broken_end_piece_e"
         ]
       },
-      { "bg": [  ], "id": "unconnected", "fg": [ "f_console_broken_unconnected", "f_console_broken_unconnected" ] }
+      { "bg": [  ], "id": "unconnected", "fg": [ "f_console_broken_unconnected_faceS", "f_console_broken_unconnected_faceW", "f_console_broken_unconnected_faceS", "f_console_broken_unconnected_faceE" ] }
     ]
   }
 ]
