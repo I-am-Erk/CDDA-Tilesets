@@ -28,7 +28,7 @@
   {
     "id": "f_console_broken",
     "multitile": true,
-    "fg": [ "f_console_broken_unconnected" ],
+    "fg": [ "f_console_broken_unconnected_faceS" ],
     "bg": [  ],
     "additional_tiles": [
       { "id": "center", "bg": [  ], "fg": [ "f_console_broken_center" ] },
