@@ -1,5 +1,26 @@
 [
   {
+    "id": "vp_frame_cover",
+    "fg": [ "vp_frame_cover" ], 
+    "//": [ "vp_frame_cover_rotW", "vp_frame_cover_rotS", "vp_frame_cover_rotE" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_frame_cross",
+    "fg": [ "vp_frame_cross" ], 
+    "//": [ "vp_frame_cross_rotW", "vp_frame_cross_rotS", "vp_frame_cross_rotE" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_frame_cross_unconnected",
+    "fg": [ "vp_frame_cross_unconnected" ], 
+    "//": [ "vp_frame_cross_unconnected_rotW", "vp_frame_cross_unconnected_rotS", "vp_frame_cross_unconnected_rotE" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
     "id": "vp_frame_ne",
     "fg": [ "vp_frame_ne" ], 
     "//": [ "vp_frame_ne_rotW", "vp_frame_ne_rotS", "vp_frame_ne_rotE" ],
@@ -136,6 +157,27 @@
     "bg": [  ]
   },
   {
+    "id": "vp_hdframe_cover",
+    "fg": [ "vp_hdframe_cover" ], 
+    "//": [ "vp_hdframe_cover_rotW", "vp_hdframe_cover_rotS", "vp_hdframe_cover_rotE" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_hdframe_cross",
+    "fg": [ "vp_hdframe_cross" ], 
+    "//": [ "vp_hdframe_cross_rotW", "vp_hdframe_cross_rotS", "vp_hdframe_cross_rotE" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_hdframe_cross_unconnected",
+    "fg": [ "vp_hdframe_cross_unconnected" ], 
+    "//": [ "vp_hdframe_cross_unconnected_rotW", "vp_hdframe_cross_unconnected_rotS", "vp_hdframe_cross_unconnected_rotE" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
     "id": "vp_hdframe_ne",
     "fg": [ "vp_hdframe_ne" ], 
     "//": [ "vp_hdframe_ne_rotW", "vp_hdframe_ne_rotS", "vp_hdframe_ne_rotE" ],
@@ -268,6 +310,27 @@
   {
     "id": [ "vp_hdframe_vertical", "vp_hdframe_vertical_2" ],
     "fg": [ "vp_hdframe_vertical" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_xlframe_cover",
+    "fg": [ "vp_xlframe_cover" ], 
+    "//": [ "vp_xlframe_cover_rotW", "vp_xlframe_cover_rotS", "vp_xlframe_cover_rotE" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_xlframe_cross",
+    "fg": [ "vp_xlframe_cross" ], 
+    "//": [ "vp_xlframe_cross_rotW", "vp_xlframe_cross_rotS", "vp_xlframe_cross_rotE" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_xlframe_cross_unconnected",
+    "fg": [ "vp_xlframe_cross_unconnected" ], 
+    "//": [ "vp_xlframe_cross_unconnected_rotW", "vp_xlframe_cross_unconnected_rotS", "vp_xlframe_cross_unconnected_rotE" ],
     "rotates": true,
     "bg": [  ]
   },
