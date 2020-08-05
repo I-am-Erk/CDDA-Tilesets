@@ -1,0 +1,17 @@
+[
+{
+  "id": "longsword",
+  "fg": ["longsword"],
+  "bg": []
+},
+{
+  "id": "longsword_inferior",
+  "fg": ["longsword_inferior"],
+  "bg": []
+},
+{
+  "id": "longsword_fake",
+  "fg": ["longsword_fake"],
+  "bg": []
+}
+]
