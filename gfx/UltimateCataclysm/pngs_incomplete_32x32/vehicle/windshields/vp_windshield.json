@@ -52,13 +52,13 @@
   },
   {
     "id": "vp_windshield_sw",
-    "fg": [ "vp_windshield_sw", "vp_windshield_sw_rotW", "vp_windshield_sw_rotS", "vp_windshield_sw_rotE" ],
+    "fg": [ "vp_windshield_sw_rotN", "vp_windshield_sw_rotW", "vp_windshield_sw_rotS", "vp_windshield_sw_rotE" ],
     "bg": [  ],
     "rotates": true
   },
   {
     "id": "vp_windshield_se",
-    "fg": [ "vp_windshield_se", "vp_windshield_se_rotW", "vp_windshield_se_rotS", "vp_windshield_se_rotE" ],
+    "fg": [ "vp_windshield_se_rotN", "vp_windshield_se_rotW", "vp_windshield_se_rotS", "vp_windshield_se_rotE" ],
     "bg": [  ],
     "rotates": true
   },
