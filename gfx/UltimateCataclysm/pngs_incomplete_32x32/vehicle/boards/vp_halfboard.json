@@ -68,6 +68,28 @@
     "bg": [  ]
   },
   {
+    "id": "vp_halfboard_vertical_t_left",
+    "fg": [
+      "vp_halfboard_vertical_t_left_rotN",
+      "vp_halfboard_vertical_t_left_rotW",
+      "vp_halfboard_vertical_t_left_rotS",
+      "vp_halfboard_vertical_t_left_rotE"
+    ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_halfboard_vertical_t_right",
+    "fg": [
+      "vp_halfboard_vertical_t_right_rotN",
+      "vp_halfboard_vertical_t_right_rotW",
+      "vp_halfboard_vertical_t_right_rotS",
+      "vp_halfboard_vertical_t_right_rotE"
+    ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
     "id": [ "vp_halfboard_horizontal", "vp_halfboard_horizontal_2" ],
     "fg": [ "vp_halfboard_horizontal" ],
     "rotates": true,
