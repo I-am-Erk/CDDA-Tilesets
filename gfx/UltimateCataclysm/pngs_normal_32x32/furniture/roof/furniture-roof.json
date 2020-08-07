@@ -13,5 +13,15 @@
   "id": "f_cellphone_booster",
   "fg": ["f_cellphone_booster"],
   "bg": []
+},
+{
+  "id": "f_vent_pipe",
+  "fg": ["f_vent_pipe"],
+  "bg": []
+},
+{
+  "id": "f_roof_turbine_vent",
+  "fg": ["f_roof_turbine_vent"],
+  "bg": []
 }
 ]
