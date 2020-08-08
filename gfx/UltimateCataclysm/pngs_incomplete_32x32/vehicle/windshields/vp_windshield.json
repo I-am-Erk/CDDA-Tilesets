@@ -51,6 +51,18 @@
     "rotates": true
   },
   {
+    "id": "vp_windshield_sw",
+    "fg": [ "vp_windshield_sw_rotN", "vp_windshield_sw_rotW", "vp_windshield_sw_rotS", "vp_windshield_sw_rotE" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": "vp_windshield_se",
+    "fg": [ "vp_windshield_se_rotN", "vp_windshield_se_rotW", "vp_windshield_se_rotS", "vp_windshield_se_rotE" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
     "id": "vp_windshield_nw_edge",
     "fg": [ "vp_windshield_nw_edge_rotN", "vp_windshield_nw_edge_rotW", "vp_windshield_nw_edge_rotS", "vp_windshield_nw_edge_rotE" ],
     "bg": [  ],

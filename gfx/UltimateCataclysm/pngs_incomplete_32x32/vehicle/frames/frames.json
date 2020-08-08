@@ -147,8 +147,8 @@
   },
   {
     "id": "vp_frame_horizontal_2_left",
-    "fg": [ "frame_horizontal2_left" ],
-    "//": [ "frame_horizontal2_left_rotW", "frame_horizontal2_left_rotS", "frame_horizontal2_left_rotE" ],
+    "fg": [ "frame_horizontal_2_left" ],
+    "//": [ "frame_horizontal_2_left_rotW", "frame_horizontal_2_left_rotS", "frame_horizontal_2_left_rotE" ],
     "rotates": true,
     "bg": [  ]
   },
@@ -161,8 +161,8 @@
   },
   {
     "id": "vp_frame_horizontal_2_right",
-    "fg": [ "frame_horizontal2_right" ],
-    "//": [ "frame_horizontal2_right_rotW", "frame_horizontal2_right_rotS", "frame_horizontal2_right_rotE" ],
+    "fg": [ "frame_horizontal_2_right" ],
+    "//": [ "frame_horizontal_2_right_rotW", "frame_horizontal_2_right_rotS", "frame_horizontal_2_right_rotE" ],
     "rotates": true,
     "bg": [  ]
   },
@@ -320,8 +320,8 @@
   },
   {
     "id": "vp_hdframe_horizontal_2_left",
-    "fg": [ "hdframe_horizontal2_left" ],
-    "//": [ "hdframe_horizontal2_left_rotW", "hdframe_horizontal2_left_rotS", "hdframe_horizontal2_left_rotE" ],
+    "fg": [ "hdframe_horizontal_2_left" ],
+    "//": [ "hdframe_horizontal_2_left_rotW", "hdframe_horizontal_2_left_rotS", "hdframe_horizontal_2_left_rotE" ],
     "rotates": true,
     "bg": [  ]
   },
@@ -334,8 +334,8 @@
   },
   {
     "id": "vp_hdframe_horizontal_2_right",
-    "fg": [ "hdframe_horizontal2_right" ],
-    "//": [ "hdframe_horizontal2_right_rotW", "hdframe_horizontal2_right_rotS", "hdframe_horizontal2_right_rotE" ],
+    "fg": [ "hdframe_horizontal_2_right" ],
+    "//": [ "hdframe_horizontal_2_right_rotW", "hdframe_horizontal_2_right_rotS", "hdframe_horizontal_2_right_rotE" ],
     "rotates": true,
     "bg": [  ]
   },
@@ -493,8 +493,8 @@
   },
   {
     "id": "vp_xlframe_horizontal_2_left",
-    "fg": [ "xlframe_horizontal2_left" ],
-    "//": [ "xlframe_horizontal2_left_rotW", "xlframe_horizontal2_left_rotS", "xlframe_horizontal2_left_rotE" ],
+    "fg": [ "xlframe_horizontal_2_left" ],
+    "//": [ "xlframe_horizontal_2_left_rotW", "xlframe_horizontal_2_left_rotS", "xlframe_horizontal_2_left_rotE" ],
     "rotates": true,
     "bg": [  ]
   },
@@ -507,8 +507,8 @@
   },
   {
     "id": "vp_xlframe_horizontal_2_right",
-    "fg": [ "xlframe_horizontal2_right" ],
-    "//": [ "xlframe_horizontal2_right_rotW", "xlframe_horizontal2_right_rotS", "xlframe_horizontal2_right_rotE" ],
+    "fg": [ "xlframe_horizontal_2_right" ],
+    "//": [ "xlframe_horizontal_2_right_rotW", "xlframe_horizontal_2_right_rotS", "xlframe_horizontal_2_right_rotE" ],
     "rotates": true,
     "bg": [  ]
   },
