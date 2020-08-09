@@ -1,0 +1,14 @@
+[
+  {
+    "id": "vp_light_blue",
+    "fg": [ "vp_light_blue", "vp_light_blue_rotWE ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": "vp_light_red",
+    "fg": [ "vp_light_red", "vp_light_red_rotWE ],
+    "bg": [  ],
+    "rotates": true
+  }
+]
