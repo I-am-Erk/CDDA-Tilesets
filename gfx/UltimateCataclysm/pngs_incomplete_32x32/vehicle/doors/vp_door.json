@@ -152,7 +152,7 @@
     "additional_tiles": [ { "id": "open", "fg": "vp_door_shutter_open", "bg": [  ] } ]
   },
   {
-    "id": "vp_door_trunk"
+    "id": "vp_door_trunk",
     "fg": [ "vp_door_trunk", "vp_door_trunk_rotW", "vp_door_trunk_rotS", "vp_door_trunk_rotE" ],
     "bg": [  ],
     "rotates": true,
@@ -216,7 +216,12 @@
     "additional_tiles": [
       {
         "id": "open",
-        "fg": [ "vp_door_rear_edge_open_rotN", "vp_door_rear_edge_open_rotW", "vp_door_rear_edge_open_rotS", "vp_door_rear_edge_open_rotE" ],
+        "fg": [
+          "vp_door_rear_edge_open_rotN",
+          "vp_door_rear_edge_open_rotW",
+          "vp_door_rear_edge_open_rotS",
+          "vp_door_rear_edge_open_rotE"
+        ],
         "bg": [  ]
       }
     ]
@@ -282,11 +287,16 @@
     "additional_tiles": [
       {
         "id": "open",
-        "fg": [ "vp_door_rear_edge_open_rotN", "vp_door_rear_edge_open_rotW", "vp_door_rear_edge_open_rotS", "vp_door_rear_edge_open_rotE" ],
+        "fg": [
+          "vp_door_rear_edge_open_rotN",
+          "vp_door_rear_edge_open_rotW",
+          "vp_door_rear_edge_open_rotS",
+          "vp_door_rear_edge_open_rotE"
+        ],
         "bg": [  ]
       }
     ]
-  }
+  },
   {
     "id": [ "vp_hddoor_opaque_left" ],
     "fg": [
@@ -337,7 +347,12 @@
   },
   {
     "id": [ "vp_hddoor_opaque", "vp_hddoor_opaque_front" ],
-    "fg": [ "vp_hddoor_opaque_front_rotN", "vp_hddoor_opaque_front_rotW", "vp_hddoor_opaque_front_rotS", "vp_hddoor_opaque_front_rotE" ],
+    "fg": [
+      "vp_hddoor_opaque_front_rotN",
+      "vp_hddoor_opaque_front_rotW",
+      "vp_hddoor_opaque_front_rotS",
+      "vp_hddoor_opaque_front_rotE"
+    ],
     "bg": [  ],
     "rotates": true,
     "multitile": true,
@@ -351,14 +366,24 @@
   },
   {
     "id": [ "vp_hddoor_opaque_rear" ],
-    "fg": [ "vp_hddoor_opaque_rear_rotN", "vp_hddoor_opaque_rear_rotW", "vp_hddoor_opaque_rear_rotS", "vp_hddoor_opaque_rear_rotE" ],
+    "fg": [
+      "vp_hddoor_opaque_rear_rotN",
+      "vp_hddoor_opaque_rear_rotW",
+      "vp_hddoor_opaque_rear_rotS",
+      "vp_hddoor_opaque_rear_rotE"
+    ],
     "bg": [  ],
     "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
         "id": "open",
-        "fg": [ "vp_door_rear_edge_open_rotN", "vp_door_rear_edge_open_rotW", "vp_door_rear_edge_open_rotS", "vp_door_rear_edge_open_rotE" ],
+        "fg": [
+          "vp_door_rear_edge_open_rotN",
+          "vp_door_rear_edge_open_rotW",
+          "vp_door_rear_edge_open_rotS",
+          "vp_door_rear_edge_open_rotE"
+        ],
         "bg": [  ]
       }
     ]
