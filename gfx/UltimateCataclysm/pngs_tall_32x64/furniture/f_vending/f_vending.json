@@ -1,0 +1,17 @@
+[
+{
+  "id": "f_vending_c",
+  "fg": ["f_vending_c"],
+  "bg": []
+},
+{
+  "id": "f_vending_reinforced",
+  "fg": ["f_vending_reinforced"],
+  "bg": []
+},
+{
+  "id": "f_vending_o",
+  "fg": ["f_vending_o"],
+  "bg": []
+}
+]
