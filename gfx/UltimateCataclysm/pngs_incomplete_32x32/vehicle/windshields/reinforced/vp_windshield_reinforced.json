@@ -1,12 +1,7 @@
 [
   {
     "id": [ "vp_reinforced_windshield", "vp_reinforced_windshield_horizontal", "vp_reinforced_windshield_horizontal_front", "vp_reinforced_windshield_front_edge" ],
-    "fg": [
-      "vp_windshield_reinforced_horizontal_front",
-      "vp_windshield_reinforced_horizontal_front_rotW",
-      "vp_windshield_reinforced_horizontal_front_rotS",
-      "vp_windshield_reinforced_horizontal_front_rotE"
-    ],
+    "fg": [ vp_reinforced_windshield_horizontal_front" ],
     "bg": [  ],
     "rotates": true
   },
