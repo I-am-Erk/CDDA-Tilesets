@@ -1,10 +1,20 @@
-
-
 [
   {
     "id": [ "vp_folding_seat", "vp_reclining_seat", "vp_seat" ],
     "rotates": true,
     "bg": [  ],
     "fg": [ "vp_seat_up", "vp_seat_left", "vp_seat_down", "vp_seat_right" ]
+  },
+  {
+    "id": [ "vp_seat_wood" ],
+    "rotates": true,
+    "bg": [ "vp_seat_wood_rotN", "vp_seat_wood_rotN", "vp_seat_wood_rotS", "vp_seat_wood_rotS" ],
+    "fg": [  "vp_wooden_aisle_vertical", "vp_wooden_aisle_horizontal" ]
+  },
+  {
+    "id": [ "vp_seat_wood_flimsy" ],
+    "rotates": true,
+    "bg": [ "vp_seat_wood_flimsy_rotN", "vp_seat_wood_flimsy_rotN", "vp_seat_wood_flimsy_rotS", "vp_seat_wood_flimsy_rotS" ],
+    "fg": [  "vp_wooden_aisle_vertical", "vp_wooden_aisle_horizontal" ]
   }
 ]

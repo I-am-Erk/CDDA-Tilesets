@@ -32,6 +32,7 @@
       "road_nsw",
       "road_esw",
       "road_nesw",
+      "road_end",
       "road_end_north",
       "road_end_south",
       "road_end_west",
