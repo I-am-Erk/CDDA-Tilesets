@@ -6,7 +6,7 @@
   },
   {
     "id": [ "forest_water" ],
-    "fg": "f_cattails_season_spring",
+    "fg": "t_underbrush",
     "bg": [ "t_water_sh_center" ]
   },
   {
