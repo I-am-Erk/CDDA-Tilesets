@@ -5,7 +5,7 @@
       "vp_woodboard_ne_rotN_sw_rotS",
       "vp_woodboard_ne_rotW_sw_rotE",
       "vp_woodboard_sw_rotN_ne_rotS",
-      "vp_woodboard_sw_rotW_ne_rotE"
+      "vp_woodboard_sw_rotw_ne_rotE"
     ],
     "rotates": true,
     "bg": [  ]
@@ -14,7 +14,7 @@
     "id": "vp_woodboard_nw",
     "fg": [
       "vp_woodboard_nw_rotN_se_rotS",
-      "vp_woodboard_nw_rotW_se_rotE",
+      "vp_woodboard_nw_rotw_se_rotE",
       "vp_woodboard_se_rotN_nw_rotS",
       "vp_woodboard_se_rotW_nw_rotE"
     ],
@@ -27,7 +27,7 @@
       "vp_woodboard_se_rotN_nw_rotS",
       "vp_woodboard_se_rotW_nw_rotE",
       "vp_woodboard_nw_rotN_se_rotS",
-      "vp_woodboard_nw_rotW_se_rotE"
+      "vp_woodboard_nw_rotw_se_rotE"
     ],
     "rotates": true,
     "bg": [  ]
@@ -36,7 +36,7 @@
     "id": "vp_woodboard_sw",
     "fg": [
       "vp_woodboard_sw_rotN_ne_rotS",
-      "vp_woodboard_sw_rotW_ne_rotE",
+      "vp_woodboard_sw_rotw_ne_rotE",
       "vp_woodboard_ne_rotN_sw_rotS",
       "vp_woodboard_ne_rotW_sw_rotE"
     ],
