@@ -1,0 +1,8 @@
+[
+  {
+    "id": [ "shelter", "shelter_1", "shelter_2", "shelter_vandal", "shelter_1_vandal", "shelter_2_vandal" ],
+    "fg": [ "otr_evac_shelter_1_faceN", "otr_evac_shelter_1_faceE", "otr_evac_shelter_1_faceS", "otr_evac_shelter_1_faceW" ],
+    "bg": "t_grass_center",
+    "rotation": true
+  }
+]
