@@ -2,31 +2,31 @@
   {
     "id": "overlay_wielded_female_i_staff",
     "fg": [ "ironshod_quarterstaff_f" ],
-    "bg": []
+    "bg": [  ]
   },
   {
     "id": "overlay_wielded_male_i_staff",
     "fg": [ "ironshod_quarterstaff_m" ],
-    "bg": []
+    "bg": [  ]
   },
   {
     "id": "overlay_female_wielded_shock_staff",
     "fg": [ "powered_quarterstaff_f" ],
-    "bg": []
+    "bg": [  ]
   },
   {
     "id": "overlay_male_wielded_shock_staff",
     "fg": [ "powered_quarterstaff_m" ],
-    "bg": []
+    "bg": [  ]
   },
   {
     "id": "overlay_female_wielded_q_staff",
     "fg": [ "quarterstaff_f" ],
-    "bg": []
+    "bg": [  ]
   },
   {
     "id": "overlay_male_wielded_q_staff",
     "fg": [ "quarterstaff_m" ],
-    "bg": []
+    "bg": [  ]
   }
 ]
