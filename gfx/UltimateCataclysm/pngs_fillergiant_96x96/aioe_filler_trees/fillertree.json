@@ -70,11 +70,11 @@
   },
   {
     "id": [
-      "t_tree_apricot_season_autumm",
-      "t_tree_cherry_season_autumm",
-      "t_tree_mulberry_season_autumm",
-      "t_tree_peach_season_autumm",
-      "t_tree_plum_season_autumm",
+      "t_tree_apricot_season_autumn",
+      "t_tree_cherry_season_autumn",
+      "t_tree_mulberry_season_autumn",
+      "t_tree_peach_season_autumn",
+      "t_tree_plum_season_autumn",
       "t_tree_pear_harvested"
     ],
     "fg": [
