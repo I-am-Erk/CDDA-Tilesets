@@ -5,18 +5,18 @@
   "bg": ["shadow_32x32_small"]
 },
 {
-  "id": "mon_nuke_hack",
-  "fg": ["mon_nuke_hack"],
+  "id": "mon_mininuke_hack",
+  "fg": ["mon_mininuke_hack"],
   "bg": ["shadow_32x32_small"]
 },
 {
-  "id": "grenade_hack",
-  "fg": ["grenade_hack"],
+  "id": "bot_grenade_hack",
+  "fg": ["bot_grenade_hack"],
   "bg": []
 },
 {
-  "id": "nuke_hack",
-  "fg": ["nuke_hack"],
+  "id": "bot_mininuke_hack",
+  "fg": ["bot_mininuke_hack"],
   "bg": []
 },
 {
