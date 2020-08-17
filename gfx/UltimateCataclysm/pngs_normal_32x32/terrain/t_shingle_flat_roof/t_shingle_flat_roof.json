@@ -1,0 +1,62 @@
+{
+  "id": "t_shingle_flat_roof",
+  "multitile": true,
+  "fg": [
+    "t_shingle_flat_roof_unconnected"
+  ],
+  "bg": [],
+  "additional_tiles": [
+    {
+      "id": "center",
+      "bg": [],
+      "fg": [
+        "t_shingle_flat_roof_center"
+      ]
+    },
+    {
+      "id": "corner",
+      "bg": [],
+      "fg": [
+        "t_shingle_flat_roof_corner_nw",
+        "t_shingle_flat_roof_corner_sw",
+        "t_shingle_flat_roof_corner_se",
+        "t_shingle_flat_roof_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "bg": [],
+      "fg": [
+        "t_shingle_flat_roof_t_connection_n",
+        "t_shingle_flat_roof_t_connection_w",
+        "t_shingle_flat_roof_t_connection_s",
+        "t_shingle_flat_roof_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "bg": [],
+      "fg": [
+        "t_shingle_flat_roof_edge_ns",
+        "t_shingle_flat_roof_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "bg": [],
+      "fg": [
+        "t_shingle_flat_roof_end_piece_n",
+        "t_shingle_flat_roof_end_piece_w",
+        "t_shingle_flat_roof_end_piece_s",
+        "t_shingle_flat_roof_end_piece_e"
+      ]
+    },
+    {
+      "bg": [],
+      "id": "unconnected",
+      "fg": [
+        "t_shingle_flat_roof_unconnected"
+      ]
+    }
+  ]
+}
