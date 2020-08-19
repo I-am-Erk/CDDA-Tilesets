@@ -54,7 +54,8 @@
     {
       "bg": [],
       "id": "unconnected",
-      "fg": [ "RENAME_ME_unconnected", "RENAME_ME_unconnected" ]
+      "fg": [ "RENAME_ME_unconnected", "RENAME_ME_unconnected" ],
+      "//": "Multitiles are assumed to rotate, two copies to omit rotation"
     }
   ]
 }
