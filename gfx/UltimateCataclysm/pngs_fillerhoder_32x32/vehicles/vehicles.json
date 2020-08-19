@@ -246,24 +246,6 @@
   ]
 },
 {
-  "id": "vp_reinforced_solar_panel",
-  "fg": [
-    "415_t_metal_0"
-  ],
-  "bg": [
-    "157_vp_solar_panel_0"
-  ]
-},
-{
-  "id": "vp_reinforced_solar_panel_v2",
-  "fg": [
-    "415_t_metal_0"
-  ],
-  "bg": [
-    "157_vp_solar_panel_0"
-  ]
-},
-{
   "id": "vp_roof",
   "fg": [
     "1799_vp_roof_0"
@@ -295,27 +277,6 @@
   "id": "vp_small_storage_battery",
   "fg": [
     "138_vp_small_storage_battery_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_solar_panel",
-  "fg": [
-    "157_vp_solar_panel_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_solar_panel_v2",
-  "fg": [
-    "157_vp_solar_panel_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_solar_panel_v3",
-  "fg": [
-    "157_vp_solar_panel_0"
   ],
   "bg": []
 },
@@ -600,15 +561,6 @@
   "id": "seat",
   "fg": [
     "124_vp_seat_0"
-  ],
-  "bg": [
-    "193_battery_1"
-  ]
-},
-{
-  "id": "solar_panel",
-  "fg": [
-    "157_vp_solar_panel_0"
   ],
   "bg": [
     "193_battery_1"
