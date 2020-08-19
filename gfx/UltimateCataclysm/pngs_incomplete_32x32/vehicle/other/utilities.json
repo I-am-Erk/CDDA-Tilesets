@@ -1,5 +1,12 @@
 [
   {
+    "id": "vp_veh_table",
+    "fg": [ "veh_table" ],
+    "bg": [ "vp_wooden_aisle_vertical", "vp_wooden_aisle_horizontal" ],
+    "additional_tiles": [ { "id": "broken", "fg": "veh_table_broken", "bg": [ "vp_wooden_aisle_vertical", "vp_wooden_aisle_horizontal" ] } ],
+    "rotates": true
+  },
+  {
     "id": "vp_minifridge",
     "fg": [ "vp_minifridge" ],
     "bg": [  ]
