@@ -16,10 +16,5 @@
     "id": "mon_triffid_young",
     "fg": [ "triffid_young" ],
     "bg": ["shadow_32x64_normal"]
-  },
-  {
-    "id": "mon_triffid_queen",
-    "fg": [ "triffid_queen" ],
-    "bg": ["shadow_32x64_normal"]
   }
 ]
