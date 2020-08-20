@@ -1,7 +1,7 @@
 [
   {
     "id": "cursor",
-    "fg": [ "cursor" ],
+    "fg": [ "cursor_white" ],
     "bg": [ ]
   },
   {
@@ -16,7 +16,7 @@
   },
   {
     "id": "line_target",
-    "fg": [ "line_target" ],
+    "fg": [ "cursor_yellow" ],
     "bg": [ ]
   },
   {
