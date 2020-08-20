@@ -4,7 +4,6 @@
       "t_tree_apricot_season_spring",
       "t_tree_cherry_season_spring",
       "t_tree_mulberry_season_spring",
-      "t_tree_peach_season_spring",
       "t_tree_pear_season_spring",
       "t_tree_plum_season_spring"
     ],
@@ -37,11 +36,6 @@
     "bg": [ "t_dirt_summer_giant" ]
   },
   {
-    "id": "t_tree_peach_season_summer",
-    "fg": "t_tree_peach",
-    "bg": [ "t_dirt_summer_giant" ]
-  },
-  {
     "id": "t_tree_pear_season_autumn",
     "fg": "t_tree_pear",
     "bg": [ "t_dirt_summer_giant" ]
@@ -56,7 +50,6 @@
       "t_tree_apricot_harvested",
       "t_tree_cherry_harvested",
       "t_tree_mulberry_harvested",
-      "t_tree_peach_harvested",
       "t_tree_plum_harvested",
       "t_tree_pear_season_summer"
     ],
@@ -73,7 +66,6 @@
       "t_tree_apricot_season_autumn",
       "t_tree_cherry_season_autumn",
       "t_tree_mulberry_season_autumn",
-      "t_tree_peach_season_autumn",
       "t_tree_plum_season_autumn",
       "t_tree_pear_harvested"
     ],
@@ -90,7 +82,6 @@
       "t_tree_apricot_season_winter",
       "t_tree_cherry_season_winter",
       "t_tree_mulberry_season_winter",
-      "t_tree_peach_season_winter",
       "t_tree_pear_season_winter",
       "t_tree_plum_season_winter"
     ],

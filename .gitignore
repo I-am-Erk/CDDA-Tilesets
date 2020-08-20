@@ -3,6 +3,7 @@
 gfx/*/tile_config.json
 
 # UltimateCataclysm built sprite sheets
+gfx/UltimateCataclysm/fillergiant.png
 gfx/UltimateCataclysm/fillerhoder.png
 gfx/UltimateCataclysm/giant.png
 gfx/UltimateCataclysm/incomplete.png
