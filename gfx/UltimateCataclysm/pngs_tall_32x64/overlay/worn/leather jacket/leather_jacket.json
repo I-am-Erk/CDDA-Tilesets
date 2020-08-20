@@ -1,0 +1,12 @@
+[
+  {
+    "id": "overlay_female_worn_jacket_leather",
+    "fg": [ "leather_jacket_f" ],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_worn_jacket_leather",
+    "fg": [ "leather_jacket_m" ],
+    "bg": []
+  }
+]
