@@ -2,6 +2,6 @@
   {
     "id": "mon_jabberwock",
     "fg": [ "mon_jabberwock" ],
-    "bg": ["shadow_6x64_large"]
+    "bg": ["shadow_64x64_large"]
   }
 ]
