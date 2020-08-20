@@ -1,0 +1,69 @@
+[
+  {
+    "id": "art_sphere",
+    "fg": [ "art_sphere" ],
+    "bg": [  ]
+  },
+  {
+    "id": "art_rod",
+    "fg": [ "art_rod" ],
+    "bg": [  ]
+  },
+  {
+    "id": "art_teardrop",
+    "fg": [ "art_teardrop" ],
+    "bg": [  ]
+  },
+  {
+    "id": "art_lamp",
+    "fg": [ "art_lamp" ],
+    "bg": [  ]
+  },
+  {
+    "id": "art_disc",
+    "fg": [ "art_disc" ],
+    "bg": [  ]
+  },
+  {
+    "id": "art_jelly",
+    "fg": [
+      { "weight": 100, "sprite": "art_jelly_up" },
+      { "weight": 100, "sprite": "art_jelly_down" }
+    ],
+    "bg": [  ]
+  },
+  {
+    "id": "art_spiral",
+    "fg": [ "art_spiral" ],
+    "bg": [  ]
+  },
+  {
+    "id": "art_pin",
+    "fg": [ "art_pin" ],
+    "bg": [  ]
+  },
+  {
+    "id": "art_tube",
+    "fg": [ "art_tube" ],
+    "bg": [  ]
+  },
+  {
+    "id": "art_pyramid",
+    "fg": [
+      { "weight": 100, "sprite": "art_pyramid" },
+      { "weight": 100, "sprite": "art_pyramid_small_rotated" },
+      { "weight": 100, "sprite": "art_pyramid_small" }
+    ],
+    "bg": [  ]
+  },
+  {
+    "id": "art_crescent",
+    "fg": [ "art_crescent" ],
+    "bg": [  ]
+  },
+  {
+    "id": "architect_cube",
+    "fg": [ "architect_cube" ],
+    "bg": [  ]
+  }
+]
