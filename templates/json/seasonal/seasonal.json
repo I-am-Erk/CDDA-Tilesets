@@ -1,0 +1,42 @@
+[
+  {
+    "id": "RENAME_ME_season_spring",
+    "fg": [ "RENAME_ME_season_spring" ],
+    "bg": [ "t_dirt" ]
+  },
+  {
+    "id": "RENAME_ME_season_summer",
+    "fg": [ "RENAME_ME_season_summer" ],
+    "bg": [ "t_dirt_summer" ]
+  },
+  {
+    "id": "RENAME_ME_season_autumn",
+    "fg": [ "RENAME_ME_season_autumn" ],
+    "bg": [ "t_dirt_autumn" ]
+  },
+  {
+    "id": "RENAME_ME_season_winter",
+    "fg": [ "RENAME_ME_season_winter" ],
+    "bg": [ "snow_deep" ]
+  },
+  {
+    "id": "RENAME_ME_harvested_season_spring",
+    "fg": [ "RENAME_ME_harvested_season_spring" ],
+    "bg": [ "t_dirt" ]
+  },
+  {
+    "id": "RENAME_ME_harvested_season_summer",
+    "fg": [ "RENAME_ME_harvested_season_summer" ],
+    "bg": [ "t_dirt_summer" ]
+  },
+  {
+    "id": "RENAME_ME_harvested_season_autumn",
+    "fg": [ "RENAME_ME_harvested_season_autumn" ],
+    "bg": [ "t_dirt_summer" ]
+  },
+  {
+    "id": "RENAME_ME_harvested_season_winter",
+    "fg": [ "RENAME_ME_harvested_season_winter" ],
+    "bg": [ "snow_deep" ]
+  }
+]
