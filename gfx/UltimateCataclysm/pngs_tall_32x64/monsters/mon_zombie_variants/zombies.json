@@ -1,0 +1,7 @@
+[
+  {
+    "id": "mon_zombie_hazmat",
+    "fg": [ "mon_zombie_hazmat" ],
+    "bg": ["shadow_32x64_normal"]
+  }
+]
