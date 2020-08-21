@@ -78,11 +78,7 @@
   },
   {
     "id": "altered_teapot",
-    "fg": [
-      { "weight": 100, "sprite": "altered_teapot_gamma1" },
-      { "weight": 100, "sprite": "altered_teapot_gamma2" },
-      { "weight": 100, "sprite": "utah_teapot" }
-    ],
+    "fg": [ "altered_teapot_gamma2" ],
     "bg": [  ]
   },
   {
