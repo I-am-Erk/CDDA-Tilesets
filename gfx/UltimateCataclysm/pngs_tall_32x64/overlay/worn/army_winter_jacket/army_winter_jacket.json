@@ -1,0 +1,12 @@
+[
+  {
+    "id": "overlay_female_worn_winter_jacket_army",
+    "fg": [ "army_winter_jacket_f" ],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_worn_winter_jacket_army",
+    "fg": [ "army_winter_jacket_m" ],
+    "bg": []
+  }
+]
