@@ -25,6 +25,11 @@
     "bg": [  ]
   },
   {
+    "id": "art_beads",
+    "fg": [ "art_beads" ],
+    "bg": [  ]
+  },
+  {
     "id": "art_jelly",
     "fg": [
       { "weight": 100, "sprite": "art_jelly_up" },
@@ -57,8 +62,23 @@
     "bg": [  ]
   },
   {
+    "id": "art_crystal",
+    "fg": [ "art_crystal" ],
+    "bg": [  ]
+  },
+  {
+    "id": "art_knot",
+    "fg": [ "art_knot" ],
+    "bg": [  ]
+  },
+  {
     "id": "art_crescent",
     "fg": [ "art_crescent" ],
+    "bg": [  ]
+  },
+  {
+    "id": "altered_teapot",
+    "fg": [ "altered_teapot_gamma2" ],
     "bg": [  ]
   },
   {
