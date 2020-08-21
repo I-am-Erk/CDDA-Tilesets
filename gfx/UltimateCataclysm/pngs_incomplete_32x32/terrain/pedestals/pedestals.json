@@ -10,6 +10,6 @@
       { "weight": 100, "sprite": "pedestal_square" },
       { "weight": 100, "sprite": "pedestal_hourglass" }
     ],
-    "bg": [ "t_rock_floor_center" ]
+    "bg": [ "t_dirtfloor_unconnected" ]
   }
 ]
