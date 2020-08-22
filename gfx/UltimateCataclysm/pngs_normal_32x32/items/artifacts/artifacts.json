@@ -20,6 +20,11 @@
     "bg": [  ]
   },
   {
+    "id": "art_snake",
+    "fg": [ "art_snake" ],
+    "bg": [  ]
+  },
+  {
     "id": "art_disc",
     "fg": [ "art_disc" ],
     "bg": [  ]
@@ -27,6 +32,16 @@
   {
     "id": "art_beads",
     "fg": [ "art_beads" ],
+    "bg": [  ]
+  },
+  {
+    "id": "art_napkin",
+    "fg": [ "art_napkin" ],
+    "bg": [  ]
+  },
+  {
+    "id": "art_urchin",
+    "fg": [ "art_urchin" ],
     "bg": [  ]
   },
   {
