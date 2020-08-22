@@ -46,10 +46,7 @@
   },
   {
     "id": "art_jelly",
-    "fg": [
-      { "weight": 100, "sprite": "art_jelly_up" },
-      { "weight": 100, "sprite": "art_jelly_down" }
-    ],
+    "fg": [ "art_jelly" ],
     "bg": [  ]
   },
   {
@@ -69,11 +66,7 @@
   },
   {
     "id": "art_pyramid",
-    "fg": [
-      { "weight": 100, "sprite": "art_pyramid" },
-      { "weight": 100, "sprite": "art_pyramid_small_rotated" },
-      { "weight": 100, "sprite": "art_pyramid_small" }
-    ],
+    "fg": [ "art_pyramid" ],
     "bg": [  ]
   },
   {
@@ -93,7 +86,7 @@
   },
   {
     "id": "altered_teapot",
-    "fg": [ "altered_teapot_gamma2" ],
+    "fg": [ "altered_teapot" ],
     "bg": [  ]
   },
   {

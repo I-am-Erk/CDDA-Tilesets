@@ -8,10 +8,5 @@
     "id": "wash_kit",
     "fg": [ "wash_kit" ],
     "bg": [  ]
-  },
-  {
-    "id": "sponge",
-    "fg": [ "sponge" ],
-    "bg": [  ]
   }
 ]
