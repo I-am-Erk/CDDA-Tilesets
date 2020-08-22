@@ -27,4 +27,6 @@ No shadow will make sure that players don't confuse several big items with furni
 
 ## Consider placement on tables
 
+![items-on-tables](image/items-on-tables.png)
+
 Table surfaces usually occupy top 19 pixels of 32x32 sprite, try fitting your items there when possible.
