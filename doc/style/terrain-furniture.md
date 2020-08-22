@@ -14,4 +14,4 @@ It's important to keep value level of the background objects (terrain, furniture
 
 # Keep table surfaces consistent
 
-When drawing something similar to a table keep in my that current table surfaces usually occupy top 19 pixels and items may be optimized to look like placed in that area.
+When drawing something similar to a table keep in mind that currently table surfaces usually occupy top 19 pixels and items may be optimized to look like placed in that area.
