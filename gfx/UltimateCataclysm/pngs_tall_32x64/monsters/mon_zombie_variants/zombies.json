@@ -3,5 +3,9 @@
     "id": "mon_zombie_hazmat",
     "fg": [ "mon_zombie_hazmat" ],
     "bg": ["shadow_32x64_normal"]
+  },{
+    "id": "mon_zombie_fireman",
+    "fg": [ "mon_zombie_fireman" ],
+    "bg": ["shadow_32x64_normal"]
   }
 ]
