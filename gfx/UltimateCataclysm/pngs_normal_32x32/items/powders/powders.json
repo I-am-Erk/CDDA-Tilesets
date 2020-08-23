@@ -1,5 +1,13 @@
 [
-  {
+{
+    "id": "material_sand",
+    "fg": [ "powder_sand" ],
+    "bg": [  ]
+  }, {
+    "id": "material_soil",
+    "fg": [ "powder_soil" ],
+    "bg": [  ]
+  }, {
     "id": "chem_aluminium_powder",
     "fg": [ "powder_aluminum" ],
     "bg": [  ]
