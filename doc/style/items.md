@@ -24,3 +24,9 @@ Like jars or bottles. The game will use the same tile no matter the actual conte
 *// TODO: image*
 
 No shadow will make sure that players don't confuse several big items with furniture. Black underline helps to identify an item in the game world.
+
+## Consider placement on tables
+
+![items-on-tables](image/items-on-tables.png)
+
+Table surfaces usually occupy top 19 pixels of a 32x32 sprite, try fitting your items there when possible.
