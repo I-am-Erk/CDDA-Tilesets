@@ -1,11 +1,11 @@
 [
   {
-    "id": "overlay_female_worn_10galhat",
+    "id": "overlay_female_worn_10gal_hat",
     "fg": [ "ten_gallon_hat_f" ],
     "bg": []
   },
   {
-    "id": "overlay_male_worn_10galhat",
+    "id": "overlay_male_worn_10gal_hat",
     "fg": [ "ten_gallon_hat_m" ],
     "bg": []
   }
