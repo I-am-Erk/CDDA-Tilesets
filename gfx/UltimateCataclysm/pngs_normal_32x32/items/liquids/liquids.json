@@ -10,6 +10,51 @@
     "bg": [ ]
   },
   {
+    "id": "gasoline",
+    "fg": [ "gasoline" ],
+    "bg": [ ]
+  },
+  {
+    "id": "diesel",
+    "fg": [ "diesel" ],
+    "bg": [ ]
+  },
+  {
+    "id": "biodiesel",
+    "fg": [ "biodiesel" ],
+    "bg": [ ]
+  },
+  {
+    "id": "flamethrower_fuel",
+    "fg": [ "flamethrower_fuel" ],
+    "bg": [ ]
+  },
+  {
+    "id": "avgas",
+    "fg": [ "avgas" ],
+    "bg": [ ]
+  },
+  {
+    "id": "lamp_oil",
+    "fg": [ "lamp_oil" ],
+    "bg": [ ]
+  },
+  {
+    "id": "motor_oil",
+    "fg": [ "motor_oil" ],
+    "bg": [ ]
+  },
+  {
+    "id": "napalm",
+    "fg": [ "napalm" ],
+    "bg": [ ]
+  },
+  {
+    "id": "gelled_gasoline",
+    "fg": [ "gelled_gasoline" ],
+    "bg": [ ]
+  },
+  {
     "id": "blood",
     "fg": [ "blood" ],
     "bg": [ ]
