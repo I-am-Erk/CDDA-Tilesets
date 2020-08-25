@@ -1,16 +1,12 @@
 [
   {
-    "id": "overlay_female_mutation_WINGS_BIRD",
-    "fg": [
-      "wings_bird_f"
-    ],
-    "bg": []
+    "id": "overlay_female_mutation_ALBINO",
+    "fg": [ "albino_pink_woman" ],
+    "bg": [  ]
   },
   {
-    "id": "overlay_male_mutation_WINGS_BIRD",
-    "fg": [
-      "wings_bird_m"
-    ],
-    "bg": []
+    "id": "overlay_male_mutation_ALBINO",
+    "fg": [ "albino_pink_male" ],
+    "bg": [  ]
   }
 ]
