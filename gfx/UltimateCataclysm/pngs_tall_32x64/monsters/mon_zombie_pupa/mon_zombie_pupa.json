@@ -1,0 +1,12 @@
+[
+  {
+    "id": "mon_zombie_crawler_pupa",
+    "fg": [ "mon_zombie_crawler_pupa" ],
+    "bg": [ "shadow_32x64_normal" ]
+  },
+  {
+    "id": "mon_zombie_pupa",
+    "fg": [ "mon_zombie_pupa" ],
+    "bg": [ "shadow_32x64_normal" ]
+  }
+]
