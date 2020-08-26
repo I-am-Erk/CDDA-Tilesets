@@ -1,0 +1,26 @@
+[
+  {
+    "id": "f_plant_seed",
+    "fg": "rose_seed",
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "f_plant_seedling",
+    "fg": "rose_growing",
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "f_plant_mature",
+    "fg": "rose_growing2",
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "f_plant_harvest",
+    "fg": "rose_harvest",
+    "bg": [],
+    "rotates": false
+  }
+]
