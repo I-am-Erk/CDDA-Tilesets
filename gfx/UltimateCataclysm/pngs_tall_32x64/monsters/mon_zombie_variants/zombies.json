@@ -21,6 +21,14 @@
     "bg": [ "shadow_32x64_normal" ]
   },
   {
+    "id": "mon_zombie_scientist",
+    "fg": [
+      { "weight": 1, "sprite": "mon_zombie_scientist_f" }, 
+      { "weight": 1, "sprite": "mon_zombie_scientist_m" }
+    ],
+    "bg": ["shadow_32x64_normal"]
+  },
+  {
     "id": [
       "corpse_mon_zombie",
       "corpse_mon_zombie_grappler",
