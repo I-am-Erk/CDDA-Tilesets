@@ -2,15 +2,20 @@
 
 ## Take appropriate tile size
 
-*// TODO: image*
+Consider 32x64 a default template for human-sized creatures:
 
-Consider 32x64 a default human size.
+![male](image/skin-male.png)
+![female](image/skin-female.png)
 
 # Monster sprites should have ~8px offset from the ground
 
 *// TODO: image*
 
 To give them a 3d look.
+
+# Facing to the right by default
+
+And remember that tiles are mirrored when creatures move.
 
 # Monsters should drop shadows when possible
 
