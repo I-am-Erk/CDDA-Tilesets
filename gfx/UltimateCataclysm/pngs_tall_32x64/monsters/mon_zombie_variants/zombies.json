@@ -45,7 +45,6 @@
       "corpse_mon_zombie_fat",
       "corpse_mon_zombie_corrosive",
       "corpse_mon_zombie_screecher",
-      "corpse_mon_zombie_scientist",
       "corpse_mon_zombie_runner",
       "corpse_mon_zombie_labsecurity",
       "corpse_mon_zombie_child",
@@ -86,6 +85,13 @@
       "corpse_mon_zombie_military_pilot"
     ],
     "fg": [ "corpse_mon_zombie" ],
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "corpse_mon_zombie_scientist"
+    ],
+    "fg": [ "corpse_mon_zombie_scientist" ],
     "bg": [  ]
   }
 ]
