@@ -15,7 +15,7 @@
     "bg": []
  },
 {
-    "id": "mon_fish_large",
+    "id": [ "mon_fish_large", "mon_fish_huge" ],
     "fg": [ "mon_fish_large" ],
     "bg": []
  },
