@@ -1,0 +1,10 @@
+{
+  "id": "mon_zombie_survivor",
+  "fg": [
+    "mon_zombie_survivor_elite"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}
