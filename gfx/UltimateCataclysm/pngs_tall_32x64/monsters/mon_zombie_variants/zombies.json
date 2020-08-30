@@ -41,6 +41,11 @@
     "bg": [ "shadow_32x64_normal" ]
   },
   {
+    "id": "mon_zombie_technician",
+    "fg": [ { "weight": 1, "sprite": "mon_zombie_technician_f" }, { "weight": 1, "sprite": "mon_zombie_technician_m" } ],
+    "bg": [ "shadow_32x64_normal" ]
+  },
+  {
     "id": [
       "corpse_mon_zombie",
       "corpse_mon_zombie_grappler",
@@ -56,9 +61,7 @@
       "corpse_mon_zombie_screecher",
       "corpse_mon_zombie_runner",
       "corpse_mon_zombie_child",
-      "corpse_mon_zombie_hazmat",
       "corpse_mon_zombie_electric",
-      "corpse_mon_zombie_technician",
       "corpse_mon_zombie_fungus",
       "corpse_mon_zombie_child_fungus",
       "corpse_mon_zombie_swimmer",
@@ -87,6 +90,11 @@
   {
     "id": [ "corpse_mon_zombie_scientist" ],
     "fg": [ "corpse_mon_zombie_scientist" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "corpse_mon_zombie_technician", "corpse_mon_zombie_hazmat" ],
+    "fg": [ "corpse_mon_zombie_technician" ],
     "bg": [  ]
   },
   {
