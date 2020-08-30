@@ -61,9 +61,7 @@
       "corpse_mon_zombie_screecher",
       "corpse_mon_zombie_runner",
       "corpse_mon_zombie_child",
-      "corpse_mon_zombie_hazmat",
       "corpse_mon_zombie_electric",
-      "corpse_mon_zombie_technician",
       "corpse_mon_zombie_fungus",
       "corpse_mon_zombie_child_fungus",
       "corpse_mon_zombie_swimmer",
@@ -92,6 +90,11 @@
   {
     "id": [ "corpse_mon_zombie_scientist" ],
     "fg": [ "corpse_mon_zombie_scientist" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "corpse_mon_zombie_technician", "corpse_mon_zombie_hazmat" ],
+    "fg": [ "corpse_mon_zombie_technician" ],
     "bg": [  ]
   },
   {
