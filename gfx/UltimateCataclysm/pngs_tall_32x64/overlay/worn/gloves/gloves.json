@@ -138,5 +138,15 @@
     "id": "overlay_male_worn_gloves_light",
     "fg": [ "gloves_light_m" ],
     "bg": [  ]
+  },
+  {
+    "id": "overlay_male_worn_long_glove_white",
+    "fg": [ "long_glove_white_m" ],
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_female_worn_long_glove_white",
+    "fg": [ "long_glove_white_f" ],
+    "bg": [  ]
   }
 ]
