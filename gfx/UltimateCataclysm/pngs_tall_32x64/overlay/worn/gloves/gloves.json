@@ -148,5 +148,15 @@
     "id": "overlay_female_worn_long_glove_white",
     "fg": [ "long_glove_white_f" ],
     "bg": [  ]
+  },
+  {
+    "id": "overlay_female_worn_mittens",
+    "fg": [ "mittens_f" ],
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_worn_mittens",
+    "fg": [ "mittens_m" ],
+    "bg": [  ]
   }
 ]
