@@ -4,5 +4,3 @@ chipmunk
 groundhog
 opossum
 sewer fish
-goose
-rattlesnake
