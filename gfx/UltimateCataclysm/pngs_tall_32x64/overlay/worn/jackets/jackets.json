@@ -68,5 +68,25 @@
     "id": "overlay_male_worn_jacket_windbreaker",
     "fg": [ "windbreaker_m" ],
     "bg": [  ]
+  },
+  {
+    "id": "overlay_female_worn_winter_jacket_army",
+    "fg": [ "army_winter_jacket_f" ],
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_worn_winter_jacket_army",
+    "fg": [ "army_winter_jacket_m" ],
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_female_worn_jacket_army",
+    "fg": [ "jacket_army_f" ],
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_worn_jacket_army",
+    "fg": [ "jacket_army_m" ],
+    "bg": [  ]
   }
 ]
