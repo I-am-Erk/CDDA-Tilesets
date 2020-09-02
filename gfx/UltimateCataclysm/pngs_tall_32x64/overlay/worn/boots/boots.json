@@ -88,5 +88,15 @@
     "id": "overlay_male_worn_boots_winter",
     "fg": [ "boots_winter_m" ],
     "bg": [  ]
+  },
+  {
+    "id": "overlay_female_worn_motorbike_boots",
+    "fg": [ "motorbike_boots_f" ],
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_worn_motorbike_boots",
+    "fg": [ "motorbike_boots_m" ],
+    "bg": [  ]
   }
 ]
