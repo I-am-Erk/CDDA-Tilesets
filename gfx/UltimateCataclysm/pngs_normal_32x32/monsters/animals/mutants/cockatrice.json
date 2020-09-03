@@ -6,7 +6,7 @@
   },
   {
     "id": "mon_cockatrice",
-    "fg": [ "mon_cockatrice" ],
+    "fg": [ "cockatrice" ],
     "bg": ["shadow_32x32_small"]
   }
 ]
