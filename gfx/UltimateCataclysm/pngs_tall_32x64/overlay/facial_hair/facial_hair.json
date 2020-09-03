@@ -245,8 +245,8 @@
     "bg": [  ]
   },
   {
-    "id": "overlay_female_mutation_FACIAL_HAIR_ZAPPA",
-    "fg": [ "the_zappa_f" ],
+    "id": "overlay_male_mutation_FACIAL_HAIR_ZAPPA",
+    "fg": [ "the_zappa_m" ],
     "bg": [  ]
   }
 ]

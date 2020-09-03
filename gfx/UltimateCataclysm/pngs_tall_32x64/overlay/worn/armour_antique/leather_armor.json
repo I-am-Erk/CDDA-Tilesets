@@ -40,8 +40,18 @@
     "bg": [  ]
   },
   {
+    "id": "overlay_female_worn_gauntlets_larmor",
+    "fg": [ "leather_hand_wraps_f" ],
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_worn_gauntlets_larmor",
+    "fg": [ "leather_armor_gloves_f" ],
+    "bg": [  ]
+  },
+  {
     "id": "overlay_female_worn_helmet_larmor",
-    "fg": [ "leather_armor_helmet_f" ],
+    "fg": [ "leather_armor_gloves_m" ],
     "bg": [  ]
   },
   {
