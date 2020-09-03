@@ -1,6 +1,6 @@
 [
   {
-    "id": "mon_zombie",
+    "id": "mon_zombie_mancroc",
     "fg": [
       { "weight": 100, "sprite": "zombie_snapper1" },
       { "weight": 100, "sprite": "zombie_snapper2" }
