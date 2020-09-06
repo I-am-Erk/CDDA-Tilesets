@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fur_rollmat",
+    "fg": ["fur_rollmat"],
+    "bg": []
+  },
+  {
+    "id": "rollmat",
+    "fg": ["rollmat"],
+    "bg": []
+  }
+]
