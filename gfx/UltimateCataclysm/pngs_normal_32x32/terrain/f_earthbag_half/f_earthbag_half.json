@@ -4,7 +4,7 @@
   "fg": [
     "f_earthbag_half_unconnected"
   ],
-  "bg": [],
+  "bg": [ "t_dirt" ],
   "additional_tiles": [
     {
       "id": "center",
