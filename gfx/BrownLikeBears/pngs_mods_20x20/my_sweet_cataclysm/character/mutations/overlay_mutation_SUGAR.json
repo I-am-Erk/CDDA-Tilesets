@@ -1,0 +1,14 @@
+[
+  {
+    "id": "overlay_female_mutation_SUGAR",
+    "fg": [ "overlay_female_mutation_SUGAR" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_SUGAR",
+    "fg": [ "overlay_male_mutation_SUGAR" ],
+    "rotates": false,
+    "bg": [  ]
+  }
+]
