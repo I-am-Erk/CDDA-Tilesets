@@ -3,7 +3,7 @@
 		"id": [
 			"fd_hot_air1", "fd_hot_air2", "fd_hot_air3", "fd_hot_air4",
 			"fd_hot_air_sauna", "fd_migo_atmosphere" ],
-		"fg": [ "hot_air" ],
+		"fg": [ "transparent" ],
 		"bg": [  ]
 	}
 ]
