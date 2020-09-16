@@ -1,0 +1,63 @@
+{
+  "id": "t_screened_porch_wall",
+  "multitile": true,
+  "fg": [
+    "t_screened_porch_wall_unconnected"
+  ],
+  "bg": [ "t_floor_unconnected" ],
+  "additional_tiles": [
+    {
+      "id": "center",
+      "bg": [ "t_floor_unconnected" ],
+      "fg": [
+        "t_screened_porch_wall_center"
+      ]
+    },
+    {
+      "id": "corner",
+      "bg": [ "t_floor_unconnected" ],
+      "fg": [
+        "t_screened_porch_wall_corner_nw",
+        "t_screened_porch_wall_corner_sw",
+        "t_screened_porch_wall_corner_se",
+        "t_screened_porch_wall_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "bg": [ "t_floor_unconnected" ],
+      "fg": [
+        "t_screened_porch_wall_t_connection_n",
+        "t_screened_porch_wall_t_connection_w",
+        "t_screened_porch_wall_t_connection_s",
+        "t_screened_porch_wall_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "bg": [ "t_floor_unconnected" ],
+      "fg": [
+        "t_screened_porch_wall_edge_ns",
+        "t_screened_porch_wall_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "bg": [ "t_floor_unconnected" ],
+      "fg": [
+        "t_screened_porch_wall_end_piece_n",
+        "t_screened_porch_wall_end_piece_w",
+        "t_screened_porch_wall_end_piece_s",
+        "t_screened_porch_wall_end_piece_e"
+      ]
+    },
+    {
+      "bg": [ "t_floor_unconnected" ],
+      "id": "unconnected",
+      "fg": [
+        "t_screened_porch_wall_unconnected",
+        "t_screened_porch_wall_unconnected"
+      ]
+    }
+  ]
+}
