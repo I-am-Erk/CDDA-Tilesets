@@ -18,10 +18,5 @@
     "id": [ "mon_fish_large", "mon_fish_huge" ],
     "fg": [ "mon_fish_large" ],
     "bg": []
- },
- {
-    "id": "corpse_mon_fish_medium",
-    "fg": [ "corpse_mon_fish_medium" ],
-    "bg": []
- } 	 
+ }
 ]

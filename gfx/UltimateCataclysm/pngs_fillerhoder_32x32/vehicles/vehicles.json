@@ -100,13 +100,6 @@
   "bg": []
 },
 {
-  "id": "vp_flamethrower",
-  "fg": [
-    "161_vp_flamethrower_0"
-  ],
-  "bg": []
-},
-{
   "id": "vp_foot_pedals",
   "fg": [
     "136_vp_foot_pedals_0"
@@ -328,20 +321,6 @@
   "bg": []
 },
 {
-  "id": "vp_welding_rig",
-  "fg": [
-    "159_vp_welding_rig_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_wheel",
-  "fg": [
-    "119_vp_wheel_0"
-  ],
-  "bg": []
-},
-{
   "id": "vp_wheel_armor",
   "fg": [
     "119_vp_wheel_0"
@@ -352,20 +331,6 @@
   "id": "vp_wheel_armor_steerable",
   "fg": [
     "119_vp_wheel_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_wheel_bicycle",
-  "fg": [
-    "121_vp_wheel_unicycle_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_wheel_bicycle_steerable",
-  "fg": [
-    "121_vp_wheel_unicycle_0"
   ],
   "bg": []
 },
@@ -405,30 +370,9 @@
   "bg": []
 },
 {
-  "id": "vp_wheel_steerable",
-  "fg": [
-    "119_vp_wheel_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_wheel_unicycle",
-  "fg": [
-    "121_vp_wheel_unicycle_0"
-  ],
-  "bg": []
-},
-{
   "id": "vp_wheel_wheelchair",
   "fg": [
     "121_vp_wheel_unicycle_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_wheel_wide",
-  "fg": [
-    "120_vp_wheel_wide_0"
   ],
   "bg": []
 },
@@ -448,15 +392,6 @@
   "id": "vp_wheel_wood_b",
   "fg": [],
   "bg": []
-},
-{
-  "id": "vp_windshield",
-  "fg": [
-    "174_vp_windshield_0"
-  ],
-  "bg": [
-    "112_vp_windshield_1"
-  ]
 },
 {
   "id": "alloy_plate",
@@ -603,24 +538,6 @@
   ]
 },
 {
-  "id": "weldrig",
-  "fg": [
-    "159_vp_welding_rig_0"
-  ],
-  "bg": [
-    "193_battery_1"
-  ]
-},
-{
-  "id": "forge",
-  "fg": [
-    "1666_vp_veh_forge_0"
-  ],
-  "bg": [
-    "193_battery_1"
-  ]
-},
-{
   "id": "1cyl_combustion",
   "fg": [
     "128_vp_engine_1cyl_0"
@@ -664,258 +581,6 @@
   "bg": [
     "193_battery_1"
   ]
-},
-{
-  "id": "vp_board_horizontal",
-  "fg": [
-    "1800_vp_board_horizontal_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_board_ne",
-  "fg": [
-    "1803_vp_board_ne_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_board_nw",
-  "fg": [
-    "1802_vp_board_nw_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_board_se",
-  "fg": [
-    "1804_vp_board_se_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_board_sw",
-  "fg": [
-    "1805_vp_board_sw_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_board_vertical",
-  "fg": [
-    "1801_vp_board_vertical_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_halfboard_cover",
-  "fg": [
-    "1806_vp_halfboard_cover_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_halfboard_horizontal",
-  "fg": [
-    "1792_vp_halfboard_horizontal_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_halfboard_horizontal_2",
-  "fg": [
-    "1793_vp_halfboard_horizontal_2_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_halfboard_ne",
-  "fg": [
-    "1795_vp_halfboard_ne_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_halfboard_nw",
-  "fg": [
-    "1794_vp_halfboard_nw_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_halfboard_se",
-  "fg": [
-    "1796_vp_halfboard_se_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_halfboard_sw",
-  "fg": [
-    "1797_vp_halfboard_sw_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_halfboard_vertical",
-  "fg": [
-    "1798_vp_halfboard_vertical_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_halfboard_vertical_2",
-  "fg": [
-    "1799_vp_roof_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_hdhalfboard_horizontal",
-  "fg": [
-    "1760_vp_hdhalfboard_horizontal_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_hdhalfboard_horizontal_2",
-  "fg": [
-    "1761_vp_hdhalfboard_horizontal_2_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_hdhalfboard_ne",
-  "fg": [
-    "1763_vp_hdhalfboard_ne_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_hdhalfboard_nw",
-  "fg": [
-    "1762_vp_hdhalfboard_nw_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_hdhalfboard_se",
-  "fg": [
-    "1764_vp_hdhalfboard_se_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_hdhalfboard_sw",
-  "fg": [
-    "1765_vp_hdhalfboard_sw_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_hdhalfboard_vertical",
-  "fg": [
-    "1766_vp_hdhalfboard_vertical_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_hdhalfboard_vertical_2",
-  "fg": [
-    "1767_vp_hdroof_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_hdstowboard_horizontal",
-  "fg": [
-    "1786_vp_hdstowboard_horizontal_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_hdstowboard_ne",
-  "fg": [
-    "1789_vp_hdstowboard_ne_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_hdstowboard_nw",
-  "fg": [
-    "1788_vp_hdstowboard_nw_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_hdstowboard_se",
-  "fg": [
-    "1790_vp_hdstowboard_se_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_hdstowboard_sw",
-  "fg": [
-    "1791_vp_hdstowboard_sw_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_hdstowboard_vertical",
-  "fg": [
-    "1787_vp_hdstowboard_vertical_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_stowboard_horizontal",
-  "fg": [
-    "1818_vp_stowboard_horizontal_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_stowboard_ne",
-  "fg": [
-    "1821_vp_stowboard_ne_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_stowboard_nw",
-  "fg": [
-    "1820_vp_stowboard_nw_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_stowboard_se",
-  "fg": [
-    "1822_vp_stowboard_se_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_stowboard_sw",
-  "fg": [
-    "1823_vp_stowboard_sw_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_stowboard_vertical",
-  "fg": [
-    "1819_vp_stowboard_vertical_0"
-  ],
-  "bg": []
-},
-{
-  "id": "vp_wing_mirror",
-  "fg": [
-    "1745_vp_wing_mirror_0"
-  ],
-  "bg": []
 },
 {
   "id": "[vp_xlframe_cover],[vp_fxlframe_cover]",
@@ -970,13 +635,6 @@
   "id": "[vp_xlframe_sw],[vp_fxlframe_sw]",
   "fg": [
     "1846_[vp_xlframe_sw],[vp_fxlframe_sw]_0"
-  ],
-  "bg": []
-},
-{
-  "id": "[vp_xlframe_vertical_2],[vp_fxlframe_vertical_2]",
-  "fg": [
-    "1848_[vp_xlframe_vertical_2],[vp_fxlframe_vertical_2]_0"
   ],
   "bg": []
 },

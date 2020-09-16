@@ -25,9 +25,9 @@
     "bg": [ "t_dirt_autumn" ]
   },
   {
-    "id": "t_fern_harvested_season_winter",
+    "id": "t_fern_harvested_season_autumn",
     "fg": [ "t_fern_harvested" ],
-    "bg": [ "snow_deep" ]
+    "bg": [ "t_dirt_autumn" ]
   },
   {
     "id": "t_fern_season_winter",
