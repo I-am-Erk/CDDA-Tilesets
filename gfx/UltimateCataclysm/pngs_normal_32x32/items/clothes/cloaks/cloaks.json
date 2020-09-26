@@ -1,0 +1,22 @@
+[
+  {
+    "id": "cloak",
+    "fg": [ "cloak" ],
+    "bg": [  ]
+  },
+  {
+    "id": "cloak_wool",
+    "fg": [ "cloak_wool" ],
+    "bg": [  ]
+  },
+  {
+    "id": "cloak_leather",
+    "fg": [ "cloak_leather" ],
+    "bg": [  ]
+  },
+  {
+    "id": "cloak_fur",
+    "fg": [ "cloak_fur" ],
+    "bg": [  ]
+  }
+]
