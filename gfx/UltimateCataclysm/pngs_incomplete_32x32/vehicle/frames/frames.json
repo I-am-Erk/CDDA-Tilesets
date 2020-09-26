@@ -461,7 +461,7 @@
     "bg": [  ]
   },
   {
-    "id": "vp_xlframe_horizontal_2",
+    "id": "vp_xlframe_horizontal",
     "fg": "xlframe_horizontal",
     "rotates": true,
     "bg": [  ]

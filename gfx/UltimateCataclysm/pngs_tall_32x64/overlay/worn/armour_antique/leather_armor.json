@@ -60,6 +60,11 @@
     "bg": [  ]
   },
   {
+    "id": "overlay_female_worn_helmet_larmor",
+    "fg": [ "leather_armor_helmet_f" ],
+    "bg": [  ]
+  },
+  {
     "id": "overlay_female_worn_armor_larmor",
     "fg": [ "leather_body_armor_f" ],
     "bg": [  ]
