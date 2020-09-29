@@ -1,0 +1,1 @@
+{"id": ["vp_hdhalfboard_horizontal_2", "vp_hdhalfboard_horizontal_2_front", "vp_hdhalfboard_horizontal_2_rear"], "fg": ["2378_vp_hdhalfboard_horizontal_2_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["2272_vp_hdframe_cover_1"], "bg": []}], "bg": []}
