@@ -1,0 +1,16 @@
+[
+  {
+    "height": 10,
+    "width": 10,
+    "pixelscale": 2
+  },
+  {
+    "tiles.png": { "//": "indices 0 to 3311" }
+  },
+  {
+    "tiles_20x20.png": { "//": "indices 3312 to 3327", "sprite_offset_x": -5, "sprite_offset_y": -10, "sprite_width": 20, "sprite_height": 20 }
+  },
+  {
+    "fallback.png": { "fallback": true }
+  }
+]

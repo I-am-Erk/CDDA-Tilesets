@@ -1,0 +1,1 @@
+{"id": ["vp_box", "vp_folding wood box", "vp_wood box", "vp_basketsm", "vp_basketsm_external", "vp_basketsm_bike_rear"], "fg": ["2327_vp_box_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["225_vp_travois_1"], "bg": []}], "bg": []}
