@@ -68,7 +68,7 @@
     "additional_tiles": [
       {
         "id": "open",
-        "fg": [ "vp_door_left_open_rotN", "vp_door_left_open_rotW", "vp_door_left_open_rotS", "vp_door_left_open_rotS" ],
+        "fg": [ "vp_door_left_open_rotN", "vp_door_left_open_rotW", "vp_door_left_open_rotS", "vp_door_left_open_rotE" ],
         "bg": [  ]
       }
     ]
@@ -82,7 +82,7 @@
     "additional_tiles": [
       {
         "id": "open",
-        "fg": [ "vp_door_left_open_rotN", "vp_door_left_open_rotW", "vp_door_left_open_rotS", "vp_door_left_open_rotS" ],
+        "fg": [ "vp_door_left_open_rotN", "vp_door_left_open_rotW", "vp_door_left_open_rotS", "vp_door_left_open_rotE" ],
         "bg": [  ]
       }
     ]
@@ -96,7 +96,7 @@
     "additional_tiles": [
       {
         "id": "open",
-        "fg": [ "vp_door_left_open_rotN", "vp_door_left_open_rotW", "vp_door_left_open_rotS", "vp_door_left_open_rotS" ],
+        "fg": [ "vp_door_left_open_rotN", "vp_door_left_open_rotW", "vp_door_left_open_rotS", "vp_door_left_open_rotE" ],
         "bg": [  ]
       }
     ]
@@ -110,7 +110,7 @@
     "additional_tiles": [
       {
         "id": "open",
-        "fg": [ "vp_door_right_open_rotN", "vp_door_right_open_rotW", "vp_door_right_open_rotS", "vp_door_right_open_rotS" ],
+        "fg": [ "vp_door_right_open_rotN", "vp_door_right_open_rotW", "vp_door_right_open_rotS", "vp_door_right_open_rotE" ],
         "bg": [  ]
       }
     ]
@@ -124,7 +124,7 @@
     "additional_tiles": [
       {
         "id": "open",
-        "fg": [ "vp_door_right_open_rotN", "vp_door_right_open_rotW", "vp_door_right_open_rotS", "vp_door_right_open_rotS" ],
+        "fg": [ "vp_door_right_open_rotN", "vp_door_right_open_rotW", "vp_door_right_open_rotS", "vp_door_right_open_rotE" ],
         "bg": [  ]
       }
     ]
@@ -138,7 +138,7 @@
     "additional_tiles": [
       {
         "id": "open",
-        "fg": [ "vp_door_right_open_rotN", "vp_door_right_open_rotW", "vp_door_right_open_rotS", "vp_door_right_open_rotS" ],
+        "fg": [ "vp_door_right_open_rotN", "vp_door_right_open_rotW", "vp_door_right_open_rotS", "vp_door_right_open_rotE" ],
         "bg": [  ]
       }
     ]
@@ -188,7 +188,7 @@
     "additional_tiles": [
       {
         "id": "open",
-        "fg": [ "vp_hddoor_left_open_rotN", "vp_hddoor_left_open_rotW", "vp_hddoor_left_open_rotS", "vp_hddoor_left_open_rotS" ],
+        "fg": [ "vp_hddoor_left_open_rotN", "vp_hddoor_left_open_rotW", "vp_hddoor_left_open_rotS", "vp_hddoor_left_open_rotE" ],
         "bg": [  ]
       }
     ]
@@ -202,7 +202,7 @@
     "additional_tiles": [
       {
         "id": "open",
-        "fg": [ "vp_hddoor_right_open_rotN", "vp_hddoor_right_open_rotW", "vp_hddoor_right_open_rotS", "vp_hddoor_right_open_rotS" ],
+        "fg": [ "vp_hddoor_right_open_rotN", "vp_hddoor_right_open_rotW", "vp_hddoor_right_open_rotS", "vp_hddoor_right_open_rotE" ],
         "bg": [  ]
       }
     ]
@@ -253,7 +253,7 @@
           "vp_door_opaque_left_open_rotN",
           "vp_door_opaque_left_open_rotW",
           "vp_door_opaque_left_open_rotS",
-          "vp_door_opaque_left_open_rotS"
+          "vp_door_opaque_left_open_rotE"
         ],
         "bg": [  ]
       }
@@ -272,7 +272,7 @@
           "vp_door_opaque_right_open_rotN",
           "vp_door_opaque_right_open_rotW",
           "vp_door_opaque_right_open_rotS",
-          "vp_door_opaque_right_open_rotS"
+          "vp_door_opaque_right_open_rotE"
         ],
         "bg": [  ]
       }
@@ -329,7 +329,7 @@
           "vp_hddoor_opaque_left_open_rotN",
           "vp_hddoor_opaque_left_open_rotW",
           "vp_hddoor_opaque_left_open_rotS",
-          "vp_hddoor_opaque_left_open_rotS"
+          "vp_hddoor_opaque_left_open_rotE"
         ],
         "bg": [  ]
       }
@@ -353,7 +353,7 @@
           "vp_hddoor_opaque_right_open_rotN",
           "vp_hddoor_opaque_right_open_rotW",
           "vp_hddoor_opaque_right_open_rotS",
-          "vp_hddoor_opaque_right_open_rotS"
+          "vp_hddoor_opaque_right_open_rotE"
         ],
         "bg": [  ]
       }
