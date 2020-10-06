@@ -8,7 +8,7 @@
     "bg": [  ]
   },
   {
-    "id": "vp_xlframe_horizontal_2_front",
+    "id": "vp_xlhalfboard_vertical_2_left",
     "fg": [ "641_vp_xlframe_horizontal_0" ],
     "rotates": true,
     "multitile": true,
@@ -16,7 +16,7 @@
     "bg": [  ]
   },
   {
-    "id": "vp_xlframe_horizontal_2_rear",
+    "id": "vp_xlhalfboard_vertical_2_right",
     "fg": [ "641_vp_xlframe_horizontal_0" ],
     "rotates": true,
     "multitile": true,
