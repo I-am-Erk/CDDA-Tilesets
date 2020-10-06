@@ -145,7 +145,7 @@
   },
   {
     "id": "vp_door_shutter",
-    "fg": [ "vp_door_shutter", "vp_door_shutter_rotW", "vp_door_shutter", "vp_door_shutter_rotE" ],
+    "fg": [ "vp_door_shutter", "vp_door_shutter_rotW", "vp_door_shutter_rotS", "vp_door_shutter_rotE" ],
     "bg": [  ],
     "rotates": true,
     "multitile": true,

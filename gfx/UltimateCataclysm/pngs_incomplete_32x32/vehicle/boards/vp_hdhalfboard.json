@@ -114,6 +114,18 @@
     "bg": [  ]
   },
   {
+    "id": "vp_hdhalfboard_vertical_2_left",
+    "fg": [ "vp_hdhalfboard_vertical_2_left" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_hdhalfboard_vertical_2_right",
+    "fg": [ "vp_hdhalfboard_vertical_2_right" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
     "id": "vp_hdhalfboard_cover",
     "fg": [ "vp_hdhalfboard_cover", "vp_hdhalfboard_cover_rotW", "vp_hdhalfboard_cover_rotS", "vp_hdhalfboard_cover_rotE" ],
     "rotates": true,
