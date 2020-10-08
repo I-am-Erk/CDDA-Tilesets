@@ -8,6 +8,6 @@
     "tiles.png": {  }
   },
   {
-    "tree.png": { "sprite_width": 64, "sprite_height": 80 }
+    "large.png": { "sprite_width": 64, "sprite_height": 80 }
   }
 ]
