@@ -12,5 +12,19 @@
         "bg": [  ]
       }
     ]
+  },
+  {
+    "id": [ "vp_hddoor_right" ],
+    "fg": [ "vp_hddoor_R_rotN", "vp_hddoor_R_rotW", "vp_hddoor_R_rotS", "vp_hddoor_R_rotE" ],
+    "bg": [  ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "open",
+        "fg": [ "vp_hddoor_right_open_rotN", "vp_hddoor_right_open_rotW", "vp_hddoor_right_open_rotS", "vp_hddoor_right_open_rotE" ],
+        "bg": [  ]
+      }
+    ]
   }
 ]
