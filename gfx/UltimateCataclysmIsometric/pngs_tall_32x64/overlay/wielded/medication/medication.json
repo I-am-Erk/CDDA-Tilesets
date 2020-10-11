@@ -1,0 +1,67 @@
+[
+  {
+    "id": "overlay_wielded_antibiotics",
+    "fg": ["antibiotics_mf"],
+    "bg": []
+  },
+  {
+    "id": "overlay_wielded_weak_antibiotic",
+    "fg": ["weak_antibiotic_mf"],
+    "bg": []
+  },
+  {
+    "id": "overlay_wielded_strong_antibiotic",
+    "fg": ["strong_antibiotic_mf"],
+    "bg": []
+  },
+  {
+    "id": "overlay_wielded_calcium_tablet",
+    "fg": ["calcium_tablet_mf"],
+    "bg": []
+  },
+  {
+    "id": "overlay_wielded_vitamins",
+    "fg": ["vitamins_mf"],
+    "bg": []
+  },
+  {
+    "id": "overlay_wielded_gummy_vitamins",
+    "fg": ["gummy_vitamins_mf"],
+    "bg": []
+  },
+  {
+    "id": "overlay_wielded_antifungal",
+    "fg": ["antifungal_mf"],
+    "bg": []
+  },
+  {
+    "id": "overlay_wielded_antiparasitic",
+    "fg": ["antiparasitic_mf"],
+    "bg": []
+  },
+  {
+    "id": "overlay_wielded_iodine",
+    "fg": ["iodine_mf"],
+    "bg": []
+  },
+  {
+    "id": "overlay_wielded_prussian_blue",
+    "fg": ["prussian_blue_mf"],
+    "bg": []
+  },
+  {
+    "id": "overlay_wielded_tramadol",
+    "fg": ["tramadol_mf"],
+    "bg": []
+  },
+  {
+    "id": "overlay_wielded_codeine",
+    "fg": ["codeine_mf"],
+    "bg": []
+  },
+  {
+    "id": "overlay_wielded_oxycodone",
+    "fg": ["oxycodone_mf"],
+    "bg": []
+  }
+]

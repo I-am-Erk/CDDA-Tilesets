@@ -1,0 +1,62 @@
+{
+  "id": [ "f_canvas_wall", "f_large_canvas_wall" ],
+  "multitile": true,
+  "fg": [
+    "f_canvas_wall_unconnected"
+  ],
+  "bg": [],
+  "additional_tiles": [
+    {
+      "id": "center",
+      "bg": [],
+      "fg": [
+        "f_canvas_wall_center"
+      ]
+    },
+    {
+      "id": "corner",
+      "bg": [],
+      "fg": [
+        "f_canvas_wall_corner_nw",
+        "f_canvas_wall_corner_sw",
+        "f_canvas_wall_corner_se",
+        "f_canvas_wall_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "bg": [],
+      "fg": [
+        "f_canvas_wall_t_connection_n",
+        "f_canvas_wall_t_connection_w",
+        "f_canvas_wall_t_connection_s",
+        "f_canvas_wall_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "bg": [],
+      "fg": [
+        "f_canvas_wall_edge_ns",
+        "f_canvas_wall_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "bg": [],
+      "fg": [
+        "f_canvas_wall_end_piece_n",
+        "f_canvas_wall_end_piece_w",
+        "f_canvas_wall_end_piece_s",
+        "f_canvas_wall_end_piece_e"
+      ]
+    },
+    {
+      "bg": [],
+      "id": "unconnected",
+      "fg": [
+        "f_canvas_wall_unconnected"
+      ]
+    }
+  ]
+}

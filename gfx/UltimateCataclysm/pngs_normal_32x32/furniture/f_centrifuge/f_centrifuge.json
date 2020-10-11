@@ -1,0 +1,12 @@
+[
+{
+  "id": "f_centrifuge",
+  "fg": [ "f_centrifuge" ],
+  "bg": [ ]
+},
+{
+  "id": "t_centrifuge",
+  "fg": [ "f_centrifuge" ],
+  "bg": [ "t_floor_center" ]
+}
+]

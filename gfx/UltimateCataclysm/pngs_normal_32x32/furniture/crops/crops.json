@@ -1,0 +1,26 @@
+[
+  {
+    "id": "f_plant_seed",
+    "fg": "generic_crop_seed",
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "f_plant_seedling",
+    "fg": "generic_crop_seedling",
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "f_plant_mature",
+    "fg": "generic_crop_mature",
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": "f_plant_harvest",
+    "fg": "generic_crop_harvest",
+    "bg": [],
+    "rotates": false
+  }
+]

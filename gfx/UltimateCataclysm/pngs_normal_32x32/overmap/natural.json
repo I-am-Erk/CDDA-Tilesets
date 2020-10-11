@@ -1,0 +1,73 @@
+[
+  {
+    "id": [ "unknown_terrain" ],
+    "fg": "t_rock_floor_center",
+    "bg": [  ]
+  },
+  {
+    "id": [ "forest_water" ],
+    "fg": "t_underbrush",
+    "bg": [ "t_water_sh_center" ]
+  },
+  {
+    "id": [ "forest" ],
+    "fg": "t_underbrush",
+    "bg": [ "t_dirt" ]
+  },
+  {
+    "id": [ "forest_thick" ],
+    "fg": "t_shrub",
+    "bg": [ "t_moss_center" ]
+  },
+  {
+    "id": [
+      "road_ne",
+      "road_ns",
+      "road_es",
+      "road_nes",
+      "road_wn",
+      "road_ew",
+      "road_new",
+      "road_sw",
+      "road_nsw",
+      "road_esw",
+      "road_nesw",
+      "road_end",
+      "road_end_north",
+      "road_end_south",
+      "road_end_west",
+      "road_end_east"
+    ],
+    "fg": "t_pavement_y",
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "river",
+      "river_sw",
+      "river_nw",
+      "river_se",
+      "river_ne",
+      "river_north",
+      "river_south",
+      "river_west",
+      "river_east",
+      "river_c_not_sw",
+      "river_c_not_nw",
+      "river_c_not_se",
+      "river_c_not_ne"
+    ],
+    "fg": "t_water_moving_sh_center",
+    "bg": [  ]
+  },
+  {
+    "id": [ "river_center" ],
+    "fg": "t_water_moving_dp_center",
+    "bg": [  ]
+  },
+  {
+    "id": [ "field" ],
+    "fg": "t_grass_dead_center",
+    "bg": [ "t_dirt" ]
+  }
+]

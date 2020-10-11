@@ -1,0 +1,63 @@
+{
+  "id": "t_sewage_pipe",
+  "multitile": true,
+  "fg": [
+    "t_sewage_pipe_unconnected"
+  ],
+  "bg": [],
+  "additional_tiles": [
+    {
+      "id": "center",
+      "bg": [],
+      "fg": [
+        "t_sewage_pipe_center"
+      ]
+    },
+    {
+      "id": "corner",
+      "bg": [],
+      "fg": [
+        "t_sewage_pipe_corner_nw",
+        "t_sewage_pipe_corner_sw",
+        "t_sewage_pipe_corner_se",
+        "t_sewage_pipe_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "bg": [],
+      "fg": [
+        "t_sewage_pipe_t_connection_n",
+        "t_sewage_pipe_t_connection_w",
+        "t_sewage_pipe_t_connection_s",
+        "t_sewage_pipe_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "bg": [],
+      "fg": [
+        "t_sewage_pipe_edge_ns",
+        "t_sewage_pipe_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "bg": [],
+      "fg": [
+        "t_sewage_pipe_end_piece_n",
+        "t_sewage_pipe_end_piece_w",
+        "t_sewage_pipe_end_piece_s",
+        "t_sewage_pipe_end_piece_e"
+      ]
+    },
+    {
+      "bg": [],
+      "id": "unconnected",
+      "fg": [
+        "t_sewage_pipe_unconnected",
+        "t_sewage_pipe_unconnected"
+      ]
+    }
+  ]
+}

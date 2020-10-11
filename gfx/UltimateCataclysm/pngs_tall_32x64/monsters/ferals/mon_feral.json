@@ -1,0 +1,26 @@
+[
+  {
+    "id": "mon_feral_human_crowbar",
+    "fg": [
+      { "weight": 100, "sprite": "mon_feral_crowbar_1" }, 
+      { "weight": 50, "sprite": "mon_feral_crowbar_2" }
+    ],
+    "bg": ["shadow_32x64_normal"]
+  },
+  {
+    "id": "mon_feral_human_pipe",
+    "fg": [
+      { "weight": 100, "sprite": "mon_feral_pipe_1" }, 
+      { "weight": 50, "sprite": "mon_feral_pipe_2" }
+    ],
+    "bg": ["shadow_32x64_normal"]
+  },
+  {
+    "id": "mon_feral_human_axe",
+    "fg": [
+      { "weight": 100, "sprite": "mon_feral_axe_1" }, 
+      { "weight": 50, "sprite": "mon_feral_axe_2" }
+    ],
+    "bg": ["shadow_32x64_normal"]
+  }
+]

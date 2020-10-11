@@ -1,0 +1,12 @@
+[
+  {
+    "id": "overlay_female_worn_coat_rain",
+    "fg": ["coat_rain_f"],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_worn_coat_rain",
+    "fg": ["coat_rain_m"],
+    "bg": []
+  }
+]

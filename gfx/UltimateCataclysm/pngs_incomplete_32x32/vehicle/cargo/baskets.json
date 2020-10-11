@@ -1,0 +1,26 @@
+[
+  {
+    "id": [ "vp_basketsm", "vp_basketsm_external" ],
+    "fg": [ "vp_basketsm_rotNrotS", "vp_basketsm_rotErotW" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_basketsm_bike_rear",
+    "fg": [ "vp_basketsm_bike_rear_rotN", "vp_basketsm_bike_rear_rotW", "vp_basketsm_bike_rear_rotS", "vp_basketsm_bike_rear_rotE" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": [ "vp_basketlg", "vp_basketlg_external" ],
+    "fg": [ "vp_basketlg_rotNrotS", "vp_basketlg_rotErotW" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_basketlg_cart",
+    "fg": [ "vp_basketlg_cart_rotN", "vp_basketlg_cart_rotW", "vp_basketlg_cart_rotS", "vp_basketlg_cart_rotE" ],
+    "rotates": true,
+    "bg": [  ]
+  }
+]

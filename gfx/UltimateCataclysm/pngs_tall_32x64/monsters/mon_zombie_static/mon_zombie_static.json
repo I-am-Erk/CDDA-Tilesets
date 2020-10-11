@@ -1,0 +1,5 @@
+{
+  "id": "mon_zombie_static",
+  "fg": ["mon_zombie_static_m"],
+  "bg": ["shadow_32x64_normal"]
+}

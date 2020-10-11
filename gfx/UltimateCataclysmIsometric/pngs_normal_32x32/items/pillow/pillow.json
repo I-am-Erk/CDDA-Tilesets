@@ -1,0 +1,12 @@
+[
+  {
+    "id": "pillow",
+    "fg": ["pillow"],
+    "bg": []
+  },
+  {
+    "id": "down_pillow",
+    "fg": ["down_pillow"],
+    "bg": []
+  }
+]

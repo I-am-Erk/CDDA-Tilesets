@@ -1,0 +1,22 @@
+[
+{
+    "id": "mon_fish_tiny",
+    "fg": [ "mon_fish_tiny" ],
+    "bg": []
+ },
+{
+    "id": "mon_fish_small",
+    "fg": [ "mon_fish_small" ],
+    "bg": []
+ },
+{
+    "id": "mon_fish_medium",
+    "fg": [ "mon_fish_medium" ],
+    "bg": []
+ },
+{
+    "id": [ "mon_fish_large", "mon_fish_huge" ],
+    "fg": [ "mon_fish_large" ],
+    "bg": []
+ }
+]

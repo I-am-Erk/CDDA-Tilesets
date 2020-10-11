@@ -1,0 +1,13 @@
+[
+  {
+    "pixelscale": 1,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "tiles.png": {  }
+  },
+  {
+    "large.png": { "sprite_width": 64, "sprite_height": 80 }
+  }
+]

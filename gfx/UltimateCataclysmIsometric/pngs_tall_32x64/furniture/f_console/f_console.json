@@ -1,0 +1,69 @@
+[
+  {
+    "id": "f_console",
+    "multitile": true,
+    "fg": [ "f_console_unconnected" ],
+    "bg": [  ],
+    "additional_tiles": [
+      { "id": "center", "bg": [  ], "fg": [ "f_console_center" ] },
+      {
+        "id": "corner",
+        "bg": [  ],
+        "fg": [ "f_console_corner_nw", "f_console_corner_sw", "f_console_corner_se", "f_console_corner_ne" ]
+      },
+      {
+        "id": "t_connection",
+        "bg": [  ],
+        "fg": [ "f_console_t_connection_n", "f_console_t_connection_w", "f_console_t_connection_s", "f_console_t_connection_e" ]
+      },
+      { "id": "edge", "bg": [  ], "fg": [ "f_console_edge_ns", "f_console_edge_ew" ] },
+      {
+        "id": "end_piece",
+        "bg": [  ],
+        "fg": [ "f_console_end_piece_n", "f_console_end_piece_w", "f_console_end_piece_s", "f_console_end_piece_e" ]
+      },
+      { "bg": [  ], "id": "unconnected", "fg": [ "f_console_unconnected" ] }
+    ]
+  },
+  {
+    "id": "f_console_broken",
+    "multitile": true,
+    "fg": [ "f_console_broken_unconnected" ],
+    "bg": [  ],
+    "additional_tiles": [
+      { "id": "center", "bg": [  ], "fg": [ "f_console_broken_center" ] },
+      {
+        "id": "corner",
+        "bg": [  ],
+        "fg": [
+          "f_console_broken_corner_nw",
+          "f_console_broken_corner_sw",
+          "f_console_broken_corner_se",
+          "f_console_broken_corner_ne"
+        ]
+      },
+      {
+        "id": "t_connection",
+        "bg": [  ],
+        "fg": [
+          "f_console_broken_t_connection_n",
+          "f_console_broken_t_connection_w",
+          "f_console_broken_t_connection_s",
+          "f_console_broken_t_connection_e"
+        ]
+      },
+      { "id": "edge", "bg": [  ], "fg": [ "f_console_broken_edge_ns", "f_console_broken_edge_ew" ] },
+      {
+        "id": "end_piece",
+        "bg": [  ],
+        "fg": [
+          "f_console_broken_end_piece_n",
+          "f_console_broken_end_piece_w",
+          "f_console_broken_end_piece_s",
+          "f_console_broken_end_piece_e"
+        ]
+      },
+      { "bg": [  ], "id": "unconnected", "fg": [ "f_console_broken_unconnected" ] }
+    ]
+  }
+]

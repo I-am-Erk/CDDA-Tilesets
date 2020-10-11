@@ -1,0 +1,1 @@
+{"id": ["vp_fusion_gun", "vp_laser_rifle"], "fg": ["2415_vp_fusion_gun_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["2416_vp_fusion_gun_1"], "bg": []}], "bg": []}

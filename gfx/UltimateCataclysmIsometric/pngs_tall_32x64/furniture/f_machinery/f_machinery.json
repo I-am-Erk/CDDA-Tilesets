@@ -1,0 +1,56 @@
+[
+  {
+    "id": "f_machinery_old",
+    "fg": [ "f_machinery_old" ],
+    "bg": [  ]
+  },
+  {
+    "id": "t_machinery_old",
+    "fg": [ "f_machinery_old" ],
+    "bg": [ "t_concrete_center" ]
+  },
+  {
+    "id": "f_machinery_electronic",
+    "fg": [ "f_machinery_electronic" ],
+    "bg": [  ]
+  },
+  {
+    "id": "t_machinery_electronic",
+    "fg": [ "f_machinery_electronic" ],
+    "bg": [ "t_concrete_center" ]
+  },
+  {
+    "id": "f_machinery_heavy",
+    "fg": [ 
+      { "weight": 20, "sprite": "f_machinery_heavy1" }, 
+      { "weight": 150, "sprite": "f_machinery_heavy2" }, 
+      { "weight": 100, "sprite": "f_machinery_heavy3" }
+    ],
+    "bg": [  ]
+  },
+  {
+    "id": "t_machinery_heavy",
+    "fg": [ 
+      { "weight": 20, "sprite": "f_machinery_heavy1" }, 
+      { "weight": 150, "sprite": "f_machinery_heavy2" }, 
+      { "weight": 100, "sprite": "f_machinery_heavy3" }
+    ],
+    "bg": [ "t_concrete_center" ]
+  },
+  {
+    "id": "f_machinery_light",
+    "fg": [ 
+      { "weight": 100, "sprite": "f_machinery_light" }, 
+      { "weight": 100, "sprite": "f_machinery_light-2" }
+    ],
+    "bg": [  ]
+  },
+  {
+    "id": "t_machinery_light",
+    "fg": [ 
+      { "weight": 100, "sprite": "f_machinery_light" }, 
+      { "weight": 100, "sprite": "f_machinery_light-2" }
+    ],
+    "bg": [ "t_concrete_center" ]
+  }
+]

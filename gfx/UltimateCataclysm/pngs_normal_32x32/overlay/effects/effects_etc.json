@@ -1,36 +1,36 @@
 [
   {
-    "id": [ "overlay_effects_bleed" ],
+    "id": [ "overlay_effect_bleed" ],
     "fg": [ "overlay_effects_bleed" ],
     "bg": [  ]
   },
   {
-    "id": [ "overlay_effects_deaf" ],
+    "id": [ "overlay_effect_deaf" ],
     "fg": [ "overlay_effects_deaf" ],
     "bg": [  ]
   },
   {
-    "id": [ "overlay_effects_downed" ],
+    "id": [ "overlay_effect_downed" ],
     "fg": [ "overlay_effects_downed" ],
     "bg": [  ]
   },
   {
-    "id": [ "overlay_effects_grabbed" ],
+    "id": [ "overlay_effect_grabbed" ],
     "fg": [ "overlay_effects_grabbed" ],
     "bg": [  ]
   },
   {
-    "id": [ "overlay_effects_winded" ],
+    "id": [ "overlay_effect_winded" ],
     "fg": [ "overlay_effects_winded" ],
     "bg": [  ]
   },
   {
-    "id": [ "overlay_effects_hot" ],
+    "id": [ "overlay_effect_hot" ],
     "fg": [ "overlay_effects_hot" ],
     "bg": [  ]
   },
   {
-    "id": [ "overlay_effects_cold" ],
+    "id": [ "overlay_effect_cold" ],
     "fg": [ "overlay_effects_cold" ],
     "bg": [  ]
   },

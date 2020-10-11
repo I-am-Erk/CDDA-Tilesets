@@ -1,0 +1,37 @@
+[
+  {
+    "id": "t_tree_young",
+    "fg": [ 
+      { "weight": 100, "sprite": "t_tree_young_dead" }, 
+      { "weight": 100, "sprite": "t_tree_young_dead2" } 
+    ],
+    "bg": [ "t_dirt_large" ]
+  },
+  {
+    "id": "t_tree_young_season_summer",
+    "fg": [ 
+      { "weight": 100, "sprite": "t_tree_young" }, 
+      { "weight": 100, "sprite": "t_tree_young2" } 
+    ],
+    "bg": [ "t_dirt_summer_large" ],
+    "rotates": false
+  },
+  {
+    "id": "t_tree_young_season_autumn",
+    "fg": [
+      { "weight": 100, "sprite": "t_tree_young_season_autumn" },
+      { "weight": 100, "sprite": "t_tree_young_season_autumn2" }
+    ],
+    "bg": [ "t_dirt_autumn_large" ],
+    "rotates": false
+  },
+  {
+    "id": "t_tree_young_season_winter",
+    "fg": [
+      { "weight": 100, "sprite": "t_tree_young_season_winter" },
+      { "weight": 100, "sprite": "t_tree_young_season_winter2" }
+    ],
+    "bg": [ "snow_shallow_large" ],
+    "rotates": false
+  }
+]

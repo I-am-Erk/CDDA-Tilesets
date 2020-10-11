@@ -1,5 +1,5 @@
 {
-  "id": "t_wall_wood",
+  "id": [ "t_wall_wood", "t_wall_wood_chipped", "t_wall_wood_broken" ],
   "multitile": true,
   "fg": [
     "t_wall_wood_unconnected"

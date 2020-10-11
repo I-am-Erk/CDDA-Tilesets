@@ -1,0 +1,1 @@
+{"id": ["vp_hdhatch", "vp_hdhatch_opaque", "vp_hddoor", "vp_hddoor_opaque"], "fg": ["2291_vp_hdhatch_0"], "rotates": false, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["2292_vp_hdhatch_1"], "bg": []}, {"id": "open", "fg": ["2293_vp_hdhatch_2"], "bg": []}], "bg": []}

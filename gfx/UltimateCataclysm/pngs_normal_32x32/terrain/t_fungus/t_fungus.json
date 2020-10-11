@@ -81,26 +81,26 @@
     "id": "t_fungus_season_winter",
     "multitile": true,
     "fg": [ "t_fungus_unconnected" ],
-    "bg": [ "snow_shallow" ],
+    "bg": [ "snow_shallow_center" ],
     "additional_tiles": [
-      { "id": "center", "bg": [ "snow_shallow" ], "fg": [ "t_fungus_center" ] },
+      { "id": "center", "bg": [ "snow_shallow_center" ], "fg": [ "t_fungus_center" ] },
       {
         "id": "corner",
-        "bg": [ "snow_shallow" ],
+        "bg": [ "snow_shallow_center" ],
         "fg": [ "t_fungus_corner_nw", "t_fungus_corner_sw", "t_fungus_corner_se", "t_fungus_corner_ne" ]
       },
       {
         "id": "t_connection",
-        "bg": [ "snow_shallow" ],
+        "bg": [ "snow_shallow_center" ],
         "fg": [ "t_fungus_t_connection_n", "t_fungus_t_connection_w", "t_fungus_t_connection_s", "t_fungus_t_connection_e" ]
       },
-      { "id": "edge", "bg": [ "snow_shallow" ], "fg": [ "t_fungus_edge_ns", "t_fungus_edge_ew" ] },
+      { "id": "edge", "bg": [ "snow_shallow_center" ], "fg": [ "t_fungus_edge_ns", "t_fungus_edge_ew" ] },
       {
         "id": "end_piece",
-        "bg": [ "snow_shallow" ],
+        "bg": [ "snow_shallow_center" ],
         "fg": [ "t_fungus_end_piece_n", "t_fungus_end_piece_w", "t_fungus_end_piece_s", "t_fungus_end_piece_e" ]
       },
-      { "bg": [ "snow_shallow" ], "id": "unconnected", "fg": [ "t_fungus_unconnected" ] }
+      { "bg": [ "snow_shallow_center" ], "id": "unconnected", "fg": [ "t_fungus_unconnected" ] }
     ]
   }
 ]

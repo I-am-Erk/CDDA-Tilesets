@@ -1,0 +1,10 @@
+[
+  {
+    "id": "fd_electricity",
+    "fg": [
+      { "weight": 100, "sprite": "fd_electricity" },
+      { "weight": 100, "sprite": "fd_electricity2" }
+    ],
+    "bg": [ ]
+  }
+]

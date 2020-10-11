@@ -3,6 +3,7 @@
 gfx/*/tile_config.json
 
 # UltimateCataclysm built sprite sheets
+gfx/UltimateCataclysm/fillergiant.png
 gfx/UltimateCataclysm/fillerhoder.png
 gfx/UltimateCataclysm/giant.png
 gfx/UltimateCataclysm/incomplete.png
@@ -11,6 +12,15 @@ gfx/UltimateCataclysm/large.png
 gfx/UltimateCataclysm/normal.png
 gfx/UltimateCataclysm/opengameartgiant.png
 gfx/UltimateCataclysm/tall.png
+gfx/UltimateCataclysm/small.png
+gfx/UltimateCataclysm/centered.png
 
 # BrownLikeBears built sprite sheets
 gfx/BrownLikeBears/tiles.png
+
+# RetroDays+ built sprite sheets
+gfx/RetroDays+/large.png
+gfx/RetroDays+/tiles.png
+
+# Builded book
+book

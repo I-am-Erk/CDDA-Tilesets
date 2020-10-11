@@ -1,0 +1,50 @@
+[
+  {
+    "id": [
+      "vp_mounted_browning",
+      "vp_mounted_mk19",
+      "vp_mounted_abzats",
+      "vp_m249",
+      "vp_m249_semi",
+      "vp_mounted_m1918",
+      "vp_mounted_rm298",
+      "vp_mounted_rm614",
+      "vp_mounted_m240",
+      "vp_mounted_m60",
+      "vp_mounted_m60_semi"
+    ],
+    "//": "rifles and machineguns",
+    "fg": "vp_machinegun_mounted_rotS",
+    "bg": "bg_crows_rotS"
+  },
+  {
+    "id": [ "vp_mounted_emp_gun", "vp_mounted_plasma_gun", "vp_plasma_gun", "vp_laser_rifle" ],
+    "//": "energy weapons",
+    "fg": "vp_machinegun_mounted_rotS",
+    "bg": "bg_crows_rotS"
+  },
+  {
+    "id": [ "vp_mounted_hk_g80", "vp_mounted_coilgun" ],
+    "//": "railguns",
+    "fg": "vp_machinegun_mounted_rotS",
+    "bg": "bg_crows_rotS"
+  },
+  {
+    "id": [ "vp_mounted_bigun", "vp_mounted_m134" ],
+    "//": "multibarrel weapons",
+    "fg": "vp_machinegun_mounted_rotS",
+    "bg": "bg_crows_rotS"
+  },
+  {
+    "id": [ "vp_watercannon", "vp_flamethrower", "vp_mounted_chemical_thrower" ],
+    "//": "liquid sprayers",
+    "fg": "vp_machinegun_mounted_rotS",
+    "bg": "bg_crows_rotS"
+  },
+  {
+    "id": [ "vp_tow_launcher" ],
+    "//": "rocket tubes",
+    "fg": "vp_machinegun_mounted_rotS",
+    "bg": "bg_crows_rotS"
+  }
+]

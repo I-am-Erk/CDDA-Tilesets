@@ -54,9 +54,7 @@
     {
       "bg": [],
       "id": "unconnected",
-      "fg": [
-        "f_sofa_unconnected"
-      ]
+      "fg": [ "f_sofa_unconnected", "f_sofa_unconnected" ]
     }
   ]
 }

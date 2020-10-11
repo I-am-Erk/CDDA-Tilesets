@@ -1,0 +1,12 @@
+[
+  {
+    "id": "mon_cockatrice_chick",
+    "fg": [ "mon_cockatrice_chick" ],
+    "bg": ["shadow_32x32_small"]
+  },
+  {
+    "id": "mon_cockatrice",
+    "fg": [ "cockatrice" ],
+    "bg": ["shadow_32x32_small"]
+  }
+]

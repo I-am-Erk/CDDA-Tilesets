@@ -1,0 +1,6 @@
+{
+  "id": "f_fridge",
+  "rotates": true,
+  "fg": [ "f_fridge_faceS", "f_fridge_faceW", "f_fridge_faceN", "f_fridge_faceE" ],
+  "bg": []
+}

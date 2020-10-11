@@ -1,0 +1,20 @@
+[
+  {
+    "id": [ "vp_wing_mirror" ],
+    "fg": [ "vp_wing_mirror_rotN", "vp_wing_mirror_rotW", "vp_wing_mirror_rotS", "vp_wing_mirror_rotE" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": [ "vp_wing_mirror_left" ],
+    "fg": [ "vp_wing_mirror_left_rotN", "vp_wing_mirror_left_rotW", "vp_wing_mirror_left_rotS", "vp_wing_mirror_left_rotE" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_wing_mirror_right",
+    "fg": [ "vp_wing_mirror_right_rotN", "vp_wing_mirror_right_rotW", "vp_wing_mirror_right_rotS", "vp_wing_mirror_right_rotE" ],
+    "rotates": true,
+    "bg": [  ]
+  }
+]

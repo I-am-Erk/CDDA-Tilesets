@@ -1,0 +1,8 @@
+{
+  "id": "mon_zombie_gasbag",
+  "fg": [
+    { "weight": 1, "sprite": "mon_zombie_gasbag" },
+    { "weight": 1, "sprite": "mon_zombie_gasbag2" }
+  ],
+  "bg": ["shadow_64x64_normal"]
+}

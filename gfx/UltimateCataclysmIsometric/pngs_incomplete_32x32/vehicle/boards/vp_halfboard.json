@@ -1,0 +1,132 @@
+[
+  {
+    "id": "vp_halfboard_ne",
+    "fg": [ "vp_halfboard_ne", "vp_halfboard_ne_rotW", "vp_halfboard_ne_rotS", "vp_halfboard_ne_rotE" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_halfboard_nw",
+    "fg": [ "vp_halfboard_nw", "vp_halfboard_nw_rotW", "vp_halfboard_nw_rotS", "vp_halfboard_nw_rotE" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_halfboard_se",
+    "fg": [ "vp_halfboard_se", "vp_halfboard_se_rotW", "vp_halfboard_se_rotS", "vp_halfboard_se_rotE" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_halfboard_sw",
+    "fg": [ "vp_halfboard_sw", "vp_halfboard_sw_rotW", "vp_halfboard_sw_rotS", "vp_halfboard_sw_rotE" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_halfboard_vertical_left",
+    "fg": [
+      "vp_halfboard_vertical_left",
+      "vp_halfboard_vertical_left_rotW_right_rotE",
+      "vp_halfboard_vertical_right",
+      "vp_halfboard_vertical_left_rotE_right_rotW"
+    ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_halfboard_vertical_2_left",
+    "fg": [
+      "vp_halfboard_vertical_2_left",
+      "vp_halfboard_vertical_2_left_rotW",
+      "vp_halfboard_vertical_2_right",
+      "vp_halfboard_vertical_2_left_rotE"
+    ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_halfboard_vertical_right",
+    "fg": [
+      "vp_halfboard_vertical_right",
+      "vp_halfboard_vertical_left_rotE_right_rotW",
+      "vp_halfboard_vertical_left",
+      "vp_halfboard_vertical_left_rotW_right_rotE"
+    ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_halfboard_vertical_2_right",
+    "fg": [
+      "vp_halfboard_vertical_2_right",
+      "vp_halfboard_vertical_2_right_rotW",
+      "vp_halfboard_vertical_2_left",
+      "vp_halfboard_vertical_2_right_rotE"
+    ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": [ "vp_halfboard_horizontal", "vp_halfboard_horizontal_2" ],
+    "fg": [ "vp_halfboard_horizontal" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_halfboard_horizontal_front",
+    "fg": [
+      "vp_halfboard_horizontal_front",
+      "vp_halfboard_horizontal_front_rotW",
+      "vp_halfboard_horizontal_front_rotS",
+      "vp_halfboard_horizontal_front_rotE"
+    ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_halfboard_horizontal_2_front",
+    "fg": [
+      "vp_halfboard_horizontal_2_front",
+      "vp_halfboard_horizontal_2_front_rotW",
+      "vp_halfboard_horizontal_2_front_rotS",
+      "vp_halfboard_horizontal_2_front_rotE"
+    ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_halfboard_horizontal_rear",
+    "fg": [
+      "vp_halfboard_horizontal_rear",
+      "vp_halfboard_horizontal_rear_rotW",
+      "vp_halfboard_horizontal_rear_rotS",
+      "vp_halfboard_horizontal_rear_rotE"
+    ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_halfboard_horizontal_2_rear",
+    "fg": [
+      "vp_halfboard_horizontal_2_rear",
+      "vp_halfboard_horizontal_2_rear_rotW",
+      "vp_halfboard_horizontal_2_rear_rotS",
+      "vp_halfboard_horizontal_2_rear_rotE"
+    ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": [ "vp_halfboard_vertical", "vp_halfboard_vertical_2" ],
+    "fg": [ "vp_halfboard_vertical" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_halfboard_cover",
+    "fg": [ "vp_halfboard_cover", "vp_halfboard_cover_rotW", "vp_halfboard_cover_rotS", "vp_halfboard_cover_rotE" ],
+    "rotates": true,
+    "bg": [  ]
+  }
+]

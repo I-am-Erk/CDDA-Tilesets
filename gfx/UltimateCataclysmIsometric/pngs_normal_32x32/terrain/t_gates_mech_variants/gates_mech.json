@@ -1,0 +1,52 @@
+[
+  {
+    "id": [ "t_gates_mech_control" ],
+    "fg": [ "gates_mech" ],
+    "bg": [ "t_thconc_floor_center" ]
+  },
+  {
+    "id": [ "t_gates_mech_control_lab" ],
+    "fg": [ "gates_mech_digital" ],
+    "bg": [ "t_thconc_floor_center" ]
+  },
+  {
+    "id": [ "t_gates_control_concrete" ],
+    "fg": [ "gates_mech_wall" ],
+    "bg": [ "t_concrete_wall_unconnected" ]
+  },
+  {
+    "id": [ "t_gates_control_concrete_lab" ],
+    "fg": [ "gates_mech_digital" ],
+    "bg": [ "t_strconc_wall" ]
+  },
+  {
+    "id": [ "t_gates_control_brick" ],
+    "fg": [ "gates_mech_wall" ],
+    "bg": [ "t_brick_wall_unconnected" ]
+  },
+  {
+    "id": [ "t_gates_control_brick_lab" ],
+    "fg": [ "gates_mech_digital" ],
+    "bg": [ "t_brick_wall_unconnected" ]
+  },
+  {
+    "id": [ "t_gates_control_metal" ],
+    "fg": [ "gates_mech_wall" ],
+    "bg": [ "t_wall_metal" ]
+  },
+  {
+    "id": [ "t_gates_control_metal_lab" ],
+    "fg": [ "gates_mech_digital" ],
+    "bg": [ "t_wall_metal" ]
+  },
+  {
+    "id": [ "t_elevator_control" ],
+    "fg": [ "t_elevator_control" ],
+    "bg": [ "t_thconc_floor_center" ]
+  },
+  {
+    "id": [ "t_elevator_control_off" ],
+    "fg": [ "t_elevator_control_off" ],
+    "bg": [ "t_thconc_floor_center" ]
+  }
+]

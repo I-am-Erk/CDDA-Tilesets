@@ -1,17 +1,63 @@
-[
-  {
-    "id": "t_pit_shallow",
-    "fg": [ "t_pit_shallow" ],
-    "bg": [ { "weight": 100, "sprite": "t_dirt" }, { "weight": 100, "sprite": "t_dirt2" } ]
-  },
-  {
-    "id": "t_pit_shallow_season_summer",
-    "fg": [ "t_pit_shallow" ],
-    "bg": [ { "weight": 100, "sprite": "t_dirt_summer" }, { "weight": 100, "sprite": "t_dirt_summer2" } ]
-  },
-  {
-    "id": "t_pit_shallow_season_autumn",
-    "fg": [ "t_pit_shallow" ],
-    "bg": [ { "weight": 100, "sprite": "t_dirt_autumn" }, { "weight": 100, "sprite": "t_dirt_autumn2" } ]
-  }
-]
+{
+  "id": "t_pit_shallow",
+  "multitile": true,
+  "fg": [
+    "t_pit_shallow_unconnected"
+  ],
+  "bg": [ { "weight": 100, "sprite": "t_dirt" }, { "weight": 100, "sprite": "t_dirt2" } ],
+  "additional_tiles": [
+    {
+      "id": "center",
+      "bg": [ { "weight": 100, "sprite": "t_dirt" }, { "weight": 100, "sprite": "t_dirt2" } ],
+      "fg": [
+        "t_pit_shallow_center"
+      ]
+    },
+    {
+      "id": "corner",
+      "bg": [ { "weight": 100, "sprite": "t_dirt" }, { "weight": 100, "sprite": "t_dirt2" } ],
+      "fg": [
+        "t_pit_shallow_corner_nw",
+        "t_pit_shallow_corner_sw",
+        "t_pit_shallow_corner_se",
+        "t_pit_shallow_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "bg": [ { "weight": 100, "sprite": "t_dirt" }, { "weight": 100, "sprite": "t_dirt2" } ],
+      "fg": [
+        "t_pit_shallow_t_connection_n",
+        "t_pit_shallow_t_connection_w",
+        "t_pit_shallow_t_connection_s",
+        "t_pit_shallow_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "bg": [ { "weight": 100, "sprite": "t_dirt" }, { "weight": 100, "sprite": "t_dirt2" } ],
+      "fg": [
+        "t_pit_shallow_edge_ns",
+        "t_pit_shallow_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "bg": [ { "weight": 100, "sprite": "t_dirt" }, { "weight": 100, "sprite": "t_dirt2" } ],
+      "fg": [
+        "t_pit_shallow_end_piece_n",
+        "t_pit_shallow_end_piece_w",
+        "t_pit_shallow_end_piece_s",
+        "t_pit_shallow_end_piece_e"
+      ]
+    },
+    {
+      "bg": [ { "weight": 100, "sprite": "t_dirt" }, { "weight": 100, "sprite": "t_dirt2" } ],
+      "id": "unconnected",
+      "fg": [
+        "t_pit_shallow_unconnected",
+        "t_pit_shallow_unconnected"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "t_splitrail_fence_season_spring",
+    "fg": [ "t_splitrail_fence" ],
+    "bg": [ "t_dirt" ]
+  },
+  {
+    "id": "t_splitrail_fence_season_summer",
+    "fg": [ "t_splitrail_fence" ],
+    "bg": [ "t_dirt_summer" ]
+  },
+  {
+    "id": "t_splitrail_fence_season_autumn",
+    "fg": [ "t_splitrail_fence" ],
+    "bg": [ "t_dirt_autumn" ]
+  },
+  {
+    "id": "t_splitrail_fence_season_winter",
+    "fg": [ "t_splitrail_fence" ],
+    "bg": [ "snow_shallow_center" ]
+  }
+]

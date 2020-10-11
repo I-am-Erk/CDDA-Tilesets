@@ -1,5 +1,8 @@
 {
   "id": "acoustic_guitar",
-  "fg": ["acoustic_guitar"],
+  "fg": [
+      { "weight": 100, "sprite": "acoustic_guitar" },
+      { "weight": 100, "sprite": "acoustic_guitar2" }
+    ],
   "bg": []
 }

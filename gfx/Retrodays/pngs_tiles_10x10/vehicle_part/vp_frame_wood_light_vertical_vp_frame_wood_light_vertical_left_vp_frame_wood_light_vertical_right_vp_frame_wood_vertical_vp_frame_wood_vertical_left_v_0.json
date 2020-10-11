@@ -1,0 +1,1 @@
+{"id": ["vp_frame_wood_light_vertical", "vp_frame_wood_light_vertical_left", "vp_frame_wood_light_vertical_right", "vp_frame_wood_vertical", "vp_frame_wood_vertical_left", "vp_frame_wood_vertical_right"], "fg": ["2262_vp_frame_wood_light_vertical_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["225_vp_travois_1"], "bg": []}], "bg": []}

@@ -1,0 +1,17 @@
+[
+  {
+    "id": [ "t_guardrail", "t_guardrail_bg_dp", "t_guardrail_hw_air" ],
+    "multitile": true,
+    "fg": [ "t_guardrail_unconnected" ],
+    "bg": ["t_sidewalk_center"],
+    "additional_tiles": [
+      { "id": "edge", "bg": ["t_sidewalk_center"], "fg": [ "t_guardrail_edge_ns", "t_guardrail_edge_ew" ] },
+      {
+        "id": "end_piece",
+        "bg": ["t_sidewalk_center"],
+        "fg": [ "t_guardrail_end_piece_n", "t_guardrail_end_piece_w", "t_guardrail_end_piece_s", "t_guardrail_end_piece_e" ]
+      },
+      { "bg": ["t_sidewalk_center"], "id": "unconnected", "fg": [ "t_guardrail_unconnected" ] }
+    ]
+  }
+]

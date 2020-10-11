@@ -54,9 +54,7 @@
     {
       "bg": [],
       "id": "unconnected",
-      "fg": [
-        "f_bathtub_unconnected"
-      ]
+      "fg": [ "f_bathtub_unconnected", "f_bathtub_unconnected" ]
     }
   ]
 }

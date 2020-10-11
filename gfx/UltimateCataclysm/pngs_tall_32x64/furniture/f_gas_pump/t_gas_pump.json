@@ -1,0 +1,12 @@
+[
+  {
+    "id": "t_gas_pump",
+    "fg": [ "t_gas_pump" ],
+    "bg": [ "t_pavement_tall" ]
+  },
+  {
+    "id": "f_gas_pump",
+    "fg": [ "t_gas_pump" ],
+    "bg": [ ]
+  }
+]

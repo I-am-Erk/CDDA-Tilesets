@@ -1,0 +1,61 @@
+{
+  "id": "RENAME_ME",
+  "multitile": true,
+  "fg": [
+    "RENAME_ME_unconnected"
+  ],
+  "bg": [],
+  "additional_tiles": [
+    {
+      "id": "center",
+      "bg": [],
+      "fg": [
+        "RENAME_ME_center"
+      ]
+    },
+    {
+      "id": "corner",
+      "bg": [],
+      "fg": [
+        "RENAME_ME_corner_nw",
+        "RENAME_ME_corner_sw",
+        "RENAME_ME_corner_se",
+        "RENAME_ME_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "bg": [],
+      "fg": [
+        "RENAME_ME_t_connection_n",
+        "RENAME_ME_t_connection_w",
+        "RENAME_ME_t_connection_s",
+        "RENAME_ME_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "bg": [],
+      "fg": [
+        "RENAME_ME_edge_ns",
+        "RENAME_ME_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "bg": [],
+      "fg": [
+        "RENAME_ME_end_piece_n",
+        "RENAME_ME_end_piece_w",
+        "RENAME_ME_end_piece_s",
+        "RENAME_ME_end_piece_e"
+      ]
+    },
+    {
+      "bg": [],
+      "id": "unconnected",
+      "fg": [ "RENAME_ME_unconnected", "RENAME_ME_unconnected" ],
+      "//": "Multitiles are assumed to rotate, two copies to omit rotation"
+    }
+  ]
+}

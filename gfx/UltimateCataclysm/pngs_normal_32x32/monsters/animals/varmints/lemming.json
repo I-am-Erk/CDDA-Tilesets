@@ -1,0 +1,5 @@
+{
+  "id": "mon_lemming",
+  "fg": ["lemming"],
+  "bg": ["lemming_shadow"]
+}

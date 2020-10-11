@@ -1,0 +1,12 @@
+[
+  {
+    "id": "mon_zombie_rot",
+    "fg": ["mon_zombie_rot"],
+    "bg": ["shadow_32x64_normal"]
+  },
+  {
+    "id": [ "corpse_mon_zombie_rot" ],
+    "fg": [ "corpse_mon_zombie_rot" ],
+    "bg": [  ]
+  }
+]

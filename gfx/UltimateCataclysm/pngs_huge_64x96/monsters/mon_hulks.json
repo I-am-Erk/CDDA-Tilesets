@@ -1,0 +1,12 @@
+[
+{
+  "id": "mon_zombie_hulk",
+  "fg": ["mon_zombie_hulk"],
+  "bg": ["shadow_64x96_large"]
+},
+{
+  "id": "mon_skeleton_hulk",
+  "fg": ["mon_skeletal_juggernaut"],
+  "bg": ["shadow_64x96_large"]
+}
+]

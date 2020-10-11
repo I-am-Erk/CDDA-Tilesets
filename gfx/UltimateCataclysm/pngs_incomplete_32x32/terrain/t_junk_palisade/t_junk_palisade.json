@@ -1,0 +1,10 @@
+{
+  "id": [ "t_junk_palisade", "t_junk_wall" ],
+  "fg": [
+      { "weight": 100, "sprite": "t_junk_palisade_t1" },
+      { "weight": 100, "sprite": "t_junk_palisade_t2" },
+      { "weight": 100, "sprite": "t_junk_palisade_t3" },
+      { "weight": 100, "sprite": "t_junk_palisade_t4" }
+    ],
+  "bg": []
+}

@@ -1,0 +1,40 @@
+[
+  {
+    "id": "mon_dog",
+    "fg": ["mon_dog"],
+    "bg": ["shadow_32x32_normal"]
+  },
+  {
+    "id": "mon_dog_skeleton",
+    "fg": ["mon_dog_skeleton"],
+    "bg": ["shadow_32x32_normal"]
+  },
+  {
+    "id": "mon_zombie_dog",
+    "fg": [
+      { "weight": 1, "sprite": "mon_zombie_dog" },
+      { "weight": 1, "sprite": "mon_zombie_dog_2" }
+    ],
+    "bg": ["shadow_32x32_normal"]
+  },
+  {
+    "id": "mon_dog_beagle",
+    "fg": ["mon_dog_beagle"],
+    "bg": ["shadow_32x32_small"]
+  },
+  {
+    "id": "mon_dog_gshepherd",
+    "fg": ["mon_dog_gshepherd"],
+    "bg": ["shadow_32x32_normal"]
+  },
+  {
+    "id": "mon_dog_boxer",
+    "fg": ["mon_dog_boxer"],
+    "bg": ["shadow_32x32_normal"]
+  },
+  {
+    "id": "mon_dog_dachshund",
+    "fg": ["mon_dog_dachshund"],
+    "bg": ["shadow_32x32_normal"]
+  }
+]

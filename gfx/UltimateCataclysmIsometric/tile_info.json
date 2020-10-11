@@ -1,0 +1,41 @@
+[
+  {
+    "pixelscale": 1,
+      "height": 34,
+      "iso": true,
+      "width": 44
+  },
+  {
+    "small.png": { "sprite_width": 20, "sprite_height": 20 }
+  },
+  {
+    "normal.png": { "sprite_width": 32, "sprite_height": 32 }
+  },
+  {
+    "normal_iso.png": { "sprite_width": 44, "sprite_height": 34 }
+  },
+  {
+    "tall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32 }
+  },
+  {
+    "large.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -32 }
+  },
+  {
+    "huge.png": { "sprite_width": 64, "sprite_height": 96, "sprite_offset_x": -16, "sprite_offset_y": -64  }
+  },
+  {
+    "giant.png": { "sprite_width": 96, "sprite_height": 96, "sprite_offset_x": -32, "sprite_offset_y": -64  }
+  },
+  {
+    "incomplete.png": { "filler": true }
+  },
+  {
+    "opengameartgiant.png": { "sprite_width": 96, "sprite_height": 96, "sprite_offset_x": -32, "sprite_offset_y": -64, "filler": true  }
+  },
+  {
+    "fallback.png": {
+      "source": "https://github.com/Chezzo/Cataclysm-DDA/blob/0ca0b5307f1b2fab7edb5519a3176e1d887087a7/gfx/ChestHole32Tileset/fallback.png",
+      "fallback": true
+    }
+  }
+]

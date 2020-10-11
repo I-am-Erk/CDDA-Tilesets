@@ -1,0 +1,12 @@
+[
+{
+  "id": "overlay_female_worn_striped_shirt",
+  "fg": ["striped_shirt_f"],
+  "bg": []
+},
+{
+  "id": "overlay_male_worn_striped_shirt",
+  "fg": ["striped_shirt_m"],
+  "bg": []
+}
+]

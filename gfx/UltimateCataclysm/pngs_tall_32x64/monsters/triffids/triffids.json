@@ -1,0 +1,20 @@
+[
+  {
+    "id": "mon_triffid",
+    "fg": [
+      { "weight": 100, "sprite": "triffid" },
+      { "weight": 50, "sprite": "triffid_1981" }
+    ],
+    "bg": ["shadow_32x64_normal"]
+  },
+  {
+    "id": "mon_triffid_sprig",
+    "fg": [ "triffid_sprig" ],
+    "bg": ["shadow_32x64_normal"]
+  },
+  {
+    "id": "mon_triffid_young",
+    "fg": [ "triffid_young" ],
+    "bg": ["shadow_32x64_normal"]
+  }
+]

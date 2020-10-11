@@ -1,0 +1,17 @@
+[
+  {
+    "id": "mon_zombie_necro",
+    "fg": [ "mon_zombie_necro" ],
+    "bg": [ "shadow_32x64_normal" ]
+  },
+  {
+    "id": "mon_zombie_master",
+    "fg": [ "mon_zombie_master" ],
+    "bg": [ "shadow_32x64_normal" ]
+  },
+  {
+    "id": [ "corpse_mon_zombie_necro", "corpse_mon_zombie_master" ],
+    "fg": [ "corpse_mon_zombie_necro" ],
+    "bg": [  ]
+  }
+]

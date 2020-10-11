@@ -1,0 +1,42 @@
+[
+  {
+    "id": "mon_ant",
+    "fg": ["mon_ant"],
+    "bg": ["shadow_32x32_normal"]
+  },
+  {
+    "id": "mon_ant_acid",
+    "fg": ["mon_ant_acid"],
+    "bg": ["shadow_32x32_normal"]
+  },
+  {
+    "id": "corpse_mon_ant",
+    "fg": ["corpse_mon_ant"],
+    "bg": []
+  },
+  {
+    "id": "corpse_mon_ant_acid",
+    "fg": ["corpse_mon_ant_acid"],
+    "bg": []
+  },
+  {
+    "id": "mon_ant_larva",
+    "fg": ["mon_ant_larva"],
+    "bg": ["shadow_32x32_small"]
+  },
+  {
+    "id": "mon_ant_acid_larva",
+    "fg": ["mon_ant_acid_larva"],
+    "bg": ["shadow_32x32_small"]
+  },
+  {
+    "id": "corpse_mon_ant_larva",
+    "fg": ["corpse_mon_ant_larva"],
+    "bg": []
+  },
+  {
+    "id": "corpse_mon_ant_acid_larva",
+    "fg": ["corpse_mon_ant_acid_larva"],
+    "bg": []
+  }
+]

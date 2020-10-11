@@ -1,0 +1,12 @@
+[
+  {
+    "id": "overlay_male_worn_arm_warmers",
+    "fg": ["arm_warmers_m"],
+    "bg": []
+  },
+  {
+    "id": "overlay_female_worn_arm_warmers",
+    "fg": ["arm_warmers_f"],
+    "bg": []
+  }
+]
