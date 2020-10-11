@@ -1,0 +1,25 @@
+{
+  "id": "mon_zombie",
+  "fg": [
+    "2707_mon_zombie_fat_0",
+    "2708_mon_zombie_fat_2_0",
+    "2709_mon_zombie_fat_3_0",
+    "mon_zombie_fat_4",
+    "mon_zombie_fat_5",
+    "mon_zombie_fat_6",
+    "mon_zombie_fat_7",
+    "mon_zombie_fat_8",
+    "mon_zombie_fat_9",
+    "mon_zombie_fat_10",
+    "mon_zombie_fat_11",
+    "mon_zombie_fat_12",
+    "mon_zombie_fat_13",
+    "mon_zombie_fat_14",
+    "mon_zombie_fat_15",
+    "mon_zombie_fat_16"
+  ],
+  "bg": [
+    ""
+  ],
+  "rotates": false
+}
