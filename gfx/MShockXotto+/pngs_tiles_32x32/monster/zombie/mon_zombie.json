@@ -1,0 +1,28 @@
+{
+  "id": "mon_zombie",
+  "fg": [
+    "mon_zombie_1_0",
+    "mon_zombie_2_0",
+    "mon_zombie_3_0",
+    "mon_zombie_4",
+    "mon_zombie_5",
+    "mon_zombie_6",
+    "mon_zombie_7",
+    "mon_zombie_8",
+    "mon_zombie_9",
+    "mon_zombie_10",
+    "mon_zombie_11",
+    "mon_zombie_12",
+    "mon_zombie_13",
+    "mon_zombie_14",
+    "mon_zombie_15",
+    "mon_zombie_16",
+    "mon_zombie_17",
+    "mon_zombie_18",
+    "mon_zombie_19"
+  ],
+  "bg": [
+    ""
+  ],
+  "rotates": false
+}
