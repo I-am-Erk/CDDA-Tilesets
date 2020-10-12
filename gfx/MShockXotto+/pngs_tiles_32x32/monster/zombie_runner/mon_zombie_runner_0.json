@@ -1,0 +1,14 @@
+{
+  "id": "mon_zombie_runner",
+  "fg": [
+    "2740_mon_zombie_runner_0",
+    "mon_zombie_runner_1",
+    "mon_zombie_runner_2",
+    "mon_zombie_runner_3",
+    "mon_zombie_runner_4"
+  ],
+  "bg": [
+    ""
+  ],
+  "rotates": false
+}
