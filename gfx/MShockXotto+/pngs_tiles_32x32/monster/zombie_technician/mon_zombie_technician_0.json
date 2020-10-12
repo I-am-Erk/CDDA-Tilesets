@@ -1,0 +1,13 @@
+{
+  "id": "mon_zombie_technician",
+  "fg": [
+    "2763_mon_zombie_technician_0",
+    "mon_zombie_technician_1",
+    "mon_zombie_technician_2",
+    "mon_zombie_technician_3"
+  ],
+  "bg": [
+    ""
+  ],
+  "rotates": false
+}
