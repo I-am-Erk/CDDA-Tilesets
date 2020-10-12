@@ -1,0 +1,13 @@
+{
+  "id": "mon_zombie_screecher",
+  "fg": [
+    "2748_mon_zombie_screecher_0",
+    "mon_zombie_screecher_1",
+    "mon_zombie_screecher_2",
+    "mon_zombie_screecher_3"
+  ],
+  "bg": [
+    ""
+  ],
+  "rotates": false
+}
