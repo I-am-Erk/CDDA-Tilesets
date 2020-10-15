@@ -1,0 +1,9 @@
+{
+  "id": "mon_dog_zombie_rot",
+  "fg": [
+    "mon_dog_zombie_rot"
+  ],
+  "bg": [
+    "shadow_32x32_normal"
+  ]
+}
