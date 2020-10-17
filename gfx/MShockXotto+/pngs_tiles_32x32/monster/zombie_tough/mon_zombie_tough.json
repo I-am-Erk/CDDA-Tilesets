@@ -1,21 +1,21 @@
 {
   "id": "mon_zombie_tough",
   "fg": [
-    "2764_mon_zombie_tough_0",
-    "2765_mon_zombie_tough_2_0",
-    "2766_mon_zombie_tough_3_0",
-    "mon_zombie_tough_4",
-    "mon_zombie_tough_5",
-    "mon_zombie_tough_6",
-    "mon_zombie_tough_7",
-    "mon_zombie_tough_8",
-    "mon_zombie_tough_9",
-    "mon_zombie_tough_10",
-    "mon_zombie_tough_11",
-    "mon_zombie_tough_12",
-    "mon_zombie_tough_13",
-    "mon_zombie_tough_14",
-    "mon_zombie_tough_15"
+    { "weight": 1, "sprite": "2764_mon_zombie_tough_0" },
+    { "weight": 1, "sprite": "2765_mon_zombie_tough_2_0" },
+    { "weight": 1, "sprite": "2766_mon_zombie_tough_3_0" },
+    { "weight": 1, "sprite": "mon_zombie_tough_4" },
+    { "weight": 1, "sprite": "mon_zombie_tough_5" },
+    { "weight": 1, "sprite": "mon_zombie_tough_6" },
+    { "weight": 1, "sprite": "mon_zombie_tough_7" },
+    { "weight": 1, "sprite": "mon_zombie_tough_8" },
+    { "weight": 1, "sprite": "mon_zombie_tough_9" },
+    { "weight": 1, "sprite": "mon_zombie_tough_10" },
+    { "weight": 1, "sprite": "mon_zombie_tough_11" },
+    { "weight": 1, "sprite": "mon_zombie_tough_12" },
+    { "weight": 1, "sprite": "mon_zombie_tough_13" },
+    { "weight": 1, "sprite": "mon_zombie_tough_14" },
+    { "weight": 1, "sprite": "mon_zombie_tough_15" }
   ],
   "bg": [
     ""

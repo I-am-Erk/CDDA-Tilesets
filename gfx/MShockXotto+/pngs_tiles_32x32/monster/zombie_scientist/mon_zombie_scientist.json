@@ -1,17 +1,17 @@
 {
   "id": "mon_zombie_scientist",
   "fg": [
-    "mon_zombie_scientist",
-    "mon_zombie_scientist_2",
-    "mon_zombie_scientist_3",
-    "mon_zombie_scientist_4",
-    "mon_zombie_scientist_5",
-    "mon_zombie_scientist_6",
-    "mon_zombie_scientist_7",
-    "mon_zombie_scientist_8",
-    "mon_zombie_scientist_9",
-    "mon_zombie_scientist_10",
-    "mon_zombie_scientist_11"
+    { "weight": 1, "sprite": "mon_zombie_scientist" },
+    { "weight": 1, "sprite": "mon_zombie_scientist_2" },
+    { "weight": 1, "sprite": "mon_zombie_scientist_3" },
+    { "weight": 1, "sprite": "mon_zombie_scientist_4" },
+    { "weight": 1, "sprite": "mon_zombie_scientist_5" },
+    { "weight": 1, "sprite": "mon_zombie_scientist_6" },
+    { "weight": 1, "sprite": "mon_zombie_scientist_7" },
+    { "weight": 1, "sprite": "mon_zombie_scientist_8" },
+    { "weight": 1, "sprite": "mon_zombie_scientist_9" },
+    { "weight": 1, "sprite": "mon_zombie_scientist_10" },
+    { "weight": 1, "sprite": "mon_zombie_scientist_11" }
   ],
   "bg": [
     ""

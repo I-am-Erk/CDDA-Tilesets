@@ -1,10 +1,10 @@
 {
   "id": "mon_zombie_shrieker",
   "fg": [
-    "2752_mon_zombie_shrieker_0",
-    "mon_zombie_shrieker_1",
-    "mon_zombie_shrieker_2",
-    "mon_zombie_shrieker_3"
+    { "weight": 1, "sprite": "2752_mon_zombie_shrieker_0" },
+    { "weight": 1, "sprite": "mon_zombie_shrieker_1" },
+    { "weight": 1, "sprite": "mon_zombie_shrieker_2" },
+    { "weight": 1, "sprite": "mon_zombie_shrieker_3" }
   ],
   "bg": [
     ""
