@@ -1,0 +1,15 @@
+{
+  "id": "mon_broken_cyborg",
+  "fg": [
+    { "weight": 1, "sprite": "2362_mon_broken_cyborg_0" },
+    { "weight": 1, "sprite": "5316_mon_broken_cyborg_1" },
+    { "weight": 1, "sprite": "mon_broken_cyborg_2" },
+    { "weight": 1, "sprite": "mon_broken_cyborg_3" },
+    { "weight": 1, "sprite": "mon_broken_cyborg_4" },
+    { "weight": 1, "sprite": "mon_broken_cyborg_5" }
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false
+}

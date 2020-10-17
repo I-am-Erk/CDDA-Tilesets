@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "overlay_worn_silver_ear", "overlay_worn_platinum_ear", "overlay_worn_pearl_ear" ],
+    "fg": [ "overlay_worn_platinum_ear" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_worn_gold_ear",
+    "fg": [ "overlay_worn_gold_ear" ],
+    "rotates": false,
+    "bg": [  ]
+  }
+]

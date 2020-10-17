@@ -1,0 +1,15 @@
+{
+  "id": "mon_zombie_labsecurity",
+  "fg": [
+    { "weight": 1, "sprite": "mon_zombie_labsecurity_0" },
+    { "weight": 1, "sprite": "mon_zombie_labsecurity_1" },
+    { "weight": 1, "sprite": "mon_zombie_labsecurity_2" },
+    { "weight": 1, "sprite": "mon_zombie_labsecurity_3" },
+    { "weight": 1, "sprite": "mon_zombie_labsecurity_4" },
+    { "weight": 1, "sprite": "mon_zombie_labsecurity_5" }
+  ],
+  "bg": [
+    ""
+  ],
+  "rotates": false
+}
