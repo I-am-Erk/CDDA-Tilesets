@@ -1,0 +1,1 @@
+{"id": "vp_wooden_aisle_vertical", "fg": ["4170_vp_wooden_aisle_vertical_0"], "bg": ["1009_vp_wooden_aisle_vertical_1"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["3987_vp_cargo_space_2"], "bg": ["4170_vp_wooden_aisle_vertical_0"]}]}

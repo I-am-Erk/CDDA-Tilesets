@@ -1,0 +1,1 @@
+{"id": "tr_drain", "bg": ["999_tr_drain_0"], "rotates": false, "multitile": true, "additional_tiles": [{"id": "center", "bg": ["1000_tr_drain_1"], "fg": []}, {"id": "t_connection", "bg": ["1000_tr_drain_1"], "fg": []}], "fg": []}

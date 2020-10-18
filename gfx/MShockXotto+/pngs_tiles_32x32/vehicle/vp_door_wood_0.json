@@ -1,0 +1,1 @@
+{"id": "vp_door_wood", "fg": ["4015_vp_door_wood_0"], "bg": ["1009_vp_wooden_aisle_vertical_1"], "multitile": true, "additional_tiles": [{"id": "open", "fg": ["3044_t_door_o_0"], "bg": ["1009_vp_wooden_aisle_vertical_1"]}, {"id": "broken", "fg": ["4016_vp_door_wood_3"], "bg": ["1009_vp_wooden_aisle_vertical_1"]}]}

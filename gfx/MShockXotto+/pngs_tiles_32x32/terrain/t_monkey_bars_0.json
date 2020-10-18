@@ -1,0 +1,1 @@
+{"id": "t_monkey_bars", "fg": ["3128_t_monkey_bars_0"], "bg": ["3075_t_grass_2"], "rotates": false, "multitile": true, "additional_tiles": [{"id": "center", "fg": ["3128_t_monkey_bars_0"], "bg": ["3075_t_grass_2"]}, {"id": "corner", "fg": ["3129_t_monkey_bars_2"], "bg": ["3075_t_grass_2"]}, {"id": "t_connection", "fg": ["3130_t_monkey_bars_3"], "bg": ["3075_t_grass_2"]}]}
