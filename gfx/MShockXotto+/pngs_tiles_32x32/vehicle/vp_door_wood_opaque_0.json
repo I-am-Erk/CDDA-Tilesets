@@ -1,0 +1,1 @@
+{"id": "vp_door_wood_opaque", "fg": ["4017_vp_door_wood_opaque_0"], "bg": ["1005_vp_cargo_space_1"], "rotates": false, "multitile": true, "additional_tiles": [{"id": "open", "fg": ["3044_t_door_o_0"], "bg": ["1005_vp_cargo_space_1"]}, {"id": "broken", "fg": ["4018_vp_door_wood_opaque_3"], "bg": ["1005_vp_cargo_space_1"]}]}

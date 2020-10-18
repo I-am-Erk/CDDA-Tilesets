@@ -1,0 +1,1 @@
+{"id": "vp_door_trunk", "fg": ["4074_vp_hatch_opaque_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["4010_vp_door_shutter_1"], "bg": []}, {"id": "open", "fg": ["4014_vp_door_trunk_2"], "bg": []}], "bg": []}

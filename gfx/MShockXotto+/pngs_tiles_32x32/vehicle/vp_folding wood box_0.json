@@ -1,0 +1,1 @@
+{"id": "vp_folding wood box", "fg": ["1483_f_crate_o_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["3987_vp_cargo_space_2"], "bg": ["1483_f_crate_o_0"]}], "bg": []}

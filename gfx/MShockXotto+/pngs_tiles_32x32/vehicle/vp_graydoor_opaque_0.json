@@ -1,0 +1,1 @@
+{"id": "vp_graydoor_opaque", "fg": ["4053_vp_gloopledoor_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["3987_vp_cargo_space_2"], "bg": ["4053_vp_gloopledoor_0"]}, {"id": "open", "fg": ["4054_vp_gloopledoor_2"], "bg": []}], "bg": []}

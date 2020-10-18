@@ -1,0 +1,1 @@
+{"id": "vp_metal_wheel", "fg": ["4184_wheel_armor_0"], "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["3987_vp_cargo_space_2"], "bg": ["4184_wheel_armor_0"]}], "bg": []}

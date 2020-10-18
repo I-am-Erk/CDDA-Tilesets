@@ -1,0 +1,1 @@
+{"id": ["vp_repeatingcrossbow", "vp_repeatingcrossbownc"], "fg": ["3960_cutter_0"], "rotates": true, "additional_tiles": [{"id": "broken", "fg": ["3987_vp_cargo_space_2"], "bg": ["3960_cutter_0"]}], "bg": []}

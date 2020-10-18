@@ -1,0 +1,1 @@
+{"id": "vp_welding_rig", "fg": ["4156_vp_welding_rig_0"], "bg": ["1005_vp_cargo_space_1"], "rotates": false, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["3987_vp_cargo_space_2"], "bg": ["4156_vp_welding_rig_0"]}]}
