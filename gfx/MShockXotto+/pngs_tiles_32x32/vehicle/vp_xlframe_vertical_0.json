@@ -1,1 +1,20 @@
-{"id": "vp_xlframe_vertical", "fg": ["4179_vp_xlframe_vertical_0"], "rotates": true, "bg": []}
+[
+  {
+    "id": "vp_xlframe_vertical",
+    "fg": [ "4179_vp_xlframe_vertical_0" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_xlframe_vertical_left",
+    "fg": [ "4179_vp_xlframe_vertical_0" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_xlframe_vertical_right",
+    "fg": [ "4179_vp_xlframe_vertical_0" ],
+    "rotates": true,
+    "bg": [  ]
+  }
+]

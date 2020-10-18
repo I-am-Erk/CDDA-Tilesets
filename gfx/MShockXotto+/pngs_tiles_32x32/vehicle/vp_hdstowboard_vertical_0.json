@@ -1,1 +1,26 @@
-{"id": "vp_hdstowboard_vertical", "fg": ["4249_vp_hdstowboard_vertical_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["3987_vp_cargo_space_2"], "bg": ["4249_vp_hdstowboard_vertical_0"]}], "bg": []}
+[
+  {
+    "id": "vp_hdstowboard_vertical",
+    "fg": [ "4249_vp_hdstowboard_vertical_0" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "4249_vp_hdstowboard_vertical_0" ] } ],
+    "bg": [  ]
+  },
+  {
+    "id": "vp_hdstowboard_vertical_left",
+    "fg": [ "4249_vp_hdstowboard_vertical_0" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "4249_vp_hdstowboard_vertical_0" ] } ],
+    "bg": [  ]
+  },
+  {
+    "id": "vp_hdstowboard_vertical_right",
+    "fg": [ "4249_vp_hdstowboard_vertical_0" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "4249_vp_hdstowboard_vertical_0" ] } ],
+    "bg": [  ]
+  }
+]

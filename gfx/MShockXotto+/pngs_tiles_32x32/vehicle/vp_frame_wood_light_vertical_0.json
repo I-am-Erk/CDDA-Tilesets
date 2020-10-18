@@ -1,1 +1,20 @@
-{"id": "vp_frame_wood_light_vertical", "fg": ["4040_vp_frame_wood_vertical_0"], "rotates": true, "bg": []}
+[
+  {
+    "id": "vp_frame_wood_light_vertical",
+    "fg": [ "4040_vp_frame_wood_vertical_0" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_frame_wood_light_vertical_left",
+    "fg": [ "4040_vp_frame_wood_vertical_0" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_frame_wood_light_vertical_right",
+    "fg": [ "4040_vp_frame_wood_vertical_0" ],
+    "rotates": true,
+    "bg": [  ]
+  }
+]

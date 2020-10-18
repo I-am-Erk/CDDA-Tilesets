@@ -1,1 +1,20 @@
-{"id": "vp_xlframe_vertical_2", "fg": ["4180_vp_xlframe_vertical_2_0"], "rotates": true, "bg": []}
+[
+  {
+    "id": "vp_xlframe_vertical_2",
+    "fg": [ "4180_vp_xlframe_vertical_2_0" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_xlframe_vertical_2_left",
+    "fg": [ "4180_vp_xlframe_vertical_2_0" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_xlframe_vertical_2_right",
+    "fg": [ "4180_vp_xlframe_vertical_2_0" ],
+    "rotates": true,
+    "bg": [  ]
+  }
+]
