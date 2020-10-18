@@ -1,1 +1,20 @@
-{"id": "vp_hdframe_horizontal_2", "fg": ["4083_vp_hdframe_horizontal_2_0"], "rotates": true, "bg": []}
+[
+  {
+    "id": "vp_hdframe_horizontal_2",
+    "fg": [ "4083_vp_hdframe_horizontal_2_0" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_hdframe_horizontal_2_front",
+    "fg": [ "4083_vp_hdframe_horizontal_2_0" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_hdframe_horizontal_2_rear",
+    "fg": [ "4083_vp_hdframe_horizontal_2_0" ],
+    "rotates": true,
+    "bg": [  ]
+  }
+]

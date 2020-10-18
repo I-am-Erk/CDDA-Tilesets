@@ -1,1 +1,20 @@
-{"id": "vp_dframe_horizontal", "fg": ["3999_vp_dframe_cross_0"], "rotates": true, "bg": []}
+[
+  {
+    "id": "vp_dframe_horizontal",
+    "fg": [ "3999_vp_dframe_cross_0" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_dframe_horizontal_front",
+    "fg": [ "3999_vp_dframe_cross_0" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_dframe_horizontal_rear",
+    "fg": [ "3999_vp_dframe_cross_0" ],
+    "rotates": true,
+    "bg": [  ]
+  }
+]

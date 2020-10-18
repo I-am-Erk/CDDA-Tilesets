@@ -1,1 +1,20 @@
-{"id": "vp_fxlhalfboard_horizontal", "fg": ["4162_vp_wiring_0"], "rotates": true, "bg": []}
+[
+  {
+    "id": "vp_fxlhalfboard_horizontal",
+    "fg": [ "4162_vp_wiring_0" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_fxlhalfboard_horizontal_front",
+    "fg": [ "4162_vp_wiring_0" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_fxlhalfboard_horizontal_rear",
+    "fg": [ "4162_vp_wiring_0" ],
+    "rotates": true,
+    "bg": [  ]
+  }
+]
