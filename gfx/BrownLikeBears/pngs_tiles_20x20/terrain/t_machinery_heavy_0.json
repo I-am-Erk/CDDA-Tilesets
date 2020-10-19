@@ -1,1 +1,11 @@
-{"id": "t_machinery_heavy", "fg": ["2000_t_machinery_heavy_0"], "rotates": false, "bg": []}
+{
+  "id": "t_machinery_heavy",
+  "fg": [
+    "2000_t_machinery_heavy_0",
+    "t_machinery_heavy_2"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fish_bait",
+  "fg": [
+    { "weight": 1, "sprite": "1076_fish_bait_bread_0" },
+    { "weight": 1, "sprite": "1047_fish_bait_veggy_0" }
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}
