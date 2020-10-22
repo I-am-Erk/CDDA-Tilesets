@@ -1,7 +1,7 @@
 {
-  "id": "t_water_sh",
+  "id": ["t_water_sh", "t_swater_sh"],
   "fg": [
-    "3412_t_water_sh_season_winter_0"
+    "t_water_sh"
   ],
   "bg": [
     "t_dirt"
@@ -9,11 +9,11 @@
   "rotates": false,
   "multitile": true,
   "additional_tiles": [
-    { "id": "corner", "fg": [ "3409_t_water_sh_2" ], "bg": [  ] },
-    { "id": "edge", "fg": [ "3410_t_water_sh_3" ], "bg": [  ] },
-    { "id": "end_piece", "fg": [ "3411_t_water_sh_4" ], "bg": [  ] },
-    { "id": "center", "fg": [ "3412_t_water_sh_season_winter_0" ], "bg": [  ] },
-    { "id": "t_connection", "fg": [ "3416_t_water_sh_season_winter_5" ], "bg": [  ] },
-    { "id": "unconnected", "fg": [ "3418_t_water_sh_6" ], "bg": [  ] }
+    { "id": "corner", "fg": [ "t_water_sh_2" ], "bg": [ "t_dirt" ] },
+    { "id": "edge", "fg": [ "t_water_sh_3" ], "bg": [ "t_dirt" ] },
+    { "id": "end_piece", "fg": [ "t_water_sh_4" ], "bg": [ "t_dirt" ] },
+    { "id": "center", "fg": [ "t_water_sh" ], "bg": [ "t_dirt" ] },
+    { "id": "t_connection", "fg": [ "t_water_sh" ], "bg": [ "t_dirt" ] },
+    { "id": "unconnected", "fg": [ "t_water_sh_6" ], "bg": [ "t_dirt" ] }
   ]
 }
