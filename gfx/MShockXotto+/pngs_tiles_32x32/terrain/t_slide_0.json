@@ -1,1 +1,15 @@
-{"id": "t_slide", "fg": ["3248_t_slide_0"], "bg": ["3075_t_grass_2"], "rotates": false, "multitile": true, "additional_tiles": [{"id": "edge", "fg": ["3248_t_slide_0"], "bg": ["3075_t_grass_2"]}, {"id": "end_piece", "fg": ["3249_t_slide_2"], "bg": ["3075_t_grass_2"]}]}
+{
+  "id": "t_slide",
+  "fg": [
+    "3248_t_slide_0"
+  ],
+  "bg": [
+    "t_grass_center2"
+  ],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "edge", "fg": [ "3248_t_slide_0" ], "bg": [ "t_grass_center2" ] },
+    { "id": "end_piece", "fg": [ "3249_t_slide_2" ], "bg": [ "t_grass_center2" ] }
+  ]
+}
