@@ -1,1 +1,14 @@
-{"id": "t_slide_season_winter", "fg": ["3248_t_slide_0"], "bg": ["3085_t_grass_season_winter_7"], "multitile": true, "additional_tiles": [{"id": "edge", "fg": ["3248_t_slide_0"], "bg": ["3085_t_grass_season_winter_7"]}, {"id": "end_piece", "fg": ["3249_t_slide_2"], "bg": ["3085_t_grass_season_winter_7"]}]}
+{
+  "id": "t_slide_season_winter",
+  "fg": [
+    "3248_t_slide_0"
+  ],
+  "bg": [
+    "snow_shallow_center"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "edge", "fg": [ "3248_t_slide_0" ], "bg": [ "snow_shallow_center" ] },
+    { "id": "end_piece", "fg": [ "3249_t_slide_2" ], "bg": [ "snow_shallow_center" ] }
+  ]
+}

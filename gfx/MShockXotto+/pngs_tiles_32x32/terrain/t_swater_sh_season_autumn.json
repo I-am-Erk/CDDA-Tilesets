@@ -1,0 +1,18 @@
+{
+  "id": "t_swater_sh_season_autumn",
+  "fg": [
+    "3412_t_water_sh_season_winter_0"
+  ],
+  "bg": [
+    "t_dirt_autumn"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "center", "fg": [ "3412_t_water_sh_season_winter_0" ], "bg": [  ] },
+    { "id": "corner", "fg": [ "3413_t_water_sh_season_winter_2" ], "bg": [  ] },
+    { "id": "edge", "fg": [ "3414_t_water_sh_season_winter_3" ], "bg": [  ] },
+    { "id": "end_piece", "fg": [ "3415_t_water_sh_season_winter_4" ], "bg": [  ] },
+    { "id": "t_connection", "fg": [ "3416_t_water_sh_season_winter_5" ], "bg": [  ] },
+    { "id": "unconnected", "fg": [ "3417_t_water_sh_season_winter_6" ], "bg": [  ] }
+  ]
+}
