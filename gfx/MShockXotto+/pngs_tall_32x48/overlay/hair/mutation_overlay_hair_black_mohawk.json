@@ -1,0 +1,14 @@
+[
+  {
+    "id": "mutation_overlay_female_hair_black_mohawk",
+    "fg": [ "mutation_overlay_female_hair_black_mohawk" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "mutation_overlay_male_hair_black_mohawk",
+    "fg": [ "mutation_overlay_male_hair_black_mohawk" ],
+    "rotates": false,
+    "bg": [  ]
+  }
+]

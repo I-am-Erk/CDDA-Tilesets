@@ -1,0 +1,14 @@
+[
+  {
+    "id": "mutation_overlay_female_hair_black_fro",
+    "fg": [ "mutation_overlay_female_hair_black_fro" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "mutation_overlay_male_hair_black_fro",
+    "fg": [ "mutation_overlay_male_hair_black_fro" ],
+    "rotates": false,
+    "bg": [  ]
+  }
+]
