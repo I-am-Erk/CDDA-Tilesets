@@ -1,0 +1,20 @@
+[
+  {
+    "id": "overlay_male_mutation_hair_black_crewcut",
+    "fg": [ "overlay_male_mutation_hair_black_crewcut" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_black_long",
+    "fg": [ "overlay_male_mutation_hair_black_long" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_black_short",
+    "fg": [ "overlay_male_mutation_hair_black_short" ],
+    "rotates": false,
+    "bg": [  ]
+  }
+]
