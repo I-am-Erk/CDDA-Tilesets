@@ -1,0 +1,15 @@
+[
+{
+  "id": ["lighting_lowlight_dark"],
+  "fg": ["lighting_lowlight_dark"],
+  "bg": []
+},{
+  "id": ["lighting_boomered_dark"],
+  "fg": ["lighting_boomered_dark"],
+  "bg": []
+},{
+  "id": ["lighting_hidden"],
+  "fg": ["lighting_hidden"],
+  "bg": []
+}
+]
