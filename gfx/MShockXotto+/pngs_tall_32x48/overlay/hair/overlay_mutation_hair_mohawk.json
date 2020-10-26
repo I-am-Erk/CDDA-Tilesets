@@ -28,5 +28,11 @@
     "fg": [ "overlay_mutation_hair_white_mohawk" ],
     "rotates": false,
     "bg": [  ]
+  },
+  {
+    "id": "overlay_mutation_hair_red_mohawk",
+    "fg": [ "overlay_mutation_hair_red_mohawk" ],
+    "rotates": false,
+    "bg": [  ]
   }
 ]

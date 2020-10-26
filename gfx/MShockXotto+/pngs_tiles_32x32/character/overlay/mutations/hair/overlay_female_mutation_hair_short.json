@@ -28,5 +28,11 @@
     "fg": [ "overlay_female_mutation_hair_white_short" ],
     "rotates": false,
     "bg": [  ]
+  },
+  {
+    "id": "overlay_female_mutation_hair_red_short",
+    "fg": [ "overlay_female_mutation_hair_red_short" ],
+    "rotates": false,
+    "bg": [  ]
   }
 ]

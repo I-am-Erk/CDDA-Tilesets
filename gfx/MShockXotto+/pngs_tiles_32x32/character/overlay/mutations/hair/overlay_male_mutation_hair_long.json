@@ -28,5 +28,11 @@
     "fg": [ "overlay_male_mutation_hair_white_long" ],
     "rotates": false,
     "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_red_long",
+    "fg": [ "overlay_male_mutation_hair_red_long" ],
+    "rotates": false,
+    "bg": [  ]
   }
 ]

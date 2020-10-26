@@ -28,5 +28,11 @@
     "fg": [ "overlay_female_mutation_hair_white_crewcut" ],
     "rotates": false,
     "bg": [  ]
+  },
+  {
+    "id": "overlay_female_mutation_hair_red_crewcut",
+    "fg": [ "overlay_female_mutation_hair_red_crewcut" ],
+    "rotates": false,
+    "bg": [  ]
   }
 ]
