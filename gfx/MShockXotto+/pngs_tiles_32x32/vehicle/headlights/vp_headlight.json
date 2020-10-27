@@ -1,0 +1,17 @@
+[
+  {
+    "id": [ "vp_headlight", "vp_headlight_reinforced", "vp_wide_headlight_reinforced", "vp_wide_headlight" ],
+    "fg": "vp_headlight_nw",
+    "bg": [  ]
+  },
+  {
+    "id": [ "vp_headlight_ne", "vp_headlight_reinforced_ne", "vp_wide_headlight_reinforced_ne", "vp_wide_headlight_ne" ],
+    "fg": "vp_headlight_ne",
+    "bg": [  ]
+  },
+  {
+    "id": [ "vp_headlight_nw", "vp_headlight_reinforced_nw", "vp_wide_headlight_reinforced_nw", "vp_wide_headlight_nw" ],
+    "fg": "vp_headlight_nw",
+    "bg": [  ]
+  }
+]
