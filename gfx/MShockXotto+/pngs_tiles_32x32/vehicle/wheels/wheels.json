@@ -33,5 +33,12 @@
         "bg": [ "vp_wheel_bicycle_rotS", "vp_wheel_bicycle_rotE", "vp_wheel_bicycle_rotN", "vp_wheel_bicycle_rotW" ]
       }
     ]
+  },
+  {
+    "id": [ "vp_mounted_spare_tire" ],
+    "fg": "vp_mounted_spare_tire",
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_mounted_spare_tire" ] } ]
   }
 ]
