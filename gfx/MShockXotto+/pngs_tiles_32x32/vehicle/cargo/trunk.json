@@ -1,0 +1,37 @@
+[
+  {
+    "id": "vp_box",
+    "fg": [ "vp_box", "vp_box_rot" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_wood box",
+    "fg": [ "vp_wood_box_rotNS", "vp_wood_box_rotEW" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_box_wheelbarrow",
+    "fg": [ "vp_box_wheelbarrow_rotN", "vp_box_wheelbarrow_rotW", "vp_box_wheelbarrow_rotS", "vp_box_wheelbarrow_rotE" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_trunk",
+    "fg": "vp_trunk",
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_trunk_rear_edge",
+    "fg": [ "vp_trunk_rear_edge" ],
+    "bg": [  ]
+  },
+  {
+    "id": "vp_cargo_space",
+    "fg": "vp_cargo_space",
+    "rotates": true,
+    "bg": [  ]
+  }
+]

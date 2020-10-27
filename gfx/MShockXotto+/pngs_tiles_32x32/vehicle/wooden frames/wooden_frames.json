@@ -1,0 +1,164 @@
+[
+  {
+    "id": "vp_frame_wood_vertical2",
+    "fg": [ "frame_wood_vertical2" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_frame_wood_vertical2_unconnected",
+    "fg": [ "frame_wood_vertical2_unconnected" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_frame_wood_vertical2_right",
+    "fg": [ "frame_wood_vertical2_right" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_frame_wood_vertical2_left",
+    "fg": [ "frame_wood_vertical2_left" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_frame_wood_vertical",
+    "fg": [ "frame_wood_vertical" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_frame_wood_vertical_unconnected",
+    "fg": [ "frame_wood_vertical_unconnected" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_frame_wood_vertical_right",
+    "fg": [ "frame_wood_vertical_right" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_frame_wood_vertical_left",
+    "fg": [ "frame_wood_vertical_left" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_frame_wood_sw",
+    "fg": [ "frame_wood_sw" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_frame_wood_se",
+    "fg": [ "frame_wood_se" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_frame_wood_nw",
+    "fg": [ "frame_wood_nw" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_frame_wood_ne",
+    "fg": [ "frame_wood_ne" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_frame_wood_horizontal2",
+    "fg": [ "frame_wood_horizontal2" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_frame_wood_horizontal2_unconnected",
+    "fg": [ "frame_wood_horizontal2_unconnected" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_frame_wood_horizontal2_right",
+    "fg": [ "frame_wood_horizontal2_right" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_frame_wood_horizontal2_rear",
+    "fg": [ "frame_wood_horizontal2_rear" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_frame_wood_horizontal2_left",
+    "fg": [ "frame_wood_horizontal2_left" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_frame_wood_horizontal2_front",
+    "fg": [ "frame_wood_horizontal2_front" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_frame_wood_horizontal",
+    "fg": [ "frame_wood_horizontal" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_frame_wood_horizontal-unconnected",
+    "fg": [ "frame_wood_horizontal-unconnected" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_frame_wood_horizontal_right",
+    "fg": [ "frame_wood_horizontal_right" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_frame_wood_horizontal_rear",
+    "fg": [ "frame_wood_horizontal_rear" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_frame_wood_horizontal_left",
+    "fg": [ "frame_wood_horizontal_left" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_frame_wood_horizontal_front",
+    "fg": [ "frame_wood_horizontal_front" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_frame_wood_cross",
+    "fg": [ "frame_wood_cross" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": [ "vp_frame_wood_cross_unconnected", "frame_wood" ],
+    "fg": [ "frame_wood_cross_unconnected" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "vp_frame_wood_cover",
+    "fg": [ "frame_wood_cover" ],
+    "rotates": true,
+    "bg": [  ]
+  }
+]

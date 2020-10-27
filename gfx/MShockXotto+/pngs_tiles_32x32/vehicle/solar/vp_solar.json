@@ -1,0 +1,27 @@
+[
+{
+  "id": "vp_solar_panel",
+  "fg": [ "vp_solar_filler" ],
+  "bg": []
+},
+{
+  "id": "vp_reinforced_solar_panel",
+  "fg": [ "415_t_metal_0" ],
+  "bg": [ "vp_solar_filler" ]
+},
+{
+  "id": "vp_solar_panel_v2",
+  "fg": [ "vp_solar_filler" ],
+  "bg": []
+},
+{
+  "id": "vp_reinforced_solar_panel_v2",
+  "fg": [ "415_t_metal_0" ],
+  "bg": [ "vp_solar_filler" ]
+},
+{
+  "id": "vp_solar_panel_v3",
+  "fg": [ "vp_solar_filler" ],
+  "bg": []
+}
+]
