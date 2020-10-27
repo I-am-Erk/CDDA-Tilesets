@@ -21,6 +21,6 @@
     "bg": [  ],
     "rotates": true,
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_floodlight", "vp_directed_floodlight" ] } ]
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_floodlight_rotN", "vp_floodlight_rotW", "vp_floodlight_rotS", "vp_floodlight_rotE" ] } ]
   }
 ]
