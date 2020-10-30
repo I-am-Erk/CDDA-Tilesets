@@ -1,0 +1,12 @@
+[
+{
+  "id": "backpack",
+  "fg": ["backpack"],
+  "bg": []
+},
+{
+  "id": "molle_pack",
+  "fg": ["molle_pack"],
+  "bg": []
+}
+]
