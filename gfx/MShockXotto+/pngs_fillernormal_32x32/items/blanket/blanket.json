@@ -1,0 +1,12 @@
+[
+  {
+    "id": "blanket",
+    "fg": ["blanket"],
+    "bg": []
+  },
+  {
+    "id": "down_blanket",
+    "fg": ["down_blanket"],
+    "bg": []
+  }
+]
