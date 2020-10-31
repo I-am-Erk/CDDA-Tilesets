@@ -70,9 +70,9 @@
     "id": [ "vp_xlhalfboard_horizontal_rear", "vp_xlboard_horizontal_rear", "vp_xlhalfboard_horizontal_2_rear" ],
     "fg": [
       "vp_xlhalfboard_horizontal_rear",
-      "vp_xlhalfboard_horizontal_front_rotE",
-      "vp_xlhalfboard_horizontal_front",
-      "vp_xlhalfboard_horizontal_front_rotW"
+      "vp_xlhalfboard_horizontal_rear_rotW",
+      "vp_xlhalfboard_horizontal_rear_rotS",
+      "vp_xlhalfboard_horizontal_rear_rotE"
     ],
     "rotates": true,
     "bg": [  ]
