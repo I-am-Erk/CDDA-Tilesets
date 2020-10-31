@@ -67,7 +67,7 @@
     "bg": [  ]
   },
   {
-    "id": [ "vp_hdhalfboard_horizontal_rear", "vp_hdoard_horizontal_rear", "vp_hdhalfboard_horizontal_2_rear" ],
+    "id": [ "vp_hdhalfboard_horizontal_rear", "vp_hdboard_horizontal_rear", "vp_hdhalfboard_horizontal_2_rear" ],
     "fg": [
       "vp_hdhalfboard_horizontal_rear",
       "vp_hdhalfboard_horizontal_front_rotE",
