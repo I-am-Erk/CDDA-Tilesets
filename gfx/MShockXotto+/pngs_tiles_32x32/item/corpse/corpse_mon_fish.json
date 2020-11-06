@@ -1,0 +1,62 @@
+[
+  {
+    "id": "corpse_mon_fish_bowfin",
+    "fg": [ "corpse_mon_fish_bowfin" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "corpse_mon_fish_bullhead",
+    "fg": [ "corpse_mon_fish_bullhead" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "corpse_mon_fish_carp",
+    "fg": [ "corpse_mon_fish_carp" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "corpse_mon_fish_crayfish",
+    "fg": [ "corpse_mon_fish_crayfish" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "corpse_mon_fish_perch",
+    "fg": [ "corpse_mon_fish_perch" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "corpse_mon_fish_pickerel",
+    "fg": [ "corpse_mon_fish_pickerel" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "corpse_mon_fish_pike",
+    "fg": [ "corpse_mon_fish_pike" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "corpse_mon_fish_sbass",
+    "fg": [ "corpse_mon_fish_sbass" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "corpse_mon_fish_trout",
+    "fg": [ "corpse_mon_fish_trout" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "corpse_mon_fish_whitefish",
+    "fg": [ "corpse_mon_fish_whitefish" ],
+    "rotates": false,
+    "bg": [  ]
+  }
+]
