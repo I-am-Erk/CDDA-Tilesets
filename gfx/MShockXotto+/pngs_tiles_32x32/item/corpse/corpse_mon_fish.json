@@ -58,5 +58,29 @@
     "fg": [ "corpse_mon_fish_whitefish" ],
     "rotates": false,
     "bg": [  ]
+  },
+  {
+    "id": "corpse_mon_fish_lbass",
+    "fg": [ "corpse_mon_fish_lbass" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "corpse_mon_fish_pbass",
+    "fg": [ "corpse_mon_fish_pbass" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "corpse_mon_fish_salmon",
+    "fg": [ "corpse_mon_fish_salmon" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "corpse_mon_fish_sunfish",
+    "fg": [ "corpse_mon_fish_sunfish" ],
+    "rotates": false,
+    "bg": [  ]
   }
 ]
