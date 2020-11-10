@@ -5,7 +5,7 @@
     "rotates": true,
     "bg": [  ],
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": [ "broken_overlay_ne" ], "bg": [ "vp_halfboard_ne" ] } ]
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_halfboard_ne" ], "bg": [  ] } ]
   },
   {
     "id": [ "vp_halfboard_nw", "vp_board_nw" ],
@@ -13,7 +13,7 @@
     "rotates": true,
     "bg": [  ],
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": [ "broken_overlay_nw" ], "bg": [ "vp_halfboard_nw" ] } ]
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_halfboard_nw" ], "bg": [  ] } ]
   },
   {
     "id": [ "vp_halfboard_se", "vp_board_se" ],
@@ -21,7 +21,7 @@
     "rotates": true,
     "bg": [  ],
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": [ "broken_overlay_se" ], "bg": [ "vp_halfboard_se" ] } ]
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_halfboard_se" ], "bg": [  ] } ]
   },
   {
     "id": [ "vp_halfboard_sw", "vp_board_sw" ],
@@ -29,7 +29,7 @@
     "rotates": true,
     "bg": [  ],
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": [ "broken_overlay_sw" ], "bg": [ "vp_halfboard_sw" ] } ]
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_halfboard_sw" ], "bg": [  ] } ]
   },
   {
     "id": [ "vp_halfboard_vertical_left", "vp_board_vertical_left", "vp_halfboard_vertical_2_left" ],
@@ -37,7 +37,7 @@
     "rotates": true,
     "bg": [  ],
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": [ "broken_overlay_hole_vetical_left" ], "bg": [ "vp_halfboard_vertical_left" ] } ]
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_halfboard_vertical_left" ], "bg": [  ] } ]
   },
   {
     "id": [ "vp_halfboard_vertical_right", "vp_board_vertical_right", "vp_halfboard_vertical_2_right" ],
@@ -45,7 +45,7 @@
     "rotates": true,
     "bg": [  ],
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": [ "broken_overlay_hole_vetical_right" ], "bg": [ "vp_halfboard_vertical_right" ] } ]
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_halfboard_vertical_right" ], "bg": [  ] } ]
   },
   {
     "id": [ "vp_halfboard_horizontal", "vp_board_horizontal", "vp_halfboard_horizontal_2" ],
@@ -53,7 +53,7 @@
     "rotates": true,
     "bg": [  ],
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": [ "broken_overlay_hole_horizontal_front" ], "bg": [ "vp_halfboard_horizontal_front" ] } ]
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_halfboard_horizontal_front" ], "bg": [  ] } ]
   },
   {
     "id": [ "vp_halfboard_horizontal_front", "vp_board_horizontal_front", "vp_halfboard_horizontal_2_front" ],
@@ -70,17 +70,12 @@
       {
         "id": "broken",
         "fg": [
-          "broken_overlay_hole_horizontal_front",
-          "broken_overlay_hole_vetical_left",
-          "broken_overlay_hole_vetical_right",
-          "broken_overlay_hole"
+          "broken_halfboard_horizontal_front",
+          "broken_halfboard_horizontal_front_rotW",
+          "broken_halfboard_horizontal_front_rotS",
+          "broken_halfboard_horizontal_front_rotE"
         ],
-        "bg": [
-          "vp_halfboard_horizontal_front",
-          "vp_halfboard_horizontal_front_rotW",
-          "vp_halfboard_horizontal_front_rotS",
-          "vp_halfboard_horizontal_front_rotE"
-        ]
+        "bg": [  ]
       }
     ]
   },
@@ -99,17 +94,12 @@
       {
         "id": "broken",
         "fg": [
-          "broken_overlay_hole",
-          "broken_overlay_hole_vetical_right",
-          "broken_overlay_hole_vetical_left",
-          "broken_overlay_hole_horizontal_front"
+          "broken_halfboard_horizontal_rear",
+          "broken_halfboard_horizontal_rear_rotW",
+          "broken_halfboard_horizontal_rear_rotS",
+          "broken_halfboard_horizontal_rear_rotE"
         ],
-        "bg": [
-          "vp_halfboard_horizontal_rear",
-          "vp_halfboard_horizontal_rear_rotW",
-          "vp_halfboard_horizontal_rear_rotS",
-          "vp_halfboard_horizontal_rear_rotE"
-        ]
+        "bg": [  ]
       }
     ]
   },
@@ -119,6 +109,6 @@
     "rotates": true,
     "bg": [  ],
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": [ "broken_overlay_midle" ], "bg": [ "vp_halfboard_vertical" ] } ]
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_halfboard_vertical" ], "bg": [  ] } ]
   }
 ]

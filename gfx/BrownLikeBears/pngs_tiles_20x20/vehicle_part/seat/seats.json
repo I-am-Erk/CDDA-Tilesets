@@ -6,11 +6,7 @@
     "fg": [ "vp_seat_up", "vp_seat_left", "vp_seat_down", "vp_seat_right" ],
     "multitile": true,
     "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": [ "broken_overlay_seat_up", "broken_overlay_seat_left", "broken_overlay_seat_down", "broken_overlay_seat_right" ],
-        "bg": [ "vp_seat_up", "vp_seat_left", "vp_seat_down", "vp_seat_right" ]
-      }
+      { "id": "broken", "fg": [ "broken_seat_up", "broken_seat_left", "broken_seat_down", "broken_seat_right" ], "bg": [  ] }
     ]
   },
   {
@@ -22,8 +18,8 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": [ "broken_overlay_seat_up", "broken_overlay_seat_left", "broken_overlay_seat_down", "broken_overlay_seat_right" ],
-        "bg": [ "vp_seat_leather_up", "vp_seat_leather_left", "vp_seat_leather_down", "vp_seat_leather_right" ]
+        "fg": [ "broken_seat_leather_up", "broken_seat_leather_left", "broken_seat_leather_down", "broken_seat_leather_right" ],
+        "bg": [  ]
       }
     ]
   }
