@@ -221,6 +221,6 @@
     ],
     "fg": [ "otr_house_1_faceN", "otr_house_1_faceE", "otr_house_1_faceS", "otr_house_1_faceW" ], 
     "bg": "t_grass_center",
-    "rotation": true
+    "rotates": true
   }
 ]
