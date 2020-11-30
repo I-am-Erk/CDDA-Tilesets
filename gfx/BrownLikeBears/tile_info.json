@@ -7,7 +7,7 @@
     "tiles.png": { "//": "indices 0 to 2799" }
   },
   {
-    "tall.png": { "sprite_width": 20, "sprite_height": 40, "sprite_offset_x": 0, "sprite_offset_y": -20 }
+    "tall.png": { "sprite_width": 30, "sprite_height": 60, "sprite_offset_x": 0, "sprite_offset_y": -40 }
   },
   {
     "mods.png": {  }
