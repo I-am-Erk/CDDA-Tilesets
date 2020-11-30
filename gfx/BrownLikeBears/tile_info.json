@@ -10,6 +10,9 @@
     "tall.png": { "sprite_width": 30, "sprite_height": 60, "sprite_offset_x": 0, "sprite_offset_y": -40 }
   },
   {
+    "big.png": { "sprite_width": 40, "sprite_height": 40, "sprite_offset_x": 0, "sprite_offset_y": -20 }
+  },
+  {
     "mods.png": {  }
   },
   {
