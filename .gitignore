@@ -22,5 +22,12 @@ gfx/BrownLikeBears/tiles.png
 gfx/RetroDays+/large.png
 gfx/RetroDays+/tiles.png
 
+# MShockXotto+ built sprite sheets
+gfx/MShockXotto+/fillernormal.png
+gfx/MShockXotto+/fillersmall.png
+gfx/MShockXotto+/large.png
+gfx/MShockXotto+/tall.png
+gfx/MShockXotto+/tiles.png
+
 # Builded book
 book
