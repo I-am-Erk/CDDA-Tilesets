@@ -4,6 +4,7 @@
     "fg": [ "veh_table", "veh_table" ],
     "bg": [ "vp_wooden_aisle_vertical", "vp_wooden_aisle_horizontal" ],
     "additional_tiles": [ { "id": "broken", "fg": "veh_table_broken", "bg": [ "vp_wooden_aisle_vertical", "vp_wooden_aisle_horizontal" ] } ],
+    "multitile": true,
     "rotates": true
   },
   {

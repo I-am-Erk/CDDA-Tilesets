@@ -20,6 +20,7 @@
         ]
       }
     ],
+    "multitile": true,
     "rotates": true
   },
   {
@@ -33,6 +34,7 @@
         "bg": [ "vp_windshield_rear", "vp_windshield_rear_rotW", "vp_windshield_rear_rotS", "vp_windshield_rear_rotE" ]
       }
     ],
+    "multitile": true,
     "rotates": true
   },
   {
@@ -56,6 +58,7 @@
         ]
       }
     ],
+    "multitile": true,
     "rotates": true
   },
   {
@@ -79,6 +82,7 @@
         ]
       }
     ],
+    "multitile": true,
     "rotates": true
   },
   {
@@ -92,6 +96,7 @@
         "bg": [ "vp_windshield_nw", "vp_windshield_nw_rotW", "vp_windshield_nw_rotS", "vp_windshield_nw_rotE" ]
       }
     ],
+    "multitile": true,
     "rotates": true
   },
   {
@@ -105,6 +110,7 @@
         "bg": [ "vp_windshield_ne", "vp_windshield_ne_rotW", "vp_windshield_ne_rotS", "vp_windshield_ne_rotE" ]
       }
     ],
+    "multitile": true,
     "rotates": true
   },
   {
@@ -118,6 +124,7 @@
         "bg": [ "vp_windshield_sw_rotN", "vp_windshield_sw_rotW", "vp_windshield_sw_rotS", "vp_windshield_sw_rotE" ]
       }
     ],
+    "multitile": true,
     "rotates": true
   },
   {
@@ -131,6 +138,7 @@
         "bg": [ "vp_windshield_se_rotN", "vp_windshield_se_rotW", "vp_windshield_se_rotS", "vp_windshield_se_rotE" ]
       }
     ],
+    "multitile": true,
     "rotates": true
   },
   {
@@ -154,6 +162,7 @@
         ]
       }
     ],
+    "multitile": true,
     "rotates": true
   },
   {
@@ -177,6 +186,7 @@
         ]
       }
     ],
+    "multitile": true,
     "rotates": true
   },
   {
@@ -192,6 +202,7 @@
         ]
       }
     ],
+    "multitile": true,
     "rotates": true
   },
   {
@@ -207,6 +218,7 @@
         ]
       }
     ],
+    "multitile": true,
     "rotates": true
   },
   {
@@ -221,6 +233,7 @@
         ]
       }
     ],
+    "multitile": true,
     "rotates": true
   },
   {
@@ -236,6 +249,7 @@
         ]
       }
     ],
+    "multitile": true,
     "rotates": true
   }
 ]
