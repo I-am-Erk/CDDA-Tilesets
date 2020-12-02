@@ -18,9 +18,13 @@ gfx/UltimateCataclysm/centered.png
 # BrownLikeBears built sprite sheets
 gfx/BrownLikeBears/tiles.png
 
-# RetroDays+ built sprite sheets
-gfx/RetroDays+/large.png
-gfx/RetroDays+/tiles.png
+# NeoDays built sprite sheets
+gfx/NeoDays/large.png
+gfx/NeoDays/tiles.png
+
+# RetroDays built sprite sheets
+gfx/Retrodays/tile_20x20.png
+gfx/Retrodays/tiles.png
 
 # MShockXotto+ built sprite sheets
 gfx/MShockXotto+/fillernormal.png
