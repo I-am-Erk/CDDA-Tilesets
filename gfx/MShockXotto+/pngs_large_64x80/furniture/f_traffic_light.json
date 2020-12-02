@@ -1,0 +1,10 @@
+{
+  "id": "f_traffic_light",
+  "fg": [
+    "f_traffic_light"
+  ],
+  "bg": [
+    ""
+  ],
+  "rotates": false
+}
