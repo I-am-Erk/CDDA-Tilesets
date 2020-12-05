@@ -1,0 +1,63 @@
+{
+  "id": "t_conveyor",
+  "multitile": true,
+  "fg": [
+    "t_conveyor_unconnected"
+  ],
+  "bg": ["t_thconc_floor_center"],
+  "additional_tiles": [
+    {
+      "id": "center",
+      "bg": ["t_thconc_floor_center"],
+      "fg": [
+        "t_conveyor_center"
+      ]
+    },
+    {
+      "id": "corner",
+      "bg": ["t_thconc_floor_center"],
+      "fg": [
+        "t_conveyor_corner_nw",
+        "t_conveyor_corner_sw",
+        "t_conveyor_corner_se",
+        "t_conveyor_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "bg": ["t_thconc_floor_center"],
+      "fg": [
+        "t_conveyor_t_connection_n",
+        "t_conveyor_t_connection_w",
+        "t_conveyor_t_connection_s",
+        "t_conveyor_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "bg": ["t_thconc_floor_center"],
+      "fg": [
+        "t_conveyor_edge_ns",
+        "t_conveyor_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "bg": ["t_thconc_floor_center"],
+      "fg": [
+        "t_conveyor_end_piece_n",
+        "t_conveyor_end_piece_w",
+        "t_conveyor_end_piece_s",
+        "t_conveyor_end_piece_e"
+      ]
+    },
+    {
+      "bg": ["t_thconc_floor_center"],
+      "id": "unconnected",
+      "fg": [
+        "t_conveyor_unconnected",
+        "t_conveyor_unconnected"
+      ]
+    }
+  ]
+}
