@@ -1,0 +1,17 @@
+[
+{
+  "id": "t_floor_olight",
+  "fg": ["olight"],
+  "bg": ["t_floor_center"]
+},
+{
+  "id": "t_thconc_floor_olight",
+  "fg": ["olight"],
+  "bg": ["t_thconc_floor_center"]
+},
+{
+  "id": "t_metal_floor_olight",
+  "fg": ["olight"],
+  "bg": ["t_metal_floor_center"]
+}
+]
