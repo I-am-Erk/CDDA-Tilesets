@@ -1,6 +1,6 @@
 [
   {
-    "id": "t_fungus",
+    "id": ["t_fungus", "t_fungus_floor_out"],
     "multitile": true,
     "fg": [ "t_fungus_unconnected" ],
     "bg": [ "t_dirt" ],
