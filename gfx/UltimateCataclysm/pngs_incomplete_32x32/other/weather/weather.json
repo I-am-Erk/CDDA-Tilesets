@@ -1,0 +1,17 @@
+[
+{
+  "id": "weather_rain_drop",
+  "fg": [ "weather_rain_drop" ],
+  "bg": []
+},
+{
+  "id": "weather_snowflake",
+  "fg": [ "weather_snowflake" ],
+  "bg": []
+},
+{
+  "id": "weather_acid_drop",
+  "fg": [ "weather_acid_drop" ],
+  "bg": []
+}
+]
