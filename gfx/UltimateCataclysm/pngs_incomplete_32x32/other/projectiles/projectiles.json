@@ -1,0 +1,17 @@
+[
+{
+  "id": "animation_bullet_normal",
+  "fg": [ "animation_bullet_normal" ],
+  "bg": []
+},
+{
+  "id": "animation_bullet_shrapnel",
+  "fg": [ "animation_bullet_shrapnel" ],
+  "bg": []
+},
+{
+  "id": "animation_bullet_flame",
+  "fg": [ "animation_bullet_flame" ],
+  "bg": []
+}
+]
