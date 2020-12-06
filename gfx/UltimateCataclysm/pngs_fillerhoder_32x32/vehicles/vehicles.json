@@ -736,6 +736,15 @@
   ]
 },
 {
+  "id": "wheel_motorbike_or",
+  "fg": [
+    "122_vp_wheel_motorbike_0"
+  ],
+  "bg": [
+    "193_battery_1"
+  ]
+},
+{
   "id": "wheel_small",
   "fg": [
     "123_vp_wheel_small_0"
