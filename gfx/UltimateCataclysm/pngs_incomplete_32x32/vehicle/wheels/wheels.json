@@ -5,13 +5,13 @@
     "bg": [  ]
   },
   {
-    "id": [ "vp_wheel_bicycle", "vp_wheel_bicycle_steerable" ],
+    "id": [ "vp_wheel_bicycle", "vp_wheel_bicycle_steerable", "vp_wheel_bicycle_or", "vp_wheel_bicycle_or_steerable" ],
     "fg": [ "vp_wheel_bicycle_rotN", "vp_wheel_bicycle_rotW", "vp_wheel_bicycle_rotS", "vp_wheel_bicycle_rotE" ],
     "rotates": true,
     "bg": [  ]
   },
   {
-    "id": [ "vp_wheel_bicycle_rear" ],
+    "id": [ "vp_wheel_bicycle_rear", "vp_wheel_bicycle_or_rear" ],
     "fg": [ "vp_wheel_bicycle_rotS", "vp_wheel_bicycle_rotE", "vp_wheel_bicycle_rotN", "vp_wheel_bicycle_rotW" ],
     "rotates": true,
     "bg": [  ]
