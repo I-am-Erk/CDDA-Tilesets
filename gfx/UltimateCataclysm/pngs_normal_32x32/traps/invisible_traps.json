@@ -1,0 +1,5 @@
+{
+  "id": ["tr_downspout_funnel", "tr_pit", "tr_lava", "tr_ledge", "tr_glass_pit", "tr_spike_pit"],
+  "fg": "empty_32x32",
+  "bg": [  ]
+}

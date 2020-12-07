@@ -8,6 +8,11 @@
     "rotates": true
   },
   {
+    "id": "vp_workbench",
+    "fg": "f_workbench",
+    "bg": "t_metal_floor_unconnected"
+  },
+  {
     "id": "vp_minifridge",
     "fg": [ "vp_minifridge" ],
     "bg": [  ]

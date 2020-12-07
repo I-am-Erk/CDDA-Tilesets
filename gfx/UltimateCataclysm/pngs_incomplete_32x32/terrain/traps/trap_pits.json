@@ -1,0 +1,12 @@
+[
+{
+  "id": "t_pit_glass",
+  "fg": "glass_shard",
+  "bg": "t_pit"
+},
+{
+  "id": "t_pit_spiked",
+  "fg": "pointy_stick",
+  "bg": "t_pit"
+}
+]
