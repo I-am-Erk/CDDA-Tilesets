@@ -50,6 +50,21 @@
     "bg": [  ]
   },
   {
+    "id": [ "overlay_neutral_sees_player" ],
+    "fg": [ "overlay_neutral_sees_player" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "overlay_friendly_sees_player" ],
+    "fg": [ "overlay_friendly_sees_player" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "overlay_other_sees_player" ],
+    "fg": [ "overlay_other_sees_player" ],
+    "bg": [  ]
+  },
+  {
     "id": [ "zombie_revival_indicator" ],
     "fg": [ "zombie_revival_indicator" ],
     "bg": [  ]
