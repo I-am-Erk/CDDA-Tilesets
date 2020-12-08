@@ -399,7 +399,7 @@
     "145_vp_plating_superalloy_0"
   ],
   "bg": [
-    "193_battery_1"
+    
   ]
 },
 {
@@ -408,7 +408,7 @@
     "136_vp_foot_pedals_0"
   ],
   "bg": [
-    "193_battery_1"
+    
   ]
 },
 {
@@ -417,7 +417,7 @@
     "98_vp_frame_wood_cross_0"
   ],
   "bg": [
-    "193_battery_1"
+    
   ]
 },
 {
@@ -426,7 +426,7 @@
     "112_vp_windshield_1"
   ],
   "bg": [
-    "193_battery_1"
+    
   ]
 },
 {
@@ -435,7 +435,7 @@
     "147_vp_plating_hard_0"
   ],
   "bg": [
-    "193_battery_1"
+    
   ]
 },
 {
@@ -444,7 +444,7 @@
     "158_vp_kitchen_unit_0"
   ],
   "bg": [
-    "193_battery_1"
+    
   ]
 },
 {
@@ -453,7 +453,7 @@
     "133_vp_engine_electric_0"
   ],
   "bg": [
-    "193_battery_1"
+    
   ]
 },
 {
@@ -462,7 +462,7 @@
     "134_vp_engine_electric_large_0"
   ],
   "bg": [
-    "193_battery_1"
+    
   ]
 },
 {
@@ -471,7 +471,7 @@
     "142_vp_muffler_0"
   ],
   "bg": [
-    "193_battery_1"
+    
   ]
 },
 {
@@ -480,7 +480,7 @@
     "135_vp_engine_plasma_0"
   ],
   "bg": [
-    "193_battery_1"
+    
   ]
 },
 {
@@ -489,7 +489,7 @@
     "125_vp_saddle_0"
   ],
   "bg": [
-    "193_battery_1"
+    
   ]
 },
 {
@@ -498,7 +498,7 @@
     "124_vp_seat_0"
   ],
   "bg": [
-    "193_battery_1"
+    
   ]
 },
 {
@@ -507,7 +507,7 @@
     "146_vp_plating_spiked_0"
   ],
   "bg": [
-    "193_battery_1"
+    
   ]
 },
 {
@@ -516,7 +516,7 @@
     "144_vp_plating_steel_0"
   ],
   "bg": [
-    "193_battery_1"
+    
   ]
 },
 {
@@ -525,7 +525,7 @@
     "138_vp_small_storage_battery_0"
   ],
   "bg": [
-    "193_battery_1"
+    
   ]
 },
 {
@@ -534,7 +534,7 @@
     "143_vp_controls_0"
   ],
   "bg": [
-    "193_battery_1"
+    
   ]
 },
 {
@@ -543,7 +543,7 @@
     "128_vp_engine_1cyl_0"
   ],
   "bg": [
-    "193_battery_1"
+    
   ]
 },
 {
@@ -552,7 +552,7 @@
     "130_vp_engine_inline4_0"
   ],
   "bg": [
-    "193_battery_1"
+    
   ]
 },
 {
@@ -561,7 +561,7 @@
     "129_vp_engine_vtwin_0"
   ],
   "bg": [
-    "193_battery_1"
+    
   ]
 },
 {
@@ -570,7 +570,7 @@
     "131_vp_engine_v6_0"
   ],
   "bg": [
-    "193_battery_1"
+    
   ]
 },
 {
@@ -579,7 +579,7 @@
     "132_vp_engine_v8_0"
   ],
   "bg": [
-    "193_battery_1"
+    
   ]
 },
 {
@@ -709,57 +709,57 @@
   "bg": []
 },
 {
-  "id": "wheel",
+  "id": "vp_wheel",
   "fg": [
     "119_vp_wheel_0"
   ],
   "bg": [
-    "193_battery_1"
+    
   ]
 },
 {
-  "id": "wheel_bicycle",
+  "id": "vp_wheel_bicycle",
   "fg": [
     "121_vp_wheel_unicycle_0"
   ],
   "bg": [
-    "193_battery_1"
+    
   ]
 },
 {
-  "id": "wheel_motorbike",
+  "id": "vp_wheel_motorbike",
   "fg": [
     "122_vp_wheel_motorbike_0"
   ],
   "bg": [
-    "193_battery_1"
+    
   ]
 },
 {
-  "id": "wheel_motorbike_or",
+  "id": "vp_wheel_motorbike_or",
   "fg": [
     "122_vp_wheel_motorbike_0"
   ],
   "bg": [
-    "193_battery_1"
+    
   ]
 },
 {
-  "id": "wheel_small",
+  "id": "vp_wheel_small",
   "fg": [
     "123_vp_wheel_small_0"
   ],
   "bg": [
-    "193_battery_1"
+    
   ]
 },
 {
-  "id": "wheel_wide",
+  "id": "vp_wheel_wide",
   "fg": [
     "120_vp_wheel_wide_0"
   ],
   "bg": [
-    "193_battery_1"
+    
   ]
 }
 ]
