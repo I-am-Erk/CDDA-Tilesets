@@ -480,32 +480,38 @@
     "bg": [  ]
   },
   {
-    "id": "vp_wheel",
+    "id": "wheel",
     "fg": [ "119_vp_wheel_0" ],
     "bg": [  ]
   },
   {
-    "id": "vp_wheel_bicycle",
+    "id": "wheel_bicycle",
     "fg": [ "121_vp_wheel_unicycle_0" ],
     "bg": [  ]
   },
   {
-    "id": "vp_wheel_motorbike",
+    "id": "wheel_motorbike",
     "fg": [ "122_vp_wheel_motorbike_0" ],
     "bg": [  ]
   },
   {
     "id": "vp_wheel_motorbike_or",
     "fg": [ "122_vp_wheel_motorbike_0" ],
+    "rotates": true,
     "bg": [  ]
   },
   {
-    "id": "vp_wheel_small",
+    "id": "wheel_motorbike_or",
+    "fg": [ "122_vp_wheel_motorbike_0" ],
+    "bg": [  ]
+  },
+  {
+    "id": "wheel_small",
     "fg": [ "123_vp_wheel_small_0" ],
     "bg": [  ]
   },
   {
-    "id": "vp_wheel_wide",
+    "id": "wheel_wide",
     "fg": [ "120_vp_wheel_wide_0" ],
     "bg": [  ]
   }
