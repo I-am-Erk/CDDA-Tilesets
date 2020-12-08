@@ -1,0 +1,12 @@
+[
+  {
+    "id": "plunger_futuristic",
+    "fg": [ "plunger_futuristic" ],
+    "bg": []
+  },
+  {
+    "id": "plunger_toilet",
+    "fg": [ "plunger_toilet" ],
+    "bg": []
+  }
+]
