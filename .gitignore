@@ -7,6 +7,8 @@ gfx/UltimateCataclysm/fillergiant.png
 gfx/UltimateCataclysm/fillerhoder.png
 gfx/UltimateCataclysm/giant.png
 gfx/UltimateCataclysm/incomplete.png
+gfx/UltimateCataclysm/incomplete_large.png
+gfx/UltimateCataclysm/incomplete_tall.png
 gfx/UltimateCataclysm/huge.png
 gfx/UltimateCataclysm/large.png
 gfx/UltimateCataclysm/normal.png
@@ -18,6 +20,7 @@ gfx/UltimateCataclysm/centered.png
 # BrownLikeBears built sprite sheets
 gfx/BrownLikeBears/tiles.png
 gfx/BrownLikeBears/tall.png
+gfx/BrownLikeBears/big.png
 gfx/BrownLikeBears/mods.png
 
 # NeoDays built sprite sheets
