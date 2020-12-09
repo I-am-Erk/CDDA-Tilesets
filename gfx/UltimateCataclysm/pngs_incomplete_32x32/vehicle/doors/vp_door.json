@@ -1,6 +1,6 @@
 [
   {
-    "id": [ "vp_door_interior" ],
+    "id": [ "vp_door_internal" ],
     "fg": [ "vp_door_interior_rotN", "vp_door_interior_rotW", "vp_door_interior_rotS", "vp_door_interior_rotE" ],
     "bg": [  ],
     "rotates": true,
