@@ -38,10 +38,5 @@
     "id": "t_underbrush_season_winter",
     "fg": [ "t_underbrush" ],
     "bg": [ "snow_deep" ]
-  },
-  {
-    "id": "t_underbrush_harvested_winter",
-    "fg": [ "t_underbrush_harvested" ],
-    "bg": [ "snow_deep" ]
   }
 ]
