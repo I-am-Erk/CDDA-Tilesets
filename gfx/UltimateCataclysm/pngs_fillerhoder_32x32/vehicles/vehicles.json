@@ -232,56 +232,72 @@
   {
     "id": "vp_wheel_armor",
     "fg": [ "119_vp_wheel_0" ],
+    "rotates": true,
     "bg": [  ]
   },
   {
     "id": "vp_wheel_armor_steerable",
     "fg": [ "119_vp_wheel_0" ],
+    "rotates": true,
     "bg": [  ]
   },
   {
     "id": "vp_wheel_caster",
     "fg": [ "166_vp_wheel_caster_0" ],
+    "rotates": true,
     "bg": [  ]
   },
   {
     "id": "vp_wheel_motorbike",
     "fg": [ "122_vp_wheel_motorbike_0" ],
+    "rotates": true,
     "bg": [  ]
   },
   {
     "id": "vp_wheel_motorbike_steerable",
     "fg": [ "122_vp_wheel_motorbike_0" ],
+    "rotates": true,
     "bg": [  ]
   },
   {
     "id": "vp_wheel_small",
     "fg": [ "123_vp_wheel_small_0" ],
+    "rotates": true,
     "bg": [  ]
   },
   {
     "id": "vp_wheel_small_steerable",
     "fg": [ "123_vp_wheel_small_0" ],
+    "rotates": true,
     "bg": [  ]
   },
   {
     "id": "vp_wheel_wheelchair",
     "fg": [ "121_vp_wheel_unicycle_0" ],
+    "rotates": true,
     "bg": [  ]
   },
   {
     "id": "vp_wheel_wide_steerable",
     "fg": [ "120_vp_wheel_wide_0" ],
+    "rotates": true,
     "bg": [  ]
   },
   {
     "id": "vp_wheel_wood",
-    "fg": [  ],
+    "fg": "wheel_wood",
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": ["wheel_wood", "wheel_wood_b"],
+    "fg": "wheel_wood",
     "bg": [  ]
   },
   {
     "id": "vp_wheel_wood_b",
-    "fg": [  ],
+    "fg": "wheel_wood",
+    "rotates": true,
     "bg": [  ]
   },
   {
