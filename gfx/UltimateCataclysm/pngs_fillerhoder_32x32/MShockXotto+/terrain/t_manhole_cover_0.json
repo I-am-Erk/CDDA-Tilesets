@@ -1,0 +1,12 @@
+[
+    {
+        "id": "t_manhole_cover",
+        "fg": "3117_t_manhole_cover_0",
+        "bg": "t_pavement"
+    },
+    {
+        "id": "manhole_cover",
+        "fg": "3117_t_manhole_cover_0",
+        "bg": []
+    }
+]
