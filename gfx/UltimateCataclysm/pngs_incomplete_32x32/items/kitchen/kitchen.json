@@ -1,0 +1,19 @@
+[
+{
+  "id": "chopsticks",
+  "fg": "chopsticks",
+  "bg": []
+},{
+  "id": "cutting_board",
+  "fg": "cutting_board",
+  "bg": []
+},{
+  "id": "plastic_straw",
+  "fg": "plastic_straw",
+  "bg": []
+},{
+  "id": "xacto",
+  "fg": "xacto",
+  "bg": []
+}
+]
