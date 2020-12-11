@@ -3,9 +3,5 @@
   "id": "stereo",
   "fg": "stereo",
   "bg": []
-},{
-  "id": "vp_stereo",
-  "fg": "stereo",
-  "bg": "vp_halfboard_horizontal_front"
 }
 ]
