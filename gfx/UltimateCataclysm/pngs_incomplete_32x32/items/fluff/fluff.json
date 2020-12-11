@@ -1,0 +1,10 @@
+[
+{
+  "id": [
+    "deck_of_cards", "family_photo", "polaroid_photo", "chess", "checkers",
+    "cards_magic", "pictionary", "monopoly", "dnd", "g_warhammer", "g_warhammer40k",
+    "catan", "battleship", "clue"],
+  "fg": "fluff_box_generic",
+  "bg": []
+}
+]
