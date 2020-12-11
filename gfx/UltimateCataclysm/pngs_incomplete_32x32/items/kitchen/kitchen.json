@@ -64,6 +64,10 @@
   "fg": "string_floss",
   "bg": []
 },{
+  "id": ["toothbrush_plain", "toothbrush_dirty"],
+  "fg": "toothbrush",
+  "bg": []
+},{
   "id": "tumbler_plastic",
   "fg": "tumbler_plastic",
   "bg": []
