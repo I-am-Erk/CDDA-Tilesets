@@ -72,6 +72,10 @@
   "fg": "tumbler_plastic",
   "bg": []
 },{
+  "id": "casserole",
+  "fg": "casserole",
+  "bg": []
+},{
   "id": ["hairpin", "fc_hairpin", "gold_hairpin", "platinum_hairpin", "silver_hairpin", "copper_hairpin", "tieclip"],
   "fg": "hairpin",
   "bg": []
