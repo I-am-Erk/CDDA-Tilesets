@@ -6,19 +6,18 @@ Leave the headings unless they don't apply to your PR, and remove the comment bl
 
 <!-- This section should consist of exactly one line, formatted like this:
 
-SUMMARY: [Category] "[Briefly describe the change in these quotation marks]"
+SUMMARY: [Tileset] "[Briefly describe the change in these quotation marks]"
 
-Do not enter the square brackets [].  Category must be one of these:
+Do not enter the square brackets [].  Tileset must be one of these:
 
-- Item
-- Terrain
-- Furniture
-- Mutation
-- Bionic
-- Worn
-- Wielded
-- Field
-- Misc
+- Ultica
+- Ultica-iso
+- RetroDays
+- NeoDays
+- MSX
+- BLB
+- Chesthole
+
 -->
 
 #### Content of the change
