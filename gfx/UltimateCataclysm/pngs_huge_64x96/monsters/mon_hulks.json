@@ -7,6 +7,6 @@
 {
   "id": "mon_skeleton_hulk",
   "fg": ["mon_skeletal_juggernaut"],
-  "bg": ["shadow_64x96_large"]
+  "bg": []
 }
 ]
