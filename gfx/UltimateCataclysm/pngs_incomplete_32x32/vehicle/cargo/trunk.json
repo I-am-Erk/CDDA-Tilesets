@@ -29,7 +29,7 @@
     "bg": [  ]
   },
   {
-    "id": "vp_cargo_space",
+    "id": ["vp_cargo_space", "animal_compartment"],
     "fg": "vp_cargo_space",
     "rotates": true,
     "bg": [  ]
