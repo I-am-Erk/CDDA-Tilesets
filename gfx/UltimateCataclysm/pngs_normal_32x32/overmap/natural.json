@@ -38,7 +38,7 @@
       "road_end_west",
       "road_end_east"
     ],
-    "fg": "t_pavement_y",
+    "fg": "t_pavement_y_unconnected",
     "bg": [  ]
   },
   {
