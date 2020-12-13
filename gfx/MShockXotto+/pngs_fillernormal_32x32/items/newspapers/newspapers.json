@@ -1,8 +1,15 @@
 [
   {
-    "id": "many_years_old_newspaper",
+    "id": ["many_years_old_newspaper"],
     "fg": [
       "many_years_old_newspaper"
+    ],
+    "bg": []
+  },
+  {
+    "id": "years_old_newspaper",
+    "fg": [
+      "years_old_newspaper"
     ],
     "bg": []
   },

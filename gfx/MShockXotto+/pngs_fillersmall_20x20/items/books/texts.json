@@ -116,7 +116,8 @@
       "mag_traps",
       "mag_fabrication",
       "mag_launcher",
-      "mag_swimming"
+      "mag_swimming",
+      "mag_news"
     ],
     "fg": [ "generic_magazine" ],
     "bg": [  ]
