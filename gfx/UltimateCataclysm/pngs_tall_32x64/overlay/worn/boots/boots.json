@@ -20,16 +20,6 @@
     "bg": [  ]
   },
   {
-    "id": "overlay_female_worn_boots_combat",
-    "fg": [ "boots_combat_f" ],
-    "bg": [  ]
-  },
-  {
-    "id": "overlay_male_worn_boots_combat",
-    "fg": [ "boots_combat_m" ],
-    "bg": [  ]
-  },
-  {
     "id": "overlay_female_worn_boots_fur",
     "fg": [ "boots_fur_f" ],
     "bg": [  ]
