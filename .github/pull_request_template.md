@@ -27,7 +27,7 @@ Do not enter the square brackets [].  Category must be one of these:
 
 #### Testing
 
-<!-- Describe what steps you took to test this PR, if applicable include screenshot of the sprites in game or at least in editor.  -->
+<!-- Describe what steps you took to test this PR, if applicable include screenshot of the sprites in game or at least in your image editor.  -->
 
 #### Additional context
 
