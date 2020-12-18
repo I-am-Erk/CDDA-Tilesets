@@ -6,9 +6,9 @@ Leave the headings unless they don't apply to your PR, and remove the comment bl
 
 <!-- This section should consist of exactly one line, formatted like this:
 
-SUMMARY: [Tileset] "[Briefly describe the change in these quotation marks]"
+SUMMARY: [Category] "[Briefly describe the change in these quotation marks]"
 
-Do not enter the square brackets [].  Tileset must be one of these:
+Do not enter the square brackets [].  Category must be one of these:
 
 - Ultica
 - Ultica-iso
@@ -17,17 +17,18 @@ Do not enter the square brackets [].  Tileset must be one of these:
 - MSX
 - BLB
 - Chesthole
+- Infrastructure
 
 -->
 
 #### Content of the change
 
-<!-- Explain what does this pull request contains.  -->
+<!-- Explain what does this pull request contain.  -->
 
 #### Testing
 
-<!-- Describe what steps you took to test that this PR resolved the bug or added the feature, and what tests you performed to make sure it didn't cause any regressions.  Also include testing suggestions for reviewers and maintainers.  -->
+<!-- Describe what steps you took to test this PR, if applicable include screenshot of the sprites in game or at least in editor.  -->
 
 #### Additional context
 
-<!-- Add any other context (such as mock-ups, proof of concepts or screenshots) about the feature or bugfix here.  -->
+<!-- Add any other context about the PR here.  -->
