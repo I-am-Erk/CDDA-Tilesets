@@ -1,1 +1,4 @@
-{"id": "t_pit_corpsed", "fg": "t_pit_corpsed", "bg": "t_dirt"}
+[
+{"id": "t_pit_corpsed", "fg": "t_pit_corpsed", "bg": "t_dirt"},
+{"id": "t_pit_corpsed_season_winter", "fg": "t_pit_corpsed", "bg": "snow_shallow_center"}
+]

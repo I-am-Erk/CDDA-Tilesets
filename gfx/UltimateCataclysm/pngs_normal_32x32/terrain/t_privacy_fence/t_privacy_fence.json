@@ -1,3 +1,4 @@
+[
 {
   "id": "t_privacy_fence",
   "multitile": true,
@@ -60,4 +61,67 @@
       ]
     }
   ]
+},{
+  "id": "t_privacy_fence_season_winter",
+  "multitile": true,
+  "fg": [
+    "t_privacy_fence_unconnected"
+  ],
+  "bg": [ "snow_shallow_center" ],
+  "additional_tiles": [
+    {
+      "id": "center",
+      "bg": [ "snow_shallow_center" ],
+      "fg": [
+        "t_privacy_fence_center"
+      ]
+    },
+    {
+      "id": "corner",
+      "bg": [ "snow_shallow_center" ],
+      "fg": [
+        "t_privacy_fence_corner_nw",
+        "t_privacy_fence_corner_sw",
+        "t_privacy_fence_corner_se",
+        "t_privacy_fence_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "bg": [ "snow_shallow_center" ],
+      "fg": [
+        "t_privacy_fence_t_connection_n",
+        "t_privacy_fence_t_connection_w",
+        "t_privacy_fence_t_connection_s",
+        "t_privacy_fence_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "bg": [ "snow_shallow_center" ],
+      "fg": [
+        "t_privacy_fence_edge_ns",
+        "t_privacy_fence_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "bg": [ "snow_shallow_center" ],
+      "fg": [
+        "t_privacy_fence_end_piece_n",
+        "t_privacy_fence_end_piece_w",
+        "t_privacy_fence_end_piece_s",
+        "t_privacy_fence_end_piece_e"
+      ]
+    },
+    {
+      "bg": [ "snow_shallow_center" ],
+      "id": "unconnected",
+      "fg": [
+        "t_privacy_fence_unconnected",
+        "t_privacy_fence_unconnected"
+      ]
+    }
+  ]
 }
+]
