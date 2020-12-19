@@ -1,0 +1,1 @@
+{"id": "vp_travois", "fg": ["4135_vp_seat_wood_0"], "bg": ["1008_vp_travois_1"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["3987_vp_cargo_space_2"], "bg": ["4135_vp_seat_wood_0"]}]}

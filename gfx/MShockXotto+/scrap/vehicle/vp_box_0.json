@@ -1,0 +1,1 @@
+{"id": "vp_box", "fg": ["3984_vp_box_0"], "rotates": false, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["3987_vp_cargo_space_2"], "bg": ["3984_vp_box_0"]}], "bg": []}

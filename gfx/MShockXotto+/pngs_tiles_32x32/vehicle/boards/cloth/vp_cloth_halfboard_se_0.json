@@ -1,0 +1,1 @@
+{"id": "vp_cloth_halfboard_se", "fg": ["3989_vp_cloth_halfboard_horizontal_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["3987_vp_cargo_space_2"], "bg": ["3989_vp_cloth_halfboard_horizontal_0"]}], "bg": []}

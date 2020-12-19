@@ -1,6 +1,6 @@
 [
   {
-    "id": [ "vp_door_interior" ],
+    "id": [ "vp_door_internal" ],
     "fg": [ "vp_door_interior_rotN", "vp_door_interior_rotW", "vp_door_interior_rotS", "vp_door_interior_rotE" ],
     "bg": [  ],
     "rotates": true,
@@ -19,7 +19,7 @@
     ]
   },
   {
-    "id": [ "vp_door", "vp_door_inboard" ],
+    "id": [ "vp_door", "vp_door_inboard", "vp_door_sliding" ],
     "fg": "vp_door_inboard",
     "bg": [  ],
     "rotates": true,

@@ -1,10 +1,16 @@
 [
   {
-    "id": "vp_veh_table",
+    "id": ["vp_veh_table", "vp_veh_table_wood"],
     "fg": [ "veh_table", "veh_table" ],
     "bg": [ "vp_wooden_aisle_vertical", "vp_wooden_aisle_horizontal" ],
     "additional_tiles": [ { "id": "broken", "fg": "veh_table_broken", "bg": [ "vp_wooden_aisle_vertical", "vp_wooden_aisle_horizontal" ] } ],
+    "multitile": true,
     "rotates": true
+  },
+  {
+    "id": "vp_workbench",
+    "fg": "vp_workbench",
+    "bg": "t_metal_floor_unconnected"
   },
   {
     "id": "vp_minifridge",

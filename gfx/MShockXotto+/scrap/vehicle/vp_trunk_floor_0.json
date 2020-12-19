@@ -1,0 +1,1 @@
+{"id": "vp_trunk_floor", "fg": ["4150_vp_trunk_floor_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["3987_vp_cargo_space_2"], "bg": ["4150_vp_trunk_floor_0"]}], "bg": []}

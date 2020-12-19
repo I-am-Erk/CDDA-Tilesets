@@ -1,0 +1,16 @@
+{
+  "id": "t_monkey_bars_season_summer",
+  "fg": [
+    "3128_t_monkey_bars_0"
+  ],
+  "bg": [
+    "t_dirt_summer"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "edge", "bg": [ "t_dirt_summer" ], "fg": [  ] },
+    { "id": "corner", "fg": [ "3129_t_monkey_bars_2" ], "bg": [ "t_dirt_summer" ] },
+    { "id": "center", "fg": [ "3128_t_monkey_bars_0" ], "bg": [ "t_dirt_summer" ] },
+    { "id": "t_connection", "fg": [ "3130_t_monkey_bars_3" ], "bg": [ "t_dirt_summer" ] }
+  ]
+}

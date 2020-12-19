@@ -1,0 +1,13 @@
+[
+  {
+    "id": "t_grass_tall",
+    "multitile": true,
+    "fg": [ "4254_t_grass_tall_0" ],
+    "bg": [  ]
+  },
+  {
+    "id": "t_grass_tall_season_winter",
+    "fg": [ "4198_t_grass_tall_season_winter_0" ],
+    "bg": [  ]
+  }
+]

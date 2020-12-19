@@ -1,5 +1,11 @@
+[
 {
   "id": "t_dirtmound",
-  "fg": ["t_dirtmound"],
+  "fg": "t_dirtmound",
+  "bg": []
+},{
+  "id": "t_dirtmound_season_winter",
+  "fg": "t_dirtmound_season_winter",
   "bg": []
 }
+]

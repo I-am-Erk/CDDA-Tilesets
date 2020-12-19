@@ -1,0 +1,14 @@
+{
+  "id": [
+    "cursor",
+    "highlight",
+    "line_target",
+    "line_trail"
+  ],
+  "fg": [
+    "272_cursor_0"
+  ],
+  "bg": [
+    
+  ]
+}

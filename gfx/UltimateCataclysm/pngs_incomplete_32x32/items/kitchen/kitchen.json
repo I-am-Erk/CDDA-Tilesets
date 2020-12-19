@@ -1,0 +1,83 @@
+[
+{
+  "id": "chopsticks",
+  "fg": "chopsticks",
+  "bg": []
+},{
+  "id": "cutting_board",
+  "fg": "cutting_board",
+  "bg": []
+},{
+  "id": "plastic_straw",
+  "fg": "plastic_straw",
+  "bg": []
+},{
+  "id": "xacto",
+  "fg": "xacto",
+  "bg": []
+},{
+  "id": "brush",
+  "fg": "brush",
+  "bg": []
+},{
+  "id": "comb_pocket",
+  "fg": "comb_pocket",
+  "bg": []
+},{
+  "id": "curling_iron",
+  "fg": "curling_iron",
+  "bg": []
+},{
+  "id": "elec_hairtrimmer",
+  "fg": "elec_hairtrimmer",
+  "bg": []
+},{
+  "id": "hair_dryer",
+  "fg": "hair_dryer",
+  "bg": []
+},{
+  "id": "hairbrush",
+  "fg": "hairbrush",
+  "bg": []
+},{
+  "id": "metal_file",
+  "fg": "metal_file",
+  "bg": []
+},{
+  "id": "mobile_memory_card",
+  "fg": "mobile_memory_card",
+  "bg": []
+},{
+  "id": "razor_blade",
+  "fg": "razor_blade",
+  "bg": []
+},{
+  "id": "razor_shaving",
+  "fg": "razor_shaving",
+  "bg": []
+},{
+  "id": "sandpaper",
+  "fg": "sandpaper",
+  "bg": []
+},{
+  "id": "string_floss",
+  "fg": "string_floss",
+  "bg": []
+},{
+  "id": ["toothbrush_plain", "toothbrush_dirty"],
+  "fg": "toothbrush",
+  "bg": []
+},{
+  "id": "tumbler_plastic",
+  "fg": "tumbler_plastic",
+  "bg": []
+},{
+  "id": "casserole",
+  "fg": "casserole",
+  "bg": []
+},{
+  "id": ["hairpin", "fc_hairpin", "gold_hairpin", "platinum_hairpin", "silver_hairpin", "copper_hairpin", "tieclip"],
+  "fg": "hairpin",
+  "bg": []
+}
+]

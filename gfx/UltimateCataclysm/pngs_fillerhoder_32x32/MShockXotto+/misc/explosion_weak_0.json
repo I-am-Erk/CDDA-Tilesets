@@ -1,0 +1,1 @@
+{"id": "explosion_weak", "bg": [], "rotates": true, "multitile": true, "additional_tiles": [{"id": "corner", "fg": ["2854_explosion_1"], "bg": []}, {"id": "edge", "fg": ["2855_explosion_2"], "bg": []}], "fg": "2854_explosion_1"}

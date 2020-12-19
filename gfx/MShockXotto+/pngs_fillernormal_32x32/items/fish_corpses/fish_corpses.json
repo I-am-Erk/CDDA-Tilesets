@@ -1,0 +1,22 @@
+[
+  {
+    "id": "corpse_mon_fish_tiny",
+    "fg": [ "corpse_mon_fish_tiny" ],
+    "bg": []
+  },
+  {
+    "id": "corpse_mon_fish_small",
+    "fg": [ "corpse_mon_fish_small" ],
+    "bg": []
+  },
+  {
+    "id": "corpse_mon_fish_medium",
+    "fg": [ "corpse_mon_fish_medium" ],
+    "bg": []
+  },
+  {
+    "id": "corpse_mon_fish_large",
+    "fg": [ "corpse_mon_fish_large" ],
+    "bg": []
+  }
+]

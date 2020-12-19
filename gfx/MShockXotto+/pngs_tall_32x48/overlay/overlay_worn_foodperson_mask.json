@@ -1,0 +1,14 @@
+[
+  {
+    "id": "overlay_worn_foodperson_mask_on",
+    "fg": [ "overlay_worn_foodperson_mask_on" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_worn_foodperson_mask",
+    "fg": [ "overlay_worn_foodperson_mask" ],
+    "rotates": false,
+    "bg": [  ]
+  }
+]

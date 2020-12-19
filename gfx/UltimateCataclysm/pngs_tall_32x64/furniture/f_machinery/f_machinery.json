@@ -7,7 +7,7 @@
   {
     "id": "t_machinery_old",
     "fg": [ "f_machinery_old" ],
-    "bg": [ "t_concrete_center" ]
+    "bg": [ "t_concrete_tall" ]
   },
   {
     "id": "f_machinery_electronic",
@@ -17,7 +17,7 @@
   {
     "id": "t_machinery_electronic",
     "fg": [ "f_machinery_electronic" ],
-    "bg": [ "t_concrete_center" ]
+    "bg": [ "t_concrete_tall" ]
   },
   {
     "id": "f_machinery_heavy",
@@ -35,7 +35,7 @@
       { "weight": 150, "sprite": "f_machinery_heavy2" }, 
       { "weight": 100, "sprite": "f_machinery_heavy3" }
     ],
-    "bg": [ "t_concrete_center" ]
+    "bg": [ "t_concrete_tall" ]
   },
   {
     "id": "f_machinery_light",
@@ -51,6 +51,6 @@
       { "weight": 100, "sprite": "f_machinery_light" }, 
       { "weight": 100, "sprite": "f_machinery_light-2" }
     ],
-    "bg": [ "t_concrete_center" ]
+    "bg": [ "t_concrete_tall" ]
   }
 ]

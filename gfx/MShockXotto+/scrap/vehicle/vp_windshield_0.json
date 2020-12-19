@@ -1,0 +1,1 @@
+{"id": "vp_windshield", "fg": ["4159_vp_windshield_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["4160_vp_windshield_1"], "bg": []}], "bg": []}

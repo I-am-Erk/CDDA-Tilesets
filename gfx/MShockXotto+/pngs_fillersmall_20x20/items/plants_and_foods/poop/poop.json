@@ -1,0 +1,32 @@
+[
+  {
+    "id": "feces_manure",
+    "fg": [ "feces_manure" ],
+    "bg": [  ]
+  },
+  {
+    "id": "feces_bird",
+    "fg": [ "feces_bird" ],
+    "bg": [  ]
+  },
+  {
+    "id": "feces_cow",
+    "fg": [ "feces_cow" ],
+    "bg": [  ]
+  },
+  {
+    "id": "feces_dog",
+    "fg": [ "feces_dog" ],
+    "bg": [  ]
+  },
+  {
+    "id": "feces_roach",
+    "fg": [ "feces_roach" ],
+    "bg": [  ]
+  },
+  {
+    "id": "fetid_goop",
+    "fg": [ "fetid_goop" ],
+    "bg": [  ]
+  }
+]

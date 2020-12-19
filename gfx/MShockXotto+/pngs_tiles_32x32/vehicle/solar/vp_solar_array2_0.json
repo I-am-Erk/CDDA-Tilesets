@@ -1,0 +1,1 @@
+{"id": "vp_solar_array2", "fg": ["4238_vp_solar_array2r_0"], "rotates": false, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["3987_vp_cargo_space_2"], "bg": ["4238_vp_solar_array2r_0"]}], "bg": []}
