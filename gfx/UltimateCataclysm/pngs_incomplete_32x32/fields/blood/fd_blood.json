@@ -1,4 +1,3 @@
-[
 {
   "id": "fd_blood",
   "fg": "fd_blood_unconnected",
@@ -58,10 +57,4 @@
       "//": "Multitiles are assumed to rotate, two copies to omit rotation"
     }
   ]
-},
-{
-  "id": ["fd_blood_insect", "fd_blood_invertebrate"],
-  "fg": ["fd_blood_insect"],
-  "bg": []
 }
-]
