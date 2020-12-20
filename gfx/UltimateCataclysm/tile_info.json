@@ -5,7 +5,7 @@
     "height": 32
   },
   {
-    "small.png": { "sprite_width": 20, "sprite_height": 20 }
+    "small.png": { "sprite_width": 20, "sprite_height": 20, "sprite_offset_x": 6 }
   },
   {
     "normal.png": {  }
