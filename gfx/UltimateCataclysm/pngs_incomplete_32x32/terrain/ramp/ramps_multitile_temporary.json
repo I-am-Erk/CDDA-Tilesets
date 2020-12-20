@@ -1,0 +1,69 @@
+{
+  "id": [
+    "t_ramp_up_low",
+    "t_ramp_up_high",
+    "t_ramp_down_low",
+    "t_ramp_down_high",
+    "t_sidewalk_ramp_up_low",
+    "t_sidewalk_ramp_up_high",
+    "t_sidewalk_ramp_down_low",
+    "t_sidewalk_ramp_down_high"
+  ],
+  "fg": "t_multitile_unconnected",
+  "bg": "",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_multitile_center",
+      "bg": ""
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_multitile_corner_nw",
+        "t_multitile_corner_sw",
+        "t_multitile_corner_se",
+        "t_multitile_corner_ne"
+      ],
+      "bg": ""
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_multitile_t_connection_n",
+        "t_multitile_t_connection_w",
+        "t_multitile_t_connection_s",
+        "t_multitile_t_connection_e"
+      ],
+      "bg": ""
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_multitile_edge_ns",
+        "t_multitile_edge_ew"
+      ],
+      "bg": ""
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_multitile_end_piece_n",
+        "t_multitile_end_piece_w",
+        "t_multitile_end_piece_s",
+        "t_multitile_end_piece_e"
+      ],
+      "bg": ""
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_multitile_unconnected",
+        "t_multitile_unconnected"
+      ],
+      "bg": "",
+      "//": "Multitiles are assumed to rotate, two copies to omit rotation"
+    }
+  ]
+}
