@@ -14,7 +14,50 @@ parser.add_argument("tile", help="base name of the tile")
 parser.add_argument("size", type=int, help="tile size in pixels")
 parser.add_argument("image", help="path to autotile image")
 parser.add_argument("out", help="output path")
-parser.add_argument("--no-json", action='store_true', help="disable json file generation")
+parser.add_argument("--no-json", action='store_true',
+                    help="disable json file generation")
+
+
+MAPS = {
+    48: {
+        'unconnected': 10,
+        'center': 11,
+        'edge_ns': 3,  # |
+        'edge_ew': 2,  # -
+        # clockwise order
+        'corner_ne': 1,  # ↗
+        'corner_se': 9,  # ↘
+        'corner_sw': 8,  # ↙
+        'corner_nw': 0,  # ↖
+        't_connection_n': 24,
+        't_connection_e': 26,
+        't_connection_s': 25,
+        't_connection_w': 27,
+        'end_piece_n': 16,
+        'end_piece_e': 19,
+        'end_piece_s': 18,
+        'end_piece_w': 17,
+    },
+    16: {
+        'unconnected': 15,
+        'center': 5,
+        'edge_ns':  7,  # |
+        'edge_ew': 13,  # -
+        # clockwise order
+        'corner_ne':  2,  # ↗
+        'corner_se': 10,  # ↘
+        'corner_sw':  8,  # ↙
+        'corner_nw':  0,  # ↖
+        't_connection_n': 1,
+        't_connection_e': 6,
+        't_connection_s': 9,
+        't_connection_w': 4,
+        'end_piece_n':  3,
+        'end_piece_e': 14,
+        'end_piece_s': 11,
+        'end_piece_w': 12,
+    },
+}
 
 
 def main():
@@ -29,74 +72,68 @@ def main():
         for x in range(0, img.width, args.size):
             slices.append(img.crop(x, y, args.size, args.size))
 
-    parts = {
-        f"{args.tile}_unconnected.png": 10,
-        f"{args.tile}_center.png": 11,
-        f"{args.tile}_edge_ns.png": 3,
-        f"{args.tile}_edge_ew.png": 2,
-        f"{args.tile}_corner_nw.png": 0,
-        f"{args.tile}_corner_sw.png": 8,
-        f"{args.tile}_corner_se.png": 9,
-        f"{args.tile}_corner_ne.png": 1,
-        f"{args.tile}_t_connection_n.png": 24,
-        f"{args.tile}_t_connection_w.png": 27,
-        f"{args.tile}_t_connection_s.png": 25,
-        f"{args.tile}_t_connection_e.png": 26,
-        f"{args.tile}_end_piece_n.png": 16,
-        f"{args.tile}_end_piece_w.png": 17,
-        f"{args.tile}_end_piece_s.png": 18,
-        f"{args.tile}_end_piece_e.png": 19
-    }
-
-    for path, index in parts.items():
-        slices[index].pngsave(os.path.join(args.out, path))
+    for suffix, position in MAPS[len(slices)].items():
+        slices[position].pngsave(
+            os.path.join(args.out, f'{args.tile}_{suffix}.png'))
 
     if args.no_json:
         return
 
     json_content = {
         "id": args.tile,
+        "fg": f"{args.tile}_unconnected",
+        "bg": "",
         "multitile": True,
-        "fg": [f"{args.tile}_unconnected"],
-        "bg": [],
         "additional_tiles": [
             {
                 "id": "center",
-                "bg": [],
-                "fg": [f"{args.tile}_center"]
-            },
-            {
+                "fg": f"{args.tile}_center",
+                "bg": "",
+            }, {
                 "id": "corner",
-                "bg": [],
-                "fg": [f"{args.tile}_corner_nw",  f"{args.tile}_corner_sw",  f"{args.tile}_corner_se", f"{args.tile}_corner_ne"]
-            },
-            {
+                "fg": [
+                    f"{args.tile}_corner_nw",
+                    f"{args.tile}_corner_sw",
+                    f"{args.tile}_corner_se",
+                    f"{args.tile}_corner_ne"],
+                "bg": "",
+            }, {
                 "id": "t_connection",
-                "bg": [],
-                "fg": [f"{args.tile}_t_connection_n", f"{args.tile}_t_connection_w", f"{args.tile}_t_connection_s", f"{args.tile}_t_connection_e"]
-            },
-            {
+                "fg": [
+                    f"{args.tile}_t_connection_n",
+                    f"{args.tile}_t_connection_w",
+                    f"{args.tile}_t_connection_s",
+                    f"{args.tile}_t_connection_e"],
+                "bg": "",
+            }, {
                 "id": "edge",
-                "bg": [],
-                "fg": [f"{args.tile}_edge_ns", f"{args.tile}_edge_ew"]
-            },
-            {
+                "fg": [
+                    f"{args.tile}_edge_ns",
+                    f"{args.tile}_edge_ew"],
+                "bg": "",
+            }, {
                 "id": "end_piece",
-                "bg": [],
-                "fg": [f"{args.tile}_end_piece_n", f"{args.tile}_end_piece_w", f"{args.tile}_end_piece_s", f"{args.tile}_end_piece_e"]
-            },
-            {
-                "bg": [],
+                "fg": [
+                    f"{args.tile}_end_piece_n",
+                    f"{args.tile}_end_piece_w",
+                    f"{args.tile}_end_piece_s",
+                    f"{args.tile}_end_piece_e"],
+                "bg": "",
+            }, {
                 "id": "unconnected",
-                # Multitiles are assumed to rotate, two copies to omit rotation
-                "fg": [f"{args.tile}_unconnected", f"{args.tile}_unconnected"]
+                "fg": [f"{args.tile}_unconnected", f"{args.tile}_unconnected"],
+                "bg": "",
+                "//": "Multitiles are assumed to rotate, "
+                      "two copies to omit rotation",
             }
         ]
     }
 
-    with open(os.path.join(args.out, f"{args.tile}.json"), "w") as tile_json_file:
-        json.dump(json_content, tile_json_file, indent = 2)
+    tile_json_filename = os.path.join(args.out, f"{args.tile}.json")
+    with open(tile_json_filename, "w") as tile_json_file:
+        json.dump(json_content, tile_json_file, indent=2)
         tile_json_file.write("\n")
+
 
 if __name__ == "__main__":
     main()
