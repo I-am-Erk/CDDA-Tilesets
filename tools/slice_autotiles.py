@@ -39,23 +39,23 @@ MAPS = {
         'end_piece_w': 17,
     },
     16: {
-        'unconnected': 15,
-        'center': 5,
-        'edge_ns':  7,  # |
-        'edge_ew': 13,  # -
+        'unconnected': 0,
+        'center': 10,
+        'edge_ns': 8,  # |
+        'edge_ew': 2,  # -
         # clockwise order
-        'corner_ne':  2,  # ↗
-        'corner_se': 10,  # ↘
-        'corner_sw':  8,  # ↙
-        'corner_nw':  0,  # ↖
-        't_connection_n': 1,
-        't_connection_e': 6,
-        't_connection_s': 9,
-        't_connection_w': 4,
-        'end_piece_n':  3,
-        'end_piece_e': 14,
-        'end_piece_s': 11,
-        'end_piece_w': 12,
+        'corner_ne':  7,  # ↗
+        'corner_se': 15,  # ↘
+        'corner_sw': 13,  # ↙
+        'corner_nw':  5,  # ↖
+        't_connection_n':  6,
+        't_connection_e': 11,
+        't_connection_s': 14,
+        't_connection_w': 9,
+        'end_piece_n':  4,
+        'end_piece_e':  3,
+        'end_piece_s': 12,
+        'end_piece_w':  1,
     },
 }
 
