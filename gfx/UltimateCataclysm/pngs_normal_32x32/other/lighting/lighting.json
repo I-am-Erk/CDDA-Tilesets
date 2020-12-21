@@ -9,7 +9,12 @@
   "bg": []
 },{
   "id": ["lighting_hidden"],
-  "fg": ["lighting_hidden"],
+  "fg": [
+    { "weight": 100, "sprite": "lighting_hidden" },
+    { "weight": 100, "sprite": "lighting_hidden_2" },
+    { "weight": 100, "sprite": "lighting_hidden_3" },
+    { "weight": 100, "sprite": "lighting_hidden_4" }
+  ],
   "bg": []
 }
 ]
