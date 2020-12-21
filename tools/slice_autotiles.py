@@ -9,14 +9,6 @@ import json
 import pathlib
 import pyvips
 
-parser = argparse.ArgumentParser(description="Slice an autotile image")
-parser.add_argument("tile", help="base name of the tile")
-parser.add_argument("size", type=int, help="tile size in pixels")
-parser.add_argument("image", help="path to autotile image")
-parser.add_argument("out", help="output path")
-parser.add_argument("--no-json", action='store_true',
-                    help="disable json file generation")
-
 
 MAPS = {
     48: {
@@ -60,8 +52,7 @@ MAPS = {
 }
 
 
-def main():
-    args = parser.parse_args()
+def main(args):
     img = pyvips.Image.new_from_file(args.image)
 
     pathlib.Path(args.out).mkdir(parents=True, exist_ok=True)
@@ -136,4 +127,11 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(description="Slice an autotile image")
+    parser.add_argument("tile", help="base name of the tile")
+    parser.add_argument("size", type=int, help="tile size in pixels")
+    parser.add_argument("image", help="path to autotile image")
+    parser.add_argument("out", help="output path")
+    parser.add_argument("--no-json", action='store_true',
+                        help="disable json file generation")
+    main(parser.parse_args())
