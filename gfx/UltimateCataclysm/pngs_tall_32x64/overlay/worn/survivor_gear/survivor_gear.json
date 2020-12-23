@@ -198,5 +198,75 @@
     "id": "overlay_male_worn_xlhsurvivor_suit",
     "fg": [ "heavy_survivor_suit_m" ],
     "bg": []
+  },
+  {
+    "id": "overlay_worn_boots_fsurvivor",
+    "fg": [ "survivor_fireboots_mf" ],
+    "bg": []
+  },
+  {
+    "id": "overlay_worn_xl_boots_fsurvivor",
+    "fg": [ "survivor_fireboots_mf" ],
+    "bg": []
+  },
+  {
+    "id": "overlay_female_worn_gloves_fsurvivor",
+    "fg": [ "survivor_firegloves_f" ],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_worn_gloves_fsurvivor",
+    "fg": [ "survivor_firegloves_m" ],
+    "bg": []
+  },
+  {
+    "id": "overlay_female_worn_xl_gloves_fsurvivor",
+    "fg": [ "survivor_firegloves_f" ],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_worn_xl_gloves_fsurvivor",
+    "fg": [ "survivor_firegloves_m" ],
+    "bg": []
+  },
+  {
+    "id": "overlay_female_worn_hood_fsurvivor",
+    "fg": [ "survivor_firehood_f" ],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_worn_hood_fsurvivor",
+    "fg": [ "survivor_firehood_m" ],
+    "bg": []
+  },
+  {
+    "id": "overlay_female_worn_xl_hood_fsurvivor",
+    "fg": [ "survivor_firehood_f" ],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_worn_xl_hood_fsurvivor",
+    "fg": [ "survivor_firehood_m" ],
+    "bg": []
+  },
+  {
+    "id": "overlay_female_worn_fsurvivor_suit",
+    "fg": [ "survivor_firesuit_f" ],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_worn_fsurvivor_suit",
+    "fg": [ "survivor_firesuit_m" ],
+    "bg": []
+  },
+  {
+    "id": "overlay_female_worn_xl_fsurvivor_suit",
+    "fg": [ "survivor_firesuit_f" ],
+    "bg": []
+  },
+  {
+    "id": "overlay_male_worn_xl_fsurvivor_suit",
+    "fg": [ "survivor_firesuit_m" ],
+    "bg": []
   }
 ]
