@@ -1,9 +1,11 @@
-name: Book
+name: Documentation builder
 
 on:
   push:
     branches:
       - master
+    paths:
+      - 'doc/**'
 
 jobs:
   book:

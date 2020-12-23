@@ -3,16 +3,20 @@
 #
 # This action is triggerd by any PR against the master branch as well
 # as on any push to the master branch itself
+# that changes any file in gfx/UltimateCataclysm folder
+name: UltimateCataclysm composer
 
 on:
   push:
     branches:
       - master
+    paths:
+      - 'gfx/UltimateCataclysm/**'
   pull_request:
     branches:
       - master
-
-name: CI Build
+    paths:
+      - 'gfx/UltimateCataclysm/**'
 
 jobs:
   build:
