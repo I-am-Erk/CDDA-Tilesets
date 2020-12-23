@@ -6,6 +6,7 @@ on:
       - master
     paths:
       - 'doc/**'
+      - '.github/workflows/book.yml'
 
 jobs:
   book:

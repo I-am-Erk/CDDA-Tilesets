@@ -12,11 +12,13 @@ on:
       - master
     paths:
       - 'gfx/UltimateCataclysm/**'
+      - '.github/workflows/ci_build.yml'
   pull_request:
     branches:
       - master
     paths:
       - 'gfx/UltimateCataclysm/**'
+      - '.github/workflows/ci_build.yml'
 
 jobs:
   build:
