@@ -165,11 +165,6 @@
     "bg": [  ]
   },
   {
-    "id": "vp_recharge_station",
-    "fg": [ "138_vp_small_storage_battery_0" ],
-    "bg": [ "149_vp_trunk_0" ]
-  },
-  {
     "id": "vp_roof",
     "fg": [ "1799_vp_roof_0" ],
     "bg": [  ]
