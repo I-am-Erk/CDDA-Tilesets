@@ -1,0 +1,19 @@
+{
+  "id": [
+    "survnote",
+    "character_sheet",
+    "newest_newspaper",
+    "many_years_old_newspaper",
+    "years_old_newspaper",
+    "one_year_old_newspaper",
+    "months_old_newspaper",
+    "record_patient"
+  ],
+  "fg": [
+    "newest_newspaper"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}
