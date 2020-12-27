@@ -18,10 +18,5 @@
     "id": "hammer",
     "fg": [ "hammer" ],
     "bg": [  ]
-  },
-  {
-    "id": "hacksaw",
-    "fg": [ "hacksaw" ],
-    "bg": [  ]
   }
 ]
