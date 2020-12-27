@@ -32,13 +32,14 @@ jobs:
           pip3 install pyvips
 
       - name: Checkout Code
-        uses: actions/checkout@master
+        uses: actions/checkout@v2
 
       - name: Build
         id: build
         run: |
           mkdir build && cd build
-          wget https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/compose.py
+          wget -q https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/compose.py \
+          || echo "Error: Failed to get compose.py"
 
           cd ..
           python3 build/compose.py --use-all gfx/UltimateCataclysm
