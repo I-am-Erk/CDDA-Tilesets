@@ -1,0 +1,60 @@
+{
+  "id": "t_ramp_up_high",
+  "fg": "t_ramp_up_high_unconnected",
+  "bg": "",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_ramp_up_high_center",
+      "bg": ""
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_ramp_up_high_corner_nw",
+        "t_ramp_up_high_corner_sw",
+        "t_ramp_up_high_corner_se",
+        "t_ramp_up_high_corner_ne"
+      ],
+      "bg": ""
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_ramp_up_high_t_connection_n",
+        "t_ramp_up_high_t_connection_w",
+        "t_ramp_up_high_t_connection_s",
+        "t_ramp_up_high_t_connection_e"
+      ],
+      "bg": ""
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_ramp_up_high_edge_ns",
+        "t_ramp_up_high_edge_ew"
+      ],
+      "bg": ""
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_ramp_up_high_end_piece_n",
+        "t_ramp_up_high_end_piece_w",
+        "t_ramp_up_high_end_piece_s",
+        "t_ramp_up_high_end_piece_e"
+      ],
+      "bg": ""
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_ramp_up_high_unconnected",
+        "t_ramp_up_high_unconnected"
+      ],
+      "bg": "",
+      "//": "Multitiles are assumed to rotate, two copies to omit rotation"
+    }
+  ]
+}
