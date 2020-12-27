@@ -5,11 +5,6 @@
     "bg": []
   },
   {
-    "id": "bone_human",
-    "fg": [ "bone_human" ],
-    "bg": []
-  },
-  {
     "id": "bone_tainted",
     "fg": [ "bone_tainted" ],
     "bg": []
