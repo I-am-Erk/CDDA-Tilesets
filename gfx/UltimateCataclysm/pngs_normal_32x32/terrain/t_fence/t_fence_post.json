@@ -3,17 +3,17 @@
   {
     "id": "t_fence_post_season_spring",
     "fg": ["t_fence_unconnected"],
-    "bg": ["t_dirt"]
+    "bg": ["t_grass"]
   },
   {
     "id": "t_fence_post_season_summer",
     "fg": ["t_fence_unconnected"],
-    "bg": ["t_dirt_summer"]
+    "bg": ["t_grass_summer"]
   },
   {
     "id": "t_fence_post_season_autumn",
     "fg": ["t_fence_unconnected"],
-    "bg": ["t_dirt_autumn"]
+    "bg": ["t_grass_autumn"]
   },
   {
     "id": "t_fence_post_season_winter",

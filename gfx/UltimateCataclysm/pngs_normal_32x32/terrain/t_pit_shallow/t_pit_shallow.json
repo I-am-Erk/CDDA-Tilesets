@@ -4,18 +4,18 @@
   "fg": [
     "t_pit_shallow_unconnected"
   ],
-  "bg": [ { "weight": 100, "sprite": "t_dirt" }, { "weight": 100, "sprite": "t_dirt2" } ],
+  "bg": [ { "weight": 100, "sprite": "t_grass" }, { "weight": 100, "sprite": "t_grass_center2" } ],
   "additional_tiles": [
     {
       "id": "center",
-      "bg": [ { "weight": 100, "sprite": "t_dirt" }, { "weight": 100, "sprite": "t_dirt2" } ],
+      "bg": [ { "weight": 100, "sprite": "t_grass" }, { "weight": 100, "sprite": "t_grass_center2" } ],
       "fg": [
         "t_pit_shallow_center"
       ]
     },
     {
       "id": "corner",
-      "bg": [ { "weight": 100, "sprite": "t_dirt" }, { "weight": 100, "sprite": "t_dirt2" } ],
+      "bg": [ { "weight": 100, "sprite": "t_grass" }, { "weight": 100, "sprite": "t_grass_center2" } ],
       "fg": [
         "t_pit_shallow_corner_nw",
         "t_pit_shallow_corner_sw",
@@ -25,7 +25,7 @@
     },
     {
       "id": "t_connection",
-      "bg": [ { "weight": 100, "sprite": "t_dirt" }, { "weight": 100, "sprite": "t_dirt2" } ],
+      "bg": [ { "weight": 100, "sprite": "t_grass" }, { "weight": 100, "sprite": "t_grass_center2" } ],
       "fg": [
         "t_pit_shallow_t_connection_n",
         "t_pit_shallow_t_connection_w",
@@ -35,7 +35,7 @@
     },
     {
       "id": "edge",
-      "bg": [ { "weight": 100, "sprite": "t_dirt" }, { "weight": 100, "sprite": "t_dirt2" } ],
+      "bg": [ { "weight": 100, "sprite": "t_grass" }, { "weight": 100, "sprite": "t_grass_center2" } ],
       "fg": [
         "t_pit_shallow_edge_ns",
         "t_pit_shallow_edge_ew"
@@ -43,7 +43,7 @@
     },
     {
       "id": "end_piece",
-      "bg": [ { "weight": 100, "sprite": "t_dirt" }, { "weight": 100, "sprite": "t_dirt2" } ],
+      "bg": [ { "weight": 100, "sprite": "t_grass" }, { "weight": 100, "sprite": "t_grass_center2" } ],
       "fg": [
         "t_pit_shallow_end_piece_n",
         "t_pit_shallow_end_piece_w",
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "bg": [ { "weight": 100, "sprite": "t_dirt" }, { "weight": 100, "sprite": "t_dirt2" } ],
+      "bg": [ { "weight": 100, "sprite": "t_grass" }, { "weight": 100, "sprite": "t_grass_center2" } ],
       "id": "unconnected",
       "fg": [
         "t_pit_shallow_unconnected",
