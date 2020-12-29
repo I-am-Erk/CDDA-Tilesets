@@ -1,0 +1,8 @@
+{
+  "id": "tr_goo",
+  "fg": [
+    { "weight": 2007, "sprite": "tr_goo" },
+    { "weight": 1, "sprite": "tr_world_of_goo" }
+  ],
+  "bg": ""
+}
