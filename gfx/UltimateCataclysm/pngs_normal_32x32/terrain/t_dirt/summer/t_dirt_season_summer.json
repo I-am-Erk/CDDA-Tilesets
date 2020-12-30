@@ -7,10 +7,10 @@
     {
       "id": "center",
       "fg": [
-        { "weight": 100, "sprite": "t_dirt_season_summer" },
-        { "weight": 100, "sprite": "t_dirt_season_summer2" },
-        { "weight": 100, "sprite": "t_dirt_season_summer3" },
-        { "weight": 100, "sprite": "t_dirt_season_summer4" }
+        { "weight": 100, "sprite": "t_dirt_season_summer_center" },
+        { "weight": 100, "sprite": "t_dirt_season_summer_center2" },
+        { "weight": 100, "sprite": "t_dirt_season_summer_center3" },
+        { "weight": 100, "sprite": "t_dirt_season_summer_center4" }
       ],
       "bg": ""
     },
