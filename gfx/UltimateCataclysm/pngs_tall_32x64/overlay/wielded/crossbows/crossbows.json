@@ -1,37 +1,37 @@
 [
   {
     "id": "overlay_wielded_bullet_crossbow",
-    "fg": [ "bullet_crossbow" ],
+    "fg": "bullet_crossbow",
     "bg": ""
   },
   {
     "id": "overlay_wielded_compositecrossbow",
-    "fg": [ "composite_crossbow" ],
+    "fg": "composite_crossbow",
     "bg": ""
   },
   {
     "id": "overlay_wielded_compcrossbow",
-    "fg": [ "compound_crossbow" ],
+    "fg": "compound_crossbow",
     "bg": ""
   },
   {
     "id": "overlay_wielded_huge_crossbow",
-    "fg": [ "heavy_crossbow" ],
+    "fg": "heavy_crossbow",
     "bg": ""
   },
   {
     "id": "overlay_wielded_hand_crossbow",
-    "fg": [ "pistol_crossbow" ],
+    "fg": "pistol_crossbow",
     "bg": ""
   },
   {
     "id": "overlay_wielded_rep_crossbow",
-    "fg": [ "repeating_crossbow" ],
+    "fg": "repeating_crossbow",
     "bg": ""
   },
   {
     "id": "overlay_wielded_crossbow",
-    "fg": [ "wood_crossbow" ],
+    "fg": "wood_crossbow",
     "bg": ""
   }
 ]

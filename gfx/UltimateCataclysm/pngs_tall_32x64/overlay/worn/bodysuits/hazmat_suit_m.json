@@ -1,5 +1,5 @@
 {
   "id": "overlay_male_worn_hazmat_suit",
-  "fg": ["hazmat_suit_m"],
+  "fg": "hazmat_suit_m",
   "bg": ""
 }

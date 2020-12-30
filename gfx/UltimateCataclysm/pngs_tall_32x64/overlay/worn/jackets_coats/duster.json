@@ -1,12 +1,12 @@
 [
   {
     "id": "overlay_female_worn_duster",
-    "fg": ["duster_f"],
+    "fg": "duster_f",
     "bg": ""
   },
   {
     "id": "overlay_male_worn_duster",
-    "fg": ["duster_m"],
+    "fg": "duster_m",
     "bg": ""
   }
 ]

@@ -1,5 +1,5 @@
 {
   "id": "pocketwatch",
-  "fg": ["pocketwatch"],
+  "fg": "pocketwatch",
   "bg": ""
 }

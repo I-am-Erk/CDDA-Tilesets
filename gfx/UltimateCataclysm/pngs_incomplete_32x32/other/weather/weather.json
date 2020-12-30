@@ -17,12 +17,12 @@
 },
 {
   "id": "weather_snowflake",
-  "fg": [ "weather_snowflake" ],
+  "fg": "weather_snowflake",
   "bg": ""
 },
 {
   "id": "weather_acid_drop",
-  "fg": [ "weather_acid_drop" ],
+  "fg": "weather_acid_drop",
   "bg": ""
 }
 ]

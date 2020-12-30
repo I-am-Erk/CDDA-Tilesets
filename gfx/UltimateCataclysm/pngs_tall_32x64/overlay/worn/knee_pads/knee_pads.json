@@ -1,12 +1,12 @@
 [
   {
     "id": "overlay_worn_knee_pads",
-    "fg": [ "knee_pads_f" ],
+    "fg": "knee_pads_f",
     "bg": ""
   },
   {
     "id": "overlay_worn_knee_pads",
-    "fg": [ "knee_pads_m" ],
+    "fg": "knee_pads_m",
     "bg": ""
   }
 ]

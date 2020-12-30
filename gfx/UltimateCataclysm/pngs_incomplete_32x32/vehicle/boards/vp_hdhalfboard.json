@@ -1,49 +1,49 @@
 [
   {
     "id": "vp_hdhalfboard_ne",
-    "fg": [ "vp_hdhalfboard_ne" ],
+    "fg": "vp_hdhalfboard_ne",
     "rotates": true,
     "bg": ""
   },
   {
     "id": "vp_hdhalfboard_nw",
-    "fg": [ "vp_hdhalfboard_nw" ],
+    "fg": "vp_hdhalfboard_nw",
     "rotates": true,
     "bg": ""
   },
   {
     "id": "vp_hdhalfboard_se",
-    "fg": [ "vp_hdhalfboard_se" ],
+    "fg": "vp_hdhalfboard_se",
     "rotates": true,
     "bg": ""
   },
   {
     "id": "vp_hdhalfboard_sw",
-    "fg": [ "vp_hdhalfboard_sw" ],
+    "fg": "vp_hdhalfboard_sw",
     "rotates": true,
     "bg": ""
   },
   {
     "id": "vp_hdhalfboard_vertical_left",
-    "fg": [ "vp_hdhalfboard_vertical_left" ],
+    "fg": "vp_hdhalfboard_vertical_left",
     "rotates": true,
     "bg": ""
   },
   {
     "id": "vp_hdhalfboard_vertical_right",
-    "fg": [ "vp_hdhalfboard_vertical_right" ],
+    "fg": "vp_hdhalfboard_vertical_right",
     "rotates": true,
     "bg": ""
   },
   {
-    "id": [ "vp_hdhalfboard_horizontal" ],
-    "fg": [ "vp_hdhalfboard_horizontal_front" ],
+    "id": "vp_hdhalfboard_horizontal",
+    "fg": "vp_hdhalfboard_horizontal_front",
     "rotates": true,
     "bg": ""
   },
   {
-    "id": [ "vp_hdhalfboard_horizontal_2" ],
-    "fg": [ "vp_hdhalfboard_horizontal_2_front" ],
+    "id": "vp_hdhalfboard_horizontal_2",
+    "fg": "vp_hdhalfboard_horizontal_2_front",
     "rotates": true,
     "bg": ""
   },
@@ -88,26 +88,26 @@
     "bg": ""
   },
   {
-    "id": [ "vp_hdhalfboard_vertical" ],
-    "fg": [ "vp_hdhalfboard_vertical" ],
+    "id": "vp_hdhalfboard_vertical",
+    "fg": "vp_hdhalfboard_vertical",
     "rotates": true,
     "bg": ""
   },
   {
-    "id": [ "vp_hdhalfboard_vertical_2" ],
-    "fg": [ "vp_hdhalfboard_vertical_2" ],
+    "id": "vp_hdhalfboard_vertical_2",
+    "fg": "vp_hdhalfboard_vertical_2",
     "rotates": true,
     "bg": ""
   },
   {
     "id": "vp_hdhalfboard_vertical_2_left",
-    "fg": [ "vp_hdhalfboard_vertical_2_left" ],
+    "fg": "vp_hdhalfboard_vertical_2_left",
     "rotates": true,
     "bg": ""
   },
   {
     "id": "vp_hdhalfboard_vertical_2_right",
-    "fg": [ "vp_hdhalfboard_vertical_2_right" ],
+    "fg": "vp_hdhalfboard_vertical_2_right",
     "rotates": true,
     "bg": ""
   },

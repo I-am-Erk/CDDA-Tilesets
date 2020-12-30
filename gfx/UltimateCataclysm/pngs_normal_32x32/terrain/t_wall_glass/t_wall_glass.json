@@ -8,7 +8,7 @@
     
   ],
   "additional_tiles": [
-    { "id": "center", "bg": "", "fg": [ "t_wall_glass_center" ] },
+    { "id": "center", "bg": "", "fg": "t_wall_glass_center" },
     {
       "id": "corner",
       "bg": "",
@@ -30,6 +30,6 @@
       "bg": "",
       "fg": [ "t_wall_glass_end_piece_n", "t_wall_glass_end_piece_w", "t_wall_glass_end_piece_s", "t_wall_glass_end_piece_e" ]
     },
-    { "bg": "", "id": "unconnected", "fg": [ "t_wall_glass_unconnected" ] }
+    { "bg": "", "id": "unconnected", "fg": "t_wall_glass_unconnected" }
   ]
 }

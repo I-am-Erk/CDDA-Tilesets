@@ -1,6 +1,6 @@
 [
   {
-    "id": [ "vp_door_internal" ],
+    "id": "vp_door_internal",
     "fg": [ "vp_door_interior_rotN", "vp_door_interior_rotW", "vp_door_interior_rotS", "vp_door_interior_rotE" ],
     "bg": "",
     "rotates": true,
@@ -27,7 +27,7 @@
     "additional_tiles": [ { "id": "open", "fg": "vp_door_inboard", "bg": "" } ]
   },
   {
-    "id": [ "vp_door_front" ],
+    "id": "vp_door_front",
     "fg": [ "vp_door_front", "vp_door_front_rotW", "vp_door_front_rotS", "vp_door_front_rotE" ],
     "bg": "",
     "rotates": true,
@@ -41,7 +41,7 @@
     ]
   },
   {
-    "id": [ "vp_door_rear" ],
+    "id": "vp_door_rear",
     "fg": [ "vp_door_rear_edge", "vp_door_rear_edge_rotW", "vp_door_rear_edge_rotS", "vp_door_rear_edge_rotE" ],
     "bg": "",
     "rotates": true,
@@ -180,7 +180,7 @@
     ]
   },
   {
-    "id": [ "vp_hddoor_left" ],
+    "id": "vp_hddoor_left",
     "fg": [ "vp_hddoor_L_rotN", "vp_hddoor_L_rotW", "vp_hddoor_L_rotS", "vp_hddoor_L_rotE" ],
     "bg": "",
     "rotates": true,
@@ -194,7 +194,7 @@
     ]
   },
   {
-    "id": [ "vp_hddoor_right" ],
+    "id": "vp_hddoor_right",
     "fg": [ "vp_hddoor_R_rotN", "vp_hddoor_R_rotW", "vp_hddoor_R_rotS", "vp_hddoor_R_rotE" ],
     "bg": "",
     "rotates": true,
@@ -222,7 +222,7 @@
     ]
   },
   {
-    "id": [ "vp_hddoor_rear" ],
+    "id": "vp_hddoor_rear",
     "fg": [ "vp_hddoor_rear_rotN", "vp_hddoor_rear_rotW", "vp_hddoor_rear_rotS", "vp_hddoor_rear_rotE" ],
     "bg": "",
     "rotates": true,
@@ -241,7 +241,7 @@
     ]
   },
   {
-    "id": [ "vp_door_opaque_left" ],
+    "id": "vp_door_opaque_left",
     "fg": [ "vp_door_opaque_left_rotN", "vp_door_opaque_left_rotW", "vp_door_opaque_left_rotS", "vp_door_opaque_left_rotE" ],
     "bg": "",
     "rotates": true,
@@ -260,7 +260,7 @@
     ]
   },
   {
-    "id": [ "vp_door_opaque_right" ],
+    "id": "vp_door_opaque_right",
     "fg": [ "vp_door_opaque_right_rotN", "vp_door_opaque_right_rotW", "vp_door_opaque_right_rotS", "vp_door_opaque_right_rotE" ],
     "bg": "",
     "rotates": true,
@@ -293,7 +293,7 @@
     ]
   },
   {
-    "id": [ "vp_door_opaque_rear" ],
+    "id": "vp_door_opaque_rear",
     "fg": [ "vp_door_opaque_rear_rotN", "vp_door_opaque_rear_rotW", "vp_door_opaque_rear_rotS", "vp_door_opaque_rear_rotE" ],
     "bg": "",
     "rotates": true,
@@ -312,7 +312,7 @@
     ]
   },
   {
-    "id": [ "vp_hddoor_opaque_left" ],
+    "id": "vp_hddoor_opaque_left",
     "fg": [
       "vp_hddoor_opaque_left_rotN",
       "vp_hddoor_opaque_left_rotW",
@@ -336,7 +336,7 @@
     ]
   },
   {
-    "id": [ "vp_hddoor_opaque_right" ],
+    "id": "vp_hddoor_opaque_right",
     "fg": [
       "vp_hddoor_opaque_right_rotN",
       "vp_hddoor_opaque_right_rotW",
@@ -379,7 +379,7 @@
     ]
   },
   {
-    "id": [ "vp_hddoor_opaque_rear" ],
+    "id": "vp_hddoor_opaque_rear",
     "fg": [
       "vp_hddoor_opaque_rear_rotN",
       "vp_hddoor_opaque_rear_rotW",

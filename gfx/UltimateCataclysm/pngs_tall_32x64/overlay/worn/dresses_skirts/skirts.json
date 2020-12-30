@@ -1,22 +1,22 @@
 [
   {
     "id": "overlay_female_worn_skirt",
-    "fg": [ "skirt_f" ],
+    "fg": "skirt_f",
     "bg": ""
   },
   {
     "id": "overlay_male_worn_skirt",
-    "fg": [ "skirt_m" ],
+    "fg": "skirt_m",
     "bg": ""
   },
   {
     "id": "overlay_female_worn_skirt_leather",
-    "fg": [ "skirt_leather_f" ],
+    "fg": "skirt_leather_f",
     "bg": ""
   },
   {
     "id": "overlay_male_worn_skirt_leather",
-    "fg": [ "skirt_leather_m" ],
+    "fg": "skirt_leather_m",
     "bg": ""
   }
 ]

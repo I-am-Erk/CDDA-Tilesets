@@ -2,10 +2,10 @@
   {
     "id": "f_grass_tall",
     "multitile": true,
-    "fg": [ "t_grass_tall_unconnected" ],
+    "fg": "t_grass_tall_unconnected",
     "bg": "",
     "additional_tiles": [
-      { "id": "center", "bg": "", "fg": [ "t_grass_tall_center" ] },
+      { "id": "center", "bg": "", "fg": "t_grass_tall_center" },
       {
         "id": "corner",
         "bg": "",
@@ -27,16 +27,16 @@
         "bg": "",
         "fg": [ "t_grass_tall_end_piece_n", "t_grass_tall_end_piece_w", "t_grass_tall_end_piece_s", "t_grass_tall_end_piece_e" ]
       },
-      { "bg": "", "id": "unconnected", "fg": [ "t_grass_tall_unconnected" ] }
+      { "bg": "", "id": "unconnected", "fg": "t_grass_tall_unconnected" }
     ]
   },
   {
     "id": "f_grass_tall_season_summer",
     "multitile": true,
-    "fg": [ "t_grass_tall_summer_unconnected" ],
+    "fg": "t_grass_tall_summer_unconnected",
     "bg": "",
     "additional_tiles": [
-      { "id": "center", "bg": "", "fg": [ "t_grass_tall_summer_center" ] },
+      { "id": "center", "bg": "", "fg": "t_grass_tall_summer_center" },
       {
         "id": "corner",
         "bg": "",
@@ -72,16 +72,16 @@
           "t_grass_tall_summer_end_piece_e"
         ]
       },
-      { "bg": "", "id": "unconnected", "fg": [ "t_grass_tall_summer_unconnected" ] }
+      { "bg": "", "id": "unconnected", "fg": "t_grass_tall_summer_unconnected" }
     ]
   },
   {
     "id": "f_grass_tall_season_autumn",
     "multitile": true,
-    "fg": [ "t_grass_tall_autumn_unconnected" ],
+    "fg": "t_grass_tall_autumn_unconnected",
     "bg": "",
     "additional_tiles": [
-      { "id": "center", "bg": "", "fg": [ "t_grass_tall_autumn_center" ] },
+      { "id": "center", "bg": "", "fg": "t_grass_tall_autumn_center" },
       {
         "id": "corner",
         "bg": "",
@@ -117,7 +117,7 @@
           "t_grass_tall_autumn_end_piece_e"
         ]
       },
-      { "bg": "", "id": "unconnected", "fg": [ "t_grass_tall_autumn_unconnected" ] }
+      { "bg": "", "id": "unconnected", "fg": "t_grass_tall_autumn_unconnected" }
     ]
   }
 ]

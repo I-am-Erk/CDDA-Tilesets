@@ -1,5 +1,5 @@
 {
   "id": "overlay_wielded_glass_shard",
-  "fg": ["glass_shard_mf"],
+  "fg": "glass_shard_mf",
   "bg": ""
 }

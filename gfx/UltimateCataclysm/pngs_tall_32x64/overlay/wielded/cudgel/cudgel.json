@@ -1,7 +1,7 @@
 [
   {
     "id": "overlay_wielded_cudgel",
-    "fg": [ "cudgel_mf" ],
+    "fg": "cudgel_mf",
     "bg": ""
   }
 ]

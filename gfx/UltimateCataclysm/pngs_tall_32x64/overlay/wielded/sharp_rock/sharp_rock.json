@@ -1,5 +1,5 @@
 {
   "id": "overlay_wielded_sharp_rock",
-  "fg": ["sharp_rock_mf"],
+  "fg": "sharp_rock_mf",
   "bg": ""
 }

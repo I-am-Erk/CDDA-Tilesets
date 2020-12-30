@@ -1,5 +1,5 @@
 {
   "id": "overlay_female_worn_touring_suit",
-  "fg": ["touring_suit_f"],
+  "fg": "touring_suit_f",
   "bg": ""
 }

@@ -63,12 +63,12 @@
   },
   {
     "id": "t_resin_hole_c",
-    "fg": [ "t_resin_hole_c" ],
+    "fg": "t_resin_hole_c",
     "bg": ""
   },
   {
     "id": "t_resin_hole_o",
-    "fg": [ "t_resin_hole_o" ],
+    "fg": "t_resin_hole_o",
     "bg": ""
   }
 ]

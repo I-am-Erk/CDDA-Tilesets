@@ -2,10 +2,10 @@
   {
     "id": [ "t_sidewalk", "t_sidewalk_bg_dp" ],
     "multitile": true,
-    "fg": [ "t_sidewalk_unconnected" ],
+    "fg": "t_sidewalk_unconnected",
     "bg": "",
     "additional_tiles": [
-      { "id": "center", "bg": "", "fg": [ "t_sidewalk_center" ] },
+      { "id": "center", "bg": "", "fg": "t_sidewalk_center" },
       {
         "id": "corner",
         "bg": "",
@@ -22,12 +22,12 @@
         "bg": "",
         "fg": [ "t_sidewalk_end_piece_n", "t_sidewalk_end_piece_w", "t_sidewalk_end_piece_s", "t_sidewalk_end_piece_e" ]
       },
-      { "bg": "", "id": "unconnected", "fg": [ "t_sidewalk_unconnected" ] }
+      { "bg": "", "id": "unconnected", "fg": "t_sidewalk_unconnected" }
     ]
   },
   {
     "id": "t_sidewalk_season_winter",
-    "fg": [ "snow_shallow_center" ],
+    "fg": "snow_shallow_center",
     "bg": ""
   }
 ]

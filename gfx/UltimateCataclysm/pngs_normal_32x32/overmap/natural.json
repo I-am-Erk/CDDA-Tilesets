@@ -1,23 +1,23 @@
 [
   {
-    "id": [ "unknown_terrain" ],
+    "id": "unknown_terrain",
     "fg": "t_rock_floor_center",
     "bg": ""
   },
   {
-    "id": [ "forest_water" ],
+    "id": "forest_water",
     "fg": "t_underbrush",
-    "bg": [ "t_water_sh_center" ]
+    "bg": "t_water_sh_center"
   },
   {
-    "id": [ "forest" ],
+    "id": "forest",
     "fg": "t_underbrush",
-    "bg": [ "t_grass" ]
+    "bg": "t_grass"
   },
   {
-    "id": [ "forest_thick" ],
+    "id": "forest_thick",
     "fg": "t_shrub",
-    "bg": [ "t_moss_center" ]
+    "bg": "t_moss_center"
   },
   {
     "id": [
@@ -61,13 +61,13 @@
     "bg": ""
   },
   {
-    "id": [ "river_center" ],
+    "id": "river_center",
     "fg": "t_water_moving_dp_center",
     "bg": ""
   },
   {
-    "id": [ "field" ],
+    "id": "field",
     "fg": "t_grass_dead_center",
-    "bg": [ "t_grass" ]
+    "bg": "t_grass"
   }
 ]

@@ -1,72 +1,72 @@
 [
   {
     "id": "overlay_female_mutation_SKIN_MEDIUM",
-    "fg": [ "skin_brown_f" ],
+    "fg": "skin_brown_f",
     "bg": ""
   },
   {
     "id": "overlay_male_mutation_SKIN_MEDIUM",
-    "fg": [ "skin_brown_m" ],
+    "fg": "skin_brown_m",
     "bg": ""
   },
   {
     "id": "overlay_female_mutation_SKIN_DARK",
-    "fg": [ "skin_dark_f" ],
+    "fg": "skin_dark_f",
     "bg": ""
   },
   {
     "id": "overlay_male_mutation_SKIN_DARK",
-    "fg": [ "skin_dark_m" ],
+    "fg": "skin_dark_m",
     "bg": ""
   },
   {
     "id": "overlay_female_mutation_SKIN_LIGHT",
-    "fg": [ "skin_light_f" ],
+    "fg": "skin_light_f",
     "bg": ""
   },
   {
     "id": "overlay_male_mutation_SKIN_LIGHT",
-    "fg": [ "skin_light_m" ],
+    "fg": "skin_light_m",
     "bg": ""
   },
   {
     "id": "overlay_female_mutation_SKIN_PINK",
-    "fg": [ "skin_rose_f" ],
+    "fg": "skin_rose_f",
     "bg": ""
   },
   {
     "id": "overlay_male_mutation_SKIN_PINK",
-    "fg": [ "skin_rose_m" ],
+    "fg": "skin_rose_m",
     "bg": ""
   },
   {
     "id": "overlay_female_mutation_SKIN_TAN",
-    "fg": [ "skin_tan_f" ],
+    "fg": "skin_tan_f",
     "bg": ""
   },
   {
     "id": "overlay_male_mutation_SKIN_TAN",
-    "fg": [ "skin_tan_m" ],
+    "fg": "skin_tan_m",
     "bg": ""
   },
   {
     "id": "overlay_female_mutation_PALE",
-    "fg": [ "pale_f" ],
+    "fg": "pale_f",
     "bg": ""
   },
   {
     "id": "overlay_male_mutation_PALE",
-    "fg": [ "pale_m" ],
+    "fg": "pale_m",
     "bg": ""
   },
   {
     "id": "overlay_female_mutation_ALBINO",
-    "fg": [ "overlay_female_mutation_ALBINO" ],
+    "fg": "overlay_female_mutation_ALBINO",
     "bg": ""
   },
   {
     "id": "overlay_male_mutation_ALBINO",
-    "fg": [ "overlay_male_mutation_ALBINO" ],
+    "fg": "overlay_male_mutation_ALBINO",
     "bg": ""
   }
 ]

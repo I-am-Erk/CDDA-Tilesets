@@ -1,5 +1,5 @@
 {
   "id": "overlay_male_wielded_stick",
-  "fg": ["stick_m"],
+  "fg": "stick_m",
   "bg": ""
 }

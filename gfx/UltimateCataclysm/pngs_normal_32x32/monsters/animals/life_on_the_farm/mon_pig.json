@@ -5,5 +5,5 @@
     { "weight": 3, "sprite": "mon_dirt_pig" },
     { "weight": 1, "sprite": "mon_fat_pig" }
   ],
-  "bg": ["shadow_32x32_normal"]
+  "bg": "shadow_32x32_normal"
 }

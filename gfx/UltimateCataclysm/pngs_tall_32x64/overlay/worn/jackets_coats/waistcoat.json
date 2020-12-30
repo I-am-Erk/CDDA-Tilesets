@@ -1,12 +1,12 @@
 [
   {
     "id": "overlay_female_worn_waistcoat",
-    "fg": [ "waistcoat_f" ],
+    "fg": "waistcoat_f",
     "bg": ""
   },
   {
     "id": "overlay_female_worn_waistcoat",
-    "fg": [ "waistcoat_m" ],
+    "fg": "waistcoat_m",
     "bg": ""
   }
 ]

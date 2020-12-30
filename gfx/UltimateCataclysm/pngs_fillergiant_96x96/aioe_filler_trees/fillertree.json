@@ -13,37 +13,37 @@
       { "weight": 100, "sprite": "t_tree_season_spring3" },
       { "weight": 100, "sprite": "t_tree_season_spring4" }
     ],
-    "bg": [ "t_grass_giant" ]
+    "bg": "t_grass_giant"
   },
   {
     "id": "t_tree_apricot_season_summer",
     "fg": "t_tree_apricot",
-    "bg": [ "t_grass_summer_giant" ]
+    "bg": "t_grass_summer_giant"
   },
   {
     "id": "t_tree_cherry_season_summer",
     "fg": "t_tree_cherry",
-    "bg": [ "t_grass_summer_giant" ]
+    "bg": "t_grass_summer_giant"
   },
   {
     "id": "t_tree_mulberry_season_summer",
     "fg": "t_tree_mulberry",
-    "bg": [ "t_grass_summer_giant" ]
+    "bg": "t_grass_summer_giant"
   },
   {
     "id": "t_tree_elderberry_season_summer",
     "fg": "t_tree_mulberry",
-    "bg": [ "t_grass_summer_giant" ]
+    "bg": "t_grass_summer_giant"
   },
   {
     "id": "t_tree_pear_season_autumn",
     "fg": "t_tree_pear",
-    "bg": [ "t_grass_summer_giant" ]
+    "bg": "t_grass_summer_giant"
   },
   {
     "id": "t_tree_plum_season_summer",
     "fg": "t_tree_plum",
-    "bg": [ "t_grass_summer_giant" ]
+    "bg": "t_grass_summer_giant"
   },
   {
     "id": [
@@ -59,7 +59,7 @@
       { "weight": 100, "sprite": "t_tree3" },
       { "weight": 100, "sprite": "t_tree4" }
     ],
-    "bg": [ "t_grass_summer_giant" ]
+    "bg": "t_grass_summer_giant"
   },
   {
     "id": [
@@ -75,7 +75,7 @@
       { "weight": 100, "sprite": "t_tree_season_autumn3" },
       { "weight": 100, "sprite": "t_tree_season_autumn4" }
     ],
-    "bg": [ "t_grass_autumn_giant" ]
+    "bg": "t_grass_autumn_giant"
   },
   {
     "id": [
@@ -91,6 +91,6 @@
       { "weight": 100, "sprite": "t_tree_dead3" },
       { "weight": 100, "sprite": "t_tree_dead4" }
     ],
-    "bg": [ "snow_shallow_giant" ]
+    "bg": "snow_shallow_giant"
   }
 ]

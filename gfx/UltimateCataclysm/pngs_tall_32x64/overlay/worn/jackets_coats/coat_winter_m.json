@@ -1,5 +1,5 @@
 {
   "id": "overlay_male_worn_coat_winter",
-  "fg": ["coat_winter_m"],
+  "fg": "coat_winter_m",
   "bg": ""
 }

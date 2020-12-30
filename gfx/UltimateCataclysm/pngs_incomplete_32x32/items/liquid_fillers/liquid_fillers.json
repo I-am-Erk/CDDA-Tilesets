@@ -150,7 +150,7 @@
       "wine_chardonnay",
       "drink_martini"
     ],
-    "fg": [ "liquid_generic" ],
+    "fg": "liquid_generic",
     "bg": ""
   },
   {
@@ -192,7 +192,7 @@
       "soup_tomato",
       "young_yeast"
     ],
-    "fg": [ "liquid_white" ],
+    "fg": "liquid_white",
     "bg": ""
   },
   {
@@ -215,7 +215,7 @@
       "hi_q_distillate_tails",
       "hi_q_distillate"
     ],
-    "fg": [ "liquid_oily" ],
+    "fg": "liquid_oily",
     "bg": ""
   }
 ]

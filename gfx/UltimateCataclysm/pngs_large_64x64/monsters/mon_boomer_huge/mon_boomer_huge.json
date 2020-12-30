@@ -1,5 +1,5 @@
 {
   "id": "mon_boomer_huge",
-  "fg": [ "mon_boomer_huge" ],
-  "bg": ["shadow_64x64_medium"]
+  "fg": "mon_boomer_huge",
+  "bg": "shadow_64x64_medium"
 }

@@ -2,10 +2,10 @@
   {
     "id": "f_console",
     "multitile": true,
-    "fg": [ "f_console_unconnected" ],
+    "fg": "f_console_unconnected",
     "bg": "",
     "additional_tiles": [
-      { "id": "center", "bg": "", "fg": [ "f_console_center" ] },
+      { "id": "center", "bg": "", "fg": "f_console_center" },
       {
         "id": "corner",
         "bg": "",
@@ -28,10 +28,10 @@
   {
     "id": "f_console_broken",
     "multitile": true,
-    "fg": [ "f_console_broken_unconnected_faceS" ],
+    "fg": "f_console_broken_unconnected_faceS",
     "bg": "",
     "additional_tiles": [
-      { "id": "center", "bg": "", "fg": [ "f_console_broken_center" ] },
+      { "id": "center", "bg": "", "fg": "f_console_broken_center" },
       {
         "id": "corner",
         "bg": "",

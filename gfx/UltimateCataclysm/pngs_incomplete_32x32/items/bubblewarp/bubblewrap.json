@@ -1,5 +1,5 @@
 {
   "id": "bubblewrap",
-  "fg": ["bubblewrap"],
+  "fg": "bubblewrap",
   "bg": ""
 }

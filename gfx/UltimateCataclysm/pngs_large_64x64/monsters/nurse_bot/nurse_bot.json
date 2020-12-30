@@ -1,12 +1,12 @@
 [
   {
     "id": "mon_nursebot_defective",
-    "fg": [ "mon_nursebot_defective" ],
-    "bg": [ "shadow_64x64_normal" ]
+    "fg": "mon_nursebot_defective",
+    "bg": "shadow_64x64_normal"
   },
   {
     "id": "mon_nursebot",
-    "fg": [ "mon_nursebot" ],
-    "bg": [ "shadow_64x64_normal" ]
+    "fg": "mon_nursebot",
+    "bg": "shadow_64x64_normal"
   }
 ]

@@ -1,7 +1,7 @@
 [
   {
     "id": "mon_spawn_raptor",
-    "fg": [ "mon_spawn_raptor" ],
-    "bg": [ "shadow_32x32_normal" ]
+    "fg": "mon_spawn_raptor",
+    "bg": "shadow_32x32_normal"
   }
 ]

@@ -6,5 +6,5 @@
     { "weight": 5, "sprite": "mon_zombie_child_1_tall" },
     { "weight": 5, "sprite": "mon_zombie_child_2_tall" }
   ],
-  "bg": ["shadow_32x32_small"]
+  "bg": "shadow_32x32_small"
 }

@@ -91,7 +91,7 @@
   },
   {
     "id": [ "vp_halfboard_horizontal", "vp_halfboard_horizontal_2" ],
-    "fg": [ "vp_halfboard_horizontal" ],
+    "fg": "vp_halfboard_horizontal",
     "rotates": true,
     "bg": ""
   },
@@ -141,7 +141,7 @@
   },
   {
     "id": [ "vp_halfboard_vertical", "vp_halfboard_vertical_2" ],
-    "fg": [ "vp_halfboard_vertical" ],
+    "fg": "vp_halfboard_vertical",
     "rotates": true,
     "bg": ""
   },

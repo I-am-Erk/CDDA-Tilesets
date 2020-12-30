@@ -2,10 +2,10 @@
   {
     "id": "t_concrete",
     "multitile": true,
-    "fg": [ "t_concrete_unconnected" ],
+    "fg": "t_concrete_unconnected",
     "bg": "",
     "additional_tiles": [
-      { "id": "center", "bg": "", "fg": [ "t_concrete_center" ] },
+      { "id": "center", "bg": "", "fg": "t_concrete_center" },
       {
         "id": "corner",
         "bg": "",
@@ -22,12 +22,12 @@
         "bg": "",
         "fg": [ "t_concrete_end_piece_n", "t_concrete_end_piece_w", "t_concrete_end_piece_s", "t_concrete_end_piece_e" ]
       },
-      { "bg": "", "id": "unconnected", "fg": [ "t_concrete_unconnected" ] }
+      { "bg": "", "id": "unconnected", "fg": "t_concrete_unconnected" }
     ]
   },
   {
     "id": "t_concrete_season_winter",
-    "fg": [ "snow_shallow_center" ],
+    "fg": "snow_shallow_center",
     "bg": ""
   }
 ]

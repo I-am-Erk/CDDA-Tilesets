@@ -6,7 +6,7 @@
   "bg": ""
 },{
   "id": "cable",
-  "fg": ["cable"],
+  "fg": "cable",
   "bg": ""
 }
 ]
