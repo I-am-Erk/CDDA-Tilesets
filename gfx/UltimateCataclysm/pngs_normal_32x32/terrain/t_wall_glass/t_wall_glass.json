@@ -2,9 +2,7 @@
   "id": [ "t_wall_glass", "t_wall_glass_alarm" ],
   "multitile": true,
   "fg": "t_wall_glass_unconnected",
-  "bg": [
-    
-  ],
+  "bg": "",
   "additional_tiles": [
     { "id": "center", "bg": "", "fg": "t_wall_glass_center" },
     {
