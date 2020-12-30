@@ -1,17 +1,13 @@
 {
   "id": "f_planter_harvest",
   "multitile": true,
-  "fg": [
-    "f_planter_harvest_unconnected"
-  ],
+  "fg": "f_planter_harvest_unconnected",
   "bg": "",
   "additional_tiles": [
     {
       "id": "center",
       "bg": "",
-      "fg": [
-        "f_planter_harvest_center"
-      ]
+      "fg": "f_planter_harvest_center"
     },
     {
       "id": "corner",

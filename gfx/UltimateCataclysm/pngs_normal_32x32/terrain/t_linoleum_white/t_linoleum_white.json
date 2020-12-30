@@ -1,17 +1,13 @@
 {
   "id": [ "t_linoleum_white", "t_linoleum_white_no_roof" ],
   "multitile": true,
-  "fg": [
-    "t_linoleum_white_unconnected"
-  ],
+  "fg": "t_linoleum_white_unconnected",
   "bg": "",
   "additional_tiles": [
     {
       "id": "center",
       "bg": "",
-      "fg": [
-        "t_linoleum_white_center"
-      ]
+      "fg": "t_linoleum_white_center"
     },
     {
       "id": "corner",
@@ -54,9 +50,7 @@
     {
       "bg": "",
       "id": "unconnected",
-      "fg": [
-        "t_linoleum_white_unconnected"
-      ]
+      "fg": "t_linoleum_white_unconnected"
     }
   ]
 }

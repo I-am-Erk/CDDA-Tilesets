@@ -1,17 +1,13 @@
 {
   "id": "t_scrap_wall",
   "multitile": true,
-  "fg": [
-    "f_scrap_wall_unconnected"
-  ],
+  "fg": "f_scrap_wall_unconnected",
   "bg": "",
   "additional_tiles": [
     {
       "id": "center",
       "bg": "",
-      "fg": [
-        "f_scrap_wall_center"
-      ]
+      "fg": "f_scrap_wall_center"
     },
     {
       "id": "corner",
@@ -54,9 +50,7 @@
     {
       "bg": "",
       "id": "unconnected",
-      "fg": [
-        "f_scrap_wall_unconnected"
-      ]
+      "fg": "f_scrap_wall_unconnected"
     }
   ]
 }

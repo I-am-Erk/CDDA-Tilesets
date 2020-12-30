@@ -1,17 +1,13 @@
 {
   "id": "t_railing",
   "multitile": true,
-  "fg": [
-    "t_railing_unconnected"
-  ],
+  "fg": "t_railing_unconnected",
   "bg": "t_concrete_unconnected",
   "additional_tiles": [
     {
       "id": "center",
       "bg": "t_concrete_unconnected",
-      "fg": [
-        "t_railing_center"
-      ]
+      "fg": "t_railing_center"
     },
     {
       "id": "corner",

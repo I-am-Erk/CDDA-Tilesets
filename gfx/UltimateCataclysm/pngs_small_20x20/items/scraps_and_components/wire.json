@@ -1,8 +1,6 @@
 [{
   "id": "wire",
-  "fg": [
-    "wire"
-  ],
+  "fg": "wire",
   "bg": ""
 },{
   "id": "cable",

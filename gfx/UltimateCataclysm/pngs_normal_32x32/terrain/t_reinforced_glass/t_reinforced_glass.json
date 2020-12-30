@@ -1,17 +1,13 @@
 {
   "id": "t_reinforced_glass",
   "multitile": true,
-  "fg": [
-    "t_reinforced_glass_unconnected"
-  ],
+  "fg": "t_reinforced_glass_unconnected",
   "bg": "",
   "additional_tiles": [
     {
       "id": "center",
       "bg": "",
-      "fg": [
-        "t_reinforced_glass_center"
-      ]
+      "fg": "t_reinforced_glass_center"
     },
     {
       "id": "corner",
@@ -54,9 +50,7 @@
     {
       "bg": "",
       "id": "unconnected",
-      "fg": [
-        "t_reinforced_glass_unconnected"
-      ]
+      "fg": "t_reinforced_glass_unconnected"
     }
   ]
 }

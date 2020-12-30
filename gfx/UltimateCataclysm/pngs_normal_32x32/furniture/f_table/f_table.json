@@ -1,17 +1,13 @@
 {
   "id": "f_table",
   "multitile": true,
-  "fg": [
-    "f_table_unconnected"
-  ],
+  "fg": "f_table_unconnected",
   "bg": "",
   "additional_tiles": [
     {
       "id": "center",
       "bg": "",
-      "fg": [
-        "f_table_center"
-      ]
+      "fg": "f_table_center"
     },
     {
       "id": "corner",

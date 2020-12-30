@@ -1,17 +1,13 @@
 {
   "id": "f_sandbag_half",
   "multitile": true,
-  "fg": [
-    "f_sandbag_half_unconnected"
-  ],
+  "fg": "f_sandbag_half_unconnected",
   "bg": "",
   "additional_tiles": [
     {
       "id": "center",
       "bg": "",
-      "fg": [
-        "f_sandbag_half_center"
-      ]
+      "fg": "f_sandbag_half_center"
     },
     {
       "id": "corner",

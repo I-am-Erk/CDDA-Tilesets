@@ -1,17 +1,13 @@
 {
   "id": [ "t_wall_wood", "t_wall_wood_chipped", "t_wall_wood_broken" ],
   "multitile": true,
-  "fg": [
-    "t_wall_wood_unconnected"
-  ],
+  "fg": "t_wall_wood_unconnected",
   "bg": "",
   "additional_tiles": [
     {
       "id": "center",
       "bg": "",
-      "fg": [
-        "t_wall_wood_center"
-      ]
+      "fg": "t_wall_wood_center"
     },
     {
       "id": "corner",
@@ -54,9 +50,7 @@
     {
       "bg": "",
       "id": "unconnected",
-      "fg": [
-        "t_wall_wood_unconnected"
-      ]
+      "fg": "t_wall_wood_unconnected"
     }
   ]
 }

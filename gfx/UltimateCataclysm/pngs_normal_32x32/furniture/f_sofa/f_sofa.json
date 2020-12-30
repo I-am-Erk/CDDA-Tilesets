@@ -1,17 +1,13 @@
 {
   "id": "f_sofa",
   "multitile": true,
-  "fg": [
-    "f_sofa_unconnected"
-  ],
+  "fg": "f_sofa_unconnected",
   "bg": "",
   "additional_tiles": [
     {
       "id": "center",
       "bg": "",
-      "fg": [
-        "f_sofa_center"
-      ]
+      "fg": "f_sofa_center"
     },
     {
       "id": "corner",

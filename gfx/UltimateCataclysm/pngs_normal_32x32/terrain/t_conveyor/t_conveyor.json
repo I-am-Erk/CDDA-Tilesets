@@ -1,17 +1,13 @@
 {
   "id": "t_conveyor",
   "multitile": true,
-  "fg": [
-    "t_conveyor_unconnected"
-  ],
+  "fg": "t_conveyor_unconnected",
   "bg": "t_thconc_floor_center",
   "additional_tiles": [
     {
       "id": "center",
       "bg": "t_thconc_floor_center",
-      "fg": [
-        "t_conveyor_center"
-      ]
+      "fg": "t_conveyor_center"
     },
     {
       "id": "corner",

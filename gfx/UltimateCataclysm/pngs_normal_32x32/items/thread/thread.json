@@ -1,7 +1,5 @@
 {
   "id": "thread",
-  "fg": [
-    "thread"
-  ],
+  "fg": "thread",
   "bg": ""
 }

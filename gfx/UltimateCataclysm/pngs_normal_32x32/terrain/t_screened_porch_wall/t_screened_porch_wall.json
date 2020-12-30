@@ -1,17 +1,13 @@
 {
   "id": "t_screened_porch_wall",
   "multitile": true,
-  "fg": [
-    "t_screened_porch_wall_unconnected"
-  ],
+  "fg": "t_screened_porch_wall_unconnected",
   "bg": "t_floor_unconnected",
   "additional_tiles": [
     {
       "id": "center",
       "bg": "t_floor_unconnected",
-      "fg": [
-        "t_screened_porch_wall_center"
-      ]
+      "fg": "t_screened_porch_wall_center"
     },
     {
       "id": "corner",

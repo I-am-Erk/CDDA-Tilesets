@@ -1,9 +1,7 @@
 {
   "id": "t_carpet_purple",
   "multitile": true,
-  "fg": [
-    "t_carpet_purple_unconnected"
-  ],
+  "fg": "t_carpet_purple_unconnected",
   "bg": "",
   "additional_tiles": [
     {
@@ -57,9 +55,7 @@
     {
       "bg": "",
       "id": "unconnected",
-      "fg": [
-        "t_carpet_purple_unconnected"
-      ]
+      "fg": "t_carpet_purple_unconnected"
     }
   ]
 }

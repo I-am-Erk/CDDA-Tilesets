@@ -1,7 +1,5 @@
 {
   "id": "overlay_female_wielded_pot",
-  "fg": [
-    "pot_f"
-  ],
+  "fg": "pot_f",
   "bg": ""
 }

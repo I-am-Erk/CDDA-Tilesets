@@ -1,16 +1,12 @@
 [
   {
     "id": "overlay_female_worn_ragpouch",
-    "fg": [
-      "ragpouch_f"
-    ],
+    "fg": "ragpouch_f",
     "bg": ""
   },
   {
     "id": "overlay_male_worn_ragpouch",
-    "fg": [
-      "ragpouch_m"
-    ],
+    "fg": "ragpouch_m",
     "bg": ""
   }
 ]

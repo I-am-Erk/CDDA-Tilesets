@@ -1,17 +1,13 @@
 {
   "id": "f_cupboard",
   "multitile": true,
-  "fg": [
-    "f_cupboard_unconnected"
-  ],
+  "fg": "f_cupboard_unconnected",
   "bg": "",
   "additional_tiles": [
     {
       "id": "center",
       "bg": "",
-      "fg": [
-        "f_cupboard_center"
-      ]
+      "fg": "f_cupboard_center"
     },
     {
       "id": "corner",

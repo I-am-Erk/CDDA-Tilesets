@@ -1,17 +1,13 @@
 {
   "id": "f_sink",
   "multitile": true,
-  "fg": [
-    "f_sink_unconnected"
-  ],
+  "fg": "f_sink_unconnected",
   "bg": "",
   "additional_tiles": [
     {
       "id": "center",
       "bg": "",
-      "fg": [
-        "f_sink_center"
-      ]
+      "fg": "f_sink_center"
     },
     {
       "id": "corner",
@@ -54,9 +50,7 @@
     {
       "bg": "",
       "id": "unconnected",
-      "fg": [
-        "f_sink_unconnected"
-      ]
+      "fg": "f_sink_unconnected"
     }
   ]
 }

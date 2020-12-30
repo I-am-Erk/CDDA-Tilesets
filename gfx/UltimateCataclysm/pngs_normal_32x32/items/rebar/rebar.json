@@ -1,7 +1,5 @@
 {
   "id": "rebar",
-  "fg": [
-    "rebar"
-  ],
+  "fg": "rebar",
   "bg": ""
 }

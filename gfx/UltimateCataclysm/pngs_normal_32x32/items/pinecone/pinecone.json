@@ -1,7 +1,5 @@
 {
   "id": "pinecone",
-  "fg": [
-    "pinecone"
-  ],
+  "fg": "pinecone",
   "bg": ""
 }

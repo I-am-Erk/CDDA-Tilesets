@@ -1,17 +1,13 @@
 {
   "id": "t_strconc_floor",
   "multitile": true,
-  "fg": [
-    "t_strconc_floor_unconnected"
-  ],
+  "fg": "t_strconc_floor_unconnected",
   "bg": "",
   "additional_tiles": [
     {
       "id": "center",
       "bg": "",
-      "fg": [
-        "t_strconc_floor_center"
-      ]
+      "fg": "t_strconc_floor_center"
     },
     {
       "id": "corner",
@@ -54,9 +50,7 @@
     {
       "bg": "",
       "id": "unconnected",
-      "fg": [
-        "t_strconc_floor_unconnected"
-      ]
+      "fg": "t_strconc_floor_unconnected"
     }
   ]
 }

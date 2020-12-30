@@ -1,17 +1,13 @@
 {
   "id": "t_bridge",
   "multitile": true,
-  "fg": [
-    "t_bridge_unconnected"
-  ],
+  "fg": "t_bridge_unconnected",
   "bg": "",
   "additional_tiles": [
     {
       "id": "center",
       "bg": "",
-      "fg": [
-        "t_bridge_center"
-      ]
+      "fg": "t_bridge_center"
     },
     {
       "id": "corner",

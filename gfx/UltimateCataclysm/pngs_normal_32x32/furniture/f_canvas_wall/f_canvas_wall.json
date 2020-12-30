@@ -1,17 +1,13 @@
 {
   "id": [ "f_canvas_wall", "f_large_canvas_wall" ],
   "multitile": true,
-  "fg": [
-    "f_canvas_wall_unconnected"
-  ],
+  "fg": "f_canvas_wall_unconnected",
   "bg": "",
   "additional_tiles": [
     {
       "id": "center",
       "bg": "",
-      "fg": [
-        "f_canvas_wall_center"
-      ]
+      "fg": "f_canvas_wall_center"
     },
     {
       "id": "corner",
@@ -54,9 +50,7 @@
     {
       "bg": "",
       "id": "unconnected",
-      "fg": [
-        "f_canvas_wall_unconnected"
-      ]
+      "fg": "f_canvas_wall_unconnected"
     }
   ]
 }

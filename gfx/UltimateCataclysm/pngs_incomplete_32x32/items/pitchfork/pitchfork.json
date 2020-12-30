@@ -1,7 +1,5 @@
 {
   "id": "pitchfork",
-  "fg": [
-    "pitchfork"
-  ],
+  "fg": "pitchfork",
   "bg": ""
 }

@@ -1,17 +1,13 @@
 {
   "id": "t_wall_g",
   "multitile": true,
-  "fg": [
-    "t_wall_g_unconnected"
-  ],
+  "fg": "t_wall_g_unconnected",
   "bg": "",
   "additional_tiles": [
     {
       "id": "center",
       "bg": "",
-      "fg": [
-        "t_wall_g_center"
-      ]
+      "fg": "t_wall_g_center"
     },
     {
       "id": "corner",
@@ -54,9 +50,7 @@
     {
       "bg": "",
       "id": "unconnected",
-      "fg": [
-        "t_wall_g_unconnected"
-      ]
+      "fg": "t_wall_g_unconnected"
     }
   ]
 }

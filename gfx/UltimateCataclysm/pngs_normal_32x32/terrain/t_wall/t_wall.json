@@ -1,9 +1,7 @@
 {
   "id": "t_wall",
   "multitile": true,
-  "fg": [
-    "t_wall_unconnected"
-  ],
+  "fg": "t_wall_unconnected",
   "bg": [
     
   ],

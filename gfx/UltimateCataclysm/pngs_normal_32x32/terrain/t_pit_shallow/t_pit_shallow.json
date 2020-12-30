@@ -1,9 +1,7 @@
 [
 {
   "id": "t_pit_shallow",
-  "fg": [
-    "t_pit_shallow_unconnected"
-  ],
+  "fg": "t_pit_shallow_unconnected",
   "bg": [
     { "weight": 100, "sprite": "t_grass" },
     { "weight": 100, "sprite": "t_grass_center2" }
@@ -12,9 +10,7 @@
   "additional_tiles": [
     {
       "id": "center",
-      "fg": [
-        "t_pit_shallow_center"
-      ],
+      "fg": "t_pit_shallow_center",
       "bg": [
         { "weight": 100, "sprite": "t_grass" },
         { "weight": 100, "sprite": "t_grass_center2" }
@@ -79,9 +75,7 @@
   ]
 }, {
   "id": "t_pit_shallow_season_summer",
-  "fg": [
-    "t_pit_shallow_unconnected"
-  ],
+  "fg": "t_pit_shallow_unconnected",
   "bg": [
     { "weight": 100, "sprite": "t_grass_summer" },
     { "weight": 100, "sprite": "t_grass_summer_center2" }
@@ -90,9 +84,7 @@
   "additional_tiles": [
     {
       "id": "center",
-      "fg": [
-        "t_pit_shallow_center"
-      ],
+      "fg": "t_pit_shallow_center",
       "bg": [
         { "weight": 100, "sprite": "t_grass_summer" },
         { "weight": 100, "sprite": "t_grass_summer_center2" }
@@ -157,9 +149,7 @@
   ]
 }, {
   "id": "t_pit_shallow_season_autumn",
-  "fg": [
-    "t_pit_shallow_unconnected"
-  ],
+  "fg": "t_pit_shallow_unconnected",
   "bg": [
     { "weight": 100, "sprite": "t_grass_autumn" },
     { "weight": 100, "sprite": "t_grass_autumn_center2" }
@@ -168,9 +158,7 @@
   "additional_tiles": [
     {
       "id": "center",
-      "fg": [
-        "t_pit_shallow_center"
-      ],
+      "fg": "t_pit_shallow_center",
       "bg": [
         { "weight": 100, "sprite": "t_grass_autumn" },
         { "weight": 100, "sprite": "t_grass_autumn_center2" }
@@ -235,9 +223,7 @@
   ]
 }, {
   "id": "t_pit_shallow_season_winter",
-  "fg": [
-    "t_pit_shallow_unconnected"
-  ],
+  "fg": "t_pit_shallow_unconnected",
   "bg": [
     { "weight": 100, "sprite": "snow_shallow_center" },
     { "weight": 100, "sprite": "snow_shallow_center2" }
@@ -246,9 +232,7 @@
   "additional_tiles": [
     {
       "id": "center",
-      "fg": [
-        "t_pit_shallow_center"
-      ],
+      "fg": "t_pit_shallow_center",
       "bg": [
         { "weight": 100, "sprite": "snow_shallow_center" },
         { "weight": 100, "sprite": "snow_shallow_center2" }

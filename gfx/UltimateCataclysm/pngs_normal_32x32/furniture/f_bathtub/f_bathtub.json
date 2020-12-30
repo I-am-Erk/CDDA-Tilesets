@@ -1,17 +1,13 @@
 {
   "id": "f_bathtub",
   "multitile": true,
-  "fg": [
-    "f_bathtub_unconnected"
-  ],
+  "fg": "f_bathtub_unconnected",
   "bg": "",
   "additional_tiles": [
     {
       "id": "center",
       "bg": "",
-      "fg": [
-        "f_bathtub_center"
-      ]
+      "fg": "f_bathtub_center"
     },
     {
       "id": "corner",

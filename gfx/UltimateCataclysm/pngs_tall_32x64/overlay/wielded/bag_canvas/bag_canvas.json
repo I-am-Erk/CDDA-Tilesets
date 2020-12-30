@@ -1,7 +1,5 @@
 {
   "id": "overlay_wielded_bag_canvas",
-  "fg": [
-    "bag_canvas_mf"
-  ],
+  "fg": "bag_canvas_mf",
   "bg": ""
 }

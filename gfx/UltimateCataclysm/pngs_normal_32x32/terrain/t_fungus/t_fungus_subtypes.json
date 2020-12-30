@@ -1,17 +1,13 @@
 {
   "id": ["t_fungus_floor_in", "t_fungus_floor_sup"],
   "multitile": true,
-  "fg": [
-    "t_fungus_unconnected"
-  ],
+  "fg": "t_fungus_unconnected",
   "bg": "t_thconc_floor_center",
   "additional_tiles": [
     {
       "id": "center",
       "bg": "t_thconc_floor_center",
-      "fg": [
-        "t_fungus_center"
-      ]
+      "fg": "t_fungus_center"
     },
     {
       "id": "corner",

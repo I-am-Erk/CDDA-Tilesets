@@ -1,17 +1,13 @@
 {
   "id": "t_adobe_brick_wall",
   "multitile": true,
-  "fg": [
-    "t_adobe_brick_wall_unconnected"
-  ],
+  "fg": "t_adobe_brick_wall_unconnected",
   "bg": "",
   "additional_tiles": [
     {
       "id": "center",
       "bg": "",
-      "fg": [
-        "t_adobe_brick_wall_center"
-      ]
+      "fg": "t_adobe_brick_wall_center"
     },
     {
       "id": "corner",

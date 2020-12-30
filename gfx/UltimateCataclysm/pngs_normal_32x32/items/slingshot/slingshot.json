@@ -1,7 +1,5 @@
 {
   "id": "slingshot",
-  "fg": [
-    "slingshot"
-  ],
+  "fg": "slingshot",
   "bg": ""
 }

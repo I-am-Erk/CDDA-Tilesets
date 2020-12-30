@@ -1,17 +1,13 @@
 {
   "id": "f_counter",
   "multitile": true,
-  "fg": [
-    "f_counter_unconnected"
-  ],
+  "fg": "f_counter_unconnected",
   "bg": "",
   "additional_tiles": [
     {
       "id": "center",
       "bg": "",
-      "fg": [
-        "f_counter_center"
-      ]
+      "fg": "f_counter_center"
     },
     {
       "id": "corner",

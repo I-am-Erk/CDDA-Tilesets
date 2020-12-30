@@ -1,17 +1,13 @@
 {
   "id": "f_bench",
   "multitile": true,
-  "fg": [
-    "f_bench_unconnected"
-  ],
+  "fg": "f_bench_unconnected",
   "bg": "",
   "additional_tiles": [
     {
       "id": "center",
       "bg": "",
-      "fg": [
-        "f_bench_center"
-      ]
+      "fg": "f_bench_center"
     },
     {
       "id": "corner",

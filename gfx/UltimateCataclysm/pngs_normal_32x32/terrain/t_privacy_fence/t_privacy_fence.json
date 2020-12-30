@@ -2,17 +2,13 @@
 {
   "id": "t_privacy_fence",
   "multitile": true,
-  "fg": [
-    "t_privacy_fence_unconnected"
-  ],
+  "fg": "t_privacy_fence_unconnected",
   "bg": "t_grass",
   "additional_tiles": [
     {
       "id": "center",
       "bg": "t_grass",
-      "fg": [
-        "t_privacy_fence_center"
-      ]
+      "fg": "t_privacy_fence_center"
     },
     {
       "id": "corner",
@@ -64,17 +60,13 @@
 },{
   "id": "t_privacy_fence_season_winter",
   "multitile": true,
-  "fg": [
-    "t_privacy_fence_unconnected"
-  ],
+  "fg": "t_privacy_fence_unconnected",
   "bg": "snow_shallow_center",
   "additional_tiles": [
     {
       "id": "center",
       "bg": "snow_shallow_center",
-      "fg": [
-        "t_privacy_fence_center"
-      ]
+      "fg": "t_privacy_fence_center"
     },
     {
       "id": "corner",

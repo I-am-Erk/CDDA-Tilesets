@@ -4,9 +4,7 @@
     "t_water_pool_shallow"
   ],
   "multitile": true,
-  "fg": [
-    "t_water_pool_unconnected"
-  ],
+  "fg": "t_water_pool_unconnected",
   "bg": "",
   "additional_tiles": [
     {

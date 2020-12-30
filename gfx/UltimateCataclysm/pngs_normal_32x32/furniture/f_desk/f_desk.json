@@ -1,17 +1,13 @@
 {
   "id": "f_desk",
   "multitile": true,
-  "fg": [
-    "f_desk_unconnected"
-  ],
+  "fg": "f_desk_unconnected",
   "bg": "",
   "additional_tiles": [
     {
       "id": "center",
       "bg": "",
-      "fg": [
-        "f_desk_center"
-      ]
+      "fg": "f_desk_center"
     },
     {
       "id": "corner",

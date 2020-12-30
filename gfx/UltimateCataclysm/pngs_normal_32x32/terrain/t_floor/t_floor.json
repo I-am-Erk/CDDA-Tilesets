@@ -1,9 +1,7 @@
 {
   "id": "t_floor",
   "multitile": true,
-  "fg": [
-    "t_floor_unconnected"
-  ],
+  "fg": "t_floor_unconnected",
   "bg": "",
   "additional_tiles": [
     {
@@ -56,9 +54,7 @@
     {
       "bg": "",
       "id": "unconnected",
-      "fg": [
-        "t_floor_unconnected"
-      ]
+      "fg": "t_floor_unconnected"
     }
   ]
 }

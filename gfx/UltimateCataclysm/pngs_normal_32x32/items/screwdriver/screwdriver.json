@@ -1,7 +1,5 @@
 {
   "id": "screwdriver",
-  "fg": [
-    "screwdriver"
-  ],
+  "fg": "screwdriver",
   "bg": ""
 }

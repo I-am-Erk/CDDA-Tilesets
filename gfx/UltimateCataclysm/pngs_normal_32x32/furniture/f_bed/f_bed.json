@@ -1,17 +1,13 @@
 {
   "id": "f_bed",
   "multitile": true,
-  "fg": [
-    "f_bed_unconnected"
-  ],
+  "fg": "f_bed_unconnected",
   "bg": "",
   "additional_tiles": [
     {
       "id": "center",
       "bg": "",
-      "fg": [
-        "f_bed_center"
-      ]
+      "fg": "f_bed_center"
     },
     {
       "id": "corner",

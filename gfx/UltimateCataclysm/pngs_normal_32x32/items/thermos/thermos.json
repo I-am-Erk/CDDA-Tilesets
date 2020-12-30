@@ -1,7 +1,5 @@
 {
   "id": "thermos",
-  "fg": [
-    "thermos"
-  ],
+  "fg": "thermos",
   "bg": ""
 }

@@ -1,17 +1,13 @@
 {
   "id": "f_planter_seedling",
   "multitile": true,
-  "fg": [
-    "f_planter_seedling_unconnected"
-  ],
+  "fg": "f_planter_seedling_unconnected",
   "bg": "",
   "additional_tiles": [
     {
       "id": "center",
       "bg": "",
-      "fg": [
-        "f_planter_seedling_center"
-      ]
+      "fg": "f_planter_seedling_center"
     },
     {
       "id": "corner",
