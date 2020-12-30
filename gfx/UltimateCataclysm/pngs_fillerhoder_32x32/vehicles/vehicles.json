@@ -281,16 +281,6 @@
     "bg": ""
   },
   {
-    "id": "saddle",
-    "fg": "125_vp_saddle_0",
-    "bg": ""
-  },
-  {
-    "id": "seat",
-    "fg": "124_vp_seat_0",
-    "bg": ""
-  },
-  {
     "id": "spiked_plate",
     "fg": "146_vp_plating_spiked_0",
     "bg": ""
