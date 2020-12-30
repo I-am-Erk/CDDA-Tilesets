@@ -34,13 +34,13 @@
     "additional_tiles": [
       {
         "id": "center",
-        "bg": [ "snow_shallow_center" ],
         "fg": [
           { "weight": 1, "sprite": "snow_shallow_center" },
           { "weight": 1, "sprite": "snow_shallow_center2" },
           { "weight": 1, "sprite": "snow_shallow_center3" },
           { "weight": 1, "sprite": "snow_shallow_center4" }
-        ]
+        ],
+        "bg": ""
       },
       {
         "id": "corner",
