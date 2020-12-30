@@ -1,5 +1,7 @@
-{
-  "id": "overlay_wielded_makeshift_knife",
-  "fg": "makeshift_knife_mf",
-  "bg": ""
-}
+[
+  {
+    "id": "overlay_wielded_makeshift_knife",
+    "fg": "makeshift_knife_mf",
+    "bg": ""
+  }
+]

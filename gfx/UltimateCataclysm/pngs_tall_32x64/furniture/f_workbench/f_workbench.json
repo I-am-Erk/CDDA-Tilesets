@@ -1,5 +1,7 @@
-{
-  "id": "f_workbench",
-  "fg": "f_workbench",
-  "bg": ""
-}
+[
+  {
+    "id": "f_workbench",
+    "fg": "f_workbench",
+    "bg": ""
+  }
+]

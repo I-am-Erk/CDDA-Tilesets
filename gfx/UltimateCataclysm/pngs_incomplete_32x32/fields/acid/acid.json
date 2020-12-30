@@ -1,5 +1,7 @@
-{
-  "id": "fd_acid",
-  "fg": "fd_acid",
-  "bg": ""
-}
+[
+  {
+    "id": "fd_acid",
+    "fg": "fd_acid",
+    "bg": ""
+  }
+]

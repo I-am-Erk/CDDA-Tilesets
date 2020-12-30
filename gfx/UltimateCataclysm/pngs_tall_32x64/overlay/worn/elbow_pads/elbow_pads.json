@@ -1,5 +1,7 @@
-{
-  "id": "overlay_worn_elbow_pads",
-  "fg": "elbow_pads_mf",
-  "bg": ""
-}
+[
+  {
+    "id": "overlay_worn_elbow_pads",
+    "fg": "elbow_pads_mf",
+    "bg": ""
+  }
+]

@@ -1,5 +1,7 @@
-{
-  "id": "plastic_sheet",
-  "fg": "plastic_sheet",
-  "bg": ""
-}
+[
+  {
+    "id": "plastic_sheet",
+    "fg": "plastic_sheet",
+    "bg": ""
+  }
+]

@@ -1,5 +1,7 @@
-{
-  "id": "television",
-  "fg": "television",
-  "bg": ""
-}
+[
+  {
+    "id": "television",
+    "fg": "television",
+    "bg": ""
+  }
+]

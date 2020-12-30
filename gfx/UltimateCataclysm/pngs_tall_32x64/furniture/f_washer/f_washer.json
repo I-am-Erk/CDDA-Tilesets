@@ -1,5 +1,7 @@
-{
-  "id": "f_washer",
-  "fg": "f_washer",
-  "bg": ""
-}
+[
+  {
+    "id": "f_washer",
+    "fg": "f_washer",
+    "bg": ""
+  }
+]

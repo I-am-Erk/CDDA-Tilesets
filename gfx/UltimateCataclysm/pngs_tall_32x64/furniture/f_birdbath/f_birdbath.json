@@ -1,5 +1,7 @@
-{
-  "id": "f_birdbath",
-  "fg": "f_birdbath",
-  "bg": ""
-}
+[
+  {
+    "id": "f_birdbath",
+    "fg": "f_birdbath",
+    "bg": ""
+  }
+]

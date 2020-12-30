@@ -1,5 +1,7 @@
-{
-  "id": "overlay_wielded_digging_stick",
-  "fg": "digging_stick",
-  "bg": ""
-}
+[
+  {
+    "id": "overlay_wielded_digging_stick",
+    "fg": "digging_stick",
+    "bg": ""
+  }
+]

@@ -1,5 +1,7 @@
-{
-  "id": "overlay_wielded_bolas",
-  "fg": "bolas_mf",
-  "bg": ""
-}
+[
+  {
+    "id": "overlay_wielded_bolas",
+    "fg": "bolas_mf",
+    "bg": ""
+  }
+]
