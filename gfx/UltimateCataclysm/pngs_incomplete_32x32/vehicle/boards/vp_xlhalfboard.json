@@ -14,36 +14,24 @@
   {
     "id": "vp_xlhalfboard_se",
     "fg": [ "vp_xlhalfboard_se" ],
-    "//": [ "vp_xlhalfboard_se_rotW", "vp_xlhalfboard_se_rotS", "vp_xlhalfboard_se_rotE" ],
     "rotates": true,
     "bg": [  ]
   },
   {
     "id": "vp_xlhalfboard_sw",
     "fg": [ "vp_xlhalfboard_sw" ],
-    "//": [ "vp_xlhalfboard_sw_rotW", "vp_xlhalfboard_sw_rotS", "vp_xlhalfboard_sw_rotE" ],
     "rotates": true,
     "bg": [  ]
   },
   {
     "id": "vp_xlhalfboard_vertical_left",
     "fg": [ "vp_xlhalfboard_vertical_left" ],
-    "//": [
-      "vp_xlhalfboard_vertical_left_rotW_right_rotE",
-      "vp_xlhalfboard_vertical_right",
-      "vp_xlhalfboard_vertical_left_rotE_right_rotW"
-    ],
     "rotates": true,
     "bg": [  ]
   },
   {
     "id": "vp_xlhalfboard_vertical_right",
     "fg": [ "vp_xlhalfboard_vertical_right" ],
-    "//": [
-      "vp_xlhalfboard_vertical_left_rotE_right_rotW",
-      "vp_xlhalfboard_vertical_left",
-      "vp_xlhalfboard_vertical_left_rotW_right_rotE"
-    ],
     "rotates": true,
     "bg": [  ]
   },

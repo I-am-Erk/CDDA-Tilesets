@@ -53,8 +53,7 @@
         "t_multitile_unconnected",
         "t_multitile_unconnected"
       ],
-      "bg": "",
-      "//": "Multitiles are assumed to rotate, two copies to omit rotation"
+      "bg": ""
     }
   ]
 }
