@@ -5,18 +5,18 @@
   "fg": [
     "t_splitrail_fence_unconnected"
   ],
-  "bg": [ "t_dirt" ],
+  "bg": [ "t_grass" ],
   "additional_tiles": [
     {
       "id": "center",
-      "bg": [ "t_dirt" ],
+      "bg": [ "t_grass" ],
       "fg": [
         "t_splitrail_fence_center"
       ]
     },
     {
       "id": "corner",
-      "bg": [ "t_dirt" ],
+      "bg": [ "t_grass" ],
       "fg": [
         "t_splitrail_fence_corner_nw",
         "t_splitrail_fence_corner_sw",
@@ -26,7 +26,7 @@
     },
     {
       "id": "t_connection",
-      "bg": [ "t_dirt" ],
+      "bg": [ "t_grass" ],
       "fg": [
         "t_splitrail_fence_t_connection_n",
         "t_splitrail_fence_t_connection_w",
@@ -36,7 +36,7 @@
     },
     {
       "id": "edge",
-      "bg": [ "t_dirt" ],
+      "bg": [ "t_grass" ],
       "fg": [
         "t_splitrail_fence_edge_ns",
         "t_splitrail_fence_edge_ew"
@@ -44,7 +44,7 @@
     },
     {
       "id": "end_piece",
-      "bg": [ "t_dirt" ],
+      "bg": [ "t_grass" ],
       "fg": [
         "t_splitrail_fence_end_piece_n",
         "t_splitrail_fence_end_piece_w",
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "bg": [ "t_dirt" ],
+      "bg": [ "t_grass" ],
       "id": "unconnected",
       "fg": [
         "t_splitrail_fence_unconnected",

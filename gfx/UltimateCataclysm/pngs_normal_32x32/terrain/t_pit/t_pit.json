@@ -1,17 +1,28 @@
 [
   {
     "id": "t_pit",
-    "fg": [ "t_pit" ],
-    "bg": [ { "weight": 100, "sprite": "t_dirt" }, { "weight": 100, "sprite": "t_dirt2" } ]
-  },
-  {
+    "fg": "t_pit",
+    "bg": [
+      { "weight": 100, "sprite": "t_grass" },
+      { "weight": 100, "sprite": "t_grass_center2" }
+    ]
+  }, {
     "id": "t_pit_season_summer",
-    "fg": [ "t_pit" ],
-    "bg": [ { "weight": 100, "sprite": "t_dirt_summer" }, { "weight": 100, "sprite": "t_dirt_summer2" } ]
-  },
-  {
+    "fg": "t_pit",
+    "bg": [
+      { "weight": 100, "sprite": "t_grass_summer" },
+      { "weight": 100, "sprite": "t_grass_summer_center2" }
+    ]
+  }, {
     "id": "t_pit_season_autumn",
-    "fg": [ "t_pit" ],
-    "bg": [ { "weight": 100, "sprite": "t_dirt_autumn" }, { "weight": 100, "sprite": "t_dirt_autumn2" } ]
+    "fg": "t_pit",
+    "bg": [
+      { "weight": 100, "sprite": "t_grass_autumn" },
+      { "weight": 100, "sprite": "t_grass_autumn_center2" }
+    ]
+  }, {
+    "id": "t_pit_season_winter",
+    "fg": "t_pit",
+    "bg": "snow_shallow_center"
   }
 ]

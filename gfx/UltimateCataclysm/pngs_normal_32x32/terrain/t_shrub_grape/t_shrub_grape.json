@@ -2,22 +2,22 @@
     {
         "id": ["t_shrub_grape"],
         "fg": ["t_shrub_grape"],
-        "bg": ["t_dirt"]
+        "bg": ["t_grass"]
     },
     {
         "id": ["t_shrub_grape_harvested"],
         "fg": ["t_shrub_grape_harvested"],
-        "bg": ["t_dirt_summer"]
+        "bg": ["t_grass_summer"]
     },
     {
         "id": "t_shrub_grape_season_summer",
         "fg": ["t_shrub_grape_summer"],
-        "bg": ["t_dirt_summer"]
+        "bg": ["t_grass_summer"]
     },
     {
         "id": "t_shrub_grape_season_autumn",
         "fg": ["t_shrub_grape"],
-        "bg": ["t_dirt_autumn"]
+        "bg": ["t_grass_autumn"]
     },
     {
         "id": "t_shrub_grape_season_winter",

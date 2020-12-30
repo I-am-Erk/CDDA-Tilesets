@@ -12,7 +12,7 @@
   {
     "id": [ "forest" ],
     "fg": "t_underbrush",
-    "bg": [ "t_dirt" ]
+    "bg": [ "t_grass" ]
   },
   {
     "id": [ "forest_thick" ],
@@ -68,6 +68,6 @@
   {
     "id": [ "field" ],
     "fg": "t_grass_dead_center",
-    "bg": [ "t_dirt" ]
+    "bg": [ "t_grass" ]
   }
 ]

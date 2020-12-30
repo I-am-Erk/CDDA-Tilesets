@@ -2,32 +2,32 @@
   {
     "id": "t_fern",
     "fg": [ "t_fern" ],
-    "bg": [ "t_dirt" ]
+    "bg": [ "t_grass" ]
   },
   {
     "id": "t_fern_harvested",
     "fg": [ "t_fern_harvested" ],
-    "bg": [ "t_dirt" ]
+    "bg": [ "t_grass" ]
   },
   {
     "id": "t_fern_season_summer",
     "fg": [ "t_fern" ],
-    "bg": [ "t_dirt_summer" ]
+    "bg": [ "t_grass_summer" ]
   },
   {
     "id": "t_fern_harvested_season_summer",
     "fg": [ "t_fern_harvested" ],
-    "bg": [ "t_dirt_summer" ]
+    "bg": [ "t_grass_summer" ]
   },
   {
     "id": "t_fern_season_autumn",
     "fg": [ "t_fern" ],
-    "bg": [ "t_dirt_autumn" ]
+    "bg": [ "t_grass_autumn" ]
   },
   {
     "id": "t_fern_harvested_season_autumn",
     "fg": [ "t_fern_harvested" ],
-    "bg": [ "t_dirt_autumn" ]
+    "bg": [ "t_grass_autumn" ]
   },
   {
     "id": "t_fern_season_winter",
