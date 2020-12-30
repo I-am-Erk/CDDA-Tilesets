@@ -35,7 +35,7 @@
     "bg": []
   },
   {
-    "id": "light_disposable_battery_cell",
+    "id": "light_disposable_cell",
     "fg": [ "light_battery_cell" ],
     "bg": []
   },
@@ -60,7 +60,7 @@
     "bg": []
   },
   {
-    "id": "medium_disposable_battery_cell",
+    "id": "medium_disposable_cell",
     "fg": [ "medium_battery_cell" ],
     "bg": []
   },
