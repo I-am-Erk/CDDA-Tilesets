@@ -2,11 +2,11 @@
   {
     "id": "overlay_male_mutation_hair_brown_short",
     "fg": ["hair_brown_short_m"],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_female_mutation_hair_brown_short",
     "fg": ["hair_brown_short_f"],
-    "bg": []
+    "bg": ""
   }
 ]

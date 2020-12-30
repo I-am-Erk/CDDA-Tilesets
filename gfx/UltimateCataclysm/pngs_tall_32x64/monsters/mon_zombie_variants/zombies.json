@@ -85,22 +85,22 @@
       "corpse_mon_zombie_military_pilot"
     ],
     "fg": [ "corpse_mon_zombie" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": [ "corpse_mon_zombie_scientist" ],
     "fg": [ "corpse_mon_zombie_scientist" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": [ "corpse_mon_zombie_technician", "corpse_mon_zombie_hazmat" ],
     "fg": [ "corpse_mon_zombie_technician" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": [ "corpse_mon_zombie_cop", "corpse_mon_zombie_labsecurity" ],
     "fg": [ "corpse_mon_zombie_cop" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": [
@@ -118,6 +118,6 @@
       "corpse_mon_zombie_soldier_blackops_1"
     ],
     "fg": [ "corpse_mon_zombie_tough" ],
-    "bg": [  ]
+    "bg": ""
   }
 ]

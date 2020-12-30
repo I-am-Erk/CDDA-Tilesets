@@ -4,13 +4,13 @@
     "fg": [
       "legrig_f"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_legrig",
     "fg": [
       "legrig_m"
     ],
-    "bg": []
+    "bg": ""
   }
 ]

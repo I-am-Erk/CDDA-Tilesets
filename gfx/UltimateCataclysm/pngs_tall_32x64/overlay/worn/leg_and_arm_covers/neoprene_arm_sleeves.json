@@ -2,11 +2,11 @@
   {
     "id": "overlay_female_worn_armguard_soft",
     "fg": [ "neoprene_arm_sleeves_f" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_armguard_soft",
     "fg": [ "neoprene_arm_sleeves_m" ],
-    "bg": []
+    "bg": ""
   }
 ]

@@ -2,96 +2,96 @@
   {
     "id": "art_sphere",
     "fg": [ "art_sphere" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "art_rod",
     "fg": [ "art_rod" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "art_teardrop",
     "fg": [ "art_teardrop" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "art_lamp",
     "fg": [ "art_lamp" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "art_snake",
     "fg": [ "art_snake" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "art_disc",
     "fg": [ "art_disc" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "art_beads",
     "fg": [ "art_beads" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "art_napkin",
     "fg": [ "art_napkin" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "art_urchin",
     "fg": [ "art_urchin" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "art_jelly",
     "fg": [ "art_jelly" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "art_spiral",
     "fg": [ "art_spiral" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "art_pin",
     "fg": [ "art_pin" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "art_tube",
     "fg": [ "art_tube" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "art_pyramid",
     "fg": [ "art_pyramid" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "art_crystal",
     "fg": [ "art_crystal" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "art_knot",
     "fg": [ "art_knot" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "art_crescent",
     "fg": [ "art_crescent" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "altered_teapot",
     "fg": [ "altered_teapot" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "architect_cube",
     "fg": [ "architect_cube" ],
-    "bg": [  ]
+    "bg": ""
   }
 ]

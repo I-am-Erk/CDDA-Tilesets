@@ -2,11 +2,11 @@
   {
     "id": "overlay_male_wielded_2h_flail_steel",
     "fg": [ "war_flail_m" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "overlay_female_wielded_2h_flail_steel",
     "fg": [ "war_flail_f" ],
-    "bg": [  ]
+    "bg": ""
   }
 ]

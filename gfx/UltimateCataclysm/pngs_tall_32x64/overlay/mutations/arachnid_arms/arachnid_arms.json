@@ -4,13 +4,13 @@
     "fg": [
       "arachnid_arms_f"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_mutation_ARACHNID_ARMS",
     "fg": [
       "arachnid_arms_m"
     ],
-    "bg": []
+    "bg": ""
   }
 ]

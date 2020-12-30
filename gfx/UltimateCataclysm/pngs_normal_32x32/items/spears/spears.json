@@ -2,46 +2,46 @@
   {
     "id": "pointy_stick",
     "fg": ["pointy_stick"],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "spear_wood",
     "fg": ["spear_wood"],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "spear_spike",
     "fg": ["spear_spike"],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "spear_knife",
     "fg": ["spear_knife"],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "spear_knife_superior",
     "fg": ["spear_knife_superior"],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "spear_pipe",
     "fg": ["spear_pipe"],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "spear_rebar",
     "fg": ["spear_rebar"],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "spear_steel",
     "fg": ["spear_steel"],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "spear_copper",
     "fg": ["spear_copper"],
-    "bg": []
+    "bg": ""
   }
 ]

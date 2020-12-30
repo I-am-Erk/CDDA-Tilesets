@@ -2,16 +2,16 @@
   {
     "id": "towel",
     "fg": [ "towel" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "towel_wet",
     "fg": [ "towel" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "towel_soiled",
     "fg": [ "towel" ],
-    "bg": []
+    "bg": ""
   }
 ]

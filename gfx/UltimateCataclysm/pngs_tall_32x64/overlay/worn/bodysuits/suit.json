@@ -2,11 +2,11 @@
   {
     "id": "overlay_female_worn_suit",
     "fg": [ "suit_f" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_suit",
     "fg": [ "suit_m" ],
-    "bg": []
+    "bg": ""
   }
 ]

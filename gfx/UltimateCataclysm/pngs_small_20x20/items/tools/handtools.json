@@ -2,26 +2,26 @@
   {
     "id": "saw",
     "fg": [ "wood_saw" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "screwdriver_set",
     "fg": [ "screwdriver_set" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "wrench",
     "fg": [ "wrench" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "hammer",
     "fg": [ "hammer" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "hacksaw",
     "fg": [ "hacksaw" ],
-    "bg": [  ]
+    "bg": ""
   }
 ]

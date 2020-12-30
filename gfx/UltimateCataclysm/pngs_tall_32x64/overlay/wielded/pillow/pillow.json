@@ -2,21 +2,21 @@
   {
     "id": "overlay_male_wielded_pillow",
     "fg": ["pillow_m"],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_female_wielded_pillow",
     "fg": ["pillow_f"],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_wielded_down_pillow",
     "fg": ["down_pillow_m"],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_female_wielded_down_pillow",
     "fg": ["down_pillow_f"],
-    "bg": []
+    "bg": ""
   }
 ]

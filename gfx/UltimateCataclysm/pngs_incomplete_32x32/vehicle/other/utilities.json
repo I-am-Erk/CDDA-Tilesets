@@ -15,51 +15,51 @@
   {
     "id": "vp_minifridge",
     "fg": [ "vp_minifridge" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "vp_minifreezer",
     "fg": [ "vp_minifreezer" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "vp_kitchen_unit",
     "fg": [ "vp_kitchen_unit" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "vp_welding_rig",
     "fg": [ "vp_welding_rig" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "vp_craft_rig",
     "fg": [ "vp_craft_rig" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "vp_washing_machine",
     "fg": [ "vp_washing_machine" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "vp_bed",
     "fg": [ "vp_bed" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "vp_veh_forge",
     "fg": [ "vp_forge" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "vp_veh_kiln",
     "fg": [ "vp_kiln" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "vp_chemlab",
     "fg": [ "vp_chem_lab" ],
-    "bg": [  ]
+    "bg": ""
   }
 ]

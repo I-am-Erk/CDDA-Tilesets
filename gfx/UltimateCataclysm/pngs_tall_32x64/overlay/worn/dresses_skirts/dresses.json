@@ -2,20 +2,20 @@
   {
     "id": "overlay_female_worn_dress",
     "fg": [ "dress_f" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_dress",
     "fg": [ "dress_m" ],
-    "bg": []
+    "bg": ""
   },{
   "id": "overlay_female_worn_sundress",
   "fg": ["sundress_f"],
-  "bg": []
+  "bg": ""
 },{
   "id": "overlay_male_worn_sundress",
   "fg": ["sundress_m"],
-  "bg": []
+  "bg": ""
 }
 
 

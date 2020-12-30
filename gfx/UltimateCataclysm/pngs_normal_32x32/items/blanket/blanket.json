@@ -2,16 +2,16 @@
   {
     "id": "blanket",
     "fg": ["blanket"],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "down_blanket",
     "fg": ["down_blanket"],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "electric_blanket",
     "fg": ["electric_blanket"],
-    "bg": []
+    "bg": ""
   }
 ]

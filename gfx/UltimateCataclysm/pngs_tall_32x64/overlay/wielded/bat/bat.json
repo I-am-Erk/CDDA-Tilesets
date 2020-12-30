@@ -4,13 +4,13 @@
     "fg": [
       "bat_f"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_wielded_bat",
     "fg": [
       "bat_m"
     ],
-    "bg": []
+    "bg": ""
   }
 ]

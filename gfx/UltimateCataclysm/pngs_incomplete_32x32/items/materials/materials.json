@@ -2,11 +2,11 @@
   {
     "id": "plastic_chunk",
     "fg": "plastic_chunk",
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "scrap_copper",
     "fg": "scrap_copper",
-    "bg": [  ]
+    "bg": ""
   }
 ]

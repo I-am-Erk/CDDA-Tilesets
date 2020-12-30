@@ -4,13 +4,13 @@
     "fg": [
       "mask_gas_f"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_mask_gas",
     "fg": [
       "mask_gas_m"
     ],
-    "bg": []
+    "bg": ""
   }
 ]

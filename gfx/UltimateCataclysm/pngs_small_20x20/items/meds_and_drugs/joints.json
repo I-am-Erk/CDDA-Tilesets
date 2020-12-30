@@ -2,16 +2,16 @@
   {
     "id": "joint",
     "fg": [ "joint" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "joint_lit",
     "fg": [ "joint_lit" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "joint_roach",
     "fg": [ "joint_roach" ],
-    "bg": [  ]
+    "bg": ""
   }
 ]

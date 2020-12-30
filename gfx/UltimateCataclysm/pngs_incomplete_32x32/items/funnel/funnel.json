@@ -3,11 +3,11 @@
   "id": [
     "birchbark_funnel", "funnel", "leather_funnel", "makeshift_funnel", "metal_funnel"],
   "fg": "funnel",
-  "bg": []
+  "bg": ""
 },{
   "id": [
     "tr_funnel", "tr_makeshift_funnel", "tr_raincatcher"],
   "fg": "tr_funnel",
-  "bg": []
+  "bg": ""
 }
 ]

@@ -2,11 +2,11 @@
 {
   "id": "flaregun",
   "fg": ["flaregun"],
-  "bg": []
+  "bg": ""
 },
 {
   "id": "signal_flare",
   "fg": ["signal_flare"],
-  "bg": []
+  "bg": ""
 }
 ]

@@ -4,13 +4,13 @@
     "fg": [
       "nailbat_f"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_wielded_nailbat",
     "fg": [
       "nailbat_m"
     ],
-    "bg": []
+    "bg": ""
   }
 ]

@@ -2,11 +2,11 @@
   {
     "id": "overlay_female_worn_mask_hockey",
     "fg": [ "hockey_mask_f" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_mask_hockey",
     "fg": [ "hockey_mask_m" ],
-    "bg": []
+    "bg": ""
   }
 ]

@@ -2,11 +2,11 @@
   {
     "id": "t_door_lab_c",
     "fg": ["t_door_lab_c"],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "t_door_lab_o",
     "fg": ["t_door_lab_o"],
-    "bg": []
+    "bg": ""
   }
 ]

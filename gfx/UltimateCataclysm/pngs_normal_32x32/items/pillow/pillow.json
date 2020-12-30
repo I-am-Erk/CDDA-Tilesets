@@ -2,11 +2,11 @@
   {
     "id": "pillow",
     "fg": ["pillow"],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "down_pillow",
     "fg": ["down_pillow"],
-    "bg": []
+    "bg": ""
   }
 ]

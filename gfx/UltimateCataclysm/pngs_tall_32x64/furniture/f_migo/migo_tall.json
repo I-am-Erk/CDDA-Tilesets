@@ -2,21 +2,21 @@
   {
     "id": "f_alien_tendril",
     "fg": ["f_alien_tendril"],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "f_alien_zapper",
     "fg": ["f_alien_zapper"],
-    "bg": []
+    "bg": ""
   },
   {
     "id": [ "f_alien_pod", "f_alien_pod_organ" ],
     "fg": ["f_alien_pod"],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "f_alien_pod_resin",
     "fg": ["f_alien_pod_resin"],
-    "bg": []
+    "bg": ""
   }
 ]

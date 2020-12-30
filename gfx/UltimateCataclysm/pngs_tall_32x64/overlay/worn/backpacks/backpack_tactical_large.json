@@ -2,11 +2,11 @@
 {
   "id": "overlay_male_worn_backpack_tactical_large",
   "fg": ["backpack_tactical_large_m"],
-  "bg": []
+  "bg": ""
 },
 {
   "id": "overlay_female_worn_backpack_tactical_large",
   "fg": ["backpack_tactical_large_f"],
-  "bg": []
+  "bg": ""
 }
 ]

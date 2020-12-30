@@ -2,11 +2,11 @@
   {
     "id": "overlay_female_worn_barrette",
     "fg": [ "barrette_f" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_barrette",
     "fg": [ "barrette_m" ],
-    "bg": []
+    "bg": ""
   }
 ]

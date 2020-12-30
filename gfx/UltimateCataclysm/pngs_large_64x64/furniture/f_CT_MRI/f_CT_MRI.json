@@ -4,13 +4,13 @@
   "fg": [
     "f_CT_scanner"
   ],
-  "bg": []
+  "bg": ""
 },
 {
   "id": "f_MRI",
   "fg": [
     "f_MRI"
   ],
-  "bg": []
+  "bg": ""
 }
 ]

@@ -2,7 +2,7 @@
   {
     "id": [ "unknown_terrain" ],
     "fg": "t_rock_floor_center",
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": [ "forest_water" ],
@@ -39,7 +39,7 @@
       "road_end_east"
     ],
     "fg": "t_pavement_y",
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": [
@@ -58,12 +58,12 @@
       "river_c_not_ne"
     ],
     "fg": "t_water_moving_sh_center",
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": [ "river_center" ],
     "fg": "t_water_moving_dp_center",
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": [ "field" ],

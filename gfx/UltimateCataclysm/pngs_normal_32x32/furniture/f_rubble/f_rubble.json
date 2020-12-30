@@ -2,11 +2,11 @@
 {
   "id": "f_rubble",
   "fg": [ "f_rubble" ],
-  "bg": [ ]
+  "bg": ""
 },
 {
   "id": "f_rubble_rock",
   "fg": [ "f_rubble_rock" ],
-  "bg": [ ]
+  "bg": ""
 }
 ]

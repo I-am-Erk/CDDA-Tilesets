@@ -2,11 +2,11 @@
   {
     "id": "overlay_female_worn_mask_guy_fawkes",
     "fg": [ "guy_fawkes_mask_f" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_mask_guy_fawkes",
     "fg": [ "guy_fawkes_mask_m" ],
-    "bg": []
+    "bg": ""
   }
 ]

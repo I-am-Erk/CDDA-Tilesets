@@ -2,16 +2,16 @@
 {
   "id": "fire_ax",
   "fg": ["fire_ax"],
-  "bg": []
+  "bg": ""
 },
 {
   "id": "ax",
   "fg": ["wood_ax"],
-  "bg": []
+  "bg": ""
 },
 {
   "id": "hatchet",
   "fg": ["hatchet"],
-  "bg": []
+  "bg": ""
 }
 ]

@@ -4,13 +4,13 @@
     "fg": [
       "helmet_chitin_f"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_helmet_chitin",
     "fg": [
       "helmet_chitin_m"
     ],
-    "bg": []
+    "bg": ""
   }
 ]

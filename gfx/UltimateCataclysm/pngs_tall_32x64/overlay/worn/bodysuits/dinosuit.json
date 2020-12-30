@@ -2,11 +2,11 @@
   {
     "id": "overlay_female_worn_dinosuit",
     "fg": [ "dinosaur_suit_f" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_dinosuit",
     "fg": [ "dinosaur_suit_m" ],
-    "bg": [  ]
+    "bg": ""
   }
 ]

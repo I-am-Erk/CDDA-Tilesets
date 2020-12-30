@@ -4,13 +4,13 @@
     "fg": [
       "ragpouch_f"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_ragpouch",
     "fg": [
       "ragpouch_m"
     ],
-    "bg": []
+    "bg": ""
   }
 ]

@@ -2,51 +2,51 @@
   {
     "id": "overlay_female_mutation_CHITIN",
     "fg": [ "chitin_f" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "overlay_male_mutation_CHITIN",
     "fg": [ "chitin_m" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "overlay_female_mutation_CHITIN2",
     "fg": [ "chitin2_f" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "overlay_male_mutation_CHITIN2",
     "fg": [ "chitin2_m" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "overlay_female_mutation_FEATHERS",
     "fg": [ "feathers_f" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "overlay_male_mutation_FEATHERS",
     "fg": [ "feathers_m" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "overlay_female_mutation_SCALES",
     "fg": [ "scales_f" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "overlay_male_mutation_SCALES",
     "fg": [ "scales_m" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "overlay_female_mutation_PLANTSKIN",
     "fg": [ "plantskin_f" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "overlay_male_mutation_PLANTSKIN",
     "fg": [ "plantskin_m" ],
-    "bg": [  ]
+    "bg": ""
   }
 ]

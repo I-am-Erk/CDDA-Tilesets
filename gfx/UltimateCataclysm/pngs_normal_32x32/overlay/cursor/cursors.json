@@ -2,31 +2,31 @@
   {
     "id": "cursor",
     "fg": [ "cursor_white" ],
-    "bg": [ ]
+    "bg": ""
   },
   {
     "id": "highlight",
     "fg": [ "highlight" ],
-    "bg": [ ]
+    "bg": ""
   },
   {
     "id": "highlight_item",
     "fg": [ "highlight_item" ],
-    "bg": [ ]
+    "bg": ""
   },
   {
     "id": "line_target",
     "fg": [ "cursor_yellow" ],
-    "bg": [ ]
+    "bg": ""
   },
   {
     "id": "line_trail",
     "fg": [ "line_trail" ],
-    "bg": [ ]
+    "bg": ""
   },
   {
     "id": "animation_line",
     "fg": [ "animation_line" ],
-    "bg": [ ]
+    "bg": ""
   }
 ]

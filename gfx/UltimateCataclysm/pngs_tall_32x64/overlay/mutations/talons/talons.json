@@ -4,13 +4,13 @@
     "fg": [
       "talons_f"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_mutation_TALONS",
     "fg": [
       "talons_m"
     ],
-    "bg": []
+    "bg": ""
   }
 ]

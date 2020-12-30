@@ -2,16 +2,16 @@
   {
     "id": "f_indoor_plant",
     "fg": [ "f_indoor_plant" ],
-    "bg": [ ]
+    "bg": ""
   },
   {
     "id": "f_indoor_plant_y",
     "fg": [ "f_indoor_plant_y" ],
-    "bg": [ ]
+    "bg": ""
   },
   {
     "id": [ "f_indoor_plant_y_season_autumn", "f_indoor_plant_y_season_winter" ],
     "fg": [ "f_indoor_plant_y_season_autumn" ],
-    "bg": [ ]
+    "bg": ""
   }
 ]

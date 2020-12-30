@@ -2,16 +2,16 @@
 {
   "id": "f_vending_c",
   "fg": ["f_vending_c"],
-  "bg": []
+  "bg": ""
 },
 {
   "id": "f_vending_reinforced",
   "fg": ["f_vending_reinforced"],
-  "bg": []
+  "bg": ""
 },
 {
   "id": "f_vending_o",
   "fg": ["f_vending_o"],
-  "bg": []
+  "bg": ""
 }
 ]

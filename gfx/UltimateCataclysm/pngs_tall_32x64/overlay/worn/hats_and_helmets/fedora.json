@@ -2,11 +2,11 @@
   {
     "id": "overlay_female_worn_fedora",
     "fg": [ "fedora_f" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_fedora",
     "fg": [ "fedora_m" ],
-    "bg": []
+    "bg": ""
   }
 ]

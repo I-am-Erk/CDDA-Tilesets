@@ -2,11 +2,11 @@
 {
   "id": ["lighting_lowlight_dark"],
   "fg": ["lighting_lowlight_dark"],
-  "bg": []
+  "bg": ""
 },{
   "id": ["lighting_boomered_dark"],
   "fg": ["lighting_boomered_dark"],
-  "bg": []
+  "bg": ""
 },{
   "id": ["lighting_hidden"],
   "fg": [
@@ -15,6 +15,6 @@
     { "weight": 100, "sprite": "lighting_hidden_3" },
     { "weight": 100, "sprite": "lighting_hidden_4" }
   ],
-  "bg": []
+  "bg": ""
 }
 ]

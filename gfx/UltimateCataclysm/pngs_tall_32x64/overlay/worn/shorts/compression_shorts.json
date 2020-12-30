@@ -2,11 +2,11 @@
   {
     "id": "overlay_female_worn_under_armor_shorts",
     "fg": [ "compression_shorts_f" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_under_armor_shorts",
     "fg": [ "compression_shorts_m" ],
-    "bg": []
+    "bg": ""
   }
 ]

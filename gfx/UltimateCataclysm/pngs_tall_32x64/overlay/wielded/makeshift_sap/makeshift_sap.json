@@ -2,6 +2,6 @@
   {
     "id": "overlay_wielded_makeshift_sap",
     "fg": [ "makeshift_sap_mf" ],
-    "bg": [  ]
+    "bg": ""
   }
 ]

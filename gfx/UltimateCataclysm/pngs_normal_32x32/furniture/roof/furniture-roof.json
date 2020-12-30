@@ -2,26 +2,26 @@
 {
   "id": "f_small_satelitte_dish",
   "fg": ["f_small_satelitte_dish"],
-  "bg": []
+  "bg": ""
 },
 {
   "id": "f_TV_antenna",
   "fg": ["f_TV_antenna"],
-  "bg": []
+  "bg": ""
 },
 {
   "id": "f_cellphone_booster",
   "fg": ["f_cellphone_booster"],
-  "bg": []
+  "bg": ""
 },
 {
   "id": "f_vent_pipe",
   "fg": ["f_vent_pipe"],
-  "bg": []
+  "bg": ""
 },
 {
   "id": "f_roof_turbine_vent",
   "fg": ["f_roof_turbine_vent"],
-  "bg": []
+  "bg": ""
 }
 ]

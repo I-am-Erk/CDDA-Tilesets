@@ -2,11 +2,11 @@
   {
     "id": "overlay_female_worn_electric_blanket",
     "fg": [ "electric_blanket_f" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_electric_blanket",
     "fg": [ "electric_blanket_m" ],
-    "bg": []
+    "bg": ""
   }
 ]

@@ -2,11 +2,11 @@
   {
     "id": "forge",
     "fg": [ "forge" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "char_forge",
     "fg": [ "char_forge" ],
-    "bg": [  ]
+    "bg": ""
   }
 ]

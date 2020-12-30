@@ -2,241 +2,241 @@
   {
     "id": "balclava",
     "fg": [ "balaclava" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "beret",
     "fg": [ "beret" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "boots",
     "fg": [ "boots" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "boxer_briefs",
     "fg": [ "boxer_briefs" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "boxer_shorts",
     "fg": [ "boxer_shorts" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "boy_shorts",
     "fg": [ "boy_shorts" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "bra",
     "fg": [ "bra" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "briefs",
     "fg": [ "briefs" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "corset",
     "fg": [ "corset" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "cowboy_hat",
     "fg": [ "cowboy_hat" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "dress_shoes",
     "fg": [ "dress_shoes" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "hat_ball",
     "fg": [ "hat_ball" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "hat_cotton",
     "fg": [ "hat_cotton" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "hat_fur",
     "fg": [ "hat_fur" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "hat_knit",
     "fg": [ "hat_knit" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "hat_noise_cancelling",
     "fg": [ "hat_noise_cancelling" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "helmet_barbute",
     "fg": [ "helmet_barbute" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "helmet_chitin",
     "fg": [ "helmet_chitin" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "helmet_kabuto",
     "fg": [ "helmet_kabuto" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "hoodie",
     "fg": [ "hoodie" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "jeans",
     "fg": [ "jeans" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "longshirt",
     "fg": [ "longshirt" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "maid_dress",
     "fg": [ "maid_dress" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "maid_hat",
     "fg": [ "maid_hat" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "mask_dust",
     "fg": [ "mask_dust" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "panties",
     "fg": [ "panties" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "pants",
     "fg": [ "pants" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "pants_cargo",
     "fg": [ "pants_cargo" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "polo_shirt",
     "fg": [ "polo_shirt" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "ragpouch",
     "fg": [ "ragpouch" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "sneakers",
     "fg": [ "sneakers" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "socks",
     "fg": [ "socks" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "stockings",
     "fg": [ "stockings" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "sweater",
     "fg": [ "sweater" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "sweatshirt",
     "fg": [ "sweatshirt" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "tank_top",
     "fg": [ "tank_top" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "tshirt",
     "fg": [ "tshirt" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "turban",
     "fg": [ "turban" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "undershirt",
     "fg": [ "undershirt" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "coat_lab",
     "fg": [ "coat_lab" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "coat_rain",
     "fg": [ "coat_rain" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "sports_bra",
     "fg": [ "sports_bra" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "skirt",
     "fg": [ "skirt" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "jacket_light",
     "fg": [ "jacket_light" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "jacket_army",
     "fg": [ "jacket_army" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "hat_hard",
     "fg": [ "hat_hard" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "striped_pants",
     "fg": [ "striped_pants" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "striped_shirt",
     "fg": [ "striped_shirt" ],
-    "bg": [  ]
+    "bg": ""
   }
 ]

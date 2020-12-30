@@ -2,11 +2,11 @@
   {
     "id": "overlay_wielded_mace",
     "fg": [ "mace_mf" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "overlay_wielded_morningstar",
     "fg": [ "morningstar_mf" ],
-    "bg": [  ]
+    "bg": ""
   }
 ]

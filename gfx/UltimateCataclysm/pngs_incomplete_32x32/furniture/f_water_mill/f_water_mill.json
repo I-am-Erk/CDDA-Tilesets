@@ -2,11 +2,11 @@
 {
   "id": "f_water_mill",
   "fg": ["f_water_mill"],
-  "bg": []
+  "bg": ""
 },
 {
   "id": "water_mill",
   "fg": ["water_mill"],
-  "bg": []
+  "bg": ""
 }
 ]

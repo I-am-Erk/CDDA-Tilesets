@@ -4,13 +4,13 @@
     "fg": [
       "fangs_f"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_mutation_FANGS",
     "fg": [
       "fangs_m"
     ],
-    "bg": []
+    "bg": ""
   }
 ]

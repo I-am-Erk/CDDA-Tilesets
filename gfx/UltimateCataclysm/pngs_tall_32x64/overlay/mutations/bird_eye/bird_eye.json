@@ -4,13 +4,13 @@
     "fg": [
       "bird_eye_f"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_mutation_BIRD_EYE",
     "fg": [
       "bird_eye_m"
     ],
-    "bg": []
+    "bg": ""
   }
 ]

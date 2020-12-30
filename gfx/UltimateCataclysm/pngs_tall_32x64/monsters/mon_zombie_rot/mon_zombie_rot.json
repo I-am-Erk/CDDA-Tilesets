@@ -7,6 +7,6 @@
   {
     "id": [ "corpse_mon_zombie_rot" ],
     "fg": [ "corpse_mon_zombie_rot" ],
-    "bg": [  ]
+    "bg": ""
   }
 ]

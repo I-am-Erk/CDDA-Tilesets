@@ -2,21 +2,21 @@
 {
     "id": "mon_fish_tiny",
     "fg": [ "mon_fish_tiny" ],
-    "bg": []
+    "bg": ""
  },
 {
     "id": "mon_fish_small",
     "fg": [ "mon_fish_small" ],
-    "bg": []
+    "bg": ""
  },
 {
     "id": "mon_fish_medium",
     "fg": [ "mon_fish_medium" ],
-    "bg": []
+    "bg": ""
  },
 {
     "id": [ "mon_fish_large", "mon_fish_huge" ],
     "fg": [ "mon_fish_large" ],
-    "bg": []
+    "bg": ""
  }
 ]

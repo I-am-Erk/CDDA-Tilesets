@@ -12,6 +12,6 @@
   {
     "id": [ "corpse_mon_skeleton", "mon_skeleton_brute" ],
     "fg": [ "corpse_mon_zombie_rot" ],
-    "bg": [  ]
+    "bg": ""
   }
 ]

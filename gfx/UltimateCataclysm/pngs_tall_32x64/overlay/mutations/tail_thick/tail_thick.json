@@ -4,13 +4,13 @@
     "fg": [
       "tail_thick_f"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_mutation_TAIL_THICK",
     "fg": [
       "tail_thick_m"
     ],
-    "bg": []
+    "bg": ""
   }
 ]

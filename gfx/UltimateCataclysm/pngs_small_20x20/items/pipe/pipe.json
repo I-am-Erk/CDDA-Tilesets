@@ -2,11 +2,11 @@
 {
   "id": "pipe",
   "fg": ["pipe"],
-  "bg": []
+  "bg": ""
 },
 {
   "id": "cu_pipe",
   "fg": ["cu_pipe"],
-  "bg": []
+  "bg": ""
 }
 ]

@@ -2,21 +2,21 @@
   {
     "id": "t_door_c",
     "fg": [ "t_door_c_center" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "t_door_locked",
     "fg": [ "t_door_locked" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "t_door_o",
     "fg": [ "t_door_o" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "t_door_b",
     "fg": [ "t_door_b" ],
-    "bg": [  ]
+    "bg": ""
   }
 ]

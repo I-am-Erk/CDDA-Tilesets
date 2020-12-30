@@ -2,21 +2,21 @@
   {
     "id": "overlay_female_worn_legguard_metal",
     "fg": [ "iron_greaves_f" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_legguard_metal",
     "fg": [ "iron_greaves_m" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "overlay_female_worn_armguard_metal",
     "fg": [ "metal_arm_guards_f" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_armguard_metal",
     "fg": [ "metal_arm_guards_m" ],
-    "bg": [  ]
+    "bg": ""
   }
 ]

@@ -4,13 +4,13 @@
     "fg": [
       "nailboard_f"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_wielded_nailboard",
     "fg": [
       "nailboard_m"
     ],
-    "bg": []
+    "bg": ""
   }
 ]

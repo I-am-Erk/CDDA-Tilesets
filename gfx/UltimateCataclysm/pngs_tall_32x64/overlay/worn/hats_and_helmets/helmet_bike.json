@@ -4,13 +4,13 @@
     "fg": [
       "helmet_bike_f"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_helmet_bike",
     "fg": [
       "helmet_bike_m"
     ],
-    "bg": []
+    "bg": ""
   }
 ]

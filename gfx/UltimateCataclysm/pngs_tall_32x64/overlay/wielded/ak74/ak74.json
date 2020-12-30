@@ -4,13 +4,13 @@
     "fg": [
       "ak74_f"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_wielded_ak74",
     "fg": [
       "ak74_m"
     ],
-    "bg": []
+    "bg": ""
   }
 ]

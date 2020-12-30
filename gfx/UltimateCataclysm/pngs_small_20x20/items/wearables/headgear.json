@@ -1,13 +1,13 @@
 [{
   "id": "helmet_army",
   "fg": ["helmet_army"],
-  "bg": []
+  "bg": ""
 },{
   "id": "foodperson_mask",
   "fg": ["foodperson_mask"],
-  "bg": []
+  "bg": ""
 },{
   "id": "foodperson_mask_on",
   "fg": ["foodperson_mask_on"],
-  "bg": []
+  "bg": ""
 }]

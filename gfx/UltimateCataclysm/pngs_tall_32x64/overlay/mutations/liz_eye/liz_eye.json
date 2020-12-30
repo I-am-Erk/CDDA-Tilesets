@@ -4,13 +4,13 @@
     "fg": [
       "liz_eye_f"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_mutation_LIZ_EYE",
     "fg": [
       "liz_eye_m"
     ],
-    "bg": []
+    "bg": ""
   }
 ]

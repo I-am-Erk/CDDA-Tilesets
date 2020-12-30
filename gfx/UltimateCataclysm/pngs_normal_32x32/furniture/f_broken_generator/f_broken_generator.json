@@ -2,7 +2,7 @@
   {
     "id": "f_generator_broken",
     "fg": [ "f_broken_generator" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "t_generator_broken",

@@ -2,11 +2,11 @@
 {
   "id": "ceramic_cup",
   "fg": ["ceramic_cup"],
-  "bg": []
+  "bg": ""
 },
 {
   "id": "ceramic_mug",
   "fg": ["ceramic_mug"],
-  "bg": []
+  "bg": ""
 }
 ]

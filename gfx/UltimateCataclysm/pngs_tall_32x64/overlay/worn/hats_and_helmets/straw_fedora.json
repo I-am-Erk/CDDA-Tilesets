@@ -2,11 +2,11 @@
   {
     "id": "overlay_female_worn_straw_fedora",
     "fg": [ "straw_fedora_f" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_straw_fedora",
     "fg": [ "straw_fedora_m" ],
-    "bg": []
+    "bg": ""
   }
 ]

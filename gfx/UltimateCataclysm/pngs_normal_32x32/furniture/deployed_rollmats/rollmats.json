@@ -2,11 +2,11 @@
   {
   "id": "tr_rollmat",
   "fg": [ "tr_rollmat" ],
-  "bg": [  ]
+  "bg": ""
   },
   {
   "id": "tr_fur_rollmat",
   "fg": [ "tr_fur_rollmat" ],
-  "bg": [  ]
+  "bg": ""
   }
 ]

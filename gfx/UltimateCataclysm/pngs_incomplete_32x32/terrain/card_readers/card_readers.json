@@ -2,26 +2,26 @@
   {
     "id": [ "t_card_science", "t_card_robofac" ],
     "fg": [ "t_card_science" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "t_card_reader_broken",
     "fg": [ "t_card_reader_broken" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "t_card_military",
     "fg": [ "t_card_military" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "t_card_industrial",
     "fg": [ "t_card_industrial" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "t_card_fp",
     "fg": [ "t_card_fp" ],
-    "bg": []
+    "bg": ""
   }
 ]

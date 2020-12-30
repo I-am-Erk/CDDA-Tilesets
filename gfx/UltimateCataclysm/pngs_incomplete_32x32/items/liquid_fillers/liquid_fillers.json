@@ -151,7 +151,7 @@
       "drink_martini"
     ],
     "fg": [ "liquid_generic" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": [
@@ -193,7 +193,7 @@
       "young_yeast"
     ],
     "fg": [ "liquid_white" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": [
@@ -216,6 +216,6 @@
       "hi_q_distillate"
     ],
     "fg": [ "liquid_oily" ],
-    "bg": [  ]
+    "bg": ""
   }
 ]

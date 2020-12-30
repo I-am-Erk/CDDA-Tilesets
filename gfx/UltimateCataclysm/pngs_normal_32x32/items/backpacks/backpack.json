@@ -2,11 +2,11 @@
 {
   "id": "backpack",
   "fg": ["backpack"],
-  "bg": []
+  "bg": ""
 },
 {
   "id": "molle_pack",
   "fg": ["molle_pack"],
-  "bg": []
+  "bg": ""
 }
 ]

@@ -4,18 +4,18 @@
   "fg": [
     "t_wall_r_unconnected"
   ],
-  "bg": [],
+  "bg": "",
   "additional_tiles": [
     {
       "id": "center",
-      "bg": [],
+      "bg": "",
       "fg": [
         "t_wall_r_center"
       ]
     },
     {
       "id": "corner",
-      "bg": [],
+      "bg": "",
       "fg": [
         "t_wall_r_corner_nw",
         "t_wall_r_corner_sw",
@@ -25,7 +25,7 @@
     },
     {
       "id": "t_connection",
-      "bg": [],
+      "bg": "",
       "fg": [
         "t_wall_r_t_connection_n",
         "t_wall_r_t_connection_w",
@@ -35,7 +35,7 @@
     },
     {
       "id": "edge",
-      "bg": [],
+      "bg": "",
       "fg": [
         "t_wall_r_edge_ns",
         "t_wall_r_edge_ew"
@@ -43,7 +43,7 @@
     },
     {
       "id": "end_piece",
-      "bg": [],
+      "bg": "",
       "fg": [
         "t_wall_r_end_piece_n",
         "t_wall_r_end_piece_w",
@@ -52,7 +52,7 @@
       ]
     },
     {
-      "bg": [],
+      "bg": "",
       "id": "unconnected",
       "fg": [
         "t_wall_r_unconnected"

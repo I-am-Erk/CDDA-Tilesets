@@ -2,81 +2,81 @@
   {
     "id": "overlay_female_worn_mask_hsurvivor",
     "fg": [ "heavy_survivor_mask_f" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_mask_hsurvivor",
     "fg": [ "heavy_survivor_mask_m" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_female_worn_mask_lsurvivor",
     "fg": [ "light_survivor_mask_f" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_mask_lsurvivor",
     "fg": [ "light_survivor_mask_m" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_female_worn_mask_fsurvivor",
     "fg": [ "survivor_firemask_f" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_mask_fsurvivor",
     "fg": [ "survivor_firemask_m" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_female_worn_mask_fsurvivorxl",
     "fg": [ "survivor_firemask_f" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_mask_fsurvivorxl",
     "fg": [ "survivor_firemask_m" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_female_worn_mask_survivor",
     "fg": [ "survivor_mask_f" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_mask_survivor",
     "fg": [ "survivor_mask_m" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_female_worn_mask_survivorxl",
     "fg": [ "survivor_mask_f" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_mask_survivorxl",
     "fg": [ "survivor_mask_m" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_female_worn_mask_wsurvivor",
     "fg": [ "winter_survivor_mask_f" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_mask_wsurvivor",
     "fg": [ "winter_survivor_mask_m" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_female_worn_mask_wsurvivorxl",
     "fg": [ "winter_survivor_mask_f" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_mask_wsurvivorxl",
     "fg": [ "winter_survivor_mask_m" ],
-    "bg": []
+    "bg": ""
   }
 ]

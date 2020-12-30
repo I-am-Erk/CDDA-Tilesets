@@ -2,21 +2,21 @@
   {
     "id": "bacon",
     "fg": [ "bacon" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "porkbelly",
     "fg": [ "porkbelly" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "raw_cured_fatty_meat",
     "fg": [ "raw_cured_fatty_meat" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "raw_curing_fatty_meat",
     "fg": [ "raw_curing_fatty_meat" ],
-    "bg": []
+    "bg": ""
   }
 ]

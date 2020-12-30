@@ -6,14 +6,14 @@
   "additional_tiles": [
     {
       "id": "center",
-      "bg": [],
+      "bg": "",
       "fg": [
         "t_wall_log_center"
       ]
     },
     {
       "id": "corner",
-      "bg": [],
+      "bg": "",
       "fg": [
         "t_wall_log_corner_nw",
         "t_wall_log_corner_sw",
@@ -23,7 +23,7 @@
     },
     {
       "id": "t_connection",
-      "bg": [],
+      "bg": "",
       "fg": [
         "t_wall_log_t_connection_n",
         "t_wall_log_t_connection_w",

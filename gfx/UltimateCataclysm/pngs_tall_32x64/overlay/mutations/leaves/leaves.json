@@ -4,13 +4,13 @@
     "fg": [
       "leaves_f"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_mutation_LEAVES",
     "fg": [
       "leaves_m"
     ],
-    "bg": []
+    "bg": ""
   }
 ]

@@ -2,11 +2,11 @@
   {
   "id": "overlay_female_wielded_television",
   "fg": ["tv_wielded_f"],
-  "bg": []
+  "bg": ""
   },
   {
   "id": "overlay_male_wielded_television",
   "fg": ["tv_wielded_m"],
-  "bg": []
+  "bg": ""
   }
 ]

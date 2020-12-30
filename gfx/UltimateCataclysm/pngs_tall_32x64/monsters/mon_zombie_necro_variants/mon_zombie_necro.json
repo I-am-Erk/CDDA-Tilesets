@@ -12,6 +12,6 @@
   {
     "id": [ "corpse_mon_zombie_necro", "corpse_mon_zombie_master" ],
     "fg": [ "corpse_mon_zombie_necro" ],
-    "bg": [  ]
+    "bg": ""
   }
 ]

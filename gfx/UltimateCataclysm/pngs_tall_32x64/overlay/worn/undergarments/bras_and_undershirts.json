@@ -2,31 +2,31 @@
   {
     "id": "overlay_female_worn_bra",
     "fg": [ "bra_f" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_bra",
     "fg": [ "bra_m" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "overlay_female_worn_corset",
     "fg": [ "corset_f" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_corset",
     "fg": [ "corset_m" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_undershirt",
     "fg": [ "undershirt_m" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "overlay_female_worn_undershirt",
     "fg": [ "undershirt_f" ],
-    "bg": [  ]
+    "bg": ""
   }
 ]

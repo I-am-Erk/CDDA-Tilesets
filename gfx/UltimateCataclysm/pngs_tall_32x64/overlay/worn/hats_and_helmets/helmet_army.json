@@ -4,13 +4,13 @@
     "fg": [
       "helmet_army_f"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_helmet_army",
     "fg": [
       "helmet_army_m"
     ],
-    "bg": []
+    "bg": ""
   }
 ]

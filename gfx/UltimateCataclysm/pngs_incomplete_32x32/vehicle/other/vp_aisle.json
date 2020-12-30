@@ -2,13 +2,13 @@
   {
     "id": [ "vp_aisle_vertical" ],
     "fg": [ "vp_aisle_vertical" ],
-    "bg": [  ],
+    "bg": "",
     "rotates": true
   },
   {
     "id": [ "vp_aisle_horizontal" ],
     "fg": [ "vp_aisle_horizontal" ],
-    "bg": [  ],
+    "bg": "",
     "rotates": true
   },
   {
@@ -20,25 +20,25 @@
   {
     "id": [ "vp_wooden_aisle_vertical" ],
     "fg": [ "vp_wooden_aisle_vertical", "vp_wooden_aisle_horizontal" ],
-    "bg": [  ],
+    "bg": "",
     "rotates": true
   },
   {
     "id": [ "vp_wooden_aisle_horizontal" ],
     "fg": [ "vp_wooden_aisle_horizontal", "vp_wooden_aisle_vertical" ],
-    "bg": [  ],
+    "bg": "",
     "rotates": true
   },
   {
     "id": [ "vp_lit_aisle_vertical" ],
     "fg": [ "vp_lit_aisle_vertical" ],
-    "bg": [  ],
+    "bg": "",
     "rotates": true
   },
   {
     "id": [ "vp_lit_aisle_horizontal" ],
     "fg": [ "vp_lit_aisle_horizontal" ],
-    "bg": [  ],
+    "bg": "",
     "rotates": true
   }
 ]

@@ -4,13 +4,13 @@
     "fg": [
       "muzzle_long_f"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_mutation_MUZZLE_LONG",
     "fg": [
       "muzzle_long_m"
     ],
-    "bg": []
+    "bg": ""
   }
 ]

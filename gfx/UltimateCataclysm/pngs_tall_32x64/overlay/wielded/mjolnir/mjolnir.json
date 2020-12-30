@@ -4,13 +4,13 @@
     "fg": [
       "mjolnir_f"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_wielded_mjolnir",
     "fg": [
       "mjolnir_m"
     ],
-    "bg": []
+    "bg": ""
   }
 ]

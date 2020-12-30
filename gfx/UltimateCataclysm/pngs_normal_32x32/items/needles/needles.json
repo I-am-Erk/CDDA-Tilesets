@@ -4,20 +4,20 @@
     "fg": [
       "needle_bone"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "needle_curved",
     "fg": [
       "needle_curved"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "needle_wood",
     "fg": [
       "needle_wood"
     ],
-    "bg": []
+    "bg": ""
   }
 ]

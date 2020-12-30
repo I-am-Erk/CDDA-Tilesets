@@ -4,13 +4,13 @@
     "fg": [
       "beak_hum_f"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_mutation_BEAK_HUM",
     "fg": [
       "beak_hum_m"
     ],
-    "bg": []
+    "bg": ""
   }
 ]

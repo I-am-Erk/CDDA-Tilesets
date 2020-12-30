@@ -2,11 +2,11 @@
   {
     "id": "overlay_wielded_sword_wood",
     "fg": [ "2-by-sword_mf" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "overlay_wielded_sword_nail",
     "fg": [ "nord_mf" ],
-    "bg": [  ]
+    "bg": ""
   }
 ]

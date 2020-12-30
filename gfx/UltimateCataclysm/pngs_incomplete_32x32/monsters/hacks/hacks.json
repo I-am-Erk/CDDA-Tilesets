@@ -12,12 +12,12 @@
 {
   "id": "bot_grenade_hack",
   "fg": ["bot_grenade_hack"],
-  "bg": []
+  "bg": ""
 },
 {
   "id": "bot_mininuke_hack",
   "fg": ["bot_mininuke_hack"],
-  "bg": []
+  "bg": ""
 },
 {
   "id": "mon_manhack",

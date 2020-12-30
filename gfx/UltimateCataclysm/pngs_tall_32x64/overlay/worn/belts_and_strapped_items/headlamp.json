@@ -2,41 +2,41 @@
   {
     "id": "overlay_female_worn_wearable_light",
     "fg": [ "headlamp_f" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_wearable_light",
     "fg": [ "headlamp_m" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_female_worn_wearable_light_on",
     "fg": [ "headlamp_f" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_wearable_light_on",
     "fg": [ "headlamp_m" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_female_worn_survivor_light",
     "fg": [ "headlamp_f" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_survivor_light",
     "fg": [ "headlamp_m" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_female_worn_survivor_light_on",
     "fg": [ "headlamp_f" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_survivor_light_on",
     "fg": [ "headlamp_m" ],
-    "bg": []
+    "bg": ""
   }
 ]

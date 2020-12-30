@@ -2,16 +2,16 @@
 {
   "id": "t_floor_red",
   "fg": ["t_floor_red"],
-  "bg": []
+  "bg": ""
 },
 {
   "id": "t_floor_green",
   "fg": ["t_floor_green"],
-  "bg": []
+  "bg": ""
 },
 {
   "id": "t_floor_blue",
   "fg": ["t_floor_blue"],
-  "bg": []
+  "bg": ""
 }
 ]

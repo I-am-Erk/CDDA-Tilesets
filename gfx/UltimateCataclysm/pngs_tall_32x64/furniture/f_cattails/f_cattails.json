@@ -2,25 +2,25 @@
   {
     "id": "f_cattails_season_spring",
     "fg": [ "f_cattails_season_spring" ],
-    "bg": [],
+    "bg": "",
     "rotates": false
   },
   {
     "id": "f_cattails_season_summer",
     "fg": [ "f_cattails_season_summer" ],
-    "bg": [],
+    "bg": "",
     "rotates": false
   },
   {
     "id": "f_cattails_season_autumn",
     "fg": [ "f_cattails_season_autumn" ],
-    "bg": [],
+    "bg": "",
     "rotates": false
   },
   {
     "id": "f_cattails_season_winter",
     "fg": [ "f_cattails_season_winter" ],
-    "bg": [],
+    "bg": "",
     "rotates": false
   }
 ]

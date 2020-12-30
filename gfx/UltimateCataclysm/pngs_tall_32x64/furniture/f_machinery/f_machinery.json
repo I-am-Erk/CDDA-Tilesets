@@ -2,7 +2,7 @@
   {
     "id": "f_machinery_old",
     "fg": [ "f_machinery_old" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "t_machinery_old",
@@ -12,7 +12,7 @@
   {
     "id": "f_machinery_electronic",
     "fg": [ "f_machinery_electronic" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "t_machinery_electronic",
@@ -26,7 +26,7 @@
       { "weight": 150, "sprite": "f_machinery_heavy2" }, 
       { "weight": 100, "sprite": "f_machinery_heavy3" }
     ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "t_machinery_heavy",
@@ -43,7 +43,7 @@
       { "weight": 100, "sprite": "f_machinery_light" }, 
       { "weight": 100, "sprite": "f_machinery_light-2" }
     ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "t_machinery_light",

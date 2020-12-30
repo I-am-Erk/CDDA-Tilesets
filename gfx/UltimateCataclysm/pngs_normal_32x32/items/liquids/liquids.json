@@ -2,61 +2,61 @@
   {
     "id": "water",
     "fg": [ "water" ],
-    "bg": [ ]
+    "bg": ""
   },
   {
     "id": "water_clean",
     "fg": [ "water_clean" ],
-    "bg": [ ]
+    "bg": ""
   },
   {
     "id": "gasoline",
     "fg": [ "gasoline" ],
-    "bg": [ ]
+    "bg": ""
   },
   {
     "id": "diesel",
     "fg": [ "diesel" ],
-    "bg": [ ]
+    "bg": ""
   },
   {
     "id": "biodiesel",
     "fg": [ "biodiesel" ],
-    "bg": [ ]
+    "bg": ""
   },
   {
     "id": "flamethrower_fuel",
     "fg": [ "flamethrower_fuel" ],
-    "bg": [ ]
+    "bg": ""
   },
   {
     "id": "avgas",
     "fg": [ "avgas" ],
-    "bg": [ ]
+    "bg": ""
   },
   {
     "id": "lamp_oil",
     "fg": [ "lamp_oil" ],
-    "bg": [ ]
+    "bg": ""
   },
   {
     "id": "motor_oil",
     "fg": [ "motor_oil" ],
-    "bg": [ ]
+    "bg": ""
   },
   {
     "id": "napalm",
     "fg": [ "napalm" ],
-    "bg": [ ]
+    "bg": ""
   },
   {
     "id": "gelled_gasoline",
     "fg": [ "gelled_gasoline" ],
-    "bg": [ ]
+    "bg": ""
   },
   {
     "id": "blood",
     "fg": [ "blood" ],
-    "bg": [ ]
+    "bg": ""
   }
 ]

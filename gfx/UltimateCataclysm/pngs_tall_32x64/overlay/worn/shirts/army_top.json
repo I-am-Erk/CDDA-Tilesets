@@ -4,13 +4,13 @@
     "fg": [
       "army_top_f"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_army_top",
     "fg": [
       "army_top_m"
     ],
-    "bg": []
+    "bg": ""
   }
 ]

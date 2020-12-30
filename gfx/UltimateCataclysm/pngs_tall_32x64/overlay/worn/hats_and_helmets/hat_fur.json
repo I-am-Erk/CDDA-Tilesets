@@ -2,11 +2,11 @@
   {
     "id": "overlay_male_worn_hat_fur",
     "fg": ["hat_fur_m"],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_female_worn_hat_fur",
     "fg": ["hat_fur_f"],
-    "bg": []
+    "bg": ""
   }
 ]

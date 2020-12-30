@@ -2,11 +2,11 @@
   {
     "id": "overlay_female_worn_badge_deputy",
     "fg": [ "deputy_badge_f" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_badge_deputy",
     "fg": [ "deputy_badge_m" ],
-    "bg": []
+    "bg": ""
   }
 ]

@@ -19,7 +19,7 @@
       "repeater_mod_guide"
     ],
     "fg": [ "generic_book" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": [
@@ -41,7 +41,7 @@
       "textbook_armschina"
     ],
     "fg": [ "generic_textbook" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": [
@@ -57,7 +57,7 @@
       "cookbook_liverforkids"
     ],
     "fg": [ "generic_cookbook" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": [
@@ -71,7 +71,7 @@
       "recipe_labchem"
     ],
     "fg": [ "generic_recipebook" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": [
@@ -89,12 +89,12 @@
       "recipe_maiar"
     ],
     "fg": [ "generic_recipebook" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": [ "pocket_firstaid", "pocket_firearms", "pocket_survival" ],
     "fg": [ "generic_pocketguide" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": [
@@ -120,7 +120,7 @@
       "mag_news"
     ],
     "fg": [ "generic_magazine" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": [
@@ -138,7 +138,7 @@
       "schematics_secubot"
     ],
     "fg": [ "generic_schematics" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": [
@@ -160,11 +160,11 @@
       "manual_fabrication"
     ],
     "fg": [ "generic_manual" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": [ "record_patient", "tailor_portfolio", "isherwood_herbal_remedies" ],
     "fg": [ "generic_binder" ],
-    "bg": [  ]
+    "bg": ""
   }
 ]

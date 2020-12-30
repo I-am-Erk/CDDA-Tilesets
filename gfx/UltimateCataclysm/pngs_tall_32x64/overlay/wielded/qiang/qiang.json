@@ -2,11 +2,11 @@
   {
     "id": "overlay_female_wielded_qiang",
     "fg": [ "qiang_f" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_male_wielded_qiang",
     "fg": [ "qiang_m" ],
-    "bg": []
+    "bg": ""
   }
 ]

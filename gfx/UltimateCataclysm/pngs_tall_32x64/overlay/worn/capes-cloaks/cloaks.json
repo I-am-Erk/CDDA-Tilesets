@@ -2,51 +2,51 @@
 {
   "id": "overlay_male_worn_cape_fp",
   "fg": ["cape_fp_m"],
-  "bg": []
+  "bg": ""
 },
 {
   "id": "overlay_female_worn_cape_fp",
   "fg": ["cape_fp_f"],
-  "bg": []
+  "bg": ""
 },
 {
   "id": "overlay_male_worn_cloak",
   "fg": ["cloak_m"],
-  "bg": []
+  "bg": ""
 },
 {
   "id": "overlay_female_worn_cloak",
   "fg": ["cloak_f"],
-  "bg": []
+  "bg": ""
 },
 {
   "id": "overlay_male_worn_cloak_wool",
   "fg": ["cloak_wool_m"],
-  "bg": []
+  "bg": ""
 },
 {
   "id": "overlay_female_worn_cloak_wool",
   "fg": ["cloak_wool_f"],
-  "bg": []
+  "bg": ""
 },
 {
   "id": "overlay_male_worn_cloak_leather",
   "fg": ["cloak_leather_m"],
-  "bg": []
+  "bg": ""
 },
 {
   "id": "overlay_female_worn_cloak_leather",
   "fg": ["cloak_leather_f"],
-  "bg": []
+  "bg": ""
 },
 {
   "id": "overlay_male_worn_cloak_fur",
   "fg": ["cloak_fur_m"],
-  "bg": []
+  "bg": ""
 },
 {
   "id": "overlay_female_worn_cloak_fur",
   "fg": ["cloak_fur_f"],
-  "bg": []
+  "bg": ""
 }
 ]

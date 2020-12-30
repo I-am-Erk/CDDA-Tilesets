@@ -4,111 +4,111 @@
     "fg": [
       "aspirin"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "bandages",
     "fg": [
       "bandages"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "syringe",
     "fg": [
       "syringe"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "antibiotics",
     "fg": [
       "antibiotics"
     ],
-    "bg": []
+    "bg": ""
   },
     {
     "id": "weak_antibiotic",
     "fg": [
       "weak_antibiotic"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "strong_antibiotic",
     "fg": [
       "strong_antibiotic"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "vitamins",
     "fg": [
       "vitamins"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "gummy_vitamins",
     "fg": [
       "gummy_vitamins"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "calcium_tablet",
     "fg": [
       "calcium_tablet"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "oxycodone",
     "fg": [
       "oxycodone"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "tramadol",
     "fg": [
       "tramadol"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "codeine",
     "fg": [
       "codeine"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "prussian_blue",
     "fg": [
       "prussian_blue"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "iodine",
     "fg": [
       "iodine"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "antiparasitic",
     "fg": [
       "antiparasitic"
     ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "antifungal",
     "fg": [
       "antifungal"
     ],
-    "bg": []
+    "bg": ""
   }
 ]

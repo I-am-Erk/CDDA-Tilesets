@@ -2,11 +2,11 @@
 {
   "id": "alarmclock",
   "fg": ["alarmclock"],
-  "bg": []
+  "bg": ""
 },
 {
   "id": "clock",
   "fg": ["alarmclock"],
-  "bg": []
+  "bg": ""
 }
 ]

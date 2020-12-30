@@ -2,31 +2,31 @@
   {
     "id": "overlay_worn_briefcase",
     "fg": [ "briefcase_mf" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_wielded_briefcase",
     "fg": [ "briefcase_mf" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_worn_briefcase_smg",
     "fg": [ "briefcase_mf" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_wielded_briefcase_smg",
     "fg": [ "briefcase_mf" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_worn_hk_briefcase",
     "fg": [ "briefcase_mf" ],
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_wielded_hk_briefcase",
     "fg": [ "briefcase_mf" ],
-    "bg": []
+    "bg": ""
   }
 ]

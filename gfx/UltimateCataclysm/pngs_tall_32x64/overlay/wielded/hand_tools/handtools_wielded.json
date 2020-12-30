@@ -2,31 +2,31 @@
   {
     "id": "overlay_wielded_crowbar",
     "fg": [ "crowbar_mf" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "overlay_male_wielded_screwdriver",
     "fg": [ "screwdriver_m" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "overlay_female_wielded_screwdriver",
     "fg": [ "screwdriver_f" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "overlay_wielded_shovel",
     "fg": [ "shovel_wielded" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "overlay_wielded_wrench",
     "fg": [ "wrench_mf" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "overlay_wielded_hammer",
     "fg": [ "hammer_wielded" ],
-    "bg": [  ]
+    "bg": ""
   }
 ]

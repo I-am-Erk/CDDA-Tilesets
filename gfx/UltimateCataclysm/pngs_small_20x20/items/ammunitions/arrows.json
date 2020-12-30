@@ -2,66 +2,66 @@
   {
     "id": "arrow_cf",
     "fg": [ "arrow_cf" ],
-    "bg": [ ]
+    "bg": ""
   },
   {
     "id": "arrow_exploding",
     "fg": [ "arrow_exploding" ],
-    "bg": [ ]
+    "bg": ""
   },
   {
     "id": "arrow_field_point_fletched",
     "fg": [ "arrow_field_point_fletched" ],
-    "bg": [ ]
+    "bg": ""
   },
   {
     "id": "arrow_fire_hardened_fletched",
     "fg": [ "arrow_fire_hardened_fletched" ],
-    "bg": [ ]
+    "bg": ""
   },
   {
     "id": "arrow_flammable",
     "fg": [ "arrow_flammable" ],
-    "bg": [ ]
+    "bg": ""
   },
   {
     "id": "arrow_flamming",
     "fg": [ "arrow_flamming" ],
-    "bg": [ ]
+    "bg": ""
   },
   {
     "id": "arrow_heavy_fire_hardened_fletched",
     "fg": [ "arrow_heavy_fire_hardened_fletched" ],
-    "bg": [ ]
+    "bg": ""
   },
   {
     "id": "arrow_metal",
     "fg": [ "arrow_metal" ],
-    "bg": [ ]
+    "bg": ""
   },
   {
     "id": "arrow_metal_sharpened_fletched",
     "fg": [ "arrow_metal_sharpened_fletched" ],
-    "bg": [ ]
+    "bg": ""
   },
   {
     "id": "arrow_plastic",
     "fg": [ "arrow_plastic" ],
-    "bg": [ ]
+    "bg": ""
   },
   {
     "id": "arrow_small_game_fletched",
     "fg": [ "arrow_small_game_fletched" ],
-    "bg": [ ]
+    "bg": ""
   },
   {
     "id": "arrow_wood",
     "fg": [ "arrow_wooden" ],
-    "bg": [ ]
+    "bg": ""
   },
   {
     "id": "arrow_wood_heavy",
     "fg": [ "arrow_wooden_heavy" ],
-    "bg": [ ]
+    "bg": ""
   }
 ]

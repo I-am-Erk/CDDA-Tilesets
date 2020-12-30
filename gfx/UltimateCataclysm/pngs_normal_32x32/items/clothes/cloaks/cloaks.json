@@ -2,21 +2,21 @@
   {
     "id": "cloak",
     "fg": [ "cloak" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "cloak_wool",
     "fg": [ "cloak_wool" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "cloak_leather",
     "fg": [ "cloak_leather" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "cloak_fur",
     "fg": [ "cloak_fur" ],
-    "bg": [  ]
+    "bg": ""
   }
 ]

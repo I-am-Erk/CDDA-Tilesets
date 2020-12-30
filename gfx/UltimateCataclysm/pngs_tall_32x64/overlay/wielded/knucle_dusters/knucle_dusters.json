@@ -2,21 +2,21 @@
   {
     "id": "overlay_female_wielded_knuckle_nail",
     "fg": [ "nail_knuckles_f" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "overlay_male_wielded_knuckle_nail",
     "fg": [ "nail_knuckles_m" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "overlay_female_wielded_knuckle_steel",
     "fg": [ "steel_knuckles_f" ],
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "overlay_male_wielded_knuckle_steel",
     "fg": [ "steel_knuckles_m" ],
-    "bg": [  ]
+    "bg": ""
   }
 ]
