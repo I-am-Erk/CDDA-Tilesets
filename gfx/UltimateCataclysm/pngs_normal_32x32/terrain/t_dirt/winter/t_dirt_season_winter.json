@@ -1,0 +1,10 @@
+{
+  "id": "t_dirt_season_winter",
+  "fg": [
+    { "weight": 100, "sprite": "t_dirt_season_winter" },
+    { "weight": 100, "sprite": "t_dirt_season_winter2" },
+    { "weight": 100, "sprite": "t_dirt_season_winter3" },
+    { "weight": 100, "sprite": "t_dirt_season_winter4" }
+  ],
+  "bg": ""
+}

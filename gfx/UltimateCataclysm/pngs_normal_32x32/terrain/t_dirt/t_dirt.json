@@ -7,10 +7,10 @@
     {
       "id": "center",
       "fg": [
-        { "weight": 100, "sprite": "t_dirt" },
-        { "weight": 100, "sprite": "t_dirt2" },
-        { "weight": 100, "sprite": "t_dirt3" },
-        { "weight": 100, "sprite": "t_dirt4" }
+        { "weight": 100, "sprite": "t_dirt_center" },
+        { "weight": 100, "sprite": "t_dirt_center2" },
+        { "weight": 100, "sprite": "t_dirt_center3" },
+        { "weight": 100, "sprite": "t_dirt_center4" }
       ],
       "bg": ""
     },
