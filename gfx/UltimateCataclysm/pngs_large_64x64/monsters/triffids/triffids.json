@@ -1,7 +1,5 @@
-[
-  {
-    "id": "mon_triffid_queen",
-    "fg": "triffid_queen",
-    "bg": "shadow_64x64_large"
-  }
-]
+{
+  "id": "mon_triffid_queen",
+  "fg": "triffid_queen",
+  "bg": "shadow_64x64_large"
+}

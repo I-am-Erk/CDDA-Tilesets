@@ -1,7 +1,5 @@
-[
-  {
-    "id": "overlay_wielded_brick",
-    "fg": "brick_wielded",
-    "bg": ""
-  }
-]
+{
+  "id": "overlay_wielded_brick",
+  "fg": "brick_wielded",
+  "bg": ""
+}

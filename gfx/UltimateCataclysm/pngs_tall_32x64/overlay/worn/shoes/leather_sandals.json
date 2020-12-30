@@ -1,7 +1,5 @@
-[
-  {
-    "id": "overlay_worn_leathersandals",
-    "fg": "leather_sandals_mf",
-    "bg": ""
-  }
-]
+{
+  "id": "overlay_worn_leathersandals",
+  "fg": "leather_sandals_mf",
+  "bg": ""
+}

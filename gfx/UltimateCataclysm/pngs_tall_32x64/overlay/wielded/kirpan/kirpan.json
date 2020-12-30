@@ -1,7 +1,5 @@
-[
-  {
-    "id": "overlay_wielded_kirpan",
-    "fg": "kirpan_mf",
-    "bg": ""
-  }
-]
+{
+  "id": "overlay_wielded_kirpan",
+  "fg": "kirpan_mf",
+  "bg": ""
+}

@@ -1,7 +1,5 @@
-[
-  {
-    "id": "overlay_wielded_bullwhip",
-    "fg": "bullwhip_mf",
-    "bg": ""
-  }
-]
+{
+  "id": "overlay_wielded_bullwhip",
+  "fg": "bullwhip_mf",
+  "bg": ""
+}

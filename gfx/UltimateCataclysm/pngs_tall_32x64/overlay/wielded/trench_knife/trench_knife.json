@@ -1,7 +1,5 @@
-[
-  {
-    "id": "overlay_wielded_knife_trench",
-    "fg": "trench_knife_mf",
-    "bg": ""
-  }
-]
+{
+  "id": "overlay_wielded_knife_trench",
+  "fg": "trench_knife_mf",
+  "bg": ""
+}

@@ -1,7 +1,5 @@
-[
-  {
-    "id": "overlay_wielded_shillelagh",
-    "fg": "shillelagh_mf",
-    "bg": ""
-  }
-]
+{
+  "id": "overlay_wielded_shillelagh",
+  "fg": "shillelagh_mf",
+  "bg": ""
+}

@@ -1,7 +1,5 @@
-[
-  {
-    "id": "mon_gator",
-    "fg": "mon_gator",
-    "bg": "shadow_64x64_large"
-  }
-]
+{
+  "id": "mon_gator",
+  "fg": "mon_gator",
+  "bg": "shadow_64x64_large"
+}

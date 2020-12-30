@@ -1,7 +1,5 @@
-[
-  {
-    "id": "overlay_wielded_nodachi",
-    "fg": "nodachi_mf",
-    "bg": ""
-  }
-]
+{
+  "id": "overlay_wielded_nodachi",
+  "fg": "nodachi_mf",
+  "bg": ""
+}

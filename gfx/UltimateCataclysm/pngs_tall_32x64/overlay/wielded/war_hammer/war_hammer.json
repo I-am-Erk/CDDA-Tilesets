@@ -1,7 +1,5 @@
-[
-  {
-    "id": "overlay_wielded_warhammer",
-    "fg": "war_hammer_mf",
-    "bg": ""
-  }
-]
+{
+  "id": "overlay_wielded_warhammer",
+  "fg": "war_hammer_mf",
+  "bg": ""
+}

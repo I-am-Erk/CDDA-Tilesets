@@ -1,7 +1,5 @@
-[
-  {
-    "id": "overlay_wielded_ny_hook",
-    "fg": "new_york_hook",
-    "bg": ""
-  }
-]
+{
+  "id": "overlay_wielded_ny_hook",
+  "fg": "new_york_hook",
+  "bg": ""
+}

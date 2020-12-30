@@ -1,7 +1,5 @@
-[
-  {
-    "id": "overlay_wielded_bowling_axe",
-    "fg": "7_10_split_mf",
-    "bg": ""
-  }
-]
+{
+  "id": "overlay_wielded_bowling_axe",
+  "fg": "7_10_split_mf",
+  "bg": ""
+}

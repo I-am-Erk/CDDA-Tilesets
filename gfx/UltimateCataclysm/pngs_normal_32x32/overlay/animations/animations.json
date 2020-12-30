@@ -1,7 +1,5 @@
-[
-  {
-    "id": "animation_hit",
-    "fg": "animation_hit",
-    "bg": ""
-  }
-]
+{
+  "id": "animation_hit",
+  "fg": "animation_hit",
+  "bg": ""
+}

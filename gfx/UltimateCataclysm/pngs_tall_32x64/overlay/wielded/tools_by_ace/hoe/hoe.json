@@ -1,7 +1,5 @@
-[
-  {
-    "id": "overlay_wielded_hoe",
-    "fg": "hoe",
-    "bg": ""
-  }
-]
+{
+  "id": "overlay_wielded_hoe",
+  "fg": "hoe",
+  "bg": ""
+}

@@ -1,7 +1,5 @@
-[
-  {
-    "id": "overlay_wielded_sword_cane",
-    "fg": "sword_cane_mf",
-    "bg": ""
-  }
-]
+{
+  "id": "overlay_wielded_sword_cane",
+  "fg": "sword_cane_mf",
+  "bg": ""
+}

@@ -1,7 +1,5 @@
-[
-  {
-    "id": "overlay_worn_roller_blades",
-    "fg": "rollerblades_mf",
-    "bg": ""
-  }
-]
+{
+  "id": "overlay_worn_roller_blades",
+  "fg": "rollerblades_mf",
+  "bg": ""
+}

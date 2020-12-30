@@ -1,7 +1,5 @@
-[
-  {
-    "id": "overlay_wielded_shillelagh_weighted",
-    "fg": "loaded_stick_mf",
-    "bg": ""
-  }
-]
+{
+  "id": "overlay_wielded_shillelagh_weighted",
+  "fg": "loaded_stick_mf",
+  "bg": ""
+}

@@ -1,7 +1,5 @@
-[
-  {
-    "id": "esbit_stove",
-    "fg": "esbit_stove",
-    "bg": ""
-  }
-]
+{
+  "id": "esbit_stove",
+  "fg": "esbit_stove",
+  "bg": ""
+}

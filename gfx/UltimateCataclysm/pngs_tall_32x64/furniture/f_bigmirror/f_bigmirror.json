@@ -1,7 +1,5 @@
-[
-  {
-    "id": "f_bigmirror",
-    "fg": "f_bigmirror",
-    "bg": ""
-  }
-]
+{
+  "id": "f_bigmirror",
+  "fg": "f_bigmirror",
+  "bg": ""
+}

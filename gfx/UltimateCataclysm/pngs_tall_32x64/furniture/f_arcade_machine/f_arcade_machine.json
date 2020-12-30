@@ -1,7 +1,5 @@
-[
-  {
-    "id": "f_arcade_machine",
-    "fg": "f_arcade_machine",
-    "bg": ""
-  }
-]
+{
+  "id": "f_arcade_machine",
+  "fg": "f_arcade_machine",
+  "bg": ""
+}

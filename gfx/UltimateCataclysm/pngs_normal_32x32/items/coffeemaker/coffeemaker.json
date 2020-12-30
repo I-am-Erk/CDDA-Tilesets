@@ -1,7 +1,5 @@
-[
-  {
-    "id": "coffeemaker",
-    "fg": "coffeemaker",
-    "bg": ""
-  }
-]
+{
+  "id": "coffeemaker",
+  "fg": "coffeemaker",
+  "bg": ""
+}

@@ -1,1 +1,5 @@
-[{"id": "carrot_wild", "fg": "carrot_wild", "bg": ""}]
+{
+  "id": "carrot_wild",
+  "fg": "carrot_wild",
+  "bg": ""
+}

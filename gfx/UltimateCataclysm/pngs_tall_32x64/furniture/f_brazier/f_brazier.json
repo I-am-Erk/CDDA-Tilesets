@@ -1,7 +1,5 @@
-[
-  {
-    "id": "f_brazier",
-    "fg": "f_brazier",
-    "bg": ""
-  }
-]
+{
+  "id": "f_brazier",
+  "fg": "f_brazier",
+  "bg": ""
+}

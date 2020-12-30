@@ -1,7 +1,5 @@
-[
-  {
-    "id": "mon_zombie_brute_shocker",
-    "fg": "mon_zombie_brute_shocker",
-    "bg": "shadow_64x64_medium"
-  }
-]
+{
+  "id": "mon_zombie_brute_shocker",
+  "fg": "mon_zombie_brute_shocker",
+  "bg": "shadow_64x64_medium"
+}

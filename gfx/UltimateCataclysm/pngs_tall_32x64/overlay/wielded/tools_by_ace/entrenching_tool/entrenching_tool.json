@@ -1,7 +1,5 @@
-[
-  {
-    "id": "overlay_wielded_e_tool",
-    "fg": "entrenching_tool",
-    "bg": ""
-  }
-]
+{
+  "id": "overlay_wielded_e_tool",
+  "fg": "entrenching_tool",
+  "bg": ""
+}

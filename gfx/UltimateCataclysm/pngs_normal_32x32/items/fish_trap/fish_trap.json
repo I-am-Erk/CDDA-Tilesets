@@ -1,7 +1,5 @@
-[
-  {
-    "id": "fish_trap",
-    "fg": "fish_trap",
-    "bg": ""
-  }
-]
+{
+  "id": "fish_trap",
+  "fg": "fish_trap",
+  "bg": ""
+}

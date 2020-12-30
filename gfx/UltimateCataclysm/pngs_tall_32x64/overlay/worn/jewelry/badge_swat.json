@@ -1,7 +1,5 @@
-[
-  {
-    "id": "overlay_worn_badge_swat",
-    "fg": "badge_swat_mf",
-    "bg": ""
-  }
-]
+{
+  "id": "overlay_worn_badge_swat",
+  "fg": "badge_swat_mf",
+  "bg": ""
+}

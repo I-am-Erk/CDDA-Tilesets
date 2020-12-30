@@ -1,7 +1,5 @@
-[
-  {
-    "id": "overlay_wielded_switchblade",
-    "fg": "switchblade_mf",
-    "bg": ""
-  }
-]
+{
+  "id": "overlay_wielded_switchblade",
+  "fg": "switchblade_mf",
+  "bg": ""
+}

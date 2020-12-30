@@ -1,7 +1,5 @@
-[
-  {
-    "id": "f_sign",
-    "fg": "f_sign",
-    "bg": ""
-  }
-]
+{
+  "id": "f_sign",
+  "fg": "f_sign",
+  "bg": ""
+}
