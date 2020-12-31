@@ -1,19 +1,19 @@
 [
 {
   "id": "scrap",
-  "fg": ["scrap"],
-  "bg": []
+  "fg": "scrap",
+  "bg": ""
 },{
   "id": "e_scrap",
-  "fg": ["e_scrap"],
-  "bg": []
+  "fg": "e_scrap",
+  "bg": ""
 },{
   "id": "steel_chunk",
-  "fg": ["steel_chunk"],
-  "bg": []
+  "fg": "steel_chunk",
+  "bg": ""
 },{
   "id": "steel_lump",
-  "fg": ["steel_lump"],
-  "bg": []
+  "fg": "steel_lump",
+  "bg": ""
 }
 ]

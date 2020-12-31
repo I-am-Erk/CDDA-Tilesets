@@ -1,9 +1,5 @@
 {
   "id": "arming_sword",
-  "fg": [
-    "arming_sword"
-  ],
-  "bg": [
-    
-  ]
+  "fg": "arming_sword",
+  "bg": ""
 }

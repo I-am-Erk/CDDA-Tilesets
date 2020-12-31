@@ -1,65 +1,51 @@
 [
   {
     "id": "vp_hdhalfboard_ne",
-    "fg": [ "vp_hdhalfboard_ne" ],
-    "//": [ "vp_hdhalfboard_ne_rotW", "vp_hdhalfboard_ne_rotS", "vp_hdhalfboard_ne_rotE" ],
+    "fg": "vp_hdhalfboard_ne",
     "rotates": true,
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "vp_hdhalfboard_nw",
-    "fg": [ "vp_hdhalfboard_nw" ],
-    "//": [ "vp_hdhalfboard_nw_rotW", "vp_hdhalfboard_nw_rotS", "vp_hdhalfboard_nw_rotE" ],
+    "fg": "vp_hdhalfboard_nw",
     "rotates": true,
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "vp_hdhalfboard_se",
-    "fg": [ "vp_hdhalfboard_se" ],
-    "//": [ "vp_hdhalfboard_se_rotW", "vp_hdhalfboard_se_rotS", "vp_hdhalfboard_se_rotE" ],
+    "fg": "vp_hdhalfboard_se",
     "rotates": true,
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "vp_hdhalfboard_sw",
-    "fg": [ "vp_hdhalfboard_sw" ],
-    "//": [ "vp_hdhalfboard_sw_rotW", "vp_hdhalfboard_sw_rotS", "vp_hdhalfboard_sw_rotE" ],
+    "fg": "vp_hdhalfboard_sw",
     "rotates": true,
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "vp_hdhalfboard_vertical_left",
-    "fg": [ "vp_hdhalfboard_vertical_left" ],
-    "//": [
-      "vp_hdhalfboard_vertical_left_rotW_right_rotE",
-      "vp_hdhalfboard_vertical_right",
-      "vp_hdhalfboard_vertical_left_rotE_right_rotW"
-    ],
+    "fg": "vp_hdhalfboard_vertical_left",
     "rotates": true,
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "vp_hdhalfboard_vertical_right",
-    "fg": [ "vp_hdhalfboard_vertical_right" ],
-    "//": [
-      "vp_hdhalfboard_vertical_left_rotE_right_rotW",
-      "vp_hdhalfboard_vertical_left",
-      "vp_hdhalfboard_vertical_left_rotW_right_rotE"
-    ],
+    "fg": "vp_hdhalfboard_vertical_right",
     "rotates": true,
-    "bg": [  ]
+    "bg": ""
   },
   {
-    "id": [ "vp_hdhalfboard_horizontal" ],
-    "fg": [ "vp_hdhalfboard_horizontal_front" ],
+    "id": "vp_hdhalfboard_horizontal",
+    "fg": "vp_hdhalfboard_horizontal_front",
     "rotates": true,
-    "bg": [  ]
+    "bg": ""
   },
   {
-    "id": [ "vp_hdhalfboard_horizontal_2" ],
-    "fg": [ "vp_hdhalfboard_horizontal_2_front" ],
+    "id": "vp_hdhalfboard_horizontal_2",
+    "fg": "vp_hdhalfboard_horizontal_2_front",
     "rotates": true,
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "vp_hdhalfboard_horizontal_front",
@@ -70,7 +56,7 @@
       "vp_hdhalfboard_horizontal_front_rotE"
     ],
     "rotates": true,
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "vp_hdhalfboard_horizontal_2_front",
@@ -81,7 +67,7 @@
       "vp_hdhalfboard_horizontal_2_front_rotE"
     ],
     "rotates": true,
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "vp_hdhalfboard_horizontal_rear",
@@ -90,7 +76,7 @@
       "vp_hdhalfboard_horizontal_front",
       "vp_hdhalfboard_horizontal_front_rotW" ],
     "rotates": true,
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "vp_hdhalfboard_horizontal_2_rear",
@@ -99,36 +85,36 @@
       "vp_hdhalfboard_horizontal_2_front",
       "vp_hdhalfboard_horizontal_2_front_rotW" ],
     "rotates": true,
-    "bg": [  ]
+    "bg": ""
   },
   {
-    "id": [ "vp_hdhalfboard_vertical" ],
-    "fg": [ "vp_hdhalfboard_vertical" ],
+    "id": "vp_hdhalfboard_vertical",
+    "fg": "vp_hdhalfboard_vertical",
     "rotates": true,
-    "bg": [  ]
+    "bg": ""
   },
   {
-    "id": [ "vp_hdhalfboard_vertical_2" ],
-    "fg": [ "vp_hdhalfboard_vertical_2" ],
+    "id": "vp_hdhalfboard_vertical_2",
+    "fg": "vp_hdhalfboard_vertical_2",
     "rotates": true,
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "vp_hdhalfboard_vertical_2_left",
-    "fg": [ "vp_hdhalfboard_vertical_2_left" ],
+    "fg": "vp_hdhalfboard_vertical_2_left",
     "rotates": true,
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "vp_hdhalfboard_vertical_2_right",
-    "fg": [ "vp_hdhalfboard_vertical_2_right" ],
+    "fg": "vp_hdhalfboard_vertical_2_right",
     "rotates": true,
-    "bg": [  ]
+    "bg": ""
   },
   {
     "id": "vp_hdhalfboard_cover",
     "fg": [ "vp_hdhalfboard_cover", "vp_hdhalfboard_cover_rotW", "vp_hdhalfboard_cover_rotS", "vp_hdhalfboard_cover_rotE" ],
     "rotates": true,
-    "bg": [  ]
+    "bg": ""
   }
 ]

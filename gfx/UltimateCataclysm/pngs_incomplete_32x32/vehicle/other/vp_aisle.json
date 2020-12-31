@@ -1,44 +1,44 @@
 [
   {
-    "id": [ "vp_aisle_vertical" ],
-    "fg": [ "vp_aisle_vertical" ],
-    "bg": [  ],
+    "id": "vp_aisle_vertical",
+    "fg": "vp_aisle_vertical",
+    "bg": "",
     "rotates": true
   },
   {
-    "id": [ "vp_aisle_horizontal" ],
-    "fg": [ "vp_aisle_horizontal" ],
-    "bg": [  ],
+    "id": "vp_aisle_horizontal",
+    "fg": "vp_aisle_horizontal",
+    "bg": "",
     "rotates": true
   },
   {
-    "id": [ "vp_trunk_floor" ],
-    "fg": [ "vp_trunk_floor" ],
-    "bg": [ "vp_aisle_vertical" ],
+    "id": "vp_trunk_floor",
+    "fg": "vp_trunk_floor",
+    "bg": "vp_aisle_vertical",
     "rotates": true
   },
   {
-    "id": [ "vp_wooden_aisle_vertical" ],
+    "id": "vp_wooden_aisle_vertical",
     "fg": [ "vp_wooden_aisle_vertical", "vp_wooden_aisle_horizontal" ],
-    "bg": [  ],
+    "bg": "",
     "rotates": true
   },
   {
-    "id": [ "vp_wooden_aisle_horizontal" ],
+    "id": "vp_wooden_aisle_horizontal",
     "fg": [ "vp_wooden_aisle_horizontal", "vp_wooden_aisle_vertical" ],
-    "bg": [  ],
+    "bg": "",
     "rotates": true
   },
   {
-    "id": [ "vp_lit_aisle_vertical" ],
-    "fg": [ "vp_lit_aisle_vertical" ],
-    "bg": [  ],
+    "id": "vp_lit_aisle_vertical",
+    "fg": "vp_lit_aisle_vertical",
+    "bg": "",
     "rotates": true
   },
   {
-    "id": [ "vp_lit_aisle_horizontal" ],
-    "fg": [ "vp_lit_aisle_horizontal" ],
-    "bg": [  ],
+    "id": "vp_lit_aisle_horizontal",
+    "fg": "vp_lit_aisle_horizontal",
+    "bg": "",
     "rotates": true
   }
 ]

@@ -1,9 +1,5 @@
 {
   "id": "sheet_metal",
-  "fg": [
-    "sheet_metal"
-  ],
-  "bg": [
-    
-  ]
+  "fg": "sheet_metal",
+  "bg": ""
 }

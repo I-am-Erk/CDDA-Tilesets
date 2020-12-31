@@ -4,14 +4,12 @@
     "t_water_pool_shallow"
   ],
   "multitile": true,
-  "fg": [
-    "t_water_pool_unconnected"
-  ],
-  "bg": [],
+  "fg": "t_water_pool_unconnected",
+  "bg": "",
   "additional_tiles": [
     {
       "id": "center",
-      "bg": [],
+      "bg": "",
       "fg": [
         { "weight": 1, "sprite": "t_water_sh_center" },
         { "weight": 1, "sprite": "t_water_sh_center2" },
@@ -20,7 +18,7 @@
     },
     {
       "id": "corner",
-      "bg": [],
+      "bg": "",
       "fg": [
         "t_water_pool_corner_nw",
         "t_water_pool_corner_sw",
@@ -30,7 +28,7 @@
     },
     {
       "id": "t_connection",
-      "bg": [],
+      "bg": "",
       "fg": [
         "t_water_pool_t_connection_n",
         "t_water_pool_t_connection_w",
@@ -40,7 +38,7 @@
     },
     {
       "id": "edge",
-      "bg": [],
+      "bg": "",
       "fg": [
         "t_water_pool_edge_ns",
         "t_water_pool_edge_ew"
@@ -48,7 +46,7 @@
     },
     {
       "id": "end_piece",
-      "bg": [],
+      "bg": "",
       "fg": [
         "t_water_pool_end_piece_n",
         "t_water_pool_end_piece_w",
@@ -57,7 +55,7 @@
       ]
     },
     {
-      "bg": [],
+      "bg": "",
       "id": "unconnected",
       "fg": [
         "t_water_pool_unconnected",

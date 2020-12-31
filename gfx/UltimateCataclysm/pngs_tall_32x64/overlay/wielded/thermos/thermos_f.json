@@ -1,7 +1,5 @@
 {
   "id": "overlay_female_wielded_thermos",
-  "fg": [
-    "thermos_f"
-  ],
-  "bg": []
+  "fg": "thermos_f",
+  "bg": ""
 }

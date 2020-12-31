@@ -1,7 +1,7 @@
 [
   {
     "id": "f_brazier",
-    "fg": ["f_brazier"],
-    "bg": []
+    "fg": "f_brazier",
+    "bg": ""
   }
 ]

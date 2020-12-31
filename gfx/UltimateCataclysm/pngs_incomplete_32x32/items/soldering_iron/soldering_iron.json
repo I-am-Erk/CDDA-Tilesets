@@ -1,5 +1,5 @@
 {
   "id": "soldering_iron",
-  "fg": ["soldering_iron"],
-  "bg": []
+  "fg": "soldering_iron",
+  "bg": ""
 }

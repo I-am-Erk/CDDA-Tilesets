@@ -1,23 +1,17 @@
 [
   {
     "id": "needle_bone",
-    "fg": [
-      "needle_bone"
-    ],
-    "bg": []
+    "fg": "needle_bone",
+    "bg": ""
   },
   {
     "id": "needle_curved",
-    "fg": [
-      "needle_curved"
-    ],
-    "bg": []
+    "fg": "needle_curved",
+    "bg": ""
   },
   {
     "id": "needle_wood",
-    "fg": [
-      "needle_wood"
-    ],
-    "bg": []
+    "fg": "needle_wood",
+    "bg": ""
   }
 ]

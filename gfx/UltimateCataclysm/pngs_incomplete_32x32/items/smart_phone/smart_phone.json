@@ -1,5 +1,5 @@
 {
   "id": "smart_phone",
-  "fg": ["smart_phone"],
-  "bg": []
+  "fg": "smart_phone",
+  "bg": ""
 }

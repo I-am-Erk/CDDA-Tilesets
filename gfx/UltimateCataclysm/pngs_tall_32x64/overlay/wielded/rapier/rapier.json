@@ -1,5 +1,5 @@
 {
   "id": "overlay_wielded_rapier",
-  "fg": ["rapier_mf"],
-  "bg": []
+  "fg": "rapier_mf",
+  "bg": ""
 }

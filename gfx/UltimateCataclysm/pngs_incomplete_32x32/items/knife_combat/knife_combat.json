@@ -1,5 +1,5 @@
 {
   "id": "knife_combat",
-  "fg": ["knife_combat"],
-  "bg": []
+  "fg": "knife_combat",
+  "bg": ""
 }

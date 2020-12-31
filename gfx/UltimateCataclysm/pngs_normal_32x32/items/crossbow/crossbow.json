@@ -1,7 +1,5 @@
 {
   "id": "crossbow",
-  "fg": [
-    "crossbow"
-  ],
-  "bg": []
+  "fg": "crossbow",
+  "bg": ""
 }

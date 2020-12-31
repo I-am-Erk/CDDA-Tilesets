@@ -21,6 +21,6 @@
     "id": "t_trunk_season_winter",
     "multitile": true,
     "fg": [ "t_trunk_ns", "t_trunk_ew" ],
-    "bg": [ "snow_shallow_center" ]
+    "bg": "snow_shallow_center"
   }
 ]

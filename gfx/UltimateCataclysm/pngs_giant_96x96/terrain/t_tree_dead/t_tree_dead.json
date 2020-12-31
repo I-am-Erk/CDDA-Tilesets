@@ -8,7 +8,7 @@
       { "weight": 100, "sprite": "t_tree_dead4" },
       { "weight": 100, "sprite": "chestnut_dead_yar" }
     ],
-    "bg": [ "t_grass_giant" ]
+    "bg": "t_grass_giant"
   },
   {
     "id": "t_tree_dead_season_summer",
@@ -19,7 +19,7 @@
       { "weight": 100, "sprite": "t_tree_dead4" },
       { "weight": 100, "sprite": "chestnut_dead_yar" }
     ],
-    "bg": [ "t_grass_summer_giant" ]
+    "bg": "t_grass_summer_giant"
   },
   {
     "id": "t_tree_dead_season_autumn",
@@ -30,7 +30,7 @@
       { "weight": 100, "sprite": "t_tree_dead4" },
       { "weight": 100, "sprite": "chestnut_dead_yar" }
     ],
-    "bg": [ "t_grass_autumn_giant" ]
+    "bg": "t_grass_autumn_giant"
   },
   {
     "id": "t_tree_dead_season_winter",
@@ -41,6 +41,6 @@
       { "weight": 100, "sprite": "t_tree_dead4" },
       { "weight": 100, "sprite": "chestnut_dead_yar" }
     ],
-    "bg": [ "snow_shallow_giant" ]
+    "bg": "snow_shallow_giant"
   }
 ]

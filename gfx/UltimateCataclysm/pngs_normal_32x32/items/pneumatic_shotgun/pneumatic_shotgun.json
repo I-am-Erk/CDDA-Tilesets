@@ -1,7 +1,5 @@
 {
   "id": "pneumatic_shotgun",
-  "fg": [
-    "pneumatic_shotgun"
-  ],
-  "bg": []
+  "fg": "pneumatic_shotgun",
+  "bg": ""
 }

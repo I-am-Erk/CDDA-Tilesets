@@ -1,5 +1,5 @@
 {
   "id": "steel_pan",
-  "fg": ["steel_pan"],
-  "bg": []
+  "fg": "steel_pan",
+  "bg": ""
 }

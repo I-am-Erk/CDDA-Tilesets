@@ -1,16 +1,12 @@
 [
   {
     "id": "overlay_female_wielded_mjolnir",
-    "fg": [
-      "mjolnir_f"
-    ],
-    "bg": []
+    "fg": "mjolnir_f",
+    "bg": ""
   },
   {
     "id": "overlay_male_wielded_mjolnir",
-    "fg": [
-      "mjolnir_m"
-    ],
-    "bg": []
+    "fg": "mjolnir_m",
+    "bg": ""
   }
 ]

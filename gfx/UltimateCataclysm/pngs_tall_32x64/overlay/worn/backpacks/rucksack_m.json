@@ -1,5 +1,5 @@
 {
   "id": "overlay_male_worn_rucksack",
-  "fg": ["rucksack_m"],
-  "bg": []
+  "fg": "rucksack_m",
+  "bg": ""
 }

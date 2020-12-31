@@ -1,5 +1,5 @@
 {
   "id": "infrared_creature",
-  "fg": [ "infrared_creature" ],
-  "bg": []
+  "fg": "infrared_creature",
+  "bg": ""
 }

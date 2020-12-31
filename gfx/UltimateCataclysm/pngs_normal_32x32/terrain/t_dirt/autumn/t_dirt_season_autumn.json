@@ -58,8 +58,7 @@
         "t_dirt_season_autumn_unconnected",
         "t_dirt_season_autumn_unconnected"
       ],
-      "bg": "",
-      "//": "Multitiles are assumed to rotate, two copies to omit rotation"
+      "bg": ""
     }
   ]
 }

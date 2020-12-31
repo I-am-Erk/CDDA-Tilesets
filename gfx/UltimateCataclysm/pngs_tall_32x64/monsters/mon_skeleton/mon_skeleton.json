@@ -1,17 +1,17 @@
 [
   {
     "id": "mon_skeleton",
-    "fg": [ "mon_skeleton" ],
-    "bg": [ "shadow_32x64_normal" ]
+    "fg": "mon_skeleton",
+    "bg": "shadow_32x64_normal"
   },
   {
     "id": "mon_skeleton_brute",
-    "fg": [ "mon_skeleton_brute" ],
-    "bg": [ "shadow_32x64_normal" ]
+    "fg": "mon_skeleton_brute",
+    "bg": "shadow_32x64_normal"
   },
   {
     "id": [ "corpse_mon_skeleton", "mon_skeleton_brute" ],
-    "fg": [ "corpse_mon_zombie_rot" ],
-    "bg": [  ]
+    "fg": "corpse_mon_zombie_rot",
+    "bg": ""
   }
 ]

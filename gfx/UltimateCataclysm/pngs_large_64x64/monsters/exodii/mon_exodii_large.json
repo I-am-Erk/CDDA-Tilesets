@@ -7,7 +7,7 @@
     { "weight": 15, "sprite": "mon_exodii_quadruped_3" },
     { "weight": 15, "sprite": "mon_exodii_quadruped_4" }
   ],
-  "bg": ["shadow_64x64_large"]
+  "bg": "shadow_64x64_large"
  },
  {
   "id": "mon_exodii_turret",
@@ -17,6 +17,6 @@
     { "weight": 15, "sprite": "mon_exodii_turret_3" },
     { "weight": 15, "sprite": "mon_exodii_turret_4" }
   ],
-  "bg": ["shadow_64x64_medium"]
+  "bg": "shadow_64x64_medium"
  }
 ]

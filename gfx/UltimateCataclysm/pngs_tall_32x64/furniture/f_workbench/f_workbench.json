@@ -1,7 +1,7 @@
 [
   {
     "id": "f_workbench",
-    "fg": ["f_workbench"],
-    "bg": []
+    "fg": "f_workbench",
+    "bg": ""
   }
 ]

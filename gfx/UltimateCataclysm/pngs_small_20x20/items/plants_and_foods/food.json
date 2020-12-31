@@ -1,100 +1,72 @@
 [
   {
     "id": "apple",
-    "fg": [
-      "apple"
-    ],
-    "bg": []
+    "fg": "apple",
+    "bg": ""
   },
   {
     "id": "banana",
-    "fg": [
-      "banana"
-    ],
-    "bg": []
+    "fg": "banana",
+    "bg": ""
   },
   {
     "id": "broccoli",
-    "fg": [
-      "broccoli"
-    ],
-    "bg": []
+    "fg": "broccoli",
+    "bg": ""
   },
   {
     "id": "corn",
-    "fg": [
-      "corn"
-    ],
-    "bg": []
+    "fg": "corn",
+    "bg": ""
   },
   {
     "id": "cucumber",
-    "fg": [
-      "cucumber"
-    ],
-    "bg": []
+    "fg": "cucumber",
+    "bg": ""
   },
   {
     "id": "egg_bird",
-    "fg": [
-      "egg_bird"
-    ],
-    "bg": []
+    "fg": "egg_bird",
+    "bg": ""
   },
   {
     "id": "grapes",
-    "fg": [
-      "grapes"
-    ],
-    "bg": []
+    "fg": "grapes",
+    "bg": ""
   },
   {
     "id": "lemon",
-    "fg": [
-      "lemon"
-    ],
-    "bg": []
+    "fg": "lemon",
+    "bg": ""
   },
   {
     "id": "onion",
-    "fg": [
-      "onion"
-    ],
-    "bg": []
+    "fg": "onion",
+    "bg": ""
   },
   {
     "id": "orange",
-    "fg": [
-      "orange"
-    ],
-    "bg": []
+    "fg": "orange",
+    "bg": ""
   },
   {
     "id": "pear",
-    "fg": [
-      "pear"
-    ],
-    "bg": []
+    "fg": "pear",
+    "bg": ""
   },
   {
     "id": "potato",
-    "fg": [
-      "potato"
-    ],
-    "bg": []
+    "fg": "potato",
+    "bg": ""
   },
   {
     "id": "pumpkin",
-    "fg": [
-      "pumpkin"
-    ],
-    "bg": []
+    "fg": "pumpkin",
+    "bg": ""
   },
   {
     "id": "tomato",
-    "fg": [
-      "tomato"
-    ],
-    "bg": []
+    "fg": "tomato",
+    "bg": ""
   }
 ]

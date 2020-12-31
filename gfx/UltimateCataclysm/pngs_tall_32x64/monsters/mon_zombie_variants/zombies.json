@@ -8,42 +8,42 @@
       { "weight": 100, "sprite": "mon_zombie_4" },
       { "weight": 150, "sprite": "mon_zombie_5" }
     ],
-    "bg": [ "shadow_32x64_normal" ]
+    "bg": "shadow_32x64_normal"
   },
   {
     "id": "mon_zombie_hazmat",
-    "fg": [ "mon_zombie_hazmat" ],
-    "bg": [ "shadow_32x64_normal" ]
+    "fg": "mon_zombie_hazmat",
+    "bg": "shadow_32x64_normal"
   },
   {
     "id": "mon_zombie_fireman",
-    "fg": [ "mon_zombie_fireman" ],
-    "bg": [ "shadow_32x64_normal" ]
+    "fg": "mon_zombie_fireman",
+    "bg": "shadow_32x64_normal"
   },
   {
     "id": "mon_zombie_scientist",
     "fg": [ { "weight": 1, "sprite": "mon_zombie_scientist_f" }, { "weight": 1, "sprite": "mon_zombie_scientist_m" } ],
-    "bg": [ "shadow_32x64_normal" ]
+    "bg": "shadow_32x64_normal"
   },
   {
     "id": "mon_zombie_cop",
-    "fg": [ "mon_zombie_cop" ],
-    "bg": [ "shadow_32x64_normal" ]
+    "fg": "mon_zombie_cop",
+    "bg": "shadow_32x64_normal"
   },
   {
     "id": "mon_zombie_labsecurity",
-    "fg": [ "mon_zombie_labsecurity" ],
-    "bg": [ "shadow_32x64_normal" ]
+    "fg": "mon_zombie_labsecurity",
+    "bg": "shadow_32x64_normal"
   },
   {
     "id": "mon_zombie_tough",
     "fg": [ { "weight": 1, "sprite": "mon_zombie_tough" }, { "weight": 1, "sprite": "mon_zombie_tough_2" } ],
-    "bg": [ "shadow_32x64_normal" ]
+    "bg": "shadow_32x64_normal"
   },
   {
     "id": "mon_zombie_technician",
     "fg": [ { "weight": 1, "sprite": "mon_zombie_technician_f" }, { "weight": 1, "sprite": "mon_zombie_technician_m" } ],
-    "bg": [ "shadow_32x64_normal" ]
+    "bg": "shadow_32x64_normal"
   },
   {
     "id": [
@@ -84,23 +84,23 @@
       "corpse_mon_zombie_winged",
       "corpse_mon_zombie_military_pilot"
     ],
-    "fg": [ "corpse_mon_zombie" ],
-    "bg": [  ]
+    "fg": "corpse_mon_zombie",
+    "bg": ""
   },
   {
-    "id": [ "corpse_mon_zombie_scientist" ],
-    "fg": [ "corpse_mon_zombie_scientist" ],
-    "bg": [  ]
+    "id": "corpse_mon_zombie_scientist",
+    "fg": "corpse_mon_zombie_scientist",
+    "bg": ""
   },
   {
     "id": [ "corpse_mon_zombie_technician", "corpse_mon_zombie_hazmat" ],
-    "fg": [ "corpse_mon_zombie_technician" ],
-    "bg": [  ]
+    "fg": "corpse_mon_zombie_technician",
+    "bg": ""
   },
   {
     "id": [ "corpse_mon_zombie_cop", "corpse_mon_zombie_labsecurity" ],
-    "fg": [ "corpse_mon_zombie_cop" ],
-    "bg": [  ]
+    "fg": "corpse_mon_zombie_cop",
+    "bg": ""
   },
   {
     "id": [
@@ -117,7 +117,7 @@
       "corpse_mon_zombie_soldier_blackops_2",
       "corpse_mon_zombie_soldier_blackops_1"
     ],
-    "fg": [ "corpse_mon_zombie_tough" ],
-    "bg": [  ]
+    "fg": "corpse_mon_zombie_tough",
+    "bg": ""
   }
 ]

@@ -1,5 +1,5 @@
 {
   "id": "overlay_male_worn_glasses_bifocal",
-  "fg": ["glasses_bifocal_m"],
-  "bg": []
+  "fg": "glasses_bifocal_m",
+  "bg": ""
 }

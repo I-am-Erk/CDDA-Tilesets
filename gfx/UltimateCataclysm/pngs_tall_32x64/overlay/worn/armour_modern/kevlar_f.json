@@ -1,5 +1,5 @@
 {
   "id": "overlay_female_worn_kevlar",
-  "fg": ["kevlar_f"],
-  "bg": []
+  "fg": "kevlar_f",
+  "bg": ""
 }

@@ -1,5 +1,5 @@
 {
   "id": "f_speaker_cabinet",
-  "fg": ["f_speaker_cabinet"],
-  "bg": []
+  "fg": "f_speaker_cabinet",
+  "bg": ""
 }

@@ -1,7 +1,5 @@
 {
   "id": "t_ladder_down",
-  "fg": [
-    "t_ladder_down"
-  ],
-  "bg": []
+  "fg": "t_ladder_down",
+  "bg": ""
 }

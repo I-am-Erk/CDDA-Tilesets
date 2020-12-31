@@ -5,6 +5,6 @@
       { "weight": 100, "sprite": "t_elevator1" },
       { "weight": 100, "sprite": "t_elevator2" }
     ],
-    "bg": [ ]
+    "bg": ""
   }
 ]

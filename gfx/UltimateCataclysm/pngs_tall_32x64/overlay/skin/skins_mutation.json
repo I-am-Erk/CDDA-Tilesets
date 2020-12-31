@@ -1,52 +1,52 @@
 [
   {
     "id": "overlay_female_mutation_CHITIN",
-    "fg": [ "chitin_f" ],
-    "bg": [  ]
+    "fg": "chitin_f",
+    "bg": ""
   },
   {
     "id": "overlay_male_mutation_CHITIN",
-    "fg": [ "chitin_m" ],
-    "bg": [  ]
+    "fg": "chitin_m",
+    "bg": ""
   },
   {
     "id": "overlay_female_mutation_CHITIN2",
-    "fg": [ "chitin2_f" ],
-    "bg": [  ]
+    "fg": "chitin2_f",
+    "bg": ""
   },
   {
     "id": "overlay_male_mutation_CHITIN2",
-    "fg": [ "chitin2_m" ],
-    "bg": [  ]
+    "fg": "chitin2_m",
+    "bg": ""
   },
   {
     "id": "overlay_female_mutation_FEATHERS",
-    "fg": [ "feathers_f" ],
-    "bg": [  ]
+    "fg": "feathers_f",
+    "bg": ""
   },
   {
     "id": "overlay_male_mutation_FEATHERS",
-    "fg": [ "feathers_m" ],
-    "bg": [  ]
+    "fg": "feathers_m",
+    "bg": ""
   },
   {
     "id": "overlay_female_mutation_SCALES",
-    "fg": [ "scales_f" ],
-    "bg": [  ]
+    "fg": "scales_f",
+    "bg": ""
   },
   {
     "id": "overlay_male_mutation_SCALES",
-    "fg": [ "scales_m" ],
-    "bg": [  ]
+    "fg": "scales_m",
+    "bg": ""
   },
   {
     "id": "overlay_female_mutation_PLANTSKIN",
-    "fg": [ "plantskin_f" ],
-    "bg": [  ]
+    "fg": "plantskin_f",
+    "bg": ""
   },
   {
     "id": "overlay_male_mutation_PLANTSKIN",
-    "fg": [ "plantskin_m" ],
-    "bg": [  ]
+    "fg": "plantskin_m",
+    "bg": ""
   }
 ]

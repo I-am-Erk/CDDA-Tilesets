@@ -18,8 +18,8 @@
       "modern_tanner",
       "repeater_mod_guide"
     ],
-    "fg": [ "generic_book" ],
-    "bg": [  ]
+    "fg": "generic_book",
+    "bg": ""
   },
   {
     "id": [
@@ -40,8 +40,8 @@
       "textbook_robots",
       "textbook_armschina"
     ],
-    "fg": [ "generic_textbook" ],
-    "bg": [  ]
+    "fg": "generic_textbook",
+    "bg": ""
   },
   {
     "id": [
@@ -56,8 +56,8 @@
       "cookbook_daintydishes",
       "cookbook_liverforkids"
     ],
-    "fg": [ "generic_cookbook" ],
-    "bg": [  ]
+    "fg": "generic_cookbook",
+    "bg": ""
   },
   {
     "id": [
@@ -70,8 +70,8 @@
       "recipe_melee",
       "recipe_labchem"
     ],
-    "fg": [ "generic_recipebook" ],
-    "bg": [  ]
+    "fg": "generic_recipebook",
+    "bg": ""
   },
   {
     "id": [
@@ -88,13 +88,13 @@
       "recipe_creepy",
       "recipe_maiar"
     ],
-    "fg": [ "generic_recipebook" ],
-    "bg": [  ]
+    "fg": "generic_recipebook",
+    "bg": ""
   },
   {
     "id": [ "pocket_firstaid", "pocket_firearms", "pocket_survival" ],
-    "fg": [ "generic_pocketguide" ],
-    "bg": [  ]
+    "fg": "generic_pocketguide",
+    "bg": ""
   },
   {
     "id": [
@@ -119,8 +119,8 @@
       "mag_swimming",
       "mag_news"
     ],
-    "fg": [ "generic_magazine" ],
-    "bg": [  ]
+    "fg": "generic_magazine",
+    "bg": ""
   },
   {
     "id": [
@@ -137,8 +137,8 @@
       "schematics_searchlight",
       "schematics_secubot"
     ],
-    "fg": [ "generic_schematics" ],
-    "bg": [  ]
+    "fg": "generic_schematics",
+    "bg": ""
   },
   {
     "id": [
@@ -159,12 +159,12 @@
       "manual_shotgun",
       "manual_fabrication"
     ],
-    "fg": [ "generic_manual" ],
-    "bg": [  ]
+    "fg": "generic_manual",
+    "bg": ""
   },
   {
     "id": [ "record_patient", "tailor_portfolio", "isherwood_herbal_remedies" ],
-    "fg": [ "generic_binder" ],
-    "bg": [  ]
+    "fg": "generic_binder",
+    "bg": ""
   }
 ]

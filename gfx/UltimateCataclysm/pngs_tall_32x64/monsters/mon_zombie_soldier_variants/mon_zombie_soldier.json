@@ -2,11 +2,11 @@
   {
     "id": "mon_zombie_soldier",
     "fg": [ { "weight": 100, "sprite": "mon_zombie_soldier_1" }, { "weight": 100, "sprite": "mon_zombie_soldier_2" } ],
-    "bg": [ "shadow_32x64_normal" ]
+    "bg": "shadow_32x64_normal"
   },
   {
     "id": "mon_zombie_military_pilot",
-    "fg": [ "mon_zombie_military_pilot" ],
-    "bg": [ "shadow_32x64_normal" ]
+    "fg": "mon_zombie_military_pilot",
+    "bg": "shadow_32x64_normal"
   }
 ]

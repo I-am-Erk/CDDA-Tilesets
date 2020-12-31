@@ -1,7 +1,5 @@
 {
   "id": "box_small",
-  "fg": [
-    "box_small"
-  ],
-  "bg": []
+  "fg": "box_small",
+  "bg": ""
 }

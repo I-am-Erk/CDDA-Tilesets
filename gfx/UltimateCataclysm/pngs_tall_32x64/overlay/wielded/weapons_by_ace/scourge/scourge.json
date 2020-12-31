@@ -1,7 +1,7 @@
 [
   {
     "id": "overlay_wielded_bullwhip_razor",
-    "fg": [ "scourge_mf" ],
-    "bg": []
+    "fg": "scourge_mf",
+    "bg": ""
   }
 ]

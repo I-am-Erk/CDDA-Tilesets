@@ -1,16 +1,12 @@
 [
   {
     "id": "overlay_female_worn_beekeeping_hood",
-    "fg": [
-      "beekeeping_hood_f"
-    ],
-    "bg": []
+    "fg": "beekeeping_hood_f",
+    "bg": ""
   },
   {
     "id": "overlay_male_worn_beekeeping_hood",
-    "fg": [
-      "beekeeping_hood_m"
-    ],
-    "bg": []
+    "fg": "beekeeping_hood_m",
+    "bg": ""
   }
 ]

@@ -1,17 +1,17 @@
 [
   {
     "id": "overlay_wielded_fishing_rod_basic",
-    "fg": [ "basic_fishing_rod" ],
-    "bg": []
+    "fg": "basic_fishing_rod",
+    "bg": ""
   },
   {
     "id": "overlay_wielded_hoboreel",
-    "fg": [ "hobo_hand_reel" ],
-    "bg": []
+    "fg": "hobo_hand_reel",
+    "bg": ""
   },
   {
     "id": "overlay_wielded_fishing_rod_professional",
-    "fg": [ "pro_fishing_rod" ],
-    "bg": []
+    "fg": "pro_fishing_rod",
+    "bg": ""
   }
 ]

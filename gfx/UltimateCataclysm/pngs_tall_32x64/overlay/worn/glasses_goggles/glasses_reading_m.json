@@ -1,5 +1,5 @@
 {
   "id": "overlay_male_worn_glasses_reading",
-  "fg": ["glasses_reading_m"],
-  "bg": []
+  "fg": "glasses_reading_m",
+  "bg": ""
 }

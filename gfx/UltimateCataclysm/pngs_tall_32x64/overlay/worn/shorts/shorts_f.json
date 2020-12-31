@@ -1,5 +1,5 @@
 {
   "id": "overlay_female_worn_shorts",
-  "fg": ["shorts_f"],
-  "bg": []
+  "fg": "shorts_f",
+  "bg": ""
 }

@@ -1,5 +1,5 @@
 {
   "id": "chips",
-  "fg": ["chips"],
-  "bg": []
+  "fg": "chips",
+  "bg": ""
 }

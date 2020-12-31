@@ -1,5 +1,5 @@
 {
   "id": "knife_chef",
-  "fg": ["knife_chef"],
-  "bg": []
+  "fg": "knife_chef",
+  "bg": ""
 }

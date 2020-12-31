@@ -1,7 +1,7 @@
 [
   {
     "id": "mon_science_bot",
-    "fg": [ "mon_science_bot" ],
-    "bg": [ "shadow_64x64_normal" ]
+    "fg": "mon_science_bot",
+    "bg": "shadow_64x64_normal"
   }
 ]

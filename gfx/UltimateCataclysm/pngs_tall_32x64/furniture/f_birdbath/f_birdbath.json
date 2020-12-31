@@ -1,7 +1,7 @@
 [
   {
     "id": "f_birdbath",
-    "fg": ["f_birdbath"],
-    "bg": []
+    "fg": "f_birdbath",
+    "bg": ""
   }
 ]

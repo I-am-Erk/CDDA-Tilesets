@@ -1,7 +1,7 @@
 [
   {
     "id": "hoboreel",
-    "fg": [ "hoboreel" ],
-    "bg": []
+    "fg": "hoboreel",
+    "bg": ""
   }
 ]

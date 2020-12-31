@@ -1,72 +1,72 @@
 [
   {
-    "id": [ "overlay_effect_bleed" ],
-    "fg": [ "overlay_effects_bleed" ],
-    "bg": [  ]
+    "id": "overlay_effect_bleed",
+    "fg": "overlay_effects_bleed",
+    "bg": ""
   },
   {
-    "id": [ "overlay_effect_deaf" ],
-    "fg": [ "overlay_effects_deaf" ],
-    "bg": [  ]
+    "id": "overlay_effect_deaf",
+    "fg": "overlay_effects_deaf",
+    "bg": ""
   },
   {
-    "id": [ "overlay_effect_downed" ],
-    "fg": [ "overlay_effects_downed" ],
-    "bg": [  ]
+    "id": "overlay_effect_downed",
+    "fg": "overlay_effects_downed",
+    "bg": ""
   },
   {
-    "id": [ "overlay_effect_grabbed" ],
-    "fg": [ "overlay_effects_grabbed" ],
-    "bg": [  ]
+    "id": "overlay_effect_grabbed",
+    "fg": "overlay_effects_grabbed",
+    "bg": ""
   },
   {
-    "id": [ "overlay_effect_winded" ],
-    "fg": [ "overlay_effects_winded" ],
-    "bg": [  ]
+    "id": "overlay_effect_winded",
+    "fg": "overlay_effects_winded",
+    "bg": ""
   },
   {
-    "id": [ "overlay_effect_hot" ],
-    "fg": [ "overlay_effects_hot" ],
-    "bg": [  ]
+    "id": "overlay_effect_hot",
+    "fg": "overlay_effects_hot",
+    "bg": ""
   },
   {
-    "id": [ "overlay_effect_cold" ],
-    "fg": [ "overlay_effects_cold" ],
-    "bg": [  ]
+    "id": "overlay_effect_cold",
+    "fg": "overlay_effects_cold",
+    "bg": ""
   },
   {
     "id": [ "overlay_male_crouch", "overlay_female_crouch" ],
-    "fg": [ "overlay_mf_crouch" ],
-    "bg": [  ]
+    "fg": "overlay_mf_crouch",
+    "bg": ""
   },
   {
     "id": [ "overlay_male_run", "overlay_female_run" ],
-    "fg": [ "overlay_mf_run" ],
-    "bg": [  ]
+    "fg": "overlay_mf_run",
+    "bg": ""
   },
   {
-    "id": [ "overlay_hostile_sees_player" ],
-    "fg": [ "overlay_hostile_sees_player" ],
-    "bg": [  ]
+    "id": "overlay_hostile_sees_player",
+    "fg": "overlay_hostile_sees_player",
+    "bg": ""
   },
   {
-    "id": [ "overlay_neutral_sees_player" ],
-    "fg": [ "overlay_neutral_sees_player" ],
-    "bg": [  ]
+    "id": "overlay_neutral_sees_player",
+    "fg": "overlay_neutral_sees_player",
+    "bg": ""
   },
   {
-    "id": [ "overlay_friendly_sees_player" ],
-    "fg": [ "overlay_friendly_sees_player" ],
-    "bg": [  ]
+    "id": "overlay_friendly_sees_player",
+    "fg": "overlay_friendly_sees_player",
+    "bg": ""
   },
   {
-    "id": [ "overlay_other_sees_player" ],
-    "fg": [ "overlay_other_sees_player" ],
-    "bg": [  ]
+    "id": "overlay_other_sees_player",
+    "fg": "overlay_other_sees_player",
+    "bg": ""
   },
   {
-    "id": [ "zombie_revival_indicator" ],
-    "fg": [ "zombie_revival_indicator" ],
-    "bg": [  ]
+    "id": "zombie_revival_indicator",
+    "fg": "zombie_revival_indicator",
+    "bg": ""
   }
 ]

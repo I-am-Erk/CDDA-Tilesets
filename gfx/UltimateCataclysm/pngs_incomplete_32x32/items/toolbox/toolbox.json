@@ -1,7 +1,5 @@
 {
   "id": "toolbox",
-  "fg": [
-    "toolbox"
-  ],
-  "bg": []
+  "fg": "toolbox",
+  "bg": ""
 }

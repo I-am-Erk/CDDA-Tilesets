@@ -1,5 +1,5 @@
 {
   "id": "bottle_twoliter",
-  "fg": [ "bottle_twoliter" ],
-  "bg": []
+  "fg": "bottle_twoliter",
+  "bg": ""
 }

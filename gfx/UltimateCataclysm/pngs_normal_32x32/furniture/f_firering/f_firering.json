@@ -1,7 +1,5 @@
 {
   "id": "f_firering",
-  "fg": [
-    "f_firering"
-  ],
-  "bg": []
+  "fg": "f_firering",
+  "bg": ""
 }

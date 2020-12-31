@@ -1,5 +1,5 @@
 {
   "id": "overlay_male_worn_tank_top",
-  "fg": ["tank_top_m"],
-  "bg": []
+  "fg": "tank_top_m",
+  "bg": ""
 }

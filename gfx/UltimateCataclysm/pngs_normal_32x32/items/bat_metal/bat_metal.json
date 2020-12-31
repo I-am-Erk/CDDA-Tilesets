@@ -1,7 +1,5 @@
 {
   "id": "bat_metal",
-  "fg": [
-    "bat_metal"
-  ],
-  "bg": []
+  "fg": "bat_metal",
+  "bg": ""
 }

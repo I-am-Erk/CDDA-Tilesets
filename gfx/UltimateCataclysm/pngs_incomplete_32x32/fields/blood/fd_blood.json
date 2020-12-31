@@ -53,8 +53,7 @@
         "fd_blood_unconnected",
         "fd_blood_unconnected"
       ],
-      "bg": "",
-      "//": "Multitiles are assumed to rotate, two copies to omit rotation"
+      "bg": ""
     }
   ]
 }

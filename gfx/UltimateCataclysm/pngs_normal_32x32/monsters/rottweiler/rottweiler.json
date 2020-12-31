@@ -1,9 +1,5 @@
 {
   "id": "mon_dog_rottweiler",
-  "fg": [
-    "mon_dog_rottweiler"
-  ],
-  "bg": [
-    "shadow_32x32_normal"
-  ]
+  "fg": "mon_dog_rottweiler",
+  "bg": "shadow_32x32_normal"
 }

@@ -2,11 +2,11 @@
   {
     "id": "overlay_worn_bead_necklace",
     "fg": "bead_necklace_worn",
-    "bg": []
+    "bg": ""
   },
   {
     "id": "overlay_worn_bead_bracelet",
     "fg": "bead_bracelet_worn",
-    "bg": []
+    "bg": ""
   }
 ]

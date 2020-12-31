@@ -1,7 +1,5 @@
 {
   "id": "glass_plate",
-  "fg": [
-    "glass_plate"
-  ],
-  "bg": []
+  "fg": "glass_plate",
+  "bg": ""
 }

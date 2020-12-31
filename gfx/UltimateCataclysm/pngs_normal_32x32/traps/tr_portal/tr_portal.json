@@ -1,5 +1,5 @@
 {
   "id": "tr_portal",
-  "fg": ["tr_portal"],
-  "bg": []
+  "fg": "tr_portal",
+  "bg": ""
 }

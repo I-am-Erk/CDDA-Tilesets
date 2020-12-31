@@ -1,5 +1,5 @@
 {
   "id": "mon_fly",
-  "fg": ["mon_fly"],
-  "bg": ["shadow_32x64_normal"]
+  "fg": "mon_fly",
+  "bg": "shadow_32x64_normal"
 }

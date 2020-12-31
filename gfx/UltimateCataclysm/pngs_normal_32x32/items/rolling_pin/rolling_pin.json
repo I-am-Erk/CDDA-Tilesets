@@ -1,7 +1,7 @@
 [
   {
     "id": "rolling_pin",
-    "fg": [ "rolling_pin" ],
-    "bg": [ ]
+    "fg": "rolling_pin",
+    "bg": ""
   }
 ]

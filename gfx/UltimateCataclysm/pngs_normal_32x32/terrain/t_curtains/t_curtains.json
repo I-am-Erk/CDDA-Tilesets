@@ -1,5 +1,5 @@
 {
   "id": "t_curtains",
-  "fg": ["t_curtains"],
-  "bg": []
+  "fg": "t_curtains",
+  "bg": ""
 }

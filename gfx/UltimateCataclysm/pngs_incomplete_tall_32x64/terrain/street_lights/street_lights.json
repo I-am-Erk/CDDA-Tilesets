@@ -1,12 +1,12 @@
 [
   {
     "id": "f_street_light",
-    "fg": [ "f_street_light" ],
-    "bg": [ "" ]
+    "fg": "f_street_light",
+    "bg": ""
   },
   {
     "id": "f_traffic_light",
-    "fg": [ "f_traffic_light" ],
-    "bg": [ "" ]
+    "fg": "f_traffic_light",
+    "bg": ""
   }
 ]

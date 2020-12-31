@@ -1,5 +1,5 @@
 {
   "id": "duct_tape",
-  "fg": ["duct_tape"],
-  "bg": []
+  "fg": "duct_tape",
+  "bg": ""
 }

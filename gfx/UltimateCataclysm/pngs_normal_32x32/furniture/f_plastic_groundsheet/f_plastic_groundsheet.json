@@ -1,7 +1,7 @@
 [
   {
   "id": "f_plastic_groundsheet",
-  "fg": [ "f_plastic_groundsheet" ],
-  "bg": [  ]
+  "fg": "f_plastic_groundsheet",
+  "bg": ""
   }
 ]

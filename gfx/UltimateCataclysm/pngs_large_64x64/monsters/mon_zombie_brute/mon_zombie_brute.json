@@ -6,5 +6,5 @@
     { "weight": 50, "sprite": "mon_zombie_brute_var3" },
     { "weight": 50, "sprite": "mon_zombie_brute_var4" }
   ],
-  "bg": ["shadow_64x64_medium"]
+  "bg": "shadow_64x64_medium"
 }
