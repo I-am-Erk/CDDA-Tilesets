@@ -11,13 +11,13 @@ on:
     branches:
       - master
     paths:
-      - 'gfx/MShockXotto+/**'
+      - 'gfx/MShockXotto\+/**'
       - '.github/workflows/msx_ci_build.yml'
   pull_request:
     branches:
       - master
     paths:
-      - 'gfx/MShockXotto+/**'
+      - 'gfx/MShockXotto\+/**'
       - '.github/workflows/msx_ci_build.yml'
 
 jobs:
