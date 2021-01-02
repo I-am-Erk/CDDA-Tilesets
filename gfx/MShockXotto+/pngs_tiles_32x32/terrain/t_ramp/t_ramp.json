@@ -1,48 +1,22 @@
 [
   {
-    "id": "t_ramp_down_high",
-    "fg": [ "t_ramp_down_high_n", "t_ramp_down_high_e", "t_ramp_down_high_s", "t_ramp_down_high_w" ],
-    "bg": "",
-    "rotates": true
+    "id": [ "t_ramp_up_high", "t_ramp_up_low" ],
+    "fg": "t_ramp_up",
+    "bg": ""
   },
   {
-    "id": [ "t_ramp_up_high" ],
-    "fg": [ "t_ramp_up_high_n", "t_ramp_up_high_e", "t_ramp_up_high_s", "t_ramp_up_high_w" ],
-    "bg": "",
-    "rotates": true
+    "id": [ "t_ramp_down_high", "t_ramp_down_low" ],
+    "fg": "t_ramp_down",
+    "bg": ""
   },
   {
-    "id": [ "t_sidewalk_ramp_up_low" ],
-    "fg": [ "t_sidewalk_ramp_up_low_n", "t_sidewalk_ramp_up_low_e", "t_sidewalk_ramp_up_low_s", "t_sidewalk_ramp_up_low_w" ],
-    "bg": "",
-    "rotates": true
+    "id": [ "t_sidewalk_ramp_up_low", "t_sidewalk_ramp_up_high" ],
+    "fg": "t_sidewalk_ramp_up",
+    "bg": ""
   },
   {
-    "id": [ "t_sidewalk_ramp_down_low" ],
-    "fg": [
-      "t_sidewalk_ramp_down_low_n",
-      "t_sidewalk_ramp_down_low_e",
-      "t_sidewalk_ramp_down_low_s",
-      "t_sidewalk_ramp_down_low_w"
-    ],
-    "bg": "",
-    "rotates": true
-  },
-  {
-    "id": [ "t_sidewalk_ramp_up_high" ],
-    "fg": [ "t_sidewalk_ramp_up_high_n", "t_sidewalk_ramp_up_high_e", "t_sidewalk_ramp_up_high_s", "t_sidewalk_ramp_up_high_w" ],
-    "bg": "",
-    "rotates": true
-  },
-  {
-    "id": [ "t_sidewalk_ramp_down_high" ],
-    "fg": [
-      "t_sidewalk_ramp_down_high_n",
-      "t_sidewalk_ramp_down_high_e",
-      "t_sidewalk_ramp_down_high_s",
-      "t_sidewalk_ramp_down_high_w"
-    ],
-    "bg": "",
-    "rotates": true
+    "id": [ "t_sidewalk_ramp_down_low", "t_sidewalk_ramp_down_high" ],
+    "fg": "t_sidewalk_ramp_down",
+    "bg": ""
   }
 ]
