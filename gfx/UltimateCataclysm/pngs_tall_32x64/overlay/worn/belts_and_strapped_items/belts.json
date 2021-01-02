@@ -1,0 +1,22 @@
+[
+  {
+    "id": "overlay_worn_leather_belt",
+    "fg": "leather_belt_mf",
+    "bg": ""
+  },
+  {
+    "id": "overlay_worn_police_belt",
+    "fg": "police_duty_belt_mf",
+    "bg": ""
+  },
+  {
+    "id": "overlay_worn_tool_belt",
+    "fg": "tool_belt_mf",
+    "bg": ""
+  },
+  {
+    "id": "overlay_worn_webbing_belt",
+    "fg": "webbing_belt_mf",
+    "bg": ""
+  }
+]
