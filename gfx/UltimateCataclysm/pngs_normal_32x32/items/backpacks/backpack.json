@@ -5,6 +5,11 @@
   "bg": ""
 },
 {
+  "id": "duffelbag",
+  "fg": "duffelbag",
+  "bg": ""
+},
+{
   "id": "molle_pack",
   "fg": "molle_pack",
   "bg": ""
