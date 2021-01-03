@@ -105,6 +105,11 @@
     "bg": ""
   },
   {
+    "id": "leather_belt",
+    "fg": "leather_belt",
+    "bg": ""
+  },
+  {
     "id": "longshirt",
     "fg": "longshirt",
     "bg": ""
@@ -177,6 +182,11 @@
   {
     "id": "tank_top",
     "fg": "tank_top",
+    "bg": ""
+  },
+  {
+    "id": "tool_belt",
+    "fg": "tool_belt",
     "bg": ""
   },
   {
