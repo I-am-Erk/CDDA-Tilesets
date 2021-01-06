@@ -1,5 +1,10 @@
 [
   {
+    "id": "axe_ring",
+    "fg": "axe_ring",
+    "bg": ""
+  },
+  {
     "id": "balclava",
     "fg": "balaclava",
     "bg": ""
@@ -37,6 +42,11 @@
   {
     "id": "briefs",
     "fg": "briefs",
+    "bg": ""
+  },
+  {
+    "id": "bscabbard",
+    "fg": "bscabbard",
     "bg": ""
   },
   {
@@ -92,6 +102,11 @@
   {
     "id": "helmet_kabuto",
     "fg": "helmet_kabuto",
+    "bg": ""
+  },
+  {
+    "id": "holster",
+    "fg": "holster",
     "bg": ""
   },
   {
@@ -155,6 +170,11 @@
     "bg": ""
   },
   {
+    "id": "scabbard",
+    "fg": "scabbard",
+    "bg": ""
+  },
+  {
     "id": "sneakers",
     "fg": "sneakers",
     "bg": ""
@@ -162,6 +182,11 @@
   {
     "id": "socks",
     "fg": "socks",
+    "bg": ""
+  },
+  {
+    "id": "spearsling",
+    "fg": "spearsling",
     "bg": ""
   },
   {
