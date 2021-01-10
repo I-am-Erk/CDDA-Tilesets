@@ -1,7 +1,7 @@
 [
   {
-    "id": [ "vp_door_interior" ],
-    "fg": [ "vp_door_interior_rotN", "vp_door_interior_rotW", "vp_door_interior_rotS", "vp_door_interior_rotE" ],
+    "id": [ "vp_door_internal" ],
+    "fg": [ "vp_door_internal_rotN", "vp_door_internal_rotW", "vp_door_internal_rotS", "vp_door_internal_rotE" ],
     "bg": [  ],
     "rotates": true,
     "multitile": true,
@@ -9,17 +9,17 @@
       {
         "id": "open",
         "fg": [
-          "vp_door_interior_rotN_open",
-          "vp_door_interior_rotW_open",
-          "vp_door_interior_rotS_open",
-          "vp_door_interior_rotE_open"
+          "vp_door_internal_rotN_open",
+          "vp_door_internal_rotW_open",
+          "vp_door_internal_rotS_open",
+          "vp_door_internal_rotE_open"
         ],
         "bg": [  ]
       },
       {
         "id": "broken",
         "fg": [ "3987_vp_cargo_space_2" ],
-        "bg": [ "vp_door_interior_rotN", "vp_door_interior_rotW", "vp_door_interior_rotS", "vp_door_interior_rotE" ]
+        "bg": [ "vp_door_internal_rotN", "vp_door_internal_rotW", "vp_door_internal_rotS", "vp_door_internal_rotE" ]
       }
     ]
   },

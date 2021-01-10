@@ -7,7 +7,7 @@
     "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_wheel" ] } ]
   },
   {
-    "id": [ "vp_wheel_bicycle", "vp_wheel_bicycle_steerable","vp_wheel_motorbike", "vp_wheel_motorbike_steerable"  ],
+    "id": [ "vp_wheel_bicycle", "vp_wheel_bicycle_steerable", "vp_wheel_motorbike", "vp_wheel_motorbike_steerable" ],
     "fg": [ "vp_wheel_bicycle_rotN", "vp_wheel_bicycle_rotW", "vp_wheel_bicycle_rotS", "vp_wheel_bicycle_rotE" ],
     "rotates": true,
     "bg": [  ],
@@ -40,5 +40,47 @@
     "bg": [  ],
     "multitile": true,
     "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_mounted_spare_tire" ] } ]
+  },
+  {
+    "id": [ "vp_wheel_wood" ],
+    "fg": [ "vp_wheel_wood_rotN", "vp_wheel_wood_rotW", "vp_wheel_wood_rotS", "vp_wheel_wood_rotE" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "3987_vp_cargo_space_2" ],
+        "bg": [ "vp_wheel_wood_rotN", "vp_wheel_wood_rotW", "vp_wheel_wood_rotS", "vp_wheel_wood_rotE" ]
+      }
+    ]
+  },
+  {
+    "id": [ "vp_wheel_wood_b" ],
+    "fg": [ "vp_wheel_wood_b_rotN", "vp_wheel_wood_b_rotW", "vp_wheel_wood_b_rotS", "vp_wheel_wood_b_rotE" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "3987_vp_cargo_space_2" ],
+        "bg": [ "vp_wheel_wood_b_rotN", "vp_wheel_wood_b_rotW", "vp_wheel_wood_b_rotS", "vp_wheel_wood_b_rotE" ]
+      }
+    ]
+  },
+  {
+    "id": [ "vp_yoke_harness" ],
+    "fg": [ "vp_yoke_harness_up", "vp_yoke_harness_left", "vp_yoke_harness_down", "vp_yoke_harness_right" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "3987_vp_cargo_space_2" ],
+        "bg": [ "vp_yoke_harness_up", "vp_yoke_harness_left", "vp_yoke_harness_down", "vp_yoke_harness_right" ]
+      }
+    ]
   }
 ]
