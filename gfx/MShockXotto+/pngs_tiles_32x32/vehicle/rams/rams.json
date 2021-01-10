@@ -10,5 +10,24 @@
     "fg": [ "vp_ram_military", "vp_ram_military_left", "vp_ram_military_down", "vp_ram_military_right" ],
     "bg": "",
     "rotates": true
+  },
+  {
+    "id": "vp_ram_steel",
+    "fg": [ "vp_ram_steel", "vp_ram_steel_left", "vp_ram_steel_down", "vp_ram_steel_right" ],
+    "bg": "",
+    "rotates": true
+  },
+  {
+    "id": "vp_ram_hardsteel",
+    "fg": [ "vp_ram_hardsteel", "vp_ram_hardsteel_left", "vp_ram_hardsteel_down", "vp_ram_hardsteel_right" ],
+    "bg": "",
+    "rotates": true
+  }
+,
+  {
+    "id": "vp_ram_alloy",
+    "fg": [ "vp_ram_alloy", "vp_ram_alloy_left", "vp_ram_alloy_down", "vp_ram_alloy_right" ],
+    "bg": "",
+    "rotates": true
   }
 ]
