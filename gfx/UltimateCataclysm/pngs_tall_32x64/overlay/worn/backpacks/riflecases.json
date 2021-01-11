@@ -41,12 +41,12 @@
 },
 {
   "id": "overlay_female_worn_rifle_case_xl_soft_leather",
-  "fg": "overlay_female_worn_rifle_case_soft",
+  "fg": "overlay_female_worn_rifle_case_soft_leather",
   "bg": ""
 },
 {
   "id": "overlay_male_worn_rifle_case_xl_soft_leather",
-  "fg": "overlay_male_worn_rifle_case_soft",
+  "fg": "overlay_male_worn_rifle_case_soft_leather",
   "bg": ""
 }
 ]
