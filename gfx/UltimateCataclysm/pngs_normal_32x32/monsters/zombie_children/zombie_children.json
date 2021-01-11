@@ -33,5 +33,10 @@
   "id": "mon_zombie_sproglodyte",
   "fg": ["mon_zombie_sproglodyte"],
   "bg": ["shadow_32x32_small"]
+  },
+  {
+  "id": "mon_zombie_waif",
+  "fg": ["howling_waif"],
+  "bg": ["shadow_32x32_small"]
   }
 ]
