@@ -15,12 +15,7 @@
   "bg": ""
 },
 {
-  "id": "rifle_case_xl_soft_leather",
-  "fg": "rifle_case_soft_leather",
-  "bg": ""
-},
-{
-  "id": "rifle_case_soft_leather",
+  "id": ["rifle_case_soft_leather", "rifle_case_xl_soft_leather"],
   "fg": "rifle_case_soft_leather",
   "bg": ""
 }
