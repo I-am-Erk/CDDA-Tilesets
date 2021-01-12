@@ -1,0 +1,17 @@
+[
+  {
+  "id": "katana",
+  "fg": "katana",
+  "bg": ""
+  },
+  {
+  "id": "katana_fake",
+  "fg": "katana",
+  "bg": ""
+  },
+  {
+  "id": "katana_inferior",
+  "fg": "katana",
+  "bg": ""
+  }
+]
