@@ -1,1 +1,0 @@
-{"id": "vp_seat", "fg": ["4134_vp_seat_0"], "bg": ["1005_vp_cargo_space_1"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["3987_vp_cargo_space_2"], "bg": ["4134_vp_seat_0"]}]}
