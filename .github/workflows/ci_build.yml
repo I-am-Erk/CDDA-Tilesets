@@ -42,7 +42,7 @@ jobs:
           || echo "Error: Failed to get compose.py"
 
           cd ..
-          python3 build/compose.py --use-all gfx/UltimateCataclysm
+          python3 build/compose.py --use-all --obsolete-fillers gfx/UltimateCataclysm
           cd build
 
           artifact_name=UltimateCataclysm-$(echo $GITHUB_SHA | cut -c -8)
