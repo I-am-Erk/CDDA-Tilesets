@@ -21,6 +21,25 @@
   },
   {
     "id": [
+      "forest_trail_end"
+      "forest_trail_isolated",
+      "forest_trail_ne",
+      "forest_trail_ns",
+      "forest_trail_es",
+      "forest_trail_nes",
+      "forest_trail_wn",
+      "forest_trail_ew",
+      "forest_trail_new",
+      "forest_trail_sw",
+      "forest_trail_nsw",
+      "forest_trail_esw",
+      "forest_trail_nesw"
+    ],
+    "fg": "t_shrub_strawberry",
+    "bg": "t_moss_center"
+  },
+  {
+    "id": [
       "road_ne",
       "road_ns",
       "road_es",
@@ -40,6 +59,11 @@
     ],
     "fg": "t_pavement_y",
     "bg": ""
+  },
+  {
+    "id": "road_nesw_manhole",
+    "fg": "3116_t_manhole_0",
+    "bg": "t_pavement_y"
   },
   {
     "id": [
