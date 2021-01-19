@@ -33,63 +33,63 @@
   {
     "id": "t_grass_dead_season_summer",
     "multitile": true,
-    "fg": "t_grass_dead_summer_unconnected",
+    "fg": "t_grass_dead_season_summer_unconnected",
     "bg": "t_grass_summer",
     "additional_tiles": [
-      { "id": "center", "bg": "t_grass_summer", "fg": "t_grass_dead_summer_center" },
+      { "id": "center", "bg": "t_grass_summer", "fg": "t_grass_dead_season_summer_center" },
       {
         "id": "corner",
         "bg": "t_grass_summer",
-        "fg": [ "t_grass_dead_summer_corner_nw", "t_grass_dead_summer_corner_sw", "t_grass_dead_summer_corner_se", "t_grass_dead_summer_corner_ne" ]
+        "fg": [ "t_grass_dead_season_summer_corner_nw", "t_grass_dead_season_summer_corner_sw", "t_grass_dead_season_summer_corner_se", "t_grass_dead_season_summer_corner_ne" ]
       },
       {
         "id": "t_connection",
         "bg": "t_grass_summer",
         "fg": [
-          "t_grass_dead_summer_t_connection_n",
-          "t_grass_dead_summer_t_connection_w",
-          "t_grass_dead_summer_t_connection_s",
-          "t_grass_dead_summer_t_connection_e"
+          "t_grass_dead_season_summer_t_connection_n",
+          "t_grass_dead_season_summer_t_connection_w",
+          "t_grass_dead_season_summer_t_connection_s",
+          "t_grass_dead_season_summer_t_connection_e"
         ]
       },
-      { "id": "edge", "bg": "t_grass_summer", "fg": [ "t_grass_dead_summer_edge_ns", "t_grass_dead_summer_edge_ew" ] },
+      { "id": "edge", "bg": "t_grass_summer", "fg": [ "t_grass_dead_season_summer_edge_ns", "t_grass_dead_season_summer_edge_ew" ] },
       {
         "id": "end_piece",
         "bg": "t_grass_summer",
-        "fg": [ "t_grass_dead_summer_end_piece_n", "t_grass_dead_summer_end_piece_w", "t_grass_dead_summer_end_piece_s", "t_grass_dead_summer_end_piece_e" ]
+        "fg": [ "t_grass_dead_season_summer_end_piece_n", "t_grass_dead_season_summer_end_piece_w", "t_grass_dead_season_summer_end_piece_s", "t_grass_dead_season_summer_end_piece_e" ]
       },
-      { "bg": "t_grass_summer", "id": "unconnected", "fg": "t_grass_dead_summer_unconnected" }
+      { "bg": "t_grass_summer", "id": "unconnected", "fg": "t_grass_dead_season_summer_unconnected" }
     ]
   },
   {
     "id": "t_grass_dead_season_autumn",
     "multitile": true,
-    "fg": "t_grass_dead_autumn_unconnected",
+    "fg": "t_grass_dead_season_autumn_unconnected",
     "bg": "t_grass_autumn",
     "additional_tiles": [
-      { "id": "center", "bg": "t_grass_autumn", "fg": "t_grass_dead_autumn_center" },
+      { "id": "center", "bg": "t_grass_autumn", "fg": "t_grass_dead_season_autumn_center" },
       {
         "id": "corner",
         "bg": "t_grass_autumn",
-        "fg": [ "t_grass_dead_autumn_corner_nw", "t_grass_dead_autumn_corner_sw", "t_grass_dead_autumn_corner_se", "t_grass_dead_autumn_corner_ne" ]
+        "fg": [ "t_grass_dead_season_autumn_corner_nw", "t_grass_dead_season_autumn_corner_sw", "t_grass_dead_season_autumn_corner_se", "t_grass_dead_season_autumn_corner_ne" ]
       },
       {
         "id": "t_connection",
         "bg": "t_grass_autumn",
         "fg": [
-          "t_grass_dead_autumn_t_connection_n",
-          "t_grass_dead_autumn_t_connection_w",
-          "t_grass_dead_autumn_t_connection_s",
-          "t_grass_dead_autumn_t_connection_e"
+          "t_grass_dead_season_autumn_t_connection_n",
+          "t_grass_dead_season_autumn_t_connection_w",
+          "t_grass_dead_season_autumn_t_connection_s",
+          "t_grass_dead_season_autumn_t_connection_e"
         ]
       },
-      { "id": "edge", "bg": "t_grass_autumn", "fg": [ "t_grass_dead_autumn_edge_ns", "t_grass_dead_autumn_edge_ew" ] },
+      { "id": "edge", "bg": "t_grass_autumn", "fg": [ "t_grass_dead_season_autumn_edge_ns", "t_grass_dead_season_autumn_edge_ew" ] },
       {
         "id": "end_piece",
         "bg": "t_grass_autumn",
-        "fg": [ "t_grass_dead_autumn_end_piece_n", "t_grass_dead_autumn_end_piece_w", "t_grass_dead_autumn_end_piece_s", "t_grass_dead_autumn_end_piece_e" ]
+        "fg": [ "t_grass_dead_season_autumn_end_piece_n", "t_grass_dead_season_autumn_end_piece_w", "t_grass_dead_season_autumn_end_piece_s", "t_grass_dead_season_autumn_end_piece_e" ]
       },
-      { "bg": "t_grass_autumn", "id": "unconnected", "fg": "t_grass_dead_autumn_unconnected" }
+      { "bg": "t_grass_autumn", "id": "unconnected", "fg": "t_grass_dead_season_autumn_unconnected" }
     ]
   },
   {
