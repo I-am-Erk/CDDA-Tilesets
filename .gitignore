@@ -3,21 +3,8 @@ __pycache__
 # generated on build
 gfx/*/tile_config.json
 
-# UltimateCataclysm built sprite sheets
-gfx/UltimateCataclysm/*.png
-
-# BrownLikeBears built sprite sheets
-gfx/BrownLikeBears/*.png
-
-# NeoDays built sprite sheets
-gfx/NeoDays/*.png
-
-# RetroDays built sprite sheets
-gfx/Retrodays/*.png
-
-# MShockXotto+ built sprite sheets
-gfx/MShockXotto+/*.png
-
+# built sprite sheets
+gfx/*/*.png
 
 # Builded book
 book
