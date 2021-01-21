@@ -58,7 +58,7 @@
     }
   ]
 }, {
-  "id": "t_water_hot",
+  "id": "t_water_hot_season_summer",
   "fg": "t_water_hot_unconnected",
   "bg": "t_grass_summer",
   "multitile": true,
@@ -116,7 +116,7 @@
     }
   ]
 }, {
-  "id": "t_water_hot",
+  "id": "t_water_hot_season_autumn",
   "fg": "t_water_hot_unconnected",
   "bg": "t_grass_autumn",
   "multitile": true,
@@ -174,7 +174,7 @@
     }
   ]
 }, {
-  "id": "t_water_hot",
+  "id": "t_water_hot_season_winter",
   "fg": "t_water_hot_unconnected",
   "bg": "snow_shallow_center",
   "multitile": true,
