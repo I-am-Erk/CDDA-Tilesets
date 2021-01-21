@@ -10,7 +10,7 @@
     "bg": "shadow_32x64_normal"
   },
   {
-    "id": [ "corpse_mon_skeleton", "mon_skeleton_brute" ],
+    "id": [ "corpse_mon_skeleton", "corpse_mon_skeleton_brute" ],
     "fg": "corpse_mon_zombie_rot",
     "bg": ""
   }
