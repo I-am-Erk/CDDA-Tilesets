@@ -1,5 +1,6 @@
 {
   "id": "f_dresser",
-  "fg": "f_dresser",
+  "rotates": true,
+  "fg": [ "f_dresser_faceS", "f_dresser_faceW", "f_dresser_faceN", "f_dresser_faceE" ],
   "bg": ""
 }
