@@ -1,5 +1,5 @@
 <!-- HOW TO USE: Under each "#### Heading" below, enter information relevant to your pull request.
-Leave the headings unless they don't apply to your PR.
+Comment blocks, surrounded with <!–– and ––>, won't be visible in the actual post.
 -->
 
 #### Summary
@@ -25,7 +25,7 @@ Do not enter the square brackets [].  Category must be one of these:
 
 
 #### Testing
-<!-- Describe what steps you took to test this PR, if applicable include screenshot of the sprites in game or at least in your image editor.  -->
+<!-- If applicable include screenshots of the sprites in game or at least in your image editor.  -->
 
 
 #### Additional context
