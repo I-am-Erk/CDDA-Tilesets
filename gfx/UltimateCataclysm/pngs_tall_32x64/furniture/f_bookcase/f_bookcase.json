@@ -52,7 +52,8 @@
       "bg": "",
       "id": "unconnected",
       "fg": [
-        "f_bookcase"
+        "f_bookcase",
+		"f_bookcase"
       ]
     }
   ]
