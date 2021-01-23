@@ -1,6 +1,7 @@
 {
   "id": "f_bookcase",
   "multitile": true,
+  "rotates": false,
   "fg": "f_bookcase",
   "bg": "",
   "additional_tiles": [
@@ -33,7 +34,7 @@
       "id": "edge",
       "bg": "",
       "fg": [
-        "f_bookcase",
+        "f_bookcase_edge_ns",
         "f_bookcase"
       ]
     },
