@@ -1,0 +1,27 @@
+[
+    {
+        "id": "t_shrub_peanut",
+        "fg": "t_shrub_peanut",
+        "bg": "t_grass"
+    },
+    {
+        "id": "t_shrub_peanut_harvested",
+        "fg": "t_shrub_peanut_harvested",
+        "bg": "t_grass_autumn"
+    },
+    {
+        "id": "t_shrub_peanut_season_summer",
+        "fg": "t_shrub_peanut",
+        "bg": "t_grass_summer"
+    },
+    {
+        "id": "t_shrub_peanut_season_autumn",
+        "fg": "t_shrub_peanut_autumn",
+        "bg": "t_grass_autumn"
+    },
+    {
+        "id": "t_shrub_peanut_season_winter",
+        "fg": "t_shrub_peanut_winter",
+        "bg": "snow_deep"
+    }
+]
