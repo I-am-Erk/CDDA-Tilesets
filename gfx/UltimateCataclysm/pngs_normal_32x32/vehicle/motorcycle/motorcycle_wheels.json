@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "vp_wheel_motorbike", "vp_wheel_motorbike_steerable", "vp_wheel_motorbike_or", "vp_wheel_motorbike_or_steerable" ],
+    "fg": [ "vp_wheel_motor_rotN", "vp_wheel_motor_rotW", "vp_wheel_motor_rotS", "vp_wheel_motor_rotE" ],
+    "rotates": true,
+    "bg": ""
+  },
+  {
+    "id": [ "vp_wheel_motorbike_rear", "vp_wheel_motorbike_or_rear" ],
+    "fg": [ "vp_wheel_motor_rear_rotN", "vp_wheel_motor_rear_rotW", "vp_wheel_motor_rear_rotS", "vp_wheel_motor_rear_rotE" ],
+    "rotates": true,
+    "bg": ""
+  }
+]
