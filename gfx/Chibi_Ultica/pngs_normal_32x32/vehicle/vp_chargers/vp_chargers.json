@@ -1,0 +1,11 @@
+[
+  {
+    "id": "vp_battery_charger",
+    "fg": "vp_battery_charger",
+    "bg": "vp_trunk"
+  }, {
+    "id": "vp_recharge_station",
+    "fg": "vp_recharge_station",
+    "bg": "vp_trunk"
+  }
+]

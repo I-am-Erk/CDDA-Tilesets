@@ -1,0 +1,27 @@
+[
+  {
+    "id": "t_tree",
+    "fg": "t_tree_season_spring",
+    "bg": "t_grass_giant"
+  },
+  {
+    "id": "t_tree_season_summer",
+    "fg": "t_tree",
+    "bg": "t_grass_summer_giant"
+  },
+  {
+    "id": "t_tree_season_autumn",
+    "fg": [
+      { "weight": 100, "sprite": "t_tree_season_autumn" },
+      { "weight": 100, "sprite": "t_tree_season_autumn2" },
+      { "weight": 100, "sprite": "t_tree_season_autumn3" },
+      { "weight": 100, "sprite": "t_tree_season_autumn4" }
+    ],
+    "bg": "t_grass_autumn_giant"
+  },
+  {
+    "id": "t_tree_season_winter",
+    "fg": "t_tree_dead",
+    "bg": "snow_shallow_giant"
+  }
+]

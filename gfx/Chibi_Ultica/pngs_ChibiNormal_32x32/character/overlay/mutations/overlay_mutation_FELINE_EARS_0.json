@@ -1,0 +1,14 @@
+[
+  {
+    "id": "overlay_female_mutation_FELINE_EARS",
+    "fg": [ "overlay_female_mutation_FELINE_EARS" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_FELINE_EARS",
+    "fg": [ "overlay_male_mutation_FELINE_EARS" ],
+    "rotates": false,
+    "bg": [  ]
+  }
+]

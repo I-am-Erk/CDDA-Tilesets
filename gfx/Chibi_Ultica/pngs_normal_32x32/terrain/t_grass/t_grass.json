@@ -1,0 +1,74 @@
+[
+  {
+    "id": "t_grass",
+    "fg": [
+      { "weight": 1, "sprite": "t_grass_center" },
+      { "weight": 1, "sprite": "t_grass_center2" },
+      { "weight": 1, "sprite": "t_grass_center3" },
+      { "weight": 1, "sprite": "t_grass_center4" }
+    ],
+    "bg": ""
+  }, {
+    "id": "t_grass_season_summer",
+    "fg": [
+      { "weight": 1, "sprite": "t_grass_summer_center" },
+      { "weight": 1, "sprite": "t_grass_summer_center2" },
+      { "weight": 1, "sprite": "t_grass_summer_center3" },
+      { "weight": 1, "sprite": "t_grass_summer_center4" }
+    ],
+    "bg": ""
+  }, {
+    "id": "t_grass_season_autumn",
+    "fg": [
+      { "weight": 1, "sprite": "t_grass_autumn_center" },
+      { "weight": 1, "sprite": "t_grass_autumn_center2" },
+      { "weight": 1, "sprite": "t_grass_autumn_center3" },
+      { "weight": 1, "sprite": "t_grass_autumn_center4" }
+    ],
+    "bg": ""
+  }, {
+    "id": "t_grass_season_winter",
+    "fg": "snow_shallow_unconnected",
+    "bg": "snow_shallow_center",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "center",
+        "fg": [
+          { "weight": 1, "sprite": "snow_shallow_center" },
+          { "weight": 1, "sprite": "snow_shallow_center2" },
+          { "weight": 1, "sprite": "snow_shallow_center3" },
+          { "weight": 1, "sprite": "snow_shallow_center4" }
+        ],
+        "bg": ""
+      },
+      {
+        "id": "corner",
+        "bg": "snow_shallow_center",
+        "fg": [ "snow_shallow_corner_nw", "snow_shallow_corner_sw", "snow_shallow_corner_se", "snow_shallow_corner_ne" ]
+      },
+      {
+        "id": "t_connection",
+        "bg": "snow_shallow_center",
+        "fg": [
+          "snow_shallow_t_connection_n",
+          "snow_shallow_t_connection_w",
+          "snow_shallow_t_connection_s",
+          "snow_shallow_t_connection_e"
+        ]
+      },
+      { "id": "edge", "bg": "snow_shallow_center", "fg": [ "snow_shallow_edge_ns", "snow_shallow_edge_ew" ] },
+      {
+        "id": "end_piece",
+        "bg": "snow_shallow_center",
+        "fg": [
+          "snow_shallow_end_piece_n",
+          "snow_shallow_end_piece_w",
+          "snow_shallow_end_piece_s",
+          "snow_shallow_end_piece_e"
+        ]
+      },
+      { "bg": "snow_shallow_center", "id": "unconnected", "fg": "snow_shallow_unconnected" }
+    ]
+  }
+]

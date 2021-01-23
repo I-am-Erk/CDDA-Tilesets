@@ -1,0 +1,44 @@
+[
+  {
+    "id": "mon_feral_human_crowbar",
+    "fg": [
+      { "weight": 1, "sprite": "mon_feral_human_crowbar_0" },
+      { "weight": 1, "sprite": "mon_feral_human_crowbar_1" },
+      { "weight": 1, "sprite": "mon_feral_human_crowbar_2" },
+      { "weight": 1, "sprite": "mon_feral_human_crowbar_3" },
+      { "weight": 1, "sprite": "mon_feral_human_crowbar_4" },
+      { "weight": 1, "sprite": "mon_feral_human_crowbar_5" },
+      { "weight": 1, "sprite": "mon_feral_human_crowbar_6" },
+      { "weight": 1, "sprite": "mon_feral_human_crowbar_7" }
+    ],
+    "bg": [  ]
+  },
+  {
+    "id": "mon_feral_human_pipe",
+    "fg": [
+      { "weight": 1, "sprite": "mon_feral_human_pipe_0" },
+      { "weight": 1, "sprite": "mon_feral_human_pipe_1" },
+      { "weight": 1, "sprite": "mon_feral_human_pipe_2" },
+      { "weight": 1, "sprite": "mon_feral_human_pipe_3" },
+      { "weight": 1, "sprite": "mon_feral_human_pipe_4" },
+      { "weight": 1, "sprite": "mon_feral_human_pipe_5" },
+      { "weight": 1, "sprite": "mon_feral_human_pipe_6" },
+      { "weight": 1, "sprite": "mon_feral_human_pipe_7" }
+    ],
+    "bg": [  ]
+  },
+  {
+    "id": "mon_feral_human_axe",
+    "fg": [
+      { "weight": 1, "sprite": "mon_feral_human_axe_0" },
+      { "weight": 1, "sprite": "mon_feral_human_axe_1" },
+      { "weight": 1, "sprite": "mon_feral_human_axe_2" },
+      { "weight": 1, "sprite": "mon_feral_human_axe_3" },
+      { "weight": 1, "sprite": "mon_feral_human_axe_4" },
+      { "weight": 1, "sprite": "mon_feral_human_axe_5" },
+      { "weight": 1, "sprite": "mon_feral_human_axe_6" },
+      { "weight": 1, "sprite": "mon_feral_human_axe_7" }
+    ],
+    "bg": [  ]
+  }
+]

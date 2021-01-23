@@ -1,0 +1,11 @@
+{
+  "id": "mon_zombie_fungus",
+  "fg": [
+    "2714_mon_zombie_fungus_0",
+    "mon_zombie_fungus_1"
+  ],
+  "bg": [
+    ""
+  ],
+  "rotates": false
+}

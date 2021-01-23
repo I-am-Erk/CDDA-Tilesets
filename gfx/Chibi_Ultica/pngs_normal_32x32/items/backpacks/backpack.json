@@ -1,0 +1,22 @@
+[
+{
+  "id": "backpack",
+  "fg": "backpack",
+  "bg": ""
+},
+{
+  "id": "duffelbag",
+  "fg": "duffelbag",
+  "bg": ""
+},
+{
+  "id": "molle_pack",
+  "fg": "molle_pack",
+  "bg": ""
+},
+{
+  "id": ["rifle_case_soft_leather", "rifle_case_xl_soft_leather"],
+  "fg": "rifle_case_soft_leather",
+  "bg": ""
+}
+]

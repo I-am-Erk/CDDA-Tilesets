@@ -1,0 +1,13 @@
+{
+  "id": "mon_zombie_technician",
+  "fg": [
+    { "weight": 1, "sprite": "2763_mon_zombie_technician_0" },
+    { "weight": 1, "sprite": "mon_zombie_technician_1" },
+    { "weight": 1, "sprite": "mon_zombie_technician_2" },
+    { "weight": 1, "sprite": "mon_zombie_technician_3" }
+  ],
+  "bg": [
+    ""
+  ],
+  "rotates": false
+}

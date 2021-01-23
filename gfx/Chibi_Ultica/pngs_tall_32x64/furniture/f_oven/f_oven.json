@@ -1,0 +1,6 @@
+{
+  "id": "f_oven",
+  "rotates": true,
+  "fg": ["oven_faceS", "oven_faceW", "oven_faceN", "oven_faceE"],
+  "bg": ""
+}

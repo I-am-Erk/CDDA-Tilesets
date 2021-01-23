@@ -1,0 +1,8 @@
+{
+  "id": "f_tatami",
+  "fg": [
+      { "weight": 100, "sprite": "t_tatami1" },
+      { "weight": 100, "sprite": "t_tatami2" }
+	],
+  "bg": ""
+}

@@ -1,0 +1,8 @@
+ACEPLEIADES:
+crow
+chipmunk
+groundhog
+opossum
+sewer fish
+cockatrice
+lemming

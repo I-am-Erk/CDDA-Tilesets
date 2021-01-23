@@ -1,0 +1,8 @@
+[
+  {
+    "id": ["overlay_worn_diamond_ring","overlay_worn_ring_wedding" ],
+    "fg": [ "overlay_worn_diamond_ring"],
+    "rotates": false,
+    "bg": [  ]
+  }
+]

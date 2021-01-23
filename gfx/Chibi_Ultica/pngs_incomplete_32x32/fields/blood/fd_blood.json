@@ -1,0 +1,59 @@
+{
+  "id": "fd_blood",
+  "fg": "fd_blood_unconnected",
+  "bg": "",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "fd_blood_center",
+      "bg": ""
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "fd_blood_corner_nw",
+        "fd_blood_corner_sw",
+        "fd_blood_corner_se",
+        "fd_blood_corner_ne"
+      ],
+      "bg": ""
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "fd_blood_t_connection_n",
+        "fd_blood_t_connection_w",
+        "fd_blood_t_connection_s",
+        "fd_blood_t_connection_e"
+      ],
+      "bg": ""
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "fd_blood_edge_ns",
+        "fd_blood_edge_ew"
+      ],
+      "bg": ""
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "fd_blood_end_piece_n",
+        "fd_blood_end_piece_w",
+        "fd_blood_end_piece_s",
+        "fd_blood_end_piece_e"
+      ],
+      "bg": ""
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "fd_blood_unconnected",
+        "fd_blood_unconnected"
+      ],
+      "bg": ""
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "id": [
+      "t_tree_apricot_season_spring",
+      "t_tree_mulberry_season_spring",
+      "t_tree_pear_season_spring",
+      "t_tree_plum_season_spring"
+    ],
+    "fg": "t_tree_season_spring",
+    "bg": "t_grass_giant"
+  },
+  {
+    "id": "t_tree_apricot_season_summer",
+    "fg": "t_tree_apricot",
+    "bg": "t_grass_summer_giant"
+  },
+  {
+    "id": "t_tree_mulberry_season_summer",
+    "fg": "t_tree_mulberry",
+    "bg": "t_grass_summer_giant"
+  },
+  {
+    "id": "t_tree_elderberry_season_summer",
+    "fg": "t_tree_mulberry",
+    "bg": "t_grass_summer_giant"
+  },
+  {
+    "id": "t_tree_pear_season_autumn",
+    "fg": "t_tree_pear",
+    "bg": "t_grass_summer_giant"
+  },
+  {
+    "id": "t_tree_plum_season_summer",
+    "fg": "t_tree_plum",
+    "bg": "t_grass_summer_giant"
+  },
+  {
+    "id": [
+      "t_tree_apricot_harvested",
+      "t_tree_mulberry_harvested",
+      "t_tree_plum_harvested",
+      "t_tree_pear_season_summer"
+    ],
+    "fg": "t_tree",
+    "bg": "t_grass_summer_giant"
+  },
+  {
+    "id": [
+      "t_tree_apricot_season_autumn",
+      "t_tree_mulberry_season_autumn",
+      "t_tree_plum_season_autumn",
+      "t_tree_pear_harvested"
+    ],
+    "fg": [
+      { "weight": 100, "sprite": "t_tree_season_autumn" },
+      { "weight": 100, "sprite": "t_tree_season_autumn2" },
+      { "weight": 100, "sprite": "t_tree_season_autumn3" },
+      { "weight": 100, "sprite": "t_tree_season_autumn4" }
+    ],
+    "bg": "t_grass_autumn_giant"
+  },
+  {
+    "id": [
+      "t_tree_apricot_season_winter",
+      "t_tree_mulberry_season_winter",
+      "t_tree_pear_season_winter",
+      "t_tree_plum_season_winter"
+    ],
+    "fg": "t_tree_dead",
+    "bg": "snow_shallow_giant"
+  }
+]

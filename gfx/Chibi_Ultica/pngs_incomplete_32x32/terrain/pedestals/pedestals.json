@@ -1,0 +1,21 @@
+[
+  {
+    "id": "t_pedestal_wyrm",
+    "fg": "pedestal_spiked",
+    "bg": "t_rock_floor_center"
+  }, {
+    "id": "t_pedestal_temple",
+    "fg": [
+      { "weight": 100, "sprite": "pedestal_square" },
+      { "weight": 100, "sprite": "pedestal_hourglass" }
+    ],
+    "bg": "t_dirtfloor_unconnected"
+  }, {
+    "id": "t_pedestal_temple_season_winter",
+    "fg": [
+      { "weight": 100, "sprite": "pedestal_square" },
+      { "weight": 100, "sprite": "pedestal_hourglass" }
+    ],
+    "bg": "snow_shallow_center"
+  }
+]

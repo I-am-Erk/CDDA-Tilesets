@@ -1,0 +1,64 @@
+[
+  {
+    "pixelscale": 1,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "ChibiLarge.png": { "sprite_width": 64, "sprite_height": 80, "sprite_offset_x": -16, "sprite_offset_y": -48 }
+  },
+  {
+    "ChibiNormal.png": { "sprite_width": 32, "sprite_height": 32 }
+  },
+  {
+    "ChibiTall.png": { "sprite_width": 32, "sprite_height": 48, "sprite_offset_x": 0, "sprite_offset_y": -16 }
+  },
+  {
+    "small.png": { "sprite_width": 20, "sprite_height": 20, "filler": true }
+  },
+  {
+    "normal.png": { "filler": true }
+  },
+  {
+    "tall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true }
+  },
+  {
+    "centered.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -16, "filler": true }
+  },
+  {
+    "large.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -32, "filler": true }
+  },
+  {
+    "giant.png": { "sprite_width": 96, "sprite_height": 96, "sprite_offset_x": -32, "sprite_offset_y": -64, "filler": true }
+  },
+  {
+    "huge.png": { "sprite_width": 64, "sprite_height": 96, "sprite_offset_x": -16, "sprite_offset_y": -64, "filler": true  }
+  },
+  {
+    "incomplete.png": { "filler": true }
+  },
+  {
+    "incomplete_tall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true }
+  },
+  {
+    "incomplete_large.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -32, "filler": true }
+  },
+  {
+    "fillerhoder.png": {
+      "source": "https://github.com/CleverRaven/Cataclysm-DDA/tree/b2d1f9f6cf6fae9c5076d29f9779e0ca6c03c222/gfx/HoderTileset",
+      "filler": true
+    }
+  },
+  {
+    "filler.png": { "sprite_width": 32, "sprite_height": 32, "filler": true }
+  },
+  {
+    "fillergiant.png": { "sprite_width": 96, "sprite_height": 96, "sprite_offset_x": -32, "sprite_offset_y": -64, "filler": true }
+  },
+  {
+    "fallback.png": {
+      "source": "https://github.com/Chezzo/Cataclysm-DDA/blob/0ca0b5307f1b2fab7edb5519a3176e1d887087a7/gfx/ChestHole32Tileset/fallback.png",
+      "fallback": true
+    }
+  }
+]

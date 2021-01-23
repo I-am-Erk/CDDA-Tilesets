@@ -1,0 +1,9 @@
+extinguisher.png
+https://sketchfab.com/3d-models/fire-extinguisher-5676b179b3b744c0aaae53a3dcea2300
+model by Loïc
+rendered by int_ua
+
+sm_extinguisher.png
+https://sketchfab.com/3d-models/fire-extinguisher-f4e8af4ef963412aa90ee390bfa465f0
+model by samt2510
+rendered by int_ua

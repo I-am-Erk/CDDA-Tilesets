@@ -1,0 +1,12 @@
+[
+  {
+    "id": "overlay_female_effect_haslight",
+    "fg": [ "overlay_female_effect_haslight" ],
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_effect_haslight",
+    "fg": [ "overlay_male_effect_haslight" ],
+    "bg": [  ]
+  }
+]

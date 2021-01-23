@@ -1,0 +1,28 @@
+[
+  {
+    "id": "t_tree_young",
+    "fg": "t_tree_young_dead",
+    "bg": "t_grass_large"
+  },
+  {
+    "id": "t_tree_young_season_summer",
+    "fg": "t_tree_young",
+    "bg": "t_grass_summer_large",
+    "rotates": false
+  },
+  {
+    "id": "t_tree_young_season_autumn",
+    "fg": [
+      { "weight": 100, "sprite": "t_tree_young_season_autumn" },
+      { "weight": 100, "sprite": "t_tree_young_season_autumn2" }
+    ],
+    "bg": "t_grass_autumn_large",
+    "rotates": false
+  },
+  {
+    "id": "t_tree_young_season_winter",
+    "fg": "t_tree_young_season_winter",
+    "bg": "snow_shallow_large",
+    "rotates": false
+  }
+]

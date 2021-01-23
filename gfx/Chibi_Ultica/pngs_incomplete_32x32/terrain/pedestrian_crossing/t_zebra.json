@@ -1,0 +1,12 @@
+[
+{
+  "id": "t_zebra",
+  "fg": "t_zebra",
+  "bg": ""
+},
+{
+  "id": "t_zebra_season_winter",
+  "fg": "snow_shallow_center",
+  "bg": ""
+}
+]
