@@ -1,7 +1,5 @@
 {
   "id": "colt_navy",
-  "fg": [
-    "colt_navy"
-  ],
-  "bg": []
+  "fg": "colt_navy",
+  "bg": ""
 }

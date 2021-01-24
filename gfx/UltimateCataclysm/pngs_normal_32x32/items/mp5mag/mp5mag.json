@@ -1,7 +1,5 @@
 {
   "id": "mp5mag",
-  "fg": [
-    "mp5mag"
-  ],
-  "bg": []
+  "fg": "mp5mag",
+  "bg": ""
 }

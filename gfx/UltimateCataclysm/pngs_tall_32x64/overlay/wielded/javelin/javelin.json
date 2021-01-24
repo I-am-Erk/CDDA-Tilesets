@@ -1,12 +1,12 @@
 [
   {
     "id": "overlay_wielded_javelin",
-    "fg": [ "wooden_javelin_mf" ],
-    "bg": []
+    "fg": "wooden_javelin_mf",
+    "bg": ""
   },
   {
     "id": "overlay_wielded_javelin_iron",
-    "fg": [ "iron_javelin_mf" ],
-    "bg": []
+    "fg": "iron_javelin_mf",
+    "bg": ""
   }
 ]

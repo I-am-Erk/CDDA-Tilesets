@@ -1,7 +1,7 @@
 [
   {
-    "id": [ "generic_city_building" ],
-    "fg": [ "otr_commercial_general" ],
+    "id": "generic_city_building",
+    "fg": "otr_commercial_general",
     "bg": "t_grass_center"
   },
   {
@@ -30,7 +30,7 @@
       "s_sports",
       "veterinarian"
     ],
-    "fg": [ "otr_commercial_general" ],
+    "fg": "otr_commercial_general",
     "bg": "t_grass_center"
   }
 ]

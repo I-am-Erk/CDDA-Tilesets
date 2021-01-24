@@ -1,5 +1,5 @@
 {
   "id": "f_glass_fridge",
-  "fg": ["f_glass_fridge"],
-  "bg": []
+  "fg": "f_glass_fridge",
+  "bg": ""
 }

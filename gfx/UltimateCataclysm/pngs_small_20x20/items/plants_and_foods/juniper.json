@@ -1,7 +1,5 @@
 {
   "id": "juniper",
-  "fg": [
-    "juniper"
-  ],
-  "bg": []
+  "fg": "juniper",
+  "bg": ""
 }

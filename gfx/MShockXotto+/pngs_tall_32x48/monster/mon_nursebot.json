@@ -1,7 +1,7 @@
 [
   {
     "id": "mon_nursebot",
-    "fg": [ "mon_nursebot" ],
+    "fg": [ "mon_nursebot", "mon_nursebot_1", "mon_nursebot_2" ],
     "rotates": false,
     "bg": [  ]
   }

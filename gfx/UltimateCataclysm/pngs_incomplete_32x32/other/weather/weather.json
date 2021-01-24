@@ -13,16 +13,16 @@
     { "weight": 100, "sprite": "weather_rain_drop9" },
     { "weight": 100, "sprite": "weather_rain_drop10" }
   ],
-  "bg": []
+  "bg": ""
 },
 {
   "id": "weather_snowflake",
-  "fg": [ "weather_snowflake" ],
-  "bg": []
+  "fg": "weather_snowflake",
+  "bg": ""
 },
 {
   "id": "weather_acid_drop",
-  "fg": [ "weather_acid_drop" ],
-  "bg": []
+  "fg": "weather_acid_drop",
+  "bg": ""
 }
 ]

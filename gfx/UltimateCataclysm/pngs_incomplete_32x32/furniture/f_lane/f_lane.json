@@ -1,5 +1,5 @@
 {
   "id": "f_lane",
-  "fg": ["f_lane"],
-  "bg": []
+  "fg": "f_lane",
+  "bg": ""
 }

@@ -1,5 +1,5 @@
 {
     "id": [ "f_groundsheet", "f_large_groundsheet", "f_center_groundsheet", "f_fema_groundsheet" ],
-    "fg": [ "f_groundsheet" ],
-    "bg": []
+    "fg": "f_groundsheet",
+    "bg": ""
 }

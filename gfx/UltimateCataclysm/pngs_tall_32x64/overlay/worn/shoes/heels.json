@@ -1,7 +1,7 @@
 [
   {
     "id": "overlay_worn_heels",
-    "fg": [ "high_heels_mf" ],
-    "bg": []
+    "fg": "high_heels_mf",
+    "bg": ""
   }
 ]

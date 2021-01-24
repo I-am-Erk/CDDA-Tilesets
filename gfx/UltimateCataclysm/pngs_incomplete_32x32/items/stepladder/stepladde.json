@@ -1,5 +1,5 @@
 {
   "id": "stepladder",
-  "fg": ["stepladder"],
-  "bg": []
+  "fg": "stepladder",
+  "bg": ""
 }

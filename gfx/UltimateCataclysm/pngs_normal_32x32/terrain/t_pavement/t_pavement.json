@@ -2,12 +2,12 @@
   {
     "id": "t_pavement",
     "multitile": true,
-    "fg": [ "t_pavement" ],
-    "bg": [  ],
+    "fg": "t_pavement",
+    "bg": "",
     "additional_tiles": [
       {
         "id": "center",
-        "bg": [  ],
+        "bg": "",
         "fg": [
           { "weight": 1, "sprite": "t_pavement" },
           { "weight": 1, "sprite": "t_pavement2" },
@@ -17,28 +17,28 @@
       },
       {
         "id": "corner",
-        "bg": [ "t_dirt" ],
+        "bg": "t_grass",
         "fg": [ "t_pavement_nw", "t_pavement_sw", "t_pavement_se", "t_pavement_ne" ]
       },
-      { "id": "t_connection", "bg": [  ], "fg": [ "t_pavement_n", "t_pavement_w", "t_pavement_s", "t_pavement_e" ] },
-      { "id": "edge", "bg": [  ], "fg": [ "t_pavement_vertical", "t_pavement_horizontal" ] },
+      { "id": "t_connection", "bg": "", "fg": [ "t_pavement_n", "t_pavement_w", "t_pavement_s", "t_pavement_e" ] },
+      { "id": "edge", "bg": "", "fg": [ "t_pavement_vertical", "t_pavement_horizontal" ] },
       {
         "id": "end_piece",
-        "bg": [  ],
+        "bg": "",
         "fg": [ "t_pavement_end_piece_n", "t_pavement_end_piece_w", "t_pavement_end_piece_s", "t_pavement_end_piece_e" ]
       },
-      { "bg": [  ], "id": "unconnected", "fg": [ "t_pavement_unconnected" ] }
+      { "bg": "", "id": "unconnected", "fg": "t_pavement_unconnected" }
     ]
   },
   {
     "id": "t_pavement_season_summer",
     "multitile": true,
-    "fg": [ "t_pavement" ],
-    "bg": [  ],
+    "fg": "t_pavement",
+    "bg": "",
     "additional_tiles": [
       {
         "id": "center",
-        "bg": [  ],
+        "bg": "",
         "fg": [
           { "weight": 1, "sprite": "t_pavement" },
           { "weight": 1, "sprite": "t_pavement2" },
@@ -48,28 +48,28 @@
       },
       {
         "id": "corner",
-        "bg": [ "t_dirt_summer" ],
+        "bg": "t_grass_summer",
         "fg": [ "t_pavement_nw", "t_pavement_sw", "t_pavement_se", "t_pavement_ne" ]
       },
-      { "id": "t_connection", "bg": [  ], "fg": [ "t_pavement_n", "t_pavement_w", "t_pavement_s", "t_pavement_e" ] },
-      { "id": "edge", "bg": [  ], "fg": [ "t_pavement_vertical", "t_pavement_horizontal" ] },
+      { "id": "t_connection", "bg": "", "fg": [ "t_pavement_n", "t_pavement_w", "t_pavement_s", "t_pavement_e" ] },
+      { "id": "edge", "bg": "", "fg": [ "t_pavement_vertical", "t_pavement_horizontal" ] },
       {
         "id": "end_piece",
-        "bg": [  ],
+        "bg": "",
         "fg": [ "t_pavement_end_piece_n", "t_pavement_end_piece_w", "t_pavement_end_piece_s", "t_pavement_end_piece_e" ]
       },
-      { "bg": [  ], "id": "unconnected", "fg": [ "t_pavement_unconnected" ] }
+      { "bg": "", "id": "unconnected", "fg": "t_pavement_unconnected" }
     ]
   },
   {
     "id": "t_pavement_season_autumn",
     "multitile": true,
-    "fg": [ "t_pavement" ],
-    "bg": [  ],
+    "fg": "t_pavement",
+    "bg": "",
     "additional_tiles": [
       {
         "id": "center",
-        "bg": [  ],
+        "bg": "",
         "fg": [
           { "weight": 1, "sprite": "t_pavement" },
           { "weight": 1, "sprite": "t_pavement2" },
@@ -79,32 +79,32 @@
       },
       {
         "id": "corner",
-        "bg": [ "t_dirt_autumn" ],
+        "bg": "t_grass_autumn",
         "fg": [ "t_pavement_nw", "t_pavement_sw", "t_pavement_se", "t_pavement_ne" ]
       },
-      { "id": "t_connection", "bg": [  ], "fg": [ "t_pavement_n", "t_pavement_w", "t_pavement_s", "t_pavement_e" ] },
-      { "id": "edge", "bg": [  ], "fg": [ "t_pavement_vertical", "t_pavement_horizontal" ] },
+      { "id": "t_connection", "bg": "", "fg": [ "t_pavement_n", "t_pavement_w", "t_pavement_s", "t_pavement_e" ] },
+      { "id": "edge", "bg": "", "fg": [ "t_pavement_vertical", "t_pavement_horizontal" ] },
       {
         "id": "end_piece",
-        "bg": [  ],
+        "bg": "",
         "fg": [ "t_pavement_end_piece_n", "t_pavement_end_piece_w", "t_pavement_end_piece_s", "t_pavement_end_piece_e" ]
       },
-      { "bg": [  ], "id": "unconnected", "fg": [ "t_pavement_unconnected" ] }
+      { "bg": "", "id": "unconnected", "fg": "t_pavement_unconnected" }
     ]
   },
   {
     "id": "t_pavement_season_winter",
-    "fg": [ "snow_shallow_center" ],
-    "bg": [  ]
+    "fg": "snow_shallow_center",
+    "bg": ""
   },
   {
     "id": "t_pavement_y",
-    "fg": [ "t_pavement_y" ],
-    "bg": [  ]
+    "fg": "t_pavement_y",
+    "bg": ""
   },
   {
     "id": "t_pavement_y_season_winter",
-    "fg": [ "snow_shallow_center" ],
-    "bg": [  ]
+    "fg": "snow_shallow_center",
+    "bg": ""
   }
 ]

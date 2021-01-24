@@ -1,7 +1,7 @@
 [
   {
     "id": "mon_razorclaw",
-    "fg": [ "mon_razorclaw" ],
-    "bg": [ "shadow_64x64_normal" ]
+    "fg": "mon_razorclaw",
+    "bg": "shadow_64x64_normal"
   }
 ]

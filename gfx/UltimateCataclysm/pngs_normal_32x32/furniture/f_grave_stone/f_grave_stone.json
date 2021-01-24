@@ -4,5 +4,5 @@
     { "weight": 1, "sprite": "f_grave_stone_1" },
     { "weight": 1, "sprite": "f_grave_stone_2" }
   ],
-  "bg": []
+  "bg": ""
 }

@@ -1,12 +1,12 @@
 [
 {
   "id": "flaregun",
-  "fg": ["flaregun"],
-  "bg": []
+  "fg": "flaregun",
+  "bg": ""
 },
 {
   "id": "signal_flare",
-  "fg": ["signal_flare"],
-  "bg": []
+  "fg": "signal_flare",
+  "bg": ""
 }
 ]

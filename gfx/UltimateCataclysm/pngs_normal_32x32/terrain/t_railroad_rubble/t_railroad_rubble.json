@@ -2,152 +2,152 @@
 {
   "id": "t_railroad_rubble",
   "multitile": true,
-  "fg": [ "t_railroad_rubble_unconnected" ],
-  "bg": [ "t_dirt" ],
+  "fg": "t_railroad_rubble_unconnected",
+  "bg": "t_grass",
   "additional_tiles": [
     {
       "id": "center",
-      "bg": [ "t_dirt" ],
+      "bg": "t_grass",
       "fg": [ { "weight": 1, "sprite": "t_railroad_rubble_center" }, { "weight": 1, "sprite": "t_railroad_rubble_center2" } ]
     },
     {
       "id": "corner",
-      "bg": [ "t_dirt" ],
+      "bg": "t_grass",
       "fg": [ "t_railroad_rubble_corner_nw", "t_railroad_rubble_corner_sw", "t_railroad_rubble_corner_se", "t_railroad_rubble_corner_ne" ]
     },
     {
       "id": "t_connection",
-      "bg": [ "t_dirt" ],
+      "bg": "t_grass",
       "fg": [ "t_railroad_rubble_t_connection_n", "t_railroad_rubble_t_connection_w", "t_railroad_rubble_t_connection_s", "t_railroad_rubble_t_connection_e" ]
     },
     {
       "id": "edge",
-      "bg": [ "t_dirt" ],
+      "bg": "t_grass",
       "fg": [ "t_railroad_rubble_edge_ns", "t_railroad_rubble_edge_ew" ]
     },
     {
       "id": "end_piece",
-      "bg": [ "t_dirt" ],
+      "bg": "t_grass",
       "fg": [ "t_railroad_rubble_end_piece_n", "t_railroad_rubble_end_piece_w", "t_railroad_rubble_end_piece_s", "t_railroad_rubble_end_piece_e" ]
     },
     {
-      "bg": [ "t_dirt" ],
+      "bg": "t_grass",
       "id": "unconnected",
-      "fg": [ "t_railroad_rubble_unconnected" ]
+      "fg": "t_railroad_rubble_unconnected"
     }
   ]
 },
 {
   "id": "t_railroad_rubble_season_summer",
   "multitile": true,
-  "fg": [ "t_railroad_rubble_unconnected" ],
-  "bg": [ "t_dirt_summer" ],
+  "fg": "t_railroad_rubble_unconnected",
+  "bg": "t_grass_summer",
   "additional_tiles": [
     {
       "id": "center",
-      "bg": [ "t_dirt_summer" ],
+      "bg": "t_grass_summer",
       "fg": [ { "weight": 1, "sprite": "t_railroad_rubble_center" }, { "weight": 1, "sprite": "t_railroad_rubble_center2" } ]
     },
     {
       "id": "corner",
-      "bg": [ "t_dirt_summer" ],
+      "bg": "t_grass_summer",
       "fg": [ "t_railroad_rubble_corner_nw", "t_railroad_rubble_corner_sw", "t_railroad_rubble_corner_se", "t_railroad_rubble_corner_ne" ]
     },
     {
       "id": "t_connection",
-      "bg": [ "t_dirt_summer" ],
+      "bg": "t_grass_summer",
       "fg": [ "t_railroad_rubble_t_connection_n", "t_railroad_rubble_t_connection_w", "t_railroad_rubble_t_connection_s", "t_railroad_rubble_t_connection_e" ]
     },
     {
       "id": "edge",
-      "bg": [ "t_dirt_summer" ],
+      "bg": "t_grass_summer",
       "fg": [ "t_railroad_rubble_edge_ns", "t_railroad_rubble_edge_ew" ]
     },
     {
       "id": "end_piece",
-      "bg": [ "t_dirt_summer" ],
+      "bg": "t_grass_summer",
       "fg": [ "t_railroad_rubble_end_piece_n", "t_railroad_rubble_end_piece_w", "t_railroad_rubble_end_piece_s", "t_railroad_rubble_end_piece_e" ]
     },
     {
-      "bg": [ "t_dirt_summer" ],
+      "bg": "t_grass_summer",
       "id": "unconnected",
-      "fg": [ "t_railroad_rubble_unconnected" ]
+      "fg": "t_railroad_rubble_unconnected"
     }
   ]
 },
 {
   "id": "t_railroad_rubble_season_autumn",
   "multitile": true,
-  "fg": [ "t_railroad_rubble_unconnected" ],
-  "bg": [ "t_dirt_autumn" ],
+  "fg": "t_railroad_rubble_unconnected",
+  "bg": "t_grass_autumn",
   "additional_tiles": [
     {
       "id": "center",
-      "bg": [ "t_dirt_autumn" ],
+      "bg": "t_grass_autumn",
       "fg": [ { "weight": 1, "sprite": "t_railroad_rubble_center" }, { "weight": 1, "sprite": "t_railroad_rubble_center2" } ]
     },
     {
       "id": "corner",
-      "bg": [ "t_dirt_autumn" ],
+      "bg": "t_grass_autumn",
       "fg": [ "t_railroad_rubble_corner_nw", "t_railroad_rubble_corner_sw", "t_railroad_rubble_corner_se", "t_railroad_rubble_corner_ne" ]
     },
     {
       "id": "t_connection",
-      "bg": [ "t_dirt_autumn" ],
+      "bg": "t_grass_autumn",
       "fg": [ "t_railroad_rubble_t_connection_n", "t_railroad_rubble_t_connection_w", "t_railroad_rubble_t_connection_s", "t_railroad_rubble_t_connection_e" ]
     },
     {
       "id": "edge",
-      "bg": [ "t_dirt_autumn" ],
+      "bg": "t_grass_autumn",
       "fg": [ "t_railroad_rubble_edge_ns", "t_railroad_rubble_edge_ew" ]
     },
     {
       "id": "end_piece",
-      "bg": [ "t_dirt_autumn" ],
+      "bg": "t_grass_autumn",
       "fg": [ "t_railroad_rubble_end_piece_n", "t_railroad_rubble_end_piece_w", "t_railroad_rubble_end_piece_s", "t_railroad_rubble_end_piece_e" ]
     },
     {
-      "bg": [ "t_dirt_autumn" ],
+      "bg": "t_grass_autumn",
       "id": "unconnected",
-      "fg": [ "t_railroad_rubble_unconnected" ]
+      "fg": "t_railroad_rubble_unconnected"
     }
   ]
 },
 {
   "id": "t_railroad_rubble_season_winter",
   "multitile": true,
-  "fg": [ "t_railroad_rubble_unconnected" ],
-  "bg": [ "t_dirt_winter" ],
+  "fg": "t_railroad_rubble_unconnected",
+  "bg": "snow_shallow_center",
   "additional_tiles": [
     {
       "id": "center",
-      "bg": [ "t_dirt_winter" ],
+      "bg": "snow_shallow_center",
       "fg": [ { "weight": 1, "sprite": "t_railroad_rubble_center" }, { "weight": 1, "sprite": "t_railroad_rubble_center2" } ]
     },
     {
       "id": "corner",
-      "bg": [ "t_dirt_winter" ],
+      "bg": "snow_shallow_center",
       "fg": [ "t_railroad_rubble_corner_nw", "t_railroad_rubble_corner_sw", "t_railroad_rubble_corner_se", "t_railroad_rubble_corner_ne" ]
     },
     {
       "id": "t_connection",
-      "bg": [ "t_dirt_winter" ],
+      "bg": "snow_shallow_center",
       "fg": [ "t_railroad_rubble_t_connection_n", "t_railroad_rubble_t_connection_w", "t_railroad_rubble_t_connection_s", "t_railroad_rubble_t_connection_e" ]
     },
     {
       "id": "edge",
-      "bg": [ "t_dirt_winter" ],
+      "bg": "snow_shallow_center",
       "fg": [ "t_railroad_rubble_edge_ns", "t_railroad_rubble_edge_ew" ]
     },
     {
       "id": "end_piece",
-      "bg": [ "t_dirt_winter" ],
+      "bg": "snow_shallow_center",
       "fg": [ "t_railroad_rubble_end_piece_n", "t_railroad_rubble_end_piece_w", "t_railroad_rubble_end_piece_s", "t_railroad_rubble_end_piece_e" ]
     },
     {
-      "bg": [ "t_dirt_winter" ],
+      "bg": "snow_shallow_center",
       "id": "unconnected",
-      "fg": [ "t_railroad_rubble_unconnected" ]
+      "fg": "t_railroad_rubble_unconnected"
     }
   ]
 }

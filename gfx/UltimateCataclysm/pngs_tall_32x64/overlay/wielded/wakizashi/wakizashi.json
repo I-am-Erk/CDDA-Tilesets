@@ -1,9 +1,5 @@
 {
   "id": "overlay_wielded_wakizashi",
-  "fg": [
-    "wakizashi_mf"
-  ],
-  "bg": [
-    
-  ]
+  "fg": "wakizashi_mf",
+  "bg": ""
 }

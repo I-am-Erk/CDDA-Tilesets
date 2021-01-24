@@ -1,23 +1,17 @@
 [
   {
     "id": "f_gunsafe_ml",
-    "fg": [
-      "f_gunsafe_ml"
-    ],
-    "bg": []
+    "fg": "f_gunsafe_ml",
+    "bg": ""
   },
   {
     "id": "f_gunsafe_mj",
-    "fg": [
-      "f_gunsafe_mj"
-    ],
-    "bg": []
+    "fg": "f_gunsafe_mj",
+    "bg": ""
   },
   {
     "id": "f_gun_safe_el",
-    "fg": [
-      "f_gun_safe_el"
-    ],
-    "bg": []
+    "fg": "f_gun_safe_el",
+    "bg": ""
   }
 ]

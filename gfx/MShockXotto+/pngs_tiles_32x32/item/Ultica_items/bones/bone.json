@@ -1,0 +1,12 @@
+[
+  {
+    "id": "bone",
+    "fg": [ "bone" ],
+    "bg": []
+  },
+  {
+    "id": "bone_tainted",
+    "fg": [ "bone_tainted" ],
+    "bg": []
+  }
+]

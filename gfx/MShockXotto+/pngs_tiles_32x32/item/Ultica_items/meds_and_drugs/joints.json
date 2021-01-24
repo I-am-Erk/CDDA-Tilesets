@@ -1,0 +1,12 @@
+[
+  {
+    "id": "joint",
+    "fg": [ "joint" ],
+    "bg": [  ]
+  },
+  {
+    "id": "joint_lit",
+    "fg": [ "joint_lit" ],
+    "bg": [  ]
+  }
+]

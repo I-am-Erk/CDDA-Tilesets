@@ -1,5 +1,5 @@
 {
   "id": "knife_meat_cleaver",
-  "fg": ["meat_cleaver"],
-  "bg": []
+  "fg": "meat_cleaver",
+  "bg": ""
 }

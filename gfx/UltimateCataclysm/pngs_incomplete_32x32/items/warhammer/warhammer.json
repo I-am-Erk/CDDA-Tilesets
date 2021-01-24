@@ -1,5 +1,5 @@
 {
   "id": "warhammer",
-  "fg": ["warhammer"],
-  "bg": []
+  "fg": "warhammer",
+  "bg": ""
 }

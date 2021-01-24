@@ -4,5 +4,5 @@
       { "weight": 100, "sprite": "acoustic_guitar" },
       { "weight": 100, "sprite": "acoustic_guitar2" }
     ],
-  "bg": []
+  "bg": ""
 }

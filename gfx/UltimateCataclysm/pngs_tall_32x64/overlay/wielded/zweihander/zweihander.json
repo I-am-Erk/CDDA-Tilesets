@@ -1,9 +1,5 @@
 {
   "id": "overlay_wielded_zweihander",
-  "fg": [
-    "zweihander_mf"
-  ],
-  "bg": [
-    
-  ]
+  "fg": "zweihander_mf",
+  "bg": ""
 }

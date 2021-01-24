@@ -1,10 +1,6 @@
 {
-  "id": [
-    "vp_mounted_spare_tire"
-  ],
+  "id": "vp_mounted_spare_tire",
   "fg": "vp_mounted_spare_tire",
-  "bg": [
-    
-  ],
+  "bg": "",
   "rotates": true
 }

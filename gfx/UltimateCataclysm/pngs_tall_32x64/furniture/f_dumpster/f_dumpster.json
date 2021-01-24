@@ -48,8 +48,7 @@
         "f_dumpster_unconnected",
         "f_dumpster_unconnected"
       ],
-      "bg": "",
-      "//": "Multitiles are assumed to rotate, two copies to omit rotation"
+      "bg": ""
     }
   ]
 }

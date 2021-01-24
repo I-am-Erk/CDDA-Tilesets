@@ -1,7 +1,7 @@
 [
   {
     "id": "f_dryer",
-    "fg": [ "f_dryer" ],
-    "bg": [ ]
+    "fg": "f_dryer",
+    "bg": ""
   }
 ]

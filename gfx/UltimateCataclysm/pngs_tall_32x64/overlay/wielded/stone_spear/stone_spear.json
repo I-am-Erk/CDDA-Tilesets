@@ -1,12 +1,12 @@
 [
   {
     "id": "overlay_female_wielded_spear_stone",
-    "fg": [ "stone_spear_f" ],
-    "bg": []
+    "fg": "stone_spear_f",
+    "bg": ""
   },
   {
     "id": "overlay_male_wielded_spear_stone",
-    "fg": [ "stone_spear_m" ],
-    "bg": []
+    "fg": "stone_spear_m",
+    "bg": ""
   }
 ]

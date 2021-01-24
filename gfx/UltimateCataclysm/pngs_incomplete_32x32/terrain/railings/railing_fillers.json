@@ -1,21 +1,17 @@
 {
   "id": ["t_metal_railing", "t_concrete_railing", "t_glass_railing"],
   "multitile": true,
-  "fg": [
-    "t_railing_unconnected"
-  ],
-  "bg": ["t_concrete_unconnected"],
+  "fg": "t_railing_unconnected",
+  "bg": "t_concrete_unconnected",
   "additional_tiles": [
     {
       "id": "center",
-      "bg": ["t_concrete_unconnected"],
-      "fg": [
-        "t_railing_center"
-      ]
+      "bg": "t_concrete_unconnected",
+      "fg": "t_railing_center"
     },
     {
       "id": "corner",
-      "bg": ["t_concrete_unconnected"],
+      "bg": "t_concrete_unconnected",
       "fg": [
         "t_railing_corner_nw",
         "t_railing_corner_sw",
@@ -25,7 +21,7 @@
     },
     {
       "id": "t_connection",
-      "bg": ["t_concrete_unconnected"],
+      "bg": "t_concrete_unconnected",
       "fg": [
         "t_railing_t_connection_n",
         "t_railing_t_connection_w",
@@ -35,7 +31,7 @@
     },
     {
       "id": "edge",
-      "bg": ["t_concrete_unconnected"],
+      "bg": "t_concrete_unconnected",
       "fg": [
         "t_railing_edge_ns",
         "t_railing_edge_ew"
@@ -43,7 +39,7 @@
     },
     {
       "id": "end_piece",
-      "bg": ["t_concrete_unconnected"],
+      "bg": "t_concrete_unconnected",
       "fg": [
         "t_railing_end_piece_n",
         "t_railing_end_piece_w",
@@ -52,7 +48,7 @@
       ]
     },
     {
-      "bg": ["t_concrete_unconnected"],
+      "bg": "t_concrete_unconnected",
       "id": "unconnected",
       "fg": [
         "t_railing_unconnected",

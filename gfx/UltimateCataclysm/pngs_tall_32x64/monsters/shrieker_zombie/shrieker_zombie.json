@@ -1,7 +1,7 @@
 [
   {
     "id": "mon_zombie_shrieker",
-    "fg": [ "mon_zombie_shrieker" ],
-    "bg": [ "shadow_32x64_normal" ]
+    "fg": "mon_zombie_shrieker",
+    "bg": "shadow_32x64_normal"
   }
 ]

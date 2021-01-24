@@ -1,6 +1,6 @@
 {
   "id": "fork",
-  "fg": ["fork"],
-  "bg": []
+  "fg": "fork",
+  "bg": ""
 }
 

@@ -1,5 +1,5 @@
 {
   "id": "fn_fal",
-  "fg": ["fn_fal"],
-  "bg": []
+  "fg": "fn_fal",
+  "bg": ""
 }

@@ -1,5 +1,5 @@
 {
   "id": "f_water_heater",
-  "fg": ["f_water_heater"],
-  "bg": []
+  "fg": "f_water_heater",
+  "bg": ""
 }

@@ -1,5 +1,5 @@
 {
   "id": "30gal_drum",
-  "fg": ["30gal_drum"],
-  "bg": []
+  "fg": "30gal_drum",
+  "bg": ""
 }

@@ -1,12 +1,10 @@
 [{
   "id": "wire",
-  "fg": [
-    "wire"
-  ],
-  "bg": []
+  "fg": "wire",
+  "bg": ""
 },{
   "id": "cable",
-  "fg": ["cable"],
-  "bg": []
+  "fg": "cable",
+  "bg": ""
 }
 ]

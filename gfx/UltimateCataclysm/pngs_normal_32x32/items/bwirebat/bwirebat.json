@@ -1,7 +1,5 @@
 {
   "id": "bwirebat",
-  "fg": [
-    "bwirebat"
-  ],
-  "bg": []
+  "fg": "bwirebat",
+  "bg": ""
 }

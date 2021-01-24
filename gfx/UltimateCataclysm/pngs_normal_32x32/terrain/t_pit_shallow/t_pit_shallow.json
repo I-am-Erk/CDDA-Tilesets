@@ -1,63 +1,299 @@
+[
 {
   "id": "t_pit_shallow",
-  "multitile": true,
-  "fg": [
-    "t_pit_shallow_unconnected"
+  "fg": "t_pit_shallow_unconnected",
+  "bg": [
+    { "weight": 100, "sprite": "t_grass" },
+    { "weight": 100, "sprite": "t_grass_center2" }
   ],
-  "bg": [ { "weight": 100, "sprite": "t_dirt" }, { "weight": 100, "sprite": "t_dirt2" } ],
+  "multitile": true,
   "additional_tiles": [
     {
       "id": "center",
-      "bg": [ { "weight": 100, "sprite": "t_dirt" }, { "weight": 100, "sprite": "t_dirt2" } ],
-      "fg": [
-        "t_pit_shallow_center"
+      "fg": "t_pit_shallow_center",
+      "bg": [
+        { "weight": 100, "sprite": "t_grass" },
+        { "weight": 100, "sprite": "t_grass_center2" }
       ]
-    },
-    {
+    }, {
       "id": "corner",
-      "bg": [ { "weight": 100, "sprite": "t_dirt" }, { "weight": 100, "sprite": "t_dirt2" } ],
       "fg": [
         "t_pit_shallow_corner_nw",
         "t_pit_shallow_corner_sw",
         "t_pit_shallow_corner_se",
         "t_pit_shallow_corner_ne"
+      ],
+      "bg": [
+        { "weight": 100, "sprite": "t_grass" },
+        { "weight": 100, "sprite": "t_grass_center2" }
       ]
-    },
-    {
+    }, {
       "id": "t_connection",
-      "bg": [ { "weight": 100, "sprite": "t_dirt" }, { "weight": 100, "sprite": "t_dirt2" } ],
       "fg": [
         "t_pit_shallow_t_connection_n",
         "t_pit_shallow_t_connection_w",
         "t_pit_shallow_t_connection_s",
         "t_pit_shallow_t_connection_e"
+      ],
+      "bg": [
+        { "weight": 100, "sprite": "t_grass" },
+        { "weight": 100, "sprite": "t_grass_center2" }
       ]
-    },
-    {
+    }, {
       "id": "edge",
-      "bg": [ { "weight": 100, "sprite": "t_dirt" }, { "weight": 100, "sprite": "t_dirt2" } ],
       "fg": [
         "t_pit_shallow_edge_ns",
         "t_pit_shallow_edge_ew"
+      ],
+      "bg": [
+        { "weight": 100, "sprite": "t_grass" },
+        { "weight": 100, "sprite": "t_grass_center2" }
       ]
-    },
-    {
+    }, {
       "id": "end_piece",
-      "bg": [ { "weight": 100, "sprite": "t_dirt" }, { "weight": 100, "sprite": "t_dirt2" } ],
       "fg": [
         "t_pit_shallow_end_piece_n",
         "t_pit_shallow_end_piece_w",
         "t_pit_shallow_end_piece_s",
         "t_pit_shallow_end_piece_e"
+      ],
+      "bg": [
+        { "weight": 100, "sprite": "t_grass" },
+        { "weight": 100, "sprite": "t_grass_center2" }
       ]
-    },
-    {
-      "bg": [ { "weight": 100, "sprite": "t_dirt" }, { "weight": 100, "sprite": "t_dirt2" } ],
+    }, {
       "id": "unconnected",
       "fg": [
         "t_pit_shallow_unconnected",
         "t_pit_shallow_unconnected"
+      ],
+      "bg": [
+        { "weight": 100, "sprite": "t_grass" },
+        { "weight": 100, "sprite": "t_grass_center2" }
+      ]
+    }
+  ]
+}, {
+  "id": "t_pit_shallow_season_summer",
+  "fg": "t_pit_shallow_unconnected",
+  "bg": [
+    { "weight": 100, "sprite": "t_grass_summer" },
+    { "weight": 100, "sprite": "t_grass_summer_center2" }
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_pit_shallow_center",
+      "bg": [
+        { "weight": 100, "sprite": "t_grass_summer" },
+        { "weight": 100, "sprite": "t_grass_summer_center2" }
+      ]
+    }, {
+      "id": "corner",
+      "fg": [
+        "t_pit_shallow_corner_nw",
+        "t_pit_shallow_corner_sw",
+        "t_pit_shallow_corner_se",
+        "t_pit_shallow_corner_ne"
+      ],
+      "bg": [
+        { "weight": 100, "sprite": "t_grass_summer" },
+        { "weight": 100, "sprite": "t_grass_summer_center2" }
+      ]
+    }, {
+      "id": "t_connection",
+      "fg": [
+        "t_pit_shallow_t_connection_n",
+        "t_pit_shallow_t_connection_w",
+        "t_pit_shallow_t_connection_s",
+        "t_pit_shallow_t_connection_e"
+      ],
+      "bg": [
+        { "weight": 100, "sprite": "t_grass_summer" },
+        { "weight": 100, "sprite": "t_grass_summer_center2" }
+      ]
+    }, {
+      "id": "edge",
+      "fg": [
+        "t_pit_shallow_edge_ns",
+        "t_pit_shallow_edge_ew"
+      ],
+      "bg": [
+        { "weight": 100, "sprite": "t_grass_summer" },
+        { "weight": 100, "sprite": "t_grass_summer_center2" }
+      ]
+    }, {
+      "id": "end_piece",
+      "fg": [
+        "t_pit_shallow_end_piece_n",
+        "t_pit_shallow_end_piece_w",
+        "t_pit_shallow_end_piece_s",
+        "t_pit_shallow_end_piece_e"
+      ],
+      "bg": [
+        { "weight": 100, "sprite": "t_grass_summer" },
+        { "weight": 100, "sprite": "t_grass_summer_center2" }
+      ]
+    }, {
+      "id": "unconnected",
+      "fg": [
+        "t_pit_shallow_unconnected",
+        "t_pit_shallow_unconnected"
+      ],
+      "bg": [
+        { "weight": 100, "sprite": "t_grass_summer" },
+        { "weight": 100, "sprite": "t_grass_summer_center2" }
+      ]
+    }
+  ]
+}, {
+  "id": "t_pit_shallow_season_autumn",
+  "fg": "t_pit_shallow_unconnected",
+  "bg": [
+    { "weight": 100, "sprite": "t_grass_autumn" },
+    { "weight": 100, "sprite": "t_grass_autumn_center2" }
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_pit_shallow_center",
+      "bg": [
+        { "weight": 100, "sprite": "t_grass_autumn" },
+        { "weight": 100, "sprite": "t_grass_autumn_center2" }
+      ]
+    }, {
+      "id": "corner",
+      "fg": [
+        "t_pit_shallow_corner_nw",
+        "t_pit_shallow_corner_sw",
+        "t_pit_shallow_corner_se",
+        "t_pit_shallow_corner_ne"
+      ],
+      "bg": [
+        { "weight": 100, "sprite": "t_grass_autumn" },
+        { "weight": 100, "sprite": "t_grass_autumn_center2" }
+      ]
+    }, {
+      "id": "t_connection",
+      "fg": [
+        "t_pit_shallow_t_connection_n",
+        "t_pit_shallow_t_connection_w",
+        "t_pit_shallow_t_connection_s",
+        "t_pit_shallow_t_connection_e"
+      ],
+      "bg": [
+        { "weight": 100, "sprite": "t_grass_autumn" },
+        { "weight": 100, "sprite": "t_grass_autumn_center2" }
+      ]
+    }, {
+      "id": "edge",
+      "fg": [
+        "t_pit_shallow_edge_ns",
+        "t_pit_shallow_edge_ew"
+      ],
+      "bg": [
+        { "weight": 100, "sprite": "t_grass_autumn" },
+        { "weight": 100, "sprite": "t_grass_autumn_center2" }
+      ]
+    }, {
+      "id": "end_piece",
+      "fg": [
+        "t_pit_shallow_end_piece_n",
+        "t_pit_shallow_end_piece_w",
+        "t_pit_shallow_end_piece_s",
+        "t_pit_shallow_end_piece_e"
+      ],
+      "bg": [
+        { "weight": 100, "sprite": "t_grass_autumn" },
+        { "weight": 100, "sprite": "t_grass_autumn_center2" }
+      ]
+    }, {
+      "id": "unconnected",
+      "fg": [
+        "t_pit_shallow_unconnected",
+        "t_pit_shallow_unconnected"
+      ],
+      "bg": [
+        { "weight": 100, "sprite": "t_grass_autumn" },
+        { "weight": 100, "sprite": "t_grass_autumn_center2" }
+      ]
+    }
+  ]
+}, {
+  "id": "t_pit_shallow_season_winter",
+  "fg": "t_pit_shallow_unconnected",
+  "bg": [
+    { "weight": 100, "sprite": "snow_shallow_center" },
+    { "weight": 100, "sprite": "snow_shallow_center2" }
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_pit_shallow_center",
+      "bg": [
+        { "weight": 100, "sprite": "snow_shallow_center" },
+        { "weight": 100, "sprite": "snow_shallow_center2" }
+      ]
+    }, {
+      "id": "corner",
+      "fg": [
+        "t_pit_shallow_corner_nw",
+        "t_pit_shallow_corner_sw",
+        "t_pit_shallow_corner_se",
+        "t_pit_shallow_corner_ne"
+      ],
+      "bg": [
+        { "weight": 100, "sprite": "snow_shallow_center" },
+        { "weight": 100, "sprite": "snow_shallow_center2" }
+      ]
+    }, {
+      "id": "t_connection",
+      "fg": [
+        "t_pit_shallow_t_connection_n",
+        "t_pit_shallow_t_connection_w",
+        "t_pit_shallow_t_connection_s",
+        "t_pit_shallow_t_connection_e"
+      ],
+      "bg": [
+        { "weight": 100, "sprite": "snow_shallow_center" },
+        { "weight": 100, "sprite": "snow_shallow_center2" }
+      ]
+    }, {
+      "id": "edge",
+      "fg": [
+        "t_pit_shallow_edge_ns",
+        "t_pit_shallow_edge_ew"
+      ],
+      "bg": [
+        { "weight": 100, "sprite": "snow_shallow_center" },
+        { "weight": 100, "sprite": "snow_shallow_center2" }
+      ]
+    }, {
+      "id": "end_piece",
+      "fg": [
+        "t_pit_shallow_end_piece_n",
+        "t_pit_shallow_end_piece_w",
+        "t_pit_shallow_end_piece_s",
+        "t_pit_shallow_end_piece_e"
+      ],
+      "bg": [
+        { "weight": 100, "sprite": "snow_shallow_center" },
+        { "weight": 100, "sprite": "snow_shallow_center2" }
+      ]
+    }, {
+      "id": "unconnected",
+      "fg": [
+        "t_pit_shallow_unconnected",
+        "t_pit_shallow_unconnected"
+      ],
+      "bg": [
+        { "weight": 100, "sprite": "snow_shallow_center" },
+        { "weight": 100, "sprite": "snow_shallow_center2" }
       ]
     }
   ]
 }
+]

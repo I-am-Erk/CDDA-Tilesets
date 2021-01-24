@@ -1,32 +1,32 @@
 [
   {
     "id": "cursor",
-    "fg": [ "cursor_white" ],
-    "bg": [ ]
+    "fg": "cursor_white",
+    "bg": ""
   },
   {
     "id": "highlight",
-    "fg": [ "highlight" ],
-    "bg": [ ]
+    "fg": "highlight",
+    "bg": ""
   },
   {
     "id": "highlight_item",
-    "fg": [ "highlight_item" ],
-    "bg": [ ]
+    "fg": "highlight_item",
+    "bg": ""
   },
   {
     "id": "line_target",
-    "fg": [ "cursor_yellow" ],
-    "bg": [ ]
+    "fg": "cursor_yellow",
+    "bg": ""
   },
   {
     "id": "line_trail",
-    "fg": [ "line_trail" ],
-    "bg": [ ]
+    "fg": "line_trail",
+    "bg": ""
   },
   {
     "id": "animation_line",
-    "fg": [ "animation_line" ],
-    "bg": [ ]
+    "fg": "animation_line",
+    "bg": ""
   }
 ]

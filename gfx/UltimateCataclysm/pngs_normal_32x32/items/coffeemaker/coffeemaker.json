@@ -1,7 +1,7 @@
 [
   {
     "id": "coffeemaker",
-    "fg": [ "coffeemaker" ],
-    "bg": [ ]
+    "fg": "coffeemaker",
+    "bg": ""
   }
 ]

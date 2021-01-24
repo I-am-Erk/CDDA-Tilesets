@@ -1,26 +1,14 @@
 [{
   "id": "id_industrial",
-  "fg": [
-    "id_industrial"
-  ],
-  "bg": [
-    
-  ]
+  "fg": "id_industrial",
+  "bg": ""
 },{
   "id": "id_military",
-  "fg": [
-    "id_military"
-  ],
-  "bg": [
-    
-  ]
+  "fg": "id_military",
+  "bg": ""
 },{
   "id": "id_science",
-  "fg": [
-    "id_science"
-  ],
-  "bg": [
-    
-  ]
+  "fg": "id_science",
+  "bg": ""
 }
 ]

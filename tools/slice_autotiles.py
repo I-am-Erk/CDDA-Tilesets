@@ -112,10 +112,9 @@ def main(args):
                 "bg": "",
             }, {
                 "id": "unconnected",
+                # two copies because multitiles are assumed to rotate
                 "fg": [f"{args.tile}_unconnected", f"{args.tile}_unconnected"],
-                "bg": "",
-                "//": "Multitiles are assumed to rotate, "
-                      "two copies to omit rotation",
+                "bg": ""
             }
         ]
     }

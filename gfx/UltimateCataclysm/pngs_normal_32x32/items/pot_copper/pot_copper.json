@@ -1,7 +1,5 @@
 {
   "id": "pot_copper",
-  "fg": [
-    "pot_copper"
-  ],
-  "bg": []
+  "fg": "pot_copper",
+  "bg": ""
 }

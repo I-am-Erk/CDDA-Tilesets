@@ -1,5 +1,5 @@
 {
   "id": "tailors_kit",
-  "fg": ["tailors_kit"],
-  "bg": []
+  "fg": "tailors_kit",
+  "bg": ""
 }

@@ -1,5 +1,5 @@
 {
   "id": "wood_sheet",
-  "fg": [ "wood_sheet" ],
-  "bg": []
+  "fg": "wood_sheet",
+  "bg": ""
 }

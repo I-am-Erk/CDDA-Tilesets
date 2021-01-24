@@ -1,16 +1,12 @@
 [
 {
   "id": "f_CTscan",
-  "fg": [
-    "f_CT_scanner"
-  ],
-  "bg": []
+  "fg": "f_CT_scanner",
+  "bg": ""
 },
 {
   "id": "f_MRI",
-  "fg": [
-    "f_MRI"
-  ],
-  "bg": []
+  "fg": "f_MRI",
+  "bg": ""
 }
 ]

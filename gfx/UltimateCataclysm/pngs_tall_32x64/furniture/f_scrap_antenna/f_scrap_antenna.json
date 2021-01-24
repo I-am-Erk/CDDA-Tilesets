@@ -11,6 +11,6 @@
     { "weight": 15, "sprite": "f_scrap_antenna_frame6" }
   ],
   "rotates": false,
-  "bg": [  ]
+  "bg": ""
  }
 ]

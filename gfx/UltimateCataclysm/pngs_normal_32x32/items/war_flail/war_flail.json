@@ -1,5 +1,5 @@
 {
   "id": "2h_flail_steel",
-  "fg": ["war_flail"],
-  "bg": []
+  "fg": "war_flail",
+  "bg": ""
 }

@@ -5,6 +5,6 @@
       { "weight": 100, "sprite": "zombie_snapper1" },
       { "weight": 100, "sprite": "zombie_snapper2" }
     ],
-    "bg": [ "shadow_32x64_normal" ]
+    "bg": "shadow_32x64_normal"
   }
 ]

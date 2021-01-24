@@ -42,7 +42,7 @@
     "bg": "bg_crows_rotS"
   },
   {
-    "id": [ "vp_tow_launcher" ],
+    "id": "vp_tow_launcher",
     "//": "rocket tubes",
     "fg": "vp_machinegun_mounted_rotS",
     "bg": "bg_crows_rotS"

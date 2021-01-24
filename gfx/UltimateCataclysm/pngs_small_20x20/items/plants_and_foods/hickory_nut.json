@@ -1,7 +1,5 @@
 {
   "id": "hickory_nut",
-  "fg": [
-    "hickory_nut"
-  ],
-  "bg": []
+  "fg": "hickory_nut",
+  "bg": ""
 }

@@ -6,10 +6,6 @@
     "overlay_wielded_glock_22",
     "overlay_wielded_glock_31"
   ],
-  "fg": [
-    "glock_17_mf"
-  ],
-  "bg": [
-    
-  ]
+  "fg": "glock_17_mf",
+  "bg": ""
 }

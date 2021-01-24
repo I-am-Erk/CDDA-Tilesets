@@ -1,21 +1,17 @@
 {
   "id": "f_earthbag_half",
   "multitile": true,
-  "fg": [
-    "f_earthbag_half_unconnected"
-  ],
-  "bg": [ "t_dirt" ],
+  "fg": "f_earthbag_half_unconnected",
+  "bg": "t_grass",
   "additional_tiles": [
     {
       "id": "center",
-      "bg": [],
-      "fg": [
-        "f_earthbag_half_center"
-      ]
+      "bg": "",
+      "fg": "f_earthbag_half_center"
     },
     {
       "id": "corner",
-      "bg": [],
+      "bg": "",
       "fg": [
         "f_earthbag_half_corner_nw",
         "f_earthbag_half_corner_sw",
@@ -25,7 +21,7 @@
     },
     {
       "id": "t_connection",
-      "bg": [],
+      "bg": "",
       "fg": [
         "f_earthbag_half_t_connection_n",
         "f_earthbag_half_t_connection_w",
@@ -35,7 +31,7 @@
     },
     {
       "id": "edge",
-      "bg": [],
+      "bg": "",
       "fg": [
         "f_earthbag_half_edge_ns",
         "f_earthbag_half_edge_ew"
@@ -43,7 +39,7 @@
     },
     {
       "id": "end_piece",
-      "bg": [],
+      "bg": "",
       "fg": [
         "f_earthbag_half_end_piece_n",
         "f_earthbag_half_end_piece_w",
@@ -52,7 +48,7 @@
       ]
     },
     {
-      "bg": [],
+      "bg": "",
       "id": "unconnected",
       "fg": [
         "f_earthbag_half_unconnected",

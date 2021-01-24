@@ -1,7 +1,5 @@
 {
   "id": "f_shower",
-  "fg": [
-    "f_shower"
-  ],
-  "bg": []
+  "fg": "f_shower",
+  "bg": ""
 }

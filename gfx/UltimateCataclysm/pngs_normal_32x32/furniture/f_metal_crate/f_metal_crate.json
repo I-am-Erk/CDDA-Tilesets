@@ -1,17 +1,17 @@
 [
  {
   "id": "f_metal_crate_r",
-  "fg": [ "f_metal_crate_r" ],
-  "bg": [  ]
+  "fg": "f_metal_crate_r",
+  "bg": ""
  },
  {
   "id": "f_metal_crate_c",
-  "fg": [ "f_metal_crate_c" ],
-  "bg": [  ]
+  "fg": "f_metal_crate_c",
+  "bg": ""
  },
  {
   "id": "f_metal_crate_o",
-  "fg": [ "f_metal_crate_o" ],
-  "bg": [  ]
+  "fg": "f_metal_crate_o",
+  "bg": ""
  }
 ]

@@ -1,5 +1,5 @@
 {
   "id": "f_solar_unit",
-  "fg": ["f_solar_unit"],
-  "bg": []
+  "fg": "f_solar_unit",
+  "bg": ""
 }

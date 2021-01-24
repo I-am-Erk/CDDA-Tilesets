@@ -2,14 +2,14 @@
 {
   "id": "f_makeshift_bed",
   "fg": "f_makeshift_bed",
-  "bg": []
+  "bg": ""
 },{
   "id": "f_straw_bed",
   "fg": "f_straw_bed",
-  "bg": []
+  "bg": ""
 },{
   "id": "f_bed_frame",
   "fg": "f_bed_frame",
-  "bg": []
+  "bg": ""
 }
 ]

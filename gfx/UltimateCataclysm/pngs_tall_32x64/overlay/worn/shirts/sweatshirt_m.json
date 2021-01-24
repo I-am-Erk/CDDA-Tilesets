@@ -1,5 +1,5 @@
 {
   "id": "overlay_male_worn_sweatshirt",
-  "fg": ["sweatshirt_m"],
-  "bg": []
+  "fg": "sweatshirt_m",
+  "bg": ""
 }

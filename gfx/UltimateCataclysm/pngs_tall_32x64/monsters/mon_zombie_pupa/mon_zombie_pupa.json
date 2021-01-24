@@ -1,12 +1,26 @@
 [
   {
-    "id": "mon_zombie_crawler_pupa",
-    "fg": [ "mon_zombie_crawler_pupa" ],
-    "bg": [ "shadow_32x64_normal" ]
+    "id": [
+		"mon_zombie_crawler_pupa",
+		"mon_zombie_crawler_pupa_decoy"
+	],
+    "fg": "mon_zombie_crawler_pupa",
+    "bg": "shadow_32x64_normal"
   },
   {
-    "id": "mon_zombie_pupa",
-    "fg": [ "mon_zombie_pupa" ],
-    "bg": [ "shadow_32x64_normal" ]
+    "id": [
+		"mon_zombie_pupa",
+		"mon_zombie_pupa_decoy"
+	],
+    "fg": "mon_zombie_pupa",
+    "bg": "shadow_32x64_normal"
+  },
+  {
+    "id": [
+		"mon_zombie_pupa_shady",
+		"mon_zombie_pupa_decoy_shady"
+	],
+    "fg": "mon_zombie_pupa_shady",
+    "bg": "shadow_32x64_normal"
   }
 ]
