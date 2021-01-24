@@ -12,10 +12,10 @@ on:
       - master
     paths:
       - 'gfx/UltimateCataclysm/**'
-      - 'gfx\MShockXotto\+\pngs_large_64x80\monsters/**'
-      - 'gfx\MShockXotto\+\pngs_tiles_32x32\character/**'
-      - 'gfx\MShockXotto\+\pngs_tiles_32x32\monster/**'
-      - 'gfx\MShockXotto\+\pngs_tall_32x48/**'
+      - 'gfx/MShockXotto\+/pngs_large_64x80/monsters/**'
+      - 'gfx/MShockXotto\+/pngs_tiles_32x32/character/**'
+      - 'gfx/MShockXotto\+/pngs_tiles_32x32/monster/**'
+      - 'gfx/MShockXotto\+/pngs_tall_32x48/**'
       - 'gfx/Chibi_Ultica/**'
       - '.github/workflows/Chibi_ci_build.yml'
   pull_request:
@@ -23,10 +23,10 @@ on:
       - master
     paths:
       - 'gfx/UltimateCataclysm/**'
-      - 'gfx\MShockXotto\+\pngs_large_64x80\monsters/**'
-      - 'gfx\MShockXotto\+\pngs_tiles_32x32\character/**'
-      - 'gfx\MShockXotto\+\pngs_tiles_32x32\monster/**'
-      - 'gfx\MShockXotto\+\pngs_tall_32x48/**'
+      - 'gfx/MShockXotto\+/pngs_large_64x80/monsters/**'
+      - 'gfx/MShockXotto\+/pngs_tiles_32x32/character/**'
+      - 'gfx/MShockXotto\+/pngs_tiles_32x32/monster/**'
+      - 'gfx/MShockXotto\+/pngs_tall_32x48/**'
       - 'gfx/Chibi_Ultica/**'
       - '.github/workflows/Chibi_ci_build.yml'
 
