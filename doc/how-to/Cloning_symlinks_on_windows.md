@@ -18,7 +18,7 @@ This guide comes from [Stackoverflow](https://stackoverflow.com/questions/591724
 
 OR if you have not cloned the repo yet
 
-- Run command:`git clone -c core.symlinks=true <URL>`
+- Run command:`git clone -c core.symlinks=true https://github.com/I-am-Erk/CDDA-Tilesets.git`
 
 ## 4. Pull the repo
 
