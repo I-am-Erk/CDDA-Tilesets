@@ -1,0 +1,47 @@
+[
+  {
+    "id": "overlay_wielded_shock_epee",
+    "fg": "electrified_epee_mf",
+    "bg": ""
+  },
+  {
+    "id": "overlay_wielded_shock_foil",
+    "fg": "electrified_foil_mf",
+    "bg": ""
+  },
+  {
+    "id": "overlay_wielded_shock_sabre",
+    "fg": "electrified_saber_mf",
+    "bg": ""
+  },
+  {
+    "id": "overlay_wielded_fencing_epee",
+    "fg": "fencing_epee_mf",
+    "bg": ""
+  },
+  {
+    "id": "overlay_wielded_fencing_foil",
+    "fg": "fencing_foil_mf",
+    "bg": ""
+  },
+  {
+    "id": "overlay_wielded_fencing_sabre",
+    "fg": "fencing_saber_mf",
+    "bg": ""
+  },
+  {
+    "id": "overlay_wielded_fencing_epee_sharpened",
+    "fg": "sharpened_epee_mf",
+    "bg": ""
+  },
+  {
+    "id": "overlay_wielded_fencing_foil_sharpened",
+    "fg": "sharpened_foil_mf",
+    "bg": ""
+  },
+  {
+    "id": "overlay_wielded_fencing_sabre_sharpened",
+    "fg": "sharpened_saber_mf",
+    "bg": ""
+  }
+]

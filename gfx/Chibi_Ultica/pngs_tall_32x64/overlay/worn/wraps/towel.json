@@ -1,0 +1,32 @@
+[
+  {
+    "id": "overlay_female_worn_towel",
+    "fg": "towel_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_towel",
+    "fg": "towel_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_towel_wet",
+    "fg": "towel_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_towel_wet",
+    "fg": "towel_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_towel_soiled",
+    "fg": "towel_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_towel_soiled",
+    "fg": "towel_m",
+    "bg": ""
+  }
+]

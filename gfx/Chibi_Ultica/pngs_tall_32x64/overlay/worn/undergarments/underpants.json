@@ -1,0 +1,62 @@
+[
+  {
+    "id": "overlay_female_worn_boxer_briefs",
+    "fg": "boxer_briefs_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_boxer_briefs",
+    "fg": "boxer_briefs_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_boxer_shorts",
+    "fg": "boxer_shorts_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_boxer_shorts",
+    "fg": "boxer_shorts_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_long_underpants",
+    "fg": "long_underwear_bottom_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_long_underpants",
+    "fg": "long_underwear_bottom_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_long_undertop",
+    "fg": "long_underwear_top_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_long_undertop",
+    "fg": "long_underwear_top_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_panties",
+    "fg": "panties_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_panties",
+    "fg": "panties_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_union_suit",
+    "fg": "union_suit_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_union_suit",
+    "fg": "union_suit_m",
+    "bg": ""
+  }
+]

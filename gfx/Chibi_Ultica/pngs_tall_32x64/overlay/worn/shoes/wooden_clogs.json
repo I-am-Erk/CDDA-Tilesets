@@ -1,0 +1,12 @@
+[
+  {
+    "id": "overlay_female_worn_clogs",
+    "fg": "wooden_clogs_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_clogs",
+    "fg": "wooden_clogs_m",
+    "bg": ""
+  }
+]

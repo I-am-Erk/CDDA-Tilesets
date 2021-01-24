@@ -1,0 +1,12 @@
+[
+  {
+    "id": "overlay_male_wielded_halberd",
+    "fg": "halberd_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_wielded_halberd",
+    "fg": "halberd_f",
+    "bg": ""
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "overlay_female_worn_karate_gi",
+    "fg": "karate_gi_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_karate_gi",
+    "fg": "karate_gi_m",
+    "bg": ""
+  }
+]

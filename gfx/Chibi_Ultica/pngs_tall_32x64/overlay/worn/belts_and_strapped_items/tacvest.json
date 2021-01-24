@@ -1,0 +1,12 @@
+[
+  {
+    "id": "overlay_female_worn_tacvest",
+    "fg": "tac_vest_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_tacvest",
+    "fg": "tac_vest_m",
+    "bg": ""
+  }
+]

@@ -1,0 +1,18 @@
+[{
+  "id": "overlay_female_worn_mask_ski",
+  "fg": "mask_ski_f",
+  "bg": ""
+},{
+  "id": "overlay_male_worn_mask_ski",
+  "fg": "mask_ski_m",
+  "bg": ""
+},{
+  "id": "overlay_female_worn_mask_ski_loose",
+  "fg": "mask_ski_loose_f",
+  "bg": ""
+},{
+  "id": "overlay_male_worn_mask_ski_loose",
+  "fg": "mask_ski_loose_m",
+  "bg": ""
+}
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "overlay_male_worn_helmet_plate",
+    "fg": "great_helm_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_armor_lightplate",
+    "fg": "plate_armor_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_gloves_plate",
+    "fg": "armored_gloves_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_boots_plate",
+    "fg": "armored_boots_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_cuirass_lightplate",
+    "fg": "cuirass_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_armguard_lightplate",
+    "fg": "steel_arm_guards_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_legguard_lightplate",
+    "fg": "steel_leg_guards_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_helmet_plate",
+    "fg": "great_helm_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_armor_lightplate",
+    "fg": "plate_armor_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_gloves_plate",
+    "fg": "armored_gloves_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_boots_plate",
+    "fg": "armored_boots_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_cuirass_lightplate",
+    "fg": "cuirass_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_armguard_lightplate",
+    "fg": "steel_arm_guards_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_legguard_lightplate",
+    "fg": "steel_leg_guards_f",
+    "bg": ""
+  }
+]

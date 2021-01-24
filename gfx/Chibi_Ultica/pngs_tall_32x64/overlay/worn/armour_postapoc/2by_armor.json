@@ -1,0 +1,22 @@
+[
+  {
+    "id": "overlay_female_worn_2byarm_guard",
+    "fg": "2byarm_guards_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_2byarm_guard",
+    "fg": "2byarm_guards_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_2byshin_guard",
+    "fg": "2byshin_guards_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_2byshin_guard",
+    "fg": "2byshin_guards_m",
+    "bg": ""
+  }
+]

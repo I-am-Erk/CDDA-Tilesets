@@ -1,0 +1,12 @@
+[
+  {
+    "id": "overlay_female_wielded_throwing_knife",
+    "fg": "throwing_knife_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_wielded_throwing_knife",
+    "fg": "throwing_knife_m",
+    "bg": ""
+  }
+]

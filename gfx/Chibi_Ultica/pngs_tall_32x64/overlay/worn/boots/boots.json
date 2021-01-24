@@ -1,0 +1,92 @@
+[
+  {
+    "id": "overlay_female_worn_boots",
+    "fg": "boots_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_boots",
+    "fg": "boots_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_boots_bunker",
+    "fg": "boots_bunker_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_boots_bunker",
+    "fg": "boots_bunker_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_boots_fur",
+    "fg": "boots_fur_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_boots_fur",
+    "fg": "boots_fur_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_boots_hiking",
+    "fg": "boots_hiking_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_boots_hiking",
+    "fg": "boots_hiking_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_boots_rubber",
+    "fg": "boots_rubber_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_boots_rubber",
+    "fg": "boots_rubber_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_boots_steel",
+    "fg": "boots_steel_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_boots_steel",
+    "fg": "boots_steel_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_boots_western",
+    "fg": "boots_western_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_boots_western",
+    "fg": "boots_western_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_boots_winter",
+    "fg": "boots_winter_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_boots_winter",
+    "fg": "boots_winter_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_motorbike_boots",
+    "fg": "motorbike_boots_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_motorbike_boots",
+    "fg": "motorbike_boots_m",
+    "bg": ""
+  }
+]

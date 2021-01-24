@@ -1,0 +1,82 @@
+[
+  {
+    "id": "overlay_female_worn_chainmail_suit",
+    "fg": "chainmail_armor_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_chainmail_suit",
+    "fg": "chainmail_armor_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_chainmail_feet",
+    "fg": "chainmail_chausses_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_chainmail_feet",
+    "fg": "chainmail_chausses_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_chainmail_hood",
+    "fg": "chainmail_coif_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_chainmail_hood",
+    "fg": "chainmail_coif_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_chainmail_hands",
+    "fg": "chainmail_gloves_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_chainmail_hands",
+    "fg": "chainmail_gloves_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_chainmail_hauberk",
+    "fg": "chainmail_hauberk_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_chainmail_hauberk",
+    "fg": "chainmail_hauberk_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_chainmail_legs",
+    "fg": "chainmail_leggings_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_chainmail_legs",
+    "fg": "chainmail_leggings_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_chainmail_arms",
+    "fg": "chainmail_sleeves_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_chainmail_arms",
+    "fg": "chainmail_sleeves_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_chainmail_vest",
+    "fg": "chainmail_vest_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_chainmail_vest",
+    "fg": "chainmail_vest_m",
+    "bg": ""
+  }
+]

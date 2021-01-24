@@ -1,0 +1,50 @@
+[
+{
+  "id": "overlay_male_worn_backpack",
+  "fg": "backpack_m",
+  "bg": ""
+},
+{
+  "id": "overlay_female_worn_backpack",
+  "fg": "backpack_f",
+  "bg": ""
+},
+{
+  "id": "overlay_male_worn_backpack_hiking",
+  "fg": "backpack_hiking_m",
+  "bg": ""
+},
+{
+  "id": "overlay_female_worn_backpack_hiking",
+  "fg": "backpack_hiking_f",
+  "bg": ""
+},{
+  "id": "overlay_female_worn_backpack_leather",
+  "fg": "backpack_leather_f",
+  "bg": ""
+},{
+  "id": "overlay_male_worn_backpack_leather",
+  "fg": "backpack_leather_m",
+  "bg": ""
+},
+{
+  "id": "overlay_male_worn_backpack_tactical_large",
+  "fg": "backpack_tactical_large_m",
+  "bg": ""
+},
+{
+  "id": "overlay_female_worn_backpack_tactical_large",
+  "fg": "backpack_tactical_large_f",
+  "bg": ""
+},
+{
+  "id": "overlay_male_worn_molle_pack",
+  "fg": "molle_pack_m",
+  "bg": ""
+},
+{
+  "id": "overlay_female_worn_molle_pack",
+  "fg": "molle_pack_f",
+  "bg": ""
+}
+]

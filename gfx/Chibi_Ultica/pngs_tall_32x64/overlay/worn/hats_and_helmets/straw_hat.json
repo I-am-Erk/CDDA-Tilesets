@@ -1,0 +1,12 @@
+[
+  {
+    "id": "overlay_female_worn_straw_hat",
+    "fg": "straw_hat_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_straw_hat",
+    "fg": "straw_hat_m",
+    "bg": ""
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "overlay_female_wielded_teleumbrella",
+    "fg": "umbrella_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_wielded_teleumbrella",
+    "fg": "umbrella_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_wielded_umbrella",
+    "fg": "umbrella_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_wielded_umbrella",
+    "fg": "umbrella_m",
+    "bg": ""
+  }
+]
