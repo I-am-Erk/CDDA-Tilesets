@@ -1,33 +1,19 @@
 <!-- HOW TO USE: Under each "#### Heading" below, enter information relevant to your pull request.
-Comment blocks, surrounded with <!–– and ––>, won't be visible in the actual post.
--->
+Comment blocks, surrounded with <!–– and ––>, won't be visible in the actual post.-->
 
 #### Summary
 
-<!-- This section should consist of exactly one line, formatted like this:
-
-SUMMARY: [Category] "[Briefly describe the change in these quotation marks]"
-
-Do not enter the square brackets [].  Category must be one of these:
-
-- Ultica
-- Ultica-iso
-- RetroDays
-- NeoDays
-- MSX
-- BLB
-- Chesthole
-- Infrastructure
--->
+SUMMARY: Category "Brief description"
+<!-- This section should consist of exactly one line, edit the one above.
+Available categories are: Ultica, Ultica-iso, RetroDays, NeoDays, MSX, BLB, Chesthole, Infrastructure.-->
 
 #### Content of the change
-<!-- Explain what does this pull request contain.  -->
+<!-- Explain what does this pull request contain. -->
 
 
 #### Testing
-<!-- If applicable include screenshots of the sprites in game or at least in your image editor.  -->
+<!-- If applicable include screenshots of the sprites in game.
+For non-sprite contribution explain what you did to verify your changes are correct and how others can verify them.-->
 
 
-#### Additional context
-<!-- Add any other context about the PR here.  -->
-
+#### Additional informations
