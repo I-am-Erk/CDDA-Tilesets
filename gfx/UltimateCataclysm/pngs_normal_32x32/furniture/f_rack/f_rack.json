@@ -1,8 +1,8 @@
 {
-  "id": "f_earthbag_half",
+  "id": "f_rack",
   "multitile": true,
-  "fg": "f_earthbag_half_unconnected",
-  "bg": "t_grass",
+  "fg": "f_rack_unconnected",
+  "bg": "",
   "additional_tiles": [
     {
       "id": "center",
