@@ -14,8 +14,7 @@
       "corpse_mon_zombie_soldier",
       "corpse_mon_zombie_military_pilot"
     ],
-    "fg": "corpse_mon_zombie_soldier",
-    "bg": ""
+    "fg": "corpse_mon_zombie_soldier"
   }
 ]
 
