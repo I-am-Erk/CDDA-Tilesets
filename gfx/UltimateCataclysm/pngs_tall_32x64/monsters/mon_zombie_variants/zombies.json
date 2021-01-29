@@ -66,9 +66,7 @@
       "corpse_mon_zombie_child_fungus",
       "corpse_mon_zombie_swimmer",
       "corpse_mon_zombie_mancroc",
-      "corpse_mon_zombie_soldier",
       "corpse_mon_zombie_skull",
-      "corpse_mon_zombie_brainless",
       "corpse_mon_zombie_survivor",
       "corpse_mon_zombie_soldier_acid_1",
       "corpse_mon_zombie_soldier_acid_2",
@@ -81,8 +79,7 @@
       "corpse_mon_zombie_anklebiter",
       "corpse_mon_zombie_bio_op",
       "corpse_mon_zombie_prisoner",
-      "corpse_mon_zombie_winged",
-      "corpse_mon_zombie_military_pilot"
+      "corpse_mon_zombie_winged"
     ],
     "fg": "corpse_mon_zombie",
     "bg": ""

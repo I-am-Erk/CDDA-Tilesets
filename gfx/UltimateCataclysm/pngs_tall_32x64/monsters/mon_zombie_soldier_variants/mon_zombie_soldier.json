@@ -8,5 +8,16 @@
     "id": "mon_zombie_military_pilot",
     "fg": "mon_zombie_military_pilot",
     "bg": "shadow_32x64_normal"
+  },
+  {
+    "id": [
+      "corpse_mon_zombie_soldier",
+      "corpse_mon_zombie_military_pilot"
+    ],
+    "fg": "corpse_mon_zombie_soldier",
+    "bh": ""
   }
 ]
+
+
+
