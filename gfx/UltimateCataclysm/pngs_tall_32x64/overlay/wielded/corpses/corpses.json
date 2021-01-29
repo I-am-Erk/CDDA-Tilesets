@@ -5,8 +5,7 @@
       "overlay_wielded_corpse_mon_ant_soldier", 
       "overlay_wielded_corpse_mon_ant_queen"
     ],
-    "fg": "mon_ant_mf",
-    "bg": ""
+    "fg": "mon_ant_mf"
   },
   {
     "id": [
@@ -14,8 +13,7 @@
       "overlay_wielded_corpse_mon_ant_acid_soldier", 
       "overlay_wielded_corpse_mon_ant_acid_queen"
     ],
-    "fg": "mon_ant_acid_mf",
-    "bg": ""
+    "fg": "mon_ant_acid_mf"
   },
   {
     "id": [
@@ -71,8 +69,7 @@
       "overlay_male_wielded_corpse_mon_zombie_armored", 
       "overlay_male_wielded_corpse_mon_zombie_prisoner"
     ],
-    "fg": "mon_zombie_m",
-    "bg": ""
+    "fg": "mon_zombie_m"
   },
   {
     "id": [
@@ -128,33 +125,28 @@
       "overlay_female_wielded_corpse_mon_zombie_armored", 
       "overlay_female_wielded_corpse_mon_zombie_prisoner"
     ],
-    "fg": "mon_zombie_f",
-    "bg": ""
+    "fg": "mon_zombie_f"
   },
   {
     "id": [
       "overlay_male_wielded_corpse_mon_zombie_soldier", 
       "overlay_male_wielded_corpse_mon_zombie_military_pilot"
     ],
-    "fg": "overlay_male_wielded_corpse_mon_zombie_soldier",
-    "bg": ""
+    "fg": "overlay_male_wielded_corpse_mon_zombie_soldier"
   },
   {
     "id": [
       "overlay_female_wielded_corpse_mon_zombie_soldier", 
       "overlay_female_wielded_corpse_mon_zombie_military_pilot"
     ],
-    "fg": "overlay_female_wielded_corpse_mon_zombie_soldier",
-    "bg": ""
+    "fg": "overlay_female_wielded_corpse_mon_zombie_soldier"
   },
   {
     "id": ["overlay_male_wielded_corpse_mon_zombie_brainless"],
-    "fg": "overlay_male_wielded_corpse_mon_zombie_brainless",
-    "bg": ""
+    "fg": "overlay_male_wielded_corpse_mon_zombie_brainless"
   },
   {
     "id": ["overlay_female_wielded_corpse_mon_zombie_brainless"],
-    "fg": "overlay_female_wielded_corpse_mon_zombie_brainless",
-    "bg": ""
+    "fg": "overlay_female_wielded_corpse_mon_zombie_brainless"
   }
 ]
