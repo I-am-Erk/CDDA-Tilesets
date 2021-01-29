@@ -1,18 +1,18 @@
 [
   {
-    "id": [ "vp_folding_seat", "vp_reclining_seat", "vp_seat" ],
+    "id": [ "vp_folding_seat", "vp_reclining_seat", "vp_seat", "vp_seat_back" ],
     "rotates": true,
     "bg": "",
     "fg": [ "vp_seat_up", "vp_seat_left", "vp_seat_down", "vp_seat_right" ]
   },
   {
-    "id": [ "vp_seat_leather", "vp_reclining_seat_leather" ],
+    "id": [ "vp_seat_leather", "vp_reclining_seat_leather", "vp_seat_back_leather" ],
     "rotates": true,
     "bg": "",
     "fg": [ "vp_seat_leather_up", "vp_seat_leather_left", "vp_seat_leather_down", "vp_seat_leather_right" ]
   },
   {
-    "id": "vp_seat_wood",
+    "id": [ "vp_seat_wood", "seat_wood_bench" ],
     "rotates": true,
     "bg": [ "vp_wooden_aisle_vertical", "vp_wooden_aisle_horizontal" ],
     "fg": [ "vp_seat_wood_rotN", "vp_seat_wood_rotN", "vp_seat_wood_rotS", "vp_seat_wood_rotS" ]
