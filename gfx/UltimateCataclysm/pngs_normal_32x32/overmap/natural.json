@@ -1,10 +1,5 @@
 [
   {
-    "id": "unknown_terrain",
-    "fg": "t_rock_floor_center",
-    "bg": ""
-  },
-  {
     "id": "forest_water",
     "fg": "t_underbrush",
     "bg": "t_water_sh_center"
