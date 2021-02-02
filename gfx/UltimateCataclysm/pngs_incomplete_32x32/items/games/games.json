@@ -1,7 +1,13 @@
 [
 {
-  "id": ["golf_ball", "bowling_ball", "baseball", "football", "basketball", "indoor_volleyball", "beach_volleyball", "puck"],
-  "fg": "generic_ball_striped",
-  "bg": ""
+  "id": [
+    "golf_ball", 
+    "bowling_ball", 
+    "football", 
+    "basketball", 
+    "indoor_volleyball", 
+    "beach_volleyball"
+  ],
+  "fg": "generic_ball_striped"
 }
 ]
