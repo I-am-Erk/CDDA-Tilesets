@@ -8,7 +8,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_cover"
       }
     ]
@@ -22,7 +22,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_cross"
       }
     ]
@@ -36,7 +36,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_cross_unconnected"
       }
     ]
@@ -50,7 +50,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_ne"
       }
     ]
@@ -64,7 +64,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_nw"
       }
     ]
@@ -78,7 +78,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_se"
       }
     ]
@@ -92,7 +92,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_sw"
       }
     ]
@@ -106,7 +106,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_vertical_unconnected"
       }
     ]
@@ -120,7 +120,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_vertical2_unconnected"
       }
     ]
@@ -134,7 +134,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_vertical_left"
       }
     ]
@@ -148,7 +148,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_vertical2_left"
       }
     ]
@@ -162,7 +162,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_vertical_right"
       }
     ]
@@ -176,7 +176,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_vertical2_right"
       }
     ]
@@ -190,7 +190,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_horizontal"
       }
     ]
@@ -204,7 +204,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_horizontal2"
       }
     ]
@@ -218,7 +218,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_horizontal_unconnected"
       }
     ]
@@ -232,7 +232,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_horizontal2_unconnected"
       }
     ]
@@ -246,7 +246,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_horizontal_front"
       }
     ]
@@ -260,7 +260,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_horizontal2_front"
       }
     ]
@@ -274,7 +274,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_horizontal_rear"
       }
     ]
@@ -288,7 +288,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_horizontal2_rear"
       }
     ]
@@ -302,7 +302,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_horizontal_left"
       }
     ]
@@ -316,7 +316,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_horizontal_2_left"
       }
     ]
@@ -330,7 +330,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_horizontal_right"
       }
     ]
@@ -344,7 +344,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_horizontal_2_right"
       }
     ]
@@ -358,7 +358,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_vertical"
       }
     ]
@@ -372,7 +372,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_vertical2"
       }
     ]
@@ -386,7 +386,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "hdframe_cover"
       }
     ]
@@ -400,7 +400,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "hdframe_cross"
       }
     ]
@@ -414,7 +414,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "hdframe_cross_unconnected"
       }
     ]
@@ -428,7 +428,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "hdframe_ne"
       }
     ]
@@ -442,7 +442,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "hdframe_nw"
       }
     ]
@@ -456,7 +456,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "hdframe_se"
       }
     ]
@@ -470,7 +470,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "hdframe_sw"
       }
     ]
@@ -484,7 +484,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "hdframe_vertical_unconnected"
       }
     ]
@@ -498,7 +498,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "hdframe_vertical2_unconnected"
       }
     ]
@@ -512,7 +512,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "hdframe_vertical_left"
       }
     ]
@@ -526,7 +526,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "hdframe_vertical2_left"
       }
     ]
@@ -540,7 +540,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "hdframe_vertical_right"
       }
     ]
@@ -554,7 +554,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "hdframe_vertical2_right"
       }
     ]
@@ -568,7 +568,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "hdframe_horizontal"
       }
     ]
@@ -582,7 +582,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "hdframe_horizontal2"
       }
     ]
@@ -596,7 +596,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "hdframe_horizontal_unconnected"
       }
     ]
@@ -610,7 +610,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "hdframe_horizontal2_unconnected"
       }
     ]
@@ -624,7 +624,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "hdframe_horizontal_front"
       }
     ]
@@ -638,7 +638,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "hdframe_horizontal2_front"
       }
     ]
@@ -652,7 +652,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "hdframe_horizontal_rear"
       }
     ]
@@ -666,7 +666,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "hdframe_horizontal2_rear"
       }
     ]
@@ -680,7 +680,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "hdframe_horizontal_left"
       }
     ]
@@ -694,7 +694,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "hdframe_horizontal_2_left"
       }
     ]
@@ -708,7 +708,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "hdframe_horizontal_right"
       }
     ]
@@ -722,7 +722,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "hdframe_horizontal_2_right"
       }
     ]
@@ -736,7 +736,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "hdframe_vertical"
       }
     ]
@@ -750,7 +750,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "hdframe_vertical2"
       }
     ]
@@ -764,7 +764,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "xlframe_cover"
       }
     ]
@@ -778,7 +778,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "xlframe_cross"
       }
     ]
@@ -792,7 +792,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "xlframe_cross_unconnected"
       }
     ]
@@ -806,7 +806,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "xlframe_ne"
       }
     ]
@@ -820,7 +820,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "xlframe_nw"
       }
     ]
@@ -834,7 +834,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "xlframe_se"
       }
     ]
@@ -848,7 +848,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "xlframe_sw"
       }
     ]
@@ -862,7 +862,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "xlframe_vertical_unconnected"
       }
     ]
@@ -876,7 +876,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "xlframe_vertical2_unconnected"
       }
     ]
@@ -890,7 +890,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "xlframe_vertical_left"
       }
     ]
@@ -904,7 +904,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "xlframe_vertical2_left"
       }
     ]
@@ -918,7 +918,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "xlframe_vertical_right"
       }
     ]
@@ -932,7 +932,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "xlframe_vertical2_right"
       }
     ]
@@ -946,7 +946,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "xlframe_horizontal"
       }
     ]
@@ -960,7 +960,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "xlframe_horizontal2"
       }
     ]
@@ -974,7 +974,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "xlframe_horizontal_unconnected"
       }
     ]
@@ -988,7 +988,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "xlframe_horizontal2_unconnected"
       }
     ]
@@ -1002,7 +1002,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "xlframe_horizontal_front"
       }
     ]
@@ -1016,7 +1016,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "xlframe_horizontal2_front"
       }
     ]
@@ -1030,7 +1030,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "xlframe_horizontal_rear"
       }
     ]
@@ -1044,7 +1044,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "xlframe_horizontal2_rear"
       }
     ]
@@ -1058,7 +1058,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "xlframe_horizontal_left"
       }
     ]
@@ -1072,7 +1072,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "xlframe_horizontal_2_left"
       }
     ]
@@ -1086,7 +1086,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "xlframe_horizontal_right"
       }
     ]
@@ -1100,7 +1100,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "xlframe_horizontal_2_right"
       }
     ]
@@ -1114,7 +1114,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "xlframe_vertical"
       }
     ]
@@ -1128,7 +1128,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "xlframe_vertical2"
       }
     ]

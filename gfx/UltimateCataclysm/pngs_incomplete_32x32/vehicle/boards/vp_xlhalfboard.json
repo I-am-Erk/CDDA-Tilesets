@@ -8,7 +8,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [ "vp_xlhalfboard_ne", "vp_xlhalfboard_ne_rotW", "vp_xlhalfboard_ne_rotS", "vp_xlhalfboard_ne_rotE" ]
       }
     ]
@@ -22,7 +22,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [ "vp_xlhalfboard_nw", "vp_xlhalfboard_nw_rotW", "vp_xlhalfboard_nw_rotS", "vp_xlhalfboard_nw_rotE" ]
       }
     ]
@@ -36,7 +36,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "vp_xlhalfboard_se"
       }
     ]
@@ -50,7 +50,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "vp_xlhalfboard_sw"
       }
     ]
@@ -64,7 +64,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "vp_xlhalfboard_vertical_left"
       }
     ]
@@ -78,7 +78,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "vp_xlhalfboard_vertical_right"
       }
     ]
@@ -92,7 +92,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "vp_xlhalfboard_horizontal_front"
       }
     ]
@@ -110,7 +110,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [ "vp_xlhalfboard_horizontal_front",
       "vp_xlhalfboard_horizontal_front_rotW",
       "vp_xlhalfboard_horizontal_front_rotS",
@@ -128,7 +128,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "vp_xlhalfboard_horizontal_rear"
       }
     ]
@@ -142,7 +142,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "vp_xlhalfboard_vertical"
       }
     ]
@@ -156,7 +156,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [ "vp_xlhalfboard_cover", "vp_xlhalfboard_cover_rotW", "vp_xlhalfboard_cover_rotS", "vp_xlhalfboard_cover_rotE" ]
       }
     ]

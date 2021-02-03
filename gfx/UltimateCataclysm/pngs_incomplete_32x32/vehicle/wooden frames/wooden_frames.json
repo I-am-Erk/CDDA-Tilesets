@@ -8,7 +8,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_wood_vertical2"
       }
     ]
@@ -22,7 +22,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_wood_vertical2_unconnected"
       }
     ]
@@ -36,7 +36,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_wood_vertical2_right"
       }
     ]
@@ -50,7 +50,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_wood_vertical2_left"
       }
     ]
@@ -64,7 +64,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_wood_vertical"
       }
     ]
@@ -78,7 +78,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_wood_vertical_unconnected"
       }
     ]
@@ -92,7 +92,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_wood_vertical_right"
       }
     ]
@@ -106,7 +106,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_wood_vertical_left"
       }
     ]
@@ -120,7 +120,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_wood_sw"
       }
     ]
@@ -134,7 +134,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_wood_se"
       }
     ]
@@ -148,7 +148,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_wood_nw"
       }
     ]
@@ -162,7 +162,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_wood_ne"
       }
     ]
@@ -176,7 +176,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_wood_horizontal2"
       }
     ]
@@ -190,7 +190,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_wood_horizontal2_unconnected"
       }
     ]
@@ -204,7 +204,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_wood_horizontal2_right"
       }
     ]
@@ -218,7 +218,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_wood_horizontal2_rear"
       }
     ]
@@ -232,7 +232,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_wood_horizontal2_left"
       }
     ]
@@ -246,7 +246,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_wood_horizontal2_front"
       }
     ]
@@ -260,7 +260,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_wood_horizontal"
       }
     ]
@@ -274,7 +274,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_wood_horizontal-unconnected"
       }
     ]
@@ -288,7 +288,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_wood_horizontal_right"
       }
     ]
@@ -302,7 +302,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_wood_horizontal_rear"
       }
     ]
@@ -316,7 +316,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_wood_horizontal_left"
       }
     ]
@@ -330,7 +330,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_wood_horizontal_front"
       }
     ]
@@ -344,7 +344,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_wood_cross"
       }
     ]
@@ -358,7 +358,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_wood_cross_unconnected"
       }
     ]
@@ -372,7 +372,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "frame_wood_cover"
       }
     ]

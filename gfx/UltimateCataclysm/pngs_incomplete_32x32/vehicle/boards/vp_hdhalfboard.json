@@ -8,7 +8,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "vp_hdhalfboard_ne"
       }
     ]
@@ -22,7 +22,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "vp_hdhalfboard_nw"
       }
     ]
@@ -36,7 +36,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "vp_hdhalfboard_se"
       }
     ]
@@ -50,7 +50,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "vp_hdhalfboard_sw"
       }
     ]
@@ -64,7 +64,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "vp_hdhalfboard_vertical_left"
       }
     ]
@@ -78,7 +78,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "vp_hdhalfboard_vertical_right"
       }
     ]
@@ -92,7 +92,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "vp_hdhalfboard_horizontal_front"
       }
     ]
@@ -106,7 +106,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "vp_hdhalfboard_horizontal_2_front"
       }
     ]
@@ -125,7 +125,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [
       "vp_hdhalfboard_horizontal_front",
       "vp_hdhalfboard_horizontal_front_rotW",
@@ -149,7 +149,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [
       "vp_hdhalfboard_horizontal_2_front",
       "vp_hdhalfboard_horizontal_2_front_rotW",
@@ -171,7 +171,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [ "vp_hdhalfboard_horizontal_rear",
       "vp_hdhalfboard_horizontal_front_rotE",
       "vp_hdhalfboard_horizontal_front",
@@ -191,7 +191,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [ "vp_hdhalfboard_horizontal_2_rear",
       "vp_hdhalfboard_horizontal_2_front_rotE",
       "vp_hdhalfboard_horizontal_2_front",
@@ -208,7 +208,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "vp_hdhalfboard_vertical"
       }
     ]
@@ -222,7 +222,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "vp_hdhalfboard_vertical_2"
       }
     ]
@@ -236,7 +236,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "vp_hdhalfboard_vertical_2_left"
       }
     ]
@@ -250,7 +250,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "vp_hdhalfboard_vertical_2_right"
       }
     ]
@@ -264,7 +264,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [ "vp_hdhalfboard_cover", "vp_hdhalfboard_cover_rotW", "vp_hdhalfboard_cover_rotS", "vp_hdhalfboard_cover_rotE" ]
       }
     ]

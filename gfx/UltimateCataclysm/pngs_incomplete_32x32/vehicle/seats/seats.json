@@ -8,7 +8,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [ "vp_seat_up", "vp_seat_left", "vp_seat_down", "vp_seat_right" ]
       }
     ]
@@ -22,7 +22,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [ "vp_seat_leather_up", "vp_seat_leather_left", "vp_seat_leather_down", "vp_seat_leather_right" ]
       }
     ]
@@ -36,7 +36,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [ "vp_seat_wood_rotN", "vp_seat_wood_rotN", "vp_seat_wood_rotS", "vp_seat_wood_rotS" ]
       }
     ]
@@ -50,7 +50,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [ "vp_seat_wood_flimsy_rotN", "vp_seat_wood_flimsy_rotN", "vp_seat_wood_flimsy_rotS", "vp_seat_wood_flimsy_rotS" ]
       }
     ]

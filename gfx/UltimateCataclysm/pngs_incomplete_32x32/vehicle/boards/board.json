@@ -8,7 +8,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [ "vp_board_ne", "vp_board_ne_rotW", "vp_board_ne_rotS", "vp_board_ne_rotE" ]
       }
     ]
@@ -22,7 +22,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [ "vp_board_nw", "vp_board_nw_rotW", "vp_board_nw_rotS", "vp_board_nw_rotE" ]
       }
     ]
@@ -36,7 +36,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [ "vp_board_se", "vp_board_se_rotW", "vp_board_nw", "vp_board_se_rotE" ]
       }
     ]
@@ -50,7 +50,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [ "vp_board_sw", "vp_board_sw_rotW", "vp_board_ne", "vp_board_sw_rotE" ]
       }
     ]
@@ -64,7 +64,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [ "vp_board_vertical_left", "vp_board_vertical_left_rotW_right_rotE", "vp_board_vertical_right", "vp_board_vertical_left_rotE_right_rotW" ]
       }
     ]
@@ -78,7 +78,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [ "vp_board_vertical_right", "vp_board_vertical_left_rotE_right_rotW", "vp_board_vertical_left", "vp_board_vertical_left_rotW_right_rotE" ]
       }
     ]
@@ -92,7 +92,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "vp_board_horizontal_front"
       }
     ]
@@ -106,7 +106,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [ "vp_board_horizontal_front", "vp_board_horizontal_front_rotW", "vp_board_horizontal_front", "vp_board_horizontal_front_rotE" ]
       }
     ]
@@ -120,7 +120,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [ "vp_board_horizontal_rear", "vp_board_horizontal_front_rotE", "vp_board_horizontal_front", "vp_board_horizontal_front_rotW" ]
       }
     ]
@@ -134,7 +134,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "vp_board_vertical_left"
       }
     ]
@@ -148,7 +148,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [ "vp_hdboard_ne", "vp_hdboard_ne_rotW", "vp_hdboard_ne_rotS", "vp_hdboard_ne_rotE" ]
       }
     ]
@@ -162,7 +162,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [ "vp_hdboard_nw", "vp_hdboard_nw_rotW", "vp_hdboard_nw_rotS", "vp_hdboard_nw_rotE" ]
       }
     ]
@@ -176,7 +176,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [ "vp_hdboard_se", "vp_hdboard_se_rotW", "vp_hdboard_nw", "vp_hdboard_se_rotE" ]
       }
     ]
@@ -190,7 +190,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [ "vp_hdboard_sw", "vp_hdboard_sw_rotW", "vp_hdboard_ne", "vp_hdboard_sw_rotE" ]
       }
     ]
@@ -204,7 +204,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [ "vp_hdboard_vertical_left", "vp_hdboard_vertical_rotW_rotE", "vp_hdboard_vertical_right", "vp_hdboard_vertical_rotW_rotE" ]
       }
     ]
@@ -218,7 +218,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [ "vp_hdboard_vertical_right", "vp_hdboard_vertical_rotW_rotE", "vp_hdboard_vertical_left", "vp_hdboard_vertical_rotW_rotE" ]
       }
     ]
@@ -232,7 +232,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "vp_hdboard_horizontal_front"
       }
     ]
@@ -246,7 +246,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [ "vp_hdboard_horizontal_front", "vp_hdboard_horizontal_front_rotW", "vp_hdboard_horizontal_front", "vp_hdboard_horizontal_front_rotE" ]
       }
     ]
@@ -260,7 +260,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [ "vp_hdboard_horizontal_rear", "vp_hdboard_horizontal_front_rotE", "vp_hdboard_horizontal_front", "vp_hdboard_horizontal_front_rotW" ]
       }
     ]
@@ -274,7 +274,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": "vp_hdboard_vertical_left"
       }
     ]

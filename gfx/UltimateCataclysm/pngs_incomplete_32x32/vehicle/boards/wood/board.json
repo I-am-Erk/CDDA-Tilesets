@@ -13,7 +13,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [
           "vp_woodboard_ne_rotN_sw_rotS",
           "vp_woodboard_ne_rotW_sw_rotE",
@@ -37,7 +37,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [
           "vp_woodboard_nw_rotN_se_rotS",
           "vp_woodboard_nw_rotw_se_rotE",
@@ -61,7 +61,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [
           "vp_woodboard_se_rotN_nw_rotS",
           "vp_woodboard_se_rotW_nw_rotE",
@@ -85,7 +85,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [
           "vp_woodboard_sw_rotN_ne_rotS",
           "vp_woodboard_sw_rotw_ne_rotE",
@@ -109,7 +109,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [
           "vp_woodboard_vertical_left_rotN_right_rotS",
           "vp_woodboard_horizontal_rear_rotN_front_rotS",
@@ -133,7 +133,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [
           "vp_woodboard_vertical_right_rotN_left_rotS",
           "vp_woodboard_horizontal_front_rotN_rear_rotS",
@@ -161,7 +161,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [
           "vp_woodboard_horizontal_front_rotN_rear_rotS",
           "vp_woodboard_horizontal_front_rotW_rear_rotE",
@@ -185,7 +185,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [
           "vp_woodboard_horizontal_rear_rotN_front_rotS",
           "vp_woodboard_horizontal_rear_rotW_front_rotE",

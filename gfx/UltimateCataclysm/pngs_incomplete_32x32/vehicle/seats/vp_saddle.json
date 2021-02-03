@@ -8,7 +8,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_metal_center",
         "bg": [ "saddle_pedal_rotN", "saddle_pedal_rotW", "saddle_pedal_rotS", "saddle_pedal_rotE" ]
       }
     ]
