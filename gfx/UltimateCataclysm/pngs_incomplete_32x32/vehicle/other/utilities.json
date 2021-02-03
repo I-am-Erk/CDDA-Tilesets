@@ -4,139 +4,62 @@
     "fg": [ "veh_table", "veh_table" ],
     "bg": [ "vp_wooden_aisle_vertical", "vp_wooden_aisle_horizontal" ],
     "additional_tiles": [ { "id": "broken", "fg": "veh_table_broken", "bg": [ "vp_wooden_aisle_vertical", "vp_wooden_aisle_horizontal" ] } ],
-    "multitile": true
+    "multitile": true,
+    "rotates": true
   },
   {
     "id": "vp_workbench",
     "fg": "vp_workbench",
-    "bg": "t_metal_floor_unconnected",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "vp_workbench"
-      }
-    ]
+    "bg": "t_metal_floor_unconnected"
   },
   {
     "id": "vp_minifridge",
     "fg": "vp_minifridge",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "vp_minifridge"
-      }
-    ]
+    "bg": ""
   },
   {
     "id": "vp_minifreezer",
     "fg": "vp_minifreezer",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "vp_minifreezer"
-      }
-    ]
+    "bg": ""
   },
   {
     "id": "vp_kitchen_unit",
     "fg": "vp_kitchen_unit",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "vp_kitchen_unit"
-      }
-    ]
+    "bg": ""
   },
   {
     "id": "vp_welding_rig",
     "fg": "vp_welding_rig",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "vp_welding_rig"
-      }
-    ]
+    "bg": ""
   },
   {
     "id": "vp_craft_rig",
     "fg": "vp_craft_rig",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "vp_craft_rig"
-      }
-    ]
+    "bg": ""
   },
   {
     "id": "vp_washing_machine",
     "fg": "vp_washing_machine",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "vp_washing_machine"
-      }
-    ]
+    "bg": ""
   },
   {
     "id": "vp_bed",
     "fg": "vp_bed",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "vp_bed"
-      }
-    ]
+    "bg": ""
   },
   {
     "id": "vp_veh_forge",
     "fg": "vp_forge",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "vp_forge"
-      }
-    ]
+    "bg": ""
   },
   {
     "id": "vp_veh_kiln",
     "fg": "vp_kiln",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "vp_kiln"
-      }
-    ]
+    "bg": ""
   },
   {
     "id": "vp_chemlab",
     "fg": "vp_chem_lab",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "vp_chem_lab"
-      }
-    ]
+    "bg": ""
   }
 ]
