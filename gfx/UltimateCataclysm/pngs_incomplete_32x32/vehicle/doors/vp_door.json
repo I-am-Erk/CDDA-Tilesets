@@ -34,7 +34,18 @@
     "bg": "",
     "rotates": true,
     "multitile": true,
-    "additional_tiles": [ { "id": "open", "fg": "vp_door_inboard", "bg": "" } ]
+    "additional_tiles": [
+      {
+        "id": "open",
+        "fg": "vp_door_inboard",
+        "bg": ""
+      },
+      {
+        "id": "broken",
+        "fg": "crack_glass_center",
+        "bg": "vp_door_inboard"
+      }
+    ]
   },
   {
     "id": "vp_door_front",
@@ -204,7 +215,18 @@
     "bg": "",
     "rotates": true,
     "multitile": true,
-    "additional_tiles": [ { "id": "open", "fg": "vp_door_shutter_open", "bg": "" } ]
+    "additional_tiles": [
+      {
+        "id": "open",
+        "fg": "vp_door_shutter_open",
+        "bg": ""
+      },
+      {
+        "id": "broken",
+        "fg": "crack_glass_center",
+        "bg": "vp_door_shutter_open"
+      }
+    ]
   },
   {
     "id": "vp_door_trunk",

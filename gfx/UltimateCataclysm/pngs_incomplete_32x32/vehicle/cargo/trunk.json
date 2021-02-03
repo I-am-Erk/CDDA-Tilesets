@@ -2,36 +2,85 @@
   {
     "id": "vp_box",
     "fg": [ "vp_box", "vp_box_rot" ],
+    "bg": "",
     "rotates": true,
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_glass_center",
+        "bg": [ "vp_box", "vp_box_rot" ]
+      }
+    ]
   },
   {
     "id": "vp_wood box",
     "fg": [ "vp_wood_box_rotNS", "vp_wood_box_rotEW" ],
+    "bg": "",
     "rotates": true,
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_glass_center",
+        "bg": [ "vp_wood_box_rotNS", "vp_wood_box_rotEW" ]
+      }
+    ]
   },
   {
     "id": "vp_box_wheelbarrow",
     "fg": [ "vp_box_wheelbarrow_rotN", "vp_box_wheelbarrow_rotW", "vp_box_wheelbarrow_rotS", "vp_box_wheelbarrow_rotE" ],
+    "bg": "",
     "rotates": true,
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_glass_center",
+        "bg": [ "vp_box_wheelbarrow_rotN", "vp_box_wheelbarrow_rotW", "vp_box_wheelbarrow_rotS", "vp_box_wheelbarrow_rotE" ]
+      }
+    ]
   },
   {
     "id": "vp_trunk",
     "fg": "vp_trunk",
+    "bg": "",
     "rotates": true,
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_glass_center",
+        "bg": "vp_trunk"
+      }
+    ]
   },
   {
     "id": "vp_trunk_rear_edge",
     "fg": "vp_trunk_rear_edge",
-    "bg": ""
+    "bg": "",
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_glass_center",
+        "bg": "vp_trunk_rear_edge"
+      }
+    ]
   },
   {
     "id": ["vp_cargo_space", "animal_compartment"],
     "fg": "vp_cargo_space",
+    "bg": "",
     "rotates": true,
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_glass_center",
+        "bg": "vp_cargo_space"
+      }
+    ]
   }
 ]
