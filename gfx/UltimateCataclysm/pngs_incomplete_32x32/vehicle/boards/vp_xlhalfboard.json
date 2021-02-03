@@ -2,8 +2,6 @@
   {
     "id": "vp_xlhalfboard_ne",
     "fg": [ "vp_xlhalfboard_ne", "vp_xlhalfboard_ne_rotW", "vp_xlhalfboard_ne_rotS", "vp_xlhalfboard_ne_rotE" ],
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -16,8 +14,6 @@
   {
     "id": "vp_xlhalfboard_nw",
     "fg": [ "vp_xlhalfboard_nw", "vp_xlhalfboard_nw_rotW", "vp_xlhalfboard_nw_rotS", "vp_xlhalfboard_nw_rotE" ],
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -30,8 +26,6 @@
   {
     "id": "vp_xlhalfboard_se",
     "fg": "vp_xlhalfboard_se",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -44,8 +38,6 @@
   {
     "id": "vp_xlhalfboard_sw",
     "fg": "vp_xlhalfboard_sw",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -58,8 +50,6 @@
   {
     "id": "vp_xlhalfboard_vertical_left",
     "fg": "vp_xlhalfboard_vertical_left",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -72,8 +62,6 @@
   {
     "id": "vp_xlhalfboard_vertical_right",
     "fg": "vp_xlhalfboard_vertical_right",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -86,8 +74,6 @@
   {
     "id": [ "vp_xlhalfboard_horizontal", "vp_xlhalfboard_horizontal_2" ],
     "fg": "vp_xlhalfboard_horizontal_front",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -104,8 +90,6 @@
       "vp_xlhalfboard_horizontal_front_rotS",
       "vp_xlhalfboard_horizontal_front_rotE"
     ],
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -122,8 +106,6 @@
   {
     "id": "vp_xlhalfboard_horizontal_rear",
     "fg": "vp_xlhalfboard_horizontal_rear",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -136,8 +118,6 @@
   {
     "id": [ "vp_xlhalfboard_vertical", "vp_xlhalfboard_vertical_2" ],
     "fg": "vp_xlhalfboard_vertical",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -150,8 +130,6 @@
   {
     "id": "vp_xlhalfboard_cover",
     "fg": [ "vp_xlhalfboard_cover", "vp_xlhalfboard_cover_rotW", "vp_xlhalfboard_cover_rotS", "vp_xlhalfboard_cover_rotE" ],
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {

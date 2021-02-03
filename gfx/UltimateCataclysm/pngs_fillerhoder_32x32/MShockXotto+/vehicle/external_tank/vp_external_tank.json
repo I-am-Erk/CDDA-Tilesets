@@ -1,8 +1,6 @@
 {
   "id": ["vp_external_tank", "vp_external_tank_small"],
   "fg": "vp_external_tank",
-  "bg": "",
-  "rotates": true,
   "multitile": true,
   "additional_tiles": [
     {

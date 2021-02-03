@@ -4,14 +4,12 @@
     "fg": [ "veh_table", "veh_table" ],
     "bg": [ "vp_wooden_aisle_vertical", "vp_wooden_aisle_horizontal" ],
     "additional_tiles": [ { "id": "broken", "fg": "veh_table_broken", "bg": [ "vp_wooden_aisle_vertical", "vp_wooden_aisle_horizontal" ] } ],
-    "multitile": true,
-    "rotates": true
+    "multitile": true
   },
   {
     "id": "vp_workbench",
     "fg": "vp_workbench",
     "bg": "t_metal_floor_unconnected",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -24,8 +22,6 @@
   {
     "id": "vp_minifridge",
     "fg": "vp_minifridge",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -38,8 +34,6 @@
   {
     "id": "vp_minifreezer",
     "fg": "vp_minifreezer",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -52,8 +46,6 @@
   {
     "id": "vp_kitchen_unit",
     "fg": "vp_kitchen_unit",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -66,8 +58,6 @@
   {
     "id": "vp_welding_rig",
     "fg": "vp_welding_rig",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -80,8 +70,6 @@
   {
     "id": "vp_craft_rig",
     "fg": "vp_craft_rig",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -94,8 +82,6 @@
   {
     "id": "vp_washing_machine",
     "fg": "vp_washing_machine",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -108,8 +94,6 @@
   {
     "id": "vp_bed",
     "fg": "vp_bed",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -122,8 +106,6 @@
   {
     "id": "vp_veh_forge",
     "fg": "vp_forge",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -136,8 +118,6 @@
   {
     "id": "vp_veh_kiln",
     "fg": "vp_kiln",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -150,8 +130,6 @@
   {
     "id": "vp_chemlab",
     "fg": "vp_chem_lab",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {

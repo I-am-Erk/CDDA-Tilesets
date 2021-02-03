@@ -2,8 +2,6 @@
   {
     "id": "vp_aisle_vertical",
     "fg": "vp_aisle_vertical",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -16,8 +14,6 @@
   {
     "id": "vp_aisle_horizontal",
     "fg": "vp_aisle_horizontal",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -30,14 +26,11 @@
   {
     "id": "vp_trunk_floor",
     "fg": "vp_trunk_floor",
-    "bg": "vp_aisle_vertical",
-    "rotates": true
+    "bg": "vp_aisle_vertical"
   },
   {
     "id": "vp_wooden_aisle_vertical",
     "fg": [ "vp_wooden_aisle_vertical", "vp_wooden_aisle_horizontal" ],
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -50,8 +43,6 @@
   {
     "id": "vp_wooden_aisle_horizontal",
     "fg": [ "vp_wooden_aisle_horizontal", "vp_wooden_aisle_vertical" ],
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -64,8 +55,6 @@
   {
     "id": "vp_lit_aisle_vertical",
     "fg": "vp_lit_aisle_vertical",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -78,8 +67,6 @@
   {
     "id": "vp_lit_aisle_horizontal",
     "fg": "vp_lit_aisle_horizontal",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {

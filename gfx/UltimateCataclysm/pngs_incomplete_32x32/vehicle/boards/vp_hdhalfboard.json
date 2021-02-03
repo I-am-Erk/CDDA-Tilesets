@@ -2,8 +2,6 @@
   {
     "id": "vp_hdhalfboard_ne",
     "fg": "vp_hdhalfboard_ne",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -16,8 +14,6 @@
   {
     "id": "vp_hdhalfboard_nw",
     "fg": "vp_hdhalfboard_nw",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -30,8 +26,6 @@
   {
     "id": "vp_hdhalfboard_se",
     "fg": "vp_hdhalfboard_se",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -44,8 +38,6 @@
   {
     "id": "vp_hdhalfboard_sw",
     "fg": "vp_hdhalfboard_sw",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -58,8 +50,6 @@
   {
     "id": "vp_hdhalfboard_vertical_left",
     "fg": "vp_hdhalfboard_vertical_left",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -72,8 +62,6 @@
   {
     "id": "vp_hdhalfboard_vertical_right",
     "fg": "vp_hdhalfboard_vertical_right",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -86,8 +74,6 @@
   {
     "id": "vp_hdhalfboard_horizontal",
     "fg": "vp_hdhalfboard_horizontal_front",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -100,8 +86,6 @@
   {
     "id": "vp_hdhalfboard_horizontal_2",
     "fg": "vp_hdhalfboard_horizontal_2_front",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -119,8 +103,6 @@
       "vp_hdhalfboard_horizontal_front_rotS",
       "vp_hdhalfboard_horizontal_front_rotE"
     ],
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -143,8 +125,6 @@
       "vp_hdhalfboard_horizontal_2_front_rotS",
       "vp_hdhalfboard_horizontal_2_front_rotE"
     ],
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -165,8 +145,6 @@
       "vp_hdhalfboard_horizontal_front_rotE",
       "vp_hdhalfboard_horizontal_front",
       "vp_hdhalfboard_horizontal_front_rotW" ],
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -185,8 +163,6 @@
       "vp_hdhalfboard_horizontal_2_front_rotE",
       "vp_hdhalfboard_horizontal_2_front",
       "vp_hdhalfboard_horizontal_2_front_rotW" ],
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -202,8 +178,6 @@
   {
     "id": "vp_hdhalfboard_vertical",
     "fg": "vp_hdhalfboard_vertical",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -216,8 +190,6 @@
   {
     "id": "vp_hdhalfboard_vertical_2",
     "fg": "vp_hdhalfboard_vertical_2",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -230,8 +202,6 @@
   {
     "id": "vp_hdhalfboard_vertical_2_left",
     "fg": "vp_hdhalfboard_vertical_2_left",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -244,8 +214,6 @@
   {
     "id": "vp_hdhalfboard_vertical_2_right",
     "fg": "vp_hdhalfboard_vertical_2_right",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -258,8 +226,6 @@
   {
     "id": "vp_hdhalfboard_cover",
     "fg": [ "vp_hdhalfboard_cover", "vp_hdhalfboard_cover_rotW", "vp_hdhalfboard_cover_rotS", "vp_hdhalfboard_cover_rotE" ],
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {

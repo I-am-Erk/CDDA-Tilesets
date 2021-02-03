@@ -2,8 +2,6 @@
   {
     "id": "vp_frame_handle",
     "fg": [ "handle_motor_rotN", "handle_motor_rotW", "handle_motor_rotS", "handle_motor_rotE" ],
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {

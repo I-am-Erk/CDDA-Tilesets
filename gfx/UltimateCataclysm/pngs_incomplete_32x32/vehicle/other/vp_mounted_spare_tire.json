@@ -1,8 +1,6 @@
 {
   "id": "vp_mounted_spare_tire",
   "fg": "vp_mounted_spare_tire",
-  "bg": "",
-  "rotates": true,
   "multitile": true,
   "additional_tiles": [
     {

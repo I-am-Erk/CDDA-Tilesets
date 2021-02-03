@@ -1,7 +1,6 @@
 {
   "id": "vp_robot_controls",
   "fg": "4131_vp_robot_controls_0",
-  "bg": "",
   "multitile": true,
   "additional_tiles": [
     {

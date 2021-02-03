@@ -7,8 +7,6 @@
       "vp_woodboard_sw_rotN_ne_rotS",
       "vp_woodboard_sw_rotw_ne_rotE"
     ],
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -31,8 +29,6 @@
       "vp_woodboard_se_rotN_nw_rotS",
       "vp_woodboard_se_rotW_nw_rotE"
     ],
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -55,8 +51,6 @@
       "vp_woodboard_nw_rotN_se_rotS",
       "vp_woodboard_nw_rotw_se_rotE"
     ],
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -79,8 +73,6 @@
       "vp_woodboard_ne_rotN_sw_rotS",
       "vp_woodboard_ne_rotW_sw_rotE"
     ],
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -103,8 +95,6 @@
       "vp_woodboard_vertical_right_rotN_left_rotS",
       "vp_woodboard_horizontal_front_rotN_rear_rotS"
     ],
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -127,8 +117,6 @@
       "vp_woodboard_vertical_left_rotN_right_rotS",
       "vp_woodboard_horizontal_rear_rotN_front_rotS"
     ],
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -155,8 +143,6 @@
       "vp_woodboard_horizontal_rear_rotN_front_rotS",
       "vp_woodboard_horizontal_rear_rotW_front_rotE"
     ],
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -179,8 +165,6 @@
       "vp_woodboard_horizontal_front_rotN_rear_rotS",
       "vp_woodboard_horizontal_front_rotW_rear_rotE"
     ],
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {

@@ -2,8 +2,6 @@
   {
     "id": [ "vp_saddle", "vp_saddle_pedal" ],
     "fg": [ "saddle_pedal_rotN", "saddle_pedal_rotW", "saddle_pedal_rotS", "saddle_pedal_rotE" ],
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
