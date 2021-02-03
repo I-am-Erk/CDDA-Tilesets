@@ -2,8 +2,6 @@
   {
     "id": "vp_frame_wood_vertical2",
     "fg": "frame_wood_vertical2",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -16,8 +14,6 @@
   {
     "id": "vp_frame_wood_vertical2_unconnected",
     "fg": "frame_wood_vertical2_unconnected",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -30,8 +26,6 @@
   {
     "id": "vp_frame_wood_vertical2_right",
     "fg": "frame_wood_vertical2_right",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -44,8 +38,6 @@
   {
     "id": "vp_frame_wood_vertical2_left",
     "fg": "frame_wood_vertical2_left",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -58,8 +50,6 @@
   {
     "id": "vp_frame_wood_vertical",
     "fg": "frame_wood_vertical",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -72,8 +62,6 @@
   {
     "id": "vp_frame_wood_vertical_unconnected",
     "fg": "frame_wood_vertical_unconnected",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -86,8 +74,6 @@
   {
     "id": "vp_frame_wood_vertical_right",
     "fg": "frame_wood_vertical_right",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -100,8 +86,6 @@
   {
     "id": "vp_frame_wood_vertical_left",
     "fg": "frame_wood_vertical_left",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -114,8 +98,6 @@
   {
     "id": "vp_frame_wood_sw",
     "fg": "frame_wood_sw",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -128,8 +110,6 @@
   {
     "id": "vp_frame_wood_se",
     "fg": "frame_wood_se",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -142,8 +122,6 @@
   {
     "id": "vp_frame_wood_nw",
     "fg": "frame_wood_nw",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -156,8 +134,6 @@
   {
     "id": "vp_frame_wood_ne",
     "fg": "frame_wood_ne",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -170,8 +146,6 @@
   {
     "id": "vp_frame_wood_horizontal2",
     "fg": "frame_wood_horizontal2",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -184,8 +158,6 @@
   {
     "id": "vp_frame_wood_horizontal2_unconnected",
     "fg": "frame_wood_horizontal2_unconnected",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -198,8 +170,6 @@
   {
     "id": "vp_frame_wood_horizontal2_right",
     "fg": "frame_wood_horizontal2_right",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -212,8 +182,6 @@
   {
     "id": "vp_frame_wood_horizontal2_rear",
     "fg": "frame_wood_horizontal2_rear",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -226,8 +194,6 @@
   {
     "id": "vp_frame_wood_horizontal2_left",
     "fg": "frame_wood_horizontal2_left",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -240,8 +206,6 @@
   {
     "id": "vp_frame_wood_horizontal2_front",
     "fg": "frame_wood_horizontal2_front",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -254,8 +218,6 @@
   {
     "id": "vp_frame_wood_horizontal",
     "fg": "frame_wood_horizontal",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -268,8 +230,6 @@
   {
     "id": "vp_frame_wood_horizontal-unconnected",
     "fg": "frame_wood_horizontal-unconnected",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -282,8 +242,6 @@
   {
     "id": "vp_frame_wood_horizontal_right",
     "fg": "frame_wood_horizontal_right",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -296,8 +254,6 @@
   {
     "id": "vp_frame_wood_horizontal_rear",
     "fg": "frame_wood_horizontal_rear",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -310,8 +266,6 @@
   {
     "id": "vp_frame_wood_horizontal_left",
     "fg": "frame_wood_horizontal_left",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -324,8 +278,6 @@
   {
     "id": "vp_frame_wood_horizontal_front",
     "fg": "frame_wood_horizontal_front",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -338,8 +290,6 @@
   {
     "id": "vp_frame_wood_cross",
     "fg": "frame_wood_cross",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -352,8 +302,6 @@
   {
     "id": [ "vp_frame_wood_cross_unconnected", "frame_wood" ],
     "fg": "frame_wood_cross_unconnected",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
@@ -366,8 +314,6 @@
   {
     "id": "vp_frame_wood_cover",
     "fg": "frame_wood_cover",
-    "bg": "",
-    "rotates": true,
     "multitile": true,
     "additional_tiles": [
       {
