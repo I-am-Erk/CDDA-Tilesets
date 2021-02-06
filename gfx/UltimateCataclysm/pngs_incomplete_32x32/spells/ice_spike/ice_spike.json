@@ -1,0 +1,17 @@
+{
+  "id": "explosion_ice_spike",
+  "fg": "ice_spike_center",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "ice_spike_center"
+    }, {
+      "id": "corner",
+      "fg": "ice_spike_corner"
+    }, {
+      "id": "edge",
+      "fg": "ice_spike_edge"
+    }
+  ]
+}
