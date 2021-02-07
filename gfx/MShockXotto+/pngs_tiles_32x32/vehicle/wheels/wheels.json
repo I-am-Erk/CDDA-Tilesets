@@ -21,6 +21,48 @@
     ]
   },
   {
+    "id": [ "vp_wheel_bicycle_or" ],
+    "fg": [ "vp_wheel_bicycle_or_rotN", "vp_wheel_bicycle_or_rotW", "vp_wheel_bicycle_or_rotS", "vp_wheel_bicycle_or_rotE" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "3987_vp_cargo_space_2" ],
+        "bg": [ "vp_wheel_bicycle_or_rotN", "vp_wheel_bicycle_or_rotW", "vp_wheel_bicycle_or_rotS", "vp_wheel_bicycle_or_rotE" ]
+      }
+    ]
+  },
+  {
+    "id": [ "vp_wheel_bicycle_or_rear" ],
+    "fg": [ "vp_wheel_bicycle_or_rotS", "vp_wheel_bicycle_or_rotE", "vp_wheel_bicycle_or_rotN", "vp_wheel_bicycle_or_rotW" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "3987_vp_cargo_space_2" ],
+        "bg": [ "vp_wheel_bicycle_or_rotS", "vp_wheel_bicycle_or_rotE", "vp_wheel_bicycle_or_rotN", "vp_wheel_bicycle_or_rotW" ]
+      }
+    ]
+  },
+  {
+    "id": [ "vp_wheel_small", "vp_wheel_small_steerable" ],
+    "fg": [ "vp_wheel_small_rotN", "vp_wheel_small_rotW", "vp_wheel_small_rotS", "vp_wheel_small_rotE" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "3987_vp_cargo_space_2" ],
+        "bg": [ "vp_wheel_small_rotN", "vp_wheel_small_rotW", "vp_wheel_small_rotS", "vp_wheel_small_rotE" ]
+      }
+    ]
+  },
+  {
     "id": [ "vp_wheel_bicycle_rear" ],
     "fg": [ "vp_wheel_bicycle_rotS", "vp_wheel_bicycle_rotE", "vp_wheel_bicycle_rotN", "vp_wheel_bicycle_rotW" ],
     "rotates": true,
