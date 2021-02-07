@@ -1,5 +1,5 @@
 {
-  "id": "explosion_ice_spike",
+  "id": ["explosion_ice_spike", "explosion_cone_cold"],
   "fg": "ice_spike_center",
   "multitile": true,
   "additional_tiles": [
