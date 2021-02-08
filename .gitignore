@@ -1,4 +1,5 @@
 .DS_Store
+desktop.ini
 __pycache__
 # generated on build
 gfx/*/tile_config.json
@@ -6,5 +7,5 @@ gfx/*/tile_config.json
 # built sprite sheets
 gfx/*/*.png
 
-# Builded book
+# built book
 book
