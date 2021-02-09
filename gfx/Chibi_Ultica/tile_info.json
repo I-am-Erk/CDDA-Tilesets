@@ -20,7 +20,19 @@
     "normal.png": { "filler": true }
   },
   {
-    "tall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true }
+    "tallfurniture.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true }
+  },
+  {
+    "tallmonsters.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true }
+  },
+  {
+    "tallshadows.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true }
+  },
+  {
+    "tallterrain.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true }
+  },
+  {
+    "tallvehicle.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true }
   },
   {
     "huge.png": { "sprite_width": 64, "sprite_height": 96, "sprite_offset_x": -16, "sprite_offset_y": -64, "filler": true }
