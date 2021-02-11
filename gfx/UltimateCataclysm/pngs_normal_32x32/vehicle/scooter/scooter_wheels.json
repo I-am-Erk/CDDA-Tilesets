@@ -1,0 +1,12 @@
+[
+  {
+    "id": [ "vp_wheel_small_scooter", "vp_wheel_small_scooter_steerable" ],
+    "fg": [ "vp_wheel_scooter_rotN", "vp_wheel_scooter_rotW", "vp_wheel_scooter_rotS", "vp_wheel_scooter_rotE" ],
+    "rotates": true
+  },
+  {
+    "id": "vp_wheel_small_scooter_rear",
+    "fg": [ "vp_wheel_scooter_rear_rotN", "vp_wheel_scooter_rear_rotW", "vp_wheel_scooter_rear_rotS", "vp_wheel_scooter_rear_rotE" ],
+    "rotates": true
+  }
+]
