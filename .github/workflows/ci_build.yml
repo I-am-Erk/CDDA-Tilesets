@@ -28,7 +28,7 @@ jobs:
     steps:
       - name: Install Dependencies
         run: |
-          apk add --no-cache musl-dev gcc vips-dev python3-dev zip py3-pip py3-wheel imagemagick-6.q16
+          apk add --no-cache musl-dev gcc vips-dev python3-dev zip py3-pip py3-wheel imagemagick
           pip3 install pyvips
 
       - name: Checkout Code
