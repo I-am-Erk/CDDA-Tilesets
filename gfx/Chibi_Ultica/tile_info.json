@@ -5,13 +5,34 @@
     "height": 32
   },
   {
-    "ChibiLarge.png": { "sprite_width": 64, "sprite_height": 80, "sprite_offset_x": -16, "sprite_offset_y": -48 }
+    "ChibiLargeMonster.png": { "sprite_width": 64, "sprite_height": 80, "sprite_offset_x": -16, "sprite_offset_y": -48 }
   },
   {
-    "ChibiNormal.png": { "sprite_width": 32, "sprite_height": 32 }
+    "ChibiLargeMonsterMagiclysm.png": { "sprite_width": 64, "sprite_height": 80, "sprite_offset_x": -16, "sprite_offset_y": -48 }
   },
   {
-    "ChibiTall.png": { "sprite_width": 32, "sprite_height": 48, "sprite_offset_x": 0, "sprite_offset_y": -16 }
+    "ChibiLargeOverlay.png": { "sprite_width": 64, "sprite_height": 80, "sprite_offset_x": -16, "sprite_offset_y": -48 }
+  },
+  {
+    "ChibiNormalCharacter.png": { "sprite_width": 32, "sprite_height": 32 }
+  },
+  {
+    "ChibiNormalMonster.png": { "sprite_width": 32, "sprite_height": 32 }
+  },
+  {
+    "ChibiNormalMonsterMagiclysm.png": { "sprite_width": 32, "sprite_height": 32 }
+  },
+  {
+    "ChibiNormalMonsterMSC.png": { "sprite_width": 32, "sprite_height": 32 }
+  },
+  {
+    "ChibiTallMonster.png": { "sprite_width": 32, "sprite_height": 48, "sprite_offset_x": 0, "sprite_offset_y": -16 }
+  },
+  {
+    "ChibiTallMonsterMagiclysm.png": { "sprite_width": 32, "sprite_height": 48, "sprite_offset_x": 0, "sprite_offset_y": -16 }
+  },
+  {
+    "ChibiTallOverlay.png": { "sprite_width": 32, "sprite_height": 48, "sprite_offset_x": 0, "sprite_offset_y": -16 }
   },
   {
     "small.png": { "sprite_width": 20, "sprite_height": 20, "filler": true }
@@ -47,7 +68,7 @@
     "giant.png": { "sprite_width": 96, "sprite_height": 96, "sprite_offset_x": -32, "sprite_offset_y": -64, "filler": true }
   },
   {
-    "huge.png": { "sprite_width": 64, "sprite_height": 96, "sprite_offset_x": -16, "sprite_offset_y": -64, "filler": true  }
+    "huge.png": { "sprite_width": 64, "sprite_height": 96, "sprite_offset_x": -16, "sprite_offset_y": -64, "filler": true }
   },
   {
     "incomplete.png": { "filler": true }
