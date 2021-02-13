@@ -43,6 +43,18 @@ jobs:
 
           cd ..
           python3 build/compose.py --use-all --obsolete-fillers gfx/UltimateCataclysm
+
+          for file in gfx/UltimateCataclysm/*.png; do
+            convert "$file" "$file.tmp"
+            original_size=$(wc -c <"$file")
+            imagemagick_size=$(wc -c <"$file.tmp")
+            if [ "$imagemagick_size" -lt "$original_size" ]; then
+              mv "$file.tmp" "$file"
+            else
+              rm "$file.tmp"
+            fi
+          done
+
           cd build
 
           artifact_name=UltimateCataclysm-$(echo $GITHUB_SHA | cut -c -8)
