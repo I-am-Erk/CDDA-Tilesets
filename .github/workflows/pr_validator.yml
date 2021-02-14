@@ -1,0 +1,16 @@
+name: PR Validator
+on:
+  pull_request:
+    branches:
+    - master
+    types: [opened, edited, synchronize]
+jobs:
+  validate:
+    name: Validate PR
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Validate SUMMARY"
+        uses:  I-am-Erk/pr_validator@master
+        with:
+          description-regex: '(\n|^)#### Summary\s+`{0,3}(SUMMARY:\s+)?(None|((Ultica|Ultica-iso|Chibi-Ultica|NeoDays|MSX|BLB|Chesthole|Infrastructure) +".*"))`{0,3}\s*(\n|$)'
+          description-regex-flags: 'i'
