@@ -49,10 +49,10 @@ jobs:
             original_size=$(stat -c%s "$file")
             imagemagick_size=$(stat -c%s "$file.tmp")
             if [ "$imagemagick_size" -lt "$original_size" ]; then
-              echo "ImageMagick shrinked $file"
+              echo "ImageMagick shrinked $file (${original_size} > ${imagemagick_size})"
               mv "$file.tmp" "$file"
             else
-              echo "ImageMagick did not shrink $file"
+              echo "ImageMagick did not shrink $file (${original_size} < ${imagemagick_size})"
               rm "$file.tmp"
             fi
           done
