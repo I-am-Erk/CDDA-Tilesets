@@ -50,6 +50,8 @@ jobs:
             imagemagick_size=$(stat -c%s "$file.tmp")
             if [ "$imagemagick_size" -lt "$original_size" ]; then
               mv "$file.tmp" "$file"
+            else
+              rm "$file.tmp"
             fi
             rm "$file.tmp"
           done
