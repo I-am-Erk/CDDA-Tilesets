@@ -6,7 +6,12 @@
   "additional_tiles": [
     {
       "id": "center",
-      "fg": "t_dirt_season_summer_center",
+      "fg": [
+        "t_dirt_season_summer_center",
+        "t_dirt_season_summer_center2",
+        "t_dirt_season_summer_center3",
+        "t_dirt_season_summer_center4"
+      ],
       "bg": ""
     },
     {

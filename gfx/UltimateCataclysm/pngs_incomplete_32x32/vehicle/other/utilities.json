@@ -3,63 +3,149 @@
     "id": ["vp_veh_table", "vp_veh_table_wood"],
     "fg": [ "veh_table", "veh_table" ],
     "bg": [ "vp_wooden_aisle_vertical", "vp_wooden_aisle_horizontal" ],
-    "additional_tiles": [ { "id": "broken", "fg": "veh_table_broken", "bg": [ "vp_wooden_aisle_vertical", "vp_wooden_aisle_horizontal" ] } ],
     "multitile": true,
-    "rotates": true
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "veh_table_broken",
+        "bg": [
+          "vp_wooden_aisle_vertical",
+          "vp_wooden_aisle_horizontal"
+        ]
+      }
+    ]
   },
   {
     "id": "vp_workbench",
-    "fg": "vp_workbench",
-    "bg": "t_metal_floor_unconnected"
+    "fg": [ "vp_workbench", "vp_workbench" ],
+    "bg": "t_metal_floor_unconnected",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_workbench", "vp_workbench" ]
+      }
+    ]
   },
   {
     "id": "vp_minifridge",
-    "fg": "vp_minifridge",
-    "bg": ""
+    "fg": [ "vp_minifridge", "vp_minifridge" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_minifridge", "vp_minifridge" ]
+      }
+    ]
   },
   {
     "id": "vp_minifreezer",
-    "fg": "vp_minifreezer",
-    "bg": ""
+    "fg": [ "vp_minifreezer", "vp_minifreezer" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_minifreezer", "vp_minifreezer" ]
+      }
+    ]
   },
   {
     "id": "vp_kitchen_unit",
-    "fg": "vp_kitchen_unit",
-    "bg": ""
+    "fg": [ "vp_kitchen_unit", "vp_kitchen_unit" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_kitchen_unit", "vp_kitchen_unit" ]
+      }
+    ]
   },
   {
     "id": "vp_welding_rig",
-    "fg": "vp_welding_rig",
-    "bg": ""
+    "fg": [ "vp_welding_rig", "vp_welding_rig" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_welding_rig", "vp_welding_rig" ]
+      }
+    ]
   },
   {
     "id": "vp_craft_rig",
-    "fg": "vp_craft_rig",
-    "bg": ""
+    "fg": [ "vp_craft_rig", "vp_craft_rig" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_craft_rig", "vp_craft_rig" ]
+      }
+    ]
   },
   {
     "id": "vp_washing_machine",
-    "fg": "vp_washing_machine",
-    "bg": ""
+    "fg": [ "vp_washing_machine", "vp_washing_machine" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_washing_machine", "vp_washing_machine" ]
+      }
+    ]
   },
   {
     "id": "vp_bed",
-    "fg": "vp_bed",
-    "bg": ""
+    "fg": [ "vp_bed", "vp_bed" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_bed", "vp_bed" ]
+      }
+    ]
   },
   {
     "id": "vp_veh_forge",
-    "fg": "vp_forge",
-    "bg": ""
+    "fg": [ "vp_forge", "vp_forge" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_forge", "vp_forge" ]
+      }
+    ]
   },
   {
     "id": "vp_veh_kiln",
-    "fg": "vp_kiln",
-    "bg": ""
+    "fg": [ "vp_kiln", "vp_kiln" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_kiln", "vp_kiln" ]
+      }
+    ]
   },
   {
     "id": "vp_chemlab",
-    "fg": "vp_chem_lab",
-    "bg": ""
+    "fg": [ "vp_chem_lab", "vp_chem_lab" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_chem_lab", "vp_chem_lab" ]
+      }
+    ]
   }
 ]

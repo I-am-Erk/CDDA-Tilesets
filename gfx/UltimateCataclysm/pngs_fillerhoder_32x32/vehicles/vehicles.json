@@ -2,42 +2,98 @@
   {
     "id": "vp_battery_motorbike",
     "fg": "138_vp_small_storage_battery_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "138_vp_small_storage_battery_0"
+      }
+    ]
   },
   {
     "id": "vp_blade_horizontal",
     "fg": "151_vp_blade_horizontal_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "151_vp_blade_horizontal_0"
+      }
+    ]
   },
   {
     "id": "vp_blade_vertical",
     "fg": "152_vp_blade_vertical_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "152_vp_blade_vertical_0"
+      }
+    ]
   },
   {
     "id": "vp_controls",
     "fg": "143_vp_controls_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "143_vp_controls_0"
+      }
+    ]
   },
   {
     "id": "vp_engine_1cyl",
     "fg": "128_vp_engine_1cyl_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "128_vp_engine_1cyl_0"
+      }
+    ]
   },
   {
     "id": "vp_engine_electric",
     "fg": "133_vp_engine_electric_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "133_vp_engine_electric_0"
+      }
+    ]
   },
   {
     "id": "vp_engine_electric_large",
     "fg": "134_vp_engine_electric_large_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "134_vp_engine_electric_large_0"
+      }
+    ]
   },
   {
     "id": "vp_engine_inline4",
     "fg": "130_vp_engine_inline4_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "130_vp_engine_inline4_0"
+      }
+    ]
   },
   {
     "id": "vp_engine_v12",
@@ -47,318 +103,674 @@
   {
     "id": "vp_engine_v6",
     "fg": "131_vp_engine_v6_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "131_vp_engine_v6_0"
+      }
+    ]
   },
   {
     "id": "vp_engine_v8",
     "fg": "132_vp_engine_v8_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "132_vp_engine_v8_0"
+      }
+    ]
   },
   {
     "id": "vp_engine_vtwin",
     "fg": "129_vp_engine_vtwin_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "129_vp_engine_vtwin_0"
+      }
+    ]
   },
   {
     "id": "vp_foot_pedals",
     "fg": "136_vp_foot_pedals_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "136_vp_foot_pedals_0"
+      }
+    ]
   },
   {
     "id": "vp_fusion_gun",
     "fg": "163_vp_fusion_gun_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "163_vp_fusion_gun_0"
+      }
+    ]
   },
   {
     "id": "vp_hdroof",
     "fg": "1767_vp_hdroof_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "1767_vp_hdroof_0"
+      }
+    ]
   },
   {
     "id": "vp_hydrogen_tank",
     "fg": "140_vp_hydrogen_tank_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "140_vp_hydrogen_tank_0"
+      }
+    ]
   },
   {
     "id": "vp_minireactor",
     "fg": "139_vp_minireactor_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "139_vp_minireactor_0"
+      }
+    ]
   },
   {
     "id": "vp_muffler",
     "fg": "142_vp_muffler_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "142_vp_muffler_0"
+      }
+    ]
   },
   {
     "id": "vp_omnicam",
     "fg": "1747_vp_omnicam_0",
-    "bg": "1767_vp_hdroof_0"
+    "bg": "1767_vp_hdroof_0",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_glass_center",
+        "bg": "1747_vp_omnicam_0"
+      }
+    ]
   },
   {
     "id": "vp_plating_hard",
     "fg": "147_vp_plating_hard_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "147_vp_plating_hard_0"
+      }
+    ]
   },
   {
     "id": "vp_plating_military",
     "fg": "144_vp_plating_steel_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "144_vp_plating_steel_0"
+      }
+    ]
   },
   {
     "id": "vp_plating_spiked",
     "fg": "146_vp_plating_spiked_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "146_vp_plating_spiked_0"
+      }
+    ]
   },
   {
     "id": "vp_plating_steel",
     "fg": "144_vp_plating_steel_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "144_vp_plating_steel_0"
+      }
+    ]
   },
   {
     "id": "vp_plating_superalloy",
     "fg": "145_vp_plating_superalloy_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "145_vp_plating_superalloy_0"
+      }
+    ]
   },
   {
     "id": "vp_plating_wood",
     "fg": "409_t_wall_wood_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "409_t_wall_wood_0"
+      }
+    ]
   },
   {
     "id": "vp_roof",
     "fg": "1799_vp_roof_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "1799_vp_roof_0"
+      }
+    ]
   },
   {
     "id": "vp_roof_cloth",
     "fg": "400_f_canvas_wall_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "400_f_canvas_wall_0"
+      }
+    ]
   },
   {
     "id": "vp_seatbelt",
     "fg": "127_vp_seatbelt_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "127_vp_seatbelt_0"
+      }
+    ]
   },
   {
     "id": "vp_seatbelt_heavyduty",
     "fg": "127_vp_seatbelt_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "127_vp_seatbelt_0"
+      }
+    ]
   },
   {
     "id": "vp_small_storage_battery",
     "fg": "138_vp_small_storage_battery_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "138_vp_small_storage_battery_0"
+      }
+    ]
   },
   {
     "id": "vp_spike",
     "fg": "153_vp_spike_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "153_vp_spike_0"
+      }
+    ]
   },
   {
     "id": "vp_storage_battery",
     "fg": "138_vp_small_storage_battery_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "138_vp_small_storage_battery_0"
+      }
+    ]
   },
   {
     "id": "vp_v_curtain",
     "fg": "451_f_bed_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "451_f_bed_0"
+      }
+    ]
   },
   {
     "id": "vp_wheel_armor",
     "fg": "119_vp_wheel_0",
-    "rotates": true,
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "119_vp_wheel_0"
+      }
+    ]
   },
   {
     "id": "vp_wheel_armor_steerable",
     "fg": "119_vp_wheel_0",
-    "rotates": true,
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "119_vp_wheel_0"
+      }
+    ]
   },
   {
     "id": "vp_wheel_caster",
     "fg": "166_vp_wheel_caster_0",
-    "rotates": true,
-    "bg": ""
-  },
-  {
-    "id": "vp_wheel_motorbike",
-    "fg": "122_vp_wheel_motorbike_0",
-    "rotates": true,
-    "bg": ""
-  },
-  {
-    "id": "vp_wheel_motorbike_steerable",
-    "fg": "122_vp_wheel_motorbike_0",
-    "rotates": true,
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "166_vp_wheel_caster_0"
+      }
+    ]
   },
   {
     "id": "vp_wheel_small",
     "fg": "123_vp_wheel_small_0",
-    "rotates": true,
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "123_vp_wheel_small_0"
+      }
+    ]
   },
   {
     "id": "vp_wheel_small_steerable",
     "fg": "123_vp_wheel_small_0",
-    "rotates": true,
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "123_vp_wheel_small_0"
+      }
+    ]
   },
   {
     "id": "vp_wheel_wheelchair",
     "fg": "121_vp_wheel_unicycle_0",
-    "rotates": true,
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "121_vp_wheel_unicycle_0"
+      }
+    ]
   },
   {
     "id": "vp_wheel_wide_steerable",
     "fg": "120_vp_wheel_wide_0",
-    "rotates": true,
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "120_vp_wheel_wide_0"
+      }
+    ]
   },
   {
     "id": "vp_wheel_wood",
     "fg": "wheel_wood",
-    "rotates": true,
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "wheel_wood"
+      }
+    ]
   },
   {
     "id": ["wheel_wood", "wheel_wood_b"],
     "fg": "wheel_wood",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "wheel_wood"
+      }
+    ]
   },
   {
     "id": "vp_wheel_wood_b",
     "fg": "wheel_wood",
-    "rotates": true,
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "wheel_wood"
+      }
+    ]
   },
   {
     "id": "alloy_plate",
     "fg": "145_vp_plating_superalloy_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "145_vp_plating_superalloy_0"
+      }
+    ]
   },
   {
     "id": "foot_crank",
     "fg": "136_vp_foot_pedals_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "136_vp_foot_pedals_0"
+      }
+    ]
   },
   {
     "id": "frame",
     "fg": "98_vp_frame_wood_cross_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "98_vp_frame_wood_cross_0"
+      }
+    ]
   },
   {
     "id": "glass_sheet",
     "fg": "112_vp_windshield_1",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "112_vp_windshield_1"
+      }
+    ]
   },
   {
     "id": "hard_plate",
     "fg": "147_vp_plating_hard_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "147_vp_plating_hard_0"
+      }
+    ]
   },
   {
     "id": "kitchen_unit",
     "fg": "158_vp_kitchen_unit_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "158_vp_kitchen_unit_0"
+      }
+    ]
   },
   {
     "id": "motor",
     "fg": "133_vp_engine_electric_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "133_vp_engine_electric_0"
+      }
+    ]
   },
   {
     "id": "motor_large",
     "fg": "134_vp_engine_electric_large_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "134_vp_engine_electric_large_0"
+      }
+    ]
   },
   {
     "id": "muffler",
     "fg": "142_vp_muffler_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "142_vp_muffler_0"
+      }
+    ]
   },
   {
     "id": "spiked_plate",
     "fg": "146_vp_plating_spiked_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "146_vp_plating_spiked_0"
+      }
+    ]
   },
   {
     "id": "steel_plate",
     "fg": "144_vp_plating_steel_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "144_vp_plating_steel_0"
+      }
+    ]
   },
   {
     "id": "storage_battery",
     "fg": "138_vp_small_storage_battery_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "138_vp_small_storage_battery_0"
+      }
+    ]
   },
   {
     "id": "vehicle_controls",
     "fg": "143_vp_controls_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "143_vp_controls_0"
+      }
+    ]
   },
   {
     "id": "1cyl_combustion",
     "fg": "128_vp_engine_1cyl_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "128_vp_engine_1cyl_0"
+      }
+    ]
   },
   {
     "id": "i4_combustion",
     "fg": "130_vp_engine_inline4_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "130_vp_engine_inline4_0"
+      }
+    ]
   },
   {
     "id": "v2_combustion",
     "fg": "129_vp_engine_vtwin_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "129_vp_engine_vtwin_0"
+      }
+    ]
   },
   {
     "id": "v6_combustion",
     "fg": "131_vp_engine_v6_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "131_vp_engine_v6_0"
+      }
+    ]
   },
   {
     "id": "v8_combustion",
     "fg": "132_vp_engine_v8_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "132_vp_engine_v8_0"
+      }
+    ]
   },
   {
     "id": "wheel",
     "fg": "119_vp_wheel_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "119_vp_wheel_0"
+      }
+    ]
   },
   {
     "id": "wheel_bicycle",
     "fg": "121_vp_wheel_unicycle_0",
-    "bg": ""
-  },
-  {
-    "id": "wheel_motorbike",
-    "fg": "122_vp_wheel_motorbike_0",
-    "bg": ""
-  },
-  {
-    "id": "vp_wheel_motorbike_or",
-    "fg": "122_vp_wheel_motorbike_0",
-    "rotates": true,
-    "bg": ""
-  },
-  {
-    "id": "wheel_motorbike_or",
-    "fg": "122_vp_wheel_motorbike_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "121_vp_wheel_unicycle_0"
+      }
+    ]
   },
   {
     "id": "wheel_small",
     "fg": "123_vp_wheel_small_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "123_vp_wheel_small_0"
+      }
+    ]
   },
   {
     "id": "wheel_wide",
     "fg": "120_vp_wheel_wide_0",
-    "bg": ""
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "120_vp_wheel_wide_0"
+      }
+    ]
   }
 ]

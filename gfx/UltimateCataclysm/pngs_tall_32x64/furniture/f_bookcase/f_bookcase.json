@@ -1,5 +1,60 @@
 {
   "id": "f_bookcase",
+  "multitile": true,
+  "rotates": false,
   "fg": "f_bookcase",
-  "bg": ""
+  "bg": "",
+  "additional_tiles": [
+    {
+      "id": "center",
+      "bg": "",
+      "fg": "f_bookcase"
+    },
+    {
+      "id": "corner",
+      "bg": "",
+      "fg": [
+        "f_bookcase_end_piece_n",
+        "f_bookcase_end_piece_s",
+        "f_bookcase_end_piece_s",
+        "f_bookcase_end_piece_n"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "bg": "",
+      "fg": [
+        "f_bookcase",
+        "f_bookcase_edge_ns",
+        "f_bookcase",
+        "f_bookcase_edge_ns"
+      ]
+    },
+    {
+      "id": "edge",
+      "bg": "",
+      "fg": [
+        "f_bookcase_edge_ns",
+        "f_bookcase"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "bg": "",
+      "fg": [
+        "f_bookcase_end_piece_n",
+        "f_bookcase",
+        "f_bookcase_end_piece_s",
+        "f_bookcase"
+      ]
+    },
+    {
+      "bg": "",
+      "id": "unconnected",
+      "fg": [
+        "f_bookcase",
+		"f_bookcase"
+      ]
+    }
+  ]
 }

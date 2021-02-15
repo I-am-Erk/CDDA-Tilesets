@@ -1,43 +1,11 @@
 .DS_Store
+desktop.ini
 __pycache__
 # generated on build
 gfx/*/tile_config.json
 
-# UltimateCataclysm built sprite sheets
-gfx/UltimateCataclysm/fillergiant.png
-gfx/UltimateCataclysm/fillerhoder.png
-gfx/UltimateCataclysm/giant.png
-gfx/UltimateCataclysm/incomplete.png
-gfx/UltimateCataclysm/incomplete_large.png
-gfx/UltimateCataclysm/incomplete_tall.png
-gfx/UltimateCataclysm/huge.png
-gfx/UltimateCataclysm/large.png
-gfx/UltimateCataclysm/normal.png
-gfx/UltimateCataclysm/opengameartgiant.png
-gfx/UltimateCataclysm/tall.png
-gfx/UltimateCataclysm/small.png
-gfx/UltimateCataclysm/centered.png
+# built sprite sheets
+gfx/*/*.png
 
-# BrownLikeBears built sprite sheets
-gfx/BrownLikeBears/tiles.png
-gfx/BrownLikeBears/tall.png
-gfx/BrownLikeBears/big.png
-gfx/BrownLikeBears/mods.png
-
-# NeoDays built sprite sheets
-gfx/NeoDays/large.png
-gfx/NeoDays/tiles.png
-
-# RetroDays built sprite sheets
-gfx/Retrodays/tile_20x20.png
-gfx/Retrodays/tiles.png
-
-# MShockXotto+ built sprite sheets
-gfx/MShockXotto+/fillernormal.png
-gfx/MShockXotto+/fillersmall.png
-gfx/MShockXotto+/large.png
-gfx/MShockXotto+/tall.png
-gfx/MShockXotto+/tiles.png
-
-# Builded book
+# built book
 book

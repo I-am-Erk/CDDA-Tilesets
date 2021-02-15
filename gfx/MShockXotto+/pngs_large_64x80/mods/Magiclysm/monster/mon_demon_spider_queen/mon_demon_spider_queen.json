@@ -1,0 +1,16 @@
+{
+  "id": "mon_demon_spider_queen",
+  "animated": true,
+  "fg": [
+    { "weight": 15, "sprite": "mon_demon_spider_queen_0" },
+    { "weight": 15, "sprite": "mon_demon_spider_queen_1" },
+    { "weight": 15, "sprite": "mon_demon_spider_queen_2" },
+    { "weight": 15, "sprite": "mon_demon_spider_queen_3" },
+    { "weight": 15, "sprite": "mon_demon_spider_queen_2" },
+    { "weight": 15, "sprite": "mon_demon_spider_queen_1" }
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "t_glass_railing",
+  "fg": "t_glass_railing_unconnected",
+  "bg": "",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "corner",
+      "fg": [
+        "t_glass_railing_corner_nw",
+        "t_glass_railing_corner_sw",
+        "t_glass_railing_corner_se",
+        "t_glass_railing_corner_ne"
+      ],
+      "bg": "985_t_backboard_1"
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_glass_railing_t_connection_n",
+        "t_glass_railing_t_connection_w",
+        "t_glass_railing_t_connection_s",
+        "t_glass_railing_t_connection_e"
+      ],
+      "bg": "985_t_backboard_1"
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_glass_railing_edge_ns",
+        "t_glass_railing_edge_ew"
+      ],
+      "bg": "985_t_backboard_1"
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_glass_railing_end_piece_n",
+        "t_glass_railing_end_piece_w",
+        "t_glass_railing_end_piece_s",
+        "t_glass_railing_end_piece_e"
+      ],
+      "bg": "985_t_backboard_1"
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_glass_railing_unconnected",
+        "t_glass_railing_unconnected"
+      ],
+      "bg": "985_t_backboard_1"
+    }
+  ]
+}

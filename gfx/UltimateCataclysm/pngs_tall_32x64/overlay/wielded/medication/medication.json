@@ -55,11 +55,6 @@
     "bg": ""
   },
   {
-    "id": "overlay_wielded_codeine",
-    "fg": "codeine_mf",
-    "bg": ""
-  },
-  {
     "id": "overlay_wielded_oxycodone",
     "fg": "oxycodone_mf",
     "bg": ""
