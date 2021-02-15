@@ -45,14 +45,13 @@ jobs:
           python3 build/compose.py --use-all --obsolete-fillers gfx/UltimateCataclysm
 
           for file in gfx/UltimateCataclysm/*.png; do
-convert -type optimize -define png:compression-strategy=0 -define png:compression-level=9 -define png:exclude-chunk=EXIF,iCCP,iTXt,sRGB,tEXt,zCCP,zTXt,date "$file" "$file.tmp"
-            original_size=$(wc -c <"$file")
-            imagemagick_size=$(wc -c <"$file.tmp")
+            convert -type optimize -define png:compression-strategy=0 -define png:compression-level=9 -define png:exclude-chunk=EXIF,iCCP,iTXt,sRGB,tEXt,zCCP,zTXt,date "$file" "$file.tmp"
+            original_size=$(stat -c%s "$file")
+            imagemagick_size=$(stat -c%s "$file.tmp")
             if [ "$imagemagick_size" -lt "$original_size" ]; then
               mv "$file.tmp" "$file"
-            else
-              rm "$file.tmp"
             fi
+            rm "$file.tmp"
           done
 
           cd build
