@@ -4,5 +4,10 @@
     "fg": [ "otr_evac_shelter_1_faceN", "otr_evac_shelter_1_faceE", "otr_evac_shelter_1_faceS", "otr_evac_shelter_1_faceW" ],
     "bg": "t_grass_center",
     "rotates": true
+  },
+  {
+    "id": "park",
+    "fg": "f_planter_mature_center",
+    "bg": ""
   }
 ]
