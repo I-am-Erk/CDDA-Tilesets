@@ -52,7 +52,7 @@ jobs:
               echo "ImageMagick shrinked $file (${original_size} > ${imagemagick_size})"
               mv "$file.tmp" "$file"
             else
-              echo "ImageMagick did not shrink $file (${original_size} < ${imagemagick_size})"
+              echo "ImageMagick did not shrink $file (${original_size} <= ${imagemagick_size})"
               rm "$file.tmp"
             fi
           done
