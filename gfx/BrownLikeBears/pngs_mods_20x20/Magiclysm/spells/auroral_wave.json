@@ -1,0 +1,12 @@
+{
+  "id": [
+    "explosion_auroral_wave"
+  ],
+  "fg": "auroral_wave_edge",
+  "bg": "",
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "corner", "fg": [ "auroral_wave_corner" ], "bg": "" },
+    { "id": "edge", "fg": [ "auroral_wave_edge" ], "bg": "" }
+  ]
+}
