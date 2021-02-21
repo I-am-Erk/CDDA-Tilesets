@@ -1,1 +1,43 @@
-{"id": "t_shrub_blueberry", "fg": ["6_t_shrub_blueberry_0"], "bg": ["2_t_sand_0"], "rotates": false}
+[
+  {
+    "id": "t_shrub_blueberry_season_spring",
+    "fg": "6_t_shrub_blueberry_0",
+    "bg": "5_t_grass_0"
+  },
+  {
+    "id": "t_shrub_blueberry_season_summer",
+    "fg": "6_t_shrub_blueberry_0",
+    "bg": "t_grass_summer"
+  },
+  {
+    "id": "t_shrub_blueberry_season_autumn",
+    "fg": "6_t_shrub_blueberry_0",
+    "bg": "t_grass_autumn"
+  },
+  {
+    "id": "t_shrub_blueberry_season_winter",
+    "fg": "6_t_shrub_blueberry_0",
+    "bg": "t_grass_winter"
+  },
+  {
+    "id": "t_shrub_blueberry_harvested_season_spring",
+    "fg": "1813_t_shrub_blueberry_harvested_0",
+    "bg": "5_t_grass_0"
+  },
+  {
+    "id": "t_shrub_blueberry_harvested_season_summer",
+    "fg": "1813_t_shrub_blueberry_harvested_0",
+    "bg": "t_grass_summer"
+  },
+  {
+    "id": "t_shrub_blueberry_harvested_season_autumn",
+    "fg": "1813_t_shrub_blueberry_harvested_0",
+    "bg": "t_grass_autumn"
+  },
+  {
+    "id": "t_shrub_blueberry_harvested_season_winter",
+    "fg": "1813_t_shrub_blueberry_harvested_0",
+    "bg": "t_grass_winter"
+  }
+]
+

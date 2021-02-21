@@ -1,1 +1,43 @@
-{"id": "t_shrub_strawberry", "fg": ["7_t_shrub_strawberry_0"], "bg": ["2_t_sand_0"], "rotates": false}
+[
+  {
+    "id": "t_shrub_strawberry_season_spring",
+    "fg": "7_t_shrub_strawberry_0",
+    "bg": "5_t_grass_0"
+  },
+  {
+    "id": "t_shrub_strawberry_season_summer",
+    "fg": "7_t_shrub_strawberry_0",
+    "bg": "t_grass_summer"
+  },
+  {
+    "id": "t_shrub_strawberry_season_autumn",
+    "fg": "7_t_shrub_strawberry_0",
+    "bg": "t_grass_autumn"
+  },
+  {
+    "id": "t_shrub_strawberry_season_winter",
+    "fg": "7_t_shrub_strawberry_0",
+    "bg": "t_grass_winter"
+  },
+  {
+    "id": "t_shrub_strawberry_harvested_season_spring",
+    "fg": "1814_t_shrub_strawberry_harvested_0",
+    "bg": "5_t_grass_0"
+  },
+  {
+    "id": "t_shrub_strawberry_harvested_season_summer",
+    "fg": "1814_t_shrub_strawberry_harvested_0",
+    "bg": "t_grass_summer"
+  },
+  {
+    "id": "t_shrub_strawberry_harvested_season_autumn",
+    "fg": "1814_t_shrub_strawberry_harvested_0",
+    "bg": "t_grass_autumn"
+  },
+  {
+    "id": "t_shrub_strawberry_harvested_season_winter",
+    "fg": "1814_t_shrub_strawberry_harvested_0",
+    "bg": "t_grass_winter"
+  }
+]
+
