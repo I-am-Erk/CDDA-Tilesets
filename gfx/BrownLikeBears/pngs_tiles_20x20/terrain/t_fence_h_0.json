@@ -1,1 +1,26 @@
-{"id": "t_fence_h", "fg": ["91_t_fence_h_0"], "bg": ["1_t_dirt_0"], "rotates": false}
+[
+  {
+    "id": "t_fence_h_season_spring",
+    "fg": [ "91_t_fence_h_0" ],
+    "rotates": false,
+    "bg": [ "1_t_dirt_0" ]
+  },
+  {
+    "id": "t_fence_h_season_summer",
+    "fg": [ "91_t_fence_h_0" ],
+    "rotates": false,
+    "bg": [ "t_dirt_summer" ]
+  },
+  {
+    "id": "t_fence_h_season_autumn",
+    "fg": [ "91_t_fence_h_0" ],
+    "rotates": false,
+    "bg": [ "t_dirt_autumn" ]
+  },
+  {
+    "id": "t_fence_h_season_winter",
+    "fg": [ "91_t_fence_h_0" ],
+    "rotates": false,
+    "bg": [ "t_dirt_winter" ]
+  }
+]
