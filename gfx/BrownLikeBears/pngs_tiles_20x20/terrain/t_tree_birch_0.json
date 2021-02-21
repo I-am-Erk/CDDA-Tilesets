@@ -1,1 +1,42 @@
-{"id": "t_tree_birch", "fg": ["1981_t_tree_birch_0"], "bg": [], "rotates": false, "multitile": false}
+[
+  {
+    "id": "t_tree_birch_season_spring",
+    "fg": "1981_t_tree_birch_0",
+    "bg": "forest_grass_spring"
+  },
+  {
+    "id": "t_tree_birch_season_summer",
+    "fg": "1981_t_tree_birch_0",
+    "bg": "forest_grass_summer"
+  },
+  {
+    "id": "t_tree_birch_season_autumn",
+    "fg": "1981_t_tree_birch_0",
+    "bg": "forest_grass_autumn"
+  },
+  {
+    "id": "t_tree_birch_season_winter",
+    "fg": "1981_t_tree_birch_0",
+    "bg": "forest_grass_winter"
+  },
+  {
+    "id": "t_tree_birch_harvested_season_spring",
+    "fg": "1981_t_tree_birch_0",
+    "bg": "forest_grass_spring"
+  },
+  {
+    "id": "t_tree_birch_harvested_season_summer",
+    "fg": "1981_t_tree_birch_0",
+    "bg": "forest_grass_summer"
+  },
+  {
+    "id": "t_tree_birch_harvested_season_autumn",
+    "fg": "1981_t_tree_birch_0",
+    "bg": "forest_grass_summer"
+  },
+  {
+    "id": "t_tree_birch_harvested_season_winter",
+    "fg": "1981_t_tree_birch_0",
+    "bg": "forest_grass_winter"
+  }
+]

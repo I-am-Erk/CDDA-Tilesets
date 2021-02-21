@@ -1,1 +1,42 @@
-{"id": "t_tree_blackjack", "fg": ["1853_t_tree_blackjack_0"], "bg": ["1_t_dirt_0"], "rotates": false}
+[
+  {
+    "id": "t_tree_blackjack_season_spring",
+    "fg": "1853_t_tree_blackjack_0",
+    "bg": "forest_grass_spring"
+  },
+  {
+    "id": "t_tree_blackjack_season_summer",
+    "fg": "1853_t_tree_blackjack_0",
+    "bg": "forest_grass_summer"
+  },
+  {
+    "id": "t_tree_blackjack_season_autumn",
+    "fg": "1853_t_tree_blackjack_0",
+    "bg": "forest_grass_autumn"
+  },
+  {
+    "id": "t_tree_blackjack_season_winter",
+    "fg": "1853_t_tree_blackjack_0",
+    "bg": "forest_grass_winter"
+  },
+  {
+    "id": "t_tree_blackjack_harvested_season_spring",
+    "fg": "1853_t_tree_blackjack_0",
+    "bg": "forest_grass_spring"
+  },
+  {
+    "id": "t_tree_blackjack_harvested_season_summer",
+    "fg": "1853_t_tree_blackjack_0",
+    "bg": "forest_grass_summer"
+  },
+  {
+    "id": "t_tree_blackjack_harvested_season_autumn",
+    "fg": "1853_t_tree_blackjack_0",
+    "bg": "forest_grass_summer"
+  },
+  {
+    "id": "t_tree_blackjack_harvested_season_winter",
+    "fg": "1853_t_tree_blackjack_0",
+    "bg": "forest_grass_winter"
+  }
+]
