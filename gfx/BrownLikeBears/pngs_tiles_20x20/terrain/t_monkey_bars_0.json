@@ -1,1 +1,50 @@
-{"id": "t_monkey_bars", "fg": ["358_t_monkey_bars_0"], "bg": [], "multitile": true, "additional_tiles": [{"id": "center", "fg": ["358_t_monkey_bars_0"], "bg": []}, {"id": "corner", "fg": ["359_t_monkey_bars_2"], "bg": []}, {"id": "t_connection", "fg": ["360_t_monkey_bars_3"], "bg": []}], "rotates": false}
+[
+  {
+    "id": "t_monkey_bars_season_spring",
+    "fg": [ "358_t_monkey_bars_0" ],
+    "bg": [ "1_t_dirt_0" ],
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "center", "fg": [ "358_t_monkey_bars_0" ], "bg": [ "1_t_dirt_0" ] },
+      { "id": "corner", "fg": [ "359_t_monkey_bars_2" ], "bg": [ "1_t_dirt_0" ] },
+      { "id": "t_connection", "fg": [ "360_t_monkey_bars_3" ], "bg": [ "1_t_dirt_0" ] }
+    ],
+    "rotates": false
+  },
+  {
+    "id": "t_monkey_bars_season_summer",
+    "fg": [ "358_t_monkey_bars_0" ],
+    "bg": [ "t_dirt_summer" ],
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "center", "fg": [ "358_t_monkey_bars_0" ], "bg": [ "t_dirt_summer" ] },
+      { "id": "corner", "fg": [ "359_t_monkey_bars_2" ], "bg": [ "t_dirt_summer" ] },
+      { "id": "t_connection", "fg": [ "360_t_monkey_bars_3" ], "bg": [ "t_dirt_summer" ] }
+    ],
+    "rotates": false
+  },
+  {
+    "id": "t_monkey_bars_season_autumn",
+    "fg": [ "358_t_monkey_bars_0" ],
+    "bg": [ "t_dirt_autumn" ],
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "center", "fg": [ "358_t_monkey_bars_0" ], "bg": [ "t_dirt_autumn" ] },
+      { "id": "corner", "fg": [ "359_t_monkey_bars_2" ], "bg": [ "t_dirt_autumn" ] },
+      { "id": "t_connection", "fg": [ "360_t_monkey_bars_3" ], "bg": [ "t_dirt_autumn" ] }
+    ],
+    "rotates": false
+  },
+  {
+    "id": "t_monkey_bars_season_winter",
+    "fg": [ "358_t_monkey_bars_0" ],
+    "bg": [ "t_dirt_winter" ],
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "center", "fg": [ "358_t_monkey_bars_0" ], "bg": [ "t_dirt_winter" ] },
+      { "id": "corner", "fg": [ "359_t_monkey_bars_2" ], "bg": [ "t_dirt_winter" ] },
+      { "id": "t_connection", "fg": [ "360_t_monkey_bars_3" ], "bg": [ "t_dirt_winter" ] }
+    ],
+    "rotates": false
+  }
+]

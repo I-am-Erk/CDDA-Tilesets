@@ -1,1 +1,23 @@
-{"id": "t_shrub_fungal", "fg": ["471_t_shrub_fungal_0"], "rotates": false, "bg": []}
+[
+  {
+    "id": "t_shrub_fungal_season_spring",
+    "fg": "471_t_shrub_fungal_0",
+    "bg": "5_t_grass_0"
+  },
+  {
+    "id": "t_shrub_fungal_season_summer",
+    "fg": "471_t_shrub_fungal_0",
+    "bg": "t_grass_summer"
+  },
+  {
+    "id": "t_shrub_fungal_season_autumn",
+    "fg": "471_t_shrub_fungal_0",
+    "bg": "t_grass_autumn"
+  },
+  {
+    "id": "t_shrub_fungal_season_winter",
+    "fg": "471_t_shrub_fungal_0",
+    "bg": "t_grass_winter"
+  }
+]
+

@@ -1,1 +1,22 @@
-{"id": "t_fungus", "bg": ["101_t_fungus_0"], "rotates": false, "fg": []}
+[
+  {
+    "id": "t_fungus_season_spring",
+    "fg": "101_t_fungus_0",
+    "bg": "5_t_grass_0"
+  },
+  {
+    "id": "t_fungus_season_summer",
+    "fg": "101_t_fungus_0",
+    "bg": "t_grass_summer"
+  },
+  {
+    "id": "t_fungus_season_autumn",
+    "fg": "101_t_fungus_0",
+    "bg": "t_grass_autumn"
+  },
+  {
+    "id": "t_fungus_season_winter",
+    "fg": "101_t_fungus_0",
+    "bg": "t_grass_winter"
+  }
+]
