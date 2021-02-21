@@ -1,0 +1,126 @@
+[
+  {
+    "id": "t_chainfence_season_spring",
+    "fg": "t_chainfence_unconnected",
+    "bg": "1_t_dirt_0",
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "center", "fg": "t_chainfence_center", "bg": "1_t_dirt_0" },
+      {
+        "id": "corner",
+        "fg": [ "t_chainfence_corner_nw", "t_chainfence_corner_sw", "t_chainfence_corner_se", "t_chainfence_corner_ne" ],
+        "bg": "1_t_dirt_0"
+      },
+      {
+        "id": "t_connection",
+        "fg": [
+          "t_chainfence_t_connection_n",
+          "t_chainfence_t_connection_w",
+          "t_chainfence_t_connection_s",
+          "t_chainfence_t_connection_e"
+        ],
+        "bg": "1_t_dirt_0"
+      },
+      { "id": "edge", "fg": [ "t_chainfence_edge_ns", "t_chainfence_edge_ew" ], "bg": "1_t_dirt_0" },
+      {
+        "id": "end_piece",
+        "fg": [ "t_chainfence_end_piece_n", "t_chainfence_end_piece_w", "t_chainfence_end_piece_s", "t_chainfence_end_piece_e" ],
+        "bg": "1_t_dirt_0"
+      },
+      { "id": "unconnected", "fg": [ "t_chainfence_unconnected", "t_chainfence_unconnected" ], "bg": "1_t_dirt_0" }
+    ]
+  },
+  {
+    "id": "t_chainfence_season_summer",
+    "fg": "t_chainfence_unconnected",
+    "bg": "t_dirt_summer",
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "center", "fg": "t_chainfence_center", "bg": "t_dirt_summer" },
+      {
+        "id": "corner",
+        "fg": [ "t_chainfence_corner_nw", "t_chainfence_corner_sw", "t_chainfence_corner_se", "t_chainfence_corner_ne" ],
+        "bg": "t_dirt_summer"
+      },
+      {
+        "id": "t_connection",
+        "fg": [
+          "t_chainfence_t_connection_n",
+          "t_chainfence_t_connection_w",
+          "t_chainfence_t_connection_s",
+          "t_chainfence_t_connection_e"
+        ],
+        "bg": "t_dirt_summer"
+      },
+      { "id": "edge", "fg": [ "t_chainfence_edge_ns", "t_chainfence_edge_ew" ], "bg": "t_dirt_summer" },
+      {
+        "id": "end_piece",
+        "fg": [ "t_chainfence_end_piece_n", "t_chainfence_end_piece_w", "t_chainfence_end_piece_s", "t_chainfence_end_piece_e" ],
+        "bg": "t_dirt_summer"
+      },
+      { "id": "unconnected", "fg": [ "t_chainfence_unconnected", "t_chainfence_unconnected" ], "bg": "t_dirt_summer" }
+    ]
+  },
+  {
+    "id": "t_chainfence_season_autumn",
+    "fg": "t_chainfence_unconnected",
+    "bg": "t_dirt_autumn",
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "center", "fg": "t_chainfence_center", "bg": "t_dirt_autumn" },
+      {
+        "id": "corner",
+        "fg": [ "t_chainfence_corner_nw", "t_chainfence_corner_sw", "t_chainfence_corner_se", "t_chainfence_corner_ne" ],
+        "bg": "t_dirt_autumn"
+      },
+      {
+        "id": "t_connection",
+        "fg": [
+          "t_chainfence_t_connection_n",
+          "t_chainfence_t_connection_w",
+          "t_chainfence_t_connection_s",
+          "t_chainfence_t_connection_e"
+        ],
+        "bg": "t_dirt_autumn"
+      },
+      { "id": "edge", "fg": [ "t_chainfence_edge_ns", "t_chainfence_edge_ew" ], "bg": "t_dirt_autumn" },
+      {
+        "id": "end_piece",
+        "fg": [ "t_chainfence_end_piece_n", "t_chainfence_end_piece_w", "t_chainfence_end_piece_s", "t_chainfence_end_piece_e" ],
+        "bg": "t_dirt_autumn"
+      },
+      { "id": "unconnected", "fg": [ "t_chainfence_unconnected", "t_chainfence_unconnected" ], "bg": "t_dirt_autumn" }
+    ]
+  },
+  {
+    "id": "t_chainfence_season_winter",
+    "fg": "t_chainfence_unconnected",
+    "bg": "t_dirt_winter",
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "center", "fg": "t_chainfence_center", "bg": "t_dirt_winter" },
+      {
+        "id": "corner",
+        "fg": [ "t_chainfence_corner_nw", "t_chainfence_corner_sw", "t_chainfence_corner_se", "t_chainfence_corner_ne" ],
+        "bg": "t_dirt_winter"
+      },
+      {
+        "id": "t_connection",
+        "fg": [
+          "t_chainfence_t_connection_n",
+          "t_chainfence_t_connection_w",
+          "t_chainfence_t_connection_s",
+          "t_chainfence_t_connection_e"
+        ],
+        "bg": "t_dirt_winter"
+      },
+      { "id": "edge", "fg": [ "t_chainfence_edge_ns", "t_chainfence_edge_ew" ], "bg": "t_dirt_winter" },
+      {
+        "id": "end_piece",
+        "fg": [ "t_chainfence_end_piece_n", "t_chainfence_end_piece_w", "t_chainfence_end_piece_s", "t_chainfence_end_piece_e" ],
+        "bg": "t_dirt_winter"
+      },
+      { "id": "unconnected", "fg": [ "t_chainfence_unconnected", "t_chainfence_unconnected" ], "bg": "t_dirt_winter" }
+    ]
+  }
+]
