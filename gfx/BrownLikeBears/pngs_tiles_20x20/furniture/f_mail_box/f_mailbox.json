@@ -1,0 +1,11 @@
+{
+  "id": "f_mailbox",
+  "fg": [
+    { "weight": 1, "sprite": "f_mailbox" },
+    { "weight": 1, "sprite": "f_mailbox_1" }
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false
+}
