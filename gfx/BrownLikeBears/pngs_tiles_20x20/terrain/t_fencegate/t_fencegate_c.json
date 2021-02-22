@@ -1,13 +1,12 @@
   {
-    "id": "t_fencegate_c_season_spring",
+    "id": "t_fencegate_c",
     "fg": "t_fencegate_c_h",
     "bg": "1_t_dirt_0",
     "multitile": true,
     "additional_tiles": [
       { "id": "center", "fg": "t_fencegate_c_h", "bg": "1_t_dirt_0" },
-      { "id": "edge", "fg": [ "t_fencegate_c_v", "t_fencegate_c_h" ], "bg": "1_t_dirt_0" },
       {
-        "id": "end_piece",
+        "id": "t_connection",
         "fg": [
           "t_fencegate_c_h",
           "t_fencegate_c_v",
@@ -16,10 +15,12 @@
         ],
         "bg": "1_t_dirt_0"
       },
+      { "id": "edge", "fg": [ "t_fencegate_c_v", "t_fencegate_c_h" ], "bg": "1_t_dirt_0" },
       {
-        "id": "h",
-        "fg": [ "t_fencegate_c_h", "t_fencegate_c_h" ],
+        "id": "end_piece",
+        "fg": [ "t_fencegate_c_v", "t_fencegate_c_h", "t_fencegate_c_v", "t_fencegate_c_h" ],
         "bg": "1_t_dirt_0"
-      }
+      },
+      { "id": "h", "fg": [ "t_fencegate_c_h", "t_fencegate_c_h" ], "bg": "1_t_dirt_0" }
     ]
   }
