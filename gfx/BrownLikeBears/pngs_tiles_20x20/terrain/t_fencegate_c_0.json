@@ -1,25 +1,25 @@
 [
   {
-    "id": "t_fencegate_c_season_spring",
-    "fg": [ "107_t_palisade_gate_0" ],
+    "id": "t_fencegate_season_spring",
+    "fg": [ "t_palisade_gate_unconnected" ],
     "rotates": false,
     "bg": [ "1_t_dirt_0" ]
   },
   {
-    "id": "t_fencegate_c_season_summer",
-    "fg": [ "107_t_palisade_gate_0" ],
+    "id": "t_fencegate_season_summer",
+    "fg": [ "t_palisade_gate_unconnected" ],
     "rotates": false,
     "bg": [ "t_dirt_summer" ]
   },
   {
-    "id": "t_fencegate_c_season_autumn",
-    "fg": [ "107_t_palisade_gate_0" ],
+    "id": "t_fencegate_season_autumn",
+    "fg": [ "t_palisade_gate_unconnected" ],
     "rotates": false,
     "bg": [ "t_dirt_autumn" ]
   },
   {
-    "id": "t_fencegate_c_season_winter",
-    "fg": [ "107_t_palisade_gate_0" ],
+    "id": "t_fencegate_season_winter",
+    "fg": [ "t_palisade_gate_unconnected" ],
     "rotates": false,
     "bg": [ "t_dirt_winter" ]
   }
