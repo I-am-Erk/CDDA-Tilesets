@@ -1,0 +1,7 @@
+{
+  "id": "mon_hallu_mannequin",
+  "fg": [
+    { "weight": 1, "sprite": "mon_hallu_mannequin_male" },
+    { "weight": 1, "sprite": "mon_hallu_mannequin_female" }
+  ]
+}
