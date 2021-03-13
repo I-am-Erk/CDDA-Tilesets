@@ -15,4 +15,4 @@ Available categories are: Ultica, Ultica-iso, Chibi-Ultica, RetroDays, NeoDays, 
 <!-- If applicable include screenshots of the sprites in game.
 For non-sprite contribution explain what you did to verify your changes are correct and how others can verify them.-->
 
-#### Additional informations
+#### Additional information
