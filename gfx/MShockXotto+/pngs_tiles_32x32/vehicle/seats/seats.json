@@ -56,6 +56,20 @@
     ]
   },
   {
+    "id": "vp_seat_back",
+    "fg": [ "vp_seat_back_up", "vp_seat_back_west", "vp_seat_back_down", "vp_seat_back_east" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "3987_vp_cargo_space_2" ],
+        "bg": [ "vp_seat_back_up", "vp_seat_back_west", "vp_seat_back_down", "vp_seat_back_east" ]
+      }
+    ]
+  },
+  {
     "id": "vp_seat_back_right",
     "fg": [ "vp_seat_back_right_up", "vp_seat_back_right_west", "vp_seat_back_right_down", "vp_seat_back_right_east" ],
     "rotates": true,
@@ -84,7 +98,21 @@
     ]
   },
   {
-    "id": "vp_seat_leat_back_leather_right",
+    "id": "vp_seat_back_leather",
+    "fg": [ "vp_seat_back_leather_up", "vp_seat_back_leather_west", "vp_seat_back_leather_down", "vp_seat_back_leather_east" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "3987_vp_cargo_space_2" ],
+        "bg": [ "vp_seat_back_leather_up", "vp_seat_back_leather_west", "vp_seat_back_leather_down", "vp_seat_back_leather_east" ]
+      }
+    ]
+  },
+  {
+    "id": "vp_seat_back_leather_right",
     "fg": [
       "vp_seat_back_leather_right_up",
       "vp_seat_back_leather_right_west",
@@ -132,6 +160,20 @@
     ]
   },
   {
+    "id": "vp_seat_back_vertical",
+    "fg": [ "vp_seat_back_east", "vp_seat_back_up", "vp_seat_back_west", "vp_seat_back_down" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "3987_vp_cargo_space_2" ],
+        "bg": [ "vp_seat_back_east", "vp_seat_back_up", "vp_seat_back_west", "vp_seat_back_down" ]
+      }
+    ]
+  },
+  {
     "id": "vp_seat_back_vertical_right",
     "fg": [ "vp_seat_back_right_east", "vp_seat_back_right_up", "vp_seat_back_right_west", "vp_seat_back_right_down" ],
     "rotates": true,
@@ -160,6 +202,20 @@
     ]
   },
   {
+    "id": "vp_seat_back_leather_vertical",
+    "fg": [ "vp_seat_back_leather_east", "vp_seat_back_leather_up", "vp_seat_back_leather_west", "vp_seat_back_leather_down" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "3987_vp_cargo_space_2" ],
+        "bg": [ "vp_seat_back_leather_east", "vp_seat_back_leather_up", "vp_seat_back_leather_west", "vp_seat_back_leather_down" ]
+      }
+    ]
+  },
+  {
     "id": "vp_seat_back_leather_vertical_right",
     "fg": [
       "vp_seat_back_leather_right_east",
@@ -175,10 +231,10 @@
         "id": "broken",
         "fg": [ "3987_vp_cargo_space_2" ],
         "bg": [
-          "vp_seat_back_leather_left_east",
-          "vp_seat_back_leather_left_up",
-          "vp_seat_back_leather_left_west",
-          "vp_seat_back_leather_left_down"
+          "vp_seat_back_leather_right_east",
+          "vp_seat_back_leather_right_up",
+          "vp_seat_back_leather_right_west",
+          "vp_seat_back_leather_right_down"
         ]
       }
     ]
