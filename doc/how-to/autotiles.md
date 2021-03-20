@@ -155,3 +155,12 @@ There is now support for tall multitile templates too:
 ```sh
 $ tools/slice_multitile.py multitile_grid_4x4_tall.png 32 64 --tile "f_bookcase"
 ```
+
+### Unslicing
+
+There is also a script for reverting the slice action
+when you want to adjust all sprites as one image:
+```sh
+cd mud_tiles
+$ tools/unslice_multitile.py mud
+```
