@@ -78,7 +78,7 @@ def main(args):
             'No slicing map that matches these sizes, '
             'did you forget to specify height?')
 
-    for suffix, position in MAPS[len(slices)].items():
+    for suffix, position in slicing_map.items():
         slices[position].pngsave(
             os.path.join(output_dir, f'{args.tile}_{suffix}.png'))
 
@@ -158,7 +158,8 @@ if __name__ == "__main__":
         " without .png, autotile_ and/or multitile_ parts")
     parser.add_argument(
         "--out", dest="out",
-        help="output directory path, defaults to the base name of the tile")
+        help="output directory path, '
+        'defaults to the tile name in the directory of the image")
     parser.add_argument(
         "--no-json", action='store_true',
         help="disable json file generation")
