@@ -57,7 +57,8 @@ def main(args):
 
     if args.tile is None:
         args.tile = pathlib.Path(args.image).stem\
-            .replace('autotile_', '').replace('multitile_', '')
+            .replace('autotile_', '').replace('multitile_', '')\
+            .replace('_autotile', '').replace('_multitile', '')  # TODO: regex
 
     output_dir = args.out or os.path.join(
         os.path.dirname(args.image), args.tile)
@@ -158,8 +159,8 @@ if __name__ == "__main__":
         " without .png, autotile_ and/or multitile_ parts")
     parser.add_argument(
         "--out", dest="out",
-        help="output directory path, '
-        'defaults to the tile name in the directory of the image")
+        help="output directory path, "
+        "defaults to the tile name in the directory of the image")
     parser.add_argument(
         "--no-json", action='store_true',
         help="disable json file generation")

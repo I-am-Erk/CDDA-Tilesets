@@ -95,7 +95,7 @@ in the table.
 ### Slicing autotiles
 
 Before an autotile template can be used by the game, it needs to be sliced up into individual tiles.
-We use the `tools/slice_autotiles.py` script to achieve this.
+We use the `tools/slice_multitile.py` script to achieve this.
 
 To run the script, you will need [python](https://python.org) installed, as well as the libvips
 graphic library. Something like these commands should suffice to install them on Ubuntu:
@@ -105,19 +105,19 @@ $ sudo apt install python3-pip libvips
 $ pip3 install pyvips
 ```
 
-If all goes well, you should be able to run the `slice_autotiles.py` script and see the usage note:
+If all goes well, you should be able to run the `slice_multitile.py` script and see the usage note:
 
 ```
-$ tools/slice_autotiles.py
-usage: slice_autotiles.py [-h] [--no-json] tile size image out
-slice_autotiles.py: error: the following arguments are required: tile, size, image, out
+$ tools/slice_multitile.py
+usage: slice_multitile.py [-h] [--tile TILE] [--out OUT] [--no-json] image width [height]
+slice_multitile.py: error: the following arguments are required: image, width
 ```
 
 So if you have created a `mud_autotile.png` image, using the autotile template above, you can tell
 the script to slice it into 32x32-pixel tiles with a command like this:
 
 ```
-$ tools/slice_autotiles.py mud 32 mud_autotile.png mud_tiles
+$ tools/slice_multitile.py mud_autotile.png 32 --out mud_tiles
 ```
 
 This will create a `mud_tiles` folder with separate images for each tile in the template, along with
