@@ -150,8 +150,8 @@ a JSON file with connection data, for example:
 
 There is now support for tall multitile templates too:
 
-![Multitile 4x4 Template](image/multitile_grid_4x4_tall.png)
+![Tall Multitile 4x4 Template](image/multitile_grid_4x4_tall.png)
 
 ```sh
-$ tools/slice_multitile.py multitile_grid_4x4_tall.png 32 64 --out --tile "f_bookcase"
+$ tools/slice_multitile.py multitile_grid_4x4_tall.png 32 64 --tile "f_bookcase"
 ```
