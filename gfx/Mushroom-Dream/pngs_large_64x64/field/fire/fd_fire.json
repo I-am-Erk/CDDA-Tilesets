@@ -1,0 +1,17 @@
+{
+  "id": "fd_fire",
+  "animated": true,
+  "fg": [
+    { "weight": 9, "sprite": "fd_fire_7" },
+    { "weight": 9, "sprite": "fd_fire_6" },
+    { "weight": 9, "sprite": "fd_fire_5" },
+    { "weight": 9, "sprite": "fd_fire_4" },
+    { "weight": 9, "sprite": "fd_fire_3" },
+    { "weight": 9, "sprite": "fd_fire_2" },
+    { "weight": 9, "sprite": "fd_fire_1" }
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,0 +1,25 @@
+[
+  {
+    "pixelscale": 1,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "normal.png": {  }
+  },
+  {
+    "tall.png": { "sprite_width": 32, "sprite_height": 48, "sprite_offset_x": 0, "sprite_offset_y": -16 }
+  },
+  {
+    "giant.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_x": 0, "sprite_offset_y": -32 }
+  },
+  {
+    "wide.png": { "sprite_width": 48, "sprite_height": 32, "sprite_offset_x": -16, "sprite_offset_y": 0 }
+  },
+  {
+    "large.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -32, "sprite_offset_y": -32 }
+  },
+  {
+    "enormous.png": { "sprite_width": 128, "sprite_height": 128, "sprite_offset_x": -64, "sprite_offset_y": -96 }
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "t_window_domestic",
+    "fg": "t_window_domestic",
+    "bg": "",
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "center", "fg": "t_window_domestic", "bg": "" },
+      { "id": "edge", "fg": [ "t_window_domestic_vertical", "t_window_domestic" ], "bg": "" },
+      { "id": "unconnected", "fg": [ "t_window_domestic", "t_window_domestic" ], "bg": "" }
+    ]
+  },
+  {
+    "id": "t_curtains",
+    "fg": "t_window_domestic",
+    "bg": "",
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "center", "fg": "t_window_domestic", "bg": "" },
+      { "id": "edge", "fg": [ "t_curtains_vertical", "t_window_domestic" ], "bg": "" },
+      { "id": "unconnected", "fg": [ "t_window_domestic", "t_window_domestic" ], "bg": "" }
+    ]
+  },
+  {
+    "id": "t_window_boarded",
+    "fg": "t_window_domestic",
+    "bg": "",
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "center", "fg": "t_window_domestic", "bg": "" },
+      { "id": "edge", "fg": [ "t_window_boarded_vertical", "t_window_domestic" ], "bg": "" },
+      { "id": "unconnected", "fg": [ "t_window_domestic", "t_window_domestic" ], "bg": "" }
+    ]
+  },
+  {
+    "id": "t_window_empty",
+    "fg": "t_window_domestic",
+    "bg": "",
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "center", "fg": "t_window_domestic", "bg": "" },
+      { "id": "edge", "fg": [ "t_window_empty_vertical", "t_window_domestic" ], "bg": "" },
+      { "id": "unconnected", "fg": [ "t_window_domestic", "t_window_domestic" ], "bg": "" }
+    ]
+  },
+  {
+    "id": "t_window_frame",
+    "fg": "t_window_domestic",
+    "bg": "",
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "center", "fg": "t_window_domestic", "bg": "" },
+      { "id": "edge", "fg": [ "t_window_frame_vertical", "t_window_domestic" ], "bg": "" },
+      { "id": "unconnected", "fg": [ "t_window_domestic", "t_window_domestic" ], "bg": "" }
+    ]
+  },
+  {
+    "id": "t_window_no_curtains_open",
+    "fg": "t_window_domestic",
+    "bg": "",
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "center", "fg": "t_window_domestic", "bg": "" },
+      { "id": "edge", "fg": [ "t_window_no_curtains_open_vertical", "t_window_domestic" ], "bg": "" },
+      { "id": "unconnected", "fg": [ "t_window_domestic", "t_window_domestic" ], "bg": "" }
+    ]
+  },
+  {
+    "id": "t_window_open",
+    "fg": "t_window_domestic",
+    "bg": "",
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "center", "fg": "t_window_domestic", "bg": "" },
+      { "id": "edge", "fg": [ "t_window_open_vertical", "t_window_domestic" ], "bg": "" },
+      { "id": "unconnected", "fg": [ "t_window_domestic", "t_window_domestic" ], "bg": "" }
+    ]
+  },
+  {
+    "id": "t_window",
+    "fg": "t_window_domestic",
+    "bg": "",
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "center", "fg": "t_window_domestic", "bg": "" },
+      { "id": "edge", "fg": [ "t_window_vertical", "t_window_domestic" ], "bg": "" },
+      { "id": "unconnected", "fg": [ "t_window_domestic", "t_window_domestic" ], "bg": "" }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "id": "t_floor",
+  "fg": [
+    { "weight": 2, "sprite": "t_floor_1" },
+    { "weight": 2, "sprite": "t_floor_2" },
+    { "weight": 1, "sprite": "t_floor_3" }
+  ],
+  "bg": [
+    ""
+  ],
+  "rotates": false
+}
