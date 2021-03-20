@@ -58,5 +58,10 @@
     "id": "blood",
     "fg": [ "blood" ],
     "bg": [ ]
+  },
+  {
+    "id": [ "oj", "lemonade" ],
+    "fg": "oj",
+    "bg": [ ]
   }
 ]
