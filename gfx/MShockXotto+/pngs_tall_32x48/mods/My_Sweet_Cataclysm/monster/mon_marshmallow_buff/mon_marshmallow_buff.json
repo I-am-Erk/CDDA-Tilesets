@@ -1,0 +1,11 @@
+{
+  "id": "mon_marshmallow_buff",
+  "fg": [
+    { "weight": 1, "sprite": "mon_marshmallow_buff" },
+    { "weight": 1, "sprite": "mon_marshmallow_buff_1" }
+  ],
+  "bg": [
+    ""
+  ],
+  "rotates": false
+}
