@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Slice an autotile image into individual images for usage in tileset definitions
+Slice a multitile image into individual images for usage in tileset definitions
 """
 
 import os
@@ -53,19 +53,35 @@ MAPS = {
 
 
 def main(args):
+    args.height = args.height or args.width
+
+    if args.tile is None:
+        args.tile = pathlib.Path(args.image).stem\
+            .replace('autotile_', '').replace('multitile_', '')\
+            .replace('_autotile', '').replace('_multitile', '')  # TODO: regex
+
+    output_dir = args.out or os.path.join(
+        os.path.dirname(args.image), args.tile)
+
     img = pyvips.Image.new_from_file(args.image)
 
-    pathlib.Path(args.out).mkdir(parents=True, exist_ok=True)
+    pathlib.Path(output_dir).mkdir(parents=True, exist_ok=True)
 
     slices = []
 
-    for y in range(0, img.height, args.size):
-        for x in range(0, img.width, args.size):
-            slices.append(img.crop(x, y, args.size, args.size))
+    for y in range(0, img.height, args.height):
+        for x in range(0, img.width, args.width):
+            slices.append(img.crop(x, y, args.width, args.height))
 
-    for suffix, position in MAPS[len(slices)].items():
+    slicing_map = MAPS.get(len(slices))
+    if slicing_map is None:
+        raise Exception(
+            'No slicing map that matches these sizes, '
+            'did you forget to specify height?')
+
+    for suffix, position in slicing_map.items():
         slices[position].pngsave(
-            os.path.join(args.out, f'{args.tile}_{suffix}.png'))
+            os.path.join(output_dir, f'{args.tile}_{suffix}.png'))
 
     if args.no_json:
         return
@@ -119,18 +135,33 @@ def main(args):
         ]
     }
 
-    tile_json_filename = os.path.join(args.out, f"{args.tile}.json")
+    tile_json_filename = os.path.join(output_dir, f"{args.tile}.json")
     with open(tile_json_filename, "w") as tile_json_file:
         json.dump(json_content, tile_json_file, indent=2)
         tile_json_file.write("\n")
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Slice an autotile image")
-    parser.add_argument("tile", help="base name of the tile")
-    parser.add_argument("size", type=int, help="tile size in pixels")
-    parser.add_argument("image", help="path to autotile image")
-    parser.add_argument("out", help="output path")
-    parser.add_argument("--no-json", action='store_true',
-                        help="disable json file generation")
+    parser = argparse.ArgumentParser(description="Slice a multitile image")
+    parser.add_argument(
+        "image",
+        help="path to the multitile image that will be sliced")
+    parser.add_argument(
+        "width", type=int,
+        help="tile width in pixels")
+    parser.add_argument(
+        "height", type=int,
+        nargs='?',
+        help="tile height in pixels, defaults to tile width")
+    parser.add_argument(
+        "--tile", dest="tile",
+        help="base name of the tile, defaults to the image name"
+        " without .png, autotile_ and/or multitile_ parts")
+    parser.add_argument(
+        "--out", dest="out",
+        help="output directory path, "
+        "defaults to the tile name in the directory of the image")
+    parser.add_argument(
+        "--no-json", action='store_true',
+        help="disable json file generation")
     main(parser.parse_args())
