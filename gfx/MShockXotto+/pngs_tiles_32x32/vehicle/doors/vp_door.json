@@ -30,7 +30,7 @@
     "rotates": true,
     "multitile": true,
     "additional_tiles": [
-      { "id": "open", "fg": "vp_door_inboard", "bg": [  ] },
+      { "id": "open", "fg": "vp_door_inboard_open", "bg": [  ] },
       { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_door_inboard" ] }
     ]
   },
