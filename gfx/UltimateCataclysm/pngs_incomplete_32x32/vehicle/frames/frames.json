@@ -240,7 +240,7 @@
     ]
   },
   {
-    "id": "vp_frame_horizontal2_rear",
+    "id": "vp_frame_horizontal_2_rear",
     "fg": "frame_horizontal2_rear",
     "multitile": true,
     "additional_tiles": [
@@ -564,7 +564,7 @@
     ]
   },
   {
-    "id": "vp_hdframe_horizontal2_rear",
+    "id": "vp_hdframe_horizontal_2_rear",
     "fg": "hdframe_horizontal2_rear",
     "multitile": true,
     "additional_tiles": [
@@ -888,7 +888,7 @@
     ]
   },
   {
-    "id": "vp_xlframe_horizontal2_rear",
+    "id": "vp_xlframe_horizontal_2_rear",
     "fg": "xlframe_horizontal2_rear",
     "multitile": true,
     "additional_tiles": [
