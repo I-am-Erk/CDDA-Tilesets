@@ -200,7 +200,7 @@
     "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "frame_wood_cross" ] } ]
   },
   {
-    "id": [ "vp_frame_wood_cross_unconnected", "vp_frame_wood" ],
+    "id": [ "vp_frame_wood_cross_unconnected", "vp_frame_wood", "frame_wood" ],
     "fg": [ "frame_wood_cross_unconnected" ],
     "rotates": true,
     "bg": [  ],
