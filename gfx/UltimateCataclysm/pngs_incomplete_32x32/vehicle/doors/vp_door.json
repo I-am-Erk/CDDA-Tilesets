@@ -32,7 +32,7 @@
     "additional_tiles": [
       {
         "id": "open",
-        "fg": "vp_door_inboard"
+        "fg": "vp_door_inboard_open"
       },
       {
         "id": "broken",
