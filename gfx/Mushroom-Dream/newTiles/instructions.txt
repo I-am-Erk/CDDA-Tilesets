@@ -1,0 +1,16 @@
+Hey mate. Here's some instructions when making the tiles to make it easier.
+
+Dirt Tile - Has 2 variants. Make the one with the big rocks (uppper one) less common. I'd say 30% (out of 100)
+
+Pavement tiles - Includes yellow pavement too. Make the non damaged pavement more common. I'd say 74% for the regular one and 5% each
+for the damaged ones. The pavement with a little water i'd make it rarer, at about 1-2%  
+
+Brickwall and side window/side wall- are all 32x48 tiles, the pink part should not be visible because 
+it should be hidding in the wall bellow it, i think. I placed it there to make it easier to tile up
+
+Tall grass - i fixed it for you
+
+Btw, have you sped up the fire? It should be like twice as fast since last i saw. I remember you saying it was 9 frames per img
+I felt like it should be 5-6. If you explain to me how to do it, i could give it a try to see how fast it should be.
+
+Thanks man!
