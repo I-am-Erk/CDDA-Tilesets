@@ -165,23 +165,24 @@ depending on their relationship to other sprites in the group. Water is a classi
 water as an autotile allows it to display as a single body with edges, instead of either individual
 little puddles, or a large blue expanse with no shoreline.</p>
 <p><img src="image/t_water_sh_autotile.png" alt="Water autotile" /></p>
-<p>To simplify drawing these tiles, we use a template with an 8x6 grid of all the tile boundary types
+<p>To simplify drawing these tiles, we use templates with 4x4 and 8x6 grids of all the tile boundary types
 in a predictable order. Transparency allows overlapping the same tiles on different backgrounds, so
 we don't have to redraw the water boundaries for dirt, grass, rock, etc. - we draw the water once,
 and the transparent edges allow it to overlap dirt, grass, rock, and so on.</p>
-<p>This template shows the standard arrangement of tile borders:</p>
+<p>The 4x4 template supports only current game code:</p>
+<p><img src="image/multitile_grid_4x4.png" alt="Multitile 4x4 Template" /></p>
+<p>Black space indicates background, and white is the shape of the furniture or terrain.</p>
+<p>And the 8x6 is an attempt at future-proofing the project that was created before 4x4. Currently, only a few of these tiles are supported in CDDA, although some day it would be nice to have all of them available:</p>
 <p><img src="image/autotile_template_grid.png" alt="Autotile Template" /></p>
-<p>Black space indicates background, and white is the shape of the furniture or terrain. The sixteen
-tiles in the top-left 4x4 block contain the basic boundary shapes - these are the most important
-ones to draw.</p>
+<p>The sixteen tiles in the top-left 4x4 block contain the basic boundary shapes that are just the 4x4 template in a different order.</p>
 <p>Both terrain and furniture tiles may use this template. Terrain like grass or fences:</p>
+<p><img src="image/t_grass_multitile.png" alt="Grass 4x4 terrain" /></p>
 <p><img src="image/t_grass_tall_autotile.png" alt="Tall grass terrain" />
 <img src="image/t_fence_autotile.png" alt="Fence terrain" /></p>
 <p>and furniture like bathtubs or benches:</p>
 <p><img src="image/f_bathtub_autotile.png" alt="Bathtub furniture" />
 <img src="image/f_bench_autotile.png" alt="Table furniture" /></p>
-<p>Currently, there are only a few of these tiles supported in CDDA, although some day it would be nice
-to have all of them available. With the current tile support there are two ways you might use an
+<p>With the current tile support there are two ways you might use an
 autotile, demonstrated by the bench and table autotiles. What we're missing is the ability to draw
 different types of <em>diagonal</em> connections. Without that, we have to represent things that are likely
 to have diagonal connections or unlikely to have them in different ways.</p>
@@ -227,20 +228,20 @@ piece of each edge section) should be assumed to connect diagonally as well, aga
 in the table.</p>
 <h3><a class="header" href="#slicing-autotiles" id="slicing-autotiles">Slicing autotiles</a></h3>
 <p>Before an autotile template can be used by the game, it needs to be sliced up into individual tiles.
-We use the <code>tools/slice_autotiles.py</code> script to achieve this.</p>
+We use the <code>tools/slice_multitile.py</code> script to achieve this.</p>
 <p>To run the script, you will need <a href="https://python.org">python</a> installed, as well as the libvips
 graphic library. Something like these commands should suffice to install them on Ubuntu:</p>
-<pre><code>$ sudo apt install python3-pip libvips
+<pre><code class="language-sh">$ sudo apt install python3-pip libvips
 $ pip3 install pyvips
 </code></pre>
-<p>If all goes well, you should be able to run the <code>slice_autotiles.py</code> script and see the usage note:</p>
-<pre><code>$ tools/slice_autotiles.py
-usage: slice_autotiles.py [-h] [--no-json] tile size image out
-slice_autotiles.py: error: the following arguments are required: tile, size, image, out
+<p>If all goes well, you should be able to run the <code>slice_multitile.py</code> script and see the usage note:</p>
+<pre><code>$ tools/slice_multitile.py
+usage: slice_multitile.py [-h] [--tile TILE] [--out OUT] [--no-json] image width [height]
+slice_multitile.py: error: the following arguments are required: image, width
 </code></pre>
 <p>So if you have created a <code>mud_autotile.png</code> image, using the autotile template above, you can tell
 the script to slice it into 32x32-pixel tiles with a command like this:</p>
-<pre><code>$ tools/slice_autotiles.py mud 32 mud_autotile.png mud_tiles
+<pre><code class="language-sh">$ tools/slice_multitile.py mud_autotile.png 32 --out mud_tiles
 </code></pre>
 <p>This will create a <code>mud_tiles</code> folder with separate images for each tile in the template, along with
 a JSON file with connection data, for example:</p>
@@ -263,6 +264,17 @@ a JSON file with connection data, for example:</p>
 <li>mud_t_connection_w.png</li>
 <li>mud_unconnected.png</li>
 </ul>
+<h3><a class="header" href="#tall-multitile-template" id="tall-multitile-template">Tall multitile template</a></h3>
+<p>There is now support for tall multitile templates too:</p>
+<p><img src="image/multitile_grid_4x4_tall.png" alt="Tall Multitile 4x4 Template" /></p>
+<pre><code class="language-sh">$ tools/slice_multitile.py multitile_grid_4x4_tall.png 32 64 --tile &quot;f_bookcase&quot;
+</code></pre>
+<h3><a class="header" href="#unslicing" id="unslicing">Unslicing</a></h3>
+<p>There is also a script for reverting the slice action
+when you want to adjust all sprites as one image:</p>
+<pre><code class="language-sh">cd mud_tiles
+$ tools/unslice_multitile.py mud
+</code></pre>
 
                     </main>
 
