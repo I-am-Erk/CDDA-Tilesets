@@ -1,23 +1,9 @@
 {
   "id": "mon_zombie_child",
+  "animated": true,
   "fg": [
-    { "weight": 1, "sprite": "2685_mon_zombie_child_0" },
-    { "weight": 1, "sprite": "2686_mon_zombie_child_2_0" },
-    { "weight": 1, "sprite": "2687_mon_zombie_child_3_0" },
-    { "weight": 1, "sprite": "mon_zombie_child_4" },
-    { "weight": 1, "sprite": "mon_zombie_child_5" },
-    { "weight": 1, "sprite": "mon_zombie_child_6" },
-    { "weight": 1, "sprite": "mon_zombie_child_7" },
-    { "weight": 1, "sprite": "mon_zombie_child_8" },
-    { "weight": 1, "sprite": "mon_zombie_child_9" },
-    { "weight": 1, "sprite": "mon_zombie_child_10" },
-    { "weight": 1, "sprite": "mon_zombie_child_11" },
-    { "weight": 1, "sprite": "mon_zombie_child_12" },
-    { "weight": 1, "sprite": "mon_zombie_child_13" },
-    { "weight": 1, "sprite": "mon_zombie_child_14" },
-    { "weight": 1, "sprite": "mon_zombie_child_15" },
-    { "weight": 1, "sprite": "mon_zombie_child_16" },
-    { "weight": 1, "sprite": "mon_zombie_child_17" }
+    { "weight": 1, "sprite": "2685_mon_zombie_child_0_000" },
+    { "weight": 1, "sprite": "2685_mon_zombie_child_0_001" }
   ],
   "bg": [
     ""
