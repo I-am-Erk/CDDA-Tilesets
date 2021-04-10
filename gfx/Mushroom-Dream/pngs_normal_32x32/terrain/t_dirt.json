@@ -4,7 +4,7 @@
    "fg": [
     { "weight": 70, "sprite": "dirt01" },
     { "weight": 30, "sprite": "dirt02" },
-	]
+	],
     "bg": ""
   }
 ]
