@@ -1,7 +1,10 @@
 [
   {
     "id": "t_dirt",
-    "fg": "t_dirt",
+   "fg": [
+    { "weight": 70, "sprite": "dirt01" },
+    { "weight": 30, "sprite": "dirt02" },
+	]
     "bg": ""
   }
 ]
