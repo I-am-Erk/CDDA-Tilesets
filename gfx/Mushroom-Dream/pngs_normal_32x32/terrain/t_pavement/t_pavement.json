@@ -1,6 +1,6 @@
 {
   "id": "t_pavement",
-  "fg": "t_pavement",
+  "fg": "t_pavement_center",
   "bg": "",
   "multitile": true,
   "additional_tiles": [
