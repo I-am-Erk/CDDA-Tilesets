@@ -11,13 +11,13 @@ on:
     branches:
       - master
     paths:
-      - 'gfx/RetroDays/**'
+      - 'gfx/Retrodays/**'
       - '.github/workflows/Retrodays_ci_build.yml'
   pull_request:
     branches:
       - master
     paths:
-      - 'gfx/RetroDays/**'
+      - 'gfx/Retrodays/**'
       - '.github/workflows/Retrodays_ci_build.yml'
 
 jobs:
@@ -40,10 +40,10 @@ jobs:
           wget -q https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/compose.py \
           || echo "Error: Failed to get compose.py"
           cd ..
-          python3 build/compose.py --use-all gfx/RetroDays
+          python3 build/compose.py --use-all gfx/Retrodays
           cd build
           artifact_name=RetroDays-$(echo $GITHUB_SHA | cut -c -8)
-          tileset_dir=../gfx/RetroDays
+          tileset_dir=../gfx/Retrodays
           mkdir $artifact_name
           mv $tileset_dir/*.png            $artifact_name
           mv $tileset_dir/tile_config.json $artifact_name
