@@ -1,0 +1,10 @@
+{
+    "id": "mon_shoggoth",
+    "fg": [
+        { "weight": 1, "sprite": "mon_shoggoth" }
+    ],
+    "rotates": false,
+    "bg": [
+        ""
+    ]
+}
