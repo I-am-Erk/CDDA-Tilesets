@@ -27,5 +27,8 @@
   },
   {
     "enormous.png": { "sprite_width": 128, "sprite_height": 128, "sprite_offset_x": -96, "sprite_offset_y": -96 }
+  },
+  {
+    "titans.png": { "sprite_width": 160, "sprite_height": 96, "sprite_offset_x": -96, "sprite_offset_y": -96 }
   }
 ]
