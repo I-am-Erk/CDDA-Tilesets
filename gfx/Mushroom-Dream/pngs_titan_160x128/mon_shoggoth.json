@@ -3,8 +3,9 @@
     "fg": [
         { "weight": 1, "sprite": "mon_shoggoth" }
     ],
-    "rotates": false,
-    "bg": [
+	    "bg": [
         ""
-    ]
+    ],
+    "rotates": false
+
 }
