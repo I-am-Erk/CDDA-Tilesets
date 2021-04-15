@@ -1,0 +1,10 @@
+{
+    "id": "player_male",
+    "fg": [
+        { "weight": 1, "sprite": "player" }
+    ],
+    "rotates": false,
+    "bg": [
+        ""
+    ]
+}
