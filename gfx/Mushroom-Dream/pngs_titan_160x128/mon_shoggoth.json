@@ -1,6 +1,4 @@
-
 {
     "id": "mon_shoggoth",
-    "fg": [
-        { "weight": 1, "sprite": "mon_shoggoth" }
+    "fg": "mon_shoggoth"
 }
