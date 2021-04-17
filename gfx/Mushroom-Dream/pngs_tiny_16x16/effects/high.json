@@ -1,7 +1,6 @@
 [
   {
     "id": ["high","weed_high"],
-    "fg": "high",
-    "rotate": false
+    "fg": "high"
   }
 ]

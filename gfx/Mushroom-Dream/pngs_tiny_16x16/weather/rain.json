@@ -1,5 +1,4 @@
 {
 	"id": ["light_drizzle","drizzle","rain"],
-	"bg": "rain",
-	"rotates": false
+	"bg": "rain"
 }
