@@ -23,7 +23,7 @@
     "wide-tall.png": { "sprite_width": 48, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -32 }
   },
   {
-    "veryWideTall.png": { "sprite_width": 55, "sprite_height": 48, "sprite_offset_x": -23, "sprite_offset_y": -16 }
+    "veryWideTall.png": { "sprite_width": 64, "sprite_height": 48, "sprite_offset_x": -32, "sprite_offset_y": -16 }
   },
   {
     "enormous.png": { "sprite_width": 128, "sprite_height": 128, "sprite_offset_x": -96, "sprite_offset_y": -96 }
