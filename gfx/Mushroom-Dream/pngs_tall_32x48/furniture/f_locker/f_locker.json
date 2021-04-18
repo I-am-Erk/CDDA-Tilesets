@@ -1,6 +1,6 @@
 {
-	"id": "f_locker",
-	"fg": [
+"id": "f_locker",
+"fg": [
 	{ "weight": 1, "sprite": "f_locker1" },
     { "weight": 1, "sprite": "f_locker2" },
     { "weight": 1, "sprite": "f_locker3" },
