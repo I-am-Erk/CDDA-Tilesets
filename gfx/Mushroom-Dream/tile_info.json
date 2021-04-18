@@ -32,6 +32,6 @@
     "titan.png": { "sprite_width": 160, "sprite_height": 128, "sprite_offset_x": -128, "sprite_offset_y": -96 }
   },
   {
-    "tiny.png": { "sprite_width": 16, "sprite_height": 16, "sprite_offset_x": -16, "sprite_offset_y": -16 }
+    "tiny.png": { "sprite_width": 16, "sprite_height": 16, "sprite_offset_x": 16, "sprite_offset_y": 0 }
   }
 ]

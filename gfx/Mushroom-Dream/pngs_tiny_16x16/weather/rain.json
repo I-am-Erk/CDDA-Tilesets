@@ -1,4 +1,4 @@
 {
-	"id": ["light_drizzle","drizzle","rain"],
-	"bg": "rain"
+	"id": "weather_rain_drop",
+	"bg": ["rain", "rain2"]
 }
