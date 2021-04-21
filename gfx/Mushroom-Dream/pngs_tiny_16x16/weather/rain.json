@@ -1,0 +1,7 @@
+{
+	"id": "weather_rain_drop",
+  "bg": [
+    { "weight": 1, "sprite": "rain" },
+    { "weight": 1, "sprite": "rain2" }
+  ]
+}
