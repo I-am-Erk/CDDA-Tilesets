@@ -1,0 +1,15 @@
+{
+  "id": "f_alien_zapper",
+  "animated": true,
+  "fg": [
+    { "weight": 36, "sprite": "f_alien_zapper" },
+    { "weight": 7, "sprite": "f_alien_zapper_1" },
+    { "weight": 7, "sprite": "f_alien_zapper_2" },
+    { "weight": 7, "sprite": "f_alien_zapper_3" },
+    { "weight": 7, "sprite": "f_alien_zapper_4" }
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}
