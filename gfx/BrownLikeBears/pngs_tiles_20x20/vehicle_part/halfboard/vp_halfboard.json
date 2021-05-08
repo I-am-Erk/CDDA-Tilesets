@@ -80,7 +80,31 @@
     ]
   },
   {
-    "id": [ "vp_halfboard_horizontal_rear", "vp_board_horizontal_rear", "vp_halfboard_horizontal_2_rear" ],
+    "id": [ "vp_board_horizontal_rear" ],
+    "fg": [
+      "vp_board_horizontal_rear",
+      "vp_board_horizontal_rear_rotW",
+      "vp_board_horizontal_rear_rotS",
+      "vp_board_horizontal_rear_rotE"
+    ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [
+          "broken_halfboard_horizontal_rear",
+          "broken_halfboard_horizontal_rear_rotW",
+          "broken_halfboard_horizontal_rear_rotS",
+          "broken_halfboard_horizontal_rear_rotE"
+        ],
+        "bg": [  ]
+      }
+    ]
+  },
+  {
+    "id": [ "vp_halfboard_horizontal_rear", "vp_halfboard_horizontal_2_rear" ],
     "fg": [
       "vp_halfboard_horizontal_rear",
       "vp_halfboard_horizontal_rear_rotW",
