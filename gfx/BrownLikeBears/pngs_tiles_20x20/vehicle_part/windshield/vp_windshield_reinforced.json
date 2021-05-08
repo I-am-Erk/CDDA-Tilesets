@@ -67,5 +67,21 @@
     "rotates": true,
     "multitile": true,
     "additional_tiles": [ { "id": "broken", "fg": [ "broken_windshield_reinforced_vertical_right" ], "bg": [  ] } ]
+  },
+  {
+    "id": [ "vp_reinforced_windshield_full_vertical_left", "vp_reinforced_windshield_full_left" ],
+    "fg": [ "vp_windshield_reinforced_full_vertical_left" ],
+    "bg": [  ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_windshield_reinforced_vertical_left" ], "bg": [  ] } ]
+  },
+  {
+    "id": [ "vp_reinforced_windshield_full_vertical_right", "vp_reinforced_windshield_full_right" ],
+    "fg": [ "vp_windshield_reinforced_full_vertical_right" ],
+    "bg": [  ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_windshield_reinforced_vertical_right" ], "bg": [  ] } ]
   }
 ]
