@@ -17,6 +17,9 @@
     "toped.png": { "sprite_width": 20, "sprite_height": 25, "sprite_offset_x": -1, "sprite_offset_y": -5 }
   },
   {
+    "wide.png": { "sprite_width": 25, "sprite_height": 20, "sprite_offset_x": -5, "sprite_offset_y": -1 }
+  },
+  {
     "mods.png": {  }
   },
   {
