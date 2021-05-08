@@ -16,7 +16,7 @@
     "additional_tiles": [ { "id": "broken", "fg": [ "broken_windshield_horizontal_rear" ], "bg": [  ] } ]
   },
   {
-    "id": "vp_windshield_nw",
+    "id": [ "vp_windshield_nw", "vp_windshield_nw_edge" ],
     "fg": [ "vp_windshield_nw" ],
     "bg": [  ],
     "rotates": true,
@@ -24,7 +24,7 @@
     "additional_tiles": [ { "id": "broken", "fg": [ "broken_windshield_nw" ], "bg": [  ] } ]
   },
   {
-    "id": "vp_windshield_ne",
+    "id": [ "vp_windshield_ne", "vp_windshield_ne_edge" ],
     "fg": [ "vp_windshield_ne" ],
     "bg": [  ],
     "rotates": true,
