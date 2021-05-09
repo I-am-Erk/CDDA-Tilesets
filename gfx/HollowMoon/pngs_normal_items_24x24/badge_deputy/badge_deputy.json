@@ -1,0 +1,6 @@
+[
+    { "id": ["badge_deputy", "badge_cybercop", "badge_swat", "badge_detective"], "fg": "badge_deputy", "bg": [], "rotates": false },
+	{ "id": ["badge_deputy_season_autumn", "badge_cybercop_season_autumn", "badge_swat_season_autumn", "badge_detective_season_autumn"], "fg": "badge_deputy_autumn", "bg": [], "rotates": false },
+	{ "id": ["badge_deputy_season_winter", "badge_cybercop_season_winter", "badge_swat_season_winter", "badge_detective_season_winter"], "fg": "badge_deputy_winter", "bg": [], "rotates": false },
+	{ "id": ["badge_deputy_season_summer", "badge_cybercop_season_summer", "badge_swat_season_summer", "badge_detective_season_summer"], "fg": "badge_deputy_summer", "bg": [], "rotates": false }
+]

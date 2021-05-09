@@ -1,0 +1,6 @@
+[
+    { "id": ["pan", "steel_pan", "copper_pan"], "fg": "pan", "bg": [], "rotates": false },
+	{ "id": ["pan_season_autumn", "steel_pan_season_autumn", "copper_pan_season_autumn"], "fg": "pan_autumn", "bg": [], "rotates": false },
+	{ "id": ["pan_season_winter", "steel_pan_season_winter", "copper_pan_season_winter"], "fg": "pan_winter", "bg": [], "rotates": false },
+	{ "id": ["pan_season_summer", "steel_pan_season_summer", "copper_pan_season_summer"], "fg": "pan_summer", "bg": [], "rotates": false }
+]

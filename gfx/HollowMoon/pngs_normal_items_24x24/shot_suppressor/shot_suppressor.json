@@ -1,0 +1,6 @@
+[
+    { "id": ["shot_suppressor", "riv_suppressor"], "fg": "shot_suppressor", "bg": [], "rotates": false },
+	{ "id": ["shot_suppressor_season_autumn", "riv_suppressor_season_autumn"], "fg": "shot_suppressor_autumn", "bg": [], "rotates": false },
+	{ "id": ["shot_suppressor_season_winter", "riv_suppressor_season_winter"], "fg": "shot_suppressor_winter", "bg": [], "rotates": false },
+	{ "id": ["shot_suppressor_season_summer", "riv_suppressor_season_summer"], "fg": "shot_suppressor_summer", "bg": [], "rotates": false }
+]

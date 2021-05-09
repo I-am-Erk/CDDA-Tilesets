@@ -1,0 +1,6 @@
+[
+    { "id": ["radio_mod", "radio_repeater_mod"], "fg": "radio_mod", "bg": [], "rotates": false },
+	{ "id": ["radio_mod_season_autumn", "radio_repeater_mod_season_autumn"], "fg": "radio_mod_autumn", "bg": [], "rotates": false },
+	{ "id": ["radio_mod_season_winter", "radio_repeater_mod_season_winter"], "fg": "radio_mod_winter", "bg": [], "rotates": false },
+	{ "id": ["radio_mod_season_summer", "radio_repeater_mod_season_summer"], "fg": "radio_mod_summer", "bg": [], "rotates": false }
+]

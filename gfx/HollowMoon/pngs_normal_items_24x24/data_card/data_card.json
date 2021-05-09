@@ -1,0 +1,6 @@
+[
+    { "id": ["data_card", "mobile_memory_card_science", "mobile_memory_card_encrypted", "mobile_memory_card_used", "mobile_memory_card"], "fg": "data_card", "bg": [], "rotates": false },
+	{ "id": ["data_card_season_autumn", "mobile_memory_card_science_season_autumn", "mobile_memory_card_encrypted_season_autumn", "mobile_memory_card_used_season_autumn", "mobile_memory_card_season_autumn"], "fg": "data_card_autumn", "bg": [], "rotates": false },
+	{ "id": ["data_card_season_winter", "mobile_memory_card_science_season_winter", "mobile_memory_card_encrypted_season_winter", "mobile_memory_card_used_season_winter", "mobile_memory_card_season_winter"], "fg": "data_card_winter", "bg": [], "rotates": false },
+	{ "id": ["data_card_season_summer", "mobile_memory_card_science_season_summer", "mobile_memory_card_encrypted_season_summer", "mobile_memory_card_used_season_summer", "mobile_memory_card_season_summer"], "fg": "data_card_summer", "bg": [], "rotates": false }
+]

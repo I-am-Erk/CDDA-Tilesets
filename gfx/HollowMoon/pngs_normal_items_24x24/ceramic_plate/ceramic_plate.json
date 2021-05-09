@@ -1,0 +1,6 @@
+[
+    { "id": ["ceramic_plate", "plastic_plate", "glass_plate", "tin_plate"], "fg": "ceramic_plate", "bg": [], "rotates": false },
+	{ "id": ["ceramic_plate_season_autumn", "plastic_plate_season_autumn", "glass_plate_season_autumn", "tin_plate_season_autumn"], "fg": "ceramic_plate_autumn", "bg": [], "rotates": false },
+	{ "id": ["ceramic_plate_season_winter", "plastic_plate_season_winter", "glass_plate_season_winter", "tin_plate_season_winter"], "fg": "ceramic_plate_winter", "bg": [], "rotates": false },
+	{ "id": ["ceramic_plate_season_summer", "plastic_plate_season_summer", "glass_plate_season_summer", "tin_plate_season_summer"], "fg": "ceramic_plate_summer", "bg": [], "rotates": false }
+]

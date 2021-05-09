@@ -1,0 +1,6 @@
+[
+    { "id": ["towel", "towel_soiled", "towel_wet"], "fg": "towel", "bg": [], "rotates": false },
+	{ "id": ["towel_season_autumn", "towel_soiled_season_autumn", "towel_wet_season_autumn"], "fg": "towel_autumn", "bg": [], "rotates": false },
+	{ "id": ["towel_season_winter", "towel_soiled_season_winter", "towel_wet_season_winter"], "fg": "towel_winter", "bg": [], "rotates": false },
+	{ "id": ["towel_season_summer", "towel_soiled_season_summer", "towel_wet_season_summer"], "fg": "towel_summer", "bg": [], "rotates": false }
+]
