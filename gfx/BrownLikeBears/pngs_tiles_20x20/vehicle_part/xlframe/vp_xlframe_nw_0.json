@@ -6,7 +6,7 @@
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
-    { "id": "broken", "fg": [ "443_vp_xlframe_vertical_1" ], "bg": [  ] }
+    { "id": "broken", "fg": [ "broken_part_placeholder" ], "bg": [  ] }
   ],
   "bg": [
     
