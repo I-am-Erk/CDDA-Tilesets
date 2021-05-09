@@ -1,0 +1,14 @@
+{
+  "id": "vp_hdframe_se",
+  "fg": [
+    "vp_hdframe_se"
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "broken", "fg": [ "645_vp_hdframe_vertical_1" ], "bg": [  ] }
+  ],
+  "bg": [
+    
+  ]
+}

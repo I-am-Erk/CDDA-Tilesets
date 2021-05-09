@@ -1,6 +1,6 @@
 [
   {
-    "id": [ "vp_halfboard_ne", "vp_board_ne" ],
+    "id": [ "vp_halfboard_ne" ],
     "fg": [ "vp_halfboard_ne" ],
     "rotates": true,
     "bg": [  ],
@@ -8,7 +8,7 @@
     "additional_tiles": [ { "id": "broken", "fg": [ "broken_halfboard_ne" ], "bg": [  ] } ]
   },
   {
-    "id": [ "vp_halfboard_nw", "vp_board_nw" ],
+    "id": [ "vp_halfboard_nw" ],
     "fg": [ "vp_halfboard_nw" ],
     "rotates": true,
     "bg": [  ],
@@ -16,7 +16,7 @@
     "additional_tiles": [ { "id": "broken", "fg": [ "broken_halfboard_nw" ], "bg": [  ] } ]
   },
   {
-    "id": [ "vp_halfboard_se", "vp_board_se" ],
+    "id": [ "vp_halfboard_se" ],
     "fg": [ "vp_halfboard_se" ],
     "rotates": true,
     "bg": [  ],
@@ -24,7 +24,7 @@
     "additional_tiles": [ { "id": "broken", "fg": [ "broken_halfboard_se" ], "bg": [  ] } ]
   },
   {
-    "id": [ "vp_halfboard_sw", "vp_board_sw" ],
+    "id": [ "vp_halfboard_sw" ],
     "fg": [ "vp_halfboard_sw" ],
     "rotates": true,
     "bg": [  ],
@@ -32,7 +32,7 @@
     "additional_tiles": [ { "id": "broken", "fg": [ "broken_halfboard_sw" ], "bg": [  ] } ]
   },
   {
-    "id": [ "vp_halfboard_vertical_left", "vp_board_vertical_left", "vp_halfboard_vertical_2_left" ],
+    "id": [ "vp_halfboard_vertical_left", "vp_halfboard_vertical_2_left" ],
     "fg": [ "vp_halfboard_vertical_left" ],
     "rotates": true,
     "bg": [  ],
@@ -40,7 +40,7 @@
     "additional_tiles": [ { "id": "broken", "fg": [ "broken_halfboard_vertical_left" ], "bg": [  ] } ]
   },
   {
-    "id": [ "vp_halfboard_vertical_right", "vp_board_vertical_right", "vp_halfboard_vertical_2_right" ],
+    "id": [ "vp_halfboard_vertical_right", "vp_halfboard_vertical_2_right" ],
     "fg": [ "vp_halfboard_vertical_right" ],
     "rotates": true,
     "bg": [  ],
@@ -80,7 +80,7 @@
     ]
   },
   {
-    "id": [ "vp_halfboard_horizontal_rear", "vp_board_horizontal_rear", "vp_halfboard_horizontal_2_rear" ],
+    "id": [ "vp_halfboard_horizontal_rear", "vp_halfboard_horizontal_2_rear" ],
     "fg": [
       "vp_halfboard_horizontal_rear",
       "vp_halfboard_horizontal_rear_rotW",
@@ -110,5 +110,82 @@
     "bg": [  ],
     "multitile": true,
     "additional_tiles": [ { "id": "broken", "fg": [ "broken_halfboard_vertical" ], "bg": [  ] } ]
+  },
+  {
+    "id": "vp_halfboard_cover",
+    "fg": [ "vp_halfboard_cover", "vp_halfboard_cover_rotW", "vp_halfboard_cover_rotS", "vp_halfboard_cover_rotE" ],
+    "rotates": true
+  },
+  {
+    "id": [ "vp_board_ne" ],
+    "fg": [ "vp_board_ne" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_halfboard_ne" ], "bg": [  ] } ]
+  },
+  {
+    "id": [ "vp_board_nw" ],
+    "fg": [ "vp_board_nw" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_halfboard_nw" ], "bg": [  ] } ]
+  },
+  {
+    "id": [ "vp_board_se" ],
+    "fg": [ "vp_board_se" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_halfboard_se" ], "bg": [  ] } ]
+  },
+  {
+    "id": [ "vp_board_sw" ],
+    "fg": [ "vp_board_sw" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_halfboard_sw" ], "bg": [  ] } ]
+  },
+  {
+    "id": [ "vp_board_vertical_left" ],
+    "fg": [ "vp_board_vertical_left" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_halfboard_vertical_left" ], "bg": [  ] } ]
+  },
+  {
+    "id": [ "vp_board_vertical_right" ],
+    "fg": [ "vp_board_vertical_right" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_halfboard_vertical_right" ], "bg": [  ] } ]
+  },
+  {
+    "id": [ "vp_board_horizontal_rear" ],
+    "fg": [
+      "vp_board_horizontal_rear",
+      "vp_board_horizontal_rear_rotW",
+      "vp_board_horizontal_rear_rotS",
+      "vp_board_horizontal_rear_rotE"
+    ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [
+          "broken_halfboard_horizontal_rear",
+          "broken_halfboard_horizontal_rear_rotW",
+          "broken_halfboard_horizontal_rear_rotS",
+          "broken_halfboard_horizontal_rear_rotE"
+        ],
+        "bg": [  ]
+      }
+    ]
   }
 ]

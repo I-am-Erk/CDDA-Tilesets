@@ -1,0 +1,17 @@
+{
+  "id": [
+    "vp_xlframe_cross",
+    "vp_xlframe"
+  ],
+  "fg": [
+    "vp_xlframe_cross"
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "broken", "fg": [ "broken_xlframe_overlay" ], "bg": [ "vp_xlframe_cross" ] }
+  ],
+  "bg": [
+    
+  ]
+}
