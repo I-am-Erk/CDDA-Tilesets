@@ -1,0 +1,6 @@
+[
+    { "id": "t_tree", "fg": "t_tree", "bg": [], "rotates": false },
+	{ "id": "t_tree_season_autumn", "fg": "t_tree_autumn", "bg": [], "rotates": false },
+	{ "id": "t_tree_season_winter", "fg": "t_tree_winter", "bg": [], "rotates": false },
+	{ "id": "t_tree_season_summer", "fg": "t_tree_summer", "bg": [], "rotates": false }
+]
