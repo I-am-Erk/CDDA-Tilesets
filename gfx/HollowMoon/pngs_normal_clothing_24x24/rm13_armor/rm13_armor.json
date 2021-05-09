@@ -1,0 +1,6 @@
+[
+    { "id": ["rm13_armor", "rm13_armor_on"], "fg": "rm13_armor", "bg": [], "rotates": false },
+	{ "id": ["rm13_armor_season_autumn", "rm13_armor_on_season_autumn"], "fg": "rm13_armor_autumn", "bg": [], "rotates": false },
+	{ "id": ["rm13_armor_season_winter", "rm13_armor_on_season_winter"], "fg": "rm13_armor_winter", "bg": [], "rotates": false },
+	{ "id": ["rm13_armor_season_summer", "rm13_armor_on_season_summer"], "fg": "rm13_armor_summer", "bg": [], "rotates": false }
+]

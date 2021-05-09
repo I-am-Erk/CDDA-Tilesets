@@ -1,0 +1,6 @@
+[
+    { "id": ["crown_golden", "crown_golden_survivor"], "fg": "crown_golden", "bg": [], "rotates": false },
+	{ "id": ["crown_golden_season_autumn", "crown_golden_survivor_season_autumn"], "fg": "crown_golden_autumn", "bg": [], "rotates": false },
+	{ "id": ["crown_golden_season_winter", "crown_golden_survivor_season_winter"], "fg": "crown_golden_winter", "bg": [], "rotates": false },
+	{ "id": ["crown_golden_season_summer", "crown_golden_survivor_season_summer"], "fg": "crown_golden_summer", "bg": [], "rotates": false }
+]

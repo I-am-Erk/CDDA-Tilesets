@@ -1,0 +1,6 @@
+[
+    { "id": ["dragonskin", "dragonskinempty"], "fg": "dragonskin", "bg": [], "rotates": false },
+	{ "id": ["dragonskin_season_autumn", "dragonskinempty_season_autumn"], "fg": "dragonskin_autumn", "bg": [], "rotates": false },
+	{ "id": ["dragonskin_season_winter", "dragonskinempty_season_winter"], "fg": "dragonskin_winter", "bg": [], "rotates": false },
+	{ "id": ["dragonskin_season_summer", "dragonskinempty_season_summer"], "fg": "dragonskin_summer", "bg": [], "rotates": false }
+]

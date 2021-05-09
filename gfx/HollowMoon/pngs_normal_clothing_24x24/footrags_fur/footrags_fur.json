@@ -1,0 +1,6 @@
+[
+    { "id": ["footrags_fur", "footrags", "footrags_wool", "footrags_leather"], "fg": "footrags_fur", "bg": [], "rotates": false },
+	{ "id": ["footrags_fur_season_autumn", "footrags_season_autumn", "footrags_wool_season_autumn", "footrags_leather_season_autumn"], "fg": "footrags_fur_autumn", "bg": [], "rotates": false },
+	{ "id": ["footrags_fur_season_winter", "footrags_season_winter", "footrags_wool_season_winter", "footrags_leather_season_winter"], "fg": "footrags_fur_winter", "bg": [], "rotates": false },
+	{ "id": ["footrags_fur_season_summer", "footrags_season_summer", "footrags_wool_season_summer", "footrags_leather_season_summer"], "fg": "footrags_fur_summer", "bg": [], "rotates": false }
+]

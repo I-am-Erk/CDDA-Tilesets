@@ -1,0 +1,6 @@
+[
+    { "id": ["silver_watch", "platinum_watch", "gold_watch"], "fg": "silver_watch", "bg": [], "rotates": false },
+	{ "id": ["silver_watch_season_autumn", "platinum_watch_season_autumn", "gold_watch_season_autumn"], "fg": "silver_watch_autumn", "bg": [], "rotates": false },
+	{ "id": ["silver_watch_season_winter", "platinum_watch_season_winter", "gold_watch_season_winter"], "fg": "silver_watch_winter", "bg": [], "rotates": false },
+	{ "id": ["silver_watch_season_summer", "platinum_watch_season_summer", "gold_watch_season_summer"], "fg": "silver_watch_summer", "bg": [], "rotates": false }
+]

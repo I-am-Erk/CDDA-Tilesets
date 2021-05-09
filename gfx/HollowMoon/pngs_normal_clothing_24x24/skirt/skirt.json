@@ -1,0 +1,7 @@
+[
+    { "id": ["skirt", "skirt_leather"], "fg": "skirt", "bg": [], "rotates": false },
+	{ "id": ["skirt_season_autumn", "skirt_leather_season_autumn"], "fg": "skirt_autumn", "bg": [], "rotates": false },
+	{ "id": ["skirt_season_winter", "skirt_leather_season_winter"], "fg": "skirt_winter", "bg": [], "rotates": false },
+	{ "id": ["skirt_season_summer", "skirt_leather_season_summer"], "fg": "skirt_summer", "bg": [], "rotates": false }
+]: false }
+]

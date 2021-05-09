@@ -1,0 +1,6 @@
+[
+    { "id": ["armguard_lightplate", "armguard_larmor", "armguard_metal", "armguard_hard"], "fg": "armguard_lightplate", "bg": [], "rotates": false },
+	{ "id": ["armguard_lightplate_season_autumn", "armguard_larmor_season_autumn", "armguard_metal_season_autumn", "armguard_hard_season_autumn"], "fg": "armguard_lightplate_autumn", "bg": [], "rotates": false },
+	{ "id": ["armguard_lightplate_season_winter", "armguard_larmor_season_winter", "armguard_metal_season_winter", "armguard_hard_season_winter"], "fg": "armguard_lightplate_winter", "bg": [], "rotates": false },
+	{ "id": ["armguard_lightplate_season_summer", "armguard_larmor_season_summer", "armguard_metal_season_summer", "armguard_hard_season_summer"], "fg": "armguard_lightplate_summer", "bg": [], "rotates": false }
+]

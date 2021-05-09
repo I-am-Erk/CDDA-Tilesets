@@ -1,0 +1,6 @@
+[
+    { "id": ["flip_flops", "straw_sandals", "leathersandals", "bastsandals"], "fg": "flip_flops", "bg": [], "rotates": false },
+	{ "id": ["flip_flops_season_autumn", "straw_sandals_season_autumn", "leathersandals_season_autumn", "bastsandals_season_autumn"], "fg": "flip_flops_autumn", "bg": [], "rotates": false },
+	{ "id": ["flip_flops_season_winter", "straw_sandals_season_winter", "leathersandals_season_winter", "bastsandals_season_winter"], "fg": "flip_flops_winter", "bg": [], "rotates": false },
+	{ "id": ["flip_flops_season_summer", "straw_sandals_season_summer", "leathersandals_season_summer", "bastsandals_season_summer"], "fg": "flip_flops_summer", "bg": [], "rotates": false }
+]

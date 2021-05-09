@@ -1,0 +1,6 @@
+[
+    { "id": ["platinum_ring", "gold_ring", "copper_ring", "ring_purity", "silver_ring"], "fg": "platinum_ring", "bg": [], "rotates": false },
+	{ "id": ["platinum_ring_season_autumn", "gold_ring_season_autumn", "copper_ring_season_autumn", "ring_purity_season_autumn", "silver_ring_season_autumn"], "fg": "platinum_ring_autumn", "bg": [], "rotates": false },
+	{ "id": ["platinum_ring_season_winter", "gold_ring_season_winter", "copper_ring_season_winter", "ring_purity_season_winter", "silver_ring_season_winter"], "fg": "platinum_ring_winter", "bg": [], "rotates": false },
+	{ "id": ["platinum_ring_season_summer", "gold_ring_season_summer", "copper_ring_season_summer", "ring_purity_season_summer", "silver_ring_season_summer"], "fg": "platinum_ring_summer", "bg": [], "rotates": false }
+]

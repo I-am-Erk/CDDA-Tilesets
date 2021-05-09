@@ -1,0 +1,6 @@
+[
+    { "id": "chitin_armor_horse", "fg": "chitin_armor_horse", "bg": [], "rotates": false },
+	{ "id": "chitin_armor_horse_season_autumn", "fg": "chitin_armor_horse_autumn", "bg": [], "rotates": false },
+	{ "id": "chitin_armor_horse_season_winter", "fg": "chitin_armor_horse_winter", "bg": [], "rotates": false },
+	{ "id": "chitin_armor_horse_season_summer", "fg": "chitin_armor_horse_summer", "bg": [], "rotates": false }
+]

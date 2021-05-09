@@ -1,0 +1,6 @@
+[
+    { "id": ["diamond_dental_grill", "platinum_dental_grill", "gold_dental_grill"], "fg": "diamond_dental_grill", "bg": [], "rotates": false },
+	{ "id": ["diamond_dental_grill_season_autumn", "platinum_dental_grill_season_autumn", "gold_dental_grill_season_autumn"], "fg": "diamond_dental_grill_autumn", "bg": [], "rotates": false },
+	{ "id": ["diamond_dental_grill_season_winter", "platinum_dental_grill_season_winter", "gold_dental_grill_season_winter"], "fg": "diamond_dental_grill_winter", "bg": [], "rotates": false },
+	{ "id": ["diamond_dental_grill_season_summer", "platinum_dental_grill_season_summer", "gold_dental_grill_season_summer"], "fg": "diamond_dental_grill_summer", "bg": [], "rotates": false }
+]
