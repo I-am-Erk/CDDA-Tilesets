@@ -1,0 +1,6 @@
+[
+    { "id": ["cs_lajatang_off", "ecs_lajatang_off"], "fg": "cs_lajatang_off", "bg": [], "rotates": false },
+	{ "id": ["cs_lajatang_off_season_autumn", "ecs_lajatang_off_season_autumn"], "fg": "cs_lajatang_off_autumn", "bg": [], "rotates": false },
+	{ "id": ["cs_lajatang_off_season_winter", "ecs_lajatang_off_season_winter"], "fg": "cs_lajatang_off_winter", "bg": [], "rotates": false },
+	{ "id": ["cs_lajatang_off_season_summer", "ecs_lajatang_off_season_summer"], "fg": "cs_lajatang_off_summer", "bg": [], "rotates": false }
+]
