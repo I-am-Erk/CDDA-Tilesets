@@ -1,0 +1,6 @@
+[
+    { "id": ["pretzels", "chocpretzels"], "fg": "pretzels", "bg": [], "rotates": false },
+	{ "id": ["pretzels_season_autumn", "chocpretzels_season_autumn"], "fg": "pretzels_autumn", "bg": [], "rotates": false },
+	{ "id": ["pretzels_season_winter", "chocpretzels_season_winter"], "fg": "pretzels_winter", "bg": [], "rotates": false },
+	{ "id": ["pretzels_season_summer", "chocpretzels_season_summer"], "fg": "pretzels_summer", "bg": [], "rotates": false }
+]

@@ -1,0 +1,6 @@
+[
+    { "id": ["corn", "irradiated_corn"], "fg": "corn", "bg": [], "rotates": false },
+	{ "id": ["corn_season_autumn", "irradiated_corn_season_autumn"], "fg": "corn_autumn", "bg": [], "rotates": false },
+	{ "id": ["corn_season_winter", "irradiated_corn_season_winter"], "fg": "corn_winter", "bg": [], "rotates": false },
+	{ "id": ["corn_season_summer", "irradiated_corn_season_summer"], "fg": "corn_summer", "bg": [], "rotates": false }
+]

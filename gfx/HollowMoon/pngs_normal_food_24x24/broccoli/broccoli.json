@@ -1,0 +1,6 @@
+[
+    { "id": ["broccoli", "irradiated_broccoli"], "fg": "broccoli", "bg": [], "rotates": false },
+	{ "id": ["broccoli_season_autumn", "irradiated_broccoli_season_autumn"], "fg": "broccoli_autumn", "bg": [], "rotates": false },
+	{ "id": ["broccoli_season_winter", "irradiated_broccoli_season_winter"], "fg": "broccoli_winter", "bg": [], "rotates": false },
+	{ "id": ["broccoli_season_summer", "irradiated_broccoli_season_summer"], "fg": "broccoli_summer", "bg": [], "rotates": false }
+]
