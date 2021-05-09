@@ -1,7 +1,7 @@
 [
   {
     "id": [ "vp_hddoor_full_left" ],
-    "fg": [ "vp_hddoor_L_rotN", "vp_hddoor_L_rotW", "vp_hddoor_L_rotS", "vp_hddoor_L_rotE" ],
+    "fg": [ "vp_hddoor_full_L_rotN", "vp_hddoor_full_L_rotW", "vp_hddoor_full_L_rotS", "vp_hddoor_full_L_rotE" ],
     "bg": [  ],
     "rotates": true,
     "multitile": true,
@@ -14,13 +14,13 @@
       {
         "id": "broken",
         "fg": [ "broken_overlay_tear_LrotN", "broken_overlay_tear_LrotW", "broken_overlay_tear_LrotS", "broken_overlay_tear" ],
-        "bg": [ "vp_hddoor_L_rotN", "vp_hddoor_L_rotW", "vp_hddoor_L_rotS", "vp_hddoor_L_rotE" ]
+        "bg": [ "vp_hddoor_full_L_rotN", "vp_hddoor_full_L_rotW", "vp_hddoor_full_L_rotS", "vp_hddoor_full_L_rotE" ]
       }
     ]
   },
   {
     "id": [ "vp_hddoor_full_right" ],
-    "fg": [ "vp_hddoor_R_rotN", "vp_hddoor_R_rotW", "vp_hddoor_R_rotS", "vp_hddoor_R_rotE" ],
+    "fg": [ "vp_hddoor_full_R_rotN", "vp_hddoor_full_R_rotW", "vp_hddoor_full_R_rotS", "vp_hddoor_full_R_rotE" ],
     "bg": [  ],
     "rotates": true,
     "multitile": true,
@@ -33,7 +33,7 @@
       {
         "id": "broken",
         "fg": [ "broken_overlay_tear_LrotS", "broken_overlay_tear", "broken_overlay_tear_LrotN", "broken_overlay_tear_LrotW" ],
-        "bg": [ "vp_hddoor_R_rotN", "vp_hddoor_R_rotW", "vp_hddoor_R_rotS", "vp_hddoor_R_rotE" ]
+        "bg": [ "vp_hddoor_full_R_rotN", "vp_hddoor_full_R_rotW", "vp_hddoor_full_R_rotS", "vp_hddoor_full_R_rotE" ]
       }
     ]
   },
