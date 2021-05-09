@@ -1,0 +1,6 @@
+[
+    { "id": ["300blk", "300blk_ss", "bp_300blk", "reloaded_300blk"], "fg": "300blk", "bg": [], "rotates": false },
+	{ "id": ["300blk_season_autumn", "300blk_ss_season_autumn", "bp_300blk_season_autumn", "reloaded_300blk_season_autumn"], "fg": "300blk_autumn", "bg": [], "rotates": false },
+	{ "id": ["300blk_season_winter", "300blk_ss_season_winter", "bp_300blk_season_winter", "reloaded_300blk_season_winter"], "fg": "300blk_winter", "bg": [], "rotates": false },
+	{ "id": ["300blk_season_summer", "300blk_ss_season_summer", "bp_300blk_season_summer", "reloaded_300blk_season_summer"], "fg": "300blk_summer", "bg": [], "rotates": false }
+]

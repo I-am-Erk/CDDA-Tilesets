@@ -1,0 +1,6 @@
+[
+    { "id": ["410shot_000", "reloaded_410shot_000"], "fg": "410shot_000", "bg": [], "rotates": false },
+	{ "id": ["410shot_000_season_autumn", "reloaded_410shot_000_season_autumn"], "fg": "410shot_000_autumn", "bg": [], "rotates": false },
+	{ "id": ["410shot_000_season_winter", "reloaded_410shot_000_season_winter"], "fg": "410shot_000_winter", "bg": [], "rotates": false },
+	{ "id": ["410shot_000_season_summer", "reloaded_410shot_000_season_summer"], "fg": "410shot_000_summer", "bg": [], "rotates": false }
+]

@@ -1,0 +1,6 @@
+[
+    { "id": ["545", "reloaded_545_ap", "reloaded_545", "545_ap"], "fg": "545", "bg": [], "rotates": false },
+	{ "id": ["545_season_autumn", "reloaded_545_ap_season_autumn", "reloaded_545_season_autumn", "545_ap_season_autumn"], "fg": "545_autumn", "bg": [], "rotates": false },
+	{ "id": ["545_season_winter", "reloaded_545_ap_season_winter", "reloaded_545_season_winter", "545_ap_season_winter"], "fg": "545_winter", "bg": [], "rotates": false },
+	{ "id": ["545_season_summer", "reloaded_545_ap_season_summer", "reloaded_545_season_summer", "545_ap_season_summer"], "fg": "545_summer", "bg": [], "rotates": false }
+]

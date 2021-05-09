@@ -1,0 +1,6 @@
+[
+    { "id": ["50bmg", "reloaded_50ss", "reloaded_50_incendiary", "reloaded_50bmg", "50ss", "50_incendiary", "50_mk211", "50match"], "fg": "50bmg", "bg": [], "rotates": false },
+	{ "id": ["50bmg_season_autumn", "reloaded_50ss_season_autumn", "reloaded_50_incendiary_season_autumn", "reloaded_50bmg_season_autumn", "50ss_season_autumn", "50_incendiary_season_autumn", "50_mk211_season_autumn", "50match_season_autumn"], "fg": "50bmg_autumn", "bg": [], "rotates": false },
+	{ "id": ["50bmg_season_winter", "reloaded_50ss_season_winter", "reloaded_50_incendiary_season_winter", "reloaded_50bmg_season_winter", "50ss_season_winter", "50_incendiary_season_winter", "50_mk211_season_winter", "50match_season_winter"], "fg": "50bmg_winter", "bg": [], "rotates": false },
+	{ "id": ["50bmg_season_summer", "reloaded_50ss_season_summer", "reloaded_50_incendiary_season_summer", "reloaded_50bmg_season_summer", "50ss_season_summer", "50_incendiary_season_summer", "50_mk211_season_summer", "50match_season_summer"], "fg": "50bmg_summer", "bg": [], "rotates": false }
+]

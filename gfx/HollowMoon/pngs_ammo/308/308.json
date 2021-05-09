@@ -1,0 +1,6 @@
+[
+    { "id": ["308", "762_51_incendiary", "762_51", "reloaded_308", "reloaded_762_51_incendiary", "reloaded_762_51", "bp_308", "bp_762_51_incendiary", "bp_762_51"], "fg": "308", "bg": [], "rotates": false },
+	{ "id": ["308_season_autumn", "762_51_incendiary_season_autumn", "762_51_season_autumn", "reloaded_308_season_autumn", "reloaded_762_51_incendiary_season_autumn", "reloaded_762_51_season_autumn", "bp_308_season_autumn", "bp_762_51_incendiary_season_autumn", "bp_762_51_season_autumn"], "fg": "308_autumn", "bg": [], "rotates": false },
+	{ "id": ["308_season_winter", "762_51_incendiary_season_winter", "762_51_season_winter", "reloaded_308_season_winter", "reloaded_762_51_incendiary_season_winter", "reloaded_762_51_season_winter", "bp_308_season_winter", "bp_762_51_incendiary_season_winter", "bp_762_51_season_winter"], "fg": "308_winter", "bg": [], "rotates": false },
+	{ "id": ["308_season_summer", "762_51_incendiary_season_summer", "762_51_season_summer", "reloaded_308_season_summer", "reloaded_762_51_incendiary_season_summer", "reloaded_762_51_season_summer", "bp_308_season_summer", "bp_762_51_incendiary_season_summer", "bp_762_51_season_summer"], "fg": "308_summer", "bg": [], "rotates": false }
+]

@@ -1,0 +1,6 @@
+[
+    { "id": ["762_m87", "reloaded_762_m43", "reloaded_762_m87", "762_m43"], "fg": "762_m87", "bg": [], "rotates": false },
+	{ "id": ["762_m87_season_autumn", "reloaded_762_m43_season_autumn", "reloaded_762_m87_season_autumn", "762_m43_season_autumn"], "fg": "762_m87_autumn", "bg": [], "rotates": false },
+	{ "id": ["762_m87_season_winter", "reloaded_762_m43_season_winter", "reloaded_762_m87_season_winter", "762_m43_season_winter"], "fg": "762_m87_winter", "bg": [], "rotates": false },
+	{ "id": ["762_m87_season_summer", "reloaded_762_m43_season_summer", "reloaded_762_m87_season_summer", "762_m43_season_summer"], "fg": "762_m87_summer", "bg": [], "rotates": false }
+]

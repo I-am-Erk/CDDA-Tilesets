@@ -1,0 +1,6 @@
+[
+    { "id": ["shotcanister_bearing", "shotcanister_scrap", "shotcanister_pebble", "shotcanister_flechette"], "fg": "shotcanister_bearing", "bg": [], "rotates": false },
+	{ "id": ["shotcanister_bearing_season_autumn", "shotcanister_scrap_season_autumn", "shotcanister_pebble_season_autumn", "shotcanister_flechette_season_autumn"], "fg": "shotcanister_bearing_autumn", "bg": [], "rotates": false },
+	{ "id": ["shotcanister_bearing_season_winter", "shotcanister_scrap_season_winter", "shotcanister_pebble_season_winter", "shotcanister_flechette_season_winter"], "fg": "shotcanister_bearing_winter", "bg": [], "rotates": false },
+	{ "id": ["shotcanister_bearing_season_summer", "shotcanister_scrap_season_summer", "shotcanister_pebble_season_summer", "shotcanister_flechette_season_summer"], "fg": "shotcanister_bearing_summer", "bg": [], "rotates": false }
+]
