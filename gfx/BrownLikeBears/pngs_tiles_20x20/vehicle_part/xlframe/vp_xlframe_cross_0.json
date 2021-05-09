@@ -1,1 +1,17 @@
-{"id": "vp_xlframe_cross", "fg": ["398_vp_frame_cross_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["443_vp_xlframe_vertical_1"], "bg": []}], "bg": []}
+{
+  "id": [
+    "vp_xlframe_cross",
+    "vp_xlframe"
+  ],
+  "fg": [
+    "vp_xlframe_cross"
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "broken", "fg": [ "broken_xlframe_overlay" ], "bg": [ "vp_xlframe_cross" ] }
+  ],
+  "bg": [
+    
+  ]
+}

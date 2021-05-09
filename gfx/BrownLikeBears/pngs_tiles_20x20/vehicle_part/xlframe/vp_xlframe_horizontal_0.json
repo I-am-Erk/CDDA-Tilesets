@@ -4,7 +4,7 @@
     "fg": [ "641_vp_xlframe_horizontal_0" ],
     "rotates": true,
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": [ "443_vp_xlframe_vertical_1" ], "bg": [  ] } ],
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_xlframe_overlay" ], "bg": [ "641_vp_xlframe_horizontal_0" ] } ],
     "bg": [  ]
   },
   {
@@ -12,7 +12,7 @@
     "fg": [ "641_vp_xlframe_horizontal_0" ],
     "rotates": true,
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": [ "443_vp_xlframe_vertical_1" ], "bg": [  ] } ],
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_xlframe_overlay" ], "bg": [ "641_vp_xlframe_horizontal_0" ] } ],
     "bg": [  ]
   },
   {
@@ -20,7 +20,7 @@
     "fg": [ "641_vp_xlframe_horizontal_0" ],
     "rotates": true,
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": [ "443_vp_xlframe_vertical_1" ], "bg": [  ] } ],
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_xlframe_overlay" ], "bg": [ "641_vp_xlframe_horizontal_0" ] } ],
     "bg": [  ]
   }
 ]

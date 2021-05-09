@@ -1,1 +1,14 @@
-{"id": "vp_xlframe_sw", "fg": ["543_t_window_bars_alarm_3"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["443_vp_xlframe_vertical_1"], "bg": []}], "bg": []}
+{
+  "id": "vp_xlframe_sw",
+  "fg": [
+    "vp_xlframe_sw"
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "broken", "fg": [ "443_vp_xlframe_vertical_1" ], "bg": [  ] }
+  ],
+  "bg": [
+    
+  ]
+}

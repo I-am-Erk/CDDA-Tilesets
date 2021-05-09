@@ -1,7 +1,7 @@
 [
   {
     "id": "vp_xlframe_vertical_2",
-    "fg": [ "543_t_window_bars_alarm_3" ],
+    "fg": [ "443_vp_xlframe_vertical_1" ],
     "rotates": true,
     "multitile": true,
     "additional_tiles": [ { "id": "broken", "fg": [ "443_vp_xlframe_vertical_1" ], "bg": [  ] } ],
@@ -9,7 +9,7 @@
   },
   {
     "id": "vp_xlframe_vertical_2_left",
-    "fg": [ "543_t_window_bars_alarm_3" ],
+    "fg": [ "443_vp_xlframe_vertical_1" ],
     "rotates": true,
     "multitile": true,
     "additional_tiles": [ { "id": "broken", "fg": [ "443_vp_xlframe_vertical_1" ], "bg": [  ] } ],
@@ -17,7 +17,7 @@
   },
   {
     "id": "vp_xlframe_vertical_2_right",
-    "fg": [ "543_t_window_bars_alarm_3" ],
+    "fg": [ "443_vp_xlframe_vertical_1" ],
     "rotates": true,
     "multitile": true,
     "additional_tiles": [ { "id": "broken", "fg": [ "443_vp_xlframe_vertical_1" ], "bg": [  ] } ],
