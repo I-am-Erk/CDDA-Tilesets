@@ -1,0 +1,6 @@
+[
+    { "id": ["mon_dispatch", "mon_dispatch_military"], "fg": "mon_dispatch", "bg": [], "rotates": false },
+	{ "id": ["mon_dispatch_season_autumn", "mon_dispatch_military_season_autumn"], "fg": "mon_dispatch_autumn", "bg": [], "rotates": false },
+	{ "id": ["mon_dispatch_season_winter", "mon_dispatch_military_season_winter"], "fg": "mon_dispatch_winter", "bg": [], "rotates": false },
+	{ "id": ["mon_dispatch_season_summer", "mon_dispatch_military_season_summer"], "fg": "mon_dispatch_summer", "bg": [], "rotates": false }
+]
