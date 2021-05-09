@@ -1,0 +1,6 @@
+[
+    { "id": "rifle_flintlock", "fg": "rifle_flintlock", "bg": [], "rotates": false },
+	{ "id": "rifle_flintlock_season_autumn", "fg": "rifle_flintlock_autumn", "bg": [], "rotates": false },
+	{ "id": "rifle_flintlock_season_winter", "fg": "rifle_flintlock_winter", "bg": [], "rotates": false },
+	{ "id": "rifle_flintlock_season_summer", "fg": "rifle_flintlock_summer", "bg": [], "rotates": false }
+]

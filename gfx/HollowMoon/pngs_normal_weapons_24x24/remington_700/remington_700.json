@@ -1,0 +1,6 @@
+[
+    { "id": ["remington_700", "weatherby_5"], "fg": "remington_700", "bg": [], "rotates": false },
+	{ "id": ["remington_700_season_autumn", "weatherby_5_season_autumn"], "fg": "remington_700_autumn", "bg": [], "rotates": false },
+	{ "id": ["remington_700_season_winter", "weatherby_5_season_winter"], "fg": "remington_700_winter", "bg": [], "rotates": false },
+	{ "id": ["remington_700_season_summer", "weatherby_5_season_summer"], "fg": "remington_700_summer", "bg": [], "rotates": false }
+]

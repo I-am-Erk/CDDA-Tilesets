@@ -1,0 +1,6 @@
+[
+    { "id": "hk_g36", "fg": "hk_g36", "bg": [], "rotates": false },
+	{ "id": "hk_g36_season_autumn", "fg": "hk_g36_autumn", "bg": [], "rotates": false },
+	{ "id": "hk_g36_season_winter", "fg": "hk_g36_winter", "bg": [], "rotates": false },
+	{ "id": "hk_g36_season_summer", "fg": "hk_g36_summer", "bg": [], "rotates": false }
+]

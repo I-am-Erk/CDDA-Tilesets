@@ -1,0 +1,6 @@
+[
+    { "id": ["usp_9mm", "usp_45"], "fg": "usp_9mm", "bg": [], "rotates": false },
+	{ "id": ["usp_9mm_season_autumn", "usp_45_season_autumn"], "fg": "usp_9mm_autumn", "bg": [], "rotates": false },
+	{ "id": ["usp_9mm_season_winter", "usp_45_season_winter"], "fg": "usp_9mm_winter", "bg": [], "rotates": false },
+	{ "id": ["usp_9mm_season_summer", "usp_45_season_summer"], "fg": "usp_9mm_summer", "bg": [], "rotates": false }
+]

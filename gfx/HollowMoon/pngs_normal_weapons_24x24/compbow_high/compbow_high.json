@@ -1,0 +1,6 @@
+[
+    { "id": ["compbow_high", "compbow_low"], "fg": "compbow_high", "bg": [], "rotates": false },
+	{ "id": ["compbow_high_season_autumn", "compbow_low_season_autumn"], "fg": "compbow_high_autumn", "bg": [], "rotates": false },
+	{ "id": ["compbow_high_season_winter", "compbow_low_season_winter"], "fg": "compbow_high_winter", "bg": [], "rotates": false },
+	{ "id": ["compbow_high_season_summer", "compbow_low_season_summer"], "fg": "compbow_high_summer", "bg": [], "rotates": false }
+]

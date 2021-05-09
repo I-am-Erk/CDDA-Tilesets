@@ -1,0 +1,6 @@
+[
+    { "id": "m4a1", "fg": "m4a1", "bg": [], "rotates": false },
+	{ "id": "m4a1_season_autumn", "fg": "m4a1_autumn", "bg": [], "rotates": false },
+	{ "id": "m4a1_season_winter", "fg": "m4a1_winter", "bg": [], "rotates": false },
+	{ "id": "m4a1_season_summer", "fg": "m4a1_summer", "bg": [], "rotates": false }
+]
