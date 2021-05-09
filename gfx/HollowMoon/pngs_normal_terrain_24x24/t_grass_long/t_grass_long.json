@@ -1,0 +1,38 @@
+[
+  {"id": "t_grass_long",
+  "fg": [
+        { "weight": 2, "sprite": "t_grass_long_0"},
+        { "weight": 4, "sprite": "t_grass_long_1"},
+        { "weight": 1, "sprite": "t_grass_long_2"},
+		{ "weight": 1, "sprite": "t_grass_long_3"}
+  ],
+  "bg": []
+  },
+  {"id": "t_grass_long_season_autumn",
+  "fg": [
+        { "weight": 2, "sprite": "t_grass_long_autumn_0"},
+        { "weight": 4, "sprite": "t_grass_long_autumn_1"},
+        { "weight": 1, "sprite": "t_grass_long_autumn_2"},
+		{ "weight": 1, "sprite": "t_grass_long_autumn_3"}
+  ],
+  "bg": []
+  },
+  {"id": "t_grass_long_season_winter",
+  "fg": [
+        { "weight": 2, "sprite": "t_grass_long_winter_0"},
+        { "weight": 4, "sprite": "t_grass_long_winter_1"},
+        { "weight": 1, "sprite": "t_grass_long_winter_2"},
+		{ "weight": 1, "sprite": "t_grass_long_winter_3"}
+  ],
+  "bg": []
+  },
+  {"id": "t_grass_long_season_summer",
+  "fg": [
+        { "weight": 2, "sprite": "t_grass_long_summer_0"},
+        { "weight": 4, "sprite": "t_grass_long_summer_1"},
+        { "weight": 1, "sprite": "t_grass_long_summer_2"},
+		{ "weight": 1, "sprite": "t_grass_long_summer_3"}
+  ],
+  "bg": []
+  }
+]
