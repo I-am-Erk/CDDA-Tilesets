@@ -1,0 +1,14 @@
+{
+  "id": "vp_washing_machine",
+  "fg": [
+    "vp_washing_machine"
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "broken", "fg": [ "vp_washing_machine_broken" ], "bg": [  ] }
+  ],
+  "bg": [
+    
+  ]
+}
