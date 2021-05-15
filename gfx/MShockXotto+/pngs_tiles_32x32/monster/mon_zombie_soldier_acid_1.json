@@ -3,8 +3,6 @@
   "fg": [
     "mon_zombie_soldier_acid_1"
   ],
-  "bg": [
-    ""
-  ],
+  "bg": ["shadow_32x32_normal"],
   "rotates": false
 }

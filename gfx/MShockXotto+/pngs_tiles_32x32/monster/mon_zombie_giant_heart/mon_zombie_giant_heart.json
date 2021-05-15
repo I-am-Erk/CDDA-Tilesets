@@ -8,7 +8,5 @@
     { "weight": 15, "sprite": "mon_zombie_giant_heart_2" }
   ],
   "rotates": false,
-  "bg": [
-    
-  ]
+  "bg": ["shadow_32x32_normal"]
 }

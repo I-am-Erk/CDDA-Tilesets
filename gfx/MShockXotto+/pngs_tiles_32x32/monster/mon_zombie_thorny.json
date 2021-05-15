@@ -4,7 +4,5 @@
     "mon_zombie_thorny"
   ],
   "rotates": false,
-  "bg": [
-    
-  ]
+  "bg": ["shadow_32x32_normal"]
 }
