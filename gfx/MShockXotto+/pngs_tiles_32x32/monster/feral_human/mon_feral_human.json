@@ -11,7 +11,7 @@
       { "weight": 1, "sprite": "mon_feral_human_crowbar_6" },
       { "weight": 1, "sprite": "mon_feral_human_crowbar_7" }
     ],
-    "bg": [  ]
+  "bg": ["shadow_32x32_normal"]
   },
   {
     "id": "mon_feral_human_pipe",
@@ -25,7 +25,7 @@
       { "weight": 1, "sprite": "mon_feral_human_pipe_6" },
       { "weight": 1, "sprite": "mon_feral_human_pipe_7" }
     ],
-    "bg": [  ]
+  "bg": ["shadow_32x32_normal"]
   },
   {
     "id": "mon_feral_human_axe",
@@ -39,6 +39,6 @@
       { "weight": 1, "sprite": "mon_feral_human_axe_6" },
       { "weight": 1, "sprite": "mon_feral_human_axe_7" }
     ],
-    "bg": [  ]
+  "bg": ["shadow_32x32_normal"]
   }
 ]

@@ -11,8 +11,6 @@
     { "weight": 1, "sprite": "mon_zombie_grabber_8" },
     { "weight": 1, "sprite": "mon_zombie_grabber_9" }
   ],
-  "bg": [
-    ""
-  ],
+  "bg": ["shadow_32x32_normal"],
   "rotates": false
 }

@@ -3,8 +3,6 @@
   "fg": [
     "mon_zombie_wretched"
   ],
-  "bg": [
-    ""
-  ],
+  "bg": ["shadow_32x32_normal"],
   "rotates": false
 }
