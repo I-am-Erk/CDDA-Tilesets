@@ -1,0 +1,34 @@
+[
+  {
+    "id": "vp_small_civilian_rotors",
+    "fg": [ "vp_small_civilian_rotors" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "vp_small_civilian_rotors_broken" ], "bg": [  ] } ],
+    "bg": [  ]
+  },
+  {
+    "id": "vp_heavy_duty_military_rotor",
+    "fg": [ "vp_heavy_duty_military_rotor" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "vp_heavy_duty_military_rotor_broken" ], "bg": [  ] } ],
+    "bg": [  ]
+  },
+  {
+    "id": "vp_heavy_duty_military_osprey_rotors",
+    "fg": [ "vp_heavy_duty_military_osprey_rotors" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "vp_heavy_duty_military_osprey_rotors_broken" ], "bg": [  ] } ],
+    "bg": [  ]
+  },
+  {
+    "id": "vp_heavy_duty_military_blackhawk_rotors",
+    "fg": [ "vp_heavy_duty_military_blackhawk_rotors" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "vp_heavy_duty_military_blackhawk_rotors_broken" ], "bg": [  ] } ],
+    "bg": [  ]
+  }
+]

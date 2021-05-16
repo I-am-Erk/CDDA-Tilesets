@@ -1,0 +1,26 @@
+[
+  {
+    "id": [ "vp_seed_drill" ],
+    "fg": [ "vp_seed_drill_N", "vp_seed_drill_W", "vp_seed_drill_S", "vp_seed_drill_E" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "vp_seed_drill_N_broken", "vp_seed_drill_W_broken", "vp_seed_drill_S_broken", "vp_seed_drill_E_broken" ],
+        "bg": ""
+      }
+    ]
+  },
+  {
+    "id": [ "vp_seed_drill_advanced" ],
+    "fg": [ "vp_seed_drill_advanced_N", "vp_seed_drill_advanced_W", "vp_seed_drill_advanced_S", "vp_seed_drill_advanced_E" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "vp_seed_drill_advanced_N_broken", "vp_seed_drill_advanced_W_broken", "vp_seed_drill_advanced_S_broken", "vp_seed_drill_advanced_E_broken" ],
+        "bg": ""
+      }
+    ]
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": [
+      "vp_mounted_browning",
+      "vp_mounted_mk19",
+      "vp_mounted_abzats",
+      "vp_m249",
+      "vp_m249_semi",
+      "vp_mounted_m1918",
+      "vp_mounted_rm298",
+      "vp_mounted_rm614",
+      "vp_mounted_m240",
+      "vp_mounted_m60",
+      "vp_mounted_m60_semi"
+    ],
+    "//": "rifles and machineguns",
+    "fg": "machinegun_mounted",
+    "bg": "",
+    "multitile": true,
+    "rotates": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "machinegun_mounted_broken" ], "bg": [ "" ] } ]
+  },
+  {
+    "id": [ "vp_mounted_emp_gun", "vp_mounted_plasma_gun", "vp_plasma_gun", "vp_laser_rifle" ],
+    "//": "energy weapons",
+    "fg": "energy_mounted",
+    "bg": "",
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "energy_mounted_broken", "bg": "" } ]
+  },
+  {
+    "id": [ "vp_mounted_hk_g80", "vp_mounted_coilgun" ],
+    "//": "railguns",
+    "fg": "railgun_mounted",
+    "bg": "",
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "railgun_mounted_broken", "bg": "" } ]
+  },
+  {
+    "id": [ "vp_mounted_bigun", "vp_mounted_m134" ],
+    "//": "multibarrel weapons",
+    "fg": "multibarrel_mounted",
+    "bg": "",
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "", "bg": "multibarrel_mounted_broken" } ]
+  },
+  {
+    "id": [ "vp_flamethrower", "vp_mounted_chemical_thrower" ],
+    "//": "liquid sprayers",
+    "fg": "liquid_sprayer_mounted",
+    "bg": "",
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "liquid_sprayer_mounted_broken", "bg": "" } ]
+  },
+  {
+    "id": [ "vp_tow_launcher" ],
+    "//": "rocket tubes",
+    "fg": "rocket_mounted",
+    "bg": "",
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "rocket_mounted_broken", "bg": "" } ]
+  }
+]
