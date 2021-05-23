@@ -1,5 +1,5 @@
 [
-  {"id": ["highlight", "line_target", "line_trail", "cursor"],
+  {"id": ["highlight", "line_target", "line_trail"],
   "fg": [
         { "weight": 1, "sprite": "line_trail"}
   ],

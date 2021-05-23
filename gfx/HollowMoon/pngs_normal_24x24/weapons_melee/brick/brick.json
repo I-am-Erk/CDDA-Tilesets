@@ -1,6 +1,6 @@
 [
-    { "id": ["brick", "fire_brick", "adobe_brick"], "fg": "brick", "bg": [], "rotates": false },
-	{ "id": ["brick_season_autumn", "fire_brick_season_autumn", "adobe_brick_season_autumn"], "fg": "brick_autumn", "bg": [], "rotates": false },
-	{ "id": ["brick_season_winter", "fire_brick_season_winter", "adobe_brick_season_winter"], "fg": "brick_winter", "bg": [], "rotates": false },
-	{ "id": ["brick_season_summer", "fire_brick_season_summer", "adobe_brick_season_summer"], "fg": "brick_summer", "bg": [], "rotates": false }
+    { "id": ["brick", "fire_brick"], "fg": "brick", "bg": [], "rotates": false },
+	{ "id": ["brick_season_autumn", "fire_brick_season_autumn"], "fg": "brick_autumn", "bg": [], "rotates": false },
+	{ "id": ["brick_season_winter", "fire_brick_season_winter"], "fg": "brick_winter", "bg": [], "rotates": false },
+	{ "id": ["brick_season_summer", "fire_brick_season_summer"], "fg": "brick_summer", "bg": [], "rotates": false }
 ]
