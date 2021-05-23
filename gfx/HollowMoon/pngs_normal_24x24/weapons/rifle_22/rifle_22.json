@@ -1,0 +1,53 @@
+[
+  {
+    "id": [ "rifle_22", "rifle_22", "rifle_45", "rifle_40", "rifle_38", "rifle_44", "rifle_3006", "rifle_308", "rifle_9mm" ],
+    "fg": "rifle_22",
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": [
+      "rifle_22_season_autumn",
+      "rifle_45_season_autumn",
+      "rifle_40_season_autumn",
+      "rifle_38_season_autumn",
+      "rifle_44_season_autumn",
+      "rifle_3006_season_autumn",
+      "rifle_308_season_autumn",
+      "rifle_9mm_season_autumn"
+    ],
+    "fg": "rifle_22_autumn",
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": [
+      "rifle_22_season_winter",
+      "rifle_45_season_winter",
+      "rifle_40_season_winter",
+      "rifle_38_season_winter",
+      "rifle_44_season_winter",
+      "rifle_3006_season_winter",
+      "rifle_308_season_winter",
+      "rifle_9mm_season_winter"
+    ],
+    "fg": "rifle_22_winter",
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": [
+      "rifle_22_season_summer",
+      "rifle_45_season_summer",
+      "rifle_40_season_summer",
+      "rifle_38_season_summer",
+      "rifle_44_season_summer",
+      "rifle_3006_season_summer",
+      "rifle_308_season_summer",
+      "rifle_9mm_season_summer"
+    ],
+    "fg": "rifle_22_summer",
+    "bg": [  ],
+    "rotates": false
+  }
+]

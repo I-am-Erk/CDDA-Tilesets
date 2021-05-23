@@ -1,0 +1,6 @@
+[
+    { "id": ["briefcase", "briefcase_smg", "hk_briefcase"], "fg": "briefcase", "bg": [], "rotates": false },
+	{ "id": ["briefcase_season_autumn", "briefcase_smg_season_autumn", "hk_briefcase_season_autumn"], "fg": "briefcase_autumn", "bg": [], "rotates": false },
+	{ "id": ["briefcase_season_winter", "briefcase_smg_season_winter", "hk_briefcase_season_winter"], "fg": "briefcase_winter", "bg": [], "rotates": false },
+	{ "id": ["briefcase_season_summer", "briefcase_smg_season_summer", "hk_briefcase_season_summer"], "fg": "briefcase_summer", "bg": [], "rotates": false }
+]

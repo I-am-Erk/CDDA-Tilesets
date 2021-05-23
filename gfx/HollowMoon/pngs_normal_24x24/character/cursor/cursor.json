@@ -1,0 +1,18 @@
+[
+  {"id": "cursor",
+  "fg": "cursor",
+  "bg": []
+  },
+  {"id": "cursor_season_autumn",
+  "fg": "cursor_autumn",
+  "bg": []
+  },
+  {"id": "cursor_season_winter",
+  "fg": "cursor_winter",
+  "bg": []
+  },
+  {"id": "cursor_season_summer",
+  "fg": "cursor_summer",
+  "bg": []
+  }
+]

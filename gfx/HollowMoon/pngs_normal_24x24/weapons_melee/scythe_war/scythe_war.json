@@ -1,0 +1,6 @@
+[
+    { "id": ["scythe_war", "makeshift_scythe_war"], "fg": "scythe_war", "bg": [], "rotates": false },
+	{ "id": ["scythe_war_season_autumn", "makeshift_scythe_war_season_autumn"], "fg": "scythe_war_autumn", "bg": [], "rotates": false },
+	{ "id": ["scythe_war_season_winter", "makeshift_scythe_war_season_winter"], "fg": "scythe_war_winter", "bg": [], "rotates": false },
+	{ "id": ["scythe_war_season_summer", "makeshift_scythe_war_season_summer"], "fg": "scythe_war_summer", "bg": [], "rotates": false }
+]

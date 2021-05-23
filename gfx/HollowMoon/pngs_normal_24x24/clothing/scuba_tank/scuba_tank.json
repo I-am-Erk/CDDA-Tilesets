@@ -1,0 +1,6 @@
+[
+    { "id": ["scuba_tank", "scuba_tank_on"], "fg": "scuba_tank", "bg": [], "rotates": false },
+	{ "id": ["scuba_tank_season_autumn", "scuba_tank_on_season_autumn"], "fg": "scuba_tank_autumn", "bg": [], "rotates": false },
+	{ "id": ["scuba_tank_season_winter", "scuba_tank_on_season_winter"], "fg": "scuba_tank_winter", "bg": [], "rotates": false },
+	{ "id": ["scuba_tank_season_summer", "scuba_tank_on_season_summer"], "fg": "scuba_tank_summer", "bg": [], "rotates": false }
+]

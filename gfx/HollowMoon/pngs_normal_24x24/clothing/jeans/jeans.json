@@ -1,0 +1,7 @@
+[
+    { "id": ["jeans", "jeans_red"], "fg": "jeans", "bg": [], "rotates": false },
+	{ "id": ["jeans_season_autumn", "jeans_red_season_autumn"], "fg": "jeans_autumn", "bg": [], "rotates": false },
+	{ "id": ["jeans_season_winter", "jeans_red_season_winter"], "fg": "jeans_winter", "bg": [], "rotates": false },
+	{ "id": ["jeans_season_summer", "jeans_red_season_summer"], "fg": "jeans_summer", "bg": [], "rotates": false }
+]: false }
+]

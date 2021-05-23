@@ -1,0 +1,6 @@
+[
+    { "id": ["judo_belt_black", "judo_belt_brown", "judo_belt_green", "judo_belt_blue", "judo_belt_orange", "judo_belt_yellow", "judo_belt_white"], "fg": "judo_belt_black", "bg": [], "rotates": false },
+	{ "id": ["judo_belt_black_season_autumn", "judo_belt_brown_season_autumn", "judo_belt_green_season_autumn", "judo_belt_blue_season_autumn", "judo_belt_orange_season_autumn", "judo_belt_yellow_season_autumn", "judo_belt_white_season_autumn"], "fg": "judo_belt_black_autumn", "bg": [], "rotates": false },
+	{ "id": ["judo_belt_black_season_winter", "judo_belt_brown_season_winter", "judo_belt_green_season_winter", "judo_belt_blue_season_winter", "judo_belt_orange_season_winter", "judo_belt_yellow_season_winter", "judo_belt_white_season_winter"], "fg": "judo_belt_black_winter", "bg": [], "rotates": false },
+	{ "id": ["judo_belt_black_season_summer", "judo_belt_brown_season_summer", "judo_belt_green_season_summer", "judo_belt_blue_season_summer", "judo_belt_orange_season_summer", "judo_belt_yellow_season_summer", "judo_belt_white_season_summer"], "fg": "judo_belt_black_summer", "bg": [], "rotates": false }
+]

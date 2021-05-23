@@ -1,0 +1,6 @@
+[
+    { "id": ["acog_scope", "acog_scope_mod"], "fg": "acog_scope", "bg": [], "rotates": false },
+	{ "id": ["acog_scope_season_autumn", "acog_scope_mod_season_autumn"], "fg": "acog_scope_autumn", "bg": [], "rotates": false },
+	{ "id": ["acog_scope_season_winter", "acog_scope_mod_season_winter"], "fg": "acog_scope_winter", "bg": [], "rotates": false },
+	{ "id": ["acog_scope_season_summer", "acog_scope_mod_season_summer"], "fg": "acog_scope_summer", "bg": [], "rotates": false }
+]

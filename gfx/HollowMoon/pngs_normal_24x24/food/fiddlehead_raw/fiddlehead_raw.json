@@ -1,0 +1,6 @@
+[
+    { "id": ["fiddlehead_raw", "fiddlehead_sauteed", "fiddlehead_boiled"], "fg": "fiddlehead_raw", "bg": [], "rotates": false },
+	{ "id": ["fiddlehead_raw_season_autumn", "fiddlehead_sauteed_season_autumn", "fiddlehead_boiled_season_autumn"], "fg": "fiddlehead_raw_autumn", "bg": [], "rotates": false },
+	{ "id": ["fiddlehead_raw_season_winter", "fiddlehead_sauteed_season_winter", "fiddlehead_boiled_season_winter"], "fg": "fiddlehead_raw_winter", "bg": [], "rotates": false },
+	{ "id": ["fiddlehead_raw_season_summer", "fiddlehead_sauteed_season_summer", "fiddlehead_boiled_season_summer"], "fg": "fiddlehead_raw_summer", "bg": [], "rotates": false }
+]

@@ -1,0 +1,6 @@
+[
+    { "id": "umbrella", "fg": "umbrella", "bg": [], "rotates": false },
+	{ "id": "umbrella_season_autumn", "fg": "umbrella_autumn", "bg": [], "rotates": false },
+	{ "id": "umbrella_season_winter", "fg": "umbrella_winter", "bg": [], "rotates": false },
+	{ "id": "umbrella_season_summer", "fg": "umbrella_summer", "bg": [], "rotates": false }
+]

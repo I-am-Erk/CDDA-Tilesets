@@ -1,0 +1,6 @@
+[
+    { "id": ["8mm_caseless", "8mm_jhp", "8mm_hvp", "8mm_bootleg", "8mm_inc", "8mm_fmj", "8mm_civilian"], "fg": "8mm_caseless", "bg": [], "rotates": false },
+	{ "id": ["8mm_caseless_season_autumn", "8mm_jhp_season_autumn", "8mm_hvp_season_autumn", "8mm_bootleg_season_autumn", "8mm_inc_season_autumn", "8mm_fmj_season_autumn", "8mm_civilian_season_autumn"], "fg": "8mm_caseless_autumn", "bg": [], "rotates": false },
+	{ "id": ["8mm_caseless_season_winter", "8mm_jhp_season_winter", "8mm_hvp_season_winter", "8mm_bootleg_season_winter", "8mm_inc_season_winter", "8mm_fmj_season_winter", "8mm_civilian_season_winter"], "fg": "8mm_caseless_winter", "bg": [], "rotates": false },
+	{ "id": ["8mm_caseless_season_summer", "8mm_jhp_season_summer", "8mm_hvp_season_summer", "8mm_bootleg_season_summer", "8mm_inc_season_summer", "8mm_fmj_season_summer", "8mm_civilian_season_summer"], "fg": "8mm_caseless_summer", "bg": [], "rotates": false }
+]

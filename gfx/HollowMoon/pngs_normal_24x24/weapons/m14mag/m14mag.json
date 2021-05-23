@@ -1,0 +1,6 @@
+[
+    { "id": "m14mag", "fg": "m14mag", "bg": [], "rotates": false },
+	{ "id": "m14mag_season_autumn", "fg": "m14mag_autumn", "bg": [], "rotates": false },
+	{ "id": "m14mag_season_winter", "fg": "m14mag_winter", "bg": [], "rotates": false },
+	{ "id": "m14mag_season_summer", "fg": "m14mag_summer", "bg": [], "rotates": false }
+]

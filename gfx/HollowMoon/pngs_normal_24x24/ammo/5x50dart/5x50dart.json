@@ -1,0 +1,6 @@
+[
+    { "id": ["5x50dart", "reloaded_5x50dart", "5x50heavy"], "fg": "5x50dart", "bg": [], "rotates": false },
+	{ "id": ["5x50dart_season_autumn", "reloaded_5x50dart_season_autumn", "5x50heavy_season_autumn"], "fg": "5x50dart_autumn", "bg": [], "rotates": false },
+	{ "id": ["5x50dart_season_winter", "reloaded_5x50dart_season_winter", "5x50heavy_season_winter"], "fg": "5x50dart_winter", "bg": [], "rotates": false },
+	{ "id": ["5x50dart_season_summer", "reloaded_5x50dart_season_summer", "5x50heavy_season_summer"], "fg": "5x50dart_summer", "bg": [], "rotates": false }
+]

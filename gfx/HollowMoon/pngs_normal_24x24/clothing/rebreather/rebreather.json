@@ -1,0 +1,6 @@
+[
+    { "id": ["rebreather", "rebreather_xl_on", "rebreather_xl", "rebreather_on"], "fg": "rebreather", "bg": [], "rotates": false },
+	{ "id": ["rebreather_season_autumn", "rebreather_xl_on_season_autumn", "rebreather_xl_season_autumn", "rebreather_on_season_autumn"], "fg": "rebreather_autumn", "bg": [], "rotates": false },
+	{ "id": ["rebreather_season_winter", "rebreather_xl_on_season_winter", "rebreather_xl_season_winter", "rebreather_on_season_winter"], "fg": "rebreather_winter", "bg": [], "rotates": false },
+	{ "id": ["rebreather_season_summer", "rebreather_xl_on_season_summer", "rebreather_xl_season_summer", "rebreather_on_season_summer"], "fg": "rebreather_summer", "bg": [], "rotates": false }
+]

@@ -1,0 +1,6 @@
+[
+    { "id": ["chainsaw_on", "elec_chainsaw_off", "elec_chainsaw_on", "chainsaw_off"], "fg": "chainsaw_on", "bg": [], "rotates": false },
+	{ "id": ["chainsaw_on_season_autumn", "elec_chainsaw_off_season_autumn", "elec_chainsaw_on_season_autumn", "chainsaw_off_season_autumn"], "fg": "chainsaw_on_autumn", "bg": [], "rotates": false },
+	{ "id": ["chainsaw_on_season_winter", "elec_chainsaw_off_season_winter", "elec_chainsaw_on_season_winter", "chainsaw_off_season_winter"], "fg": "chainsaw_on_winter", "bg": [], "rotates": false },
+	{ "id": ["chainsaw_on_season_summer", "elec_chainsaw_off_season_summer", "elec_chainsaw_on_season_summer", "chainsaw_off_season_summer"], "fg": "chainsaw_on_summer", "bg": [], "rotates": false }
+]

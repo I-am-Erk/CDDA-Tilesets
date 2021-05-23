@@ -1,0 +1,6 @@
+[
+    { "id": "waterskin3", "fg": "waterskin3", "bg": [], "rotates": false },
+	{ "id": "waterskin3_season_autumn", "fg": "waterskin3_autumn", "bg": [], "rotates": false },
+	{ "id": "waterskin3_season_winter", "fg": "waterskin3_winter", "bg": [], "rotates": false },
+	{ "id": "waterskin3_season_summer", "fg": "waterskin3_summer", "bg": [], "rotates": false }
+]

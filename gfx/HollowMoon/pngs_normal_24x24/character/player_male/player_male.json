@@ -1,0 +1,6 @@
+[
+    { "id": "player_male", "fg": "player_male", "bg": [], "rotates": false },
+	{ "id": "player_male_season_autumn", "fg": "player_male_autumn", "bg": [], "rotates": false },
+	{ "id": "player_male_season_winter", "fg": "player_male_winter", "bg": [], "rotates": false },
+	{ "id": "player_male_season_summer", "fg": "player_male_summer", "bg": [], "rotates": false }
+]

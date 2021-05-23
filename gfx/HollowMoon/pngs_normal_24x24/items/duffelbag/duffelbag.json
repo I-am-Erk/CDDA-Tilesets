@@ -1,0 +1,6 @@
+[
+    { "id": ["duffelbag", "survivor_duffel_bag"], "fg": "duffelbag", "bg": [], "rotates": false },
+	{ "id": ["duffelbag_season_autumn", "survivor_duffel_bag_season_autumn"], "fg": "duffelbag_autumn", "bg": [], "rotates": false },
+	{ "id": ["duffelbag_season_winter", "survivor_duffel_bag_season_winter"], "fg": "duffelbag_winter", "bg": [], "rotates": false },
+	{ "id": ["duffelbag_season_summer", "survivor_duffel_bag_season_summer"], "fg": "duffelbag_summer", "bg": [], "rotates": false }
+]

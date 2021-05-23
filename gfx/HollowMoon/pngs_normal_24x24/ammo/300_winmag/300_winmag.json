@@ -1,0 +1,6 @@
+[
+    { "id": ["300_winmag", "bp_300_winmag", "reloaded_300_winmag"], "fg": "300_winmag", "bg": [], "rotates": false },
+	{ "id": ["300_winmag_season_autumn", "bp_300_winmag_season_autumn", "reloaded_300_winmag_season_autumn"], "fg": "300_winmag_autumn", "bg": [], "rotates": false },
+	{ "id": ["300_winmag_season_winter", "bp_300_winmag_season_winter", "reloaded_300_winmag_season_winter"], "fg": "300_winmag_winter", "bg": [], "rotates": false },
+	{ "id": ["300_winmag_season_summer", "bp_300_winmag_season_summer", "reloaded_300_winmag_season_summer"], "fg": "300_winmag_summer", "bg": [], "rotates": false }
+]

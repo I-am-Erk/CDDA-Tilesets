@@ -1,0 +1,6 @@
+[
+    { "id": ["suppressor", "crafted_suppressor", "filter_suppressor", "mp5sd_suppressor"], "fg": "suppressor", "bg": [], "rotates": false },
+	{ "id": ["suppressor_season_autumn", "crafted_suppressor_season_autumn", "filter_suppressor_season_autumn", "mp5sd_suppressor_season_autumn"], "fg": "suppressor_autumn", "bg": [], "rotates": false },
+	{ "id": ["suppressor_season_winter", "crafted_suppressor_season_winter", "filter_suppressor_season_winter", "mp5sd_suppressor_season_winter"], "fg": "suppressor_winter", "bg": [], "rotates": false },
+	{ "id": ["suppressor_season_summer", "crafted_suppressor_season_summer", "filter_suppressor_season_summer", "mp5sd_suppressor_season_summer"], "fg": "suppressor_summer", "bg": [], "rotates": false }
+]

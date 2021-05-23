@@ -1,0 +1,6 @@
+[
+    { "id": ["pizza_meat", "pizza_human", "pizza_veggy"], "fg": "pizza_meat", "bg": [], "rotates": false },
+	{ "id": ["pizza_meat_season_autumn", "pizza_human_season_autumn", "pizza_veggy_season_autumn"], "fg": "pizza_meat_autumn", "bg": [], "rotates": false },
+	{ "id": ["pizza_meat_season_winter", "pizza_human_season_winter", "pizza_veggy_season_winter"], "fg": "pizza_meat_winter", "bg": [], "rotates": false },
+	{ "id": ["pizza_meat_season_summer", "pizza_human_season_summer", "pizza_veggy_season_summer"], "fg": "pizza_meat_summer", "bg": [], "rotates": false }
+]

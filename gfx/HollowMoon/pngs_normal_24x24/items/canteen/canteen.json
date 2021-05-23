@@ -1,0 +1,6 @@
+[
+    { "id": ["canteen", "2lcanteen", "canteen_wood"], "fg": "canteen", "bg": [], "rotates": false },
+	{ "id": ["canteen_season_autumn", "2lcanteen_season_autumn", "canteen_wood_season_autumn"], "fg": "canteen_autumn", "bg": [], "rotates": false },
+	{ "id": ["canteen_season_winter", "2lcanteen_season_winter", "canteen_wood_season_winter"], "fg": "canteen_winter", "bg": [], "rotates": false },
+	{ "id": ["canteen_season_summer", "2lcanteen_season_summer", "canteen_wood_season_summer"], "fg": "canteen_summer", "bg": [], "rotates": false }
+]

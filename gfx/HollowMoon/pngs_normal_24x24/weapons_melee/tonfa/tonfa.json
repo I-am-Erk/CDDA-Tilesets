@@ -1,0 +1,7 @@
+[
+    { "id": ["tonfa", "tonfa_wood"], "fg": "tonfa", "bg": [], "rotates": false },
+	{ "id": ["tonfa_season_autumn", "tonfa_wood_season_autumn"], "fg": "tonfa_autumn", "bg": [], "rotates": false },
+	{ "id": ["tonfa_season_winter", "tonfa_wood_season_winter"], "fg": "tonfa_winter", "bg": [], "rotates": false },
+	{ "id": ["tonfa_season_summer", "tonfa_wood_season_summer"], "fg": "tonfa_summer", "bg": [], "rotates": false }
+]: false }
+]

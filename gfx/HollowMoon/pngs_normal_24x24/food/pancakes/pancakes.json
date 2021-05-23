@@ -1,0 +1,6 @@
+[
+    { "id": ["pancakes", "fruit_pancakes", "johnnycake"], "fg": "pancakes", "bg": [], "rotates": false },
+	{ "id": ["pancakes_season_autumn", "fruit_pancakes_season_autumn", "johnnycake_season_autumn"], "fg": "pancakes_autumn", "bg": [], "rotates": false },
+	{ "id": ["pancakes_season_winter", "fruit_pancakes_season_winter", "johnnycake_season_winter"], "fg": "pancakes_winter", "bg": [], "rotates": false },
+	{ "id": ["pancakes_season_summer", "fruit_pancakes_season_summer", "johnnycake_season_summer"], "fg": "pancakes_summer", "bg": [], "rotates": false }
+]

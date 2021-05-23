@@ -1,0 +1,6 @@
+[
+    { "id": "mon_zombie_master", "fg": "mon_zombie_master", "bg": [], "rotates": false },
+	{ "id": "mon_zombie_master_season_autumn", "fg": "mon_zombie_master_autumn", "bg": [], "rotates": false },
+	{ "id": "mon_zombie_master_season_winter", "fg": "mon_zombie_master_winter", "bg": [], "rotates": false },
+	{ "id": "mon_zombie_master_season_summer", "fg": "mon_zombie_master_summer", "bg": [], "rotates": false }
+]

@@ -1,0 +1,6 @@
+[
+    { "id": ["powered_earmuffs", "hat_noise_cancelling", "powered_earmuffs_on"], "fg": "powered_earmuffs", "bg": [], "rotates": false },
+	{ "id": ["powered_earmuffs_season_autumn", "hat_noise_cancelling_season_autumn", "powered_earmuffs_on_season_autumn"], "fg": "powered_earmuffs_autumn", "bg": [], "rotates": false },
+	{ "id": ["powered_earmuffs_season_winter", "hat_noise_cancelling_season_winter", "powered_earmuffs_on_season_winter"], "fg": "powered_earmuffs_winter", "bg": [], "rotates": false },
+	{ "id": ["powered_earmuffs_season_summer", "hat_noise_cancelling_season_summer", "powered_earmuffs_on_season_summer"], "fg": "powered_earmuffs_summer", "bg": [], "rotates": false }
+]

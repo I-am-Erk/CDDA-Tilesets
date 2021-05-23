@@ -1,0 +1,6 @@
+[
+    { "id": ["waffles", "fruit_waffles", "choc_waffles"], "fg": "waffles", "bg": [], "rotates": false },
+	{ "id": ["waffles_season_autumn", "fruit_waffles_season_autumn", "choc_waffles_season_autumn"], "fg": "waffles_autumn", "bg": [], "rotates": false },
+	{ "id": ["waffles_season_winter", "fruit_waffles_season_winter", "choc_waffles_season_winter"], "fg": "waffles_winter", "bg": [], "rotates": false },
+	{ "id": ["waffles_season_summer", "fruit_waffles_season_summer", "choc_waffles_season_summer"], "fg": "waffles_summer", "bg": [], "rotates": false }
+]

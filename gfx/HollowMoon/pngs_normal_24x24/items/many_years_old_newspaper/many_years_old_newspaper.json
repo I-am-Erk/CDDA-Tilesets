@@ -1,0 +1,6 @@
+[
+    { "id": ["many_years_old_newspaper", "weeks_old_newspaper", "months_old_newspaper", "one_year_old_newspaper", "years_old_newspaper", "newest_newspaper"], "fg": "many_years_old_newspaper", "bg": [], "rotates": false },
+	{ "id": ["many_years_old_newspaper_season_autumn", "weeks_old_newspaper_season_autumn", "months_old_newspaper_season_autumn", "one_year_old_newspaper_season_autumn", "years_old_newspaper_season_autumn", "newest_newspaper_season_autumn"], "fg": "many_years_old_newspaper_autumn", "bg": [], "rotates": false },
+	{ "id": ["many_years_old_newspaper_season_winter", "weeks_old_newspaper_season_winter", "months_old_newspaper_season_winter", "one_year_old_newspaper_season_winter", "years_old_newspaper_season_winter", "newest_newspaper_season_winter"], "fg": "many_years_old_newspaper_winter", "bg": [], "rotates": false },
+	{ "id": ["many_years_old_newspaper_season_summer", "weeks_old_newspaper_season_summer", "months_old_newspaper_season_summer", "one_year_old_newspaper_season_summer", "years_old_newspaper_season_summer", "newest_newspaper_season_summer"], "fg": "many_years_old_newspaper_summer", "bg": [], "rotates": false }
+]

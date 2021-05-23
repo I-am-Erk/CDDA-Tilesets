@@ -1,0 +1,6 @@
+[
+    { "id": ["bowl_plastic", "bowl_clay"], "fg": "bowl_plastic", "bg": [], "rotates": false },
+	{ "id": ["bowl_plastic_season_autumn", "bowl_clay_season_autumn"], "fg": "bowl_plastic_autumn", "bg": [], "rotates": false },
+	{ "id": ["bowl_plastic_season_winter", "bowl_clay_season_winter"], "fg": "bowl_plastic_winter", "bg": [], "rotates": false },
+	{ "id": ["bowl_plastic_season_summer", "bowl_clay_season_summer"], "fg": "bowl_plastic_summer", "bg": [], "rotates": false }
+]

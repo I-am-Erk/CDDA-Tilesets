@@ -1,0 +1,6 @@
+[
+    { "id": ["cake3", "jihelucake"], "fg": "cake3", "bg": [], "rotates": false },
+	{ "id": ["cake3_season_autumn", "jihelucake_season_autumn"], "fg": "cake3_autumn", "bg": [], "rotates": false },
+	{ "id": ["cake3_season_winter", "jihelucake_season_winter"], "fg": "cake3_winter", "bg": [], "rotates": false },
+	{ "id": ["cake3_season_summer", "jihelucake_season_summer"], "fg": "cake3_summer", "bg": [], "rotates": false }
+]

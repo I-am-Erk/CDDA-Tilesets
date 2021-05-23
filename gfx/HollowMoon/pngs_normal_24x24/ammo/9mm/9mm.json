@@ -1,0 +1,6 @@
+[
+    { "id": ["9mm", "reloaded_9mmP2", "reloaded_9mmP", "reloaded_9mmfmj", "reloaded_9mm", "bp_9mmfmj", "bp_9mm", "9mmP2", "9mmP", "9mmfmj"], "fg": "9mm", "bg": [], "rotates": false },
+	{ "id": ["9mm_season_autumn", "reloaded_9mmP2_season_autumn", "reloaded_9mmP_season_autumn", "reloaded_9mmfmj_season_autumn", "reloaded_9mm_season_autumn", "bp_9mmfmj_season_autumn", "bp_9mm_season_autumn", "9mmP2_season_autumn", "9mmP_season_autumn", "9mmfmj_season_autumn"], "fg": "9mm_autumn", "bg": [], "rotates": false },
+	{ "id": ["9mm_season_winter", "reloaded_9mmP2_season_winter", "reloaded_9mmP_season_winter", "reloaded_9mmfmj_season_winter", "reloaded_9mm_season_winter", "bp_9mmfmj_season_winter", "bp_9mm_season_winter", "9mmP2_season_winter", "9mmP_season_winter", "9mmfmj_season_winter"], "fg": "9mm_winter", "bg": [], "rotates": false },
+	{ "id": ["9mm_season_summer", "reloaded_9mmP2_season_summer", "reloaded_9mmP_season_summer", "reloaded_9mmfmj_season_summer", "reloaded_9mm_season_summer", "bp_9mmfmj_season_summer", "bp_9mm_season_summer", "9mmP2_season_summer", "9mmP_season_summer", "9mmfmj_season_summer"], "fg": "9mm_summer", "bg": [], "rotates": false }
+]

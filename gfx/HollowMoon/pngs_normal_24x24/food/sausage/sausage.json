@@ -1,0 +1,6 @@
+[
+    { "id": ["sausage", "sausage_wasteland", "bratwurst_sausage", "sweet_sausage", "sausage_cooked"], "fg": "sausage", "bg": [], "rotates": false },
+	{ "id": ["sausage_season_autumn", "sausage_wasteland_season_autumn", "bratwurst_sausage_season_autumn", "sweet_sausage_season_autumn", "sausage_cooked_season_autumn"], "fg": "sausage_autumn", "bg": [], "rotates": false },
+	{ "id": ["sausage_season_winter", "sausage_wasteland_season_winter", "bratwurst_sausage_season_winter", "sweet_sausage_season_winter", "sausage_cooked_season_winter"], "fg": "sausage_winter", "bg": [], "rotates": false },
+	{ "id": ["sausage_season_summer", "sausage_wasteland_season_summer", "bratwurst_sausage_season_summer", "sweet_sausage_season_summer", "sausage_cooked_season_summer"], "fg": "sausage_summer", "bg": [], "rotates": false }
+]

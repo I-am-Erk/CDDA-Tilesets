@@ -1,0 +1,6 @@
+[
+    { "id": ["jar_glass", "jar_glass_sealed", "sauerkraut_ferment", "pickles_ferment", "jar_eggs_pickled", "jar_sauerkraut_pickled", "jar_pickles_pickled"], "fg": "jar_glass", "bg": [], "rotates": false },
+	{ "id": ["jar_glass_season_autumn", "jar_glass_sealed_season_autumn", "sauerkraut_ferment_season_autumn", "pickles_ferment_season_autumn", "jar_eggs_pickled_season_autumn", "jar_sauerkraut_pickled_season_autumn", "jar_pickles_pickled_season_autumn"], "fg": "jar_glass_autumn", "bg": [], "rotates": false },
+	{ "id": ["jar_glass_season_winter", "jar_glass_sealed_season_winter", "sauerkraut_ferment_season_winter", "pickles_ferment_season_winter", "jar_eggs_pickled_season_winter", "jar_sauerkraut_pickled_season_winter", "jar_pickles_pickled_season_winter"], "fg": "jar_glass_winter", "bg": [], "rotates": false },
+	{ "id": ["jar_glass_season_summer", "jar_glass_sealed_season_summer", "sauerkraut_ferment_season_summer", "pickles_ferment_season_summer", "jar_eggs_pickled_season_summer", "jar_sauerkraut_pickled_season_summer", "jar_pickles_pickled_season_summer"], "fg": "jar_glass_summer", "bg": [], "rotates": false }
+]

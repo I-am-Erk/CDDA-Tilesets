@@ -1,0 +1,6 @@
+[
+    { "id": ["jar_3l_glass", "jar_3l_glass_sealed", "fluid_preserved_brain"], "fg": "jar_3l_glass", "bg": [], "rotates": false },
+	{ "id": ["jar_3l_glass_season_autumn", "jar_3l_glass_sealed_season_autumn", "fluid_preserved_brain_season_autumn"], "fg": "jar_3l_glass_autumn", "bg": [], "rotates": false },
+	{ "id": ["jar_3l_glass_season_winter", "jar_3l_glass_sealed_season_winter", "fluid_preserved_brain_season_winter"], "fg": "jar_3l_glass_winter", "bg": [], "rotates": false },
+	{ "id": ["jar_3l_glass_season_summer", "jar_3l_glass_sealed_season_summer", "fluid_preserved_brain_season_summer"], "fg": "jar_3l_glass_summer", "bg": [], "rotates": false }
+]

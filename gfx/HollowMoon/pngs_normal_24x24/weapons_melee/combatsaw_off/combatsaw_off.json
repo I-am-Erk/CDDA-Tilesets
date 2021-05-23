@@ -1,0 +1,6 @@
+[
+    { "id": ["combatsaw_off", "e_combatsaw_off"], "fg": "combatsaw_off", "bg": [], "rotates": false },
+	{ "id": ["combatsaw_off_season_autumn", "e_combatsaw_off_season_autumn"], "fg": "combatsaw_off_autumn", "bg": [], "rotates": false },
+	{ "id": ["combatsaw_off_season_winter", "e_combatsaw_off_season_winter"], "fg": "combatsaw_off_winter", "bg": [], "rotates": false },
+	{ "id": ["combatsaw_off_season_summer", "e_combatsaw_off_season_summer"], "fg": "combatsaw_off_summer", "bg": [], "rotates": false }
+]

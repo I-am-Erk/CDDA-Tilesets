@@ -1,0 +1,6 @@
+[
+    { "id": "hammer_sledge", "fg": "hammer_sledge", "bg": [], "rotates": false },
+	{ "id": "hammer_sledge_season_autumn", "fg": "hammer_sledge_autumn", "bg": [], "rotates": false },
+	{ "id": "hammer_sledge_season_winter", "fg": "hammer_sledge_winter", "bg": [], "rotates": false },
+	{ "id": "hammer_sledge_season_summer", "fg": "hammer_sledge_summer", "bg": [], "rotates": false }
+]

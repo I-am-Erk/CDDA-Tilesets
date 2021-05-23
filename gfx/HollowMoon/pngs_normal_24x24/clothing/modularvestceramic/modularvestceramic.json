@@ -1,0 +1,6 @@
+[
+    { "id": ["modularvestceramic", "modularvestsuper", "modularveststeel", "modularvestkevlar", "modularvesthard"], "fg": "modularvestceramic", "bg": [], "rotates": false },
+	{ "id": ["modularvestceramic_season_autumn", "modularvestsuper_season_autumn", "modularveststeel_season_autumn", "modularvestkevlar_season_autumn", "modularvesthard_season_autumn"], "fg": "modularvestceramic_autumn", "bg": [], "rotates": false },
+	{ "id": ["modularvestceramic_season_winter", "modularvestsuper_season_winter", "modularveststeel_season_winter", "modularvestkevlar_season_winter", "modularvesthard_season_winter"], "fg": "modularvestceramic_winter", "bg": [], "rotates": false },
+	{ "id": ["modularvestceramic_season_summer", "modularvestsuper_season_summer", "modularveststeel_season_summer", "modularvestkevlar_season_summer", "modularvesthard_season_summer"], "fg": "modularvestceramic_summer", "bg": [], "rotates": false }
+]

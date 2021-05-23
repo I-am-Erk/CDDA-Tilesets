@@ -1,0 +1,6 @@
+[
+    { "id": ["naginata", "spear_survivor"], "fg": "naginata", "bg": [], "rotates": false },
+	{ "id": ["naginata_season_autumn", "spear_survivor_season_autumn"], "fg": "naginata_autumn", "bg": [], "rotates": false },
+	{ "id": ["naginata_season_winter", "spear_survivor_season_winter"], "fg": "naginata_winter", "bg": [], "rotates": false },
+	{ "id": ["naginata_season_summer", "spear_survivor_season_summer"], "fg": "naginata_summer", "bg": [], "rotates": false }
+]

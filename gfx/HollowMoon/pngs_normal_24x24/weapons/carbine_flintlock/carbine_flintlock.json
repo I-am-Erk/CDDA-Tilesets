@@ -1,0 +1,6 @@
+[
+    { "id": "carbine_flintlock", "fg": "carbine_flintlock", "bg": [], "rotates": false },
+	{ "id": "carbine_flintlock_season_autumn", "fg": "carbine_flintlock_autumn", "bg": [], "rotates": false },
+	{ "id": "carbine_flintlock_season_winter", "fg": "carbine_flintlock_winter", "bg": [], "rotates": false },
+	{ "id": "carbine_flintlock_season_summer", "fg": "carbine_flintlock_summer", "bg": [], "rotates": false }
+]

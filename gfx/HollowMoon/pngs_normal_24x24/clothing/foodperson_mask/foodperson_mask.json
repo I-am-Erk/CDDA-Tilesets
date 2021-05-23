@@ -1,0 +1,6 @@
+[
+    { "id": ["foodperson_mask", "foodperson_mask_on"], "fg": "foodperson_mask", "bg": [], "rotates": false },
+	{ "id": ["foodperson_mask_season_autumn", "foodperson_mask_on_season_autumn"], "fg": "foodperson_mask_autumn", "bg": [], "rotates": false },
+	{ "id": ["foodperson_mask_season_winter", "foodperson_mask_on_season_winter"], "fg": "foodperson_mask_winter", "bg": [], "rotates": false },
+	{ "id": ["foodperson_mask_season_summer", "foodperson_mask_on_season_summer"], "fg": "foodperson_mask_summer", "bg": [], "rotates": false }
+]

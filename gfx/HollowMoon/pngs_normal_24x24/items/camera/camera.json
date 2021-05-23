@@ -1,0 +1,6 @@
+[
+    { "id": ["camera", "camera_pro"], "fg": "camera", "bg": [], "rotates": false },
+	{ "id": ["camera_season_autumn", "camera_pro_season_autumn"], "fg": "camera_autumn", "bg": [], "rotates": false },
+	{ "id": ["camera_season_winter", "camera_pro_season_winter"], "fg": "camera_winter", "bg": [], "rotates": false },
+	{ "id": ["camera_season_summer", "camera_pro_season_summer"], "fg": "camera_summer", "bg": [], "rotates": false }
+]

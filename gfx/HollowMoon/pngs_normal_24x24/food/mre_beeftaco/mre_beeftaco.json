@@ -1,0 +1,6 @@
+[
+    { "id": ["mre_beeftaco", "mre_veggy"], "fg": "mre_beeftaco", "bg": [], "rotates": false },
+	{ "id": ["mre_beeftaco_season_autumn", "mre_veggy_season_autumn"], "fg": "mre_beeftaco_autumn", "bg": [], "rotates": false },
+	{ "id": ["mre_beeftaco_season_winter", "mre_veggy_season_winter"], "fg": "mre_beeftaco_winter", "bg": [], "rotates": false },
+	{ "id": ["mre_beeftaco_season_summer", "mre_veggy_season_summer"], "fg": "mre_beeftaco_summer", "bg": [], "rotates": false }
+]

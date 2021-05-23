@@ -1,0 +1,6 @@
+[
+    { "id": ["q_staff", "i_staff"], "fg": "q_staff", "bg": [], "rotates": false },
+	{ "id": ["q_staff_season_autumn", "i_staff_season_autumn"], "fg": "q_staff_autumn", "bg": [], "rotates": false },
+	{ "id": ["q_staff_season_winter", "i_staff_season_winter"], "fg": "q_staff_winter", "bg": [], "rotates": false },
+	{ "id": ["q_staff_season_summer", "i_staff_season_summer"], "fg": "q_staff_summer", "bg": [], "rotates": false }
+]

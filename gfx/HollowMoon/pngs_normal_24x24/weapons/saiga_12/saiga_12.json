@@ -1,0 +1,6 @@
+[
+    { "id": ["saiga_12", "saiga_410"], "fg": "saiga_12", "bg": [], "rotates": false },
+	{ "id": ["saiga_12_season_autumn", "saiga_410_season_autumn"], "fg": "saiga_12_autumn", "bg": [], "rotates": false },
+	{ "id": ["saiga_12_season_winter", "saiga_410_season_winter"], "fg": "saiga_12_winter", "bg": [], "rotates": false },
+	{ "id": ["saiga_12_season_summer", "saiga_410_season_summer"], "fg": "saiga_12_summer", "bg": [], "rotates": false }
+]

@@ -1,0 +1,6 @@
+[
+    { "id": ["sausage_raw", "sausage_wasteland_raw"], "fg": "sausage_raw", "bg": [], "rotates": false },
+	{ "id": ["sausage_raw_season_autumn", "sausage_wasteland_raw_season_autumn"], "fg": "sausage_raw_autumn", "bg": [], "rotates": false },
+	{ "id": ["sausage_raw_season_winter", "sausage_wasteland_raw_season_winter"], "fg": "sausage_raw_winter", "bg": [], "rotates": false },
+	{ "id": ["sausage_raw_season_summer", "sausage_wasteland_raw_season_summer"], "fg": "sausage_raw_summer", "bg": [], "rotates": false }
+]

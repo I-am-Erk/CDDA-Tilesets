@@ -1,0 +1,6 @@
+[
+    { "id": ["sandwich_pbj", "sandwich_jam", "sandwich_jam", "sandwich_pb", "sandwich_pbh", "sandwich_pbm"], "fg": "sandwich_pbj", "bg": [], "rotates": false },
+	{ "id": ["sandwich_pbj_season_autumn", "sandwich_jam_season_autumn", "sandwich_jam_season_autumn", "sandwich_pb_season_autumn", "sandwich_pbh_season_autumn", "sandwich_pbm_season_autumn"], "fg": "sandwich_pbj_autumn", "bg": [], "rotates": false },
+	{ "id": ["sandwich_pbj_season_winter", "sandwich_jam_season_winter", "sandwich_jam_season_winter", "sandwich_pb_season_winter", "sandwich_pbh_season_winter", "sandwich_pbm_season_winter"], "fg": "sandwich_pbj_winter", "bg": [], "rotates": false },
+	{ "id": ["sandwich_pbj_season_summer", "sandwich_jam_season_summer", "sandwich_jam_season_summer", "sandwich_pb_season_summer", "sandwich_pbh_season_summer", "sandwich_pbm_season_summer"], "fg": "sandwich_pbj_summer", "bg": [], "rotates": false }
+]

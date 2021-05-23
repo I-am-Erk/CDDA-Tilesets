@@ -1,0 +1,6 @@
+[
+    { "id": ["pie", "pie_human", "humble_pie", "pie_maple", "pie_veggy", "pie_meat"], "fg": "pie", "bg": [], "rotates": false },
+	{ "id": ["pie_season_autumn", "pie_human_season_autumn", "humble_pie_season_autumn", "pie_maple_season_autumn", "pie_veggy_season_autumn", "pie_meat_season_autumn"], "fg": "pie_autumn", "bg": [], "rotates": false },
+	{ "id": ["pie_season_winter", "pie_human_season_winter", "humble_pie_season_winter", "pie_maple_season_winter", "pie_veggy_season_winter", "pie_meat_season_winter"], "fg": "pie_winter", "bg": [], "rotates": false },
+	{ "id": ["pie_season_summer", "pie_human_season_summer", "humble_pie_season_summer", "pie_maple_season_summer", "pie_veggy_season_summer", "pie_meat_season_summer"], "fg": "pie_summer", "bg": [], "rotates": false }
+]

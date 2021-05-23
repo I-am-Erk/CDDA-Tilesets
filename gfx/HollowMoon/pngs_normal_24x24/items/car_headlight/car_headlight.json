@@ -1,0 +1,6 @@
+[
+    { "id": ["car_headlight", "motorcycle_headlight"], "fg": "car_headlight", "bg": [], "rotates": false },
+	{ "id": ["car_headlight_season_autumn", "motorcycle_headlight_season_autumn"], "fg": "car_headlight_autumn", "bg": [], "rotates": false },
+	{ "id": ["car_headlight_season_winter", "motorcycle_headlight_season_winter"], "fg": "car_headlight_winter", "bg": [], "rotates": false },
+	{ "id": ["car_headlight_season_summer", "motorcycle_headlight_season_summer"], "fg": "car_headlight_summer", "bg": [], "rotates": false }
+]

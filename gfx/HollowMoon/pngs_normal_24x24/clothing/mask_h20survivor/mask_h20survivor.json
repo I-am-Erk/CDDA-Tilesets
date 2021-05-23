@@ -1,0 +1,6 @@
+[
+    { "id": ["mask_h20survivor", "mask_h20survivor_on"], "fg": "mask_h20survivor", "bg": [], "rotates": false },
+	{ "id": ["mask_h20survivor_season_autumn", "mask_h20survivor_on_season_autumn"], "fg": "mask_h20survivor_autumn", "bg": [], "rotates": false },
+	{ "id": ["mask_h20survivor_season_winter", "mask_h20survivor_on_season_winter"], "fg": "mask_h20survivor_winter", "bg": [], "rotates": false },
+	{ "id": ["mask_h20survivor_season_summer", "mask_h20survivor_on_season_summer"], "fg": "mask_h20survivor_summer", "bg": [], "rotates": false }
+]

@@ -1,0 +1,6 @@
+[
+    { "id": ["tshirt_text", "tshirt_tour"], "fg": "tshirt_text", "bg": [], "rotates": false },
+	{ "id": ["tshirt_text_season_autumn", "tshirt_tour_season_autumn"], "fg": "tshirt_text_autumn", "bg": [], "rotates": false },
+	{ "id": ["tshirt_text_season_winter", "tshirt_tour_season_winter"], "fg": "tshirt_text_winter", "bg": [], "rotates": false },
+	{ "id": ["tshirt_text_season_summer", "tshirt_tour_season_summer"], "fg": "tshirt_text_summer", "bg": [], "rotates": false }
+]

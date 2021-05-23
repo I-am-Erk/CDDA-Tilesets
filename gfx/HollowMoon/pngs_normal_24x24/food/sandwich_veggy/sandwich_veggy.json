@@ -1,0 +1,6 @@
+[
+    { "id": ["sandwich_veggy", "sandwich_cucumber", "sandwich_cheese", "sandwich_honey"], "fg": "sandwich_veggy", "bg": [], "rotates": false },
+	{ "id": ["sandwich_veggy_season_autumn", "sandwich_cucumber_season_autumn", "sandwich_cheese_season_autumn", "sandwich_honey_season_autumn"], "fg": "sandwich_veggy_autumn", "bg": [], "rotates": false },
+	{ "id": ["sandwich_veggy_season_winter", "sandwich_cucumber_season_winter", "sandwich_cheese_season_winter", "sandwich_honey_season_winter"], "fg": "sandwich_veggy_winter", "bg": [], "rotates": false },
+	{ "id": ["sandwich_veggy_season_summer", "sandwich_cucumber_season_summer", "sandwich_cheese_season_summer", "sandwich_honey_season_summer"], "fg": "sandwich_veggy_summer", "bg": [], "rotates": false }
+]

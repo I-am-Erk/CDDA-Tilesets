@@ -1,0 +1,6 @@
+[
+    { "id": "mon_kreck", "fg": "mon_kreck", "bg": [], "rotates": false },
+	{ "id": "mon_kreck_season_autumn", "fg": "mon_kreck_autumn", "bg": [], "rotates": false },
+	{ "id": "mon_kreck_season_winter", "fg": "mon_kreck_winter", "bg": [], "rotates": false },
+	{ "id": "mon_kreck_season_summer", "fg": "mon_kreck_summer", "bg": [], "rotates": false }
+]

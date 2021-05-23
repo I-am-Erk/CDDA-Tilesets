@@ -1,0 +1,6 @@
+[
+    { "id": ["id_science", "id_industrial", "id_military"], "fg": "id_science", "bg": [], "rotates": false },
+	{ "id": ["id_science_season_autumn", "id_industrial_season_autumn", "id_military_season_autumn"], "fg": "id_science_autumn", "bg": [], "rotates": false },
+	{ "id": ["id_science_season_winter", "id_industrial_season_winter", "id_military_season_winter"], "fg": "id_science_winter", "bg": [], "rotates": false },
+	{ "id": ["id_science_season_summer", "id_industrial_season_summer", "id_military_season_summer"], "fg": "id_science_summer", "bg": [], "rotates": false }
+]
