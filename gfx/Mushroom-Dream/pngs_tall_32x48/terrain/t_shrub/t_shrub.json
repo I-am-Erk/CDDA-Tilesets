@@ -4,5 +4,5 @@
 	{ "weight": 70, "sprite": "t_shrub1" },
 	{ "weight": 30, "sprite": "t_shrub2" }
 	],
-    "bg": ""
+    "bg": "t_grass_tall"
   },
