@@ -1,0 +1,19 @@
+{
+  "id": "t_door_b",
+  "fg": "t_door_b",
+  "bg": "",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        { "weight": 1, "sprite": "t_door_b" },
+        { "weight": 1, "sprite": "t_door_b_1" },
+        { "weight": 1, "sprite": "t_door_b_3" }
+      ],
+      "bg": ""
+    },
+    { "id": "edge", "fg": [ "t_door_b_vertical", "t_door_b" ], "bg": "" },
+    { "id": "unconnected", "fg": [ "t_door_b", "t_door_b" ], "bg": "" }
+  ]
+}
