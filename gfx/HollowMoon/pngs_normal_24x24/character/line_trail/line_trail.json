@@ -1,26 +1,22 @@
 [
-  {"id": ["highlight", "line_target", "line_trail"],
-  "fg": [
-        { "weight": 1, "sprite": "line_trail"}
-  ],
-  "bg": []
+  {
+    "id": [ "highlight", "line_target", "line_trail" ],
+    "fg": "line_trail",
+    "bg": [  ]
   },
-  {"id": "line_trail_season_autumn",
-  "fg": [
-        { "weight": 1, "sprite": "line_trail_autumn"}
-  ],
-  "bg": []
+  {
+    "id": "line_trail_season_autumn",
+    "fg": "line_trail_autumn",
+    "bg": [  ]
   },
-  {"id": "line_trail_season_winter",
-  "fg": [
-        { "weight": 1, "sprite": "line_trail_winter"}
-  ],
-  "bg": []
+  {
+    "id": "line_trail_season_winter",
+    "fg": "line_trail_winter",
+    "bg": [  ]
   },
-  {"id": "line_trail_season_summer",
-  "fg": [
-        { "weight": 1, "sprite": "line_trail_summer"}
-  ],
-  "bg": []
+  {
+    "id": "line_trail_season_summer",
+    "fg": "line_trail_summer",
+    "bg": [  ]
   }
 ]
