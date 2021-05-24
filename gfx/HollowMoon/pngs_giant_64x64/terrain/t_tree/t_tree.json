@@ -1,6 +1,26 @@
 [
-    { "id": "t_tree", "fg": "t_tree", "bg": [], "rotates": false },
-	{ "id": "t_tree_season_autumn", "fg": "t_tree_autumn", "bg": [], "rotates": false },
-	{ "id": "t_tree_season_winter", "fg": "t_tree_winter", "bg": [], "rotates": false },
-	{ "id": "t_tree_season_summer", "fg": "t_tree_summer", "bg": [], "rotates": false }
+  {
+    "id": "t_tree",
+    "fg": "t_tree",
+    "bg": [ "t_grass_giant" ],
+    "rotates": false
+  },
+  {
+    "id": "t_tree_season_autumn",
+    "fg": "t_tree_autumn",
+    "bg": [ "t_grass_giant_autumn" ],
+    "rotates": false
+  },
+  {
+    "id": "t_tree_season_winter",
+    "fg": "t_tree_winter",
+    "bg": [ "t_grass_giant_winter" ],
+    "rotates": false
+  },
+  {
+    "id": "t_tree_season_summer",
+    "fg": "t_tree_summer",
+    "bg": [ "t_grass_giant_summer" ],
+    "rotates": false
+  }
 ]

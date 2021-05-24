@@ -5,9 +5,9 @@ import sys
 
 numberPrefixes = ["_0", "_1", "_2", "_3", "_4", "_5", "_6", "_7", "_8"]
 seasonPrefixes = {
-  "_autumn": [(230,227,171), (216,147,110), (163,100,92), (90,68,72)],
-  "_winter": [(254,254,254), (203,200,218), (137,119,142), (90,68,72)],
-  "_summer": [(255,216,148), (194,176,107), (83,138,106), (73,75,88)]
+  "_season_autumn": [(230,227,171), (216,147,110), (163,100,92), (90,68,72)],
+  "_season_winter": [(254,254,254), (203,200,218), (137,119,142), (90,68,72)],
+  "_season_summer": [(255,216,148), (194,176,107), (83,138,106), (73,75,88)]
 }
 defaultColors = [(240,236,187), (181,175,105), (115,130,92), (95,76,53)]
 
@@ -59,10 +59,10 @@ def change_colors():
                 img = replaceColors(seasonFile, season)
                 transparent_background( img ).save(seasonFile, "PNG")
 
-        new_name = f"{dirName}"+"_spring.png"
+        new_name = f"{dirName}"+"_season_spring.png"
         os.rename(file,new_name)
         transparent_background( Image.open(new_name) ).save(new_name, "PNG")
-        print(file)
+        print(dirName)
 
 
 

@@ -1,6 +1,6 @@
 [
   {
-    "id": [ "rifle_22", "rifle_22", "rifle_45", "rifle_40", "rifle_38", "rifle_44", "rifle_3006", "rifle_308", "rifle_9mm" ],
+    "id": [ "rifle_22", "rifle_45", "rifle_40", "rifle_38", "rifle_44", "rifle_3006", "rifle_308", "rifle_9mm" ],
     "fg": "rifle_22",
     "bg": [  ],
     "rotates": false
