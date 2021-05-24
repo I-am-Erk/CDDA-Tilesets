@@ -1,12 +1,5 @@
-[
-  {
-    "id": "t_shrub",
-    "fg": "t_shrub",
-    "bg": "t_grass_wide"
-  },
   {
     "id": "t_shrub_blueberry",
     "fg": "t_shrub_blueberry",
     "bg": "t_grass_wide"
   }
-]
