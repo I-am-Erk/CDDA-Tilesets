@@ -1,0 +1,26 @@
+[
+  {
+    "id": "t_shrub_season_spring",
+    "fg": "t_shrub_season_spring",
+    "bg": [ "t_grass_0" ],
+    "rotates": false
+  },
+  {
+    "id": "t_shrub_season_autumn",
+    "fg": "t_shrub_season_autumn",
+    "bg": [ "t_grass_autumn_0" ],
+    "rotates": false
+  },
+  {
+    "id": "t_shrub_season_winter",
+    "fg": "t_shrub_season_winter",
+    "bg": [ "t_grass_winter_0" ],
+    "rotates": false
+  },
+  {
+    "id": "t_shrub_season_summer",
+    "fg": "t_shrub_season_summer",
+    "bg": [ "t_grass_summer_0" ],
+    "rotates": false
+  }
+]
