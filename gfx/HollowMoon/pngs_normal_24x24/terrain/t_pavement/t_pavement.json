@@ -1,7 +1,7 @@
 [
   {"id": "t_pavement_season_spring",
   "fg": [
-        { "weight": 20, "sprite": "t_pavement_season_spring"},
+        { "weight": 40, "sprite": "t_pavement_season_spring"},
         { "weight": 1, "sprite": "t_pavement_1_season_spring"},
         { "weight": 1, "sprite": "t_pavement_2_season_spring"}
   ],
@@ -9,7 +9,7 @@
   },
   {"id": "t_pavement_season_autumn",
   "fg": [
-        { "weight": 20, "sprite": "t_pavement_season_autumn"},
+        { "weight": 40, "sprite": "t_pavement_season_autumn"},
         { "weight": 1, "sprite": "t_pavement_1_season_autumn"},
         { "weight": 1, "sprite": "t_pavement_2_season_autumn"}
   ],
@@ -17,7 +17,7 @@
   },
   {"id": "t_pavement_season_winter",
   "fg": [
-        { "weight": 20, "sprite": "t_pavement_season_winter"},
+        { "weight": 40, "sprite": "t_pavement_season_winter"},
         { "weight": 1, "sprite": "t_pavement_1_season_winter"},
         { "weight": 1, "sprite": "t_pavement_2_season_winter"}
   ],
@@ -25,7 +25,7 @@
   },
   {"id": "t_pavement_season_summer",
   "fg": [
-        { "weight": 20, "sprite": "t_pavement_season_summer"},
+        { "weight": 40, "sprite": "t_pavement_season_summer"},
         { "weight": 1, "sprite": "t_pavement_1_season_summer"},
         { "weight": 1, "sprite": "t_pavement_2_season_summer"}
   ],
