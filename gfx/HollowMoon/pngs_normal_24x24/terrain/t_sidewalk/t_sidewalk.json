@@ -13,7 +13,7 @@
         { "weight": 40, "sprite": "t_sidewalk_season_autumn"},
         { "weight": 1, "sprite": "t_sidewalk_1_season_autumn"},
         { "weight": 1, "sprite": "t_sidewalk_2_season_autumn"},
-        { "weight": 1, "sprite": "t_sidewalk_3_season_spring"}
+        { "weight": 1, "sprite": "t_sidewalk_3_season_autumn"}
   ],
   "bg": []
   },
@@ -22,7 +22,7 @@
         { "weight": 40, "sprite": "t_sidewalk_season_winter"},
         { "weight": 1, "sprite": "t_sidewalk_1_season_winter"},
         { "weight": 1, "sprite": "t_sidewalk_2_season_winter"},
-        { "weight": 1, "sprite": "t_sidewalk_3_season_spring"}
+        { "weight": 1, "sprite": "t_sidewalk_3_season_winter"}
   ],
   "bg": []
   },
@@ -31,7 +31,7 @@
         { "weight": 40, "sprite": "t_sidewalk_season_summer"},
         { "weight": 1, "sprite": "t_sidewalk_1_season_summer"},
         { "weight": 1, "sprite": "t_sidewalk_2_season_summer"},
-        { "weight": 1, "sprite": "t_sidewalk_3_season_spring"}
+        { "weight": 1, "sprite": "t_sidewalk_3_season_summer"}
   ],
   "bg": []
   }
