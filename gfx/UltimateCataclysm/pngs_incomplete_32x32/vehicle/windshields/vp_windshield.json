@@ -17,6 +17,36 @@
           "vp_windshield_horizontal_rotS",
           "vp_windshield_horizontal_rotE"
         ]
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_glass",
+        "bg": [
+          "vp_windshield_horizontal",
+          "vp_windshield_horizontal_rotW",
+          "vp_windshield_horizontal_rotS",
+          "vp_windshield_horizontal_rotE"
+        ]
+      },
+      {
+        "id": "lightblood",
+        "fg": "blood_glass_center",
+        "bg": [
+          "vp_windshield_horizontal",
+          "vp_windshield_horizontal_rotW",
+          "vp_windshield_horizontal_rotS",
+          "vp_windshield_horizontal_rotE"
+        ]
+      },
+      {
+        "id": "heavyblood",
+        "fg": "blood_glass_center",
+        "bg": [
+          "vp_windshield_horizontal",
+          "vp_windshield_horizontal_rotW",
+          "vp_windshield_horizontal_rotS",
+          "vp_windshield_horizontal_rotE"
+        ]
       }
     ],
     "multitile": true
@@ -28,6 +58,21 @@
       {
         "id": "broken",
         "fg": "crack_glass_center",
+        "bg": [ "vp_windshield_rear", "vp_windshield_rear_rotW", "vp_windshield_rear_rotS", "vp_windshield_rear_rotE" ]
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_glass",
+        "bg": [ "vp_windshield_rear", "vp_windshield_rear_rotW", "vp_windshield_rear_rotS", "vp_windshield_rear_rotE" ]
+      },
+      {
+        "id": "lightblood",
+        "fg": "blood_glass_center",
+        "bg": [ "vp_windshield_rear", "vp_windshield_rear_rotW", "vp_windshield_rear_rotS", "vp_windshield_rear_rotE" ]
+      },
+      {
+        "id": "heavyblood",
+        "fg": "blood_glass_center",
         "bg": [ "vp_windshield_rear", "vp_windshield_rear_rotW", "vp_windshield_rear_rotS", "vp_windshield_rear_rotE" ]
       }
     ],
@@ -45,6 +90,36 @@
       {
         "id": "broken",
         "fg": "crack_glass_center",
+        "bg": [
+          "vp_windshield_horizontal_front_edge_rotN",
+          "vp_windshield_horizontal_front_edge_rotW",
+          "vp_windshield_horizontal_front_edge_rotS",
+          "vp_windshield_horizontal_front_edge_rotE"
+        ]
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_glass",
+        "bg": [
+          "vp_windshield_horizontal_front_edge_rotN",
+          "vp_windshield_horizontal_front_edge_rotW",
+          "vp_windshield_horizontal_front_edge_rotS",
+          "vp_windshield_horizontal_front_edge_rotE"
+        ]
+      },
+      {
+        "id": "lightblood",
+        "fg": "blood_glass_center",
+        "bg": [
+          "vp_windshield_horizontal_front_edge_rotN",
+          "vp_windshield_horizontal_front_edge_rotW",
+          "vp_windshield_horizontal_front_edge_rotS",
+          "vp_windshield_horizontal_front_edge_rotE"
+        ]
+      },
+      {
+        "id": "heavyblood",
+        "fg": "blood_glass_center",
         "bg": [
           "vp_windshield_horizontal_front_edge_rotN",
           "vp_windshield_horizontal_front_edge_rotW",
@@ -73,6 +148,36 @@
           "vp_windshield_rear_edge_rotS",
           "vp_windshield_rear_edge_rotE"
         ]
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_glass",
+        "bg": [
+          "vp_windshield_rear_edge",
+          "vp_windshield_rear_edge_rotW",
+          "vp_windshield_rear_edge_rotS",
+          "vp_windshield_rear_edge_rotE"
+        ]
+      },
+      {
+        "id": "lightblood",
+        "fg": "blood_glass_center",
+        "bg": [
+          "vp_windshield_rear_edge",
+          "vp_windshield_rear_edge_rotW",
+          "vp_windshield_rear_edge_rotS",
+          "vp_windshield_rear_edge_rotE"
+        ]
+      },
+      {
+        "id": "heavyblood",
+        "fg": "blood_glass_center",
+        "bg": [
+          "vp_windshield_rear_edge",
+          "vp_windshield_rear_edge_rotW",
+          "vp_windshield_rear_edge_rotS",
+          "vp_windshield_rear_edge_rotE"
+        ]
       }
     ],
     "multitile": true
@@ -84,6 +189,21 @@
       {
         "id": "broken",
         "fg": "crack_glass_right",
+        "bg": [ "vp_windshield_nw", "vp_windshield_nw_rotW", "vp_windshield_nw_rotS", "vp_windshield_nw_rotE" ]
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_right",
+        "bg": [ "vp_windshield_nw", "vp_windshield_nw_rotW", "vp_windshield_nw_rotS", "vp_windshield_nw_rotE" ]
+      },
+      {
+        "id": "lightblood",
+        "fg": "blood_glass_right",
+        "bg": [ "vp_windshield_nw", "vp_windshield_nw_rotW", "vp_windshield_nw_rotS", "vp_windshield_nw_rotE" ]
+      },
+      {
+        "id": "heavyblood",
+        "fg": "blood_glass_right",
         "bg": [ "vp_windshield_nw", "vp_windshield_nw_rotW", "vp_windshield_nw_rotS", "vp_windshield_nw_rotE" ]
       }
     ],
@@ -97,6 +217,21 @@
         "id": "broken",
         "fg": "crack_glass_left",
         "bg": [ "vp_windshield_ne", "vp_windshield_ne_rotW", "vp_windshield_ne_rotS", "vp_windshield_ne_rotE" ]
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_left",
+        "bg": [ "vp_windshield_ne", "vp_windshield_ne_rotW", "vp_windshield_ne_rotS", "vp_windshield_ne_rotE" ]
+      },
+      {
+        "id": "lightblood",
+        "fg": "blood_glass_left",
+        "bg": [ "vp_windshield_ne", "vp_windshield_ne_rotW", "vp_windshield_ne_rotS", "vp_windshield_ne_rotE" ]
+      },
+      {
+        "id": "heavyblood",
+        "fg": "blood_glass_left",
+        "bg": [ "vp_windshield_ne", "vp_windshield_ne_rotW", "vp_windshield_ne_rotS", "vp_windshield_ne_rotE" ]
       }
     ],
     "multitile": true
@@ -109,6 +244,21 @@
         "id": "broken",
         "fg": "crack_glass_right",
         "bg": [ "vp_windshield_sw_rotN", "vp_windshield_sw_rotW", "vp_windshield_sw_rotS", "vp_windshield_sw_rotE" ]
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_right",
+        "bg": [ "vp_windshield_sw_rotN", "vp_windshield_sw_rotW", "vp_windshield_sw_rotS", "vp_windshield_sw_rotE" ]
+      },
+      {
+        "id": "lightblood",
+        "fg": "blood_glass_right",
+        "bg": [ "vp_windshield_sw_rotN", "vp_windshield_sw_rotW", "vp_windshield_sw_rotS", "vp_windshield_sw_rotE" ]
+      },
+      {
+        "id": "heavyblood",
+        "fg": "blood_glass_right",
+        "bg": [ "vp_windshield_sw_rotN", "vp_windshield_sw_rotW", "vp_windshield_sw_rotS", "vp_windshield_sw_rotE" ]
       }
     ],
     "multitile": true
@@ -120,6 +270,21 @@
       {
         "id": "broken",
         "fg": "crack_glass_left",
+        "bg": [ "vp_windshield_se_rotN", "vp_windshield_se_rotW", "vp_windshield_se_rotS", "vp_windshield_se_rotE" ]
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_left",
+        "bg": [ "vp_windshield_se_rotN", "vp_windshield_se_rotW", "vp_windshield_se_rotS", "vp_windshield_se_rotE" ]
+      },
+      {
+        "id": "lightblood",
+        "fg": "blood_glass_left",
+        "bg": [ "vp_windshield_se_rotN", "vp_windshield_se_rotW", "vp_windshield_se_rotS", "vp_windshield_se_rotE" ]
+      },
+      {
+        "id": "heavyblood",
+        "fg": "blood_glass_left",
         "bg": [ "vp_windshield_se_rotN", "vp_windshield_se_rotW", "vp_windshield_se_rotS", "vp_windshield_se_rotE" ]
       }
     ],
@@ -137,6 +302,36 @@
       {
         "id": "broken",
         "fg": "crack_glass_right",
+        "bg": [
+          "vp_windshield_nw_edge_rotN",
+          "vp_windshield_nw_edge_rotW",
+          "vp_windshield_nw_edge_rotS",
+          "vp_windshield_nw_edge_rotE"
+        ]
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_right",
+        "bg": [
+          "vp_windshield_nw_edge_rotN",
+          "vp_windshield_nw_edge_rotW",
+          "vp_windshield_nw_edge_rotS",
+          "vp_windshield_nw_edge_rotE"
+        ]
+      },
+      {
+        "id": "lightblood",
+        "fg": "blood_glass_right",
+        "bg": [
+          "vp_windshield_nw_edge_rotN",
+          "vp_windshield_nw_edge_rotW",
+          "vp_windshield_nw_edge_rotS",
+          "vp_windshield_nw_edge_rotE"
+        ]
+      },
+      {
+        "id": "heavyblood",
+        "fg": "blood_glass_right",
         "bg": [
           "vp_windshield_nw_edge_rotN",
           "vp_windshield_nw_edge_rotW",
@@ -165,6 +360,36 @@
           "vp_windshield_ne_edge_rotS",
           "vp_windshield_ne_edge_rotE"
         ]
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_left",
+        "bg": [
+          "vp_windshield_ne_edge_rotN",
+          "vp_windshield_ne_edge_rotW",
+          "vp_windshield_ne_edge_rotS",
+          "vp_windshield_ne_edge_rotE"
+        ]
+      },
+      {
+        "id": "lightblood",
+        "fg": "blood_glass_left",
+        "bg": [
+          "vp_windshield_ne_edge_rotN",
+          "vp_windshield_ne_edge_rotW",
+          "vp_windshield_ne_edge_rotS",
+          "vp_windshield_ne_edge_rotE"
+        ]
+      },
+      {
+        "id": "heavyblood",
+        "fg": "blood_glass_left",
+        "bg": [
+          "vp_windshield_ne_edge_rotN",
+          "vp_windshield_ne_edge_rotW",
+          "vp_windshield_ne_edge_rotS",
+          "vp_windshield_ne_edge_rotE"
+        ]
       }
     ],
     "multitile": true
@@ -176,6 +401,27 @@
       {
         "id": "broken",
         "fg": "crack_glass_right",
+        "bg": [
+          "vp_windshield_sw_edge", "vp_windshield_sw_edge_rotW", "vp_windshield_sw_edge_rotS", "vp_windshield_sw_edge_rotE"
+        ]
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_right",
+        "bg": [
+          "vp_windshield_sw_edge", "vp_windshield_sw_edge_rotW", "vp_windshield_sw_edge_rotS", "vp_windshield_sw_edge_rotE"
+        ]
+      },
+      {
+        "id": "lightblood",
+        "fg": "blood_glass_right",
+        "bg": [
+          "vp_windshield_sw_edge", "vp_windshield_sw_edge_rotW", "vp_windshield_sw_edge_rotS", "vp_windshield_sw_edge_rotE"
+        ]
+      },
+      {
+        "id": "heavyblood",
+        "fg": "blood_glass_right",
         "bg": [
           "vp_windshield_sw_edge", "vp_windshield_sw_edge_rotW", "vp_windshield_sw_edge_rotS", "vp_windshield_sw_edge_rotE"
         ]
@@ -193,6 +439,27 @@
         "bg": [
           "vp_windshield_se_edge", "vp_windshield_se_edge_rotW", "vp_windshield_se_edge_rotS", "vp_windshield_se_edge_rotE"
         ]
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_left",
+        "bg": [
+          "vp_windshield_se_edge", "vp_windshield_se_edge_rotW", "vp_windshield_se_edge_rotS", "vp_windshield_se_edge_rotE"
+        ]
+      },
+      {
+        "id": "lightblood",
+        "fg": "blood_glass_left",
+        "bg": [
+          "vp_windshield_se_edge", "vp_windshield_se_edge_rotW", "vp_windshield_se_edge_rotS", "vp_windshield_se_edge_rotE"
+        ]
+      },
+      {
+        "id": "heavyblood",
+        "fg": "blood_glass_left",
+        "bg": [
+          "vp_windshield_se_edge", "vp_windshield_se_edge_rotW", "vp_windshield_se_edge_rotS", "vp_windshield_se_edge_rotE"
+        ]
       }
     ],
     "multitile": true
@@ -206,6 +473,24 @@
         "fg": "crack_glass_left",
         "bg": ["vp_windshield_left", "vp_windshield_left_rotW", "vp_windshield_left_rotS", "vp_windshield_left_rotE"
         ]
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_left",
+        "bg": ["vp_windshield_left", "vp_windshield_left_rotW", "vp_windshield_left_rotS", "vp_windshield_left_rotE"
+        ]
+      },
+      {
+        "id": "lightblood",
+        "fg": "blood_glass_left",
+        "bg": ["vp_windshield_left", "vp_windshield_left_rotW", "vp_windshield_left_rotS", "vp_windshield_left_rotE"
+        ]
+      },
+      {
+        "id": "heavyblood",
+        "fg": "blood_glass_left",
+        "bg": ["vp_windshield_left", "vp_windshield_left_rotW", "vp_windshield_left_rotS", "vp_windshield_left_rotE"
+        ]
       }
     ],
     "multitile": true
@@ -217,6 +502,27 @@
       {
         "id": "broken",
         "fg": "crack_glass_right",
+        "bg": [
+         "vp_windshield_right", "vp_windshield_right_rotW", "vp_windshield_right_rotS", "vp_windshield_right_rotE"
+        ]
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_right",
+        "bg": [
+         "vp_windshield_right", "vp_windshield_right_rotW", "vp_windshield_right_rotS", "vp_windshield_right_rotE"
+        ]
+      },
+      {
+        "id": "lightblood",
+        "fg": "blood_glass_right",
+        "bg": [
+         "vp_windshield_right", "vp_windshield_right_rotW", "vp_windshield_right_rotS", "vp_windshield_right_rotE"
+        ]
+      },
+      {
+        "id": "heavyblood",
+        "fg": "blood_glass_right",
         "bg": [
          "vp_windshield_right", "vp_windshield_right_rotW", "vp_windshield_right_rotS", "vp_windshield_right_rotE"
         ]

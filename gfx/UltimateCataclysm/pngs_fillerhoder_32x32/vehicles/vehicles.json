@@ -161,18 +161,6 @@
     ]
   },
   {
-    "id": "vp_hdroof",
-    "fg": "1767_vp_hdroof_0",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "1767_vp_hdroof_0"
-      }
-    ]
-  },
-  {
     "id": "vp_hydrogen_tank",
     "fg": "140_vp_hydrogen_tank_0",
     "multitile": true,
@@ -290,18 +278,6 @@
         "id": "broken",
         "fg": "crack_metal_center",
         "bg": "409_t_wall_wood_0"
-      }
-    ]
-  },
-  {
-    "id": "vp_roof",
-    "fg": "1799_vp_roof_0",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "1799_vp_roof_0"
       }
     ]
   },

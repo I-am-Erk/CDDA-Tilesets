@@ -56,6 +56,21 @@
         "id": "broken",
         "fg": "crack_metal_center",
         "bg": [ "vp_board_vertical_left", "vp_board_vertical_left_rotW_right_rotE", "vp_board_vertical_right", "vp_board_vertical_left_rotE_right_rotW" ]
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_metal",
+        "bg": [ "vp_board_vertical_left", "vp_board_vertical_left_rotW_right_rotE", "vp_board_vertical_right", "vp_board_vertical_left_rotE_right_rotW" ]
+      },
+      {
+        "id": "lightblood",
+        "fg": "lightblood_vertical",
+        "bg": [ "vp_board_vertical_left", "vp_board_vertical_left_rotW_right_rotE", "vp_board_vertical_right", "vp_board_vertical_left_rotE_right_rotW" ]
+      },
+      {
+        "id": "heavyblood",
+        "fg": "heavyblood_vertical",
+        "bg": [ "vp_board_vertical_left", "vp_board_vertical_left_rotW_right_rotE", "vp_board_vertical_right", "vp_board_vertical_left_rotE_right_rotW" ]
       }
     ]
   },
@@ -67,6 +82,21 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
+        "bg": [ "vp_board_vertical_right", "vp_board_vertical_left_rotE_right_rotW", "vp_board_vertical_left", "vp_board_vertical_left_rotW_right_rotE" ]
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_metal",
+        "bg": [ "vp_board_vertical_right", "vp_board_vertical_left_rotE_right_rotW", "vp_board_vertical_left", "vp_board_vertical_left_rotW_right_rotE" ]
+      },
+      {
+        "id": "lightblood",
+        "fg": "lightblood_vertical",
+        "bg": [ "vp_board_vertical_right", "vp_board_vertical_left_rotE_right_rotW", "vp_board_vertical_left", "vp_board_vertical_left_rotW_right_rotE" ]
+      },
+      {
+        "id": "heavyblood",
+        "fg": "heavyblood_vertical",
         "bg": [ "vp_board_vertical_right", "vp_board_vertical_left_rotE_right_rotW", "vp_board_vertical_left", "vp_board_vertical_left_rotW_right_rotE" ]
       }
     ]
@@ -80,6 +110,21 @@
         "id": "broken",
         "fg": "crack_metal_center",
         "bg": "vp_board_horizontal_front"
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_metal",
+        "bg": "vp_board_horizontal_front"
+      },
+      {
+        "id": "lightblood",
+        "fg": "lightblood_horizontal",
+        "bg": "vp_board_horizontal_front"
+      },
+      {
+        "id": "heavyblood",
+        "fg": "heavyblood_horizontal",
+        "bg": "vp_board_horizontal_front"
       }
     ]
   },
@@ -91,6 +136,21 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
+        "bg": [ "vp_board_horizontal_front", "vp_board_horizontal_front_rotW", "vp_board_horizontal_front", "vp_board_horizontal_front_rotE" ]
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_metal",
+        "bg": [ "vp_board_horizontal_front", "vp_board_horizontal_front_rotW", "vp_board_horizontal_front", "vp_board_horizontal_front_rotE" ]
+      },
+      {
+        "id": "lightblood",
+        "fg": "lightblood_horizontal",
+        "bg": [ "vp_board_horizontal_front", "vp_board_horizontal_front_rotW", "vp_board_horizontal_front", "vp_board_horizontal_front_rotE" ]
+      },
+	  {
+        "id": "heavyblood",
+        "fg": "heavyblood_horizontal",
         "bg": [ "vp_board_horizontal_front", "vp_board_horizontal_front_rotW", "vp_board_horizontal_front", "vp_board_horizontal_front_rotE" ]
       }
     ]
@@ -104,6 +164,21 @@
         "id": "broken",
         "fg": "crack_metal_center",
         "bg": [ "vp_board_horizontal_rear", "vp_board_horizontal_front_rotE", "vp_board_horizontal_front", "vp_board_horizontal_front_rotW" ]
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_metal",
+        "bg": [ "vp_board_horizontal_rear", "vp_board_horizontal_front_rotE", "vp_board_horizontal_front", "vp_board_horizontal_front_rotW" ]
+      },
+      {
+        "id": "lightblood",
+        "fg": "lightblood_horizontal",
+        "bg": [ "vp_board_horizontal_rear", "vp_board_horizontal_front_rotE", "vp_board_horizontal_front", "vp_board_horizontal_front_rotW" ]
+      },
+      {
+        "id": "heavyblood",
+        "fg": "heavyblood_horizontal",
+        "bg": [ "vp_board_horizontal_rear", "vp_board_horizontal_front_rotE", "vp_board_horizontal_front", "vp_board_horizontal_front_rotW" ]
       }
     ]
   },
@@ -115,6 +190,21 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
+        "bg": "vp_board_vertical_left"
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_metal",
+        "bg": "vp_board_vertical_left"
+      },
+      {
+        "id": "lightblood",
+        "fg": "lightblood_vertical",
+        "bg": "vp_board_vertical_left"
+      },
+      {
+        "id": "heavyblood",
+        "fg": "heavyblood_vertical",
         "bg": "vp_board_vertical_left"
       }
     ]
@@ -200,6 +290,21 @@
         "id": "broken",
         "fg": "crack_metal_center",
         "bg": "vp_hdboard_horizontal_front"
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_metal",
+        "bg": "vp_hdboard_horizontal_front"
+      },
+      {
+        "id": "lightblood",
+        "fg": "lightblood_horizontal",
+        "bg": "vp_hdboard_horizontal_front"
+      },
+      {
+        "id": "heavyblood",
+        "fg": "heavyblood_horizontal",
+        "bg": "vp_hdboard_horizontal_front"
       }
     ]
   },
@@ -211,6 +316,21 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
+        "bg": [ "vp_hdboard_horizontal_front", "vp_hdboard_horizontal_front_rotW", "vp_hdboard_horizontal_front", "vp_hdboard_horizontal_front_rotE" ]
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_metal",
+        "bg": [ "vp_hdboard_horizontal_front", "vp_hdboard_horizontal_front_rotW", "vp_hdboard_horizontal_front", "vp_hdboard_horizontal_front_rotE" ]
+      },
+      {
+        "id": "lightblood",
+        "fg": "lightblood_vertical",
+        "bg": [ "vp_hdboard_horizontal_front", "vp_hdboard_horizontal_front_rotW", "vp_hdboard_horizontal_front", "vp_hdboard_horizontal_front_rotE" ]
+      },
+      {
+        "id": "heavyblood",
+        "fg": "heavyblood_horizontal",
         "bg": [ "vp_hdboard_horizontal_front", "vp_hdboard_horizontal_front_rotW", "vp_hdboard_horizontal_front", "vp_hdboard_horizontal_front_rotE" ]
       }
     ]
@@ -224,6 +344,21 @@
         "id": "broken",
         "fg": "crack_metal_center",
         "bg": [ "vp_hdboard_horizontal_rear", "vp_hdboard_horizontal_front_rotE", "vp_hdboard_horizontal_front", "vp_hdboard_horizontal_front_rotW" ]
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_metal",
+        "bg": [ "vp_hdboard_horizontal_rear", "vp_hdboard_horizontal_front_rotE", "vp_hdboard_horizontal_front", "vp_hdboard_horizontal_front_rotW" ]
+      },
+      {
+        "id": "lightblood",
+        "fg": "lightblood_horizontal",
+        "bg": [ "vp_hdboard_horizontal_rear", "vp_hdboard_horizontal_front_rotE", "vp_hdboard_horizontal_front", "vp_hdboard_horizontal_front_rotW" ]
+      },
+      {
+        "id": "heavyblood",
+        "fg": "heavyblood_horizontal",
+        "bg": [ "vp_hdboard_horizontal_rear", "vp_hdboard_horizontal_front_rotE", "vp_hdboard_horizontal_front", "vp_hdboard_horizontal_front_rotW" ]
       }
     ]
   },
@@ -236,6 +371,75 @@
         "id": "broken",
         "fg": "crack_metal_center",
         "bg": "vp_hdboard_vertical_left"
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_metal",
+        "bg": "vp_hdboard_vertical_left"
+      },
+      {
+        "id": "lightblood",
+        "fg": "lightblood_vertical",
+        "bg": "vp_hdboard_vertical_left"
+      },
+      {
+        "id": "heavyblood",
+        "fg": "heavyblood_vertical",
+        "bg": "vp_hdboard_vertical_left"
+      }
+    ]
+  },
+  {
+    "id": "vp_hdroof",
+    "fg": "vp_hdroof",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "vp_hdroof"
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_metal",
+        "bg": "vp_hdroof"
+      },
+      {
+        "id": "lightblood",
+        "fg": "lightblood_horizontal",
+        "bg": "vp_hdroof"
+      },
+      {
+        "id": "heavyblood",
+        "fg": "heavyblood_horizontal",
+        "bg": "vp_hdroof"
+      }
+    ]
+  },
+  {
+    "id": "vp_roof",
+    "fg": "vp_roof",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "vp_roof"
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_metal",
+        "bg": "vp_roof"
+      },
+      {
+        "id": "lightblood",
+        "fg": "lightblood_horizontal",
+        "bg": "vp_roof"
+      },
+      {
+        "id": "heavyblood",
+        "fg": "heavyblood_horizontal",
+        "bg": "vp_roof"
       }
     ]
   }
