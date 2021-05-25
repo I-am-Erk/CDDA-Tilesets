@@ -238,5 +238,29 @@
         "bg": "vp_hdboard_vertical_left"
       }
     ]
+  },
+  {
+    "id": "vp_hdroof",
+    "fg": "vp_hdroof",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "vp_hdroof"
+      }
+    ]
+  },
+  {
+    "id": "vp_roof",
+    "fg": "vp_roof",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": "vp_roof"
+      }
+    ]
   }
 ]
