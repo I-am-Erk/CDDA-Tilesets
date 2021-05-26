@@ -13,6 +13,21 @@
         "id": "broken",
         "fg": "crack_glass_center",
         "bg": "vp_reinforced_windshield_horizontal_front"
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_glass",
+        "bg": "vp_reinforced_windshield_horizontal_front"
+      },
+      {
+        "id": "lightblood",
+        "fg": "blood_glass_center",
+        "bg": "vp_reinforced_windshield_horizontal_front"
+      },
+      {
+        "id": "heavyblood",
+        "fg": "blood_glass_center",
+        "bg": "vp_reinforced_windshield_horizontal_front"
       }
     ]
   },
@@ -24,6 +39,21 @@
       {
         "id": "broken",
         "fg": "crack_glass_center",
+        "bg": "vp_windshield_reinforced_horizontal_rear"
+      },
+     {
+        "id": "blooded_broken",
+        "fg": "blood_crack_glass",
+        "bg": "vp_windshield_reinforced_horizontal_rear"
+      },
+     {
+        "id": "lightblood",
+        "fg": "blood_glass_center",
+        "bg": "vp_windshield_reinforced_horizontal_rear"
+      }
+     {
+        "id": "heavyblood",
+        "fg": "blood_glass_center",
         "bg": "vp_windshield_reinforced_horizontal_rear"
       }
     ]
@@ -37,6 +67,21 @@
         "id": "broken",
         "fg": "crack_glass_center",
         "bg": "vp_windshield_reinforced_horizontal_rear_edge"
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_glass",
+        "bg": "vp_windshield_reinforced_horizontal_rear_edge"
+      }
+      {
+        "id": "lightblood",
+        "fg": "blood_glass_center",
+        "bg": "vp_windshield_reinforced_horizontal_rear_edge"
+      },
+      {
+        "id": "heavyblood",
+        "fg": "blood_glass_center",
+        "bg": "vp_windshield_reinforced_horizontal_rear_edge"
       }
     ]
   },
@@ -47,7 +92,22 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_glass_right",
+        "bg": "vp_windshield_reinforced_nw"
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_right",
+        "bg": "vp_windshield_reinforced_nw"
+      },
+      {
+        "id": "lightblood",
+        "fg": "blood_glass_right",
+        "bg": "vp_windshield_reinforced_nw"
+      },
+      {
+        "id": "heavyblood",
+        "fg": "blood_glass_right",
         "bg": "vp_windshield_reinforced_nw"
       }
     ]
@@ -59,7 +119,22 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_glass_left",
+        "bg": "vp_windshield_reinforced_ne"
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_left",
+        "bg": "vp_windshield_reinforced_ne"
+      },
+      {
+        "id": "lightblood",
+        "fg": "blood_glass_left",
+        "bg": "vp_windshield_reinforced_ne"
+      },
+      {
+        "id": "heavyblood",
+        "fg": "blood_glass_left",
         "bg": "vp_windshield_reinforced_ne"
       }
     ]
@@ -71,7 +146,22 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_glass_right",
+        "bg": "vp_windshield_reinforced_sw"
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_right",
+        "bg": "vp_windshield_reinforced_sw"
+      },
+      {
+        "id": "lightblood",
+        "fg": "blood_glass_right",
+        "bg": "vp_windshield_reinforced_sw"
+      },
+      {
+        "id": "heavyblood",
+        "fg": "blood_glass_right",
         "bg": "vp_windshield_reinforced_sw"
       }
     ]
@@ -83,7 +173,22 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_glass_left",
+        "bg": "vp_windshield_reinforced_se"
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_left",
+        "bg": "vp_windshield_reinforced_se"
+      },
+      {
+        "id": "lightblood",
+        "fg": "blood_glass_left",
+        "bg": "vp_windshield_reinforced_se"
+      },
+      {
+        "id": "heavyblood",
+        "fg": "blood_glass_left",
         "bg": "vp_windshield_reinforced_se"
       }
     ]
@@ -95,7 +200,22 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_glass_right",
+        "bg": "vp_windshield_reinforced_sw_edge"
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_right",
+        "bg": "vp_windshield_reinforced_sw_edge"
+      },
+      {
+        "id": "lightblood",
+        "fg": "blood_glass_right",
+        "bg": "vp_windshield_reinforced_sw_edge"
+      },
+      {
+        "id": "heavyblood",
+        "fg": "blood_glass_right",
         "bg": "vp_windshield_reinforced_sw_edge"
       }
     ]
@@ -107,7 +227,22 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_glass_left",
+        "bg": "vp_windshield_reinforced_se_edge"
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_left",
+        "bg": "vp_windshield_reinforced_se_edge"
+      },
+      {
+        "id": "lightblood",
+        "fg": "blood_glass_left",
+        "bg": "vp_windshield_reinforced_se_edge"
+      },
+      {
+        "id": "heavyblood",
+        "fg": "blood_glass_left",
         "bg": "vp_windshield_reinforced_se_edge"
       }
     ]
@@ -119,7 +254,22 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_glass_left",
+        "bg": "vp_windshield_reinforced_vertical_left"
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "crack_glass_left",
+        "bg": "vp_windshield_reinforced_vertical_left"
+      },
+      {
+        "id": "lightblood",
+        "fg": "blood_glass_left",
+        "bg": "vp_windshield_reinforced_vertical_left"
+      },
+      {
+        "id": "heavyblood",
+        "fg": "blood_glass_left",
         "bg": "vp_windshield_reinforced_vertical_left"
       }
     ]
@@ -131,7 +281,22 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_glass_center",
+        "fg": "crack_glass_right",
+        "bg": "vp_windshield_reinforced_vertical_right"
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "crack_glass_right",
+        "bg": "vp_windshield_reinforced_vertical_right"
+      },
+      {
+        "id": "lightblood",
+        "fg": "blood_glass_right",
+        "bg": "vp_windshield_reinforced_vertical_right"
+      },
+      {
+        "id": "heavyblood",
+        "fg": "blood_glass_right",
         "bg": "vp_windshield_reinforced_vertical_right"
       }
     ]

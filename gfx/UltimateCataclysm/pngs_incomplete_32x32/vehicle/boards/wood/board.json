@@ -11,7 +11,37 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_metal_center",
+        "fg": "crack_metal_left",
+        "bg": [
+          "vp_woodboard_ne_rotN_sw_rotS",
+          "vp_woodboard_ne_rotW_sw_rotE",
+          "vp_woodboard_sw_rotN_ne_rotS",
+          "vp_woodboard_sw_rotw_ne_rotE"
+        ]
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_left",
+        "bg": [
+          "vp_woodboard_ne_rotN_sw_rotS",
+          "vp_woodboard_ne_rotW_sw_rotE",
+          "vp_woodboard_sw_rotN_ne_rotS",
+          "vp_woodboard_sw_rotw_ne_rotE"
+        ]
+      },
+      {
+        "id": "lightblood",
+        "fg": "blood_glass_left",
+        "bg": [
+          "vp_woodboard_ne_rotN_sw_rotS",
+          "vp_woodboard_ne_rotW_sw_rotE",
+          "vp_woodboard_sw_rotN_ne_rotS",
+          "vp_woodboard_sw_rotw_ne_rotE"
+        ]
+      },
+      {
+        "id": "heavyblood",
+        "fg": "blood_glass_left",
         "bg": [
           "vp_woodboard_ne_rotN_sw_rotS",
           "vp_woodboard_ne_rotW_sw_rotE",
@@ -33,7 +63,37 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_metal_center",
+        "fg": "crack_metal_right",
+        "bg": [
+          "vp_woodboard_nw_rotN_se_rotS",
+          "vp_woodboard_nw_rotw_se_rotE",
+          "vp_woodboard_se_rotN_nw_rotS",
+          "vp_woodboard_se_rotW_nw_rotE"
+        ]
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_right",
+        "bg": [
+          "vp_woodboard_nw_rotN_se_rotS",
+          "vp_woodboard_nw_rotw_se_rotE",
+          "vp_woodboard_se_rotN_nw_rotS",
+          "vp_woodboard_se_rotW_nw_rotE"
+        ]
+      },
+      {
+        "id": "lightblood",
+        "fg": "blood_glass_right",
+        "bg": [
+          "vp_woodboard_nw_rotN_se_rotS",
+          "vp_woodboard_nw_rotw_se_rotE",
+          "vp_woodboard_se_rotN_nw_rotS",
+          "vp_woodboard_se_rotW_nw_rotE"
+        ]
+      },
+      {
+        "id": "heavyblood",
+        "fg": "blood_glass_right",
         "bg": [
           "vp_woodboard_nw_rotN_se_rotS",
           "vp_woodboard_nw_rotw_se_rotE",
@@ -55,7 +115,37 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_metal_center",
+        "fg": "crack_metal_left",
+        "bg": [
+          "vp_woodboard_se_rotN_nw_rotS",
+          "vp_woodboard_se_rotW_nw_rotE",
+          "vp_woodboard_nw_rotN_se_rotS",
+          "vp_woodboard_nw_rotw_se_rotE"
+        ]
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_left",
+        "bg": [
+          "vp_woodboard_se_rotN_nw_rotS",
+          "vp_woodboard_se_rotW_nw_rotE",
+          "vp_woodboard_nw_rotN_se_rotS",
+          "vp_woodboard_nw_rotw_se_rotE"
+        ]
+      },
+      {
+        "id": "lightblood",
+        "fg": "blood_glass_left",
+        "bg": [
+          "vp_woodboard_se_rotN_nw_rotS",
+          "vp_woodboard_se_rotW_nw_rotE",
+          "vp_woodboard_nw_rotN_se_rotS",
+          "vp_woodboard_nw_rotw_se_rotE"
+        ]
+      },
+      {
+        "id": "heavyblood",
+        "fg": "blood_glass_left",
         "bg": [
           "vp_woodboard_se_rotN_nw_rotS",
           "vp_woodboard_se_rotW_nw_rotE",
@@ -77,7 +167,37 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_metal_center",
+        "fg": "crack_metal_right",
+        "bg": [
+          "vp_woodboard_sw_rotN_ne_rotS",
+          "vp_woodboard_sw_rotw_ne_rotE",
+          "vp_woodboard_ne_rotN_sw_rotS",
+          "vp_woodboard_ne_rotW_sw_rotE"
+        ]
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_right",
+        "bg": [
+          "vp_woodboard_sw_rotN_ne_rotS",
+          "vp_woodboard_sw_rotw_ne_rotE",
+          "vp_woodboard_ne_rotN_sw_rotS",
+          "vp_woodboard_ne_rotW_sw_rotE"
+        ]
+      },
+      {
+        "id": "lightblood",
+        "fg": "blood_glass_right",
+        "bg": [
+          "vp_woodboard_sw_rotN_ne_rotS",
+          "vp_woodboard_sw_rotw_ne_rotE",
+          "vp_woodboard_ne_rotN_sw_rotS",
+          "vp_woodboard_ne_rotW_sw_rotE"
+        ]
+      },
+      {
+        "id": "heavyblood",
+        "fg": "blood_glass_right",
         "bg": [
           "vp_woodboard_sw_rotN_ne_rotS",
           "vp_woodboard_sw_rotw_ne_rotE",
@@ -106,6 +226,36 @@
           "vp_woodboard_vertical_right_rotN_left_rotS",
           "vp_woodboard_horizontal_front_rotN_rear_rotS"
         ]
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_metal",
+        "bg": [
+          "vp_woodboard_vertical_left_rotN_right_rotS",
+          "vp_woodboard_horizontal_rear_rotN_front_rotS",
+          "vp_woodboard_vertical_right_rotN_left_rotS",
+          "vp_woodboard_horizontal_front_rotN_rear_rotS"
+        ]
+      },
+      {
+        "id": "lightblood",
+        "fg": "lightblood_vertical",
+        "bg": [
+          "vp_woodboard_vertical_left_rotN_right_rotS",
+          "vp_woodboard_horizontal_rear_rotN_front_rotS",
+          "vp_woodboard_vertical_right_rotN_left_rotS",
+          "vp_woodboard_horizontal_front_rotN_rear_rotS"
+        ]
+      },
+      {
+        "id": "heavyblood",
+        "fg": "heavyblood_vertical",
+        "bg": [
+          "vp_woodboard_vertical_left_rotN_right_rotS",
+          "vp_woodboard_horizontal_rear_rotN_front_rotS",
+          "vp_woodboard_vertical_right_rotN_left_rotS",
+          "vp_woodboard_horizontal_front_rotN_rear_rotS"
+        ]
       }
     ]
   },
@@ -122,6 +272,36 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
+        "bg": [
+          "vp_woodboard_vertical_right_rotN_left_rotS",
+          "vp_woodboard_horizontal_front_rotN_rear_rotS",
+          "vp_woodboard_vertical_left_rotN_right_rotS",
+          "vp_woodboard_horizontal_rear_rotN_front_rotS"
+        ]
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_metal",
+        "bg": [
+          "vp_woodboard_vertical_right_rotN_left_rotS",
+          "vp_woodboard_horizontal_front_rotN_rear_rotS",
+          "vp_woodboard_vertical_left_rotN_right_rotS",
+          "vp_woodboard_horizontal_rear_rotN_front_rotS"
+        ]
+      },
+      {
+        "id": "lightblood",
+        "fg": "lightblood_vertical",
+        "bg": [
+          "vp_woodboard_vertical_right_rotN_left_rotS",
+          "vp_woodboard_horizontal_front_rotN_rear_rotS",
+          "vp_woodboard_vertical_left_rotN_right_rotS",
+          "vp_woodboard_horizontal_rear_rotN_front_rotS"
+        ]
+      },
+      {
+        "id": "heavyblood",
+        "fg": "heavyblood_vertical",
         "bg": [
           "vp_woodboard_vertical_right_rotN_left_rotS",
           "vp_woodboard_horizontal_front_rotN_rear_rotS",
@@ -154,6 +334,36 @@
           "vp_woodboard_horizontal_rear_rotN_front_rotS",
           "vp_woodboard_horizontal_rear_rotW_front_rotE"
         ]
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_metal",
+        "bg": [
+          "vp_woodboard_horizontal_front_rotN_rear_rotS",
+          "vp_woodboard_horizontal_front_rotW_rear_rotE",
+          "vp_woodboard_horizontal_rear_rotN_front_rotS",
+          "vp_woodboard_horizontal_rear_rotW_front_rotE"
+        ]
+      },
+      {
+        "id": "lightblood",
+        "fg": "lightblood_horizontal",
+        "bg": [
+          "vp_woodboard_horizontal_front_rotN_rear_rotS",
+          "vp_woodboard_horizontal_front_rotW_rear_rotE",
+          "vp_woodboard_horizontal_rear_rotN_front_rotS",
+          "vp_woodboard_horizontal_rear_rotW_front_rotE"
+        ]
+      },
+      {
+        "id": "heavyblood",
+        "fg": "heavyblood_horizontal",
+        "bg": [
+          "vp_woodboard_horizontal_front_rotN_rear_rotS",
+          "vp_woodboard_horizontal_front_rotW_rear_rotE",
+          "vp_woodboard_horizontal_rear_rotN_front_rotS",
+          "vp_woodboard_horizontal_rear_rotW_front_rotE"
+        ]
       }
     ]
   },
@@ -170,6 +380,36 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
+        "bg": [
+          "vp_woodboard_horizontal_rear_rotN_front_rotS",
+          "vp_woodboard_horizontal_rear_rotW_front_rotE",
+          "vp_woodboard_horizontal_front_rotN_rear_rotS",
+          "vp_woodboard_horizontal_front_rotW_rear_rotE"
+        ]
+      },
+      {
+        "id": "blooded_broken",
+        "fg": "blood_crack_metal",
+        "bg": [
+          "vp_woodboard_horizontal_rear_rotN_front_rotS",
+          "vp_woodboard_horizontal_rear_rotW_front_rotE",
+          "vp_woodboard_horizontal_front_rotN_rear_rotS",
+          "vp_woodboard_horizontal_front_rotW_rear_rotE"
+        ]
+      },
+      {
+        "id": "lightblood",
+        "fg": "lightblood_horizontal",
+        "bg": [
+          "vp_woodboard_horizontal_rear_rotN_front_rotS",
+          "vp_woodboard_horizontal_rear_rotW_front_rotE",
+          "vp_woodboard_horizontal_front_rotN_rear_rotS",
+          "vp_woodboard_horizontal_front_rotW_rear_rotE"
+        ]
+      },
+      {
+        "id": "heavyblood",
+        "fg": "heavyblood_horizontal",
         "bg": [
           "vp_woodboard_horizontal_rear_rotN_front_rotS",
           "vp_woodboard_horizontal_rear_rotW_front_rotE",
