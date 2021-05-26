@@ -199,7 +199,7 @@
   {
     "id": "vp_omnicam",
     "fg": "1747_vp_omnicam_0",
-    "bg": "1767_vp_hdroof_0",
+    "bg": "vp_hdroof",
     "multitile": true,
     "additional_tiles": [
       {

@@ -34,7 +34,7 @@
       },
       {
         "id": "blooded_broken",
-        "fg": "blood_crack_center",
+        "fg": "blood_crack_metal",
         "bg": [
           "vp_door_interior_rotN_open",
           "vp_door_interior_rotW_open",
@@ -64,7 +64,7 @@
       },
       {
         "id": "blooded_broken",
-        "fg": "blood_crack_center",
+        "fg": "blood_crack_metal",
         "bg": "vp_door_inboard"
       }
     ]
@@ -89,7 +89,7 @@
       },
       {
         "id": "blooded_broken",
-        "fg": "blood_crack_center",
+        "fg": "blood_crack_metal",
         "bg": [ "vp_door_front_open_rotN", "vp_door_front_open_rotW", "vp_door_front_open_rotS", "vp_door_front_open_rotE" ]
       }
     ]
@@ -129,7 +129,7 @@
       },
       {
         "id": "blooded_broken",
-        "fg": "blood_crack_center",
+        "fg": "blood_crack_metal",
         "bg": [
           "vp_door_rear_edge_open_rotN",
           "vp_door_rear_edge_open_rotW",
@@ -159,7 +159,7 @@
       },
       {
         "id": "blooded_broken",
-        "fg": "blood_crack_center",
+        "fg": "blood_crack_metal",
         "bg": [ "vp_door_left_open_rotN", "vp_door_left_open_rotW", "vp_door_left_open_rotS", "vp_door_left_open_rotE" ]
       }
     ]
@@ -184,7 +184,7 @@
       },
       {
         "id": "blooded_broken",
-        "fg": "blood_crack_center",
+        "fg": "blood_crack_metal",
         "bg": [ "vp_door_left_open_rotN", "vp_door_left_open_rotW", "vp_door_left_open_rotS", "vp_door_left_open_rotE" ]
       }
     ]
@@ -209,7 +209,7 @@
       },
       {
         "id": "blooded_broken",
-        "fg": "blood_crack_center",
+        "fg": "blood_crack_metal",
         "bg": [ "vp_door_left_open_rotN", "vp_door_left_open_rotW", "vp_door_left_open_rotS", "vp_door_left_open_rotE" ]
       }
     ]
@@ -234,7 +234,7 @@
       },
       {
         "id": "blooded_broken",
-        "fg": "blood_crack_center",
+        "fg": "blood_crack_metal",
         "bg": [ "vp_door_right_open_rotN", "vp_door_right_open_rotW", "vp_door_right_open_rotS", "vp_door_right_open_rotE" ]
       }
     ]
@@ -259,7 +259,7 @@
       },
       {
         "id": "blooded_broken",
-        "fg": "blood_crack_center",
+        "fg": "blood_crack_metal",
         "bg": [ "vp_door_right_open_rotN", "vp_door_right_open_rotW", "vp_door_right_open_rotS", "vp_door_right_open_rotE" ]
       }
     ]
@@ -284,7 +284,7 @@
       },
       {
         "id": "blooded_broken",
-        "fg": "blood_crack_center",
+        "fg": "blood_crack_metal",
         "bg": [ "vp_door_right_open_rotN", "vp_door_right_open_rotW", "vp_door_right_open_rotS", "vp_door_right_open_rotE" ]
       }
     ]
@@ -309,7 +309,7 @@
       },
       {
         "id": "blooded_broken",
-        "fg": "blood_crack_center",
+        "fg": "blood_crack_metal",
         "bg": "vp_door_shutter_open"
       }
     ]
@@ -334,7 +334,7 @@
       },
       {
         "id": "blooded_broken",
-        "fg": "blood_crack_center",
+        "fg": "blood_crack_metal",
         "bg": [ "vp_door_trunk_open", "vp_door_trunk_open_rotW", "vp_door_trunk_open_rotS", "vp_door_trunk_open_rotE" ]
       }
     ]
@@ -359,7 +359,7 @@
       },
       {
         "id": "blooded_broken",
-        "fg": "blood_crack_center",
+        "fg": "blood_crack_metal",
         "bg": [ "vp_hddoor_trunk_open", "vp_hddoor_trunk_open_rotW", "vp_hddoor_trunk_open_rotS", "vp_hddoor_trunk_open_rotE" ]
       }
     ]
@@ -384,7 +384,7 @@
       },
       {
         "id": "blooded_broken",
-        "fg": "blood_crack_center",
+        "fg": "blood_crack_metal",
         "bg": [ "vp_hddoor_left_open_rotN", "vp_hddoor_left_open_rotW", "vp_hddoor_left_open_rotS", "vp_hddoor_left_open_rotE" ]
       }
     ]
@@ -409,7 +409,7 @@
       },
       {
         "id": "blooded_broken",
-        "fg": "blood_crack_center",
+        "fg": "blood_crack_metal",
         "bg": [ "vp_hddoor_right_open_rotN", "vp_hddoor_right_open_rotW", "vp_hddoor_right_open_rotS", "vp_hddoor_right_open_rotE" ]
       }
     ]
@@ -434,7 +434,7 @@
       },
       {
         "id": "blooded_broken",
-        "fg": "blood_crack_center",
+        "fg": "blood_crack_metal",
         "bg": [ "vp_door_front_open_rotN", "vp_door_front_open_rotW", "vp_door_front_open_rotS", "vp_door_front_open_rotE" ]
       }
     ]
@@ -474,7 +474,7 @@
       },
       {
         "id": "blooded_broken",
-        "fg": "blood_crack_center",
+        "fg": "blood_crack_metal",
         "bg": [
           "vp_door_rear_edge_open_rotN",
           "vp_door_rear_edge_open_rotW",
@@ -519,7 +519,7 @@
       },
       {
         "id": "blooded_broken",
-        "fg": "blood_crack_center",
+        "fg": "blood_crack_metal",
         "bg": [
           "vp_door_opaque_left_open_rotN",
           "vp_door_opaque_left_open_rotW",
@@ -564,7 +564,7 @@
       },
       {
         "id": "blooded_broken",
-        "fg": "blood_crack_center",
+        "fg": "blood_crack_metal",
         "bg": [
           "vp_door_opaque_right_open_rotN",
           "vp_door_opaque_right_open_rotW",
@@ -594,7 +594,7 @@
       },
       {
         "id": "blooded_broken",
-        "fg": "blood_crack_center",
+        "fg": "blood_crack_metal",
         "bg": [ "vp_door_front_open_rotN", "vp_door_front_open_rotW", "vp_door_front_open_rotS", "vp_door_front_open_rotE" ]
       }
     ]
@@ -634,7 +634,7 @@
       },
       {
         "id": "blooded_broken",
-        "fg": "blood_crack_center",
+        "fg": "blood_crack_metal",
         "bg": [
           "vp_door_rear_edge_open_rotN",
           "vp_door_rear_edge_open_rotW",
@@ -684,7 +684,7 @@
       },
       {
         "id": "blooded_broken",
-        "fg": "blood_crack_center",
+        "fg": "blood_crack_metal",
         "bg": [
           "vp_hddoor_opaque_left_open_rotN",
           "vp_hddoor_opaque_left_open_rotW",
@@ -734,7 +734,7 @@
       },
       {
         "id": "blooded_broken",
-        "fg": "blood_crack_center",
+        "fg": "blood_crack_metal",
         "bg": [
           "vp_hddoor_opaque_right_open_rotN",
           "vp_hddoor_opaque_right_open_rotW",
@@ -769,7 +769,7 @@
       },
       {
         "id": "blooded_broken",
-        "fg": "blood_crack_center",
+        "fg": "blood_crack_metal",
         "bg": [ "vp_door_front_open_rotN", "vp_door_front_open_rotW", "vp_door_front_open_rotS", "vp_door_front_open_rotE" ]
       }
     ]
@@ -814,7 +814,7 @@
       },
       {
         "id": "blooded_broken",
-        "fg": "blood_crack_center",
+        "fg": "blood_crack_metal",
         "bg": [
           "vp_door_rear_edge_open_rotN",
           "vp_door_rear_edge_open_rotW",
