@@ -24,5 +24,8 @@
   },
   {
     "fillernormal.png": { "filler": true }
+  },
+  {
+    "fillertall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true }
   }
 ]
