@@ -18,5 +18,8 @@
   },
   {
     "fillersmall.png": { "sprite_width": 20, "sprite_height": 20, "filler": true }
+  },
+  {
+    "fillerlarge.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -32, "filler": true }
   }
 ]
