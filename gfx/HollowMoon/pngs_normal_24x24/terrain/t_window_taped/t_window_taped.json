@@ -1,0 +1,42 @@
+[
+  {
+    "id": [
+      "t_window_taped_season_spring",
+      "t_window_no_curtains_taped_season_spring",
+      "t_window_domestic_taped_season_spring",
+      "t_window_alarm_taped_season_spring"
+    ],
+    "fg": "t_window_taped_season_spring",
+    "bg": ""
+  },
+  {
+    "id": [
+      "t_window_taped_season_summer",
+      "t_window_no_curtains_taped_season_summer",
+      "t_window_domestic_taped_season_summer",
+      "t_window_alarm_taped_season_summer"
+    ],
+    "fg": "t_window_taped_season_summer",
+    "bg": ""
+  },
+  {
+    "id": [
+      "t_window_taped_season_autumn",
+      "t_window_no_curtains_taped_season_autumn",
+      "t_window_domestic_taped_season_autumn",
+      "t_window_alarm_taped_season_autumn"
+    ],
+    "fg": "t_window_taped_season_autumn",
+    "bg": ""
+  },
+  {
+    "id": [
+      "t_window_taped_season_winter",
+      "t_window_no_curtains_taped_season_winter",
+      "t_window_domestic_taped_season_winter",
+      "t_window_alarm_taped_season_winter"
+    ],
+    "fg": "t_window_taped_season_winter",
+    "bg": ""
+  }
+]
