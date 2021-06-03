@@ -33,5 +33,8 @@
   },
   {
     "tiny.png": { "sprite_width": 16, "sprite_height": 16, "sprite_offset_x": 16, "sprite_offset_y": 0 }
+  },
+  {
+    "tallfurniture.png": { "sprite_width": 32, "sprite_height": 37, "sprite_offset_x": 0, "sprite_offset_y": -5 }
   }
 ]
