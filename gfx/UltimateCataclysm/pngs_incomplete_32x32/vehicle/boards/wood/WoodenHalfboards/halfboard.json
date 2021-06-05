@@ -1,0 +1,68 @@
+[
+  {
+    "id": [ "vp_woodhalfboard_ne" ],
+    "fg": [ "vp_Wooden_Halfboard_Frontright" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": [ "vp_Wooden_Halfboard_Frontright" ] } ]
+  },
+  {
+    "id": "vp_woodhalfboard_nw",
+    "fg": [ "vp_Wooden_Halfboard_Frontleft" ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": [ "vp_Wooden_Halfboard_Frontleft" ] } ]
+  },
+  {
+    "id": "vp_woodhalfboard_se",
+    "fg": [ "vp_Wooden_Halfboard_RearRight" ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": [ "vp_Wooden_Halfboard_RearRight" ] } ]
+  },
+  {
+    "id": "vp_woodhalfboard_sw",
+    "fg": [ "vp_Wooden_Halfboard_RearLeft" ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": [ "vp_Wooden_Halfboard_RearLeft" ] } ]
+  },
+  {
+    "id": [ "vp_woodhalfboard_vertical_left", "vp_woodhalfboard_vertical_2_left", "vp_woodhalfboard_vertical_T_left" ],
+    "fg": [ "vp_Wooden_Halfboard_LeftVertical" ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": [ "vp_Wooden_Halfboard_LeftVertical" ] } ]
+  },
+  {
+    "id": [ "vp_woodhalfboard_vertical_right", "vp_woodhalfboard_vertical_2_right", "vp_woodhalfboard_vertical_T_right" ],
+    "fg": [ "vp_Wooden_Halfboard_RightVertical" ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": [ "vp_Wooden_Halfboard_RightVertical" ] } ]
+  },
+  {
+    "id": [
+      "vp_woodhalfboard_horizontal",
+      "vp_woodhalfboard_horizontal_2",
+      "vp_woodhalfboard_horizontal_front",
+      "vp_woodhalfboard_horizontal_2_front"
+    ],
+    "fg": [ "vp_Wooden_Halfboard_Front" ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": [ "vp_Wooden_Halfboard_Front" ] } ]
+  },
+  {
+    "id": [ "vp_woodhalfboard_horizontal_rear", "vp_woodhalfboard_horizontal_2_rear" ],
+    "fg": [ "vp_Wooden_Halfboard_Rear" ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": [ "vp_Wooden_Halfboard_Rear" ] } ]
+  },
+  {
+    "id": [ "vp_woodhalfboard", "vp_woodhalfboard_cross", "vp_woodhalfboard_vertical", "vp_woodhalfboard_vertical_2" ],
+    "fg": [ "vp_Wooden_Halfboard_Cross" ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": [ "vp_Wooden_Halfboard_Cross" ] } ]
+  },
+  {
+    "id": [ "vp_woodhalfboard_cover" ],
+    "fg": [ "vp_Wooden_Halfboard_Cover" ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": [ "vp_Wooden_Halfboard_Cover" ] } ]
+  }
+]
