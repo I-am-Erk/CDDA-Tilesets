@@ -1,0 +1,38 @@
+[
+  {
+    "id": [ "overlay_male_mutation_WILDSHAPE:FISH" ],
+    "fg": [ "overlay_male_mutation_WILDSHAPE-FISH" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": [ "overlay_female_mutation_WILDSHAPE:FISH" ],
+    "fg": [ "overlay_female_mutation_WILDSHAPE-FISH" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": [ "overlay_male_mutation_WILDSHAPE:BEAR" ],
+    "fg": [ "overlay_male_mutation_WILDSHAPE-BEAR" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": [ "overlay_female_mutation_WILDSHAPE:BEAR" ],
+    "fg": [ "overlay_female_mutation_WILDSHAPE-BEAR" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": [ "overlay_male_mutation_WILDSHAPE:DEER" ],
+    "fg": [ "overlay_male_mutation_WILDSHAPE-DEER" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": [ "overlay_female_mutation_WILDSHAPE:DEER" ],
+    "fg": [ "overlay_female_mutation_WILDSHAPE-DEER" ],
+    "rotates": false,
+    "bg": [  ]
+  }
+]
