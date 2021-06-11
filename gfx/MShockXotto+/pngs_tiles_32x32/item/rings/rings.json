@@ -1,0 +1,47 @@
+[
+  {
+    "id": [ "garnet_gold_ring", "ruby_gold_ring" ],
+    "fg": [ "garnet_gold_ring" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "garnet_silver_ring", "ruby_silver_ring" ],
+    "fg": [ "garnet_silver_ring" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "garnet_platinum_ring", "ruby_platinum_ring" ],
+    "fg": [ "garnet_platinum_ring" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "sapphire_gold_ring", "alexandrite_gold_ring" ],
+    "fg": [ "sapphire_gold_ring" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "sapphire_silver_ring", "alexandrite_silver_ring" ],
+    "fg": [ "sapphire_silver_ring" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "sapphire_platinum_ring", "alexandrite_platinum_ring" ],
+    "fg": [ "sapphire_platinum_ring" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "opal_gold_ring", "pearl_gold_ring" ],
+    "fg": [ "opal_gold_ring" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "opal_silver_ring", "pearl_silver_ring" ],
+    "fg": [ "opal_silver_ring" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "opal_platinum_ring", "pearl_platinum_ring" ],
+    "fg": [ "opal_platinum_ring" ],
+    "bg": [  ]
+  }
+]
