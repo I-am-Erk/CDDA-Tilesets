@@ -50,7 +50,14 @@ def replace_colors(season_file: str, season: str) -> Image:
     current_color = 0
 
     for color in DEFAULT_COLORS:
-        # TODO: describe
+        # We're iterating through each default (spring) color. We've used numpy
+        # to turn the image into an array (var data). As we iterate through
+        # each spring color we're also iterating through the replacement colors
+        # array. We're basically mass replacing the default colors, starting
+        # with the lightest and moving to the darkest. Afterwards we use numpy
+        # to reconstruct the image. This method (replace_colors) is run for
+        # each alternative season (summer, fall and winter).
+        # https://github.com/I-am-Erk/CDDA-Tilesets/pull/628/files#r639298118
         data[(data == color).all(axis=-1)] = replacement_colors[current_color]
         current_color = current_color + 1
 
@@ -67,7 +74,13 @@ def transparent_background(img: Image) -> Image:
     new_data = []
     for item in img_data:
         if item[0] == 21 and item[1] == 19 and item[2] == 21:
-            # TODO: describe
+            # Each item corresponds to a pixel. 21, 19, 21 is the background
+            # color I used in my image editor when drawing the icons. If we
+            # come across this color we are adding 255,255,255,0 (a transparent
+            # pixel) to new_data. Otherwise we are adding the pixel as is to
+            # new_data. At the end it is reconstructed with transparency where
+            # the background color used to be. Obviously not very efficient
+            # https://github.com/I-am-Erk/CDDA-Tilesets/pull/628/files#r639307434
             new_data.append((255, 255, 255, 0))
         else:
             new_data.append(item)
