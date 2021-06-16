@@ -2,7 +2,7 @@
   "id": "t_wall_log",
   "multitile": true,
   "fg": "t_wall_log_unconnected",
-  "bg": "large_empty",
+  "bg": "t_grass",
   "additional_tiles": [
     {
       "id": "center",
