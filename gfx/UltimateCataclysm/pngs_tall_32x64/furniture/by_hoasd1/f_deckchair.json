@@ -1,0 +1,9 @@
+{
+  "id": "f_deckchair",
+  "fg": [
+    { "weight": 1, "sprite": "f_deckchair_blue" }, 
+    { "weight": 1, "sprite": "f_deckchair_green" },
+	{ "weight": 1, "sprite": "f_deckchair_red" }
+  ],
+  "bg": ""
+}
