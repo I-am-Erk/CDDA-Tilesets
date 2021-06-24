@@ -1,0 +1,12 @@
+[
+  {
+    "id": "overlay_female_wielded_stepladder",
+    "fg": "stepladder_wielded_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_wielded_stepladder",
+    "fg": "stepladder_wielded_m",
+    "bg": ""
+  }
+]
