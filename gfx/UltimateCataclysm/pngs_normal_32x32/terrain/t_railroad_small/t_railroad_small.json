@@ -1,0 +1,28 @@
+[
+  {
+    "id": "t_railroad_small",
+    "multitile": true,
+    "fg": "t_railroad_small_edge_ew",
+    "bg": "t_railroad_rubble_center",
+    "additional_tiles": [
+      { "id": "center", "bg": "t_railroad_rubble_center", "fg": "t_railroad_small_edge_ew" },
+      {
+        "id": "corner",
+        "bg": "t_railroad_rubble_center",
+        "fg": [ "t_railroad_small_edge_ew", "t_railroad_small_edge_ns", "t_railroad_small_edge_ew", "t_railroad_small_edge_ns" ]
+      },
+      {
+        "id": "t_connection",
+        "bg": "t_railroad_rubble_center",
+        "fg": [ "t_railroad_small_edge_ns", "t_railroad_small_edge_ew", "t_railroad_small_edge_ns", "t_railroad_small_edge_ew" ]
+      },
+      { "id": "edge", "bg": "", "fg": [ "t_railroad_small_edge_ns", "t_railroad_small_edge_ew" ] },
+      {
+        "id": "end_piece",
+        "bg": "t_railroad_rubble_center",
+        "fg": [ "t_railroad_small_edge_ns", "t_railroad_small_edge_ew", "t_railroad_small_edge_ns", "t_railroad_small_edge_ew" ]
+      },
+      { "bg": "t_railroad_rubble_center", "id": "unconnected", "fg": "t_railroad_small_edge_ns" }
+    ]
+  }
+]
