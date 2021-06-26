@@ -1,44 +1,57 @@
 [
   {
     "id": [
-      "mre_asianbeef",
-      "mre_bbqbeef",
-      "mre_bbqbeef",
-      "mre_beeftaco",
-      "mre_meatball",
-      "mre_pepperjackbeef",
-      "mre_ravioli",
-      "mre_southwestbeef",
-      "mre_spaghetti"
+      "mre_asianbeef_box",
+      "mre_bbqbeef_box",
+      "mre_beeftaco_box",
+      "mre_meatball_box",
+      "mre_pepperjackbeef_box",
+      "mre_ravioli_box",
+      "mre_southwestbeef_box",
+      "mre_spaghetti_box",
+      "mre_beef_box",
+      "mre_beefstew_box"
     ],
     "fg": [ "mre_beef" ],
     "rotates": false,
     "bg": [  ]
   },
   {
-    "id": [ "mre_chickenburritobowl", "mre_chickennoodle", "mre_chickenpesto", "mre_mexicanchickenstew", "mre_chicken" ],
+    "id": [
+      "mre_chickenburritobowl_box",
+      "mre_chickennoodle_box",
+      "mre_chickenpesto_box",
+      "mre_mexicanchickenstew_box",
+      "mre_chicken_box"
+    ],
     "fg": [ "mre_chicken" ],
     "rotates": false,
     "bg": [  ]
   },
   {
     "id": [
-      "mre_cheesetort",
-      "mre_chilibeans",
-      "mre_chilimac",
-      "mre_macaronimarinara",
-      "mre_veggy",
-      "mre_mushroomfettuccine",
-      "mre_ratatouille",
-      "mre_sfettuccine"
+      "mre_cheesetort_box",
+      "mre_chilibeans_box",
+      "mre_chilimac_box",
+      "mre_macaronimarinara_box",
+      "mre_veggy_box",
+      "mre_mushroomfettuccine_box",
+      "mre_ratatouille_box",
+      "mre_sfettuccine_box"
     ],
     "fg": [ "mre_veggy" ],
     "rotates": false,
     "bg": [  ]
   },
   {
-    "id": [ "mre_hotdog", "mre_hashbrownbacon", "mre_maplesausage" ],
+    "id": [ "mre_hotdog_box", "mre_hashbrownbacon_box", "mre_maplesausage_box" ],
     "fg": [ "mre_hotdog" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": [ "mre_accessory", "mre_dessert" ],
+    "fg": [ "mre_smallbox" ],
     "rotates": false,
     "bg": [  ]
   }
