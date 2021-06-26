@@ -1,0 +1,45 @@
+[
+  {
+    "id": [
+      "mre_asianbeef",
+      "mre_bbqbeef",
+      "mre_bbqbeef",
+      "mre_beeftaco",
+      "mre_meatball",
+      "mre_pepperjackbeef",
+      "mre_ravioli",
+      "mre_southwestbeef",
+      "mre_spaghetti"
+    ],
+    "fg": [ "mre_beef" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": [ "mre_chickenburritobowl", "mre_chickennoodle", "mre_chickenpesto", "mre_mexicanchickenstew", "mre_chicken" ],
+    "fg": [ "mre_chicken" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "mre_cheesetort",
+      "mre_chilibeans",
+      "mre_chilimac",
+      "mre_macaronimarinara",
+      "mre_veggy",
+      "mre_mushroomfettuccine",
+      "mre_ratatouille",
+      "mre_sfettuccine"
+    ],
+    "fg": [ "mre_veggy" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": [ "mre_hotdog", "mre_hashbrownbacon", "mre_maplesausage" ],
+    "fg": [ "mre_hotdog" ],
+    "rotates": false,
+    "bg": [  ]
+  }
+]
