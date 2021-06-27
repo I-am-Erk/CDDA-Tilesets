@@ -1,0 +1,10 @@
+{
+  "id": "mon_tankbot",
+  "fg": [
+    { "weight": 10, "sprite": "mon_tankbot" },
+    { "weight": 1, "sprite": "mon_tankbot_1" },
+    { "weight": 3, "sprite": "mon_tankbot_2" }
+  ],
+  "bg": "",
+  "rotates": false
+}
