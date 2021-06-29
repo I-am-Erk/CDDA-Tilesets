@@ -1,6 +1,6 @@
 [
   {
-    "id": "forklift_fork",
+    "id": "vp_forklift_fork",
     "fg": [ "forklift_fork_rotN", "forklift_fork_rotW", "forklift_fork_rotS", "forklift_fork_rotE" ],
     "multitile": true,
     "additional_tiles": [
