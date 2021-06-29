@@ -1,0 +1,14 @@
+[
+  {
+    "id": "forklift_fork",
+    "fg": [ "forklift_fork_rotN", "forklift_fork_rotW", "forklift_fork_rotS", "forklift_fork_rotE" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "forklift_fork_rotN", "forklift_fork_rotW", "forklift_fork_rotS", "forklift_fork_rotE" ]
+      }
+    ]
+  }
+]
