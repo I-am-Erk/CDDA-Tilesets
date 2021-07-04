@@ -702,7 +702,7 @@
     ]
   },
   {
-    "id": "v6_combustion",
+    "id": ["v6_combustion", "v6_diesel"],
     "fg": "131_vp_engine_v6_0",
     "multitile": true,
     "additional_tiles": [
