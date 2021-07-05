@@ -12,12 +12,6 @@
     "rotates": true
   },
   {
-    "id": "vp_spike_wood",
-    "fg": [ "vp_spike_wood", "vp_spike_wood_left", "vp_spike_wood_down", "vp_spike_wood_right" ],
-    "bg": "",
-    "rotates": true
-  },
-  {
     "id": "vp_ram_military",
     "fg": [ "vp_ram_military", "vp_ram_military_left", "vp_ram_military_down", "vp_ram_military_right" ],
     "bg": "",
