@@ -1,18 +1,13 @@
 [
   {
     "id": "forest_water",
-    "fg": "t_underbrush",
-    "bg": "t_water_sh_center"
+    "fg": "swamp",
+    "bg": ""
   },
   {
     "id": "forest",
-    "fg": "t_underbrush",
-    "bg": "t_grass"
-  },
-  {
-    "id": "forest_thick",
-    "fg": "t_shrub",
-    "bg": "t_moss_center"
+    "fg": "forest",
+    "bg": "field"
   },
   {
     "id": [
@@ -62,7 +57,7 @@
   },
   {
     "id": "field",
-    "fg": "t_grass_dead_center",
-    "bg": "t_grass"
+    "fg": "field",
+    "bg": ""
   }
 ]

@@ -10,3 +10,4 @@ gfx/*/*.png
 # built book
 book
 *.png~
+*.kra
