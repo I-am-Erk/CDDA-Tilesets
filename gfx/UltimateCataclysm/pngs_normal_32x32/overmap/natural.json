@@ -11,28 +11,6 @@
   },
   {
     "id": [
-      "road_ne",
-      "road_ns",
-      "road_es",
-      "road_nes",
-      "road_wn",
-      "road_ew",
-      "road_new",
-      "road_sw",
-      "road_nsw",
-      "road_esw",
-      "road_nesw",
-      "road_end",
-      "road_end_north",
-      "road_end_south",
-      "road_end_west",
-      "road_end_east"
-    ],
-    "fg": "t_pavement_y",
-    "bg": ""
-  },
-  {
-    "id": [
       "river",
       "river_sw",
       "river_nw",
