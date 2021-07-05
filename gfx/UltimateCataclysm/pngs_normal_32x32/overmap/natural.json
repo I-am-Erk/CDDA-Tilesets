@@ -69,5 +69,10 @@
     "id": "forest_trail",
     "fg": "t_dirt_center",
     "bg": ""
+  },
+  {
+    "id": "dirt_road",
+    "fg": "t_dirt_center",
+    "bg": ""
   }
 ]
