@@ -1,59 +1,49 @@
-{
-  "id": "road",
-  "fg": "road_unconnected",
-  "bg": "",
-  "multitile": true,
-  "additional_tiles": [
-    {
-      "id": "center",
-      "fg": "road_center",
-      "bg": ""
-    },
-    {
-      "id": "corner",
-      "fg": [
-        "road_corner_nw",
-        "road_corner_sw",
-        "road_corner_se",
-        "road_corner_ne"
-      ],
-      "bg": ""
-    },
-    {
-      "id": "t_connection",
-      "fg": [
-        "road_t_connection_n",
-        "road_t_connection_w",
-        "road_t_connection_s",
-        "road_t_connection_e"
-      ],
-      "bg": ""
-    },
-    {
-      "id": "edge",
-      "fg": [
-        "road_edge_ns",
-        "road_edge_ew"
-      ],
-      "bg": ""
-    },
-    {
-      "id": "end_piece",
-      "fg": [
-        "road_end_piece_n",
-        "road_end_piece_w",
-        "road_end_piece_s",
-        "road_end_piece_e"
-      ],
-      "bg": ""
-    },
-    {
-      "id": "unconnected",
-      "fg": [
-        "road_unconnected",
-        "road_unconnected"
-      ],
-      "bg": ""
-    }
-  ]
-}
+[{
+  "id": "road_end",
+  "fg": "road_unconnected"
+},{
+  "id": "road_nesw",
+  "fg": "road_center"
+},{
+  "id": "road_es",
+  "fg": "road_corner_nw"
+},{
+  "id": "road_ne",
+  "fg": "road_corner_sw"
+},{
+  "id": "road_wn",
+  "fg": "road_corner_se"
+},{
+  "id": "road_sw",
+  "fg": "road_corner_ne"
+},{
+  "id": "road_esw",
+  "fg": "road_t_connection_n"
+},{
+  "id": "road_nes",
+  "fg": "road_t_connection_w"
+},{
+  "id": "road_new",
+  "fg": "road_t_connection_s"
+},{
+  "id": "road_nsw",
+  "fg": "road_t_connection_e"
+},{
+  "id": "road_ns",
+  "fg": "road_edge_ns"
+},{
+  "id": "road_ew",
+  "fg": "road_edge_ew"
+},{
+  "id": "road_end_north",
+  "fg": "road_end_piece_n"
+},{
+  "id": "road_end_west",
+  "fg": "road_end_piece_w"
+},{
+  "id": "road_end_south",
+  "fg": "road_end_piece_s"
+},{
+  "id": "road_end_east",
+  "fg": "road_end_piece_e"
+}]
