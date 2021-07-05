@@ -10,11 +10,6 @@
     "bg": "field"
   },
   {
-    "id": "forest_thick",
-    "fg": "forest_thick",
-    "bg": "field_large"
-  },
-  {
     "id": [
       "road_ne",
       "road_ns",
@@ -63,16 +58,6 @@
   {
     "id": "field",
     "fg": "field",
-    "bg": ""
-  },
-  {
-    "id": "forest_trail",
-    "fg": "t_dirt_center",
-    "bg": ""
-  },
-  {
-    "id": "dirt_road",
-    "fg": "t_dirt_center",
     "bg": ""
   }
 ]
