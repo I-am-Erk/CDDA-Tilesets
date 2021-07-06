@@ -1,13 +1,17 @@
 [{
   "id": "farm_stills_3_north",
-  "fg": "rural_house_big_N"
+  "fg": "rural_house_big_N",
+  "bg": "field_tall"
 },{
   "id": "farm_stills_3_east",
-  "fg": "rural_house_big_E"
+  "fg": "rural_house_big_E",
+  "bg": "field_tall"
 },{
   "id": "farm_stills_3_south",
-  "fg": "rural_house_big_S"
+  "fg": "rural_house_big_S",
+  "bg": "field_tall"
 },{
   "id": "farm_stills_3_west",
-  "fg": "rural_house_big_W"
+  "fg": "rural_house_big_W",
+  "bg": "field_tall"
 }]

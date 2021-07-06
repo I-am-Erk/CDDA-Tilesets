@@ -1,13 +1,17 @@
 [{
   "id": "house_farm_north",
-  "fg": "rural_house_N"
+  "fg": "rural_house_N",
+  "bg": "field"
 },{
   "id": "house_farm_east",
-  "fg": "rural_house_E"
+  "fg": "rural_house_E",
+  "bg": "field"
 },{
   "id": "house_farm_south",
-  "fg": "rural_house_S"
+  "fg": "rural_house_S",
+  "bg": "field"
 },{
   "id": "house_farm_west",
-  "fg": "rural_house_W"
+  "fg": "rural_house_W",
+  "bg": "field"
 }]
