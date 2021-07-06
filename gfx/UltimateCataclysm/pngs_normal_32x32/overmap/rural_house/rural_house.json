@@ -1,0 +1,6 @@
+[{
+  "id": "house_farm",
+  "fg": [ "rural_house_faceN", "rural_house_faceE", "rural_house_faceS", "rural_house_faceW" ], 
+  "bg": "field",
+  "rotates": true
+}]

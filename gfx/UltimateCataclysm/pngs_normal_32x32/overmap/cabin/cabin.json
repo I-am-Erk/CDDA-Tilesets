@@ -1,0 +1,24 @@
+[
+  {
+    "id": [
+      "cabin",
+      "cabin_1",
+      "cabin_2",
+      "cabin_3",
+      "cabin_4",
+      "cabin_5",
+      "cabin_6",
+      "cabin_7",
+      "cabin_lapin",
+      "bandit_cabin",
+      "cabin_isherwood",
+      "cabin_lake",
+      "lake_cabin_boathouse",
+	    "cabin_strange",
+	    "cabin_strange_b"
+    ],
+    "fg": [ "cabin_faceN", "cabin_faceE", "cabin_faceS", "cabin_faceW" ], 
+    "bg": "field",
+    "rotates": true
+  }
+]
