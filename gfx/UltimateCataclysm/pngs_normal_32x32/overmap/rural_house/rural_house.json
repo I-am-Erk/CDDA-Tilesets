@@ -1,0 +1,13 @@
+[{
+  "id": "house_farm_north",
+  "fg": "rural_house_N"
+},{
+  "id": "house_farm_east",
+  "fg": "rural_house_E"
+},{
+  "id": "house_farm_south",
+  "fg": "rural_house_S"
+},{
+  "id": "house_farm_west",
+  "fg": "rural_house_W"
+}]
