@@ -88,7 +88,7 @@ def main(args):
 
     if args.overmap:
         json_content = [{
-          "id": f"{args.tile}_end",
+          "id": f"{args.tile}_isolated",
           "fg": f"{args.tile}_unconnected"
         },{
           "id": f"{args.tile}_nesw",
