@@ -1,0 +1,86 @@
+[
+  {
+    "id": [
+      "cabin_north",
+      "cabin_1_north",
+      "cabin_2_north",
+      "cabin_3_north",
+      "cabin_4_north",
+      "cabin_5_north",
+      "cabin_6_north",
+      "cabin_7_north",
+      "cabin_lapin_north",
+      "bandit_cabin",
+      "cabin_isherwood_north",
+      "cabin_lake_north",
+      "lake_cabin_boathouse_north",
+	  "cabin_strange_north",
+	  "cabin_strange_b_north"
+    ],
+    "fg": "cabin_N",
+    "bg": "field"
+  },
+  {
+    "id": [
+      "cabin_east",
+      "cabin_1_east",
+      "cabin_2_east",
+      "cabin_3_east",
+      "cabin_4_east",
+      "cabin_5_east",
+      "cabin_6_east",
+      "cabin_7_east",
+      "cabin_lapin_east",
+      "bandit_east",
+      "cabin_isherwood_east",
+      "cabin_lake_east",
+      "lake_cabin_boathouse_east",
+	  "cabin_strange_east",
+	  "cabin_strange_b_east"
+    ],
+    "fg": "cabin_E",
+    "bg": "field"
+  },
+  {
+    "id": [
+      "cabin_south",
+      "cabin_1_south",
+      "cabin_2_south",
+      "cabin_3_south",
+      "cabin_4_south",
+      "cabin_5_south",
+      "cabin_6_south",
+      "cabin_7_south",
+      "cabin_lapin_south",
+      "bandit_south",
+      "cabin_isherwood_south",
+      "cabin_lake_south",
+      "lake_cabin_boathouse_south",
+	  "cabin_strange_south",
+	  "cabin_strange_b_south"
+    ],
+    "fg": "cabin_S",
+    "bg": "field"
+  },
+  {
+    "id": [
+      "cabin_west",
+      "cabin_1_west",
+      "cabin_2_west",
+      "cabin_3_west",
+      "cabin_4_west",
+      "cabin_5_west",
+      "cabin_6_west",
+      "cabin_7_west",
+      "cabin_lapin_west",
+      "bandit_west",
+      "cabin_isherwood_west",
+      "cabin_lake_west",
+      "lake_cabin_boathouse_west",
+	  "cabin_strange_west",
+	  "cabin_strange_b_west"
+    ],
+    "fg": "cabin_W",
+    "bg": "field"
+  }
+]
