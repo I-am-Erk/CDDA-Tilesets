@@ -1,0 +1,66 @@
+[
+  {
+    "id": "generic_dirt_road_end",
+    "fg": "dirt_road_unconnected"
+  },
+  {
+    "id": "generic_dirt_road_nesw",
+    "fg": "dirt_road_center"
+  },
+  {
+    "id": "generic_dirt_road_es",
+    "fg": "dirt_road_corner_nw"
+  },
+  {
+    "id": "generic_dirt_road_ne",
+    "fg": "dirt_road_corner_sw"
+  },
+  {
+    "id": "generic_dirt_road_wn",
+    "fg": "dirt_road_corner_se"
+  },
+  {
+    "id": "generic_dirt_road_sw",
+    "fg": "dirt_road_corner_ne"
+  },
+  {
+    "id": "generic_dirt_road_esw",
+    "fg": "dirt_road_t_connection_n"
+  },
+  {
+    "id": "generic_dirt_road_nes",
+    "fg": "dirt_road_t_connection_w"
+  },
+  {
+    "id": "generic_dirt_road_new",
+    "fg": "dirt_road_t_connection_s"
+  },
+  {
+    "id": "generic_dirt_road_nsw",
+    "fg": "dirt_road_t_connection_e"
+  },
+  {
+    "id": "generic_dirt_road_ns",
+    "fg": "dirt_road_edge_ns"
+  },
+  {
+    "id": "generic_dirt_road_ew",
+    "fg": "dirt_road_edge_ew"
+  },
+  {
+    "id": "generic_dirt_road_end_north",
+    "fg": "dirt_road_end_piece_n"
+  },
+  {
+    "id": "generic_dirt_road_end_west",
+    "fg": "dirt_road_end_piece_w"
+  },
+  {
+    "id": "generic_dirt_road_end_south",
+    "fg": "dirt_road_end_piece_s"
+  },
+  {
+    "id": "generic_dirt_road_end_east",
+    "fg": "dirt_road_end_piece_e"
+  }
+]
