@@ -1,0 +1,18 @@
+[
+  {
+    "id": [
+      "2silos_north",
+      "2silos_south"
+    ],
+    "fg": "silos_NS",
+    "bg": "field"
+  },
+  {
+    "id": [
+      "2silos_east",
+      "2silos_west"
+    ],
+    "fg": "silos_EW",
+    "bg": "field"
+  }
+]
