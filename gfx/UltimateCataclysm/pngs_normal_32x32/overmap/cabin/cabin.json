@@ -14,8 +14,8 @@
       "cabin_isherwood_north",
       "cabin_lake_north",
       "lake_cabin_boathouse_north",
-	  "cabin_strange_north",
-	  "cabin_strange_b_north"
+	    "cabin_strange_north",
+	    "cabin_strange_b_north"
     ],
     "fg": "cabin_N",
     "bg": "field"
@@ -35,8 +35,8 @@
       "cabin_isherwood_east",
       "cabin_lake_east",
       "lake_cabin_boathouse_east",
-	  "cabin_strange_east",
-	  "cabin_strange_b_east"
+	    "cabin_strange_east",
+	    "cabin_strange_b_east"
     ],
     "fg": "cabin_E",
     "bg": "field"
@@ -56,8 +56,8 @@
       "cabin_isherwood_south",
       "cabin_lake_south",
       "lake_cabin_boathouse_south",
-	  "cabin_strange_south",
-	  "cabin_strange_b_south"
+	    "cabin_strange_south",
+	    "cabin_strange_b_south"
     ],
     "fg": "cabin_S",
     "bg": "field"
@@ -77,8 +77,8 @@
       "cabin_isherwood_west",
       "cabin_lake_west",
       "lake_cabin_boathouse_west",
-	  "cabin_strange_west",
-	  "cabin_strange_b_west"
+  	  "cabin_strange_west",
+  	  "cabin_strange_b_west"
     ],
     "fg": "cabin_W",
     "bg": "field"
