@@ -1,0 +1,8 @@
+[
+  {
+    "id": "2silos",
+    "fg": [ "silos_faceNS", "silos_faceEW", "silos_faceNS", "silos_faceEW" ], 
+    "bg": "field",
+    "rotates": true
+  }
+]
