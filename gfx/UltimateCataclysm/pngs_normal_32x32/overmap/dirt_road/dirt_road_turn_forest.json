@@ -1,0 +1,66 @@
+[
+  {
+    "id": "dirt_road_turn_forest_end",
+    "fg": "dirt_road_unconnected"
+  },
+  {
+    "id": "dirt_road_turn_forest_nesw",
+    "fg": "dirt_road_center"
+  },
+  {
+    "id": "dirt_road_turn_forest_es",
+    "fg": "dirt_road_corner_nw"
+  },
+  {
+    "id": "dirt_road_turn_forest_ne",
+    "fg": "dirt_road_corner_sw"
+  },
+  {
+    "id": "dirt_road_turn_forest_wn",
+    "fg": "dirt_road_corner_se"
+  },
+  {
+    "id": "dirt_road_turn_forest_sw",
+    "fg": "dirt_road_corner_ne"
+  },
+  {
+    "id": "dirt_road_turn_forest_esw",
+    "fg": "dirt_road_t_connection_n"
+  },
+  {
+    "id": "dirt_road_turn_forest_nes",
+    "fg": "dirt_road_t_connection_w"
+  },
+  {
+    "id": "dirt_road_turn_forest_new",
+    "fg": "dirt_road_t_connection_s"
+  },
+  {
+    "id": "dirt_road_turn_forest_nsw",
+    "fg": "dirt_road_t_connection_e"
+  },
+  {
+    "id": "dirt_road_turn_forest_ns",
+    "fg": "dirt_road_edge_ns"
+  },
+  {
+    "id": "dirt_road_turn_forest_ew",
+    "fg": "dirt_road_edge_ew"
+  },
+  {
+    "id": "dirt_road_turn_forest_end_north",
+    "fg": "dirt_road_end_piece_n"
+  },
+  {
+    "id": "dirt_road_turn_forest_end_west",
+    "fg": "dirt_road_end_piece_w"
+  },
+  {
+    "id": "dirt_road_turn_forest_end_south",
+    "fg": "dirt_road_end_piece_s"
+  },
+  {
+    "id": "dirt_road_turn_forest_end_east",
+    "fg": "dirt_road_end_piece_e"
+  }
+]
