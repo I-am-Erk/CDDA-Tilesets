@@ -21,7 +21,7 @@
   },
   {
     "id": "open_air",
-    "fg": "field",
+    "fg": "open_air",
     "bg": ""
   }
 ]
