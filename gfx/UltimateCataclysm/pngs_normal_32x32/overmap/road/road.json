@@ -1,6 +1,6 @@
 [{
-  "id": "road_end",
-  "fg": "road_center"
+  "id": "road_isolated",
+  "fg": "road_unconnected"
 },{
   "id": "road_nesw",
   "fg": "road_center"
