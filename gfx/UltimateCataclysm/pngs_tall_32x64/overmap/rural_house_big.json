@@ -1,5 +1,10 @@
 [{
-  "id": "farm_stills_3",
+  "id": [
+      "horse_farm_isherwood_13",
+	  "horse_farm_13",
+	  "farm_dairy_twd_4",
+	  "farm_stills_3"
+	],
   "fg": [ "rural_house_big_faceN", "rural_house_big_faceE", "rural_house_big_faceS", "rural_house_big_faceW" ], 
   "bg": "field_tall",
   "rotates": true
