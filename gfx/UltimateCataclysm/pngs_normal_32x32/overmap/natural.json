@@ -10,11 +10,6 @@
     "bg": "field"
   },
   {
-    "id": "river_center",
-    "fg": "t_water_moving_dp_center",
-    "bg": ""
-  },
-  {
     "id": "field",
     "fg": "field",
     "bg": ""
