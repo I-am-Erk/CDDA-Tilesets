@@ -10,32 +10,13 @@
     "bg": "field"
   },
   {
-    "id": [
-      "river",
-      "river_sw",
-      "river_nw",
-      "river_se",
-      "river_ne",
-      "river_north",
-      "river_south",
-      "river_west",
-      "river_east",
-      "river_c_not_sw",
-      "river_c_not_nw",
-      "river_c_not_se",
-      "river_c_not_ne"
-    ],
-    "fg": "t_water_moving_sh_center",
-    "bg": ""
-  },
-  {
-    "id": "river_center",
-    "fg": "t_water_moving_dp_center",
-    "bg": ""
-  },
-  {
     "id": "field",
     "fg": "field",
+    "bg": ""
+  },
+  {
+    "id": "open_air",
+    "fg": "open_air",
     "bg": ""
   }
 ]
