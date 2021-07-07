@@ -1,5 +1,10 @@
 [{
-  "id": "house_farm",
+  "id": [
+    "house_farm",
+	  "farm_2",
+	  "farm_isherwood_2",
+	  "2farm_11"
+	],
   "fg": [ "rural_house_faceN", "rural_house_faceE", "rural_house_faceS", "rural_house_faceW" ], 
   "bg": "field",
   "rotates": true
