@@ -1,0 +1,37 @@
+[{
+    "id": [ "river", "river_c_not_sw", "river_c_not_nw", "river_c_not_se", "river_c_not_ne" ],
+    "fg": "t_water_moving_sh_unconnected",
+    "bg": "field",
+},{
+    "id": "river_sw",
+    "fg": "t_water_moving_sh_corner_sw",
+    "bg": "field",
+},{
+    "id": "river_nw",
+    "fg": "t_water_moving_sh_corner_nw",
+    "bg": "field",
+},{
+    "id": "river_se",
+    "fg": "t_water_moving_sh_corner_se",
+    "bg": "field",
+},{
+    "id": "river_ne",
+    "fg": "t_water_moving_sh_corner_ne",
+    "bg": "field",
+},{
+    "id": "river_north",
+    "fg": "t_water_moving_sh_t_connection_n",
+    "bg": "field",
+},{
+    "id": "river_south",
+    "fg": "t_water_moving_sh_t_connection_s",
+    "bg": "field",
+},{
+    "id": "river_west",
+    "fg": "t_water_moving_sh_t_connection_w",
+    "bg": "field",
+},{
+    "id": "river_east",
+    "fg": "t_water_moving_sh_t_connection_e",
+    "bg": "field",
+}]
