@@ -1,6 +1,6 @@
 [{
   "id": [
-      "2farm_1",
+    "2farm_1",
 	  "2farm_10",
 	  "2farm_12",
 	  "2farm_13",
@@ -65,6 +65,6 @@
 	  "horse_farm_isherwood_8",
 	  "horse_farm_isherwood_2",
 	  "yard"
-    ],
+  ],
   "fg": "farm_field"
 }]
