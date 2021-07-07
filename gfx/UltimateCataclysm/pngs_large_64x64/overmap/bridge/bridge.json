@@ -16,6 +16,6 @@
 },{
   "id": "bridge_road",
   "fg": [ "bridge_faceNS", "bridge_faceEW", "bridge_faceNS", "bridge_faceEW" ], 
-  "bg": "t_water_moving_dp_center",
+  "bg": "",
   "rotates": true
 }]
