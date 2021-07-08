@@ -1,0 +1,1 @@
+{"id": ["vp_door_wood"], "fg": ["122_vp_door_wood_0"], "height_3d": 1, "multitile": true, "additional_tiles": [{"id": "open", "fg": ["123_vp_door_wood_1"], "bg": []}, {"id": "broken", "fg": ["237_vp_frame_wood_cover_1"], "bg": []}], "bg": []}
