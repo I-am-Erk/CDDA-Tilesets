@@ -3,10 +3,16 @@
 		"house_farm",
 		"farm_2",
 		"farm_isherwood_2",
-		"2farm_11",
-		"dairy_farm_SW"
+		"2farm_11"
 	],
 	"fg": [ "rural_house_faceN", "rural_house_faceE", "rural_house_faceS", "rural_house_faceW" ], 
+	"bg": "field",
+	"rotates": true
+},{
+	"id": [
+		"dairy_farm_SW"
+	],
+	"fg": [ "rural_house_faceS", "rural_house_faceW", "rural_house_faceN", "rural_house_faceE" ], 
 	"bg": "field",
 	"rotates": true
 }]
