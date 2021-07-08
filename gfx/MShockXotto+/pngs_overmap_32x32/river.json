@@ -1,0 +1,15 @@
+[
+  {
+    "id": "river",
+    "fg": [ "Riverseconddepth" ]
+  },
+  {
+    "id": [ "river_c_not_ne", "river_c_not_nw", "river_c_not_se", "river_c_not_sw" ],
+    "fg": [ "RiverEdgeN", "RiverEdgeE", "RiverEdgeS", "RiverEdgeW" ],
+    "rotates": true
+  },
+  {
+    "id": [ "river_ne", "river_nw", "river_se", "river_sw" ],
+    "fg": [ "Riverseconddepth" ]
+  }
+]

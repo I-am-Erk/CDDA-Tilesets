@@ -1,0 +1,14 @@
+[{
+  "id": "road_end",
+  "fg": [
+    "roadendN",
+    "roadendE",
+    "roadendS",
+    "roadendW"
+  ],
+  "rotates": true,
+  "bg": [
+    
+  ]
+}
+]
