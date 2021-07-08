@@ -1,0 +1,1 @@
+{"id": ["vp_kitchen_unit", "kitchen_unit", "vp_afs_kitchen_rig", "afs_kitchen_rig", "vp_afs_cooking_rig", "afs_cooking_rig"], "multitile": true, "fg": ["192_vp_kitchen_unit_0"], "additional_tiles": [{"id": "broken", "fg": ["235_vp_frame_cover_1"], "bg": []}], "bg": []}

@@ -1,0 +1,1 @@
+{"id": ["vp_wheel", "vp_wheel_steerable", "vp_wheel_motorbike", "vp_wheel_motorbike_steerable", "wheel_motorbike", "wheel", "vp_wheel_metal", "wheel_metal"], "multitile": true, "fg": ["148_vp_wheel_0", "149_vp_wheel_1"], "additional_tiles": [{"id": "broken", "fg": ["235_vp_frame_cover_1"], "bg": []}], "bg": []}
