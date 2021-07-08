@@ -5,7 +5,8 @@
 		"farm_isherwood_3",
 		"farm_dairy_twd_6",
 		"farm_dairy_twd_12",
-		"ranch_camp_66"
+		"ranch_camp_66",
+		"dairy_farm_SE"
 	],
 	"fg": [ "barn_faceNS", "barn_faceEW", "barn_faceNS", "barn_faceEW" ], 
 	"bg": "field",
