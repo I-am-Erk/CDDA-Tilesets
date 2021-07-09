@@ -11,7 +11,7 @@
 	"fg": [ "pasture_end_e", "pasture_end_s", "pasture_end_w", "pasture_end_n" ],
 	"rotates": true
 },{
-	"id": "dairy_farm_NW",
+	"id": "dairy_farm_NE",
 	"fg": [ "pasture_end_w", "pasture_end_n", "pasture_end_e", "pasture_end_s" ],
 	"rotates": true
 }]
