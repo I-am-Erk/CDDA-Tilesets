@@ -1,0 +1,1 @@
+{"id": ["vp_minifridge", "minifridge", "vp_minifreezer", "minifreezer"], "multitile": true, "fg": ["127_vp_minifridge_0"], "additional_tiles": [{"id": "broken", "fg": ["235_vp_frame_cover_1"], "bg": []}], "bg": []}

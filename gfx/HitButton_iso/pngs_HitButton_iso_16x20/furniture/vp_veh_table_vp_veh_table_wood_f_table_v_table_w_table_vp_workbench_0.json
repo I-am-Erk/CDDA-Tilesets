@@ -1,0 +1,1 @@
+{"id": ["vp_veh_table", "vp_veh_table_wood", "f_table", "v_table", "w_table", "vp_workbench"], "multitile": true, "height_3d": 3, "fg": ["95_vp_veh_table_0"], "additional_tiles": [{"id": "broken", "fg": ["235_vp_frame_cover_1"], "bg": []}], "bg": []}
