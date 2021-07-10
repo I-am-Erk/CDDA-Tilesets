@@ -1,0 +1,1 @@
+{"id": ["vp_seat", "vp_folding_seat", "vp_reclining_seat", "vp_seat_nocargo", "vp_seat_wood", "seat"], "multitile": true, "height_3d": 2, "fg": ["116_vp_seat_0", "117_vp_seat_1", "118_vp_seat_2", "119_vp_seat_3"], "additional_tiles": [{"id": "broken", "fg": ["235_vp_frame_cover_1"], "bg": []}], "bg": []}

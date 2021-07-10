@@ -1,0 +1,1 @@
+{"id": ["vp_wheel_small", "vp_wheel_small_steerable", "vp_wheel_barrow", "wheel_small", "wheel_barrow"], "multitile": true, "fg": ["154_vp_wheel_small_0", "155_vp_wheel_small_1"], "additional_tiles": [{"id": "broken", "fg": ["235_vp_frame_cover_1"], "bg": []}], "bg": []}

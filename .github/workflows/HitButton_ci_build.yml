@@ -1,0 +1,56 @@
+# preforms CI builds using compose.py from
+# https://github.com/CleverRaven/Cataclysm-DDA
+#
+# This action is triggerd by any PR against the master branch as well
+# as on any push to the master branch itself
+# that changes any file in gfx/HitButton folder
+name: HitButton composer
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - 'gfx/HitButton_iso/**'
+      - '.github/workflows/HitButton_ci_build.yml'
+  pull_request:
+    branches:
+      - master
+    paths:
+      - 'gfx/HitButton_iso/**'
+      - '.github/workflows/HitButton_ci_build.yml'
+
+jobs:
+  build:
+    name: CI Build
+    runs-on: ubuntu-latest
+    container: alpine:latest
+    steps:
+      - name: Install Dependencies
+        run: |
+          apk add --no-cache musl-dev gcc vips-dev python3-dev zip py3-pip py3-wheel
+          pip3 install pyvips
+      - name: Checkout Code
+        uses: actions/checkout@v2
+
+      - name: Build
+        id: build
+        run: |
+          mkdir build && cd build
+          wget -q https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/compose.py \
+          || echo "Error: Failed to get compose.py"
+          cd ..
+          python3 build/compose.py --use-all gfx/HitButton_iso
+          cd build
+          artifact_name=HitButton-$(echo $GITHUB_SHA | cut -c -8)
+          tileset_dir=../gfx/HitButton_iso
+          mkdir $artifact_name
+          mv $tileset_dir/*.png            $artifact_name
+          mv $tileset_dir/tile_config.json $artifact_name
+          mv $tileset_dir/tileset.txt      $artifact_name
+          echo ::set-output name=artifact_name::$artifact_name
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v1
+        with:
+          name: ${{ steps.build.outputs.artifact_name }}
+          path: build/${{ steps.build.outputs.artifact_name }}

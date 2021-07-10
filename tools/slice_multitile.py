@@ -86,54 +86,105 @@ def main(args):
     if args.no_json:
         return
 
-    json_content = {
-        "id": args.tile,
-        "fg": f"{args.tile}_unconnected",
-        "bg": "",
-        "multitile": True,
-        "additional_tiles": [
-            {
-                "id": "center",
-                "fg": f"{args.tile}_center",
-                "bg": "",
-            }, {
-                "id": "corner",
-                "fg": [
-                    f"{args.tile}_corner_nw",
-                    f"{args.tile}_corner_sw",
-                    f"{args.tile}_corner_se",
-                    f"{args.tile}_corner_ne"],
-                "bg": "",
-            }, {
-                "id": "t_connection",
-                "fg": [
-                    f"{args.tile}_t_connection_n",
-                    f"{args.tile}_t_connection_w",
-                    f"{args.tile}_t_connection_s",
-                    f"{args.tile}_t_connection_e"],
-                "bg": "",
-            }, {
-                "id": "edge",
-                "fg": [
-                    f"{args.tile}_edge_ns",
-                    f"{args.tile}_edge_ew"],
-                "bg": "",
-            }, {
-                "id": "end_piece",
-                "fg": [
-                    f"{args.tile}_end_piece_n",
-                    f"{args.tile}_end_piece_w",
-                    f"{args.tile}_end_piece_s",
-                    f"{args.tile}_end_piece_e"],
-                "bg": "",
-            }, {
-                "id": "unconnected",
-                # two copies because multitiles are assumed to rotate
-                "fg": [f"{args.tile}_unconnected", f"{args.tile}_unconnected"],
-                "bg": ""
-            }
-        ]
-    }
+    if args.overmap:
+        json_content = [{
+          "id": f"{args.tile}_isolated",
+          "fg": f"{args.tile}_unconnected"
+        },{
+          "id": f"{args.tile}_nesw",
+          "fg": f"{args.tile}_center"
+        },{
+          "id": f"{args.tile}_es",
+          "fg": f"{args.tile}_corner_nw"
+        },{
+          "id": f"{args.tile}_ne",
+          "fg": f"{args.tile}_corner_sw"
+        },{
+          "id": f"{args.tile}_wn",
+          "fg": f"{args.tile}_corner_se"
+        },{
+          "id": f"{args.tile}_sw",
+          "fg": f"{args.tile}_corner_ne"
+        },{
+          "id": f"{args.tile}_esw",
+          "fg": f"{args.tile}_t_connection_n"
+        },{
+          "id": f"{args.tile}_nes",
+          "fg": f"{args.tile}_t_connection_w"
+        },{
+          "id": f"{args.tile}_new",
+          "fg": f"{args.tile}_t_connection_s"
+        },{
+          "id": f"{args.tile}_nsw",
+          "fg": f"{args.tile}_t_connection_e"
+        },{
+          "id": f"{args.tile}_ns",
+          "fg": f"{args.tile}_edge_ns"
+        },{
+          "id": f"{args.tile}_ew",
+          "fg": f"{args.tile}_edge_ew"
+        },{
+          "id": f"{args.tile}_end_north",
+          "fg": f"{args.tile}_end_piece_n"
+        },{
+          "id": f"{args.tile}_end_west",
+          "fg": f"{args.tile}_end_piece_w"
+        },{
+          "id": f"{args.tile}_end_south",
+          "fg": f"{args.tile}_end_piece_s"
+        },{
+          "id": f"{args.tile}_end_east",
+          "fg": f"{args.tile}_end_piece_e"
+        }]
+    else:
+        json_content = {
+            "id": args.tile,
+            "fg": f"{args.tile}_unconnected",
+            "bg": "",
+            "multitile": True,
+            "additional_tiles": [
+                {
+                    "id": "center",
+                    "fg": f"{args.tile}_center",
+                    "bg": "",
+                }, {
+                    "id": "corner",
+                    "fg": [
+                        f"{args.tile}_corner_nw",
+                        f"{args.tile}_corner_sw",
+                        f"{args.tile}_corner_se",
+                        f"{args.tile}_corner_ne"],
+                    "bg": "",
+                }, {
+                    "id": "t_connection",
+                    "fg": [
+                        f"{args.tile}_t_connection_n",
+                        f"{args.tile}_t_connection_w",
+                        f"{args.tile}_t_connection_s",
+                        f"{args.tile}_t_connection_e"],
+                    "bg": "",
+                }, {
+                    "id": "edge",
+                    "fg": [
+                        f"{args.tile}_edge_ns",
+                        f"{args.tile}_edge_ew"],
+                    "bg": "",
+                }, {
+                    "id": "end_piece",
+                    "fg": [
+                        f"{args.tile}_end_piece_n",
+                        f"{args.tile}_end_piece_w",
+                        f"{args.tile}_end_piece_s",
+                        f"{args.tile}_end_piece_e"],
+                    "bg": "",
+                }, {
+                    "id": "unconnected",
+                    # two copies because multitiles are assumed to rotate
+                    "fg": [f"{args.tile}_unconnected", f"{args.tile}_unconnected"],
+                    "bg": ""
+                }
+            ]
+        }
 
     tile_json_filename = os.path.join(output_dir, f"{args.tile}.json")
     with open(tile_json_filename, "w") as tile_json_file:
@@ -164,4 +215,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--no-json", action='store_true',
         help="disable json file generation")
+    parser.add_argument(
+        "--overmap", action='store_true',
+        help="Output JSON for overmap multitiles")
     main(parser.parse_args())
