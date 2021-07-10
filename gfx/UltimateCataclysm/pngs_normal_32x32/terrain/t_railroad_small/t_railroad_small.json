@@ -1,6 +1,6 @@
 [
   {
-    "id": "t_railroad_small",
+    "id": "t_railroad_track_small",
     "multitile": true,
     "fg": "t_railroad_small_edge_ew",
     "bg": "t_railroad_rubble_center",
