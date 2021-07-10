@@ -1,0 +1,3 @@
+# fd_fire.png
+Material preset by Extrazhang https://blendswap.com/blend/27914
+Shape and render by int_ua
