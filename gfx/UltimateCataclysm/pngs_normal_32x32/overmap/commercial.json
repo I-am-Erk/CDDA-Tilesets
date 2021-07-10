@@ -2,7 +2,7 @@
   {
     "id": "generic_city_building",
     "fg": "otr_commercial_general",
-    "bg": "t_grass_center"
+    "bg": "field"
   },
   {
     "id": [
@@ -33,6 +33,6 @@
       "veterinarian"
     ],
     "fg": "otr_commercial_general",
-    "bg": "t_grass_center"
+    "bg": "field"
   }
 ]
