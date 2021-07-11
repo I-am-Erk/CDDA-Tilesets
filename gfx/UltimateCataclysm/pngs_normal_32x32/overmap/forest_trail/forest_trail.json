@@ -1,66 +1,52 @@
-[
-  {
-    "id": "forest_trail_isolated",
-    "fg": "forest_trail_unconnected"
-  },
-  {
-    "id": "forest_trail_nesw",
-    "fg": "forest_trail_center"
-  },
-  {
-    "id": "forest_trail_es",
-    "fg": "forest_trail_corner_nw"
-  },
-  {
-    "id": "forest_trail_ne",
-    "fg": "forest_trail_corner_sw"
-  },
-  {
-    "id": "forest_trail_wn",
-    "fg": "forest_trail_corner_se"
-  },
-  {
-    "id": "forest_trail_sw",
-    "fg": "forest_trail_corner_ne"
-  },
-  {
-    "id": "forest_trail_esw",
-    "fg": "forest_trail_t_connection_n"
-  },
-  {
-    "id": "forest_trail_nes",
-    "fg": "forest_trail_t_connection_w"
-  },
-  {
-    "id": "forest_trail_new",
-    "fg": "forest_trail_t_connection_s"
-  },
-  {
-    "id": "forest_trail_nsw",
-    "fg": "forest_trail_t_connection_e"
-  },
-  {
-    "id": "forest_trail_ns",
-    "fg": "forest_trail_edge_ns"
-  },
-  {
-    "id": "forest_trail_ew",
-    "fg": "forest_trail_edge_ew"
-  },
-  {
-    "id": "forest_trail_end_north",
-    "fg": "forest_trail_end_piece_n"
-  },
-  {
-    "id": "forest_trail_end_west",
-    "fg": "forest_trail_end_piece_w"
-  },
-  {
-    "id": "forest_trail_end_south",
-    "fg": "forest_trail_end_piece_s"
-  },
-  {
-    "id": "forest_trail_end_east",
-    "fg": "forest_trail_end_piece_e"
-  }
-]
+{
+  "id": "forest_trail",
+  "fg": "forest_trail_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "forest_trail_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "forest_trail_corner_nw",
+        "forest_trail_corner_sw",
+        "forest_trail_corner_se",
+        "forest_trail_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "forest_trail_t_connection_n",
+        "forest_trail_t_connection_w",
+        "forest_trail_t_connection_s",
+        "forest_trail_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "forest_trail_edge_ns",
+        "forest_trail_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "forest_trail_end_piece_n",
+        "forest_trail_end_piece_w",
+        "forest_trail_end_piece_s",
+        "forest_trail_end_piece_e"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "forest_trail_unconnected",
+        "forest_trail_unconnected"
+      ]
+    }
+  ]
+}
