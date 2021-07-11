@@ -1,4 +1,4 @@
 [{
-  "id": ["alternator_bicycle", "alternator_motorbike"],
+  "id": ["alternator_car", "alternator_bicycle", "alternator_motorbike"],
   "fg": "alternator_car"
 }]

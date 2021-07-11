@@ -6,4 +6,17 @@
     "pie_meat"
   ],
   "bg": "pie"
+},{
+  "id": [
+    "waffles",
+    "fruit_waffles"
+  ],
+  "fd": "waffles"
+},{
+  "id": [
+    "cookies",
+    "crackers",
+    "biscuit"
+  ],
+  "fg": "cookies"
 }]
