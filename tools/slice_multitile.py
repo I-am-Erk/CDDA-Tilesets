@@ -86,16 +86,14 @@ def main(args):
     if args.no_json:
         return
 
-    json_content = {
+    json_content = {  # double quotes here to make copying easier
         "id": args.tile,
         "fg": f"{args.tile}_unconnected",
-        "bg": "",
         "multitile": True,
         "additional_tiles": [
             {
                 "id": "center",
                 "fg": f"{args.tile}_center",
-                "bg": "",
             }, {
                 "id": "corner",
                 "fg": [
@@ -103,7 +101,6 @@ def main(args):
                     f"{args.tile}_corner_sw",
                     f"{args.tile}_corner_se",
                     f"{args.tile}_corner_ne"],
-                "bg": "",
             }, {
                 "id": "t_connection",
                 "fg": [
@@ -111,13 +108,11 @@ def main(args):
                     f"{args.tile}_t_connection_w",
                     f"{args.tile}_t_connection_s",
                     f"{args.tile}_t_connection_e"],
-                "bg": "",
             }, {
                 "id": "edge",
                 "fg": [
                     f"{args.tile}_edge_ns",
                     f"{args.tile}_edge_ew"],
-                "bg": "",
             }, {
                 "id": "end_piece",
                 "fg": [
@@ -125,15 +120,18 @@ def main(args):
                     f"{args.tile}_end_piece_w",
                     f"{args.tile}_end_piece_s",
                     f"{args.tile}_end_piece_e"],
-                "bg": "",
             }, {
                 "id": "unconnected",
                 # two copies because multitiles are assumed to rotate
                 "fg": [f"{args.tile}_unconnected", f"{args.tile}_unconnected"],
-                "bg": ""
             }
         ]
     }
+
+    if args.add_empty_bg:
+        json_content['bg'] = ''
+        for array in json_content['additional_tiles']:
+            array['bg'] = ''
 
     tile_json_filename = os.path.join(output_dir, f"{args.tile}.json")
     with open(tile_json_filename, "w") as tile_json_file:
@@ -164,4 +162,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--no-json", action='store_true',
         help="disable json file generation")
+    parser.add_argument(
+        "--add-empty-bg", action='store_true',
+        help="add empty bg values")
     main(parser.parse_args())
