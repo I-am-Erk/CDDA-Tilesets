@@ -13,12 +13,12 @@
   },
   {
     "id": "vp_windshield_full_vertical_right",
-    "fg": [ "vp_windshield_full_left_rotS", "vp_windshield_full_left_rotE", "vp_windshield_full_left", "vp_windshield_full_left_rotW" ],
+    "fg": [ "vp_windshield_full_right", "vp_windshield_full_right_rotE", "vp_windshield_full_right_rotS", "vp_windshield_full_right_rotW" ],
     "additional_tiles": [
       {
         "id": "broken",
         "fg": "crack_glass_right",
-        "bg": [ "vp_windshield_full_left_rotS", "vp_windshield_full_left_rotE", "vp_windshield_full_left", "vp_windshield_full_left_rotW" ]
+        "bg": [ "vp_windshield_full_right", "vp_windshield_full_right_rotE", "vp_windshield_full_right_rotS", "vp_windshield_full_right_rotW" ]
       }
     ],
     "multitile": true

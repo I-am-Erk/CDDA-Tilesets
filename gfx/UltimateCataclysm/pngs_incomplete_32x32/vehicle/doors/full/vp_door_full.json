@@ -1,7 +1,7 @@
 [
   {
     "id": [ "vp_door_full_left", "vp_door_full_vertical_left", "vp_door_full_nw", "vp_door_full_front_left", "vp_door_full_sw", "vp_door_full_rear_left" ],
-    "fg": [ "vp_door_L", "vp_door_L_rotW", "vp_door_L_rotS", "vp_door_full_left_rotE" ],
+    "fg": [ "vp_door_L", "vp_door_L_rotW", "vp_door_L_rotS", "vp_door_L_rotE" ],
     "multitile": true,
     "additional_tiles": [
       {
@@ -27,7 +27,7 @@
   },
   {
     "id": [ "vp_door_full_right", "vp_door_full_vertical_right", "vp_door_full_ne", "vp_door_full_front_right", "vp_door_full_se", "vp_door_full_rear_right" ],
-    "fg": [ "vp_door_R", "vp_door_full_right_rotW", "vp_door_R_rotS", "vp_door_R_rotE" ],
+    "fg": [ "vp_door_R", "vp_door_R_rotW", "vp_door_R_rotS", "vp_door_R_rotE" ],
     "multitile": true,
     "additional_tiles": [
       {

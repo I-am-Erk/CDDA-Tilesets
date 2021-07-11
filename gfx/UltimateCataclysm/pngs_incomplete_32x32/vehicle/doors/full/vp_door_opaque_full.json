@@ -27,7 +27,7 @@
   },
   {
     "id": "vp_door_opaque_full_right",
-    "fg": [ "vp_door_opaque_right_rotN", "vp_door_opaque_full_right_rotW", "vp_door_opaque_right_rotS", "vp_door_opaque_right_rotE" ],
+    "fg": [ "vp_door_opaque_right_rotN", "vp_door_opaque_right_rotW", "vp_door_opaque_right_rotS", "vp_door_opaque_right_rotE" ],
     "multitile": true,
     "additional_tiles": [
       {
