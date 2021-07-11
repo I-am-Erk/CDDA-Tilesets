@@ -1,13 +1,11 @@
 {
   "id": "forest_trail",
   "fg": "forest_trail_unconnected",
-  "bg": "",
   "multitile": true,
   "additional_tiles": [
     {
       "id": "center",
-      "fg": "forest_trail_center",
-      "bg": ""
+      "fg": "forest_trail_center"
     },
     {
       "id": "corner",
@@ -16,8 +14,7 @@
         "forest_trail_corner_sw",
         "forest_trail_corner_se",
         "forest_trail_corner_ne"
-      ],
-      "bg": ""
+      ]
     },
     {
       "id": "t_connection",
@@ -26,16 +23,14 @@
         "forest_trail_t_connection_w",
         "forest_trail_t_connection_s",
         "forest_trail_t_connection_e"
-      ],
-      "bg": ""
+      ]
     },
     {
       "id": "edge",
       "fg": [
         "forest_trail_edge_ns",
         "forest_trail_edge_ew"
-      ],
-      "bg": ""
+      ]
     },
     {
       "id": "end_piece",
@@ -44,16 +39,14 @@
         "forest_trail_end_piece_w",
         "forest_trail_end_piece_s",
         "forest_trail_end_piece_e"
-      ],
-      "bg": ""
+      ]
     },
     {
       "id": "unconnected",
       "fg": [
         "forest_trail_unconnected",
         "forest_trail_unconnected"
-      ],
-      "bg": ""
+      ]
     }
   ]
 }
