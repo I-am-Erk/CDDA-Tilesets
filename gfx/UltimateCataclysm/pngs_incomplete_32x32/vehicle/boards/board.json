@@ -187,7 +187,7 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": [ "vp_hdboard_vertical_right", "vp_hdboard_vertical_rotW_rotE", "vp_hdboard_vertical_left", "vp_hdboard_vertical_rotW_rotE" ]
+        "bg": [ "vp_hdboard_vertical_right", "vp_hdboard_vertical_right_rotW", "vp_hdboard_vertical_left", "vp_hdboard_vertical_right_rotE" ]
       }
     ]
   },
