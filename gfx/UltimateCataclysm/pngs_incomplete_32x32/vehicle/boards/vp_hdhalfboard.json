@@ -73,13 +73,23 @@
   },
   {
     "id": "vp_hdhalfboard_horizontal",
-    "fg": "vp_hdhalfboard_horizontal_front",
+    "fg": [
+      "vp_hdhalfboard_horizontal_front",
+      "vp_hdhalfboard_horizontal_front_rotW",
+      "vp_hdhalfboard_horizontal_front_rotS",
+      "vp_hdhalfboard_horizontal_front_rotE"
+    ],
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "vp_hdhalfboard_horizontal_front"
+        "bg": [
+      "vp_hdhalfboard_horizontal_front",
+      "vp_hdhalfboard_horizontal_front_rotW",
+      "vp_hdhalfboard_horizontal_front_rotS",
+      "vp_hdhalfboard_horizontal_front_rotE"
+    ]
       }
     ]
   },
