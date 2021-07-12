@@ -67,7 +67,7 @@
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": [ "vp_hdhalfboard_vertical_right", "vp_hdhalfboard_vertical_right_rotW", "vp_hdhalfboard_vertical_right_rotS", "vp_hdhalfboard_vertical_right_rotE" ],
+        "bg": [ "vp_hdhalfboard_vertical_right", "vp_hdhalfboard_vertical_right_rotW", "vp_hdhalfboard_vertical_right_rotS", "vp_hdhalfboard_vertical_right_rotE" ]
       }
     ]
   },
