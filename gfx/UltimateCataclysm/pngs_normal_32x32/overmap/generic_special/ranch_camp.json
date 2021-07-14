@@ -1,4 +1,9 @@
 [{
+},{
+    "id": "ranch_camp_17",
+    "fg": "t_water_sh_unconnected",
+	"bg": "pasture_center"
+},{
     "id": "ranch_camp_76",
     "fg": "forest_trail_center"
 },{
