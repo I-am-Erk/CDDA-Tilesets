@@ -1,7 +1,7 @@
 [{
     "id": [
 		"2silos",
-		"ranch_camp_57",
+		"ranch_camp_57"
 	],
     "fg": [ "silos_faceNS", "silos_faceEW", "silos_faceNS", "silos_faceEW" ], 
     "bg": "field",
