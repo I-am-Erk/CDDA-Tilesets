@@ -1,25 +1,25 @@
 [{
 	"id": [
 		"PublicPond_1a_north",
-		"PublicPond_1b_south",
+		"PublicPond_1b_south"
 	],
 	"fg": "public_pond_w"
 },{
 	"id": [
 		"PublicPond_1b_north",
-		"PublicPond_1a_south",
+		"PublicPond_1a_south"
 	],
 	"fg": "public_pond_e"
 },{
 	"id": [
 		"PublicPond_1a_west",
-		"PublicPond_1b_east",
+		"PublicPond_1b_east"
 	],
 	"fg": "public_pond_s"
 },{
 	"id": [
 		"PublicPond_1b_west",
-		"PublicPond_1a_east",
+		"PublicPond_1a_east"
 	],
 	"fg": "public_pond_n"
 }]
