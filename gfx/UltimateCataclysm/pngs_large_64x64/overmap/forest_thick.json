@@ -5,6 +5,7 @@
         { "weight": 4, "sprite": "forest_thick" },
         { "weight": 1, "sprite": "forest_thick_2" }
       ],
-	"bg": "field_large"
+	"bg": "field_large",
+	"rotates": false
   }
 ]
