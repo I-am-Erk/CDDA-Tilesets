@@ -1,0 +1,15 @@
+[{
+  "id": [
+    "flour",
+    "bread_flour"
+  ],
+  "fg": "flour"
+},{
+  "id": [
+    "pizza_cheese",
+    "pizza_veggy",
+    "pizza_meat",
+    "pizza_supreme"
+  ],
+  "fg": "pizza"
+}]
