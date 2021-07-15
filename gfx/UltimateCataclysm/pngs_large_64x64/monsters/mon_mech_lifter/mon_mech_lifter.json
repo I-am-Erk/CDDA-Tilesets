@@ -1,7 +1,12 @@
 [
   {
+    "id": "mon_mech_lifter",
+    "fg": "mon_mech_lifter",
+    "bg": ""
+  },
+  {
     "id": "rid_mon_mech_lifter",
     "fg": "rid_mon_mech_lifter",
     "bg": "mon_mech_lifter"
-  }
+  },
 ]
