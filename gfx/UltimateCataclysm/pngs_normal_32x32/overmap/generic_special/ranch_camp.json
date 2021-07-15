@@ -1,0 +1,13 @@
+[{
+    "id": "ranch_camp_17",
+    "fg": "t_water_sh_unconnected",
+	"bg": "pasture_center"
+},{
+    "id": "ranch_camp_76",
+    "fg": "forest_trail_center"
+},{
+    "id": "ranch_camp_77",
+    "fg": [ "road_end_piece_n", "road_end_piece_e", "road_end_piece_s", "road_end_piece_w" ], 
+    "bg": "field",
+    "rotates": true
+}]
