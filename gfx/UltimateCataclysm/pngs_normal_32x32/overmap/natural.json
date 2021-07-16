@@ -5,12 +5,12 @@
     "bg": ""
   },
   {
-    "id": "forest",
+	"id": [ "forest", "special_forest" ],
     "fg": "forest",
     "bg": "field"
   },
   {
-    "id": "field",
+    "id": [ "field", "special_field" ],
     "fg": "field",
     "bg": ""
   },
