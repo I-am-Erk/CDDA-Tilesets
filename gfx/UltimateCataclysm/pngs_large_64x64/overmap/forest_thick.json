@@ -1,6 +1,6 @@
 [
   {
-    "id": "forest_thick",
+    "id": [ "forest_thick", "special_forest_thick" ],
     "fg": [
         { "weight": 4, "sprite": "forest_thick" },
         { "weight": 1, "sprite": "forest_thick_2" }
