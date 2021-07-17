@@ -128,10 +128,10 @@ def main(args):
         ]
     }
 
-    if args.add_empty_bg:
-        json_content['bg'] = ''
+    if args.background is not None:
+        json_content['bg'] = args.background
         for array in json_content['additional_tiles']:
-            array['bg'] = ''
+            array['bg'] = args.background
 
     tile_json_filename = os.path.join(output_dir, f"{args.tile}.json")
     with open(tile_json_filename, "w") as tile_json_file:
@@ -163,6 +163,6 @@ if __name__ == "__main__":
         "--no-json", action='store_true',
         help="disable json file generation")
     parser.add_argument(
-        "--add-empty-bg", action='store_true',
-        help="add empty bg values")
+        "--background", dest='background',
+        help="background sprite name")
     main(parser.parse_args())
