@@ -8,7 +8,7 @@
     "tiles.png": {  }
   },
   {
-    "overmapFiller.png": {  }
+    "overmap.png": {  }
   },
   {
     "big.png": { "sprite_width": 36, "sprite_height": 36, "sprite_offset_x": 0, "sprite_offset_y": 0 }
