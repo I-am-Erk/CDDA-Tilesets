@@ -1,0 +1,16 @@
+{
+  "id": [
+   "house_duplex",
+   "house_duplex2"
+  ],
+  "fg": [
+    "house_duplex_north",
+    "house_duplex_east",
+    "house_duplex_south",
+    "house_duplex_west"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": true
+}
