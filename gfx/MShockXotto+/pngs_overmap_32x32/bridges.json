@@ -7,7 +7,7 @@
 },
 {
   "id": "bridge",
-  "fg": [ "bridge_N", "bridge_E", "bridge_S", "bridge_W" ],
+  "fg": [ "bridge_N", "bridge_W", "bridge_N", "bridge_W" ],
   "rotates": true,
   "bg": [ ]
 }
