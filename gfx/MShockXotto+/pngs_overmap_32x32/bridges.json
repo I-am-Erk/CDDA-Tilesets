@@ -1,0 +1,14 @@
+[
+{
+  "id": "bridgehead_ground",
+  "fg": [ "bridgehead_ground_N", "bridgehead_ground_E", "bridgehead_ground_S", "bridgehead_ground_W" ],
+  "rotates": true,
+  "bg": [ ]
+},
+{
+  "id": "bridge",
+  "fg": [ "bridge_N", "bridge_W", "bridge_N", "bridge_W" ],
+  "rotates": true,
+  "bg": [ ]
+}
+]

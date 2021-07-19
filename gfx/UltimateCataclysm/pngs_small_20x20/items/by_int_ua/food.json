@@ -8,8 +8,7 @@
   "id": [
     "pizza_cheese",
     "pizza_veggy",
-    "pizza_meat",
-    "pizza_supreme"
+    "pizza_meat"
   ],
   "fg": "pizza"
 }]
