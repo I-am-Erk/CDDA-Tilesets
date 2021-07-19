@@ -511,266 +511,74 @@
   },
   {
     "id": "alloy_plate",
-    "fg": "145_vp_plating_superalloy_0",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "145_vp_plating_superalloy_0"
-      }
-    ]
+    "fg": "145_vp_plating_superalloy_0"
   },
   {
     "id": "foot_crank",
-    "fg": "136_vp_foot_pedals_0",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "136_vp_foot_pedals_0"
-      }
-    ]
+    "fg": "136_vp_foot_pedals_0"
   },
   {
     "id": "frame",
-    "fg": "98_vp_frame_wood_cross_0",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "98_vp_frame_wood_cross_0"
-      }
-    ]
+    "fg": "98_vp_frame_wood_cross_0"
   },
   {
     "id": "glass_sheet",
-    "fg": "112_vp_windshield_1",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "112_vp_windshield_1"
-      }
-    ]
+    "fg": "112_vp_windshield_1"
   },
   {
     "id": "hard_plate",
-    "fg": "147_vp_plating_hard_0",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "147_vp_plating_hard_0"
-      }
-    ]
+    "fg": "147_vp_plating_hard_0"
   },
   {
     "id": "kitchen_unit",
-    "fg": "158_vp_kitchen_unit_0",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "158_vp_kitchen_unit_0"
-      }
-    ]
+    "fg": "158_vp_kitchen_unit_0"
   },
   {
     "id": "motor",
-    "fg": "133_vp_engine_electric_0",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "133_vp_engine_electric_0"
-      }
-    ]
+    "fg": "133_vp_engine_electric_0"
   },
   {
     "id": "motor_large",
-    "fg": "134_vp_engine_electric_large_0",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "134_vp_engine_electric_large_0"
-      }
-    ]
+    "fg": "134_vp_engine_electric_large_0"
   },
   {
     "id": "muffler",
-    "fg": "142_vp_muffler_0",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "142_vp_muffler_0"
-      }
-    ]
+    "fg": "142_vp_muffler_0"
   },
   {
     "id": "spiked_plate",
-    "fg": "146_vp_plating_spiked_0",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "146_vp_plating_spiked_0"
-      }
-    ]
+    "fg": "146_vp_plating_spiked_0"
   },
   {
     "id": "steel_plate",
-    "fg": "144_vp_plating_steel_0",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "144_vp_plating_steel_0"
-      }
-    ]
+    "fg": "144_vp_plating_steel_0"
   },
   {
     "id": "storage_battery",
-    "fg": "138_vp_small_storage_battery_0",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "138_vp_small_storage_battery_0"
-      }
-    ]
+    "fg": "138_vp_small_storage_battery_0"
   },
   {
     "id": "vehicle_controls",
-    "fg": "143_vp_controls_0",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "143_vp_controls_0"
-      }
-    ]
+    "fg": "143_vp_controls_0"
   },
   {
     "id": "1cyl_combustion",
-    "fg": "128_vp_engine_1cyl_0",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "128_vp_engine_1cyl_0"
-      }
-    ]
+    "fg": "128_vp_engine_1cyl_0"
   },
   {
     "id": "i4_combustion",
-    "fg": "130_vp_engine_inline4_0",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "130_vp_engine_inline4_0"
-      }
-    ]
+    "fg": "130_vp_engine_inline4_0"
   },
   {
     "id": "v2_combustion",
-    "fg": "129_vp_engine_vtwin_0",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "129_vp_engine_vtwin_0"
-      }
-    ]
+    "fg": "129_vp_engine_vtwin_0"
   },
   {
     "id": ["v6_combustion", "v6_diesel"],
-    "fg": "131_vp_engine_v6_0",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "131_vp_engine_v6_0"
-      }
-    ]
+    "fg": "131_vp_engine_v6_0"
   },
   {
     "id": "v8_combustion",
-    "fg": "132_vp_engine_v8_0",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "132_vp_engine_v8_0"
-      }
-    ]
-  },
-  {
-    "id": "wheel",
-    "fg": "119_vp_wheel_0",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "119_vp_wheel_0"
-      }
-    ]
-  },
-  {
-    "id": "wheel_bicycle",
-    "fg": "121_vp_wheel_unicycle_0",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "121_vp_wheel_unicycle_0"
-      }
-    ]
-  },
-  {
-    "id": "wheel_small",
-    "fg": "123_vp_wheel_small_0",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "123_vp_wheel_small_0"
-      }
-    ]
-  },
-  {
-    "id": "wheel_wide",
-    "fg": "120_vp_wheel_wide_0",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "120_vp_wheel_wide_0"
-      }
-    ]
+    "fg": "132_vp_engine_v8_0"
   }
 ]
