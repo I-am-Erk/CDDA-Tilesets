@@ -1,37 +1,5 @@
 [
   {
-    "id": "t_chainfence",
-    "multitile": true,
-	"rotates": false,
-    "fg": "t_chainfence_ew",
-    "bg": "t_pavement",
-    "additional_tiles": [
-      { "id": "edge", "bg": "t_pavement", "fg": [ "t_chainfence_ns", "t_chainfence_ew" ] },
-      {
-        "id": "end_piece",
-        "bg": "t_pavement",
-        "fg": [ "t_chainfence_ns", "t_chainfence_ew", "t_chainfence_ns", "t_chainfence_ew" ]
-      },
-      { "bg": "t_pavement", "id": "unconnected", "fg": "t_chainfence_ew" }
-    ]
-  },
-  {
-    "id": "t_chainfence_season_winter",
-    "multitile": true,
-	"rotates": false,
-    "fg": "t_chainfence_ew",
-    "bg": "snow_shallow_center",
-    "additional_tiles": [
-      { "id": "edge", "bg": "snow_shallow_center", "fg": [ "t_chainfence_ns", "t_chainfence_ew" ] },
-      {
-        "id": "end_piece",
-        "bg": "snow_shallow_center",
-        "fg": [ "t_chainfence_ns", "t_chainfence_ew", "t_chainfence_ns", "t_chainfence_ew" ]
-      },
-      { "bg": "snow_shallow_center", "id": "unconnected", "fg": "t_chainfence_ew" }
-    ]
-  },
-  {
     "id": "t_chaingate_c",
     "fg": "t_gate_chainlink_c",
     "bg": "t_pavement"
