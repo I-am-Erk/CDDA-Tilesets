@@ -1,0 +1,26 @@
+[
+{
+  "id": "campground_1b",
+  "fg": [ "campground_1b_N", "campground_1b_E", "campground_1b_S", "campground_1b_W" ],
+  "rotates": true,
+  "bg": [ ]
+},
+{
+  "id": "campground_1a",
+  "fg": [ "campground_1a_N", "campground_1a_E", "campground_1a_S", "campground_1a_W" ],
+  "rotates": true,
+  "bg": [ ]
+},
+{
+  "id": "campground_2b",
+  "fg": [ "campground_2b_N", "campground_2b_E", "campground_2b_S", "campground_2b_W" ],
+  "rotates": true,
+  "bg": [ ]
+},
+{
+  "id": "campground_2a",
+  "fg": [ "campground_2a_N", "campground_2a_E", "campground_2a_S", "campground_2a_W" ],
+  "rotates": true,
+  "bg": [ ]
+}
+]
