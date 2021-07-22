@@ -1,0 +1,9 @@
+{
+  "id": [
+    "money_one",
+    "money_ten",
+    "money_twenty",
+    "money_bundle" 
+ ],
+  "fg": "money_one"
+}
