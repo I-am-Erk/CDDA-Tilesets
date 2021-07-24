@@ -7,12 +7,12 @@
   "additional_tiles": [
     {
       "id": "center",
-	  "bg": "t_railroad_rubble_center",
+      "bg": "t_railroad_rubble_center",
       "fg": "t_railroad_track_small_center"
     },
     {
       "id": "corner",
-	  "bg": "t_railroad_rubble_center",
+      "bg": "t_railroad_rubble_center",
       "fg": [
         "t_railroad_track_small_corner_nw",
         "t_railroad_track_small_corner_sw",
@@ -22,7 +22,7 @@
     },
     {
       "id": "t_connection",
-	  "bg": "t_railroad_rubble_center",
+      "bg": "t_railroad_rubble_center",
       "fg": [
         "t_railroad_track_small_t_connection_n",
         "t_railroad_track_small_t_connection_w",
@@ -32,7 +32,7 @@
     },
     {
       "id": "edge",
-	  "bg": "t_railroad_rubble_center",
+      "bg": "t_railroad_rubble_center",
       "fg": [
         "t_railroad_track_small_edge_ns",
         "t_railroad_track_small_edge_ew"
@@ -40,7 +40,7 @@
     },
     {
       "id": "end_piece",
-	  "bg": "t_railroad_rubble_center",
+      "bg": "t_railroad_rubble_center",
       "fg": [
         "t_railroad_track_small_edge_ns",
         "t_railroad_track_small_edge_ew",
@@ -50,7 +50,7 @@
     },
     {
       "id": "unconnected",
-	  "bg": "t_railroad_rubble_center",
+      "bg": "t_railroad_rubble_center",
       "fg": [
         "t_railroad_track_small_edge_ns",
         "t_railroad_track_small_edge_ew"
