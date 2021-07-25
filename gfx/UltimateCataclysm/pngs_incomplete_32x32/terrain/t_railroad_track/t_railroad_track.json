@@ -6,7 +6,7 @@
     {
       "id": "center",
       "fg": "t_railroad_track_center",
-      "bg": "t_railroad_rubble"
+      "bg": "t_railroad_rubble_unconnected"
     },
     {
       "id": "corner",
@@ -16,7 +16,7 @@
         "t_railroad_track_corner_se",
         "t_railroad_track_corner_ne"
       ],
-      "bg": "t_railroad_rubble"
+      "bg": "t_railroad_rubble_unconnected"
     },
     {
       "id": "t_connection",
@@ -26,7 +26,7 @@
         "t_railroad_track_t_connection_s",
         "t_railroad_track_t_connection_e"
       ],
-      "bg": "t_railroad_rubble"
+      "bg": "t_railroad_rubble_unconnected"
     },
     {
       "id": "edge",
@@ -34,7 +34,7 @@
         "t_railroad_track_edge_ns",
         "t_railroad_track_edge_ew"
       ],
-      "bg": "t_railroad_rubble"
+      "bg": "t_railroad_rubble_unconnected"
     },
     {
       "id": "end_piece",
@@ -44,7 +44,7 @@
         "t_railroad_track_end_piece_s",
         "t_railroad_track_end_piece_e"
       ],
-      "bg": "t_railroad_rubble"
+      "bg": "t_railroad_rubble_unconnected"
     },
     {
       "id": "unconnected",
@@ -52,8 +52,8 @@
         "t_railroad_track_unconnected",
         "t_railroad_track_unconnected"
       ],
-      "bg": "t_railroad_rubble"
+      "bg": "t_railroad_rubble_unconnected"
     }
   ],
-  "bg": "t_railroad_rubble"
+  "bg": "t_railroad_rubble_unconnected"
 }
