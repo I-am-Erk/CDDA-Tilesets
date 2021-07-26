@@ -1,0 +1,56 @@
+[
+{
+  "id": "prison_1_1",
+  "fg": [ "prison_1_1_N", "prison_1_1_E", "prison_1_1_S", "prison_1_1_W" ],
+  "rotates": true,
+  "bg": [ ]
+},
+{
+  "id": "prison_1_2",
+  "fg": [ "prison_1_2_N", "prison_1_2_E", "prison_1_2_S", "prison_1_2_W" ],
+  "rotates": true,
+  "bg": [ ]
+},
+{
+  "id": "prison_1_3",
+  "fg": [ "prison_1_3_N", "prison_1_3_E", "prison_1_3_S", "prison_1_3_W" ],
+  "rotates": true,
+  "bg": [ ]
+},
+{
+  "id": "prison_1_4",
+  "fg": [ "prison_1_4_N", "prison_1_4_E", "prison_1_4_S", "prison_1_4_W" ],
+  "rotates": true,
+  "bg": [ ]
+},
+{
+  "id": "prison_1_5",
+  "fg": [ "prison_1_5_N", "prison_1_5_E", "prison_1_5_S", "prison_1_5_W" ],
+  "rotates": true,
+  "bg": [ ]
+},
+{
+  "id": "prison_1_6",
+  "fg": [ "prison_1_6_N", "prison_1_6_E", "prison_1_6_S", "prison_1_6_W" ],
+  "rotates": true,
+  "bg": [ ]
+},
+{
+  "id": "prison_1_7",
+  "fg": [ "prison_1_7_N", "prison_1_7_E", "prison_1_7_S", "prison_1_7_W" ],
+  "rotates": true,
+  "bg": [ ]
+},
+{
+  "id": "prison_1_8",
+  "fg": [ "prison_1_8_N", "prison_1_8_E", "prison_1_8_S", "prison_1_8_W" ],
+  "rotates": true,
+  "bg": [ ]
+},
+{
+  "id": "prison_1_9",
+  "fg": [ "prison_1_9_N", "prison_1_9_E", "prison_1_9_S", "prison_1_9_W" ],
+  "rotates": true,
+  "bg": [ ]
+}
+]
