@@ -1,4 +1,11 @@
+[
 {
   "id": "field",
-  "fg": "field"
+  "fg": [
+      { "weight": 25, "sprite": "field"},
+      { "weight": 40, "sprite": "field_1"},
+      { "weight": 10, "sprite": "field_2"},
+      { "weight": 25, "sprite": "field_3"}
+  ]
 }
+]
