@@ -36,7 +36,7 @@
     ]
   },
   {
-    "id": [ "vp_seat_leather", "vp_reclining_seat_leather", "vp_seat_back_leather" ],
+    "id": [ "vp_seat_leather", "vp_reclining_seat_leather" ],
     "fg": [ "vp_seat_leather_up", "vp_seat_leather_left", "vp_seat_leather_down", "vp_seat_leather_right" ],
     "multitile": true,
     "additional_tiles": [
@@ -44,6 +44,30 @@
         "id": "broken",
         "fg": "crack_metal_center",
         "bg": [ "vp_seat_leather_up", "vp_seat_leather_left", "vp_seat_leather_down", "vp_seat_leather_right" ]
+      }
+    ]
+  },
+  {
+    "id": "vp_seat_back_leather_left",
+    "fg": [ "vp_seat_back_leather_left", "vp_seat_back_leather_left_rotW", "vp_seat_back_leather_left_rotS", "vp_seat_back_leather_left_rotE" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_seat_back_leather_left", "vp_seat_back_leather_left_rotW", "vp_seat_back_leather_left_rotS", "vp_seat_back_leather_left_rotE" ]
+      }
+    ]
+  },
+  {
+    "id": "vp_seat_back_leather_right",
+    "fg": [ "vp_seat_back_leather_right", "vp_seat_back_leather_right_rotW", "vp_seat_back_leather_right_rotS", "vp_seat_back_leather_right_rotE" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_seat_back_leather_right", "vp_seat_back_leather_right_rotW", "vp_seat_back_leather_right_rotS", "vp_seat_back_leather_right_rotE" ]
       }
     ]
   }
