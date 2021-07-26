@@ -1,0 +1,50 @@
+[
+  {
+    "id": [ "vp_folding_seat", "vp_reclining_seat", "vp_seat", "vp_seat_back" ],
+    "fg": [ "vp_seat_up", "vp_seat_left", "vp_seat_down", "vp_seat_right" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_seat_up", "vp_seat_left", "vp_seat_down", "vp_seat_right" ]
+      }
+    ]
+  },
+  {
+    "id": "vp_seat_back_left",
+    "fg": [ "vp_seat_back_left", "vp_seat_back_left_rotE", "vp_seat_back_left_rotS", "vp_seat_back_left_rotW" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_seat_back_left", "vp_seat_back_left_rotE", "vp_seat_back_left_rotS", "vp_seat_back_left_rotW" ]
+      }
+    ]
+  },
+  {
+    "id": "vp_seat_back_right",
+    "fg": [ "vp_seat_back_right", "vp_seat_back_right_rotE", "vp_seat_back_right_rotS", "vp_seat_back_right_rotW" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_seat_back_right", "vp_seat_back_right_rotE", "vp_seat_back_right_rotS", "vp_seat_back_right_rotW" ]
+      }
+    ]
+  },
+  {
+    "id": [ "vp_seat_leather", "vp_reclining_seat_leather", "vp_seat_back_leather" ],
+    "fg": [ "vp_seat_leather_up", "vp_seat_leather_left", "vp_seat_leather_down", "vp_seat_leather_right" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_seat_leather_up", "vp_seat_leather_left", "vp_seat_leather_down", "vp_seat_leather_right" ]
+      }
+    ]
+  }
+]
