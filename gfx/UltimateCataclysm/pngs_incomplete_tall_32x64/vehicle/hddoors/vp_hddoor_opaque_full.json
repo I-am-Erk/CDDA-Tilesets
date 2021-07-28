@@ -15,7 +15,7 @@
       },
       {
         "id": "broken",
-        "fg": "crack_metal_center",
+        "fg": "crack_metal_center_tall",
         "bg": [
           "vp_hddoor_opaque_left_open_rotN",
           "vp_hddoor_opaque_left_open_rotW",
@@ -41,7 +41,7 @@
       },
       {
         "id": "broken",
-        "fg": "crack_metal_center",
+        "fg": "crack_metal_center_tall",
         "bg": [
           "vp_hddoor_opaque_right_open_rotN",
           "vp_hddoor_opaque_right_open_rotW",
