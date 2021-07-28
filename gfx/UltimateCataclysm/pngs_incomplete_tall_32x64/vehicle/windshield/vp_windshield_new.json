@@ -6,7 +6,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_metal_center_tall",
+        "fg": [ "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall" ],
         "bg": [ "vp_windshield_cover_left", "vp_windshield_cover_left_rotW", "vp_windshield_cover_left_rotS", "vp_windshield_cover_left_rotE" ]
       }
     ]
@@ -18,7 +18,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_metal_center_tall",
+        "fg": [ "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall" ],
         "bg": [ "vp_windshield_cover_right", "vp_windshield_cover_right_rotW", "vp_windshield_cover_right_rotS", "vp_windshield_cover_right_rotE" ]
       }
     ]
@@ -30,7 +30,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_metal_center_tall",
+        "fg": [ "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall" ],
         "bg": [ "vp_windshield_wheel_left", "vp_windshield_wheel_left_rotW", "vp_windshield_wheel_left_rotS", "vp_windshield_wheel_left_rotE" ]
       }
     ]
@@ -42,7 +42,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_metal_center_tall",
+        "fg": [ "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall" ],
         "bg": [ "vp_windshield_wheel_right", "vp_windshield_wheel_right_rotW", "vp_windshield_wheel_right_rotS", "vp_windshield_wheel_right_rotE" ]
       }
     ]

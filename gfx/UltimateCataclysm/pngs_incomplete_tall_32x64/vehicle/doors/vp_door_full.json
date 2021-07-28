@@ -15,7 +15,7 @@
       },
       {
         "id": "broken",
-        "fg": "crack_metal_center_tall",
+        "fg": [ "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall" ],
         "bg": [
           "vp_door_left_open_rotN",
           "vp_door_left_open_rotW",
@@ -41,7 +41,7 @@
       },
       {
         "id": "broken",
-        "fg": "crack_metal_center_tall",
+        "fg": [ "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall" ],
         "bg": [
           "vp_door_right_open_rotN",
           "vp_door_right_open_rotW",

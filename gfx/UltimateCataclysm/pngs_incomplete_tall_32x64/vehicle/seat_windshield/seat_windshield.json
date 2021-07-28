@@ -6,7 +6,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_metal_center_tall",
+        "fg": [ "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall" ],
         "bg": [
           "vp_seat_leather_windshield_rotN",
           "vp_seat_leather_windshield_rotW",
@@ -23,7 +23,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_metal_center_tall",
+        "fg": [ "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall" ],
         "bg": [
           "vp_seat_windshield_rotN",
           "vp_seat_windshield_rotW",
