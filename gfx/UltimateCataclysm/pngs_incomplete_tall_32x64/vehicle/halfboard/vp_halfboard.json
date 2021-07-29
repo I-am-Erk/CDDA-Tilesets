@@ -180,7 +180,7 @@
     ]
   },
   {
-    "id": [ "vp_halfboard_horizontal_rear", "vp_halfboard_horizontal_2_rear" ],
+    "id": "vp_halfboard_horizontal_rear" ,
     "fg": [
       "vp_halfboard_horizontal_rear",
       "vp_halfboard_horizontal_rear_rotW",
