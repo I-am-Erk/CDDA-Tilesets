@@ -1,6 +1,6 @@
 [
   {
-    "id": [ "vp_seat_leather_windshield", "vp_reclining_seat_windshield_leather" ],
+    "id": [ "vp_seat_windshield_leather", "vp_reclining_seat_windshield_leather" ],
     "fg": [ "vp_seat_leather_windshield_rotN", "vp_seat_leather_windshield_rotW", "vp_seat_leather_windshield_rotS", "vp_seat_leather_windshield_rotE" ],
     "multitile": true,
     "additional_tiles": [
