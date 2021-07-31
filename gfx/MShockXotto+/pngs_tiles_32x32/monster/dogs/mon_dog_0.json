@@ -4,7 +4,7 @@
     "mon_dog_thing"
   ],
   "fg": [
-    { "weight": 10, "sprite": "2408_mon_dog_0" },
+    { "weight": 10, "sprite": "mon_dog" },
     { "weight": 1, "sprite": "mon_dog_1" }
   ],
   "bg": [
