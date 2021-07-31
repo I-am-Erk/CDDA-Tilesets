@@ -7,8 +7,22 @@
     {
       "id": "corner",
       "fg": [
-        { "weight": 1, "sprite": ["f_counter_corner_nw", "f_counter_corner_sw", "f_counter_corner_se", "f_counter_corner_ne"] },
-        { "weight": 1, "sprite": ["f_counter_corner_nw", "f_counter_corner_sw_2", "f_counter_corner_se_2", "f_counter_corner_ne_2"] }
+        {
+          "weight": 2,
+          "sprite": [ "f_counter_corner_nw", "f_counter_corner_sw", "f_counter_corner_se", "f_counter_corner_ne" ]
+        },
+        {
+          "weight": 1,
+          "sprite": [ "f_counter_corner_nw", "f_counter_corner_sw_2", "f_counter_corner_se", "f_counter_corner_ne" ]
+        },
+        {
+          "weight": 1,
+          "sprite": [ "f_counter_corner_nw", "f_counter_corner_sw", "f_counter_corner_se_2", "f_counter_corner_ne" ]
+        },
+        {
+          "weight": 1,
+          "sprite": [ "f_counter_corner_nw", "f_counter_corner_sw", "f_counter_corner_se", "f_counter_corner_ne_2" ]
+        }
       ]
     },
     {
@@ -18,17 +32,26 @@
     {
       "id": "edge",
       "fg": [
-        { "weight": 1, "sprite": [ "f_counter_edge_ns", "f_counter_edge_ns_2" ] },
-        { "weight": 1, "sprite": [ "f_counter_edge_ew", "f_counter_edge_ew_2" ] }
+        { "weight": 2, "sprite": [ "f_counter_edge_ns", "f_counter_edge_ew" ] },
+        { "weight": 1, "sprite": [ "f_counter_edge_ns_2", "f_counter_edge_ew" ] },
+        { "weight": 1, "sprite": [ "f_counter_edge_ns", "f_counter_edge_ew_2" ] }
       ]
     },
     {
       "id": "end_piece",
       "fg": [
-        { "weight": 1, "sprite": "f_counter_end_piece_n" },
-        { "weight": 1, "sprite": [ "f_counter_end_piece_w", "f_counter_end_piece_w_2" ] },
-        { "weight": 1, "sprite": "f_counter_end_piece_s" },
-        { "weight": 1, "sprite": [ "f_counter_end_piece_e", "f_counter_end_piece_e_2" ] }
+        {
+          "weight": 2,
+          "sprite": [ "f_counter_end_piece_n", "f_counter_end_piece_w", "f_counter_end_piece_s", "f_counter_end_piece_e" ]
+        },
+        {
+          "weight": 1,
+          "sprite": [ "f_counter_end_piece_n", "f_counter_end_piece_w_2", "f_counter_end_piece_s", "f_counter_end_piece_e" ]
+        },
+        {
+          "weight": 1,
+          "sprite": [ "f_counter_end_piece_n", "f_counter_end_piece_w", "f_counter_end_piece_s", "f_counter_end_piece_e_2" ]
+        }
       ]
     },
     { "id": "unconnected", "fg": [ "f_counter_unconnected", "f_counter_unconnected" ] }
