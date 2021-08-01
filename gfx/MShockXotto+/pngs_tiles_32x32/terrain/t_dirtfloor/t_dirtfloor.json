@@ -1,0 +1,12 @@
+{
+  "id": "t_dirtfloor",
+  "fg": [
+    { "weight": 1, "sprite": "t_dirtfloor" },
+    { "weight": 1, "sprite": "t_dirtfloor_2" },
+    { "weight": 1, "sprite": "t_dirtfloor_3" }
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}
