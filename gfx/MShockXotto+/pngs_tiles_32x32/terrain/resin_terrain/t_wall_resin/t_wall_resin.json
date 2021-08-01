@@ -1,10 +1,9 @@
 {
   "id": "t_wall_resin",
   "fg": "t_wall_resin_unconnected",
-  "bg": "",
   "multitile": true,
   "additional_tiles": [
-    { "id": "center", "fg": "t_wall_resin_center", "bg": "" },
+    { "id": "center", "fg": "t_wall_resin_center", "bg": "t_floor_resin" },
     {
       "id": "corner",
       "fg": [ "t_wall_resin_corner_nw", "t_wall_resin_corner_sw", "t_wall_resin_corner_se", "t_wall_resin_corner_ne" ],
@@ -20,12 +19,12 @@
       ],
       "bg": "t_floor_resin"
     },
-    { "id": "edge", "fg": [ "t_wall_resin_edge_ns", "t_wall_resin_edge_ew" ], "bg": "" },
+    { "id": "edge", "fg": [ "t_wall_resin_edge_ns", "t_wall_resin_edge_ew" ], "bg": "t_floor_resin" },
     {
       "id": "end_piece",
       "fg": [ "t_wall_resin_end_piece_n", "t_wall_resin_end_piece_w", "t_wall_resin_end_piece_s", "t_wall_resin_end_piece_e" ],
       "bg": "t_floor_resin"
     },
-    { "id": "unconnected", "fg": [ "t_wall_resin_unconnected", "t_wall_resin_unconnected" ], "bg": "t_dirt" }
+    { "id": "unconnected", "fg": [ "t_wall_resin_unconnected", "t_wall_resin_unconnected" ], "bg": "t_floor_resin" }
   ]
 }
