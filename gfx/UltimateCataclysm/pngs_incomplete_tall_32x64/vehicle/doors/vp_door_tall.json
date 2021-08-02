@@ -16,7 +16,7 @@
     ]
   },
   {
-    "id": [ "vp_door_nw", "vp_door_front_left" ],
+    "id": "vp_door_nw",
     "fg": [ "vp_door_nw", "vp_door_nw_rotW", "vp_door_nw_rotS", "vp_door_nw_rotE" ],
     "multitile": true,
     "additional_tiles": [
@@ -28,6 +28,22 @@
         "id": "broken",
         "fg": [ "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall" ],
         "bg": [ "vp_door_left_open_rotN", "vp_door_left_open_rotW", "vp_door_left_open_rotS", "vp_door_left_open_rotE" ]
+      }
+    ]
+  },
+  {
+    "id": "vp_door_front_left",
+    "fg": [ "vp_door_nw_mirrorless", "vp_door_nw_mirrorless_rotW", "vp_door_nw_mirrorless_rotS", "vp_door_nw_mirrorless_rotE" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "open",
+        "fg": [ "vp_door_nw_mirrorless_open", "vp_door_nw_mirrorless_open_rotW", "vp_door_nw_mirrorless_open_rotS", "vp_door_nw_mirrorless_open_rotE" ]
+      },
+      {
+        "id": "broken",
+        "fg": [ "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall" ],
+        "bg": [ "vp_door_nw_mirrorless_open", "vp_door_nw_mirrorless_open_rotW", "vp_door_nw_mirrorless_open_rotS", "vp_door_nw_mirrorless_open_rotE" ]
       }
     ]
   },
@@ -64,7 +80,7 @@
     ]
   },
   {
-    "id": [ "vp_door_ne", "vp_door_front_right" ],
+    "id": "vp_door_ne",
     "fg": [ "vp_door_ne", "vp_door_ne_rotW", "vp_door_ne_rotS", "vp_door_ne_rotE" ],
     "multitile": true,
     "additional_tiles": [
@@ -76,6 +92,22 @@
         "id": "broken",
         "fg": [ "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall" ],
         "bg": [ "vp_door_right_open_rotN", "vp_door_right_open_rotW", "vp_door_right_open_rotS", "vp_door_right_open_rotE" ]
+      }
+    ]
+  },
+  {
+    "id": "vp_door_front_right",
+    "fg": [ "vp_door_ne_mirrorless", "vp_door_ne_mirrorless_rotW", "vp_door_ne_mirrorless_rotS", "vp_door_ne_mirrorless_rotE" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "open",
+        "fg": [ "vp_door_ne_mirrorless_open", "vp_door_ne_mirrorless_open_rotW", "vp_door_ne_mirrorless_open_rotS", "vp_door_ne_mirrorless_open_rotE" ]
+      },
+      {
+        "id": "broken",
+        "fg": [ "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall" ],
+        "bg": [ "vp_door_ne_mirrorless_open", "vp_door_ne_mirrorless_open_rotW", "vp_door_ne_mirrorless_open_rotS", "vp_door_ne_mirrorless_open_rotE" ]
       }
     ]
   },
