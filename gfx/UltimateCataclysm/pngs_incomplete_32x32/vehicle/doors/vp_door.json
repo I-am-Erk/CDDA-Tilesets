@@ -1,6 +1,6 @@
 [
   {
-    "id": "vp_door_internal",
+    "id": [ "vp_door_internal", "vp_door_opaque" ],
     "fg": [ "vp_door_interior_rotN", "vp_door_interior_rotW", "vp_door_interior_rotS", "vp_door_interior_rotE" ],
     "multitile": true,
     "additional_tiles": [
@@ -38,48 +38,6 @@
         "id": "broken",
         "fg": "crack_metal_center",
         "bg": "vp_door_inboard"
-      }
-    ]
-  },
-  {
-    "id": "vp_door_front",
-    "fg": [ "vp_door_front", "vp_door_front_rotW", "vp_door_front", "vp_door_front_rotE" ],
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "open",
-        "fg": [ "vp_door_front_open_rotN", "vp_door_front_open_rotW", "vp_door_front_open_rotN", "vp_door_front_open_rotE" ]
-      },
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": [ "vp_door_front_open_rotN", "vp_door_front_open_rotW", "vp_door_front_open_rotN", "vp_door_front_open_rotE" ]
-      }
-    ]
-  },
-  {
-    "id": "vp_door_rear",
-    "fg": [ "vp_door_rear_edge", "vp_door_rear_edge_rotW", "vp_door_rear_edge", "vp_door_rear_edge_rotE" ],
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "open",
-        "fg": [
-          "vp_door_rear_edge_open_rotN",
-          "vp_door_rear_edge_open_rotW",
-          "vp_door_rear_edge_open_rotN",
-          "vp_door_rear_edge_open_rotE"
-        ]
-      },
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": [
-          "vp_door_rear_edge_open_rotN",
-          "vp_door_rear_edge_open_rotW",
-          "vp_door_rear_edge_open_rotN",
-          "vp_door_rear_edge_open_rotE"
-        ]
       }
     ]
   },
@@ -134,48 +92,6 @@
   {
     "id": "vp_hddoor_rear",
     "fg": [ "vp_hddoor_rear_rotN", "vp_hddoor_rear_rotW", "vp_hddoor_rear_rotS", "vp_hddoor_rear_rotE" ],
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "open",
-        "fg": [
-          "vp_door_rear_edge_open_rotN",
-          "vp_door_rear_edge_open_rotW",
-          "vp_door_rear_edge_open_rotN",
-          "vp_door_rear_edge_open_rotE"
-        ]
-      },
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": [
-          "vp_door_rear_edge_open_rotN",
-          "vp_door_rear_edge_open_rotW",
-          "vp_door_rear_edge_open_rotN",
-          "vp_door_rear_edge_open_rotE"
-        ]
-      }
-    ]
-  },
-  {
-    "id": [ "vp_door_opaque", "vp_door_opaque_front" ],
-    "fg": [ "vp_door_opaque_front_rotN", "vp_door_opaque_front_rotW", "vp_door_opaque_front_rotN", "vp_door_opaque_front_rotE" ],
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "open",
-        "fg": [ "vp_door_front_open_rotN", "vp_door_front_open_rotW", "vp_door_front_open_rotN", "vp_door_front_open_rotE" ]
-      },
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": [ "vp_door_front_open_rotN", "vp_door_front_open_rotW", "vp_door_front_open_rotN", "vp_door_front_open_rotE" ]
-      }
-    ]
-  },
-  {
-    "id": "vp_door_opaque_rear",
-    "fg": [ "vp_door_opaque_rear_rotN", "vp_door_opaque_rear_rotW", "vp_door_opaque_rear_rotS", "vp_door_opaque_rear_rotE" ],
     "multitile": true,
     "additional_tiles": [
       {

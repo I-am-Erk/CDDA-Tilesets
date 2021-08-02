@@ -178,5 +178,89 @@
         ]
       }
     ]
+  },
+  {
+    "id": "vp_door_rear",
+    "fg": [ "vp_door_rear", "vp_door_rear_rotW", "vp_door_rear_rotS", "vp_door_rear_rotE" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "open",
+        "fg": [
+          "vp_door_rear_open",
+          "vp_door_rear_open_rotW",
+          "vp_door_rear_open_rotS",
+          "vp_door_rear_open_rotE"
+        ]
+      },
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [
+          "vp_door_rear_open",
+          "vp_door_rear_open_rotW",
+          "vp_door_rear_open_rotS",
+          "vp_door_rear_open_rotE"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vp_door_front",
+    "fg": [ "vp_door_rear_rotS", "vp_door_rear_rotE", "vp_door_rear", "vp_door_rear_rotW" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "open",
+        "fg": [ "vp_door_rear_open_rotS", "vp_door_rear_open_rotE", "vp_door_rear_open", "vp_door_rear_open_rotW" ]
+      },
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_door_rear_open_rotS", "vp_door_rear_open_rotE", "vp_door_rear_open", "vp_door_rear_open_rotW" ]
+      }
+    ]
+  },
+  {
+    "id": "vp_door_opaque_rear",
+    "fg": [ "vp_door_opaque_rear", "vp_door_opaque_rear_rotW", "vp_door_opaque_rear_rotS", "vp_door_opaque_rear_rotE" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "open",
+        "fg": [
+          "vp_door_rear_open",
+          "vp_door_rear_open_rotW",
+          "vp_door_rear_open_rotS",
+          "vp_door_rear_open_rotE"
+        ]
+      },
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [
+          "vp_door_rear_open",
+          "vp_door_rear_open_rotW",
+          "vp_door_rear_open_rotS",
+          "vp_door_rear_open_rotE"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vp_door_opaque_front",
+    "fg": [ "vp_door_opaque_rear_rotS", "vp_door_opaque_rear_rotE", "vp_door_opaque_rear", "vp_door_opaque_rear_rotW" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "open",
+        "fg": [ "vp_door_rear_open_rotS", "vp_door_rear_open_rotE", "vp_door_rear_open", "vp_door_rear_open_rotW" ]
+      },
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_door_rear_open_rotS", "vp_door_rear_open_rotE", "vp_door_rear_open", "vp_door_rear_open_rotW" ]
+      }
+    ]
   }
 ]
