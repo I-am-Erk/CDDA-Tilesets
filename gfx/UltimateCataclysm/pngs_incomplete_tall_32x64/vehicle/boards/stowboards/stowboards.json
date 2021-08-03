@@ -133,13 +133,13 @@
   },
   {
     "id": "vp_stowboard_wheel_right",
-    "fg": [ "vp_stowboard_horizontal_front_rotE", "vp_stowboard_vertical_left_rotE_right_rotW", "vp_stowboard_horizontal_front_rotW", "vp_stowboard_vertical_left_rotW_right_rotE" ],
+    "fg": [ "vp_stowboard_horizontal_front_rotE", "vp_stowboard_vertical_left_rotE_right_rotW", "vp_stowboard_horizontal_front_rotW", "vp_stowboard_wheel_left_rotW_right_rotE" ],
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": [ "vp_stowboard_horizontal_front_rotE", "vp_stowboard_vertical_left_rotE_right_rotW", "vp_stowboard_horizontal_front_rotW", "vp_stowboard_vertical_left_rotW_right_rotE" ]
+        "bg": [ "vp_stowboard_horizontal_front_rotE", "vp_stowboard_vertical_left_rotE_right_rotW", "vp_stowboard_horizontal_front_rotW", "vp_stowboard_wheel_left_rotW_right_rotE" ]
       }
     ]
   }
