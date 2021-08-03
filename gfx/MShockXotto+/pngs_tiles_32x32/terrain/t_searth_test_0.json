@@ -1,5 +1,1 @@
-{
-	"id": "t_sand",
-	"fg": "t_sandbox_center",
-	"bg": [ ]
-}
+{"id": "t_searth_test", "fg": ["3227_t_searth_test_0"], "bg": ["t_sandbox_center"], "rotates": false, "multitile": true, "additional_tiles": [{"id": "center", "fg": ["3227_t_searth_test_0"], "bg": ["t_sandbox_center"]}, {"id": "corner", "fg": ["3228_t_searth_test_2"], "bg": ["t_sandbox_center"]}, {"id": "edge", "fg": ["3229_t_searth_test_3"], "bg": ["t_sandbox_center"]}, {"id": "t_connection", "fg": ["3231_t_searth_test_4"], "bg": ["t_sandbox_center"]}, {"id": "end_piece", "fg": ["3230_t_searth_test_5"], "bg": ["t_sandbox_center"]}, {"id": "unconnected", "fg": ["3232_t_searth_test_6"], "bg": ["t_sandbox_center"]}]}
