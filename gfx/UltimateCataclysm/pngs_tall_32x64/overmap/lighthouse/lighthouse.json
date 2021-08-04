@@ -1,0 +1,11 @@
+[
+{
+	"id": "lighthouse_ground",
+	"fg": "lighthouse_ground",
+	"bg": "t_water_sh_center_tall"
+},{
+	"id": "lighthouse_z1",
+	"fg": "lighthouse_z1",
+	"bg": "open_air_tall"
+}
+]
