@@ -262,5 +262,21 @@
         "bg": [ "vp_door_rear_open_rotS", "vp_door_rear_open_rotE", "vp_door_rear_open", "vp_door_rear_open_rotW" ]
       }
     ]
+  },
+  {
+    "id": "vp_door_sliding",
+    "fg": [ "vp_door_opaque_rear_rotW", "vp_door_opaque_rear_rotS", "vp_door_opaque_rear_rotE", "vp_door_opaque_full_right_rotE" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "open",
+        "fg": [ "vp_door_sliding_open_faceE", "vp_door_sliding_open_faceN", "vp_door_sliding_open_faceW", "vp_door_sliding_vertical_left_open_rotW_right_open_rotE" ]
+      },
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_door_sliding_open_faceE", "vp_door_sliding_open_faceN", "vp_door_sliding_open_faceW", "vp_door_sliding_vertical_left_open_rotW_right_open_rotE" ]
+      }
+    ]
   }
 ]

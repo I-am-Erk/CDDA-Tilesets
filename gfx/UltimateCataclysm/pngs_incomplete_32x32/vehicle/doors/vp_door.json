@@ -26,7 +26,7 @@
     ]
   },
   {
-    "id": [ "vp_door", "vp_door_sliding" ],
+    "id": "vp_door",
     "fg": "vp_door_inboard",
     "multitile": true,
     "additional_tiles": [
