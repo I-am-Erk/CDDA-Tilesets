@@ -34,5 +34,29 @@
       }
     ],
     "multitile": true
+  },
+  {
+    "id": "vp_windshield_full_wheel_left",
+    "fg": [ "vp_windshield_full_faceW", "vp_windshield_full_wheel_left_rotW_right_rotE", "vp_windshield_full_faceE", "vp_windshield_full_faceN" ],
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_glass_right",
+        "bg": [ "vp_windshield_full_faceW", "vp_windshield_full_wheel_left_rotW_right_rotE", "vp_windshield_full_faceE", "vp_windshield_full_faceN" ]
+      }
+    ],
+    "multitile": true
+  },
+  {
+    "id": "vp_windshield_full_wheel_right",
+    "fg": [ "vp_windshield_full_faceE", "vp_windshield_full_faceN", "vp_windshield_full_faceW", "vp_windshield_full_wheel_left_rotW_right_rotE" ],
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_glass_right",
+        "bg": [ "vp_windshield_full_faceE", "vp_windshield_full_faceN", "vp_windshield_full_faceW", "vp_windshield_full_wheel_left_rotW_right_rotE" ]
+      }
+    ],
+    "multitile": true
   }
 ]
