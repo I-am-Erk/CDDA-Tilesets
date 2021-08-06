@@ -38,5 +38,10 @@
   "id": "mon_zombie_waif",
   "fg": ["howling_waif"],
   "bg": ["shadow_32x32_small"]
+  },
+  {
+  "id": "mon_zombie_child_scorched",
+  "fg": ["mon_zombie_child_scorched"],
+  "bg": ["shadow_32x32_small"]
   }
 ]
