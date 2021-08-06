@@ -97,25 +97,25 @@
   },
   {
     "id": [ "vp_board_horizontal", "vp_board_horizontal_2" ],
-    "fg": [ "vp_board_horizontal_front", "vp_board_vertical_rotNS", "vp_board_horizontal_front", "vp_board_vertical_rotNS" ],
+    "fg": [ "vp_board_horizontal_rear_rotS", "vp_board_vertical_rotNS", "vp_board_horizontal_rear_rotS", "vp_board_vertical_rotNS" ],
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": [ "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall" ],
-        "bg": [ "vp_board_horizontal_front", "vp_board_vertical_rotNS", "vp_board_horizontal_front", "vp_board_vertical_rotNS" ]
+        "bg": [ "vp_board_horizontal_rear_rotS", "vp_board_vertical_rotNS", "vp_board_horizontal_rear_rotS", "vp_board_vertical_rotNS" ]
       }
     ]
   },
   {
     "id": "vp_board_horizontal_front",
-    "fg": [ "vp_board_horizontal_front", "vp_board_horizontal_front_rotW", "vp_board_horizontal_front_rotS", "vp_board_horizontal_front_rotE" ],
+    "fg": [ "vp_board_horizontal_rear_rotS", "vp_board_horizontal_front_rotW", "vp_board_horizontal_front_rotS", "vp_board_horizontal_front_rotE" ],
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": [ "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall" ],
-        "bg": [ "vp_board_horizontal_front", "vp_board_horizontal_front_rotW", "vp_board_horizontal_front_rotS", "vp_board_horizontal_front_rotE" ]
+        "bg": [ "vp_board_horizontal_rear_rotS", "vp_board_horizontal_front_rotW", "vp_board_horizontal_front_rotS", "vp_board_horizontal_front_rotE" ]
       }
     ]
   },
@@ -133,13 +133,13 @@
   },
   {
     "id": [ "vp_board_vertical", "vp_board_vertical_2" ],
-    "fg": [ "vp_board_vertical_rotNS", "vp_board_horizontal_front", "vp_board_vertical_rotNS", "vp_board_horizontal_front" ],
+    "fg": [ "vp_board_vertical_rotNS", "vp_board_horizontal_rear_rotS", "vp_board_vertical_rotNS", "vp_board_horizontal_rear_rotS" ],
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": [ "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall" ],
-        "bg": [ "vp_board_vertical_rotNS", "vp_board_horizontal_front", "vp_board_vertical_rotNS", "vp_board_horizontal_front" ]
+        "bg": [ "vp_board_vertical_rotNS", "vp_board_horizontal_rear_rotS", "vp_board_vertical_rotNS", "vp_board_horizontal_rear_rotS" ]
       }
     ]
   }
