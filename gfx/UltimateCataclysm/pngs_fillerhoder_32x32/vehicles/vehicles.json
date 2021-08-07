@@ -354,18 +354,6 @@
     ]
   },
   {
-    "id": "vp_spike",
-    "fg": "153_vp_spike_0",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "153_vp_spike_0"
-      }
-    ]
-  },
-  {
     "id": "vp_storage_battery",
     "fg": "138_vp_small_storage_battery_0",
     "multitile": true,
