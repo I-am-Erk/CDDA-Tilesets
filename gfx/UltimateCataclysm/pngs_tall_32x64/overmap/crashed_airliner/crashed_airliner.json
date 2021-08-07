@@ -1,0 +1,12 @@
+[
+{
+	"id": "airliner_2b_1",
+	"fg": "crashed_airliner_1z",
+	"bg": "open_air_tall",
+	"rotates": false
+},{
+	"id": "airliner_2b",
+	"fg": "crashed_airliner",
+	"bg": "crashed_airliner_terrain_tall"
+}
+]
