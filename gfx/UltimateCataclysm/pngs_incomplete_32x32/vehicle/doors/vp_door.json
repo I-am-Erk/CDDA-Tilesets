@@ -42,22 +42,6 @@
     ]
   },
   {
-    "id": "vp_door_shutter",
-    "fg": [ "vp_door_shutter", "vp_door_shutter_rotW", "vp_door_shutter", "vp_door_shutter_rotE" ],
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "open",
-        "fg": "vp_door_shutter_open"
-      },
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "vp_door_shutter_open"
-      }
-    ]
-  },
-  {
     "id": [ "vp_hddoor_trunk", "vp_hdhatch", "vp_hdhatch_opaque" ],
     "fg": [ "vp_hddoor_trunk", "vp_hddoor_trunk_rotW", "vp_hddoor_trunk_rotS", "vp_hddoor_trunk_rotE" ],
     "multitile": true,
