@@ -1,0 +1,23 @@
+[
+{
+	"id": "lighthouse_z2",
+	"fg": "lighthouse_z2",
+	"bg": "open_air"
+},{
+	"id": "lighthouse_z3",
+	"fg": "lighthouse_z3",
+	"bg": "open_air"
+},{
+	"id": "lighthouse_z4",
+	"fg": "lighthouse_z4",
+	"bg": "open_air"
+},{
+	"id": "lighthouse_z5",
+	"fg": "lighthouse_z5",
+	"bg": "open_air"
+},{
+	"id": "lighthouse_roof",
+	"fg": "lighthouse_roof",
+	"bg": "open_air"
+}
+]

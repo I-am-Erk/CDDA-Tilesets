@@ -1,0 +1,50 @@
+[
+  {
+    "id": "overlay_female_mutation_SKIN_DARK",
+    "fg": "skin_dark_f"
+  },
+  {
+    "id": "overlay_male_mutation_SKIN_DARK",
+    "fg": "skin_dark_m"
+  },
+  {
+    "id": "overlay_female_mutation_SKIN_LIGHT",
+    "fg": "skin_light_f"
+  },
+  {
+    "id": "overlay_male_mutation_SKIN_LIGHT",
+    "fg": "skin_light_m"
+  },
+  {
+    "id": "overlay_female_mutation_SKIN_PINK",
+    "fg": "skin_rose_f"
+  },
+  {
+    "id": "overlay_male_mutation_SKIN_PINK",
+    "fg": "skin_rose_m"
+  },
+  {
+    "id": "overlay_female_mutation_SKIN_TAN",
+    "fg": "skin_tan_f"
+  },
+  {
+    "id": "overlay_male_mutation_SKIN_TAN",
+    "fg": "skin_tan_m"
+  },
+  {
+    "id": "overlay_female_mutation_PALE",
+    "fg": "pale_f"
+  },
+  {
+    "id": "overlay_male_mutation_PALE",
+    "fg": "pale_m"
+  },
+  {
+    "id": "overlay_female_mutation_ALBINO",
+    "fg": "overlay_female_mutation_ALBINO"
+  },
+  {
+    "id": "overlay_male_mutation_ALBINO",
+    "fg": "overlay_male_mutation_ALBINO"
+  }
+]
