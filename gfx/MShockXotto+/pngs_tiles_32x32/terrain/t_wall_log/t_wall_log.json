@@ -10,16 +10,16 @@
     {
       "id": "corner",
       "fg": [
-        "t_wall_log_end_piece_n",
+        "t_wall_log_corner_nw",
         "t_wall_log_corner_sw",
         "t_wall_log_corner_se",
-        "t_wall_log_end_piece_n"
+        "t_wall_log_corner_ne"
       ]
     },
     {
       "id": "t_connection",
       "fg": [
-        "t_wall_log_end_piece_n",
+        "t_wall_log_t_connection_n",
         "t_wall_log_t_connection_w",
         "t_wall_log_t_connection_s",
         "t_wall_log_t_connection_e"
