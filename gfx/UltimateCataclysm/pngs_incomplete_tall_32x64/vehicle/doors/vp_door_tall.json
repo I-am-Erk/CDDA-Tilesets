@@ -180,7 +180,7 @@
     ]
   },
   {
-    "id": "vp_door_rear",
+    "id": [ "vp_door_rear", "vp_door_horizontal_rear" ],
     "fg": [ "vp_door_rear", "vp_door_rear_rotW", "vp_door_rear_rotS", "vp_door_rear_rotE" ],
     "multitile": true,
     "additional_tiles": [
@@ -206,7 +206,7 @@
     ]
   },
   {
-    "id": "vp_door_front",
+    "id": [ "vp_door_front", "vp_door_horizontal_front" ],
     "fg": [ "vp_door_rear_rotS", "vp_door_rear_rotE", "vp_door_rear", "vp_door_rear_rotW" ],
     "multitile": true,
     "additional_tiles": [
@@ -222,7 +222,7 @@
     ]
   },
   {
-    "id": "vp_door_opaque_rear",
+    "id": [ "vp_door_opaque_rear", "vp_door_opaque_horizontal_rear" ], 
     "fg": [ "vp_door_opaque_rear", "vp_door_opaque_rear_rotW", "vp_door_opaque_rear_rotS", "vp_door_opaque_rear_rotE" ],
     "multitile": true,
     "additional_tiles": [
@@ -248,7 +248,7 @@
     ]
   },
   {
-    "id": "vp_door_opaque_front",
+    "id": [ "vp_door_opaque_front", "vp_door_opaque_horizontal_front" ],
     "fg": [ "vp_door_opaque_rear_rotS", "vp_door_opaque_rear_rotE", "vp_door_opaque_rear", "vp_door_opaque_rear_rotW" ],
     "multitile": true,
     "additional_tiles": [
