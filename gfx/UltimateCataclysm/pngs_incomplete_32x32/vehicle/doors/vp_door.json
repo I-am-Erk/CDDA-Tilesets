@@ -1,21 +1,5 @@
 [
   {
-    "id": "vp_door",
-    "fg": "vp_door_inboard",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "open",
-        "fg": "vp_door_inboard_open"
-      },
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "vp_door_inboard"
-      }
-    ]
-  },
-  {
     "id": [ "vp_hddoor_trunk", "vp_hdhatch", "vp_hdhatch_opaque" ],
     "fg": [ "vp_hddoor_trunk", "vp_hddoor_trunk_rotW", "vp_hddoor_trunk_rotS", "vp_hddoor_trunk_rotE" ],
     "multitile": true,

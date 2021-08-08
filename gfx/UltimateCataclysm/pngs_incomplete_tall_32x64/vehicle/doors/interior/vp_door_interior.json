@@ -1,6 +1,6 @@
 [
   {
-    "id": [ "vp_door_internal", "vp_door_opaque" ],
+    "id": [ "vp_door", "vp_door_internal", "vp_door_opaque" ],
     "fg": [ "vp_door_interior_rotN", "vp_door_interior_rotEW", "vp_door_interior_rotS", "vp_door_interior_rotEW" ],
     "multitile": true,
     "additional_tiles": [

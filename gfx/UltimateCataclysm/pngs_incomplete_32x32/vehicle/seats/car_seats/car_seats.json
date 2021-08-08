@@ -166,5 +166,29 @@
         "bg": [ "vp_seat_back_leather_right_rotE", "vp_seat_back_leather_right", "vp_seat_back_leather_right_rotW", "vp_seat_back_leather_right_rotS" ]
       }
     ]
+  },
+  {
+    "id": "vp_seat_rear",
+    "fg": [ "vp_seat_down", "vp_seat_right", "vp_seat_up", "vp_seat_left" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_seat_down", "vp_seat_right", "vp_seat_up", "vp_seat_left" ]
+      }
+    ]
+  },
+  {
+    "id": "vp_seat_leather_rear",
+    "fg": [ "vp_seat_leather_down", "vp_seat_leather_right", "vp_seat_leather_up", "vp_seat_leather_left" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_seat_leather_down", "vp_seat_leather_right", "vp_seat_leather_up", "vp_seat_leather_left" ]
+      }
+    ]
   }
 ]
