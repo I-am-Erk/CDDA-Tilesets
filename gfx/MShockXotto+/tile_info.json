@@ -11,6 +11,9 @@
     "overmap.png": {  }
   },
   {
+	"small.png": {"sprite_width": 20, "sprite_height": 20, "sprite_offset_x": 6, "sprite_offset_y": 0 }
+  },
+  {
     "big.png": { "sprite_width": 36, "sprite_height": 36, "sprite_offset_x": 0, "sprite_offset_y": 0 }
   },
   {
