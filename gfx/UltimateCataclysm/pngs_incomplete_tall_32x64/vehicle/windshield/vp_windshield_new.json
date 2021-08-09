@@ -46,5 +46,32 @@
         "bg": [ "vp_windshield_wheel_right", "vp_windshield_wheel_right_rotW", "vp_windshield_wheel_right_rotS", "vp_windshield_wheel_right_rotE" ]
       }
     ]
+  },
+  {
+    "id": "vp_windshield_vertical_2_left" ,
+    "fg": [ "vp_windshield_left", "vp_windshield_vertical_2_left_rotW_right_rotE", "vp_windshield_left_rotS", "vp_windshield_left_rotE" ],
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "crack_glass_left_tall", "crack_glass_left_tall", "crack_glass_left_tall", "crack_glass_left_tall" ],
+        "bg": ["vp_windshield_left", "vp_windshield_vertical_2_left_rotW_right_rotE", "vp_windshield_left_rotS", "vp_windshield_left_rotE"
+        ]
+      }
+    ],
+    "multitile": true
+  },
+  {
+    "id": "vp_windshield_vertical_2_right" ,
+    "fg": [ "vp_windshield_right", "vp_windshield_right_rotW", "vp_windshield_right_rotS", "vp_windshield_vertical_2_left_rotW_right_rotE" ],
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "crack_glass_right_tall", "crack_glass_right_tall", "crack_glass_right_tall", "crack_glass_right_tall" ],
+        "bg": [
+         "vp_windshield_right", "vp_windshield_right_rotW", "vp_windshield_right_rotS", "vp_windshield_vertical_2_left_rotW_right_rotE"
+        ]
+      }
+    ],
+    "multitile": true
   }
 ]
