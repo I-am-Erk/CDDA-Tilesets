@@ -15,14 +15,6 @@
     "id": [ "vp_stowboard_wheel_left", "vp_stowboard_wheel_right" ],
     "fg": ["2391_vp_stowboard_vertical_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["155_vp_cargo_bag_1"], "bg": []}], "bg": []},
   {
-    "id": "vp_windshield_wheel_left",
-    "fg": [ "vp_windshield_nw" ],
-    "bg": [  ],
-    "rotates": true,
-    "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": [ "broken_windshield_nw" ], "bg": [  ] } ]
-  },
-  {
-    "id": [ "vp_windshield_wheel_right", "vp_windshield_full_wheel_left", "vp_windshield_full_wheel_right", "vp_windshield_vertical_2_left", "vp_windshield_vertical_2_right" ],
+    "id": [ "vp_windshield_wheel_left", "vp_windshield_wheel_right", "vp_windshield_full_wheel_left", "vp_windshield_full_wheel_right", "vp_windshield_vertical_2_left", "vp_windshield_vertical_2_right" ],
     "fg": ["2442_vp_windshield_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["2438_vp_reinforced_windshield_1"], "bg": []}], "bg": []}
 ]
