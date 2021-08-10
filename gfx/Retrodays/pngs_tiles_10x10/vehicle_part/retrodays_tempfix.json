@@ -12,7 +12,7 @@
     "id": [ "vp_halfboard_wheel_left", "vp_halfboard_wheel_right", "vp_board_wheel_left", "vp_board_nw_edge", "vp_board_wheel_right", "vp_board_ne_edge" ],
     "fg": ["2366_vp_fxlhalfboard_vertical_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["155_vp_cargo_bag_1"], "bg": []}], "bg": []},
   {
-    "id": [ vp_stowboard_wheel_left", "vp_stowboard_wheel_right" ],
+    "id": [ "vp_stowboard_wheel_left", "vp_stowboard_wheel_right" ],
     "fg": ["2391_vp_stowboard_vertical_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["155_vp_cargo_bag_1"], "bg": []}], "bg": []},
   {
     "id": "vp_windshield_wheel_left",
