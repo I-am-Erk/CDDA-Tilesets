@@ -105,8 +105,6 @@
     "multitile": true,
     "additional_tiles": [ { "id": "broken", "fg": [ "broken_windshield_vertical_left" ], "bg": [  ] } ]
   },
-    "multitile": true
-  },
   {
     "id": "vp_windshield_full_wheel_right",
     "fg": [ "vp_windshield_full_vertical_right" ],
