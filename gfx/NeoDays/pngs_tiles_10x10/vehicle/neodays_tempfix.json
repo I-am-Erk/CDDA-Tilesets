@@ -1,0 +1,20 @@
+[
+  {
+    "id": [ "vp_halfboard_cover_right", "vp_halfboard_cover_left" ],
+    "fg": ["2368_vp_fxlhalfboard_horizontal_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["155_vp_cargo_bag_1"], "bg": []}], "bg": []},
+  {
+    "id": "vp_halfboard_hatch_wheel_left",
+    "fg": ["2372_vp_fxlhalfboard_sw_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["155_vp_cargo_bag_1"], "bg": []}], "bg": []},
+  {
+    "id": "vp_halfboard_hatch_wheel_right",
+    "fg": ["2373_vp_fxlhalfboard_se_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["155_vp_cargo_bag_1"], "bg": []}], "bg": []},
+  {
+    "id": [ "vp_halfboard_wheel_left", "vp_halfboard_wheel_right", "vp_board_wheel_left", "vp_board_nw_edge", "vp_board_wheel_right", "vp_board_ne_edge" ],
+    "fg": ["2366_vp_fxlhalfboard_vertical_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["155_vp_cargo_bag_1"], "bg": []}], "bg": []},
+  {
+    "id": [ "vp_stowboard_wheel_left", "vp_stowboard_wheel_right" ],
+    "fg": ["2391_vp_stowboard_vertical_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["155_vp_cargo_bag_1"], "bg": []}], "bg": []},
+  {
+    "id": [ "vp_windshield_wheel_left", "vp_windshield_wheel_right", "vp_windshield_full_wheel_left", "vp_windshield_full_wheel_right", "vp_windshield_vertical_2_left", "vp_windshield_vertical_2_right" ],
+    "fg": ["2442_vp_windshield_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["2438_vp_reinforced_windshield_1"], "bg": []}], "bg": []}
+]
