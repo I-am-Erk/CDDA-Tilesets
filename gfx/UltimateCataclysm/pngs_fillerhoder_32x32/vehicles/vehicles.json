@@ -209,19 +209,6 @@
     ]
   },
   {
-    "id": "vp_omnicam",
-    "fg": "1747_vp_omnicam_0",
-    "bg": "1767_vp_hdroof_0",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_glass_center",
-        "bg": "1747_vp_omnicam_0"
-      }
-    ]
-  },
-  {
     "id": "vp_plating_hard",
     "fg": "147_vp_plating_hard_0",
     "multitile": true,
