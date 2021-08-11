@@ -1,17 +1,14 @@
 [
   {
     "id": "i_staff",
-    "fg": "ironshod_quarterstaff",
-    "bg": ""
+    "fg": "ironshod_quarterstaff"
   },
   {
     "id": "shock_staff",
-    "fg": "powered_quarterstaff",
-    "bg": ""
+    "fg": "powered_quarterstaff"
   },
   {
     "id": "q_staff",
-    "fg": "quarterstaff",
-    "bg": ""
+    "fg": "quarterstaff"
   }
 ]

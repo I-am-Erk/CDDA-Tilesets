@@ -1,17 +1,14 @@
 {
   "id": [ "f_skin_wall", "f_large_skin_wall" ],
-  "multitile": true,
   "fg": "f_skin_wall_unconnected",
-  "bg": "",
+  "multitile": true,
   "additional_tiles": [
     {
       "id": "center",
-      "bg": "",
       "fg": "f_skin_wall_center"
     },
     {
       "id": "corner",
-      "bg": "",
       "fg": [
         "f_skin_wall_corner_nw",
         "f_skin_wall_corner_sw",
@@ -21,7 +18,6 @@
     },
     {
       "id": "t_connection",
-      "bg": "",
       "fg": [
         "f_skin_wall_t_connection_n",
         "f_skin_wall_t_connection_w",
@@ -31,7 +27,6 @@
     },
     {
       "id": "edge",
-      "bg": "",
       "fg": [
         "f_skin_wall_edge_ns",
         "f_skin_wall_edge_ew"
@@ -39,7 +34,6 @@
     },
     {
       "id": "end_piece",
-      "bg": "",
       "fg": [
         "f_skin_wall_end_piece_n",
         "f_skin_wall_end_piece_w",
@@ -48,7 +42,6 @@
       ]
     },
     {
-      "bg": "",
       "id": "unconnected",
       "fg": "f_skin_wall_unconnected"
     }
