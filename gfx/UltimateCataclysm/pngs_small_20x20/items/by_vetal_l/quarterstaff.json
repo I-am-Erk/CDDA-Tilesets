@@ -1,0 +1,14 @@
+[
+  {
+    "id": "i_staff",
+    "fg": "ironshod_quarterstaff"
+  },
+  {
+    "id": "shock_staff",
+    "fg": "powered_quarterstaff"
+  },
+  {
+    "id": "q_staff",
+    "fg": "quarterstaff"
+  }
+]
