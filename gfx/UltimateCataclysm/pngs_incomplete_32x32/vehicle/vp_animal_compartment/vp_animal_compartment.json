@@ -1,0 +1,14 @@
+[
+  {
+    "id": "vp_animal_compartment",
+    "fg": [ "vp_animal_compartment", "vp_animal_compartment", "vp_animal_compartment", "vp_animal_compartment" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_animal_compartment", "vp_animal_compartment", "vp_animal_compartment", "vp_animal_compartment" ]
+      }
+    ]
+  }
+]

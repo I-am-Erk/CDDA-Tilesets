@@ -101,18 +101,6 @@
     ]
   },
   {
-    "id": "vp_bed",
-    "fg": [ "vp_bed", "vp_bed" ],
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": [ "vp_bed", "vp_bed" ]
-      }
-    ]
-  },
-  {
     "id": "vp_veh_forge",
     "fg": [ "vp_forge", "vp_forge" ],
     "multitile": true,
