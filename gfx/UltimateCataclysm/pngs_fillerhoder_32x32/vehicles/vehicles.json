@@ -437,18 +437,6 @@
     ]
   },
   {
-    "id": "vp_wheel_wide_steerable",
-    "fg": "120_vp_wheel_wide_0",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "120_vp_wheel_wide_0"
-      }
-    ]
-  },
-  {
     "id": "vp_wheel_wood",
     "fg": "wheel_wood",
     "multitile": true,
