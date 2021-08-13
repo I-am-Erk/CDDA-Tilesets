@@ -1,5 +1,4 @@
 {
   "id": [ "carbine_flintlock", "carbine_flintlock_double" ],
-  "fg": "carbine_flintlock",
-  "bg": ""
+  "fg": "carbine_flintlock"
 }
