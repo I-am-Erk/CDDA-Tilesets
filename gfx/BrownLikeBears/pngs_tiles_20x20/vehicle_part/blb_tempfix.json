@@ -1,0 +1,132 @@
+[
+  {
+    "id": [ "vp_halfboard_cover_right", "vp_halfboard_cover_left" ],
+    "fg": [
+      "vp_halfboard_horizontal_front",
+      "vp_halfboard_horizontal_front_rotW",
+      "vp_halfboard_horizontal_front_rotS",
+      "vp_halfboard_horizontal_front_rotE"
+    ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [
+          "broken_halfboard_horizontal_front",
+          "broken_halfboard_horizontal_front_rotW",
+          "broken_halfboard_horizontal_front_rotS",
+          "broken_halfboard_horizontal_front_rotE"
+        ],
+        "bg": [  ]
+      }
+    ]
+  },
+  {
+    "id": "vp_halfboard_hatch_wheel_left",
+    "fg": [ "vp_halfboard_sw" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_halfboard_sw" ], "bg": [  ] } ]
+  },
+  {
+    "id": "vp_halfboard_hatch_wheel_right",
+    "fg": [ "vp_halfboard_se" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_halfboard_se" ], "bg": [  ] } ]
+  },
+  {
+    "id": "vp_halfboard_wheel_left",
+    "fg": [ "vp_halfboard_vertical_left" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_halfboard_vertical_left" ], "bg": [  ] } ]
+  },
+  {
+    "id": "vp_halfboard_wheel_right",
+    "fg": [ "vp_halfboard_vertical_right" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_halfboard_vertical_right" ], "bg": [  ] } ]
+  },
+  {
+    "id": [ "vp_board_wheel_left", "vp_board_nw_edge" ], 
+    "fg": [ "vp_board_vertical_left" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_halfboard_vertical_left" ], "bg": [  ] } ]
+  },
+  {
+    "id": [ "vp_board_wheel_right", "vp_board_ne_edge" ],
+    "fg": [ "vp_board_vertical_right" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_halfboard_vertical_right" ], "bg": [  ] } ]
+  },
+  {
+    "id": "vp_stowboard_wheel_left",
+    "fg": "vp_stowboard_vertical_left",
+    "rotates": true
+  },
+  {
+    "id": "vp_stowboard_wheel_right",
+    "fg": "vp_stowboard_vertical_right",
+    "rotates": true
+  },
+  {
+    "id": "vp_windshield_wheel_left",
+    "fg": [ "vp_windshield_nw" ],
+    "bg": [  ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_windshield_nw" ], "bg": [  ] } ]
+  },
+  {
+    "id": "vp_windshield_wheel_right",
+    "fg": [ "vp_windshield_ne" ],
+    "bg": [  ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_windshield_ne" ], "bg": [  ] } ]
+  },
+  {
+    "id": "vp_windshield_full_wheel_left",
+    "fg": [ "vp_windshield_full_vertical_left" ],
+    "bg": [  ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_windshield_vertical_left" ], "bg": [  ] } ]
+  },
+  {
+    "id": "vp_windshield_full_wheel_right",
+    "fg": [ "vp_windshield_full_vertical_right" ],
+    "bg": [  ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_windshield_vertical_right" ], "bg": [  ] } ]
+  },
+  {
+    "id": "vp_windshield_vertical_2_left",
+    "fg": [ "vp_windshield_vertical_left" ],
+    "bg": [  ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_windshield_vertical_left" ], "bg": [  ] } ]
+  },
+  {
+    "id": "vp_windshield_vertical_2_right",
+    "fg": [ "vp_windshield_vertical_right" ],
+    "bg": [  ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_windshield_vertical_right" ], "bg": [  ] } ]
+  }
+]
