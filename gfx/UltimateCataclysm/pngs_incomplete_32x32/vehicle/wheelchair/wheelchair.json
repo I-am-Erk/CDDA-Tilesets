@@ -1,0 +1,14 @@
+[
+  {
+    "id": "vp_basketsm_wheelchair",
+    "fg": [ "wheelchair_north", "wheelchair_west", "wheelchair_south", "wheelchair_east" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "wheelchair_north", "wheelchair_west", "wheelchair_south", "wheelchair_east" ]
+      }
+    ]
+  }
+]
