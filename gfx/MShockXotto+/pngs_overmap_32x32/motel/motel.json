@@ -1,0 +1,26 @@
+[
+  {
+    "id": [ "motel_entrance" ],
+    "fg": [ "motel_entrance_north", "motel_entrance_east", "motel_entrance_south", "motel_entrance_west" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "motel_1" ],
+    "fg": [ "motel_1_north", "motel_1_east", "motel_1_south", "motel_1_west" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "motel_2" ],
+    "fg": [ "motel_2_north", "motel_2_east", "motel_2_south", "motel_2_west" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "motel_3" ],
+    "fg": [ "motel_3_north", "motel_3_east", "motel_3_south", "motel_3_west" ],
+    "bg": [  ],
+    "rotates": true
+  }
+]
