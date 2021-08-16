@@ -1,0 +1,12 @@
+[
+{
+  "id": "solid_earth",
+  "fg": [
+      { "weight": 60, "sprite": "solid_earth"},
+      { "weight": 20, "sprite": "solid_earth_1"},
+      { "weight": 5, "sprite": "solid_earth_2"},
+      { "weight": 5, "sprite": "solid_earth_3"},
+      { "weight": 10, "sprite": "solid_earth_4"}
+  ]
+}
+]
