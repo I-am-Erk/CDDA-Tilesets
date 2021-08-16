@@ -22,5 +22,29 @@
     "fg": [ "motel_3_north", "motel_3_east", "motel_3_south", "motel_3_west" ],
     "bg": [  ],
     "rotates": true
+  },
+  {
+    "id": [ "2fmotel_entrance_f2" ],
+    "fg": [ "2fmotel_entrance_f2_north", "2fmotel_entrance_f2_east", "2fmotel_entrance_f2_south", "2fmotel_entrance_f2_west" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "2fmotel_1_f2" ],
+    "fg": [ "2fmotel_1_f2_north", "2fmotel_1_f2_east", "2fmotel_1_f2_south", "2fmotel_1_f2_west" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "2fmotel_2_f2" ],
+    "fg": [ "2fmotel_2_f2_north", "2fmotel_2_f2_east", "2fmotel_2_f2_south", "2fmotel_2_f2_west" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "2fmotel_3_f2" ],
+    "fg": [ "2fmotel_3_f2_north", "2fmotel_3_f2_east", "2fmotel_3_f2_south", "2fmotel_3_f2_west" ],
+    "bg": [  ],
+    "rotates": true
   }
 ]
