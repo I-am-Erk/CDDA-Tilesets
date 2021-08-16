@@ -1,0 +1,8 @@
+{
+    "id": "mon_zombie_scissorlimbs",
+    "fg": [
+      { "weight": 4, "sprite": "mon_zombie_scissorlimbs" },
+      { "weight": 1, "sprite": "mon_zombie_scissorlimbs_variant" }
+    ],
+    "bg": "shadow_64x64_large"
+}
