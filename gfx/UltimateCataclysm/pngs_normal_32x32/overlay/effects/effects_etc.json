@@ -45,6 +45,11 @@
     "bg": ""
   },
   {
+    "id": [ "overlay_male_prone", "overlay_female_prone" ],
+    "fg": "overlay_mf_prone",
+    "bg": ""
+  },
+  {
     "id": "overlay_hostile_sees_player",
     "fg": "overlay_hostile_sees_player",
     "bg": ""
