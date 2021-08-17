@@ -1,0 +1,13 @@
+[
+{
+	"id": "pond_field",
+	"fg": "pond_field",
+	"bg": "field",
+	"rotates": false
+},{
+	"id": "hot_springs",
+	"fg": "hot_springs",
+	"bg": "field",
+	"rotates": false
+}
+]
