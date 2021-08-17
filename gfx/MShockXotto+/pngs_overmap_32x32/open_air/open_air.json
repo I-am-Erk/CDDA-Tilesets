@@ -2,11 +2,12 @@
 {
   "id": "open_air",
   "fg": [
-      { "weight": 5, "sprite": "open_air"},
-      { "weight": 10, "sprite": "open_air_1"},
-      { "weight": 10, "sprite": "open_air_2"},
-      { "weight": 10, "sprite": "open_air_3"},
-      { "weight": 20, "sprite": "open_air_4"}
+      { "weight": 1, "sprite": "open_air"},
+      { "weight": 1, "sprite": "open_air_1"},
+      { "weight": 1, "sprite": "open_air_2"},
+      { "weight": 1, "sprite": "open_air_3"},
+      { "weight": 1, "sprite": "open_air_4"},
+      { "weight": 1, "sprite": "open_air_5"}
   ]
 }
 ]
