@@ -1,0 +1,17 @@
+[
+  {
+    "id": [ "overlay_worn_gold_ring", "overlay_worn_alexandrite_gold_ring", "overlay_worn_amethyst_gold_ring", "overlay_worn_aquamarine_gold_ring", "overlay_worn_blue_topaz_gold_ring", "overlay_worn_citrine_gold_ring", "overlay_worn_diamond_gold_ring", "overlay_worn_emerald_gold_ring", "overlay_worn_garnet_gold_ring", "overlay_worn_opal_gold_ring", "overlay_worn_pearl_gold_ring", "overlay_worn_peridot_gold_ring", "overlay_worn_ruby_gold_ring", "overlay_worn_sapphire_gold_ring", "overlay_worn_tourmaline_gold_ring" ],
+    "fg": "overlay_worn_gold_ring",
+    "bg": ""
+  },
+  {
+    "id": [ "overlay_worn_platinum_ring", "overlay_worn_alexandrite_platinum_ring", "overlay_worn_amethyst_platinum_ring", "overlay_worn_aquamarine_platinum_ring", "overlay_worn_blue_topaz_platinum_ring", "overlay_worn_citrine_platinum_ring", "overlay_worn_diamond_platinum_ring", "overlay_worn_emerald_platinum_ring", "overlay_worn_garnet_platinum_ring", "overlay_worn_opal_platinum_ring", "overlay_worn_pearl_platinum_ring", "overlay_worn_peridot_platinum_ring", "overlay_worn_ruby_platinum_ring", "overlay_worn_sapphire_platinum_ring", "overlay_worn_tourmaline_platinum_ring" ],
+    "fg": "overlay_worn_platinum_ring",
+    "bg": ""
+  },
+  {
+    "id": [ "overlay_worn_silver_ring", "overlay_worn_alexandrite_silver_ring", "overlay_worn_amethyst_silver_ring", "overlay_worn_aquamarine_silver_ring", "overlay_worn_blue_topaz_silver_ring", "overlay_worn_citrine_silver_ring", "overlay_worn_diamond_silver_ring", "overlay_worn_emerald_silver_ring", "overlay_worn_garnet_silver_ring", "overlay_worn_opal_silver_ring", "overlay_worn_pearl_silver_ring", "overlay_worn_peridot_silver_ring", "overlay_worn_ruby_silver_ring", "overlay_worn_sapphire_silver_ring", "overlay_worn_tourmaline_silver_ring" ],
+    "fg": "overlay_worn_silver_ring",
+    "bg": ""
+  }
+]
