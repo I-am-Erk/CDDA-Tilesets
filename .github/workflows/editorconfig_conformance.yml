@@ -25,7 +25,7 @@ jobs:
       - name: Checkout base_ref
         run: git fetch --depth=1 origin +${{ github.base_ref }}
 
-      - name: Build
+      - name: Verify there are no tabs in JSON and py
         id: build
         run: |
           git diff origin/${{ github.base_ref }} --name-only \
