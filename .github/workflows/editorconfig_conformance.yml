@@ -28,8 +28,7 @@ jobs:
       - name: Verify there are no tabs in JSON and py
         id: build
         run: |
-          git diff origin/${{ github.base_ref }} --name-only \
-          | egrep '(\.(json|py)$)' \
+          git diff origin/${{ github.base_ref }} --name-only '*.json' '*.py' \
           | xargs -d'\n' git diff -U0 origin/${{ github.base_ref }} -- \
           | grep $'^+.*\t' \
           && exit 1 \
