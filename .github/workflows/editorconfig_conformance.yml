@@ -26,4 +26,4 @@ jobs:
       - name: Build
         id: build
         run: |
-            find gfx/UltimateCataclysm/pngs_normal_32x32/fields/ -type f -name "*.json" -print0 | xargs -0 grep -H $'\t' && exit 1
+            ! find gfx/UltimateCataclysm/pngs_normal_32x32/fields/ -type f -name "*.json" -exec grep -H $'\t' {} \;
