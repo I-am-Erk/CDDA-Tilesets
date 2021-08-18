@@ -33,4 +33,4 @@ jobs:
           | xargs -d'\n' git diff -U0 origin/${{ github.base_ref }} -- \
           | grep $'^+.*\t' \
           && exit 1 \
-          || exit
+          || exit 0
