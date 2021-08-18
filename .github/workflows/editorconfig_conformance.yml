@@ -28,6 +28,6 @@ jobs:
       - name: Build
         id: build
         run: |
-          git diff ${{ github.base_ref }} --name-only | egrep '(\.(json|py)$)' | xargs -d'\n' git diff -U0 ${{ github.base_ref }} -- | grep $'^+.*\t' \
+          git diff origin/${{ github.base_ref }} --name-only | egrep '(\.(json|py)$)' | xargs -d'\n' git diff -U0 origin/${{ github.base_ref }} -- | grep $'^+.*\t' \
           && exit 1 \
           || exit
