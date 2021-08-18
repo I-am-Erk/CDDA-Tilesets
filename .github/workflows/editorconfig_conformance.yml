@@ -19,8 +19,9 @@ jobs:
     name: CI job
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Code
+      - name: Checkout Code with base_ref
         uses: actions/checkout@v2
+        run: git fetch --depth=1 origin +${{ github.base_ref }}
 
       - name: Build
         id: build
