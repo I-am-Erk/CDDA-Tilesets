@@ -26,4 +26,6 @@ jobs:
       - name: Build
         id: build
         run: |
-            ! find gfx/UltimateCataclysm/pngs_normal_32x32/fields/ -type f -name "*.json" -exec grep -H $'\t' {} \;
+            git diff ${{ github.base_ref }} --name-only | egrep '(\.(json|py)$)' | xargs -d'\n' git diff -U0 ${{ github.base_ref }} -- | grep $'^+.*\t' \
+            && exit 1 \
+            || exit
