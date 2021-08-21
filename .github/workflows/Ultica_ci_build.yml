@@ -37,8 +37,9 @@ jobs:
         id: build
         run: |
           export TILESET="UltimateCataclysm"
-          export BUILD_DIR="build"
           export COMPOSE_ARGS="--use-all --obsolete-fillers"
+
+          export BUILD_DIR="build"
 
           mkdir "$BUILD_DIR"
           wget -q -P "$BUILD_DIR" https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/compose.py \
