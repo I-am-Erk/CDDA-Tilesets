@@ -46,7 +46,7 @@ jobs:
           || echo "Error: Failed to get compose.py"
 
           python3 "$BUILD_DIR/compose.py" $COMPOSE_ARGS "gfx/$TILESET" "$BUILD_DIR"
-          cp "gfx/$TILESET/fallback.png" "$BUILD_DIR/" || true
+          [ -f "gfx/$TILESET/fallback.png" ] && cp "gfx/$TILESET/fallback.png" "$BUILD_DIR/"
 
           artifact_name="$TILESET-${GITHUB_SHA::7}"
 
