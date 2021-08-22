@@ -1,16 +1,38 @@
-{
-  "id": [
-   "house_duplex",
-   "house_duplex2"
-  ],
-  "fg": [
-    "house_duplex_north",
-    "house_duplex_east",
-    "house_duplex_south",
-    "house_duplex_west"
-  ],
-  "bg": [
-    
-  ],
-  "rotates": true
-}
+[
+  {
+    "id": [
+      "duplex",
+      "house_duplex10",
+      "house_duplex11",
+      "house_duplex2",
+      "house_duplex3",
+      "house_duplex4",
+      "house_duplex5",
+      "house_duplex6",
+      "house_duplex7",
+      "house_duplex8",
+      "house_duplex9"
+    ],
+    "fg": [ "house_duplex_north", "house_duplex_east", "house_duplex_south", "house_duplex_west" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "duplex_roof",
+      "house_duplex10_roof",
+      "house_duplex11_roof",
+      "house_duplex2_roof",
+      "house_duplex3_roof",
+      "house_duplex4_roof",
+      "house_duplex5_roof",
+      "house_duplex6_roof",
+      "house_duplex7_roof",
+      "house_duplex8_roof",
+      "house_duplex9_roof"
+    ],
+    "fg": [ "house_duplex_roof_north", "house_duplex_roof_east", "house_duplex_roof_south", "house_duplex_roof_west" ],
+    "bg": [  ],
+    "rotates": true
+  }
+]
