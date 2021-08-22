@@ -1,16 +1,79 @@
-{
-  "id": [
-    "generic_city_house",
-    "generic_city_house_no_sidewalk"
-  ],
-  "fg": [
-    "single_houseN",
-    "single_houseE",
-    "single_houseS",
-    "single_houseW"
-  ],
-  "bg": [
-    
-  ],
-  "rotates": true
-}
+[
+  {
+    "id": [ "generic_city_house", "generic_city_house_no_sidewalk" ],
+    "fg": [ "single_houseN", "single_houseE", "single_houseS", "single_houseW" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "generic_city_house_roof",
+      "urban_29_5",
+      "urban_29_6",
+      "urban_29_7",
+      "urban_29_8",
+      "urban_29_9",
+      "urban_29_10",
+      "urban_2_3",
+      "urban_2_4",
+      "urban_2_5",
+      "urban_2_6",
+      "urban_3_3",
+      "urban_3_4",
+      "urban_3_5",
+      "urban_3_6",
+      "urban_4_5",
+      "urban_4_6",
+      "urban_4_7",
+      "urban_4_8",
+      "urban_5_3",
+      "urban_5_4",
+      "urban_5_5",
+      "urban_5_6",
+      "urban_6_3",
+      "urban_6_4",
+      "urban_6_5",
+      "urban_6_6",
+      "urban_7_3",
+      "urban_7_4",
+      "urban_7_5",
+      "urban_7_6",
+      "urban_8_3",
+      "urban_8_4",
+      "urban_8_6",
+      "urban_9_3",
+      "urban_9_4",
+      "urban_9_5",
+      "urban_9_6",
+      "urban_10_3",
+      "urban_10_4",
+      "urban_10_5",
+      "urban_10_6",
+      "urban_11_3",
+      "urban_11_4",
+      "urban_11_5",
+      "urban_11_6",
+      "urban_12_3",
+      "urban_12_4",
+      "urban_12_5",
+      "urban_12_6",
+      "urban_15_3",
+      "urban_15_4",
+      "urban_15_5",
+      "urban_15_6",
+      "urban_16_3",
+      "urban_16_4",
+      "urban_17_3",
+      "urban_17_4",
+      "urban_18_5",
+      "urban_18_6",
+      "urban_18_7",
+      "urban_18_8",
+      "urban_18_9",
+      "urban_18_10"
+    ],
+    "fg": [ "single_house_roofN", "single_house_roofE", "single_house_roofS", "single_house_roofW" ],
+    "bg": [  ],
+    "rotates": true
+  }
+]
