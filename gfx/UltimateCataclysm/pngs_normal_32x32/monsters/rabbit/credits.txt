@@ -1,2 +1,2 @@
 sr_cwya (shape)
-intua (colors)
+int_ua (colors)
