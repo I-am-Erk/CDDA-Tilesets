@@ -12,8 +12,7 @@
     "corpse_mon_fish_white_catfish",
     "corpse_mon_fish_pickerel"
     ],
-    "fg": "corpse_mon_fish_tiny",
-    "bg": ""
+    "fg": "corpse_mon_fish_tiny"
   },
   {
     "id": [
@@ -25,8 +24,7 @@
     "corpse_mon_fish_white_sucker",
     "corpse_mon_fish_fallfish"
     ],
-    "fg": "corpse_mon_fish_small",
-    "bg": ""
+    "fg": "corpse_mon_fish_small"
   },
   {
     "id": [
@@ -41,8 +39,7 @@
     "corpse_mon_fish_bullhead",
     "corpse_mon_fish_carp"
     ],
-    "fg": "corpse_mon_fish_medium",
-    "bg": ""
+    "fg": "corpse_mon_fish_medium"
   },
   {
     "id": [
@@ -58,7 +55,6 @@
     "corpse_mon_fish_grass_carp",
     "corpse_mon_fish_bowfin"
     ],
-    "fg": "corpse_mon_fish_large",
-    "bg": ""
+    "fg": "corpse_mon_fish_large"
   }
 ]
