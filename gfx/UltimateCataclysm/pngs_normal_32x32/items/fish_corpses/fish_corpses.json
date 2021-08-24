@@ -1,21 +1,63 @@
 [
   {
-    "id": "corpse_mon_fish_tiny",
+    "id": [
+    "corpse_mon_fish_white_bass",
+    "corpse_mon_fish_sunfish",
+    "corpse_mon_fish_pumpkinseed",
+    "corpse_mon_fish_redbreast",
+    "corpse_mon_fish_green_sunfish",
+    "corpse_mon_fish_longear_sunfish",
+    "corpse_mon_fish_redear_sunfish",
+    "corpse_mon_fish_rock_bass",
+    "corpse_mon_fish_white_catfish",
+    "corpse_mon_fish_pickerel"
+    ],
     "fg": "corpse_mon_fish_tiny",
     "bg": ""
   },
   {
-    "id": "corpse_mon_fish_small",
+    "id": [
+    "corpse_mon_fish_brook_trout",
+    "corpse_mon_fish_sbass",
+    "corpse_mon_fish_perch",
+    "corpse_mon_fish_bluegill",
+    "corpse_mon_fish_warmouth",
+    "corpse_mon_fish_white_sucker",
+    "corpse_mon_fish_fallfish"
+    ],
     "fg": "corpse_mon_fish_small",
     "bg": ""
   },
   {
-    "id": "corpse_mon_fish_medium",
+    "id": [
+    "corpse_mon_fish_trout",
+    "corpse_mon_fish_brown_trout",
+    "corpse_mon_fish_rainbow_trout",
+    "corpse_mon_fish_kokanee_salmon",
+    "corpse_mon_fish_whitefish",
+    "corpse_mon_fish_lbass",
+    "corpse_mon_fish_pbass",
+    "corpse_mon_fish_calico_bass",
+    "corpse_mon_fish_bullhead",
+    "corpse_mon_fish_carp"
+    ],
     "fg": "corpse_mon_fish_medium",
     "bg": ""
   },
   {
-    "id": "corpse_mon_fish_large",
+    "id": [
+    "corpse_mon_fish_lake_trout",
+    "corpse_mon_fish_steelhead_trout",
+    "corpse_mon_fish_salmon",
+    "corpse_mon_fish_chinook_salmon",
+    "corpse_mon_fish_coho_salmon",
+    "corpse_mon_fish_walleye",
+    "corpse_mon_fish_channel_catfish",
+    "corpse_mon_fish_pike",
+    "corpse_mon_fish_muskellunge",
+    "corpse_mon_fish_grass_carp",
+    "corpse_mon_fish_bowfin"
+    ],
     "fg": "corpse_mon_fish_large",
     "bg": ""
   }
