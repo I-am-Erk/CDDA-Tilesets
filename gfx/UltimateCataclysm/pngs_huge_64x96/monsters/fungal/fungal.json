@@ -1,0 +1,13 @@
+[{
+  "id": "mon_fungaloid_queen",
+  "fg": "mon_fungaloid_queen",
+  "bg": "shadow_64x96_large"
+},{
+  "id": "mon_fungaloid_seeder",
+  "fg": "mon_fungaloid_seeder",
+  "bg": "shadow_64x96_large"
+},{
+  "id": "mon_fungaloid_tower",
+  "fg": "mon_fungaloid_tower",
+  "bg": "shadow_64x96_large"
+}]
