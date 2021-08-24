@@ -39,7 +39,7 @@ def draw_outline(data: np.array) -> None:
                     data[j, i, :] = BLACK
 
 
-def main(args):
+def main(args: argparse.Namespace) -> None:
     """
     Add outlines to all *.png images in the args.folder
     """
