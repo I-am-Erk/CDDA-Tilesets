@@ -5,13 +5,13 @@ on:
     branches:
       - master
     paths:
-      - '*.json'
+      - '**.json'
       - '.github/workflows/editorconfig_conformance.yml'
   pull_request:
     branches:
       - master
     paths:
-      - '*.json'
+      - '**.json'
       - '.github/workflows/editorconfig_conformance.yml'
 
 jobs:
