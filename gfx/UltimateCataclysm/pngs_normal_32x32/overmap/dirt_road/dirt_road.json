@@ -9,7 +9,7 @@
 	"rotates": true
 },{
 	"id": [ "dirt_road_turn", "dirt_road_turn_forest" ],
-	"fg": [ "dirt_road_corner_sw", "dirt_road_corner_se", "dirt_road_corner_ne", "dirt_road_corner_nw" ],
+	"fg": [ "dirt_road_corner_ne", "dirt_road_corner_se", "dirt_road_corner_sw", "dirt_road_corner_nw" ],
 	"rotates": true
 },{
 	"id": [ "dirt_road_turn1", "dirt_road_turn1_forest" ],

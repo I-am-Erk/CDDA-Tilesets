@@ -20,7 +20,6 @@
 	"id": [
 	"house_farm_roof",
 	"farm_2_roof",
-	"farm_isherwood_2_cellar",
 	"farm_isherwood_2_roof",
 	"2farm_roof_11"
 	],
@@ -34,5 +33,9 @@
 	],
 	"fg": [ "rural_house_faceS", "rural_house_faceW", "rural_house_faceN", "rural_house_faceE" ],
 	"bg": "open_air",
+	"rotates": true
+},{
+	"id": "farm_isherwood_2_cellar",
+	"fg": [ "rural_house_faceN", "rural_house_faceE", "rural_house_faceS", "rural_house_faceW" ],
 	"rotates": true
 }]
