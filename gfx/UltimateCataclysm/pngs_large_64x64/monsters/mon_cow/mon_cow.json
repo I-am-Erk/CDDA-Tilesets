@@ -5,7 +5,7 @@
     { "weight": 12, "sprite": "mon_cow2" },
     { "weight": 6, "sprite": "mon_cow3" },
     { "weight": 6, "sprite": "mon_cow4" },
-    { "weight": 12, "sprite": "mon_cow5" },
+    { "weight": 12, "sprite": "mon_cow5" }
   ],
   "bg": "shadow_64x64_medium"
 },{
