@@ -1,0 +1,11 @@
+[{
+	"id": "anthill",
+	"fg": "anthill",
+	"bg": "field",
+	"rotates": false
+},{
+	"id": "acid_anthill",
+	"fg": "acid_anthill",
+	"bg": "field",
+	"rotates": false
+}]
