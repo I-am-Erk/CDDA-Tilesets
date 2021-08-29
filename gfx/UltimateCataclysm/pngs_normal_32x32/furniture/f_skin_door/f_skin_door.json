@@ -1,10 +1,10 @@
 [
-{
-    "id": [ "f_skin_door", "f_large_skin_door" ],
+  {
+    "id": "f_skin_door",
     "fg": "f_skin_door"
-},
-{
-    "id": [ "f_skin_door_o", "f_large_skin_door_o" ],
+  },
+  {
+    "id": "f_skin_door_o",
     "fg": "f_skin_door_o"
-}
+  }
 ]
