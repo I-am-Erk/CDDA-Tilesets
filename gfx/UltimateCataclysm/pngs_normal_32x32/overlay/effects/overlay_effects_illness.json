@@ -1,14 +1,14 @@
 [
   {
-    "id": "overlay_effects_illness",
-    "fg": "overlay_effects_illness"
+    "id": "overlay_effect_illness",
+    "fg": "overlay_effect_illness"
   },
   {
     "id": "overlay_effect_common_cold",
-    "fg": "overlay_effects_illness"
+    "fg": "overlay_effect_illness"
   },
   {
     "id": "overlay_effect_flu",
-    "fg": "overlay_effects_illness"
+    "fg": "overlay_effect_illness"
   }
 ]
