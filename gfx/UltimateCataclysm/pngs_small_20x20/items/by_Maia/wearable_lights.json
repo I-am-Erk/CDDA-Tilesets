@@ -1,0 +1,7 @@
+[{
+  "id": ["wearable_light", "survivor_light", "wearable_atomic_light_off"],
+  "fg": "wearable_light"
+},{
+  "id": ["wearable_light_on", "survivor_light_on", "wearable_atomic_light"],
+  "fg": "wearable_light_on"
+}]
