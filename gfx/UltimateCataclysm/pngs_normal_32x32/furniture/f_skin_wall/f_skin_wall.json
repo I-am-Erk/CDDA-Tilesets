@@ -1,5 +1,5 @@
 {
-  "id": [ "f_skin_wall", "f_large_skin_wall" ],
+  "id": "f_skin_wall",
   "fg": "f_skin_wall_unconnected",
   "multitile": true,
   "additional_tiles": [
