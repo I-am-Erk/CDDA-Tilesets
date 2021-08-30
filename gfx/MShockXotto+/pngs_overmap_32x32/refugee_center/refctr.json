@@ -1,0 +1,25 @@
+[
+  {
+    "id": [ "refctr_SW1e" ],
+    "fg": [ { "weight": 25, "sprite": "refctr_TL" }, { "weight": 25, "sprite": "refctr_TL1" } ]
+  },
+  {
+    "id": [
+      "refctr_SW1d",
+      "refctr_SW1c",
+      "refctr_SW1b",
+      "refctr_SW1a",
+      "refctr_W1e",
+      "refctr_W1d",
+      "refctr_W1c",
+      "refctr_W1b",
+      "refctr_W1a",
+      "refctr_NW1e",
+      "refctr_NW1d",
+      "refctr_NW1c",
+      "refctr_NW1b",
+      "refctr_NW1a"
+    ],
+    "fg": [ { "weight": 80, "sprite": "refctr_T" }, { "weight": 20, "sprite": "refctr_T1" } ]
+  }
+]
