@@ -1,0 +1,10 @@
+[
+  {
+    "id": [ "shelter", "shelter_vandal", "shelter_1", "shelter_1_vandal", "shelter_2", "shelter_2_vandal" ],
+    "fg": "evac_shelter"
+  },
+  {
+    "id": [ "shelter_roof", "shelter_roof_1" ],
+    "fg": "shelter_roof"
+  }
+]
