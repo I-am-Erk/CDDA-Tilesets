@@ -1,0 +1,40 @@
+{
+  "id": "fd_acid",
+  "fg": [
+    {
+      "weight": 120,
+      "sprite": "acid1"
+    },
+    {
+      "weight": 6,
+      "sprite": "acid2"
+    },
+    {
+      "weight": 6,
+      "sprite": "acid3"
+    },
+    {
+      "weight": 6,
+      "sprite": "acid4"
+    },
+    {
+      "weight": 6,
+      "sprite": "acid5"
+    },
+    {
+      "weight": 6,
+      "sprite": "acid6"
+    },
+    {
+      "weight": 6,
+      "sprite": "acid7"
+    },
+    {
+      "weight": 6,
+      "sprite": "acid8"
+    }
+  ],
+  "bg": [],
+  "rotates": false,
+  "animated": true
+}
