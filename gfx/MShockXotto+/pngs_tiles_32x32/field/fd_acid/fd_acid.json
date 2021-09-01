@@ -1,0 +1,163 @@
+{
+  "id": "fd_acid",
+  "fg": "fd_acid_0_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "animated": true,
+      "fg": [
+        { "weight": 8, "sprite": "fd_acid_0_center" },
+        { "weight": 8, "sprite": "fd_acid_1_center" },
+        { "weight": 8, "sprite": "fd_acid_2_center" },
+        { "weight": 8, "sprite": "fd_acid_3_center" },
+        { "weight": 8, "sprite": "fd_acid_4_center" },
+        { "weight": 8, "sprite": "fd_acid_5_center" },
+        { "weight": 8, "sprite": "fd_acid_6_center" },
+        { "weight": 8, "sprite": "fd_acid_7_center" }
+      ]
+    },
+    {
+      "id": "corner",
+      "animated": true,
+      "fg": [
+        {
+          "weight": 8,
+          "sprite": [ "fd_acid_0_corner_nw", "fd_acid_0_corner_sw", "fd_acid_0_corner_se", "fd_acid_0_corner_ne" ]
+        },
+        {
+          "weight": 8,
+          "sprite": [ "fd_acid_1_corner_nw", "fd_acid_1_corner_sw", "fd_acid_1_corner_se", "fd_acid_1_corner_ne" ]
+        },
+        {
+          "weight": 8,
+          "sprite": [ "fd_acid_2_corner_nw", "fd_acid_2_corner_sw", "fd_acid_2_corner_se", "fd_acid_2_corner_ne" ]
+        },
+        {
+          "weight": 8,
+          "sprite": [ "fd_acid_3_corner_nw", "fd_acid_3_corner_sw", "fd_acid_3_corner_se", "fd_acid_3_corner_ne" ]
+        },
+        {
+          "weight": 8,
+          "sprite": [ "fd_acid_4_corner_nw", "fd_acid_4_corner_sw", "fd_acid_4_corner_se", "fd_acid_4_corner_ne" ]
+        },
+        {
+          "weight": 8,
+          "sprite": [ "fd_acid_5_corner_nw", "fd_acid_5_corner_sw", "fd_acid_5_corner_se", "fd_acid_5_corner_ne" ]
+        },
+        {
+          "weight": 8,
+          "sprite": [ "fd_acid_6_corner_nw", "fd_acid_6_corner_sw", "fd_acid_6_corner_se", "fd_acid_6_corner_ne" ]
+        },
+        {
+          "weight": 8,
+          "sprite": [ "fd_acid_7_corner_nw", "fd_acid_7_corner_sw", "fd_acid_7_corner_se", "fd_acid_7_corner_ne" ]
+        }
+      ]
+    },
+    {
+      "id": "t_connection",
+      "animated": true,
+      "fg": [
+        {
+          "weight": 8,
+          "sprite": [ "fd_acid_0_t_connection_n", "fd_acid_0_t_connection_w", "fd_acid_0_t_connection_s", "fd_acid_0_t_connection_e" ]
+        },
+        {
+          "weight": 8,
+          "sprite": [ "fd_acid_1_t_connection_n", "fd_acid_1_t_connection_w", "fd_acid_1_t_connection_s", "fd_acid_1_t_connection_e" ]
+        },
+        {
+          "weight": 8,
+          "sprite": [ "fd_acid_2_t_connection_n", "fd_acid_2_t_connection_w", "fd_acid_2_t_connection_s", "fd_acid_2_t_connection_e" ]
+        },
+        {
+          "weight": 8,
+          "sprite": [ "fd_acid_3_t_connection_n", "fd_acid_3_t_connection_w", "fd_acid_3_t_connection_s", "fd_acid_3_t_connection_e" ]
+        },
+        {
+          "weight": 8,
+          "sprite": [ "fd_acid_4_t_connection_n", "fd_acid_4_t_connection_w", "fd_acid_4_t_connection_s", "fd_acid_4_t_connection_e" ]
+        },
+        {
+          "weight": 8,
+          "sprite": [ "fd_acid_5_t_connection_n", "fd_acid_5_t_connection_w", "fd_acid_5_t_connection_s", "fd_acid_5_t_connection_e" ]
+        },
+        {
+          "weight": 8,
+          "sprite": [ "fd_acid_6_t_connection_n", "fd_acid_6_t_connection_w", "fd_acid_6_t_connection_s", "fd_acid_6_t_connection_e" ]
+        },
+        {
+          "weight": 8,
+          "sprite": [ "fd_acid_7_t_connection_n", "fd_acid_7_t_connection_w", "fd_acid_7_t_connection_s", "fd_acid_7_t_connection_e" ]
+        }
+      ]
+    },
+    {
+      "id": "edge",
+      "animated": true,
+      "fg": [
+        { "weight": 8, "sprite": [ "fd_acid_0_edge_ns", "fd_acid_0_edge_ew" ] },
+        { "weight": 8, "sprite": [ "fd_acid_1_edge_ns", "fd_acid_1_edge_ew" ] },
+        { "weight": 8, "sprite": [ "fd_acid_2_edge_ns", "fd_acid_2_edge_ew" ] },
+        { "weight": 8, "sprite": [ "fd_acid_3_edge_ns", "fd_acid_3_edge_ew" ] },
+        { "weight": 8, "sprite": [ "fd_acid_4_edge_ns", "fd_acid_4_edge_ew" ] },
+        { "weight": 8, "sprite": [ "fd_acid_5_edge_ns", "fd_acid_5_edge_ew" ] },
+        { "weight": 8, "sprite": [ "fd_acid_6_edge_ns", "fd_acid_6_edge_ew" ] },
+        { "weight": 8, "sprite": [ "fd_acid_7_edge_ns", "fd_acid_7_edge_ew" ] }
+      ]
+    },
+    {
+      "id": "end_piece",
+      "animated": true,
+      "fg": [
+        {
+          "weight": 8,
+          "sprite": [ "fd_acid_0_end_piece_n", "fd_acid_0_end_piece_w", "fd_acid_0_end_piece_s", "fd_acid_0_end_piece_e" ]
+        },
+        {
+          "weight": 8,
+          "sprite": [ "fd_acid_1_end_piece_n", "fd_acid_1_end_piece_w", "fd_acid_1_end_piece_s", "fd_acid_1_end_piece_e" ]
+        },
+        {
+          "weight": 8,
+          "sprite": [ "fd_acid_2_end_piece_n", "fd_acid_2_end_piece_w", "fd_acid_2_end_piece_s", "fd_acid_2_end_piece_e" ]
+        },
+        {
+          "weight": 8,
+          "sprite": [ "fd_acid_3_end_piece_n", "fd_acid_3_end_piece_w", "fd_acid_3_end_piece_s", "fd_acid_3_end_piece_e" ]
+        },
+        {
+          "weight": 8,
+          "sprite": [ "fd_acid_4_end_piece_n", "fd_acid_4_end_piece_w", "fd_acid_4_end_piece_s", "fd_acid_4_end_piece_e" ]
+        },
+        {
+          "weight": 8,
+          "sprite": [ "fd_acid_5_end_piece_n", "fd_acid_5_end_piece_w", "fd_acid_5_end_piece_s", "fd_acid_5_end_piece_e" ]
+        },
+        {
+          "weight": 8,
+          "sprite": [ "fd_acid_6_end_piece_n", "fd_acid_6_end_piece_w", "fd_acid_6_end_piece_s", "fd_acid_6_end_piece_e" ]
+        },
+        {
+          "weight": 8,
+          "sprite": [ "fd_acid_7_end_piece_n", "fd_acid_7_end_piece_w", "fd_acid_7_end_piece_s", "fd_acid_7_end_piece_e" ]
+        }
+      ]
+    },
+    {
+      "id": "unconnected",
+      "animated": true,
+      "fg": [
+        { "weight": 8, "sprite": [ "fd_acid_0_unconnected", "fd_acid_0_unconnected" ] },
+        { "weight": 8, "sprite": [ "fd_acid_1_unconnected", "fd_acid_1_unconnected" ] },
+        { "weight": 8, "sprite": [ "fd_acid_2_unconnected", "fd_acid_2_unconnected" ] },
+        { "weight": 8, "sprite": [ "fd_acid_3_unconnected", "fd_acid_3_unconnected" ] },
+        { "weight": 8, "sprite": [ "fd_acid_4_unconnected", "fd_acid_4_unconnected" ] },
+        { "weight": 8, "sprite": [ "fd_acid_5_unconnected", "fd_acid_5_unconnected" ] },
+        { "weight": 8, "sprite": [ "fd_acid_6_unconnected", "fd_acid_6_unconnected" ] },
+        { "weight": 8, "sprite": [ "fd_acid_7_unconnected", "fd_acid_7_unconnected" ] }
+      ]
+    }
+  ]
+}
