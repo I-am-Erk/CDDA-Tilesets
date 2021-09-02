@@ -1,0 +1,26 @@
+[
+  {
+    "id": [ "t_stairs_up_season_spring", "t_wood_stairs_up_season_spring" ],
+    "fg": [ "t_stairs_up_season_spring" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": [ "t_stairs_up_season_winter", "t_wood_stairs_up_season_winter" ],
+    "fg": [ "t_stairs_up_season_winter" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": [ "t_stairs_up_season_autumn", "t_wood_stairs_up_season_autumn" ],
+    "fg": [ "t_stairs_up_season_autumn" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": [ "t_stairs_up_season_summer", "t_wood_stairs_up_season_summer" ],
+    "fg": [ "t_stairs_up_season_summer" ],
+    "bg": [  ],
+    "rotates": false
+  }
+]
