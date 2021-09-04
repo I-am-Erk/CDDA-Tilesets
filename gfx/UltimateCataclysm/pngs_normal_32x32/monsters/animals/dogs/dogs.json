@@ -36,5 +36,40 @@
     "id": "mon_dog_dachshund",
     "fg": "mon_dog_dachshund",
     "bg": "shadow_32x32_normal"
+  },
+  {
+    "id": "mon_dog_auscattle",
+    "fg": "mon_dog_auscattle",
+    "bg": "shadow_32x32_normal"
+  },
+  {
+    "id": "mon_dog_bcollie",
+    "fg": "mon_dog_bcollie",
+    "bg": "shadow_32x32_normal"
+  },
+  {
+    "id": "mon_dog_bull",
+    "fg": "mon_dog_bull",
+    "bg": "shadow_32x32_small"
+  },
+  {
+    "id": "mon_dog_chihuahua",
+    "fg": "mon_dog_chihuahua",
+    "bg": "shadow_32x32_small"
+  },
+  {
+    "id": "mon_dog_gpyrenees",
+    "fg": "mon_dog_gpyrenees",
+    "bg": "shadow_32x32_normal"
+  },
+  {
+    "id": "mon_dog_pitbullmix",
+    "fg": "mon_dog_pitbullmix",
+    "bg": "shadow_32x32_normal"
+  },
+  {
+    "id": "mon_dog_samoyed",
+    "fg": "mon_dog_samoyed",
+    "bg": "shadow_32x32_normal"
   }
 ]

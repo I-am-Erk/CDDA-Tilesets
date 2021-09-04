@@ -19,4 +19,11 @@
     "biscuit"
   ],
   "fg": "cookies"
+},{
+  "id": [
+    "cake2",
+    "cake3",
+    "space_cake"
+  ],
+  "fg": "cake"
 }]

@@ -8,6 +8,7 @@
     { "weight": 15, "sprite": "mon_firefly_1" }
   ],
   "bg": [
-    
+        { "weight": 15, "sprite": "mon_nursebot" },
+    { "weight": 15, "sprite": "mon_nursebot_2" }
   ]
 }
