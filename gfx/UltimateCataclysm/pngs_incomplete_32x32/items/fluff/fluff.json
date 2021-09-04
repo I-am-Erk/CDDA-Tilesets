@@ -1,8 +1,8 @@
 [
 {
   "id": [
-    "family_photo", "polaroid_photo", "chess", "checkers",
-    "cards_magic", "pictionary", "monopoly", "dnd", "g_warhammer", "g_warhammer40k",
+    "family_photo", "polaroid_photo", "checkers",
+    "cards_magic", "pictionary", "monopoly", "g_warhammer", "g_warhammer40k",
     "catan", "battleship", "clue"],
   "fg": "fluff_box_generic",
   "bg": ""
