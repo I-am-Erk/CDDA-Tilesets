@@ -105,11 +105,13 @@
   },
   {
     "id": [ "vp_board_horizontal", "vp_board_horizontal_2" ],
-    "fg": [ "vp_board_horizontal_front" ],
+    "fg": [ "vp_board_horizontal",
+		    "vp_board_vertical"
+	],
     "rotates": true,
     "bg": [  ],
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_board_horizontal_front" ] } ]
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_board_horizontal" ] } ]
   },
   {
     "id": "vp_board_horizontal_front",
