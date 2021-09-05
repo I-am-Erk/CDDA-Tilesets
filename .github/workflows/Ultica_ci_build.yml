@@ -34,10 +34,10 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Download latest target branch Artifact
-        uses: actions/download-artifact@master
+        uses: actions/download-artifact@v2
         with:
-          name: target-artifact
-          path: artifact_name="UltimateCataclysm-${github.base_ref::7}"
+          name: "UltimateCataclysm-${github.base_ref::7}"
+          path: "~/UltimateCataclysm-${github.base_ref::7}"
 
       - name: Build
         id: build
@@ -62,7 +62,7 @@ jobs:
           mv "gfx/$TILESET/tileset.txt"     "$artifact_name"
 
           ./tools/list_tileset_ids.py "${BUILD_DIR}" > "${BUILD_DIR}/tileset_ids.csv"
-          ./tools/list_tileset_ids.py "UltimateCataclysm-${github.base_ref::7}" > "${BUILD_DIR}/tileset_ids_target.csv"
+          ./tools/list_tileset_ids.py "~/UltimateCataclysm-${github.base_ref::7}" > "${BUILD_DIR}/tileset_ids_target.csv"
           diff -U0 "${BUILD_DIR}/tileset_ids.csv" "${BUILD_DIR}/tileset_ids_target.csv"
 
           echo ::set-output name=artifact_name::"$artifact_name"
