@@ -15,7 +15,7 @@
       },
       {
         "id": "broken",
-        "fg": [ "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall" ],
+        "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
         "bg": [
           "vp_door_interior_rotN_open",
           "vp_door_interior_open_rotEW",
@@ -36,7 +36,7 @@
       },
       {
         "id": "broken",
-        "fg": [ "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall" ],
+        "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
         "bg": [ "vp_door_rear_open_rotS", "vp_door_interior_front_open_rotW", "vp_door_interior_front_open_rotS", "vp_door_interior_front_open_rotE" ]
       }
     ]
