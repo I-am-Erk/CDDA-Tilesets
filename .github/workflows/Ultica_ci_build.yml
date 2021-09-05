@@ -36,8 +36,8 @@ jobs:
       - name: Download latest target branch Artifact
         uses: actions/download-artifact@v2
         with:
-          name: "UltimateCataclysm-${github.base_ref::7}"
-          path: "~/UltimateCataclysm-${github.base_ref::7}"
+          name: "UltimateCataclysm-3637687"
+          path: "~/UltimateCataclysm-3637687"
 
       - name: Build
         id: build
