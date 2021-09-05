@@ -84,18 +84,6 @@
     ]
   },
   {
-    "id": "vp_engine_inline4",
-    "fg": "130_vp_engine_inline4_0",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "130_vp_engine_inline4_0"
-      }
-    ]
-  },
-  {
     "id": "vp_engine_v12",
     "fg": "131_vp_engine_v6_0",
     "bg": "132_vp_engine_v8_0"
@@ -473,20 +461,12 @@
     ]
   },
   {
-    "id": "alloy_plate",
-    "fg": "145_vp_plating_superalloy_0"
-  },
-  {
     "id": "foot_crank",
     "fg": "136_vp_foot_pedals_0"
   },
   {
     "id": "frame",
     "fg": "98_vp_frame_wood_cross_0"
-  },
-  {
-    "id": "glass_sheet",
-    "fg": "112_vp_windshield_1"
   },
   {
     "id": "hard_plate",
@@ -513,10 +493,6 @@
     "fg": "146_vp_plating_spiked_0"
   },
   {
-    "id": "steel_plate",
-    "fg": "144_vp_plating_steel_0"
-  },
-  {
     "id": "storage_battery",
     "fg": "138_vp_small_storage_battery_0"
   },
@@ -527,10 +503,6 @@
   {
     "id": "1cyl_combustion",
     "fg": "128_vp_engine_1cyl_0"
-  },
-  {
-    "id": "i4_combustion",
-    "fg": "130_vp_engine_inline4_0"
   },
   {
     "id": "v2_combustion",
