@@ -2,6 +2,6 @@
   {
     "id": "mon_zombie_hollow",
     "fg": "mon_zombie_hollow",
-    "bg": "shadow_32x48_normal"
+    "bg": "shadow_32x32_normal"
   }
 ]
