@@ -1,5 +1,10 @@
-{
-  "id": "mon_zombie_swimmer",
-  "fg": "swimzombie_bikini",
-  "bg": "shadow_32x64_normal"
-}
+[
+  {
+    "id": [ "mon_zombie_swimmer_base", "mon_zombie_swimmer" ],
+    "fg": [
+      { "weight": 1000, "sprite": "swimzombie_bikini" },
+      { "weight": 1, "sprite": "rareswimmer" }
+    ],
+    "bg": "shadow_32x64_normal"
+  }
+]

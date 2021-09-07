@@ -1,0 +1,11 @@
+{
+  "id": "mon_lady_bug_giant",
+  "fg": [
+    { "weight": 90, "sprite": "mon_lady_bug_giant1" },
+    { "weight": 60, "sprite": "mon_lady_bug_giant2" },
+    { "weight": 50, "sprite": "mon_lady_bug_giant3" },
+    { "weight": 20, "sprite": "mon_lady_bug_giant4" },
+    { "weight": 1, "sprite": "mon_lady_bug_giant5" }
+  ],
+  "bg": "shadow_64x64_medium"
+}

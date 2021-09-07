@@ -1,13 +1,11 @@
 {
-  "id": "t_wall_rammed_earth_season_spring",
+  "id": "t_wall_rammed_earth",
   "fg": "t_wall_rammed_earth_unconnected",
-  "bg": "",
   "multitile": true,
   "additional_tiles": [
     {
       "id": "center",
-      "fg": "t_wall_rammed_earth_center",
-      "bg": ""
+      "fg": "t_wall_rammed_earth_center"
     },
     {
       "id": "corner",
@@ -16,8 +14,7 @@
         "t_wall_rammed_earth_corner_sw",
         "t_wall_rammed_earth_corner_se",
         "t_wall_rammed_earth_corner_ne"
-      ],
-      "bg": ""
+      ]
     },
     {
       "id": "t_connection",
@@ -26,16 +23,14 @@
         "t_wall_rammed_earth_t_connection_w",
         "t_wall_rammed_earth_t_connection_s",
         "t_wall_rammed_earth_t_connection_e"
-      ],
-      "bg": ""
+      ]
     },
     {
       "id": "edge",
       "fg": [
         "t_wall_rammed_earth_edge_ns",
         "t_wall_rammed_earth_edge_ew"
-      ],
-      "bg": ""
+      ]
     },
     {
       "id": "end_piece",
@@ -44,16 +39,14 @@
         "t_wall_rammed_earth_end_piece_w",
         "t_wall_rammed_earth_end_piece_s",
         "t_wall_rammed_earth_end_piece_e"
-      ],
-      "bg": ""
+      ]
     },
     {
       "id": "unconnected",
       "fg": [
         "t_wall_rammed_earth_unconnected",
         "t_wall_rammed_earth_unconnected"
-      ],
-      "bg": ""
+      ]
     }
   ]
 }

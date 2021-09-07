@@ -32,12 +32,12 @@
   {
     "id": "t_gates_control_metal",
     "fg": "gates_mech_wall",
-    "bg": "t_wall_metal"
+    "bg": "t_wall_metal_edge_ew"
   },
   {
     "id": "t_gates_control_metal_lab",
     "fg": "gates_mech_digital",
-    "bg": "t_wall_metal"
+    "bg": "t_wall_metal_edge_ew"
   },
   {
     "id": "t_elevator_control",

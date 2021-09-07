@@ -1,5 +1,5 @@
 {
-  "id": "f_grave_stone",
+  "id": [ "f_grave_stone", "f_grave_head" ],
   "fg": [
     { "weight": 1, "sprite": "f_grave_stone_1" },
     { "weight": 1, "sprite": "f_grave_stone_2" }

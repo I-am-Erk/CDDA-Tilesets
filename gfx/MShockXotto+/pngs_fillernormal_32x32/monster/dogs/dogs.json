@@ -5,13 +5,13 @@
     "bg": "shadow_32x32_small"
   },
   {
-    "id": "mon_dog_gshepherd",
-    "fg": "mon_dog_gshepherd",
+    "id": "mon_dog_boxer",
+    "fg": "mon_dog_boxer",
     "bg": "shadow_32x32_normal"
   },
   {
-    "id": "mon_dog_boxer",
-    "fg": "mon_dog_boxer",
+    "id": "mon_dog_gshepherd",
+    "fg": "mon_dog_gshepherd",
     "bg": "shadow_32x32_normal"
   },
   {

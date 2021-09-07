@@ -1,0 +1,25 @@
+[{
+  "id": [
+    "horse_farm_isherwood_13",
+	  "horse_farm_13",
+	  "farm_dairy_twd_4",
+	  "farm_stills_3"
+	],
+  "fg": [ "rural_house_big_faceN", "rural_house_big_faceE", "rural_house_big_faceS", "rural_house_big_faceW" ], 
+  "bg": "field_tall",
+  "rotates": true
+},{
+  "id": [
+    "horse_farm_isherwood_13_2ndfloor",
+	  "horse_farm_isherwood_13_roof",
+	  "horse_farm_13_2ndfloor",
+	  "horse_farm_13_roof",
+	  "farm_dairy_twd_second_floor_4",
+	  "farm_dairy_twd_4_roof",
+	  "farm_stills_3_2nd",
+	  "farm_stills_3_roof"
+	],
+  "fg": [ "rural_house_big_faceN", "rural_house_big_faceE", "rural_house_big_faceS", "rural_house_big_faceW" ],
+  "bg": "open_air_tall",
+  "rotates": true
+}]

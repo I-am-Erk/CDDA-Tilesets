@@ -9,5 +9,8 @@ gfx/*/*.png
 
 # built book
 book
-*.png~
+
+# Krita
+*.png-autosave.kra
 *.kra
+*.png~

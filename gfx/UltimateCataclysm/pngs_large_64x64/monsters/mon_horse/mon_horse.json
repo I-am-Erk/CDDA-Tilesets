@@ -1,0 +1,12 @@
+[{
+  "id": "mon_horse",
+  "fg": [
+    { "weight": 1, "sprite": "mon_horse1" },
+    { "weight": 1, "sprite": "mon_horse2" }
+  ],
+  "bg": "shadow_64x64_medium"
+},{
+  "id": "mon_zombie_horse",
+  "fg": "mon_zombie_horse",
+  "bg": "shadow_64x64_medium"
+}]

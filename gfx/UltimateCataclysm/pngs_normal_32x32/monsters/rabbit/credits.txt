@@ -1,0 +1,2 @@
+sr_cwya (shape)
+int_ua (colors)

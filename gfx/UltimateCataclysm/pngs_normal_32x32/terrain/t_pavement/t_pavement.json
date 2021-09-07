@@ -94,7 +94,7 @@
   },
   {
     "id": "t_pavement_season_winter",
-    "fg": "snow_shallow_center",
+    "fg": "snow_smooth",
     "bg": ""
   },
   {
@@ -104,7 +104,7 @@
   },
   {
     "id": "t_pavement_y_season_winter",
-    "fg": "snow_shallow_center",
+    "fg": "snow_smooth",
     "bg": ""
   }
 ]

@@ -1,0 +1,52 @@
+{
+  "id": "f_table_season_spring",
+  "fg": "f_table_season_spring_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_table_season_spring_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_table_season_spring_corner_nw",
+        "f_table_season_spring_corner_sw",
+        "f_table_season_spring_corner_se",
+        "f_table_season_spring_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_table_season_spring_t_connection_n",
+        "f_table_season_spring_t_connection_w",
+        "f_table_season_spring_t_connection_s",
+        "f_table_season_spring_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_table_season_spring_edge_ns",
+        "f_table_season_spring_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_table_season_spring_end_piece_n",
+        "f_table_season_spring_end_piece_w",
+        "f_table_season_spring_end_piece_s",
+        "f_table_season_spring_end_piece_e"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_table_season_spring_unconnected",
+        "f_table_season_spring_unconnected"
+      ]
+    }
+  ]
+}

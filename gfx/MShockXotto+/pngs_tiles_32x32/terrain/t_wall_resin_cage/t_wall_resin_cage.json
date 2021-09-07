@@ -1,13 +1,11 @@
 {
   "id": "t_wall_resin_cage",
   "fg": "t_wall_resin_cage_unconnected",
-  "bg": "",
   "multitile": true,
   "additional_tiles": [
     {
       "id": "center",
-      "fg": "t_wall_resin_cage_center",
-      "bg": "t_floor_resin"
+      "fg": "t_wall_resin_cage_center"
     },
     {
       "id": "corner",
@@ -16,8 +14,7 @@
         "t_wall_resin_cage_corner_sw",
         "t_wall_resin_cage_corner_se",
         "t_wall_resin_cage_corner_ne"
-      ],
-      "bg": "t_floor_resin"
+      ]
     },
     {
       "id": "t_connection",
@@ -26,16 +23,14 @@
         "t_wall_resin_cage_t_connection_w",
         "t_wall_resin_cage_t_connection_s",
         "t_wall_resin_cage_t_connection_e"
-      ],
-      "bg": "t_floor_resin"
+      ]
     },
     {
       "id": "edge",
       "fg": [
         "t_wall_resin_cage_edge_ns",
         "t_wall_resin_cage_edge_ew"
-      ],
-      "bg": "t_floor_resin"
+      ]
     },
     {
       "id": "end_piece",
@@ -44,16 +39,14 @@
         "t_wall_resin_cage_end_piece_w",
         "t_wall_resin_cage_end_piece_s",
         "t_wall_resin_cage_end_piece_e"
-      ],
-      "bg": "t_floor_resin"
+      ]
     },
     {
       "id": "unconnected",
       "fg": [
         "t_wall_resin_cage_unconnected",
         "t_wall_resin_cage_unconnected"
-      ],
-      "bg": "t_floor_resin"
+      ]
     }
   ]
 }

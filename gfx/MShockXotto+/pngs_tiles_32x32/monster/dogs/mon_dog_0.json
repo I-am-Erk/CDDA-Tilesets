@@ -1,0 +1,14 @@
+{
+  "id": [
+    "mon_dog",
+    "mon_dog_thing"
+  ],
+  "fg": [
+    { "weight": 10, "sprite": "mon_dog" },
+    { "weight": 1, "sprite": "mon_dog_1" }
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false
+}

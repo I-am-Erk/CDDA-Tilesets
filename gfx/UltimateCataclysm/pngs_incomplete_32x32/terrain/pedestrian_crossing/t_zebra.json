@@ -6,7 +6,7 @@
 },
 {
   "id": "t_zebra_season_winter",
-  "fg": "snow_shallow_center",
+  "fg": "snow_smooth",
   "bg": ""
 }
 ]

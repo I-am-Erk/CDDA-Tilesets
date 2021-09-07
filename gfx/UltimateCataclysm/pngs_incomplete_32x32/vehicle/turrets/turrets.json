@@ -28,28 +28,28 @@
   {
     "id": [ "vp_mounted_emp_gun", "vp_mounted_plasma_gun", "vp_plasma_gun", "vp_laser_rifle" ],
     "//": "energy weapons",
-    "fg": "vp_machinegun_mounted_rotS",
+    "fg": "vp_laser_rifle",
     "bg": "bg_crows_rotS",
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "vp_machinegun_mounted_rotS"
+        "bg": "vp_laser_rifle"
       }
     ]
   },
   {
     "id": [ "vp_mounted_hk_g80", "vp_mounted_coilgun" ],
     "//": "railguns",
-    "fg": "vp_machinegun_mounted_rotS",
+    "fg": "vp_mounted_hk_g80",
     "bg": "bg_crows_rotS",
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": "vp_machinegun_mounted_rotS"
+        "bg": "vp_mounted_hk_g80"
       }
     ]
   },

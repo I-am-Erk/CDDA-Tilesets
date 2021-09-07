@@ -1,0 +1,10 @@
+[
+  {
+    "id": "overlay_effect_common_cold",
+    "fg": "overlay_effect_illness"
+  },
+  {
+    "id": "overlay_effect_flu",
+    "fg": "overlay_effect_illness"
+  }
+]

@@ -1,6 +1,6 @@
 [
   {
-    "id": [ "vp_wheel", "vp_wheel_steerable", "vp_wheel_wide_or_steerable", "vp_wheel_wide" ],
+    "id": [ "vp_wheel", "vp_wheel_steerable" ],
     "fg": "vp_wheel",
     "multitile": true,
     "additional_tiles": [

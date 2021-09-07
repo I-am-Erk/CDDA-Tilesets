@@ -1,0 +1,16 @@
+[
+{
+	"id": "ws_fire_lookout_tower_base",
+	"fg": "ws_fire_lookout_tower_base",
+	"bg": "field",
+	"rotates": false
+},{
+	"id": "ws_fire_lookout_tower_f1",
+	"fg": "ws_fire_lookout_tower_base",
+	"bg": "open_air"
+},{
+	"id": [ "ws_fire_lookout_tower_f2", "ws_fire_lookout_tower_f3" ],
+	"fg": "ws_fire_lookout_tower_f2",
+	"bg": "open_air"
+}
+]
