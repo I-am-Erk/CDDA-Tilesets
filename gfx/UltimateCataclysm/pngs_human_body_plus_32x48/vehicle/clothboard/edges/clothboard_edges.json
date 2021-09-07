@@ -1,0 +1,50 @@
+[
+  {
+    "id": "vp_clothboard_ne_edge",
+    "fg": [ "vp_clothboard_ne", "vp_clothboard_ne_edge_rotW", "vp_clothboard_ne_rotS", "vp_clothboard_ne_edge_rotE" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
+        "bg": [ "vp_clothboard_ne", "vp_clothboard_ne_edge_rotW", "vp_clothboard_ne_rotS", "vp_clothboard_ne_edge_rotE" ]
+      }
+    ]
+  },
+  {
+    "id": "vp_clothboard_nw_edge",
+    "fg": [ "vp_clothboard_nw", "vp_clothboard_nw_edge_rotW", "vp_clothboard_nw_rotS", "vp_clothboard_nw_edge_rotE" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
+        "bg": [ "vp_clothboard_nw", "vp_clothboard_nw_edge_rotW", "vp_clothboard_nw_rotS", "vp_clothboard_nw_edge_rotE" ]
+      }
+    ]
+  },
+  {
+    "id": "vp_clothboard_se_edge",
+    "fg": [ "vp_clothboard_se", "vp_clothboard_se_edge_rotW", "vp_clothboard_nw", "vp_clothboard_se_edge_rotE" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
+        "bg": [ "vp_clothboard_se", "vp_clothboard_se_edge_rotW", "vp_clothboard_nw", "vp_clothboard_se_edge_rotE" ]
+      }
+    ]
+  },
+  {
+    "id": "vp_clothboard_sw_edge",
+    "fg": [ "vp_clothboard_sw", "vp_clothboard_sw_edge_rotW", "vp_clothboard_ne", "vp_clothboard_sw_edge_rotE" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
+        "bg": [ "vp_clothboard_sw", "vp_clothboard_sw_edge_rotW", "vp_clothboard_ne", "vp_clothboard_sw_edge_rotE" ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "vp_halfboard_cover_left",
+    "fg": [ "vp_halfboard_cover_left", "vp_halfboard_cover_left_rotW", "vp_halfboard_cover_left_rotS", "vp_halfboard_cover_left_rotE" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
+        "bg": [ "vp_halfboard_cover_left", "vp_halfboard_cover_left_rotW", "vp_halfboard_cover_left_rotS", "vp_halfboard_cover_left_rotE" ]
+      }
+    ]
+  },
+  {
+    "id": "vp_halfboard_cover_right",
+    "fg": [ "vp_halfboard_cover_right", "vp_halfboard_cover_right_rotW", "vp_halfboard_cover_right_rotS", "vp_halfboard_cover_right_rotE" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
+        "bg": [ "vp_halfboard_cover_right", "vp_halfboard_cover_right_rotW", "vp_halfboard_cover_right_rotS", "vp_halfboard_cover_right_rotE" ]
+      }
+    ]
+  },
+  {
+    "id": "vp_halfboard_wheel_left",
+    "fg": [ "vp_halfboard_wheel_left", "vp_halfboard_wheel_left_rotW", "vp_halfboard_wheel_left_rotS", "vp_halfboard_wheel_left_rotE" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
+        "bg": [ "vp_halfboard_wheel_left", "vp_halfboard_wheel_left_rotW", "vp_halfboard_wheel_left_rotS", "vp_halfboard_wheel_left_rotE" ]
+      }
+    ]
+  },
+  {
+    "id": "vp_halfboard_wheel_right",
+    "fg": [ "vp_halfboard_wheel_right", "vp_halfboard_wheel_right_rotW", "vp_halfboard_wheel_right_rotS", "vp_halfboard_wheel_right_rotE" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
+        "bg": [ "vp_halfboard_wheel_right", "vp_halfboard_wheel_right_rotW", "vp_halfboard_wheel_right_rotS", "vp_halfboard_wheel_right_rotE" ]
+      }
+    ]
+  }
+]
