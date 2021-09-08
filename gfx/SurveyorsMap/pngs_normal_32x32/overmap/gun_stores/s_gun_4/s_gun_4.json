@@ -1,0 +1,20 @@
+[
+  {
+    "id": [ "s_gun_4" ],
+    "fg": [ "s_gun_4_north" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_gun_2ndfloor_4" ],
+    "fg": [ "s_gun_2ndfloor_4_north" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_gun_roof_4" ],
+    "fg": [ "s_gun_roof_4_north" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]
