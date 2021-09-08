@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "s_camping" ],
+    "fg": [ "s_camping_north" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_camping_roof" ],
+    "fg": [ "s_camping_roof_north" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

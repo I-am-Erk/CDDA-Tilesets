@@ -1,0 +1,20 @@
+[
+  {
+    "id": [ "dojo_1" ],
+    "fg": [ "dojo_1_north" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "dojo_roof_1" ],
+    "fg": [ "dojo_roof_1_north" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "dojo_upper_roof_1" ],
+    "fg": [ "dojo_upper_roof_1_north" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]
