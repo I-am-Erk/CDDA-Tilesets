@@ -1,24 +1,24 @@
 [
   {
-    "id": [ "player_male_season_spring", "npc_male_season_spring" ],
+    "id": [ "player_male_season_spring", "player_female_season_spring" ],
     "fg": "player_male_season_spring",
     "bg": [  ],
     "rotates": false
   },
   {
-    "id": [ "player_male_season_autumn", "npc_male_season_autumn" ],
+    "id": [ "player_male_season_autumn", "player_female_season_autumn" ],
     "fg": "player_male_season_autumn",
     "bg": [  ],
     "rotates": false
   },
   {
-    "id": [ "player_male_season_winter", "npc_male_season_winter" ],
+    "id": [ "player_male_season_winter", "player_female_season_winter" ],
     "fg": "player_male_season_winter",
     "bg": [  ],
     "rotates": false
   },
   {
-    "id": [ "player_male_season_summer", "npc_male_season_summer" ],
+    "id": [ "player_male_season_summer", "player_female_season_summer" ],
     "fg": "player_male_season_summer",
     "bg": [  ],
     "rotates": false
