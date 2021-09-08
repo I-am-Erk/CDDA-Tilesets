@@ -140,7 +140,7 @@
     "bg": ""
   },
   {
-    "id": "mask_dust",
+    "id": ["mask_dust", "mask_filter"],
     "fg": "mask_dust",
     "bg": ""
   },
