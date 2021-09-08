@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "office_doctor" ],
+    "fg": [ "office_doctor_north" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "office_doctor_roof" ],
+    "fg": [ "office_doctor_roof_north" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

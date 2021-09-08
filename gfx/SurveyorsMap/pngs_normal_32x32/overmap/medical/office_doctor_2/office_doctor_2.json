@@ -1,0 +1,20 @@
+[
+  {
+    "id": [ "office_doctor_2" ],
+    "fg": [ "office_doctor_2_north" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "office_doctor_roof_2" ],
+    "fg": [ "office_doctor_roof_2_north" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "office_doctor_upper_roof_2" ],
+    "fg": [ "office_doctor_upper_roof_2_north" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]
