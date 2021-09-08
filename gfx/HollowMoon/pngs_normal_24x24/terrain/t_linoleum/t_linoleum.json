@@ -1,0 +1,26 @@
+[
+  {
+    "id": [ "t_linoleum_gray_season_spring", "t_linoleum_white_season_spring" ],
+    "fg": "t_linoleum_season_spring",
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": [ "t_linoleum_gray_season_autumn", "t_linoleum_white_season_autumn" ],
+    "fg": "t_linoleum_season_autumn",
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": [ "t_linoleum_gray_season_winter", "t_linoleum_white_season_winter" ],
+    "fg": "t_linoleum_season_winter",
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": [ "t_linoleum_gray_season_summer", "t_linoleum_white_season_summer" ],
+    "fg": "t_linoleum_season_summer",
+    "bg": [  ],
+    "rotates": false
+  }
+]
