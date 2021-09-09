@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "candy_shop" ],
+    "fg": [ "candy_shop_north" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "candy_shop_roof" ],
+    "fg": [ "candy_shop_roof_north" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

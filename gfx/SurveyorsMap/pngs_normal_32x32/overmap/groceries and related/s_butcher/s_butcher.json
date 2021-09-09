@@ -1,0 +1,20 @@
+[
+  {
+    "id": [ "s_butcher" ],
+    "fg": [ "s_butcher_north" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_butcher_roof" ],
+    "fg": [ "s_butcher_roof_north" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_butcher_upper_roof" ],
+    "fg": [ "s_butcher_upper_roof_north" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]
