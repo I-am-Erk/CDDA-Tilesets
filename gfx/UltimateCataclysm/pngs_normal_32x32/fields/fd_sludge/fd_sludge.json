@@ -16,7 +16,7 @@
       "fg": [
         { "weight": 1, "sprite": [ "fd_sludge_1_corner_nw", "fd_sludge_1_corner_sw", "fd_sludge_1_corner_se", "fd_sludge_1_corner_ne" ] },
         { "weight": 1, "sprite": [ "fd_sludge_2_corner_nw", "fd_sludge_2_corner_sw", "fd_sludge_2_corner_se", "fd_sludge_2_corner_ne" ] },
-        { "weight": 1, "sprite": [ "fd_sludge_3_corner_nw", "fd_sludge_3_corner_sw", "fd_sludge_3_corner_se", "fd_sludge_3_corner_ne" ] }	  
+        { "weight": 1, "sprite": [ "fd_sludge_3_corner_nw", "fd_sludge_3_corner_sw", "fd_sludge_3_corner_se", "fd_sludge_3_corner_ne" ] }
       ]
     },
     {
