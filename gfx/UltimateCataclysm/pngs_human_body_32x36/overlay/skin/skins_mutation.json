@@ -1,21 +1,21 @@
 [
   {
-    "id": "overlay_female_mutation_CHITIN",
+    "id": ["overlay_female_mutation_CHITIN", "overlay_female_mutation_CHITIN_FUR", "overlay_female_mutation_CHITIN_FUR2"],
     "fg": "chitin_f",
     "bg": ""
   },
   {
-    "id": "overlay_male_mutation_CHITIN",
+    "id": ["overlay_male_mutation_CHITIN", "overlay_male_mutation_CHITIN_FUR", "overlay_male_mutation_CHITIN_FUR2"],
     "fg": "chitin_m",
     "bg": ""
   },
   {
-    "id": "overlay_female_mutation_CHITIN2",
+    "id": ["overlay_female_mutation_CHITIN2", "overlay_female_mutation_CHITIN3", "overlay_female_mutation_CHITIN_FUR3"],
     "fg": "chitin2_f",
     "bg": ""
   },
   {
-    "id": "overlay_male_mutation_CHITIN2",
+    "id": ["overlay_male_mutation_CHITIN2", "overlay_male_mutation_CHITIN3", "overlay_male_mutation_CHITIN_FUR3"],
     "fg": "chitin2_m",
     "bg": ""
   },
