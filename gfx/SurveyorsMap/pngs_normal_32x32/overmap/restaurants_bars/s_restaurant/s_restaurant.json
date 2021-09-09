@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "s_resturant", "s_restaurant_foodplace" ],
+    "fg": [ "s_resturant_north" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_resturant_roof" ],
+    "fg": [ "s_resturant_roof_north" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]
