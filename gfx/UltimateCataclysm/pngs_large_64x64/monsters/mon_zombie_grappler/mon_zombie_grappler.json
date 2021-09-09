@@ -1,8 +1,0 @@
-{
-  "id": "mon_zombie_grappler",
-  "fg": [
-    { "weight": 1, "sprite": "mon_zombie_grappler" },
-    { "weight": 1, "sprite": "mon_zombie_grappler2" }
-  ],
-  "bg": "shadow_64x64_normal"
-}

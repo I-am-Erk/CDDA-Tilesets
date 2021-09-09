@@ -1,0 +1,52 @@
+[
+  {
+  "id": "mon_spider_cellar_small",
+  "fg": "mon_spider_cellar_small",
+  "bg": "shadow_32x32_small"
+  },
+  {
+  "id": "mon_spider_jumping_small",
+  "fg": "mon_spider_jumping_small",
+  "bg": "shadow_32x32_small"
+  },
+  {
+  "id": "mon_spider_trapdoor_small",
+  "fg": "mon_spider_trapdoor_small",
+  "bg": "shadow_32x32_small"
+  },
+  {
+  "id": "mon_spider_web_small",
+  "fg": "mon_spider_web_small",
+  "bg": "shadow_32x32_small"
+  },
+  {
+  "id": "mon_spider_wolf_small",
+  "fg": "mon_spider_wolf_small",
+  "bg": "shadow_32x32_small"
+  },
+  {
+  "id": "mon_spider_web_s",
+  "fg": "mon_spider_web_s",
+  "bg": "shadow_32x32_small"
+  },
+  {
+  "id": "mon_spider_widow_giant_s",
+  "fg": "mon_spider_widow_giant_s",
+  "bg": "shadow_32x32_small"
+  },
+  {
+  "id": "mon_spider_cellar_giant_s",
+  "fg": "mon_spider_cellar_giant_s",
+  "bg": "shadow_32x32_small"
+  },
+  {
+  "id": "mon_zpider_mass",
+  "fg": "mon_zpider_mass",
+  "bg": "shadow_32x32_small"
+  },
+  {
+  "id": "mon_spider_widow_small",
+  "fg": "mon_spider_widow_small",
+  "bg": "shadow_32x32_small"
+  }
+]

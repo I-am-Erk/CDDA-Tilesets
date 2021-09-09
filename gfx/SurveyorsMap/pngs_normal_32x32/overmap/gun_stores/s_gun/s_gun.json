@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "s_gun" ],
+    "fg": [ "s_gun_north" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_gun_roof" ],
+    "fg": [ "s_gun_roof_north" ],
+    "bg": [ "open_air"  ],
+    "rotates": true
+  }
+]

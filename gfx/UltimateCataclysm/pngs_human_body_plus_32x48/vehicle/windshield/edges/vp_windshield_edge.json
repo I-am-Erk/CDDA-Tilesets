@@ -1,0 +1,114 @@
+[
+  {
+    "id": "vp_windshield_horizontal_front_edge",
+    "fg": [
+      "vp_windshield_horizontal_front_edge_rotN",
+      "vp_windshield_horizontal_front_edge_rotW",
+      "vp_windshield_horizontal_front_edge_rotS",
+      "vp_windshield_horizontal_front_edge_rotE"
+    ],
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "crack_glass_center_32x48", "crack_glass_center_32x48", "crack_glass_center_32x48", "crack_glass_center_32x48" ],
+        "bg": [
+          "vp_windshield_horizontal_front_edge_rotN",
+          "vp_windshield_horizontal_front_edge_rotW",
+          "vp_windshield_horizontal_front_edge_rotS",
+          "vp_windshield_horizontal_front_edge_rotE"
+        ]
+      }
+    ],
+    "multitile": true
+  },
+  {
+    "id": "vp_windshield_horizontal_rear_edge",
+    "fg": [
+      "vp_windshield_rear_edge",
+      "vp_windshield_rear_edge_rotW",
+      "vp_windshield_rear_edge_rotS",
+      "vp_windshield_rear_edge_rotE"
+    ],
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "crack_glass_center_32x48", "crack_glass_center_32x48", "crack_glass_center_32x48", "crack_glass_center_32x48" ],
+        "bg": [
+          "vp_windshield_rear_edge",
+          "vp_windshield_rear_edge_rotW",
+          "vp_windshield_rear_edge_rotS",
+          "vp_windshield_rear_edge_rotE"
+        ]
+      }
+    ],
+    "multitile": true
+  },
+  {
+    "id": "vp_windshield_nw_edge",
+    "fg": [
+      "vp_windshield_nw_edge_rotN",
+      "vp_windshield_nw_edge_rotW",
+      "vp_windshield_nw_edge_rotS",
+      "vp_windshield_nw_edge_rotE"
+    ],
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "crack_glass_center_32x48", "crack_glass_center_32x48", "crack_glass_center_32x48", "crack_glass_center_32x48" ],
+        "bg": [
+          "vp_windshield_nw_edge_rotN",
+          "vp_windshield_nw_edge_rotW",
+          "vp_windshield_nw_edge_rotS",
+          "vp_windshield_nw_edge_rotE"
+        ]
+      }
+    ],
+    "multitile": true
+  },
+  {
+    "id": "vp_windshield_ne_edge",
+    "fg": [
+      "vp_windshield_ne_edge_rotN",
+      "vp_windshield_ne_edge_rotW",
+      "vp_windshield_ne_edge_rotS",
+      "vp_windshield_ne_edge_rotE"
+    ],
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "crack_glass_center_32x48", "crack_glass_center_32x48", "crack_glass_center_32x48", "crack_glass_center_32x48" ],
+        "bg": [
+          "vp_windshield_ne_edge_rotN",
+          "vp_windshield_ne_edge_rotW",
+          "vp_windshield_ne_edge_rotS",
+          "vp_windshield_ne_edge_rotE"
+        ]
+      }
+    ],
+    "multitile": true
+  },
+  {
+    "id": "vp_windshield_sw_edge",
+    "fg": [ "vp_halfboard_sw", "vp_halfboard_sw_rotW", "vp_halfboard_sw_rotS", "vp_halfboard_sw_rotE" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "crack_glass_center_32x48", "crack_glass_center_32x48", "crack_glass_center_32x48", "crack_glass_center_32x48" ],
+        "bg": [ "vp_halfboard_sw", "vp_halfboard_sw_rotW", "vp_halfboard_sw_rotS", "vp_halfboard_sw_rotE" ]
+      }
+    ]
+  },
+  {
+    "id": "vp_windshield_se_edge",
+    "fg": [ "vp_halfboard_se", "vp_halfboard_se_rotW", "vp_halfboard_se_rotS", "vp_halfboard_se_rotE" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "crack_glass_center_32x48", "crack_glass_center_32x48", "crack_glass_center_32x48", "crack_glass_center_32x48" ],
+        "bg": [ "vp_halfboard_se", "vp_halfboard_se_rotW", "vp_halfboard_se_rotS", "vp_halfboard_se_rotE" ]
+      }
+    ]
+  }
+]

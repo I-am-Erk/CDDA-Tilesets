@@ -1,0 +1,90 @@
+[
+  {
+    "id": [
+      "mag_rifle_season_spring",
+      "mag_electronics_season_spring",
+      "mag_survival_season_spring",
+      "mag_tailor_season_spring",
+      "mag_pistol_season_spring",
+      "mag_shotgun_season_spring",
+      "mag_smg_season_spring",
+      "mag_archery_season_spring",
+      "mag_cooking_season_spring",
+      "mag_fieldrepair_season_spring",
+      "mag_mechanics_season_spring",
+      "mag_glam_season_spring",
+      "mag_beauty_season_spring",
+      "mag_traps_season_spring",
+      "mag_launcher_season_spring",
+      "mag_swimming_season_spring"
+    ],
+    "fg": [ "magazine_season_spring" ],
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "mag_rifle_season_summer",
+      "mag_electronics_season_summer",
+      "mag_survival_season_summer",
+      "mag_tailor_season_summer",
+      "mag_pistol_season_summer",
+      "mag_shotgun_season_summer",
+      "mag_smg_season_summer",
+      "mag_archery_season_summer",
+      "mag_cooking_season_summer",
+      "mag_fieldrepair_season_summer",
+      "mag_mechanics_season_summer",
+      "mag_glam_season_summer",
+      "mag_beauty_season_summer",
+      "mag_traps_season_summer",
+      "mag_launcher_season_summer",
+      "mag_swimming_season_summer"
+    ],
+    "fg": [ "magazine_season_summer" ],
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "mag_rifle_season_autumn",
+      "mag_electronics_season_autumn",
+      "mag_survival_season_autumn",
+      "mag_tailor_season_autumn",
+      "mag_pistol_season_autumn",
+      "mag_shotgun_season_autumn",
+      "mag_smg_season_autumn",
+      "mag_archery_season_autumn",
+      "mag_cooking_season_autumn",
+      "mag_fieldrepair_season_autumn",
+      "mag_mechanics_season_autumn",
+      "mag_glam_season_autumn",
+      "mag_beauty_season_autumn",
+      "mag_traps_season_autumn",
+      "mag_launcher_season_autumn",
+      "mag_swimming_season_autumn"
+    ],
+    "fg": [ "magazine_season_autumn" ],
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "mag_rifle_season_winter",
+      "mag_electronics_season_winter",
+      "mag_survival_season_winter",
+      "mag_tailor_season_winter",
+      "mag_pistol_season_winter",
+      "mag_shotgun_season_winter",
+      "mag_smg_season_winter",
+      "mag_archery_season_winter",
+      "mag_cooking_season_winter",
+      "mag_fieldrepair_season_winter",
+      "mag_mechanics_season_winter",
+      "mag_glam_season_winter",
+      "mag_beauty_season_winter",
+      "mag_traps_season_winter",
+      "mag_launcher_season_winter",
+      "mag_swimming_season_winter"
+    ],
+    "fg": [ "magazine_season_winter" ],
+    "bg": [  ]
+  }
+]
