@@ -1,13 +1,13 @@
 [
   {
-    "id": [ "s_resturant_3" ],
-    "fg": [ "s_resturant_3_north" ],
+    "id": [ "s_restaurant_3" ],
+    "fg": [ "s_restaurant_3_north" ],
     "bg": [  ],
     "rotates": true
   },
   {
-    "id": [ "s_resturant_3_roof" ],
-    "fg": [ "s_resturant_3_roof_north" ],
+    "id": [ "s_restaurant_3_roof" ],
+    "fg": [ "s_restaurant_3_roof_north" ],
     "bg": [ "open_air" ],
     "rotates": true
   }
