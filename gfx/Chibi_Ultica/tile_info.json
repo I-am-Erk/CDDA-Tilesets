@@ -47,6 +47,9 @@
     "ChibiHugeAftershockMonster.png": { "sprite_width": 128, "sprite_height": 128, "sprite_offset_x": -64, "sprite_offset_y": -96 }
   },
   {
+    "ChibismallMonster.png": { "sprite_width": 20, "sprite_height": 20, "sprite_offset_x": 0, "sprite_offset_y": 0 }
+  },
+  {
     "small.png": { "sprite_width": 20, "sprite_height": 20, "filler": true }
   },
   {
@@ -84,6 +87,12 @@
   },
   {
     "incomplete_large.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -32, "filler": true }
+  },
+  {
+    "widemonsters.png": { "sprite_width": 32, "sprite_height": 48, "sprite_offset_y": -16, "filler": true }
+  },
+  {
+    "widevehicle.png": { "sprite_width": 32, "sprite_height": 48, "sprite_offset_y": -16, "filler": true }
   },
   {
     "fillerhoder.png": {
