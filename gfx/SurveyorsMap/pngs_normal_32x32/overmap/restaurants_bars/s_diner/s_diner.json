@@ -1,0 +1,20 @@
+[
+  {
+    "id": [ "s_diner" ],
+    "fg": [ "s_diner_north" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_diner_2ndfloor" ],
+    "fg": [ "s_diner_2ndfloor_north" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_diner_roof" ],
+    "fg": [ "s_diner_roof_north" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

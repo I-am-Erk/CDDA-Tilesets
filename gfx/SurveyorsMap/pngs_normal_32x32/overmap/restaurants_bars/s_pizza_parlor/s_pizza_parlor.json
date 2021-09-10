@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "s_pizza_parlor" ],
+    "fg": [ "s_pizza_parlor_north" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_pizza_parlor_roof" ],
+    "fg": [ "s_pizza_parlor_roof_north" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

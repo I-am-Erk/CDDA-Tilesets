@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "s_sports" ],
+    "fg": [ "s_sports_north" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_sports_roof" ],
+    "fg": [ "s_sports_roof_north" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

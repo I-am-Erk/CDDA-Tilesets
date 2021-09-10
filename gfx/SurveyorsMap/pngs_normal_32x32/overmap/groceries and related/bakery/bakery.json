@@ -1,0 +1,20 @@
+[
+  {
+    "id": [ "bakery" ],
+    "fg": [ "bakery_north" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "bakery_roof" ],
+    "fg": [ "bakery_roof_north" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "bakery_upper_roof" ],
+    "fg": [ "bakery_upper_roof_north" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

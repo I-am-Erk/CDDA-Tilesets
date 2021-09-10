@@ -1,0 +1,20 @@
+[
+  {
+    "id": [ "s_teashop_1" ],
+    "fg": [ "s_teashop_1_north" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_teashop_roof_1" ],
+    "fg": [ "s_teashop_roof_1_north" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_teashop_upper_roof_1" ],
+    "fg": [ "s_teashop_upper_roof_1_north" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

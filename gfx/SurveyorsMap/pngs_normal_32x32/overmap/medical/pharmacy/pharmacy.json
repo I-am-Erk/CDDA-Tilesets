@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "s_pharm" ],
+    "fg": [ "s_pharm_north" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_pharm_roof" ],
+    "fg": [ "s_pharm_roof_north" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]
