@@ -1,5 +1,7 @@
 <!-- HOW TO USE: Under each "#### Heading" below, enter information relevant to your pull request.
-Comment blocks, surrounded with <!–– and ––>, won't be visible in the actual post.-->
+Comment blocks, surrounded with <!–– and ––>, won't be visible in the actual post.
+Once a PR is submitted automated test and stylistic requirements will be performed on PR's changes
+to see the results or in case any check fails see the checks' details section. -->
 
 #### Summary
 Category "Brief description"

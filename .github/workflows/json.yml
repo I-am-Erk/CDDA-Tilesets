@@ -1,0 +1,31 @@
+name: JSON Validation
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - '**.json'
+      - '.github/workflows/json.yml'
+  pull_request:
+    branches:
+      - master
+    paths:
+      - '**.json'
+      - '.github/workflows/json.yml'
+
+jobs:
+  style-json:
+    name: JSON style check
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 1
+    - name: JSON style check
+      run: tools/style-json.sh
+    - name: Display Corrections
+      if: failure()
+      run: git diff
