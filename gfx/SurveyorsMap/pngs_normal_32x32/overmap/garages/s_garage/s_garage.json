@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "s_garage" ],
+    "fg": [ "s_garage_north" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_garage_roof" ],
+    "fg": [ "s_garage_roof_north" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]
