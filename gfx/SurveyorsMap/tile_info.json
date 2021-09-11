@@ -8,7 +8,7 @@
     "normal.png": {  }
   },
   {
-    "normal_24.png": { "sprite_width": 24, "sprite_height": 24, "sprite_offset_x": 0, "sprite_offset_y": 0   }
+    "overmap.png": { "sprite_width": 24, "sprite_height": 24 }
   },
   {
     "fallback.png": {
