@@ -20,9 +20,9 @@
       "id": "t_connection",
       "fg": [
         "f_desk_t_connection_n",
-        "f_desk_t_connection_w",
-        "f_desk_t_connection_s",
-        "f_desk_t_connection_e"
+        "f_desk_edge_ns",
+        "f_desk_edge_ew",
+        "f_desk_edge_ns"
       ]
     },
     {
