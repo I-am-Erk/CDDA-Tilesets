@@ -8,5 +8,10 @@
   "id": "mon_skeleton_hulk",
   "fg": "mon_skeletal_juggernaut",
   "bg": ""
+},
+{
+  "id": "mon_zombie_nemesis",
+  "fg": "mon_zombie_nemesis",
+  "bg": "shadow_64x96_large"
 }
 ]
