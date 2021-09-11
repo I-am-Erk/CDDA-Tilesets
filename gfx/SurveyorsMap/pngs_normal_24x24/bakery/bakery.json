@@ -1,19 +1,19 @@
 [
   {
     "id": [ "bakery" ],
-    "fg": [ "bakery_north" ],
+    "fg": [ "bakery_NS", "bakery_EW" ],
     "bg": [  ],
     "rotates": true
   },
   {
     "id": [ "bakery_roof" ],
-    "fg": [ "bakery_roof_north" ],
+    "fg": [ "bakery_roof_NS", "bakery_roof_EW" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "bakery_upper_roof" ],
-    "fg": [ "bakery_upper_roof_north" ],
+    "fg": [ "bakery_upper_roof_NS", "bakery_upper_roof_EW" ],
     "bg": [ "open_air" ],
     "rotates": true
   }
