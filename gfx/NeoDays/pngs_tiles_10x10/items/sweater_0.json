@@ -1,1 +1,10 @@
-{"id": "sweater", "fg": ["1993_sweater_0"], "rotates": false, "bg": []}
+{
+  "id": "sweater",
+  "fg": [
+    "1993_sweater_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

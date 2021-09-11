@@ -1,5 +1,9 @@
 {
   "id": "tr_nailboard",
-  "fg": ["armed_trap"],
-  "bg": ["board_trap"]
+  "fg": [
+    "armed_trap"
+  ],
+  "bg": [
+    "board_trap"
+  ]
 }

@@ -1,5 +1,8 @@
 {
-  "id": [ "overlay_wielded_brazier", "brazier" ],
+  "id": [
+    "overlay_wielded_brazier",
+    "brazier"
+  ],
   "fg": [
     "brazier"
   ],

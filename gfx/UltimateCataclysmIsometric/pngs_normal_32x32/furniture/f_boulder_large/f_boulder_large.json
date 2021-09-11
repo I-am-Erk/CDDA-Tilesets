@@ -1,5 +1,9 @@
 {
   "id": "f_boulder_large",
-  "fg": ["f_boulder_large"],
-  "bg": []
+  "fg": [
+    "f_boulder_large"
+  ],
+  "bg": [
+    
+  ]
 }

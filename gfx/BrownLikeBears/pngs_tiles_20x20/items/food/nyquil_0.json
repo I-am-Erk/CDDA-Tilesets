@@ -1,1 +1,10 @@
-{"id": "nyquil", "fg": ["292_nyquil_0"], "rotates": false, "bg": []}
+{
+  "id": "nyquil",
+  "fg": [
+    "292_nyquil_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

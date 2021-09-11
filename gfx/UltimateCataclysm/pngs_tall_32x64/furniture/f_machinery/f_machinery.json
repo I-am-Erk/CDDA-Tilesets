@@ -21,36 +21,30 @@
   },
   {
     "id": "f_machinery_heavy",
-    "fg": [ 
+    "fg": [
       { "weight": 20, "sprite": "f_machinery_heavy1" },
-      { "weight": 150, "sprite": "f_machinery_heavy2" }, 
+      { "weight": 150, "sprite": "f_machinery_heavy2" },
       { "weight": 100, "sprite": "f_machinery_heavy3" }
     ],
     "bg": ""
   },
   {
     "id": "t_machinery_heavy",
-    "fg": [ 
-      { "weight": 20, "sprite": "f_machinery_heavy1" }, 
-      { "weight": 150, "sprite": "f_machinery_heavy2" }, 
+    "fg": [
+      { "weight": 20, "sprite": "f_machinery_heavy1" },
+      { "weight": 150, "sprite": "f_machinery_heavy2" },
       { "weight": 100, "sprite": "f_machinery_heavy3" }
     ],
     "bg": "t_concrete_tall"
   },
   {
     "id": "f_machinery_light",
-    "fg": [ 
-      { "weight": 100, "sprite": "f_machinery_light" }, 
-      { "weight": 100, "sprite": "f_machinery_light-2" }
-    ],
+    "fg": [ { "weight": 100, "sprite": "f_machinery_light" }, { "weight": 100, "sprite": "f_machinery_light-2" } ],
     "bg": ""
   },
   {
     "id": "t_machinery_light",
-    "fg": [ 
-      { "weight": 100, "sprite": "f_machinery_light" }, 
-      { "weight": 100, "sprite": "f_machinery_light-2" }
-    ],
+    "fg": [ { "weight": 100, "sprite": "f_machinery_light" }, { "weight": 100, "sprite": "f_machinery_light-2" } ],
     "bg": "t_concrete_tall"
   }
 ]

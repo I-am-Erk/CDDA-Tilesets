@@ -1,1 +1,11 @@
-{"id": "m235tpa", "fg": ["601_40mm_concussive_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "m235tpa",
+  "fg": [
+    "601_40mm_concussive_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

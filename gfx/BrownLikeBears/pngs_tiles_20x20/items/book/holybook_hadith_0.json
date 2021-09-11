@@ -1,1 +1,10 @@
-{"id": "holybook_hadith", "fg": ["886_mag_pistol_0"], "rotates": false, "bg": []}
+{
+  "id": "holybook_hadith",
+  "fg": [
+    "886_mag_pistol_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

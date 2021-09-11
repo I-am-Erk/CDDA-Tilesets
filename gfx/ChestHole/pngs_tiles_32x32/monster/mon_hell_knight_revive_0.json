@@ -1,1 +1,10 @@
-{"id": "mon_hell_knight_revive", "fg": [""], "rotates": false, "bg": []}
+{
+  "id": "mon_hell_knight_revive",
+  "fg": [
+    ""
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

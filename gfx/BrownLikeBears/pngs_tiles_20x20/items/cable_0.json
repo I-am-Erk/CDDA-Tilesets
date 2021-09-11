@@ -1,1 +1,11 @@
-{"id": "cable", "fg": ["515_cable_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "cable",
+  "fg": [
+    "515_cable_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

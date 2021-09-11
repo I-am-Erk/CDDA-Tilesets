@@ -1,1 +1,11 @@
-{"id": "pineapple", "fg": ["1121_pineapple_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "pineapple",
+  "fg": [
+    "1121_pineapple_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

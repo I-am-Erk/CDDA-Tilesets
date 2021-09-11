@@ -1,1 +1,11 @@
-{"id": "recipe_caseless", "fg": ["886_mag_pistol_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "recipe_caseless",
+  "fg": [
+    "886_mag_pistol_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

@@ -1,1 +1,11 @@
-{"id": "bowhat", "fg": ["814_bowhat_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "bowhat",
+  "fg": [
+    "814_bowhat_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

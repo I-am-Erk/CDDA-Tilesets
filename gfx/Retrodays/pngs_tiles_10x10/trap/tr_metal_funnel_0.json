@@ -1,1 +1,10 @@
-{"id": "tr_metal_funnel", "fg": ["1502_tr_metal_funnel_0"], "rotates": false, "bg": []}
+{
+  "id": "tr_metal_funnel",
+  "fg": [
+    "1502_tr_metal_funnel_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

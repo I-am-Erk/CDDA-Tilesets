@@ -1,1 +1,10 @@
-{"id": "road_esw", "fg": ["3108_road_esw_0"], "rotates": false, "bg": []}
+{
+  "id": "road_esw",
+  "fg": [
+    "3108_road_esw_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

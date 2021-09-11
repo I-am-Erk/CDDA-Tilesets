@@ -1,1 +1,15 @@
-{"id": ["knuckle_katar", "knuckle_nail", "bagh_nakha", "bio_claws_weapon"], "fg": ["2026_knuckle_katar_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "knuckle_katar",
+    "knuckle_nail",
+    "bagh_nakha",
+    "bio_claws_weapon"
+  ],
+  "fg": [
+    "2026_knuckle_katar_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

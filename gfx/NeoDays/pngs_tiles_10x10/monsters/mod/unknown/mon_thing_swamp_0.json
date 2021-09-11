@@ -1,1 +1,10 @@
-{"id": "mon_thing_swamp", "fg": ["2558_mon_thing_swamp_0"], "rotates": false, "bg": []}
+{
+  "id": "mon_thing_swamp",
+  "fg": [
+    "2558_mon_thing_swamp_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

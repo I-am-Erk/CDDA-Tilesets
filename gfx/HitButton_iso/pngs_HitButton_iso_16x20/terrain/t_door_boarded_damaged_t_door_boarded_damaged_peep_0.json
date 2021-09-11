@@ -1,1 +1,14 @@
-{"id": ["t_door_boarded_damaged", "t_door_boarded_damaged_peep"], "multitile": true, "fg": ["558_t_door_boarded_damaged_0", "559_t_door_boarded_damaged_1"], "bg": []}
+{
+  "id": [
+    "t_door_boarded_damaged",
+    "t_door_boarded_damaged_peep"
+  ],
+  "multitile": true,
+  "fg": [
+    "558_t_door_boarded_damaged_0",
+    "559_t_door_boarded_damaged_1"
+  ],
+  "bg": [
+    
+  ]
+}

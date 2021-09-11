@@ -15,11 +15,7 @@
       "bg": "",
       "fg": [ "t_wall_t_connection_n", "t_wall_t_connection_w", "t_wall_t_connection_s", "t_wall_t_connection_e" ]
     },
-    {
-      "id": "edge",
-      "bg": "",
-      "fg": [ "t_wall_edge_ns", "t_wall_edge_ew" ]
-    },
+    { "id": "edge", "bg": "", "fg": [ "t_wall_edge_ns", "t_wall_edge_ew" ] },
     {
       "id": "end_piece",
       "bg": "",

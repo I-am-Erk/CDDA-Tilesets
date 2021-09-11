@@ -1,1 +1,11 @@
-{"id": "barrette", "fg": ["1194_barrette_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "barrette",
+  "fg": [
+    "1194_barrette_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

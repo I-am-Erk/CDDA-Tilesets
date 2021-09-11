@@ -1,5 +1,9 @@
 {
   "id": "overlay_female_worn_union_suit",
-  "fg": ["union_suit_f"],
-  "bg": []
+  "fg": [
+    "union_suit_f"
+  ],
+  "bg": [
+    
+  ]
 }

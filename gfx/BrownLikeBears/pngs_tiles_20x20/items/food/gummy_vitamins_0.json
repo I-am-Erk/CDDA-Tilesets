@@ -1,1 +1,11 @@
-{"id": "gummy_vitamins", "fg": ["1027_candy_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "gummy_vitamins",
+  "fg": [
+    "1027_candy_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

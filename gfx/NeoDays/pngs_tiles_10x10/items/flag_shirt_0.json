@@ -1,1 +1,10 @@
-{"id": "flag_shirt", "fg": ["1852_flag_shirt_0"], "rotates": false, "bg": []}
+{
+  "id": "flag_shirt",
+  "fg": [
+    "1852_flag_shirt_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

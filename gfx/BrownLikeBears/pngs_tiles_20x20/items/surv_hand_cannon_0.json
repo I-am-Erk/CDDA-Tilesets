@@ -1,1 +1,11 @@
-{"id": "surv_hand_cannon", "fg": ["1386_sig_mosquito_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "surv_hand_cannon",
+  "fg": [
+    "1386_sig_mosquito_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

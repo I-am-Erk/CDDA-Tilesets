@@ -1,1 +1,10 @@
-{"id": "overlay_worn_sleeveless_trenchcoat_survivor", "fg": [""], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_sleeveless_trenchcoat_survivor",
+  "fg": [
+    ""
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

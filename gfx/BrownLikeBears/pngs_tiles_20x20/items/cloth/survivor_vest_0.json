@@ -1,1 +1,11 @@
-{"id": "survivor_vest", "fg": ["757_chestrig_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "survivor_vest",
+  "fg": [
+    "757_chestrig_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

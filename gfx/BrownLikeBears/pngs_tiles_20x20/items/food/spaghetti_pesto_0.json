@@ -1,1 +1,11 @@
-{"id": "spaghetti_pesto", "fg": ["1093_spaghetti_pesto_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "spaghetti_pesto",
+  "fg": [
+    "1093_spaghetti_pesto_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

@@ -1,1 +1,10 @@
-{"id": "overlay_worn_swag_bag", "fg": ["800_overlay_worn_swag_bag_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_swag_bag",
+  "fg": [
+    "800_overlay_worn_swag_bag_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

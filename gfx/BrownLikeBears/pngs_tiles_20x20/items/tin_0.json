@@ -1,1 +1,11 @@
-{"id": "tin", "fg": ["599_lead_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "tin",
+  "fg": [
+    "599_lead_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

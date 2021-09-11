@@ -1,1 +1,11 @@
-{"id": "mop", "fg": ["1618_mop_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "mop",
+  "fg": [
+    "1618_mop_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

@@ -1,1 +1,10 @@
-{"id": "f_ball_mach", "fg": ["689_f_desk_0"], "rotates": false, "bg": []}
+{
+  "id": "f_ball_mach",
+  "fg": [
+    "689_f_desk_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

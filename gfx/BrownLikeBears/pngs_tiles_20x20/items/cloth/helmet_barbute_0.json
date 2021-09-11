@@ -1,1 +1,11 @@
-{"id": "helmet_barbute", "fg": ["872_helmet_barbute_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "helmet_barbute",
+  "fg": [
+    "872_helmet_barbute_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

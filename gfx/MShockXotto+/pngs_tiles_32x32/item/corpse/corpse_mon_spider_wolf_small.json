@@ -1,6 +1,10 @@
-  {
-    "id": "corpse_mon_spider_wolf_small",
-    "fg": [ "corpse_mon_spider_wolf_small" ],
-    "rotates": false,
-    "bg": [  ]
-  }
+{
+  "id": "corpse_mon_spider_wolf_small",
+  "fg": [
+    "corpse_mon_spider_wolf_small"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

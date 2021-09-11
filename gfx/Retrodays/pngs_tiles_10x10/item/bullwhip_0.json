@@ -1,1 +1,10 @@
-{"id": "bullwhip", "fg": ["2033_bullwhip_0"], "rotates": false, "bg": []}
+{
+  "id": "bullwhip",
+  "fg": [
+    "2033_bullwhip_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

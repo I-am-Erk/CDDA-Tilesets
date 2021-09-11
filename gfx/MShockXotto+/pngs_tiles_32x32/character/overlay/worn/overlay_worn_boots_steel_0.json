@@ -1,1 +1,10 @@
-{"id": "overlay_worn_boots_steel", "fg": ["555_overlay_worn_boots_steel_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_boots_steel",
+  "fg": [
+    "555_overlay_worn_boots_steel_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

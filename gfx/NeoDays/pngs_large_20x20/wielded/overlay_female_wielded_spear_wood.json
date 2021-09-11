@@ -1,1 +1,10 @@
-{"id": ["overlay_female_wielded_spear_wood", "overlay_female_wielded_pike_wood"], "fg": ["overlay_female_wielded_spear_wood"], "rotates": false}
+{
+  "id": [
+    "overlay_female_wielded_spear_wood",
+    "overlay_female_wielded_pike_wood"
+  ],
+  "fg": [
+    "overlay_female_wielded_spear_wood"
+  ],
+  "rotates": false
+}

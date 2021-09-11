@@ -1,1 +1,9 @@
-{"id": "mon_wolf", "fg": ["1777_mon_wolf_0"], "bg": [""]}
+{
+  "id": "mon_wolf",
+  "fg": [
+    "1777_mon_wolf_0"
+  ],
+  "bg": [
+    ""
+  ]
+}

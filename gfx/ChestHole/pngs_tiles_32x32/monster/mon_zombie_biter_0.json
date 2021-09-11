@@ -1,1 +1,10 @@
-{"id": "mon_zombie_biter", "fg": ["3605_mon_zombie_biter_0"], "bg": [""], "rotates": false}
+{
+  "id": "mon_zombie_biter",
+  "fg": [
+    "3605_mon_zombie_biter_0"
+  ],
+  "bg": [
+    ""
+  ],
+  "rotates": false
+}

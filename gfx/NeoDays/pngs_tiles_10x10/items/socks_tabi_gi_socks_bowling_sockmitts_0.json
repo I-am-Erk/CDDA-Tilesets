@@ -1,1 +1,15 @@
-{"id": ["socks", "tabi_gi", "socks_bowling", "sockmitts"], "fg": ["1695_socks_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "socks",
+    "tabi_gi",
+    "socks_bowling",
+    "sockmitts"
+  ],
+  "fg": [
+    "1695_socks_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

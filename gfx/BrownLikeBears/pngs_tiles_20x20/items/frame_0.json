@@ -1,1 +1,10 @@
-{"id": "frame", "fg": ["157_frame_0"], "rotates": false, "bg": []}
+{
+  "id": "frame",
+  "fg": [
+    "157_frame_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

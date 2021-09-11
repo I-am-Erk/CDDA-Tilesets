@@ -1,1 +1,10 @@
-{"id": "rock_quern", "fg": ["1608_rock_quern_0"], "rotates": false, "bg": []}
+{
+  "id": "rock_quern",
+  "fg": [
+    "1608_rock_quern_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

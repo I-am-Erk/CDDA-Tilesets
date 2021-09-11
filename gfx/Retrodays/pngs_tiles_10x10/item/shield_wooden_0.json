@@ -1,1 +1,10 @@
-{"id": "shield_wooden", "fg": ["1986_shield_wooden_0"], "rotates": false, "bg": []}
+{
+  "id": "shield_wooden",
+  "fg": [
+    "1986_shield_wooden_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

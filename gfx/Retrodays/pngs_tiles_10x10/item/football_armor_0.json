@@ -1,1 +1,10 @@
-{"id": "football_armor", "fg": ["1669_football_armor_0"], "rotates": false, "bg": []}
+{
+  "id": "football_armor",
+  "fg": [
+    "1669_football_armor_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,10 @@
-{"id": "mon_mechaspider", "fg": [""], "rotates": false, "bg": []}
+{
+  "id": "mon_mechaspider",
+  "fg": [
+    ""
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,13 @@
-{"id": ["t_stairs_down", "t_low_stairs_begin"], "height_3d": -3, "fg": ["10_t_stairs_down_0"], "bg": []}
+{
+  "id": [
+    "t_stairs_down",
+    "t_low_stairs_begin"
+  ],
+  "height_3d": -3,
+  "fg": [
+    "10_t_stairs_down_0"
+  ],
+  "bg": [
+    
+  ]
+}

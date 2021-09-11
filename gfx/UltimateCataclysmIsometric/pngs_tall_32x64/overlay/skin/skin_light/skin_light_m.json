@@ -1,5 +1,9 @@
 {
   "id": "overlay_male_mutation_SKIN_LIGHT",
-  "fg": ["skin_light_m"],
-  "bg": []
+  "fg": [
+    "skin_light_m"
+  ],
+  "bg": [
+    
+  ]
 }

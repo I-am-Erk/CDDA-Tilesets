@@ -1,6 +1,6 @@
 [
   {
-    "id": ["overlay_mutation_CLAWS", "overlay_mutation_CLAWS_RETRACT_active"],
+    "id": [ "overlay_mutation_CLAWS", "overlay_mutation_CLAWS_RETRACT_active" ],
     "fg": [ "overlay_mutation_CLAWS" ],
     "rotates": false,
     "bg": [  ]

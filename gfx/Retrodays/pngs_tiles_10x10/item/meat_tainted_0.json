@@ -1,1 +1,10 @@
-{"id": "meat_tainted", "fg": ["996_meat_tainted_0"], "rotates": false, "bg": []}
+{
+  "id": "meat_tainted",
+  "fg": [
+    "996_meat_tainted_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

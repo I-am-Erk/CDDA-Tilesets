@@ -1,1 +1,9 @@
-{"id": "t_ladder_down_season_autumn", "fg": ["3104_t_ladder_down_season_winter_0"], "bg": ["t_dirt_autumn"]}
+{
+  "id": "t_ladder_down_season_autumn",
+  "fg": [
+    "3104_t_ladder_down_season_winter_0"
+  ],
+  "bg": [
+    "t_dirt_autumn"
+  ]
+}

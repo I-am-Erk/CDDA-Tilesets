@@ -1,1 +1,11 @@
-{"id": "trappers_companion", "fg": ["881_mag_fieldrepair_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "trappers_companion",
+  "fg": [
+    "881_mag_fieldrepair_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

@@ -1,1 +1,10 @@
-{"id": "overlay_female_worn_hat_ball", "fg": ["3282_overlay_female_worn_hat_ball_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_female_worn_hat_ball",
+  "fg": [
+    "3282_overlay_female_worn_hat_ball_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

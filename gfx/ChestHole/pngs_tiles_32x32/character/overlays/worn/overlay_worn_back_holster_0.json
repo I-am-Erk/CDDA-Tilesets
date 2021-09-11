@@ -1,1 +1,10 @@
-{"id": "overlay_worn_back_holster", "fg": ["528_overlay_worn_quiver_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_back_holster",
+  "fg": [
+    "528_overlay_worn_quiver_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

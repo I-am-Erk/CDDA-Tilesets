@@ -1,5 +1,5 @@
 {
-	"id": "cursor",
-	"fg": "pointer",
-	"rotates": false
+  "id": "cursor",
+  "fg": "pointer",
+  "rotates": false
 }

@@ -1,5 +1,8 @@
 {
-  "id": ["lighting_hidden", "unknown_terrain" ],
+  "id": [
+    "lighting_hidden",
+    "unknown_terrain"
+  ],
   "fg": [
     "3139_lighting_hidden_0"
   ],

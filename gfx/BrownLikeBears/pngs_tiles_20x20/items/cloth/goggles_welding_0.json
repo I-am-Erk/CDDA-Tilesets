@@ -1,1 +1,11 @@
-{"id": "goggles_welding", "fg": ["789_goggles_welding_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "goggles_welding",
+  "fg": [
+    "789_goggles_welding_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

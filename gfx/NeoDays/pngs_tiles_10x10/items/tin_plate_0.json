@@ -1,1 +1,10 @@
-{"id": "tin_plate", "fg": ["2039_tin_plate_0"], "rotates": false, "bg": []}
+{
+  "id": "tin_plate",
+  "fg": [
+    "2039_tin_plate_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

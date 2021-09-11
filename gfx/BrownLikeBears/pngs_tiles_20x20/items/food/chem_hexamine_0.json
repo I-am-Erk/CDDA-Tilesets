@@ -1,1 +1,11 @@
-{"id": "chem_hexamine", "fg": ["1059_marshmallow_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "chem_hexamine",
+  "fg": [
+    "1059_marshmallow_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

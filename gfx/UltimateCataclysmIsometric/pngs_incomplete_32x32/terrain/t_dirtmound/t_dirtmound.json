@@ -1,5 +1,9 @@
 {
   "id": "t_dirtmound",
-  "fg": ["t_dirtmound"],
-  "bg": []
+  "fg": [
+    "t_dirtmound"
+  ],
+  "bg": [
+    
+  ]
 }

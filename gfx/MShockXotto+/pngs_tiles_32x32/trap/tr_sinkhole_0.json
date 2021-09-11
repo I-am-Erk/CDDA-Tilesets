@@ -1,1 +1,10 @@
-{"id": "tr_sinkhole", "fg": ["3933_tr_sinkhole_0"], "rotates": false, "bg": []}
+{
+  "id": "tr_sinkhole",
+  "fg": [
+    "3933_tr_sinkhole_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

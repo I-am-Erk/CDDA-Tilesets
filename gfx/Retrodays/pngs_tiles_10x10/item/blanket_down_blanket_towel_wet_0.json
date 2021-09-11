@@ -1,1 +1,14 @@
-{"id": ["blanket", "down_blanket", "towel_wet"], "fg": ["1687_blanket_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "blanket",
+    "down_blanket",
+    "towel_wet"
+  ],
+  "fg": [
+    "1687_blanket_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,10 @@
-{"id": "overlay_male_wielded_SPAS_12", "fg": ["3423_overlay_male_wielded_SPAS_12_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_male_wielded_SPAS_12",
+  "fg": [
+    "3423_overlay_male_wielded_SPAS_12_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

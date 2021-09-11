@@ -1,1 +1,10 @@
-{"id": "f_robotic_arm", "fg": ["569_f_robotic_arm_0"], "rotates": false, "bg": []}
+{
+  "id": "f_robotic_arm",
+  "fg": [
+    "569_f_robotic_arm_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

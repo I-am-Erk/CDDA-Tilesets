@@ -1,1 +1,11 @@
-{"id": "glasses_bal", "fg": ["791_glasses_bal_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "glasses_bal",
+  "fg": [
+    "791_glasses_bal_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

@@ -1,1 +1,13 @@
-{"id": ["t_hole", "lighting_hidden"], "fg": ["1_t_hole_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "t_hole",
+    "lighting_hidden"
+  ],
+  "fg": [
+    "1_t_hole_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

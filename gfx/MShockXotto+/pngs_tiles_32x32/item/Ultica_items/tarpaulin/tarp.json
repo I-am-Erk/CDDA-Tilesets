@@ -1,7 +1,7 @@
 [
   {
-  "id": "tarp",
-  "fg": [ "tarp" ],
-  "bg": [  ]
+    "id": "tarp",
+    "fg": [ "tarp" ],
+    "bg": [  ]
   }
 ]

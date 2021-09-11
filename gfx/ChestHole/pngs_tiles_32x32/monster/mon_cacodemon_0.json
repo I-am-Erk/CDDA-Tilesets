@@ -1,1 +1,10 @@
-{"id": "mon_cacodemon", "fg": [""], "bg": [""], "rotates": false}
+{
+  "id": "mon_cacodemon",
+  "fg": [
+    ""
+  ],
+  "bg": [
+    ""
+  ],
+  "rotates": false
+}

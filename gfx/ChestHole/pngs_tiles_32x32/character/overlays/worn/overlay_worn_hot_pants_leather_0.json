@@ -1,1 +1,10 @@
-{"id": "overlay_worn_hot_pants_leather", "fg": ["533_overlay_worn_skirt_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_hot_pants_leather",
+  "fg": [
+    "533_overlay_worn_skirt_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

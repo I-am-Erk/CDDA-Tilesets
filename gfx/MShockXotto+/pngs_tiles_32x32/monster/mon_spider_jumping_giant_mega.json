@@ -1,1 +1,10 @@
-{"id": "mon_spider_jumping_giant_mega", "fg": ["2604_mon_spider_jumping_giant_mega"], "rotates": false, "bg": []}
+{
+  "id": "mon_spider_jumping_giant_mega",
+  "fg": [
+    "2604_mon_spider_jumping_giant_mega"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

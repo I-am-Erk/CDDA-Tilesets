@@ -1,1 +1,11 @@
-{"id": "tricorne", "fg": ["796_hat_cotton_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "tricorne",
+  "fg": [
+    "796_hat_cotton_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

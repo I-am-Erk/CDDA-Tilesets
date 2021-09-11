@@ -1,1 +1,10 @@
-{"id": "overlay_mutation_MUZZLE_LONG", "fg": ["2826_overlay_mutation_MUZZLE_LONG_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_mutation_MUZZLE_LONG",
+  "fg": [
+    "2826_overlay_mutation_MUZZLE_LONG_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

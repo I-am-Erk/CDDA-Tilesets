@@ -1,1 +1,10 @@
-{"id": "mon_dimorphodon", "fg": ["2665_mon_dimorphodon_0"], "rotates": false, "bg": []}
+{
+  "id": "mon_dimorphodon",
+  "fg": [
+    "2665_mon_dimorphodon_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

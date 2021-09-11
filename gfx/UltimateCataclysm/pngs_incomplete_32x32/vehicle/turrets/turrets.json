@@ -17,13 +17,7 @@
     "fg": "vp_machinegun_mounted_rotS",
     "bg": "bg_crows_rotS",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "vp_machinegun_mounted_rotS"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "vp_machinegun_mounted_rotS" } ]
   },
   {
     "id": [ "vp_mounted_emp_gun", "vp_mounted_plasma_gun", "vp_plasma_gun", "vp_laser_rifle" ],
@@ -31,13 +25,7 @@
     "fg": "vp_laser_rifle",
     "bg": "bg_crows_rotS",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "vp_laser_rifle"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "vp_laser_rifle" } ]
   },
   {
     "id": [ "vp_mounted_hk_g80", "vp_mounted_coilgun" ],
@@ -45,13 +33,7 @@
     "fg": "vp_mounted_hk_g80",
     "bg": "bg_crows_rotS",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "vp_mounted_hk_g80"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "vp_mounted_hk_g80" } ]
   },
   {
     "id": [ "vp_mounted_bigun", "vp_mounted_m134" ],
@@ -59,13 +41,7 @@
     "fg": "vp_machinegun_mounted_rotS",
     "bg": "bg_crows_rotS",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "vp_machinegun_mounted_rotS"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "vp_machinegun_mounted_rotS" } ]
   },
   {
     "id": [ "vp_watercannon", "vp_flamethrower", "vp_mounted_chemical_thrower" ],
@@ -73,13 +49,7 @@
     "fg": "vp_machinegun_mounted_rotS",
     "bg": "bg_crows_rotS",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "vp_machinegun_mounted_rotS"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "vp_machinegun_mounted_rotS" } ]
   },
   {
     "id": "vp_tow_launcher",
@@ -87,12 +57,6 @@
     "fg": "vp_machinegun_mounted_rotS",
     "bg": "bg_crows_rotS",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "vp_machinegun_mounted_rotS"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "vp_machinegun_mounted_rotS" } ]
   }
 ]

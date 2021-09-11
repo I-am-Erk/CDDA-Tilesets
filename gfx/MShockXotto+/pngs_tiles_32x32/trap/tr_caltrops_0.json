@@ -1,1 +1,10 @@
-{"id": "tr_caltrops", "fg": ["3922_tr_caltrops_0"], "rotates": false, "bg": []}
+{
+  "id": "tr_caltrops",
+  "fg": [
+    "3922_tr_caltrops_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

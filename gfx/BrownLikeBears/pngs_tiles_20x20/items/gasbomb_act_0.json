@@ -1,1 +1,11 @@
-{"id": "gasbomb_act", "fg": ["1540_gasbomb_act_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "gasbomb_act",
+  "fg": [
+    "1540_gasbomb_act_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

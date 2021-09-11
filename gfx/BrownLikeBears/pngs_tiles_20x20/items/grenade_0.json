@@ -1,1 +1,11 @@
-{"id": "grenade", "fg": ["1529_grenade_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "grenade",
+  "fg": [
+    "1529_grenade_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

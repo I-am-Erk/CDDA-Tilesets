@@ -1,1 +1,17 @@
-{"id": ["sneakers", "dance_shoes", "shoes_birchbark", "dress_shoes", "roller_shoes_on", "roller_shoes_off"], "fg": ["1857_sneakers_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "sneakers",
+    "dance_shoes",
+    "shoes_birchbark",
+    "dress_shoes",
+    "roller_shoes_on",
+    "roller_shoes_off"
+  ],
+  "fg": [
+    "1857_sneakers_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

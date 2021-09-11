@@ -1,1 +1,11 @@
-{"id": "helmet_plate", "fg": ["812_helmet_plate_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "helmet_plate",
+  "fg": [
+    "812_helmet_plate_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

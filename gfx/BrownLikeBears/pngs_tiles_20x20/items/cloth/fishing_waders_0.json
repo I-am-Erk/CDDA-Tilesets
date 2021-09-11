@@ -1,1 +1,11 @@
-{"id": "fishing_waders", "fg": ["745_fishing_waders_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "fishing_waders",
+  "fg": [
+    "745_fishing_waders_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

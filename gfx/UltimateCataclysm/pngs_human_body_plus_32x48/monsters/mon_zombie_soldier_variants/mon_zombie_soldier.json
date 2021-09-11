@@ -10,10 +10,7 @@
     "bg": "shadow_32x48_normal"
   },
   {
-    "id": [ 
-      "corpse_mon_zombie_soldier", 
-      "corpse_mon_zombie_military_pilot" 
-    ],
+    "id": [ "corpse_mon_zombie_soldier", "corpse_mon_zombie_military_pilot" ],
     "fg": "corpse_mon_zombie_soldier"
   }
 ]

@@ -1,1 +1,11 @@
-{"id": "hood_h20survivor", "fg": ["810_cowl_wool_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "hood_h20survivor",
+  "fg": [
+    "810_cowl_wool_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

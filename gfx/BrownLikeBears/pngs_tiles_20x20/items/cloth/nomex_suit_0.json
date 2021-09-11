@@ -1,1 +1,11 @@
-{"id": "nomex_suit", "fg": ["709_wetsuit_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "nomex_suit",
+  "fg": [
+    "709_wetsuit_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

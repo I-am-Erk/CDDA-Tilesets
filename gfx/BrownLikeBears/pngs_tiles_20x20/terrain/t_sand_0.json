@@ -1,1 +1,10 @@
-{"id": "t_sand", "bg": ["2_t_sand_0"], "rotates": false, "fg": []}
+{
+  "id": "t_sand",
+  "bg": [
+    "2_t_sand_0"
+  ],
+  "rotates": false,
+  "fg": [
+    
+  ]
+}

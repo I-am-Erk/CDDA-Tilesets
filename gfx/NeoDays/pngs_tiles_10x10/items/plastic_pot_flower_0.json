@@ -1,1 +1,10 @@
-{"id": "plastic_pot_flower", "fg": ["2008_plastic_pot_flower_0"], "rotates": false, "bg": []}
+{
+  "id": "plastic_pot_flower",
+  "fg": [
+    "2008_plastic_pot_flower_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

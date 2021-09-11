@@ -1,1 +1,11 @@
-{"id": "brick_kiln", "fg": ["1365_char_kiln_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "brick_kiln",
+  "fg": [
+    "1365_char_kiln_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

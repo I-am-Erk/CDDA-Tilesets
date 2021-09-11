@@ -1,1 +1,11 @@
-{"id": "kiwi", "fg": ["potato"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "kiwi",
+  "fg": [
+    "potato"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

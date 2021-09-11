@@ -1,1 +1,11 @@
-{"id": "onion_rings", "fg": ["1126_onion_rings_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "onion_rings",
+  "fg": [
+    "1126_onion_rings_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

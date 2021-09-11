@@ -1,1 +1,10 @@
-{"id": "glowstick_dead", "fg": ["1514_glowstick_dead_0"], "rotates": false, "bg": []}
+{
+  "id": "glowstick_dead",
+  "fg": [
+    "1514_glowstick_dead_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

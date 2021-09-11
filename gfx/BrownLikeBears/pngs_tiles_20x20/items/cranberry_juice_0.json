@@ -1,1 +1,10 @@
-{"id": "cranberry_juice", "fg": ["136_lemonade_0"], "rotates": false, "bg": []}
+{
+  "id": "cranberry_juice",
+  "fg": [
+    "136_lemonade_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

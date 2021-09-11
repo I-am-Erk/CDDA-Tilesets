@@ -1,1 +1,11 @@
-{"id": "gloves_winter", "fg": ["769_gloves_winter_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "gloves_winter",
+  "fg": [
+    "769_gloves_winter_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

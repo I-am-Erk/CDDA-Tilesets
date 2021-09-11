@@ -1,1 +1,10 @@
-{"id": "lake_shore", "fg": ["3126_lake_shore_0"], "rotates": false, "bg": []}
+{
+  "id": "lake_shore",
+  "fg": [
+    "3126_lake_shore_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

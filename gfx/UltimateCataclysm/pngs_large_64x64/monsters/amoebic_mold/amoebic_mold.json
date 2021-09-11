@@ -1,5 +1,9 @@
 {
   "id": "mon_gelatin",
-  "fg": ["mon_gelatin"],
-  "bg": ["shadow_64x64_medium"]
+  "fg": [
+    "mon_gelatin"
+  ],
+  "bg": [
+    "shadow_64x64_medium"
+  ]
 }

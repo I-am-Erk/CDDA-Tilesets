@@ -1,1 +1,11 @@
-{"id": "crossbow", "fg": ["527_hand_crossbow_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "crossbow",
+  "fg": [
+    "527_hand_crossbow_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

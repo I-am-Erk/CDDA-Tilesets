@@ -1,1 +1,11 @@
-{"id": "mbag", "fg": ["820_mbag_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "mbag",
+  "fg": [
+    "820_mbag_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

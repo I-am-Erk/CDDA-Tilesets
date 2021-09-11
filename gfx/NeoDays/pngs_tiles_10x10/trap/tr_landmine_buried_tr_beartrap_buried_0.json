@@ -1,1 +1,13 @@
-{"id": ["tr_landmine_buried", "tr_beartrap_buried"], "fg": ["841_tr_landmine_buried_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "tr_landmine_buried",
+    "tr_beartrap_buried"
+  ],
+  "fg": [
+    "841_tr_landmine_buried_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

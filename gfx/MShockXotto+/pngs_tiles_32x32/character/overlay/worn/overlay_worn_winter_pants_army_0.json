@@ -1,1 +1,10 @@
-{"id": "overlay_worn_winter_pants_army", "fg": ["833_overlay_worn_winter_pants_army_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_winter_pants_army",
+  "fg": [
+    "833_overlay_worn_winter_pants_army_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,10 @@
-{"id": "overlay_worn_sheath", "fg": ["758_overlay_worn_sheath_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_sheath",
+  "fg": [
+    "758_overlay_worn_sheath_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

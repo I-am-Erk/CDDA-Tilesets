@@ -1,1 +1,10 @@
-{"id": "thermos", "fg": ["1209_thermos_0"], "rotates": false, "bg": []}
+{
+  "id": "thermos",
+  "fg": [
+    "1209_thermos_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

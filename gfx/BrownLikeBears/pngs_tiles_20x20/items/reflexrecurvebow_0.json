@@ -1,1 +1,11 @@
-{"id": "reflexrecurvebow", "fg": ["526_selfbow_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "reflexrecurvebow",
+  "fg": [
+    "526_selfbow_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

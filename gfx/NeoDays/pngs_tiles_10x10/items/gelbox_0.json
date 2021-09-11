@@ -1,1 +1,10 @@
-{"id": "gelbox", "fg": ["3086_gelbox_0"], "rotates": false, "bg": []}
+{
+  "id": "gelbox",
+  "fg": [
+    "3086_gelbox_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

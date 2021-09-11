@@ -1,6 +1,10 @@
-  {
-    "id": "corpse_mon_zombie_beekeeper",
-    "fg": [ "corpse_mon_zombie_beekeeper" ],
-    "rotates": false,
-    "bg": [  ]
-  }
+{
+  "id": "corpse_mon_zombie_beekeeper",
+  "fg": [
+    "corpse_mon_zombie_beekeeper"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

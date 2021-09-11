@@ -1,1 +1,10 @@
-{"id": "t_ticket_vendor", "fg": ["3051_t_ticket_vendor_0"], "rotates": false, "bg": []}
+{
+  "id": "t_ticket_vendor",
+  "fg": [
+    "3051_t_ticket_vendor_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

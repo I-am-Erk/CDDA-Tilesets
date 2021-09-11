@@ -1,5 +1,9 @@
 {
   "id": "overlay_female_worn_geta",
-  "fg": ["geta_f"],
-  "bg": []
+  "fg": [
+    "geta_f"
+  ],
+  "bg": [
+    
+  ]
 }

@@ -1,1 +1,10 @@
-{"id": "triffid_sap_grenade", "fg": ["1152_triffid_sap_grenade_0"], "rotates": false, "bg": []}
+{
+  "id": "triffid_sap_grenade",
+  "fg": [
+    "1152_triffid_sap_grenade_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

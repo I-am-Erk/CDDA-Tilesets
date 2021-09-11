@@ -1,4 +1,6 @@
-[{
-	"id": [ "f_kiln_empty", "f_kiln_full" ],
-	"fg": "f_kiln_empty"
-}]
+[
+  {
+    "id": [ "f_kiln_empty", "f_kiln_full" ],
+    "fg": "f_kiln_empty"
+  }
+]

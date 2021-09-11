@@ -1,1 +1,10 @@
-{"id": "tarp", "fg": ["1720_tarp_0"], "rotates": false, "bg": []}
+{
+  "id": "tarp",
+  "fg": [
+    "1720_tarp_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

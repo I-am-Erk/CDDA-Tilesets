@@ -1,1 +1,11 @@
-{"id": "chestrig", "fg": ["757_chestrig_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "chestrig",
+  "fg": [
+    "757_chestrig_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

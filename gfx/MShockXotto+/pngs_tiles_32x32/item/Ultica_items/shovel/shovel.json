@@ -1,5 +1,9 @@
 {
   "id": "shovel",
-  "fg": ["shovel"],
-  "bg": []
+  "fg": [
+    "shovel"
+  ],
+  "bg": [
+    
+  ]
 }

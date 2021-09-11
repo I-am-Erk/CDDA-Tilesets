@@ -1,1 +1,11 @@
-{"id": "bipod", "fg": ["671_retool_45_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "bipod",
+  "fg": [
+    "671_retool_45_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

@@ -1,1 +1,11 @@
-{"id": "irradiated_broccoli", "fg": ["1038_broccoli_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "irradiated_broccoli",
+  "fg": [
+    "1038_broccoli_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

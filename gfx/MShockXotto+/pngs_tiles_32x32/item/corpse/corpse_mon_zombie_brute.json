@@ -1,6 +1,10 @@
-  {
-    "id": "corpse_mon_zombie_brute",
-    "fg": [ "corpse_mon_zombie_brute" ],
-    "rotates": false,
-    "bg": [  ]
-  }
+{
+  "id": "corpse_mon_zombie_brute",
+  "fg": [
+    "corpse_mon_zombie_brute"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

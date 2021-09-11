@@ -1,1 +1,11 @@
-{"id": "bleach", "fg": ["944_water_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "bleach",
+  "fg": [
+    "944_water_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

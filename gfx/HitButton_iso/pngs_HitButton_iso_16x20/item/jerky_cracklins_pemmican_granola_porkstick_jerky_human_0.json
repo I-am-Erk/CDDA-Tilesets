@@ -1,1 +1,16 @@
-{"id": ["jerky", "cracklins", "pemmican", "granola", "porkstick", "jerky_human"], "fg": ["1971_jerky_0"], "bg": []}
+{
+  "id": [
+    "jerky",
+    "cracklins",
+    "pemmican",
+    "granola",
+    "porkstick",
+    "jerky_human"
+  ],
+  "fg": [
+    "1971_jerky_0"
+  ],
+  "bg": [
+    
+  ]
+}

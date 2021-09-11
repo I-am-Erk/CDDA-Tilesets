@@ -1,5 +1,9 @@
 {
   "id": "stick",
-  "fg": ["heavy_stick"],
-  "bg": []
+  "fg": [
+    "heavy_stick"
+  ],
+  "bg": [
+    
+  ]
 }

@@ -1,1 +1,10 @@
-{"id": "vp_superalloy_plate", "fg": ["410_vp_superalloy_plate_0"], "rotates": true, "bg": []}
+{
+  "id": "vp_superalloy_plate",
+  "fg": [
+    "410_vp_superalloy_plate_0"
+  ],
+  "rotates": true,
+  "bg": [
+    
+  ]
+}

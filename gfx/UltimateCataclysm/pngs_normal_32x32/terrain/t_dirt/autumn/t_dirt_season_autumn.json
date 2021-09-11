@@ -34,14 +34,7 @@
       ],
       "bg": ""
     },
-    {
-      "id": "edge",
-      "fg": [
-        "t_dirt_season_autumn_edge_ns",
-        "t_dirt_season_autumn_edge_ew"
-      ],
-      "bg": ""
-    },
+    { "id": "edge", "fg": [ "t_dirt_season_autumn_edge_ns", "t_dirt_season_autumn_edge_ew" ], "bg": "" },
     {
       "id": "end_piece",
       "fg": [
@@ -54,10 +47,7 @@
     },
     {
       "id": "unconnected",
-      "fg": [
-        "t_dirt_season_autumn_unconnected",
-        "t_dirt_season_autumn_unconnected"
-      ],
+      "fg": [ "t_dirt_season_autumn_unconnected", "t_dirt_season_autumn_unconnected" ],
       "bg": ""
     }
   ]

@@ -1,1 +1,10 @@
-{"id": "overlay_mutation_MOUTH_TENTACLES", "fg": ["2825_overlay_mutation_MOUTH_TENTACLES_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_mutation_MOUTH_TENTACLES",
+  "fg": [
+    "2825_overlay_mutation_MOUTH_TENTACLES_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

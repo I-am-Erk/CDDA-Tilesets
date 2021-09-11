@@ -1,1 +1,11 @@
-{"id": "judo_belt_yellow", "fg": ["1974_judo_belt_yellow_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "judo_belt_yellow",
+  "fg": [
+    "1974_judo_belt_yellow_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

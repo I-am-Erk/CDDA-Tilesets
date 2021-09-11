@@ -1,1 +1,11 @@
-{"id": "throwing_axe", "fg": ["528_throwing_axe_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "throwing_axe",
+  "fg": [
+    "528_throwing_axe_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

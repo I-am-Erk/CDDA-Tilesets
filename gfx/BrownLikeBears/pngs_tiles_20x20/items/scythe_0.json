@@ -1,1 +1,11 @@
-{"id": "scythe", "fg": ["1333_scythe_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "scythe",
+  "fg": [
+    "1333_scythe_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

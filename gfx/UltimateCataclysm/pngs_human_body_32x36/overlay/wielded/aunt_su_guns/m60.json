@@ -1,5 +1,8 @@
 {
-  "id": [ "overlay_wielded_m60", "overlay_wielded_m60_semi" ],
+  "id": [
+    "overlay_wielded_m60",
+    "overlay_wielded_m60_semi"
+  ],
   "fg": "overlay_wielded_m60",
   "bg": ""
 }

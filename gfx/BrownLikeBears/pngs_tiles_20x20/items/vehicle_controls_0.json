@@ -1,1 +1,11 @@
-{"id": "vehicle_controls", "fg": ["413_controls_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "vehicle_controls",
+  "fg": [
+    "413_controls_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

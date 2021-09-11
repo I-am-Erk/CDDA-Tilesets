@@ -1,1 +1,11 @@
-{"id": "can_herring", "fg": ["604_gunpowder_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "can_herring",
+  "fg": [
+    "604_gunpowder_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

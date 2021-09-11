@@ -1,1 +1,10 @@
-{"id": "overlay_mutation_CEPH_EYES", "fg": ["overlay_mutation_CEPH_EYES"], "rotates": false, "bg": []}
+{
+  "id": "overlay_mutation_CEPH_EYES",
+  "fg": [
+    "overlay_mutation_CEPH_EYES"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

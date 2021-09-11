@@ -1,1 +1,11 @@
-{"id": "cookies", "fg": ["1094_cookies_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "cookies",
+  "fg": [
+    "1094_cookies_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

@@ -4,19 +4,10 @@
   "bg": "",
   "multitile": true,
   "additional_tiles": [
-    {
-      "id": "center",
-      "fg": "f_alien_table_center",
-      "bg": ""
-    },
+    { "id": "center", "fg": "f_alien_table_center", "bg": "" },
     {
       "id": "corner",
-      "fg": [
-        "f_alien_table_corner_nw",
-        "f_alien_table_corner_sw",
-        "f_alien_table_corner_se",
-        "f_alien_table_corner_ne"
-      ],
+      "fg": [ "f_alien_table_corner_nw", "f_alien_table_corner_sw", "f_alien_table_corner_se", "f_alien_table_corner_ne" ],
       "bg": ""
     },
     {
@@ -29,31 +20,12 @@
       ],
       "bg": ""
     },
-    {
-      "id": "edge",
-      "fg": [
-        "f_alien_table_edge_ns",
-        "f_alien_table_edge_ew"
-      ],
-      "bg": ""
-    },
+    { "id": "edge", "fg": [ "f_alien_table_edge_ns", "f_alien_table_edge_ew" ], "bg": "" },
     {
       "id": "end_piece",
-      "fg": [
-        "f_alien_table_end_piece_n",
-        "f_alien_table_end_piece_w",
-        "f_alien_table_end_piece_s",
-        "f_alien_table_end_piece_e"
-      ],
+      "fg": [ "f_alien_table_end_piece_n", "f_alien_table_end_piece_w", "f_alien_table_end_piece_s", "f_alien_table_end_piece_e" ],
       "bg": ""
     },
-    {
-      "id": "unconnected",
-      "fg": [
-        "f_alien_table_unconnected",
-        "f_alien_table_unconnected"
-      ],
-      "bg": ""
-    }
+    { "id": "unconnected", "fg": [ "f_alien_table_unconnected", "f_alien_table_unconnected" ], "bg": "" }
   ]
 }

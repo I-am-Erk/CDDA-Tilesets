@@ -1,1 +1,10 @@
-{"id": "overlay_male_wielded_nailgun", "fg": ["3391_overlay_male_wielded_nailgun_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_male_wielded_nailgun",
+  "fg": [
+    "3391_overlay_male_wielded_nailgun_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

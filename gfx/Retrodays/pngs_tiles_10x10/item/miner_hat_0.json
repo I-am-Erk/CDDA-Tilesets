@@ -1,1 +1,10 @@
-{"id": "miner_hat", "fg": ["1762_miner_hat_0"], "rotates": false, "bg": []}
+{
+  "id": "miner_hat",
+  "fg": [
+    "1762_miner_hat_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,10 @@
-{"id": "overlay_worn_trenchcoat_leather", "fg": ["817_overlay_worn_trenchcoat_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_trenchcoat_leather",
+  "fg": [
+    "817_overlay_worn_trenchcoat_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

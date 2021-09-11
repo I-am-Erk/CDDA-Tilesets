@@ -1,1 +1,10 @@
-{"id": "flashbang", "fg": ["1203_flashbang_0"], "rotates": false, "bg": []}
+{
+  "id": "flashbang",
+  "fg": [
+    "1203_flashbang_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

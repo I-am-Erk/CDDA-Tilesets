@@ -1,1 +1,14 @@
-{"id": ["gasdiscount_silver", "gasdiscount_gold", "gasdiscount_platinum", "cash_card"], "fg": ["2095_gasdiscount_silver_0"], "bg": []}
+{
+  "id": [
+    "gasdiscount_silver",
+    "gasdiscount_gold",
+    "gasdiscount_platinum",
+    "cash_card"
+  ],
+  "fg": [
+    "2095_gasdiscount_silver_0"
+  ],
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,13 @@
-{"id": ["tailors_kit", "sewing_kit"], "fg": ["1612_tailors_kit_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "tailors_kit",
+    "sewing_kit"
+  ],
+  "fg": [
+    "1612_tailors_kit_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

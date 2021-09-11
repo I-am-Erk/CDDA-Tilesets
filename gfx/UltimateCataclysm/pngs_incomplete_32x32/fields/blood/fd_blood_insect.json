@@ -1,22 +1,16 @@
 {
-  "id": ["fd_blood_insect", "fd_blood_invertebrate"],
+  "id": [
+    "fd_blood_insect",
+    "fd_blood_invertebrate"
+  ],
   "fg": "fd_blood_insect_unconnected",
   "bg": "",
   "multitile": true,
   "additional_tiles": [
-    {
-      "id": "center",
-      "fg": "fd_blood_insect_center",
-      "bg": ""
-    },
+    { "id": "center", "fg": "fd_blood_insect_center", "bg": "" },
     {
       "id": "corner",
-      "fg": [
-        "fd_blood_insect_corner_nw",
-        "fd_blood_insect_corner_sw",
-        "fd_blood_insect_corner_se",
-        "fd_blood_insect_corner_ne"
-      ],
+      "fg": [ "fd_blood_insect_corner_nw", "fd_blood_insect_corner_sw", "fd_blood_insect_corner_se", "fd_blood_insect_corner_ne" ],
       "bg": ""
     },
     {
@@ -29,14 +23,7 @@
       ],
       "bg": ""
     },
-    {
-      "id": "edge",
-      "fg": [
-        "fd_blood_insect_edge_ns",
-        "fd_blood_insect_edge_ew"
-      ],
-      "bg": ""
-    },
+    { "id": "edge", "fg": [ "fd_blood_insect_edge_ns", "fd_blood_insect_edge_ew" ], "bg": "" },
     {
       "id": "end_piece",
       "fg": [
@@ -47,13 +34,6 @@
       ],
       "bg": ""
     },
-    {
-      "id": "unconnected",
-      "fg": [
-        "fd_blood_insect_unconnected",
-        "fd_blood_insect_unconnected"
-      ],
-      "bg": ""
-    }
+    { "id": "unconnected", "fg": [ "fd_blood_insect_unconnected", "fd_blood_insect_unconnected" ], "bg": "" }
   ]
 }

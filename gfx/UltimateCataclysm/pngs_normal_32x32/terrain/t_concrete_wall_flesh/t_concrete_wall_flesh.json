@@ -3,10 +3,7 @@
   "fg": "t_concrete_wall_flesh_unconnected",
   "multitile": true,
   "additional_tiles": [
-    {
-      "id": "center",
-      "fg": "t_concrete_wall_flesh_center"
-    },
+    { "id": "center", "fg": "t_concrete_wall_flesh_center" },
     {
       "id": "corner",
       "fg": [
@@ -25,13 +22,7 @@
         "t_concrete_wall_flesh_t_connection_e"
       ]
     },
-    {
-      "id": "edge",
-      "fg": [
-        "t_concrete_wall_flesh_edge_ns",
-        "t_concrete_wall_flesh_edge_ew"
-      ]
-    },
+    { "id": "edge", "fg": [ "t_concrete_wall_flesh_edge_ns", "t_concrete_wall_flesh_edge_ew" ] },
     {
       "id": "end_piece",
       "fg": [
@@ -41,12 +32,6 @@
         "t_concrete_wall_flesh_end_piece_e"
       ]
     },
-    {
-      "id": "unconnected",
-      "fg": [
-        "t_concrete_wall_flesh_unconnected",
-        "t_concrete_wall_flesh_unconnected"
-      ]
-    }
+    { "id": "unconnected", "fg": [ "t_concrete_wall_flesh_unconnected", "t_concrete_wall_flesh_unconnected" ] }
   ]
 }

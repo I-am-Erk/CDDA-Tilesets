@@ -1,1 +1,10 @@
-{"id": "aspirin", "fg": ["289_aspirin_0"], "rotates": false, "bg": []}
+{
+  "id": "aspirin",
+  "fg": [
+    "289_aspirin_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

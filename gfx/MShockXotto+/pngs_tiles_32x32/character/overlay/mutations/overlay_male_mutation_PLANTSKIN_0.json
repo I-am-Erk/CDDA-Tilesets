@@ -1,1 +1,13 @@
-{"id": ["overlay_male_mutation_CHLOROMORPH","overlay_male_mutation_PLANTSKIN"], "fg": ["overlay_male_mutation_CHLOROMORPH"], "rotates": false, "bg": []}
+{
+  "id": [
+    "overlay_male_mutation_CHLOROMORPH",
+    "overlay_male_mutation_PLANTSKIN"
+  ],
+  "fg": [
+    "overlay_male_mutation_CHLOROMORPH"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

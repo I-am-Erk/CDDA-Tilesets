@@ -3,10 +3,7 @@
   "fg": "t_carpet_red_season_autumn_unconnected",
   "multitile": true,
   "additional_tiles": [
-    {
-      "id": "center",
-      "fg": "t_carpet_red_season_autumn_center"
-    },
+    { "id": "center", "fg": "t_carpet_red_season_autumn_center" },
     {
       "id": "corner",
       "fg": [
@@ -25,13 +22,7 @@
         "t_carpet_red_season_autumn_t_connection_e"
       ]
     },
-    {
-      "id": "edge",
-      "fg": [
-        "t_carpet_red_season_autumn_edge_ns",
-        "t_carpet_red_season_autumn_edge_ew"
-      ]
-    },
+    { "id": "edge", "fg": [ "t_carpet_red_season_autumn_edge_ns", "t_carpet_red_season_autumn_edge_ew" ] },
     {
       "id": "end_piece",
       "fg": [
@@ -43,10 +34,7 @@
     },
     {
       "id": "unconnected",
-      "fg": [
-        "t_carpet_red_season_autumn_unconnected",
-        "t_carpet_red_season_autumn_unconnected"
-      ]
+      "fg": [ "t_carpet_red_season_autumn_unconnected", "t_carpet_red_season_autumn_unconnected" ]
     }
   ]
 }

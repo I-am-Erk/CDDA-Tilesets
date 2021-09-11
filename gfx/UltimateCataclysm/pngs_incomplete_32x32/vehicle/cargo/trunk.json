@@ -3,25 +3,13 @@
     "id": "vp_box",
     "fg": [ "vp_box", "vp_box_rot" ],
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": [ "vp_box", "vp_box_rot" ]
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": [ "vp_box", "vp_box_rot" ] } ]
   },
   {
     "id": "vp_wood box",
     "fg": [ "vp_wood_box_rotNS", "vp_wood_box_rotEW" ],
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": [ "vp_wood_box_rotNS", "vp_wood_box_rotEW" ]
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": [ "vp_wood_box_rotNS", "vp_wood_box_rotEW" ] } ]
   },
   {
     "id": "vp_box_wheelbarrow",
@@ -39,36 +27,18 @@
     "id": "vp_trunk",
     "fg": "vp_trunk",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "vp_trunk"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "vp_trunk" } ]
   },
   {
     "id": "vp_trunk_rear_edge",
     "fg": "vp_trunk_rear_edge",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "vp_trunk_rear_edge"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "vp_trunk_rear_edge" } ]
   },
   {
-    "id": ["vp_cargo_space", "animal_compartment"],
+    "id": [ "vp_cargo_space", "animal_compartment" ],
     "fg": "vp_cargo_space",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "vp_cargo_space"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "vp_cargo_space" } ]
   }
 ]

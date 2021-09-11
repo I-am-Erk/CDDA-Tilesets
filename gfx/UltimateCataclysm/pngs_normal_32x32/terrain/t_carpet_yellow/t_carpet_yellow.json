@@ -4,20 +4,11 @@
   "fg": "t_carpet_yellow_unconnected",
   "bg": "",
   "additional_tiles": [
-    {
-      "id": "center",
-      "bg": "",
-      "fg": "t_carpet_yellow_center"
-    },
+    { "id": "center", "bg": "", "fg": "t_carpet_yellow_center" },
     {
       "id": "corner",
       "bg": "",
-      "fg": [
-        "t_carpet_yellow_corner_nw",
-        "t_carpet_yellow_corner_sw",
-        "t_carpet_yellow_corner_se",
-        "t_carpet_yellow_corner_ne"
-      ]
+      "fg": [ "t_carpet_yellow_corner_nw", "t_carpet_yellow_corner_sw", "t_carpet_yellow_corner_se", "t_carpet_yellow_corner_ne" ]
     },
     {
       "id": "t_connection",
@@ -29,14 +20,7 @@
         "t_carpet_yellow_t_connection_e"
       ]
     },
-    {
-      "id": "edge",
-      "bg": "",
-      "fg": [
-        "t_carpet_yellow_edge_ns",
-        "t_carpet_yellow_edge_ew"
-      ]
-    },
+    { "id": "edge", "bg": "", "fg": [ "t_carpet_yellow_edge_ns", "t_carpet_yellow_edge_ew" ] },
     {
       "id": "end_piece",
       "bg": "",
@@ -47,10 +31,6 @@
         "t_carpet_yellow_end_piece_e"
       ]
     },
-    {
-      "bg": "",
-      "id": "unconnected",
-      "fg": "t_carpet_yellow_unconnected"
-    }
+    { "bg": "", "id": "unconnected", "fg": "t_carpet_yellow_unconnected" }
   ]
 }

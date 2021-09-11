@@ -1,1 +1,10 @@
-{"id": "f_mutcactus_test", "fg": ["1544_f_mutcactus_test_0"], "bg": ["967_f_mutcactus_test_1"], "rotates": false}
+{
+  "id": "f_mutcactus_test",
+  "fg": [
+    "1544_f_mutcactus_test_0"
+  ],
+  "bg": [
+    "967_f_mutcactus_test_1"
+  ],
+  "rotates": false
+}

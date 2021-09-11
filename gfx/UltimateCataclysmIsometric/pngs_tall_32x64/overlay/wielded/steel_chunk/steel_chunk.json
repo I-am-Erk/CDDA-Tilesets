@@ -1,5 +1,9 @@
 {
   "id": "overlay_wielded_steel_chunk",
-  "fg": ["chunk_mf"],
-  "bg": []
+  "fg": [
+    "chunk_mf"
+  ],
+  "bg": [
+    
+  ]
 }

@@ -1,1 +1,13 @@
-{"id": ["t_rdoor_b"], "multitile": true, "fg": ["808_t_rdoor_b_0", "809_t_rdoor_b_1"], "bg": []}
+{
+  "id": [
+    "t_rdoor_b"
+  ],
+  "multitile": true,
+  "fg": [
+    "808_t_rdoor_b_0",
+    "809_t_rdoor_b_1"
+  ],
+  "bg": [
+    
+  ]
+}

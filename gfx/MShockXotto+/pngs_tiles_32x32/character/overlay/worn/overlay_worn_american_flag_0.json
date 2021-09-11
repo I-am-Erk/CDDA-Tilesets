@@ -1,1 +1,10 @@
-{"id": "overlay_worn_american_flag", "fg": ["516_overlay_worn_american_flag_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_american_flag",
+  "fg": [
+    "516_overlay_worn_american_flag_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

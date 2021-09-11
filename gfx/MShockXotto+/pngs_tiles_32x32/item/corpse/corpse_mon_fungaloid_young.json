@@ -1,6 +1,10 @@
-  {
-    "id": "corpse_mon_fungaloid_young",
-    "fg": [ "corpse_mon_fungaloid_young" ],
-    "rotates": false,
-    "bg": [  ]
-  }
+{
+  "id": "corpse_mon_fungaloid_young",
+  "fg": [
+    "corpse_mon_fungaloid_young"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

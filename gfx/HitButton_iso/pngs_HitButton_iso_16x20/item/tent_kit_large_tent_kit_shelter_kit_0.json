@@ -1,1 +1,13 @@
-{"id": ["tent_kit", "large_tent_kit", "shelter_kit"], "fg": ["2139_tent_kit_0"], "bg": []}
+{
+  "id": [
+    "tent_kit",
+    "large_tent_kit",
+    "shelter_kit"
+  ],
+  "fg": [
+    "2139_tent_kit_0"
+  ],
+  "bg": [
+    
+  ]
+}

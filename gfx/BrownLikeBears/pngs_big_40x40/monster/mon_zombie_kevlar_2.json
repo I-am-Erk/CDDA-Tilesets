@@ -1,6 +1,10 @@
-  {
-    "id": "mon_zombie_kevlar_2",
-    "fg": [ "mon_zombie_kevlar_2" ],
-    "rotates": false,
-    "bg": [  ]
-  }
+{
+  "id": "mon_zombie_kevlar_2",
+  "fg": [
+    "mon_zombie_kevlar_2"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

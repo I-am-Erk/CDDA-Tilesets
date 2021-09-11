@@ -1,1 +1,11 @@
-{"id": "savage_111f", "fg": ["1378_bbgun_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "savage_111f",
+  "fg": [
+    "1378_bbgun_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

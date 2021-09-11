@@ -1,1 +1,10 @@
-{"id": "t_guardrail_bg_dp", "fg": ["t_metal_railing_unconnected"], "rotates": true, "bg": ["3_t_sidewalk_0"]}
+{
+  "id": "t_guardrail_bg_dp",
+  "fg": [
+    "t_metal_railing_unconnected"
+  ],
+  "rotates": true,
+  "bg": [
+    "3_t_sidewalk_0"
+  ]
+}

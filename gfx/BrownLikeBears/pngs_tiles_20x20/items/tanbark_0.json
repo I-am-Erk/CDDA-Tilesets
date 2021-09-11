@@ -1,1 +1,11 @@
-{"id": "tanbark", "fg": ["1834_fur_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "tanbark",
+  "fg": [
+    "1834_fur_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

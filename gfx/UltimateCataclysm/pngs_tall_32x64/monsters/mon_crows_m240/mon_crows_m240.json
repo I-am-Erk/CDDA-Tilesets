@@ -1,5 +1,7 @@
-[{
-  "id": "mon_crows_m240",
-  "fg": "mon_crows_m240",
-  "bg": "shadow_32x64_normal"
-}]
+[
+  {
+    "id": "mon_crows_m240",
+    "fg": "mon_crows_m240",
+    "bg": "shadow_32x64_normal"
+  }
+]

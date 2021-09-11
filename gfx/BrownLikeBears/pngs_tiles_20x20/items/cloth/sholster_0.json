@@ -1,1 +1,11 @@
-{"id": "sholster", "fg": ["823_bootstrap_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "sholster",
+  "fg": [
+    "823_bootstrap_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

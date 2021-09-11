@@ -1,1 +1,11 @@
-{"id": "cot", "fg": ["1577_cot_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "cot",
+  "fg": [
+    "1577_cot_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

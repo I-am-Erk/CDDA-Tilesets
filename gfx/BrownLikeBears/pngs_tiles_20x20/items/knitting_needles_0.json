@@ -1,1 +1,11 @@
-{"id": "knitting_needles", "fg": ["splinter"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "knitting_needles",
+  "fg": [
+    "splinter"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

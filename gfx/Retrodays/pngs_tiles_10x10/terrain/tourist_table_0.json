@@ -1,1 +1,10 @@
-{"id": "tourist_table", "fg": ["705_tourist_table_0"], "rotates": false, "bg": []}
+{
+  "id": "tourist_table",
+  "fg": [
+    "705_tourist_table_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

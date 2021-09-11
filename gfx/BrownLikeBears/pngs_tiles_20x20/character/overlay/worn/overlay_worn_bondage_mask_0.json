@@ -1,1 +1,10 @@
-{"id": "overlay_worn_bondage_mask", "fg": ["2737_overlay_worn_bondage_mask_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_bondage_mask",
+  "fg": [
+    "2737_overlay_worn_bondage_mask_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

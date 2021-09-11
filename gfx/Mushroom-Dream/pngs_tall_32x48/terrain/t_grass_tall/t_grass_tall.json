@@ -4,19 +4,10 @@
   "bg": "",
   "multitile": true,
   "additional_tiles": [
-    {
-      "id": "center",
-      "fg": "t_grass_tall_center",
-      "bg": ""
-    },
+    { "id": "center", "fg": "t_grass_tall_center", "bg": "" },
     {
       "id": "corner",
-      "fg": [
-        "t_grass_tall_corner_nw",
-        "t_grass_tall_corner_sw",
-        "t_grass_tall_corner_se",
-        "t_grass_tall_corner_ne"
-      ],
+      "fg": [ "t_grass_tall_corner_nw", "t_grass_tall_corner_sw", "t_grass_tall_corner_se", "t_grass_tall_corner_ne" ],
       "bg": ""
     },
     {
@@ -29,31 +20,12 @@
       ],
       "bg": ""
     },
-    {
-      "id": "edge",
-      "fg": [
-        "t_grass_tall_edge_ns",
-        "t_grass_tall_edge_ew"
-      ],
-      "bg": ""
-    },
+    { "id": "edge", "fg": [ "t_grass_tall_edge_ns", "t_grass_tall_edge_ew" ], "bg": "" },
     {
       "id": "end_piece",
-      "fg": [
-        "t_grass_tall_end_piece_n",
-        "t_grass_tall_end_piece_w",
-        "t_grass_tall_end_piece_s",
-        "t_grass_tall_end_piece_e"
-      ],
+      "fg": [ "t_grass_tall_end_piece_n", "t_grass_tall_end_piece_w", "t_grass_tall_end_piece_s", "t_grass_tall_end_piece_e" ],
       "bg": ""
     },
-    {
-      "id": "unconnected",
-      "fg": [
-        "t_grass_tall_unconnected",
-        "t_grass_tall_unconnected"
-      ],
-      "bg": ""
-    }
+    { "id": "unconnected", "fg": [ "t_grass_tall_unconnected", "t_grass_tall_unconnected" ], "bg": "" }
   ]
 }

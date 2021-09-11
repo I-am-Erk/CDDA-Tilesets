@@ -1,5 +1,9 @@
 {
   "id": "f_mailbox",
-  "fg": ["f_mailbox"],
-  "bg": []
+  "fg": [
+    "f_mailbox"
+  ],
+  "bg": [
+    
+  ]
 }

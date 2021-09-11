@@ -1,1 +1,13 @@
-{"id": ["throw_extinguisher", "extinguisher", "sm_extinguisher"], "fg": ["2099_throw_extinguisher_0"], "bg": []}
+{
+  "id": [
+    "throw_extinguisher",
+    "extinguisher",
+    "sm_extinguisher"
+  ],
+  "fg": [
+    "2099_throw_extinguisher_0"
+  ],
+  "bg": [
+    
+  ]
+}

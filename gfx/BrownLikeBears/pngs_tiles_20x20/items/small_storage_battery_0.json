@@ -1,1 +1,10 @@
-{"id": "small_storage_battery", "fg": ["369_small_storage_battery_0"], "rotates": false, "bg": []}
+{
+  "id": "small_storage_battery",
+  "fg": [
+    "369_small_storage_battery_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

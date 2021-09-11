@@ -1,1 +1,10 @@
-{"id": "overlay_worn_cloak_fur", "fg": ["752_overlay_worn_robe_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_cloak_fur",
+  "fg": [
+    "752_overlay_worn_robe_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,5 +1,7 @@
-[{
-	"id": "crater",
-	"fg": "t_pit",
-	"bg": "field"
-}]
+[
+  {
+    "id": "crater",
+    "fg": "t_pit",
+    "bg": "field"
+  }
+]

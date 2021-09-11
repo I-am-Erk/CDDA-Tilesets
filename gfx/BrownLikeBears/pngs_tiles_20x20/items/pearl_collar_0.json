@@ -1,1 +1,11 @@
-{"id": "pearl_collar", "fg": ["1198_pearl_collar_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "pearl_collar",
+  "fg": [
+    "1198_pearl_collar_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

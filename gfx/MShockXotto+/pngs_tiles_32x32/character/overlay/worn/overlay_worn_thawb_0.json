@@ -1,1 +1,10 @@
-{"id": "overlay_worn_thawb", "fg": ["813_overlay_worn_thawb_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_thawb",
+  "fg": [
+    "813_overlay_worn_thawb_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

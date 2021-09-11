@@ -1,1 +1,10 @@
-{"id": "dusksword", "fg": ["1472_dusksword_0"], "rotates": false, "bg": []}
+{
+  "id": "dusksword",
+  "fg": [
+    "1472_dusksword_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

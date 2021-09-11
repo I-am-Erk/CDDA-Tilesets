@@ -1,1 +1,11 @@
-{"id": "diveknife", "fg": ["1598_knife_steak_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "diveknife",
+  "fg": [
+    "1598_knife_steak_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

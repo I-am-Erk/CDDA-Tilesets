@@ -1,1 +1,10 @@
-{"id": "mon_bear_mega_baby", "fg": ["3973_mon_bear_mega_baby_0"], "bg": [""], "rotates": false}
+{
+  "id": "mon_bear_mega_baby",
+  "fg": [
+    "3973_mon_bear_mega_baby_0"
+  ],
+  "bg": [
+    ""
+  ],
+  "rotates": false
+}

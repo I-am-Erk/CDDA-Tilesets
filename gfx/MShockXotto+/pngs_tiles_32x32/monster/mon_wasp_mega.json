@@ -1,1 +1,9 @@
-{"id": "mon_wasp_mega", "fg": ["2655_mon_wasp_mega"], "bg": []}
+{
+  "id": "mon_wasp_mega",
+  "fg": [
+    "2655_mon_wasp_mega"
+  ],
+  "bg": [
+    
+  ]
+}

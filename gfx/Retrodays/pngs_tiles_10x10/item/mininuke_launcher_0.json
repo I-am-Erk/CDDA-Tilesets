@@ -1,1 +1,10 @@
-{"id": "mininuke_launcher", "fg": ["1370_mininuke_launcher_0"], "rotates": false, "bg": []}
+{
+  "id": "mininuke_launcher",
+  "fg": [
+    "1370_mininuke_launcher_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

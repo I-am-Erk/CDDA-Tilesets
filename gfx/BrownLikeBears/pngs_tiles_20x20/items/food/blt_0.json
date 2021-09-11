@@ -1,1 +1,11 @@
-{"id": "blt", "fg": ["1069_sandwich_pbj_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "blt",
+  "fg": [
+    "1069_sandwich_pbj_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

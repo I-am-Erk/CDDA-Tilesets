@@ -1,1 +1,11 @@
-{"id": "toasterpastryfrozen", "fg": ["1076_fish_bait_bread_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "toasterpastryfrozen",
+  "fg": [
+    "1076_fish_bait_bread_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

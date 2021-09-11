@@ -1,5 +1,9 @@
 {
   "id": "hotplate",
-  "fg": ["hotplate"],
-  "bg": []
+  "fg": [
+    "hotplate"
+  ],
+  "bg": [
+    
+  ]
 }

@@ -219,7 +219,7 @@
       "urban_13_11",
       "urban_13_12"
     ],
-    "fg": [ "otr_house_1_faceN", "otr_house_1_faceE", "otr_house_1_faceS", "otr_house_1_faceW" ], 
+    "fg": [ "otr_house_1_faceN", "otr_house_1_faceE", "otr_house_1_faceS", "otr_house_1_faceW" ],
     "bg": "field",
     "rotates": true
   }

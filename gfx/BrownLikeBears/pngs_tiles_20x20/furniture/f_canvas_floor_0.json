@@ -1,1 +1,10 @@
-{"id": "f_canvas_floor", "bg": ["bg_skylight"], "rotates": false, "fg": []}
+{
+  "id": "f_canvas_floor",
+  "bg": [
+    "bg_skylight"
+  ],
+  "rotates": false,
+  "fg": [
+    
+  ]
+}

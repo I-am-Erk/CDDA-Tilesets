@@ -1,1 +1,11 @@
-{"id": "molotov", "fg": ["1544_molotov_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "molotov",
+  "fg": [
+    "1544_molotov_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

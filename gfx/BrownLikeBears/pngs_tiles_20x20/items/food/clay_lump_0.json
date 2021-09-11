@@ -1,1 +1,11 @@
-{"id": "clay_lump", "fg": ["1023_chocolate_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "clay_lump",
+  "fg": [
+    "1023_chocolate_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

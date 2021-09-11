@@ -1,1 +1,11 @@
-{"id": "tuned_mechanism", "fg": ["671_retool_45_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "tuned_mechanism",
+  "fg": [
+    "671_retool_45_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

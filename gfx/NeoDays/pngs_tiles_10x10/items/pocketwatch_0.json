@@ -1,1 +1,10 @@
-{"id": "pocketwatch", "fg": ["1399_pocketwatch_0"], "rotates": false, "bg": []}
+{
+  "id": "pocketwatch",
+  "fg": [
+    "1399_pocketwatch_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,11 @@
-{"id": "mask_ski_loose", "fg": ["800_balclava_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "mask_ski_loose",
+  "fg": [
+    "800_balclava_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

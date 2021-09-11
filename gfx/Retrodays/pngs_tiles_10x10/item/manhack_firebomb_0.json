@@ -1,1 +1,10 @@
-{"id": "manhack_firebomb", "fg": ["2466_manhack_firebomb_0"], "rotates": false, "bg": []}
+{
+  "id": "manhack_firebomb",
+  "fg": [
+    "2466_manhack_firebomb_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

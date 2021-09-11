@@ -1,1 +1,10 @@
-{"id": "holybook_mormon", "fg": ["888_mag_dude_0"], "rotates": false, "bg": []}
+{
+  "id": "holybook_mormon",
+  "fg": [
+    "888_mag_dude_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

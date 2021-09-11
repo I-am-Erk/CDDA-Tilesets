@@ -1,1 +1,10 @@
-{"id": "overlay_worn_rebreather_xl", "fg": ["overlay_worn_rebreather"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_rebreather_xl",
+  "fg": [
+    "overlay_worn_rebreather"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

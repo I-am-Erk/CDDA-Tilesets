@@ -2,11 +2,11 @@
   {
     "id": "bone",
     "fg": [ "bone" ],
-    "bg": []
+    "bg": [  ]
   },
   {
     "id": "bone_tainted",
     "fg": [ "bone_tainted" ],
-    "bg": []
+    "bg": [  ]
   }
 ]

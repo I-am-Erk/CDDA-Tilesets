@@ -1,5 +1,9 @@
 {
   "id": "mjolnir",
-  "fg": ["mjolnir"],
-  "bg": []
+  "fg": [
+    "mjolnir"
+  ],
+  "bg": [
+    
+  ]
 }

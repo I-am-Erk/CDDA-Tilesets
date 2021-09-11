@@ -1,1 +1,11 @@
-{"id": "boots_fur", "fg": ["678_boots_fur_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "boots_fur",
+  "fg": [
+    "678_boots_fur_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

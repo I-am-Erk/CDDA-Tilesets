@@ -19,6 +19,8 @@
     { "weight": 1, "sprite": "mon_zombie_child_16" },
     { "weight": 1, "sprite": "mon_zombie_child_17" }
   ],
-  "bg": ["shadow_32x32_normal"],
+  "bg": [
+    "shadow_32x32_normal"
+  ],
   "rotates": false
 }

@@ -1,1 +1,13 @@
-{"id": ["irradiated_tomato", "tomato"], "fg": ["916_irradiated_tomato_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "irradiated_tomato",
+    "tomato"
+  ],
+  "fg": [
+    "916_irradiated_tomato_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

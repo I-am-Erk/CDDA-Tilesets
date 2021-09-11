@@ -1,1 +1,11 @@
-{"id": "leather_belt", "fg": ["917_leather_belt_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "leather_belt",
+  "fg": [
+    "917_leather_belt_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

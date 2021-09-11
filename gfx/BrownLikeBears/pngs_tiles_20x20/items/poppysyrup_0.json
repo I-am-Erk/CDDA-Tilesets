@@ -1,1 +1,11 @@
-{"id": "poppysyrup", "fg": ["948_energy_drink_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "poppysyrup",
+  "fg": [
+    "948_energy_drink_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

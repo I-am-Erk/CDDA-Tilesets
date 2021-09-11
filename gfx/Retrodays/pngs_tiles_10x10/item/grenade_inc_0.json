@@ -1,1 +1,10 @@
-{"id": "grenade_inc", "fg": ["1204_grenade_inc_0"], "rotates": false, "bg": []}
+{
+  "id": "grenade_inc",
+  "fg": [
+    "1204_grenade_inc_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

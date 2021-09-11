@@ -1,1 +1,9 @@
-{"id": "t_door_locked_peep", "fg": ["4015_vp_door_wood_0"], "bg": []}
+{
+  "id": "t_door_locked_peep",
+  "fg": [
+    "4015_vp_door_wood_0"
+  ],
+  "bg": [
+    
+  ]
+}

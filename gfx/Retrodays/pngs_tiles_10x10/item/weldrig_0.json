@@ -1,1 +1,10 @@
-{"id": "weldrig", "fg": ["2350_vp_welding_rig_0"], "rotates": false, "bg": []}
+{
+  "id": "weldrig",
+  "fg": [
+    "2350_vp_welding_rig_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

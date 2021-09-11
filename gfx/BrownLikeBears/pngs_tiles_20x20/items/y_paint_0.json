@@ -1,1 +1,11 @@
-{"id": "y_paint", "fg": ["1254_y_paint_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "y_paint",
+  "fg": [
+    "1254_y_paint_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

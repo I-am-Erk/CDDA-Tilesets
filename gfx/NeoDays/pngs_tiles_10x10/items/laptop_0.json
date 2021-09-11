@@ -1,1 +1,10 @@
-{"id": "laptop", "fg": ["1458_laptop_0"], "rotates": false, "bg": []}
+{
+  "id": "laptop",
+  "fg": [
+    "1458_laptop_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

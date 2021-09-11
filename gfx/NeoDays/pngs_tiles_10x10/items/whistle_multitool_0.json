@@ -1,1 +1,10 @@
-{"id": "whistle_multitool", "fg": ["1655_whistle_multitool_0"], "rotates": false, "bg": []}
+{
+  "id": "whistle_multitool",
+  "fg": [
+    "1655_whistle_multitool_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

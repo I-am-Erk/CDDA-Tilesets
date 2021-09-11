@@ -1,1 +1,11 @@
-{"id": "rebreather_filter", "fg": ["525_plasma_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "rebreather_filter",
+  "fg": [
+    "525_plasma_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

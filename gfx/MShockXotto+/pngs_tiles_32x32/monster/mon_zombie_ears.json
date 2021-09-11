@@ -3,5 +3,7 @@
   "fg": [
     "mon_zombie_ears"
   ],
-  "bg": ["shadow_32x32_normal"]
+  "bg": [
+    "shadow_32x32_normal"
+  ]
 }

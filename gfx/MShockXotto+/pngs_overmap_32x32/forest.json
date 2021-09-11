@@ -1,16 +1,10 @@
 [
-{
-	"id": [
-	"forest",
-	"special_forest"
-	],
-	"fg": "forest"	
-},
-{
-	"id": [
-	"forest_thick",
-	"special_forest_thick"
-	],
-	"fg": "forest_thick"
-}
+  {
+    "id": [ "forest", "special_forest" ],
+    "fg": "forest"
+  },
+  {
+    "id": [ "forest_thick", "special_forest_thick" ],
+    "fg": "forest_thick"
+  }
 ]

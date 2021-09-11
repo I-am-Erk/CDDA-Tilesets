@@ -1,1 +1,10 @@
-{"id": "overlay_worn_revenant_crown", "fg": ["3880_overlay_worn_revenant_crown_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_revenant_crown",
+  "fg": [
+    "3880_overlay_worn_revenant_crown_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

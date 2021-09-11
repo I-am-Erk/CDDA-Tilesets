@@ -1,1 +1,11 @@
-{"id": "pale_ale", "fg": ["945_sewage_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "pale_ale",
+  "fg": [
+    "945_sewage_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

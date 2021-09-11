@@ -1,1 +1,14 @@
-{"id": ["fish_smoked", "meat_smoked", "human_smoked", "mre_beef"], "fg": ["1952_fish_smoked_0"], "bg": []}
+{
+  "id": [
+    "fish_smoked",
+    "meat_smoked",
+    "human_smoked",
+    "mre_beef"
+  ],
+  "fg": [
+    "1952_fish_smoked_0"
+  ],
+  "bg": [
+    
+  ]
+}

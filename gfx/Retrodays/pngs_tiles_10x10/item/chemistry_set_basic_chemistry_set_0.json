@@ -1,1 +1,13 @@
-{"id": ["chemistry_set_basic", "chemistry_set"], "fg": ["1451_chemistry_set_basic_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "chemistry_set_basic",
+    "chemistry_set"
+  ],
+  "fg": [
+    "1451_chemistry_set_basic_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

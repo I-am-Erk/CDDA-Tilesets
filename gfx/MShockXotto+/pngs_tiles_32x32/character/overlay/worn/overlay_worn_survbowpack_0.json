@@ -1,1 +1,10 @@
-{"id": "overlay_worn_survbowpack", "fg": ["792_overlay_worn_survbowpack_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_survbowpack",
+  "fg": [
+    "792_overlay_worn_survbowpack_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

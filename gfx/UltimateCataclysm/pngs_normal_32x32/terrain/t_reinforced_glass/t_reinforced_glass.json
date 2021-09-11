@@ -4,11 +4,7 @@
   "fg": "t_reinforced_glass_unconnected",
   "bg": "",
   "additional_tiles": [
-    {
-      "id": "center",
-      "bg": "",
-      "fg": "t_reinforced_glass_center"
-    },
+    { "id": "center", "bg": "", "fg": "t_reinforced_glass_center" },
     {
       "id": "corner",
       "bg": "",
@@ -29,14 +25,7 @@
         "t_reinforced_glass_t_connection_e"
       ]
     },
-    {
-      "id": "edge",
-      "bg": "",
-      "fg": [
-        "t_reinforced_glass_edge_ns",
-        "t_reinforced_glass_edge_ew"
-      ]
-    },
+    { "id": "edge", "bg": "", "fg": [ "t_reinforced_glass_edge_ns", "t_reinforced_glass_edge_ew" ] },
     {
       "id": "end_piece",
       "bg": "",
@@ -47,10 +36,6 @@
         "t_reinforced_glass_end_piece_e"
       ]
     },
-    {
-      "bg": "",
-      "id": "unconnected",
-      "fg": "t_reinforced_glass_unconnected"
-    }
+    { "bg": "", "id": "unconnected", "fg": "t_reinforced_glass_unconnected" }
   ]
 }

@@ -4,11 +4,7 @@
   "fg": "t_adobe_brick_wall_unconnected",
   "bg": "",
   "additional_tiles": [
-    {
-      "id": "center",
-      "bg": "",
-      "fg": "t_adobe_brick_wall_center"
-    },
+    { "id": "center", "bg": "", "fg": "t_adobe_brick_wall_center" },
     {
       "id": "corner",
       "bg": "",
@@ -29,14 +25,7 @@
         "t_adobe_brick_wall_t_connection_e"
       ]
     },
-    {
-      "id": "edge",
-      "bg": "",
-      "fg": [
-        "t_adobe_brick_wall_edge_ns",
-        "t_adobe_brick_wall_edge_ew"
-      ]
-    },
+    { "id": "edge", "bg": "", "fg": [ "t_adobe_brick_wall_edge_ns", "t_adobe_brick_wall_edge_ew" ] },
     {
       "id": "end_piece",
       "bg": "",
@@ -47,13 +36,6 @@
         "t_adobe_brick_wall_end_piece_e"
       ]
     },
-    {
-      "bg": "",
-      "id": "unconnected",
-      "fg": [
-        "t_adobe_brick_wall_unconnected",
-        "t_adobe_brick_wall_unconnected"
-      ]
-    }
+    { "bg": "", "id": "unconnected", "fg": [ "t_adobe_brick_wall_unconnected", "t_adobe_brick_wall_unconnected" ] }
   ]
 }

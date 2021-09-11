@@ -3,18 +3,10 @@
   "fg": "t_water_hot_unconnected",
   "multitile": true,
   "additional_tiles": [
-    {
-      "id": "center",
-      "fg": "t_water_hot_center"
-    },
+    { "id": "center", "fg": "t_water_hot_center" },
     {
       "id": "corner",
-      "fg": [
-        "t_water_hot_corner_nw",
-        "t_water_hot_corner_sw",
-        "t_water_hot_corner_se",
-        "t_water_hot_corner_ne"
-      ]
+      "fg": [ "t_water_hot_corner_nw", "t_water_hot_corner_sw", "t_water_hot_corner_se", "t_water_hot_corner_ne" ]
     },
     {
       "id": "t_connection",
@@ -25,28 +17,11 @@
         "t_water_hot_t_connection_e"
       ]
     },
-    {
-      "id": "edge",
-      "fg": [
-        "t_water_hot_edge_ns",
-        "t_water_hot_edge_ew"
-      ]
-    },
+    { "id": "edge", "fg": [ "t_water_hot_edge_ns", "t_water_hot_edge_ew" ] },
     {
       "id": "end_piece",
-      "fg": [
-        "t_water_hot_end_piece_n",
-        "t_water_hot_end_piece_w",
-        "t_water_hot_end_piece_s",
-        "t_water_hot_end_piece_e"
-      ]
+      "fg": [ "t_water_hot_end_piece_n", "t_water_hot_end_piece_w", "t_water_hot_end_piece_s", "t_water_hot_end_piece_e" ]
     },
-    {
-      "id": "unconnected",
-      "fg": [
-        "t_water_hot_unconnected",
-        "t_water_hot_unconnected"
-      ]
-    }
+    { "id": "unconnected", "fg": [ "t_water_hot_unconnected", "t_water_hot_unconnected" ] }
   ]
 }

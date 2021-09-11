@@ -1,1 +1,13 @@
-{"id": ["wheel_wide", "wheel_wide_or"], "fg": ["2308_wheel_wide_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "wheel_wide",
+    "wheel_wide_or"
+  ],
+  "fg": [
+    "2308_wheel_wide_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

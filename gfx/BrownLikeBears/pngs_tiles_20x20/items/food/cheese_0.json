@@ -1,1 +1,11 @@
-{"id": "cheese", "fg": ["1140_cheese_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "cheese",
+  "fg": [
+    "1140_cheese_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

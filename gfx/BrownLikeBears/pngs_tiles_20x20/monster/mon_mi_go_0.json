@@ -1,1 +1,10 @@
-{"id": "mon_mi_go", "fg": ["128_mon_mi_go_0"], "rotates": false, "bg": []}
+{
+  "id": "mon_mi_go",
+  "fg": [
+    "128_mon_mi_go_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

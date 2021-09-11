@@ -1,1 +1,10 @@
-{"id": "press", "fg": ["1593_press_0"], "rotates": false, "bg": []}
+{
+  "id": "press",
+  "fg": [
+    "1593_press_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

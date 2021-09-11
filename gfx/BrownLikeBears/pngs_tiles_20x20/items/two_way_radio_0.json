@@ -1,1 +1,11 @@
-{"id": "two_way_radio", "fg": ["1495_two_way_radio_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "two_way_radio",
+  "fg": [
+    "1495_two_way_radio_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

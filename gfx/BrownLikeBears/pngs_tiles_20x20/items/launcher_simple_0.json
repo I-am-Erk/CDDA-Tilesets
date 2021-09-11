@@ -1,1 +1,11 @@
-{"id": "launcher_simple", "fg": ["1446_launcher_simple_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "launcher_simple",
+  "fg": [
+    "1446_launcher_simple_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

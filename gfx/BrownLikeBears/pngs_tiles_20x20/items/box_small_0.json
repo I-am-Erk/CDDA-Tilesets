@@ -1,1 +1,10 @@
-{"id": "box_small", "fg": ["135_box_small_0"], "rotates": false, "bg": []}
+{
+  "id": "box_small",
+  "fg": [
+    "135_box_small_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

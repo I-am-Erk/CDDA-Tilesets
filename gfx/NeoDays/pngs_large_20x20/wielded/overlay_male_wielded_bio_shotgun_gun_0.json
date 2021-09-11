@@ -1,1 +1,10 @@
-{"id": "overlay_male_wielded_bio_shotgun_gun", "fg": ["3417_overlay_male_wielded_bio_shotgun_gun_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_male_wielded_bio_shotgun_gun",
+  "fg": [
+    "3417_overlay_male_wielded_bio_shotgun_gun_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

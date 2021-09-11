@@ -1,1 +1,10 @@
-{"id": "mon_robot_drone", "fg": ["4818_mon_robot_drone_0"], "rotates": false, "bg": []}
+{
+  "id": "mon_robot_drone",
+  "fg": [
+    "4818_mon_robot_drone_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

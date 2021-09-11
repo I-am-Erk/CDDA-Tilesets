@@ -1,14 +1,8 @@
 [
-   {
+  {
     "id": "vp_omnicam",
     "fg": "vp_omnicam",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_glass_center",
-        "bg": "vp_omnicam"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_glass_center", "bg": "vp_omnicam" } ]
   }
 ]

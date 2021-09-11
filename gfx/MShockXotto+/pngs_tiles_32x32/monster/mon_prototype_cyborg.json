@@ -3,6 +3,8 @@
   "fg": [
     "mon_prototype_cyborg"
   ],
-  "bg": ["shadow_32x32_normal"],
+  "bg": [
+    "shadow_32x32_normal"
+  ],
   "rotates": false
 }

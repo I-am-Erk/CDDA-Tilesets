@@ -1,1 +1,10 @@
-{"id": "minion_dormant", "fg": ["1422_minion_dormant_0"], "rotates": false, "bg": []}
+{
+  "id": "minion_dormant",
+  "fg": [
+    "1422_minion_dormant_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

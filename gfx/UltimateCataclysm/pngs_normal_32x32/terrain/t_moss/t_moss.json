@@ -8,10 +8,7 @@
       {
         "id": "center",
         "bg": "t_grass_center",
-        "fg": [
-          { "weight": 1, "sprite": "t_moss_center" },
-          { "weight": 1, "sprite": "t_moss_center2" }
-        ]
+        "fg": [ { "weight": 1, "sprite": "t_moss_center" }, { "weight": 1, "sprite": "t_moss_center2" } ]
       },
       {
         "id": "corner",
@@ -41,10 +38,7 @@
       {
         "id": "center",
         "bg": "t_grass_summer_center",
-        "fg": [
-          { "weight": 1, "sprite": "t_moss_summer_center" },
-          { "weight": 1, "sprite": "t_moss_summer_center2" }
-        ]
+        "fg": [ { "weight": 1, "sprite": "t_moss_summer_center" }, { "weight": 1, "sprite": "t_moss_summer_center2" } ]
       },
       {
         "id": "corner",
@@ -65,12 +59,7 @@
       {
         "id": "end_piece",
         "bg": "t_grass_summer_center",
-        "fg": [
-          "t_moss_summer_end_piece_n",
-          "t_moss_summer_end_piece_w",
-          "t_moss_summer_end_piece_s",
-          "t_moss_summer_end_piece_e"
-        ]
+        "fg": [ "t_moss_summer_end_piece_n", "t_moss_summer_end_piece_w", "t_moss_summer_end_piece_s", "t_moss_summer_end_piece_e" ]
       },
       { "bg": "t_grass_summer_center", "id": "unconnected", "fg": "t_moss_summer_unconnected" }
     ]
@@ -84,10 +73,7 @@
       {
         "id": "center",
         "bg": "t_grass_autumn_center",
-        "fg": [
-          { "weight": 1, "sprite": "t_moss_autumn_center" },
-          { "weight": 1, "sprite": "t_moss_autumn_center2" }
-        ]
+        "fg": [ { "weight": 1, "sprite": "t_moss_autumn_center" }, { "weight": 1, "sprite": "t_moss_autumn_center2" } ]
       },
       {
         "id": "corner",
@@ -108,12 +94,7 @@
       {
         "id": "end_piece",
         "bg": "t_grass_autumn_center",
-        "fg": [
-          "t_moss_autumn_end_piece_n",
-          "t_moss_autumn_end_piece_w",
-          "t_moss_autumn_end_piece_s",
-          "t_moss_autumn_end_piece_e"
-        ]
+        "fg": [ "t_moss_autumn_end_piece_n", "t_moss_autumn_end_piece_w", "t_moss_autumn_end_piece_s", "t_moss_autumn_end_piece_e" ]
       },
       { "bg": "t_grass_autumn_center", "id": "unconnected", "fg": "t_moss_autumn_unconnected" }
     ]
@@ -127,10 +108,7 @@
       {
         "id": "center",
         "bg": "snow_shallow_center",
-        "fg": [
-          { "weight": 1, "sprite": "snow_shallow_center" },
-          { "weight": 1, "sprite": "snow_shallow_center2" }
-        ]
+        "fg": [ { "weight": 1, "sprite": "snow_shallow_center" }, { "weight": 1, "sprite": "snow_shallow_center2" } ]
       },
       {
         "id": "corner",
@@ -151,12 +129,7 @@
       {
         "id": "end_piece",
         "bg": "snow_shallow_center",
-        "fg": [
-          "snow_shallow_end_piece_n",
-          "snow_shallow_end_piece_w",
-          "snow_shallow_end_piece_s",
-          "snow_shallow_end_piece_e"
-        ]
+        "fg": [ "snow_shallow_end_piece_n", "snow_shallow_end_piece_w", "snow_shallow_end_piece_s", "snow_shallow_end_piece_e" ]
       },
       { "bg": "snow_shallow_center", "id": "unconnected", "fg": "snow_shallow_unconnected" }
     ]

@@ -1,5 +1,9 @@
 {
   "id": "overlay_male_worn_boots_hiking",
-  "fg": ["boots_hiking_m"],
-  "bg": []
+  "fg": [
+    "boots_hiking_m"
+  ],
+  "bg": [
+    
+  ]
 }

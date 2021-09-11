@@ -1,1 +1,11 @@
-{"id": "toaster", "fg": ["1241_toaster_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "toaster",
+  "fg": [
+    "1241_toaster_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

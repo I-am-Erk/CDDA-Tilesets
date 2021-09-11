@@ -1,1 +1,10 @@
-{"id": "tophat", "fg": ["1998_tophat_0"], "rotates": false, "bg": []}
+{
+  "id": "tophat",
+  "fg": [
+    "1998_tophat_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

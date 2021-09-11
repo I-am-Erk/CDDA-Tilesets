@@ -1,1 +1,10 @@
-{"id": "stick", "fg": ["2137_stick_0"], "rotates": false, "bg": []}
+{
+  "id": "stick",
+  "fg": [
+    "2137_stick_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

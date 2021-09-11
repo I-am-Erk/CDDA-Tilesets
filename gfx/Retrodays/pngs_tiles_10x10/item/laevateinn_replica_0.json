@@ -1,1 +1,10 @@
-{"id": "laevateinn_replica", "fg": ["1550_laevateinn_replica_0"], "rotates": false, "bg": []}
+{
+  "id": "laevateinn_replica",
+  "fg": [
+    "1550_laevateinn_replica_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

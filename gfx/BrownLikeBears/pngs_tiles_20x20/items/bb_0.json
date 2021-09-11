@@ -1,1 +1,11 @@
-{"id": "bb", "fg": ["595_pebble_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "bb",
+  "fg": [
+    "595_pebble_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

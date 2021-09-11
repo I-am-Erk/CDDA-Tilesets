@@ -1,1 +1,11 @@
-{"id": "spiral_stone", "fg": ["1221_spiral_stone_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "spiral_stone",
+  "fg": [
+    "1221_spiral_stone_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

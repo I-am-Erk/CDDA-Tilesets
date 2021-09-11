@@ -1,1 +1,11 @@
-{"id": "textbook_weapeast", "fg": ["890_textbook_weapeast_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "textbook_weapeast",
+  "fg": [
+    "890_textbook_weapeast_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

@@ -1,1 +1,12 @@
-{"id": ["overlay_worn_chainmail_arms", "overlay_worn_armguard_metal"], "fg": ["1313_overlay_worn_chainmail_arms_0"], "bg": []}
+{
+  "id": [
+    "overlay_worn_chainmail_arms",
+    "overlay_worn_armguard_metal"
+  ],
+  "fg": [
+    "1313_overlay_worn_chainmail_arms_0"
+  ],
+  "bg": [
+    
+  ]
+}

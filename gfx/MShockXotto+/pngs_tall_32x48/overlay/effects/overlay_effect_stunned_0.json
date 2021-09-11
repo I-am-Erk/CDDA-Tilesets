@@ -1,1 +1,9 @@
-{"id": "overlay_effect_stunned", "fg": ["overlay_effect_stunned"], "bg": []}
+{
+  "id": "overlay_effect_stunned",
+  "fg": [
+    "overlay_effect_stunned"
+  ],
+  "bg": [
+    
+  ]
+}

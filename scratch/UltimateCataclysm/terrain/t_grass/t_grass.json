@@ -65,7 +65,11 @@
           "t_grass_summer_t_connection_e"
         ]
       },
-      { "id": "edge", "bg": [ "t_grass_summer_center" ], "fg": [ "t_grass_summer_edge_ns", "t_grass_summer_edge_ew" ] },
+      {
+        "id": "edge",
+        "bg": [ "t_grass_summer_center" ],
+        "fg": [ "t_grass_summer_edge_ns", "t_grass_summer_edge_ew" ]
+      },
       {
         "id": "end_piece",
         "bg": [ "t_grass_summer_center" ],
@@ -87,7 +91,7 @@
     "additional_tiles": [
       {
         "id": "center",
-        "bg": "" ,
+        "bg": "",
         "fg": [
           { "weight": 1, "sprite": "t_grass_autumn_center" },
           { "weight": 1, "sprite": "t_grass_autumn_center2" },
@@ -110,7 +114,11 @@
           "t_grass_autumn_t_connection_e"
         ]
       },
-      { "id": "edge", "bg": [ "t_grass_autumn_center" ], "fg": [ "t_grass_autumn_edge_ns", "t_grass_autumn_edge_ew" ] },
+      {
+        "id": "edge",
+        "bg": [ "t_grass_autumn_center" ],
+        "fg": [ "t_grass_autumn_edge_ns", "t_grass_autumn_edge_ew" ]
+      },
       {
         "id": "end_piece",
         "bg": [ "t_grass_autumn_center" ],
@@ -159,12 +167,7 @@
       {
         "id": "end_piece",
         "bg": [ "snow_shallow_center" ],
-        "fg": [
-          "snow_shallow_end_piece_n",
-          "snow_shallow_end_piece_w",
-          "snow_shallow_end_piece_s",
-          "snow_shallow_end_piece_e"
-        ]
+        "fg": [ "snow_shallow_end_piece_n", "snow_shallow_end_piece_w", "snow_shallow_end_piece_s", "snow_shallow_end_piece_e" ]
       },
       { "bg": [ "snow_shallow_center" ], "id": "unconnected", "fg": [ "snow_shallow_unconnected" ] }
     ]

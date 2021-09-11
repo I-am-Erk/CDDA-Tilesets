@@ -1,1 +1,10 @@
-{"id": "1st_aid", "fg": ["2006_1st_aid_0"], "rotates": false, "bg": []}
+{
+  "id": "1st_aid",
+  "fg": [
+    "2006_1st_aid_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

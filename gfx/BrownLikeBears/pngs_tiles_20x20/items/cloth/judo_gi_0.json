@@ -1,1 +1,11 @@
-{"id": "judo_gi", "fg": ["704_karate_gi_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "judo_gi",
+  "fg": [
+    "704_karate_gi_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

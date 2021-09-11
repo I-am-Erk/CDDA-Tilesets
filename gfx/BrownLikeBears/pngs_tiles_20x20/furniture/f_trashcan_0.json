@@ -1,1 +1,10 @@
-{"id": "f_trashcan", "fg": ["29_f_trashcan_0"], "rotates": false, "bg": []}
+{
+  "id": "f_trashcan",
+  "fg": [
+    "29_f_trashcan_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

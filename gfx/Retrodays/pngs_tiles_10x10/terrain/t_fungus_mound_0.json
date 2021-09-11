@@ -1,1 +1,10 @@
-{"id": "t_fungus_mound", "fg": ["153_t_fungus_mound_0"], "rotates": false, "bg": []}
+{
+  "id": "t_fungus_mound",
+  "fg": [
+    "153_t_fungus_mound_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

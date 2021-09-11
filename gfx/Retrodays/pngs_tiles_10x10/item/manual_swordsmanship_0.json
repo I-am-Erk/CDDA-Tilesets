@@ -1,1 +1,10 @@
-{"id": "manual_swordsmanship", "fg": ["872_manual_swordsmanship_0"], "rotates": false, "bg": []}
+{
+  "id": "manual_swordsmanship",
+  "fg": [
+    "872_manual_swordsmanship_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

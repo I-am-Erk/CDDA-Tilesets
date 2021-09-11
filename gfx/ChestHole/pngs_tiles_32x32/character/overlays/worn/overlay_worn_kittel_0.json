@@ -1,1 +1,10 @@
-{"id": "overlay_worn_kittel", "fg": [""], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_kittel",
+  "fg": [
+    ""
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

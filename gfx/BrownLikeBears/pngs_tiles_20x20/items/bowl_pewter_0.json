@@ -1,1 +1,11 @@
-{"id": "bowl_pewter", "fg": ["1259_bowl_pewter_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "bowl_pewter",
+  "fg": [
+    "1259_bowl_pewter_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

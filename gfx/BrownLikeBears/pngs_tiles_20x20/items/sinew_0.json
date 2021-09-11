@@ -1,1 +1,11 @@
-{"id": "sinew", "fg": ["512_sinew_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "sinew",
+  "fg": [
+    "512_sinew_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

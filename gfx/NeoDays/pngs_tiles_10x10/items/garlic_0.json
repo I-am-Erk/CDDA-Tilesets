@@ -1,1 +1,10 @@
-{"id": "garlic", "fg": ["907_garlic_0"], "rotates": false, "bg": []}
+{
+  "id": "garlic",
+  "fg": [
+    "907_garlic_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

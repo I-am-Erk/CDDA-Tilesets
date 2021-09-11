@@ -4,11 +4,7 @@
   "fg": "t_screened_porch_wall_unconnected",
   "bg": "t_floor_center",
   "additional_tiles": [
-    {
-      "id": "center",
-      "bg": "t_floor_center",
-      "fg": "t_screened_porch_wall_center"
-    },
+    { "id": "center", "bg": "t_floor_center", "fg": "t_screened_porch_wall_center" },
     {
       "id": "corner",
       "bg": "t_floor_center",
@@ -32,10 +28,7 @@
     {
       "id": "edge",
       "bg": "t_floor_center",
-      "fg": [
-        "t_screened_porch_wall_edge_ns",
-        "t_screened_porch_wall_edge_ew"
-      ]
+      "fg": [ "t_screened_porch_wall_edge_ns", "t_screened_porch_wall_edge_ew" ]
     },
     {
       "id": "end_piece",
@@ -50,10 +43,7 @@
     {
       "bg": "t_floor_center",
       "id": "unconnected",
-      "fg": [
-        "t_screened_porch_wall_unconnected",
-        "t_screened_porch_wall_unconnected"
-      ]
+      "fg": [ "t_screened_porch_wall_unconnected", "t_screened_porch_wall_unconnected" ]
     }
   ]
 }

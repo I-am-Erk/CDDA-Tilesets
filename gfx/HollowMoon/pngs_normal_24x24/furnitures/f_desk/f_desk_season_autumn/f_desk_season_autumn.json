@@ -3,10 +3,7 @@
   "fg": "f_desk_season_autumn_unconnected",
   "multitile": true,
   "additional_tiles": [
-    {
-      "id": "center",
-      "fg": "f_desk_season_autumn_center"
-    },
+    { "id": "center", "fg": "f_desk_season_autumn_center" },
     {
       "id": "corner",
       "fg": [
@@ -25,13 +22,7 @@
         "f_desk_season_autumn_t_connection_e"
       ]
     },
-    {
-      "id": "edge",
-      "fg": [
-        "f_desk_season_autumn_edge_ns",
-        "f_desk_season_autumn_edge_ew"
-      ]
-    },
+    { "id": "edge", "fg": [ "f_desk_season_autumn_edge_ns", "f_desk_season_autumn_edge_ew" ] },
     {
       "id": "end_piece",
       "fg": [
@@ -41,12 +32,6 @@
         "f_desk_season_autumn_end_piece_e"
       ]
     },
-    {
-      "id": "unconnected",
-      "fg": [
-        "f_desk_season_autumn_unconnected",
-        "f_desk_season_autumn_unconnected"
-      ]
-    }
+    { "id": "unconnected", "fg": [ "f_desk_season_autumn_unconnected", "f_desk_season_autumn_unconnected" ] }
   ]
 }

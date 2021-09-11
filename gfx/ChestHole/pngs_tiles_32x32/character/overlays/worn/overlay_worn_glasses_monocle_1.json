@@ -1,1 +1,10 @@
-{"id": "overlay_worn_glasses_monocle", "fg": ["3156_overlay_worn_glasses_monocle_0"], "bg": [""], "rotates": false}
+{
+  "id": "overlay_worn_glasses_monocle",
+  "fg": [
+    "3156_overlay_worn_glasses_monocle_0"
+  ],
+  "bg": [
+    ""
+  ],
+  "rotates": false
+}

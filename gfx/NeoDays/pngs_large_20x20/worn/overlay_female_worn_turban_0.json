@@ -1,1 +1,10 @@
-{"id": "overlay_female_worn_turban", "fg": ["3264_overlay_female_worn_turban_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_female_worn_turban",
+  "fg": [
+    "3264_overlay_female_worn_turban_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

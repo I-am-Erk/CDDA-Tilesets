@@ -1,5 +1,9 @@
 {
   "id": "t_door_metal_o",
-  "fg": ["t_door_metal_o"],
-  "bg": []
+  "fg": [
+    "t_door_metal_o"
+  ],
+  "bg": [
+    
+  ]
 }

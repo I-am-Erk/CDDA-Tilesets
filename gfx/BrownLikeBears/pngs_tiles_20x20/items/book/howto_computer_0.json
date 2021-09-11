@@ -1,1 +1,11 @@
-{"id": "howto_computer", "fg": ["881_mag_fieldrepair_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "howto_computer",
+  "fg": [
+    "881_mag_fieldrepair_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

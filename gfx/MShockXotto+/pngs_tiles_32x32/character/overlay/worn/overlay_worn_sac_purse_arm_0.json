@@ -1,1 +1,10 @@
-{"id": "overlay_worn_sac_purse_arm", "fg": ["3884_overlay_worn_sac_purse_arm_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_sac_purse_arm",
+  "fg": [
+    "3884_overlay_worn_sac_purse_arm_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

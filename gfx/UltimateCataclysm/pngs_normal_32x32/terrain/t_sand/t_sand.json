@@ -6,14 +6,14 @@
     "bg": "t_grass",
     "additional_tiles": [
       {
-          "id": "center",
-          "bg": "t_grass",
-          "fg": [
-            { "weight": 1, "sprite": "t_sand_center" },
-            { "weight": 1, "sprite": "t_sand_center2" },
-            { "weight": 1, "sprite": "t_sand_center3" },
-            { "weight": 1, "sprite": "t_sand_center4" }
-          ]
+        "id": "center",
+        "bg": "t_grass",
+        "fg": [
+          { "weight": 1, "sprite": "t_sand_center" },
+          { "weight": 1, "sprite": "t_sand_center2" },
+          { "weight": 1, "sprite": "t_sand_center3" },
+          { "weight": 1, "sprite": "t_sand_center4" }
+        ]
       },
       {
         "id": "corner",
@@ -41,12 +41,9 @@
     "bg": "t_grass_summer",
     "additional_tiles": [
       {
-          "id": "center",
-          "bg": "t_grass_summer",
-          "fg": [
-            { "weight": 1, "sprite": "t_sand_center" },
-            { "weight": 1, "sprite": "t_sand_center2" }
-          ]
+        "id": "center",
+        "bg": "t_grass_summer",
+        "fg": [ { "weight": 1, "sprite": "t_sand_center" }, { "weight": 1, "sprite": "t_sand_center2" } ]
       },
       {
         "id": "corner",
@@ -74,12 +71,9 @@
     "bg": "t_grass_autumn",
     "additional_tiles": [
       {
-          "id": "center",
-          "bg": "t_grass_autumn",
-          "fg": [
-            { "weight": 1, "sprite": "t_sand_center" },
-            { "weight": 1, "sprite": "t_sand_center2" }
-          ]
+        "id": "center",
+        "bg": "t_grass_autumn",
+        "fg": [ { "weight": 1, "sprite": "t_sand_center" }, { "weight": 1, "sprite": "t_sand_center2" } ]
       },
       {
         "id": "corner",
@@ -107,12 +101,9 @@
     "bg": "snow_shallow_center",
     "additional_tiles": [
       {
-          "id": "center",
-          "bg": "snow_shallow_center",
-          "fg": [
-            { "weight": 1, "sprite": "t_sand_center" },
-            { "weight": 1, "sprite": "t_sand_center2" }
-          ]
+        "id": "center",
+        "bg": "snow_shallow_center",
+        "fg": [ { "weight": 1, "sprite": "t_sand_center" }, { "weight": 1, "sprite": "t_sand_center2" } ]
       },
       {
         "id": "corner",

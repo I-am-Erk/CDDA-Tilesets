@@ -1,1 +1,14 @@
-{"id": ["trenchcoat", "duster", "greatcoat"], "fg": ["1912_trenchcoat_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "trenchcoat",
+    "duster",
+    "greatcoat"
+  ],
+  "fg": [
+    "1912_trenchcoat_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

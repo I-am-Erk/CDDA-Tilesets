@@ -1,1 +1,11 @@
-{"id": "LAW", "fg": ["1450_LAW_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "LAW",
+  "fg": [
+    "1450_LAW_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

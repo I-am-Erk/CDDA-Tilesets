@@ -1,1 +1,10 @@
-{"id": "overlay_female_wielded_bio_shotgun_gun", "fg": ["3505_overlay_female_wielded_bio_shotgun_gun_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_female_wielded_bio_shotgun_gun",
+  "fg": [
+    "3505_overlay_female_wielded_bio_shotgun_gun_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

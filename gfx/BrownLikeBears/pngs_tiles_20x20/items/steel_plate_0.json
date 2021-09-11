@@ -1,1 +1,11 @@
-{"id": "steel_plate", "fg": ["1302_steel_plate_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "steel_plate",
+  "fg": [
+    "1302_steel_plate_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

@@ -1,1 +1,10 @@
-{"id": "steel_lump", "fg": ["158_steel_lump_0"], "rotates": false, "bg": []}
+{
+  "id": "steel_lump",
+  "fg": [
+    "158_steel_lump_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

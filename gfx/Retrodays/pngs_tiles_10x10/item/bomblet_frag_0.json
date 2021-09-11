@@ -1,1 +1,10 @@
-{"id": "bomblet_frag", "fg": ["1245_bomblet_frag_0"], "rotates": false, "bg": []}
+{
+  "id": "bomblet_frag",
+  "fg": [
+    "1245_bomblet_frag_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

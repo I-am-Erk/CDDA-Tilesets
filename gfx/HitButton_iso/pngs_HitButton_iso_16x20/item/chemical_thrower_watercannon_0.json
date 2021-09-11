@@ -1,1 +1,12 @@
-{"id": ["chemical_thrower", "watercannon"], "fg": ["1582_chemical_thrower_0"], "bg": []}
+{
+  "id": [
+    "chemical_thrower",
+    "watercannon"
+  ],
+  "fg": [
+    "1582_chemical_thrower_0"
+  ],
+  "bg": [
+    
+  ]
+}

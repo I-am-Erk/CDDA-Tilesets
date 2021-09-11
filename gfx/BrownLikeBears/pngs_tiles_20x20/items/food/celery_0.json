@@ -1,1 +1,11 @@
-{"id": "celery", "fg": ["1666_hops_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "celery",
+  "fg": [
+    "1666_hops_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

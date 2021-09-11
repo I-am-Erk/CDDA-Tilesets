@@ -1,1 +1,10 @@
-{"id": "fishing_waders", "fg": ["1776_fishing_waders_0"], "rotates": false, "bg": []}
+{
+  "id": "fishing_waders",
+  "fg": [
+    "1776_fishing_waders_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

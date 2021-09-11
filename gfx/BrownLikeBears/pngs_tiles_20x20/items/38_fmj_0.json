@@ -1,1 +1,11 @@
-{"id": "38_fmj", "fg": ["521_22_lr_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "38_fmj",
+  "fg": [
+    "521_22_lr_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

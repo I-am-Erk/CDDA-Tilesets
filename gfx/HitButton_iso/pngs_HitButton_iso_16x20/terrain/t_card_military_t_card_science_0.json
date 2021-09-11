@@ -1,1 +1,12 @@
-{"id": ["t_card_military", "t_card_science"], "fg": ["484_t_card_military_0"], "bg": []}
+{
+  "id": [
+    "t_card_military",
+    "t_card_science"
+  ],
+  "fg": [
+    "484_t_card_military_0"
+  ],
+  "bg": [
+    
+  ]
+}

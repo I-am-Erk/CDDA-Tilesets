@@ -1,1 +1,10 @@
-{"id": "tr_telepad", "fg": ["3935_tr_telepad_0"], "bg": [""], "rotates": false}
+{
+  "id": "tr_telepad",
+  "fg": [
+    "3935_tr_telepad_0"
+  ],
+  "bg": [
+    ""
+  ],
+  "rotates": false
+}

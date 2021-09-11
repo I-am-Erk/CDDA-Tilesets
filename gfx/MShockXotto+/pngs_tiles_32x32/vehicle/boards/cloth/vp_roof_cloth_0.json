@@ -1,1 +1,10 @@
-{"id": "vp_roof_cloth", "fg": ["1510_f_fema_groundsheet_0"], "rotates": false, "bg": []}
+{
+  "id": "vp_roof_cloth",
+  "fg": [
+    "1510_f_fema_groundsheet_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

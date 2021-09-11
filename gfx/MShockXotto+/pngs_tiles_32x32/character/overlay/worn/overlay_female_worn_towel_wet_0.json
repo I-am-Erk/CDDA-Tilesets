@@ -1,1 +1,10 @@
-{"id": "overlay_female_worn_towel_wet", "fg": ["3849_overlay_female_worn_towel_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_female_worn_towel_wet",
+  "fg": [
+    "3849_overlay_female_worn_towel_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

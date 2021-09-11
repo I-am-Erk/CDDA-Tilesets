@@ -1,1 +1,10 @@
-{"id": "mon_blob_large", "fg": ["462_mon_gelatin_0"], "rotates": false, "bg": []}
+{
+  "id": "mon_blob_large",
+  "fg": [
+    "462_mon_gelatin_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

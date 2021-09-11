@@ -1,1 +1,12 @@
-{"id": ["overlay_female_wielded_broadsword", "overlay_female_wielded_jian", "overlay_female_wielded_cavalry_sabre", "overlay_female_wielded_wakizashi"], "fg": ["overlay_female_wielded_broadsword"], "rotates": false}
+{
+  "id": [
+    "overlay_female_wielded_broadsword",
+    "overlay_female_wielded_jian",
+    "overlay_female_wielded_cavalry_sabre",
+    "overlay_female_wielded_wakizashi"
+  ],
+  "fg": [
+    "overlay_female_wielded_broadsword"
+  ],
+  "rotates": false
+}

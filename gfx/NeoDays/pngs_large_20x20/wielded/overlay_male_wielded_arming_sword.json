@@ -1,1 +1,13 @@
-{"id": ["overlay_male_wielded_arming_sword", "overlay_male_wielded_sword_xiphos", "overlay_male_wielded_tanto", "overlay_male_wielded_kirpan", "overlay_male_wielded_knife_baselard"], "fg": ["overlay_male_wielded_arming_sword"], "rotates": false}
+{
+  "id": [
+    "overlay_male_wielded_arming_sword",
+    "overlay_male_wielded_sword_xiphos",
+    "overlay_male_wielded_tanto",
+    "overlay_male_wielded_kirpan",
+    "overlay_male_wielded_knife_baselard"
+  ],
+  "fg": [
+    "overlay_male_wielded_arming_sword"
+  ],
+  "rotates": false
+}

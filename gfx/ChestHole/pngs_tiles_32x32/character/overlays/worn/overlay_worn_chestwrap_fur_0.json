@@ -1,1 +1,10 @@
-{"id": "overlay_worn_chestwrap_fur", "fg": [""], "bg": [""], "rotates": false}
+{
+  "id": "overlay_worn_chestwrap_fur",
+  "fg": [
+    ""
+  ],
+  "bg": [
+    ""
+  ],
+  "rotates": false
+}

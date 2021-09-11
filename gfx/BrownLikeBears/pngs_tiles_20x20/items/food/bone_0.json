@@ -1,1 +1,11 @@
-{"id": "bone", "fg": ["999_bone_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "bone",
+  "fg": [
+    "999_bone_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

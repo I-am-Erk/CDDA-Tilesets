@@ -1,1 +1,10 @@
-{"id": "overlay_male_wielded_draco", "fg": ["3412_overlay_male_wielded_draco_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_male_wielded_draco",
+  "fg": [
+    "3412_overlay_male_wielded_draco_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

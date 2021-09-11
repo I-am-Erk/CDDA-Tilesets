@@ -1,1 +1,10 @@
-{"id": "welder_crude", "fg": ["1654_welder_crude_0"], "rotates": false, "bg": []}
+{
+  "id": "welder_crude",
+  "fg": [
+    "1654_welder_crude_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

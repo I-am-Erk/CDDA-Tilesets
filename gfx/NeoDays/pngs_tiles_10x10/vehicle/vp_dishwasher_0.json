@@ -1,1 +1,10 @@
-{"id": "vp_dishwasher", "fg": ["2975_vp_dishwasher_0"], "rotates": false, "bg": []}
+{
+  "id": "vp_dishwasher",
+  "fg": [
+    "2975_vp_dishwasher_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

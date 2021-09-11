@@ -1,1 +1,11 @@
-{"id": "bacon", "fg": ["1063_fetus_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "bacon",
+  "fg": [
+    "1063_fetus_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

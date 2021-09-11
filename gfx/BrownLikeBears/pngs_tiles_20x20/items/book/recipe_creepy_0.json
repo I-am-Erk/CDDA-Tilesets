@@ -1,1 +1,10 @@
-{"id": "recipe_creepy", "fg": ["891_recipe_alpha_0"], "rotates": false, "bg": []}
+{
+  "id": "recipe_creepy",
+  "fg": [
+    "891_recipe_alpha_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

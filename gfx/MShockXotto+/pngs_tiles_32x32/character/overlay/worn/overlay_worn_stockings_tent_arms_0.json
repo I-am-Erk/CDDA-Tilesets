@@ -1,1 +1,10 @@
-{"id": "overlay_worn_stockings_tent_arms", "fg": ["783_overlay_worn_stockings_tent_arms_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_stockings_tent_arms",
+  "fg": [
+    "783_overlay_worn_stockings_tent_arms_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

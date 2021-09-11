@@ -1,1 +1,11 @@
-{"id": "macaroni_cooked", "fg": ["1036_seed_dogbane_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "macaroni_cooked",
+  "fg": [
+    "1036_seed_dogbane_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

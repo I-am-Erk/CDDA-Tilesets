@@ -8,7 +8,12 @@
     "additional_tiles": [
       {
         "id": "open",
-        "fg": [ "vp_hddoor_full_left_open_rotN", "vp_hddoor_full_left_open_rotW", "vp_hddoor_full_left_open_rotS", "vp_hddoor_full_left_open_rotE" ],
+        "fg": [
+          "vp_hddoor_full_left_open_rotN",
+          "vp_hddoor_full_left_open_rotW",
+          "vp_hddoor_full_left_open_rotS",
+          "vp_hddoor_full_left_open_rotE"
+        ],
         "bg": [  ]
       },
       {
@@ -27,7 +32,12 @@
     "additional_tiles": [
       {
         "id": "open",
-        "fg": [ "vp_hddoor_full_right_open_rotN", "vp_hddoor_full_right_open_rotW", "vp_hddoor_full_right_open_rotS", "vp_hddoor_full_right_open_rotE" ],
+        "fg": [
+          "vp_hddoor_full_right_open_rotN",
+          "vp_hddoor_full_right_open_rotW",
+          "vp_hddoor_full_right_open_rotS",
+          "vp_hddoor_full_right_open_rotE"
+        ],
         "bg": [  ]
       },
       {

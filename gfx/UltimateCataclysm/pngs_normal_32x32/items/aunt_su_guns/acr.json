@@ -1,5 +1,8 @@
 {
-  "id": [ "m16_auto_rifle_var_acr", "acr_300blk" ],
+  "id": [
+    "m16_auto_rifle_var_acr",
+    "acr_300blk"
+  ],
   "fg": "m16_auto_rifle_var_acr",
   "bg": ""
 }

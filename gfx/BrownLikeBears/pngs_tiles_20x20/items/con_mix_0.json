@@ -1,1 +1,11 @@
-{"id": "con_mix", "fg": ["1911_con_mix_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "con_mix",
+  "fg": [
+    "1911_con_mix_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

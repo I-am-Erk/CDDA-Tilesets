@@ -1,1 +1,10 @@
-{"id": "overlay_worn_greatcoat", "fg": ["2674_overlay_worn_greatcoat_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_greatcoat",
+  "fg": [
+    "2674_overlay_worn_greatcoat_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

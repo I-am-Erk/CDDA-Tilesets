@@ -1,1 +1,11 @@
-{"id": "tonfa", "fg": ["1273_tonfa_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "tonfa",
+  "fg": [
+    "1273_tonfa_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

@@ -1,1 +1,11 @@
-{"id": "manual_swimming", "fg": ["883_mag_computer_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "manual_swimming",
+  "fg": [
+    "883_mag_computer_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

@@ -1,1 +1,13 @@
-{"id": ["mon_vinebeast", "mon_vinebeast_terminal"], "fg": ["1774_mon_vinebeast_0"], "bg": [""], "rotates": false}
+{
+  "id": [
+    "mon_vinebeast",
+    "mon_vinebeast_terminal"
+  ],
+  "fg": [
+    "1774_mon_vinebeast_0"
+  ],
+  "bg": [
+    ""
+  ],
+  "rotates": false
+}

@@ -1,1 +1,17 @@
-{"id": ["iceaxe", "hatchet", "fire_ax", "primitive_adze", "primitive_axe", "ax", "throwing_axe"], "fg": ["1676_iceaxe_0"], "bg": []}
+{
+  "id": [
+    "iceaxe",
+    "hatchet",
+    "fire_ax",
+    "primitive_adze",
+    "primitive_axe",
+    "ax",
+    "throwing_axe"
+  ],
+  "fg": [
+    "1676_iceaxe_0"
+  ],
+  "bg": [
+    
+  ]
+}

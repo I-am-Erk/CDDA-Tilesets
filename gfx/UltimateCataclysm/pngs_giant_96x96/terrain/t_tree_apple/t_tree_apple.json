@@ -16,18 +16,12 @@
   },
   {
     "id": "t_tree_apple_season_autumn",
-    "fg": [
-        { "weight": 1, "sprite": "t_tree_apple_autumn" },
-        { "weight": 1, "sprite": "t_tree_apple_autumn2" }
-    ],
+    "fg": [ { "weight": 1, "sprite": "t_tree_apple_autumn" }, { "weight": 1, "sprite": "t_tree_apple_autumn2" } ],
     "bg": "t_grass_autumn_giant"
   },
   {
     "id": "t_tree_apple_harvested",
-    "fg": [
-        { "weight": 1, "sprite": "t_tree_apple_harvested" },
-        { "weight": 1, "sprite": "t_tree_apple_harvested2" }
-    ],
+    "fg": [ { "weight": 1, "sprite": "t_tree_apple_harvested" }, { "weight": 1, "sprite": "t_tree_apple_harvested2" } ],
     "bg": "t_grass_autumn_giant"
   }
 ]

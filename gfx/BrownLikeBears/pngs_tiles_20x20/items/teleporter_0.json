@@ -1,1 +1,11 @@
-{"id": "teleporter", "fg": ["1525_teleporter_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "teleporter",
+  "fg": [
+    "1525_teleporter_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

@@ -1,6 +1,10 @@
-  {
-    "id": "corpse_mon_mi_go_guard",
-    "fg": [ "corpse_mon_mi_go_guard" ],
-    "rotates": false,
-    "bg": [  ]
-  }
+{
+  "id": "corpse_mon_mi_go_guard",
+  "fg": [
+    "corpse_mon_mi_go_guard"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

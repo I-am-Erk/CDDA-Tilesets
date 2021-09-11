@@ -1,1 +1,10 @@
-{"id": "syringe", "fg": ["1628_syringe_0"], "rotates": false, "bg": []}
+{
+  "id": "syringe",
+  "fg": [
+    "1628_syringe_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

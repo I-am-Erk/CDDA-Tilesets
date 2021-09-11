@@ -1,1 +1,13 @@
-{"id": ["vp_fridge_cargo", "fridge_cargo"], "fg": ["2333_vp_fridge_cargo_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "vp_fridge_cargo",
+    "fridge_cargo"
+  ],
+  "fg": [
+    "2333_vp_fridge_cargo_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

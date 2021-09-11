@@ -1,1 +1,11 @@
-{"id": "blade", "fg": ["1226_blade_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "blade",
+  "fg": [
+    "1226_blade_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

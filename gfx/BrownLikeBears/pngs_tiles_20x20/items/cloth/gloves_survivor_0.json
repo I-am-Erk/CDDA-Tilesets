@@ -1,1 +1,11 @@
-{"id": "gloves_survivor", "fg": ["775_fire_gauntlets_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "gloves_survivor",
+  "fg": [
+    "775_fire_gauntlets_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

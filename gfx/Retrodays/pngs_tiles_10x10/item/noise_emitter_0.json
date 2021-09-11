@@ -1,1 +1,10 @@
-{"id": "noise_emitter", "fg": ["1575_noise_emitter_0"], "rotates": false, "bg": []}
+{
+  "id": "noise_emitter",
+  "fg": [
+    "1575_noise_emitter_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

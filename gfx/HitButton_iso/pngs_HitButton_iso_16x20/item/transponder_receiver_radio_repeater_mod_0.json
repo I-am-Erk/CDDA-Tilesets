@@ -1,1 +1,13 @@
-{"id": ["transponder", "receiver", "radio_repeater_mod"], "fg": ["1762_transponder_0"], "bg": []}
+{
+  "id": [
+    "transponder",
+    "receiver",
+    "radio_repeater_mod"
+  ],
+  "fg": [
+    "1762_transponder_0"
+  ],
+  "bg": [
+    
+  ]
+}

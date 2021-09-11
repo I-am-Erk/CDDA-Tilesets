@@ -2,6 +2,6 @@
   {
     "id": [ "t_barndoor", "t_palisade_pulley" ],
     "fg": "t_barndoor",
-	"bg": "dirt_tall"
+    "bg": "dirt_tall"
   }
 ]

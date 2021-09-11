@@ -1,1 +1,10 @@
-{"id": "overlay_worn_arm_splint", "fg": ["529_overlay_worn_arm_splint_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_arm_splint",
+  "fg": [
+    "529_overlay_worn_arm_splint_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

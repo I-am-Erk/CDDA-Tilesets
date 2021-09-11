@@ -1,1 +1,11 @@
-{"id": "syrup", "fg": ["945_sewage_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "syrup",
+  "fg": [
+    "945_sewage_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

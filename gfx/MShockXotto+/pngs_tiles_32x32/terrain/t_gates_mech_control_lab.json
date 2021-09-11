@@ -3,8 +3,8 @@
   "fg": [
     "t_gates_mech_control_lab"
   ],
-  "bg": ["3121_t_metal_floor_0"
-    
+  "bg": [
+    "3121_t_metal_floor_0"
   ],
   "rotates": false
 }

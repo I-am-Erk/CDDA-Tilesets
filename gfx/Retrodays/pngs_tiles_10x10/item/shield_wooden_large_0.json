@@ -1,1 +1,10 @@
-{"id": "shield_wooden_large", "fg": ["1987_shield_wooden_large_0"], "rotates": false, "bg": []}
+{
+  "id": "shield_wooden_large",
+  "fg": [
+    "1987_shield_wooden_large_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

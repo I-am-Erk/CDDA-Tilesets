@@ -1,1 +1,10 @@
-{"id": "overlay_worn_beekeeping_hood", "fg": ["443_overlay_worn_beekeeping_hood_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_beekeeping_hood",
+  "fg": [
+    "443_overlay_worn_beekeeping_hood_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

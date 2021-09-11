@@ -1,5 +1,9 @@
 {
   "id": "primitive_hammer",
-  "fg": ["stone_hammer"],
-  "bg": []
+  "fg": [
+    "stone_hammer"
+  ],
+  "bg": [
+    
+  ]
 }

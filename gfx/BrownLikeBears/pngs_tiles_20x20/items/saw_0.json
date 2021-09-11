@@ -1,1 +1,11 @@
-{"id": "saw", "fg": ["1601_saw_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "saw",
+  "fg": [
+    "1601_saw_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

@@ -1,1 +1,11 @@
-{"id": "yoghurt", "fg": ["1068_can_coconut_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "yoghurt",
+  "fg": [
+    "1068_can_coconut_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

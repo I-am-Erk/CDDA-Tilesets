@@ -1,1 +1,10 @@
-{"id": "t_border_rock", "fg": ["744_t_border_rock_0"], "rotates": false, "bg": []}
+{
+  "id": "t_border_rock",
+  "fg": [
+    "744_t_border_rock_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

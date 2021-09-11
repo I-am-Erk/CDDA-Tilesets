@@ -1,1 +1,9 @@
-{"id": "weather_snowflake", "fg": ["28_weather_snowflake_0"], "bg": []}
+{
+  "id": "weather_snowflake",
+  "fg": [
+    "28_weather_snowflake_0"
+  ],
+  "bg": [
+    
+  ]
+}

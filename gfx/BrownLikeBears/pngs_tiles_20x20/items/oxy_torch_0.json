@@ -1,1 +1,11 @@
-{"id": "oxy_torch", "fg": ["1576_welder_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "oxy_torch",
+  "fg": [
+    "1576_welder_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

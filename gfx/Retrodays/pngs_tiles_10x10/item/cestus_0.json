@@ -1,1 +1,10 @@
-{"id": "cestus", "fg": ["2044_cestus_0"], "rotates": false, "bg": []}
+{
+  "id": "cestus",
+  "fg": [
+    "2044_cestus_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

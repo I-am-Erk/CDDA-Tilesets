@@ -1,1 +1,11 @@
-{"id": "hakama_gi", "fg": ["692_pants_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "hakama_gi",
+  "fg": [
+    "692_pants_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

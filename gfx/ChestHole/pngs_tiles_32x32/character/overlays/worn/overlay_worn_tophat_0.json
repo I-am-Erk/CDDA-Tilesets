@@ -1,1 +1,10 @@
-{"id": "overlay_worn_tophat", "fg": [""], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_tophat",
+  "fg": [
+    ""
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

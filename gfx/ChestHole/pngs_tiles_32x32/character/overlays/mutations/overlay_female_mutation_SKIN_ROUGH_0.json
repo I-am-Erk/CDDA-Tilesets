@@ -1,1 +1,10 @@
-{"id": "overlay_female_mutation_SKIN_ROUGH", "fg": ["3809_overlay_female_mutation_SKIN_ROUGH_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_female_mutation_SKIN_ROUGH",
+  "fg": [
+    "3809_overlay_female_mutation_SKIN_ROUGH_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

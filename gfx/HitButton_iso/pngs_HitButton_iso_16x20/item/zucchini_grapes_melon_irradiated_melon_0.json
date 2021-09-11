@@ -1,1 +1,14 @@
-{"id": ["zucchini", "grapes", "melon", "irradiated_melon"], "fg": ["1963_zucchini_0"], "bg": []}
+{
+  "id": [
+    "zucchini",
+    "grapes",
+    "melon",
+    "irradiated_melon"
+  ],
+  "fg": [
+    "1963_zucchini_0"
+  ],
+  "bg": [
+    
+  ]
+}

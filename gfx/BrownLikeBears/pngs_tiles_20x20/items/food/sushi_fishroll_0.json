@@ -1,1 +1,11 @@
-{"id": "sushi_fishroll", "fg": ["1775_sushi_veggyroll_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "sushi_fishroll",
+  "fg": [
+    "1775_sushi_veggyroll_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

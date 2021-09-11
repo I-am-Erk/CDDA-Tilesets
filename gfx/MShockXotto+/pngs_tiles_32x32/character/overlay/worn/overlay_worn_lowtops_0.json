@@ -1,1 +1,10 @@
-{"id": "overlay_worn_lowtops", "fg": ["696_overlay_worn_lowtops_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_lowtops",
+  "fg": [
+    "696_overlay_worn_lowtops_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

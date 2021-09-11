@@ -1,1 +1,10 @@
-{"id": "cattlefodder", "fg": ["1445_cattlefodder_0"], "rotates": false, "bg": []}
+{
+  "id": "cattlefodder",
+  "fg": [
+    "1445_cattlefodder_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

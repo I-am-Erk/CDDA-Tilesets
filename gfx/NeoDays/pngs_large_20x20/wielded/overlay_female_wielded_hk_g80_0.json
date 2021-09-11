@@ -1,1 +1,10 @@
-{"id": "overlay_female_wielded_hk_g80", "fg": ["3480_overlay_female_wielded_hk_g80_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_female_wielded_hk_g80",
+  "fg": [
+    "3480_overlay_female_wielded_hk_g80_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

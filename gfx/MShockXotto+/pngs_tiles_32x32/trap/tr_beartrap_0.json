@@ -1,1 +1,10 @@
-{"id": "tr_beartrap", "bg": ["998_tr_beartrap_0"], "rotates": false, "fg": []}
+{
+  "id": "tr_beartrap",
+  "bg": [
+    "998_tr_beartrap_0"
+  ],
+  "rotates": false,
+  "fg": [
+    
+  ]
+}

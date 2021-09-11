@@ -1,5 +1,10 @@
 {
-  "id": ["kasaya", "samghati", "antarvasa", "uttarasanga"],
+  "id": [
+    "kasaya",
+    "samghati",
+    "antarvasa",
+    "uttarasanga"
+  ],
   "fg": "kasaya",
   "bg": ""
 }

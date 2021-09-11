@@ -1,1 +1,10 @@
-{"id": "snare_trigger", "fg": ["855_snare_trigger_0"], "rotates": false, "bg": []}
+{
+  "id": "snare_trigger",
+  "fg": [
+    "855_snare_trigger_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -4,20 +4,11 @@
   "fg": "t_concrete_wall_unconnected",
   "bg": "",
   "additional_tiles": [
-    {
-      "id": "center",
-      "bg": "",
-      "fg": "t_concrete_wall_center"
-    },
+    { "id": "center", "bg": "", "fg": "t_concrete_wall_center" },
     {
       "id": "corner",
       "bg": "",
-      "fg": [
-        "t_concrete_wall_corner_nw",
-        "t_concrete_wall_corner_sw",
-        "t_concrete_wall_corner_se",
-        "t_concrete_wall_corner_ne"
-      ]
+      "fg": [ "t_concrete_wall_corner_nw", "t_concrete_wall_corner_sw", "t_concrete_wall_corner_se", "t_concrete_wall_corner_ne" ]
     },
     {
       "id": "t_connection",
@@ -29,14 +20,7 @@
         "t_concrete_wall_t_connection_e"
       ]
     },
-    {
-      "id": "edge",
-      "bg": "",
-      "fg": [
-        "t_concrete_wall_edge_ns",
-        "t_concrete_wall_edge_ew"
-      ]
-    },
+    { "id": "edge", "bg": "", "fg": [ "t_concrete_wall_edge_ns", "t_concrete_wall_edge_ew" ] },
     {
       "id": "end_piece",
       "bg": "",
@@ -47,10 +31,6 @@
         "t_concrete_wall_end_piece_e"
       ]
     },
-    {
-      "bg": "",
-      "id": "unconnected",
-      "fg": "t_concrete_wall_unconnected"
-    }
+    { "bg": "", "id": "unconnected", "fg": "t_concrete_wall_unconnected" }
   ]
 }

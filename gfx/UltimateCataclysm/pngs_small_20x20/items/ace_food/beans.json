@@ -1,4 +1,7 @@
 {
-  "id": ["beans_cooked", "can_beans"],
+  "id": [
+    "beans_cooked",
+    "can_beans"
+  ],
   "fg": "beans_cooked"
 }

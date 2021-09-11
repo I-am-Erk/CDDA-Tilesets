@@ -1,1 +1,11 @@
-{"id": "shovel", "fg": ["1506_shovel_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "shovel",
+  "fg": [
+    "1506_shovel_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

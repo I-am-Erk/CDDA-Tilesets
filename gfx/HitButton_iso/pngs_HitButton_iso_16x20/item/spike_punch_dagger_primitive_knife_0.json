@@ -1,1 +1,13 @@
-{"id": ["spike", "punch_dagger", "primitive_knife"], "fg": ["1682_spike_0"], "bg": []}
+{
+  "id": [
+    "spike",
+    "punch_dagger",
+    "primitive_knife"
+  ],
+  "fg": [
+    "1682_spike_0"
+  ],
+  "bg": [
+    
+  ]
+}

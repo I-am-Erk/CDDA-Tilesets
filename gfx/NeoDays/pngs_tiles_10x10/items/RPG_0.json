@@ -1,1 +1,10 @@
-{"id": "RPG", "fg": ["1371_RPG_0"], "rotates": false, "bg": []}
+{
+  "id": "RPG",
+  "fg": [
+    "1371_RPG_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

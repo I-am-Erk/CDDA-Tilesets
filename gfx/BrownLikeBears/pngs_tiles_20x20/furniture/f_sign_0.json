@@ -1,1 +1,10 @@
-{"id": "f_sign", "fg": ["1438_f_bulletin_0"], "rotates": false, "bg": []}
+{
+  "id": "f_sign",
+  "fg": [
+    "1438_f_bulletin_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

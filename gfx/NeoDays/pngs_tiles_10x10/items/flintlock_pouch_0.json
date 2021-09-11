@@ -1,1 +1,10 @@
-{"id": "flintlock_pouch", "fg": ["1853_flintlock_pouch_0"], "rotates": false, "bg": []}
+{
+  "id": "flintlock_pouch",
+  "fg": [
+    "1853_flintlock_pouch_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

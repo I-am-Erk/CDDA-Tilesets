@@ -1,1 +1,13 @@
-{"id": ["t_rdoor_boarded_damaged"], "multitile": true, "fg": ["812_t_rdoor_boarded_damaged_0", "813_t_rdoor_boarded_damaged_1"], "bg": []}
+{
+  "id": [
+    "t_rdoor_boarded_damaged"
+  ],
+  "multitile": true,
+  "fg": [
+    "812_t_rdoor_boarded_damaged_0",
+    "813_t_rdoor_boarded_damaged_1"
+  ],
+  "bg": [
+    
+  ]
+}

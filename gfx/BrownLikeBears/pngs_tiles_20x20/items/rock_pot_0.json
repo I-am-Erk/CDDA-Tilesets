@@ -1,1 +1,11 @@
-{"id": "rock_pot", "fg": ["1258_pot_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "rock_pot",
+  "fg": [
+    "1258_pot_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

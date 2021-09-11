@@ -1,1 +1,11 @@
-{"id": "mask_dust", "fg": ["777_mask_dust_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "mask_dust",
+  "fg": [
+    "777_mask_dust_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

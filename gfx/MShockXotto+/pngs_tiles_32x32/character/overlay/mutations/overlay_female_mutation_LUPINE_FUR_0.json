@@ -1,1 +1,10 @@
-{"id": "overlay_female_mutation_LUPINE_FUR", "fg": ["2780_overlay_female_mutation_LUPINE_FUR_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_female_mutation_LUPINE_FUR",
+  "fg": [
+    "2780_overlay_female_mutation_LUPINE_FUR_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

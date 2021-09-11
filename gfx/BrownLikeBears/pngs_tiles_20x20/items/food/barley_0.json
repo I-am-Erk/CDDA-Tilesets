@@ -1,1 +1,11 @@
-{"id": "barley", "fg": ["1035_wheat_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "barley",
+  "fg": [
+    "1035_wheat_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

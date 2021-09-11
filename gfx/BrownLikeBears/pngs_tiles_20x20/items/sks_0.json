@@ -1,1 +1,11 @@
-{"id": "sks", "fg": ["1378_bbgun_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "sks",
+  "fg": [
+    "1378_bbgun_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

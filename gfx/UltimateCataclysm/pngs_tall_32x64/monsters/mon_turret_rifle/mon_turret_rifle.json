@@ -1,5 +1,7 @@
-[{
-  "id": "mon_turret_rifle",
-  "fg": "mon_turret_rifle",
-  "bg": "shadow_32x64_normal"
-}]
+[
+  {
+    "id": "mon_turret_rifle",
+    "fg": "mon_turret_rifle",
+    "bg": "shadow_32x64_normal"
+  }
+]

@@ -1,1 +1,11 @@
-{"id": "flamethrower_simple", "fg": ["1444_flamethrower_simple_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "flamethrower_simple",
+  "fg": [
+    "1444_flamethrower_simple_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

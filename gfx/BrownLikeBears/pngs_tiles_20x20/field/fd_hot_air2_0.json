@@ -1,1 +1,10 @@
-{"id": "fd_hot_air2", "fg": ["1731_fd_hot_air1_0"], "rotates": false, "bg": []}
+{
+  "id": "fd_hot_air2",
+  "fg": [
+    "1731_fd_hot_air1_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,13 @@
-{"id": ["landmine", "tr_landmine", "tr_landmine_buried"], "fg": ["2197_landmine_0"], "bg": []}
+{
+  "id": [
+    "landmine",
+    "tr_landmine",
+    "tr_landmine_buried"
+  ],
+  "fg": [
+    "2197_landmine_0"
+  ],
+  "bg": [
+    
+  ]
+}

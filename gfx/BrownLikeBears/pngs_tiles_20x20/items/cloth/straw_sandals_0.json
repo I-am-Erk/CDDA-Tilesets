@@ -1,1 +1,11 @@
-{"id": "straw_sandals", "fg": ["683_mocassins_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "straw_sandals",
+  "fg": [
+    "683_mocassins_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

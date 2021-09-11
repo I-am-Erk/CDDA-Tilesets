@@ -1,1 +1,11 @@
-{"id": "mittens", "fg": ["766_mittens_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "mittens",
+  "fg": [
+    "766_mittens_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

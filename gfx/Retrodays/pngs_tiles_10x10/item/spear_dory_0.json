@@ -1,1 +1,10 @@
-{"id": "spear_dory", "fg": ["1305_spear_dory_0"], "rotates": false, "bg": []}
+{
+  "id": "spear_dory",
+  "fg": [
+    "1305_spear_dory_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

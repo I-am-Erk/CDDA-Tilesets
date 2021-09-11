@@ -1,1 +1,10 @@
-{"id": "mon_triffid_queen", "fg": ["1766_mon_triffid_queen_0"], "bg": [""], "rotates": false}
+{
+  "id": "mon_triffid_queen",
+  "fg": [
+    "1766_mon_triffid_queen_0"
+  ],
+  "bg": [
+    ""
+  ],
+  "rotates": false
+}

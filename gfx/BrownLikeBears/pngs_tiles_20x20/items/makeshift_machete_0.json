@@ -1,1 +1,11 @@
-{"id": "makeshift_machete", "fg": ["1594_makeshift_machete_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "makeshift_machete",
+  "fg": [
+    "1594_makeshift_machete_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

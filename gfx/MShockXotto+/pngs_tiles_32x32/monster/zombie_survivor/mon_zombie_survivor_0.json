@@ -4,6 +4,8 @@
     { "weight": 1, "sprite": "2760_mon_zombie_survivor_0" },
     { "weight": 1, "sprite": "mon_zombie_survivor_1" }
   ],
-  "bg": ["shadow_32x32_normal"],
+  "bg": [
+    "shadow_32x32_normal"
+  ],
   "rotates": false
 }

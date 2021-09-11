@@ -1,5 +1,9 @@
 {
   "id": "extinguisher",
-  "fg": ["extinguisher"],
-  "bg": []
+  "fg": [
+    "extinguisher"
+  ],
+  "bg": [
+    
+  ]
 }

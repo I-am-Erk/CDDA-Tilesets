@@ -1,14 +1,8 @@
-[{
-  "id": "cemetery_small",
-  "fg": [
-    "cemetery_small_N",
-    "cemetery_small_E",
-    "cemetery_small_S",
-    "cemetery_small_W"
-  ],
-  "rotates": true,
-  "bg": [
-    
-  ]
-}
+[
+  {
+    "id": "cemetery_small",
+    "fg": [ "cemetery_small_N", "cemetery_small_E", "cemetery_small_S", "cemetery_small_W" ],
+    "rotates": true,
+    "bg": [  ]
+  }
 ]

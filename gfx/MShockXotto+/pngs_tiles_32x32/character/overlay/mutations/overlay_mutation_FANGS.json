@@ -1,12 +1,12 @@
 [
   {
-    "id": ["overlay_male_mutation_FANGS"],
+    "id": [ "overlay_male_mutation_FANGS" ],
     "fg": [ "overlay_male_mutation_FANGS" ],
     "rotates": false,
     "bg": [  ]
   },
   {
-    "id": ["overlay_female_mutation_FANGS"],
+    "id": [ "overlay_female_mutation_FANGS" ],
     "fg": [ "overlay_female_mutation_FANGS" ],
     "rotates": false,
     "bg": [  ]

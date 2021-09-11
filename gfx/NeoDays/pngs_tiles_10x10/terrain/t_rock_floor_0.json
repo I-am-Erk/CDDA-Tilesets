@@ -1,1 +1,10 @@
-{"id": "t_rock_floor", "fg": ["47_t_rock_floor_0"], "rotates": false, "bg": []}
+{
+  "id": "t_rock_floor",
+  "fg": [
+    "47_t_rock_floor_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

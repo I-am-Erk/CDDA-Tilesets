@@ -1,1 +1,11 @@
-{"id": "rebreather_xl", "fg": ["782_mask_gas_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "rebreather_xl",
+  "fg": [
+    "782_mask_gas_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

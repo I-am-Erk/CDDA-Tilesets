@@ -1,1 +1,11 @@
-{"id": "goggles_ski", "fg": ["788_goggles_ski_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "goggles_ski",
+  "fg": [
+    "788_goggles_ski_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

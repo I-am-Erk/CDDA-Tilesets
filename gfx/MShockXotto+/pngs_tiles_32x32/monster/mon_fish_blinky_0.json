@@ -1,1 +1,10 @@
-{"id": "mon_fish_blinky", "fg": ["2437_mon_fish_blinky_0"], "rotates": false, "bg": []}
+{
+  "id": "mon_fish_blinky",
+  "fg": [
+    "2437_mon_fish_blinky_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

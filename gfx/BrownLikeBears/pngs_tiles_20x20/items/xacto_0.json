@@ -1,1 +1,11 @@
-{"id": "xacto", "fg": ["1579_xacto_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "xacto",
+  "fg": [
+    "1579_xacto_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

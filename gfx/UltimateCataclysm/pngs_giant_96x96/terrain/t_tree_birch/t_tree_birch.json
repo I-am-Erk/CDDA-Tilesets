@@ -16,10 +16,7 @@
   },
   {
     "id": "t_tree_birch_season_autumn",
-    "fg": [
-      { "weight": 1, "sprite": "t_tree_birch_autumn_1" },
-      { "weight": 1, "sprite": "t_tree_birch_autumn_2" }
-    ],
+    "fg": [ { "weight": 1, "sprite": "t_tree_birch_autumn_1" }, { "weight": 1, "sprite": "t_tree_birch_autumn_2" } ],
     "bg": "t_grass_autumn_giant"
   }
 ]

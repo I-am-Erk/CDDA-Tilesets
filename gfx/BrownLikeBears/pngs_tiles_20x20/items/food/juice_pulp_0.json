@@ -1,1 +1,11 @@
-{"id": "juice_pulp", "fg": ["1004_rehydrated_fruit_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "juice_pulp",
+  "fg": [
+    "1004_rehydrated_fruit_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

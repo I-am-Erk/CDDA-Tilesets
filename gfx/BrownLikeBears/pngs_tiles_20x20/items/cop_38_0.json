@@ -1,1 +1,11 @@
-{"id": "cop_38", "fg": ["1385_moss_brownie_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "cop_38",
+  "fg": [
+    "1385_moss_brownie_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

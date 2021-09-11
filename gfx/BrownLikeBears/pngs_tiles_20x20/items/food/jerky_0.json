@@ -1,1 +1,11 @@
-{"id": "jerky", "fg": ["1024_jerky_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "jerky",
+  "fg": [
+    "1024_jerky_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

@@ -1,1 +1,11 @@
-{"id": "lawnmower", "fg": ["1235_lawnmower_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "lawnmower",
+  "fg": [
+    "1235_lawnmower_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

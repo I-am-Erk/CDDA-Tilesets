@@ -1,1 +1,19 @@
-{"id": ["sheet", "blanket", "down_blanket", "sleeping_bag", "emer_blanket", "emer_blanket_on", "towel", "towel_wet", "towel_soiled"], "fg": ["1496_sheet_0"], "bg": []}
+{
+  "id": [
+    "sheet",
+    "blanket",
+    "down_blanket",
+    "sleeping_bag",
+    "emer_blanket",
+    "emer_blanket_on",
+    "towel",
+    "towel_wet",
+    "towel_soiled"
+  ],
+  "fg": [
+    "1496_sheet_0"
+  ],
+  "bg": [
+    
+  ]
+}

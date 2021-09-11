@@ -1,1 +1,10 @@
-{"id": "pouch_autoclave", "fg": ["2990_pouch_autoclave_0"], "rotates": false, "bg": []}
+{
+  "id": "pouch_autoclave",
+  "fg": [
+    "2990_pouch_autoclave_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

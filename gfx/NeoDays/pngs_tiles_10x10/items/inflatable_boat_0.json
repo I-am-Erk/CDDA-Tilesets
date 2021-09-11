@@ -1,1 +1,10 @@
-{"id": "inflatable_boat", "fg": ["1538_inflatable_boat_0"], "rotates": false, "bg": []}
+{
+  "id": "inflatable_boat",
+  "fg": [
+    "1538_inflatable_boat_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

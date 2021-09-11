@@ -1,16 +1,12 @@
 [
   {
     "id": "overlay_female_mutation_SCALES",
-    "fg": [
-      "scales_f"
-    ],
-    "bg": []
+    "fg": [ "scales_f" ],
+    "bg": [  ]
   },
   {
     "id": "overlay_male_mutation_SCALES",
-    "fg": [
-      "scales_m"
-    ],
-    "bg": []
+    "fg": [ "scales_m" ],
+    "bg": [  ]
   }
 ]

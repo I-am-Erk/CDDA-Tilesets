@@ -1,1 +1,11 @@
-{"id": "roller_blades", "fg": ["710_roller_blades_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "roller_blades",
+  "fg": [
+    "710_roller_blades_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

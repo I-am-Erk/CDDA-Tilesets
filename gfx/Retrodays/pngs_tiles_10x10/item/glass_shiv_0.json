@@ -1,1 +1,10 @@
-{"id": "glass_shiv", "fg": ["1194_glass_shiv_0"], "rotates": false, "bg": []}
+{
+  "id": "glass_shiv",
+  "fg": [
+    "1194_glass_shiv_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

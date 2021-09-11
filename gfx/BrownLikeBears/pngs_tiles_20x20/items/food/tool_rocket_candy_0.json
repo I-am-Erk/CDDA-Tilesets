@@ -1,1 +1,11 @@
-{"id": "tool_rocket_candy", "fg": ["1128_watermelon_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "tool_rocket_candy",
+  "fg": [
+    "1128_watermelon_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

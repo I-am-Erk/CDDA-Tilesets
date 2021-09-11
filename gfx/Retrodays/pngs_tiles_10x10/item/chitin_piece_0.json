@@ -1,1 +1,10 @@
-{"id": "chitin_piece", "fg": ["2045_chitin_piece_0"], "rotates": false, "bg": []}
+{
+  "id": "chitin_piece",
+  "fg": [
+    "2045_chitin_piece_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

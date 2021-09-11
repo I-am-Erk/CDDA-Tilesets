@@ -1,1 +1,11 @@
-{"id": "hand_rims", "fg": ["1720_wheel_wheelchair_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "hand_rims",
+  "fg": [
+    "1720_wheel_wheelchair_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

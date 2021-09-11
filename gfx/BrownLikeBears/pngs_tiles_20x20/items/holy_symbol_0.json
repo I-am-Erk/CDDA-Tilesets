@@ -1,1 +1,11 @@
-{"id": "holy_symbol", "fg": ["830_small_relic_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "holy_symbol",
+  "fg": [
+    "830_small_relic_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

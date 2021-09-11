@@ -1,1 +1,10 @@
-{"id": "mon_gasbomb_hack", "fg": ["2446_mon_gasbomb_hack_0"], "rotates": false, "bg": []}
+{
+  "id": "mon_gasbomb_hack",
+  "fg": [
+    "2446_mon_gasbomb_hack_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,10 @@
-{"id": "golf_ball", "fg": ["2019_golf_ball_0"], "rotates": false, "bg": []}
+{
+  "id": "golf_ball",
+  "fg": [
+    "2019_golf_ball_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

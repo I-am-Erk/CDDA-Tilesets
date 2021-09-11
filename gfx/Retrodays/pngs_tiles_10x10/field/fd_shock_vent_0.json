@@ -1,1 +1,10 @@
-{"id": "fd_shock_vent", "fg": ["2191_fd_shock_vent_0"], "rotates": false, "bg": []}
+{
+  "id": "fd_shock_vent",
+  "fg": [
+    "2191_fd_shock_vent_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,10 @@
-{"id": "toaster", "fg": ["2139_toaster_0"], "rotates": false, "bg": []}
+{
+  "id": "toaster",
+  "fg": [
+    "2139_toaster_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

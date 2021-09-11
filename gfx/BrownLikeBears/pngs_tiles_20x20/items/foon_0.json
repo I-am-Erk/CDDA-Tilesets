@@ -1,1 +1,11 @@
-{"id": "foon", "fg": ["1252_fork_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "foon",
+  "fg": [
+    "1252_fork_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

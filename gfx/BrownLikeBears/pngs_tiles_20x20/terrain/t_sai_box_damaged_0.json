@@ -1,1 +1,10 @@
-{"id": "t_sai_box_damaged", "fg": ["62_f_oven_0"], "rotates": false, "bg": []}
+{
+  "id": "t_sai_box_damaged",
+  "fg": [
+    "62_f_oven_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

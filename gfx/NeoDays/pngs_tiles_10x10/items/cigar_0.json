@@ -1,1 +1,10 @@
-{"id": "cigar", "fg": ["1056_cigar_0"], "rotates": false, "bg": []}
+{
+  "id": "cigar",
+  "fg": [
+    "1056_cigar_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

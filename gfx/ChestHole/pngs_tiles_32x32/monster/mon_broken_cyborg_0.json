@@ -1,1 +1,10 @@
-{"id": "mon_broken_cyborg", "fg": ["2818_mon_broken_cyborg_0"], "bg": [""], "rotates": false}
+{
+  "id": "mon_broken_cyborg",
+  "fg": [
+    "2818_mon_broken_cyborg_0"
+  ],
+  "bg": [
+    ""
+  ],
+  "rotates": false
+}

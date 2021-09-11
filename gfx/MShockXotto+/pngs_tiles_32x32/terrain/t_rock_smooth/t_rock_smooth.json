@@ -3,18 +3,10 @@
   "fg": "t_rock_smooth_unconnected",
   "multitile": true,
   "additional_tiles": [
-    {
-      "id": "center",
-      "fg": "t_rock_smooth_center"
-    },
+    { "id": "center", "fg": "t_rock_smooth_center" },
     {
       "id": "corner",
-      "fg": [
-        "t_rock_smooth_corner_nw",
-        "t_rock_smooth_corner_sw",
-        "t_rock_smooth_corner_se",
-        "t_rock_smooth_corner_ne"
-      ]
+      "fg": [ "t_rock_smooth_corner_nw", "t_rock_smooth_corner_sw", "t_rock_smooth_corner_se", "t_rock_smooth_corner_ne" ]
     },
     {
       "id": "t_connection",
@@ -25,28 +17,11 @@
         "t_rock_smooth_t_connection_e"
       ]
     },
-    {
-      "id": "edge",
-      "fg": [
-        "t_rock_smooth_edge_ns",
-        "t_rock_smooth_edge_ew"
-      ]
-    },
+    { "id": "edge", "fg": [ "t_rock_smooth_edge_ns", "t_rock_smooth_edge_ew" ] },
     {
       "id": "end_piece",
-      "fg": [
-        "t_rock_smooth_end_piece_n",
-        "t_rock_smooth_end_piece_w",
-        "t_rock_smooth_end_piece_s",
-        "t_rock_smooth_end_piece_e"
-      ]
+      "fg": [ "t_rock_smooth_end_piece_n", "t_rock_smooth_end_piece_w", "t_rock_smooth_end_piece_s", "t_rock_smooth_end_piece_e" ]
     },
-    {
-      "id": "unconnected",
-      "fg": [
-        "t_rock_smooth_unconnected",
-        "t_rock_smooth_unconnected"
-      ]
-    }
+    { "id": "unconnected", "fg": [ "t_rock_smooth_unconnected", "t_rock_smooth_unconnected" ] }
   ]
 }

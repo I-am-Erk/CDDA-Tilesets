@@ -1,1 +1,11 @@
-{"id": "hood_survivor", "fg": ["857_hood_survivor_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "hood_survivor",
+  "fg": [
+    "857_hood_survivor_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

@@ -1,1 +1,10 @@
-{"id": "dinosuit", "fg": ["1736_dinosuit_0"], "rotates": false, "bg": []}
+{
+  "id": "dinosuit",
+  "fg": [
+    "1736_dinosuit_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,10 @@
-{"id": "lobotomizer", "fg": ["1555_lobotomizer_0"], "rotates": false, "bg": []}
+{
+  "id": "lobotomizer",
+  "fg": [
+    "1555_lobotomizer_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

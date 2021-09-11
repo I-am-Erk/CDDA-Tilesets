@@ -1,1 +1,10 @@
-{"id": "sharp_rock", "fg": ["2122_sharp_rock_0"], "rotates": false, "bg": []}
+{
+  "id": "sharp_rock",
+  "fg": [
+    "2122_sharp_rock_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

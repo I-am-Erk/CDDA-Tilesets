@@ -1,1 +1,11 @@
-{"id": "lajatang", "fg": ["1312_lajatang_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "lajatang",
+  "fg": [
+    "1312_lajatang_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

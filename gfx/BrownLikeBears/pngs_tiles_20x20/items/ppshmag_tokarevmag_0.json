@@ -1,1 +1,13 @@
-{"id": ["ppshmag", "tokarevmag"], "fg": ["1996_ppshmag_0"], "bg": [], "rotates": false}
+{
+  "id": [
+    "ppshmag",
+    "tokarevmag"
+  ],
+  "fg": [
+    "1996_ppshmag_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false
+}

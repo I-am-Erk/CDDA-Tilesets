@@ -1,5 +1,9 @@
 {
   "id": "t_console",
-  "fg": ["t_console"],
-  "bg": []
+  "fg": [
+    "t_console"
+  ],
+  "bg": [
+    
+  ]
 }

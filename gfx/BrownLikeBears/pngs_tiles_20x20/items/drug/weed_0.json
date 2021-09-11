@@ -1,1 +1,11 @@
-{"id": "weed", "fg": ["1113_weed_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "weed",
+  "fg": [
+    "1113_weed_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

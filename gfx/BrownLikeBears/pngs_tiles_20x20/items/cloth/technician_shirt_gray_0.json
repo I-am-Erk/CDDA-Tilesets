@@ -1,1 +1,11 @@
-{"id": "technician_shirt_gray", "fg": ["720_tshirt_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "technician_shirt_gray",
+  "fg": [
+    "720_tshirt_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

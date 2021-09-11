@@ -1,1 +1,10 @@
-{"id": "t_trunk", "fg": ["150_t_trunk_0"], "rotates": false, "bg": []}
+{
+  "id": "t_trunk",
+  "fg": [
+    "150_t_trunk_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,12 @@
-{"id": ["medical_tape", "bandages"], "fg": ["1874_medical_tape_0"], "bg": []}
+{
+  "id": [
+    "medical_tape",
+    "bandages"
+  ],
+  "fg": [
+    "1874_medical_tape_0"
+  ],
+  "bg": [
+    
+  ]
+}

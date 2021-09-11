@@ -1,1 +1,10 @@
-{"id": "slime_scrap", "fg": ["954_slime_scrap_0"], "rotates": false, "bg": []}
+{
+  "id": "slime_scrap",
+  "fg": [
+    "954_slime_scrap_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

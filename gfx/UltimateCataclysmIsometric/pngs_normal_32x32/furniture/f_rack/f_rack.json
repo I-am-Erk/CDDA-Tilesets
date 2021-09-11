@@ -1,5 +1,9 @@
 {
   "id": "f_rack",
-  "fg": ["f_rack"],
-  "bg": []
+  "fg": [
+    "f_rack"
+  ],
+  "bg": [
+    
+  ]
 }

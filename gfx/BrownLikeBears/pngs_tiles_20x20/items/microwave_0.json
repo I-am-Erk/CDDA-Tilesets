@@ -1,1 +1,11 @@
-{"id": "microwave", "fg": ["1242_microwave_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "microwave",
+  "fg": [
+    "1242_microwave_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

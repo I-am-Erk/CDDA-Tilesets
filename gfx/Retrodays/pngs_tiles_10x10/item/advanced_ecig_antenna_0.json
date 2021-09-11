@@ -1,1 +1,13 @@
-{"id": ["advanced_ecig", "antenna"], "fg": ["1116_advanced_ecig_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "advanced_ecig",
+    "antenna"
+  ],
+  "fg": [
+    "1116_advanced_ecig_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

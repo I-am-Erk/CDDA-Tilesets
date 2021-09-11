@@ -1,1 +1,10 @@
-{"id": "battletorch_lit", "fg": ["1420_battletorch_lit_0"], "rotates": false, "bg": []}
+{
+  "id": "battletorch_lit",
+  "fg": [
+    "1420_battletorch_lit_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

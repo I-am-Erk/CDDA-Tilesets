@@ -1,1 +1,10 @@
-{"id": "mission_arrow_se", "fg": ["3302_mission_arrow_se_0"], "rotates": false, "bg": []}
+{
+  "id": "mission_arrow_se",
+  "fg": [
+    "3302_mission_arrow_se_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

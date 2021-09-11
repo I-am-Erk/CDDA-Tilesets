@@ -1,1 +1,11 @@
-{"id": "tramadol", "fg": ["289_aspirin_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "tramadol",
+  "fg": [
+    "289_aspirin_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

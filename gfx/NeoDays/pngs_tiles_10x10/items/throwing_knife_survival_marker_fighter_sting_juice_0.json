@@ -1,1 +1,14 @@
-{"id": ["throwing_knife", "survival_marker", "fighter_sting_juice"], "fg": ["1259_throwing_knife_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "throwing_knife",
+    "survival_marker",
+    "fighter_sting_juice"
+  ],
+  "fg": [
+    "1259_throwing_knife_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

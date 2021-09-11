@@ -1,1 +1,11 @@
-{"id": "corndogs_frozen", "fg": ["1056_corndogs_frozen_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "corndogs_frozen",
+  "fg": [
+    "1056_corndogs_frozen_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

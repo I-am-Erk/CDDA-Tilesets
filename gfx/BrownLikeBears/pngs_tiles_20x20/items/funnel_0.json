@@ -1,1 +1,11 @@
-{"id": "funnel", "fg": ["1610_funnel_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "funnel",
+  "fg": [
+    "1610_funnel_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

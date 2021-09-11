@@ -1,1 +1,11 @@
-{"id": "wristrocket", "fg": ["1507_stethoscope_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "wristrocket",
+  "fg": [
+    "1507_stethoscope_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

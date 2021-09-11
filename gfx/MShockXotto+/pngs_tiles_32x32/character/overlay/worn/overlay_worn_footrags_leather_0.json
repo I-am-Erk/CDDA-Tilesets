@@ -1,1 +1,10 @@
-{"id": "overlay_worn_footrags_leather", "fg": ["725_overlay_worn_nomex_socks_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_footrags_leather",
+  "fg": [
+    "725_overlay_worn_nomex_socks_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

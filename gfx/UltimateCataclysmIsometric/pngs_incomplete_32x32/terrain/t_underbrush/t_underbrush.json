@@ -1,10 +1,7 @@
 [
   {
     "id": "t_underbrush",
-    "fg": [
-      { "weight": 100, "sprite": "t_underbrush" },
-      { "weight": 100, "sprite": "t_underbrush2" }
-    ],
+    "fg": [ { "weight": 100, "sprite": "t_underbrush" }, { "weight": 100, "sprite": "t_underbrush2" } ],
     "bg": [ "t_dirt" ]
   },
   {
@@ -14,10 +11,7 @@
   },
   {
     "id": "t_underbrush_season_summer",
-    "fg": [
-      { "weight": 100, "sprite": "t_underbrush" },
-      { "weight": 100, "sprite": "t_underbrush2" }
-    ],
+    "fg": [ { "weight": 100, "sprite": "t_underbrush" }, { "weight": 100, "sprite": "t_underbrush2" } ],
     "bg": [ "t_dirt_summer" ]
   },
   {
@@ -27,10 +21,7 @@
   },
   {
     "id": "t_underbrush_season_autumn",
-    "fg": [
-      { "weight": 100, "sprite": "t_underbrush" },
-      { "weight": 100, "sprite": "t_underbrush2" }
-    ],
+    "fg": [ { "weight": 100, "sprite": "t_underbrush" }, { "weight": 100, "sprite": "t_underbrush2" } ],
     "bg": [ "t_dirt_autumn" ]
   },
   {
@@ -40,10 +31,7 @@
   },
   {
     "id": "t_underbrush_season_winter",
-    "fg": [
-      { "weight": 100, "sprite": "t_underbrush" },
-      { "weight": 100, "sprite": "t_underbrush2" }
-    ],
+    "fg": [ { "weight": 100, "sprite": "t_underbrush" }, { "weight": 100, "sprite": "t_underbrush2" } ],
     "bg": [ "snow_deep" ]
   },
   {

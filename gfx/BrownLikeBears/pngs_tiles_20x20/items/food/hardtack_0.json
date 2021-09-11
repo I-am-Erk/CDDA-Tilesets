@@ -1,1 +1,11 @@
-{"id": "hardtack", "fg": ["1088_crackers_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "hardtack",
+  "fg": [
+    "1088_crackers_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

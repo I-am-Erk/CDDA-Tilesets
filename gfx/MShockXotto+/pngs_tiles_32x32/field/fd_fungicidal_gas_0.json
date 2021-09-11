@@ -1,1 +1,10 @@
-{"id": "fd_fungicidal_gas", "bg": ["1011_fd_fungicidal_gas_0"], "rotates": false, "fg": []}
+{
+  "id": "fd_fungicidal_gas",
+  "bg": [
+    "1011_fd_fungicidal_gas_0"
+  ],
+  "rotates": false,
+  "fg": [
+    
+  ]
+}

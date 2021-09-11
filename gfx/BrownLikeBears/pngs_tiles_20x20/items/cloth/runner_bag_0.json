@@ -1,1 +1,11 @@
-{"id": "runner_bag", "fg": ["815_backpack_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "runner_bag",
+  "fg": [
+    "815_backpack_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

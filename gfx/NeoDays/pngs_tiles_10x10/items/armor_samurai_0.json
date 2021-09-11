@@ -1,1 +1,10 @@
-{"id": "armor_samurai", "fg": ["1733_armor_samurai_0"], "rotates": false, "bg": []}
+{
+  "id": "armor_samurai",
+  "fg": [
+    "1733_armor_samurai_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

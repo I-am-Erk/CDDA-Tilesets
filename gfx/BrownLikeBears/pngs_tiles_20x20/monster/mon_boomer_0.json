@@ -1,1 +1,10 @@
-{"id": "mon_boomer", "fg": ["229_mon_boomer_0"], "rotates": false, "bg": []}
+{
+  "id": "mon_boomer",
+  "fg": [
+    "229_mon_boomer_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

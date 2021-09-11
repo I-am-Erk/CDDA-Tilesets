@@ -1,1 +1,10 @@
-{"id": "mon_imp_revive", "fg": [""], "rotates": false, "bg": []}
+{
+  "id": "mon_imp_revive",
+  "fg": [
+    ""
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

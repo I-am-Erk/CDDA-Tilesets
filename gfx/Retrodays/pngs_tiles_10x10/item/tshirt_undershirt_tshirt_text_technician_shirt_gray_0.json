@@ -1,1 +1,15 @@
-{"id": ["tshirt", "undershirt", "tshirt_text", "technician_shirt_gray"], "fg": ["1934_tshirt_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "tshirt",
+    "undershirt",
+    "tshirt_text",
+    "technician_shirt_gray"
+  ],
+  "fg": [
+    "1934_tshirt_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

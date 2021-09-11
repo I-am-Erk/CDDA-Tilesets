@@ -1,1 +1,11 @@
-{"id": "battleaxe", "fg": ["1330_battleaxe_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "battleaxe",
+  "fg": [
+    "1330_battleaxe_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

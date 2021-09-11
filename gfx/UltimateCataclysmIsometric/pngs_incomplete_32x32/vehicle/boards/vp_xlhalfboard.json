@@ -55,7 +55,8 @@
   },
   {
     "id": "vp_xlhalfboard_horizontal_front",
-    "fg": [ "vp_xlhalfboard_horizontal_front",
+    "fg": [
+      "vp_xlhalfboard_horizontal_front",
       "vp_xlhalfboard_horizontal_front_rotW",
       "vp_xlhalfboard_horizontal_front_rotS",
       "vp_xlhalfboard_horizontal_front_rotE"

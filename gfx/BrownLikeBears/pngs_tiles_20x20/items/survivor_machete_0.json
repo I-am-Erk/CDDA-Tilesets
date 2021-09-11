@@ -1,1 +1,11 @@
-{"id": "survivor_machete", "fg": ["1581_machete_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "survivor_machete",
+  "fg": [
+    "1581_machete_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

@@ -1,1 +1,11 @@
-{"id": "mac_10", "fg": ["1384_needlegun_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "mac_10",
+  "fg": [
+    "1384_needlegun_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

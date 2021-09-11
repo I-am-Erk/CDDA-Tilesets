@@ -1,1 +1,14 @@
-{"id": ["dry_fish", "salted_fish", "fish_canned", "lutefisk"], "fg": ["1953_dry_fish_0"], "bg": []}
+{
+  "id": [
+    "dry_fish",
+    "salted_fish",
+    "fish_canned",
+    "lutefisk"
+  ],
+  "fg": [
+    "1953_dry_fish_0"
+  ],
+  "bg": [
+    
+  ]
+}

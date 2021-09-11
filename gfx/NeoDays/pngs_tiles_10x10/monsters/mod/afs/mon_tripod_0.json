@@ -1,1 +1,10 @@
-{"id": "mon_tripod", "fg": ["2533_mon_tripod_0"], "rotates": false, "bg": []}
+{
+  "id": "mon_tripod",
+  "fg": [
+    "2533_mon_tripod_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

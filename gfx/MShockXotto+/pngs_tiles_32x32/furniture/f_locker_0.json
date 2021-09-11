@@ -1,1 +1,10 @@
-{"id": "f_locker", "fg": ["1511_f_file_cabinet_0"], "rotates": false, "bg": []}
+{
+  "id": "f_locker",
+  "fg": [
+    "1511_f_file_cabinet_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

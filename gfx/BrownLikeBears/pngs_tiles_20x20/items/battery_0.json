@@ -1,1 +1,11 @@
-{"id": "battery", "fg": ["594_battery_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "battery",
+  "fg": [
+    "594_battery_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

@@ -1,1 +1,10 @@
-{"id": "alarmclock", "fg": ["1389_alarmclock_0"], "rotates": false, "bg": []}
+{
+  "id": "alarmclock",
+  "fg": [
+    "1389_alarmclock_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

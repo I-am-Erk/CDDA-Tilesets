@@ -1,1 +1,11 @@
-{"id": "survivor_special_700", "fg": ["1378_bbgun_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "survivor_special_700",
+  "fg": [
+    "1378_bbgun_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

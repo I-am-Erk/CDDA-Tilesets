@@ -1,1 +1,10 @@
-{"id": "pot_makeshift_copper", "fg": ["2111_pot_makeshift_copper_0"], "rotates": false, "bg": []}
+{
+  "id": "pot_makeshift_copper",
+  "fg": [
+    "2111_pot_makeshift_copper_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

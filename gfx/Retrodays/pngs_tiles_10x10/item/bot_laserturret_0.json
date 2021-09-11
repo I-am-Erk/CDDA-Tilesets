@@ -1,1 +1,10 @@
-{"id": "bot_laserturret", "fg": ["2488_bot_laserturret_0"], "rotates": false, "bg": []}
+{
+  "id": "bot_laserturret",
+  "fg": [
+    "2488_bot_laserturret_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

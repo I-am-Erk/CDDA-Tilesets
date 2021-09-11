@@ -1,1 +1,10 @@
-{"id": "mon_giant_crayfish", "fg": ["1701_mon_giant_crayfish_0"], "bg": [""], "rotates": false}
+{
+  "id": "mon_giant_crayfish",
+  "fg": [
+    "1701_mon_giant_crayfish_0"
+  ],
+  "bg": [
+    ""
+  ],
+  "rotates": false
+}

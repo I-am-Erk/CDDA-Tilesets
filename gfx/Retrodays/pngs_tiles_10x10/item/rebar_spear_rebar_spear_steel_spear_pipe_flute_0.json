@@ -1,1 +1,16 @@
-{"id": ["rebar", "spear_rebar", "spear_steel", "spear_pipe", "flute"], "fg": ["1404_rebar_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "rebar",
+    "spear_rebar",
+    "spear_steel",
+    "spear_pipe",
+    "flute"
+  ],
+  "fg": [
+    "1404_rebar_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

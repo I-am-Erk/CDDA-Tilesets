@@ -1,1 +1,10 @@
-{"id": "overlay_worn_tunic", "fg": ["820_overlay_worn_tunic_rag_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_tunic",
+  "fg": [
+    "820_overlay_worn_tunic_rag_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

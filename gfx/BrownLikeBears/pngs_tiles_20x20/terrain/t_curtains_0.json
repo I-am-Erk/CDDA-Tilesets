@@ -1,1 +1,10 @@
-{"id": "t_curtains", "fg": ["79_t_curtains_0"], "rotates": false, "bg": []}
+{
+  "id": "t_curtains",
+  "fg": [
+    "79_t_curtains_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

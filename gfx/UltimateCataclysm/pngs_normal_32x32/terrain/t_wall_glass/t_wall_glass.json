@@ -1,5 +1,8 @@
 {
-  "id": [ "t_wall_glass", "t_wall_glass_alarm" ],
+  "id": [
+    "t_wall_glass",
+    "t_wall_glass_alarm"
+  ],
   "multitile": true,
   "fg": "t_wall_glass_unconnected",
   "bg": "",

@@ -1,1 +1,11 @@
-{"id": "salted_fish", "fg": ["1048_salted_fish_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "salted_fish",
+  "fg": [
+    "1048_salted_fish_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

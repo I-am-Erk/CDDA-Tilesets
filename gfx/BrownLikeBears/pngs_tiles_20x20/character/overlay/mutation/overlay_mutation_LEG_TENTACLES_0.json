@@ -1,1 +1,10 @@
-{"id": "overlay_mutation_LEG_TENTACLES", "fg": ["2767_overlay_mutation_LEG_TENTACLES_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_mutation_LEG_TENTACLES",
+  "fg": [
+    "2767_overlay_mutation_LEG_TENTACLES_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

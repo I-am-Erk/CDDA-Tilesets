@@ -1,1 +1,10 @@
-{"id": "f_water_heater", "fg": ["3115_t_machinery_old_0"], "rotates": true, "bg": []}
+{
+  "id": "f_water_heater",
+  "fg": [
+    "3115_t_machinery_old_0"
+  ],
+  "rotates": true,
+  "bg": [
+    
+  ]
+}

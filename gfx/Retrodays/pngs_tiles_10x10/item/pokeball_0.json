@@ -1,1 +1,10 @@
-{"id": "pokeball", "fg": ["1590_pokeball_0"], "rotates": false, "bg": []}
+{
+  "id": "pokeball",
+  "fg": [
+    "1590_pokeball_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

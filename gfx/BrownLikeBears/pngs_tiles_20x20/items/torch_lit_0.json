@@ -1,1 +1,11 @@
-{"id": "torch_lit", "fg": ["1606_torch_lit_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "torch_lit",
+  "fg": [
+    "1606_torch_lit_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

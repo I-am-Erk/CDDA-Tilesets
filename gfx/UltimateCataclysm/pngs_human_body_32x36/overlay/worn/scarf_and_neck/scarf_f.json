@@ -1,8 +1,10 @@
-[{
-  "id": "overlay_female_worn_scarf",
-  "fg": "scarf_f"
-},
-{
-  "id": "overlay_female_worn_scarf_loose",
-  "fg": "scarf_f"
-}]
+[
+  {
+    "id": "overlay_female_worn_scarf",
+    "fg": "scarf_f"
+  },
+  {
+    "id": "overlay_female_worn_scarf_loose",
+    "fg": "scarf_f"
+  }
+]

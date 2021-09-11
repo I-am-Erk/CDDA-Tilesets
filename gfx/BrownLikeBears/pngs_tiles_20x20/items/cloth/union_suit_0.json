@@ -1,1 +1,11 @@
-{"id": "union_suit", "fg": ["902_union_suit_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "union_suit",
+  "fg": [
+    "902_union_suit_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

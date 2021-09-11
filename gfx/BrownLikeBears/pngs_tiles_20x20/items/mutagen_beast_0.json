@@ -1,1 +1,11 @@
-{"id": "mutagen_beast", "fg": ["1029_mutagen_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "mutagen_beast",
+  "fg": [
+    "1029_mutagen_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

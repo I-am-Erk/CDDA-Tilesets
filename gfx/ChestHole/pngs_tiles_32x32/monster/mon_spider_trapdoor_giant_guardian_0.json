@@ -1,1 +1,10 @@
-{"id": "mon_spider_trapdoor_giant_guardian", "fg": ["4018_mon_spider_trapdoor_giant_guardian_0"], "bg": [""], "rotates": false}
+{
+  "id": "mon_spider_trapdoor_giant_guardian",
+  "fg": [
+    "4018_mon_spider_trapdoor_giant_guardian_0"
+  ],
+  "bg": [
+    ""
+  ],
+  "rotates": false
+}

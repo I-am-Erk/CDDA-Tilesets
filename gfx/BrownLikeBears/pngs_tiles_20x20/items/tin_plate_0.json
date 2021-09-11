@@ -1,1 +1,11 @@
-{"id": "tin_plate", "fg": ["1251_tin_plate_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "tin_plate",
+  "fg": [
+    "1251_tin_plate_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

@@ -28,7 +28,11 @@
         "fg": [ "t_chaingate_c_end_piece_n", "t_chaingate_c_end_piece_w", "t_chaingate_c_end_piece_s", "t_chaingate_c_end_piece_e" ],
         "bg": "t_dirt_summer"
       },
-      { "id": "unconnected", "fg": [ "t_chaingate_c_unconnected", "t_chaingate_c_unconnected" ], "bg": "t_dirt_summer" }
+      {
+        "id": "unconnected",
+        "fg": [ "t_chaingate_c_unconnected", "t_chaingate_c_unconnected" ],
+        "bg": "t_dirt_summer"
+      }
     ]
   },
   {
@@ -44,7 +48,11 @@
         "fg": [ "t_chaingate_c_end_piece_n", "t_chaingate_c_end_piece_w", "t_chaingate_c_end_piece_s", "t_chaingate_c_end_piece_e" ],
         "bg": "t_dirt_autumn"
       },
-      { "id": "unconnected", "fg": [ "t_chaingate_c_unconnected", "t_chaingate_c_unconnected" ], "bg": "t_dirt_autumn" }
+      {
+        "id": "unconnected",
+        "fg": [ "t_chaingate_c_unconnected", "t_chaingate_c_unconnected" ],
+        "bg": "t_dirt_autumn"
+      }
     ]
   },
   {
@@ -60,7 +68,11 @@
         "fg": [ "t_chaingate_c_end_piece_n", "t_chaingate_c_end_piece_w", "t_chaingate_c_end_piece_s", "t_chaingate_c_end_piece_e" ],
         "bg": "t_dirt_winter"
       },
-      { "id": "unconnected", "fg": [ "t_chaingate_c_unconnected", "t_chaingate_c_unconnected" ], "bg": "t_dirt_winter" }
+      {
+        "id": "unconnected",
+        "fg": [ "t_chaingate_c_unconnected", "t_chaingate_c_unconnected" ],
+        "bg": "t_dirt_winter"
+      }
     ]
   }
 ]

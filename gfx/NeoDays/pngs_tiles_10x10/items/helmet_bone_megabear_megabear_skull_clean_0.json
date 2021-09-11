@@ -1,1 +1,13 @@
-{"id": ["helmet_bone_megabear", "megabear_skull_clean"], "fg": ["1005_helmet_bone_megabear_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "helmet_bone_megabear",
+    "megabear_skull_clean"
+  ],
+  "fg": [
+    "1005_helmet_bone_megabear_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

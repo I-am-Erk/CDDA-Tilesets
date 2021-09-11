@@ -1,1 +1,10 @@
-{"id": "overlay_worn_bootstrap", "fg": ["548_overlay_worn_bootstrap_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_bootstrap",
+  "fg": [
+    "548_overlay_worn_bootstrap_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

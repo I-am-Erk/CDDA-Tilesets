@@ -167,7 +167,10 @@
     "fg": [ "326_vp_door_0" ],
     "rotates": true,
     "multitile": true,
-    "additional_tiles": [ { "id": "open", "fg": [ "327_vp_door_1" ], "bg": [  ] }, { "id": "broken", "fg": [ "382_vp_door_trunk_2" ], "bg": [  ] } ],
+    "additional_tiles": [
+      { "id": "open", "fg": [ "327_vp_door_1" ], "bg": [  ] },
+      { "id": "broken", "fg": [ "382_vp_door_trunk_2" ], "bg": [  ] }
+    ],
     "bg": [  ]
   },
   {

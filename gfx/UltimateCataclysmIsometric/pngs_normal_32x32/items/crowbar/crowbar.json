@@ -1,5 +1,9 @@
 {
   "id": "crowbar",
-  "fg": ["crowbar"],
-  "bg": []
+  "fg": [
+    "crowbar"
+  ],
+  "bg": [
+    
+  ]
 }

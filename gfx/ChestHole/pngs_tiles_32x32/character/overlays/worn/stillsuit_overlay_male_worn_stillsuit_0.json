@@ -1,1 +1,13 @@
-{"id": ["stillsuit", "overlay_male_worn_stillsuit"], "fg": [""], "rotates": false, "bg": []}
+{
+  "id": [
+    "stillsuit",
+    "overlay_male_worn_stillsuit"
+  ],
+  "fg": [
+    ""
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

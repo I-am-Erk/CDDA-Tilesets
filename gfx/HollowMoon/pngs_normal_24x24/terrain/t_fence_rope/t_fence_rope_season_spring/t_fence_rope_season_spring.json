@@ -4,11 +4,7 @@
   "bg": "",
   "multitile": true,
   "additional_tiles": [
-    {
-      "id": "center",
-      "fg": "t_fence_rope_season_spring_unconnected",
-      "bg": ""
-    },
+    { "id": "center", "fg": "t_fence_rope_season_spring_unconnected", "bg": "" },
     {
       "id": "corner",
       "fg": [
@@ -29,14 +25,7 @@
       ],
       "bg": ""
     },
-    {
-      "id": "edge",
-      "fg": [
-        "t_fence_rope_season_spring_edge_ns",
-        "t_fence_rope_season_spring_edge_ew"
-      ],
-      "bg": ""
-    },
+    { "id": "edge", "fg": [ "t_fence_rope_season_spring_edge_ns", "t_fence_rope_season_spring_edge_ew" ], "bg": "" },
     {
       "id": "end_piece",
       "fg": [
@@ -49,10 +38,7 @@
     },
     {
       "id": "unconnected",
-      "fg": [
-        "t_fence_rope_season_spring_unconnected",
-        "t_fence_rope_season_spring_unconnected"
-      ],
+      "fg": [ "t_fence_rope_season_spring_unconnected", "t_fence_rope_season_spring_unconnected" ],
       "bg": ""
     }
   ]

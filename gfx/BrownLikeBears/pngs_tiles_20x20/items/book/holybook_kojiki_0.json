@@ -1,1 +1,10 @@
-{"id": "holybook_kojiki", "fg": ["886_mag_pistol_0"], "rotates": false, "bg": []}
+{
+  "id": "holybook_kojiki",
+  "fg": [
+    "886_mag_pistol_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,10 @@
-{"id": "steel_chunk", "fg": ["932_steel_chunk_0"], "rotates": false, "bg": []}
+{
+  "id": "steel_chunk",
+  "fg": [
+    "932_steel_chunk_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

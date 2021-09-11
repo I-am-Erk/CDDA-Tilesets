@@ -1,1 +1,11 @@
-{"id": "soup_woods", "fg": ["945_sewage_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "soup_woods",
+  "fg": [
+    "945_sewage_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

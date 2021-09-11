@@ -1,1 +1,10 @@
-{"id": "helmet_corinthian", "fg": ["1896_helmet_corinthian_0"], "rotates": false, "bg": []}
+{
+  "id": "helmet_corinthian",
+  "fg": [
+    "1896_helmet_corinthian_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

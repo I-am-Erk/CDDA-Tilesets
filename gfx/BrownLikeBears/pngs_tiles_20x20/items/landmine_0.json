@@ -1,1 +1,11 @@
-{"id": "landmine", "fg": ["1522_landmine_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "landmine",
+  "fg": [
+    "1522_landmine_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

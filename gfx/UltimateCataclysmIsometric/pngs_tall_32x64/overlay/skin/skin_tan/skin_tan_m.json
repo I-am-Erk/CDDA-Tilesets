@@ -1,5 +1,9 @@
 {
   "id": "overlay_male_mutation_SKIN_TAN",
-  "fg": ["skin_tan_m"],
-  "bg": []
+  "fg": [
+    "skin_tan_m"
+  ],
+  "bg": [
+    
+  ]
 }

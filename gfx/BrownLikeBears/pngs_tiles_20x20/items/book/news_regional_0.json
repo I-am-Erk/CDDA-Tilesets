@@ -1,1 +1,11 @@
-{"id": "news_regional", "fg": ["885_mag_cutting_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "news_regional",
+  "fg": [
+    "885_mag_cutting_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

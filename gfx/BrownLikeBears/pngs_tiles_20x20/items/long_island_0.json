@@ -1,1 +1,11 @@
-{"id": "long_island", "fg": ["945_sewage_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "long_island",
+  "fg": [
+    "945_sewage_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

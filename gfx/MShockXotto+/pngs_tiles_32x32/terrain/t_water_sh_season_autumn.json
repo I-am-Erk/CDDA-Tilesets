@@ -1,5 +1,8 @@
 {
-  "id": ["t_water_sh_season_autumn","t_swater_sh_season_autumn"],
+  "id": [
+    "t_water_sh_season_autumn",
+    "t_swater_sh_season_autumn"
+  ],
   "fg": [
     "t_water_sh"
   ],

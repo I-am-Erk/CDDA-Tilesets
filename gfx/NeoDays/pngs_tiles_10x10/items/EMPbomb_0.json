@@ -1,1 +1,10 @@
-{"id": "EMPbomb", "fg": ["1206_EMPbomb_0"], "rotates": false, "bg": []}
+{
+  "id": "EMPbomb",
+  "fg": [
+    "1206_EMPbomb_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

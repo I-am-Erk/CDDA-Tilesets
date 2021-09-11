@@ -1,1 +1,10 @@
-{"id": "mon_mi_go_terminal", "fg": ["4782_mon_mi_go_terminal_0"], "rotates": false, "bg": []}
+{
+  "id": "mon_mi_go_terminal",
+  "fg": [
+    "4782_mon_mi_go_terminal_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,11 @@
-{"id": "baseball", "fg": ["893_baseball_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "baseball",
+  "fg": [
+    "893_baseball_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

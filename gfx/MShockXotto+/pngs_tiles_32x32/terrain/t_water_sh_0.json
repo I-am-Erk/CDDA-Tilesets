@@ -1,5 +1,8 @@
 {
-  "id": ["t_water_sh", "t_swater_sh"],
+  "id": [
+    "t_water_sh",
+    "t_swater_sh"
+  ],
   "fg": [
     "t_water_sh"
   ],

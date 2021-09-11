@@ -1,1 +1,10 @@
-{"id": "pockknife", "fg": ["1549_pockknife_0"], "rotates": false, "bg": []}
+{
+  "id": "pockknife",
+  "fg": [
+    "1549_pockknife_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

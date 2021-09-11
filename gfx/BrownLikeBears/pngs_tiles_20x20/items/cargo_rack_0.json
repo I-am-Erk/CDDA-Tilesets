@@ -1,1 +1,10 @@
-{"id": "cargo_rack", "fg": ["383_vp_trunk_floor_0"], "rotates": false, "bg": []}
+{
+  "id": "cargo_rack",
+  "fg": [
+    "383_vp_trunk_floor_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

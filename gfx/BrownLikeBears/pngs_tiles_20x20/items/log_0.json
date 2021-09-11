@@ -1,1 +1,11 @@
-{"id": "log", "fg": ["1230_log_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "log",
+  "fg": [
+    "1230_log_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

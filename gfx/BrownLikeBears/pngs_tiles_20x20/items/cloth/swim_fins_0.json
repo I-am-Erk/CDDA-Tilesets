@@ -1,1 +1,11 @@
-{"id": "swim_fins", "fg": ["867_swim_fins_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "swim_fins",
+  "fg": [
+    "867_swim_fins_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

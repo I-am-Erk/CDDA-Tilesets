@@ -1,1 +1,10 @@
-{"id": "mon_triffid_heart", "fg": ["5461_mon_triffid_heart_0"], "rotates": false, "bg": []}
+{
+  "id": "mon_triffid_heart",
+  "fg": [
+    "5461_mon_triffid_heart_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

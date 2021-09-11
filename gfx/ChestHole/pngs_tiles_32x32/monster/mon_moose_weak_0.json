@@ -1,1 +1,10 @@
-{"id": "mon_moose_weak", "fg": ["4789_mon_moose_weak_0"], "rotates": false, "bg": []}
+{
+  "id": "mon_moose_weak",
+  "fg": [
+    "4789_mon_moose_weak_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

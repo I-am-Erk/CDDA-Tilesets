@@ -1,1 +1,10 @@
-{"id": "recharge_station", "fg": ["2347_vp_recharge_station_0"], "rotates": false, "bg": []}
+{
+  "id": "recharge_station",
+  "fg": [
+    "2347_vp_recharge_station_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

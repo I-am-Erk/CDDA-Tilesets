@@ -1,4 +1,7 @@
 {
-    "id": [ "player_male", "player_female" ],
-    "fg": "character"
+  "id": [
+    "player_male",
+    "player_female"
+  ],
+  "fg": "character"
 }

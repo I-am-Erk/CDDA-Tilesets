@@ -1,1 +1,10 @@
-{"id": "cig_butt", "fg": ["1055_cig_butt_0"], "rotates": false, "bg": []}
+{
+  "id": "cig_butt",
+  "fg": [
+    "1055_cig_butt_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

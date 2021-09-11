@@ -1,1 +1,10 @@
-{"id": "overlay_female_wielded_hand_crossbow", "fg": ["3522_overlay_female_wielded_hand_crossbow_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_female_wielded_hand_crossbow",
+  "fg": [
+    "3522_overlay_female_wielded_hand_crossbow_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

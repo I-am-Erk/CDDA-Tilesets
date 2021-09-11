@@ -3,972 +3,486 @@
     "id": "vp_frame_cover",
     "fg": "frame_cover",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "frame_cover"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_cover" } ]
   },
   {
     "id": "vp_frame_cross",
     "fg": "frame_cross",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "frame_cross"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_cross" } ]
   },
   {
     "id": "vp_frame_cross_unconnected",
     "fg": "frame_cross_unconnected",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "frame_cross_unconnected"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_cross_unconnected" } ]
   },
   {
     "id": "vp_frame_ne",
     "fg": "frame_ne",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "frame_ne"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_ne" } ]
   },
   {
     "id": "vp_frame_nw",
     "fg": "frame_nw",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "frame_nw"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_nw" } ]
   },
   {
     "id": "vp_frame_se",
     "fg": "frame_se",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "frame_se"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_se" } ]
   },
   {
     "id": "vp_frame_sw",
     "fg": "frame_sw",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "frame_sw"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_sw" } ]
   },
   {
     "id": "vp_frame_vertical_unconnected",
     "fg": "frame_vertical_unconnected",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "frame_vertical_unconnected"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_vertical_unconnected" } ]
   },
   {
     "id": "vp_frame_vertical_2_unconnected",
     "fg": "frame_vertical2_unconnected",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "frame_vertical2_unconnected"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_vertical2_unconnected" } ]
   },
   {
     "id": "vp_frame_vertical_left",
     "fg": "frame_vertical_left",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "frame_vertical_left"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_vertical_left" } ]
   },
   {
     "id": "vp_frame_vertical_2_left",
     "fg": "frame_vertical2_left",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "frame_vertical2_left"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_vertical2_left" } ]
   },
   {
     "id": "vp_frame_vertical_right",
     "fg": "frame_vertical_right",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "frame_vertical_right"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_vertical_right" } ]
   },
   {
     "id": "vp_frame_vertical_2_right",
     "fg": "frame_vertical2_right",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "frame_vertical2_right"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_vertical2_right" } ]
   },
   {
     "id": "vp_frame_horizontal",
     "fg": "frame_horizontal",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "frame_horizontal"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_horizontal" } ]
   },
   {
     "id": "vp_frame_horizontal_2",
     "fg": "frame_horizontal2",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "frame_horizontal2"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_horizontal2" } ]
   },
   {
     "id": "vp_frame_horizontal_unconnected",
     "fg": "frame_horizontal_unconnected",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "frame_horizontal_unconnected"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_horizontal_unconnected" } ]
   },
   {
     "id": "vp_frame_horizontal_2_unconnected",
     "fg": "frame_horizontal2_unconnected",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "frame_horizontal2_unconnected"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_horizontal2_unconnected" } ]
   },
   {
     "id": "vp_frame_horizontal_front",
     "fg": "frame_horizontal_front",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "frame_horizontal_front"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_horizontal_front" } ]
   },
   {
     "id": "vp_frame_horizontal_2_front",
     "fg": "frame_horizontal2_front",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "frame_horizontal2_front"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_horizontal2_front" } ]
   },
   {
     "id": "vp_frame_horizontal_rear",
     "fg": "frame_horizontal_rear",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "frame_horizontal_rear"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_horizontal_rear" } ]
   },
   {
     "id": "vp_frame_horizontal_2_rear",
     "fg": "frame_horizontal2_rear",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "frame_horizontal2_rear"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_horizontal2_rear" } ]
   },
   {
     "id": [ "vp_frame_horizontal_left", "vp_frame_vertical_T_left" ],
     "fg": "frame_horizontal_left",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "frame_horizontal_left"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_horizontal_left" } ]
   },
   {
     "id": "vp_frame_horizontal_2_left",
     "fg": "frame_horizontal_2_left",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "frame_horizontal_2_left"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_horizontal_2_left" } ]
   },
   {
     "id": [ "vp_frame_horizontal_right", "vp_frame_vertical_T_right" ],
     "fg": "frame_horizontal_right",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "frame_horizontal_right"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_horizontal_right" } ]
   },
   {
     "id": "vp_frame_horizontal_2_right",
     "fg": "frame_horizontal_2_right",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "frame_horizontal_2_right"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_horizontal_2_right" } ]
   },
   {
     "id": "vp_frame_vertical",
     "fg": "frame_vertical",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "frame_vertical"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_vertical" } ]
   },
   {
     "id": "vp_frame_vertical_2",
     "fg": "frame_vertical2",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "frame_vertical2"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_vertical2" } ]
   },
   {
     "id": "vp_hdframe_cover",
     "fg": "hdframe_cover",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "hdframe_cover"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "hdframe_cover" } ]
   },
   {
     "id": "vp_hdframe_cross",
     "fg": "hdframe_cross",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "hdframe_cross"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "hdframe_cross" } ]
   },
   {
     "id": "vp_hdframe_cross_unconnected",
     "fg": "hdframe_cross_unconnected",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "hdframe_cross_unconnected"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "hdframe_cross_unconnected" } ]
   },
   {
     "id": "vp_hdframe_ne",
     "fg": "hdframe_ne",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "hdframe_ne"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "hdframe_ne" } ]
   },
   {
     "id": "vp_hdframe_nw",
     "fg": "hdframe_nw",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "hdframe_nw"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "hdframe_nw" } ]
   },
   {
     "id": "vp_hdframe_se",
     "fg": "hdframe_se",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "hdframe_se"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "hdframe_se" } ]
   },
   {
     "id": "vp_hdframe_sw",
     "fg": "hdframe_sw",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "hdframe_sw"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "hdframe_sw" } ]
   },
   {
     "id": "vp_hdframe_vertical_unconnected",
     "fg": "hdframe_vertical_unconnected",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "hdframe_vertical_unconnected"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "hdframe_vertical_unconnected" } ]
   },
   {
     "id": "vp_hdframe_vertical_2_unconnected",
     "fg": "hdframe_vertical2_unconnected",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "hdframe_vertical2_unconnected"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "hdframe_vertical2_unconnected" } ]
   },
   {
     "id": "vp_hdframe_vertical_left",
     "fg": "hdframe_vertical_left",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "hdframe_vertical_left"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "hdframe_vertical_left" } ]
   },
   {
     "id": "vp_hdframe_vertical_2_left",
     "fg": "hdframe_vertical2_left",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "hdframe_vertical2_left"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "hdframe_vertical2_left" } ]
   },
   {
     "id": "vp_hdframe_vertical_right",
     "fg": "hdframe_vertical_right",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "hdframe_vertical_right"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "hdframe_vertical_right" } ]
   },
   {
     "id": "vp_hdframe_vertical_2_right",
     "fg": "hdframe_vertical2_right",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "hdframe_vertical2_right"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "hdframe_vertical2_right" } ]
   },
   {
     "id": "vp_hdframe_horizontal",
     "fg": "hdframe_horizontal",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "hdframe_horizontal"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "hdframe_horizontal" } ]
   },
   {
     "id": "vp_hdframe_horizontal_2",
     "fg": "hdframe_horizontal2",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "hdframe_horizontal2"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "hdframe_horizontal2" } ]
   },
   {
     "id": "vp_hdframe_horizontal_unconnected",
     "fg": "hdframe_horizontal_unconnected",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "hdframe_horizontal_unconnected"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "hdframe_horizontal_unconnected" } ]
   },
   {
     "id": "vp_hdframe_horizontal_2_unconnected",
     "fg": "hdframe_horizontal2_unconnected",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "hdframe_horizontal2_unconnected"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "hdframe_horizontal2_unconnected" } ]
   },
   {
     "id": "vp_hdframe_horizontal_front",
     "fg": "hdframe_horizontal_front",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "hdframe_horizontal_front"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "hdframe_horizontal_front" } ]
   },
   {
     "id": "vp_hdframe_horizontal_2_front",
     "fg": "hdframe_horizontal2_front",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "hdframe_horizontal2_front"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "hdframe_horizontal2_front" } ]
   },
   {
     "id": "vp_hdframe_horizontal_rear",
     "fg": "hdframe_horizontal_rear",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "hdframe_horizontal_rear"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "hdframe_horizontal_rear" } ]
   },
   {
     "id": "vp_hdframe_horizontal_2_rear",
     "fg": "hdframe_horizontal2_rear",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "hdframe_horizontal2_rear"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "hdframe_horizontal2_rear" } ]
   },
   {
     "id": [ "vp_hdframe_horizontal_left", "vp_hdframe_vertical_T_left" ],
     "fg": "hdframe_horizontal_left",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "hdframe_horizontal_left"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "hdframe_horizontal_left" } ]
   },
   {
     "id": "vp_hdframe_horizontal_2_left",
     "fg": "hdframe_horizontal_2_left",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "hdframe_horizontal_2_left"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "hdframe_horizontal_2_left" } ]
   },
   {
     "id": [ "vp_hdframe_horizontal_right", "vp_hdframe_vertical_T_right" ],
     "fg": "hdframe_horizontal_right",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "hdframe_horizontal_right"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "hdframe_horizontal_right" } ]
   },
   {
     "id": "vp_hdframe_horizontal_2_right",
     "fg": "hdframe_horizontal_2_right",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "hdframe_horizontal_2_right"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "hdframe_horizontal_2_right" } ]
   },
   {
     "id": "vp_hdframe_vertical",
     "fg": "hdframe_vertical",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "hdframe_vertical"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "hdframe_vertical" } ]
   },
   {
     "id": "vp_hdframe_vertical_2",
     "fg": "hdframe_vertical2",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "hdframe_vertical2"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "hdframe_vertical2" } ]
   },
   {
     "id": "vp_xlframe_cover",
     "fg": "xlframe_cover",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "xlframe_cover"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "xlframe_cover" } ]
   },
   {
     "id": "vp_xlframe_cross",
     "fg": "xlframe_cross",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "xlframe_cross"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "xlframe_cross" } ]
   },
   {
     "id": "vp_xlframe_cross_unconnected",
     "fg": "xlframe_cross_unconnected",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "xlframe_cross_unconnected"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "xlframe_cross_unconnected" } ]
   },
   {
     "id": "vp_xlframe_ne",
     "fg": "xlframe_ne",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "xlframe_ne"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "xlframe_ne" } ]
   },
   {
     "id": "vp_xlframe_nw",
     "fg": "xlframe_nw",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "xlframe_nw"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "xlframe_nw" } ]
   },
   {
     "id": "vp_xlframe_se",
     "fg": "xlframe_se",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "xlframe_se"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "xlframe_se" } ]
   },
   {
     "id": "vp_xlframe_sw",
     "fg": "xlframe_sw",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "xlframe_sw"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "xlframe_sw" } ]
   },
   {
     "id": "vp_xlframe_vertical_unconnected",
     "fg": "xlframe_vertical_unconnected",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "xlframe_vertical_unconnected"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "xlframe_vertical_unconnected" } ]
   },
   {
     "id": "vp_xlframe_vertical_2_unconnected",
     "fg": "xlframe_vertical2_unconnected",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "xlframe_vertical2_unconnected"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "xlframe_vertical2_unconnected" } ]
   },
   {
     "id": "vp_xlframe_vertical_left",
     "fg": "xlframe_vertical_left",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "xlframe_vertical_left"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "xlframe_vertical_left" } ]
   },
   {
     "id": "vp_xlframe_vertical_2_left",
     "fg": "xlframe_vertical2_left",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "xlframe_vertical2_left"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "xlframe_vertical2_left" } ]
   },
   {
     "id": "vp_xlframe_vertical_right",
     "fg": "xlframe_vertical_right",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "xlframe_vertical_right"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "xlframe_vertical_right" } ]
   },
   {
     "id": "vp_xlframe_vertical_2_right",
     "fg": "xlframe_vertical2_right",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "xlframe_vertical2_right"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "xlframe_vertical2_right" } ]
   },
   {
     "id": "vp_xlframe_horizontal",
     "fg": "xlframe_horizontal",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "xlframe_horizontal"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "xlframe_horizontal" } ]
   },
   {
     "id": "vp_xlframe_horizontal_2",
     "fg": "xlframe_horizontal2",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "xlframe_horizontal2"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "xlframe_horizontal2" } ]
   },
   {
     "id": "vp_xlframe_horizontal_unconnected",
     "fg": "xlframe_horizontal_unconnected",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "xlframe_horizontal_unconnected"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "xlframe_horizontal_unconnected" } ]
   },
   {
     "id": "vp_xlframe_horizontal_2_unconnected",
     "fg": "xlframe_horizontal2_unconnected",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "xlframe_horizontal2_unconnected"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "xlframe_horizontal2_unconnected" } ]
   },
   {
     "id": "vp_xlframe_horizontal_front",
     "fg": "xlframe_horizontal_front",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "xlframe_horizontal_front"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "xlframe_horizontal_front" } ]
   },
   {
     "id": "vp_xlframe_horizontal_2_front",
     "fg": "xlframe_horizontal2_front",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "xlframe_horizontal2_front"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "xlframe_horizontal2_front" } ]
   },
   {
     "id": "vp_xlframe_horizontal_rear",
     "fg": "xlframe_horizontal_rear",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "xlframe_horizontal_rear"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "xlframe_horizontal_rear" } ]
   },
   {
     "id": "vp_xlframe_horizontal_2_rear",
     "fg": "xlframe_horizontal2_rear",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "xlframe_horizontal2_rear"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "xlframe_horizontal2_rear" } ]
   },
   {
     "id": [ "vp_xlframe_horizontal_left", "vp_xlframe_vertical_T_left" ],
     "fg": "xlframe_horizontal_left",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "xlframe_horizontal_left"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "xlframe_horizontal_left" } ]
   },
   {
     "id": "vp_xlframe_horizontal_2_left",
     "fg": "xlframe_horizontal_2_left",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "xlframe_horizontal_2_left"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "xlframe_horizontal_2_left" } ]
   },
   {
     "id": [ "vp_xlframe_horizontal_right", "vp_xlframe_vertical_T_right" ],
     "fg": "xlframe_horizontal_right",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "xlframe_horizontal_right"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "xlframe_horizontal_right" } ]
   },
   {
     "id": "vp_xlframe_horizontal_2_right",
     "fg": "xlframe_horizontal_2_right",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "xlframe_horizontal_2_right"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "xlframe_horizontal_2_right" } ]
   },
   {
     "id": "vp_xlframe_vertical",
     "fg": "xlframe_vertical",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "xlframe_vertical"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "xlframe_vertical" } ]
   },
   {
     "id": "vp_xlframe_vertical_2",
     "fg": "xlframe_vertical2",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "xlframe_vertical2"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "xlframe_vertical2" } ]
   }
 ]

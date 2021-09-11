@@ -1,1 +1,11 @@
-{"id": "small_relic", "fg": ["830_small_relic_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "small_relic",
+  "fg": [
+    "830_small_relic_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

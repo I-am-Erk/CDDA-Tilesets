@@ -1,1 +1,14 @@
-{"id": ["tac_helmet", "helmet_hsurvivor", "hat_newsboy"], "fg": ["1885_tac_helmet_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "tac_helmet",
+    "helmet_hsurvivor",
+    "hat_newsboy"
+  ],
+  "fg": [
+    "1885_tac_helmet_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

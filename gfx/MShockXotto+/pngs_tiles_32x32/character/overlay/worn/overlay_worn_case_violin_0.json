@@ -1,1 +1,10 @@
-{"id": "overlay_worn_case_violin", "fg": ["5165_overlay_worn_case_violin_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_case_violin",
+  "fg": [
+    "5165_overlay_worn_case_violin_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,5 +1,9 @@
 {
   "id": "scissors",
-  "fg": ["scissors_bi"],
-  "bg": []
+  "fg": [
+    "scissors_bi"
+  ],
+  "bg": [
+    
+  ]
 }

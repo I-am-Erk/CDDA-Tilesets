@@ -1,1 +1,10 @@
-{"id": "hand_drill", "fg": ["1527_hand_drill_0"], "rotates": false, "bg": []}
+{
+  "id": "hand_drill",
+  "fg": [
+    "1527_hand_drill_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

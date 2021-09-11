@@ -88,8 +88,7 @@
       {
         "id": "broken",
         "fg": [ "crack_glass_left_32x48", "crack_glass_left_32x48", "crack_glass_left_32x48", "crack_glass_left_32x48" ],
-        "bg": ["vp_windshield_left", "vp_windshield_left_rotW", "vp_windshield_left_rotS", "vp_windshield_left_rotE"
-        ]
+        "bg": [ "vp_windshield_left", "vp_windshield_left_rotW", "vp_windshield_left_rotS", "vp_windshield_left_rotE" ]
       }
     ],
     "multitile": true
@@ -101,9 +100,7 @@
       {
         "id": "broken",
         "fg": [ "crack_glass_right_32x48", "crack_glass_right_32x48", "crack_glass_right_32x48", "crack_glass_right_32x48" ],
-        "bg": [
-         "vp_windshield_right", "vp_windshield_right_rotW", "vp_windshield_right_rotS", "vp_windshield_right_rotE"
-        ]
+        "bg": [ "vp_windshield_right", "vp_windshield_right_rotW", "vp_windshield_right_rotS", "vp_windshield_right_rotE" ]
       }
     ],
     "multitile": true

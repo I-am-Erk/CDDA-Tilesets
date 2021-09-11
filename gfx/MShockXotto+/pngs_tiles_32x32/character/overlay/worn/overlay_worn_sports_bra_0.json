@@ -1,1 +1,10 @@
-{"id": "overlay_worn_sports_bra", "fg": ["781_overlay_worn_sports_bra_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_sports_bra",
+  "fg": [
+    "781_overlay_worn_sports_bra_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,11 @@
-{"id": "manual_dodge", "fg": ["882_mag_barter_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "manual_dodge",
+  "fg": [
+    "882_mag_barter_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

@@ -1,1 +1,10 @@
-{"id": "tr_raincatcher", "fg": ["3174_t_raincatcher_0"], "rotates": false, "bg": []}
+{
+  "id": "tr_raincatcher",
+  "fg": [
+    "3174_t_raincatcher_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,10 @@
-{"id": "gloves_tactical", "fg": ["1866_gloves_tactical_0"], "rotates": false, "bg": []}
+{
+  "id": "gloves_tactical",
+  "fg": [
+    "1866_gloves_tactical_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

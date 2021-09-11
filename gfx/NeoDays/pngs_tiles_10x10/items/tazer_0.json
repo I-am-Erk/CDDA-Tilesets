@@ -1,1 +1,10 @@
-{"id": "tazer", "fg": ["1632_tazer_0"], "rotates": false, "bg": []}
+{
+  "id": "tazer",
+  "fg": [
+    "1632_tazer_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

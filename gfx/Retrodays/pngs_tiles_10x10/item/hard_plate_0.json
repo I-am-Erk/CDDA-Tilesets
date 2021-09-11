@@ -1,1 +1,10 @@
-{"id": "hard_plate", "fg": ["2012_hard_plate_0"], "rotates": false, "bg": []}
+{
+  "id": "hard_plate",
+  "fg": [
+    "2012_hard_plate_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

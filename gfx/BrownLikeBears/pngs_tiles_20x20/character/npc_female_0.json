@@ -1,1 +1,10 @@
-{"id": "npc_female", "fg": ["424_npc_female_0"], "rotates": false, "bg": []}
+{
+  "id": "npc_female",
+  "fg": [
+    "424_npc_female_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

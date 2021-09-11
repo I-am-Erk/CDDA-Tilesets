@@ -1,1 +1,11 @@
-{"id": "seed_hops", "fg": ["1672_seed_hops_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "seed_hops",
+  "fg": [
+    "1672_seed_hops_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

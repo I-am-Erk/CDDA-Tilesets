@@ -1,1 +1,11 @@
-{"id": "motor_small", "fg": ["1292_motor_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "motor_small",
+  "fg": [
+    "1292_motor_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

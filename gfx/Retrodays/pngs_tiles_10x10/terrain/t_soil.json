@@ -1,1 +1,10 @@
-{"id": "t_soil", "fg": ["t_soil"], "rotates": false, "bg": []}
+{
+  "id": "t_soil",
+  "fg": [
+    "t_soil"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

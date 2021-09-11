@@ -1,1 +1,11 @@
-{"id": "napalm", "fg": ["958_purifier_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "napalm",
+  "fg": [
+    "958_purifier_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

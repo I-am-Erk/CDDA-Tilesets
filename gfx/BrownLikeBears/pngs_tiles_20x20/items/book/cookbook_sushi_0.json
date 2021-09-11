@@ -1,1 +1,10 @@
-{"id": "cookbook_sushi", "fg": ["891_recipe_alpha_0"], "rotates": false, "bg": []}
+{
+  "id": "cookbook_sushi",
+  "fg": [
+    "891_recipe_alpha_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

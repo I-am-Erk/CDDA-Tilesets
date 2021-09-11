@@ -1,1 +1,11 @@
-{"id": "blackberries", "fg": ["1031_blueberries_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "blackberries",
+  "fg": [
+    "1031_blueberries_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

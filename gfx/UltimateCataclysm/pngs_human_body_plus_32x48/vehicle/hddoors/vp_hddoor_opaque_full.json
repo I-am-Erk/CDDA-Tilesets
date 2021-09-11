@@ -1,7 +1,12 @@
 [
   {
     "id": "vp_hddoor_opaque_full_left",
-    "fg": [ "vp_hddoor_opaque_left_rotN", "vp_hddoor_opaque_left_rotW", "vp_hddoor_opaque_left_rotS", "vp_hddoor_opaque_left_rotE" ],
+    "fg": [
+      "vp_hddoor_opaque_left_rotN",
+      "vp_hddoor_opaque_left_rotW",
+      "vp_hddoor_opaque_left_rotS",
+      "vp_hddoor_opaque_left_rotE"
+    ],
     "multitile": true,
     "additional_tiles": [
       {
@@ -27,7 +32,12 @@
   },
   {
     "id": "vp_hddoor_opaque_full_right",
-    "fg": [ "vp_hddoor_opaque_right_rotN", "vp_hddoor_opaque_right_rotW", "vp_hddoor_opaque_right_rotS", "vp_hddoor_opaque_right_rotE" ],
+    "fg": [
+      "vp_hddoor_opaque_right_rotN",
+      "vp_hddoor_opaque_right_rotW",
+      "vp_hddoor_opaque_right_rotS",
+      "vp_hddoor_opaque_right_rotE"
+    ],
     "multitile": true,
     "additional_tiles": [
       {

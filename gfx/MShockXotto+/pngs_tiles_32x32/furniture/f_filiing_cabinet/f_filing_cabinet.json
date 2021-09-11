@@ -1,6 +1,11 @@
 {
   "id": "f_filing_cabinet",
   "rotates": true,
-  "fg": ["f_filing_cabinet", "f_filing_cabinet_W", "f_filing_cabinet_N", "f_filing_cabinet_E"],
+  "fg": [
+    "f_filing_cabinet",
+    "f_filing_cabinet_W",
+    "f_filing_cabinet_N",
+    "f_filing_cabinet_E"
+  ],
   "bg": ""
 }

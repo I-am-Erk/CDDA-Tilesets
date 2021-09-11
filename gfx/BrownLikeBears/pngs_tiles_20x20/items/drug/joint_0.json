@@ -1,1 +1,11 @@
-{"id": "joint", "fg": ["1702_joint_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "joint",
+  "fg": [
+    "1702_joint_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

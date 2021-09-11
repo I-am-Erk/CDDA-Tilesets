@@ -1,1 +1,11 @@
-{"id": "soup_veggy", "fg": ["951_soup_veggy_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "soup_veggy",
+  "fg": [
+    "951_soup_veggy_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

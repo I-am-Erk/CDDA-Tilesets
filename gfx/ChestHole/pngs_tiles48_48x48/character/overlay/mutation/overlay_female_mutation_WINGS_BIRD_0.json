@@ -1,1 +1,10 @@
-{"id": "overlay_female_mutation_WINGS_BIRD", "fg": ["6001_overlay_female_mutation_WINGS_BIRD_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_female_mutation_WINGS_BIRD",
+  "fg": [
+    "6001_overlay_female_mutation_WINGS_BIRD_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

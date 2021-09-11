@@ -1,1 +1,10 @@
-{"id": "bookplate", "fg": ["1668_bookplate_0"], "rotates": false, "bg": []}
+{
+  "id": "bookplate",
+  "fg": [
+    "1668_bookplate_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

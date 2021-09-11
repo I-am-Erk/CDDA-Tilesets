@@ -1,1 +1,11 @@
-{"id": "pockknife", "fg": ["1630_pockknife_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "pockknife",
+  "fg": [
+    "1630_pockknife_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

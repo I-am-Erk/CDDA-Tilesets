@@ -1,1 +1,10 @@
-{"id": "door_opaque", "fg": ["326_vp_door_0"], "rotates": false, "bg": []}
+{
+  "id": "door_opaque",
+  "fg": [
+    "326_vp_door_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

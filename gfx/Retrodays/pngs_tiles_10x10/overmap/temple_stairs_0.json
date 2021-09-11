@@ -1,1 +1,10 @@
-{"id": "temple_stairs", "fg": ["3307_temple_stairs_0"], "rotates": false, "bg": []}
+{
+  "id": "temple_stairs",
+  "fg": [
+    "3307_temple_stairs_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

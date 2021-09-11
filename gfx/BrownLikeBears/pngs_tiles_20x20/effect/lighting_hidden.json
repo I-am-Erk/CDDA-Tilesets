@@ -1,1 +1,10 @@
-{"id": "lighting_hidden", "fg": ["lighting_hidden"], "rotates": false, "bg": []}
+{
+  "id": "lighting_hidden",
+  "fg": [
+    "lighting_hidden"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

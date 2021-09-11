@@ -1,1 +1,11 @@
-{"id": "jacket_jean", "fg": ["739_jacket_jean_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "jacket_jean",
+  "fg": [
+    "739_jacket_jean_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

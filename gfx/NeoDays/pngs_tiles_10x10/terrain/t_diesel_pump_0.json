@@ -1,1 +1,10 @@
-{"id": "t_diesel_pump", "fg": ["579_t_diesel_pump_0"], "rotates": false, "bg": []}
+{
+  "id": "t_diesel_pump",
+  "fg": [
+    "579_t_diesel_pump_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,10 @@
-{"id": "bottle_glass", "fg": ["1153_bottle_glass_0"], "rotates": false, "bg": []}
+{
+  "id": "bottle_glass",
+  "fg": [
+    "1153_bottle_glass_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

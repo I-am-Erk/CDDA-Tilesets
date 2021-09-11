@@ -1,1 +1,11 @@
-{"id": "smokebomb_act", "fg": ["1542_smokebomb_act_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "smokebomb_act",
+  "fg": [
+    "1542_smokebomb_act_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

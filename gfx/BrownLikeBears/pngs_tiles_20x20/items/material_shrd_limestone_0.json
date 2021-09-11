@@ -1,1 +1,11 @@
-{"id": "material_shrd_limestone", "fg": ["1776_ceramic_shard_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "material_shrd_limestone",
+  "fg": [
+    "1776_ceramic_shard_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

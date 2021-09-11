@@ -1,1 +1,10 @@
-{"id": "tr_boobytrap", "fg": ["844_tr_boobytrap_0"], "rotates": false, "bg": []}
+{
+  "id": "tr_boobytrap",
+  "fg": [
+    "844_tr_boobytrap_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

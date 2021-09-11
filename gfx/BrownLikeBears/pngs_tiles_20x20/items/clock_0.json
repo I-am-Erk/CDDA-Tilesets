@@ -1,1 +1,11 @@
-{"id": "clock", "fg": ["1256_clock_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "clock",
+  "fg": [
+    "1256_clock_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

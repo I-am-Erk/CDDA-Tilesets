@@ -21,10 +21,7 @@
   },
   {
     "id": "t_tree_cherry_season_autumn",
-    "fg": [
-        { "weight": 1, "sprite": "t_tree_cherry_autumn1" },
-        { "weight": 1, "sprite": "t_tree_cherry_autumn2" }
-    ],
+    "fg": [ { "weight": 1, "sprite": "t_tree_cherry_autumn1" }, { "weight": 1, "sprite": "t_tree_cherry_autumn2" } ],
     "bg": "t_grass_autumn_giant"
   }
 ]

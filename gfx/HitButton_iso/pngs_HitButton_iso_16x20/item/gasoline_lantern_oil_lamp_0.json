@@ -1,1 +1,12 @@
-{"id": ["gasoline_lantern", "oil_lamp"], "fg": ["2052_gasoline_lantern_0"], "bg": []}
+{
+  "id": [
+    "gasoline_lantern",
+    "oil_lamp"
+  ],
+  "fg": [
+    "2052_gasoline_lantern_0"
+  ],
+  "bg": [
+    
+  ]
+}

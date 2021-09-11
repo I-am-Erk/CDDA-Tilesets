@@ -1,1 +1,12 @@
-{"id": ["armguard_chitin", "armguard_bone"], "fg": ["1308_armguard_chitin_0"], "bg": []}
+{
+  "id": [
+    "armguard_chitin",
+    "armguard_bone"
+  ],
+  "fg": [
+    "1308_armguard_chitin_0"
+  ],
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,11 @@
-{"id": "shot_slug", "fg": ["520_shot_bird_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "shot_slug",
+  "fg": [
+    "520_shot_bird_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

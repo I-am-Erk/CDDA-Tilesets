@@ -1,1 +1,11 @@
-{"id": "id_science", "fg": ["1189_id_science_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "id_science",
+  "fg": [
+    "1189_id_science_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

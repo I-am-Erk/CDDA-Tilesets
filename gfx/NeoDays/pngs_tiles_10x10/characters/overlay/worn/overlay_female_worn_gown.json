@@ -1,1 +1,9 @@
-{"id": "overlay_female_worn_gown", "fg": ["overlay_female_worn_gown"], "bg": []}
+{
+  "id": "overlay_female_worn_gown",
+  "fg": [
+    "overlay_female_worn_gown"
+  ],
+  "bg": [
+    
+  ]
+}

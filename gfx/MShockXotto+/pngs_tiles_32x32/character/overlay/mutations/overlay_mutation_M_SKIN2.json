@@ -1,12 +1,12 @@
 [
   {
-    "id": ["overlay_male_mutation_M_SKIN2"],
+    "id": [ "overlay_male_mutation_M_SKIN2" ],
     "fg": [ "overlay_male_mutation_M_SKIN2" ],
     "rotates": false,
     "bg": [  ]
   },
   {
-    "id": ["overlay_female_mutation_M_SKIN2"],
+    "id": [ "overlay_female_mutation_M_SKIN2" ],
     "fg": [ "overlay_female_mutation_M_SKIN2" ],
     "rotates": false,
     "bg": [  ]

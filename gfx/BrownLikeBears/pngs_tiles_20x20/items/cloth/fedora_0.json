@@ -1,1 +1,11 @@
-{"id": "fedora", "fg": ["909_cowboy_hat_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "fedora",
+  "fg": [
+    "909_cowboy_hat_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

@@ -1,1 +1,10 @@
-{"id": "portable_game", "fg": ["1591_portable_game_0"], "rotates": false, "bg": []}
+{
+  "id": "portable_game",
+  "fg": [
+    "1591_portable_game_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

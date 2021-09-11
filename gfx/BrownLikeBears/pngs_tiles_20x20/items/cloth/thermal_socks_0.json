@@ -1,1 +1,11 @@
-{"id": "thermal_socks", "fg": ["674_cleats_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "thermal_socks",
+  "fg": [
+    "674_cleats_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

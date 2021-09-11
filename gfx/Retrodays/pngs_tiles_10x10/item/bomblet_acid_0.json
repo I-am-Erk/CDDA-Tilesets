@@ -1,1 +1,10 @@
-{"id": "bomblet_acid", "fg": ["1247_bomblet_acid_0"], "rotates": false, "bg": []}
+{
+  "id": "bomblet_acid",
+  "fg": [
+    "1247_bomblet_acid_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

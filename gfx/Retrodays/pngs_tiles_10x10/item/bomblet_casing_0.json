@@ -1,1 +1,10 @@
-{"id": "bomblet_casing", "fg": ["1243_bomblet_casing_0"], "rotates": false, "bg": []}
+{
+  "id": "bomblet_casing",
+  "fg": [
+    "1243_bomblet_casing_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

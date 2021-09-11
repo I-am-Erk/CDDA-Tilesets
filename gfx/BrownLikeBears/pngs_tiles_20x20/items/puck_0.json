@@ -1,1 +1,11 @@
-{"id": "puck", "fg": ["976_puck_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "puck",
+  "fg": [
+    "976_puck_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

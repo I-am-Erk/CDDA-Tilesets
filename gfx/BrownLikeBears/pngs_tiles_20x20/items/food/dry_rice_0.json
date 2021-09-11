@@ -1,1 +1,11 @@
-{"id": "dry_rice", "fg": ["1115_lye_powder_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "dry_rice",
+  "fg": [
+    "1115_lye_powder_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

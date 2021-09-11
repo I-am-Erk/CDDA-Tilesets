@@ -1,1 +1,11 @@
-{"id": "throw_extinguisher", "fg": ["1482_throw_extinguisher_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "throw_extinguisher",
+  "fg": [
+    "1482_throw_extinguisher_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

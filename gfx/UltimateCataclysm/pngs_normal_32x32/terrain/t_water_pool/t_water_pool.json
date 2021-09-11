@@ -19,12 +19,7 @@
     {
       "id": "corner",
       "bg": "",
-      "fg": [
-        "t_water_pool_corner_nw",
-        "t_water_pool_corner_sw",
-        "t_water_pool_corner_se",
-        "t_water_pool_corner_ne"
-      ]
+      "fg": [ "t_water_pool_corner_nw", "t_water_pool_corner_sw", "t_water_pool_corner_se", "t_water_pool_corner_ne" ]
     },
     {
       "id": "t_connection",
@@ -36,31 +31,12 @@
         "t_water_pool_t_connection_e"
       ]
     },
-    {
-      "id": "edge",
-      "bg": "",
-      "fg": [
-        "t_water_pool_edge_ns",
-        "t_water_pool_edge_ew"
-      ]
-    },
+    { "id": "edge", "bg": "", "fg": [ "t_water_pool_edge_ns", "t_water_pool_edge_ew" ] },
     {
       "id": "end_piece",
       "bg": "",
-      "fg": [
-        "t_water_pool_end_piece_n",
-        "t_water_pool_end_piece_w",
-        "t_water_pool_end_piece_s",
-        "t_water_pool_end_piece_e"
-      ]
+      "fg": [ "t_water_pool_end_piece_n", "t_water_pool_end_piece_w", "t_water_pool_end_piece_s", "t_water_pool_end_piece_e" ]
     },
-    {
-      "bg": "",
-      "id": "unconnected",
-      "fg": [
-        "t_water_pool_unconnected",
-        "t_water_pool_unconnected"
-      ]
-    }
+    { "bg": "", "id": "unconnected", "fg": [ "t_water_pool_unconnected", "t_water_pool_unconnected" ] }
   ]
 }

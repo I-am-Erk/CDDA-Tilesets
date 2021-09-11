@@ -1,1 +1,11 @@
-{"id": "drink_boozeberry", "fg": ["1131_drink_boozeberry_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "drink_boozeberry",
+  "fg": [
+    "1131_drink_boozeberry_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

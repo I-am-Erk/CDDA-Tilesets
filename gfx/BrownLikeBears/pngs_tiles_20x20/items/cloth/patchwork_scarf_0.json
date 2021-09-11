@@ -1,1 +1,11 @@
-{"id": "patchwork_scarf", "fg": ["779_scarf_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "patchwork_scarf",
+  "fg": [
+    "779_scarf_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

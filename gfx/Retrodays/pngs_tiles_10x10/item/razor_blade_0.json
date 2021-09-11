@@ -1,1 +1,10 @@
-{"id": "razor_blade", "fg": ["2118_razor_blade_0"], "rotates": false, "bg": []}
+{
+  "id": "razor_blade",
+  "fg": [
+    "2118_razor_blade_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

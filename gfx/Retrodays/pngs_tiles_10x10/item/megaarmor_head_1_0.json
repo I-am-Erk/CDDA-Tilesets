@@ -1,1 +1,10 @@
-{"id": "megaarmor_head_1", "fg": ["1945_megaarmor_head_1_0"], "rotates": false, "bg": []}
+{
+  "id": "megaarmor_head_1",
+  "fg": [
+    "1945_megaarmor_head_1_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

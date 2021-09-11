@@ -11,10 +11,7 @@
   },
   {
     "id": "mon_zombie_dog",
-    "fg": [
-      { "weight": 1, "sprite": "mon_zombie_dog" },
-      { "weight": 1, "sprite": "mon_zombie_dog_2" }
-    ],
+    "fg": [ { "weight": 1, "sprite": "mon_zombie_dog" }, { "weight": 1, "sprite": "mon_zombie_dog_2" } ],
     "bg": "shadow_32x32_normal"
   },
   {
@@ -73,8 +70,8 @@
     "bg": "shadow_32x32_normal"
   },
   {
-  "id": "mon_dog_rottweiler",
-  "fg": "mon_dog_rottweiler",
-  "bg": "shadow_32x32_normal"
+    "id": "mon_dog_rottweiler",
+    "fg": "mon_dog_rottweiler",
+    "bg": "shadow_32x32_normal"
   }
 ]

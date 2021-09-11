@@ -1,1 +1,10 @@
-{"id": "dahlia_flower", "fg": ["930_dahlia_flower_0"], "rotates": false, "bg": []}
+{
+  "id": "dahlia_flower",
+  "fg": [
+    "930_dahlia_flower_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

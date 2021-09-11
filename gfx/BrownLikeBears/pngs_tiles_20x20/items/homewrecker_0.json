@@ -1,1 +1,11 @@
-{"id": "homewrecker", "fg": ["1272_nailbat_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "homewrecker",
+  "fg": [
+    "1272_nailbat_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

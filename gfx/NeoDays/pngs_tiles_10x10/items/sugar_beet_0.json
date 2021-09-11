@@ -1,1 +1,10 @@
-{"id": "sugar_beet", "fg": ["1045_sugar_beet_0"], "rotates": false, "bg": []}
+{
+  "id": "sugar_beet",
+  "fg": [
+    "1045_sugar_beet_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

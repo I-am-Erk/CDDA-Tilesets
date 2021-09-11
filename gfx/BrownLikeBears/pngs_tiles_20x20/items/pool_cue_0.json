@@ -1,1 +1,11 @@
-{"id": "pool_cue", "fg": ["splinter"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "pool_cue",
+  "fg": [
+    "splinter"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

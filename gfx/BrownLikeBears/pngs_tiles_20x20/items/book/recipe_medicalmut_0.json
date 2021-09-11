@@ -1,1 +1,11 @@
-{"id": "recipe_medicalmut", "fg": ["882_mag_barter_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "recipe_medicalmut",
+  "fg": [
+    "882_mag_barter_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

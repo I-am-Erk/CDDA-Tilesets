@@ -13,12 +13,7 @@
       },
       {
         "id": "t_connection",
-        "fg": [
-          "t_fence_wire_edge_ew",
-          "t_fence_wire_edge_ns",
-          "t_fence_wire_edge_ew",
-          "t_fence_wire_edge_ns"
-        ],
+        "fg": [ "t_fence_wire_edge_ew", "t_fence_wire_edge_ns", "t_fence_wire_edge_ew", "t_fence_wire_edge_ns" ],
         "bg": "1_t_dirt_0"
       },
       { "id": "edge", "fg": [ "t_fence_wire_edge_ns", "t_fence_wire_edge_ew" ], "bg": "1_t_dirt_0" },
@@ -44,12 +39,7 @@
       },
       {
         "id": "t_connection",
-        "fg": [
-          "t_fence_wire_edge_ew",
-          "t_fence_wire_edge_ns",
-          "t_fence_wire_edge_ew",
-          "t_fence_wire_edge_ns"
-        ],
+        "fg": [ "t_fence_wire_edge_ew", "t_fence_wire_edge_ns", "t_fence_wire_edge_ew", "t_fence_wire_edge_ns" ],
         "bg": "t_dirt_summer"
       },
       { "id": "edge", "fg": [ "t_fence_wire_edge_ns", "t_fence_wire_edge_ew" ], "bg": "t_dirt_summer" },
@@ -75,12 +65,7 @@
       },
       {
         "id": "t_connection",
-        "fg": [
-          "t_fence_wire_edge_ew",
-          "t_fence_wire_edge_ns",
-          "t_fence_wire_edge_ew",
-          "t_fence_wire_edge_ns"
-        ],
+        "fg": [ "t_fence_wire_edge_ew", "t_fence_wire_edge_ns", "t_fence_wire_edge_ew", "t_fence_wire_edge_ns" ],
         "bg": "t_dirt_autumn"
       },
       { "id": "edge", "fg": [ "t_fence_wire_edge_ns", "t_fence_wire_edge_ew" ], "bg": "t_dirt_autumn" },
@@ -106,12 +91,7 @@
       },
       {
         "id": "t_connection",
-        "fg": [
-          "t_fence_wire_edge_ew",
-          "t_fence_wire_edge_ns",
-          "t_fence_wire_edge_ew",
-          "t_fence_wire_edge_ns"
-        ],
+        "fg": [ "t_fence_wire_edge_ew", "t_fence_wire_edge_ns", "t_fence_wire_edge_ew", "t_fence_wire_edge_ns" ],
         "bg": "t_dirt_winter"
       },
       { "id": "edge", "fg": [ "t_fence_wire_edge_ns", "t_fence_wire_edge_ew" ], "bg": "t_dirt_winter" },

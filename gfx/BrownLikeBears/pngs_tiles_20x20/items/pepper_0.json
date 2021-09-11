@@ -1,1 +1,11 @@
-{"id": "pepper", "fg": ["604_gunpowder_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "pepper",
+  "fg": [
+    "604_gunpowder_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

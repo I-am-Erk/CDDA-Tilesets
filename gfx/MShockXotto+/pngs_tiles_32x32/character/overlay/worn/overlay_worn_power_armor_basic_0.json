@@ -1,1 +1,10 @@
-{"id": "overlay_worn_power_armor_basic", "fg": ["743_overlay_worn_power_armor_basic_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_power_armor_basic",
+  "fg": [
+    "743_overlay_worn_power_armor_basic_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

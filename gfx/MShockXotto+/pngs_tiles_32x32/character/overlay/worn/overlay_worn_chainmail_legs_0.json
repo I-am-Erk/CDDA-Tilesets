@@ -1,1 +1,10 @@
-{"id": "overlay_worn_chainmail_legs", "fg": ["573_overlay_worn_chainmail_legs_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_chainmail_legs",
+  "fg": [
+    "573_overlay_worn_chainmail_legs_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,10 @@
-{"id": "overlay_female_worn_helmet_riot_raised", "fg": ["3353_overlay_female_worn_helmet_riot_raised_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_female_worn_helmet_riot_raised",
+  "fg": [
+    "3353_overlay_female_worn_helmet_riot_raised_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

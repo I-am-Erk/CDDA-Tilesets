@@ -1,1 +1,10 @@
-{"id": "minireactor", "fg": ["1662_vp_minireactor_0"], "rotates": false, "bg": []}
+{
+  "id": "minireactor",
+  "fg": [
+    "1662_vp_minireactor_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

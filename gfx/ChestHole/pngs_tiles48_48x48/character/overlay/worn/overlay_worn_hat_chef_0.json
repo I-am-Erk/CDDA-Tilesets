@@ -1,1 +1,10 @@
-{"id": "overlay_worn_hat_chef", "fg": ["6051_overlay_worn_hat_chef_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_hat_chef",
+  "fg": [
+    "6051_overlay_worn_hat_chef_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

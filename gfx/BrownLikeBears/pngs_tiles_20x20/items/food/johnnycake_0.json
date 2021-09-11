@@ -1,1 +1,11 @@
-{"id": "johnnycake", "fg": ["1049_fish_fried_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "johnnycake",
+  "fg": [
+    "1049_fish_fried_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

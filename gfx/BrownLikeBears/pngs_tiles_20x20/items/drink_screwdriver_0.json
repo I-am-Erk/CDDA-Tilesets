@@ -1,1 +1,11 @@
-{"id": "drink_screwdriver", "fg": ["946_oj_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "drink_screwdriver",
+  "fg": [
+    "946_oj_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

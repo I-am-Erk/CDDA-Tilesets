@@ -1,1 +1,11 @@
-{"id": "dive_bag", "fg": ["821_fanny_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "dive_bag",
+  "fg": [
+    "821_fanny_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

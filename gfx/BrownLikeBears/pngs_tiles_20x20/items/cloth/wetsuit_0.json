@@ -1,1 +1,11 @@
-{"id": "wetsuit", "fg": ["709_wetsuit_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "wetsuit",
+  "fg": [
+    "709_wetsuit_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

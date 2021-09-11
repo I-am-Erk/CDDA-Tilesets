@@ -1,1 +1,11 @@
-{"id": "flask_hip", "fg": ["1157_flask_hip_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "flask_hip",
+  "fg": [
+    "1157_flask_hip_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

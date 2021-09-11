@@ -1,1 +1,10 @@
-{"id": "overlay_female_mutation_QUILLS", "fg": ["2776_overlay_female_mutation_FEATHERS_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_female_mutation_QUILLS",
+  "fg": [
+    "2776_overlay_female_mutation_FEATHERS_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

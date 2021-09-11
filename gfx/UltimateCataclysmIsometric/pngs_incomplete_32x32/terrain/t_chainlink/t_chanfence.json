@@ -2,7 +2,7 @@
   {
     "id": "t_chainfence",
     "multitile": true,
-	"rotates": false,
+    "rotates": false,
     "fg": [ "t_chainfence_ew" ],
     "bg": [ "t_pavement" ],
     "additional_tiles": [
@@ -18,7 +18,7 @@
   {
     "id": "t_chainfence_season_winter",
     "multitile": true,
-	"rotates": false,
+    "rotates": false,
     "fg": [ "t_chainfence_ew" ],
     "bg": [ "snow_shallow_center" ],
     "additional_tiles": [

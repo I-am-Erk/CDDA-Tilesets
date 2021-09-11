@@ -1,1 +1,10 @@
-{"id": "f_birdbath", "fg": ["709_f_birdbath_0"], "rotates": false, "bg": []}
+{
+  "id": "f_birdbath",
+  "fg": [
+    "709_f_birdbath_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

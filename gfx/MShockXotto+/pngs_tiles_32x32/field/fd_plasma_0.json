@@ -1,1 +1,10 @@
-{"id": "fd_plasma", "fg": ["2938_fd_plasma_0"], "bg": [], "rotates": false}
+{
+  "id": "fd_plasma",
+  "fg": [
+    "2938_fd_plasma_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false
+}

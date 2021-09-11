@@ -1,1 +1,11 @@
-{"id": "sports_bra", "fg": ["727_bikini_top_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "sports_bra",
+  "fg": [
+    "727_bikini_top_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

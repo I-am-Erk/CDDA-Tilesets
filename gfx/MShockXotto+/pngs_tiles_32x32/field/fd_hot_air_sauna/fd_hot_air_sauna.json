@@ -4,11 +4,7 @@
   "bg": "",
   "multitile": true,
   "additional_tiles": [
-    {
-      "id": "center",
-      "fg": "fd_hot_air_sauna_center",
-      "bg": ""
-    },
+    { "id": "center", "fg": "fd_hot_air_sauna_center", "bg": "" },
     {
       "id": "corner",
       "fg": [
@@ -29,14 +25,7 @@
       ],
       "bg": ""
     },
-    {
-      "id": "edge",
-      "fg": [
-        "fd_hot_air_sauna_edge_ns",
-        "fd_hot_air_sauna_edge_ew"
-      ],
-      "bg": ""
-    },
+    { "id": "edge", "fg": [ "fd_hot_air_sauna_edge_ns", "fd_hot_air_sauna_edge_ew" ], "bg": "" },
     {
       "id": "end_piece",
       "fg": [
@@ -47,13 +36,6 @@
       ],
       "bg": ""
     },
-    {
-      "id": "unconnected",
-      "fg": [
-        "fd_hot_air_sauna_unconnected",
-        "fd_hot_air_sauna_unconnected"
-      ],
-      "bg": ""
-    }
+    { "id": "unconnected", "fg": [ "fd_hot_air_sauna_unconnected", "fd_hot_air_sauna_unconnected" ], "bg": "" }
   ]
 }

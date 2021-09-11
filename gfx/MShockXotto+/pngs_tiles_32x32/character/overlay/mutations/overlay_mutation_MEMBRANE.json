@@ -1,6 +1,6 @@
 [
   {
-    "id": ["overlay_mutation_MEMBRANE"],
+    "id": [ "overlay_mutation_MEMBRANE" ],
     "fg": [ "overlay_mutation_MEMBRANE" ],
     "rotates": false,
     "bg": [  ]

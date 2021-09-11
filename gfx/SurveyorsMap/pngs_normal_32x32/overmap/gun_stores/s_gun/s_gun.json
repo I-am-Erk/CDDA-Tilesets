@@ -8,7 +8,7 @@
   {
     "id": [ "s_gun_roof" ],
     "fg": [ "s_gun_roof_north" ],
-    "bg": [ "open_air"  ],
+    "bg": [ "open_air" ],
     "rotates": true
   }
 ]

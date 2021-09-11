@@ -1,1 +1,10 @@
-{"id": "overlay_worn_hmil_armor", "fg": ["653_overlay_worn_hmil_armor_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_hmil_armor",
+  "fg": [
+    "653_overlay_worn_hmil_armor_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

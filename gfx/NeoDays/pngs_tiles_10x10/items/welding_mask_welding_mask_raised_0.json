@@ -1,1 +1,13 @@
-{"id": ["welding_mask", "welding_mask_raised"], "fg": ["3048_welding_mask_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "welding_mask",
+    "welding_mask_raised"
+  ],
+  "fg": [
+    "3048_welding_mask_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

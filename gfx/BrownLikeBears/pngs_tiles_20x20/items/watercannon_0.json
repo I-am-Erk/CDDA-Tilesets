@@ -1,1 +1,11 @@
-{"id": "watercannon", "fg": ["1418_fn_p90_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "watercannon",
+  "fg": [
+    "1418_fn_p90_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

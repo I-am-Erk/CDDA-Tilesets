@@ -1,1 +1,11 @@
-{"id": "pills_sleep", "fg": ["1100_pills_sleep_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "pills_sleep",
+  "fg": [
+    "1100_pills_sleep_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

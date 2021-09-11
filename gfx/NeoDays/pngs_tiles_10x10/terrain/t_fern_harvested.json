@@ -1,1 +1,10 @@
-{ "id": "t_fern_harvested", "fg": ["t_fern_harvested"], "rotates": false, "bg": [] }
+{
+  "id": "t_fern_harvested",
+  "fg": [
+    "t_fern_harvested"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

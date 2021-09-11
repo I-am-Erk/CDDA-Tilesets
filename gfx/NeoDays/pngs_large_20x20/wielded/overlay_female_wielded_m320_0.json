@@ -1,1 +1,10 @@
-{"id": "overlay_female_wielded_m320", "fg": ["3485_overlay_female_wielded_m320_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_female_wielded_m320",
+  "fg": [
+    "3485_overlay_female_wielded_m320_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

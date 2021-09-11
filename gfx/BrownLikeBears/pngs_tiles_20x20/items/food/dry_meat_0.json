@@ -1,1 +1,11 @@
-{"id": "dry_meat", "fg": ["1020_dry_meat_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "dry_meat",
+  "fg": [
+    "1020_dry_meat_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

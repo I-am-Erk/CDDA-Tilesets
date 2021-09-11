@@ -1,1 +1,11 @@
-{"id": "hk_mp7", "fg": ["1384_needlegun_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "hk_mp7",
+  "fg": [
+    "1384_needlegun_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

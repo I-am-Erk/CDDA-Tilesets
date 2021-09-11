@@ -1,1 +1,11 @@
-{"id": "catfood", "fg": ["1004_rehydrated_fruit_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "catfood",
+  "fg": [
+    "1004_rehydrated_fruit_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

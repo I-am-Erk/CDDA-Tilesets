@@ -1,1 +1,10 @@
-{"id": "overlay_female_worn_under_armor", "fg": ["505_overlay_female_worn_under_armor_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_female_worn_under_armor",
+  "fg": [
+    "505_overlay_female_worn_under_armor_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

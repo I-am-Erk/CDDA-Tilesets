@@ -1,1 +1,10 @@
-{"id": "overlay_worn_undershirt", "fg": ["822_overlay_worn_undershirt_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_undershirt",
+  "fg": [
+    "822_overlay_worn_undershirt_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

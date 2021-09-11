@@ -1,1 +1,10 @@
-{"id": "overlay_worn_straw_fedora", "fg": ["430_overlay_worn_straw_fedora_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_straw_fedora",
+  "fg": [
+    "430_overlay_worn_straw_fedora_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,10 @@
-{"id": "puller", "fg": ["1597_puller_0"], "rotates": false, "bg": []}
+{
+  "id": "puller",
+  "fg": [
+    "1597_puller_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

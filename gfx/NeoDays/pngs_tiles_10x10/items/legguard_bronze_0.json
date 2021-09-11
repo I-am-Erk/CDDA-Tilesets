@@ -1,1 +1,10 @@
-{"id": "legguard_bronze", "fg": ["1931_legguard_bronze_0"], "rotates": false, "bg": []}
+{
+  "id": "legguard_bronze",
+  "fg": [
+    "1931_legguard_bronze_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

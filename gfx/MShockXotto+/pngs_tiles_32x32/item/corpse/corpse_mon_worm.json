@@ -1,6 +1,10 @@
-  {
-    "id": "corpse_mon_worm",
-    "fg": [ "corpse_mon_worm" ],
-    "rotates": false,
-    "bg": [  ]
-  }
+{
+  "id": "corpse_mon_worm",
+  "fg": [
+    "corpse_mon_worm"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

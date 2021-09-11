@@ -1,1 +1,10 @@
-{"id": "overlay_worn_sleeveless_duster_leather", "fg": [""], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_sleeveless_duster_leather",
+  "fg": [
+    ""
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

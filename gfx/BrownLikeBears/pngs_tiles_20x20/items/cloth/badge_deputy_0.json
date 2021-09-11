@@ -1,1 +1,11 @@
-{"id": "badge_deputy", "fg": ["833_badge_deputy_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "badge_deputy",
+  "fg": [
+    "833_badge_deputy_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

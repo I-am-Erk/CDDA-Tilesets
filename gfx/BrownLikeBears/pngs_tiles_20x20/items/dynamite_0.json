@@ -1,1 +1,11 @@
-{"id": "dynamite", "fg": ["1548_dynamite_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "dynamite",
+  "fg": [
+    "1548_dynamite_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

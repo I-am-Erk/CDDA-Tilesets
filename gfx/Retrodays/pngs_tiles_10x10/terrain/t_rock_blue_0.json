@@ -1,1 +1,10 @@
-{"id": "t_rock_blue", "fg": ["209_t_rock_blue_0"], "rotates": false, "bg": []}
+{
+  "id": "t_rock_blue",
+  "fg": [
+    "209_t_rock_blue_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

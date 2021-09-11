@@ -1,1 +1,11 @@
-{"id": "irradiated_blackberries", "fg": ["1031_blueberries_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "irradiated_blackberries",
+  "fg": [
+    "1031_blueberries_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

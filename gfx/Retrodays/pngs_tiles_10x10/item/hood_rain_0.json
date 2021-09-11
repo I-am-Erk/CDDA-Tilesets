@@ -1,1 +1,10 @@
-{"id": "hood_rain", "fg": ["1903_hood_rain_0"], "rotates": false, "bg": []}
+{
+  "id": "hood_rain",
+  "fg": [
+    "1903_hood_rain_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

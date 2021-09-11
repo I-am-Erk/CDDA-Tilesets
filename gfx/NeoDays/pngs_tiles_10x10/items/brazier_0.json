@@ -1,1 +1,10 @@
-{"id": "brazier", "fg": ["712_brazier_0"], "rotates": false, "bg": []}
+{
+  "id": "brazier",
+  "fg": [
+    "712_brazier_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

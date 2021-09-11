@@ -1,1 +1,11 @@
-{"id": "dress", "fg": ["713_dress_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "dress",
+  "fg": [
+    "713_dress_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

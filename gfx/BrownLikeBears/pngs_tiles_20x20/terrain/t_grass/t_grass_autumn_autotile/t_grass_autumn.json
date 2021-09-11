@@ -4,19 +4,10 @@
   "bg": "",
   "multitile": true,
   "additional_tiles": [
-    {
-      "id": "center",
-      "fg": "t_grass_autumn_center",
-      "bg": ""
-    },
+    { "id": "center", "fg": "t_grass_autumn_center", "bg": "" },
     {
       "id": "corner",
-      "fg": [
-        "t_grass_autumn_corner_nw",
-        "t_grass_autumn_corner_sw",
-        "t_grass_autumn_corner_se",
-        "t_grass_autumn_corner_ne"
-      ],
+      "fg": [ "t_grass_autumn_corner_nw", "t_grass_autumn_corner_sw", "t_grass_autumn_corner_se", "t_grass_autumn_corner_ne" ],
       "bg": ""
     },
     {
@@ -29,14 +20,7 @@
       ],
       "bg": ""
     },
-    {
-      "id": "edge",
-      "fg": [
-        "t_grass_autumn_edge_ns",
-        "t_grass_autumn_edge_ew"
-      ],
-      "bg": ""
-    },
+    { "id": "edge", "fg": [ "t_grass_autumn_edge_ns", "t_grass_autumn_edge_ew" ], "bg": "" },
     {
       "id": "end_piece",
       "fg": [
@@ -47,13 +31,6 @@
       ],
       "bg": ""
     },
-    {
-      "id": "unconnected",
-      "fg": [
-        "t_grass_autumn_unconnected",
-        "t_grass_autumn_unconnected"
-      ],
-      "bg": ""
-    }
+    { "id": "unconnected", "fg": [ "t_grass_autumn_unconnected", "t_grass_autumn_unconnected" ], "bg": "" }
   ]
 }

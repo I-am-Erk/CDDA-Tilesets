@@ -132,11 +132,7 @@
     ]
   },
   {
-    "id": [
-      "vp_woodboard_horizontal",
-      "vp_woodboard_vertical",
-      "vp_woodboard_horizontal_front"
-    ],
+    "id": [ "vp_woodboard_horizontal", "vp_woodboard_vertical", "vp_woodboard_horizontal_front" ],
     "fg": [
       "vp_woodboard_horizontal_front_rotN_rear_rotS",
       "vp_woodboard_horizontal_front_rotW_rear_rotE",

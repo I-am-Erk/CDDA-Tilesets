@@ -1,1 +1,10 @@
-{"id": "footstep", "fg": ["15_footstep_0"], "rotates": false, "bg": []}
+{
+  "id": "footstep",
+  "fg": [
+    "15_footstep_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

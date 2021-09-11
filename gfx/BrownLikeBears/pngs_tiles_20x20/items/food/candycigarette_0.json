@@ -1,1 +1,11 @@
-{"id": "candycigarette", "fg": ["1136_candycigarette_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "candycigarette",
+  "fg": [
+    "1136_candycigarette_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

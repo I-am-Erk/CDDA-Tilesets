@@ -1,1 +1,11 @@
-{"id": "rock_sock", "fg": ["1326_rock_sock_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "rock_sock",
+  "fg": [
+    "1326_rock_sock_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

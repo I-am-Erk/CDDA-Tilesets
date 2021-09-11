@@ -1,1 +1,10 @@
-{"id": "overlay_worn_gloves_work", "fg": ["615_overlay_worn_gloves_work_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_gloves_work",
+  "fg": [
+    "615_overlay_worn_gloves_work_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

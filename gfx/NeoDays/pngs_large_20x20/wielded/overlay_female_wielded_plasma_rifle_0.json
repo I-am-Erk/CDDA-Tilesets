@@ -1,1 +1,10 @@
-{"id": "overlay_female_wielded_plasma_rifle", "fg": ["3525_overlay_female_wielded_plasma_rifle_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_female_wielded_plasma_rifle",
+  "fg": [
+    "3525_overlay_female_wielded_plasma_rifle_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

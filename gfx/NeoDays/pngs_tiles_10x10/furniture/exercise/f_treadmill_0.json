@@ -1,1 +1,10 @@
-{"id": "f_treadmill", "fg": ["822_f_treadmill_0"], "rotates": false, "bg": []}
+{
+  "id": "f_treadmill",
+  "fg": [
+    "822_f_treadmill_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

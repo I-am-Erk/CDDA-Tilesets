@@ -4,26 +4,8 @@
   "bg": "",
   "multitile": true,
   "additional_tiles": [
-    {
-      "id": "center",
-      "fg": "t_door_boarded",
-      "bg": ""
-    },
-    {
-      "id": "edge",
-      "fg": [
-        "t_door_boarded_vertical",
-        "t_door_boarded"
-      ],
-      "bg": ""
-    },
-    {
-      "id": "unconnected",
-      "fg": [
-        "t_door_boarded",
-        "t_door_boarded"
-      ],
-      "bg": ""
-    }
+    { "id": "center", "fg": "t_door_boarded", "bg": "" },
+    { "id": "edge", "fg": [ "t_door_boarded_vertical", "t_door_boarded" ], "bg": "" },
+    { "id": "unconnected", "fg": [ "t_door_boarded", "t_door_boarded" ], "bg": "" }
   ]
 }

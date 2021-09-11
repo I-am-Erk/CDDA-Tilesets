@@ -1,1 +1,11 @@
-{"id": "flag_shirt", "fg": ["721_flag_shirt_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "flag_shirt",
+  "fg": [
+    "721_flag_shirt_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

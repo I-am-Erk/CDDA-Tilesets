@@ -1,1 +1,12 @@
-{"id": ["overlay_effect_winded", "overlay_effect_asthma"], "fg": ["overlay_effect_winded"], "bg": []}
+{
+  "id": [
+    "overlay_effect_winded",
+    "overlay_effect_asthma"
+  ],
+  "fg": [
+    "overlay_effect_winded"
+  ],
+  "bg": [
+    
+  ]
+}

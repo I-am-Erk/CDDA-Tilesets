@@ -1,1 +1,13 @@
-{"id": ["makeshift_hammer", "primitive_hammer"], "fg": ["1595_makeshift_hammer_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "makeshift_hammer",
+    "primitive_hammer"
+  ],
+  "fg": [
+    "1595_makeshift_hammer_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

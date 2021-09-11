@@ -1,1 +1,10 @@
-{"id": "cursor", "fg": ["2853_cursor_0"], "rotates": false, "bg": []}
+{
+  "id": "cursor",
+  "fg": [
+    "2853_cursor_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

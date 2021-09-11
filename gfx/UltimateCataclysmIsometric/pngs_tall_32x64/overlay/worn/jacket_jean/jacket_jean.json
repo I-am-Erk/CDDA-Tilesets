@@ -1,5 +1,9 @@
 {
   "id": "overlay_worn_jacket_jean",
-  "fg": ["jacket_jean"],
-  "bg": []
+  "fg": [
+    "jacket_jean"
+  ],
+  "bg": [
+    
+  ]
 }

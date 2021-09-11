@@ -1,1 +1,10 @@
-{"id": "chemical_thrower", "fg": ["1347_chemical_thrower_0"], "rotates": false, "bg": []}
+{
+  "id": "chemical_thrower",
+  "fg": [
+    "1347_chemical_thrower_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

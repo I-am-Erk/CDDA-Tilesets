@@ -1,1 +1,10 @@
-{"id": "overlay_male_wielded_m2browning", "fg": ["3406_overlay_male_wielded_m2browning_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_male_wielded_m2browning",
+  "fg": [
+    "3406_overlay_male_wielded_m2browning_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

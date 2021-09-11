@@ -1,1 +1,11 @@
-{"id": "press", "fg": ["1613_press_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "press",
+  "fg": [
+    "1613_press_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

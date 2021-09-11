@@ -1,1 +1,10 @@
-{"id": "football", "fg": ["2065_football_0"], "rotates": false, "bg": []}
+{
+  "id": "football",
+  "fg": [
+    "2065_football_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

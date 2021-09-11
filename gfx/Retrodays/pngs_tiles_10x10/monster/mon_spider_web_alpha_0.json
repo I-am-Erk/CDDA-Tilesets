@@ -1,1 +1,10 @@
-{"id": "mon_spider_web_alpha", "fg": ["2707_mon_spider_web_alpha_0"], "rotates": false, "bg": []}
+{
+  "id": "mon_spider_web_alpha",
+  "fg": [
+    "2707_mon_spider_web_alpha_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

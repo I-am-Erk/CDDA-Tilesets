@@ -1,1 +1,11 @@
-{"id": "rm121aux", "fg": ["671_retool_45_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "rm121aux",
+  "fg": [
+    "671_retool_45_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

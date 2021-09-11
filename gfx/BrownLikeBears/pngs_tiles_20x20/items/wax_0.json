@@ -1,1 +1,11 @@
-{"id": "wax", "fg": ["1061_wax_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "wax",
+  "fg": [
+    "1061_wax_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

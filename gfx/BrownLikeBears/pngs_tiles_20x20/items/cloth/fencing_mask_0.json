@@ -1,1 +1,11 @@
-{"id": "fencing_mask", "fg": ["810_cowl_wool_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "fencing_mask",
+  "fg": [
+    "810_cowl_wool_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

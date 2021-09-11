@@ -1,1 +1,10 @@
-{"id": "t_bridge", "fg": ["2979_t_bridge_0"], "rotates": false, "bg": []}
+{
+  "id": "t_bridge",
+  "fg": [
+    "2979_t_bridge_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

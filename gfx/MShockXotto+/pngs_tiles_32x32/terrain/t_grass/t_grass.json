@@ -159,12 +159,7 @@
       {
         "id": "end_piece",
         "bg": [ "t_dirt_winter" ],
-        "fg": [
-          "snow_shallow_end_piece_n",
-          "snow_shallow_end_piece_w",
-          "snow_shallow_end_piece_s",
-          "snow_shallow_end_piece_e"
-        ]
+        "fg": [ "snow_shallow_end_piece_n", "snow_shallow_end_piece_w", "snow_shallow_end_piece_s", "snow_shallow_end_piece_e" ]
       },
       { "bg": [ "t_dirt_winter" ], "id": "unconnected", "fg": [ "snow_shallow_unconnected" ] }
     ]

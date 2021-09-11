@@ -1,1 +1,10 @@
-{"id": "t_elevator_control", "fg": ["3005_t_console_0"], "rotates": false, "bg": []}
+{
+  "id": "t_elevator_control",
+  "fg": [
+    "3005_t_console_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,14 @@
-{"id": ["t_claymound", "t_dirtmoundfloor", "t_dirtmound"], "fg": ["65_t_claymound_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "t_claymound",
+    "t_dirtmoundfloor",
+    "t_dirtmound"
+  ],
+  "fg": [
+    "65_t_claymound_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

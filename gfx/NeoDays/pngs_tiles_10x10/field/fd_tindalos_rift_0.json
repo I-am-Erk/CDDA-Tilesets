@@ -1,1 +1,10 @@
-{"id": "fd_tindalos_rift", "fg": ["3083_fd_tindalos_rift_0"], "rotates": false, "bg": []}
+{
+  "id": "fd_tindalos_rift",
+  "fg": [
+    "3083_fd_tindalos_rift_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

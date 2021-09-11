@@ -1,1 +1,10 @@
-{"id": "sewer_ew", "fg": ["3204_sewer_ew_0"], "bg": ["3198_sewer_end_4"], "rotates": false}
+{
+  "id": "sewer_ew",
+  "fg": [
+    "3204_sewer_ew_0"
+  ],
+  "bg": [
+    "3198_sewer_end_4"
+  ],
+  "rotates": false
+}

@@ -1,1 +1,10 @@
-{"id": "textbook_anarch", "fg": ["886_mag_pistol_0"], "rotates": false, "bg": []}
+{
+  "id": "textbook_anarch",
+  "fg": [
+    "886_mag_pistol_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

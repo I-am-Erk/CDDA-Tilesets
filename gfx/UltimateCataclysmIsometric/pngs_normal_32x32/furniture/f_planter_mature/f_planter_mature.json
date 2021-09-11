@@ -4,18 +4,14 @@
   "fg": [
     "f_planter_mature_unconnected"
   ],
-  "bg": [],
+  "bg": [
+    
+  ],
   "additional_tiles": [
-    {
-      "id": "center",
-      "bg": [],
-      "fg": [
-        "f_planter_mature_center"
-      ]
-    },
+    { "id": "center", "bg": [  ], "fg": [ "f_planter_mature_center" ] },
     {
       "id": "corner",
-      "bg": [],
+      "bg": [  ],
       "fg": [
         "f_planter_mature_corner_nw",
         "f_planter_mature_corner_sw",
@@ -25,7 +21,7 @@
     },
     {
       "id": "t_connection",
-      "bg": [],
+      "bg": [  ],
       "fg": [
         "f_planter_mature_t_connection_n",
         "f_planter_mature_t_connection_w",
@@ -33,17 +29,10 @@
         "f_planter_mature_t_connection_e"
       ]
     },
-    {
-      "id": "edge",
-      "bg": [],
-      "fg": [
-        "f_planter_mature_edge_ns",
-        "f_planter_mature_edge_ew"
-      ]
-    },
+    { "id": "edge", "bg": [  ], "fg": [ "f_planter_mature_edge_ns", "f_planter_mature_edge_ew" ] },
     {
       "id": "end_piece",
-      "bg": [],
+      "bg": [  ],
       "fg": [
         "f_planter_mature_end_piece_n",
         "f_planter_mature_end_piece_w",
@@ -51,12 +40,6 @@
         "f_planter_mature_end_piece_e"
       ]
     },
-    {
-      "bg": [],
-      "id": "unconnected",
-      "fg": [
-        "f_planter_mature_unconnected"
-      ]
-    }
+    { "bg": [  ], "id": "unconnected", "fg": [ "f_planter_mature_unconnected" ] }
   ]
 }

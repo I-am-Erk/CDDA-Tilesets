@@ -1,1 +1,10 @@
-{"id": "coin_quarter", "fg": ["3056_coin_quarter_0"], "rotates": false, "bg": []}
+{
+  "id": "coin_quarter",
+  "fg": [
+    "3056_coin_quarter_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,11 @@
-{"id": "survivor_runner_pack", "fg": ["816_backpack_leather_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "survivor_runner_pack",
+  "fg": [
+    "816_backpack_leather_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

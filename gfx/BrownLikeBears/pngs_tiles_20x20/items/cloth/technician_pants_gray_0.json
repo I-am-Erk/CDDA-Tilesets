@@ -1,1 +1,11 @@
-{"id": "technician_pants_gray", "fg": ["692_pants_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "technician_pants_gray",
+  "fg": [
+    "692_pants_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

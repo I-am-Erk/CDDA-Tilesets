@@ -1,1 +1,11 @@
-{"id": "miner_hat", "fg": ["1179_miner_hat_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "miner_hat",
+  "fg": [
+    "1179_miner_hat_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

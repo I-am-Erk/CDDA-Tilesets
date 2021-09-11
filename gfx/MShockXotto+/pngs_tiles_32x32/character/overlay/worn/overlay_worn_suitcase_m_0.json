@@ -1,1 +1,10 @@
-{"id": "overlay_worn_suitcase_m", "fg": ["789_overlay_worn_suitcase_l_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_suitcase_m",
+  "fg": [
+    "789_overlay_worn_suitcase_l_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

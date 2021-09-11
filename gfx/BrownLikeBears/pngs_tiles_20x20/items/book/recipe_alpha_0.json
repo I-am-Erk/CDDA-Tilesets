@@ -1,1 +1,11 @@
-{"id": "recipe_alpha", "fg": ["891_recipe_alpha_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "recipe_alpha",
+  "fg": [
+    "891_recipe_alpha_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

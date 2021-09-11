@@ -61,11 +61,11 @@
         "id": "broken",
         "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
         "bg": [
-      "vp_halfboard_vertical_left",
-      "vp_halfboard_vertical_left_rotW_right_rotE",
-      "vp_halfboard_vertical_right",
-      "vp_halfboard_vertical_left_rotE_right_rotW"
-    ]
+          "vp_halfboard_vertical_left",
+          "vp_halfboard_vertical_left_rotW_right_rotE",
+          "vp_halfboard_vertical_right",
+          "vp_halfboard_vertical_left_rotE_right_rotW"
+        ]
       }
     ]
   },
@@ -83,11 +83,11 @@
         "id": "broken",
         "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
         "bg": [
-      "vp_halfboard_vertical_right",
-      "vp_halfboard_vertical_left_rotE_right_rotW",
-      "vp_halfboard_vertical_left",
-      "vp_halfboard_vertical_left_rotW_right_rotE"
-    ]
+          "vp_halfboard_vertical_right",
+          "vp_halfboard_vertical_left_rotE_right_rotW",
+          "vp_halfboard_vertical_left",
+          "vp_halfboard_vertical_left_rotW_right_rotE"
+        ]
       }
     ]
   },
@@ -105,11 +105,11 @@
         "id": "broken",
         "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
         "bg": [
-      "vp_halfboard_vertical_t_left_rotN",
-      "vp_halfboard_vertical_t_left_rotW",
-      "vp_halfboard_vertical_t_left_rotS",
-      "vp_halfboard_vertical_t_left_rotE"
-    ]
+          "vp_halfboard_vertical_t_left_rotN",
+          "vp_halfboard_vertical_t_left_rotW",
+          "vp_halfboard_vertical_t_left_rotS",
+          "vp_halfboard_vertical_t_left_rotE"
+        ]
       }
     ]
   },
@@ -127,11 +127,11 @@
         "id": "broken",
         "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
         "bg": [
-      "vp_halfboard_vertical_t_right_rotN",
-      "vp_halfboard_vertical_t_right_rotW",
-      "vp_halfboard_vertical_t_right_rotS",
-      "vp_halfboard_vertical_t_right_rotE"
-    ]
+          "vp_halfboard_vertical_t_right_rotN",
+          "vp_halfboard_vertical_t_right_rotW",
+          "vp_halfboard_vertical_t_right_rotS",
+          "vp_halfboard_vertical_t_right_rotE"
+        ]
       }
     ]
   },
@@ -149,11 +149,11 @@
         "id": "broken",
         "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
         "bg": [
-      "vp_halfboard_horizontal_rotN",
-      "vp_halfboard_horizontal_rotW",
-      "vp_halfboard_horizontal_rotS",
-      "vp_halfboard_horizontal_rotE"
-    ]
+          "vp_halfboard_horizontal_rotN",
+          "vp_halfboard_horizontal_rotW",
+          "vp_halfboard_horizontal_rotS",
+          "vp_halfboard_horizontal_rotE"
+        ]
       }
     ]
   },
@@ -171,16 +171,16 @@
         "id": "broken",
         "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
         "bg": [
-      "vp_halfboard_horizontal_front",
-      "vp_halfboard_horizontal_front_rotW",
-      "vp_halfboard_horizontal_front_rotS",
-      "vp_halfboard_horizontal_front_rotE"
-    ]
+          "vp_halfboard_horizontal_front",
+          "vp_halfboard_horizontal_front_rotW",
+          "vp_halfboard_horizontal_front_rotS",
+          "vp_halfboard_horizontal_front_rotE"
+        ]
       }
     ]
   },
   {
-    "id": "vp_halfboard_horizontal_rear" ,
+    "id": "vp_halfboard_horizontal_rear",
     "fg": [
       "vp_halfboard_horizontal_rear",
       "vp_halfboard_horizontal_rear_rotW",
@@ -193,11 +193,11 @@
         "id": "broken",
         "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
         "bg": [
-      "vp_halfboard_horizontal_rear",
-      "vp_halfboard_horizontal_rear_rotW",
-      "vp_halfboard_horizontal_rear_rotS",
-      "vp_halfboard_horizontal_rear_rotE"
-    ]
+          "vp_halfboard_horizontal_rear",
+          "vp_halfboard_horizontal_rear_rotW",
+          "vp_halfboard_horizontal_rear_rotS",
+          "vp_halfboard_horizontal_rear_rotE"
+        ]
       }
     ]
   },
@@ -215,11 +215,11 @@
         "id": "broken",
         "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
         "bg": [
-      "vp_halfboard_vertical_rotNS",
-      "vp_halfboard_vertical_rotEW",
-      "vp_halfboard_vertical_rotNS",
-      "vp_halfboard_vertical_rotEW"
-      ]
+          "vp_halfboard_vertical_rotNS",
+          "vp_halfboard_vertical_rotEW",
+          "vp_halfboard_vertical_rotNS",
+          "vp_halfboard_vertical_rotEW"
+        ]
       }
     ]
   }

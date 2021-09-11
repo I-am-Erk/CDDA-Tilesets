@@ -1,1 +1,10 @@
-{"id": "t_manhole", "fg": ["220_t_manhole_0"], "rotates": false, "bg": []}
+{
+  "id": "t_manhole",
+  "fg": [
+    "220_t_manhole_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

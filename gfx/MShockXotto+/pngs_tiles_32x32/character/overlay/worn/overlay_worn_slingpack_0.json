@@ -1,1 +1,10 @@
-{"id": "overlay_worn_slingpack", "fg": ["755_overlay_worn_runner_bag_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_slingpack",
+  "fg": [
+    "755_overlay_worn_runner_bag_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

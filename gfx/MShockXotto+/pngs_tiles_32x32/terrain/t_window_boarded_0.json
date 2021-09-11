@@ -1,1 +1,10 @@
-{"id": "t_window_boarded", "fg": ["3423_t_window_boarded_0"], "bg": ["987_t_door_frame_1"], "rotates": false}
+{
+  "id": "t_window_boarded",
+  "fg": [
+    "3423_t_window_boarded_0"
+  ],
+  "bg": [
+    "987_t_door_frame_1"
+  ],
+  "rotates": false
+}

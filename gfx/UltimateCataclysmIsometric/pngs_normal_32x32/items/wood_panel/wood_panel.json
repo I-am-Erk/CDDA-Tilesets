@@ -1,5 +1,9 @@
 {
   "id": "wood_panel",
-  "fg": [ "wood_panel" ],
-  "bg": []
+  "fg": [
+    "wood_panel"
+  ],
+  "bg": [
+    
+  ]
 }

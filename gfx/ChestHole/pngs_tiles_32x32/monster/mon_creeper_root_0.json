@@ -1,1 +1,10 @@
-{"id": "mon_creeper_root", "fg": ["4009_mon_creeper_root_0"], "bg": [""], "rotates": false}
+{
+  "id": "mon_creeper_root",
+  "fg": [
+    "4009_mon_creeper_root_0"
+  ],
+  "bg": [
+    ""
+  ],
+  "rotates": false
+}

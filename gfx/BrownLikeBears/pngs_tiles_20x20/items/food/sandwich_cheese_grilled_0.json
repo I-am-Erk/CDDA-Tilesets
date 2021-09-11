@@ -1,1 +1,11 @@
-{"id": "sandwich_cheese_grilled", "fg": ["1052_fish_sandwich_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "sandwich_cheese_grilled",
+  "fg": [
+    "1052_fish_sandwich_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

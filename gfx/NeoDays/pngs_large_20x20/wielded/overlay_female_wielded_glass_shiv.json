@@ -1,1 +1,10 @@
-{"id": ["overlay_female_wielded_glass_shiv", "overlay_female_wielded_glass_shard"], "fg": ["overlay_female_wielded_glass_shiv"], "rotates": false}
+{
+  "id": [
+    "overlay_female_wielded_glass_shiv",
+    "overlay_female_wielded_glass_shard"
+  ],
+  "fg": [
+    "overlay_female_wielded_glass_shiv"
+  ],
+  "rotates": false
+}

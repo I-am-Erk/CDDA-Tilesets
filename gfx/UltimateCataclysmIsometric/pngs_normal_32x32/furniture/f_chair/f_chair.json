@@ -1,5 +1,9 @@
 {
   "id": "f_chair",
-  "fg": ["f_chair"],
-  "bg": []
+  "fg": [
+    "f_chair"
+  ],
+  "bg": [
+    
+  ]
 }

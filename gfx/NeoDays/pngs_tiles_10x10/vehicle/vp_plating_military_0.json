@@ -1,1 +1,10 @@
-{"id": "vp_plating_military", "fg": ["2431_vp_plating_military_0"], "rotates": true, "bg": []}
+{
+  "id": "vp_plating_military",
+  "fg": [
+    "2431_vp_plating_military_0"
+  ],
+  "rotates": true,
+  "bg": [
+    
+  ]
+}

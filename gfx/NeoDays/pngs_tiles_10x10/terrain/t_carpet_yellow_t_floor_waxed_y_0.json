@@ -1,1 +1,13 @@
-{"id": ["t_carpet_yellow", "t_floor_waxed_y"], "fg": ["54_t_carpet_yellow_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "t_carpet_yellow",
+    "t_floor_waxed_y"
+  ],
+  "fg": [
+    "54_t_carpet_yellow_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

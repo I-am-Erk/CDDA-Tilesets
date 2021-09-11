@@ -1,1 +1,11 @@
-{"id": "vacutainer", "fg": ["1575_vacutainer_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "vacutainer",
+  "fg": [
+    "1575_vacutainer_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

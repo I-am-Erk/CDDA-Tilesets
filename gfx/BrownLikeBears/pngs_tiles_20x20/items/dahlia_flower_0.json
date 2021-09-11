@@ -1,1 +1,11 @@
-{"id": "dahlia_flower", "fg": ["612_dahlia_flower_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "dahlia_flower",
+  "fg": [
+    "612_dahlia_flower_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

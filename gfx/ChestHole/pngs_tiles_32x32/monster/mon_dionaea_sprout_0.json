@@ -1,1 +1,10 @@
-{"id": "mon_dionaea_sprout", "fg": ["4013_mon_dionaea_sprout_0"], "bg": [""], "rotates": false}
+{
+  "id": "mon_dionaea_sprout",
+  "fg": [
+    "4013_mon_dionaea_sprout_0"
+  ],
+  "bg": [
+    ""
+  ],
+  "rotates": false
+}

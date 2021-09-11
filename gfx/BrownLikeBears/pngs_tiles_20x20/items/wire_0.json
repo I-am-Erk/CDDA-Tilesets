@@ -1,1 +1,11 @@
-{"id": "wire", "fg": ["1268_wire_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "wire",
+  "fg": [
+    "1268_wire_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

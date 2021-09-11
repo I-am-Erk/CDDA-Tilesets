@@ -1,1 +1,10 @@
-{"id": "glass_plate", "fg": ["2038_glass_plate_0"], "rotates": false, "bg": []}
+{
+  "id": "glass_plate",
+  "fg": [
+    "2038_glass_plate_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

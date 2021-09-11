@@ -1,1 +1,13 @@
-{"id": ["peacoat", "gambeson"], "fg": ["1704_peacoat_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "peacoat",
+    "gambeson"
+  ],
+  "fg": [
+    "1704_peacoat_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

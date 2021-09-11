@@ -1,1 +1,11 @@
-{"id": "still", "fg": ["1659_still_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "still",
+  "fg": [
+    "1659_still_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

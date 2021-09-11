@@ -1,1 +1,19 @@
-{"id": ["mocassins", "leathersandals", "bastsandals", "clogs", "footrags_fur", "footrags_leather", "straw_sandals", "slippers"], "fg": ["1855_mocassins_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "mocassins",
+    "leathersandals",
+    "bastsandals",
+    "clogs",
+    "footrags_fur",
+    "footrags_leather",
+    "straw_sandals",
+    "slippers"
+  ],
+  "fg": [
+    "1855_mocassins_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,10 @@
-{"id": "nuclear_fuel", "fg": ["2098_nuclear_fuel_0"], "rotates": false, "bg": []}
+{
+  "id": "nuclear_fuel",
+  "fg": [
+    "2098_nuclear_fuel_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,10 @@
-{"id": "telepad", "fg": ["838_telepad_0"], "rotates": false, "bg": []}
+{
+  "id": "telepad",
+  "fg": [
+    "838_telepad_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

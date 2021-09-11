@@ -1,1 +1,10 @@
-{"id": "subway_nesw", "fg": ["3213_sewer_nesw_0"], "bg": ["3295_subway_nesw_1"], "rotates": false}
+{
+  "id": "subway_nesw",
+  "fg": [
+    "3213_sewer_nesw_0"
+  ],
+  "bg": [
+    "3295_subway_nesw_1"
+  ],
+  "rotates": false
+}

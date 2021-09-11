@@ -1,1 +1,10 @@
-{"id": "handflare_act", "fg": ["1525_handflare_act_0"], "rotates": false, "bg": []}
+{
+  "id": "handflare_act",
+  "fg": [
+    "1525_handflare_act_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

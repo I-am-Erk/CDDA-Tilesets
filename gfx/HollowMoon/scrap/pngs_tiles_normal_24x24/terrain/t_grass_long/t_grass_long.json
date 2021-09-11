@@ -1,5 +1,9 @@
 {
   "id": "t_grass_long",
-  "fg": ["t_grass_long"],
-  "bg": []
+  "fg": [
+    "t_grass_long"
+  ],
+  "bg": [
+    
+  ]
 }

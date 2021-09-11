@@ -1,1 +1,17 @@
-{"id": ["aspirin", "iodine", "antibiotics", "antifungal", "antiparasitic", "pur_tablets", "diazepam"], "fg": ["1934_aspirin_0"], "bg": []}
+{
+  "id": [
+    "aspirin",
+    "iodine",
+    "antibiotics",
+    "antifungal",
+    "antiparasitic",
+    "pur_tablets",
+    "diazepam"
+  ],
+  "fg": [
+    "1934_aspirin_0"
+  ],
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,11 @@
-{"id": "fungicide", "fg": ["956_fungicide_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "fungicide",
+  "fg": [
+    "956_fungicide_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

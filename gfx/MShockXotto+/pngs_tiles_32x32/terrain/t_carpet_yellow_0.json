@@ -1,1 +1,10 @@
-{"id": "t_carpet_yellow", "fg": ["2985_t_carpet_yellow_0"], "rotates": false, "bg": []}
+{
+  "id": "t_carpet_yellow",
+  "fg": [
+    "2985_t_carpet_yellow_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,10 @@
-{"id": "minifridge", "fg": ["2346_vp_minifridge_0"], "rotates": false, "bg": []}
+{
+  "id": "minifridge",
+  "fg": [
+    "2346_vp_minifridge_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

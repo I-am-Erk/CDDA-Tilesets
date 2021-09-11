@@ -1,1 +1,10 @@
-{"id": "overlay_worn_snuggie", "fg": ["overlay_worn_snuggie"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_snuggie",
+  "fg": [
+    "overlay_worn_snuggie"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

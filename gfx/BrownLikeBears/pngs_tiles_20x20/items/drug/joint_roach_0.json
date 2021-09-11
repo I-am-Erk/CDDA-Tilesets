@@ -1,1 +1,11 @@
-{"id": "joint_roach", "fg": ["1704_joint_roach_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "joint_roach",
+  "fg": [
+    "1704_joint_roach_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

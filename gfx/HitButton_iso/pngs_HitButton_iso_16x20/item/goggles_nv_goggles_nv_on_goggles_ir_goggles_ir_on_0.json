@@ -1,1 +1,14 @@
-{"id": ["goggles_nv", "goggles_nv_on", "goggles_ir", "goggles_ir_on"], "fg": ["1547_goggles_nv_0"], "bg": []}
+{
+  "id": [
+    "goggles_nv",
+    "goggles_nv_on",
+    "goggles_ir",
+    "goggles_ir_on"
+  ],
+  "fg": [
+    "1547_goggles_nv_0"
+  ],
+  "bg": [
+    
+  ]
+}

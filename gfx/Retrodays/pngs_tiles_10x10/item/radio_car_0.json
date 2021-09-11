@@ -1,1 +1,10 @@
-{"id": "radio_car", "fg": ["1599_radio_car_0"], "rotates": false, "bg": []}
+{
+  "id": "radio_car",
+  "fg": [
+    "1599_radio_car_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

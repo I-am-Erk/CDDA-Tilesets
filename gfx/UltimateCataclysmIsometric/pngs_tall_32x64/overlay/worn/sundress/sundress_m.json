@@ -1,5 +1,9 @@
 {
   "id": "overlay_male_worn_sundress",
-  "fg": ["sundress_m"],
-  "bg": []
+  "fg": [
+    "sundress_m"
+  ],
+  "bg": [
+    
+  ]
 }

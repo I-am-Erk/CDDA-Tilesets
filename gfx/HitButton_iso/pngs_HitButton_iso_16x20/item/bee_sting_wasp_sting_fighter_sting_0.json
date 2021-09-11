@@ -1,1 +1,13 @@
-{"id": ["bee_sting", "wasp_sting", "fighter_sting"], "fg": ["1652_bee_sting_0"], "bg": []}
+{
+  "id": [
+    "bee_sting",
+    "wasp_sting",
+    "fighter_sting"
+  ],
+  "fg": [
+    "1652_bee_sting_0"
+  ],
+  "bg": [
+    
+  ]
+}

@@ -1,6 +1,26 @@
 [
-    { "id": ["small_scuba_tank"], "fg": "small_scuba_tank", "bg": [], "rotates": false },
-	{ "id": ["small_scuba_tank_season_autumn"], "fg": "small_scuba_tank_autumn", "bg": [], "rotates": false },
-	{ "id": ["small_scuba_tank_season_winter"], "fg": "small_scuba_tank_winter", "bg": [], "rotates": false },
-	{ "id": ["small_scuba_tank_season_summer"], "fg": "small_scuba_tank_summer", "bg": [], "rotates": false }
+  {
+    "id": [ "small_scuba_tank" ],
+    "fg": "small_scuba_tank",
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": [ "small_scuba_tank_season_autumn" ],
+    "fg": "small_scuba_tank_autumn",
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": [ "small_scuba_tank_season_winter" ],
+    "fg": "small_scuba_tank_winter",
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": [ "small_scuba_tank_season_summer" ],
+    "fg": "small_scuba_tank_summer",
+    "bg": [  ],
+    "rotates": false
+  }
 ]

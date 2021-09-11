@@ -1,1 +1,11 @@
-{"id": "digging_stick", "fg": ["splinter"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "digging_stick",
+  "fg": [
+    "splinter"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

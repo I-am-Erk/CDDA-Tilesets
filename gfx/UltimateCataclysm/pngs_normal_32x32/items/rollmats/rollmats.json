@@ -1,10 +1,10 @@
 [
   {
-    "id": ["fur_rollmat", "broketent", "largebroketent"],
+    "id": [ "fur_rollmat", "broketent", "largebroketent" ],
     "fg": "fur_rollmat"
   },
   {
-    "id": ["rollmat", "tent_kit", "large_tent_kit"],
+    "id": [ "rollmat", "tent_kit", "large_tent_kit" ],
     "fg": "rollmat"
   }
 ]

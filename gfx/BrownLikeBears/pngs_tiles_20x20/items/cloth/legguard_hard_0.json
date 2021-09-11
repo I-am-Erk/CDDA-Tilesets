@@ -1,1 +1,11 @@
-{"id": "legguard_hard", "fg": ["760_armguard_hard_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "legguard_hard",
+  "fg": [
+    "760_armguard_hard_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

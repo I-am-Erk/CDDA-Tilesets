@@ -1,1 +1,11 @@
-{"id": "cooking_oil", "fg": ["1127_cooking_oil_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "cooking_oil",
+  "fg": [
+    "1127_cooking_oil_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

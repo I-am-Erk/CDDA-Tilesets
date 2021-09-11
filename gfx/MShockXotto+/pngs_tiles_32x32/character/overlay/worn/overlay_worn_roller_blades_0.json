@@ -1,1 +1,10 @@
-{"id": "overlay_worn_roller_blades", "fg": ["753_overlay_worn_rollerskates_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_roller_blades",
+  "fg": [
+    "753_overlay_worn_rollerskates_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

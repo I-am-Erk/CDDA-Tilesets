@@ -1,1 +1,10 @@
-{"id": "towel", "fg": ["1685_towel_0"], "rotates": false, "bg": []}
+{
+  "id": "towel",
+  "fg": [
+    "1685_towel_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

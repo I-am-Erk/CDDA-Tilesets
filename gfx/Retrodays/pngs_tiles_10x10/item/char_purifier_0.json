@@ -1,1 +1,10 @@
-{"id": "char_purifier", "fg": ["1450_char_purifier_0"], "rotates": false, "bg": []}
+{
+  "id": "char_purifier",
+  "fg": [
+    "1450_char_purifier_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

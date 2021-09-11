@@ -1,1 +1,13 @@
-{"id": ["battery", "laser_capacitor"], "fg": ["1226_battery_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "battery",
+    "laser_capacitor"
+  ],
+  "fg": [
+    "1226_battery_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,12 @@
-{"id": ["overlay_female_wielded_pipe", "overlay_female_wielded_rebar", "overlay_female_wielded_spear_rebar", "overlay_female_wielded_tire_iron"], "fg": ["overlay_female_wielded_pipe"], "rotates": false}
+{
+  "id": [
+    "overlay_female_wielded_pipe",
+    "overlay_female_wielded_rebar",
+    "overlay_female_wielded_spear_rebar",
+    "overlay_female_wielded_tire_iron"
+  ],
+  "fg": [
+    "overlay_female_wielded_pipe"
+  ],
+  "rotates": false
+}

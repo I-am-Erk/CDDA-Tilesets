@@ -5,7 +5,7 @@
     "bg": ""
   },
   {
-	"id": [ "forest", "special_forest" ],
+    "id": [ "forest", "special_forest" ],
     "fg": "forest",
     "bg": "field"
   },

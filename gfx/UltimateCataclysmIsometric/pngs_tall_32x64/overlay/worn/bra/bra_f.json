@@ -1,5 +1,9 @@
 {
   "id": "overlay_female_worn_bra",
-  "fg": ["bra_f"],
-  "bg": []
+  "fg": [
+    "bra_f"
+  ],
+  "bg": [
+    
+  ]
 }

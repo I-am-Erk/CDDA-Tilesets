@@ -1,1 +1,10 @@
-{"id": "f_plant_seed", "fg": ["987_f_plant_seed_0"], "rotates": false, "bg": []}
+{
+  "id": "f_plant_seed",
+  "fg": [
+    "987_f_plant_seed_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

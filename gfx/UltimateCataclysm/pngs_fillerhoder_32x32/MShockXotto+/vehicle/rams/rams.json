@@ -13,8 +13,7 @@
     "id": "vp_ram_hardsteel",
     "fg": [ "vp_ram_hardsteel", "vp_ram_hardsteel_left", "vp_ram_hardsteel_down", "vp_ram_hardsteel_right" ],
     "rotates": true
-  }
-,
+  },
   {
     "id": "vp_ram_alloy",
     "fg": [ "vp_ram_alloy", "vp_ram_alloy_left", "vp_ram_alloy_down", "vp_ram_alloy_right" ],

@@ -1,1 +1,11 @@
-{"id": "combatsaw_on", "fg": ["1510_combatsaw_off_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "combatsaw_on",
+  "fg": [
+    "1510_combatsaw_off_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

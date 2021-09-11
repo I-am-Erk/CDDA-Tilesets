@@ -1,1 +1,13 @@
-{"id": ["12mm", "rebar_rail", "steel_rail"], "fg": ["1841_12mm_0"], "bg": []}
+{
+  "id": [
+    "12mm",
+    "rebar_rail",
+    "steel_rail"
+  ],
+  "fg": [
+    "1841_12mm_0"
+  ],
+  "bg": [
+    
+  ]
+}

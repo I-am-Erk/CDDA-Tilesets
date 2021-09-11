@@ -1,1 +1,13 @@
-{"id": ["f_large_canvas_door_o", "f_canvas_door_o"], "fg": ["649_f_large_canvas_door_o_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "f_large_canvas_door_o",
+    "f_canvas_door_o"
+  ],
+  "fg": [
+    "649_f_large_canvas_door_o_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

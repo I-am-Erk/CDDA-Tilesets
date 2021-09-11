@@ -1,1 +1,14 @@
-{"id": "vp_blade_vertical", "fg": ["331_tr_blade_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["broken_part_placeholder"], "bg": []}], "bg": []}
+{
+  "id": "vp_blade_vertical",
+  "fg": [
+    "331_tr_blade_0"
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "broken", "fg": [ "broken_part_placeholder" ], "bg": [  ] }
+  ],
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,11 @@
-{"id": "horseradish", "fg": ["1068_can_coconut_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "horseradish",
+  "fg": [
+    "1068_can_coconut_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

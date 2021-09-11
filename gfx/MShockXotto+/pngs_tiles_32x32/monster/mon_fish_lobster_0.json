@@ -1,1 +1,10 @@
-{"id": "mon_fish_lobster", "fg": ["2445_mon_fish_lobster_0"], "rotates": false, "bg": []}
+{
+  "id": "mon_fish_lobster",
+  "fg": [
+    "2445_mon_fish_lobster_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

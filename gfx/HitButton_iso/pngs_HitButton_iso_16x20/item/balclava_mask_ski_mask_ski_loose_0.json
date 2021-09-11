@@ -1,1 +1,13 @@
-{"id": ["balclava", "mask_ski", "mask_ski_loose"], "fg": ["1450_balclava_0"], "bg": []}
+{
+  "id": [
+    "balclava",
+    "mask_ski",
+    "mask_ski_loose"
+  ],
+  "fg": [
+    "1450_balclava_0"
+  ],
+  "bg": [
+    
+  ]
+}

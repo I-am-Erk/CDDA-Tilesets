@@ -1,1 +1,12 @@
-{"id": ["chitin_plate", "bone_plate"], "fg": ["2024_chitin_plate_0"], "bg": []}
+{
+  "id": [
+    "chitin_plate",
+    "bone_plate"
+  ],
+  "fg": [
+    "2024_chitin_plate_0"
+  ],
+  "bg": [
+    
+  ]
+}

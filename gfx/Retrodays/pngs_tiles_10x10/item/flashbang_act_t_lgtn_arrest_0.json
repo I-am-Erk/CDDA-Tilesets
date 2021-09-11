@@ -1,1 +1,13 @@
-{"id": ["flashbang_act", "t_lgtn_arrest"], "fg": ["1200_flashbang_act_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "flashbang_act",
+    "t_lgtn_arrest"
+  ],
+  "fg": [
+    "1200_flashbang_act_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

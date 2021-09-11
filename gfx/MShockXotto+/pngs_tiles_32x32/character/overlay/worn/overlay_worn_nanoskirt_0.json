@@ -1,1 +1,10 @@
-{"id": "overlay_worn_nanoskirt", "fg": ["724_overlay_worn_nanoskirt_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_nanoskirt",
+  "fg": [
+    "724_overlay_worn_nanoskirt_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -14,7 +14,12 @@
       {
         "id": "t_connection",
         "bg": "t_grass",
-        "fg": [ "t_fence_wire_t_connection_n", "t_fence_wire_t_connection_w", "t_fence_wire_t_connection_s", "t_fence_wire_t_connection_e" ]
+        "fg": [
+          "t_fence_wire_t_connection_n",
+          "t_fence_wire_t_connection_w",
+          "t_fence_wire_t_connection_s",
+          "t_fence_wire_t_connection_e"
+        ]
       },
       { "id": "edge", "bg": "t_grass", "fg": [ "t_fence_wire_edge_ns", "t_fence_wire_edge_ew" ] },
       {
@@ -40,7 +45,12 @@
       {
         "id": "t_connection",
         "bg": "t_grass_summer",
-        "fg": [ "t_fence_wire_t_connection_n", "t_fence_wire_t_connection_w", "t_fence_wire_t_connection_s", "t_fence_wire_t_connection_e" ]
+        "fg": [
+          "t_fence_wire_t_connection_n",
+          "t_fence_wire_t_connection_w",
+          "t_fence_wire_t_connection_s",
+          "t_fence_wire_t_connection_e"
+        ]
       },
       { "id": "edge", "bg": "t_grass_summer", "fg": [ "t_fence_wire_edge_ns", "t_fence_wire_edge_ew" ] },
       {
@@ -66,7 +76,12 @@
       {
         "id": "t_connection",
         "bg": "t_grass_autumn",
-        "fg": [ "t_fence_wire_t_connection_n", "t_fence_wire_t_connection_w", "t_fence_wire_t_connection_s", "t_fence_wire_t_connection_e" ]
+        "fg": [
+          "t_fence_wire_t_connection_n",
+          "t_fence_wire_t_connection_w",
+          "t_fence_wire_t_connection_s",
+          "t_fence_wire_t_connection_e"
+        ]
       },
       { "id": "edge", "bg": "t_grass_autumn", "fg": [ "t_fence_wire_edge_ns", "t_fence_wire_edge_ew" ] },
       {
@@ -92,7 +107,12 @@
       {
         "id": "t_connection",
         "bg": "snow_shallow_center",
-        "fg": [ "t_fence_wire_t_connection_n", "t_fence_wire_t_connection_w", "t_fence_wire_t_connection_s", "t_fence_wire_t_connection_e" ]
+        "fg": [
+          "t_fence_wire_t_connection_n",
+          "t_fence_wire_t_connection_w",
+          "t_fence_wire_t_connection_s",
+          "t_fence_wire_t_connection_e"
+        ]
       },
       { "id": "edge", "bg": "snow_shallow_center", "fg": [ "t_fence_wire_edge_ns", "t_fence_wire_edge_ew" ] },
       {

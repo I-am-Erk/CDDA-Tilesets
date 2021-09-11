@@ -1,1 +1,10 @@
-{"id": "hacksaw", "fg": ["1522_hacksaw_0"], "rotates": false, "bg": []}
+{
+  "id": "hacksaw",
+  "fg": [
+    "1522_hacksaw_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

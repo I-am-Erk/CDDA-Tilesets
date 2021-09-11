@@ -1,1 +1,10 @@
-{"id": "overlay_worn_depowered_helmet", "fg": ["589_overlay_worn_depowered_helmet_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_depowered_helmet",
+  "fg": [
+    "589_overlay_worn_depowered_helmet_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

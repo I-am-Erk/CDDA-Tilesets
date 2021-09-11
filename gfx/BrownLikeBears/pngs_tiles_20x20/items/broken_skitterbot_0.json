@@ -1,1 +1,10 @@
-{"id": "broken_skitterbot", "fg": ["1648_broken_skitterbot_0"], "rotates": false, "bg": []}
+{
+  "id": "broken_skitterbot",
+  "fg": [
+    "1648_broken_skitterbot_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

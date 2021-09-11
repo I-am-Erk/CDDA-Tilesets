@@ -1,1 +1,12 @@
-{"id": ["smoxygen_tank", "oxygen_tank"], "fg": ["1767_smoxygen_tank_0"], "bg": []}
+{
+  "id": [
+    "smoxygen_tank",
+    "oxygen_tank"
+  ],
+  "fg": [
+    "1767_smoxygen_tank_0"
+  ],
+  "bg": [
+    
+  ]
+}

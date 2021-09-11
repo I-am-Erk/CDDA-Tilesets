@@ -1,1 +1,13 @@
-{"id": ["t_sidewalk_bg_dp", "t_sidewalk"], "fg": ["44_t_sidewalk_bg_dp_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "t_sidewalk_bg_dp",
+    "t_sidewalk"
+  ],
+  "fg": [
+    "44_t_sidewalk_bg_dp_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

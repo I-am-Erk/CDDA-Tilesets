@@ -1,1 +1,11 @@
-{"id": "battletorch", "fg": ["1331_bwirebat_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "battletorch",
+  "fg": [
+    "1331_bwirebat_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

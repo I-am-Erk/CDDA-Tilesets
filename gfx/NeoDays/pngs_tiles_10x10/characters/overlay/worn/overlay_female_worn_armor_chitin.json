@@ -1,1 +1,9 @@
-{"id": "overlay_female_worn_armor_chitin", "fg": ["overlay_female_worn_armor_chitin"], "bg": []}
+{
+  "id": "overlay_female_worn_armor_chitin",
+  "fg": [
+    "overlay_female_worn_armor_chitin"
+  ],
+  "bg": [
+    
+  ]
+}

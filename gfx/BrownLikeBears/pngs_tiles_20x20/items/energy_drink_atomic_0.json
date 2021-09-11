@@ -1,1 +1,11 @@
-{"id": "energy_drink_atomic", "fg": ["947_apple_cider_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "energy_drink_atomic",
+  "fg": [
+    "947_apple_cider_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

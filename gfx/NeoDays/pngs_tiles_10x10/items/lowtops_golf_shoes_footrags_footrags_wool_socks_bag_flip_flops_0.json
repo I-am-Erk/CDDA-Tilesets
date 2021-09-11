@@ -1,1 +1,17 @@
-{"id": ["lowtops", "golf_shoes", "footrags", "footrags_wool", "socks_bag", "flip_flops"], "fg": ["1854_lowtops_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "lowtops",
+    "golf_shoes",
+    "footrags",
+    "footrags_wool",
+    "socks_bag",
+    "flip_flops"
+  ],
+  "fg": [
+    "1854_lowtops_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

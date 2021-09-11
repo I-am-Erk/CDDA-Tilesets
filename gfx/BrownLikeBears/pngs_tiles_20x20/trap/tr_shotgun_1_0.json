@@ -1,1 +1,10 @@
-{"id": "tr_shotgun_1", "fg": ["147_tr_shotgun_2_0"], "rotates": false, "bg": []}
+{
+  "id": "tr_shotgun_1",
+  "fg": [
+    "147_tr_shotgun_2_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

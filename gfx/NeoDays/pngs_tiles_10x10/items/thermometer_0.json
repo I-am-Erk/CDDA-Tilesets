@@ -1,1 +1,10 @@
-{"id": "thermometer", "fg": ["1633_thermometer_0"], "rotates": false, "bg": []}
+{
+  "id": "thermometer",
+  "fg": [
+    "1633_thermometer_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

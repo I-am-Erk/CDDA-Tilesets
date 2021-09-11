@@ -1,1 +1,11 @@
-{"id": "clockworks", "fg": ["1257_clockworks_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "clockworks",
+  "fg": [
+    "1257_clockworks_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

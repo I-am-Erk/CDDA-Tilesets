@@ -1,1 +1,11 @@
-{"id": "milk_powder", "fg": ["1115_lye_powder_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "milk_powder",
+  "fg": [
+    "1115_lye_powder_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

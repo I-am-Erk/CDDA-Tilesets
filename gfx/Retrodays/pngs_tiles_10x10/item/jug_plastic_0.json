@@ -1,1 +1,10 @@
-{"id": "jug_plastic", "fg": ["1157_jug_plastic_0"], "rotates": false, "bg": []}
+{
+  "id": "jug_plastic",
+  "fg": [
+    "1157_jug_plastic_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

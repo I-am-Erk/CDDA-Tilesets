@@ -1,1 +1,11 @@
-{"id": "suppressor", "fg": ["671_retool_45_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "suppressor",
+  "fg": [
+    "671_retool_45_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

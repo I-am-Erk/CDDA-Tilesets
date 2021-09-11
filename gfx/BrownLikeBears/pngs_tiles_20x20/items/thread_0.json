@@ -1,1 +1,11 @@
-{"id": "thread", "fg": ["513_thread_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "thread",
+  "fg": [
+    "513_thread_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

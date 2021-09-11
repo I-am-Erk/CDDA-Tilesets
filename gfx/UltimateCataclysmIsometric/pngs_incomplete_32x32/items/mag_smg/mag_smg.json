@@ -1,5 +1,9 @@
 {
   "id": "mag_smg",
-  "fg": ["mag_smg"],
-  "bg": []
+  "fg": [
+    "mag_smg"
+  ],
+  "bg": [
+    
+  ]
 }

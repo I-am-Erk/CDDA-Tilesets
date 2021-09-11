@@ -1,5 +1,9 @@
 {
   "id": "wrapper",
-  "fg": ["wrapper"],
-  "bg": []
+  "fg": [
+    "wrapper"
+  ],
+  "bg": [
+    
+  ]
 }

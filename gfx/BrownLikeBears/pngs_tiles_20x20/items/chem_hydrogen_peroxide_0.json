@@ -1,1 +1,11 @@
-{"id": "chem_hydrogen_peroxide", "fg": ["944_water_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "chem_hydrogen_peroxide",
+  "fg": [
+    "944_water_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

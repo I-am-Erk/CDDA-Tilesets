@@ -1,1 +1,10 @@
-{"id": "pond_field", "fg": ["3276_pond_field_0"], "rotates": true, "bg": []}
+{
+  "id": "pond_field",
+  "fg": [
+    "3276_pond_field_0"
+  ],
+  "rotates": true,
+  "bg": [
+    
+  ]
+}

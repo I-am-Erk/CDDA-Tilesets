@@ -1,5 +1,9 @@
 {
   "id": "overlay_female_worn_gloves_leather",
-  "fg": ["gloves_leather_f"],
-  "bg": []
+  "fg": [
+    "gloves_leather_f"
+  ],
+  "bg": [
+    
+  ]
 }

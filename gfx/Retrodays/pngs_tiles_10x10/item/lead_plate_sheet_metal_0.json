@@ -1,1 +1,13 @@
-{"id": ["lead_plate", "sheet_metal"], "fg": ["2124_lead_plate_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "lead_plate",
+    "sheet_metal"
+  ],
+  "fg": [
+    "2124_lead_plate_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

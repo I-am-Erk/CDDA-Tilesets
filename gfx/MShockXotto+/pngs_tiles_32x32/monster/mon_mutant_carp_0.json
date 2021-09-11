@@ -1,1 +1,10 @@
-{"id": "mon_mutant_carp", "fg": ["2554_mon_mutant_carp_0"], "rotates": false, "bg": []}
+{
+  "id": "mon_mutant_carp",
+  "fg": [
+    "2554_mon_mutant_carp_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

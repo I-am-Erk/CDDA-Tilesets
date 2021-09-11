@@ -1,1 +1,10 @@
-{"id": "sunglasses", "fg": ["1861_sunglasses_0"], "rotates": false, "bg": []}
+{
+  "id": "sunglasses",
+  "fg": [
+    "1861_sunglasses_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,5 +1,8 @@
 {
- "id": ["overlay_wielded_weed","weed"],
- "fg": "weed",
- "rotates": false
+  "id": [
+    "overlay_wielded_weed",
+    "weed"
+  ],
+  "fg": "weed",
+  "rotates": false
 }

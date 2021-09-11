@@ -1,1 +1,11 @@
-{"id": "depowered_armor", "fg": ["846_power_armor_basic_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "depowered_armor",
+  "fg": [
+    "846_power_armor_basic_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

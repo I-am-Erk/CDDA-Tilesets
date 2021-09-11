@@ -1,16 +1,12 @@
 [
   {
     "id": "overlay_female_mutation_FEATHERS",
-    "fg": [
-      "feathers_f"
-    ],
-    "bg": []
+    "fg": [ "feathers_f" ],
+    "bg": [  ]
   },
   {
     "id": "overlay_male_mutation_FEATHERS",
-    "fg": [
-      "feathers_m"
-    ],
-    "bg": []
+    "fg": [ "feathers_m" ],
+    "bg": [  ]
   }
 ]

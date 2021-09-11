@@ -1,1 +1,10 @@
-{"id": "f_rack_wood", "fg": ["3089_f_rack_wood_0"], "rotates": false, "bg": []}
+{
+  "id": "f_rack_wood",
+  "fg": [
+    "3089_f_rack_wood_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

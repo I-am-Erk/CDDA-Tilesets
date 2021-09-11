@@ -1,1 +1,11 @@
-{"id": "sleeveless_tunic", "fg": ["713_dress_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "sleeveless_tunic",
+  "fg": [
+    "713_dress_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

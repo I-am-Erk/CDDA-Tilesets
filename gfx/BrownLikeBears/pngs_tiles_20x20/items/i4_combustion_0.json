@@ -1,1 +1,11 @@
-{"id": "i4_combustion", "fg": ["351_1cyl_combustion_0"], "rotates": false, "multitile": false, "bg": []}
+{
+  "id": "i4_combustion",
+  "fg": [
+    "351_1cyl_combustion_0"
+  ],
+  "rotates": false,
+  "multitile": false,
+  "bg": [
+    
+  ]
+}

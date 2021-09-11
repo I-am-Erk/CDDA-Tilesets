@@ -1,1 +1,10 @@
-{"id": "mon_eyebot", "fg": ["176_mon_eyebot_0"], "rotates": false, "bg": []}
+{
+  "id": "mon_eyebot",
+  "fg": [
+    "176_mon_eyebot_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

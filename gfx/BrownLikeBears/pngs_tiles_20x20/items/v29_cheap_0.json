@@ -1,1 +1,11 @@
-{"id": "v29_cheap", "fg": ["1441_v29_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "v29_cheap",
+  "fg": [
+    "1441_v29_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

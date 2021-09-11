@@ -1,6 +1,10 @@
-  {
-    "id": "corpse_mon_amigara_horror",
-    "fg": [ "corpse_mon_amigara_horror" ],
-    "rotates": false,
-    "bg": [  ]
-  }
+{
+  "id": "corpse_mon_amigara_horror",
+  "fg": [
+    "corpse_mon_amigara_horror"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

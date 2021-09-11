@@ -1,1 +1,10 @@
-{"id": "usb_drive", "fg": ["2143_usb_drive_0"], "rotates": false, "bg": []}
+{
+  "id": "usb_drive",
+  "fg": [
+    "2143_usb_drive_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

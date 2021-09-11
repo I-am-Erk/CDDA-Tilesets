@@ -1,1 +1,10 @@
-{"id": "mon_amigara_horror", "fg": ["1181_mon_amigara_horror_0"], "rotates": false, "bg": []}
+{
+  "id": "mon_amigara_horror",
+  "fg": [
+    "1181_mon_amigara_horror_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

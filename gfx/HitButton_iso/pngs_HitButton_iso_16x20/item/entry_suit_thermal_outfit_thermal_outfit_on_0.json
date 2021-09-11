@@ -1,1 +1,13 @@
-{"id": ["entry_suit", "thermal_outfit", "thermal_outfit_on"], "fg": ["1478_entry_suit_0"], "bg": []}
+{
+  "id": [
+    "entry_suit",
+    "thermal_outfit",
+    "thermal_outfit_on"
+  ],
+  "fg": [
+    "1478_entry_suit_0"
+  ],
+  "bg": [
+    
+  ]
+}

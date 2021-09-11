@@ -1,1 +1,10 @@
-{"id": "mon_zolf", "fg": ["2612_mon_zolf_0"], "rotates": false, "bg": []}
+{
+  "id": "mon_zolf",
+  "fg": [
+    "2612_mon_zolf_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

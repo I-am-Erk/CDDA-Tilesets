@@ -1,1 +1,10 @@
-{"id": ["overlay_female_wielded_scythe_war", "overlay_female_wielded_makeshift_scythe_war"], "fg": ["overlay_female_wielded_scythe_war"], "rotates": false}
+{
+  "id": [
+    "overlay_female_wielded_scythe_war",
+    "overlay_female_wielded_makeshift_scythe_war"
+  ],
+  "fg": [
+    "overlay_female_wielded_scythe_war"
+  ],
+  "rotates": false
+}

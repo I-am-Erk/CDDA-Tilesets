@@ -1,1 +1,10 @@
-{"id": "rocket_core_act", "fg": ["1606_rocket_core_act_0"], "rotates": false, "bg": []}
+{
+  "id": "rocket_core_act",
+  "fg": [
+    "1606_rocket_core_act_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

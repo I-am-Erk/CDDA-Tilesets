@@ -1,14 +1,8 @@
-[{
-  "id": "icecream_shop",
-  "fg": [
-    "icecream_shop_N",
-    "icecream_shop_E",
-    "icecream_shop_S",
-    "icecream_shop_W"
-  ],
-  "rotates": true,
-  "bg": [
-    
-  ]
-}
+[
+  {
+    "id": "icecream_shop",
+    "fg": [ "icecream_shop_N", "icecream_shop_E", "icecream_shop_S", "icecream_shop_W" ],
+    "rotates": true,
+    "bg": [  ]
+  }
 ]

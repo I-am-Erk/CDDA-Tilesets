@@ -1,1 +1,10 @@
-{"id": "etched_skull", "fg": ["1478_etched_skull_0"], "rotates": false, "bg": []}
+{
+  "id": "etched_skull",
+  "fg": [
+    "1478_etched_skull_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

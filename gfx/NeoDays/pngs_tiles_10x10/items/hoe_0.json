@@ -1,1 +1,10 @@
-{"id": "hoe", "fg": ["1535_hoe_0"], "rotates": false, "bg": []}
+{
+  "id": "hoe",
+  "fg": [
+    "1535_hoe_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

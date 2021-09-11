@@ -1,1 +1,11 @@
-{"id": "boltcutters", "fg": ["1617_boltcutters_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "boltcutters",
+  "fg": [
+    "1617_boltcutters_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

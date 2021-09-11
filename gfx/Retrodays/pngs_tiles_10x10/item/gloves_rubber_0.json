@@ -1,1 +1,10 @@
-{"id": "gloves_rubber", "fg": ["1748_gloves_rubber_0"], "rotates": false, "bg": []}
+{
+  "id": "gloves_rubber",
+  "fg": [
+    "1748_gloves_rubber_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

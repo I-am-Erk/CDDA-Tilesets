@@ -1,1 +1,11 @@
-{"id": "40mm_flashbang", "fg": ["601_40mm_concussive_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "40mm_flashbang",
+  "fg": [
+    "601_40mm_concussive_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

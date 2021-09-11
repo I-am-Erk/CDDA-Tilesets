@@ -1,1 +1,11 @@
-{"id": "helmet_bike", "fg": ["804_helmet_bike_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "helmet_bike",
+  "fg": [
+    "804_helmet_bike_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

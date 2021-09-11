@@ -1,6 +1,10 @@
-  {
-    "id": "corpse_mon_fungaloid_tower",
-    "fg": [ "corpse_mon_fungaloid_tower" ],
-    "rotates": false,
-    "bg": [  ]
-  }
+{
+  "id": "corpse_mon_fungaloid_tower",
+  "fg": [
+    "corpse_mon_fungaloid_tower"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

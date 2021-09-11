@@ -1,1 +1,10 @@
-{"id": "bindle", "fg": ["1801_bindle_0"], "rotates": false, "bg": []}
+{
+  "id": "bindle",
+  "fg": [
+    "1801_bindle_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

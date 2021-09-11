@@ -1,1 +1,11 @@
-{"id": "seed_tomato", "fg": ["1036_seed_dogbane_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "seed_tomato",
+  "fg": [
+    "1036_seed_dogbane_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

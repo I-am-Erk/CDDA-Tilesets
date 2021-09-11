@@ -1,1 +1,13 @@
-{"id": ["jar_glass_sealed", "spider_steak_pickled"], "fg": ["1137_jar_glass_sealed_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "jar_glass_sealed",
+    "spider_steak_pickled"
+  ],
+  "fg": [
+    "1137_jar_glass_sealed_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

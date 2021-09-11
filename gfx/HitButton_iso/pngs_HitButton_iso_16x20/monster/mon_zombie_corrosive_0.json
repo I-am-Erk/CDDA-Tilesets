@@ -1,1 +1,11 @@
-{"id": ["mon_zombie_corrosive"], "fg": ["264_mon_zombie_corrosive_0"], "bg": []}
+{
+  "id": [
+    "mon_zombie_corrosive"
+  ],
+  "fg": [
+    "264_mon_zombie_corrosive_0"
+  ],
+  "bg": [
+    
+  ]
+}

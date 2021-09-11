@@ -1,1 +1,13 @@
-{"id": ["fireman_belt", "leather_belt"], "fg": ["1927_fireman_belt_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "fireman_belt",
+    "leather_belt"
+  ],
+  "fg": [
+    "1927_fireman_belt_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

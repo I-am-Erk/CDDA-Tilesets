@@ -1,1 +1,10 @@
-{"id": "overlay_worn_jedi_cloak", "fg": ["675_overlay_worn_jedi_cloak_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_jedi_cloak",
+  "fg": [
+    "675_overlay_worn_jedi_cloak_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,11 @@
-{"id": "irradiated_cucumber", "fg": ["1039_zucchini_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "irradiated_cucumber",
+  "fg": [
+    "1039_zucchini_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

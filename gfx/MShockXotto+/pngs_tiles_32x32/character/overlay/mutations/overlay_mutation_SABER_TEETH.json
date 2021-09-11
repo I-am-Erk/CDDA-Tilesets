@@ -1,12 +1,12 @@
 [
   {
-    "id": ["overlay_male_mutation_SABER_TEETH"],
+    "id": [ "overlay_male_mutation_SABER_TEETH" ],
     "fg": [ "overlay_male_mutation_SABER_TEETH" ],
     "rotates": false,
     "bg": [  ]
   },
   {
-    "id": ["overlay_female_mutation_SABER_TEETH"],
+    "id": [ "overlay_female_mutation_SABER_TEETH" ],
     "fg": [ "overlay_female_mutation_SABER_TEETH" ],
     "rotates": false,
     "bg": [  ]

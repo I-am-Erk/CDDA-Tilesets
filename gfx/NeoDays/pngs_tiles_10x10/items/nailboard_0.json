@@ -1,1 +1,10 @@
-{"id": "nailboard", "fg": ["1405_nailboard_0"], "rotates": false, "bg": []}
+{
+  "id": "nailboard",
+  "fg": [
+    "1405_nailboard_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

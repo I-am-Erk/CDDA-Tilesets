@@ -1,1 +1,11 @@
-{"id": "sm_extinguisher", "fg": ["1480_extinguisher_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "sm_extinguisher",
+  "fg": [
+    "1480_extinguisher_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

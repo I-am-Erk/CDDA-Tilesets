@@ -1,1 +1,11 @@
-{"id": "scrambler_act", "fg": ["1538_scrambler_act_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "scrambler_act",
+  "fg": [
+    "1538_scrambler_act_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

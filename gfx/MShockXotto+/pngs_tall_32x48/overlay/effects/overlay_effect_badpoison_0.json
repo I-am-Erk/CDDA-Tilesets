@@ -1,1 +1,9 @@
-{"id": "overlay_effect_badpoison", "fg": ["overlay_effect_badpoison"], "bg": []}
+{
+  "id": "overlay_effect_badpoison",
+  "fg": [
+    "overlay_effect_badpoison"
+  ],
+  "bg": [
+    
+  ]
+}

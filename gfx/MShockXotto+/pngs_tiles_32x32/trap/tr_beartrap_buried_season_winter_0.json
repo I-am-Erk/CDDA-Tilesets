@@ -1,1 +1,9 @@
-{"id": "tr_beartrap_buried_season_winter", "fg": ["3917_tr_beartrap_buried_season_winter_0"], "bg": ["998_tr_beartrap_0"]}
+{
+  "id": "tr_beartrap_buried_season_winter",
+  "fg": [
+    "3917_tr_beartrap_buried_season_winter_0"
+  ],
+  "bg": [
+    "998_tr_beartrap_0"
+  ]
+}

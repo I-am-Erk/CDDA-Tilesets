@@ -1,1 +1,10 @@
-{"id": "holo_cloak", "fg": ["1726_holo_cloak_0"], "rotates": false, "bg": []}
+{
+  "id": "holo_cloak",
+  "fg": [
+    "1726_holo_cloak_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

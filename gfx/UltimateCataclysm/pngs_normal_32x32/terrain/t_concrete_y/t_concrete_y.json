@@ -14,7 +14,12 @@
       {
         "id": "t_connection",
         "bg": "",
-        "fg": [ "t_concrete_y_t_connection_n", "t_concrete_y_t_connection_w", "t_concrete_y_t_connection_s", "t_concrete_y_t_connection_e" ]
+        "fg": [
+          "t_concrete_y_t_connection_n",
+          "t_concrete_y_t_connection_w",
+          "t_concrete_y_t_connection_s",
+          "t_concrete_y_t_connection_e"
+        ]
       },
       { "id": "edge", "bg": "", "fg": [ "t_concrete_y_edge_ns", "t_concrete_y_edge_ew" ] },
       {

@@ -1,1 +1,10 @@
-{"id": "overlay_worn_2byshin_guard", "fg": ["688_overlay_worn_legguard_hard_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_2byshin_guard",
+  "fg": [
+    "688_overlay_worn_legguard_hard_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

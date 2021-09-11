@@ -1,1 +1,10 @@
-{"id": "overlay_worn_helmet_acidchitin", "fg": ["5137_overlay_worn_helmet_acidchitin_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_helmet_acidchitin",
+  "fg": [
+    "5137_overlay_worn_helmet_acidchitin_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

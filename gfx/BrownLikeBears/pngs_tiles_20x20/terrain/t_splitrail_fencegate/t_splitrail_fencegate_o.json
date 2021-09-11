@@ -9,12 +9,7 @@
       { "id": "edge", "fg": [ "t_splitrail_fencegate_o_v", "t_splitrail_fencegate_o_h" ], "bg": "1_t_dirt_0" },
       {
         "id": "end_piece",
-        "fg": [
-          "t_splitrail_fencegate_o_h",
-          "t_splitrail_fencegate_o_v",
-          "t_splitrail_fencegate_o_h",
-          "t_splitrail_fencegate_o_v"
-        ],
+        "fg": [ "t_splitrail_fencegate_o_h", "t_splitrail_fencegate_o_v", "t_splitrail_fencegate_o_h", "t_splitrail_fencegate_o_v" ],
         "bg": "1_t_dirt_0"
       },
       {
@@ -34,12 +29,7 @@
       { "id": "edge", "fg": [ "t_splitrail_fencegate_o_v", "t_splitrail_fencegate_o_h" ], "bg": "t_dirt_summer" },
       {
         "id": "end_piece",
-        "fg": [
-          "t_splitrail_fencegate_o_h",
-          "t_splitrail_fencegate_o_v",
-          "t_splitrail_fencegate_o_h",
-          "t_splitrail_fencegate_o_v"
-        ],
+        "fg": [ "t_splitrail_fencegate_o_h", "t_splitrail_fencegate_o_v", "t_splitrail_fencegate_o_h", "t_splitrail_fencegate_o_v" ],
         "bg": "t_dirt_summer"
       },
       {
@@ -59,12 +49,7 @@
       { "id": "edge", "fg": [ "t_splitrail_fencegate_o_v", "t_splitrail_fencegate_o_h" ], "bg": "t_dirt_autumn" },
       {
         "id": "end_piece",
-        "fg": [
-          "t_splitrail_fencegate_o_h",
-          "t_splitrail_fencegate_o_v",
-          "t_splitrail_fencegate_o_h",
-          "t_splitrail_fencegate_o_v"
-        ],
+        "fg": [ "t_splitrail_fencegate_o_h", "t_splitrail_fencegate_o_v", "t_splitrail_fencegate_o_h", "t_splitrail_fencegate_o_v" ],
         "bg": "t_dirt_autumn"
       },
       {
@@ -84,12 +69,7 @@
       { "id": "edge", "fg": [ "t_splitrail_fencegate_o_v", "t_splitrail_fencegate_o_h" ], "bg": "t_dirt_winter" },
       {
         "id": "end_piece",
-        "fg": [
-          "t_splitrail_fencegate_o_h",
-          "t_splitrail_fencegate_o_v",
-          "t_splitrail_fencegate_o_h",
-          "t_splitrail_fencegate_o_v"
-        ],
+        "fg": [ "t_splitrail_fencegate_o_h", "t_splitrail_fencegate_o_v", "t_splitrail_fencegate_o_h", "t_splitrail_fencegate_o_v" ],
         "bg": "t_dirt_winter"
       },
       {

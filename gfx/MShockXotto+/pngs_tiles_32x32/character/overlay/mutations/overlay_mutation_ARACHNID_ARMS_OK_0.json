@@ -1,1 +1,10 @@
-{"id": "overlay_mutation_ARACHNID_ARMS_OK", "fg": ["2808_overlay_mutation_ARACHNID_ARMS_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_mutation_ARACHNID_ARMS_OK",
+  "fg": [
+    "2808_overlay_mutation_ARACHNID_ARMS_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,13 @@
-{"id": "t_palisade_gate", "fg": ["252_t_palisade_gate_0", "253_t_palisade_gate_1", "252_t_palisade_gate_0", "253_t_palisade_gate_1"], "rotates": true, "bg": []}
+{
+  "id": "t_palisade_gate",
+  "fg": [
+    "252_t_palisade_gate_0",
+    "253_t_palisade_gate_1",
+    "252_t_palisade_gate_0",
+    "253_t_palisade_gate_1"
+  ],
+  "rotates": true,
+  "bg": [
+    
+  ]
+}

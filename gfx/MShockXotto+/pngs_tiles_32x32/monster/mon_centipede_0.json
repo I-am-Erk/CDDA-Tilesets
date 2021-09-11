@@ -1,1 +1,10 @@
-{"id": "mon_centipede", "fg": ["2368_mon_centipede_0"], "rotates": false, "bg": []}
+{
+  "id": "mon_centipede",
+  "fg": [
+    "2368_mon_centipede_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

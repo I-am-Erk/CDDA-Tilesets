@@ -1,1 +1,11 @@
-{"id": "acidbomb", "fg": ["acidbomb"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "acidbomb",
+  "fg": [
+    "acidbomb"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

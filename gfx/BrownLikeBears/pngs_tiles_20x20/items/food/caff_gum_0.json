@@ -1,1 +1,11 @@
-{"id": "caff_gum", "fg": ["1065_tallow_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "caff_gum",
+  "fg": [
+    "1065_tallow_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

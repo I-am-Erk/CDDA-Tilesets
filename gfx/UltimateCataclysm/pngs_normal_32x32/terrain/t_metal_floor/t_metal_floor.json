@@ -4,20 +4,11 @@
   "fg": "t_metal_floor_unconnected",
   "bg": "",
   "additional_tiles": [
-    {
-      "id": "center",
-      "bg": "",
-      "fg": "t_metal_floor_center"
-    },
+    { "id": "center", "bg": "", "fg": "t_metal_floor_center" },
     {
       "id": "corner",
       "bg": "",
-      "fg": [
-        "t_metal_floor_corner_nw",
-        "t_metal_floor_corner_sw",
-        "t_metal_floor_corner_se",
-        "t_metal_floor_corner_ne"
-      ]
+      "fg": [ "t_metal_floor_corner_nw", "t_metal_floor_corner_sw", "t_metal_floor_corner_se", "t_metal_floor_corner_ne" ]
     },
     {
       "id": "t_connection",
@@ -29,28 +20,12 @@
         "t_metal_floor_t_connection_e"
       ]
     },
-    {
-      "id": "edge",
-      "bg": "",
-      "fg": [
-        "t_metal_floor_edge_ns",
-        "t_metal_floor_edge_ew"
-      ]
-    },
+    { "id": "edge", "bg": "", "fg": [ "t_metal_floor_edge_ns", "t_metal_floor_edge_ew" ] },
     {
       "id": "end_piece",
       "bg": "",
-      "fg": [
-        "t_metal_floor_end_piece_n",
-        "t_metal_floor_end_piece_w",
-        "t_metal_floor_end_piece_s",
-        "t_metal_floor_end_piece_e"
-      ]
+      "fg": [ "t_metal_floor_end_piece_n", "t_metal_floor_end_piece_w", "t_metal_floor_end_piece_s", "t_metal_floor_end_piece_e" ]
     },
-    {
-      "bg": "",
-      "id": "unconnected",
-      "fg": "t_metal_floor_unconnected"
-    }
+    { "bg": "", "id": "unconnected", "fg": "t_metal_floor_unconnected" }
   ]
 }

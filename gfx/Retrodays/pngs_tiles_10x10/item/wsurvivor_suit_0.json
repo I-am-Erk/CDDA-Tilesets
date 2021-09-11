@@ -1,1 +1,10 @@
-{"id": "wsurvivor_suit", "fg": ["1775_wsurvivor_suit_0"], "rotates": false, "bg": []}
+{
+  "id": "wsurvivor_suit",
+  "fg": [
+    "1775_wsurvivor_suit_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

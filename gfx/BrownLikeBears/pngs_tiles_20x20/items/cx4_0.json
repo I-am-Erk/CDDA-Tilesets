@@ -1,1 +1,11 @@
-{"id": "cx4", "fg": ["1383_rifle_9mm_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "cx4",
+  "fg": [
+    "1383_rifle_9mm_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

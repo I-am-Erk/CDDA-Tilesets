@@ -1,1 +1,14 @@
-{"id": ["cursor", "highlight", "line_target", "vehicle_pointer"], "fg": ["245_cursor_0"], "bg": []}
+{
+  "id": [
+    "cursor",
+    "highlight",
+    "line_target",
+    "vehicle_pointer"
+  ],
+  "fg": [
+    "245_cursor_0"
+  ],
+  "bg": [
+    
+  ]
+}

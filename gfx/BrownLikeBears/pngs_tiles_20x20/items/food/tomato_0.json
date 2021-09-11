@@ -1,1 +1,11 @@
-{"id": "tomato", "fg": ["1037_tomato_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "tomato",
+  "fg": [
+    "1037_tomato_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

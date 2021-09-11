@@ -1,1 +1,10 @@
-{"id": "p_paint", "fg": ["1128_p_paint_0"], "rotates": false, "bg": []}
+{
+  "id": "p_paint",
+  "fg": [
+    "1128_p_paint_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

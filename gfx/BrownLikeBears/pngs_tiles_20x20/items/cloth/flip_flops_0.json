@@ -1,1 +1,11 @@
-{"id": "flip_flops", "fg": ["684_flip_flops_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "flip_flops",
+  "fg": [
+    "684_flip_flops_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

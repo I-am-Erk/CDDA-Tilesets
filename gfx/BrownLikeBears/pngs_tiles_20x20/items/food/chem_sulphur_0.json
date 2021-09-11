@@ -1,1 +1,11 @@
-{"id": "chem_sulphur", "fg": ["1116_can_corn_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "chem_sulphur",
+  "fg": [
+    "1116_can_corn_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

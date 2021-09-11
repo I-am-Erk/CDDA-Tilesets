@@ -1,1 +1,16 @@
-{"id": ["trenchcoat_leather", "trenchcoat_survivor", "duster_survivor", "armor_nomad", "duster_leather"], "fg": ["1913_trenchcoat_leather_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "trenchcoat_leather",
+    "trenchcoat_survivor",
+    "duster_survivor",
+    "armor_nomad",
+    "duster_leather"
+  ],
+  "fg": [
+    "1913_trenchcoat_leather_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

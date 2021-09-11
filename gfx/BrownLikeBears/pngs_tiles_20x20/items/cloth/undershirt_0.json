@@ -1,1 +1,11 @@
-{"id": "undershirt", "fg": ["720_tshirt_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "undershirt",
+  "fg": [
+    "720_tshirt_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

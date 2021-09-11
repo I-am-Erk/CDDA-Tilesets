@@ -1,1 +1,11 @@
-{"id": "leg_warmers_xl", "fg": ["903_arm_warmers_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "leg_warmers_xl",
+  "fg": [
+    "903_arm_warmers_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

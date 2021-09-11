@@ -1,1 +1,13 @@
-{"id": ["blade", "metal_smoother"], "fg": ["1390_blade_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "blade",
+    "metal_smoother"
+  ],
+  "fg": [
+    "1390_blade_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

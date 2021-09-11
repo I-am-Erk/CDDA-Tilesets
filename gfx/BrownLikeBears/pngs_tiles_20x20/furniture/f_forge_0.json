@@ -1,1 +1,11 @@
-{"id": "f_forge", "fg": ["1362_char_forge_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "f_forge",
+  "fg": [
+    "1362_char_forge_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

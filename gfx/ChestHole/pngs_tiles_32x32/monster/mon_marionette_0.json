@@ -1,1 +1,10 @@
-{"id": "mon_marionette", "fg": ["4775_mon_marionette_0"], "rotates": false, "bg": []}
+{
+  "id": "mon_marionette",
+  "fg": [
+    "4775_mon_marionette_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

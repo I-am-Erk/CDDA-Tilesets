@@ -1,1 +1,10 @@
-{"id": "mon_zombie_predator", "fg": ["1929_mon_zombie_predator_0"], "rotates": false, "bg": []}
+{
+  "id": "mon_zombie_predator",
+  "fg": [
+    "1929_mon_zombie_predator_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

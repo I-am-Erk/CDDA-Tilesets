@@ -1,5 +1,9 @@
 {
   "id": "overlay_male_worn_motorbike_boots",
-  "fg": ["motorbike_boots_m"],
-  "bg": []
+  "fg": [
+    "motorbike_boots_m"
+  ],
+  "bg": [
+    
+  ]
 }

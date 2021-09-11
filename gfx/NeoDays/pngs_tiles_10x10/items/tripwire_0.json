@@ -1,1 +1,10 @@
-{"id": "tripwire", "fg": ["863_tripwire_0"], "rotates": false, "bg": []}
+{
+  "id": "tripwire",
+  "fg": [
+    "863_tripwire_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

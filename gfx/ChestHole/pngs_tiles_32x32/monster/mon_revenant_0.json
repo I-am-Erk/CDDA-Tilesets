@@ -1,1 +1,10 @@
-{"id": "mon_revenant", "fg": [""], "bg": [""], "rotates": false}
+{
+  "id": "mon_revenant",
+  "fg": [
+    ""
+  ],
+  "bg": [
+    ""
+  ],
+  "rotates": false
+}

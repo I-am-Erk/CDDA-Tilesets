@@ -16,12 +16,7 @@
     {
       "id": "corner",
       "bg": "",
-      "fg": [
-        "t_rock_floor_corner_nw",
-        "t_rock_floor_corner_sw",
-        "t_rock_floor_corner_se",
-        "t_rock_floor_corner_ne"
-      ]
+      "fg": [ "t_rock_floor_corner_nw", "t_rock_floor_corner_sw", "t_rock_floor_corner_se", "t_rock_floor_corner_ne" ]
     },
     {
       "id": "t_connection",
@@ -33,28 +28,12 @@
         "t_rock_floor_t_connection_e"
       ]
     },
-    {
-      "id": "edge",
-      "bg": "",
-      "fg": [
-        "t_rock_floor_edge_ns",
-        "t_rock_floor_edge_ew"
-      ]
-    },
+    { "id": "edge", "bg": "", "fg": [ "t_rock_floor_edge_ns", "t_rock_floor_edge_ew" ] },
     {
       "id": "end_piece",
       "bg": "",
-      "fg": [
-        "t_rock_floor_end_piece_n",
-        "t_rock_floor_end_piece_w",
-        "t_rock_floor_end_piece_s",
-        "t_rock_floor_end_piece_e"
-      ]
+      "fg": [ "t_rock_floor_end_piece_n", "t_rock_floor_end_piece_w", "t_rock_floor_end_piece_s", "t_rock_floor_end_piece_e" ]
     },
-    {
-      "bg": "",
-      "id": "unconnected",
-      "fg": "t_rock_floor_unconnected"
-    }
+    { "bg": "", "id": "unconnected", "fg": "t_rock_floor_unconnected" }
   ]
 }

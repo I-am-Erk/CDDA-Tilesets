@@ -1,1 +1,11 @@
-{"id": "spear_steel", "fg": ["1308_rebar_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "spear_steel",
+  "fg": [
+    "1308_rebar_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

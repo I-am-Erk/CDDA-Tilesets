@@ -1,1 +1,12 @@
-{"id": ["leg_splint", "arm_splint"], "fg": ["1531_leg_splint_0"], "bg": []}
+{
+  "id": [
+    "leg_splint",
+    "arm_splint"
+  ],
+  "fg": [
+    "1531_leg_splint_0"
+  ],
+  "bg": [
+    
+  ]
+}

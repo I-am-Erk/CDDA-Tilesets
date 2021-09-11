@@ -1,1 +1,9 @@
-{"id": "overlay_male_worn_longshirt", "fg": ["overlay_male_worn_longshirt"], "bg": []}
+{
+  "id": "overlay_male_worn_longshirt",
+  "fg": [
+    "overlay_male_worn_longshirt"
+  ],
+  "bg": [
+    
+  ]
+}

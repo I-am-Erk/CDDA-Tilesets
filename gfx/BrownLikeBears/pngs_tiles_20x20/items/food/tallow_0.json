@@ -1,1 +1,11 @@
-{"id": "tallow", "fg": ["1065_tallow_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "tallow",
+  "fg": [
+    "1065_tallow_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

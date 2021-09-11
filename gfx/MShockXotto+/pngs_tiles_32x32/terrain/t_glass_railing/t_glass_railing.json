@@ -6,12 +6,7 @@
   "additional_tiles": [
     {
       "id": "corner",
-      "fg": [
-        "t_glass_railing_corner_nw",
-        "t_glass_railing_corner_sw",
-        "t_glass_railing_corner_se",
-        "t_glass_railing_corner_ne"
-      ],
+      "fg": [ "t_glass_railing_corner_nw", "t_glass_railing_corner_sw", "t_glass_railing_corner_se", "t_glass_railing_corner_ne" ],
       "bg": "985_t_backboard_1"
     },
     {
@@ -24,14 +19,7 @@
       ],
       "bg": "985_t_backboard_1"
     },
-    {
-      "id": "edge",
-      "fg": [
-        "t_glass_railing_edge_ns",
-        "t_glass_railing_edge_ew"
-      ],
-      "bg": "985_t_backboard_1"
-    },
+    { "id": "edge", "fg": [ "t_glass_railing_edge_ns", "t_glass_railing_edge_ew" ], "bg": "985_t_backboard_1" },
     {
       "id": "end_piece",
       "fg": [
@@ -44,10 +32,7 @@
     },
     {
       "id": "unconnected",
-      "fg": [
-        "t_glass_railing_unconnected",
-        "t_glass_railing_unconnected"
-      ],
+      "fg": [ "t_glass_railing_unconnected", "t_glass_railing_unconnected" ],
       "bg": "985_t_backboard_1"
     }
   ]

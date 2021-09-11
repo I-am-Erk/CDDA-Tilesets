@@ -1,1 +1,13 @@
-{"id": ["iceaxe", "pickaxe"], "fg": ["1584_iceaxe_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "iceaxe",
+    "pickaxe"
+  ],
+  "fg": [
+    "1584_iceaxe_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

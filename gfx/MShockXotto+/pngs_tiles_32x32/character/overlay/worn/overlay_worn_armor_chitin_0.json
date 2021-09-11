@@ -1,1 +1,10 @@
-{"id": "overlay_worn_armor_chitin", "fg": ["522_overlay_worn_armor_chitin_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_armor_chitin",
+  "fg": [
+    "522_overlay_worn_armor_chitin_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

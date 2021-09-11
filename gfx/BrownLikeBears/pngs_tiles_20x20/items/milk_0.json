@@ -1,1 +1,11 @@
-{"id": "milk", "fg": ["949_milk_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "milk",
+  "fg": [
+    "949_milk_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

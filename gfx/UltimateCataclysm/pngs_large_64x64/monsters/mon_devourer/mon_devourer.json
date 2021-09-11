@@ -1,5 +1,9 @@
 {
   "id": "mon_devourer",
-  "fg": ["mon_devourer"],
-  "bg": ["shadow_64x64_medium"]
+  "fg": [
+    "mon_devourer"
+  ],
+  "bg": [
+    "shadow_64x64_medium"
+  ]
 }

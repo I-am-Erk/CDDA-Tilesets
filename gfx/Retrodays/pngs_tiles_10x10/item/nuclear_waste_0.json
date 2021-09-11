@@ -1,1 +1,10 @@
-{"id": "nuclear_waste", "fg": ["2097_nuclear_waste_0"], "rotates": false, "bg": []}
+{
+  "id": "nuclear_waste",
+  "fg": [
+    "2097_nuclear_waste_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,11 @@
-{"id": "spiked_rocket", "fg": ["1864_explosive_hm_rocket_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "spiked_rocket",
+  "fg": [
+    "1864_explosive_hm_rocket_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

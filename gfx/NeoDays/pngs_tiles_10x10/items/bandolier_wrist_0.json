@@ -1,1 +1,10 @@
-{"id": "bandolier_wrist", "fg": ["1790_bandolier_wrist_0"], "rotates": false, "bg": []}
+{
+  "id": "bandolier_wrist",
+  "fg": [
+    "1790_bandolier_wrist_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

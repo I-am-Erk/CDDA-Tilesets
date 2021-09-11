@@ -1,1 +1,10 @@
-{"id": "overlay_worn_polo_shirt", "fg": ["2790_overlay_worn_technician_shirt_gray_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_polo_shirt",
+  "fg": [
+    "2790_overlay_worn_technician_shirt_gray_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

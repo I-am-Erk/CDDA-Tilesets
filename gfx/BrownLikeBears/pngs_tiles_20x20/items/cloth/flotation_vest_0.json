@@ -1,1 +1,11 @@
-{"id": "flotation_vest", "fg": ["748_flotation_vest_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "flotation_vest",
+  "fg": [
+    "748_flotation_vest_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

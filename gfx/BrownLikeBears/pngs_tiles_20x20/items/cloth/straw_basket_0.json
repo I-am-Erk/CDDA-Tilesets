@@ -1,1 +1,11 @@
-{"id": "straw_basket", "fg": ["1870_straw_basket_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "straw_basket",
+  "fg": [
+    "1870_straw_basket_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

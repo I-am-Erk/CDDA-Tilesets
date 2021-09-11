@@ -1,1 +1,10 @@
-{"id": "bag_plastic", "fg": ["134_bag_plastic_0"], "rotates": false, "bg": []}
+{
+  "id": "bag_plastic",
+  "fg": [
+    "134_bag_plastic_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

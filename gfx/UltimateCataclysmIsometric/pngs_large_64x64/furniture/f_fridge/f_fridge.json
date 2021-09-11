@@ -1,5 +1,9 @@
 {
   "id": "f_fridge",
-  "fg": ["f_fridge"],
-  "bg": []
+  "fg": [
+    "f_fridge"
+  ],
+  "bg": [
+    
+  ]
 }

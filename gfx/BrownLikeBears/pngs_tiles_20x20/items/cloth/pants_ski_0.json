@@ -1,1 +1,11 @@
-{"id": "pants_ski", "fg": ["698_pants_ski_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "pants_ski",
+  "fg": [
+    "698_pants_ski_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

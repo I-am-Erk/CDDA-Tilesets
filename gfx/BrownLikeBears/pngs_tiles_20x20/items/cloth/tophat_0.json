@@ -1,1 +1,11 @@
-{"id": "tophat", "fg": ["813_tophat_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "tophat",
+  "fg": [
+    "813_tophat_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

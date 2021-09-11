@@ -1,1 +1,10 @@
-{"id": "fire_ax", "fg": ["1491_fire_ax_0"], "rotates": false, "bg": []}
+{
+  "id": "fire_ax",
+  "fg": [
+    "1491_fire_ax_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

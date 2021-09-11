@@ -1,1 +1,10 @@
-{"id": "t_grate", "fg": ["3045_t_elevator_0"], "rotates": false, "bg": []}
+{
+  "id": "t_grate",
+  "fg": [
+    "3045_t_elevator_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

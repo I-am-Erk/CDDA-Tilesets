@@ -1,1 +1,14 @@
-{"id": ["bee_balm", "lily_flower", "lotus_flower"], "fg": ["927_bee_balm_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "bee_balm",
+    "lily_flower",
+    "lotus_flower"
+  ],
+  "fg": [
+    "927_bee_balm_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

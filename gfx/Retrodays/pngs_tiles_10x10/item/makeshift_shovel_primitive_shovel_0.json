@@ -1,1 +1,13 @@
-{"id": ["makeshift_shovel", "primitive_shovel"], "fg": ["1596_makeshift_shovel_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "makeshift_shovel",
+    "primitive_shovel"
+  ],
+  "fg": [
+    "1596_makeshift_shovel_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

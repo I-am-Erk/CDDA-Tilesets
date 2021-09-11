@@ -1,1 +1,12 @@
-{"id": ["overlay_worn_armguard_chitin", "overlay_worn_armguard_bone"], "fg": ["1309_overlay_worn_armguard_chitin_0"], "bg": []}
+{
+  "id": [
+    "overlay_worn_armguard_chitin",
+    "overlay_worn_armguard_bone"
+  ],
+  "fg": [
+    "1309_overlay_worn_armguard_chitin_0"
+  ],
+  "bg": [
+    
+  ]
+}

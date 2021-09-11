@@ -1,1 +1,12 @@
-{"id": ["overlay_worn_thermal_outfit", "overlay_worn_thermal_outfit_on"], "fg": ["1554_overlay_worn_thermal_outfit_0"], "bg": []}
+{
+  "id": [
+    "overlay_worn_thermal_outfit",
+    "overlay_worn_thermal_outfit_on"
+  ],
+  "fg": [
+    "1554_overlay_worn_thermal_outfit_0"
+  ],
+  "bg": [
+    
+  ]
+}

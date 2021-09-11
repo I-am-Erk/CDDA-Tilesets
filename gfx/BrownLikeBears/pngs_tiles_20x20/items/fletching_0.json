@@ -1,1 +1,11 @@
-{"id": "fletching", "fg": ["523_fletching_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "fletching",
+  "fg": [
+    "523_fletching_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

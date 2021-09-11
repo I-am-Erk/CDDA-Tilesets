@@ -1,1 +1,10 @@
-{"id": "f_ladder", "fg": ["3105_t_ladder_up_0"], "rotates": false, "bg": []}
+{
+  "id": "f_ladder",
+  "fg": [
+    "3105_t_ladder_up_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,6 +1,10 @@
-  {
-    "id": "corpse_mon_fungaloid_seeder",
-    "fg": [ "corpse_mon_fungaloid_seeder" ],
-    "rotates": false,
-    "bg": [  ]
-  }
+{
+  "id": "corpse_mon_fungaloid_seeder",
+  "fg": [
+    "corpse_mon_fungaloid_seeder"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

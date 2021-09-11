@@ -1,1 +1,10 @@
-{"id": "t_mdoor_frame", "fg": ["3120_t_mdoor_frame_0"], "bg": ["987_t_door_frame_1"], "rotates": false}
+{
+  "id": "t_mdoor_frame",
+  "fg": [
+    "3120_t_mdoor_frame_0"
+  ],
+  "bg": [
+    "987_t_door_frame_1"
+  ],
+  "rotates": false
+}

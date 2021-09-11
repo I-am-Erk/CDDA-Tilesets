@@ -1,1 +1,10 @@
-{"id": "overlay_worn_boots_acidchitin", "fg": ["5154_overlay_worn_boots_acidchitin_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_boots_acidchitin",
+  "fg": [
+    "5154_overlay_worn_boots_acidchitin_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

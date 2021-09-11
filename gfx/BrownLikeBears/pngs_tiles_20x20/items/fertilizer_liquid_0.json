@@ -1,1 +1,11 @@
-{"id": "fertilizer_liquid", "fg": ["944_water_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "fertilizer_liquid",
+  "fg": [
+    "944_water_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

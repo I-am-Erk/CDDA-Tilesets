@@ -1,1 +1,13 @@
-{"id": ["tr_lava", "t_lava"], "fg": ["32_tr_lava_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "tr_lava",
+    "t_lava"
+  ],
+  "fg": [
+    "32_tr_lava_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

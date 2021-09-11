@@ -1,1 +1,11 @@
-{"id": "sig_p230", "fg": ["1386_sig_mosquito_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "sig_p230",
+  "fg": [
+    "1386_sig_mosquito_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

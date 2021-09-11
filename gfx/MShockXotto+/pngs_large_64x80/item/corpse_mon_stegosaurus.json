@@ -1,6 +1,10 @@
-  {
-    "id": "corpse_mon_stegosaurus",
-    "fg": [ "corpse_mon_stegosaurus" ],
-    "rotates": false,
-    "bg": [  ]
-  }
+{
+  "id": "corpse_mon_stegosaurus",
+  "fg": [
+    "corpse_mon_stegosaurus"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

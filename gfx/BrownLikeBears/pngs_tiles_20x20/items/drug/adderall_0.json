@@ -1,1 +1,11 @@
-{"id": "adderall", "fg": ["1109_adderall_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "adderall",
+  "fg": [
+    "1109_adderall_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

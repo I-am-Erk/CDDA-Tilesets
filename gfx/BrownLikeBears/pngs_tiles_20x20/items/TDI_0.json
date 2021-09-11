@@ -1,1 +1,11 @@
-{"id": "TDI", "fg": ["1417_TDI_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "TDI",
+  "fg": [
+    "1417_TDI_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

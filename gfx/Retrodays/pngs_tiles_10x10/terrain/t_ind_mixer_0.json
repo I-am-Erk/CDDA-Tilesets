@@ -1,1 +1,10 @@
-{"id": "t_ind_mixer", "fg": ["574_t_ind_mixer_0"], "rotates": false, "bg": []}
+{
+  "id": "t_ind_mixer",
+  "fg": [
+    "574_t_ind_mixer_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

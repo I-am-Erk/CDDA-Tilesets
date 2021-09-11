@@ -1,1 +1,11 @@
-{"id": "chem_thermite", "fg": ["604_gunpowder_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "chem_thermite",
+  "fg": [
+    "604_gunpowder_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

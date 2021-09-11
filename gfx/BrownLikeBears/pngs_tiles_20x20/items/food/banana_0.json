@@ -1,1 +1,11 @@
-{"id": "banana", "fg": ["1012_banana_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "banana",
+  "fg": [
+    "1012_banana_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

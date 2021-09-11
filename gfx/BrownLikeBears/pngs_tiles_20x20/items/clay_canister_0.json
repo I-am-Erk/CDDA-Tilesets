@@ -1,1 +1,11 @@
-{"id": "clay_canister", "fg": ["1874_clay_canister_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "clay_canister",
+  "fg": [
+    "1874_clay_canister_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

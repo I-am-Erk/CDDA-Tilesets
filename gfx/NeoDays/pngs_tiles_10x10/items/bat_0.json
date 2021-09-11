@@ -1,1 +1,10 @@
-{"id": "bat", "fg": ["2021_bat_0"], "rotates": false, "bg": []}
+{
+  "id": "bat",
+  "fg": [
+    "2021_bat_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

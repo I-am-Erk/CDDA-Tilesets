@@ -1,12 +1,12 @@
 [
   {
-    "id": ["overlay_male_mutation_INCISORS"],
+    "id": [ "overlay_male_mutation_INCISORS" ],
     "fg": [ "overlay_male_mutation_INCISORS" ],
     "rotates": false,
     "bg": [  ]
   },
   {
-    "id": ["overlay_female_mutation_INCISORS"],
+    "id": [ "overlay_female_mutation_INCISORS" ],
     "fg": [ "overlay_female_mutation_INCISORS" ],
     "rotates": false,
     "bg": [  ]

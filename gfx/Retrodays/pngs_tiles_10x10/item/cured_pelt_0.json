@@ -1,1 +1,10 @@
-{"id": "cured_pelt", "fg": ["1013_cured_pelt_0"], "rotates": false, "bg": []}
+{
+  "id": "cured_pelt",
+  "fg": [
+    "1013_cured_pelt_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

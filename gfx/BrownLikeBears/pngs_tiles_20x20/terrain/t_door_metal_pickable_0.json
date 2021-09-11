@@ -1,1 +1,10 @@
-{"id": "t_door_metal_pickable", "fg": ["548_t_door_metal_locked_0"], "rotates": false, "bg": []}
+{
+  "id": "t_door_metal_pickable",
+  "fg": [
+    "548_t_door_metal_locked_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

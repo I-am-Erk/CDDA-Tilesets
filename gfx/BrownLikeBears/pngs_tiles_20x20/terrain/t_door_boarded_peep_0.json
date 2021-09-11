@@ -1,1 +1,10 @@
-{"id": "t_door_boarded_peep", "fg": ["71_t_door_boarded_0"], "rotates": false, "bg": []}
+{
+  "id": "t_door_boarded_peep",
+  "fg": [
+    "71_t_door_boarded_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

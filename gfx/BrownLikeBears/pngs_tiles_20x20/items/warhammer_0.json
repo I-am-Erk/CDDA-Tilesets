@@ -1,1 +1,11 @@
-{"id": "warhammer", "fg": ["1313_warhammer_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "warhammer",
+  "fg": [
+    "1313_warhammer_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

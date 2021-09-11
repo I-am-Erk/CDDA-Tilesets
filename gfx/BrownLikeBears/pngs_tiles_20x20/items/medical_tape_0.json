@@ -1,1 +1,11 @@
-{"id": "medical_tape", "fg": ["593_duct_tape_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "medical_tape",
+  "fg": [
+    "593_duct_tape_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

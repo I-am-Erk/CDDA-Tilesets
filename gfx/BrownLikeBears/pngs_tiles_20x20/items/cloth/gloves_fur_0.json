@@ -1,1 +1,11 @@
-{"id": "gloves_fur", "fg": ["767_gloves_fur_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "gloves_fur",
+  "fg": [
+    "767_gloves_fur_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

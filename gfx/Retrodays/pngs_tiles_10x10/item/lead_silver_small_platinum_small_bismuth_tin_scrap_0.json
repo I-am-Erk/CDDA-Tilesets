@@ -1,1 +1,17 @@
-{"id": ["lead", "silver_small", "platinum_small", "bismuth", "tin", "scrap"], "fg": ["1253_lead_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "lead",
+    "silver_small",
+    "platinum_small",
+    "bismuth",
+    "tin",
+    "scrap"
+  ],
+  "fg": [
+    "1253_lead_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

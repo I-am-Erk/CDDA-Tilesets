@@ -1,1 +1,11 @@
-{"id": "gasdiscount_platinum", "fg": ["1852_gasdiscount_silver_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "gasdiscount_platinum",
+  "fg": [
+    "1852_gasdiscount_silver_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

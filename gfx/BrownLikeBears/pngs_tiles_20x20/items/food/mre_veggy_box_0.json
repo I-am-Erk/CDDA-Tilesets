@@ -1,1 +1,11 @@
-{"id": "mre_veggy_box", "fg": ["1080_mre_beef_box_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "mre_veggy_box",
+  "fg": [
+    "1080_mre_beef_box_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

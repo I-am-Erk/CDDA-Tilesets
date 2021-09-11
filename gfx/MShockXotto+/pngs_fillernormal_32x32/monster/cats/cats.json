@@ -1,82 +1,52 @@
 [
   {
     "id": "mon_cat_bengal",
-    "fg": [
-      { "weight": 1, "sprite": "mon_cat_bengal_walk" },
-      { "weight": 1, "sprite": "mon_cat_bengal_sit" }
-    ],
+    "fg": [ { "weight": 1, "sprite": "mon_cat_bengal_walk" }, { "weight": 1, "sprite": "mon_cat_bengal_sit" } ],
     "bg": "shadow_32x32_small"
   },
   {
     "id": "mon_cat_calico",
-    "fg": [
-      { "weight": 1, "sprite": "mon_cat_calico_walk" },
-      { "weight": 1, "sprite": "mon_cat_calico_sit" }
-    ],
+    "fg": [ { "weight": 1, "sprite": "mon_cat_calico_walk" }, { "weight": 1, "sprite": "mon_cat_calico_sit" } ],
     "bg": "shadow_32x32_small"
   },
   {
     "id": "mon_cat_chonker",
-    "fg": [
-      { "weight": 1, "sprite": "mon_cat_chonker_walk" },
-      { "weight": 1, "sprite": "mon_cat_chonker_sit" }
-    ],
+    "fg": [ { "weight": 1, "sprite": "mon_cat_chonker_walk" }, { "weight": 1, "sprite": "mon_cat_chonker_sit" } ],
     "bg": "shadow_32x32_small"
   },
   {
     "id": "mon_cat_devon_rex",
-    "fg": [
-      { "weight": 1, "sprite": "mon_cat_devon_rex_walk" },
-      { "weight": 1, "sprite": "mon_cat_devon_rex_sit" }
-    ],
+    "fg": [ { "weight": 1, "sprite": "mon_cat_devon_rex_walk" }, { "weight": 1, "sprite": "mon_cat_devon_rex_sit" } ],
     "bg": "shadow_32x32_small"
   },
   {
     "id": "mon_cat_longhair",
-    "fg": [
-      { "weight": 1, "sprite": "mon_cat_longhair_walk" },
-      { "weight": 1, "sprite": "mon_cat_longhair_sit" }
-    ],
+    "fg": [ { "weight": 1, "sprite": "mon_cat_longhair_walk" }, { "weight": 1, "sprite": "mon_cat_longhair_sit" } ],
     "bg": "shadow_32x32_small"
   },
   {
     "id": "mon_cat_maine_coon",
-    "fg": [
-      { "weight": 1, "sprite": "mon_cat_maine_coon_walk" },
-      { "weight": 1, "sprite": "mon_cat_maine_coon_sit" }
-    ],
+    "fg": [ { "weight": 1, "sprite": "mon_cat_maine_coon_walk" }, { "weight": 1, "sprite": "mon_cat_maine_coon_sit" } ],
     "bg": "shadow_32x32_small"
   },
   {
     "id": "mon_cat_persian",
-    "fg": [
-      { "weight": 1, "sprite": "mon_cat_persian_walk" },
-      { "weight": 1, "sprite": "mon_cat_persian_sit" }
-    ],
+    "fg": [ { "weight": 1, "sprite": "mon_cat_persian_walk" }, { "weight": 1, "sprite": "mon_cat_persian_sit" } ],
     "bg": "shadow_32x32_small"
   },
   {
     "id": "mon_cat_siamese",
-    "fg": [
-      { "weight": 1, "sprite": "mon_cat_siamese_walk" },
-      { "weight": 1, "sprite": "mon_cat_siamese_sit" }
-    ],
+    "fg": [ { "weight": 1, "sprite": "mon_cat_siamese_walk" }, { "weight": 1, "sprite": "mon_cat_siamese_sit" } ],
     "bg": "shadow_32x32_small"
   },
   {
     "id": "mon_cat_sphynx",
-    "fg": [
-      { "weight": 1, "sprite": "mon_cat_sphynx_walk" },
-      { "weight": 1, "sprite": "mon_cat_sphynx_sit" }
-    ],
+    "fg": [ { "weight": 1, "sprite": "mon_cat_sphynx_walk" }, { "weight": 1, "sprite": "mon_cat_sphynx_sit" } ],
     "bg": "shadow_32x32_small"
   },
   {
     "id": "mon_cat_tabby",
-    "fg": [
-      { "weight": 1, "sprite": "mon_cat_tabby_walk" },
-      { "weight": 1, "sprite": "mon_cat_tabby_sit" }
-    ],
+    "fg": [ { "weight": 1, "sprite": "mon_cat_tabby_walk" }, { "weight": 1, "sprite": "mon_cat_tabby_sit" } ],
     "bg": "shadow_32x32_small"
   },
   {

@@ -1,6 +1,10 @@
-  {
-    "id": "corpse_mon_ankylosaurus",
-    "fg": [ "corpse_mon_ankylosaurus" ],
-    "rotates": false,
-    "bg": [  ]
-  }
+{
+  "id": "corpse_mon_ankylosaurus",
+  "fg": [
+    "corpse_mon_ankylosaurus"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

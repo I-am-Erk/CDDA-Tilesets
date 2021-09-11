@@ -1,1 +1,10 @@
-{"id": "t_linoleum_white", "bg": ["bg_skylight"], "rotates": false, "fg": []}
+{
+  "id": "t_linoleum_white",
+  "bg": [
+    "bg_skylight"
+  ],
+  "rotates": false,
+  "fg": [
+    
+  ]
+}

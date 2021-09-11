@@ -1,1 +1,14 @@
-{"id": ["motor_small", "motor", "motor_enhanced", "motor_large"], "fg": ["2008_motor_small_0"], "bg": []}
+{
+  "id": [
+    "motor_small",
+    "motor",
+    "motor_enhanced",
+    "motor_large"
+  ],
+  "fg": [
+    "2008_motor_small_0"
+  ],
+  "bg": [
+    
+  ]
+}

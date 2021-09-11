@@ -1,4 +1,7 @@
 {
-  "id": ["jackhammer", "elec_jackhammer"],
+  "id": [
+    "jackhammer",
+    "elec_jackhammer"
+  ],
   "fg": "jackhammer"
 }

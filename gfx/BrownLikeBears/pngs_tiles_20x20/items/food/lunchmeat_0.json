@@ -1,1 +1,11 @@
-{"id": "lunchmeat", "fg": ["1030_fish_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "lunchmeat",
+  "fg": [
+    "1030_fish_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

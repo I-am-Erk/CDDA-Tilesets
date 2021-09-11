@@ -1,1 +1,10 @@
-{"id": "f_chair", "fg": ["1478_f_chair_0"], "rotates": false, "bg": []}
+{
+  "id": "f_chair",
+  "fg": [
+    "1478_f_chair_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

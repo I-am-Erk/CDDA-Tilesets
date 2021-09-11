@@ -1,1 +1,12 @@
-{"id": ["mon_graboid", "mon_yugg"], "fg": ["2276_mon_graboid_0"], "bg": []}
+{
+  "id": [
+    "mon_graboid",
+    "mon_yugg"
+  ],
+  "fg": [
+    "2276_mon_graboid_0"
+  ],
+  "bg": [
+    
+  ]
+}

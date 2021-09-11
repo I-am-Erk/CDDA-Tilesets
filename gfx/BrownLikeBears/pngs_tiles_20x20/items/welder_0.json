@@ -1,1 +1,11 @@
-{"id": "welder", "fg": ["1576_welder_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "welder",
+  "fg": [
+    "1576_welder_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

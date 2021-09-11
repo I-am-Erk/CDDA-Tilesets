@@ -1,1 +1,10 @@
-{"id": "unknown_terrain", "fg": ["1_t_hole_0"], "rotates": false, "bg": []}
+{
+  "id": "unknown_terrain",
+  "fg": [
+    "1_t_hole_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

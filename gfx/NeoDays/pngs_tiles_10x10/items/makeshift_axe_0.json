@@ -1,1 +1,10 @@
-{"id": "makeshift_axe", "fg": ["1559_makeshift_axe_0"], "rotates": false, "bg": []}
+{
+  "id": "makeshift_axe",
+  "fg": [
+    "1559_makeshift_axe_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,10 @@
-{"id": "mon_dilophosaurus", "fg": ["4472_mon_dilophosaurus_0"], "rotates": false, "bg": []}
+{
+  "id": "mon_dilophosaurus",
+  "fg": [
+    "4472_mon_dilophosaurus_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

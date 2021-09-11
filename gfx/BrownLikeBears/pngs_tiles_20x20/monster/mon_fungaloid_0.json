@@ -1,1 +1,10 @@
-{"id": "mon_fungaloid", "fg": ["251_mon_fungaloid_0"], "rotates": false, "bg": []}
+{
+  "id": "mon_fungaloid",
+  "fg": [
+    "251_mon_fungaloid_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

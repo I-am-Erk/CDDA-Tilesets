@@ -1,1 +1,11 @@
-{"id": "katana", "fg": ["1584_katana_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "katana",
+  "fg": [
+    "1584_katana_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

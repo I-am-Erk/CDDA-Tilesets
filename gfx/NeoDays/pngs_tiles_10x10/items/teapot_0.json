@@ -1,1 +1,10 @@
-{"id": "teapot", "fg": ["2046_teapot_0"], "rotates": false, "bg": []}
+{
+  "id": "teapot",
+  "fg": [
+    "2046_teapot_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

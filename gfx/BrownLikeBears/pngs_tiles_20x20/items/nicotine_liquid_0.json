@@ -1,1 +1,11 @@
-{"id": "nicotine_liquid", "fg": ["1625_nicotine_liquid_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "nicotine_liquid",
+  "fg": [
+    "1625_nicotine_liquid_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

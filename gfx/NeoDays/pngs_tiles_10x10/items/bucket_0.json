@@ -1,1 +1,10 @@
-{"id": "bucket", "fg": ["1175_bucket_0"], "rotates": false, "bg": []}
+{
+  "id": "bucket",
+  "fg": [
+    "1175_bucket_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

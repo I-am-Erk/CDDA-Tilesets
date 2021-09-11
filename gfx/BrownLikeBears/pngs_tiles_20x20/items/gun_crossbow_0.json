@@ -1,1 +1,11 @@
-{"id": "gun_crossbow", "fg": ["671_retool_45_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "gun_crossbow",
+  "fg": [
+    "671_retool_45_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

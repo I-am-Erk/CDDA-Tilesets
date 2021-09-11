@@ -3,23 +3,27 @@
     "id": [ "vp_basketsm", "vp_basketsm_external" ],
     "fg": [ "vp_basketsm_rotNrotS", "vp_basketsm_rotErotW" ],
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": [ "vp_basketsm_rotNrotS", "vp_basketsm_rotErotW" ]
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": [ "vp_basketsm_rotNrotS", "vp_basketsm_rotErotW" ] } ]
   },
   {
     "id": "vp_basketsm_bike_rear",
-    "fg": [ "vp_basketsm_bike_rear_rotN", "vp_basketsm_bike_rear_rotW", "vp_basketsm_bike_rear_rotS", "vp_basketsm_bike_rear_rotE" ],
+    "fg": [
+      "vp_basketsm_bike_rear_rotN",
+      "vp_basketsm_bike_rear_rotW",
+      "vp_basketsm_bike_rear_rotS",
+      "vp_basketsm_bike_rear_rotE"
+    ],
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": [ "vp_basketsm_bike_rear_rotN", "vp_basketsm_bike_rear_rotW", "vp_basketsm_bike_rear_rotS", "vp_basketsm_bike_rear_rotE" ]
+        "bg": [
+          "vp_basketsm_bike_rear_rotN",
+          "vp_basketsm_bike_rear_rotW",
+          "vp_basketsm_bike_rear_rotS",
+          "vp_basketsm_bike_rear_rotE"
+        ]
       }
     ]
   },
@@ -27,13 +31,7 @@
     "id": [ "vp_basketlg", "vp_basketlg_external" ],
     "fg": [ "vp_basketlg_rotNrotS", "vp_basketlg_rotErotW" ],
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": [ "vp_basketlg_rotNrotS", "vp_basketlg_rotErotW" ]
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": [ "vp_basketlg_rotNrotS", "vp_basketlg_rotErotW" ] } ]
   },
   {
     "id": "vp_basketlg_cart",

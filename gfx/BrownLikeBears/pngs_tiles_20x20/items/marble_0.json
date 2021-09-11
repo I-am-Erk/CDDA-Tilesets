@@ -1,1 +1,11 @@
-{"id": "marble", "fg": ["595_pebble_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "marble",
+  "fg": [
+    "595_pebble_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

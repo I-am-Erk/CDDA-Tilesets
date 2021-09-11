@@ -1,1 +1,11 @@
-{"id": "remotevehcontrol", "fg": ["1787_radiocontrol_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "remotevehcontrol",
+  "fg": [
+    "1787_radiocontrol_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

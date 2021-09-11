@@ -1,1 +1,10 @@
-{"id": "stamina_vial", "fg": ["1186_stamina_vial_0"], "rotates": false, "bg": []}
+{
+  "id": "stamina_vial",
+  "fg": [
+    "1186_stamina_vial_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,10 @@
-{"id": "overlay_female_worn_kippah", "fg": ["3318_overlay_female_worn_kippah_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_female_worn_kippah",
+  "fg": [
+    "3318_overlay_female_worn_kippah_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

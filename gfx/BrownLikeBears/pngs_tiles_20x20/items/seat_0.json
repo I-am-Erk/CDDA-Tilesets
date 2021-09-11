@@ -1,1 +1,11 @@
-{"id": "seat", "fg": ["391_vp_seat_0"], "bg": ["193_player_male_0"], "rotates": false, "multitile": false}
+{
+  "id": "seat",
+  "fg": [
+    "391_vp_seat_0"
+  ],
+  "bg": [
+    "193_player_male_0"
+  ],
+  "rotates": false,
+  "multitile": false
+}

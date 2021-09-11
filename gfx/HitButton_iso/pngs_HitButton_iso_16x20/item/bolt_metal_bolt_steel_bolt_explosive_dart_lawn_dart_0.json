@@ -1,1 +1,15 @@
-{"id": ["bolt_metal", "bolt_steel", "bolt_explosive", "dart", "lawn_dart"], "fg": ["1849_bolt_metal_0"], "bg": []}
+{
+  "id": [
+    "bolt_metal",
+    "bolt_steel",
+    "bolt_explosive",
+    "dart",
+    "lawn_dart"
+  ],
+  "fg": [
+    "1849_bolt_metal_0"
+  ],
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,12 @@
-{"id": ["radiocontrol", "remotevehcontrol"], "fg": ["2112_radiocontrol_0"], "bg": []}
+{
+  "id": [
+    "radiocontrol",
+    "remotevehcontrol"
+  ],
+  "fg": [
+    "2112_radiocontrol_0"
+  ],
+  "bg": [
+    
+  ]
+}

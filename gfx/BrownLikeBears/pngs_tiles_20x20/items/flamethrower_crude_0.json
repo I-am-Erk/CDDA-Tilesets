@@ -1,1 +1,11 @@
-{"id": "flamethrower_crude", "fg": ["1445_flamethrower_crude_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "flamethrower_crude",
+  "fg": [
+    "1445_flamethrower_crude_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

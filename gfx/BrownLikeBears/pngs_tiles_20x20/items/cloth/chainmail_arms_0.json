@@ -1,1 +1,11 @@
-{"id": "chainmail_arms", "fg": ["759_armguard_soft_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "chainmail_arms",
+  "fg": [
+    "759_armguard_soft_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

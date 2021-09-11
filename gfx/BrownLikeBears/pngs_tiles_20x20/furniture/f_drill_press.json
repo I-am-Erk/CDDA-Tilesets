@@ -1,1 +1,11 @@
-{"id": "f_drill_press", "fg": ["f_drill_press"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "f_drill_press",
+  "fg": [
+    "f_drill_press"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

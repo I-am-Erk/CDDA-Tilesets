@@ -1,1 +1,13 @@
-{"id": ["t_door_bar_c"], "multitile": true, "fg": ["570_t_door_bar_c_0", "571_t_door_bar_c_1"], "bg": []}
+{
+  "id": [
+    "t_door_bar_c"
+  ],
+  "multitile": true,
+  "fg": [
+    "570_t_door_bar_c_0",
+    "571_t_door_bar_c_1"
+  ],
+  "bg": [
+    
+  ]
+}

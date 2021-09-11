@@ -1,1 +1,10 @@
-{"id": "forgerig", "fg": ["2334_vp_veh_forge_0"], "rotates": false, "bg": []}
+{
+  "id": "forgerig",
+  "fg": [
+    "2334_vp_veh_forge_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,10 @@
-{"id": "trex_gun", "fg": ["1354_trex_gun_0"], "rotates": false, "bg": []}
+{
+  "id": "trex_gun",
+  "fg": [
+    "1354_trex_gun_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

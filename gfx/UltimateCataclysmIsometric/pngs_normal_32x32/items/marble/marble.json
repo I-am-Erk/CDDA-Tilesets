@@ -1,6 +1,9 @@
 {
   "id": "marble",
-  "fg": ["marble"],
-  "bg": []
+  "fg": [
+    "marble"
+  ],
+  "bg": [
+    
+  ]
 }
-

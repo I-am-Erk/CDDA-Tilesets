@@ -1,1 +1,11 @@
-{"id": "yeast", "fg": ["1115_lye_powder_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "yeast",
+  "fg": [
+    "1115_lye_powder_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

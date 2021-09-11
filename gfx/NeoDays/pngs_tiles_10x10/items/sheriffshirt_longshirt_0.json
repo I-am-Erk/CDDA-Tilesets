@@ -1,1 +1,13 @@
-{"id": ["sheriffshirt", "longshirt"], "fg": ["1841_sheriffshirt_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "sheriffshirt",
+    "longshirt"
+  ],
+  "fg": [
+    "1841_sheriffshirt_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

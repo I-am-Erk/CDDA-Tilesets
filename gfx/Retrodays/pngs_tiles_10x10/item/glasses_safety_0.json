@@ -1,1 +1,10 @@
-{"id": "glasses_safety", "fg": ["1850_glasses_safety_0"], "rotates": false, "bg": []}
+{
+  "id": "glasses_safety",
+  "fg": [
+    "1850_glasses_safety_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

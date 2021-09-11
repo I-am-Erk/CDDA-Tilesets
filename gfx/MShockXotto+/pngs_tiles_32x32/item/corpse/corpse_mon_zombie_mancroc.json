@@ -1,6 +1,10 @@
-  {
-    "id": "corpse_mon_zombie_mancroc",
-    "fg": [ "corpse_mon_zombie_mancroc" ],
-    "rotates": false,
-    "bg": [  ]
-  }
+{
+  "id": "corpse_mon_zombie_mancroc",
+  "fg": [
+    "corpse_mon_zombie_mancroc"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

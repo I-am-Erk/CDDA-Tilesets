@@ -1,14 +1,10 @@
-[{
-  "id": [
-    "flour",
-    "bread_flour"
-  ],
-  "fg": "flour"
-},{
-  "id": [
-    "pizza_cheese",
-    "pizza_veggy",
-    "pizza_meat"
-  ],
-  "fg": "pizza"
-}]
+[
+  {
+    "id": [ "flour", "bread_flour" ],
+    "fg": "flour"
+  },
+  {
+    "id": [ "pizza_cheese", "pizza_veggy", "pizza_meat" ],
+    "fg": "pizza"
+  }
+]

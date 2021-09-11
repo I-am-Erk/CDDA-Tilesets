@@ -1,1 +1,10 @@
-{"id": "hat_fur", "fg": ["1879_hat_fur_0"], "rotates": false, "bg": []}
+{
+  "id": "hat_fur",
+  "fg": [
+    "1879_hat_fur_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

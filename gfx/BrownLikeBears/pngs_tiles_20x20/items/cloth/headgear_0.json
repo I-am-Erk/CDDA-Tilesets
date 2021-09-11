@@ -1,1 +1,11 @@
-{"id": "headgear", "fg": ["676_helmet_football_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "headgear",
+  "fg": [
+    "676_helmet_football_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

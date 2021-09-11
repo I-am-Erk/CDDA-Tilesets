@@ -1,1 +1,10 @@
-{"id": "overlay_worn_hood_fsurvivor", "fg": ["656_overlay_worn_hood_fsurvivor_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_hood_fsurvivor",
+  "fg": [
+    "656_overlay_worn_hood_fsurvivor_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

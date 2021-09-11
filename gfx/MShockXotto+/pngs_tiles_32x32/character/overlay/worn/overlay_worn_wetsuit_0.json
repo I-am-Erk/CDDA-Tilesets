@@ -1,1 +1,10 @@
-{"id": "overlay_worn_wetsuit", "fg": ["828_overlay_worn_wetsuit_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_worn_wetsuit",
+  "fg": [
+    "828_overlay_worn_wetsuit_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

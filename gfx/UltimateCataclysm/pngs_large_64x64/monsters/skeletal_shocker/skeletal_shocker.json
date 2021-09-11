@@ -1,5 +1,9 @@
 {
   "id": "mon_skeleton_electric",
-  "fg": ["mon_skeleton_electric"],
-  "bg": ["shadow_64x64_normal"]
+  "fg": [
+    "mon_skeleton_electric"
+  ],
+  "bg": [
+    "shadow_64x64_normal"
+  ]
 }

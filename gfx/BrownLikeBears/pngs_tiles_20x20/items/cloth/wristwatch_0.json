@@ -1,1 +1,11 @@
-{"id": "wristwatch", "fg": ["858_wristwatch_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "wristwatch",
+  "fg": [
+    "858_wristwatch_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

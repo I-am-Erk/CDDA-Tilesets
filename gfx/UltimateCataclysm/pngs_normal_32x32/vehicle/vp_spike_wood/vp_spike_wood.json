@@ -4,12 +4,6 @@
     "fg": "vp_spike_wood",
     "bg": "",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "vp_spike_wood"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "vp_spike_wood" } ]
   }
 ]

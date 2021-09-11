@@ -1,1 +1,13 @@
-{"id": ["lens", "lens_small"], "fg": ["1295_lens_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "lens",
+    "lens_small"
+  ],
+  "fg": [
+    "1295_lens_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

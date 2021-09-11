@@ -1,1 +1,14 @@
-{"id": ["vp_external_water_tank_small", "vp_external_water_dirty_tank_small"], "multitile": true, "fg": ["190_vp_external_water_tank_small_0", "191_vp_external_water_tank_small_1"], "bg": []}
+{
+  "id": [
+    "vp_external_water_tank_small",
+    "vp_external_water_dirty_tank_small"
+  ],
+  "multitile": true,
+  "fg": [
+    "190_vp_external_water_tank_small_0",
+    "191_vp_external_water_tank_small_1"
+  ],
+  "bg": [
+    
+  ]
+}

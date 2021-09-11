@@ -1,1 +1,11 @@
-{"id": "nailbat", "fg": ["1272_nailbat_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "nailbat",
+  "fg": [
+    "1272_nailbat_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

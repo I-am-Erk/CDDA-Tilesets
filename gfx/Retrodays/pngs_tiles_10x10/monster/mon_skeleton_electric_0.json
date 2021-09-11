@@ -1,1 +1,10 @@
-{"id": "mon_skeleton_electric", "fg": ["3071_mon_skeleton_electric_0"], "rotates": false, "bg": []}
+{
+  "id": "mon_skeleton_electric",
+  "fg": [
+    "3071_mon_skeleton_electric_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

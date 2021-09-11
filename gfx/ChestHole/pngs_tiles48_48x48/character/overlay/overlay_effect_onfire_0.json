@@ -1,1 +1,10 @@
-{"id": "overlay_effect_onfire", "fg": ["overlay_effect_onfire"], "rotates": false, "bg": []}
+{
+  "id": "overlay_effect_onfire",
+  "fg": [
+    "overlay_effect_onfire"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

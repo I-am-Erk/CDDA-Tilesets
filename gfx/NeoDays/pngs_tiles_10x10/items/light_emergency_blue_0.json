@@ -1,1 +1,10 @@
-{"id": "light_emergency_blue", "fg": ["2344_vp_light_blue_0"], "rotates": false, "bg": []}
+{
+  "id": "light_emergency_blue",
+  "fg": [
+    "2344_vp_light_blue_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

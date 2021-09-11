@@ -1,1 +1,10 @@
-{"id": "overlay_female_worn_welding_mask_raised", "fg": ["3334_overlay_female_worn_welding_mask_raised_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_female_worn_welding_mask_raised",
+  "fg": [
+    "3334_overlay_female_worn_welding_mask_raised_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

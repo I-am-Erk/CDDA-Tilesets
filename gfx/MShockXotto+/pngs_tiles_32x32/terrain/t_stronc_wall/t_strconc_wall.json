@@ -3,18 +3,10 @@
   "fg": "t_strconc_wall_unconnected",
   "multitile": true,
   "additional_tiles": [
-    {
-      "id": "center",
-      "fg": "t_strconc_wall_center"
-    },
+    { "id": "center", "fg": "t_strconc_wall_center" },
     {
       "id": "corner",
-      "fg": [
-        "t_strconc_wall_corner_nw",
-        "t_strconc_wall_corner_sw",
-        "t_strconc_wall_corner_se",
-        "t_strconc_wall_corner_ne"
-      ]
+      "fg": [ "t_strconc_wall_corner_nw", "t_strconc_wall_corner_sw", "t_strconc_wall_corner_se", "t_strconc_wall_corner_ne" ]
     },
     {
       "id": "t_connection",
@@ -25,13 +17,7 @@
         "t_strconc_wall_t_connection_e"
       ]
     },
-    {
-      "id": "edge",
-      "fg": [
-        "t_strconc_wall_edge_ns",
-        "t_strconc_wall_edge_ew"
-      ]
-    },
+    { "id": "edge", "fg": [ "t_strconc_wall_edge_ns", "t_strconc_wall_edge_ew" ] },
     {
       "id": "end_piece",
       "fg": [
@@ -41,12 +27,6 @@
         "t_strconc_wall_end_piece_e"
       ]
     },
-    {
-      "id": "unconnected",
-      "fg": [
-        "t_strconc_wall_unconnected",
-        "t_strconc_wall_unconnected"
-      ]
-    }
+    { "id": "unconnected", "fg": [ "t_strconc_wall_unconnected", "t_strconc_wall_unconnected" ] }
   ]
 }

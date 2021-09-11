@@ -1,1 +1,11 @@
-{"id": "ruger_redhawk", "fg": ["1386_sig_mosquito_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "ruger_redhawk",
+  "fg": [
+    "1386_sig_mosquito_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

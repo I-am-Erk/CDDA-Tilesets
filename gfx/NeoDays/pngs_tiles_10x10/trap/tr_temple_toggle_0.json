@@ -1,1 +1,10 @@
-{"id": "tr_temple_toggle", "fg": ["614_tr_temple_toggle_0"], "rotates": false, "bg": []}
+{
+  "id": "tr_temple_toggle",
+  "fg": [
+    "614_tr_temple_toggle_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

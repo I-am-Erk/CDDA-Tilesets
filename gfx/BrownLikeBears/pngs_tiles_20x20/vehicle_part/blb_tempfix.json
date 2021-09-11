@@ -56,7 +56,7 @@
     "additional_tiles": [ { "id": "broken", "fg": [ "broken_halfboard_vertical_right" ], "bg": [  ] } ]
   },
   {
-    "id": [ "vp_board_wheel_left", "vp_board_nw_edge" ], 
+    "id": [ "vp_board_wheel_left", "vp_board_nw_edge" ],
     "fg": [ "vp_board_vertical_left" ],
     "rotates": true,
     "bg": [  ],

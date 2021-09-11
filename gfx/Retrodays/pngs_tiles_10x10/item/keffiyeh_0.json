@@ -1,1 +1,10 @@
-{"id": "keffiyeh", "fg": ["1711_keffiyeh_0"], "rotates": false, "bg": []}
+{
+  "id": "keffiyeh",
+  "fg": [
+    "1711_keffiyeh_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

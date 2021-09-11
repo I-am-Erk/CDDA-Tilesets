@@ -1,1 +1,10 @@
-{"id": "mon_afs_headless_horror", "fg": ["mon_afs_headless_horror"], "rotates": false, "bg": []}
+{
+  "id": "mon_afs_headless_horror",
+  "fg": [
+    "mon_afs_headless_horror"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

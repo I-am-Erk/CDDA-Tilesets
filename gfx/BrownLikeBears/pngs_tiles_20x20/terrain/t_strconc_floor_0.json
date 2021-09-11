@@ -1,1 +1,10 @@
-{"id": "t_strconc_floor", "bg": ["103_t_concrete_0"], "rotates": false, "fg": []}
+{
+  "id": "t_strconc_floor",
+  "bg": [
+    "103_t_concrete_0"
+  ],
+  "rotates": false,
+  "fg": [
+    
+  ]
+}

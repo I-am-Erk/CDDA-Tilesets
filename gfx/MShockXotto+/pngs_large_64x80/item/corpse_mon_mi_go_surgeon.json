@@ -1,6 +1,10 @@
-  {
-    "id": "corpse_mon_mi_go_surgeon",
-    "fg": [ "corpse_mon_mi_go_surgeon" ],
-    "rotates": false,
-    "bg": [  ]
-  }
+{
+  "id": "corpse_mon_mi_go_surgeon",
+  "fg": [
+    "corpse_mon_mi_go_surgeon"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

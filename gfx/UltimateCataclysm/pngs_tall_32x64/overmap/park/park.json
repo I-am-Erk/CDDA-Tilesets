@@ -1,5 +1,7 @@
-[{
-	"id": "park",
-	"fg": "park",
-	"bg": "field_tall"
-}]
+[
+  {
+    "id": "park",
+    "fg": "park",
+    "bg": "field_tall"
+  }
+]

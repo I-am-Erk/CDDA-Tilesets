@@ -1,1 +1,7 @@
-[{"id": "thermometer", "fg": "thermometer", "bg": ""}]
+[
+  {
+    "id": "thermometer",
+    "fg": "thermometer",
+    "bg": ""
+  }
+]

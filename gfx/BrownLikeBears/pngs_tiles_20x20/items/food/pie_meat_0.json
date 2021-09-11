@@ -1,1 +1,11 @@
-{"id": "pie_meat", "fg": ["1077_pie_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "pie_meat",
+  "fg": [
+    "1077_pie_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

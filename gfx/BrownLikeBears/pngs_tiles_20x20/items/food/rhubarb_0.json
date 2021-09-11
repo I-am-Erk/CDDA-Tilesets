@@ -1,1 +1,11 @@
-{"id": "rhubarb", "fg": ["953_rhubarb_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "rhubarb",
+  "fg": [
+    "953_rhubarb_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

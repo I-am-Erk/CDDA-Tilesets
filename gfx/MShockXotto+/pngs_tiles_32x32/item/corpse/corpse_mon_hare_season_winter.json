@@ -1,6 +1,10 @@
-  {
-    "id": "corpse_mon_hare_season_winter",
-    "fg": [ "corpse_mon_hare_season_winter" ],
-    "rotates": false,
-    "bg": [  ]
-  }
+{
+  "id": "corpse_mon_hare_season_winter",
+  "fg": [
+    "corpse_mon_hare_season_winter"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

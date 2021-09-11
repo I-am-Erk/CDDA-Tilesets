@@ -1,6 +1,10 @@
-  {
-    "id": "corpse_mon_racoon",
-    "fg": [ "corpse_mon_racoon" ],
-    "rotates": false,
-    "bg": [  ]
-  }
+{
+  "id": "corpse_mon_racoon",
+  "fg": [
+    "corpse_mon_racoon"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

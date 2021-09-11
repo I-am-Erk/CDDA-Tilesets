@@ -1,1 +1,11 @@
-{"id": "dandelion_wine", "fg": ["1127_cooking_oil_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "dandelion_wine",
+  "fg": [
+    "1127_cooking_oil_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

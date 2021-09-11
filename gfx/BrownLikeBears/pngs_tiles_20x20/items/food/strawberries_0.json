@@ -1,1 +1,11 @@
-{"id": "strawberries", "fg": ["1033_strawberries_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "strawberries",
+  "fg": [
+    "1033_strawberries_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

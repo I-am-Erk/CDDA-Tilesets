@@ -1,1 +1,10 @@
-{"id": "t_intercom", "fg": ["3070_t_intercom_0"], "rotates": false, "bg": []}
+{
+  "id": "t_intercom",
+  "fg": [
+    "3070_t_intercom_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,1 +1,10 @@
-{"id": "television", "fg": ["2090_television_0"], "rotates": false, "bg": []}
+{
+  "id": "television",
+  "fg": [
+    "2090_television_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

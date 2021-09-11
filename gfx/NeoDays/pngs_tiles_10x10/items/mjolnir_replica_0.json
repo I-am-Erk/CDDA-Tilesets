@@ -1,1 +1,10 @@
-{"id": "mjolnir_replica", "fg": ["2092_mjolnir_replica_0"], "rotates": false, "bg": []}
+{
+  "id": "mjolnir_replica",
+  "fg": [
+    "2092_mjolnir_replica_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

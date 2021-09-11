@@ -4,11 +4,7 @@
   "fg": "t_shingle_flat_roof_unconnected",
   "bg": "",
   "additional_tiles": [
-    {
-      "id": "center",
-      "bg": "",
-      "fg": "t_shingle_flat_roof_center"
-    },
+    { "id": "center", "bg": "", "fg": "t_shingle_flat_roof_center" },
     {
       "id": "corner",
       "bg": "",
@@ -29,14 +25,7 @@
         "t_shingle_flat_roof_t_connection_e"
       ]
     },
-    {
-      "id": "edge",
-      "bg": "",
-      "fg": [
-        "t_shingle_flat_roof_edge_ns",
-        "t_shingle_flat_roof_edge_ew"
-      ]
-    },
+    { "id": "edge", "bg": "", "fg": [ "t_shingle_flat_roof_edge_ns", "t_shingle_flat_roof_edge_ew" ] },
     {
       "id": "end_piece",
       "bg": "",
@@ -47,10 +36,6 @@
         "t_shingle_flat_roof_end_piece_e"
       ]
     },
-    {
-      "bg": "",
-      "id": "unconnected",
-      "fg": "t_shingle_flat_roof_unconnected"
-    }
+    { "bg": "", "id": "unconnected", "fg": "t_shingle_flat_roof_unconnected" }
   ]
 }

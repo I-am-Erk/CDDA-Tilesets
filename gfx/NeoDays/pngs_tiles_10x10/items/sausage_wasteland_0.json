@@ -1,1 +1,10 @@
-{"id": "sausage_wasteland", "fg": ["1003_sausage_wasteland_0"], "rotates": false, "bg": []}
+{
+  "id": "sausage_wasteland",
+  "fg": [
+    "1003_sausage_wasteland_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

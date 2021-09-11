@@ -1,1 +1,11 @@
-{"id": "candle", "fg": ["1607_candle_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "candle",
+  "fg": [
+    "1607_candle_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

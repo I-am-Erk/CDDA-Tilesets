@@ -1,1 +1,10 @@
-{"id": "antifungal", "fg": ["289_aspirin_0"], "rotates": false, "bg": []}
+{
+  "id": "antifungal",
+  "fg": [
+    "289_aspirin_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

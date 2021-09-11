@@ -1,1 +1,13 @@
-{"id": ["beret_wool", "beret"], "fg": ["1797_beret_wool_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "beret_wool",
+    "beret"
+  ],
+  "fg": [
+    "1797_beret_wool_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

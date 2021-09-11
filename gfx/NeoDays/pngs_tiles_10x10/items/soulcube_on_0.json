@@ -1,1 +1,10 @@
-{"id": "soulcube_on", "fg": ["2547_soulcube_on_0"], "rotates": false, "bg": []}
+{
+  "id": "soulcube_on",
+  "fg": [
+    "2547_soulcube_on_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

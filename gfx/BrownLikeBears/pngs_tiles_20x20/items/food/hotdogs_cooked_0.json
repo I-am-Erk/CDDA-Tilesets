@@ -1,1 +1,11 @@
-{"id": "hotdogs_cooked", "fg": ["1055_sausage_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "hotdogs_cooked",
+  "fg": [
+    "1055_sausage_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

@@ -1,1 +1,13 @@
-{"id": ["corndogs_cooked", "corndogs_frozen"], "fg": ["1046_corndogs_cooked_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "corndogs_cooked",
+    "corndogs_frozen"
+  ],
+  "fg": [
+    "1046_corndogs_cooked_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -20,7 +20,15 @@
     "bg": ""
   },
   {
-    "id": [ "bolt_wood", "bolt_crude", "bolt_simple_wood", "bolt_simple_small_game", "bolt_makeshift", "bolt_wood_bodkin", "bolt_wood_small_game" ],
+    "id": [
+      "bolt_wood",
+      "bolt_crude",
+      "bolt_simple_wood",
+      "bolt_simple_small_game",
+      "bolt_makeshift",
+      "bolt_wood_bodkin",
+      "bolt_wood_small_game"
+    ],
     "fg": "bolt_wood",
     "bg": ""
   }

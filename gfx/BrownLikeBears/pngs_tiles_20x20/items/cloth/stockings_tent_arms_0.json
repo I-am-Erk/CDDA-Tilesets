@@ -1,1 +1,11 @@
-{"id": "stockings_tent_arms", "fg": ["925_stockings_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "stockings_tent_arms",
+  "fg": [
+    "925_stockings_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

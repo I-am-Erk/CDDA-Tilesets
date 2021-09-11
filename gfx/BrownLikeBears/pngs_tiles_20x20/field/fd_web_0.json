@@ -1,1 +1,10 @@
-{"id": "fd_web", "bg": ["281_fd_web_0"], "rotates": false, "fg": []}
+{
+  "id": "fd_web",
+  "bg": [
+    "281_fd_web_0"
+  ],
+  "rotates": false,
+  "fg": [
+    
+  ]
+}

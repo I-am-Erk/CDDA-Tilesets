@@ -1,1 +1,11 @@
-{"id": "needlegun", "fg": ["1384_needlegun_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "needlegun",
+  "fg": [
+    "1384_needlegun_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

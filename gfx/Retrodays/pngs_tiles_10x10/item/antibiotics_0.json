@@ -1,1 +1,10 @@
-{"id": "antibiotics", "fg": ["1112_antibiotics_0"], "rotates": false, "bg": []}
+{
+  "id": "antibiotics",
+  "fg": [
+    "1112_antibiotics_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

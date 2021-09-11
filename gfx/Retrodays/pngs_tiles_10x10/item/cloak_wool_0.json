@@ -1,1 +1,10 @@
-{"id": "cloak_wool", "fg": ["1725_cloak_wool_0"], "rotates": false, "bg": []}
+{
+  "id": "cloak_wool",
+  "fg": [
+    "1725_cloak_wool_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

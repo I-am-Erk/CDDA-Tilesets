@@ -1,5 +1,9 @@
 {
   "id": "overlay_male_worn_jeans",
-  "fg": ["jeans_m"],
-  "bg": []
+  "fg": [
+    "jeans_m"
+  ],
+  "bg": [
+    
+  ]
 }

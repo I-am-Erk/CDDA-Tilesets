@@ -1,1 +1,11 @@
-{"id": "sleeping_bag", "fg": ["838_sleeping_bag_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "sleeping_bag",
+  "fg": [
+    "838_sleeping_bag_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

@@ -1,1 +1,11 @@
-{"id": "duster_leather", "fg": ["749_trenchcoat_leather_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "duster_leather",
+  "fg": [
+    "749_trenchcoat_leather_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

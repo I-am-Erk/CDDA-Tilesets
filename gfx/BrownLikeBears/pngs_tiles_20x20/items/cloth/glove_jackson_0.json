@@ -1,1 +1,11 @@
-{"id": "glove_jackson", "fg": ["1755_glove_jackson_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": "glove_jackson",
+  "fg": [
+    "1755_glove_jackson_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}
