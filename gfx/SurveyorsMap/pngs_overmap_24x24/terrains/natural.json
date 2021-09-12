@@ -5,7 +5,7 @@
     "bg": ""
   },
   {
-	"id": [ "forest", "special_forest" ],
+    "id": [ "forest", "special_forest" ],
     "fg": "forest",
     "bg": "field"
   },
@@ -18,5 +18,13 @@
     "id": "open_air",
     "fg": "open_air",
     "bg": ""
+  },
+  {
+    "id": "solid_earth",
+    "fg": "solid_earth"
+  },
+  {
+    "id": "rock",
+    "fg": "solid_rock"
   }
 ]
