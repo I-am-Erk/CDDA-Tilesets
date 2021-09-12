@@ -6,13 +6,13 @@
     "rotates": true
   },
   {
-    "id": [ "dojo_roof" ],
+    "id": [ "dojo_roof_1" ],
     "fg": [ "dojo_roof_1_N", "dojo_roof_1_E", "dojo_roof_1_S", "dojo_roof_1_W" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
-    "id": [ "dojo_upper_roof" ],
+    "id": [ "dojo_upper_roof_1" ],
     "fg": [ "dojo_upper_roof_1_N", "dojo_upper_roof_1_E", "dojo_upper_roof_1_S", "dojo_upper_roof_1_W" ],
     "bg": [ "open_air" ],
     "rotates": true
