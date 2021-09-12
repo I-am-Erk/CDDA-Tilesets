@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "s_bar" ],
+    "fg": [ "s_bar_N", "s_bar_E", "s_bar_S", "s_bar_W" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_bar_roof" ],
+    "fg": [ "s_bar_roof_N", "s_bar_roof_E", "s_bar_roof_S", "s_bar_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "gym_fitness" ],
+    "fg": [ "gym_fitness_N", "gym_fitness_E", "gym_fitness_S", "gym_fitness_W" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "gym_fitness_roof" ],
+    "fg": [ "gym_fitness_roof_N", "gym_fitness_roof_E", "gym_fitness_roof_S", "gym_fitness_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]
