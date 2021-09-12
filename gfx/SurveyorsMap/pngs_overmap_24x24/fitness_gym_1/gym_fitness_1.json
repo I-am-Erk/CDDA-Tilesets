@@ -7,7 +7,12 @@
   },
   {
     "id": [ "gym_fitness_2ndFloor_1" ],
-    "fg": [ "gym_fitness_2ndFloor_1_N", "gym_fitness_2ndFloor_1_E", "gym_fitness_2ndFloor_1_S", "gym_fitness_2ndFloor_1_W" ],
+    "fg": [
+      "gym_fitness_2ndFloor_1_North",
+      "gym_fitness_2ndFloor_1_East",
+      "gym_fitness_2ndFloor_1_South",
+      "gym_fitness_2ndFloor_1_West"
+    ],
     "bg": [ "open_air" ],
     "rotates": true
   },
