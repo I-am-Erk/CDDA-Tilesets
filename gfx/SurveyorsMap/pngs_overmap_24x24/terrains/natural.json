@@ -10,6 +10,11 @@
     "bg": "field"
   },
   {
+    "id": [ "forest_thick", "special_forest_thick" ],
+    "fg": "forest_thick",
+    "bg": "field"
+  },
+  {
     "id": [ "field", "special_field" ],
     "fg": "field",
     "bg": ""
