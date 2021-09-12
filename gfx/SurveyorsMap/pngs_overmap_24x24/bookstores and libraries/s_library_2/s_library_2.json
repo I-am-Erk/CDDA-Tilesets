@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "s_library_2" ],
+    "fg": [ "s_library_2_N", "s_library_2_E", "s_library_2_S", "s_library_2_W" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_library_roof_2" ],
+    "fg": [ "s_library_roof_2_N", "s_library_roof_2_E", "s_library_roof_2_S", "s_library_roof_2_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]
