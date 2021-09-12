@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "s_grocery" ],
+    "fg": [ "s_grocery_N", "s_grocery_E", "s_grocery_S", "s_grocery_W" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_grocery_roof" ],
+    "fg": [ "s_grocery_roof_N", "s_grocery_roof_E", "s_grocery_roof_S", "s_grocery_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "s_gun" ],
+    "fg": [ "s_gun_N", "s_gun_E", "s_gun_S", "s_gun_W" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_gun_roof" ],
+    "fg": [ "s_gun_roof_N", "s_gun_roof_E", "s_gun_roof_S", "s_gun_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

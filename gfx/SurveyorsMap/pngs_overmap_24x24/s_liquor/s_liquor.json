@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "s_liquor" ],
+    "fg": [ "s_liquor_N", "s_liquor_E", "s_liquor_S", "s_liquor_W" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_liquor_roof" ],
+    "fg": [ "s_liquor_roof_N", "s_liquor_roof_E", "s_liquor_roof_S", "s_liquor_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

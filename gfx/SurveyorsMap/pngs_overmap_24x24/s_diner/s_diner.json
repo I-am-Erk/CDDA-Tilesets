@@ -1,0 +1,20 @@
+[
+  {
+    "id": [ "s_diner" ],
+    "fg": [ "s_diner_N", "s_diner_E", "s_diner_S", "s_diner_W" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_diner_2ndfloor" ],
+    "fg": [ "s_diner_2ndfloor_N", "s_diner_2ndfloor_E", "s_diner_2ndfloor_S", "s_diner_2ndfloor_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_diner_roof" ],
+    "fg": [ "s_diner_roof_N", "s_diner_roof_E", "s_diner_roof_S", "s_diner_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]
