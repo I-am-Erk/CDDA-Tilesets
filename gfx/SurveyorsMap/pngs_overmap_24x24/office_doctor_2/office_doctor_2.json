@@ -1,0 +1,25 @@
+[
+  {
+    "id": [ "office_doctor_2" ],
+    "fg": [ "office_doctor_2_N", "office_doctor_2_E", "office_doctor_2_S", "office_doctor_2_W" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "office_doctor_roof_2" ],
+    "fg": [ "office_doctor_roof_2_N", "office_doctor_roof_2_E", "office_doctor_roof_2_S", "office_doctor_roof_2_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "office_doctor_upper_roof_2" ],
+    "fg": [
+      "office_doctor_upper_roof_2_N",
+      "office_doctor_upper_roof_2_E",
+      "office_doctor_upper_roof_2_S",
+      "office_doctor_upper_roof_2_W"
+    ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

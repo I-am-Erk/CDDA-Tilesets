@@ -1,0 +1,20 @@
+[
+  {
+    "id": [ "dojo" ],
+    "fg": [ "dojo_N", "dojo_E", "dojo_S", "dojo_W" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "dojo_roof" ],
+    "fg": [ "dojo_roof_N", "dojo_roof_E", "dojo_roof_S", "dojo_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "dojo_upper_roof" ],
+    "fg": [ "dojo_upper_roof_N", "dojo_upper_roof_E", "dojo_upper_roof_S", "dojo_upper_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]
