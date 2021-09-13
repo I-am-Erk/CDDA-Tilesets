@@ -1,5 +1,5 @@
 [{
 	"id": "crater",
-	"fg": "t_pit",
+	"fg": "t_pit_unconnected",
 	"bg": "field"
 }]
