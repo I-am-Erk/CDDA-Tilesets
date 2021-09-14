@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "s_clothes_5" ],
+    "fg": [ "s_clothes_5_N", "s_clothes_5_E", "s_clothes_5_S", "s_clothes_5_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_clothes_roof_5" ],
+    "fg": [ "s_clothes_roof_5_N", "s_clothes_roof_5_E", "s_clothes_roof_5_S", "s_clothes_roof_5_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]
