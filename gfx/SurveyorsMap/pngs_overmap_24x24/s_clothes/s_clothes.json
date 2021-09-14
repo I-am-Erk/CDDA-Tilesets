@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "s_clothes" ],
+    "fg": [ "s_clothes_N", "s_clothes_E", "s_clothes_S", "s_clothes_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_clothes_roof" ],
+    "fg": [ "s_clothes_roof_N", "s_clothes_roof_E", "s_clothes_roof_S", "s_clothes_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]
