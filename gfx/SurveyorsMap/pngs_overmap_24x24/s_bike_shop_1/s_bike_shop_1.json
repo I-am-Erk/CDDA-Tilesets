@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "s_bike_shop_1" ],
+    "fg": [ "s_bike_shop_1_N", "s_bike_shop_1_E", "s_bike_shop_1_S", "s_bike_shop_1_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_bike_shop_roof_1" ],
+    "fg": [ "s_bike_shop_roof_1_N", "s_bike_shop_roof_1_E", "s_bike_shop_roof_1_S", "s_bike_shop_roof_1_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]
