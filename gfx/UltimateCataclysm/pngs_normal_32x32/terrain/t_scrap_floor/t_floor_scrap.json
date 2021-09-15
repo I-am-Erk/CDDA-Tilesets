@@ -1,7 +1,7 @@
 {
   "id": "t_scrap_floor",
   "multitile": true,
-  "fg": "t_scrap_floor_unconnected",
+  "fg": "t_scrap_floor_unconnected_1",
   "bg": "",
   "additional_tiles": [
     {
