@@ -4,7 +4,7 @@
   "fg": "f_ground_cable_unconnected",
   "bg": "",
   "additional_tiles": [
-    { "id": "center", "bg": "", "fg": "f_ground_cable_center" },
+    { "id": "center", "bg": "", "fg": { "weight": 1, "sprite": [ "f_ground_cable_center" ] } },
     {
       "id": "corner",
       "bg": "",
@@ -23,10 +23,15 @@
       "id": "t_connection",
       "bg": "",
       "fg": [
-        "f_ground_cable_t_connection_n",
-        "f_ground_cable_t_connection_w",
-        "f_ground_cable_t_connection_s",
-        "f_ground_cable_t_connection_e"
+        {
+          "weight": 1,
+          "sprite": [
+            "f_ground_cable_t_connection_n",
+            "f_ground_cable_t_connection_w",
+            "f_ground_cable_t_connection_s",
+            "f_ground_cable_t_connection_e"
+          ]
+        }
       ]
     },
     {
@@ -41,12 +46,17 @@
       "id": "end_piece",
       "bg": "",
       "fg": [
-        "f_ground_cable_end_piece_n",
-        "f_ground_cable_end_piece_w",
-        "f_ground_cable_end_piece_s",
-        "f_ground_cable_end_piece_e"
+        {
+          "weight": 1,
+          "sprite": [
+            "f_ground_cable_end_piece_n",
+            "f_ground_cable_end_piece_w",
+            "f_ground_cable_end_piece_s",
+            "f_ground_cable_end_piece_e"
+          ]
+        }
       ]
     },
-    { "bg": "", "id": "unconnected", "fg": "f_ground_cable_unconnected" }
+    { "bg": "", "id": "unconnected", "fg": { "weight": 1, "sprite": [ "f_ground_cable_unconnected" ] } }
   ]
 }
