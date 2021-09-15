@@ -20,17 +20,7 @@
         "f_ground_cable_t_connection_e"
       ]
     },
-    {
-      "id": "edge",
-      "bg": "",
-      "fg": [
-        [ { "weight": 1, "sprite": "f_ground_cable_edge_ns_1" }, { "weight": 1, "sprite": "f_ground_cable_edge_ns_2" } ],
-        [
-          { "weight": 1, "sprite": "f_ground_cable_edge_ew_1" },
-          { "weight": 1, "sprite": "f_ground_cable_edge_ew_2" }
-        ]
-      ]
-    },
+    { "id": "edge", "bg": "", "fg": [ "f_ground_cable_edge_ns_1", "f_ground_cable_edge_ew_2" ] },
     {
       "id": "end_piece",
       "bg": "",
