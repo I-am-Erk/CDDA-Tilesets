@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "s_electronics" ],
+    "fg": [ "s_electronics_N", "s_electronics_E", "s_electronics_S", "s_electronics_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_electronics_roof" ],
+    "fg": [ "s_electronics_roof_N", "s_electronics_roof_E", "s_electronics_roof_S", "s_electronics_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

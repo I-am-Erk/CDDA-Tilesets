@@ -2,6 +2,6 @@
   "id": ["toothbrush_plain", "toothbrush_dirty"],
   "fg": "toothbrush"
 },{
-  "id": ["fc_hairpin", "gold_hairpin", "platinum_hairpin", "silver_hairpin", "copper_hairpin", "tieclip"],
+  "id": ["fc_hairpin", "platinum_hairpin", "silver_hairpin", "copper_hairpin", "tieclip"],
   "fg": "hairpin_filler"
 }]

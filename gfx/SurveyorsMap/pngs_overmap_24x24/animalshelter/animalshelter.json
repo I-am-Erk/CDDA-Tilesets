@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "animalshelter" ],
+    "fg": [ "animalshelter_N", "animalshelter_E", "animalshelter_S", "animalshelter_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "animalshelter_roof" ],
+    "fg": [ "animalshelter_roof_N", "animalshelter_roof_E", "animalshelter_roof_S", "animalshelter_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

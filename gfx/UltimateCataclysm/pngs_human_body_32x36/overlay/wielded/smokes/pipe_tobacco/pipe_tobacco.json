@@ -1,0 +1,30 @@
+[
+  {
+    "id": "overlay_female_wielded_pipe_tobacco",
+    "fg": "overlay_female_wielded_pipe_tobacco",
+    "animated": true,
+        "fg": [
+          { "weight": 14, "sprite": "overlay_female_wielded_pipe_tobacco_0" },
+          { "weight": 14, "sprite": "overlay_female_wielded_pipe_tobacco_1" },
+          { "weight": 14, "sprite": "overlay_female_wielded_pipe_tobacco_2" },
+          { "weight": 14, "sprite": "overlay_female_wielded_pipe_tobacco_3" },
+          { "weight": 14, "sprite": "overlay_female_wielded_pipe_tobacco_4" },
+          { "weight": 14, "sprite": "overlay_female_wielded_pipe_tobacco_5" },
+          { "weight": 14, "sprite": "overlay_female_wielded_pipe_tobacco_6" }
+        ]
+  },
+  {
+    "id": "overlay_male_wielded_pipe_tobacco",
+    "fg": "overlay_male_wielded_pipe_tobacco",
+    "animated": true,
+        "fg": [
+          { "weight": 14, "sprite": "overlay_male_wielded_pipe_tobacco_0" },
+          { "weight": 14, "sprite": "overlay_male_wielded_pipe_tobacco_1" },
+          { "weight": 14, "sprite": "overlay_male_wielded_pipe_tobacco_2" },
+          { "weight": 14, "sprite": "overlay_male_wielded_pipe_tobacco_3" },
+          { "weight": 14, "sprite": "overlay_male_wielded_pipe_tobacco_4" },
+          { "weight": 14, "sprite": "overlay_male_wielded_pipe_tobacco_5" },
+          { "weight": 14, "sprite": "overlay_male_wielded_pipe_tobacco_6" }
+        ]
+  }
+]

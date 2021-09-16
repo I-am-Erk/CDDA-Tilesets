@@ -1,0 +1,20 @@
+[
+  {
+    "id": [ "house_29" ],
+    "fg": [ "house_29_N", "house_29_E", "house_29_S", "house_29_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "house_29_roof" ],
+    "fg": [ "house_29_roof_N", "house_29_roof_E", "house_29_roof_S", "house_29_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "basement_chem" ],
+    "fg": [ "house_29_basement_N", "house_29_basement_E", "house_29_basement_S", "house_29_basement_W" ],
+    "bg": [ "solid_earth" ],
+    "rotates": true
+  }
+]

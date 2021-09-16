@@ -1,0 +1,12 @@
+[
+  {
+    "id": "mon_feral_labsecurity_9mm",
+    "fg": "mon_feral_labsecurity_9mm",
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_feral_labsecurity_flashlight",
+    "fg": "mon_feral_labsecurity_flashlight",
+    "bg": "shadow_32x48_normal"
+  }
+]

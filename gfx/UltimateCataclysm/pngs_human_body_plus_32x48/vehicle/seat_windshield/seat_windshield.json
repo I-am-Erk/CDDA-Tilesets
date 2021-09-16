@@ -1,0 +1,36 @@
+[
+  {
+    "id": [ "vp_seat_windshield_leather", "vp_reclining_seat_windshield_leather" ],
+    "fg": [ "vp_seat_leather_windshield_rotN", "vp_seat_leather_windshield_rotW", "vp_seat_leather_windshield_rotS", "vp_seat_leather_windshield_rotE" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
+        "bg": [
+          "vp_seat_leather_windshield_rotN",
+          "vp_seat_leather_windshield_rotW",
+          "vp_seat_leather_windshield_rotS",
+          "vp_seat_leather_windshield_rotE"
+        ]
+      }
+    ]
+  },
+  {
+    "id": [ "vp_seat_windshield", "vp_reclining_seat_windshield" ],
+    "fg": [ "vp_seat_windshield_rotN", "vp_seat_windshield_rotW", "vp_seat_windshield_rotS", "vp_seat_windshield_rotE" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
+        "bg": [
+          "vp_seat_windshield_rotN",
+          "vp_seat_windshield_rotW",
+          "vp_seat_windshield_rotS",
+          "vp_seat_windshield_rotE"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+[{
+  "id": "mon_crows_m240",
+  "fg": "mon_crows_m240",
+  "bg": "shadow_64x64_medium"
+},{
+  "id": "mon_turret_bmg",
+  "fg": "mon_turret_bmg",
+  "bg": "shadow_64x64_medium"
+},{
+  "id": "mon_turret_rifle",
+  "fg": "mon_turret_rifle",
+  "bg": "shadow_64x64_medium"
+}]

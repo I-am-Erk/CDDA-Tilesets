@@ -1,0 +1,16 @@
+[
+  {
+    "id": [ "mon_hound_tindalos", "mon_hound_tindalos_afterimage" ],
+    "fg": [
+      { "weight": 1, "sprite": "mon_hound_tindalos_blue" },
+      { "weight": 1, "sprite": "mon_hound_tindalos_cyan" },
+      { "weight": 1, "sprite": "mon_hound_tindalos_gold" },
+      { "weight": 1, "sprite": "mon_hound_tindalos_green" },
+      { "weight": 1, "sprite": "mon_hound_tindalos_indigo" },
+      { "weight": 1, "sprite": "mon_hound_tindalos_orange" },
+      { "weight": 1, "sprite": "mon_hound_tindalos_pink" },
+      { "weight": 1, "sprite": "mon_hound_tindalos_purple" },
+      { "weight": 1, "sprite": "mon_hound_tindalos_red" }
+    ]
+  }
+]

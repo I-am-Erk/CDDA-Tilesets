@@ -1,0 +1,14 @@
+[
+  {
+    "id": "sword_cane",
+    "fg": "sword_cane"
+  },
+  {
+    "id": "hollow_cane",
+    "fg": "hollow_cane"
+  },
+  {
+    "id": "cane",
+    "fg": "walking_cane"
+  }
+]

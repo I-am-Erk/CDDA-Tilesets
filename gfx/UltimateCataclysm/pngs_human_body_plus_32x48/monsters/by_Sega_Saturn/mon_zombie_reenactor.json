@@ -1,0 +1,9 @@
+{
+  "id": "mon_zombie_reenactor",
+  "fg": [
+    { "weight": 2, "sprite": "mon_zombie_reenactor_grey" },
+    { "weight": 2, "sprite": "mon_zombie_reenactor_blue" },
+    { "weight": 1, "sprite": "mon_zombie_reenactor_red" }
+  ],
+  "bg": "shadow_32x48_normal"
+}
