@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "house_24" ],
+    "fg": [ "house_24_N", "house_24_E", "house_24_S", "house_24_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "house_24_roof" ],
+    "fg": [ "house_24_roof_N", "house_24_roof_E", "house_24_roof_S", "house_24_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]
