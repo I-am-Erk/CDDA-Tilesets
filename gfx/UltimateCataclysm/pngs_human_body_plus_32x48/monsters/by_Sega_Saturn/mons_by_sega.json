@@ -11,7 +11,23 @@
   "fg": "mon_zombie_prisoner_brute",
   "bg": "shadow_32x48_normal"
 },{
-  "id": ["mon_irradiated_wanderer_1", "mon_irradiated_wanderer_2", "mon_irradiated_wanderer_3", "mon_irradiated_wanderer_4"],
+  "id": "mon_zombie_resort_bouncer",
+  "fg": "mon_zombie_resort_bouncer",
+  "bg": "shadow_32x48_normal"
+},{
+  "id": "mon_irradiated_wanderer_1",
   "fg": "mon_irradiated_wanderer_1",
+  "bg": "shadow_32x48_normal"
+},{
+  "id": "mon_irradiated_wanderer_2",
+  "fg": "mon_irradiated_wanderer_2",
+  "bg": "shadow_32x48_normal"
+},{
+  "id": "mon_irradiated_wanderer_3",
+  "fg": "mon_irradiated_wanderer_3",
+  "bg": "shadow_32x48_normal"
+},{
+  "id": "mon_irradiated_wanderer_4",
+  "fg": "mon_irradiated_wanderer_4",
   "bg": "shadow_32x48_normal"
 }]
