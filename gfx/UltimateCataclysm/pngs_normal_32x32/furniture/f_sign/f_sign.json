@@ -1,7 +1,7 @@
 [
   {
     "id": "f_sign",
-    "fg": [ "f_sign" ],
-    "bg": [ ]
+    "fg": "f_sign",
+    "bg": ""
   }
 ]

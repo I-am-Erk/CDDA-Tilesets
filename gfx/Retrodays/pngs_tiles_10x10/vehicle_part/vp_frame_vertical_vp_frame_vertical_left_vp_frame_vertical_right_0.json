@@ -1,0 +1,1 @@
+{"id": ["vp_frame_vertical", "vp_frame_vertical_left", "vp_frame_vertical_right"], "fg": ["2251_vp_frame_vertical_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["155_vp_cargo_bag_1"], "bg": []}], "bg": []}

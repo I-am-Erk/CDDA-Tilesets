@@ -2,5 +2,5 @@
   "id": "f_armchair",
   "rotates": true,
   "fg": ["f_armchair_faceS", "f_armchair_faceW", "f_armchair_faceN", "f_armchair_faceE"],
-  "bg": []
+  "bg": ""
 }

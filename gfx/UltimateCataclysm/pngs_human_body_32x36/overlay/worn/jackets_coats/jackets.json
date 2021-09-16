@@ -1,0 +1,102 @@
+[
+  {
+    "id": "overlay_female_worn_jacket_flannel",
+    "fg": "jacket_flannel_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_jacket_flannel",
+    "fg": "jacket_flannel_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_jacket_jean",
+    "fg": "jacket_jean_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_jacket_jean",
+    "fg": "jacket_jean_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_jacket_light",
+    "fg": "jacket_light_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_jacket_light",
+    "fg": "jacket_light_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_jacket_evac",
+    "fg": "jacket_evac_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_jacket_evac",
+    "fg": "jacket_evac_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_jacket_leather",
+    "fg": "leather_jacket_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_jacket_leather",
+    "fg": "leather_jacket_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_jacket_leather_red",
+    "fg": "jacket_leather_red_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_jacket_leather_red",
+    "fg": "jacket_leather_red_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_ski_jacket",
+    "fg": "ski_jacket_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_ski_jacket",
+    "fg": "ski_jacket_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_jacket_windbreaker",
+    "fg": "windbreaker_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_jacket_windbreaker",
+    "fg": "windbreaker_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_winter_jacket_army",
+    "fg": "army_winter_jacket_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_winter_jacket_army",
+    "fg": "army_winter_jacket_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_jacket_army",
+    "fg": "jacket_army_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_jacket_army",
+    "fg": "jacket_army_m",
+    "bg": ""
+  }
+]

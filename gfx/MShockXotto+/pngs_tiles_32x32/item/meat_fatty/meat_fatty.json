@@ -1,0 +1,26 @@
+[
+  {
+    "id": [ "porkbelly", "raw_curing_fatty_meat" ],
+    "fg": [ "porkbelly" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "raw_cured_fatty_meat",
+    "fg": [ "raw_cured_fatty_meat" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "bacon_uncut",
+    "fg": [ "bacon_uncut" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "meat_fatty_cooked",
+    "fg": [ "meat_fatty_cooked" ],
+    "rotates": false,
+    "bg": [  ]
+  }
+]

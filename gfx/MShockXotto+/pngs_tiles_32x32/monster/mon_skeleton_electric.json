@@ -1,0 +1,8 @@
+{
+  "id": "mon_skeleton_electric",
+  "fg": [
+    "mon_skeleton_electric"
+  ],
+  "bg": ["shadow_32x32_normal"],
+  "rotates": false
+}

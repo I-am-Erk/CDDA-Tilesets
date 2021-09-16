@@ -1,0 +1,22 @@
+{
+  "id": [
+    "explosion_mon_summon_demon_spiderlings",
+    "explosion_summon_winter_wolf",
+    "explosion_spy_wasp",
+    "explosion_spell_summon_crocodile",
+    "explosion_summon_cats",
+    "explosion_summon_bear",
+    "explosion_summon_wolf_druid",
+    "explosion_summon_zombie",
+    "explosion_summon_skeleton",
+    "explosion_summon_decayed_pouncer",
+    "explosion_summon_wisps"
+  ],
+  "fg": "summon_edge",
+  "bg": "",
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "corner", "fg": [ "summon_corner" ], "bg": "" },
+    { "id": "edge", "fg": [ "summon_edge" ], "bg": "" }
+  ]
+}

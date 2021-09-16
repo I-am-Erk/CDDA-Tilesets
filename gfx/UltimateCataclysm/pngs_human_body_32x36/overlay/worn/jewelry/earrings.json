@@ -1,0 +1,34 @@
+[
+  {
+    "id": [ "overlay_female_worn_gold_ear", "overlay_female_worn_alexandrite_gold_earring", "overlay_female_worn_amethyst_gold_earring", "overlay_female_worn_aquamarine_gold_earring", "overlay_female_worn_blue_topaz_gold_earring",
+    "overlay_female_worn_citrine_gold_earring", "overlay_female_worn_diamond_gold_earring",
+    "overlay_female_worn_emerald_gold_earring", "overlay_female_worn_garnet_gold_earring", "overlay_female_worn_opal_gold_earring", "overlay_female_worn_pearl_gold_earring", "overlay_female_worn_peridot_gold_earring", "overlay_female_worn_ruby_gold_earring", "overlay_female_worn_sapphire_gold_earring", "overlay_female_worn_tourmaline_gold_earring" ],
+    "fg": "overlay_female_worn_gold_ear",
+    "bg": ""
+  },
+  {
+    "id": [ "overlay_female_worn_platinum_ear", "overlay_female_worn_alexandrite_platinum_earring", "overlay_female_worn_amethyst_platinum_earring", "overlay_female_worn_aquamarine_platinum_earring", "overlay_female_worn_blue_topaz_platinum_earring", "overlay_female_worn_citrine_platinum_earring", "overlay_female_worn_diamond_platinum_earring", "overlay_female_worn_emerald_platinum_earring", "overlay_female_worn_garnet_platinum_earring", "overlay_female_worn_opal_platinum_earring", "overlay_female_worn_pearl_platinum_earring", "overlay_female_worn_peridot_platinum_earring", "overlay_female_worn_ruby_platinum_earring", "overlay_female_worn_sapphire_platinum_earring", "overlay_female_worn_tourmaline_platinum_earring" ],
+    "fg": "overlay_female_worn_platinum_ear",
+    "bg": ""
+  },
+  {
+    "id": [ "overlay_female_worn_silver_ear", "overlay_female_worn_alexandrite_silver_earring", "overlay_female_worn_amethyst_silver_earring", "overlay_female_worn_aquamarine_silver_earring", "overlay_female_worn_blue_topaz_silver_earring", "overlay_female_worn_citrine_silver_earring", "overlay_female_worn_diamond_silver_earring", "overlay_female_worn_emerald_silver_earring", "overlay_female_worn_garnet_silver_earring", "overlay_female_worn_opal_silver_earring", "overlay_female_worn_pearl_silver_earring", "overlay_female_worn_peridot_silver_earring", "overlay_female_worn_ruby_silver_earring", "overlay_female_worn_sapphire_silver_earring", "overlay_female_worn_tourmaline_silver_earring" ],
+    "fg": "overlay_female_worn_silver_ear",
+    "bg": ""
+  },
+  {
+    "id": [ "overlay_male_worn_gold_ear", "overlay_male_worn_alexandrite_gold_earring", "overlay_male_worn_amethyst_gold_earring", "overlay_male_worn_aquamarine_gold_earring", "overlay_male_worn_blue_topaz_gold_earring", "overlay_male_worn_citrine_gold_earring", "overlay_male_worn_diamond_gold_earring", "overlay_male_worn_emerald_gold_earring", "overlay_male_worn_garnet_gold_earring", "overlay_male_worn_opal_gold_earring", "overlay_male_worn_pearl_gold_earring", "overlay_male_worn_peridot_gold_earring", "overlay_male_worn_ruby_gold_earring", "overlay_male_worn_sapphire_gold_earring", "overlay_male_worn_tourmaline_gold_earring" ],
+    "fg": "overlay_male_worn_gold_ear",
+    "bg": ""
+  },
+  {
+    "id": [ "overlay_male_worn_platinum_ear","overlay_male_worn_alexandrite_platinum_earring", "overlay_male_worn_amethyst_platinum_earring", "overlay_male_worn_aquamarine_platinum_earring", "overlay_male_worn_blue_topaz_platinum_earring", "overlay_male_worn_citrine_platinum_earring", "overlay_male_worn_diamond_platinum_earring", "overlay_male_worn_emerald_platinum_earring", "overlay_male_worn_garnet_platinum_earring", "overlay_male_worn_opal_platinum_earring", "overlay_male_worn_pearl_platinum_earring", "overlay_male_worn_peridot_platinum_earring", "overlay_male_worn_ruby_platinum_earring", "overlay_male_worn_sapphire_platinum_earring", "overlay_male_worn_tourmaline_platinum_earring" ],
+    "fg": "overlay_male_worn_platinum_ear",
+    "bg": ""
+  },
+  {
+    "id": [ "overlay_male_worn_silver_ear", "overlay_male_worn_alexandrite_silver_earring", "overlay_male_worn_amethyst_silver_earring", "overlay_male_worn_aquamarine_silver_earring", "overlay_male_worn_blue_topaz_silver_earring", "overlay_male_worn_citrine_silver_earring", "overlay_male_worn_diamond_silver_earring", "overlay_male_worn_emerald_silver_earring", "overlay_male_worn_garnet_silver_earring", "overlay_male_worn_opal_silver_earring", "overlay_male_worn_pearl_silver_earring", "overlay_male_worn_peridot_silver_earring", "overlay_male_worn_ruby_silver_earring", "overlay_male_worn_sapphire_silver_earring", "overlay_male_worn_tourmaline_silver_earring" ],
+    "fg": "overlay_male_worn_silver_ear",
+    "bg": ""
+  }
+]

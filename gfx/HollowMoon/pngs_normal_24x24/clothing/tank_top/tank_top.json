@@ -1,0 +1,6 @@
+[
+    { "id": ["tank_top", "army_top"], "fg": "tank_top", "bg": [], "rotates": false },
+	{ "id": ["tank_top_season_autumn", "army_top_season_autumn"], "fg": "tank_top_autumn", "bg": [], "rotates": false },
+	{ "id": ["tank_top_season_winter", "army_top_season_winter"], "fg": "tank_top_winter", "bg": [], "rotates": false },
+	{ "id": ["tank_top_season_summer", "army_top_season_summer"], "fg": "tank_top_summer", "bg": [], "rotates": false }
+]

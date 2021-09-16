@@ -1,0 +1,6 @@
+[
+    { "id": ["sleeveless_duster_fur", "sleeveless_duster_faux_fur"], "fg": "sleeveless_duster_fur", "bg": [], "rotates": false },
+	{ "id": ["sleeveless_duster_fur_season_autumn", "sleeveless_duster_faux_fur_season_autumn"], "fg": "sleeveless_duster_fur_autumn", "bg": [], "rotates": false },
+	{ "id": ["sleeveless_duster_fur_season_winter", "sleeveless_duster_faux_fur_season_winter"], "fg": "sleeveless_duster_fur_winter", "bg": [], "rotates": false },
+	{ "id": ["sleeveless_duster_fur_season_summer", "sleeveless_duster_faux_fur_season_summer"], "fg": "sleeveless_duster_fur_summer", "bg": [], "rotates": false }
+]

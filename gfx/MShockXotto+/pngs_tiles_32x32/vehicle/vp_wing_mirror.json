@@ -1,0 +1,10 @@
+[
+  {
+    "id": [ "vp_wing_mirror" ],
+    "fg": "4161_vp_wing_mirror_0",
+    "bg": [  ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "4161_vp_wing_mirror_0" ] } ]
+  }
+]

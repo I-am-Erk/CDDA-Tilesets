@@ -1,0 +1,11 @@
+{
+  "id": "f_mannequin",
+  "fg": [
+    { "weight": 1, "sprite": "f_mannequin_male" },
+    { "weight": 1, "sprite": "f_mannequin_female" }
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false
+}

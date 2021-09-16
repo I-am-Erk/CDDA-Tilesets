@@ -1,0 +1,10 @@
+{
+  "id": "mon_zombie_corrosive",
+  "fg": [
+    "mon_zombie_corrosive"
+  ],
+  "bg": [
+    ""
+  ],
+  "rotates": false
+}

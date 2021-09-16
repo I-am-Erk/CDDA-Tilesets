@@ -1,0 +1,2 @@
+"author": dchieh222
+"sprites": [ "bacon_uncut", "meat_fatty_cooked", "porkbelly", "raw_cured_fatty_meat" ]

@@ -1,0 +1,10 @@
+{
+  "id": "mon_irongolem",
+  "fg": [
+    { "weight": 4, "sprite": "mon_irongolem" },
+    { "weight": 1, "sprite": "mon_irongolem_1" },
+    { "weight": 1, "sprite": "mon_irongolem_2" }
+  ],
+  "bg": "",
+  "rotates": false
+}

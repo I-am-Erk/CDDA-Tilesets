@@ -1,0 +1,1 @@
+{"id": ["vp_small_storage_battery", "vp_medium_storage_battery", "vp_storage_battery", "vp_storage_battery_removable", "vp_battery_motorbike", "vp_battery_car"], "fg": ["1326_battery_motorbike_0"], "rotates": false, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["1183_vp_tank_medium_1"], "bg": []}], "bg": []}

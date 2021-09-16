@@ -1,0 +1,12 @@
+[
+  {
+    "id": [ "overlay_female_wielded_cestus", "overlay_female_worn_cestus"],
+    "fg": "cestus_f",
+    "bg": ""
+  },
+  {
+    "id": [ "overlay_male_wielded_cestus", "overlay_male_worn_cestus" ],
+    "fg": "cestus_m",
+    "bg": ""
+  }
+]

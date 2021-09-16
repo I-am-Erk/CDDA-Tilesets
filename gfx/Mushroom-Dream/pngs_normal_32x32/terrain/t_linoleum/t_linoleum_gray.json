@@ -1,0 +1,7 @@
+[
+  {
+    "id": "t_linoleum_gray",
+    "fg": [ { "weight": 1, "sprite": "t_linoleum_gray_unconnected_01" }, { "weight": 1, "sprite": "t_linoleum_gray_unconnected_02" }, { "weight": 5, "sprite": "t_linoleum_gray_unconnected_03" }],
+    "bg": ""
+  }
+]

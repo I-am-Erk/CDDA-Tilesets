@@ -1,0 +1,18 @@
+[{
+    "id": [
+		"2silos",
+		"ranch_camp_57"
+	],
+    "fg": [ "silos_faceNS", "silos_faceEW", "silos_faceNS", "silos_faceEW" ], 
+    "bg": "field",
+    "rotates": true
+ },{
+	"id": [
+	"2silos_1",
+	"2silos_2",
+	"2silos_roof"
+	],
+	"fg": [ "silos_faceNS", "silos_faceEW", "silos_faceNS", "silos_faceEW" ],
+	"bg": "open_air",
+	"rotates": true
+}]

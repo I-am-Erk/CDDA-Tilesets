@@ -1,0 +1,1 @@
+{"id": ["vp_roof_cloth", "vp_roof_wood", "vp_roof"], "fg": ["2410_vp_roof_cloth_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["155_vp_cargo_bag_1"], "bg": []}], "bg": []}

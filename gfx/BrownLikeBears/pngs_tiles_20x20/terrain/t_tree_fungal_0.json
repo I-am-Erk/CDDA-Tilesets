@@ -1,1 +1,23 @@
-{"id": "t_tree_fungal", "fg": ["102_t_tree_fungal_0"], "rotates": false, "bg": []}
+[
+  {
+    "id": "t_tree_fungal_season_spring",
+    "fg": "102_t_tree_fungal_0",
+    "bg": "forest_grass_spring"
+  },
+  {
+    "id": "t_tree_fungal_season_summer",
+    "fg": "102_t_tree_fungal_0",
+    "bg": "forest_grass_summer"
+  },
+  {
+    "id": "t_tree_fungal_season_autumn",
+    "fg": "102_t_tree_fungal_0",
+    "bg": "forest_grass_autumn"
+  },
+  {
+    "id": "t_tree_fungal_season_winter",
+    "fg": "102_t_tree_fungal_0",
+    "bg": "forest_grass_winter"
+  }
+]
+

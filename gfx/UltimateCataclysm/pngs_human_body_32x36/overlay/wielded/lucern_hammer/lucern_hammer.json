@@ -1,0 +1,12 @@
+[
+  {
+    "id": "overlay_male_wielded_lucern_hammer",
+    "fg": "lucern_hammer_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_wielded_lucern_hammer",
+    "fg": "lucern_hammer_f",
+    "bg": ""
+  }
+]

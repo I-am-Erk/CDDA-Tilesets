@@ -1,0 +1,26 @@
+[
+  {
+    "id": [ "overlay_female_mutation_BIOLUM0","overlay_female_mutation_BIOLUM1","overlay_female_mutation_BIOLUM2" ],
+    "fg": [ "overlay_female_mutation_BIOLUM" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": [ "overlay_female_mutation_BIOLUM0_active","overlay_female_mutation_BIOLUM1_active","overlay_female_mutation_BIOLUM2_active" ],
+    "fg": [ "overlay_female_mutation_BIOLUM_active" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": [ "overlay_male_mutation_BIOLUM0","overlay_male_mutation_BIOLUM1","overlay_male_mutation_BIOLUM2" ],
+    "fg": [ "overlay_male_mutation_BIOLUM" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": [ "overlay_male_mutation_BIOLUM0_active","overlay_male_mutation_BIOLUM1_active","overlay_male_mutation_BIOLUM2_active" ],
+    "fg": [ "overlay_male_mutation_BIOLUM_active" ],
+    "rotates": false,
+    "bg": [  ]
+  }
+]

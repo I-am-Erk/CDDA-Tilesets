@@ -1,0 +1,6 @@
+[
+    { "id": ["sleeveless_trenchcoat", "sleeveless_trenchcoat_leather"], "fg": "sleeveless_trenchcoat", "bg": [], "rotates": false },
+	{ "id": ["sleeveless_trenchcoat_season_autumn", "sleeveless_trenchcoat_leather_season_autumn"], "fg": "sleeveless_trenchcoat_autumn", "bg": [], "rotates": false },
+	{ "id": ["sleeveless_trenchcoat_season_winter", "sleeveless_trenchcoat_leather_season_winter"], "fg": "sleeveless_trenchcoat_winter", "bg": [], "rotates": false },
+	{ "id": ["sleeveless_trenchcoat_season_summer", "sleeveless_trenchcoat_leather_season_summer"], "fg": "sleeveless_trenchcoat_summer", "bg": [], "rotates": false }
+]

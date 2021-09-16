@@ -1,0 +1,8 @@
+  {
+    "id": "t_shrub",
+    "fg": [
+	{ "weight": 70, "sprite": "t_shrub1" },
+	{ "weight": 30, "sprite": "t_shrub2" }
+	],
+    "bg": "t_grass_tall"
+  }

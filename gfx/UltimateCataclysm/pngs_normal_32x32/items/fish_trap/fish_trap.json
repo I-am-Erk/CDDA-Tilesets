@@ -1,7 +1,7 @@
 [
   {
     "id": "fish_trap",
-    "fg": [ "fish_trap" ],
-    "bg": []
+    "fg": "fish_trap",
+    "bg": ""
   }
 ]

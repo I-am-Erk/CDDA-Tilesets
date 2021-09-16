@@ -1,0 +1,6 @@
+[
+    { "id": ["gasdiscount_silver", "fp_loyalty_card", "gasdiscount_platinum", "gasdiscount_gold"], "fg": "gasdiscount_silver", "bg": [], "rotates": false },
+	{ "id": ["gasdiscount_silver_season_autumn", "fp_loyalty_card_season_autumn", "gasdiscount_platinum_season_autumn", "gasdiscount_gold_season_autumn"], "fg": "gasdiscount_silver_autumn", "bg": [], "rotates": false },
+	{ "id": ["gasdiscount_silver_season_winter", "fp_loyalty_card_season_winter", "gasdiscount_platinum_season_winter", "gasdiscount_gold_season_winter"], "fg": "gasdiscount_silver_winter", "bg": [], "rotates": false },
+	{ "id": ["gasdiscount_silver_season_summer", "fp_loyalty_card_season_summer", "gasdiscount_platinum_season_summer", "gasdiscount_gold_season_summer"], "fg": "gasdiscount_silver_summer", "bg": [], "rotates": false }
+]

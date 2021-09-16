@@ -1,21 +1,17 @@
 {
   "id": "t_scrap_floor",
   "multitile": true,
-  "fg": [
-    "f_floor_scrap_unconnected"
-  ],
-  "bg": [],
+  "fg": "f_floor_scrap_unconnected",
+  "bg": "",
   "additional_tiles": [
     {
       "id": "center",
-      "bg": [],
-      "fg": [
-        "f_floor_scrap_center"
-      ]
+      "bg": "",
+      "fg": "f_floor_scrap_center"
     },
     {
       "id": "corner",
-      "bg": [],
+      "bg": "",
       "fg": [
         "f_floor_scrap_corner_nw",
         "f_floor_scrap_corner_sw",
@@ -25,7 +21,7 @@
     },
     {
       "id": "t_connection",
-      "bg": [],
+      "bg": "",
       "fg": [
         "f_floor_scrap_t_connection_n",
         "f_floor_scrap_t_connection_w",
@@ -35,7 +31,7 @@
     },
     {
       "id": "edge",
-      "bg": [],
+      "bg": "",
       "fg": [
         "f_floor_scrap_edge_ns",
         "f_floor_scrap_edge_ew"
@@ -43,7 +39,7 @@
     },
     {
       "id": "end_piece",
-      "bg": [],
+      "bg": "",
       "fg": [
         "f_floor_scrap_end_piece_n",
         "f_floor_scrap_end_piece_w",
@@ -52,11 +48,9 @@
       ]
     },
     {
-      "bg": [],
+      "bg": "",
       "id": "unconnected",
-      "fg": [
-        "f_floor_scrap_unconnected"
-      ]
+      "fg": "f_floor_scrap_unconnected"
     }
   ]
 }

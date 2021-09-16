@@ -1,0 +1,36 @@
+[{
+	"id": [
+		"2farm_3",
+		"farm_3",
+		"farm_isherwood_3",
+		"farm_dairy_twd_6",
+		"farm_dairy_twd_12",
+		"ranch_camp_66",
+		"dairy_farm_SE"
+	],
+	"fg": [ "barn_faceNS", "barn_faceEW", "barn_faceNS", "barn_faceEW" ], 
+	"bg": "field",
+	"rotates": true
+},{
+	"id": [
+		"desolatebarn",
+		"barn_aban1"
+	],
+	"fg": "desolate_barn",
+	"bg": "field"
+},{
+	"id": [
+	    "2farm_loft_3",
+		"2farm_roof_3",
+		"farm_3_roof",
+		"farm_isherwood_3_hayloft",
+		"farm_isherwood_3_roof",
+		"farm_dairy_twd_second_floor_6",
+		"farm_dairy_twd_second_floor_12",
+		"ranch_camp_66_roof",
+		"dairy_farm_SE_roof"
+	],
+	"fg": [ "barn_faceNS", "barn_faceEW", "barn_faceNS", "barn_faceEW" ],
+	"bg": "open_air",
+	"rotates": true
+}]

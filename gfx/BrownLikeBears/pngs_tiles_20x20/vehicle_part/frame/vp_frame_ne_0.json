@@ -1,0 +1,14 @@
+{
+  "id": "vp_frame_ne",
+  "fg": [
+    "vp_frame_ne"
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "broken", "fg": [ "430_t_missile_exploded_0" ], "bg": [  ] }
+  ],
+  "bg": [
+    
+  ]
+}

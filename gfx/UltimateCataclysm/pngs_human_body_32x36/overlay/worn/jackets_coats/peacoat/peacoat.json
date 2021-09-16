@@ -1,0 +1,12 @@
+[
+  {
+    "id": "overlay_female_worn_peacoat",
+    "fg": "peacoat_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_peacoat",
+    "fg": "peacoat_m",
+    "bg": ""
+  }
+]

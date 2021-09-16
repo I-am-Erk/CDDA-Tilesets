@@ -1,0 +1,22 @@
+[
+  {
+    "id": "vp_hdstowboard_vertical_left",
+    "fg": "vp_hdstowboard_vertical_left",
+    "rotates": true
+  },
+  {
+    "id": [ "vp_hdstowboard_vertical_right", "vp_hdstowboard_vertical" ],
+    "fg": "vp_hdstowboard_vertical_right",
+    "rotates": true
+  },
+  {
+    "id": [ "vp_hdstowboard_horizontal", "vp_hdstowboard_horizontal_front" ],
+    "fg": "vp_hdstowboard_front",
+    "rotates": true
+  },
+  {
+    "id": [ "vp_hdstowboard_horizontal_rear" ],
+    "fg": "vp_hdstowboard_rear",
+    "rotates": true
+  }
+]

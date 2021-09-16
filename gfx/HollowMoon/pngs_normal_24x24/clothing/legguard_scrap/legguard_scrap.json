@@ -1,0 +1,6 @@
+[
+    { "id": ["legguard_scrap", "legguard_paper"], "fg": "legguard_scrap", "bg": [], "rotates": false },
+	{ "id": ["legguard_scrap_season_autumn", "legguard_paper_season_autumn"], "fg": "legguard_scrap_autumn", "bg": [], "rotates": false },
+	{ "id": ["legguard_scrap_season_winter", "legguard_paper_season_winter"], "fg": "legguard_scrap_winter", "bg": [], "rotates": false },
+	{ "id": ["legguard_scrap_season_summer", "legguard_paper_season_summer"], "fg": "legguard_scrap_summer", "bg": [], "rotates": false }
+]

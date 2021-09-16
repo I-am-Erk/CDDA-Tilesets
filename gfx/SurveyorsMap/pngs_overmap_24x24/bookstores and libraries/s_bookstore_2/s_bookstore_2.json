@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "s_bookstore_2" ],
+    "fg": [ "s_bookstore_2_N", "s_bookstore_2_E", "s_bookstore_2_S", "s_bookstore_2_W" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_bookstore_roof_2" ],
+    "fg": [ "s_bookstore_roof_2_N", "s_bookstore_roof_2_E", "s_bookstore_roof_2_S", "s_bookstore_roof_2_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

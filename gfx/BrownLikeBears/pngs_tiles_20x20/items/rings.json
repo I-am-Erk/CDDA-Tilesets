@@ -1,0 +1,21 @@
+{
+  "id": [
+    "diamond_ring",
+    "copper_ring",
+    "gold_ring",
+    "platinum_ring",
+    "ring_purity",
+    "ring_engagement",
+    "ring_signet",
+    "ring_wedding",
+    "silver_ring"
+  ],
+  "fg": [
+    "828_ring_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

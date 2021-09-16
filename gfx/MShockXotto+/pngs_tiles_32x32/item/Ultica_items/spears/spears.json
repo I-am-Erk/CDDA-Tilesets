@@ -1,0 +1,47 @@
+[
+  {
+    "id": "pointy_stick",
+    "fg": ["pointy_stick"],
+    "bg": []
+  },
+  {
+    "id": "spear_wood",
+    "fg": ["spear_wood"],
+    "bg": []
+  },
+  {
+    "id": "spear_spike",
+    "fg": ["spear_spike"],
+    "bg": []
+  },
+  {
+    "id": "spear_knife",
+    "fg": ["spear_knife"],
+    "bg": []
+  },
+  {
+    "id": "spear_knife_superior",
+    "fg": ["spear_knife_superior"],
+    "bg": []
+  },
+  {
+    "id": "spear_pipe",
+    "fg": ["spear_pipe"],
+    "bg": []
+  },
+  {
+    "id": "spear_rebar",
+    "fg": ["spear_rebar"],
+    "bg": []
+  },
+  {
+    "id": "spear_steel",
+    "fg": ["spear_steel"],
+    "bg": []
+  },
+  {
+    "id": "spear_copper",
+    "fg": ["spear_copper"],
+    "bg": []
+  }
+]

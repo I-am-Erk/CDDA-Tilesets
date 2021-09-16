@@ -1,12 +1,12 @@
 [
   {
     "id": "washboard",
-    "fg": [ "washboard" ],
-    "bg": [  ]
+    "fg": "washboard",
+    "bg": ""
   },
   {
     "id": "wash_kit",
-    "fg": [ "wash_kit" ],
-    "bg": [  ]
+    "fg": "wash_kit",
+    "bg": ""
   }
 ]

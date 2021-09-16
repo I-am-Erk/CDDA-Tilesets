@@ -1,0 +1,6 @@
+[
+    { "id": ["mon_black_rat", "mon_sewer_rat"], "fg": "mon_black_rat", "bg": [], "rotates": false },
+	{ "id": ["mon_black_rat_season_autumn", "mon_sewer_rat_season_autumn"], "fg": "mon_black_rat_autumn", "bg": [], "rotates": false },
+	{ "id": ["mon_black_rat_season_winter", "mon_sewer_rat_season_winter"], "fg": "mon_black_rat_winter", "bg": [], "rotates": false },
+	{ "id": ["mon_black_rat_season_summer", "mon_sewer_rat_season_summer"], "fg": "mon_black_rat_summer", "bg": [], "rotates": false }
+]

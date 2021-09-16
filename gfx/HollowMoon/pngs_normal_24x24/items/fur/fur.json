@@ -1,0 +1,6 @@
+[
+    { "id": ["fur", "cured_pelt", "faux_fur"], "fg": "fur", "bg": [], "rotates": false },
+	{ "id": ["fur_season_autumn", "cured_pelt_season_autumn", "faux_fur_season_autumn"], "fg": "fur_autumn", "bg": [], "rotates": false },
+	{ "id": ["fur_season_winter", "cured_pelt_season_winter", "faux_fur_season_winter"], "fg": "fur_winter", "bg": [], "rotates": false },
+	{ "id": ["fur_season_summer", "cured_pelt_season_summer", "faux_fur_season_summer"], "fg": "fur_summer", "bg": [], "rotates": false }
+]

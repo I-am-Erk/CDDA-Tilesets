@@ -1,0 +1,6 @@
+[
+    { "id": ["keg", "keg_steel"], "fg": "keg", "bg": [], "rotates": false },
+	{ "id": ["keg_season_autumn", "keg_steel_season_autumn"], "fg": "keg_autumn", "bg": [], "rotates": false },
+	{ "id": ["keg_season_winter", "keg_steel_season_winter"], "fg": "keg_winter", "bg": [], "rotates": false },
+	{ "id": ["keg_season_summer", "keg_steel_season_summer"], "fg": "keg_summer", "bg": [], "rotates": false }
+]

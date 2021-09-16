@@ -1,5 +1,5 @@
 {
   "id": "f_compact_ASRG_containment",
-  "fg": ["f_compact_ASRG_containment"],
-  "bg": []
+  "fg": "f_compact_ASRG_containment",
+  "bg": ""
 }

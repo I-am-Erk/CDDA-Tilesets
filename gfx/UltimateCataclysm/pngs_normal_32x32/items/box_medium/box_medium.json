@@ -1,7 +1,5 @@
 {
   "id": "box_medium",
-  "fg": [
-    "box_medium"
-  ],
-  "bg": []
+  "fg": "box_medium",
+  "bg": ""
 }

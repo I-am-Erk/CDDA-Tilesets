@@ -1,0 +1,9 @@
+[
+  {
+    "id": "rid_mon_horse",
+    "fg": [
+    { "weight": 1, "sprite": "rid_mon_horse1" },
+    { "weight": 1, "sprite": "rid_mon_horse2" }
+  ]
+  }
+]

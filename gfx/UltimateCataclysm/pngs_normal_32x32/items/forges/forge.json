@@ -1,12 +1,12 @@
 [
   {
     "id": "forge",
-    "fg": [ "forge" ],
-    "bg": [  ]
+    "fg": "forge",
+    "bg": ""
   },
   {
     "id": "char_forge",
-    "fg": [ "char_forge" ],
-    "bg": [  ]
+    "fg": "char_forge",
+    "bg": ""
   }
 ]

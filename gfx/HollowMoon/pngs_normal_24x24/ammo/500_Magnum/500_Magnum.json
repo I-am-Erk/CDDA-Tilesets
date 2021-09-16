@@ -1,0 +1,6 @@
+[
+    { "id": ["500_Magnum", "bp_500_Magnum", "reloaded_500_Magnum"], "fg": "500_Magnum", "bg": [], "rotates": false },
+	{ "id": ["500_Magnum_season_autumn", "bp_500_Magnum_season_autumn", "reloaded_500_Magnum_season_autumn"], "fg": "500_Magnum_autumn", "bg": [], "rotates": false },
+	{ "id": ["500_Magnum_season_winter", "bp_500_Magnum_season_winter", "reloaded_500_Magnum_season_winter"], "fg": "500_Magnum_winter", "bg": [], "rotates": false },
+	{ "id": ["500_Magnum_season_summer", "bp_500_Magnum_season_summer", "reloaded_500_Magnum_season_summer"], "fg": "500_Magnum_summer", "bg": [], "rotates": false }
+]

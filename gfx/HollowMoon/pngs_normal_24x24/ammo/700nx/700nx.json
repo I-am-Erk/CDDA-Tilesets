@@ -1,0 +1,6 @@
+[
+    { "id": ["700nx", "reloaded_700nx"], "fg": "700nx", "bg": [], "rotates": false },
+	{ "id": ["700nx_season_autumn", "reloaded_700nx_season_autumn"], "fg": "700nx_autumn", "bg": [], "rotates": false },
+	{ "id": ["700nx_season_winter", "reloaded_700nx_season_winter"], "fg": "700nx_winter", "bg": [], "rotates": false },
+	{ "id": ["700nx_season_summer", "reloaded_700nx_season_summer"], "fg": "700nx_summer", "bg": [], "rotates": false }
+]

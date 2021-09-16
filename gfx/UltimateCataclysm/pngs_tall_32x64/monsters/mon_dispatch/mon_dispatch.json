@@ -1,0 +1,9 @@
+[{
+  "id": "mon_dispatch",
+  "fg": "mon_dispatch",
+  "bg": "shadow_32x64_normal"
+},{
+  "id": "mon_dispatch_military",
+  "fg": "mon_dispatch_military",
+  "bg": "shadow_32x64_normal"
+}]

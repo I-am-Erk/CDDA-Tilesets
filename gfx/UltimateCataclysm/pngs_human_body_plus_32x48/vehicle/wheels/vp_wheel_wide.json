@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "vp_wheel_wide", "vp_wheel_wide_steerable", "vp_wheel_wide_or", "vp_wheel_wide_or_steerable" ],
+    "fg": [ "vp_wheel_wide_rotNS", "vp_wheel_wide_rotEW", "vp_wheel_wide_rotNS", "vp_wheel_wide_rotEW" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_wheel_wide_rotNS", "vp_wheel_wide_rotEW", "vp_wheel_wide_rotNS", "vp_wheel_wide_rotEW" ]
+      }
+    ]
+  }
+]

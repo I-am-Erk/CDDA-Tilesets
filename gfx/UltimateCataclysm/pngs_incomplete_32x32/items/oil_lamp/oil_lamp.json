@@ -1,5 +1,5 @@
 {
   "id": "oil_lamp",
-  "fg": ["oil_lamp"],
-  "bg": []
+  "fg": "oil_lamp",
+  "bg": ""
 }

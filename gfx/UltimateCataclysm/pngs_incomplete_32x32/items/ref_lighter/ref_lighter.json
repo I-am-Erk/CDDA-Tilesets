@@ -1,5 +1,5 @@
 {
   "id": "ref_lighter",
-  "fg": ["ref_lighter"],
-  "bg": []
+  "fg": "ref_lighter",
+  "bg": ""
 }

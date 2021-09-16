@@ -1,0 +1,12 @@
+[
+  {
+    "id": "overlay_male_wielded_2h_flail_wood",
+    "fg": "peasant_flail_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_wielded_2h_flail_wood",
+    "fg": "peasant_flail_f",
+    "bg": ""
+  }
+]

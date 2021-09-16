@@ -1,0 +1,6 @@
+[
+    { "id": "mon_yugg", "fg": "mon_yugg", "bg": [], "rotates": false },
+	{ "id": "mon_yugg_season_autumn", "fg": "mon_yugg_autumn", "bg": [], "rotates": false },
+	{ "id": "mon_yugg_season_winter", "fg": "mon_yugg_winter", "bg": [], "rotates": false },
+	{ "id": "mon_yugg_season_summer", "fg": "mon_yugg_summer", "bg": [], "rotates": false }
+]

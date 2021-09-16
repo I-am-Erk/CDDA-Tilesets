@@ -1,0 +1,6 @@
+[
+    { "id": ["fish", "fish_smoked", "salted_fish", "fish_cooked"], "fg": "fish", "bg": [], "rotates": false },
+	{ "id": ["fish_season_autumn", "fish_smoked_season_autumn", "salted_fish_season_autumn", "fish_cooked_season_autumn"], "fg": "fish_autumn", "bg": [], "rotates": false },
+	{ "id": ["fish_season_winter", "fish_smoked_season_winter", "salted_fish_season_winter", "fish_cooked_season_winter"], "fg": "fish_winter", "bg": [], "rotates": false },
+	{ "id": ["fish_season_summer", "fish_smoked_season_summer", "salted_fish_season_summer", "fish_cooked_season_summer"], "fg": "fish_summer", "bg": [], "rotates": false }
+]

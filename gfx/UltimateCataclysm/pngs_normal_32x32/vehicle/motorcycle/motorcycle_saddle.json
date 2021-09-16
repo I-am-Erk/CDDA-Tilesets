@@ -1,0 +1,14 @@
+[
+  {
+    "id": "vp_saddle_motor",
+    "fg": [ "saddle_motor_rotN", "saddle_motor_rotW", "saddle_motor_rotS", "saddle_motor_rotE" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "saddle_motor_rotN", "saddle_motor_rotW", "saddle_motor_rotS", "saddle_motor_rotE" ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1 @@
+{"id": "f_lane", "fg": ["1532_f_lane_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "unconnected", "fg": ["1532_f_lane_0"], "bg": []}, {"id": "corner", "fg": ["1533_f_lane_1"], "bg": []}, {"id": "edge", "fg": ["1534_f_lane_2"], "bg": []}, {"id": "end_piece", "fg": ["1535_f_lane_3"], "bg": []}], "bg": []}

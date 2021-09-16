@@ -1,0 +1,12 @@
+[
+  {
+    "id": "overlay_female_worn_judo_gi",
+    "fg": "judo_gi_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_judo_gi",
+    "fg": "judo_gi_m",
+    "bg": ""
+  }
+]

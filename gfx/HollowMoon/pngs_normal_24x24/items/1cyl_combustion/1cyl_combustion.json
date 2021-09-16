@@ -1,0 +1,6 @@
+[
+    { "id": ["1cyl_combustion", "i4_combustion", "1cyl_combustion_small", "1cyl_combustion_large"], "fg": "1cyl_combustion", "bg": [], "rotates": false },
+	{ "id": ["1cyl_combustion_season_autumn", "i4_combustion_season_autumn", "1cyl_combustion_small_season_autumn", "1cyl_combustion_large_season_autumn"], "fg": "1cyl_combustion_autumn", "bg": [], "rotates": false },
+	{ "id": ["1cyl_combustion_season_winter", "i4_combustion_season_winter", "1cyl_combustion_small_season_winter", "1cyl_combustion_large_season_winter"], "fg": "1cyl_combustion_winter", "bg": [], "rotates": false },
+	{ "id": ["1cyl_combustion_season_summer", "i4_combustion_season_summer", "1cyl_combustion_small_season_summer", "1cyl_combustion_large_season_summer"], "fg": "1cyl_combustion_summer", "bg": [], "rotates": false }
+]

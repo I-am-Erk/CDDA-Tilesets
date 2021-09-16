@@ -1,21 +1,17 @@
 {
   "id": [ "t_linoleum_white", "t_linoleum_white_no_roof" ],
   "multitile": true,
-  "fg": [
-    "t_linoleum_white_unconnected"
-  ],
-  "bg": [],
+  "fg": "t_linoleum_white_unconnected",
+  "bg": "",
   "additional_tiles": [
     {
       "id": "center",
-      "bg": [],
-      "fg": [
-        "t_linoleum_white_center"
-      ]
+      "bg": "",
+      "fg": "t_linoleum_white_center"
     },
     {
       "id": "corner",
-      "bg": [],
+      "bg": "",
       "fg": [
         "t_linoleum_white_corner_nw",
         "t_linoleum_white_corner_sw",
@@ -25,7 +21,7 @@
     },
     {
       "id": "t_connection",
-      "bg": [],
+      "bg": "",
       "fg": [
         "t_linoleum_white_t_connection_n",
         "t_linoleum_white_t_connection_w",
@@ -35,7 +31,7 @@
     },
     {
       "id": "edge",
-      "bg": [],
+      "bg": "",
       "fg": [
         "t_linoleum_white_edge_ns",
         "t_linoleum_white_edge_ew"
@@ -43,7 +39,7 @@
     },
     {
       "id": "end_piece",
-      "bg": [],
+      "bg": "",
       "fg": [
         "t_linoleum_white_end_piece_n",
         "t_linoleum_white_end_piece_w",
@@ -52,11 +48,9 @@
       ]
     },
     {
-      "bg": [],
+      "bg": "",
       "id": "unconnected",
-      "fg": [
-        "t_linoleum_white_unconnected"
-      ]
+      "fg": "t_linoleum_white_unconnected"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
   "id": "2h_flail_wood",
-  "fg": ["peasant_flail"],
-  "bg": []
+  "fg": "peasant_flail",
+  "bg": ""
 }

@@ -1,97 +1,97 @@
 [
   {
     "id": "art_sphere",
-    "fg": [ "art_sphere" ],
-    "bg": [  ]
+    "fg": "art_sphere",
+    "bg": ""
   },
   {
     "id": "art_rod",
-    "fg": [ "art_rod" ],
-    "bg": [  ]
+    "fg": "art_rod",
+    "bg": ""
   },
   {
     "id": "art_teardrop",
-    "fg": [ "art_teardrop" ],
-    "bg": [  ]
+    "fg": "art_teardrop",
+    "bg": ""
   },
   {
     "id": "art_lamp",
-    "fg": [ "art_lamp" ],
-    "bg": [  ]
+    "fg": "art_lamp",
+    "bg": ""
   },
   {
     "id": "art_snake",
-    "fg": [ "art_snake" ],
-    "bg": [  ]
+    "fg": "art_snake",
+    "bg": ""
   },
   {
     "id": "art_disc",
-    "fg": [ "art_disc" ],
-    "bg": [  ]
+    "fg": "art_disc",
+    "bg": ""
   },
   {
     "id": "art_beads",
-    "fg": [ "art_beads" ],
-    "bg": [  ]
+    "fg": "art_beads",
+    "bg": ""
   },
   {
     "id": "art_napkin",
-    "fg": [ "art_napkin" ],
-    "bg": [  ]
+    "fg": "art_napkin",
+    "bg": ""
   },
   {
     "id": "art_urchin",
-    "fg": [ "art_urchin" ],
-    "bg": [  ]
+    "fg": "art_urchin",
+    "bg": ""
   },
   {
     "id": "art_jelly",
-    "fg": [ "art_jelly" ],
-    "bg": [  ]
+    "fg": "art_jelly",
+    "bg": ""
   },
   {
     "id": "art_spiral",
-    "fg": [ "art_spiral" ],
-    "bg": [  ]
+    "fg": "art_spiral",
+    "bg": ""
   },
   {
     "id": "art_pin",
-    "fg": [ "art_pin" ],
-    "bg": [  ]
+    "fg": "art_pin",
+    "bg": ""
   },
   {
     "id": "art_tube",
-    "fg": [ "art_tube" ],
-    "bg": [  ]
+    "fg": "art_tube",
+    "bg": ""
   },
   {
     "id": "art_pyramid",
-    "fg": [ "art_pyramid" ],
-    "bg": [  ]
+    "fg": "art_pyramid",
+    "bg": ""
   },
   {
     "id": "art_crystal",
-    "fg": [ "art_crystal" ],
-    "bg": [  ]
+    "fg": "art_crystal",
+    "bg": ""
   },
   {
     "id": "art_knot",
-    "fg": [ "art_knot" ],
-    "bg": [  ]
+    "fg": "art_knot",
+    "bg": ""
   },
   {
     "id": "art_crescent",
-    "fg": [ "art_crescent" ],
-    "bg": [  ]
+    "fg": "art_crescent",
+    "bg": ""
   },
   {
     "id": "altered_teapot",
-    "fg": [ "altered_teapot" ],
-    "bg": [  ]
+    "fg": "altered_teapot",
+    "bg": ""
   },
   {
     "id": "architect_cube",
-    "fg": [ "architect_cube" ],
-    "bg": [  ]
+    "fg": "architect_cube",
+    "bg": ""
   }
 ]

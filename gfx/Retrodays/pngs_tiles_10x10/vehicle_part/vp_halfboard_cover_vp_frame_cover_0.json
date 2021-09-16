@@ -1,0 +1,1 @@
+{"id": ["vp_halfboard_cover", "vp_frame_cover"], "fg": ["2250_vp_halfboard_cover_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["155_vp_cargo_bag_1"], "bg": []}], "bg": []}

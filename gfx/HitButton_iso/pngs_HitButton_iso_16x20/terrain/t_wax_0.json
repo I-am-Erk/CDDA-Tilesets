@@ -1,0 +1,1 @@
+{"id": ["t_wax"], "fg": ["656_t_wax_0", "657_t_wax_1"], "bg": ["13_t_dirt_0"], "multitile": true, "additional_tiles": [{"id": "corner", "fg": ["658_t_wax_3", "659_t_wax_4", "660_t_wax_5", "661_t_wax_6"], "bg": []}, {"id": "t_connection", "fg": ["662_t_wax_7", "663_t_wax_8", "664_t_wax_9", "665_t_wax_10"], "bg": []}, {"id": "center", "fg": ["666_t_wax_11"], "bg": []}]}

@@ -1,0 +1,12 @@
+{
+  "id": "vp_robot_controls",
+  "fg": "4131_vp_robot_controls_0",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "crack_metal_center",
+      "bg": "4131_vp_robot_controls_0"
+    }
+  ]
+}

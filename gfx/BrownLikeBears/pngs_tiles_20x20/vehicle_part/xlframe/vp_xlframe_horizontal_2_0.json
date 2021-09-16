@@ -1,0 +1,26 @@
+[
+  {
+    "id": "vp_xlframe_horizontal_2",
+    "fg": [ "641_vp_xlframe_horizontal_0" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_xlframe_overlay" ], "bg": [ "641_vp_xlframe_horizontal_0" ] } ],
+    "bg": [  ]
+  },
+  {
+    "id": "vp_xlframe_horizontal_2_front",
+    "fg": [ "641_vp_xlframe_horizontal_0" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_xlframe_overlay" ], "bg": [ "641_vp_xlframe_horizontal_0" ] } ],
+    "bg": [  ]
+  },
+  {
+    "id": "vp_xlframe_horizontal_2_rear",
+    "fg": [ "641_vp_xlframe_horizontal_0" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_xlframe_overlay" ], "bg": [ "641_vp_xlframe_horizontal_0" ] } ],
+    "bg": [  ]
+  }
+]

@@ -1,0 +1,12 @@
+[
+{
+  "id": "mon_zombie_phase_skulker",
+  "fg": "mon_zombie_phase_skulker",
+  "bg": "shadow_32x64_normal"
+},
+{
+  "id": "mon_zombie_phase_shrike",
+  "fg": "mon_zombie_phase_shrike",
+  "bg": "shadow_32x64_normal"
+}
+]

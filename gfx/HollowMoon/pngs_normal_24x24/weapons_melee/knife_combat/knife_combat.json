@@ -1,0 +1,6 @@
+[
+    { "id": ["knife_combat", "knife_rm42", "knife_combat_mod"], "fg": "knife_combat", "bg": [], "rotates": false },
+	{ "id": ["knife_combat_season_autumn", "knife_rm42_season_autumn", "knife_combat_mod_season_autumn"], "fg": "knife_combat_autumn", "bg": [], "rotates": false },
+	{ "id": ["knife_combat_season_winter", "knife_rm42_season_winter", "knife_combat_mod_season_winter"], "fg": "knife_combat_winter", "bg": [], "rotates": false },
+	{ "id": ["knife_combat_season_summer", "knife_rm42_season_summer", "knife_combat_mod_season_summer"], "fg": "knife_combat_summer", "bg": [], "rotates": false }
+]

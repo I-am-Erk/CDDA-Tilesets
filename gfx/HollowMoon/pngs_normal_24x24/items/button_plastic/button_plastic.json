@@ -1,0 +1,6 @@
+[
+    { "id": ["button_plastic", "snapfastener_steel", "cufflinks", "button_wood", "button_steel"], "fg": "button_plastic", "bg": [], "rotates": false },
+	{ "id": ["button_plastic_season_autumn", "snapfastener_steel_season_autumn", "cufflinks_season_autumn", "button_wood_season_autumn", "button_steel_season_autumn"], "fg": "button_plastic_autumn", "bg": [], "rotates": false },
+	{ "id": ["button_plastic_season_winter", "snapfastener_steel_season_winter", "cufflinks_season_winter", "button_wood_season_winter", "button_steel_season_winter"], "fg": "button_plastic_winter", "bg": [], "rotates": false },
+	{ "id": ["button_plastic_season_summer", "snapfastener_steel_season_summer", "cufflinks_season_summer", "button_wood_season_summer", "button_steel_season_summer"], "fg": "button_plastic_summer", "bg": [], "rotates": false }
+]

@@ -6,5 +6,5 @@
       { "weight": 100, "sprite": "t_junk_palisade_t3" },
       { "weight": 100, "sprite": "t_junk_palisade_t4" }
     ],
-  "bg": []
+  "bg": ""
 }

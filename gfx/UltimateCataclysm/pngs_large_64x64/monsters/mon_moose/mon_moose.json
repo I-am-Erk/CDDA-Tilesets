@@ -4,5 +4,5 @@
     { "weight": 2, "sprite": "mon_moose" },
     { "weight": 2, "sprite": "mon_moose_female" }
   ],
-  "bg": [ "shadow_64x64_large" ]
+  "bg": "shadow_64x64_large"
 }

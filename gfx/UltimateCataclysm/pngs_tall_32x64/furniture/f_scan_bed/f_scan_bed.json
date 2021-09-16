@@ -1,7 +1,7 @@
 [
   {
-    "id": ["f_scan_bed"],
-    "fg": [ "f_scan_bed" ],
-    "bg": [  ]
+    "id": "f_scan_bed",
+    "fg": "f_scan_bed",
+    "bg": ""
   }
 ]

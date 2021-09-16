@@ -1,0 +1,12 @@
+[
+  {
+    "id": "overlay_female_worn_mask_bal",
+    "fg": "ballistic_mask_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_mask_bal",
+    "fg": "ballistic_mask_m",
+    "bg": ""
+  }
+]

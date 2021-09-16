@@ -1,0 +1,6 @@
+[
+    { "id": "mon_razorclaw", "fg": "mon_razorclaw", "bg": [], "rotates": false },
+	{ "id": "mon_razorclaw_season_autumn", "fg": "mon_razorclaw_autumn", "bg": [], "rotates": false },
+	{ "id": "mon_razorclaw_season_winter", "fg": "mon_razorclaw_winter", "bg": [], "rotates": false },
+	{ "id": "mon_razorclaw_season_summer", "fg": "mon_razorclaw_summer", "bg": [], "rotates": false }
+]

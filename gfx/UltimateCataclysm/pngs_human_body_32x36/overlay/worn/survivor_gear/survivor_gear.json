@@ -1,0 +1,288 @@
+[
+  {
+    "id": "overlay_worn_boots_survivor",
+    "fg": "boots_survivor_mf",
+    "bg": ""
+  },
+  {
+    "id": "overlay_worn_boots_xlsurvivor",
+    "fg": "boots_survivor_mf",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_sleeveless_duster_survivor",
+    "fg": "sleeveless_survivor_duster_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_sleeveless_duster_survivor",
+    "fg": "sleeveless_survivor_duster_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_sleeveless_trenchcoat_survivor",
+    "fg": "sleeveless_survivor_trenchcoat_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_sleeveless_trenchcoat_survivor",
+    "fg": "sleeveless_survivor_trenchcoat_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_survivor_belt_notools",
+    "fg": "survivor_belt_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_survivor_belt_notools",
+    "fg": "survivor_belt_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_duster_survivor",
+    "fg": "survivor_duster_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_duster_survivor",
+    "fg": "survivor_duster_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_xl_duster_survivor",
+    "fg": "survivor_duster_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_xl_duster_survivor",
+    "fg": "survivor_duster_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_gloves_survivor",
+    "fg": "survivor_gloves_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_gloves_survivor",
+    "fg": "survivor_gloves_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_gloves_xlsurvivor",
+    "fg": "survivor_gloves_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_gloves_xlsurvivor",
+    "fg": "survivor_gloves_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_survivor_vest",
+    "fg": "survivor_harness_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_survivor_vest",
+    "fg": "survivor_harness_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_xl_survivor_vest",
+    "fg": "survivor_harness_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_xl_survivor_vest",
+    "fg": "survivor_harness_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_hood_survivor",
+    "fg": "survivor_hood_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_hood_survivor",
+    "fg": "survivor_hood_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_hood_xlsurvivor",
+    "fg": "survivor_hood_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_hood_xlsurvivor",
+    "fg": "survivor_hood_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_survivor_suit",
+    "fg": "survivor_suit_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_survivor_suit",
+    "fg": "survivor_suit_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_xlsurvivor_suit",
+    "fg": "survivor_suit_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_xlsurvivor_suit",
+    "fg": "survivor_suit_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_trenchcoat_survivor",
+    "fg": "survivor_trenchcoat_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_trenchcoat_survivor",
+    "fg": "survivor_trenchcoat_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_worn_boots_hsurvivor",
+    "fg": "heavy_survivor_boots_mf",
+    "bg": ""
+  },
+  {
+    "id": "overlay_worn_xl_boots_hsurvivor",
+    "fg": "heavy_survivor_boots_mf",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_gloves_hsurvivor",
+    "fg": "heavy_survivor_gloves_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_gloves_hsurvivor",
+    "fg": "heavy_survivor_gloves_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_xl_gloves_hsurvivor",
+    "fg": "heavy_survivor_gloves_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_xl_gloves_hsurvivor",
+    "fg": "heavy_survivor_gloves_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_hsurvivor_suit",
+    "fg": "heavy_survivor_suit_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_hsurvivor_suit",
+    "fg": "heavy_survivor_suit_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_xlhsurvivor_suit",
+    "fg": "heavy_survivor_suit_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_xlhsurvivor_suit",
+    "fg": "heavy_survivor_suit_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_worn_boots_fsurvivor",
+    "fg": "survivor_fireboots_mf",
+    "bg": ""
+  },
+  {
+    "id": "overlay_worn_xl_boots_fsurvivor",
+    "fg": "survivor_fireboots_mf",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_gloves_fsurvivor",
+    "fg": "survivor_firegloves_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_gloves_fsurvivor",
+    "fg": "survivor_firegloves_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_xl_gloves_fsurvivor",
+    "fg": "survivor_firegloves_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_xl_gloves_fsurvivor",
+    "fg": "survivor_firegloves_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_hood_fsurvivor",
+    "fg": "survivor_firehood_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_hood_fsurvivor",
+    "fg": "survivor_firehood_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_xl_hood_fsurvivor",
+    "fg": "survivor_firehood_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_xl_hood_fsurvivor",
+    "fg": "survivor_firehood_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_fsurvivor_suit",
+    "fg": "survivor_firesuit_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_fsurvivor_suit",
+    "fg": "survivor_firesuit_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_xl_fsurvivor_suit",
+    "fg": "survivor_firesuit_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_xl_fsurvivor_suit",
+    "fg": "survivor_firesuit_m",
+    "bg": ""
+  }, {
+    "id": ["overlay_female_worn_pants_survivor", "overlay_female_worn_xl_pants_survivor"],
+    "fg": "survivor_cargo_pants_f",
+    "bg": ""
+  }, {
+    "id": ["overlay_male_worn_pants_survivor", "overlay_male_worn_xl_pants_survivor"],
+    "fg": "survivor_cargo_pants_m",
+    "bg": ""
+  }, {
+    "id": ["overlay_female_worn_gloves_survivor_fingerless", "overlay_female_worn_xl_gloves_survivor_fingerless"],
+    "fg": "survivor_fingerless_gloves_f",
+    "bg": ""
+  }, {
+    "id": ["overlay_male_worn_gloves_survivor_fingerless", "overlay_male_worn_xl_gloves_survivor_fingerless"],
+    "fg": "survivor_fingerless_gloves_m",
+    "bg": ""
+  }
+]

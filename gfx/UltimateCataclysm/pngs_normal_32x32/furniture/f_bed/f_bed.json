@@ -1,21 +1,17 @@
 {
   "id": "f_bed",
   "multitile": true,
-  "fg": [
-    "f_bed_unconnected"
-  ],
-  "bg": [],
+  "fg": "f_bed_unconnected",
+  "bg": "",
   "additional_tiles": [
     {
       "id": "center",
-      "bg": [],
-      "fg": [
-        "f_bed_center"
-      ]
+      "bg": "",
+      "fg": "f_bed_center"
     },
     {
       "id": "corner",
-      "bg": [],
+      "bg": "",
       "fg": [
         "f_bed_corner_nw",
         "f_bed_corner_sw",
@@ -25,7 +21,7 @@
     },
     {
       "id": "t_connection",
-      "bg": [],
+      "bg": "",
       "fg": [
         "f_bed_t_connection_n",
         "f_bed_t_connection_w",
@@ -35,7 +31,7 @@
     },
     {
       "id": "edge",
-      "bg": [],
+      "bg": "",
       "fg": [
         "f_bed_edge_ns",
         "f_bed_edge_ew"
@@ -43,7 +39,7 @@
     },
     {
       "id": "end_piece",
-      "bg": [],
+      "bg": "",
       "fg": [
         "f_bed_end_piece_n",
         "f_bed_end_piece_w",
@@ -52,7 +48,7 @@
       ]
     },
     {
-      "bg": [],
+      "bg": "",
       "id": "unconnected",
       "fg": [ "f_bed_unconnected",  "f_bed_unconnected" ]
     }

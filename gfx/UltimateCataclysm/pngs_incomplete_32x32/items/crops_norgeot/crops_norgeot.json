@@ -1,72 +1,40 @@
-[
-{
+[{
   "id": "pomegranate",
-  "fg": ["pomegranate"],
-  "bg": []
-},
-{
+  "fg": "pomegranate"
+},{
   "id": "peach",
-  "fg": ["peach"],
-  "bg": []
-},
-{
+  "fg": "peach"
+},{
   "id": "strawberries",
-  "fg": ["strawberries"],
-  "bg": []
-},
-{
+  "fg": "strawberries"
+},{
   "id": "cabbage",
-  "fg": ["cabbage"],
-  "bg": []
-},
-{
+  "fg": "cabbage"
+},{
   "id": "mango",
-  "fg": ["mango"],
-  "bg": []
-},
-{
+  "fg": "mango"
+},{
   "id": "kiwi",
-  "fg": ["kiwi"],
-  "bg": []
-},
-{
+  "fg": "kiwi"
+},{
   "id": "papaya",
-  "fg": ["papaya"],
-  "bg": []
-},
-{
+  "fg": "papaya"
+},{
   "id": "grapefruit",
-  "fg": ["grapefruit"],
-  "bg": []
-},
-{
-  "id": "garlic",
-  "fg": ["garlic"],
-  "bg": []
-},
-{
+  "fg": "grapefruit"
+},{
   "id": "pineapple",
-  "fg": ["pineapple"],
-  "bg": []
-},
-{
+  "fg": "pineapple"
+},{
   "id": "celery",
-  "fg": ["celery"],
-  "bg": []
-},
-{
+  "fg": "celery"
+},{
   "id": "chili_pepper",
-  "fg": ["chili_pepper"],
-  "bg": []
-},
-{
+  "fg": "chili_pepper"
+},{
   "id": "carrot",
-  "fg": ["carrot"],
-  "bg": []
-},
-{
+  "fg": "carrot"
+},{
   "id": "zucchini",
-  "fg": ["zucchini"],
-  "bg": []
-}
-]
+  "fg": "zucchini"
+}]

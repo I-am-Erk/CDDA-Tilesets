@@ -1,0 +1,11 @@
+{
+  "id": "craft",
+  "animated": true,
+  "fg": [
+    { "weight": 15, "sprite": "craft" },
+    { "weight": 15, "sprite": "craft_1" }
+  ],
+  "bg": [
+    
+  ]
+}

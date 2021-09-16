@@ -1,0 +1,4 @@
+{
+    "id": "t_pavement_zebra",
+    "fg": [{ "weight": 1, "sprite": "t_zebra" },{ "weight": 1, "sprite": "t_zebra2" }]
+}

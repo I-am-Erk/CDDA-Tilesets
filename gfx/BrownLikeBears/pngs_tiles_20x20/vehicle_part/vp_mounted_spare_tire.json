@@ -1,0 +1,14 @@
+{
+  "id": "vp_mounted_spare_tire",
+  "fg": [
+    "vp_mounted_spare_tire"
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "broken", "fg": [ "430_t_missile_exploded_0" ], "bg": [  ] }
+  ],
+  "bg": [
+    
+  ]
+}

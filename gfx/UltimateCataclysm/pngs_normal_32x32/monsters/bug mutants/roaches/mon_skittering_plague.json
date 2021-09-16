@@ -1,5 +1,5 @@
 {
   "id": "mon_skittering_plague",
-  "fg": ["mon_skittering_plague"],
-  "bg": ["shadow_32x32_normal"]
+  "fg": "mon_skittering_plague",
+  "bg": "shadow_32x32_normal"
 }

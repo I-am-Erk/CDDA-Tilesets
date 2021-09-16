@@ -1,0 +1,8 @@
+[{
+	"id": "cave",
+	"fg": "cave",
+	"bg": "field"
+},{
+	"id": "cave_underground",
+	"fg": "cave"
+}]

@@ -1,0 +1,6 @@
+[
+    { "id": ["power_armor_basic", "depowered_armor"], "fg": "power_armor_basic", "bg": [], "rotates": false },
+	{ "id": ["power_armor_basic_season_autumn", "depowered_armor_season_autumn"], "fg": "power_armor_basic_autumn", "bg": [], "rotates": false },
+	{ "id": ["power_armor_basic_season_winter", "depowered_armor_season_winter"], "fg": "power_armor_basic_winter", "bg": [], "rotates": false },
+	{ "id": ["power_armor_basic_season_summer", "depowered_armor_season_summer"], "fg": "power_armor_basic_summer", "bg": [], "rotates": false }
+]

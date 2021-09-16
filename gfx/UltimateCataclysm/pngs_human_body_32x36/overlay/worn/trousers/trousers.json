@@ -1,0 +1,152 @@
+[
+  {
+    "id": "overlay_female_worn_winter_pants_army",
+    "fg": "army_winter_pants_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_winter_pants_army",
+    "fg": "army_winter_pants_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_bunker_pants",
+    "fg": "bunker_pants_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_bunker_pants",
+    "fg": "bunker_pants_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_striped_pants",
+    "fg": "striped_pants_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_striped_pants",
+    "fg": "striped_pants_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_technician_pants_gray",
+    "fg": "work_pants_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_technician_pants_gray",
+    "fg": "work_pants_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_jeans",
+    "fg": "jeans_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_jeans",
+    "fg": "jeans_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_jeans_red",
+    "fg": "jeans_red_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_jeans_red",
+    "fg": "jeans_red_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_motorbike_pants",
+    "fg": "motorbike_pants_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_motorbike_pants",
+    "fg": "motorbike_pants_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_pants_army",
+    "fg": "pants_army_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_pants_army",
+    "fg": "pants_army_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_pants_cargo",
+    "fg": "pants_cargo_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_pants_cargo",
+    "fg": "pants_cargo_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_pants_checkered",
+    "fg": "pants_checkered_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_pants_checkered",
+    "fg": "pants_checkered_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_pants_faux_fur",
+    "fg": "pants_faux_fur_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_pants_faux_fur",
+    "fg": "pants_faux_fur_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_pants_fur",
+    "fg": "pants_fur_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_pants_fur",
+    "fg": "pants_fur_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_pants_leather",
+    "fg": "pants_leather_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_pants_leather",
+    "fg": "pants_leather_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_pants",
+    "fg": "pants_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_pants",
+    "fg": "pants_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_pants_ski",
+    "fg": "pants_ski_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_pants_ski",
+    "fg": "pants_ski_m",
+    "bg": ""
+  }
+]

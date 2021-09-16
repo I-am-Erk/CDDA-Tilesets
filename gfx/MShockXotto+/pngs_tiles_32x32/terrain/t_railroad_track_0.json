@@ -1,0 +1,1 @@
+{"id": "t_railroad_track", "fg": ["4273_t_railroad_track_0", "4274_t_railroad_track_1", "4273_t_railroad_track_0", "4274_t_railroad_track_1"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "center", "fg": ["4282_t_railroad_track_2"], "bg": []}], "bg": []}

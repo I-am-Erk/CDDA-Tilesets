@@ -1,0 +1,6 @@
+{
+  "id": "f_chair",
+  "rotates": true,
+  "fg": ["f_chair_faceS", "f_chair_faceW", "f_chair_faceN", "f_chair_faceE"],
+  "bg": ""
+}

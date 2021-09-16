@@ -1,0 +1,38 @@
+[
+  {
+    "id": "overlay_male_mutation_SCALES",
+    "fg": [ "overlay_male_mutation_SCALES" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_female_mutation_SCALES",
+    "fg": [ "overlay_female_mutation_SCALES" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_SLEEK_SCALES",
+    "fg": [ "overlay_male_mutation_SLEEK_SCALES" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_female_mutation_SLEEK_SCALES",
+    "fg": [ "overlay_female_mutation_SLEEK_SCALES" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_THICK_SCALES",
+    "fg": [ "overlay_male_mutation_THICK_SCALES" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_female_mutation_THICK_SCALES",
+    "fg": [ "overlay_female_mutation_THICK_SCALES" ],
+    "rotates": false,
+    "bg": [  ]
+  }
+]

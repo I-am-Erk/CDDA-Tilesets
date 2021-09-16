@@ -1,0 +1,11 @@
+{
+  "id": "mon_marshmallow_kid",
+  "fg": [
+    { "weight": 1, "sprite": "mon_marshmallow_kid" },
+    { "weight": 1, "sprite": "mon_marshmallow_kid_1" }
+  ],
+  "bg": [
+    ""
+  ],
+  "rotates": false
+}

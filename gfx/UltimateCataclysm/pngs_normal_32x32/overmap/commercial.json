@@ -1,8 +1,8 @@
 [
   {
-    "id": [ "generic_city_building" ],
-    "fg": [ "otr_commercial_general" ],
-    "bg": "t_grass_center"
+    "id": "generic_city_building",
+    "fg": "otr_commercial_general",
+    "bg": "field"
   },
   {
     "id": [
@@ -16,9 +16,11 @@
       "s_restaurant_coffee_1",
       "s_restaurant_coffee_2",
       "s_electronicstore",
-      "gym_fitness,gym_fitness_1",
+      "gym_fitness",
+      "gym_fitness_1",
       "lab_subway_vent_shaft_surface",
-      "s_grocery,s_grocery_1",
+      "s_grocery",
+      "s_grocery_1",
       "s_gun",
       "s_gun_1",
       "s_hardware_2",
@@ -30,7 +32,7 @@
       "s_sports",
       "veterinarian"
     ],
-    "fg": [ "otr_commercial_general" ],
-    "bg": "t_grass_center"
+    "fg": "otr_commercial_general",
+    "bg": "field"
   }
 ]

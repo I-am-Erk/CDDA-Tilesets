@@ -1,0 +1,1 @@
+{"id": ["vp_cargo_space", "vp_cargo_space_external", "vp_basketlg_cart", "vp_basketlg_folding", "vp_basketlg_external"], "fg": ["2328_vp_cargo_space_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["155_vp_cargo_bag_1"], "bg": []}], "bg": []}

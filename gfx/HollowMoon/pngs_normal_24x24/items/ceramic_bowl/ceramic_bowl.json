@@ -1,0 +1,6 @@
+[
+    { "id": ["ceramic_bowl", "glass_bowl", "bowl_pewter"], "fg": "ceramic_bowl", "bg": [], "rotates": false },
+	{ "id": ["ceramic_bowl_season_autumn", "glass_bowl_season_autumn", "bowl_pewter_season_autumn"], "fg": "ceramic_bowl_autumn", "bg": [], "rotates": false },
+	{ "id": ["ceramic_bowl_season_winter", "glass_bowl_season_winter", "bowl_pewter_season_winter"], "fg": "ceramic_bowl_winter", "bg": [], "rotates": false },
+	{ "id": ["ceramic_bowl_season_summer", "glass_bowl_season_summer", "bowl_pewter_season_summer"], "fg": "ceramic_bowl_summer", "bg": [], "rotates": false }
+]

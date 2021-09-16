@@ -1,0 +1,1 @@
+{"id": ["t_railroad_tie_h", "t_railroad_tie_v", "t_railroad_tie"], "fg": ["341_t_railroad_tie_h_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "edge", "fg": ["342_t_railroad_tie_h_1"], "bg": []}], "bg": []}

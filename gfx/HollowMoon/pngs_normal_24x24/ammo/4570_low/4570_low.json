@@ -1,0 +1,6 @@
+[
+    { "id": ["4570_low", "4570_pen", "4570_sp", "reloaded_4570_pen", "reloaded_4570_sp", "reloaded_4570_bp", "reloaded_4570_low"], "fg": "4570_low", "bg": [], "rotates": false },
+	{ "id": ["4570_low_season_autumn", "4570_pen_season_autumn", "4570_sp_season_autumn", "reloaded_4570_pen_season_autumn", "reloaded_4570_sp_season_autumn", "reloaded_4570_bp_season_autumn", "reloaded_4570_low_season_autumn"], "fg": "4570_low_autumn", "bg": [], "rotates": false },
+	{ "id": ["4570_low_season_winter", "4570_pen_season_winter", "4570_sp_season_winter", "reloaded_4570_pen_season_winter", "reloaded_4570_sp_season_winter", "reloaded_4570_bp_season_winter", "reloaded_4570_low_season_winter"], "fg": "4570_low_winter", "bg": [], "rotates": false },
+	{ "id": ["4570_low_season_summer", "4570_pen_season_summer", "4570_sp_season_summer", "reloaded_4570_pen_season_summer", "reloaded_4570_sp_season_summer", "reloaded_4570_bp_season_summer", "reloaded_4570_low_season_summer"], "fg": "4570_low_summer", "bg": [], "rotates": false }
+]

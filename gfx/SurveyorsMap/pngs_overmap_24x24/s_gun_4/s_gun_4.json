@@ -1,0 +1,20 @@
+[
+  {
+    "id": [ "s_gun_4" ],
+    "fg": [ "s_gun_4_N", "s_gun_4_E", "s_gun_4_S", "s_gun_4_W" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_gun_2ndfloor_4" ],
+    "fg": [ "s_gun_2ndfloor_4_N", "s_gun_2ndfloor_4_E", "s_gun_2ndfloor_4_S", "s_gun_2ndfloor_4_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_gun_roof_4" ],
+    "fg": [ "s_gun_roof_4_N", "s_gun_roof_4_E", "s_gun_roof_4_S", "s_gun_roof_4_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

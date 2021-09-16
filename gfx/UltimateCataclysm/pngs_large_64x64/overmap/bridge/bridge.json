@@ -1,0 +1,19 @@
+[{
+  "id": "bridgehead_ground",
+  "fg": [ "bridgehead_faceN", "bridgehead_faceE", "bridgehead_faceS", "bridgehead_faceW" ],
+  "bg": "t_water_moving_sh_center_large",
+  "rotates": true
+},{
+  "id": "bridge",
+  "fg": [ "bridge_faceNS", "bridge_faceEW", "bridge_faceNS", "bridge_faceEW" ],
+  "bg": "t_water_moving_dp_center_large",
+  "rotates": true
+},{
+  "id": "bridgehead_ramp",
+  "fg": [ "bridgehead_ramp_faceN", "bridgehead_ramp_faceE", "bridgehead_ramp_faceS", "bridgehead_ramp_faceW" ],
+  "rotates": true
+},{
+  "id": "bridge_road",
+  "fg": [ "bridge_faceNS", "bridge_faceEW", "bridge_faceNS", "bridge_faceEW" ],
+  "rotates": true
+}]

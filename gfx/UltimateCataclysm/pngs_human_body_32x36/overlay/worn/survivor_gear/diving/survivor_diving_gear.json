@@ -1,0 +1,37 @@
+[
+  {
+    "id": "overlay_worn_boots_h20survivor",
+    "fg": "survivor_swimming_boots_mf",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_gloves_h20survivor",
+    "fg": "survivor_swimming_gloves_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_gloves_h20survivor",
+    "fg": "survivor_swimming_gloves_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_hood_h20survivor",
+    "fg": "survivor_swimming_hood_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_hood_h20survivor",
+    "fg": "survivor_swimming_hood_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_h20survivor_suit",
+    "fg": "survivor_wetsuit_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_h20survivor_suit",
+    "fg": "survivor_wetsuit_m",
+    "bg": ""
+  }
+]

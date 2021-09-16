@@ -1,0 +1,26 @@
+[
+  {
+    "id": "vp_woodhalfboard_horizontal_2",
+    "fg": [ "1354_vp_woodboard_horizontal_0" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "442_vp_seat_wood_1" ], "bg": [  ] } ],
+    "bg": [  ]
+  },
+  {
+    "id": "vp_woodhalfboard_horizontal_2_front",
+    "fg": [ "1354_vp_woodboard_horizontal_0" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "442_vp_seat_wood_1" ], "bg": [  ] } ],
+    "bg": [  ]
+  },
+  {
+    "id": "vp_woodhalfboard_horizontal_2_rear",
+    "fg": [ "1354_vp_woodboard_horizontal_0" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "442_vp_seat_wood_1" ], "bg": [  ] } ],
+    "bg": [  ]
+  }
+]

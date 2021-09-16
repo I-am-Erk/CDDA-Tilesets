@@ -1,7 +1,7 @@
 [
   {
     "id": "cattlefodder",
-    "fg": [ "cattlefodder" ],
-    "bg": [  ]
+    "fg": "cattlefodder",
+    "bg": ""
   }
 ]

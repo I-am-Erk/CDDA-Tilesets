@@ -1,17 +1,17 @@
 [
 {
   "id": "zweihander",
-  "fg": ["zweihander"],
-  "bg": []
+  "fg": "zweihander",
+  "bg": ""
 },
 {
   "id": "zweihander_inferior",
-  "fg": ["zweihander_inferior"],
-  "bg": []
+  "fg": "zweihander_inferior",
+  "bg": ""
 },
 {
   "id": "zweihander_fake",
-  "fg": ["zweihander_fake"],
-  "bg": []
+  "fg": "zweihander_fake",
+  "bg": ""
 }
 ]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "bolt_cf",
+    "fg": [ "bolt_cf" ],
+    "bg": [ ]
+  },
+  {
+    "id": "bolt_explosive",
+    "fg": [ "bolt_explosive" ],
+    "bg": [ ]
+  },
+  {
+    "id": "bolt_metal",
+    "fg": [ "bolt_metal" ],
+    "bg": [ ]
+  },
+  {
+    "id": [ "bolt_steel", "bolt_steel_bodkin", "bolt_steel_target" ],
+    "fg": [ "bolt_steel" ],
+    "bg": [ ]
+  },
+  {
+    "id": [ "bolt_wood", "bolt_crude", "bolt_simple_wood", "bolt_simple_small_game", "bolt_makeshift", "bolt_wood_bodkin", "bolt_wood_small_game" ],
+    "fg": [ "bolt_wood" ],
+    "bg": [ ]
+  }
+]

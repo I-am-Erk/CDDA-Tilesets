@@ -1,0 +1,6 @@
+[
+    { "id": ["loincloth", "loincloth_wool", "loincloth_leather", "loincloth_fur"], "fg": "loincloth", "bg": [], "rotates": false },
+	{ "id": ["loincloth_season_autumn", "loincloth_wool_season_autumn", "loincloth_leather_season_autumn", "loincloth_fur_season_autumn"], "fg": "loincloth_autumn", "bg": [], "rotates": false },
+	{ "id": ["loincloth_season_winter", "loincloth_wool_season_winter", "loincloth_leather_season_winter", "loincloth_fur_season_winter"], "fg": "loincloth_winter", "bg": [], "rotates": false },
+	{ "id": ["loincloth_season_summer", "loincloth_wool_season_summer", "loincloth_leather_season_summer", "loincloth_fur_season_summer"], "fg": "loincloth_summer", "bg": [], "rotates": false }
+]

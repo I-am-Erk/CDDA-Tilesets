@@ -1,0 +1,6 @@
+[
+    { "id": ["paper", "survnote", "deathnote"], "fg": "paper", "bg": [], "rotates": false },
+	{ "id": ["paper_season_autumn", "survnote_season_autumn", "deathnote_season_autumn"], "fg": "paper_autumn", "bg": [], "rotates": false },
+	{ "id": ["paper_season_winter", "survnote_season_winter", "deathnote_season_winter"], "fg": "paper_winter", "bg": [], "rotates": false },
+	{ "id": ["paper_season_summer", "survnote_season_summer", "deathnote_season_summer"], "fg": "paper_summer", "bg": [], "rotates": false }
+]

@@ -1,12 +1,12 @@
 [
 {
   "id": "pipe",
-  "fg": ["pipe"],
-  "bg": []
+  "fg": "pipe",
+  "bg": ""
 },
 {
   "id": "cu_pipe",
-  "fg": ["cu_pipe"],
-  "bg": []
+  "fg": "cu_pipe",
+  "bg": ""
 }
 ]

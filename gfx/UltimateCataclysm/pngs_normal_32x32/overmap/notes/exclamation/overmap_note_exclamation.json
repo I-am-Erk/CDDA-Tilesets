@@ -1,0 +1,49 @@
+[{
+  "id": "note_!_black",
+  "fg": "note_exclamation_black"
+},{
+  "id": "note_!_red",
+  "fg": "note_exclamation_red"
+},{
+  "id": "note_!_green",
+  "fg": "note_exclamation_green"
+},{
+  "id": "note_!_brown",
+  "fg": "note_exclamation_brown"
+},{
+  "id": "note_!_blue",
+  "fg": "note_exclamation_blue"
+},{
+  "id": "note_!_magenta",
+  "fg": "note_exclamation_magenta"
+},{
+  "id": "note_!_cyan",
+  "fg": "note_exclamation_cyan"
+},{
+  "id": "note_!_light_gray",
+  "fg": "note_exclamation_light_gray"
+},{
+  "id": "note_!_dark_gray",
+  "fg": "note_exclamation_dark_gray"
+},{
+  "id": "note_!_light_red",
+  "fg": "note_exclamation_light_red"
+},{
+  "id": "note_!_light_green",
+  "fg": "note_exclamation_light_green"
+},{
+  "id": "note_!_yellow",
+  "fg": "note_exclamation_yellow"
+},{
+  "id": "note_!_light_blue",
+  "fg": "note_exclamation_light_blue"
+},{
+  "id": "note_!_pink",
+  "fg": "note_exclamation_pink"
+},{
+  "id": "note_!_light_cyan",
+  "fg": "note_exclamation_light_cyan"
+},{
+  "id": "note_!_white",
+  "fg": "note_exclamation_white"
+}]

@@ -1,0 +1,6 @@
+[
+    { "id": ["gobag", "personal_gobag"], "fg": "gobag", "bg": [], "rotates": false },
+	{ "id": ["gobag_season_autumn", "personal_gobag_season_autumn"], "fg": "gobag_autumn", "bg": [], "rotates": false },
+	{ "id": ["gobag_season_winter", "personal_gobag_season_winter"], "fg": "gobag_winter", "bg": [], "rotates": false },
+	{ "id": ["gobag_season_summer", "personal_gobag_season_summer"], "fg": "gobag_summer", "bg": [], "rotates": false }
+]

@@ -1,0 +1,14 @@
+{
+  "id": "vp_veh_forge",
+  "fg": [
+    "vp_veh_forge"
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "broken", "fg": [ "vp_veh_forge_broken" ], "bg": [  ] }
+  ],
+  "bg": [
+    
+  ]
+}

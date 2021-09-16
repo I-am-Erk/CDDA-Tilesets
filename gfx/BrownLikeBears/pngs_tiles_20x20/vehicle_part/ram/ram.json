@@ -1,0 +1,44 @@
+[
+  {
+    "id": "vp_ram_wood",
+    "fg": "vp_ram_wood",
+    "bg": "",
+    "rotates": true
+  },
+  {
+    "id": "vp_ram_steel",
+    "fg": "vp_ram_steel",
+    "bg": "",
+    "rotates": true
+  },
+  {
+    "id": "vp_ram_spiked",
+    "fg": "vp_ram_spiked",
+    "bg": "",
+    "rotates": true
+  },
+  {
+    "id": "vp_ram_hardsteel",
+    "fg": "vp_ram_hardsteel",
+    "bg": "",
+    "rotates": true
+  },
+  {
+    "id": "vp_ram_alloy",
+    "fg": "vp_ram_alloy",
+    "bg": "",
+    "rotates": true
+  },
+  {
+    "id": "vp_ram_military",
+    "fg": "vp_ram_military",
+    "bg": "",
+    "rotates": true
+  },
+  {
+    "id": "vp_spike_wood",
+    "fg": "vp_spike_wood",
+    "bg": "",
+    "rotates": true
+  }
+]

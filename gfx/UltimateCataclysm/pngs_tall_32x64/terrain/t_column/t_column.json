@@ -1,5 +1,5 @@
 {
   "id": "t_column",
-  "fg": ["t_column"],
-  "bg": ["t_concrete_tall"]
+  "fg": "t_column",
+  "bg": "t_concrete_tall"
 }

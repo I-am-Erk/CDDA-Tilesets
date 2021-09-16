@@ -1,0 +1,10 @@
+[
+{
+    "id": "slimepit_top",
+    "fg": "slime_pit",
+    "bg": "field"
+},{
+    "id": [ "slimepit_bottom", "slimepit", "slimepit_down" ],
+    "fg": "t_slime"
+}
+]

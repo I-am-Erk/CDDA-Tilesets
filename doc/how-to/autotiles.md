@@ -7,20 +7,26 @@ little puddles, or a large blue expanse with no shoreline.
 
 ![Water autotile](image/t_water_sh_autotile.png)
 
-To simplify drawing these tiles, we use a template with an 8x6 grid of all the tile boundary types
+To simplify drawing these tiles, we use templates with 4x4 and 8x6 grids of all the tile boundary types
 in a predictable order. Transparency allows overlapping the same tiles on different backgrounds, so
 we don't have to redraw the water boundaries for dirt, grass, rock, etc. - we draw the water once,
 and the transparent edges allow it to overlap dirt, grass, rock, and so on.
 
-This template shows the standard arrangement of tile borders:
+The 4x4 template supports only current game code:
+
+![Multitile 4x4 Template](image/multitile_grid_4x4.png)
+
+Black space indicates background, and white is the shape of the furniture or terrain.
+
+And the 8x6 is an attempt at future-proofing the project that was created before 4x4. Currently, only a few of these tiles are supported in CDDA, although some day it would be nice to have all of them available:
 
 ![Autotile Template](image/autotile_template_grid.png)
 
-Black space indicates background, and white is the shape of the furniture or terrain. The sixteen
-tiles in the top-left 4x4 block contain the basic boundary shapes - these are the most important
-ones to draw.
+The sixteen tiles in the top-left 4x4 block contain the basic boundary shapes that are just the 4x4 template in a different order.
 
 Both terrain and furniture tiles may use this template. Terrain like grass or fences:
+
+![Grass 4x4 terrain](image/t_grass_multitile.png)
 
 ![Tall grass terrain](image/t_grass_tall_autotile.png)
 ![Fence terrain](image/t_fence_autotile.png)
@@ -30,8 +36,7 @@ and furniture like bathtubs or benches:
 ![Bathtub furniture](image/f_bathtub_autotile.png)
 ![Table furniture](image/f_bench_autotile.png)
 
-Currently, there are only a few of these tiles supported in CDDA, although some day it would be nice
-to have all of them available. With the current tile support there are two ways you might use an
+With the current tile support there are two ways you might use an
 autotile, demonstrated by the bench and table autotiles. What we're missing is the ability to draw
 different types of *diagonal* connections. Without that, we have to represent things that are likely
 to have diagonal connections or unlikely to have them in different ways.
@@ -95,29 +100,29 @@ in the table.
 ### Slicing autotiles
 
 Before an autotile template can be used by the game, it needs to be sliced up into individual tiles.
-We use the `tools/slice_autotiles.py` script to achieve this.
+We use the `tools/slice_multitile.py` script to achieve this.
 
 To run the script, you will need [python](https://python.org) installed, as well as the libvips
 graphic library. Something like these commands should suffice to install them on Ubuntu:
 
-```
+```sh
 $ sudo apt install python3-pip libvips
 $ pip3 install pyvips
 ```
 
-If all goes well, you should be able to run the `slice_autotiles.py` script and see the usage note:
+If all goes well, you should be able to run the `slice_multitile.py` script and see the usage note:
 
 ```
-$ tools/slice_autotiles.py
-usage: slice_autotiles.py [-h] [--no-json] tile size image out
-slice_autotiles.py: error: the following arguments are required: tile, size, image, out
+$ tools/slice_multitile.py
+usage: slice_multitile.py [-h] [--tile TILE] [--out OUT] [--no-json] image width [height]
+slice_multitile.py: error: the following arguments are required: image, width
 ```
 
 So if you have created a `mud_autotile.png` image, using the autotile template above, you can tell
 the script to slice it into 32x32-pixel tiles with a command like this:
 
-```
-$ tools/slice_autotiles.py mud 32 mud_autotile.png mud_tiles
+```sh
+$ tools/slice_multitile.py mud_autotile.png 32 --out mud_tiles
 ```
 
 This will create a `mud_tiles` folder with separate images for each tile in the template, along with
@@ -141,3 +146,21 @@ a JSON file with connection data, for example:
 - mud_t_connection_w.png
 - mud_unconnected.png
 
+### Tall multitile template
+
+There is now support for tall multitile templates too:
+
+![Tall Multitile 4x4 Template](image/multitile_grid_4x4_tall.png)
+
+```sh
+$ tools/slice_multitile.py multitile_grid_4x4_tall.png 32 64 --tile "f_bookcase"
+```
+
+### Unslicing
+
+There is also a script for reverting the slice action
+when you want to adjust all sprites as one image:
+```sh
+cd mud_tiles
+$ tools/unslice_multitile.py mud
+```

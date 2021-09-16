@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "shipwreck_river_1" ],
+    "fg": [ "shipwreck_river_1_east_placeholder", "shipwreck_river_1_south", "shipwreck_river_1_west_placeholder", "shipwreck_river_1_north" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "shipwreck_river_2" ],
+    "fg": [ "shipwreck_river_2_east_placeholder", "shipwreck_river_2_south", "shipwreck_river_2_west_placeholder", "shipwreck_river_2_north" ],
+    "bg": [  ],
+    "rotates": true
+  }
+]

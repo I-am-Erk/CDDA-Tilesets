@@ -1,0 +1,27 @@
+[
+    {
+        "id": "t_shrub_blueberry",
+        "fg": "t_shrub_blueberry",
+        "bg": "t_grass"
+    },
+    {
+        "id": "t_shrub_blueberry_harvested",
+        "fg": "t_shrub_blueberry_harvested",
+        "bg": "t_grass_summer"
+    },
+    {
+        "id": "t_shrub_blueberry_season_summer",
+        "fg": "t_shrub_blueberry_summer",
+        "bg": "t_grass_summer"
+    },
+    {
+        "id": "t_shrub_blueberry_season_autumn",
+        "fg": "t_shrub_blueberry",
+        "bg": "t_grass_autumn"
+    },
+    {
+        "id": "t_shrub_blueberry_season_winter",
+        "fg": "t_shrub_blueberry_winter",
+        "bg": "snow_deep"
+    }
+]

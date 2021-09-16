@@ -2,21 +2,17 @@
   {
     "id": "t_wall_resin",
     "multitile": true,
-    "fg": [
-      "t_wall_resin_unconnected"
-    ],
-    "bg": [],
+    "fg": "t_wall_resin_unconnected",
+    "bg": "",
     "additional_tiles": [
       {
         "id": "center",
-        "bg": [],
-        "fg": [
-          "t_wall_resin_center"
-        ]
+        "bg": "",
+        "fg": "t_wall_resin_center"
       },
       {
         "id": "corner",
-        "bg": [],
+        "bg": "",
         "fg": [
           "t_wall_resin_corner_nw",
           "t_wall_resin_corner_sw",
@@ -26,7 +22,7 @@
       },
       {
         "id": "t_connection",
-        "bg": [],
+        "bg": "",
         "fg": [
           "t_wall_resin_t_connection_n",
           "t_wall_resin_t_connection_w",
@@ -36,7 +32,7 @@
       },
       {
         "id": "edge",
-        "bg": [],
+        "bg": "",
         "fg": [
           "t_wall_resin_edge_ns",
           "t_wall_resin_edge_ew"
@@ -44,7 +40,7 @@
       },
       {
         "id": "end_piece",
-        "bg": [],
+        "bg": "",
         "fg": [
           "t_wall_resin_end_piece_n",
           "t_wall_resin_end_piece_w",
@@ -53,22 +49,20 @@
         ]
       },
       {
-        "bg": [],
+        "bg": "",
         "id": "unconnected",
-        "fg": [
-          "t_wall_resin_unconnected"
-        ]
+        "fg": "t_wall_resin_unconnected"
       }
     ]
   },
   {
     "id": "t_resin_hole_c",
-    "fg": [ "t_resin_hole_c" ],
-    "bg": [ ]
+    "fg": "t_resin_hole_c",
+    "bg": ""
   },
   {
     "id": "t_resin_hole_o",
-    "fg": [ "t_resin_hole_o" ],
-    "bg": [ ]
+    "fg": "t_resin_hole_o",
+    "bg": ""
   }
 ]

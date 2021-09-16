@@ -1,0 +1,42 @@
+[
+  {
+    "id": "t_dirt",
+    "fg": [ ],
+    "bg": [
+        { "weight": 100, "sprite": "t_dirt" },
+        { "weight": 100, "sprite": "t_dirt2" },
+        { "weight": 100, "sprite": "t_dirt3" },
+        { "weight": 100, "sprite": "t_dirt4" }
+    ]
+  },
+  {
+    "id": "t_dirt_season_autumn",
+    "fg": [ ],
+    "bg": [
+        { "weight": 100, "sprite": "t_dirt_autumn" },
+        { "weight": 100, "sprite": "t_dirt_autumn2" },
+        { "weight": 100, "sprite": "t_dirt_autumn3" },
+        { "weight": 100, "sprite": "t_dirt_autumn4" }
+    ]
+  },
+  {
+    "id": "t_dirt_season_summer",
+    "fg": [ ],
+    "bg": [
+        { "weight": 100, "sprite": "t_dirt_summer" },
+        { "weight": 100, "sprite": "t_dirt_summer2" },
+        { "weight": 100, "sprite": "t_dirt_summer3" },
+        { "weight": 100, "sprite": "t_dirt_summer4" }
+    ]
+  },
+  {
+    "id": "t_dirt_season_winter",
+    "fg": [ ],
+    "bg": [
+        { "weight": 100, "sprite": "t_dirt_winter" },
+        { "weight": 100, "sprite": "t_dirt_winter2" },
+        { "weight": 100, "sprite": "t_dirt_winter3" },
+        { "weight": 100, "sprite": "t_dirt_winter4" }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "id": "vp_mounted_spare_tire",
+  "fg": "vp_mounted_spare_tire",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "crack_metal_center",
+      "bg": "vp_mounted_spare_tire"
+    }
+  ]
+}

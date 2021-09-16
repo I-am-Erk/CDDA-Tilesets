@@ -1,0 +1,59 @@
+{
+  "id": "t_thatch_roof",
+  "fg": "t_thatch_roof_unconnected",
+  "bg": "",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_thatch_roof_center",
+      "bg": ""
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_thatch_roof_corner_nw",
+        "t_thatch_roof_corner_sw",
+        "t_thatch_roof_corner_se",
+        "t_thatch_roof_corner_ne"
+      ],
+      "bg": ""
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_thatch_roof_t_connection_n",
+        "t_thatch_roof_t_connection_w",
+        "t_thatch_roof_t_connection_s",
+        "t_thatch_roof_t_connection_e"
+      ],
+      "bg": ""
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_thatch_roof_edge_ns",
+        "t_thatch_roof_edge_ew"
+      ],
+      "bg": ""
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_thatch_roof_end_piece_n",
+        "t_thatch_roof_end_piece_w",
+        "t_thatch_roof_end_piece_s",
+        "t_thatch_roof_end_piece_e"
+      ],
+      "bg": ""
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_thatch_roof_unconnected",
+        "t_thatch_roof_unconnected"
+      ],
+      "bg": ""
+    }
+  ]
+}

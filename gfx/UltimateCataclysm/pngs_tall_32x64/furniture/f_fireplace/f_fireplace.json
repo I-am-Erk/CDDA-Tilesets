@@ -1,5 +1,5 @@
 {
   "id": "f_fireplace",
-  "fg": ["f_fireplace"],
-  "bg": [ ]
+  "fg": "f_fireplace",
+  "bg": ""
 }

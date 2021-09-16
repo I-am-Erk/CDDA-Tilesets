@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "s_daycare" ],
+    "fg": [ "s_daycare_N", "s_daycare_E", "s_daycare_S", "s_daycare_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_daycare_roof" ],
+    "fg": [ "s_daycare_roof_N", "s_daycare_roof_E", "s_daycare_roof_S", "s_daycare_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

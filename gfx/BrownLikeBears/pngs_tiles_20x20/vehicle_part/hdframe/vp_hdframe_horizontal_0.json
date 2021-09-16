@@ -1,0 +1,26 @@
+[
+  {
+    "id": "vp_hdframe_horizontal",
+    "fg": [ "643_vp_hdframe_horizontal_0" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "645_vp_hdframe_vertical_1" ], "bg": [  ] } ],
+    "bg": [  ]
+  },
+  {
+    "id": "vp_hdframe_horizontal_front",
+    "fg": [ "643_vp_hdframe_horizontal_0" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "645_vp_hdframe_vertical_1" ], "bg": [  ] } ],
+    "bg": [  ]
+  },
+  {
+    "id": "vp_hdframe_horizontal_rear",
+    "fg": [ "643_vp_hdframe_horizontal_0" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "645_vp_hdframe_vertical_1" ], "bg": [  ] } ],
+    "bg": [  ]
+  }
+]

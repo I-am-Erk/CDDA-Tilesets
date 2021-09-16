@@ -1,0 +1,22 @@
+[
+  {
+    "id": "overlay_wielded_shocktonfa_off",
+    "fg": "tactical_tonfa_mf",
+    "bg": ""
+  },
+  {
+    "id": "overlay_wielded_shocktonfa_on",
+    "fg": "tactical_tonfa_mf",
+    "bg": ""
+  },
+  {
+    "id": "overlay_wielded_tonfa",
+    "fg": "tonfa_mf",
+    "bg": ""
+  },
+  {
+    "id": "overlay_wielded_tonfa_wood",
+    "fg": "wooden_tonfa_mf",
+    "bg": ""
+  }
+]

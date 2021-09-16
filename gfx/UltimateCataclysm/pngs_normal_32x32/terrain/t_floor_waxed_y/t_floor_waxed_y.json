@@ -1,21 +1,17 @@
 {
   "id": "t_floor_waxed_y",
   "multitile": true,
-  "fg": [
-    "t_floor_waxed_y_unconnected"
-  ],
-  "bg": [],
+  "fg": "t_floor_waxed_y_unconnected",
+  "bg": "",
   "additional_tiles": [
     {
       "id": "center",
-      "bg": [],
-      "fg": [
-        "t_floor_waxed_y_center"
-      ]
+      "bg": "",
+      "fg": "t_floor_waxed_y_center"
     },
     {
       "id": "corner",
-      "bg": [],
+      "bg": "",
       "fg": [
         "t_floor_waxed_y_corner_nw",
         "t_floor_waxed_y_corner_sw",
@@ -25,7 +21,7 @@
     },
     {
       "id": "t_connection",
-      "bg": [],
+      "bg": "",
       "fg": [
         "t_floor_waxed_y_t_connection_n",
         "t_floor_waxed_y_t_connection_w",
@@ -35,7 +31,7 @@
     },
     {
       "id": "edge",
-      "bg": [],
+      "bg": "",
       "fg": [
         "t_floor_waxed_y_edge_ns",
         "t_floor_waxed_y_edge_ew"
@@ -43,7 +39,7 @@
     },
     {
       "id": "end_piece",
-      "bg": [],
+      "bg": "",
       "fg": [
         "t_floor_waxed_y_end_piece_n",
         "t_floor_waxed_y_end_piece_w",
@@ -52,11 +48,9 @@
       ]
     },
     {
-      "bg": [],
+      "bg": "",
       "id": "unconnected",
-      "fg": [
-        "t_floor_waxed_y_unconnected"
-      ]
+      "fg": "t_floor_waxed_y_unconnected"
     }
   ]
 }

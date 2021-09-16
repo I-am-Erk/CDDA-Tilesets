@@ -1,0 +1,17 @@
+[
+  {
+    "id": "mon_demon_spiderling",
+    "fg": [ "mon_demon_spiderling" ],
+    "bg": [  ]
+  },
+  {
+    "id": "mon_demon_spider",
+    "fg": [ "mon_demon_spider" ],
+    "bg": [  ]
+  },
+  {
+    "id": "mon_demon_spider_queen",
+    "fg": [ "mon_demon_spider_queen" ],
+    "bg": [  ]
+  }
+]

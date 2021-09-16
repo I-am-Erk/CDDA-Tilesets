@@ -1,17 +1,54 @@
-[
-  {
-    "id": "f_dumpster",
-    "multitile": true,
-    "fg": [ "f_dumpster_unconnected" ],
-    "bg": [  ],
-    "additional_tiles": [
-      { "id": "edge", "bg": [  ], "fg": [ "f_dumpster_edge_ns", "f_dumpster_edge_ew" ] },
-      {
-        "id": "end_piece",
-        "bg": [  ],
-        "fg": [ "f_dumpster_end_n", "f_dumpster_end_w", "f_dumpster_end_s", "f_dumpster_end_e" ]
-      },
-      { "bg": [  ], "id": "unconnected", "fg": [ "f_dumpster_unconnected", "f_dumpster_unconnected" ] }
-    ]
-  }
-]
+{
+  "id": "f_dumpster",
+  "fg": "f_dumpster_unconnected",
+  "bg": "",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_dumpster_edge_ew",
+      "bg": ""
+    }, {
+      "id": "corner",
+      "fg": [
+        "f_dumpster_end_w",
+        "f_dumpster_end_w",
+        "f_dumpster_end_e",
+        "f_dumpster_end_e"
+      ],
+      "bg": ""
+    }, {
+      "id": "t_connection",
+      "fg": [
+        "f_dumpster_edge_ew",
+        "f_dumpster_end_w",
+        "f_dumpster_edge_ew",
+        "f_dumpster_end_e"
+      ],
+      "bg": ""
+    }, {
+      "id": "edge",
+      "fg": [
+        "f_dumpster_edge_ns",
+        "f_dumpster_edge_ew"
+      ],
+      "bg": ""
+    }, {
+      "id": "end_piece",
+      "fg": [
+        "f_dumpster_end_n",
+        "f_dumpster_end_w",
+        "f_dumpster_end_s",
+        "f_dumpster_end_e"
+      ],
+      "bg": ""
+    }, {
+      "id": "unconnected",
+      "fg": [
+        "f_dumpster_unconnected",
+        "f_dumpster_unconnected"
+      ],
+      "bg": ""
+    }
+  ]
+}

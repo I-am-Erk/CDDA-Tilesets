@@ -1,0 +1,26 @@
+[
+  {
+    "id": "vp_frame_horizontal",
+    "fg": [ "415_vp_frame_horizontal_0" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "430_t_missile_exploded_0" ], "bg": [  ] } ],
+    "bg": [  ]
+  },
+  {
+    "id": "vp_frame_horizontal_front",
+    "fg": [ "415_vp_frame_horizontal_0" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "430_t_missile_exploded_0" ], "bg": [  ] } ],
+    "bg": [  ]
+  },
+  {
+    "id": "vp_frame_horizontal_rear",
+    "fg": [ "415_vp_frame_horizontal_0" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "430_t_missile_exploded_0" ], "bg": [  ] } ],
+    "bg": [  ]
+  }
+]

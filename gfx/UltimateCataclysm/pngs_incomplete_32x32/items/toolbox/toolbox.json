@@ -1,7 +1,9 @@
 {
-  "id": "toolbox",
-  "fg": [
-    "toolbox"
+  "id": [
+    "toolbox",
+    "toolbox_empty",
+    "toolbox_workshop_empty"
   ],
-  "bg": []
+  "fg": "toolbox",
+  "bg": ""
 }

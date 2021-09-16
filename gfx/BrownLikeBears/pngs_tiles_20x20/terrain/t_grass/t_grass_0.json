@@ -1,0 +1,17 @@
+[
+  {
+    "id": "t_grass_season_spring",
+    "fg": "5_t_grass_0",
+    "bg": ""
+  },
+  {
+    "id": "t_grass_season_summer",
+    "fg": "t_grass_summer",
+    "bg": ""
+  },
+  {
+    "id": "t_grass_season_winter",
+    "fg": "t_grass_winter",
+    "bg": ""
+  }
+]

@@ -7,6 +7,6 @@
       { "weight": 25, "sprite": "fd_web3" },
       { "weight": 25, "sprite": "fd_web4" }
     ],
-    "bg": [ ]
+    "bg": ""
   }
 ]

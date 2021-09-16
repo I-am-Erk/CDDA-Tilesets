@@ -1,5 +1,5 @@
 {
   "id": "f_trashcan",
-  "fg": ["f_trashcan"],
-  "bg": []
+  "fg": "f_trashcan",
+  "bg": ""
 }

@@ -1,15 +1,15 @@
 [
   {
     "id": "fd_smoke",
-    "fg": ["fd_smoke"],
-    "bg": []
+    "fg": "fd_smoke",
+    "bg": ""
   },  {
     "id": "fd_fungal_haze",
-    "fg": ["fd_haze"],
-    "bg": []
+    "fg": "fd_haze",
+    "bg": ""
   },  {
     "id": "fd_nuke_gas",
-    "fg": ["fd_gas"],
-    "bg": []
+    "fg": "fd_gas",
+    "bg": ""
   }
 ]

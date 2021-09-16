@@ -1,0 +1,22 @@
+[
+{
+  "id": ["overlay_female_worn_rifle_case_soft", "overlay_female_worn_rifle_case_soft_2"],
+  "fg": "overlay_female_worn_rifle_case_soft",
+  "bg": ""
+},
+{
+  "id": ["overlay_female_worn_rifle_case_soft_leather", "overlay_female_worn_rifle_case_soft_leather_2", "overlay_female_worn_rifle_case_xl_soft_leather"],
+  "fg": "overlay_female_worn_rifle_case_soft_leather",
+  "bg": ""
+},
+{
+  "id": ["overlay_male_worn_rifle_case_soft", "overlay_male_worn_rifle_case_soft_2"],
+  "fg": "overlay_male_worn_rifle_case_soft",
+  "bg": ""
+},
+{
+  "id": ["overlay_male_worn_rifle_case_soft_leather", "overlay_male_worn_rifle_case_soft_leather_2", "overlay_male_worn_rifle_case_xl_soft_leather"],
+  "fg": "overlay_male_worn_rifle_case_soft_leather",
+  "bg": ""
+}
+]

@@ -1,7 +1,5 @@
 {
   "id": "file",
-  "fg": [
-    "file"
-  ],
-  "bg": []
+  "fg": "file",
+  "bg": ""
 }

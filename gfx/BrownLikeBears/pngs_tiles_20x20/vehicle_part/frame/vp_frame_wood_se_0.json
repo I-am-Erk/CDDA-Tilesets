@@ -1,0 +1,14 @@
+{
+  "id": "vp_frame_wood_se",
+  "fg": [
+    "vp_frame_wood_se"
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "broken", "fg": [ "442_vp_seat_wood_1" ], "bg": [  ] }
+  ],
+  "bg": [
+    
+  ]
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "overlay_female_wielded_spear_survivor",
+    "fg": "survivor_naginata_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_wielded_spear_survivor",
+    "fg": "survivor_naginata_m",
+    "bg": ""
+  }
+]

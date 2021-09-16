@@ -1,0 +1,6 @@
+[
+    { "id": ["sheet_cotton_patchwork", "sheet_nylon_patchwork", "sheet_nomex_patchwork", "sheet_neoprene_patchwork", "sheet_lycra_patchwork", "sheet_felt_patchwork"], "fg": "sheet_cotton_patchwork", "bg": [], "rotates": false },
+	{ "id": ["sheet_cotton_patchwork_season_autumn", "sheet_nylon_patchwork_season_autumn", "sheet_nomex_patchwork_season_autumn", "sheet_neoprene_patchwork_season_autumn", "sheet_lycra_patchwork_season_autumn", "sheet_felt_patchwork_season_autumn"], "fg": "sheet_cotton_patchwork_autumn", "bg": [], "rotates": false },
+	{ "id": ["sheet_cotton_patchwork_season_winter", "sheet_nylon_patchwork_season_winter", "sheet_nomex_patchwork_season_winter", "sheet_neoprene_patchwork_season_winter", "sheet_lycra_patchwork_season_winter", "sheet_felt_patchwork_season_winter"], "fg": "sheet_cotton_patchwork_winter", "bg": [], "rotates": false },
+	{ "id": ["sheet_cotton_patchwork_season_summer", "sheet_nylon_patchwork_season_summer", "sheet_nomex_patchwork_season_summer", "sheet_neoprene_patchwork_season_summer", "sheet_lycra_patchwork_season_summer", "sheet_felt_patchwork_season_summer"], "fg": "sheet_cotton_patchwork_summer", "bg": [], "rotates": false }
+]

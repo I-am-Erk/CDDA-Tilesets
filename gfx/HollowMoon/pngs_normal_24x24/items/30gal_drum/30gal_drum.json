@@ -1,0 +1,6 @@
+[
+    { "id": ["30gal_drum", "30gal_barrel"], "fg": "30gal_drum", "bg": [], "rotates": false },
+	{ "id": ["30gal_drum_season_autumn", "30gal_barrel_season_autumn"], "fg": "30gal_drum_autumn", "bg": [], "rotates": false },
+	{ "id": ["30gal_drum_season_winter", "30gal_barrel_season_winter"], "fg": "30gal_drum_winter", "bg": [], "rotates": false },
+	{ "id": ["30gal_drum_season_summer", "30gal_barrel_season_summer"], "fg": "30gal_drum_summer", "bg": [], "rotates": false }
+]

@@ -1,47 +1,47 @@
 [
 {
   "id": "mon_grenade_hack",
-  "fg": ["mon_grenade_hack"],
-  "bg": ["shadow_32x32_small"]
+  "fg": "mon_grenade_hack",
+  "bg": "shadow_32x32_small"
 },
 {
   "id": "mon_mininuke_hack",
-  "fg": ["mon_mininuke_hack"],
-  "bg": ["shadow_32x32_small"]
+  "fg": "mon_mininuke_hack",
+  "bg": "shadow_32x32_small"
 },
 {
   "id": "bot_grenade_hack",
-  "fg": ["bot_grenade_hack"],
-  "bg": []
+  "fg": "bot_grenade_hack",
+  "bg": ""
 },
 {
   "id": "bot_mininuke_hack",
-  "fg": ["bot_mininuke_hack"],
-  "bg": []
+  "fg": "bot_mininuke_hack",
+  "bg": ""
 },
 {
   "id": "mon_manhack",
-  "fg": ["mon_manhack"],
-  "bg": ["shadow_32x32_small"]
+  "fg": "mon_manhack",
+  "bg": "shadow_32x32_small"
 },
 {
   "id": "mon_gasbomb_hack",
-  "fg": ["mon_gasbomb_hack"],
-  "bg": ["shadow_32x32_small"]
+  "fg": "mon_gasbomb_hack",
+  "bg": "shadow_32x32_small"
 },
 {
   "id": "mon_flashbang_hack",
-  "fg": ["mon_flashbang_hack"],
-  "bg": ["shadow_32x32_small"]
+  "fg": "mon_flashbang_hack",
+  "bg": "shadow_32x32_small"
 },
 {
   "id": "mon_c4_hack",
-  "fg": ["mon_c4_hack"],
-  "bg": ["shadow_32x32_small"]
+  "fg": "mon_c4_hack",
+  "bg": "shadow_32x32_small"
 },
 {
   "id": "mon_EMP_hack",
-  "fg": ["mon_EMP_hack"],
-  "bg": ["shadow_32x32_small"]
+  "fg": "mon_EMP_hack",
+  "bg": "shadow_32x32_small"
 }
 ]

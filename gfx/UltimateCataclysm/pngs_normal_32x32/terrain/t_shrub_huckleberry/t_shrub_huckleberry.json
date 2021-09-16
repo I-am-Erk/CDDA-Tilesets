@@ -1,0 +1,27 @@
+[
+    {
+        "id": "t_shrub_huckleberry",
+        "fg": "t_shrub_huckleberry",
+        "bg": "t_grass"
+    },
+    {
+        "id": "t_shrub_huckleberry_harvested",
+        "fg": "t_shrub_huckleberry_harvested",
+        "bg": "t_grass_summer"
+    },
+    {
+        "id": "t_shrub_huckleberry_season_summer",
+        "fg": "t_shrub_huckleberry_summer",
+        "bg": "t_grass_summer"
+    },
+    {
+        "id": "t_shrub_huckleberry_season_autumn",
+        "fg": "t_shrub_huckleberry",
+        "bg": "t_grass_autumn"
+    },
+    {
+        "id": "t_shrub_huckleberry_season_winter",
+        "fg": "t_shrub_huckleberry_winter",
+        "bg": "snow_deep"
+    }
+]

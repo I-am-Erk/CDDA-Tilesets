@@ -1,5 +1,5 @@
 {
   "id": "f_seat_airplane",
-  "fg": ["f_seat_airplane"],
-  "bg": []
+  "fg": "f_seat_airplane",
+  "bg": ""
 }

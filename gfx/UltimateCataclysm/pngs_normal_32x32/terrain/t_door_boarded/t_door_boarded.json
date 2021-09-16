@@ -1,11 +1,11 @@
 [
 {
   "id": "t_door_boarded",
-  "fg": ["t_door_boarded"],
-  "bg": []
+  "fg": "t_door_boarded",
+  "bg": ""
 },{
   "id": "t_door_boarded_damaged",
-  "fg": ["t_door_boarded_damaged"],
-  "bg": []
+  "fg": "t_door_boarded_damaged",
+  "bg": ""
 }
 ]

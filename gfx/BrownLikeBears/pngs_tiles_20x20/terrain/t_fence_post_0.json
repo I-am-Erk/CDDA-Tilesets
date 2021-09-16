@@ -1,1 +1,26 @@
-{"id": "t_fence_post", "fg": ["418_t_fence_post_0"], "rotates": false, "bg": []}
+[
+  {
+    "id": "t_fence_post_season_spring",
+    "fg": [ "418_t_fence_post_0" ],
+    "rotates": false,
+    "bg": [ "1_t_dirt_0" ]
+  },
+  {
+    "id": "t_fence_post_season_summer",
+    "fg": [ "418_t_fence_post_0" ],
+    "rotates": false,
+    "bg": [ "t_dirt_summer" ]
+  },
+  {
+    "id": "t_fence_post_season_autumn",
+    "fg": [ "418_t_fence_post_0" ],
+    "rotates": false,
+    "bg": [ "t_dirt_autumn" ]
+  },
+  {
+    "id": "t_fence_post_season_winter",
+    "fg": [ "418_t_fence_post_0" ],
+    "rotates": false,
+    "bg": [ "t_dirt_winter" ]
+  }
+]

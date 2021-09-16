@@ -2,6 +2,6 @@
   {
     "id": "mon_giant_crayfish",
     "fg": "mon_giant_crayfish",
-    "bg": [ "shadow_64x64_normal" ]
+    "bg": "shadow_64x64_normal"
   }
 ]

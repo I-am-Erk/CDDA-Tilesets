@@ -1,0 +1,38 @@
+[
+  {"id": "mon_zombie",
+  "fg": [
+        { "weight": 5, "sprite": "mon_zombie"},
+        { "weight": 3, "sprite": "mon_zombie_1"},
+		{ "weight": 2, "sprite": "mon_zombie_2"},
+		{ "weight": 1, "sprite": "mon_zombie_3"}
+  ],
+  "bg": []
+  },
+  {"id": "mon_zombie_season_autumn",
+  "fg": [
+        { "weight": 5, "sprite": "mon_zombie_autumn"},
+        { "weight": 3, "sprite": "mon_zombie_autumn_1"},
+        { "weight": 2, "sprite": "mon_zombie_autumn_2"},
+        { "weight": 1, "sprite": "mon_zombie_autumn_3"}
+  ],
+  "bg": []
+  },
+  {"id": "mon_zombie_season_winter",
+  "fg": [
+        { "weight": 5, "sprite": "mon_zombie_winter"},
+        { "weight": 3, "sprite": "mon_zombie_winter_1"},
+        { "weight": 2, "sprite": "mon_zombie_winter_2"},
+        { "weight": 1, "sprite": "mon_zombie_winter_3"}
+  ],
+  "bg": []
+  },
+  {"id": "mon_zombie_season_summer",
+  "fg": [
+        { "weight": 5, "sprite": "mon_zombie_summer"},
+        { "weight": 3, "sprite": "mon_zombie_summer_1"},
+        { "weight": 2, "sprite": "mon_zombie_summer_2"},
+        { "weight": 1, "sprite": "mon_zombie_summer_3"}
+  ],
+  "bg": []
+  }
+]

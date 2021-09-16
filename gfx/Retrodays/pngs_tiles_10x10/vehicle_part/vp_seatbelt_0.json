@@ -1,0 +1,1 @@
+{"id": "vp_seatbelt", "fg": ["2134_vp_muffler_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["2135_vp_seatbelt_1"], "bg": []}], "bg": []}

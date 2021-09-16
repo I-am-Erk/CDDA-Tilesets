@@ -1,0 +1,6 @@
+[
+    { "id": ["steam_triple_small", "steam_watts_small"], "fg": "steam_triple_small", "bg": [], "rotates": false },
+	{ "id": ["steam_triple_small_season_autumn", "steam_watts_small_season_autumn"], "fg": "steam_triple_small_autumn", "bg": [], "rotates": false },
+	{ "id": ["steam_triple_small_season_winter", "steam_watts_small_season_winter"], "fg": "steam_triple_small_winter", "bg": [], "rotates": false },
+	{ "id": ["steam_triple_small_season_summer", "steam_watts_small_season_summer"], "fg": "steam_triple_small_summer", "bg": [], "rotates": false }
+]

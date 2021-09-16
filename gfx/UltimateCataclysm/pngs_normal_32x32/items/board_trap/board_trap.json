@@ -1,5 +1,5 @@
 {
   "id": "board_trap",
-  "fg": ["board_trap"],
-  "bg": []
+  "fg": "board_trap",
+  "bg": ""
 }

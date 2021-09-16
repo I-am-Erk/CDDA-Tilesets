@@ -1,0 +1,27 @@
+[
+  {
+    "id": "overlay_female_worn_socks",
+    "fg": "socks_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_socks",
+    "fg": "socks_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_stockings",
+    "fg": "stockings_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_stockings",
+    "fg": "stockings_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_worn_socks_wool",
+    "fg": "wool_socks_mf",
+    "bg": ""
+  }
+]

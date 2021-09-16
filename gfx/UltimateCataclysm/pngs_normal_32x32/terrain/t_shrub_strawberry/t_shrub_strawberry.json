@@ -1,0 +1,27 @@
+[
+    {
+        "id": "t_shrub_strawberry",
+        "fg": "t_shrub_strawberry",
+        "bg": "t_grass"
+    },
+    {
+        "id": "t_shrub_strawberry_harvested",
+        "fg": "t_shrub_strawberry_harvested",
+        "bg": "t_grass_summer"
+    },
+    {
+        "id": "t_shrub_strawberry_season_summer",
+        "fg": "t_shrub_strawberry_summer",
+        "bg": "t_grass_summer"
+    },
+    {
+        "id": "t_shrub_strawberry_season_autumn",
+        "fg": "t_shrub_strawberry",
+        "bg": "t_grass_autumn"
+    },
+    {
+        "id": "t_shrub_strawberry_season_winter",
+        "fg": "t_shrub_strawberry_winter",
+        "bg": "snow_deep"
+    }
+]

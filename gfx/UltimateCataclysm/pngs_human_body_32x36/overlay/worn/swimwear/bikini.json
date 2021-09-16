@@ -1,0 +1,42 @@
+[
+  {
+    "id": "overlay_female_worn_bikini_bottom",
+    "fg": "bikini_bottom_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_bikini_bottom",
+    "fg": "bikini_bottom_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_bikini_top",
+    "fg": "bikini_top_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_bikini_top",
+    "fg": "bikini_top_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_bikini_top_fur",
+    "fg": "fur_bikini_top_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_bikini_top_fur",
+    "fg": "fur_bikini_top_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_bikini_top_leather",
+    "fg": "leather_bikini_top_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_bikini_top_leather",
+    "fg": "leather_bikini_top_m",
+    "bg": ""
+  }
+]

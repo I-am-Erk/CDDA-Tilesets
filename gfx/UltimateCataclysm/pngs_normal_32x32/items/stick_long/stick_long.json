@@ -1,7 +1,5 @@
 {
   "id": "stick_long",
-  "fg": [
-    "stick_long"
-  ],
-  "bg": []
+  "fg": "stick_long",
+  "bg": ""
 }

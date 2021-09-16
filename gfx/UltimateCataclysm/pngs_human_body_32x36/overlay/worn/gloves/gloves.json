@@ -1,0 +1,162 @@
+[
+  {
+    "id": "overlay_female_worn_glove_jackson",
+    "fg": "glove_jackson_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_glove_jackson",
+    "fg": "glove_jackson_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_gloves_liner",
+    "fg": "gloves_liner_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_gloves_liner",
+    "fg": "gloves_liner_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_gloves_medical",
+    "fg": "gloves_medical_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_gloves_medical",
+    "fg": "gloves_medical_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_gloves_rubber",
+    "fg": "gloves_rubber_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_gloves_rubber",
+    "fg": "gloves_rubber_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_gloves_tactical",
+    "fg": "gloves_tactical_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_gloves_tactical",
+    "fg": "gloves_tactical_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_gloves_winter",
+    "fg": "gloves_winter_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_gloves_winter",
+    "fg": "gloves_winter_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_gloves_wool",
+    "fg": "gloves_wool_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_gloves_wool",
+    "fg": "gloves_wool_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_gloves_work",
+    "fg": "gloves_work_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_gloves_work",
+    "fg": "gloves_work_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_gloves_cut_resistant",
+    "fg": "gloves_cut_resistant_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_gloves_cut_resistant",
+    "fg": "gloves_cut_resistant_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_gloves_fingerless",
+    "fg": "gloves_fingerless_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_gloves_fingerless",
+    "fg": "gloves_fingerless_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_gloves_fur",
+    "fg": "gloves_fur_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_gloves_fur",
+    "fg": "gloves_fur_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_gloves_golf",
+    "fg": "gloves_golf_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_gloves_golf",
+    "fg": "gloves_golf_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_gloves_leather",
+    "fg": "gloves_leather_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_gloves_leather",
+    "fg": "gloves_leather_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_gloves_light",
+    "fg": "gloves_light_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_gloves_light",
+    "fg": "gloves_light_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_long_glove_white",
+    "fg": "long_glove_white_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_long_glove_white",
+    "fg": "long_glove_white_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_mittens",
+    "fg": "mittens_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_mittens",
+    "fg": "mittens_m",
+    "bg": ""
+  }
+]

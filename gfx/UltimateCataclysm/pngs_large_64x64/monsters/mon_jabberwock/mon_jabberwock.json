@@ -1,7 +1,7 @@
 [
   {
     "id": "mon_jabberwock",
-    "fg": [ "mon_jabberwock" ],
-    "bg": ["shadow_64x64_large"]
+    "fg": "mon_jabberwock",
+    "bg": "shadow_64x64_large"
   }
 ]

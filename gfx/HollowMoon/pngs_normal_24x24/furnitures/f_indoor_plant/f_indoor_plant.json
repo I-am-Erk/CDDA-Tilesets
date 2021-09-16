@@ -1,0 +1,26 @@
+[
+  {
+    "id": [ "f_indoor_plant_season_spring", "f_indoor_plant_y_season_spring" ],
+    "fg": [ "f_indoor_plant_season_spring" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": [ "f_indoor_plant_season_winter", "f_indoor_plant_y_season_winter" ],
+    "fg": [ "f_indoor_plant_season_winter" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": [ "f_indoor_plant_season_autumn", "f_indoor_plant_y_season_autumn" ],
+    "fg": [ "f_indoor_plant_season_autumn" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": [ "f_indoor_plant_season_summer", "f_indoor_plant_y_season_summer" ],
+    "fg": [ "f_indoor_plant_season_summer" ],
+    "bg": [  ],
+    "rotates": false
+  }
+]

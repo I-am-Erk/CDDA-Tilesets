@@ -1,5 +1,5 @@
 {
   "id": "spray_can",
-  "fg": ["spray_can"],
-  "bg": []
+  "fg": "spray_can",
+  "bg": ""
 }

@@ -1,0 +1,274 @@
+[
+  {
+    "id": "t_fence_rope",
+    "fg": "t_fence_rope_unconnected",
+    "bg": "",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "center",
+        "fg": "t_fence_rope_unconnected",
+        "bg": [
+          { "weight": 100, "sprite": "t_dirt" },
+          { "weight": 100, "sprite": "t_dirt2" },
+          { "weight": 100, "sprite": "t_dirt3" },
+          { "weight": 100, "sprite": "t_dirt4" }
+        ]
+      },
+      {
+        "id": "corner",
+        "fg": [ "t_fence_rope_corner_nw", "t_fence_rope_corner_sw", "t_fence_rope_corner_se", "t_fence_rope_corner_ne" ],
+        "bg": [
+          { "weight": 100, "sprite": "t_dirt" },
+          { "weight": 100, "sprite": "t_dirt2" },
+          { "weight": 100, "sprite": "t_dirt3" },
+          { "weight": 100, "sprite": "t_dirt4" }
+        ]
+      },
+      {
+        "id": "t_connection",
+        "fg": [ "t_fence_rope_edge_ew", "t_fence_rope_edge_ns", "t_fence_rope_edge_ew", "t_fence_rope_edge_ns" ],
+        "bg": [
+          { "weight": 100, "sprite": "t_dirt" },
+          { "weight": 100, "sprite": "t_dirt2" },
+          { "weight": 100, "sprite": "t_dirt3" },
+          { "weight": 100, "sprite": "t_dirt4" }
+        ]
+      },
+      {
+        "id": "edge",
+        "fg": [ "t_fence_rope_edge_ns", "t_fence_rope_edge_ew" ],
+        "bg": [
+          { "weight": 100, "sprite": "t_dirt" },
+          { "weight": 100, "sprite": "t_dirt2" },
+          { "weight": 100, "sprite": "t_dirt3" },
+          { "weight": 100, "sprite": "t_dirt4" }
+        ]
+      },
+      {
+        "id": "end_piece",
+        "fg": [ "t_fence_rope_end_piece_n", "t_fence_rope_end_piece_w", "t_fence_rope_end_piece_s", "t_fence_rope_end_piece_e" ],
+        "bg": [
+          { "weight": 100, "sprite": "t_dirt" },
+          { "weight": 100, "sprite": "t_dirt2" },
+          { "weight": 100, "sprite": "t_dirt3" },
+          { "weight": 100, "sprite": "t_dirt4" }
+        ]
+      },
+      {
+        "id": "unconnected",
+        "fg": [ "t_fence_rope_unconnected", "t_fence_rope_unconnected" ],
+        "bg": [
+          { "weight": 100, "sprite": "t_dirt" },
+          { "weight": 100, "sprite": "t_dirt2" },
+          { "weight": 100, "sprite": "t_dirt3" },
+          { "weight": 100, "sprite": "t_dirt4" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t_fence_rope_season_summer",
+    "fg": "t_fence_rope_unconnected",
+    "bg": "",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "center",
+        "fg": "t_fence_rope_unconnected",
+        "bg": [
+          { "weight": 100, "sprite": "t_dirt_summer" },
+          { "weight": 100, "sprite": "t_dirt_summer2" },
+          { "weight": 100, "sprite": "t_dirt_summer3" },
+          { "weight": 100, "sprite": "t_dirt_summer4" }
+        ]
+      },
+      {
+        "id": "corner",
+        "fg": [ "t_fence_rope_corner_nw", "t_fence_rope_corner_sw", "t_fence_rope_corner_se", "t_fence_rope_corner_ne" ],
+        "bg": [
+          { "weight": 100, "sprite": "t_dirt_summer" },
+          { "weight": 100, "sprite": "t_dirt_summer2" },
+          { "weight": 100, "sprite": "t_dirt_summer3" },
+          { "weight": 100, "sprite": "t_dirt_summer4" }
+        ]
+      },
+      {
+        "id": "t_connection",
+        "fg": [ "t_fence_rope_edge_ew", "t_fence_rope_edge_ns", "t_fence_rope_edge_ew", "t_fence_rope_edge_ns" ],
+        "bg": [
+          { "weight": 100, "sprite": "t_dirt_summer" },
+          { "weight": 100, "sprite": "t_dirt_summer2" },
+          { "weight": 100, "sprite": "t_dirt_summer3" },
+          { "weight": 100, "sprite": "t_dirt_summer4" }
+        ]
+      },
+      {
+        "id": "edge",
+        "fg": [ "t_fence_rope_edge_ns", "t_fence_rope_edge_ew" ],
+        "bg": [
+          { "weight": 100, "sprite": "t_dirt_summer" },
+          { "weight": 100, "sprite": "t_dirt_summer2" },
+          { "weight": 100, "sprite": "t_dirt_summer3" },
+          { "weight": 100, "sprite": "t_dirt_summer4" }
+        ]
+      },
+      {
+        "id": "end_piece",
+        "fg": [ "t_fence_rope_end_piece_n", "t_fence_rope_end_piece_w", "t_fence_rope_end_piece_s", "t_fence_rope_end_piece_e" ],
+        "bg": [
+          { "weight": 100, "sprite": "t_dirt_summer" },
+          { "weight": 100, "sprite": "t_dirt_summer2" },
+          { "weight": 100, "sprite": "t_dirt_summer3" },
+          { "weight": 100, "sprite": "t_dirt_summer4" }
+        ]
+      },
+      {
+        "id": "unconnected",
+        "fg": [ "t_fence_rope_unconnected", "t_fence_rope_unconnected" ],
+        "bg": [
+          { "weight": 100, "sprite": "t_dirt_summer" },
+          { "weight": 100, "sprite": "t_dirt_summer2" },
+          { "weight": 100, "sprite": "t_dirt_summer3" },
+          { "weight": 100, "sprite": "t_dirt_summer4" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t_fence_rope_season_autumn",
+    "fg": "t_fence_rope_unconnected",
+    "bg": "",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "center",
+        "fg": "t_fence_rope_unconnected",
+        "bg": [
+          { "weight": 100, "sprite": "t_dirt_autumn" },
+          { "weight": 100, "sprite": "t_dirt_autumn2" },
+          { "weight": 100, "sprite": "t_dirt_autumn3" },
+          { "weight": 100, "sprite": "t_dirt_autumn4" }
+        ]
+      },
+      {
+        "id": "corner",
+        "fg": [ "t_fence_rope_corner_nw", "t_fence_rope_corner_sw", "t_fence_rope_corner_se", "t_fence_rope_corner_ne" ],
+        "bg": [
+          { "weight": 100, "sprite": "t_dirt_autumn" },
+          { "weight": 100, "sprite": "t_dirt_autumn2" },
+          { "weight": 100, "sprite": "t_dirt_autumn3" },
+          { "weight": 100, "sprite": "t_dirt_autumn4" }
+        ]
+      },
+      {
+        "id": "t_connection",
+        "fg": [ "t_fence_rope_edge_ew", "t_fence_rope_edge_ns", "t_fence_rope_edge_ew", "t_fence_rope_edge_ns" ],
+        "bg": [
+          { "weight": 100, "sprite": "t_dirt_autumn" },
+          { "weight": 100, "sprite": "t_dirt_autumn2" },
+          { "weight": 100, "sprite": "t_dirt_autumn3" },
+          { "weight": 100, "sprite": "t_dirt_autumn4" }
+        ]
+      },
+      {
+        "id": "edge",
+        "fg": [ "t_fence_rope_edge_ns", "t_fence_rope_edge_ew" ],
+        "bg": [
+          { "weight": 100, "sprite": "t_dirt_autumn" },
+          { "weight": 100, "sprite": "t_dirt_autumn2" },
+          { "weight": 100, "sprite": "t_dirt_autumn3" },
+          { "weight": 100, "sprite": "t_dirt_autumn4" }
+        ]
+      },
+      {
+        "id": "end_piece",
+        "fg": [ "t_fence_rope_end_piece_n", "t_fence_rope_end_piece_w", "t_fence_rope_end_piece_s", "t_fence_rope_end_piece_e" ],
+        "bg": [
+          { "weight": 100, "sprite": "t_dirt_autumn" },
+          { "weight": 100, "sprite": "t_dirt_autumn2" },
+          { "weight": 100, "sprite": "t_dirt_autumn3" },
+          { "weight": 100, "sprite": "t_dirt_autumn4" }
+        ]
+      },
+      {
+        "id": "unconnected",
+        "fg": [ "t_fence_rope_unconnected", "t_fence_rope_unconnected" ],
+        "bg": [
+          { "weight": 100, "sprite": "t_dirt_autumn" },
+          { "weight": 100, "sprite": "t_dirt_autumn2" },
+          { "weight": 100, "sprite": "t_dirt_autumn3" },
+          { "weight": 100, "sprite": "t_dirt_autumn4" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t_fence_rope_season_winter",
+    "fg": "t_fence_rope_unconnected",
+    "bg": "",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "center",
+        "fg": "t_fence_rope_unconnected",
+        "bg": [
+          { "weight": 100, "sprite": "t_dirt_winter" },
+          { "weight": 100, "sprite": "t_dirt_winter2" },
+          { "weight": 100, "sprite": "t_dirt_winter3" },
+          { "weight": 100, "sprite": "t_dirt_winter4" }
+        ]
+      },
+      {
+        "id": "corner",
+        "fg": [ "t_fence_rope_corner_nw", "t_fence_rope_corner_sw", "t_fence_rope_corner_se", "t_fence_rope_corner_ne" ],
+        "bg": [
+          { "weight": 100, "sprite": "t_dirt_winter" },
+          { "weight": 100, "sprite": "t_dirt_winter2" },
+          { "weight": 100, "sprite": "t_dirt_winter3" },
+          { "weight": 100, "sprite": "t_dirt_winter4" }
+        ]
+      },
+      {
+        "id": "t_connection",
+        "fg": [ "t_fence_rope_edge_ew", "t_fence_rope_edge_ns", "t_fence_rope_edge_ew", "t_fence_rope_edge_ns" ],
+        "bg": [
+          { "weight": 100, "sprite": "t_dirt_winter" },
+          { "weight": 100, "sprite": "t_dirt_winter2" },
+          { "weight": 100, "sprite": "t_dirt_winter3" },
+          { "weight": 100, "sprite": "t_dirt_winter4" }
+        ]
+      },
+      {
+        "id": "edge",
+        "fg": [ "t_fence_rope_edge_ns", "t_fence_rope_edge_ew" ],
+        "bg": [
+          { "weight": 100, "sprite": "t_dirt_winter" },
+          { "weight": 100, "sprite": "t_dirt_winter2" },
+          { "weight": 100, "sprite": "t_dirt_winter3" },
+          { "weight": 100, "sprite": "t_dirt_winter4" }
+        ]
+      },
+      {
+        "id": "end_piece",
+        "fg": [ "t_fence_rope_end_piece_n", "t_fence_rope_end_piece_w", "t_fence_rope_end_piece_s", "t_fence_rope_end_piece_e" ],
+        "bg": [
+          { "weight": 100, "sprite": "t_dirt_winter" },
+          { "weight": 100, "sprite": "t_dirt_winter2" },
+          { "weight": 100, "sprite": "t_dirt_winter3" },
+          { "weight": 100, "sprite": "t_dirt_winter4" }
+        ]
+      },
+      {
+        "id": "unconnected",
+        "fg": [ "t_fence_rope_unconnected", "t_fence_rope_unconnected" ],
+        "bg": [
+          { "weight": 100, "sprite": "t_dirt_winter" },
+          { "weight": 100, "sprite": "t_dirt_winter2" },
+          { "weight": 100, "sprite": "t_dirt_winter3" },
+          { "weight": 100, "sprite": "t_dirt_winter4" }
+        ]
+      }
+    ]
+  }
+]

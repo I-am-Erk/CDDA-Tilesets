@@ -1,0 +1,6 @@
+[
+    { "id": ["armor_chitin", "armor_acidchitin"], "fg": "armor_chitin", "bg": [], "rotates": false },
+	{ "id": ["armor_chitin_season_autumn", "armor_acidchitin_season_autumn"], "fg": "armor_chitin_autumn", "bg": [], "rotates": false },
+	{ "id": ["armor_chitin_season_winter", "armor_acidchitin_season_winter"], "fg": "armor_chitin_winter", "bg": [], "rotates": false },
+	{ "id": ["armor_chitin_season_summer", "armor_acidchitin_season_summer"], "fg": "armor_chitin_summer", "bg": [], "rotates": false }
+]

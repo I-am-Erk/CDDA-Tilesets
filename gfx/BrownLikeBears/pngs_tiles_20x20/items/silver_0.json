@@ -1,1 +1,14 @@
-{"id": "silver", "fg": ["977_silver_0"], "bg": [], "rotates": false, "multitile": false}
+{
+  "id": [
+    "silver_small",
+    "material_aluminium_ingot"
+  ],
+  "fg": [
+    "977_silver_0"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": false,
+  "multitile": false
+}

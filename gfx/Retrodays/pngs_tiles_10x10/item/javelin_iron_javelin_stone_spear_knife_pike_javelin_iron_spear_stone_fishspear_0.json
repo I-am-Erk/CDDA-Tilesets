@@ -1,0 +1,17 @@
+{
+  "id": [
+    "javelin_iron",
+    "javelin_stone",
+    "spear_knife",
+    "pike",
+    "spear_stone",
+    "fishspear"
+  ],
+  "fg": [
+    "1304_javelin_iron_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

@@ -1,17 +1,17 @@
 [
   {
     "id": "t_rdoor_c",
-    "fg": ["t_rdoor_c"],
-    "bg": []
+    "fg": "t_rdoor_c",
+    "bg": ""
   },
   {
     "id": "t_rdoor_o",
-    "fg": ["t_rdoor_o"],
-    "bg": []
+    "fg": "t_rdoor_o",
+    "bg": ""
   },
   {
     "id": "t_rdoor_b",
-    "fg": ["t_rdoor_b"],
-    "bg": []
+    "fg": "t_rdoor_b",
+    "bg": ""
   }
 ]

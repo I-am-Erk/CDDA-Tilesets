@@ -1,1 +1,43 @@
-{"id": "t_underbrush", "fg": ["314_t_underbrush_0"], "bg": ["1_t_dirt_0"], "rotates": false}
+[
+  {
+    "id": "t_underbrush_season_spring",
+    "fg": "314_t_underbrush_0",
+    "bg": "5_t_grass_0"
+  },
+  {
+    "id": "t_underbrush_season_summer",
+    "fg": "314_t_underbrush_0",
+    "bg": "t_grass_summer"
+  },
+  {
+    "id": "t_underbrush_season_autumn",
+    "fg": "314_t_underbrush_0",
+    "bg": "t_grass_autumn"
+  },
+  {
+    "id": "t_underbrush_season_winter",
+    "fg": "314_t_underbrush_0",
+    "bg": "t_grass_winter"
+  },
+  {
+    "id": "t_underbrush_harvested_spring",
+    "fg": "1920_t_underbrush_harvested_autumn_0",
+    "bg": "5_t_grass_0"
+  },
+  {
+    "id": "t_underbrush_harvested_summer",
+    "fg": "1920_t_underbrush_harvested_autumn_0",
+    "bg": "t_grass_summer"
+  },
+  {
+    "id": "t_underbrush_harvested_autumn",
+    "fg": "1920_t_underbrush_harvested_autumn_0",
+    "bg": "t_grass_autumn"
+  },
+  {
+    "id": "t_underbrush_harvested_winter",
+    "fg": "1920_t_underbrush_harvested_autumn_0",
+    "bg": "t_grass_winter"
+  }
+]
+

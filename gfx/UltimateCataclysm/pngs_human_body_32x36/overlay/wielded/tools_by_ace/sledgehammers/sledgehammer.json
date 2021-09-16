@@ -1,0 +1,22 @@
+[
+  {
+    "id": "overlay_wielded_hammer_sledge_engineer",
+    "fg": "engineers_hammer",
+    "bg": ""
+  },
+  {
+    "id": "overlay_wielded_hammer_sledge_heavy",
+    "fg": "heavy_sledgehammer",
+    "bg": ""
+  },
+  {
+    "id": "overlay_wielded_hammer_sledge_short",
+    "fg": "short_sledgehammer",
+    "bg": ""
+  },
+  {
+    "id": "overlay_wielded_hammer_sledge",
+    "fg": "sledgehammer",
+    "bg": ""
+  }
+]

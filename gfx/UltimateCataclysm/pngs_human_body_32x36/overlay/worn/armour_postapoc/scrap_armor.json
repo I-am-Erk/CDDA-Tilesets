@@ -1,0 +1,62 @@
+[
+  {
+    "id": "overlay_male_worn_helmet_scrap",
+    "fg": "scrap_helmet_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_armor_scrapsuit",
+    "fg": "scrap_suit_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_boots_scrap",
+    "fg": "scrap_boots_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_cuirass_scrap",
+    "fg": "scrap_cuirass_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_armguard_scrap",
+    "fg": "scrap_arm_guards_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_legguard_scrap",
+    "fg": "scrap_leg_guards_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_helmet_scrap",
+    "fg": "scrap_helmet_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_armor_scrapsuit",
+    "fg": "scrap_suit_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_boots_scrap",
+    "fg": "scrap_boots_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_cuirass_scrap",
+    "fg": "scrap_cuirass_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_armguard_scrap",
+    "fg": "scrap_arm_guards_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_legguard_scrap",
+    "fg": "scrap_leg_guards_f",
+    "bg": ""
+  }
+]

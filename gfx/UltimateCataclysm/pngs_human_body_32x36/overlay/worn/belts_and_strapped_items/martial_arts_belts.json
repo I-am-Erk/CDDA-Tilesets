@@ -1,0 +1,37 @@
+[
+  {
+    "id": "overlay_worn_judo_belt_black",
+    "fg": "black_belt_mf",
+    "bg": ""
+  },
+  {
+    "id": "overlay_worn_judo_belt_blue",
+    "fg": "blue_belt_mf",
+    "bg": ""
+  },
+  {
+    "id": "overlay_worn_judo_belt_brown",
+    "fg": "brown_belt_mf",
+    "bg": ""
+  },
+  {
+    "id": "overlay_worn_judo_belt_green",
+    "fg": "green_belt_mf",
+    "bg": ""
+  },
+  {
+    "id": "overlay_worn_judo_belt_orange",
+    "fg": "orange_belt_mf",
+    "bg": ""
+  },
+  {
+    "id": "overlay_worn_judo_belt_white",
+    "fg": "white_belt_mf",
+    "bg": ""
+  },
+  {
+    "id": "overlay_worn_judo_belt_yellow",
+    "fg": "yellow_belt_mf",
+    "bg": ""
+  }
+]

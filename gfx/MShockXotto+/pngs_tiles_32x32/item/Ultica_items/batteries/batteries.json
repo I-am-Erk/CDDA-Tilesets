@@ -1,0 +1,72 @@
+[
+  {
+    "id": "heavy_battery_cell",
+    "fg": [ "heavy_battery_cell" ],
+    "bg": []
+  },
+  {
+    "id": "heavy_plus_battery_cell",
+    "fg": [ "heavy_battery_cell" ],
+    "bg": []
+  },
+  {
+    "id": "heavy_disposable_cell",
+    "fg": [ "heavy_battery_cell" ],
+    "bg": []
+  },
+  {
+    "id": "heavy_atomic_battery_cell",
+    "fg": [ "heavy_atomic_battery_cell" ],
+    "bg": []
+  },
+  {
+    "id": "light_battery_cell",
+    "fg": [ "light_battery_cell" ],
+    "bg": []
+  },
+  {
+    "id": "light_minus_battery_cell",
+    "fg": [ "light_minus_battery_cell" ],
+    "bg": []
+  },
+  {
+    "id": "light_plus_battery_cell",
+    "fg": [ "light_battery_cell" ],
+    "bg": []
+  },
+  {
+    "id": "light_disposable_battery_cell",
+    "fg": [ "light_battery_cell" ],
+    "bg": []
+  },
+  {
+    "id": "light_atomic_battery_cell",
+    "fg": [ "light_atomic_battery_cell" ],
+    "bg": []
+  },
+  {
+    "id": "light_minus_atomic_battery_cell",
+    "fg": [ "light_minus_atomic_battery_cell" ],
+    "bg": []
+  },
+  {
+    "id": "medium_battery_cell",
+    "fg": [ "medium_battery_cell" ],
+    "bg": []
+  },
+  {
+    "id": "medium_plus_battery_cell",
+    "fg": [ "medium_battery_cell" ],
+    "bg": []
+  },
+  {
+    "id": "medium_disposable_battery_cell",
+    "fg": [ "medium_battery_cell" ],
+    "bg": []
+  },
+  {
+    "id": "medium_atomic_battery_cell",
+    "fg": [ "medium_atomic_battery_cell" ],
+    "bg": []
+  }
+]

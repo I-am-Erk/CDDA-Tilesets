@@ -1,0 +1,12 @@
+{
+  "id": "vp_chimes",
+  "fg": "1707_vp_chime_0",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "crack_metal_center",
+      "bg": "1707_vp_chime_0"
+    }
+  ]
+}

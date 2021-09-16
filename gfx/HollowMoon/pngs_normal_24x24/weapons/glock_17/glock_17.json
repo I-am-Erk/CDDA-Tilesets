@@ -1,0 +1,6 @@
+[
+    { "id": ["glock_17", "glock_18c", "glock_22", "glock_31"], "fg": "glock_17", "bg": [], "rotates": false },
+	{ "id": ["glock_17_season_autumn", "glock_18c_season_autumn", "glock_22_season_autumn", "glock_31_season_autumn"], "fg": "glock_17_autumn", "bg": [], "rotates": false },
+	{ "id": ["glock_17_season_winter", "glock_18c_season_winter", "glock_22_season_winter", "glock_31_season_winter"], "fg": "glock_17_winter", "bg": [], "rotates": false },
+	{ "id": ["glock_17_season_summer", "glock_18c_season_summer", "glock_22_season_summer", "glock_31_season_summer"], "fg": "glock_17_summer", "bg": [], "rotates": false }
+]

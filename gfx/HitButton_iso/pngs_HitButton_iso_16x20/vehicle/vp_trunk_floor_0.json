@@ -1,0 +1,1 @@
+{"id": ["vp_trunk_floor"], "multitile": true, "height_3d": 2, "fg": ["91_vp_trunk_floor_0", "92_vp_trunk_floor_1"], "additional_tiles": [{"id": "broken", "fg": ["235_vp_frame_cover_1"], "bg": []}], "bg": []}

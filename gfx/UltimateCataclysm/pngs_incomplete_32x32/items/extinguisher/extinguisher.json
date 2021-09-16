@@ -1,12 +1,12 @@
 [
 {
   "id": "extinguisher",
-  "fg": ["extinguisher"],
-  "bg": []
+  "fg": "extinguisher",
+  "bg": ""
 },
 {
   "id": "sm_extinguisher",
-  "fg": ["sm_extinguisher"],
-  "bg": []
+  "fg": "sm_extinguisher",
+  "bg": ""
 }
 ]

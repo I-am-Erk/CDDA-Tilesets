@@ -1,5 +1,5 @@
 {
   "id": "overlay_female_wielded_wood_sheet",
-  "fg": ["sheet_f"],
-  "bg": []
+  "fg": "sheet_f",
+  "bg": ""
 }

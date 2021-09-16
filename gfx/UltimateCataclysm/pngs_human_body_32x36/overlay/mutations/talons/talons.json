@@ -1,0 +1,12 @@
+[
+  {
+    "id": "overlay_female_mutation_TALONS",
+    "fg": "talons_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_mutation_TALONS",
+    "fg": "talons_m",
+    "bg": ""
+  }
+]

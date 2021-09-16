@@ -1,0 +1,52 @@
+{
+  "id": "f_large_canvas_wall",
+  "fg": "f_large_canvas_wall_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_large_canvas_wall_unconnected"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_large_canvas_wall_corner_nw",
+        "f_large_canvas_wall_corner_sw",
+        "f_large_canvas_wall_corner_se",
+        "f_large_canvas_wall_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_large_canvas_wall_edge_ew",
+        "f_large_canvas_wall_edge_ns",
+        "f_large_canvas_wall_edge_ew",
+        "f_large_canvas_wall_edge_ns"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_large_canvas_wall_edge_ns",
+        "f_large_canvas_wall_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_large_canvas_wall_end_piece_n",
+        "f_large_canvas_wall_end_piece_w",
+        "f_large_canvas_wall_end_piece_s",
+        "f_large_canvas_wall_end_piece_e"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_large_canvas_wall_unconnected",
+        "f_large_canvas_wall_unconnected"
+      ]
+    }
+  ]
+}

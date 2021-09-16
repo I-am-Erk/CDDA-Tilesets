@@ -1,0 +1,22 @@
+[
+{
+  "id": "overlay_male_worn_foodperson_mask",
+  "fg": "foodperson_mask_m",
+  "bg": ""
+},
+{
+  "id": "overlay_female_worn_foodperson_mask",
+  "fg": "foodperson_mask_f",
+  "bg": ""
+},
+{
+  "id": "overlay_male_worn_foodperson_mask_on",
+  "fg": "foodperson_mask_on_m",
+  "bg": ""
+},
+{
+  "id": "overlay_female_worn_foodperson_mask_on",
+  "fg": "foodperson_mask_on_f",
+  "bg": ""
+}
+]

@@ -1,9 +1,12 @@
-name: Book
+name: Documentation builder
 
 on:
   push:
     branches:
       - master
+    paths:
+      - 'doc/**'
+      - '.github/workflows/book.yml'
 
 jobs:
   book:

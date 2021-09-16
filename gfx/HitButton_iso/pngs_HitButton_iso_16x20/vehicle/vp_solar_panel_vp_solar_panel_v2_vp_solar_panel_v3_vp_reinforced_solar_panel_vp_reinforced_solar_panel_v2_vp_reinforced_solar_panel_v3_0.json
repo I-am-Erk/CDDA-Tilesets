@@ -1,0 +1,1 @@
+{"id": ["vp_solar_panel", "vp_solar_panel_v2", "vp_solar_panel_v3", "vp_reinforced_solar_panel", "vp_reinforced_solar_panel_v2", "vp_reinforced_solar_panel_v3"], "multitile": true, "fg": ["125_vp_solar_panel_0"], "additional_tiles": [{"id": "broken", "fg": ["238_vp_windshield_4"], "bg": []}], "bg": []}

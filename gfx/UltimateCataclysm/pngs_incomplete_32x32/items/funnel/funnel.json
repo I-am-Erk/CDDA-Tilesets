@@ -1,0 +1,9 @@
+[{
+  "id": [
+    "birchbark_funnel", "funnel", "makeshift_funnel", "metal_funnel"],
+  "fg": "funnel"
+},{
+  "id": [
+    "tr_funnel", "tr_makeshift_funnel", "tr_raincatcher", "tr_metal_funnel"],
+  "fg": "tr_funnel"
+}]

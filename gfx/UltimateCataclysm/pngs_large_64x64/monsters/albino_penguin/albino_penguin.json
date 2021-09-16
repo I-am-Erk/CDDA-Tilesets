@@ -1,5 +1,5 @@
 {
   "id": "mon_albino_penguin",
-  "fg": ["mon_albino_penguin"],
-  "bg": ["shadow_64x64_medium"]
+  "fg": "mon_albino_penguin",
+  "bg": "shadow_64x64_medium"
 }

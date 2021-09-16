@@ -1,0 +1,12 @@
+[
+  {
+    "id": "overlay_female_wielded_spear_dory",
+    "fg": "dory_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_wielded_spear_dory",
+    "fg": "dory_m",
+    "bg": ""
+  }
+]

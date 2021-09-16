@@ -1,0 +1,6 @@
+[
+    { "id": "mon_dog_gshepherd", "fg": "mon_dog_gshepherd", "bg": [], "rotates": false },
+	{ "id": "mon_dog_gshepherd_season_autumn", "fg": "mon_dog_gshepherd_autumn", "bg": [], "rotates": false },
+	{ "id": "mon_dog_gshepherd_season_winter", "fg": "mon_dog_gshepherd_winter", "bg": [], "rotates": false },
+	{ "id": "mon_dog_gshepherd_season_summer", "fg": "mon_dog_gshepherd_summer", "bg": [], "rotates": false }
+]

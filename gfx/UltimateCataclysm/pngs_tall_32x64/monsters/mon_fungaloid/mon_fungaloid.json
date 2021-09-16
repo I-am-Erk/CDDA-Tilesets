@@ -1,5 +1,5 @@
 {
   "id": "mon_fungaloid",
-  "fg": ["fungaloid"],
-  "bg": ["shadow_32x64_normal"]
+  "fg": "fungaloid",
+  "bg": "shadow_32x64_normal"
 }

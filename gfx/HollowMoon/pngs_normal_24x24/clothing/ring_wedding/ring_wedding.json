@@ -1,0 +1,6 @@
+[
+    { "id": ["ring_wedding", "ring_engagement", "diamond_ring"], "fg": "ring_wedding", "bg": [], "rotates": false },
+	{ "id": ["ring_wedding_season_autumn", "ring_engagement_season_autumn", "diamond_ring_season_autumn"], "fg": "ring_wedding_autumn", "bg": [], "rotates": false },
+	{ "id": ["ring_wedding_season_winter", "ring_engagement_season_winter", "diamond_ring_season_winter"], "fg": "ring_wedding_winter", "bg": [], "rotates": false },
+	{ "id": ["ring_wedding_season_summer", "ring_engagement_season_summer", "diamond_ring_season_summer"], "fg": "ring_wedding_summer", "bg": [], "rotates": false }
+]

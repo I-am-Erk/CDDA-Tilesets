@@ -1,0 +1,5 @@
+  {
+    "id": [ "overlay_male_crouch", "overlay_female_crouch" ],
+    "fg": [ "overlay_crouch" ],
+    "bg": [  ]
+  }

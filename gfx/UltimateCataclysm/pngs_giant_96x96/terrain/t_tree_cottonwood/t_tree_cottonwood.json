@@ -1,0 +1,22 @@
+[
+  {
+    "id": "t_tree_cottonwood_season_spring",
+    "fg": "t_tree_cottonwood_spring",
+    "bg": "t_grass_giant"
+  },
+  {
+    "id": "t_tree_cottonwood_season_summer",
+    "fg": "t_tree_cottonwood_summer",
+    "bg": "t_grass_summer_giant"
+  },
+  {
+    "id": "t_tree_cottonwood_season_autumn",
+    "fg": "t_tree_cottonwood_autumn",
+    "bg": "t_grass_autumn_giant"
+  },
+  {
+    "id": "t_tree_cottonwood_season_winter",
+    "fg": "t_tree_dead",
+    "bg": "snow_shallow_giant"
+  }
+]

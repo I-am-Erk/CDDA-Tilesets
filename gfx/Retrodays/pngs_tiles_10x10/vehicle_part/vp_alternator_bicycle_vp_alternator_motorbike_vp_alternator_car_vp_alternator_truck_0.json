@@ -1,0 +1,1 @@
+{"id": ["vp_alternator_bicycle", "vp_alternator_motorbike", "vp_alternator_car", "vp_alternator_truck"], "fg": ["2321_motor_large_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["1183_vp_tank_medium_1"], "bg": []}], "bg": []}

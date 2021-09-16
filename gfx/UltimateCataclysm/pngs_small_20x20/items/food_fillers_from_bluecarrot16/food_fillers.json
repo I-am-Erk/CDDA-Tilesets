@@ -1,0 +1,29 @@
+[{
+  "id": [
+    "pie",
+    "pie_maple",
+    "pie_veggy",
+    "pie_meat"
+  ],
+  "bg": "pie"
+},{
+  "id": [
+    "waffles",
+    "fruit_waffles"
+  ],
+  "fg": "waffles"
+},{
+  "id": [
+    "cookies",
+    "crackers",
+    "biscuit"
+  ],
+  "fg": "cookies"
+},{
+  "id": [
+    "cake2",
+    "cake3",
+    "space_cake"
+  ],
+  "fg": "cake"
+}]

@@ -1,0 +1,6 @@
+[
+    { "id": ["toastem", "toastem3", "toastem2"], "fg": "toastem", "bg": [], "rotates": false },
+	{ "id": ["toastem_season_autumn", "toastem3_season_autumn", "toastem2_season_autumn"], "fg": "toastem_autumn", "bg": [], "rotates": false },
+	{ "id": ["toastem_season_winter", "toastem3_season_winter", "toastem2_season_winter"], "fg": "toastem_winter", "bg": [], "rotates": false },
+	{ "id": ["toastem_season_summer", "toastem3_season_summer", "toastem2_season_summer"], "fg": "toastem_summer", "bg": [], "rotates": false }
+]

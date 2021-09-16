@@ -1,0 +1,19 @@
+{
+  "id": "t_door_red_b",
+  "fg": "t_door_red_b_1",
+  "bg": "",
+  "//": "Vertical sprite needs to be red too",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        { "weight": 1, "sprite": "t_door_red_b_1" },
+        { "weight": 1, "sprite": "t_door_red_b_2" },
+        { "weight": 1, "sprite": "t_door_red_b_3" }
+      ],
+      "bg": ""
+    },
+    { "id": "edge", "fg": [ "t_door_b_vertical", "t_door_b" ], "bg": "" }
+  ]
+}

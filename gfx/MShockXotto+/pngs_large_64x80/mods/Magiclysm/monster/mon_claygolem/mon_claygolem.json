@@ -1,0 +1,11 @@
+{
+  "id": "mon_claygolem",
+  "fg": [
+    { "weight": 10, "sprite": "mon_claygolem" },
+    { "weight": 1, "sprite": "mon_claygolem_1" },
+    { "weight": 2, "sprite": "mon_claygolem_2" },
+    { "weight": 3, "sprite": "mon_claygolem_3" }
+  ],
+  "bg": "",
+  "rotates": false
+}

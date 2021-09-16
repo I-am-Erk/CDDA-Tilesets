@@ -1,0 +1,25 @@
+[
+  {
+    "id": [ "cs_car_showroom" ],
+    "fg": [ "cs_car_showroom_N", "cs_car_showroom_E", "cs_car_showroom_S", "cs_car_showroom_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "cs_car_showroom_2ndfloor" ],
+    "fg": [
+      "cs_car_showroom_2ndfloor_N",
+      "cs_car_showroom_2ndfloor_E",
+      "cs_car_showroom_2ndfloor_S",
+      "cs_car_showroom_2ndfloor_W"
+    ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "cs_car_showroom_roof" ],
+    "fg": [ "cs_car_showroom_roof_N", "cs_car_showroom_roof_E", "cs_car_showroom_roof_S", "cs_car_showroom_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

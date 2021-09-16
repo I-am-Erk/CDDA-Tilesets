@@ -1,0 +1,164 @@
+[
+  {
+    "id": "vp_frame_wood_vertical_2",
+    "fg": "frame_wood_vertical_2",
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_vertical_2" } ]
+  },
+  {
+    "id": "vp_frame_wood_vertical_2_unconnected",
+    "fg": "frame_wood_vertical_2_unconnected",
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_vertical_2_unconnected" } ]
+  },
+  {
+    "id": "vp_frame_wood_vertical_2_right",
+    "fg": "frame_wood_vertical_2_right",
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_vertical_2_right" } ]
+  },
+  {
+    "id": "vp_frame_wood_vertical_2_left",
+    "fg": "frame_wood_vertical_2_left",
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_vertical_2_left" } ]
+  },
+  {
+    "id": "vp_frame_wood_vertical",
+    "fg": "frame_wood_vertical",
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_vertical" } ]
+  },
+  {
+    "id": "vp_frame_wood_vertical_unconnected",
+    "fg": "frame_wood_vertical_unconnected",
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_vertical_unconnected" } ]
+  },
+  {
+    "id": "vp_frame_wood_vertical_right",
+    "fg": "frame_wood_vertical_right",
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_vertical_right" } ]
+  },
+  {
+    "id": "vp_frame_wood_vertical_left",
+    "fg": "frame_wood_vertical_left",
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_vertical_left" } ]
+  },
+  {
+    "id": "vp_frame_wood_sw",
+    "fg": "frame_wood_sw",
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_sw" } ]
+  },
+  {
+    "id": "vp_frame_wood_se",
+    "fg": "frame_wood_se",
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_se" } ]
+  },
+  {
+    "id": "vp_frame_wood_nw",
+    "fg": "frame_wood_nw",
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_nw" } ]
+  },
+  {
+    "id": "vp_frame_wood_ne",
+    "fg": "frame_wood_ne",
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_ne" } ]
+  },
+  {
+    "id": "vp_frame_wood_horizontal_2",
+    "fg": "frame_wood_horizontal_2",
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_horizontal_2" } ]
+  },
+  {
+    "id": "vp_frame_wood_horizontal_2_unconnected",
+    "fg": "frame_wood_horizontal_2_unconnected",
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_horizontal_2_unconnected" } ]
+  },
+  {
+    "id": "vp_frame_wood_horizontal_2_right",
+    "fg": "frame_wood_horizontal_2_right",
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_horizontal_2_right" } ]
+  },
+  {
+    "id": "vp_frame_wood_horizontal_2_rear",
+    "fg": "frame_wood_horizontal_2_rear",
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_horizontal_2_rear" } ]
+  },
+  {
+    "id": "vp_frame_wood_horizontal_2_left",
+    "fg": "frame_wood_horizontal_2_left",
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_horizontal_2_left" } ]
+  },
+  {
+    "id": "vp_frame_wood_horizontal_2_front",
+    "fg": "frame_wood_horizontal_2_front",
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_horizontal_2_front" } ]
+  },
+  {
+    "id": "vp_frame_wood_horizontal",
+    "fg": "frame_wood_horizontal",
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_horizontal" } ]
+  },
+  {
+    "id": "vp_frame_wood_horizontal_unconnected",
+    "fg": "frame_wood_horizontal_unconnected",
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_horizontal_unconnected" } ]
+  },
+  {
+    "id": "vp_frame_wood_horizontal_right",
+    "fg": "frame_wood_horizontal_right",
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_horizontal_right" } ]
+  },
+  {
+    "id": "vp_frame_wood_horizontal_rear",
+    "fg": "frame_wood_horizontal_rear",
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_horizontal_rear" } ]
+  },
+  {
+    "id": "vp_frame_wood_horizontal_left",
+    "fg": "frame_wood_horizontal_left",
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_horizontal_left" } ]
+  },
+  {
+    "id": "vp_frame_wood_horizontal_front",
+    "fg": "frame_wood_horizontal_front",
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_horizontal_front" } ]
+  },
+  {
+    "id": "vp_frame_wood_cross",
+    "fg": "frame_wood_cross",
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_cross" } ]
+  },
+  {
+    "id": [ "vp_frame_wood_cross_unconnected", "vp_frame_wood", "frame_wood" ],
+    "fg": "frame_wood_cross_unconnected",
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_cross_unconnected" } ]
+  },
+  {
+    "id": "vp_frame_wood_cover",
+    "fg": "frame_wood_cover",
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "frame_wood_cover" } ]
+  }
+]

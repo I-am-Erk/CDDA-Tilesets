@@ -1,0 +1,6 @@
+[
+    { "id": ["mutagen", "elixir"], "fg": "mutagen", "bg": [], "rotates": false },
+	{ "id": ["mutagen_season_autumn", "elixir_season_autumn"], "fg": "mutagen_autumn", "bg": [], "rotates": false },
+	{ "id": ["mutagen_season_winter", "elixir_season_winter"], "fg": "mutagen_winter", "bg": [], "rotates": false },
+	{ "id": ["mutagen_season_summer", "elixir_season_summer"], "fg": "mutagen_summer", "bg": [], "rotates": false }
+]

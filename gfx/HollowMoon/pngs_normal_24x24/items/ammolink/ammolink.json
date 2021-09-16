@@ -1,0 +1,6 @@
+[
+    { "id": ["ammolink", "ammolink30mm", "ammolink50", "ammolink40mm", "ammolink308", "ammolink223"], "fg": "ammolink", "bg": [], "rotates": false },
+	{ "id": ["ammolink_season_autumn", "ammolink30mm_season_autumn", "ammolink50_season_autumn", "ammolink40mm_season_autumn", "ammolink308_season_autumn", "ammolink223_season_autumn"], "fg": "ammolink_autumn", "bg": [], "rotates": false },
+	{ "id": ["ammolink_season_winter", "ammolink30mm_season_winter", "ammolink50_season_winter", "ammolink40mm_season_winter", "ammolink308_season_winter", "ammolink223_season_winter"], "fg": "ammolink_winter", "bg": [], "rotates": false },
+	{ "id": ["ammolink_season_summer", "ammolink30mm_season_summer", "ammolink50_season_summer", "ammolink40mm_season_summer", "ammolink308_season_summer", "ammolink223_season_summer"], "fg": "ammolink_summer", "bg": [], "rotates": false }
+]

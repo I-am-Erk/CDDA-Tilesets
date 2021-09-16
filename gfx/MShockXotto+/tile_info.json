@@ -1,0 +1,40 @@
+[
+  {
+    "pixelscale": 1,
+    "width": 32,
+    "height": 32
+  },
+  {
+    "tiles.png": {  }
+  },
+  {
+    "overmap.png": {  }
+  },
+  {
+    "small.png": { "sprite_width": 20, "sprite_height": 20, "sprite_offset_x": 6, "sprite_offset_y": 0 }
+  },
+  {
+    "wide.png": { "sprite_width": 48, "sprite_height": 48, "sprite_offset_x": -16, "sprite_offset_y": -16 }
+  },
+  {
+    "tall.png": { "sprite_width": 32, "sprite_height": 48, "sprite_offset_x": 0, "sprite_offset_y": -16 }
+  },
+  {
+    "large.png": { "sprite_width": 64, "sprite_height": 80, "sprite_offset_x": -16, "sprite_offset_y": -48 }
+  },
+  {
+    "huge.png": { "sprite_width": 128, "sprite_height": 128, "sprite_offset_x": -64, "sprite_offset_y": -96 }
+  },
+  {
+    "fillersmall.png": { "sprite_width": 20, "sprite_height": 20, "filler": true }
+  },
+  {
+    "fillerlarge.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -32, "filler": true }
+  },
+  {
+    "fillernormal.png": { "filler": true }
+  },
+  {
+    "fillertall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true }
+  }
+]

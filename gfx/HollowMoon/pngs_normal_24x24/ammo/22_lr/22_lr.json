@@ -1,0 +1,6 @@
+[
+    { "id": ["22_lr", "22_ratshot", "bp_22_lr", "22_cb", "bp_22_fmj", "reloaded_22_fmj", "reloaded_22_lr", "22_fmj"], "fg": "22_lr", "bg": [], "rotates": false },
+	{ "id": ["22_lr_season_autumn", "22_ratshot_season_autumn", "bp_22_lr_season_autumn", "22_cb_season_autumn", "bp_22_fmj_season_autumn", "reloaded_22_fmj_season_autumn", "reloaded_22_lr_season_autumn", "22_fmj_season_autumn"], "fg": "22_lr_autumn", "bg": [], "rotates": false },
+	{ "id": ["22_lr_season_winter", "22_ratshot_season_winter", "bp_22_lr_season_winter", "22_cb_season_winter", "bp_22_fmj_season_winter", "reloaded_22_fmj_season_winter", "reloaded_22_lr_season_winter", "22_fmj_season_winter"], "fg": "22_lr_winter", "bg": [], "rotates": false },
+	{ "id": ["22_lr_season_summer", "22_ratshot_season_summer", "bp_22_lr_season_summer", "22_cb_season_summer", "bp_22_fmj_season_summer", "reloaded_22_fmj_season_summer", "reloaded_22_lr_season_summer", "22_fmj_season_summer"], "fg": "22_lr_summer", "bg": [], "rotates": false }
+]

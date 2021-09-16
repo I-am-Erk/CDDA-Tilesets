@@ -1,0 +1,17 @@
+[
+  {
+    "id": "mon_dragon_black_wyrmling",
+    "fg": [ "mon_dragon_black_wyrmling" ],
+    "bg": [  ]
+  },
+  {
+    "id": "mon_dragon_black_young",
+    "fg": [ "mon_dragon_black_young" ],
+    "bg": [  ]
+  },
+  {
+    "id": "mon_dragon_black_adult",
+    "fg": [ "mon_dragon_black_adult" ],
+    "bg": [  ]
+  }
+]

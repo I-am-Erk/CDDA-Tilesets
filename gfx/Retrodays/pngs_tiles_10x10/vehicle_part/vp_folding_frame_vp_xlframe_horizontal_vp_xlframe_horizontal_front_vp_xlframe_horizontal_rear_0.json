@@ -1,0 +1,1 @@
+{"id": ["vp_folding_frame", "vp_xlframe_horizontal", "vp_xlframe_horizontal_front", "vp_xlframe_horizontal_rear"], "fg": ["2245_vp_folding_frame_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["725_vp_blade_vertical_1"], "bg": []}], "bg": []}

@@ -1,0 +1,16 @@
+{
+  "id": "t_monkey_bars_season_winter",
+  "fg": [
+    "3128_t_monkey_bars_0"
+  ],
+  "bg": [
+    "snow_shallow_center"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "edge", "bg": [ "snow_shallow_center" ], "fg": [  ] },
+    { "id": "corner", "fg": [ "3129_t_monkey_bars_2" ], "bg": [ "snow_shallow_center" ] },
+    { "id": "center", "fg": [ "3128_t_monkey_bars_0" ], "bg": [ "snow_shallow_center" ] },
+    { "id": "t_connection", "fg": [ "3130_t_monkey_bars_3" ], "bg": [ "snow_shallow_center" ] }
+  ]
+}

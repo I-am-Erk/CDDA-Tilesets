@@ -1,0 +1,10 @@
+{
+  "id": [
+    "vp_crane_medium",
+    "vp_crane_small",
+    "vp_crane_medium_internal",
+    "crane_tiny"
+  ],
+  "fg": "vp_crane_small",
+  "bg": ""
+}

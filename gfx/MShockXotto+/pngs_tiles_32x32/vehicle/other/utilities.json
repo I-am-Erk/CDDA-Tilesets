@@ -1,0 +1,80 @@
+[
+  {
+    "id": "vp_veh_table",
+    "fg": [ "veh_table", "veh_table" ],
+    "bg": [ "vp_wooden_aisle_vertical", "vp_wooden_aisle_horizontal" ],
+    "additional_tiles": [ { "id": "broken", "fg": "veh_table_broken", "bg": [ "vp_wooden_aisle_vertical", "vp_wooden_aisle_horizontal" ] } ],
+    "multitile": true,
+    "rotates": true
+  },
+  {
+    "id": "vp_minifridge",
+    "fg": [ "vp_minifridge" ],
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_minifridge" ] } ]
+  },
+  {
+    "id": "vp_minifreezer",
+    "fg": [ "vp_minifreezer" ],
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_minifreezer" ] } ]
+  },
+  {
+    "id": "vp_kitchen_unit",
+    "fg": [ "vp_kitchen_unit" ],
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_kitchen_unit" ] } ]
+  },
+  {
+    "id": "vp_welding_rig",
+    "fg": [ "vp_welding_rig" ],
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_welding_rig" ] } ]
+  },
+  {
+    "id": "vp_craft_rig",
+    "fg": [ "vp_craft_rig" ],
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_craft_rig" ] } ]
+  },
+  {
+    "id": "vp_washing_machine",
+    "fg": [ "vp_washing_machine" ],
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_washing_machine" ] } ]
+  },
+  {
+    "id": "vp_bed",
+    "fg": [ "vp_bed" ],
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_bed" ] } ]
+  },
+  {
+    "id": "vp_veh_forge",
+    "fg": [ "vp_forge" ],
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_forge" ] } ]
+  },
+  {
+    "id": "vp_veh_kiln",
+    "fg": [ "vp_kiln" ],
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_kiln" ] } ]
+  },
+  {
+    "id": "vp_chemlab",
+    "fg": [ "vp_chem_lab" ],
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_chem_lab" ] } ]
+  }
+]

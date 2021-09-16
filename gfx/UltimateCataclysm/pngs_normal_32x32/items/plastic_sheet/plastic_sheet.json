@@ -1,7 +1,7 @@
 [
   {
     "id": "plastic_sheet",
-    "fg": [ "plastic_sheet" ],
-    "bg": [ ]
+    "fg": "plastic_sheet",
+    "bg": ""
   }
 ]

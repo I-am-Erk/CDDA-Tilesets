@@ -1,0 +1,17 @@
+[
+  {
+    "id": "t_dirt_season_spring",
+    "fg": "1_t_dirt_0",
+    "bg": ""
+  },
+  {
+    "id": "t_dirt_season_summer",
+    "fg": "t_dirt_summer",
+    "bg": ""
+  },
+  {
+    "id": "t_dirt_season_winter",
+    "fg": "t_dirt_winter",
+    "bg": ""
+  }
+]

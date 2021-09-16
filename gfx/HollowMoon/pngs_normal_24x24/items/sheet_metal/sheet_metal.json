@@ -1,0 +1,6 @@
+[
+    { "id": ["sheet_metal", "sheet_metal_lit"], "fg": "sheet_metal", "bg": [], "rotates": false },
+	{ "id": ["sheet_metal_season_autumn", "sheet_metal_lit_season_autumn"], "fg": "sheet_metal_autumn", "bg": [], "rotates": false },
+	{ "id": ["sheet_metal_season_winter", "sheet_metal_lit_season_winter"], "fg": "sheet_metal_winter", "bg": [], "rotates": false },
+	{ "id": ["sheet_metal_season_summer", "sheet_metal_lit_season_summer"], "fg": "sheet_metal_summer", "bg": [], "rotates": false }
+]

@@ -1,7 +1,5 @@
 {
   "id": "string_36",
-  "fg": [
-    "string_36"
-  ],
-  "bg": []
+  "fg": "string_36",
+  "bg": ""
 }

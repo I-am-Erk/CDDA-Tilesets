@@ -1,0 +1,6 @@
+[
+    { "id": ["feces_manure", "feces_cow"], "fg": "feces_manure", "bg": [], "rotates": false },
+	{ "id": ["feces_manure_season_autumn", "feces_cow_season_autumn"], "fg": "feces_manure_autumn", "bg": [], "rotates": false },
+	{ "id": ["feces_manure_season_winter", "feces_cow_season_winter"], "fg": "feces_manure_winter", "bg": [], "rotates": false },
+	{ "id": ["feces_manure_season_summer", "feces_cow_season_summer"], "fg": "feces_manure_summer", "bg": [], "rotates": false }
+]

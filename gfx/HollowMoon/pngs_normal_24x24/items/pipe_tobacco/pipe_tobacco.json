@@ -1,0 +1,6 @@
+[
+    { "id": ["pipe_tobacco", "crackpipe", "pipe_glass"], "fg": "pipe_tobacco", "bg": [], "rotates": false },
+	{ "id": ["pipe_tobacco_season_autumn", "crackpipe_season_autumn", "pipe_glass_season_autumn"], "fg": "pipe_tobacco_autumn", "bg": [], "rotates": false },
+	{ "id": ["pipe_tobacco_season_winter", "crackpipe_season_winter", "pipe_glass_season_winter"], "fg": "pipe_tobacco_winter", "bg": [], "rotates": false },
+	{ "id": ["pipe_tobacco_season_summer", "crackpipe_season_summer", "pipe_glass_season_summer"], "fg": "pipe_tobacco_summer", "bg": [], "rotates": false }
+]

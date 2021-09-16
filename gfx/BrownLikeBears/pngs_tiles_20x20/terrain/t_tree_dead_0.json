@@ -1,1 +1,22 @@
-{"id": "t_tree_dead", "fg": ["1980_t_tree_dead_0"], "bg": [], "rotates": false, "multitile": false}
+[
+  {
+    "id": "t_tree_dead_season_spring",
+    "fg": "1980_t_tree_dead_0",
+    "bg": "forest_grass_spring"
+  },
+  {
+    "id": "t_tree_dead_season_summer",
+    "fg": "1980_t_tree_dead_0",
+    "bg": "forest_grass_summer"
+  },
+  {
+    "id": "t_tree_dead_season_autumn",
+    "fg": "1980_t_tree_dead_0",
+    "bg": "forest_grass_autumn"
+  },
+  {
+    "id": "t_tree_dead_season_winter",
+    "fg": "1980_t_tree_dead_0",
+    "bg": "forest_grass_winter"
+  }
+]

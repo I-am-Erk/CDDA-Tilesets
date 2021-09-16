@@ -1,0 +1,6 @@
+[
+    { "id": ["mon_chicken_chick", "mon_goose_canadian_chick", "mon_duck_chick", "mon_cockatrice_chick", "mon_pheasant_chick", "mon_turkey_chick", "mon_crow_chick", "mon_grouse_chick"], "fg": "mon_chicken_chick", "bg": [], "rotates": false },
+	{ "id": ["mon_chicken_chick_season_autumn", "mon_goose_canadian_chick_season_autumn", "mon_duck_chick_season_autumn", "mon_cockatrice_chick_season_autumn", "mon_pheasant_chick_season_autumn", "mon_turkey_chick_season_autumn", "mon_crow_chick_season_autumn", "mon_grouse_chick_season_autumn"], "fg": "mon_chicken_chick_autumn", "bg": [], "rotates": false },
+	{ "id": ["mon_chicken_chick_season_winter", "mon_goose_canadian_chick_season_winter", "mon_duck_chick_season_winter", "mon_cockatrice_chick_season_winter", "mon_pheasant_chick_season_winter", "mon_turkey_chick_season_winter", "mon_crow_chick_season_winter", "mon_grouse_chick_season_winter"], "fg": "mon_chicken_chick_winter", "bg": [], "rotates": false },
+	{ "id": ["mon_chicken_chick_season_summer", "mon_goose_canadian_chick_season_summer", "mon_duck_chick_season_summer", "mon_cockatrice_chick_season_summer", "mon_pheasant_chick_season_summer", "mon_turkey_chick_season_summer", "mon_crow_chick_season_summer", "mon_grouse_chick_season_summer"], "fg": "mon_chicken_chick_summer", "bg": [], "rotates": false }
+]

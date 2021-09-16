@@ -1,0 +1,15 @@
+[{
+  "id": "mon_cow",
+  "fg": [
+    { "weight": 1, "sprite": "mon_cow1" },
+    { "weight": 12, "sprite": "mon_cow2" },
+    { "weight": 6, "sprite": "mon_cow3" },
+    { "weight": 6, "sprite": "mon_cow4" },
+    { "weight": 12, "sprite": "mon_cow5" }
+  ],
+  "bg": "shadow_64x64_medium"
+},{
+  "id": "mon_zow",
+  "fg": "mon_zow",
+  "bg": "shadow_64x64_medium"
+}]

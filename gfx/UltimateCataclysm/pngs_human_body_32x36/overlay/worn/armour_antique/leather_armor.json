@@ -1,0 +1,132 @@
+[
+  {
+    "id": "overlay_female_worn_vest_leather_mod",
+    "fg": "armored_leather_vest_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_vest_leather_mod",
+    "fg": "armored_leather_vest_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_armor_blarmor",
+    "fg": "boiled_leather_armor_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_armor_blarmor",
+    "fg": "boiled_leather_armor_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_armguard_larmor",
+    "fg": "leather_arm_guards_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_armguard_larmor",
+    "fg": "leather_arm_guards_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_boots_larmor",
+    "fg": "leather_armor_boots_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_boots_larmor",
+    "fg": "leather_armor_boots_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_gauntlets_larmor",
+    "fg": "leather_armor_gloves_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_gauntlets_larmor",
+    "fg": "leather_armor_gloves_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_helmet_larmor",
+    "fg": "leather_armor_helmet_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_helmet_larmor",
+    "fg": "leather_armor_helmet_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_armor_larmor",
+    "fg": "leather_body_armor_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_armor_larmor",
+    "fg": "leather_body_armor_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_footrags_leather",
+    "fg": "leather_foot_wraps_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_footrags_leather",
+    "fg": "leather_foot_wraps_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_gloves_wraps_leather",
+    "fg": "leather_hand_wraps_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_gloves_wraps_leather",
+    "fg": "leather_hand_wraps_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_vambrace_larmor",
+    "fg": "leather_vambraces_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_vambrace_larmor",
+    "fg": "leather_vambraces_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_vest_leather",
+    "fg": "leather_vest_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_vest_leather",
+    "fg": "leather_vest_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_armor_plarmor",
+    "fg": "plated_leather_armor_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_armor_plarmor",
+    "fg": "plated_leather_armor_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_worn_gloves_studded",
+    "fg": "studded_gloves_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_worn_gloves_studded",
+    "fg": "studded_gloves_m",
+    "bg": ""
+  }
+]

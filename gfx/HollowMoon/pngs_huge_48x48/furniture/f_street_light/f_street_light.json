@@ -1,0 +1,30 @@
+[
+  {"id": "f_street_light_season_spring",
+  "fg": [
+        { "weight": 40, "sprite": "f_street_light_season_spring"},
+        { "weight": 1, "sprite": "f_street_light_1_season_spring"}
+  ],
+  "bg": []
+  },
+  {"id": "f_street_light_season_autumn",
+  "fg": [
+        { "weight": 40, "sprite": "f_street_light_season_autumn"},
+        { "weight": 1, "sprite": "f_street_light_1_season_autumn"}
+  ],
+  "bg": []
+  },
+  {"id": "f_street_light_season_winter",
+  "fg": [
+        { "weight": 40, "sprite": "f_street_light_season_winter"},
+        { "weight": 1, "sprite": "f_street_light_1_season_winter"}
+  ],
+  "bg": []
+  },
+  {"id": "f_street_light_season_summer",
+  "fg": [
+        { "weight": 40, "sprite": "f_street_light_season_summer"},
+        { "weight": 1, "sprite": "f_street_light_1_season_summer"}
+  ],
+  "bg": []
+  }
+]

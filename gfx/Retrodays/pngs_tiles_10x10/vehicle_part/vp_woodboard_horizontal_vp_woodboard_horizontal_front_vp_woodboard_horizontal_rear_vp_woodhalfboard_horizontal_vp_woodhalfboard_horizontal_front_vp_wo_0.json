@@ -1,0 +1,1 @@
+{"id": ["vp_woodboard_horizontal", "vp_woodboard_horizontal_front", "vp_woodboard_horizontal_rear", "vp_woodhalfboard_horizontal", "vp_woodhalfboard_horizontal_front", "vp_woodhalfboard_horizontal_rear"], "fg": ["2385_vp_woodboard_horizontal_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["225_vp_travois_1"], "bg": []}], "bg": []}

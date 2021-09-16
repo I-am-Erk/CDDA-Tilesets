@@ -1,0 +1,14 @@
+{
+  "id": [
+    "explosion_cone_cold",
+    "explosion_auroral_wave_cold",
+    "explosion_frozen_winds"
+  ],
+  "fg": "cold_spell_edge",
+  "bg": "",
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "corner", "fg": [ "cold_spell_corner" ], "bg": "" },
+    { "id": "edge", "fg": [ "cold_spell_edge" ], "bg": "" }
+  ]
+}

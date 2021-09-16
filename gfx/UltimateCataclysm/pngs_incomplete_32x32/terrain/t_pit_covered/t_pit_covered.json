@@ -1,0 +1,28 @@
+[
+  {
+    "id": "t_pit_covered",
+    "fg": "t_pit_covered",
+    "bg": [
+      { "weight": 100, "sprite": "t_grass" },
+      { "weight": 100, "sprite": "t_grass_center2" }
+    ]
+  }, {
+    "id": "t_pit_covered_season_summer",
+    "fg": "t_pit_covered",
+    "bg": [
+      { "weight": 100, "sprite": "t_grass_summer" },
+      { "weight": 100, "sprite": "t_grass_summer_center2" }
+    ]
+  }, {
+    "id": "t_pit_covered_season_autumn",
+    "fg": "t_pit_covered",
+    "bg": [
+      { "weight": 100, "sprite": "t_grass_autumn" },
+      { "weight": 100, "sprite": "t_grass_autumn_center2" }
+    ]
+  }, {
+    "id": "t_pit_covered_season_winter",
+    "fg": "t_pit_covered",
+    "bg": "snow_shallow_center"
+  }
+]

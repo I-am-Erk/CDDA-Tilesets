@@ -1,0 +1,6 @@
+[
+    { "id": ["ruger_lcr_38, ruger_lcr_22"], "fg": "ruger_lcr_38", "bg": [], "rotates": false },
+	{ "id": ["ruger_lcr_38_season_autumn, ruger_lcr_22_season_autumn"], "fg": "ruger_lcr_38_autumn", "bg": [], "rotates": false },
+	{ "id": ["ruger_lcr_38_season_winter, ruger_lcr_22_season_winter"], "fg": "ruger_lcr_38_winter", "bg": [], "rotates": false },
+	{ "id": ["ruger_lcr_38_season_summer, ruger_lcr_22_season_summer"], "fg": "ruger_lcr_38_summer", "bg": [], "rotates": false }
+]

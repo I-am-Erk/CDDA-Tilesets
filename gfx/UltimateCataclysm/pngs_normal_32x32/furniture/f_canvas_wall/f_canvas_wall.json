@@ -1,21 +1,17 @@
 {
   "id": [ "f_canvas_wall", "f_large_canvas_wall" ],
   "multitile": true,
-  "fg": [
-    "f_canvas_wall_unconnected"
-  ],
-  "bg": [],
+  "fg": "f_canvas_wall_unconnected",
+  "bg": "",
   "additional_tiles": [
     {
       "id": "center",
-      "bg": [],
-      "fg": [
-        "f_canvas_wall_center"
-      ]
+      "bg": "",
+      "fg": "f_canvas_wall_center"
     },
     {
       "id": "corner",
-      "bg": [],
+      "bg": "",
       "fg": [
         "f_canvas_wall_corner_nw",
         "f_canvas_wall_corner_sw",
@@ -25,7 +21,7 @@
     },
     {
       "id": "t_connection",
-      "bg": [],
+      "bg": "",
       "fg": [
         "f_canvas_wall_t_connection_n",
         "f_canvas_wall_t_connection_w",
@@ -35,7 +31,7 @@
     },
     {
       "id": "edge",
-      "bg": [],
+      "bg": "",
       "fg": [
         "f_canvas_wall_edge_ns",
         "f_canvas_wall_edge_ew"
@@ -43,7 +39,7 @@
     },
     {
       "id": "end_piece",
-      "bg": [],
+      "bg": "",
       "fg": [
         "f_canvas_wall_end_piece_n",
         "f_canvas_wall_end_piece_w",
@@ -52,11 +48,9 @@
       ]
     },
     {
-      "bg": [],
+      "bg": "",
       "id": "unconnected",
-      "fg": [
-        "f_canvas_wall_unconnected"
-      ]
+      "fg": "f_canvas_wall_unconnected"
     }
   ]
 }

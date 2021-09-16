@@ -1,0 +1,1 @@
+{"id": ["vp_wheel_unicycle", "vp_wheel_motorbike", "vp_wheel_motorbike_steerable"], "fg": ["2310_wheel_bicycle_or_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["2305_vp_wheel_bicycle_steerable_1"], "bg": []}], "bg": []}

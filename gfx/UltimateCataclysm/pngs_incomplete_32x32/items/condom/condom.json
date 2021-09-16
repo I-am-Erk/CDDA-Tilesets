@@ -1,7 +1,5 @@
 {
   "id": "condom",
-  "fg": [
-    "condom"
-  ],
-  "bg": []
+  "fg": "condom",
+  "bg": ""
 }
