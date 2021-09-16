@@ -255,7 +255,7 @@
       "vp_hdboard_vertical_right",
       "vp_hdboard_vertical_left_rotE",
       "vp_hdboard_vertical_left",
-      "vp_hdboard_vertical_right_rotE"
+      "vp_hdboard_vertical_rotW_rotE"
     ],
     "rotates": true,
     "bg": [  ],
@@ -268,7 +268,7 @@
           "vp_hdboard_vertical_right",
           "vp_hdboard_vertical_left_rotE",
           "vp_hdboard_vertical_left",
-          "vp_hdboard_vertical_right_rotE"
+          "vp_hdboard_vertical_rotW_rotE"
         ]
       }
     ]
