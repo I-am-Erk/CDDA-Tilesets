@@ -12,7 +12,7 @@
     "rotates": true
   },
   {
-    "id": [ "craft_shop_roof" ],
+    "id": [ "craft_shop_roof_3" ],
     "fg": [ "craft_shop_roof_3_N", "craft_shop_roof_3_E", "craft_shop_roof_3_S", "craft_shop_roof_3_W" ],
     "bg": [ "open_air" ],
     "rotates": true
