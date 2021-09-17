@@ -1,0 +1,8 @@
+[
+  {
+    "id": [ "cs_public_art_piece" ],
+    "fg": [ "cs_public_art_piece_N", "cs_public_art_piece_E", "cs_public_art_piece_S", "cs_public_art_piece_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  }
+]
