@@ -6,7 +6,7 @@
     "rotates": true
   },
   {
-    "id": [ "craft_shop_3ndfloor_3" ],
+    "id": [ "craft_shop_2ndfloor_3" ],
     "fg": [ "craft_shop_2ndfloor_3_N", "craft_shop_2ndfloor_3_E", "craft_shop_2ndfloor_3_S", "craft_shop_2ndfloor_3_W" ],
     "bg": [ "open_air" ],
     "rotates": true
