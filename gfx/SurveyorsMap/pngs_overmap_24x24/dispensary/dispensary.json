@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "dispensary" ],
+    "fg": [ "dispensary_N", "dispensary_E", "dispensary_S", "dispensary_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "dispensary_roof" ],
+    "fg": [ "dispensary_roof_N", "dispensary_roof_E", "dispensary_roof_S", "dispensary_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]
