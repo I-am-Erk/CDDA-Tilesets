@@ -1,56 +1,91 @@
 {
   "id": "t_scrap_floor",
   "multitile": true,
-  "fg": "f_floor_scrap_unconnected",
+  "fg": "t_scrap_floor_unconnected_1",
   "bg": "",
   "additional_tiles": [
     {
       "id": "center",
       "bg": "",
-      "fg": "f_floor_scrap_center"
+      "fg": [ { "weight": 1, "sprite": [ "t_scrap_floor_center_1" ] }, { "weight": 1, "sprite": [ "t_scrap_floor_center_2" ] } ]
     },
     {
       "id": "corner",
       "bg": "",
       "fg": [
-        "f_floor_scrap_corner_nw",
-        "f_floor_scrap_corner_sw",
-        "f_floor_scrap_corner_se",
-        "f_floor_scrap_corner_ne"
+        {
+          "weight": 1,
+          "sprite": [ "t_scrap_floor_corner_nw_1", "t_scrap_floor_corner_sw_1", "t_scrap_floor_corner_ne_1", "t_scrap_floor_corner_se_1" ]
+        },
+        {
+          "weight": 1,
+          "sprite": [ "t_scrap_floor_corner_nw_2", "t_scrap_floor_corner_sw_2", "t_scrap_floor_corner_ne_2", "t_scrap_floor_corner_se_2" ]
+        }
       ]
     },
     {
       "id": "t_connection",
       "bg": "",
       "fg": [
-        "f_floor_scrap_t_connection_n",
-        "f_floor_scrap_t_connection_w",
-        "f_floor_scrap_t_connection_s",
-        "f_floor_scrap_t_connection_e"
+        {
+          "weight": 1,
+          "sprite": [
+            "t_scrap_floor_t_connection_n_1",
+            "t_scrap_floor_t_connection_w_1",
+            "t_scrap_floor_t_connection_s_1",
+            "t_scrap_floor_t_connection_e_1"
+          ]
+        },
+        {
+          "weight": 1,
+          "sprite": [
+            "t_scrap_floor_t_connection_n_2",
+            "t_scrap_floor_t_connection_w_2",
+            "t_scrap_floor_t_connection_s_2",
+            "t_scrap_floor_t_connection_e_2"
+          ]
+        }
       ]
     },
     {
       "id": "edge",
       "bg": "",
       "fg": [
-        "f_floor_scrap_edge_ns",
-        "f_floor_scrap_edge_ew"
+        { "weight": 1, "sprite": [ "t_scrap_floor_edge_ns_1", "t_scrap_floor_edge_ew_1" ] },
+        { "weight": 1, "sprite": [ "t_scrap_floor_edge_ns_2", "t_scrap_floor_edge_ew_2" ] }
       ]
     },
     {
       "id": "end_piece",
       "bg": "",
       "fg": [
-        "f_floor_scrap_end_piece_n",
-        "f_floor_scrap_end_piece_w",
-        "f_floor_scrap_end_piece_s",
-        "f_floor_scrap_end_piece_e"
+        {
+          "weight": 1,
+          "sprite": [
+            "t_scrap_floor_end_piece_n_1",
+            "t_scrap_floor_end_piece_w_1",
+            "t_scrap_floor_end_piece_s_1",
+            "t_scrap_floor_end_piece_e_1"
+          ]
+        },
+        {
+          "weight": 1,
+          "sprite": [
+            "t_scrap_floor_end_piece_n_2",
+            "t_scrap_floor_end_piece_w_2",
+            "t_scrap_floor_end_piece_s_2",
+            "t_scrap_floor_end_piece_e_2"
+          ]
+        }
       ]
     },
     {
       "bg": "",
       "id": "unconnected",
-      "fg": "f_floor_scrap_unconnected"
+      "fg": [
+        { "weight": 1, "sprite": [ "t_scrap_floor_unconnected_1" ] },
+        { "weight": 1, "sprite": [ "t_scrap_floor_unconnected_2" ] }
+      ]
     }
   ]
 }
