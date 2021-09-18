@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "pavilion_1" ],
+    "fg": [ "pavilion_1_N", "pavilion_1_E", "pavilion_1_S", "pavilion_1_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "pavilion_roof_1" ],
+    "fg": [ "pavilion_roof_1_N", "pavilion_roof_1_E", "pavilion_roof_1_S", "pavilion_roof_1_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

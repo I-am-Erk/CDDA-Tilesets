@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "museum" ],
+    "fg": [ "museum_N", "museum_E", "museum_S", "museum_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "museum_roof" ],
+    "fg": [ "museum_roof_N", "museum_roof_E", "museum_roof_S", "museum_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]
