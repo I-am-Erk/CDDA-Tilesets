@@ -1,0 +1,91 @@
+{
+  "id": "f_ground_cable",
+  "multitile": true,
+  "fg": "f_ground_cable_unconnected",
+  "bg": "",
+  "additional_tiles": [
+    {
+      "id": "center",
+      "bg": "",
+      "fg": [ { "weight": 1, "sprite": [ "f_ground_cable_center" ] }, { "weight": 1, "sprite": [ "f_ground_cable_center" ] } ]
+    },
+    {
+      "id": "corner",
+      "bg": "",
+      "fg": [
+        {
+          "weight": 1,
+          "sprite": [ "f_ground_cable_corner_nw", "f_ground_cable_corner_sw", "f_ground_cable_corner_se", "f_ground_cable_corner_ne" ]
+        },
+        {
+          "weight": 1,
+          "sprite": [ "f_ground_cable_corner_nw", "f_ground_cable_corner_sw", "f_ground_cable_corner_se_2", "f_ground_cable_corner_ne" ]
+        }
+      ]
+    },
+    {
+      "id": "t_connection",
+      "bg": "",
+      "fg": [
+        {
+          "weight": 1,
+          "sprite": [
+            "f_ground_cable_t_connection_n",
+            "f_ground_cable_t_connection_w",
+            "f_ground_cable_t_connection_s",
+            "f_ground_cable_t_connection_e"
+          ]
+        },
+        {
+          "weight": 1,
+          "sprite": [
+            "f_ground_cable_t_connection_n",
+            "f_ground_cable_t_connection_w",
+            "f_ground_cable_t_connection_s",
+            "f_ground_cable_t_connection_e"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "edge",
+      "bg": "",
+      "fg": [
+        { "weight": 1, "sprite": [ "f_ground_cable_edge_ns_1", "f_ground_cable_edge_ew_1" ] },
+        { "weight": 1, "sprite": [ "f_ground_cable_edge_ns_2", "f_ground_cable_edge_ew_2" ] }
+      ]
+    },
+    {
+      "id": "end_piece",
+      "bg": "",
+      "fg": [
+        {
+          "weight": 1,
+          "sprite": [
+            "f_ground_cable_end_piece_n",
+            "f_ground_cable_end_piece_w",
+            "f_ground_cable_end_piece_s",
+            "f_ground_cable_end_piece_e"
+          ]
+        },
+        {
+          "weight": 1,
+          "sprite": [
+            "f_ground_cable_end_piece_n",
+            "f_ground_cable_end_piece_w",
+            "f_ground_cable_end_piece_s",
+            "f_ground_cable_end_piece_e"
+          ]
+        }
+      ]
+    },
+    {
+      "bg": "",
+      "id": "unconnected",
+      "fg": [
+        { "weight": 1, "sprite": [ "f_ground_cable_unconnected" ] },
+        { "weight": 1, "sprite": [ "f_ground_cable_unconnected" ] }
+      ]
+    }
+  ]
+}
