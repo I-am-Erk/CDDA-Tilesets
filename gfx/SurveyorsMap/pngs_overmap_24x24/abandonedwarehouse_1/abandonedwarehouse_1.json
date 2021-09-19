@@ -6,7 +6,7 @@
     "rotates": true
   },
   {
-    "id": [ "abandonedwarehouse_roof_1" ],
+    "id": [ "abandonedwarehouse_1_roof" ],
     "fg": [
       "abandonedwarehouse_roof_1_N",
       "abandonedwarehouse_roof_1_E",
