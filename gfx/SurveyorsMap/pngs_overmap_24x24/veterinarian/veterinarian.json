@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "veterinarian" ],
+    "fg": [ "veterinarian_N", "veterinarian_E", "veterinarian_S", "veterinarian_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "veterinarian_roof" ],
+    "fg": [ "veterinarian_roof_N", "veterinarian_roof_E", "veterinarian_roof_S", "veterinarian_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

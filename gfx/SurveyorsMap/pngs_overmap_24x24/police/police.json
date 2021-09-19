@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "police" ],
+    "fg": [ "police_N", "police_E", "police_S", "police_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "police_roof" ],
+    "fg": [ "police_roof_N", "police_roof_E", "police_roof_S", "police_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

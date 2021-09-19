@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "s_gas_rural" ],
+    "fg": [ "s_gas_rural_N", "s_gas_rural_E", "s_gas_rural_S", "s_gas_rural_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_gas_rural_roof" ],
+    "fg": [ "s_gas_rural_roof_N", "s_gas_rural_roof_E", "s_gas_rural_roof_S", "s_gas_rural_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "id": [ "s_gas" ],
+    "fg": [ "s_gas_N", "s_gas_E", "s_gas_S", "s_gas_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  }
+]
