@@ -1,0 +1,8 @@
+[
+  {
+    "id": [ "pool_5" ],
+    "fg": [ "pool_5_N", "pool_5_E", "pool_5_S", "pool_5_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  }
+]
