@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "abandonedwarehouse" ],
+    "fg": [ "abandonedwarehouse_N", "abandonedwarehouse_E", "abandonedwarehouse_S", "abandonedwarehouse_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "abandonedwarehouse_roof" ],
+    "fg": [ "abandonedwarehouse_roof_N", "abandonedwarehouse_roof_E", "abandonedwarehouse_roof_S", "abandonedwarehouse_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]
