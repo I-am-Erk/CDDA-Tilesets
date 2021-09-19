@@ -91,5 +91,21 @@
     "rotates": true,
     "multitile": true,
     "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_windshield_reinforced_vertical_right" ] } ]
+  },
+    {
+    "id": "vp_reinforced_windshield_full_horizontal_front",
+    "fg": [ "vp_reinforced_windshield_full_horizontal_front", "vp_reinforced_windshield_full_horizontal_front_rotW", "vp_reinforced_windshield_full_horizontal_front_rotS", "vp_reinforced_windshield_full_horizontal_front_rotE" ],
+    "bg": [  ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_reinforced_windshield_full_horizontal_front", "vp_reinforced_windshield_full_horizontal_front_rotW", "vp_reinforced_windshield_full_horizontal_front_rotS", "vp_reinforced_windshield_full_horizontal_front_rotE" ] } ]
+  },
+  {
+    "id": "vp_reinforced_windshield_full_nw",
+    "fg": [ "vp_reinforced_windshield_full_nw", "vp_reinforced_windshield_full_nw_rotW", "vp_reinforced_windshield_full_nw_rotS", "vp_reinforced_windshield_full_nw_rotE" ],
+    "bg": [  ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_reinforced_windshield_full_nw", "vp_reinforced_windshield_full_nw_rotW", "vp_reinforced_windshield_full_nw_rotS", "vp_reinforced_windshield_full_nw_rotE" ] } ]
   }
 ]
