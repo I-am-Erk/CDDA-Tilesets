@@ -1,0 +1,86 @@
+[
+  {
+    "id": "river_nw",
+    "fg": "river_nw",
+    "bg": "field",
+    "rotates": false
+  },
+  {
+    "id": "river_sw",
+    "fg": "river_sw",
+    "bg": "field",
+    "rotates": false
+  },
+  {
+    "id": "river_se",
+    "fg": "river_se",
+    "bg": "field",
+    "rotates": false
+  },
+  {
+    "id": "river_ne",
+    "fg": "river_ne",
+    "bg": "field",
+    "rotates": false
+  },
+  {
+    "id": "river_north",
+    "fg": "river_N",
+    "bg": "field",
+    "rotates": false
+  },
+  {
+    "id": "river_west",
+    "fg": "river_W",
+    "bg": "field",
+    "rotates": false
+  },
+  {
+    "id": "river_east",
+    "fg": "river_E",
+    "bg": "field",
+    "rotates": false
+  },
+  {
+    "id": "river_south",
+    "fg": "river_S",
+    "bg": "field",
+    "rotates": false
+  },
+  {
+    "id": "river_center",
+    "fg": "river_center",
+    "bg": "field",
+    "rotates": false
+  },
+  {
+    "id": "river",
+    "fg": [ "river_N", "river_E", "river_S", "river_W" ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": "river_c_not_nw",
+    "fg": "river_center",
+    "bg": "field",
+    "rotates": false
+  },
+  {
+    "id": "river_c_not_ne",
+    "fg": "river_center",
+    "bg": "field",
+    "rotates": false
+  },
+  {
+    "id": "river_c_not_sw",
+    "fg": "river_center",
+    "bg": "field",
+    "rotates": false
+  },
+  {
+    "id": "river_c_not_se",
+    "fg": "river_center",
+    "bg": "field",
+    "rotates": false
+  }
+]
