@@ -1,0 +1,12 @@
+{
+    "id": "t_thconc_r",
+    "fg": [
+      { "weight": 1, "sprite": "t_thconc_r" },
+      { "weight": 1, "sprite": "t_thconc_r2" },
+      { "weight": 1, "sprite": "t_thconc_r3" },
+      { "weight": 1, "sprite": "t_thconc_r4" },
+      { "weight": 1, "sprite": "t_thconc_r5" },
+      { "weight": 1, "sprite": "t_thconc_r6" }
+    ],
+    "bg": ""
+}
