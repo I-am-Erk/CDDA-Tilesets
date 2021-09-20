@@ -1,0 +1,62 @@
+[
+{
+  "id": "mon_lab_security_drone_BM",
+  "animated": true,
+      "fg": [
+        { "weight": 10, "sprite": "mon_lab_security_drone_BM_1" },
+        { "weight": 10, "sprite": "mon_lab_security_drone_BM_2" },
+        { "weight": 10, "sprite": "mon_lab_security_drone_BM_3" },
+        { "weight": 10, "sprite": "mon_lab_security_drone_BM_2" }
+      ]
+},
+{
+  "id": "mon_lab_security_drone_BM2",
+  "animated": true,
+      "fg": [
+        { "weight": 10, "sprite": "mon_lab_security_drone_BM2_1" },
+        { "weight": 10, "sprite": "mon_lab_security_drone_BM2_2" },
+        { "weight": 10, "sprite": "mon_lab_security_drone_BM2_3" },
+        { "weight": 10, "sprite": "mon_lab_security_drone_BM2_2" }
+      ]
+},
+{
+  "id": "mon_lab_security_drone_BS",
+  "animated": true,
+      "fg": [
+        { "weight": 10, "sprite": "mon_lab_security_drone_BS_1" },
+        { "weight": 10, "sprite": "mon_lab_security_drone_BS_2" },
+        { "weight": 10, "sprite": "mon_lab_security_drone_BS_3" },
+        { "weight": 10, "sprite": "mon_lab_security_drone_BS_2" }
+      ]
+},
+{
+  "id": "mon_lab_security_drone_GM",
+  "animated": true,
+      "fg": [
+        { "weight": 10, "sprite": "mon_lab_security_drone_GM_1" },
+        { "weight": 10, "sprite": "mon_lab_security_drone_GM_2" },
+        { "weight": 10, "sprite": "mon_lab_security_drone_GM_3" },
+        { "weight": 10, "sprite": "mon_lab_security_drone_GM_2" }
+      ]
+},
+{
+  "id": "mon_lab_security_drone_GR",
+  "animated": true,
+      "fg": [
+        { "weight": 10, "sprite": "mon_lab_security_drone_GR_1" },
+        { "weight": 10, "sprite": "mon_lab_security_drone_GR_2" },
+        { "weight": 10, "sprite": "mon_lab_security_drone_GR_3" },
+        { "weight": 10, "sprite": "mon_lab_security_drone_GR_2" }
+      ]
+},
+{
+  "id": "mon_lab_security_drone_YM",
+  "animated": true,
+      "fg": [
+        { "weight": 10, "sprite": "mon_lab_security_drone_YM_1" },
+        { "weight": 10, "sprite": "mon_lab_security_drone_YM_2" },
+        { "weight": 10, "sprite": "mon_lab_security_drone_YM_3" },
+        { "weight": 10, "sprite": "mon_lab_security_drone_YM_2" }
+      ]
+}
+]

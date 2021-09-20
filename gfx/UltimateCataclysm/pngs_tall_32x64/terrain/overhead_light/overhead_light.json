@@ -1,0 +1,37 @@
+[
+{
+  "id": "t_floor_olight",
+  "fg": "overhead_light",
+  "bg": "t_floor_center_tall"
+},
+{
+  "id": "t_thconc_floor_olight",
+  "fg": "overhead_light",
+  "bg": "t_thconc_floor_center_tall"
+},
+{
+  "id": "t_metal_floor_olight",
+  "fg": "overhead_light",
+  "bg": "t_metal_floor_center_tall"
+},
+{
+  "id": "t_thconc_y_olight",
+  "fg": "overhead_light",
+  "bg": "t_thconc_y_tall"
+},
+{
+  "id": "t_strconc_floor_olight",
+  "fg": "overhead_light",
+  "bg": "t_strconc_floor_center_tall"
+},
+{
+  "id": "t_linoleum_whitefloor_olight",
+  "fg": "overhead_light",
+  "bg": "t_linoleum_white_center_tall"
+},
+{
+  "id": "t_linoleum_gray_floor_olight",
+  "fg": "overhead_light",
+  "bg": "t_linoleum_gray_center_tall"
+}
+]
