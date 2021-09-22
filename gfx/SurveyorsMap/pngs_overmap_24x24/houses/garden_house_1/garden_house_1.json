@@ -14,7 +14,7 @@
   {
     "id": [ "garden_house_1_basement" ],
     "fg": [ "garden_house_1_basement_N", "garden_house_1_basement_E", "garden_house_1_basement_S", "garden_house_1_basement_W" ],
-    "bg": [ "solid_rock" ],
+    "bg": [ "solid_earth" ],
     "rotates": true
   },
   {

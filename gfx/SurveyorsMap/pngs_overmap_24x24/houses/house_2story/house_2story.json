@@ -14,7 +14,7 @@
   {
     "id": [ "house_2story_basement" ],
     "fg": [ "house_2story_basement_N", "house_2story_basement_E", "house_2story_basement_S", "house_2story_basement_W" ],
-    "bg": [ "solid_rock" ],
+    "bg": [ "solid_earth" ],
     "rotates": true
   },
   {
