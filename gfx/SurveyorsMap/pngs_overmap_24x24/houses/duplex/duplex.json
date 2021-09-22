@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "duplex" ],
+    "fg": [ "duplex_N", "duplex_E", "duplex_S", "duplex_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "duplex_roof" ],
+    "fg": [ "duplex_roof_N", "duplex_roof_E", "duplex_roof_S", "duplex_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]
