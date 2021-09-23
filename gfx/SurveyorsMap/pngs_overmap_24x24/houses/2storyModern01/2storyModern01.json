@@ -18,7 +18,7 @@
     "rotates": true
   },
   {
-    "id": [ "2storymodern01_basement" ],
+    "id": [ "2storyModern01_basement" ],
     "fg": [ "2storymodern01_basement_N", "2storymodern01_basement_E", "2storymodern01_basement_S", "2storymodern01_basement_W" ],
     "bg": [ "solid_earth" ],
     "rotates": true
