@@ -6,7 +6,7 @@
     "rotates": true
   },
   {
-    "id": [ "house_wooded_roof" ],
+    "id": [ "house_roof" ],
     "fg": [ "house_wooded_roof_N", "house_wooded_roof_E", "house_wooded_roof_S", "house_wooded_roof_W" ],
     "bg": [ "open_air" ],
     "rotates": true
