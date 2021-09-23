@@ -1,0 +1,8 @@
+[
+  {
+    "id": [ "house_quiverfull" ],
+    "fg": [ "house_quiverfull_N", "house_quiverfull_E", "house_quiverfull_S", "house_quiverfull_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  }
+]
