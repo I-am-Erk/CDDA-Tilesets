@@ -1,0 +1,20 @@
+[
+  {
+    "id": [ "house_rv" ],
+    "fg": [ "house_rv_N", "house_rv_E", "house_rv_S", "house_rv_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "house_rv_roof" ],
+    "fg": [ "house_rv_roof_N", "house_rv_roof_E", "house_rv_roof_S", "house_rv_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "house_rv_basement" ],
+    "fg": [ "house_rv_basement_N", "house_rv_basement_E", "house_rv_basement_S", "house_rv_basement_W" ],
+    "bg": [ "solid_earth" ],
+    "rotates": true
+  }
+]
