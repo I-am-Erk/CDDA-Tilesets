@@ -118,7 +118,7 @@
     "fg": [
       "vp_board_horizontal_front",
       "vp_board_horizontal_front_rotW",
-      "vp_board_horizontal_front",
+      "vp_board_horizontal_front_rotS",
       "vp_board_horizontal_front_rotE"
     ],
     "rotates": true,
@@ -131,7 +131,7 @@
         "bg": [
           "vp_board_horizontal_front",
           "vp_board_horizontal_front_rotW",
-          "vp_board_horizontal_front",
+          "vp_board_horizontal_front_rotS",
           "vp_board_horizontal_front_rotE"
         ]
       }
