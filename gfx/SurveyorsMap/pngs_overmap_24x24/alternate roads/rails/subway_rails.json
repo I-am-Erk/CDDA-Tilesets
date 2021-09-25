@@ -60,26 +60,8 @@
     "rotates": true
   },
   {
-    "id": [ "subway_end_s", "lab_subway_end_s" ],
-    "fg": [ "railroad_track_small_end_s" ],
-    "bg": "solid_rock",
-    "rotates": true
-  },
-  {
-    "id": [ "subway_end_n", "lab_subway_end_n" ],
-    "fg": [ "railroad_track_small_end_n" ],
-    "bg": "solid_rock",
-    "rotates": true
-  },
-  {
-    "id": [ "subway_end_e", "lab_subway_end_e" ],
-    "fg": [ "railroad_track_small_end_e" ],
-    "bg": "solid_rock",
-    "rotates": true
-  },
-  {
-    "id": [ "subway_end_w", "lab_subway_end_w" ],
-    "fg": [ "railroad_track_small_end_w" ],
+    "id": [ "subway_end", "lab_subway_end" ],
+    "fg": [ "railroad_track_small_end_n", "railroad_track_small_end_e", "railroad_track_small_end_s", "railroad_track_small_end_w" ],
     "bg": "solid_rock",
     "rotates": true
   }
