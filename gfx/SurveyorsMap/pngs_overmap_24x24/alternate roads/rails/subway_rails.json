@@ -1,15 +1,5 @@
 [
   {
-    "id": "subway",
-    "fg": "t_railroad_track_small_edge_ns",
-    "bg": "solid_rock",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "center",
-        "fg": "solid_rock"
-      },
-  {
     "id": [ "slab_ubway_ew", "lab_subway_ew" ],
     "fg": [ "t_railroad_track_small_edge_ew" ],
     "bg": "solid_rock",
