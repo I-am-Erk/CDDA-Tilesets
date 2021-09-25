@@ -13,25 +13,25 @@
   },
   {
     "id": [ "subway_nsw", "lab_subway_nsw" ],
-    "fg": [ "railroad_track_small_connection_w" ],
+    "fg": [ "railroad_track_small_t_connection_w" ],
     "bg": "solid_rock",
     "rotates": true
   },
   {
     "id": [ "subway_nes", "lab_subway_nes" ],
-    "fg": [ "railroad_track_small_connection_e" ],
+    "fg": [ "railroad_track_small_t_connection_e" ],
     "bg": "solid_rock",
     "rotates": true
   },
   {
     "id": [ "subway_esw", "lab_subway_esw" ],
-    "fg": [ "railroad_track_small_connection_n" ],
+    "fg": [ "railroad_track_small_t_connection_n" ],
     "bg": "solid_rock",
     "rotates": true
   },
   {
     "id": [ "subway_new", "lab_subway_new" ],
-    "fg": [ "railroad_track_small_connection_s" ],
+    "fg": [ "railroad_track_small_t_connection_s" ],
     "bg": "solid_rock",
     "rotates": true
   },
