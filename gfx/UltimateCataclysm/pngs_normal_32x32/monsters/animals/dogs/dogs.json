@@ -76,5 +76,10 @@
   "id": "mon_dog_rottweiler",
   "fg": "mon_dog_rottweiler",
   "bg": "shadow_32x32_normal"
+  },
+  {
+  "id": "mon_dog_mutant_mongrel",
+  "fg": "mon_dog_mutant_mongrel",
+  "bg": "shadow_32x32_normal"
   }
 ]
