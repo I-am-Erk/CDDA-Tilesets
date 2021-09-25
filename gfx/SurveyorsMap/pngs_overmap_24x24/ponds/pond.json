@@ -14,7 +14,7 @@
   {
     "id": [ "pond_swamp" ],
     "fg": [ "pond_N", "pond_E", "pond_S", "pond_W" ],
-    "bg": [ "forest_water" ],
+    "bg": [ "swamp" ],
     "rotates": true
   },
   {
