@@ -1,0 +1,26 @@
+[
+  {
+    "id": "overmap_horde_3",
+    "fg": [ "overmap_horde_3" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overmap_horde_4",
+    "fg": [ "overmap_horde_4" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overmap_horde_5",
+    "fg": [ "overmap_horde_5" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overmap_horde_6",
+    "fg": [ "overmap_horde_6" ],
+    "rotates": false,
+    "bg": [  ]
+  }
+]
