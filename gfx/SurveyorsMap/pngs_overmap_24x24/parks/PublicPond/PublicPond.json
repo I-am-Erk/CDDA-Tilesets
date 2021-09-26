@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "publicpond_1a" ],
+    "fg": [ "publicpond_1a_N", "publicpond_1a_E", "publicpond_1a_S", "publicpond_1a_W" ],
+    "bg": [ "forest" ],
+    "rotates": true
+  },
+  {
+    "id": [ "publicpond_1a_roof" ],
+    "fg": [ "publicpond_1a_roof_N", "publicpond_1a_roof_E", "publicpond_1a_roof_S", "publicpond_1a_roof_W" ],
+    "bg": [ "forest" ],
+    "rotates": true
+  }
+]
