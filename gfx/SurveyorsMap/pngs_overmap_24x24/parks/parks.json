@@ -13,7 +13,7 @@
   },
   {
     "id": [ "communitygarden_2" ],
-    "fg": [ "communitygarden_nesw" ],
+    "fg": [ "communitygarden_2_nesw" ],
     "bg": [ "field" ],
     "rotates": true
   },
