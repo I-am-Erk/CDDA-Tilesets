@@ -1,13 +1,13 @@
 [
   {
     "id": [ "PublicPond_1a" ],
-    "fg": [ "PublicPond_1a_N", "PublicPond_1a_E", "PublicPond_1a_S", "PublicPond_1a_W" ],
+    "fg": [ "publicpond_1a_N", "publicpond_1a_E", "publicpond_1a_S", "publicpond_1a_W" ],
     "bg": [ "forest" ],
     "rotates": true
   },
   {
     "id": [ "PublicPond_1b" ],
-    "fg": [ "PublicPond_1b_N", "PublicPond_1b_E", "PublicPond_1b_S", "PublicPond_1b_W" ],
+    "fg": [ "publicpond_1b_N", "publicpond_1b_E", "publicpond_1b_S", "publicpond_1b_W" ],
     "bg": [ "forest" ],
     "rotates": true
   }
