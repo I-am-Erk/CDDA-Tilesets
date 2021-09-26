@@ -1,0 +1,19 @@
+[
+  {
+    "id": "fd_tindalos_gas",
+    "fg": "fd_tindalos_gas1",
+    "animated": true,
+        "fg": [
+          { "weight": 5, "sprite": "fd_tindalos_gas1" },
+          { "weight": 5, "sprite": "fd_tindalos_gas2" },
+          { "weight": 5, "sprite": "fd_tindalos_gas3" },
+          { "weight": 5, "sprite": "fd_tindalos_gas4" },
+          { "weight": 5, "sprite": "fd_tindalos_gas5" },
+          { "weight": 5, "sprite": "fd_tindalos_gas6" },
+          { "weight": 5, "sprite": "fd_tindalos_gas7" },
+          { "weight": 5, "sprite": "fd_tindalos_gas8" },
+          { "weight": 5, "sprite": "fd_tindalos_gas9" },
+          { "weight": 5, "sprite": "fd_tindalos_gas10" }
+        ]
+  }
+]
