@@ -91,7 +91,7 @@
   },
   {
     "id": [ "park_6" ],
-    "fg": [ "park_6_N", "park_6_E", "park_6_S", "park_6_W" ],
+    "fg": [ "park_6_NS", "park_6_EW", "park_6_NS", "park_6_EW" ],
     "bg": [ "field" ],
     "rotates": true
   },
@@ -103,7 +103,7 @@
   },
   {
     "id": [ "playground" ],
-    "fg": [ "playground_NS", "playground_EW", "playground_NS", "playground_EW" ],
+    "fg": [ "playground_N", "playground_E", "playground_S", "playground_W" ],
     "bg": [ "field" ],
     "rotates": true
   },
