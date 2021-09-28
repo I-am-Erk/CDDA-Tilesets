@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "naturetrail_1a" ],
+    "fg": [ "naturetrail_1a_N", "naturetrail_1a_E", "naturetrail_1a_S", "naturetrail_1a_W" ],
+    "bg": [ "forest_thick" ],
+    "rotates": true
+  },
+  {
+    "id": [ "naturetrail_1b" ],
+    "fg": [ "naturetrail_1b_N", "naturetrail_1b_E", "naturetrail_1b_S", "naturetrail_1b_W" ],
+    "bg": [ "forest_thick" ],
+    "rotates": true
+  }
+]
