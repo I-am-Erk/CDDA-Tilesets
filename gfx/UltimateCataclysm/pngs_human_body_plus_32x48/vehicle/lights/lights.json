@@ -6,7 +6,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_metal_center",
+        "fg": "crack_metal_center_32x48",
         "bg": [ "vp_light_blue", "vp_light_blue_rotWE" ]
       }
     ]
@@ -18,7 +18,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_metal_center",
+        "fg": "crack_metal_center_32x48",
         "bg": [ "vp_light_red", "vp_light_red_rotWE" ]
       }
     ]
@@ -30,7 +30,7 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": "crack_metal_center",
+        "fg": "crack_metal_center_32x48",
         "bg": [ "vp_floodlight_rotN", "vp_floodlight_rotW", "vp_floodlight_rotS", "vp_floodlight_rotE" ]
       }
     ]
