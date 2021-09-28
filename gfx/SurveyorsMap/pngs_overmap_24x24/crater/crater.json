@@ -1,7 +1,7 @@
 [
   {
     "id": [ "crater_core" ],
-    "fg": [ " crater_core_N", " crater_core_E", " crater_core_S", " crater_core_W" ],
+    "fg": [ "crater_core_N", "crater_core_E", "crater_core_S", "crater_core_W" ],
     "bg": [ "field" ],
     "rotates": true
   }

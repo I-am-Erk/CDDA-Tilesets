@@ -67,7 +67,7 @@
   },
   {
     "id": [ "farm_lot_m" ],
-    "fg": [ "farm_lot_m_N", "farm_lot_m_E", "farm_lot_m_S", "farm_lot_m_W" ],
+    "fg": [ "farm_lot_M_N", "farm_lot_M_E", "farm_lot_M_S", "farm_lot_M_W" ],
     "bg": [ "field" ],
     "rotates": true
   },
