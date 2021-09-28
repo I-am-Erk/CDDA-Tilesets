@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "mon_hulk_pupa", "mon_hulk_pupa_decoy" ],
+    "fg": [ "mon_hulk_pupa" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": [ "corpse_mon_hulk_pupa", "corpse_mon_hulk_pupa_decoy" ],
+    "fg": [ "corpse_mon_hulk_pupa" ],
+    "rotates": false,
+    "bg": [  ]
+  }
+]
