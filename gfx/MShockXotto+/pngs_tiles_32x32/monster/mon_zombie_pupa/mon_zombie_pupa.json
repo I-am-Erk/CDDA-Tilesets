@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "mon_zombie_pupa", "mon_zombie_pupa_decoy" ],
+    "fg": [ "mon_zombie_pupa" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": [ "corpse_mon_zombie_pupa", "corpse_mon_zombie_pupa_decoy" ],
+    "fg": [ "corpse_mon_zombie_pupa" ],
+    "rotates": false,
+    "bg": [  ]
+  }
+]
