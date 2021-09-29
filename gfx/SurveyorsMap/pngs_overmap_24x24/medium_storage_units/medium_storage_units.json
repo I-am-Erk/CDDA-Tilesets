@@ -1,0 +1,36 @@
+[
+  {
+    "id": [ "medium_storage_units_1" ],
+    "fg": [ "medium_storage_units_1_N", "medium_storage_units_1_E", "medium_storage_units_1_S", "medium_storage_units_1_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "medium_storage_units_2" ],
+    "fg": [ "medium_storage_units_2_N", "medium_storage_units_2_E", "medium_storage_units_2_S", "medium_storage_units_2_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "medium_storage_units_roof_1" ],
+    "fg": [
+      "medium_storage_units_roof_1_N",
+      "medium_storage_units_roof_1_E",
+      "medium_storage_units_roof_1_S",
+      "medium_storage_units_roof_1_W"
+    ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "medium_storage_units_roof_2" ],
+    "fg": [
+      "medium_storage_units_roof_2_N",
+      "medium_storage_units_roof_2_E",
+      "medium_storage_units_roof_2_S",
+      "medium_storage_units_roof_2_W"
+    ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]
