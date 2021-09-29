@@ -27,7 +27,7 @@
   },
   {
     "id": "vp_door_internal_front",
-    "fg": [ "vp_door_opaque_rear_rotS", "vp_door_interior_front_rotW", "vp_door_interior_front_rotS", "vp_door_interior_front_rotE" ],
+    "fg": [ "vp_door_opaque_rear_rotS", "vp_door_full_left", "vp_door_interior_front_rotS", "vp_door_full_left_rotS" ],
     "multitile": true,
     "additional_tiles": [
       {
