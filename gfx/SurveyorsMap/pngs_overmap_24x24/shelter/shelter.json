@@ -1,0 +1,20 @@
+[
+  {
+    "id": [ "shelter", "shelter_vandal" ],
+    "fg": [ "shelter_N", "shelter_E", "shelter_S", "shelter_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "shelter_roof" ],
+    "fg": [ "shelter_roof_N", "shelter_roof_E", "shelter_roof_S", "shelter_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "shelter_under" ],
+    "fg": [ "shelter_under_N", "shelter_under_E", "shelter_under_S", "shelter_under_W" ],
+    "bg": [ "solid_earth" ],
+    "rotates": true
+  }
+]
