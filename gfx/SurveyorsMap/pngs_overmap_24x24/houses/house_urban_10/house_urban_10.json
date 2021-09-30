@@ -14,13 +14,13 @@
   {
     "id": [ "urban_10_3" ],
     "fg": [ "urban_10_3_N", "urban_10_3_E", "urban_10_3_S", "urban_10_3_W" ],
-    "bg": [ "solid_earth" ],
+    "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "urban_10_4" ],
     "fg": [ "urban_10_4_N", "urban_10_4_E", "urban_10_4_S", "urban_10_4_W" ],
-    "bg": [ "solid_earth" ],
+    "bg": [ "open_air" ],
     "rotates": true
   },
   {
@@ -38,13 +38,13 @@
   {
     "id": [ "urban_10_7" ],
     "fg": [ "urban_10_7_N", "urban_10_7_E", "urban_10_7_S", "urban_10_7_W" ],
-    "bg": [ "open_air" ],
+    "bg": [ "solid_earth" ],
     "rotates": true
   },
   {
     "id": [ "urban_10_8" ],
     "fg": [ "urban_10_8_N", "urban_10_8_E", "urban_10_8_S", "urban_10_8_W" ],
-    "bg": [ "open_air" ],
+    "bg": [ "solid_earth" ],
     "rotates": true
   }
 ]
