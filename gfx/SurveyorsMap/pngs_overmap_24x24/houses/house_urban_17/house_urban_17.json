@@ -1,0 +1,26 @@
+[
+  {
+    "id": [ "urban_17_1" ],
+    "fg": [ "urban_17_1_N", "urban_17_1_E", "urban_17_1_S", "urban_17_1_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "urban_17_2" ],
+    "fg": [ "urban_17_2_N", "urban_17_2_E", "urban_17_2_S", "urban_17_2_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "urban_17_3" ],
+    "fg": [ "urban_17_3_N", "urban_17_3_E", "urban_17_3_S", "urban_17_3_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "urban_17_4" ],
+    "fg": [ "urban_17_4_N", "urban_17_4_E", "urban_17_4_S", "urban_17_4_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]
