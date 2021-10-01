@@ -1,17 +1,5 @@
 [
   {
-    "id": "vp_afs_roof_external_tank",
-    "fg": [ "vp_afs_roof_external_tank_rotNS", "vp_afs_roof_external_tank_rotEW" ],
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": [ "vp_afs_roof_external_tank_rotNS", "vp_afs_roof_external_tank_rotEW" ]
-      }
-    ]
-  },
-  {
     "id": "vp_external_tank",
     "fg": [ "vp_external_tank", "vp_external_tank_rotE", "vp_external_tank_rotS", "vp_external_tank_rotW" ],
     "multitile": true,

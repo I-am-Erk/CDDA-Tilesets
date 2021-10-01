@@ -1,0 +1,14 @@
+[
+  {
+    "id": "vp_omnicam",
+    "fg": [ "vp_omnicam", "vp_omnicam_rotEW" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center_32x48",
+        "bg": [ "vp_omnicam", "vp_omnicam_rotEW" ]
+      }
+    ]
+  }
+]
