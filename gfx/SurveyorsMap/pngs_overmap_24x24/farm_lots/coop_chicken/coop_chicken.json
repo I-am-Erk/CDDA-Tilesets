@@ -1,0 +1,8 @@
+[
+  {
+    "id": [ "coop_chicken" ],
+    "fg": [ "coop_chicken_N", "coop_chicken_E", "coop_chicken_S", "coop_chicken_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  }
+]

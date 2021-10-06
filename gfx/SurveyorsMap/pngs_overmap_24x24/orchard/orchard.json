@@ -1,0 +1,8 @@
+[
+  {
+    "id": [ "orchard" ],
+    "fg": [ "orchard_N", "orchard_E", "orchard_S", "orchard_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  }
+]

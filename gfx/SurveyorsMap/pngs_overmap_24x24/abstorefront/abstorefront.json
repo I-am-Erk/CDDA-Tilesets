@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "abstorefront" ],
+    "fg": [ "abstorefront_N", "abstorefront_E", "abstorefront_S", "abstorefront_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "abstorefront_roof" ],
+    "fg": [ "abstorefront_roof_N", "abstorefront_roof_E", "abstorefront_roof_S", "abstorefront_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

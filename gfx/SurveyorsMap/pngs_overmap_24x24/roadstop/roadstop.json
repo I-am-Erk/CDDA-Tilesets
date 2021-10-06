@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "roadstop" ],
+    "fg": [ "roadstop_N", "roadstop_E", "roadstop_S", "roadstop_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "roadstop_roof" ],
+    "fg": [ "roadstop_roof_N", "roadstop_roof_E", "roadstop_roof_S", "roadstop_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

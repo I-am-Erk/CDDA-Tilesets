@@ -1,0 +1,8 @@
+[
+  {
+    "id": [ "sai" ],
+    "fg": [ "sai_N", "sai_E", "sai_S", "sai_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  }
+]

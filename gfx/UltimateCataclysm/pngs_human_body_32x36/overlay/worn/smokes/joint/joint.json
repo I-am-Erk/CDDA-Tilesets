@@ -1,0 +1,30 @@
+[
+  {
+    "id": "overlay_female_worn_joint_lit",
+    "fg": "overlay_female_worn_joint_lit",
+    "animated": true,
+        "fg": [
+          { "weight": 14, "sprite": "overlay_female_worn_joint_lit_1" },
+          { "weight": 14, "sprite": "overlay_female_worn_joint_lit_2" },
+          { "weight": 14, "sprite": "overlay_female_worn_joint_lit_3" },
+          { "weight": 14, "sprite": "overlay_female_worn_joint_lit_4" },
+          { "weight": 14, "sprite": "overlay_female_worn_joint_lit_5" },
+          { "weight": 14, "sprite": "overlay_female_worn_joint_lit_6" },
+          { "weight": 14, "sprite": "overlay_female_worn_joint_lit_7" }
+        ]
+  },
+  {
+    "id": "overlay_male_worn_joint_lit",
+    "fg": "overlay_male_worn_joint_lit",
+    "animated": true,
+        "fg": [
+          { "weight": 14, "sprite": "overlay_male_worn_joint_lit_1" },
+          { "weight": 14, "sprite": "overlay_male_worn_joint_lit_2" },
+          { "weight": 14, "sprite": "overlay_male_worn_joint_lit_3" },
+          { "weight": 14, "sprite": "overlay_male_worn_joint_lit_4" },
+          { "weight": 14, "sprite": "overlay_male_worn_joint_lit_5" },
+          { "weight": 14, "sprite": "overlay_male_worn_joint_lit_6" },
+          { "weight": 14, "sprite": "overlay_male_worn_joint_lit_7" }
+        ]
+  }
+]

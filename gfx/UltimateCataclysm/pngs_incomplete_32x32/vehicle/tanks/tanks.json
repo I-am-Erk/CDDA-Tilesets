@@ -1,0 +1,26 @@
+[
+  {
+    "id": "vp_external_tank",
+    "fg": [ "vp_external_tank", "vp_external_tank_rotE", "vp_external_tank_rotS", "vp_external_tank_rotW" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_external_tank", "vp_external_tank_rotE", "vp_external_tank_rotS", "vp_external_tank_rotW" ]
+      }
+    ]
+  },
+  {
+    "id": "vp_tank_55gal_drum",
+    "fg": [ "vp_tank_55gal_drum_rotNS", "vp_tank_55gal_drum_rotEW" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_tank_55gal_drum_rotNS", "vp_tank_55gal_drum_rotEW" ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "s_laundromat_1" ],
+    "fg": [ "s_laundromat_1_N", "s_laundromat_1_E", "s_laundromat_1_S", "s_laundromat_1_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_laundromat_roof_1" ],
+    "fg": [ "s_laundromat_roof_1_N", "s_laundromat_roof_1_E", "s_laundromat_roof_1_S", "s_laundromat_roof_1_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

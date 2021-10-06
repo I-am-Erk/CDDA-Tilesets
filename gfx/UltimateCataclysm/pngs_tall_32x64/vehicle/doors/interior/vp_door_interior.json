@@ -1,0 +1,44 @@
+[
+  {
+    "id": [ "vp_door", "vp_door_internal", "vp_door_opaque" ],
+    "fg": [ "vp_door_interior_rotN", "vp_door_interior_rotW", "vp_door_interior_rotS", "vp_door_interior_rotE" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "open",
+        "fg": [
+          "vp_door_interior_rotN_open",
+          "vp_door_interior_open_rotW",
+          "vp_door_interior_rotS_open",
+          "vp_door_interior_open_rotE"
+        ]
+      },
+      {
+        "id": "broken",
+        "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
+        "bg": [
+          "vp_door_interior_rotN_open",
+          "vp_door_interior_open_rotW",
+          "vp_door_interior_rotS_open",
+          "vp_door_interior_open_rotE"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vp_door_internal_front",
+    "fg": [ "vp_door_opaque_rear_rotS", "vp_door_full_left", "vp_door_interior_front_rotS", "vp_door_full_left_rotS" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "open",
+        "fg": [ "vp_door_rear_open_rotS", "vp_door_interior_front_open_rotW", "vp_door_interior_front_open_rotS", "vp_door_interior_front_open_rotE" ]
+      },
+      {
+        "id": "broken",
+        "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
+        "bg": [ "vp_door_rear_open_rotS", "vp_door_interior_front_open_rotW", "vp_door_interior_front_open_rotS", "vp_door_interior_front_open_rotE" ]
+      }
+    ]
+  }
+]

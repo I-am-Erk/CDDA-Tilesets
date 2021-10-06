@@ -1,0 +1,19 @@
+[
+  {
+    "id": [ "cs_gardening_allotment" ],
+    "fg": [ "cs_gardening_allotment_N", "cs_gardening_allotment_E", "cs_gardening_allotment_S", "cs_gardening_allotment_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "cs_gardening_allotment_roof" ],
+    "fg": [
+      "cs_gardening_allotment_roof_N",
+      "cs_gardening_allotment_roof_E",
+      "cs_gardening_allotment_roof_S",
+      "cs_gardening_allotment_roof_W"
+    ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": [ "urban_9_1" ],
+    "fg": [ "urban_9_1_N", "urban_9_1_E", "urban_9_1_S", "urban_9_1_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "urban_9_2" ],
+    "fg": [ "urban_9_2_N", "urban_9_2_E", "urban_9_2_S", "urban_9_2_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "urban_9_3" ],
+    "fg": [ "urban_9_3_N", "urban_9_3_E", "urban_9_3_S", "urban_9_3_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "urban_9_4" ],
+    "fg": [ "urban_9_4_N", "urban_9_4_E", "urban_9_4_S", "urban_9_4_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "urban_9_5" ],
+    "fg": [ "urban_9_5_N", "urban_9_5_E", "urban_9_5_S", "urban_9_5_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "urban_9_6" ],
+    "fg": [ "urban_9_6_N", "urban_9_6_E", "urban_9_6_S", "urban_9_6_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]
