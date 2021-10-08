@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "trailhead_shack_z0" ],
+    "fg": [ "trailhead_shack_z0_N", "trailhead_shack_z0_E", "trailhead_shack_z0_S", "trailhead_shack_z0_W" ],
+    "bg": [ "forest" ],
+    "rotates": true
+  },
+  {
+    "id": [ "trailhead_shack_z1" ],
+    "fg": [ "trailhead_shack_z1_N", "trailhead_shack_z1_E", "trailhead_shack_z1_S", "trailhead_shack_z1_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "mon_zombie_resort_dancer",
+    "fg": [
+      { "weight": 1, "sprite": "mon_zombie_resort_dancer1" },
+      { "weight": 1, "sprite": "mon_zombie_resort_dancer2" }
+    ],
+    "bg": "shadow_32x48_normal"
+  }
+]

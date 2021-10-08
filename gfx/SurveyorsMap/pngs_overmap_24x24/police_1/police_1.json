@@ -1,0 +1,20 @@
+[
+  {
+    "id": [ "police_1" ],
+    "fg": [ "police_1_N", "police_1_E", "police_1_S", "police_1_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "police_2ndfloor_1" ],
+    "fg": [ "police_2ndfloor_1_N", "police_2ndfloor_1_E", "police_2ndfloor_1_S", "police_2ndfloor_1_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "police_roof_1" ],
+    "fg": [ "police_roof_1_N", "police_roof_1_E", "police_roof_1_S", "police_roof_1_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "station_radio" ],
+    "fg": [ "station_radio_N", "station_radio_E", "station_radio_S", "station_radio_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "station_radio_roof" ],
+    "fg": [ "station_radio_roof_N", "station_radio_roof_E", "station_radio_roof_S", "station_radio_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

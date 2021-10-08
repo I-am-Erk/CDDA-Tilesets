@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "s_gas_1" ],
+    "fg": [ "s_gas_1_N", "s_gas_1_E", "s_gas_1_S", "s_gas_1_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_gas_roof_1" ],
+    "fg": [ "s_gas_roof_1_N", "s_gas_roof_1_E", "s_gas_roof_1_S", "s_gas_roof_1_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]
