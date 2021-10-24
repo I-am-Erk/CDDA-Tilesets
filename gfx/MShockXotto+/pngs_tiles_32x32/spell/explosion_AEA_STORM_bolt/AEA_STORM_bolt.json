@@ -1,0 +1,12 @@
+{
+  "id": [
+    "explosion_AEA_STORM_bolt"
+  ],
+  "fg": "explosion_AEA_STORM_bolt_edge",
+  "bg": "",
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "corner", "fg": [ "explosion_AEA_STORM_bolt_corner" ], "bg": "" },
+    { "id": "edge", "fg": [ "explosion_AEA_STORM_bolt_edge" ], "bg": "" }
+  ]
+}
