@@ -59,11 +59,17 @@
   },
   {
     "id": [ "vp_hdhalfboard_horizontal" ],
-    "fg": [ "vp_hdhalfboard_horizontal_front" ],
+    "fg": [   "vp_hdhalfboard_horizontal_front",
+			  "vp_hdhalfboard_horizontal_front_rotW",
+			  "vp_hdhalfboard_horizontal_front_rotS",
+			  "vp_hdhalfboard_horizontal_front_rotE" ],
     "rotates": true,
     "bg": [  ],
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_hdhalfboard_horizontal_front" ] } ]
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_hdhalfboard_horizontal_front",
+	"vp_hdhalfboard_horizontal_front_rotW",
+	"vp_hdhalfboard_horizontal_front_rotS",
+	"vp_hdhalfboard_horizontal_front_rotE" ] } ]
   },
   {
     "id": [ "vp_hdhalfboard_horizontal_2" ],
