@@ -1,0 +1,13 @@
+{
+  "id": [
+    "corpse_mon_chicken_chick",
+    "corpse_mon_cockatrice_chick",
+    "corpse_mon_crow_chick",
+    "corpse_mon_duck_chick",
+    "corpse_mon_goose_canadian_chick",
+    "corpse_mon_grouse_chick",
+    "corpse_mon_pheasant_chick",
+    "corpse_mon_turkey_chick"
+  ],
+  "fg": "corpse_mon_chick"
+}
