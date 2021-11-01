@@ -1,0 +1,12 @@
+{
+  "id": [
+    "explosion_death_focused_beam_explosion"
+  ],
+  "fg": "explosion_death_focused_beam_explosion_edge",
+  "bg": "",
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "corner", "fg": [ "explosion_death_focused_beam_explosion_corner" ], "bg": "" },
+    { "id": "edge", "fg": [ "explosion_death_focused_beam_explosion_edge" ], "bg": "" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "id": [
+    "explosion_remove_controlled_jackson",
+    "explosion_death_jackson",
+    "explosion_death_darkman",
+    "explosion_death_ratking",
+    "explosion_death_amigara"
+  ],
+  "fg": "t_open_air",
+  "bg": ""
+}
