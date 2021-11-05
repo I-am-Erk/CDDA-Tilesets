@@ -3,7 +3,8 @@
     "id": [ "t_pavement_y", "t_pavement_y_bg_dp" ],
     "fg": [
       { "weight": 1, "sprite": "t_pavement_y_1" },
-      { "weight": 1, "sprite": "t_pavement_y_2" }
+      { "weight": 1, "sprite": "t_pavement_y_2" },
+      { "weight": 1, "sprite": "t_pavement_y_3" }
     ],
     "bg": [  ]
   },
@@ -11,7 +12,8 @@
     "id": [ "t_pavement", "t_pavement_bg_dp" ],
     "fg": [
       { "weight": 1, "sprite": "t_pavement_1" },
-      { "weight": 1, "sprite": "t_pavement_2" }
+      { "weight": 1, "sprite": "t_pavement_2" },
+      { "weight": 1, "sprite": "t_pavement_3" }
     ],
     "bg": [  ]
   }
