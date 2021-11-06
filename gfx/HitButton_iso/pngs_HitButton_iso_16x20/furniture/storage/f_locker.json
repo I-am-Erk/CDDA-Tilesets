@@ -1,0 +1,12 @@
+{
+  "id": [
+    "f_locker"
+  ],
+  "multitile": true,
+  "fg": [
+    "f_locker_L",
+    "f_locker_R"
+  ],
+  "bg": [
+  ]
+}
