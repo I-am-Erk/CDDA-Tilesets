@@ -1,6 +1,6 @@
 [
   {
-    "id": [ "t_wall_brick" ],
+    "id": [ "t_brick_wall" ],
     "fg": [ "t_wall_brick_L", "t_wall_brick_R" ],
     "multitile": true,
     "additional_tiles": [
