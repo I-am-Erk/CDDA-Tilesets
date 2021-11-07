@@ -1,0 +1,12 @@
+{
+  "id": [
+    "explosion_spur_shrill"
+  ],
+  "fg": "explosion_spur_shrill_edge",
+  "bg": "",
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "corner", "fg": [ "explosion_spur_shrill_corner" ], "bg": "" },
+    { "id": "edge", "fg": [ "explosion_spur_shrill_edge" ], "bg": "" }
+  ]
+}

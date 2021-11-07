@@ -1,0 +1,12 @@
+{
+  "id": [
+    "explosion_weaponpod_heat_gun"
+  ],
+  "fg": "explosion_weaponpod_heat_gun_edge",
+  "bg": "",
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "corner", "fg": [ "explosion_weaponpod_heat_gun_corner" ], "bg": "" },
+    { "id": "edge", "fg": [ "explosion_weaponpod_heat_gun_edge" ], "bg": "" }
+  ]
+}

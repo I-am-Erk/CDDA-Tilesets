@@ -1,0 +1,14 @@
+{
+  "id": [
+    "explosion_big_raptor_spawn",
+    "explosion_small_raptor_spawn",
+    "explosion_hive_raptor_spawn"
+  ],
+  "fg": "explosion_small_raptor_spawn_edge",
+  "bg": "",
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "corner", "fg": [ "explosion_small_raptor_spawn_corner" ], "bg": "" },
+    { "id": "edge", "fg": [ "explosion_small_raptor_spawn_edge" ], "bg": "" }
+  ]
+}
