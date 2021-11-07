@@ -1,6 +1,7 @@
 {
   "id": [
-    "explosion_AEA_STORM_bolt"
+    "explosion_AEA_STORM_bolt",
+    "explosion_weaponpod_electric_blast"
   ],
   "fg": "explosion_AEA_STORM_bolt_edge",
   "bg": "",
