@@ -1,0 +1,6 @@
+[
+{"id": ["mon_zombie_grenadier"], "fg": ["276_mon_zombie_grenadier_0"], "bg": [ "hex_dgreen" ]},
+{"id": ["mon_zombie_grenadier_elite"], "fg": ["277_mon_zombie_grenadier_elite_0"], "bg": [ "hex_dgreen" ]},
+{"id": ["mon_zombie_bio_op"], "fg": ["301_mon_zombie_bio_op_0"], "bg": [ "hex_dgreen" ]},
+{"id": ["mon_zombie_soldier"], "fg": ["275_mon_zombie_soldier_0"], "bg": [ "hex_dgreen" ]}
+]

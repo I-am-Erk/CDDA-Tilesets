@@ -1,0 +1,13 @@
+{
+  "id": [
+    "t_rock_floor"
+  ],
+  "fg": [
+      { "weight": 1, "sprite": "t_rock_floor_1" },
+      { "weight": 1, "sprite": "t_rock_floor_2" },
+      { "weight": 1, "sprite": "t_rock_floor_3" }
+  ],
+  "bg": [
+    
+  ]
+}

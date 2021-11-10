@@ -1,0 +1,38 @@
+[
+  {
+    "id": [ "t_carpet_green" ],
+    "fg": [
+      { "weight": 1, "sprite": "carpet_green_1" },
+      { "weight": 1, "sprite": "carpet_green_2" },
+      { "weight": 1, "sprite": "carpet_green_3" }
+    ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "t_carpet_red" ],
+    "fg": [
+      { "weight": 1, "sprite": "carpet_red_1" },
+      { "weight": 1, "sprite": "carpet_red_2" },
+      { "weight": 1, "sprite": "carpet_red_3" }
+    ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "t_carpet_yellow" ],
+    "fg": [
+      { "weight": 1, "sprite": "carpet_yellow_1" },
+      { "weight": 1, "sprite": "carpet_yellow_2" },
+      { "weight": 1, "sprite": "carpet_yellow_3" }
+    ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "t_carpet_purple" ],
+    "fg": [
+      { "weight": 1, "sprite": "carpet_purple_1" },
+      { "weight": 1, "sprite": "carpet_purple_2" },
+      { "weight": 1, "sprite": "carpet_purple_3" }
+    ],
+    "bg": [  ]
+  }
+]
