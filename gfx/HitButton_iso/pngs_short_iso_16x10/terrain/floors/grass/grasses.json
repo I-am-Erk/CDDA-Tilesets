@@ -17,11 +17,6 @@
     "bg": [  ]
   },
   {
-    "id": [ "t_grass_tall" ],
-    "fg": [ "t_grass_tall" ],
-    "bg": [  ]
-  },
-  {
     "id": [ "t_grass_white" ],
     "fg": [ "t_grass_white" ],
     "bg": [  ]
