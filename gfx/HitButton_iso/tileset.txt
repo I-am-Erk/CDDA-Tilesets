@@ -1,4 +1,5 @@
-NAME: HitButton_iso
-VIEW: HitButton iso
+NAME: ShasmButton_iso
+VIEW: SmashButton iso
 JSON: tile_config.json
-TILESET: HitButton_iso.png
+TILESET: SmashButton_iso.png
+Original Author: HitButton

@@ -1,0 +1,16 @@
+[
+  {
+    "id": [ "t_clay" ],
+    "fg": [
+      { "weight": 1, "sprite": "t_clay_1" },
+      { "weight": 1, "sprite": "t_clay_2" },
+      { "weight": 1, "sprite": "t_clay_3" }
+    ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "t_claymound" ],
+    "fg": [ "t_claymound" ],
+    "bg": [  ]
+  }
+]

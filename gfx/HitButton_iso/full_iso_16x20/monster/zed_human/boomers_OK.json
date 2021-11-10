@@ -1,0 +1,6 @@
+[
+{"id": ["mon_boomer"], "fg": ["67_mon_boomer_0"], "bg": [ "hex_pink" ]},
+{"id": ["mon_boomer_huge"], "fg": ["249_mon_boomer_huge_0"], "bg": [ "hex_red" ]},
+{"id": ["mon_gas_zombie"], "fg": ["2482_mon_gas_zombie_0"], "bg": [ "hex_pink" ]},
+{"id": ["mon_zombie_gasbag"], "fg": ["272_mon_zombie_gasbag_0"], "bg": [ "hex_red" ]}
+]
