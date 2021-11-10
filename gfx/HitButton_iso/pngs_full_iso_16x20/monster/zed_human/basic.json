@@ -1,4 +1,6 @@
+[
 {"id": ["mon_zombie"], "fg": ["1_mon_zombie_0"], "bg": [ "hex_green" ]},
 {"id": ["mon_zombie_scientist"], "fg": ["287_mon_zombie_scientist_0"], "bg": [ "hex_green" ]},
 {"id": ["mon_zombie_cop"], "fg": ["263_mon_zombie_cop_0"], "bg": [ "hex_green" ]},
 {"id": ["mon_zombie_survivor"], "fg": ["292_mon_zombie_survivor_0"], "bg": [ "hex_green" ]}
+]
