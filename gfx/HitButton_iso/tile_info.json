@@ -12,6 +12,6 @@
     "full_iso.png": {"sprite_width": 16, "sprite_height": 20 }
   },
   {
-    "fallback.png": { "fallback": true }
+    "fallback.png": { "source": "https://raw.githubusercontent.com/I-am-Erk/CDDA-Tilesets/master/gfx/HitButton_iso/fallback.png", "fallback": true }
   }
 ]
