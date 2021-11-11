@@ -5,7 +5,7 @@
     "height": 32
   },
   {
-    "character.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32 }
+    "character.png": { "sprite_width": 32, "sprite_height": 36, "sprite_offset_y": -8 }
   },
   {
     "small.png": { "sprite_width": 20, "sprite_height": 20, "sprite_offset_x": 6, "filler": true }
