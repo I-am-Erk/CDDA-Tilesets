@@ -1,0 +1,22 @@
+[
+{
+  "id": "overlay_male_worn_robe",
+  "fg": "robe_m",
+  "bg": ""
+},
+{
+  "id": "overlay_female_worn_robe",
+  "fg": "robe_f",
+  "bg": ""
+},
+{
+  "id": "overlay_male_worn_house_coat",
+  "fg": "housecoat_m",
+  "bg": ""
+},
+{
+  "id": "overlay_female_worn_house_coat",
+  "fg": "housecoat_f",
+  "bg": ""
+}
+]
