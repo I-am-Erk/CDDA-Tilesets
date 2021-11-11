@@ -1,0 +1,57 @@
+{
+    "id": "sewer",
+    "fg": "sewer_unconnected",
+    "multitile": true,
+    "bg": "sewer_bg",
+    "additional_tiles": [
+      {
+        "id": "center",
+        "bg": "sewer_bg",
+        "fg": "sewer_center"
+      },
+      {
+        "id": "corner",
+        "bg": "sewer_bg",
+        "fg": [
+          "sewer_corner_nw",
+          "sewer_corner_sw",
+          "sewer_corner_se",
+          "sewer_corner_ne"
+        ]
+      },
+      {
+        "id": "t_connection",
+        "bg": "sewer_bg",
+        "fg": [
+          "sewer_t_connection_n",
+          "sewer_t_connection_w",
+          "sewer_t_connection_s",
+          "sewer_t_connection_e"
+        ]
+      },
+      {
+        "id": "edge",
+        "bg": "sewer_bg",
+        "fg": [
+          "sewer_edge_ns",
+          "sewer_edge_ew"
+        ]
+      },
+      {
+        "id": "end_piece",
+        "bg": "sewer_bg",
+        "fg": [
+          "sewer_end_piece_n",
+          "sewer_end_piece_w",
+          "sewer_end_piece_s",
+          "sewer_end_piece_e"
+        ]
+      },
+      {
+        "id": "unconnected",
+        "bg": "sewer_bg",
+        "fg": "sewer_unconnected"
+      }
+    ]
+  }
+  
