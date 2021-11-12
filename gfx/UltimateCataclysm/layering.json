@@ -1,0 +1,19 @@
+{
+"item_variants": [
+  {
+    "context": "f_desk",
+    "variants": [
+      {
+        "item": "laptop",
+        "sprite": [{"id": "desk_laptop", "weight": 1}],
+        "layer": 90
+      },
+      {
+        "item": "pen",
+        "sprite": [{"id": "desk_pen_1", "weight": 2}, {"id": "desk_pen_2", "weight": 2}],
+        "layer": 100
+      }
+    ]
+  }
+]
+}
