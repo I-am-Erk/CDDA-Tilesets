@@ -1,0 +1,12 @@
+{
+  "id": [
+    "explosion_spread_sludge"
+  ],
+  "fg": "explosion_spread_sludge_edge",
+  "bg": "",
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "corner", "fg": [ "explosion_spread_sludge_corner" ], "bg": "" },
+    { "id": "edge", "fg": [ "explosion_spread_sludge_edge" ], "bg": "" }
+  ]
+}
