@@ -1,0 +1,22 @@
+[
+  {
+    "id": [ "t_rock" ],
+    "fg": [ "45_t_rock_0" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "t_rock_red" ],
+    "fg": [ "818_t_rock_red_0" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "t_rock_blue" ],
+    "fg": [ "816_t_rock_blue_0" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "t_rock_green" ],
+    "fg": [ "817_t_rock_green_0" ],
+    "bg": [  ]
+  }
+]
