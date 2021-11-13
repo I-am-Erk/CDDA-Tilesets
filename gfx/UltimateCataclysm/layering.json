@@ -30,22 +30,22 @@
     "variants": [
       {
         "item": "battery_charger",
-        "sprite": [{"id": "cupbpard_battery_charger", "weight": 1}],
+        "sprite": [{"id": "cupboard_battery_charger", "weight": 1}],
         "layer": 90
       },
       {
         "item": "box_small",
-        "sprite": [{"id": "cupbpard_box_small", "weight": 1}],
+        "sprite": [{"id": "cupboard_box_small", "weight": 1}],
         "layer": 90
       },
       {
         "item": "candle",
-        "sprite": [{"id": "cupbpard_candle", "weight": 1}],
+        "sprite": [{"id": "cupboard_candle", "weight": 1}],
         "layer": 90
       },
       {
         "item": "matches",
-        "sprite": [{"id": "cupbpard_matches", "weight": 1}],
+        "sprite": [{"id": "cupboard_matches", "weight": 1}],
         "layer": 90
       }
     ]
