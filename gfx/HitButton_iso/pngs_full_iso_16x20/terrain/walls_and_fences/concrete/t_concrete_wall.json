@@ -24,8 +24,7 @@
         "bg": [  ]
       },
       { "id": "center", "fg": [ "510_t_concrete_wall_10" ], "bg": [  ] }
-    ],
-    "bg": [  ]
+    ]
   },
   {
     "id": [ "t_sconc_wall", "t_strconc_wall" ],
@@ -52,7 +51,6 @@
         "bg": [  ]
       },
       { "id": "center", "fg": [ "510_sconc_wall_10" ], "bg": [  ] }
-    ],
-    "bg": [  ]
+    ]
   }
 ]
