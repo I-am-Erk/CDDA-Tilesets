@@ -1,0 +1,63 @@
+[
+{
+  "id": [
+    "t_concrete_wall"
+  ],
+  "fg": [
+    "500_t_concrete_wall_0",
+    "501_t_concrete_wall_1"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "edge", 
+        "fg": [
+          { "weight": 2, "sprite": [ "500_t_concrete_wall_0", "501_t_concrete_wall_1" ] },
+          { "weight": 1, "sprite": [ "500_t_concrete_wall_0_1", "501_t_concrete_wall_1_1" ] },
+          { "weight": 1, "sprite": [ "500_t_concrete_wall_0_2", "501_t_concrete_wall_1_2" ] } ],
+		"bg": [  ] },
+    {
+      "id": "corner",
+      "fg": [ "502_t_concrete_wall_2", "503_t_concrete_wall_3", "504_t_concrete_wall_4", "505_t_concrete_wall_5" ],
+      "bg": [  ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [ "506_t_concrete_wall_6", "507_t_concrete_wall_7", "508_t_concrete_wall_8", "509_t_concrete_wall_9" ],
+      "bg": [  ]
+    },
+    { "id": "center", "fg": [ "510_t_concrete_wall_10" ], "bg": [  ] }
+  ],
+  "bg": [ ]
+},
+{
+  "id": [
+    "t_sconc_wall",
+    "t_strconc_wall"
+  ],
+  "fg": [
+    "500_sconc_wall_0",
+    "501_sconc_wall_1"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "edge", 
+        "fg": [
+          { "weight": 2, "sprite": [ "500_sconc_wall_0", "501_sconc_wall_1" ] },
+          { "weight": 1, "sprite": [ "500_sconc_wall_0_1", "501_sconc_wall_1_1" ] },
+          { "weight": 1, "sprite": [ "500_sconc_wall_0_2", "501_sconc_wall_1_2" ] } ],
+		"bg": [  ] },
+    {
+      "id": "corner",
+      "fg": [ "502_sconc_wall_2", "503_sconc_wall_3", "504_sconc_wall_4", "505_sconc_wall_5" ],
+      "bg": [  ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [ "506_sconc_wall_6", "507_sconc_wall_7", "508_sconc_wall_8", "509_sconc_wall_9" ],
+      "bg": [  ]
+    },
+    { "id": "center", "fg": [ "510_sconc_wall_10" ], "bg": [  ] }
+  ],
+  "bg": [ ]
+}
+]
