@@ -1,0 +1,17 @@
+[
+  {
+    "id": [ "t_moss" ],
+    "bg": [
+      { "weight": 1, "sprite": "t_moss_1" },
+      { "weight": 1, "sprite": "t_moss_2" },
+      { "weight": 1, "sprite": "t_moss_3" }
+    ],
+    "fg": [
+      { "weight": 1, "sprite": "floor_outline_double" },
+      { "weight": 1, "sprite": "floor_outline_double_2" },
+      { "weight": 1, "sprite": "floor_outline_double_3" },
+      { "weight": 1, "sprite": "floor_outline_left" },
+      { "weight": 1, "sprite": "floor_outline_right" }
+    ]
+  }
+]

@@ -1,1 +1,20 @@
-[{"height": 20, "iso": true, "width": 16, "pixelscale": 2}, {"HitButton_iso.png": {"//": "indices 0 to 2575"}}, {"fallback.png": {"fallback": true}}]
+[
+  {
+    "height": 20,
+    "iso": true,
+    "width": 16,
+    "pixelscale": 2
+  },
+  {
+    "short_iso.png": { "sprite_height": 10, "sprite_offset_y": 10 }
+  },
+  {
+    "full_iso.png": {  }
+  },
+  {
+    "fallback.png": {
+      "source": "https://raw.githubusercontent.com/I-am-Erk/CDDA-Tilesets/master/gfx/HitButton_iso/fallback.png",
+      "fallback": true
+    }
+  }
+]
