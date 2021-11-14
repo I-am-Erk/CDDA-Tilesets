@@ -13,7 +13,7 @@
     { "weight": 15, "sprite": "f_kiln_full_2" },
     { "weight": 15, "sprite": "f_kiln_full_0" },
     { "weight": 15, "sprite": "f_kiln_full_1" },
-    { "weight": 15, "sprite": "f_kiln_full_3" },
+    { "weight": 15, "sprite": "f_kiln_full_3" }
   ],
   "bg": []
 }
