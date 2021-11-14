@@ -1,38 +1,62 @@
 [
   {
     "id": [ "t_carpet_green" ],
-    "fg": [
+    "bg": [
       { "weight": 1, "sprite": "carpet_green_1" },
       { "weight": 1, "sprite": "carpet_green_2" },
       { "weight": 1, "sprite": "carpet_green_3" }
     ],
-    "bg": [  ]
+    "fg": [
+      { "weight": 1, "sprite": "floor_outline_double" },
+      { "weight": 1, "sprite": "floor_outline_double_2" },
+      { "weight": 1, "sprite": "floor_outline_double_3" },
+      { "weight": 1, "sprite": "floor_outline_left" },
+      { "weight": 1, "sprite": "floor_outline_right" }
+    ]
   },
   {
     "id": [ "t_carpet_red" ],
-    "fg": [
+    "bg": [
       { "weight": 1, "sprite": "carpet_red_1" },
       { "weight": 1, "sprite": "carpet_red_2" },
       { "weight": 1, "sprite": "carpet_red_3" }
     ],
-    "bg": [  ]
+    "fg": [
+      { "weight": 1, "sprite": "floor_outline_double" },
+      { "weight": 1, "sprite": "floor_outline_double_2" },
+      { "weight": 1, "sprite": "floor_outline_double_3" },
+      { "weight": 1, "sprite": "floor_outline_left" },
+      { "weight": 1, "sprite": "floor_outline_right" }
+    ]
   },
   {
     "id": [ "t_carpet_yellow" ],
-    "fg": [
+    "bg": [
       { "weight": 1, "sprite": "carpet_yellow_1" },
       { "weight": 1, "sprite": "carpet_yellow_2" },
       { "weight": 1, "sprite": "carpet_yellow_3" }
     ],
-    "bg": [  ]
+    "fg": [
+      { "weight": 1, "sprite": "floor_outline_double" },
+      { "weight": 1, "sprite": "floor_outline_double_2" },
+      { "weight": 1, "sprite": "floor_outline_double_3" },
+      { "weight": 1, "sprite": "floor_outline_left" },
+      { "weight": 1, "sprite": "floor_outline_right" }
+    ]
   },
   {
     "id": [ "t_carpet_purple" ],
-    "fg": [
+    "bg": [
       { "weight": 1, "sprite": "carpet_purple_1" },
       { "weight": 1, "sprite": "carpet_purple_2" },
       { "weight": 1, "sprite": "carpet_purple_3" }
     ],
-    "bg": [  ]
+    "fg": [
+      { "weight": 1, "sprite": "floor_outline_double" },
+      { "weight": 1, "sprite": "floor_outline_double_2" },
+      { "weight": 1, "sprite": "floor_outline_double_3" },
+      { "weight": 1, "sprite": "floor_outline_left" },
+      { "weight": 1, "sprite": "floor_outline_right" }
+    ]
   }
 ]

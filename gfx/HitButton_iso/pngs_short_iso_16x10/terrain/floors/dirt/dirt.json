@@ -1,12 +1,18 @@
 [
   {
     "id": [ "t_dirt", "t_dirtfloor", "t_searth_test" ],
-    "fg": [
+    "bg": [
       { "weight": 1, "sprite": "t_dirt_1" },
       { "weight": 1, "sprite": "t_dirt_2" },
       { "weight": 1, "sprite": "t_dirt_3" }
     ],
-    "bg": [  ]
+    "fg": [
+      { "weight": 1, "sprite": "floor_outline_double" },
+      { "weight": 1, "sprite": "floor_outline_double_2" },
+      { "weight": 1, "sprite": "floor_outline_double_3" },
+      { "weight": 1, "sprite": "floor_outline_left" },
+      { "weight": 1, "sprite": "floor_outline_right" }
+    ]
   },
   {
     "id": [ "t_dirtmound" ],

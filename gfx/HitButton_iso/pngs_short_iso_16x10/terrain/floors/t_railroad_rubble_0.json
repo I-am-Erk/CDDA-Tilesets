@@ -1,1 +1,11 @@
-{"id": ["t_railroad_rubble"], "fg": ["2498_t_railroad_rubble_0"], "bg": []}
+{
+	"id": ["t_railroad_rubble"],
+    "bg": ["2498_t_railroad_rubble_0"],
+    "fg": [
+      { "weight": 1, "sprite": "floor_outline_double" },
+      { "weight": 1, "sprite": "floor_outline_double_2" },
+      { "weight": 1, "sprite": "floor_outline_double_3" },
+      { "weight": 1, "sprite": "floor_outline_left" },
+      { "weight": 1, "sprite": "floor_outline_right" }
+    ]
+}
