@@ -1,20 +1,32 @@
 [
   {
     "id": [ "t_pavement_y", "t_pavement_y_bg_dp" ],
-    "fg": [
+    "bg": [
       { "weight": 1, "sprite": "t_pavement_y_1" },
       { "weight": 1, "sprite": "t_pavement_y_2" },
       { "weight": 1, "sprite": "t_pavement_y_3" }
     ],
-    "bg": [  ]
+    "fg": [
+      { "weight": 1, "sprite": "floor_outline_double" },
+      { "weight": 1, "sprite": "floor_outline_double_2" },
+      { "weight": 1, "sprite": "floor_outline_double_3" },
+      { "weight": 1, "sprite": "floor_outline_left" },
+      { "weight": 1, "sprite": "floor_outline_right" }
+    ]
   },
   {
     "id": [ "t_pavement", "t_pavement_bg_dp" ],
-    "fg": [
+    "bg": [
       { "weight": 1, "sprite": "t_pavement_1" },
       { "weight": 1, "sprite": "t_pavement_2" },
       { "weight": 1, "sprite": "t_pavement_3" }
     ],
-    "bg": [  ]
+    "fg": [
+      { "weight": 1, "sprite": "floor_outline_double" },
+      { "weight": 1, "sprite": "floor_outline_double_2" },
+      { "weight": 1, "sprite": "floor_outline_double_3" },
+      { "weight": 1, "sprite": "floor_outline_left" },
+      { "weight": 1, "sprite": "floor_outline_right" }
+    ]
   }
 ]
