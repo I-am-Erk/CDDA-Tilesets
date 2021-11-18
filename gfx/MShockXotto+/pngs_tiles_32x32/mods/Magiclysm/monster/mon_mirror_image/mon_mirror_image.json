@@ -1,0 +1,11 @@
+{
+  "id": "mon_mirror_image",
+  "animated": true,
+  "fg": [
+    { "weight": 20, "sprite": "mon_mirror_image" },
+    { "weight": 20, "sprite": "mon_mirror_image_1" },
+    { "weight": 20, "sprite": "mon_mirror_image_2" }
+  ],
+  "bg": [
+  ]
+}
