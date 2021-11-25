@@ -76,7 +76,6 @@ jobs:
           mv "${BUILD_DIR}"/*.png           "$artifact_name"
           mv "$BUILD_DIR/tile_config.json"  "$artifact_name"
           mv "gfx/$TILESET/tileset.txt"     "$artifact_name"
-          mv "gfx/$TILESET/layering.json"   "$artifact_name"
 
           echo ::set-output name=artifact_name::"$artifact_name"
 
