@@ -1,0 +1,9 @@
+{
+  "id": "mon_zombie_military_pilot",
+  "fg": [
+    { "weight": 1, "sprite": "mon_zombie_military_pilot" },
+    { "weight": 1, "sprite": "mon_zombie_military_pilot_1" }
+  ],
+  "bg": ["shadow_32x32_normal"],
+  "rotates": false
+}
