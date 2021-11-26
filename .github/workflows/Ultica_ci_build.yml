@@ -61,8 +61,7 @@ jobs:
 
           echo ::set-output name=artifact_name::"$artifact_name"
 
-          git checkout -
-          git checkout origin/${{ github.base_ref }}
+          git switch -f origin/${{ github.base_ref }}
           git status
           mkdir "$BUILD_DIR/base_json/"
           python3 "$BUILD_DIR/compose.py" $COMPOSE_ARGS --only-json "gfx/$TILESET" "$BUILD_DIR/base_json/"
