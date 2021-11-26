@@ -67,7 +67,7 @@ jobs:
           wget -q -P "$BUILD_DIR" https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/list_tileset_ids.py \
           || echo "Error: Failed to get list_tileset_ids.py"
           echo "Differences in IDs:"
-          (diff -u0 <(python3 "$BUILD_DIR/list_tileset_ids.py" "$BUILD_DIR/base_json/") <(python3 "$BUILD_DIR/list_tileset_ids.py" "$BUILD_DIR/")) | tail -n +3 || true && echo "None"
+          (diff -u0 <(python3 "$BUILD_DIR/list_tileset_ids.py" "$BUILD_DIR/base_json/") <(python3 "$BUILD_DIR/list_tileset_ids.py" "$BUILD_DIR/")) | tail -n +4
 
       - name: Upload Artifacts
         uses: actions/upload-artifact@v2
