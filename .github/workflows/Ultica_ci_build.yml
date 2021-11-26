@@ -33,6 +33,9 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v2
 
+      - name: Checkout base_ref
+        run: git fetch --depth=1 origin +${{ github.base_ref }}
+
       - name: Build
         id: build
         run: |
@@ -57,6 +60,12 @@ jobs:
           mv "gfx/$TILESET/layering.json"   "$artifact_name"
 
           echo ::set-output name=artifact_name::"$artifact_name"
+
+          git checkout origin/${{ github.base_ref }}
+          python3 "$BUILD_DIR/compose.py" $COMPOSE_ARGS --only-json "gfx/$TILESET" "$BUILD_DIR/base_json"
+          wget -q -P "$BUILD_DIR" https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/list_tileset_ids.py \
+          || echo "Error: Failed to get list_tileset_ids.py"
+          diff -u0 <(python3 list_tileset_ids.py "$BUILD_DIR/base_json/") <(python3 list_tileset_ids.py "$BUILD_DIR/")
 
       - name: Upload Artifacts
         uses: actions/upload-artifact@v2
