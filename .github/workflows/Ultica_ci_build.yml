@@ -33,7 +33,7 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v2
 
-      - name: Checkout base_ref
+      - name: Fetch base_ref
         run: git fetch --depth=1 origin +${{ github.base_ref }}
 
       - name: Build
@@ -61,6 +61,7 @@ jobs:
 
           echo ::set-output name=artifact_name::"$artifact_name"
 
+          git checkout -
           git checkout origin/${{ github.base_ref }}
           git status
           mkdir "$BUILD_DIR/base_json/"
