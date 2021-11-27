@@ -58,8 +58,9 @@ jobs:
 
           echo ::set-output name=artifact_name::"$artifact_name"
 
-          if [[ -n "${{ github.base_ref }}" ]]; then  # only for PRs
+          if [[ -n "${{ github.base_ref }}" ]]; then  # github.base_ref is only set for PRs
 
+            echo "Switching to the target branch to get differences between ID lists"
             git fetch --depth=1 origin +${{ github.base_ref }}
             git checkout origin/${{ github.base_ref }}
             mkdir "$BUILD_DIR/base_json/"
