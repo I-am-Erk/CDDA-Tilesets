@@ -1,10 +1,15 @@
 # preforms CI builds using compose.py from
 # https://github.com/CleverRaven/Cataclysm-DDA
 #
-# This action is triggerd by any PR against the master branch as well
+# This action is triggered by any PR against the master branch as well
 # as on any push to the master branch itself
 # that changes any file in gfx/HitButton folder
 name: HitButton composer
+
+env:
+  TILESET: HitButton_iso
+  COMPOSE_ARGS: --use-all
+  BUILD_DIR: build
 
 on:
   push:
@@ -29,17 +34,13 @@ jobs:
         run: |
           sudo apt install musl-dev gcc libvips-dev python3-dev python3-pip python3-wheel
           pip3 install pyvips
+
       - name: Checkout Code
         uses: actions/checkout@v2
 
       - name: Build
         id: build
         run: |
-          export TILESET="HitButton_iso"
-          export COMPOSE_ARGS="--use-all"
-
-          export BUILD_DIR="build"
-
           mkdir "$BUILD_DIR"
           wget -q -P "$BUILD_DIR" https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/compose.py \
           || echo "Error: Failed to get compose.py"
@@ -51,8 +52,8 @@ jobs:
 
           mkdir "$artifact_name"
           mv "${BUILD_DIR}"/*.png           "$artifact_name"
-          mv "$BUILD_DIR/tile_config.json"  "$artifact_name"
-          mv "gfx/$TILESET/tileset.txt"     "$artifact_name"
+          cp "$BUILD_DIR/tile_config.json"  "$artifact_name"
+          cp "gfx/$TILESET/tileset.txt"     "$artifact_name"
 
           echo ::set-output name=artifact_name::"$artifact_name"
 
@@ -61,3 +62,20 @@ jobs:
         with:
           name: ${{ steps.build.outputs.artifact_name }}
           path: ${{ steps.build.outputs.artifact_name }}
+
+      - name: Compare IDs with ${{ github.base_ref }}
+        id: compare
+        if: github.base_ref
+        run: |
+          echo "Switching to the target branch ${{ github.base_ref }} to get differences between ID lists"
+          git fetch --no-tags --prune --no-recurse-submodules --depth=1 origin +${{ github.base_ref }}
+          git checkout origin/${{ github.base_ref }}
+
+          mkdir "$BUILD_DIR/base_json/"
+          python3 "$BUILD_DIR/compose.py" $COMPOSE_ARGS --only-json "gfx/$TILESET" "$BUILD_DIR/base_json/"
+
+          wget -q -P "$BUILD_DIR" https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/list_tileset_ids.py \
+          || echo "Error: Failed to get list_tileset_ids.py"
+
+          echo -e "\nDifferences in IDs:"
+          (diff -u0 <(python3 "$BUILD_DIR/list_tileset_ids.py" "$BUILD_DIR/base_json/") <(python3 "$BUILD_DIR/list_tileset_ids.py" "$BUILD_DIR/")) | tail -n +3
