@@ -29,7 +29,7 @@ jobs:
       uses: actions/checkout@v2
 
   call-reusable-builder:
-    uses: ./.github/workflows/reusable-builder.yml
+    uses: ./.github/workflows/reusable-builder.yml@${{ github.head_ref }}
     with:
       tileset: UltimateCataclysm
       compose_args: --use-all --obsolete-fillers
