@@ -33,9 +33,6 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v2
 
-      - name: Fetch base_ref
-        run: git fetch --depth=1 origin +${{ github.base_ref }}
-
       - name: Build
         id: build
         run: |
@@ -61,13 +58,18 @@ jobs:
 
           echo ::set-output name=artifact_name::"$artifact_name"
 
-          git checkout origin/${{ github.base_ref }}
-          mkdir "$BUILD_DIR/base_json/"
-          python3 "$BUILD_DIR/compose.py" $COMPOSE_ARGS --only-json "gfx/$TILESET" "$BUILD_DIR/base_json/"
-          wget -q -P "$BUILD_DIR" https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/list_tileset_ids.py \
-          || echo "Error: Failed to get list_tileset_ids.py"
-          echo -e "\nDifferences in IDs:"
-          (diff -u0 <(python3 "$BUILD_DIR/list_tileset_ids.py" "$BUILD_DIR/base_json/") <(python3 "$BUILD_DIR/list_tileset_ids.py" "$BUILD_DIR/")) | tail -n +3
+          if [[ -z "$GITHUB_BASE_REF" ]]; then  # only for PRs
+
+            git fetch --depth=1 origin +$GITHUB_BASE_REF
+            git checkout origin/$GITHUB_BASE_REF
+            mkdir "$BUILD_DIR/base_json/"
+            python3 "$BUILD_DIR/compose.py" $COMPOSE_ARGS --only-json "gfx/$TILESET" "$BUILD_DIR/base_json/"
+            wget -q -P "$BUILD_DIR" https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/list_tileset_ids.py \
+            || echo "Error: Failed to get list_tileset_ids.py"
+            echo -e "\nDifferences in IDs:"
+            (diff -u0 <(python3 "$BUILD_DIR/list_tileset_ids.py" "$BUILD_DIR/base_json/") <(python3 "$BUILD_DIR/list_tileset_ids.py" "$BUILD_DIR/")) | tail -n +3
+
+          fi
 
       - name: Upload Artifacts
         uses: actions/upload-artifact@v2
