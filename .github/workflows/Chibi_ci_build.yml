@@ -1,4 +1,4 @@
-# preforms CI builds using compose.py from
+# performs CI builds using compose.py from
 # https://github.com/CleverRaven/Cataclysm-DDA
 #
 # This action is triggered by any PR against the master branch as well
