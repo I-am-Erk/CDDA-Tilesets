@@ -1,7 +1,7 @@
 # preforms CI builds using compose.py from
 # https://github.com/CleverRaven/Cataclysm-DDA
 #
-# This action is triggerd by any PR against the master branch as well
+# This action is triggered by any PR against the master branch as well
 # as on any push to the master branch itself
 # that changes any file in gfx/UltimateCataclysm folder
 name: UltimateCataclysm composer
@@ -58,11 +58,11 @@ jobs:
 
           echo ::set-output name=artifact_name::"$artifact_name"
 
-      - name: Compare IDs
+      - name: Compare IDs with ${{ github.base_ref }}
         id: compare
         if: github.base_ref
         run: |
-          echo "Switching to the target branch to get differences between ID lists"
+          echo "Switching to the target branch ${{ github.base_ref }} to get differences between ID lists"
           git fetch --no-tags --prune --no-recurse-submodules --depth=1 origin +${{ github.base_ref }}
           git checkout origin/${{ github.base_ref }}
 
