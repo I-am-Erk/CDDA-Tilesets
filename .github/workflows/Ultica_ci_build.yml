@@ -58,8 +58,7 @@ jobs:
 
           echo ::set-output name=artifact_name::"$artifact_name"
 
-          echo "Base ref is: ${{ github.base_ref }}"
-          if [[ -z "${{ github.base_ref }}" ]]; then  # only for PRs
+          if [[ -n "${{ github.base_ref }}" ]]; then  # only for PRs
 
             git fetch --depth=1 origin +${{ github.base_ref }}
             git checkout origin/${{ github.base_ref }}
