@@ -63,7 +63,7 @@ jobs:
         if: github.base_ref
         run: |
           echo "Switching to the target branch to get differences between ID lists"
-          git fetch --no-tags --prune --progress --no-recurse-submodules --depth=1 origin +${{ github.base_ref }}
+          git fetch --no-tags --prune --no-recurse-submodules --depth=1 origin +${{ github.base_ref }}
           git checkout origin/${{ github.base_ref }}
 
           mkdir "$BUILD_DIR/base_json/"
