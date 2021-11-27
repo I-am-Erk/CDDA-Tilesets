@@ -61,6 +61,11 @@ jobs:
       - name: Compare IDs
         id: compare
         run: |
+          export TILESET="UltimateCataclysm"
+          export COMPOSE_ARGS="--use-all --obsolete-fillers"
+
+          export BUILD_DIR="build"
+
           if [[ -n "${{ github.base_ref }}" ]]; then  # github.base_ref is only set for PRs
 
             echo "Switching to the target branch to get differences between ID lists"
