@@ -39,38 +39,46 @@ jobs:
 
       - name: Build
         id: build
+        env:
+          TILESET: ${{ env.tileset }}
+          COMPOSE_ARGS: ${{ env.compose_args }}
+          BUILD_DIR: ${{ env.build_dir }}
         run: |
-          mkdir "${{ env.build_dir }}"
-          wget -q -P "${{ env.build_dir }}" https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/compose.py \
+          mkdir "$BUILD_DIR"
+          wget -q -P "$BUILD_DIR" https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/compose.py \
           || echo "Error: Failed to get compose.py"
 
-          python3 "${{ env.build_dir }}/compose.py" ${{ env.compose_args }} "gfx/${{ env.tileset }}" "${{ env.build_dir }}"
-          [ -f "gfx/${{ env.tileset }}/fallback.png" ] && cp "gfx/${{ env.tileset }}/fallback.png" "${{ env.build_dir }}/"
+          python3 "$BUILD_DIR/compose.py" $COMPOSE_ARGS "gfx/$TILESET" "$BUILD_DIR"
+          [ -f "gfx/$TILESET/fallback.png" ] && cp "gfx/$TILESET/fallback.png" "$BUILD_DIR/"
 
-          artifact_name="${{ env.tileset }}-${GITHUB_SHA::7}"
+          artifact_name="$TILESET-${GITHUB_SHA::7}"
 
           mkdir "$artifact_name"
-          mv "${{{ env.build_dir }}}"/*.png           "$artifact_name"
-          cp "${{ env.build_dir }}/tile_config.json"  "$artifact_name"
-          cp "gfx/${{ env.tileset }}/tileset.txt"     "$artifact_name"
-          cp "gfx/${{ env.tileset }}/layering.json"   "$artifact_name"
+          mv "$BUILD_DIR"/*.png           "$artifact_name"
+          cp "$BUILD_DIR/tile_config.json"  "$artifact_name"
+          cp "gfx/$TILESET/tileset.txt"     "$artifact_name"
+          cp "gfx/$TILESET/layering.json"   "$artifact_name"
 
           echo ::set-output name=artifact_name::"$artifact_name"
 
       - name: Compare IDs
         id: compare
+        env:
+          TILESET: ${{ env.tileset }}
+          COMPOSE_ARGS: ${{ env.compose_args }}
+          BUILD_DIR: ${{ env.build_dir }}
         run: |
           if [[ -n "${{ github.base_ref }}" ]]; then  # github.base_ref is only set for PRs
 
             echo "Switching to the target branch to get differences between ID lists"
             git fetch --depth=1 origin +${{ github.base_ref }}
             git checkout origin/${{ github.base_ref }}
-            mkdir "${{ env.build_dir }}/base_json/"
-            python3 "${{ env.build_dir }}/compose.py" ${{ env.compose_args }} --only-json "gfx/${{ env.tileset }}" "${{ env.build_dir }}/base_json/"
-            wget -q -P "${{ env.build_dir }}" https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/list_tileset_ids.py \
+            mkdir "$BUILD_DIR/base_json/"
+            python3 "$BUILD_DIR/compose.py" $COMPOSE_ARGS --only-json "gfx/$TILESET" "$BUILD_DIR/base_json/"
+            wget -q -P "$BUILD_DIR" https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/list_tileset_ids.py \
             || echo "Error: Failed to get list_tileset_ids.py"
             echo -e "\nDifferences in IDs:"
-            (diff -u0 <(python3 "${{ env.build_dir }}/list_tileset_ids.py" "${{ env.build_dir }}/base_json/") <(python3 "${{ env.build_dir }}/list_tileset_ids.py" "${{ env.build_dir }}/")) | tail -n +3
+            (diff -u0 <(python3 "$BUILD_DIR/list_tileset_ids.py" "$BUILD_DIR/base_json/") <(python3 "$BUILD_DIR/list_tileset_ids.py" "$BUILD_DIR/")) | tail -n +3
 
           fi
 
