@@ -58,10 +58,10 @@ jobs:
 
           echo ::set-output name=artifact_name::"$artifact_name"
 
-          if [[ -z "$GITHUB_BASE_REF" ]]; then  # only for PRs
+          if [[ -z "${{ github.base_ref }}" ]]; then  # only for PRs
 
-            git fetch --depth=1 origin +$GITHUB_BASE_REF
-            git checkout origin/$GITHUB_BASE_REF
+            git fetch --depth=1 origin +${{ github.base_ref }}
+            git checkout origin/${{ github.base_ref }}
             mkdir "$BUILD_DIR/base_json/"
             python3 "$BUILD_DIR/compose.py" $COMPOSE_ARGS --only-json "gfx/$TILESET" "$BUILD_DIR/base_json/"
             wget -q -P "$BUILD_DIR" https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/list_tileset_ids.py \
