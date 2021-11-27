@@ -21,15 +21,15 @@ on:
       - '.github/workflows/Ultica_ci_build.yml'
 
 jobs:
-  call-reusable-builder:
+  checkout:
+    name: Checkout
     runs-on: ubuntu-latest
     steps:
-
     - name: Checkout code
       uses: actions/checkout@v2
 
-    - name: My first step
-      uses: ./.github/workflows/reusable-builder.yml
-      with:
-        tileset: UltimateCataclysm
-        compose_args: --use-all --obsolete-fillers
+  call-reusable-builder:
+    uses: ./.github/workflows/reusable-builder.yml
+    with:
+      tileset: UltimateCataclysm
+      compose_args: --use-all --obsolete-fillers
