@@ -58,6 +58,12 @@ jobs:
 
           echo ::set-output name=artifact_name::"$artifact_name"
 
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v2
+        with:
+          name: ${{ steps.build.outputs.artifact_name }}
+          path: ${{ steps.build.outputs.artifact_name }}
+
       - name: Compare IDs with ${{ github.base_ref }}
         id: compare
         if: github.base_ref
@@ -74,9 +80,3 @@ jobs:
 
           echo -e "\nDifferences in IDs:"
           (diff -u0 <(python3 "$BUILD_DIR/list_tileset_ids.py" "$BUILD_DIR/base_json/") <(python3 "$BUILD_DIR/list_tileset_ids.py" "$BUILD_DIR/")) | tail -n +3
-
-      - name: Upload Artifacts
-        uses: actions/upload-artifact@v2
-        with:
-          name: ${{ steps.build.outputs.artifact_name }}
-          path: ${{ steps.build.outputs.artifact_name }}
