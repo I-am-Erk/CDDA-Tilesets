@@ -6,6 +6,11 @@
 # that changes any file in gfx/UltimateCataclysm folder
 name: UltimateCataclysm composer
 
+env:
+  TILESET: UltimateCataclysm
+  COMPOSE_ARGS: --use-all --obsolete-fillers
+  BUILD_DIR: build
+
 on:
   push:
     branches:
@@ -30,19 +35,11 @@ jobs:
           sudo apt install musl-dev gcc libvips-dev python3-dev python3-pip python3-wheel
           pip3 install pyvips
 
-          echo "tileset=UltimateCataclysm" >> $GITHUB_ENV
-          echo "compose_args=--use-all --obsolete-fillers" >> $GITHUB_ENV
-          echo "build_dir=build" >> $GITHUB_ENV
-
       - name: Checkout Code
         uses: actions/checkout@v2
 
       - name: Build
         id: build
-        env:
-          TILESET: ${{ env.tileset }}
-          COMPOSE_ARGS: ${{ env.compose_args }}
-          BUILD_DIR: ${{ env.build_dir }}
         run: |
           mkdir "$BUILD_DIR"
           wget -q -P "$BUILD_DIR" https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/compose.py \
@@ -63,10 +60,6 @@ jobs:
 
       - name: Compare IDs
         id: compare
-        env:
-          TILESET: ${{ env.tileset }}
-          COMPOSE_ARGS: ${{ env.compose_args }}
-          BUILD_DIR: ${{ env.build_dir }}
         run: |
           if [[ -n "${{ github.base_ref }}" ]]; then  # github.base_ref is only set for PRs
 
