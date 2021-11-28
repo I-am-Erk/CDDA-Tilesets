@@ -1,0 +1,150 @@
+[
+{
+    "id": [
+    "vp_cloth_flap_door_ne",
+    "vp_cloth_flap_door_nw",
+    "vp_cloth_flap_door_se",
+    "vp_cloth_flap_door_sw",
+    "vp_cloth_flap_door_vertical_left",
+    "vp_cloth_flap_door_vertical_right",
+    "vp_cloth_flap_door_front",
+    "vp_cloth_flap_door_front_left",
+    "vp_cloth_flap_door_front_right",
+    "vp_cloth_flap_door_rear",
+    "vp_cloth_curtain_door_ne",
+    "vp_cloth_curtain_door_nw",
+    "vp_cloth_curtain_door_se",
+    "vp_cloth_curtain_door_sw",
+    "vp_cloth_curtain_door_vertical_left",
+    "vp_cloth_curtain_door_vertical_right",
+    "vp_cloth_curtain_door_front",
+    "vp_cloth_curtain_door_front_left",
+    "vp_cloth_curtain_door_front_right",
+    "vp_cloth_curtain_door_rear"
+    ],
+    "fg": "vp_cloth_flap_door_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "open",
+        "fg": "vp_cloth_flap_door_open_season_spring"
+    },
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_cloth_flap_door_open_season_spring"
+    }
+    ]
+},
+{
+    "id": [
+    "vp_cloth_flap_door_ne_season_summer",
+    "vp_cloth_flap_door_nw_season_summer",
+    "vp_cloth_flap_door_se_season_summer",
+    "vp_cloth_flap_door_sw_season_summer",
+    "vp_cloth_flap_door_vertical_left_season_summer",
+    "vp_cloth_flap_door_vertical_right_season_summer",
+    "vp_cloth_flap_door_front_season_summer",
+    "vp_cloth_flap_door_front_left_season_summer",
+    "vp_cloth_flap_door_front_right_season_summer",
+    "vp_cloth_flap_door_rear_season_summer",
+    "vp_cloth_curtain_door_ne_season_summer",
+    "vp_cloth_curtain_door_nw_season_summer",
+    "vp_cloth_curtain_door_se_season_summer",
+    "vp_cloth_curtain_door_sw_season_summer",
+    "vp_cloth_curtain_door_vertical_left_season_summer",
+    "vp_cloth_curtain_door_vertical_right_season_summer",
+    "vp_cloth_curtain_door_front_season_summer",
+    "vp_cloth_curtain_door_front_left_season_summer",
+    "vp_cloth_curtain_door_front_right_season_summer",
+    "vp_cloth_curtain_door_rear_season_summer"
+    ],
+    "fg": "vp_cloth_flap_door_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "open",
+        "fg": "vp_cloth_flap_door_open_season_summer"
+    },
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_cloth_flap_door_open_season_summer"
+    }
+    ]
+},
+{
+    "id": [
+    "vp_cloth_flap_door_ne_season_autumn",
+    "vp_cloth_flap_door_nw_season_autumn",
+    "vp_cloth_flap_door_se_season_autumn",
+    "vp_cloth_flap_door_sw_season_autumn",
+    "vp_cloth_flap_door_vertical_left_season_autumn",
+    "vp_cloth_flap_door_vertical_right_season_autumn",
+    "vp_cloth_flap_door_front_season_autumn",
+    "vp_cloth_flap_door_front_left_season_autumn",
+    "vp_cloth_flap_door_front_right_season_autumn",
+    "vp_cloth_flap_door_rear_season_autumn",
+    "vp_cloth_curtain_door_ne_season_autumn",
+    "vp_cloth_curtain_door_nw_season_autumn",
+    "vp_cloth_curtain_door_se_season_autumn",
+    "vp_cloth_curtain_door_sw_season_autumn",
+    "vp_cloth_curtain_door_vertical_left_season_autumn",
+    "vp_cloth_curtain_door_vertical_right_season_autumn",
+    "vp_cloth_curtain_door_front_season_autumn",
+    "vp_cloth_curtain_door_front_left_season_autumn",
+    "vp_cloth_curtain_door_front_right_season_autumn",
+    "vp_cloth_curtain_door_rear_season_autumn"
+    ],
+    "fg": "vp_cloth_flap_door_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "open",
+        "fg": "vp_cloth_flap_door_open_season_autumn"
+    },
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_cloth_flap_door_open_season_autumn"
+    }
+    ]
+},
+{
+    "id": [
+    "vp_cloth_flap_door_ne_season_winter",
+    "vp_cloth_flap_door_nw_season_winter",
+    "vp_cloth_flap_door_se_season_winter",
+    "vp_cloth_flap_door_sw_season_winter",
+    "vp_cloth_flap_door_vertical_left_season_winter",
+    "vp_cloth_flap_door_vertical_right_season_winter",
+    "vp_cloth_flap_door_front_season_winter",
+    "vp_cloth_flap_door_front_left_season_winter",
+    "vp_cloth_flap_door_front_right_season_winter",
+    "vp_cloth_flap_door_rear_season_winter",
+    "vp_cloth_curtain_door_ne_season_winter",
+    "vp_cloth_curtain_door_nw_season_winter",
+    "vp_cloth_curtain_door_se_season_winter",
+    "vp_cloth_cuttain_door_sw_season_winter",
+    "vp_cloth_curtain_door_vertical_left_season_winter",
+    "vp_cloth_curtain_door_vertical_right_season_winter",
+    "vp_cloth_curtain_door_front_season_winter",
+    "vp_cloth_curtain_door_front_left_season_winter",
+    "vp_cloth_curtain_door_front_right_season_winter",
+    "vp_cloth_curtain_door_rear_season_winter"
+    ],
+    "fg": "vp_cloth_flap_door_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "open",
+        "fg": "vp_cloth_flap_door_open_season_winter"
+    },
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_cloth_flap_door_open_season_winter"
+    }
+    ]
+}
+]

@@ -1,0 +1,50 @@
+[
+{
+    "id": "vp_ram_hardsteel",
+    "fg": "vp_ram_hardsteel_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_ram_hardsteel_season_spring"
+    }
+    ]
+},
+{
+    "id": "vp_ram_hardsteel_season_summer",
+    "fg": "vp_ram_hardsteel_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_ram_hardsteel_season_summer"
+    }
+    ]
+},
+{
+    "id": "vp_ram_hardsteel_season_autumn",
+    "fg": "vp_ram_hardsteel_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_ram_hardsteel_season_autumn"
+    }
+    ]
+},
+{
+    "id": "vp_ram_hardsteel_season_winter",
+    "fg": "vp_ram_hardsteel_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_ram_hardsteel_season_winter"
+    }
+    ]
+}
+]

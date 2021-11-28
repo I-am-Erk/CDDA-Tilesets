@@ -1,0 +1,626 @@
+[
+{
+    "id": [ "vp_windshield", "vp_windshield_horizontal", "vp_windshield_horizontal_front", "vp_windshield_horizontal_front_edge" ],
+    "fg": "vp_windshield_horizontal_front_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_windshield_horizontal_front_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_windshield_season_summer", "vp_windshield_horizontal_season_summer", "vp_windshield_horizontal_front_season_summer", "vp_windshield_front_edge_season_summer" ],
+    "fg": "vp_windshield_horizontal_front_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_windshield_horizontal_front_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_windshield_season_autumn", "vp_windshield_horizontal_season_autumn", "vp_windshield_horizontal_front_season_autumn", "vp_windshield_front_edge_season_autumn" ],
+    "fg": "vp_windshield_horizontal_front_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_windshield_horizontal_front_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_windshield_season_winter", "vp_windshield_horizontal_season_winter", "vp_windshield_horizontal_front_season_winter", "vp_windshield_front_edge_season_winter" ],
+    "fg": "vp_windshield_horizontal_front_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "fg": "vp_windshield_horizontal_front_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_windshield_nw", "vp_windshield_nw_edge" ],
+    "fg": "vp_windshield_nw_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_windshield_nw_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_windshield_nw_season_summer", "vp_windshield_nw_edge_season_summer" ],
+    "fg": "vp_windshield_nw_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_windshield_nw_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_windshield_nw_season_autumn", "vp_windshield_nw_edge_season_autumn" ],
+    "fg": "vp_windshield_nw_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_windshield_nw_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_windshield_nw_season_winter", "vp_windshield_nw_edge_season_winter" ],
+    "fg": "vp_windshield_nw_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_windshield_nw_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_windshield_ne", "vp_windshield_ne_edge" ],
+    "fg": "vp_windshield_ne_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_windshield_ne_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_windshield_ne_season_summer", "vp_windshield_ne_edge_season_summer" ],
+    "fg": "vp_windshield_ne_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_windshield_ne_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_windshield_ne_season_autumn", "vp_windshield_ne_edge_season_autumn" ],
+    "fg": "vp_windshield_ne_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_windshield_ne_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_windshield_ne_season_winter", "vp_windshield_ne_edge_season_winter" ],
+    "fg": "vp_windshield_ne_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_windshield_ne_season_winter"
+    }
+    ]
+},
+{
+    "id": "vp_windshield_wheel_left",
+    "fg": "vp_windshield_wheel_left_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_windshield_wheel_left_season_spring"
+    }
+    ]
+},
+{
+    "id": "vp_windshield_wheel_left_season_summer",
+    "fg": "vp_windshield_wheel_left_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_windshield_wheel_left_season_summer"
+    }
+    ]
+},
+{
+    "id": "vp_windshield_wheel_left_season_autumn",
+    "fg": "vp_windshield_wheel_left_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_windshield_wheel_left_season_autumn"
+    }
+    ]
+},
+{
+    "id": "vp_windshield_wheel_left_season_winter",
+    "fg": "vp_windshield_wheel_left_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_windshield_wheel_left_season_winter"
+    }
+    ]
+},
+{
+    "id": "vp_windshield_wheel_right",
+    "fg": "vp_windshield_wheel_right_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_windshield_wheel_right_season_spring"
+    }
+    ]
+},
+{
+    "id": "vp_windshield_wheel_right_season_summer",
+    "fg": "vp_windshield_wheel_right_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_windshield_wheel_right_season_summer"
+    }
+    ]
+},
+{
+    "id": "vp_windshield_wheel_right_season_autumn",
+    "fg": "vp_windshield_wheel_right_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_windshield_wheel_right_season_autumn"
+    }
+    ]
+},
+{
+    "id": "vp_windshield_wheel_right_season_winter",
+    "fg": "vp_windshield_wheel_right_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_windshield_wheel_right_season_winter"
+    }
+    ]
+},
+{
+    "id": "vp_windshield_cover_left",
+    "fg": "vp_windshield_cover_left_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_windshield_cover_left_season_spring"
+    }
+    ]
+},
+{
+    "id": "vp_windshield_cover_left_season_summer",
+    "fg": "vp_windshield_cover_left_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_windshield_cover_left_season_summer"
+    }
+    ]
+},
+{
+    "id": "vp_windshield_cover_left_season_autumn",
+    "fg": "vp_windshield_cover_left_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_windshield_cover_left_season_autumn"
+    }
+    ]
+},
+{
+    "id": "vp_windshield_cover_left_season_winter",
+    "fg": "vp_windshield_cover_left_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_windshield_cover_left_season_winter"
+    }
+    ]
+},
+{
+    "id": "vp_windshield_cover_right",
+    "fg": "vp_windshield_cover_right_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_windshield_cover_right_season_spring"
+    }
+    ]
+},
+{
+    "id": "vp_windshield_cover_right_season_summer",
+    "fg": "vp_windshield_cover_right_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_windshield_cover_right_season_summer"
+    }
+    ]
+},
+{
+    "id": "vp_windshield_cover_right_season_autumn",
+    "fg": "vp_windshield_cover_right_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_windshield_cover_right_season_autumn"
+    }
+    ]
+},
+{
+    "id": "vp_windshield_cover_right_season_winter",
+    "fg": "vp_windshield_cover_right_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_windshield_cover_right_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_windshield_vertical_left", "vp_windshield_vertical_2_left", "vp_windshield_left" ],
+    "fg": "vp_windshield_vertical_left_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_windshield_vertical_left_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_windshield_vertical_left_season_summer", "vp_windshield_vertical_2_left_season_summer", "vp_windshield_left_season_summer" ],
+    "fg": "vp_windshield_vertical_left_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_windshield_vertical_left_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_windshield_vertical_left_season_autumn", "vp_windshield_vertical_2_left_season_autumn", "vp_windshield_left_season_autumn" ],
+    "fg": "vp_windshield_vertical_left_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_windshield_vertical_left_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_windshield_vertical_left_season_winter", "vp_windshield_vertical_2_left_season_winter", "vp_windshield_left_season_winter" ],
+    "fg": "vp_windshield_vertical_left_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_windshield_vertical_left_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_windshield_vertical_right", "vp_windshield_vertical_2_right", "vp_windshield_right" ],
+    "fg": "vp_windshield_vertical_right_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_windshield_vertical_right_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_windshield_vertical_right_season_summer", "vp_windshield_vertical_2_right_season_summer", "vp_windshield_right_season_summer" ],
+    "fg": "vp_windshield_vertical_right_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_windshield_vertical_right_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_windshield_vertical_right_season_autumn", "vp_windshield_vertical_2_right_season_autumn", "vp_windshield_right_season_autumn" ],
+    "fg": "vp_windshield_vertical_right_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_windshield_vertical_right_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_windshield_vertical_right_season_winter", "vp_windshield_vertical_2_right_season_winter", "vp_windshield_right_season_winter" ],
+    "fg": "vp_windshield_vertical_right_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_windshield_vertical_right_season_winter"
+    }
+    ]
+},
+{
+    "id": "vp_windshield_horizontal_rear",
+    "fg": "vp_windshield_horizontal_rear_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_windshield_horizontal_rear_season_spring"
+    }
+    ]
+},
+{
+    "id": "vp_windshield_horizontal_rear_season_summer",
+    "fg": "vp_windshield_horizontal_rear_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_windshield_horizontal_rear_season_summer"
+    }
+    ]
+},
+{
+    "id": "vp_windshield_horizontal_rear_season_autumn",
+    "fg": "vp_windshield_horizontal_rear_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_windshield_horizontal_rear_season_autumn"
+    }
+    ]
+},
+{
+    "id": "vp_windshield_horizontal_rear_season_winter",
+    "fg": "vp_windshield_horizontal_rear_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_windshield_horizontal_rear_season_winter"
+    }
+    ]
+},
+{
+    "id": "vp_windshield_horizontal_rear_edge",
+    "fg": "vp_windshield_horizontal_rear_edge_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_windshield_horizontal_rear_edge_season_spring"
+    }
+    ]
+},
+{
+    "id": "vp_windshield_horizontal_rear_edge_season_summer",
+    "fg": "vp_windshield_horizontal_rear_edge_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_windshield_horizontal_rear_edge_season_summer"
+    }
+    ]
+},
+{
+    "id": "vp_windshield_horizontal_rear_edge_season_autumn",
+    "fg": "vp_windshield_horizontal_rear_edge_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_windshield_horizontal_rear_edge_season_autumn"
+    }
+    ]
+},
+{
+    "id": "vp_windshield_horizontal_rear_edge_season_winter",
+    "fg": "vp_windshield_horizontal_rear_edge_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_windshield_horizontal_rear_edge_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_windshield_sw", "vp_windshield_sw_edge" ],
+    "fg": "vp_windshield_sw_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_windshield_sw_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_windshield_sw_season_summer", "vp_windshield_sw_edge_season_summer" ],
+    "fg": "vp_windshield_sw_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_windshield_sw_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_windshield_sw_season_autumn", "vp_windshield_sw_edge_season_autumn" ],
+    "fg": "vp_windshield_sw_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_windshield_sw_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_windshield_sw_season_winter", "vp_windshield_sw_edge_season_winter" ],
+    "fg": "vp_windshield_sw_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_windshield_sw_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_windshield_se", "vp_windshield_se_edge" ],
+    "fg": "vp_windshield_se_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_windshield_se_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_windshield_se_season_summer", "vp_windshield_se_edge_season_summer" ],
+    "fg": "vp_windshield_se_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_windshield_se_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_windshield_se_season_autumn", "vp_windshield_se_edge_season_autumn" ],
+    "fg": "vp_windshield_se_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_windshield_se_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_windshield_se_season_winter", "vp_windshield_se_edge_season_winter" ],
+    "fg": "vp_windshield_se_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_windshield_se_season_winter"
+    }
+    ]
+}
+]
