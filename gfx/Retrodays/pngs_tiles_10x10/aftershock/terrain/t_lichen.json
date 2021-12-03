@@ -1,0 +1,11 @@
+[
+    {
+      "id": "t_lichen",
+      "fg": [
+        { "weight": 1, "sprite": "t_lichen" },
+        { "weight": 1, "sprite": "t_lichen1" },
+        { "weight": 1, "sprite": "t_lichen2" }
+      ],
+      "bg": ""
+    }
+  ]
