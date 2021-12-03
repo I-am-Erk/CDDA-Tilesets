@@ -1,0 +1,66 @@
+[
+{
+    "id": "vp_hatch_opaque",
+    "fg": "vp_hatch_opaque_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "open",
+        "fg": "vp_hatch_opaque_open_season_spring"
+    },
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_hatch_opaque_open_season_spring"
+    }
+    ]
+},
+{
+    "id": "vp_hatch_opaque_season_summer",
+    "fg": "vp_hatch_opaque_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "open",
+        "fg": "vp_hatch_opaque_open_season_summer"
+    },
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_hatch_opaque_open_season_summer"
+    }
+    ]
+},
+{
+    "id": "vp_hatch_opaque_season_autumn",
+    "fg": "vp_hatch_opaque_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "open",
+        "fg": "vp_hatch_opaque_open_season_autumn"
+    },
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_hatch_opaque_open_season_autumn"
+    }
+    ]
+},
+{
+    "id": "vp_hatch_opaque_season_winter",
+    "fg": "vp_hatch_opaque_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "open",
+        "fg": "vp_hatch_opaque_open_season_winter"
+    },
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_hatch_opaque_open_season_winter"
+    }
+    ]
+}
+]

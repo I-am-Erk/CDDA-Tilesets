@@ -1,0 +1,98 @@
+[
+{
+    "id": "vp_lit_aisle_vertical",
+    "fg": "vp_lit_aisle_vertical_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_lit_aisle_vertical_season_spring"
+    }
+    ]
+},
+{
+    "id": "vp_lit_aisle_vertical_season_summer",
+    "fg": "vp_lit_aisle_vertical_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_lit_aisle_vertical_season_summer"
+    }
+    ]
+},
+{
+    "id": "vp_lit_aisle_vertical_season_autumn",
+    "fg": "vp_lit_aisle_vertical_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_lit_aisle_vertical_season_autumn"
+    }
+    ]
+},
+{
+    "id": "vp_lit_aisle_vertical_season_winter",
+    "fg": "vp_lit_aisle_vertical_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_lit_aisle_vertical_season_winter"
+    }
+    ]
+},
+{
+    "id": "vp_lit_aisle_horizontal",
+    "fg": "vp_lit_aisle_horizontal_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_lit_aisle_horizontal_season_spring"
+    }
+    ]
+},
+{
+    "id": "vp_lit_aisle_horizontal_season_summer",
+    "fg": "vp_lit_aisle_horizontal_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_lit_aisle_horizontal_season_summer"
+    }
+    ]
+},
+{
+    "id": "vp_lit_aisle_horizontal_season_autumn",
+    "fg": "vp_lit_aisle_horizontal_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_lit_aisle_horizontal_season_autumn"
+    }
+    ]
+},
+{
+    "id": "vp_lit_aisle_horizontal_season_winter",
+    "fg": "vp_lit_aisle_horizontal_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_lit_aisle_horizontal_season_winter"
+    }
+    ]
+}
+]

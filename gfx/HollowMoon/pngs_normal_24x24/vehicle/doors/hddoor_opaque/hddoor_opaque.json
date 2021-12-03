@@ -1,0 +1,258 @@
+[
+{
+    "id": [ "vp_hddoor_opaque_left", "vp_hddoor_opaque_full_left" ],
+    "fg": "vp_hddoor_opaque_left_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "open",
+        "fg": "vp_hddoor_opaque_left_open_season_spring"
+    },
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_hddoor_opaque_left_open_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_hddoor_opaque_left_season_summer", "vp_hddoor_opaque_full_left_season_summer" ],
+    "fg": "vp_hddoor_opaque_left_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "open",
+        "fg": "vp_hddoor_opaque_left_open_season_summer"
+    },
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_hddoor_opaque_left_open_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_hddoor_opaque_left_season_autumn", "vp_hddoor_opaque_full_left_season_autumn" ],
+    "fg": "vp_hddoor_opaque_left_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "open",
+        "fg": "vp_hddoor_opaque_left_open_season_autumn"
+    },
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_hddoor_opaque_left_open_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_hddoor_opaque_left_season_winter", "vp_hddoor_opaque_full_left_season_winter" ],
+    "fg": "vp_hddoor_opaque_left_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "open",
+        "fg": "vp_hddoor_opaque_left_open_season_winter"
+    },
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_hddoor_opaque_left_open_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_hddoor_opaque_right", "vp_hddoor_opaque_full_right" ],
+    "fg": "vp_hddoor_opaque_right_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "open",
+        "fg": "vp_hddoor_opaque_right_open_season_spring"
+    },
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_hddoor_opaque_right_open_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_hddoor_opaque_right_season_summer", "vp_hddoor_opaque_full_right_season_summer" ],
+    "fg": "vp_hddoor_opaque_right_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "open",
+        "fg": "vp_hddoor_opaque_right_open_season_summer"
+    },
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_hddoor_opaque_right_open_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_hddoor_opaque_right_season_autumn", "vp_hddoor_opaque_full_right_season_autumn" ],
+    "fg": "vp_hddoor_opaque_right_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "open",
+        "fg": "vp_hddoor_opaque_right_open_season_autumn"
+    },
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_hddoor_opaque_right_open_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_hddoor_opaque_right_season_winter", "vp_hddoor_opaque_full_right_season_winter" ],
+    "fg": "vp_hddoor_opaque_right_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "open",
+        "fg": "vp_hddoor_opaque_right_open_season_winter"
+    },
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_hddoor_opaque_right_open_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_hddoor_opaque_front", "vp_hddoor_opaque_full_front" ],
+    "fg": "vp_hddoor_opaque_front_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "open",
+        "fg": "vp_hddoor_opaque_front_open_season_spring"
+    },
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_hddoor_opaque_front_open_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_hddoor_opaque_front_season_summer", "vp_hddoor_opaque_full_front_season_summer" ],
+    "fg": "vp_hddoor_opaque_front_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "open",
+        "fg": "vp_hddoor_opaque_front_open_season_summer"
+    },
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_hddoor_opaque_front_open_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_hddoor_opaque_front_season_autumn", "vp_hddoor_opaque_full_front_season_autumn" ],
+    "fg": "vp_hddoor_opaque_front_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "open",
+        "fg": "vp_hddoor_opaque_front_open_season_autumn"
+    },
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_hddoor_opaque_front_open_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_hddoor_opaque_front_season_winter", "vp_hddoor_opaque_full_front_season_winter" ],
+    "fg": "vp_hddoor_opaque_front_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "open",
+        "fg": "vp_hddoor_opaque_front_open_season_winter"
+    },
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_hddoor_opaque_front_open_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_hddoor_opaque_rear", "vp_hddoor_opaque_full_rear" ],
+    "fg": "vp_hddoor_opaque_rear_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "open",
+        "fg": "vp_hddoor_opaque_rear_open_season_spring"
+    },
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_hddoor_opaque_rear_open_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_hddoor_opaque_rear_season_summer", "vp_hddoor_opaque_full_rear_season_summer" ],
+    "fg": "vp_hddoor_opaque_rear_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "open",
+        "fg": "vp_hddoor_opaque_rear_open_season_summer"
+    },
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_hddoor_opaque_rear_open_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_hddoor_opaque_rear_season_autumn", "vp_hddoor_opaque_full_rear_season_autumn" ],
+    "fg": "vp_hddoor_opaque_rear_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "open",
+        "fg": "vp_hddoor_opaque_rear_open_season_autumn"
+    },
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_hddoor_opaque_rear_open_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_hddoor_opaque_rear_season_winter", "vp_hddoor_opaque_full_rear_season_winter" ],
+    "fg": "vp_hddoor_opaque_rear_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "open",
+        "fg": "vp_hddoor_opaque_rear_open_season_winter"
+    },
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_hddoor_opaque_rear_open_season_winter"
+    }
+    ]
+}
+]

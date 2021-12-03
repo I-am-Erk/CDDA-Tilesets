@@ -1,0 +1,386 @@
+[
+{
+    "id": [ "vp_folding_seat", "vp_reclining_seat", "vp_seat", "vp_seat_leather" ],
+    "fg": "vp_seat_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_seat_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_folding_seat_season_summer", "vp_reclining_seat_season_summer", "vp_seat_season_summer", "vp_seat_leather_season_summer" ],
+    "fg": "vp_seat_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_seat_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_folding_seat_season_autumn", "vp_reclining_seat_season_autumn", "vp_seat_season_autumn", "vp_seat_leather_season_autumn" ],
+    "fg": "vp_seat_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_seat_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_folding_seat_season_winter", "vp_reclining_seat_season_winter", "vp_seat_season_winter", "vp_seat_leather_season_winter" ],
+    "fg": "vp_seat_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_seat_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_seat_back", "vp_seat_back_leather" ],
+    "fg": "vp_seat_back_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_seat_back_left_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_seat_back_season_summer", "vp_seat_back_leather_season_summer" ],
+    "fg": "vp_seat_back_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_seat_back_left_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_seat_back_season_autumn", "vp_seat_back_leather_season_autumn" ],
+    "fg": "vp_seat_back_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_seat_back_left_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_seat_back_season_winter", "vp_seat_back_leather_season_winter" ],
+    "fg": "vp_seat_back_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_seat_back_left_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_seat_back_left", "vp_seat_back_leather_left" ],
+    "fg": "vp_seat_back_left_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_seat_back_left_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_seat_back_left_season_summer", "vp_seat_back_leather_left_season_summer" ],
+    "fg": "vp_seat_back_left_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_seat_back_left_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_seat_back_left_season_autumn", "vp_seat_back_leather_left_season_autumn" ],
+    "fg": "vp_seat_back_left_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_seat_back_left_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_seat_back_left_season_winter", "vp_seat_back_leather_left_season_winter" ],
+    "fg": "vp_seat_back_left_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_seat_back_left_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_seat_back_right", "vp_seat_back_leather_right" ],
+    "fg": "vp_seat_back_right_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_seat_back_right_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_seat_back_right_season_summer", "vp_seat_back_leather_right_season_summer" ],
+    "fg": "vp_seat_back_right_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_seat_back_right_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_seat_back_right_season_autumn", "vp_seat_back_leather_right_season_autumn" ],
+    "fg": "vp_seat_back_right_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_seat_back_right_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_seat_back_right_season_winter", "vp_seat_back_leather_right_season_winter" ],
+    "fg": "vp_seat_back_right_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_seat_back_right_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_seat_back_vertical", "vp_seat_back_leather_vertical" ],
+    "fg": "vp_seat_back_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_seat_back_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_seat_back_vertical_season_summer", "vp_seat_back_leather_vertical_season_summer" ],
+    "fg": "vp_seat_back_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_seat_back_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_seat_back_vertical_season_autumn", "vp_seat_back_leather_vertical_season_autumn" ],
+    "fg": "vp_seat_back_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_seat_back_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_seat_back_vertical_season_winter", "vp_seat_back_leather_vertical_season_winter" ],
+    "fg": "vp_seat_back_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_seat_back_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_seat_back_vertical_left", "vp_seat_back_leather_vertical_left" ],
+    "fg": "vp_seat_back_left_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_seat_back_left_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_seat_back_vertical_left_season_summer", "vp_seat_back_leather_vertical_left_season_summer" ],
+    "fg": "vp_seat_back_left_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_seat_back_left_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_seat_back_vertical_left_season_autumn", "vp_seat_back_leather_vertical_left_season_autumn" ],
+    "fg": "vp_seat_back_left_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_seat_back_left_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_seat_back_vertical_left_season_winter", "vp_seat_back_leather_vertical_left_season_winter" ],
+    "fg": "vp_seat_back_left_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_seat_back_left_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_seat_back_vertical_right", "vp_seat_back_leather_vertical_right" ],
+    "fg": "vp_seat_back_right_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_seat_back_right_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_seat_back_vertical_right_season_summer", "vp_seat_back_leather_vertical_right_season_summer" ],
+    "fg": "vp_seat_back_right_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_seat_back_right_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_seat_back_vertical_right_season_autumn", "vp_seat_back_leather_vertical_right_season_autumn" ],
+    "fg": "vp_seat_back_right_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_seat_back_right_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_seat_back_vertical_right_season_winter", "vp_seat_back_leather_vertical_right_season_winter" ],
+    "fg": "vp_seat_back_right_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_seat_back_right_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_seat_rear", "vp_seat_leather_rear" ],
+    "fg": "vp_seat_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_seat_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_seat_rear_season_summer", "vp_seat_leather_rear_season_summer" ],
+    "fg": "vp_seat_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_seat_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_seat_rear_season_autumn", "vp_seat_leather_rear_season_autumn" ],
+    "fg": "vp_seat_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_seat_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_seat_rear_season_winter", "vp_seat_leather_rear_season_winter" ],
+    "fg": "vp_seat_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_seat_season_winter"
+    }
+    ]
+}
+]

@@ -1,0 +1,86 @@
+[
+{
+    "id": [ 
+    "vp_wheel",
+    "vp_wheel_steerable",
+    "vp_wheel_bicycle",
+    "vp_wheel_bicycle_steerable",
+    "vp_wheel_bicycle_or",
+    "vp_wheel_bicycle_or_steerable",
+    "vp_wheel_bicycle_rear",
+    "vp_wheel_bicycle_or_rear"
+    ],
+    "fg": "vp_wheel_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_wheel_season_spring"
+    }
+    ]
+},
+{
+    "id": [ 
+    "vp_wheel_season_summer",
+    "vp_wheel_steerable_season_summer",
+    "vp_wheel_bicycle_season_summer",
+    "vp_wheel_bicycle_steerable_season_summer",
+    "vp_wheel_bicycle_or_season_summer",
+    "vp_wheel_bicycle_or_steerable_season_summer",
+    "vp_wheel_bicycle_rear_season_summer",
+    "vp_wheel_bicycle_or_rear_season_summer"
+    ],
+    "fg": "vp_wheel_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_wheel_season_summer"
+    }
+    ]
+},
+{
+    "id": [ 
+    "vp_wheel_season_autumn",
+    "vp_wheel_steerable_season_autumn",
+    "vp_wheel_bicycle_season_autumn",
+    "vp_wheel_bicycle_steerable_season_autumn",
+    "vp_wheel_bicycle_or_season_autumn",
+    "vp_wheel_bicycle_or_steerable_season_autumn",
+    "vp_wheel_bicycle_rear_season_autumn",
+    "vp_wheel_bicycle_or_rear_season_autumn"
+    ],
+    "fg": "vp_wheel_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_wheel_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ 
+    "vp_wheel_season_winter",
+    "vp_wheel_steerable_season_winter",
+    "vp_wheel_bicycle_season_winter",
+    "vp_wheel_bicycle_steerable_season_winter",
+    "vp_wheel_bicycle_or_season_winter",
+    "vp_wheel_bicycle_or_steerable_season_winter",
+    "vp_wheel_bicycle_rear_season_winter",
+    "vp_wheel_bicycle_or_rear_season_winter"
+    ],
+    "fg": "vp_wheel_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_wheel_season_winter"
+    }
+    ]
+}
+]

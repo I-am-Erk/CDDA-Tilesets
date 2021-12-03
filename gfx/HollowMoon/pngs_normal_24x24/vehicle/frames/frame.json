@@ -1,0 +1,1250 @@
+[
+{
+    "id": [ "vp_frame_cover", "vp_folding_frame_cover", "vp_frame_wood_cover", "vp_frame_wood_light_cover", "vp_folding_wooden_frame_cover", "vp_hdframe_cover", "vp_xlframe_cover" ],
+    "fg": "vp_frame_cover_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_frame_cover_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_cover_season_summer", "vp_folding_frame_cover_season_summer", "vp_frame_wood_cover_season_summer", "vp_frame_wood_light_cover_season_summer", "vp_folding_wooden_frame_cover_season_summer", "vp_hdframe_cover_season_summer", "vp_xlframe_cover_season_summer" ],
+    "fg": "vp_frame_cover_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg":"vp_broken_overlay_season_summer",
+        "bg": "vp_frame_cover_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_cover_season_autumn", "vp_folding_frame_cover_season_autumn", "vp_frame_wood_cover_season_autumn", "vp_frame_wood_light_cover_season_autumn", "vp_folding_wooden_frame_cover_season_autumn", "vp_hdframe_cover_season_autumn", "vp_xlframe_cover_season_autumn" ],
+    "fg": "vp_frame_cover_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_frame_cover_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_cover_season_winter", "vp_folding_frame_cover_season_winter", "vp_frame_wood_cover_season_winter", "vp_frame_wood_light_cover_season_winter", "vp_folding_wooden_frame_cover_season_winter", "vp_hdframe_cover_season_winter", "vp_xlframe_cover_season_winter" ],
+    "fg": "vp_frame_cover_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_frame_cover_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_cross", "vp_folding_frame_cross", "vp_frame_wood_cross", "vp_frame_wood_light_cross", "vp_folding_wooden_frame_cross", "vp_hdframe_cross", "vp_xlframe_cross" ],
+    "fg": "vp_frame_cross_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_frame_cross_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_cross_season_summer", "vp_folding_frame_cross_season_summer", "vp_frame_wood_cross_season_summer", "vp_frame_wood_light_cross_season_summer", "vp_folding_wooden_frame_cross_season_summer", "vp_hdframe_cross_season_summer", "vp_xlframe_cross_season_summer" ],
+    "fg": "vp_frame_cross_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_frame_cross_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_cross_season_autumn", "vp_folding_frame_cross_season_autumn", "vp_frame_wood_cross_season_autumn", "vp_frame_wood_light_cross_season_autumn", "vp_folding_wooden_frame_cross_season_autumn", "vp_hdframe_cross_season_autumn", "vp_xlframe_cross_season_autumn" ],
+    "fg": "vp_frame_cross_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_frame_cross_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_cross_season_winter", "vp_folding_frame_cross_season_winter", "vp_frame_wood_cross_season_winter", "vp_frame_wood_light_cross_season_winter", "vp_folding_wooden_frame_cross_season_winter", "vp_hdframe_cross_season_winter", "vp_xlframe_cross_season_winter" ],
+    "fg": "vp_frame_cross_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_frame_cross_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_cross_unconnected", "vp_folding_frame_cross_unconnected", "vp_frame_wood_cross_unconnected", "vp_frame_wood_light_cross_unconnected", "vp_folding_wooden_frame_cross_unconnected", "vp_hdframe_cross_unconnected", "vp_xlframe_cross_unconnected" ],
+    "fg": "vp_frame_cross_unconnected_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_frame_cross_unconnected_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_cross_unconnected_season_summer", "vp_folding_frame_cross_unconnected_season_summer", "vp_frame_wood_cross_unconnected_season_summer", "vp_frame_wood_light_cross_unconnected_season_summer", "vp_folding_wooden_frame_cross_unconnected_season_summer", "vp_hdframe_cross_unconnected_season_summer", "vp_xlframe_cross_unconnected_season_summer" ],
+    "fg": "vp_frame_cross_unconnected_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_frame_cross_unconnected_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_cross_unconnected_season_autumn", "vp_folding_frame_cross_unconnected_season_autumn", "vp_frame_wood_cross_unconnected_season_autumn", "vp_frame_wood_light_cross_unconnected_season_autumn", "vp_folding_wooden_frame_cross_unconnected_season_autumn", "vp_hdframe_cross_unconnected_season_autumn", "vp_xlframe_cross_unconnected_season_autumn" ],
+    "fg": "vp_frame_cross_unconnected_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_frame_cross_unconnected_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_cross_unconnected_season_winter", "vp_folding_frame_cross_unconnected_season_winter", "vp_frame_wood_cross_unconnected_season_winter", "vp_frame_wood_light_cross_unconnected_season_winter", "vp_folding_wooden_frame_cross_unconnected_season_winter", "vp_hdframe_cross_unconnected_season_winter", "vp_xlframe_cross_unconnected_season_winter" ],
+    "fg": "vp_frame_cross_unconnected_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_frame_cross_unconnected_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_ne", "vp_folding_frame_ne", "vp_frame_wood_ne", "vp_frame_wood_light_ne", "vp_folding_wooden_frame_ne", "vp_hdframe_ne", "vp_xlframe_ne" ],
+    "fg": "vp_frame_ne_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_frame_ne_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_ne_season_summer", "vp_folding_frame_ne_season_summer", "vp_frame_wood_ne_season_summer", "vp_frame_wood_light_ne_season_summer", "vp_folding_wooden_frame_ne_season_summer", "vp_hdframe_ne_season_summer", "vp_xlframe_ne_season_summer" ],
+    "fg": "vp_frame_ne_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_frame_ne_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_ne_season_autumn", "vp_folding_frame_ne_season_autumn", "vp_frame_wood_ne_season_autumn", "vp_frame_wood_light_ne_season_autumn", "vp_folding_wooden_frame_ne_season_autumn", "vp_hdframe_ne_season_autumn", "vp_xlframe_ne_season_autumn" ],
+    "fg": "vp_frame_ne_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_frame_ne_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_ne_season_winter", "vp_folding_frame_ne_season_winter", "vp_frame_wood_ne_season_winter", "vp_frame_wood_light_ne_season_winter", "vp_folding_wooden_frame_ne_season_winter", "vp_hdframe_ne_season_winter", "vp_xlframe_ne_season_winter" ],
+    "fg": "vp_frame_ne_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_frame_ne_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_nw", "vp_folding_frame_nw", "vp_frame_wood_nw", "vp_frame_wood_light_nw", "vp_folding_wooden_frame_nw", "vp_hdframe_nw", "vp_xlframe_nw" ],
+    "fg": "vp_frame_nw_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_frame_nw_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_nw_season_summer", "vp_folding_frame_nw_season_summer", "vp_frame_wood_nw_season_summer", "vp_frame_wood_light_nw_season_summer", "vp_folding_wooden_frame_nw_season_summer", "vp_hdframe_nw_season_summer", "vp_xlframe_nw_season_summer" ],
+    "fg": "vp_frame_nw_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_frame_nw_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_nw_season_autumn", "vp_folding_frame_nw_season_autumn", "vp_frame_wood_nw_season_autumn", "vp_frame_wood_light_nw_season_autumn", "vp_folding_wooden_frame_nw_season_autumn", "vp_hdframe_nw_season_autumn", "vp_xlframe_nw_season_autumn" ],
+    "fg": "vp_frame_nw_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_frame_nw_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_nw_season_winter", "vp_folding_frame_nw_season_winter", "vp_frame_wood_nw_season_winter", "vp_frame_wood_light_nw_season_winter", "vp_folding_wooden_frame_nw_season_winter", "vp_hdframe_nw_season_winter", "vp_xlframe_nw_season_winter" ],
+    "fg": "vp_frame_nw_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_frame_nw_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_se", "vp_folding_frame_se", "vp_frame_wood_se", "vp_frame_wood_light_se", "vp_folding_wooden_frame_se", "vp_hdframe_se", "vp_xlframe_se" ],
+    "fg": "vp_frame_se_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_frame_se_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_se_season_summer", "vp_folding_frame_se_season_summer", "vp_frame_wood_se_season_summer", "vp_frame_wood_light_se_season_summer", "vp_folding_wooden_frame_se_season_summer", "vp_hdframe_se_season_summer", "vp_xlframe_se_season_summer" ],
+    "fg": "vp_frame_se_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_frame_se_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_se_season_autumn", "vp_folding_frame_se_season_autumn", "vp_frame_wood_se_season_autumn", "vp_frame_wood_light_se_season_autumn", "vp_folding_wooden_frame_se_season_autumn", "vp_hdframe_se_season_autumn", "vp_xlframe_se_season_autumn" ],
+    "fg": "vp_frame_se_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_frame_se_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_se_season_winter", "vp_folding_frame_se_season_winter", "vp_frame_wood_se_season_winter", "vp_frame_wood_light_se_season_winter", "vp_folding_wooden_frame_se_season_winter", "vp_hdframe_se_season_winter", "vp_xlframe_se_season_winter" ],
+    "fg": "vp_frame_se_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_frame_se_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_sw", "vp_folding_frame_sw", "vp_frame_wood_sw", "vp_frame_wood_light_sw", "vp_folding_wooden_frame_sw", "vp_hdframe_sw", "vp_xlframe_sw" ],
+    "fg": "vp_frame_sw_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_frame_sw_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_sw_season_summer", "vp_folding_frame_sw_season_summer", "vp_frame_wood_sw_season_summer", "vp_frame_wood_light_sw_season_summer", "vp_folding_wooden_frame_sw_season_summer", "vp_hdframe_sw_season_summer", "vp_xlframe_sw_season_summer" ],
+    "fg": "vp_frame_sw_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_frame_sw_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_sw_season_autumn", "vp_folding_frame_sw_season_autumn", "vp_frame_wood_sw_season_autumn", "vp_frame_wood_light_sw_season_autumn", "vp_folding_wooden_frame_sw_season_autumn", "vp_hdframe_sw_season_autumn", "vp_xlframe_sw_season_autumn" ],
+    "fg": "vp_frame_sw_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_frame_sw_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_sw_season_winter", "vp_folding_frame_sw_season_winter", "vp_frame_wood_sw_season_winter", "vp_frame_wood_light_sw_season_winter", "vp_folding_wooden_frame_sw_season_winter", "vp_hdframe_sw_season_winter", "vp_xlframe_sw_season_winter" ],
+    "fg": "vp_frame_sw_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_frame_sw_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_vertical_unconnected", "vp_folding_frame_vertical_unconnected", "vp_frame_wood_vertical_unconnected", "vp_frame_wood_light_vertical_unconnected", "vp_folding_wooden_frame_vertical_unconnected", "vp_hdframe_vertical_unconnected", "vp_xlframe_vertical_unconnected" ],
+    "fg": "vp_frame_vertical_unconnected_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_frame_vertical_unconnected_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_vertical_unconnected_season_summer", "vp_folding_frame_vertical_unconnected_season_summer", "vp_frame_wood_vertical_unconnected_season_summer", "vp_frame_wood_light_vertical_unconnected_season_summer", "vp_folding_wooden_frame_vertical_unconnected_season_summer", "vp_hdframe_vertical_unconnected_season_summer", "vp_xlframe_vertical_unconnected_season_summer" ],
+    "fg": "vp_frame_vertical_unconnected_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_frame_vertical_unconnected_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_vertical_unconnected_season_autumn", "vp_folding_frame_vertical_unconnected_season_autumn", "vp_frame_wood_vertical_unconnected_season_autumn", "vp_frame_wood_light_vertical_unconnected_season_autumn", "vp_folding_wooden_frame_vertical_unconnected_season_autumn", "vp_hdframe_vertical_unconnected_season_autumn", "vp_xlframe_vertical_unconnected_season_autumn" ],
+    "fg": "vp_frame_vertical_unconnected_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_frame_vertical_unconnected_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_vertical_unconnected_season_winter", "vp_folding_frame_vertical_unconnected_season_winter", "vp_frame_wood_vertical_unconnected_season_winter", "vp_frame_wood_light_vertical_unconnected_season_winter", "vp_folding_wooden_frame_vertical_unconnected_season_winter", "vp_hdframe_vertical_unconnected_season_winter", "vp_xlframe_vertical_unconnected_season_winter" ],
+    "fg": "vp_frame_vertical_unconnected_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_frame_vertical_unconnected_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_vertical_2_unconnected", "vp_folding_frame_vertical_2_unconnected", "vp_frame_wood_vertical_2_unconnected", "vp_frame_wood_light_vertical_2_unconnected", "vp_folding_wooden_frame_vertical_2_unconnected", "vp_hdframe_vertical_2_unconnected", "vp_xlframe_vertical_2_unconnected" ],
+    "fg": "vp_frame_vertical_2_unconnected_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_frame_vertical_2_unconnected_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_vertical_2_unconnected_season_summer", "vp_folding_frame_vertical_2_unconnected_season_summer", "vp_frame_wood_vertical_2_unconnected_season_summer", "vp_frame_wood_light_vertical_2_unconnected_season_summer", "vp_folding_wooden_frame_vertical_2_unconnected_season_summer", "vp_hdframe_vertical_2_unconnected_season_summer", "vp_xlframe_vertical_2_unconnected_season_summer" ],
+    "fg": "vp_frame_vertical_2_unconnected_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_frame_vertical_2_unconnected_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_vertical_2_unconnected_season_autumn", "vp_folding_frame_vertical_2_unconnected_season_autumn", "vp_frame_wood_vertical_2_unconnected_season_autumn", "vp_frame_wood_light_vertical_2_unconnected_season_autumn", "vp_folding_wooden_frame_vertical_2_unconnected_season_autumn", "vp_hdframe_vertical_2_unconnected_season_autumn", "vp_xlframe_vertical_2_unconnected_season_autumn" ],
+    "fg": "vp_frame_vertical_2_unconnected_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_frame_vertical_2_unconnected_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_vertical_2_unconnected_season_winter", "vp_folding_frame_vertical_2_unconnected_season_winter", "vp_frame_wood_vertical_2_unconnected_season_winter", "vp_frame_wood_light_vertical_2_unconnected_season_winter", "vp_folding_wooden_frame_vertical_2_unconnected_season_winter", "vp_hdframe_vertical_2_unconnected_season_winter", "vp_xlframe_vertical_2_unconnected_season_winter" ],
+    "fg": "vp_frame_vertical_2_unconnected_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_frame_vertical_2_unconnected_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_vertical_left", "vp_folding_frame_vertical_left", "vp_frame_wood_vertical_left", "vp_frame_wood_light_vertical_left", "vp_folding_wooden_frame_vertical_left", "vp_hdframe_vertical_left", "vp_xlframe_vertical_left" ],
+    "fg": "vp_frame_vertical_left_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_frame_vertical_left_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_vertical_left_season_summer", "vp_folding_frame_vertical_left_season_summer", "vp_frame_wood_vertical_left_season_summer", "vp_frame_wood_light_vertical_left_season_summer", "vp_folding_wooden_frame_vertical_left_season_summer", "vp_hdframe_vertical_left_season_summer", "vp_xlframe_vertical_left_season_summer" ],
+    "fg": "vp_frame_vertical_left_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_frame_vertical_left_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_vertical_left_season_autumn", "vp_folding_frame_vertical_left_season_autumn", "vp_frame_wood_vertical_left_season_autumn", "vp_frame_wood_light_vertical_left_season_autumn", "vp_folding_wooden_frame_vertical_left_season_autumn", "vp_hdframe_vertical_left_season_autumn", "vp_xlframe_vertical_left_season_autumn" ],
+    "fg": "vp_frame_vertical_left_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_frame_vertical_left_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_vertical_left_season_winter", "vp_folding_frame_vertical_left_season_winter", "vp_frame_wood_vertical_left_season_winter", "vp_frame_wood_light_vertical_left_season_winter", "vp_folding_wooden_frame_vertical_left_season_winter", "vp_hdframe_vertical_left_season_winter", "vp_xlframe_vertical_left_season_winter" ],
+    "fg": "vp_frame_vertical_left_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_frame_vertical_left_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_vertical_2_left", "vp_folding_frame_vertical_2_left", "vp_frame_wood_vertical_2_left", "vp_frame_wood_light_2_left", "vp_folding_wooden_frame_vertical_2_left", "vp_hdframe_vertical_2_left", "vp_xlframe_vertical_2_left" ],
+    "fg": "vp_frame_vertical_2_left_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_frame_vertical_2_left_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_vertical_2_left_season_summer", "vp_folding_frame_vertical_2_left_season_summer", "vp_frame_wood_vertical_2_left_season_summer", "vp_frame_wood_light_2_left_season_summer", "vp_folding_wooden_frame_vertical_2_left_season_summer", "vp_hdframe_vertical_2_left_season_summer", "vp_xlframe_vertical_2_left_season_summer" ],
+    "fg": "vp_frame_vertical_2_left_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_frame_vertical_2_left_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_vertical_2_left_season_autumn", "vp_folding_frame_vertical_2_left_season_autumn", "vp_frame_wood_vertical_2_left_season_autumn", "vp_frame_wood_light_2_left_season_autumn", "vp_folding_wooden_frame_vertical_2_left_season_autumn", "vp_hdframe_vertical_2_left_season_autumn", "vp_xlframe_vertical_2_left_season_autumn" ],
+    "fg": "vp_frame_vertical_2_left_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_frame_vertical_2_left_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_vertical_2_left_season_winter", "vp_folding_frame_vertical_2_left_season_winter", "vp_frame_wood_vertical_2_left_season_winter", "vp_frame_wood_light_2_left_season_winter", "vp_folding_wooden_frame_vertical_2_left_season_winter", "vp_hdframe_vertical_2_left_season_winter", "vp_xlframe_vertical_2_left_season_winter" ],
+    "fg": "vp_frame_vertical_2_left_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_frame_vertical_2_left_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_vertical_right", "vp_folding_frame_vertical_right", "vp_frame_wood_vertical_right", "vp_frame_wood_light_vertical_right", "vp_folding_wooden_frame_vertical_right", "vp_hdframe_vertical_right", "vp_xlframe_vertical_right" ],
+    "fg": "vp_frame_vertical_right_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_frame_vertical_right_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_vertical_right_season_summer", "vp_folding_frame_vertical_right_season_summer", "vp_frame_wood_vertical_right_season_summer", "vp_frame_wood_light_vertical_right_season_summer", "vp_folding_wooden_frame_vertical_right_season_summer", "vp_hdframe_vertical_right_season_summer", "vp_xlframe_vertical_right_season_summer" ],
+    "fg": "vp_frame_vertical_right_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_frame_vertical_right_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_vertical_right_season_autumn", "vp_folding_frame_vertical_right_season_autumn", "vp_frame_wood_vertical_right_season_autumn", "vp_frame_wood_light_vertical_right_season_autumn", "vp_folding_wooden_frame_vertical_right_season_autumn", "vp_hdframe_vertical_right_season_autumn", "vp_xlframe_vertical_right_season_autumn" ],
+    "fg": "vp_frame_vertical_right_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_frame_vertical_right_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_vertical_right_season_winter", "vp_folding_frame_vertical_right_season_winter", "vp_frame_wood_vertical_right_season_winter", "vp_frame_wood_light_vertical_right_season_winter", "vp_folding_wooden_frame_vertical_right_season_winter", "vp_hdframe_vertical_right_season_winter", "vp_xlframe_vertical_right_season_winter" ],
+    "fg": "vp_frame_vertical_right_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_frame_vertical_right_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_vertical_2_right", "vp_folding_frame_vertical_2_right", "vp_frame_wood_vertical_2_right", "vp_frame_wood_light_vertical_2_right", "vp_folding_wooden_frame_vertical_2_right", "vp_hdframe_vertical_2_right", "vp_xlframe_vertical_2_right" ],
+    "fg": "vp_frame_vertical_2_right_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_frame_vertical_2_right_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_vertical_2_right_season_summer", "vp_folding_frame_vertical_2_right_season_summer", "vp_frame_wood_vertical_2_right_season_summer", "vp_frame_wood_light_vertical_2_right_season_summer", "vp_folding_wooden_frame_vertical_2_right_season_summer", "vp_hdframe_vertical_2_right_season_summer", "vp_xlframe_vertical_2_right_season_summer" ],
+    "fg": "vp_frame_vertical_2_right_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_frame_vertical_2_right_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_vertical_2_right_season_autumn", "vp_folding_frame_vertical_2_right_season_autumn", "vp_frame_wood_vertical_2_right_season_autumn", "vp_frame_wood_light_vertical_2_right_season_autumn", "vp_folding_wooden_frame_vertical_2_right_season_autumn", "vp_hdframe_vertical_2_right_season_autumn", "vp_xlframe_vertical_2_right_season_autumn" ],
+    "fg": "vp_frame_vertical_2_right_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_frame_vertical_2_right_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_vertical_2_right_season_winter", "vp_folding_frame_vertical_2_right_season_winter", "vp_frame_wood_vertical_2_right_season_winter", "vp_frame_wood_light_vertical_2_right_season_winter", "vp_folding_wooden_frame_vertical_2_right_season_winter", "vp_hdframe_vertical_2_right_season_winter", "vp_xlframe_vertical_2_right_season_winter" ],
+    "fg": "vp_frame_vertical_2_right_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_frame_vertical_2_right_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal", "vp_folding_frame_horizontal", "vp_frame_wood_horizontal", "vp_frame_wood_light_horizontal", "vp_folding_wooden_frame_horizontal", "vp_hdframe_horizontal", "vp_xlframe_horizontal" ],
+    "fg": "vp_frame_horizontal_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_frame_horizontal_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_season_summer", "vp_folding_frame_horizontal_season_summer", "vp_frame_wood_horizontal_season_summer", "vp_frame_wood_light_horizontal_season_summer", "vp_folding_wooden_frame_horizontal_season_summer", "vp_hdframe_horizontal_season_summer", "vp_xlframe_horizontal_season_summer" ],
+    "fg": "vp_frame_horizontal_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_frame_horizontal_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_season_autumn", "vp_folding_frame_horizontal_season_autumn", "vp_frame_wood_horizontal_season_autumn", "vp_frame_wood_light_horizontal_season_autumn", "vp_folding_wooden_frame_horizontal_season_autumn", "vp_hdframe_horizontal_season_autumn", "vp_xlframe_horizontal_season_autumn" ],
+    "fg": "vp_frame_horizontal_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_frame_horizontal_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_season_winter", "vp_folding_frame_horizontal_season_winter", "vp_frame_wood_horizontal_season_winter", "vp_frame_wood_light_horizontal_season_winter", "vp_folding_wooden_frame_horizontal_season_winter", "vp_hdframe_horizontal_season_winter", "vp_xlframe_horizontal_season_winter" ],
+    "fg": "vp_frame_horizontal_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_frame_horizontal_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_2", "vp_folding_frame_horizontal_2", "vp_frame_wood_horizontal_2", "vp_frame_wood_light_horizontal_2", "vp_folding_wooden_frame_horizontal_2", "vp_hdframe_horizontal_2", "vp_xlframe_horizontal_2" ],
+    "fg": "vp_frame_horizontal_2_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_frame_horizontal_2_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_2_season_summer", "vp_folding_frame_horizontal_2_season_summer", "vp_frame_wood_horizontal_2_season_summer", "vp_frame_wood_light_horizontal_2_season_summer", "vp_folding_wooden_frame_horizontal_2_season_summer", "vp_hdframe_horizontal_2_season_summer", "vp_xlframe_horizontal_2_season_summer" ],
+    "fg": "vp_frame_horizontal_2_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_frame_horizontal_2_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_2_season_autumn", "vp_folding_frame_horizontal_2_season_autumn", "vp_frame_wood_horizontal_2_season_autumn", "vp_frame_wood_light_horizontal_2_season_autumn", "vp_folding_wooden_frame_horizontal_2_season_autumn", "vp_hdframe_horizontal_2_season_autumn", "vp_xlframe_horizontal_2_season_autumn" ],
+    "fg": "vp_frame_horizontal_2_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_frame_horizontal_2_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_2_season_winter", "vp_folding_frame_horizontal_2_season_winter", "vp_frame_wood_horizontal_2_season_winter", "vp_frame_wood_light_horizontal_2_season_winter", "vp_folding_wooden_frame_horizontal_2_season_winter", "vp_hdframe_horizontal_2_season_winter", "vp_xlframe_horizontal_2_season_winter" ],
+    "fg": "vp_frame_horizontal_2_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_frame_horizontal_2_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_unconnected", "vp_folding_frame_horizontal_unconnected", "vp_frame_wood_horizontal_unconnected", "vp_frame_wood_light_horizontal_unconnected", "vp_folding_wooden_frame_horizontal_unconnected", "vp_hdframe_horizontal_unconnected", "vp_xlframe_horizontal_unconnected" ],
+    "fg": "vp_frame_horizontal_unconnected_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_frame_horizontal_unconnected_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_unconnected_season_summer", "vp_folding_frame_horizontal_unconnected_season_summer", "vp_frame_wood_horizontal_unconnected_season_summer", "vp_frame_wood_light_horizontal_unconnected_season_summer", "vp_folding_wooden_frame_horizontal_unconnected_season_summer", "vp_hdframe_horizontal_unconnected_season_summer", "vp_xlframe_horizontal_unconnected_season_summer" ],
+    "fg": "vp_frame_horizontal_unconnected_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_frame_horizontal_unconnected_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_unconnected_season_autumn", "vp_folding_frame_horizontal_unconnected_season_autumn", "vp_frame_wood_horizontal_unconnected_season_autumn", "vp_frame_wood_light_horizontal_unconnected_season_autumn", "vp_folding_wooden_frame_horizontal_unconnected_season_autumn", "vp_hdframe_horizontal_unconnected_season_autumn", "vp_xlframe_horizontal_unconnected_season_autumn" ],
+    "fg": "vp_frame_horizontal_unconnected_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_frame_horizontal_unconnected_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_unconnected_season_winter", "vp_folding_frame_horizontal_unconnected_season_winter", "vp_frame_wood_horizontal_unconnected_season_winter", "vp_frame_wood_light_horizontal_unconnected_season_winter", "vp_folding_wooden_frame_horizontal_unconnected_season_winter", "vp_hdframe_horizontal_unconnected_season_winter", "vp_xlframe_horizontal_unconnected_season_winter" ],
+    "fg": "vp_frame_horizontal_unconnected_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_frame_horizontal_unconnected_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_2_unconnected", "vp_folding_frame_horizontal_2_unconnected", "vp_frame_wood_horizontal_2_unconnected", "vp_frame_wood_light_horizontal_2_unconnected", "vp_folding_wooden_frame_horizontal_2_unconnected", "vp_hdframe_horizontal_2_unconnected", "vp_xlframe_horizontal_2_unconnected" ],
+    "fg": "vp_frame_horizontal_2_unconnected_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_frame_horizontal_2_unconnected_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_2_unconnected_season_summer", "vp_folding_frame_horizontal_2_unconnected_season_summer", "vp_frame_wood_horizontal_2_unconnected_season_summer", "vp_frame_wood_light_horizontal_2_unconnected_season_summer", "vp_folding_wooden_frame_horizontal_2_unconnected_season_summer", "vp_hdframe_horizontal_2_unconnected_season_summer", "vp_xlframe_horizontal_2_unconnected_season_summer" ],
+    "fg": "vp_frame_horizontal_2_unconnected_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_frame_horizontal_2_unconnected_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_2_unconnected_season_autumn", "vp_folding_frame_horizontal_2_unconnected_season_autumn", "vp_frame_wood_horizontal_2_unconnected_season_autumn", "vp_frame_wood_light_horizontal_2_unconnected_season_autumn", "vp_folding_wooden_frame_horizontal_2_unconnected_season_autumn", "vp_hdframe_horizontal_2_unconnected_season_autumn", "vp_xlframe_horizontal_2_unconnected_season_autumn" ],
+    "fg": "vp_frame_horizontal_2_unconnected_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_frame_horizontal_2_unconnected_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_2_unconnected_season_winter", "vp_folding_frame_horizontal_2_unconnected_season_winter", "vp_frame_wood_horizontal_2_unconnected_season_winter", "vp_frame_wood_light_horizontal_2_unconnected_season_winter", "vp_folding_wooden_frame_horizontal_2_unconnected_season_winter", "vp_hdframe_horizontal_2_unconnected_season_winter", "vp_xlframe_horizontal_2_unconnected_season_winter" ],
+    "fg": "vp_frame_horizontal_2_unconnected_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_frame_horizontal_2_unconnected_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_front", "vp_folding_frame_horizontal_front", "vp_frame_wood_horizontal_front", "vp_frame_wood_light_horizontal_front", "vp_folding_wooden_frame_horizontal_front", "vp_hdframe_horizontal_front", "vp_xlframe_horizontal_front" ],
+    "fg": "vp_frame_horizontal_front_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_frame_horizontal_front_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_front_season_summer", "vp_folding_frame_horizontal_front_season_summer", "vp_frame_wood_horizontal_front_season_summer", "vp_frame_wood_light_horizontal_front_season_summer", "vp_folding_wooden_frame_horizontal_front_season_summer", "vp_hdframe_horizontal_front_season_summer", "vp_xlframe_horizontal_front_season_summer" ],
+    "fg": "vp_frame_horizontal_front_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_frame_horizontal_front_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_front_season_autumn", "vp_folding_frame_horizontal_front_season_autumn", "vp_frame_wood_horizontal_front_season_autumn", "vp_frame_wood_light_horizontal_front_season_autumn", "vp_folding_wooden_frame_horizontal_front_season_autumn", "vp_hdframe_horizontal_front_season_autumn", "vp_xlframe_horizontal_front_season_autumn" ],
+    "fg": "vp_frame_horizontal_front_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_frame_horizontal_front_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_front_season_winter", "vp_folding_frame_horizontal_front_season_winter", "vp_frame_wood_horizontal_front_season_winter", "vp_frame_wood_light_horizontal_front_season_winter", "vp_folding_wooden_frame_horizontal_front_season_winter", "vp_hdframe_horizontal_front_season_winter", "vp_xlframe_horizontal_front_season_winter" ],
+    "fg": "vp_frame_horizontal_front_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_frame_horizontal_front_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_2_front", "vp_folding_frame_horizontal_2_front", "vp_frame_wood_horizontal_2_front", "vp_frame_wood_light_horizontal_2_front", "vp_folding_wooden_frame_horizontal_2_front", "vp_hdframe_horizontal_2_front", "vp_xlframe_horizontal_2_front" ],
+    "fg": "vp_frame_horizontal_2_front_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_frame_horizontal_2_front_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_2_front_season_summer", "vp_folding_frame_horizontal_2_front_season_summer", "vp_frame_wood_horizontal_2_front_season_summer", "vp_frame_wood_light_horizontal_2_front_season_summer", "vp_folding_wooden_frame_horizontal_2_front_season_summer", "vp_hdframe_horizontal_2_front_season_summer", "vp_xlframe_horizontal_2_front_season_summer" ],
+    "fg": "vp_frame_horizontal_2_front_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_frame_horizontal_2_front_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_2_front_season_autumn", "vp_folding_frame_horizontal_2_front_season_autumn", "vp_frame_wood_horizontal_2_front_season_autumn", "vp_frame_wood_light_horizontal_2_front_season_autumn", "vp_folding_wooden_frame_horizontal_2_front_season_autumn", "vp_hdframe_horizontal_2_front_season_autumn", "vp_xlframe_horizontal_2_front_season_autumn" ],
+    "fg": "vp_frame_horizontal_2_front_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_frame_horizontal_2_front_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_2_front_season_winter", "vp_folding_frame_horizontal_2_front_season_winter", "vp_frame_wood_horizontal_2_front_season_winter", "vp_frame_wood_light_horizontal_2_front_season_winter", "vp_folding_wooden_frame_horizontal_2_front_season_winter", "vp_hdframe_horizontal_2_front_season_winter", "vp_xlframe_horizontal_2_front_season_winter" ],
+    "fg": "vp_frame_horizontal_2_front_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_frame_horizontal_2_front_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_rear", "vp_folding_frame_horizontal_rear", "vp_frame_wood_horizontal_rear", "vp_frame_wood_light_horizontal_rear", "vp_folding_wooden_frame_horizontal_rear", "vp_hdframe_horizontal_rear", "vp_xlframe_horizontal_rear" ],
+    "fg": "vp_frame_horizontal_rear_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_frame_horizontal_rear_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_rear_season_summer", "vp_folding_frame_horizontal_rear_season_summer", "vp_frame_wood_horizontal_rear_season_summer", "vp_frame_wood_light_horizontal_rear_season_summer", "vp_folding_wooden_frame_horizontal_rear_season_summer", "vp_hdframe_horizontal_rear_season_summer", "vp_xlframe_horizontal_rear_season_summer" ],
+    "fg": "vp_frame_horizontal_rear_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_frame_horizontal_rear_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_rear_season_autumn", "vp_folding_frame_horizontal_rear_season_autumn", "vp_frame_wood_horizontal_rear_season_autumn", "vp_frame_wood_light_horizontal_rear_season_autumn", "vp_folding_wooden_frame_horizontal_rear_season_autumn", "vp_hdframe_horizontal_rear_season_autumn", "vp_xlframe_horizontal_rear_season_autumn" ],
+    "fg": "vp_frame_horizontal_rear_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_frame_horizontal_rear_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_rear_season_winter", "vp_folding_frame_horizontal_rear_season_winter", "vp_frame_wood_horizontal_rear_season_winter", "vp_frame_wood_light_horizontal_rear_season_winter", "vp_folding_wooden_frame_horizontal_rear_season_winter", "vp_hdframe_horizontal_rear_season_winter", "vp_xlframe_horizontal_rear_season_winter" ],
+    "fg": "vp_frame_horizontal_rear_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_frame_horizontal_rear_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_2_rear", "vp_folding_frame_horizontal_2_rear", "vp_frame_wood_horizontal_2_rear", "vp_frame_wood_light_horizontal_2_rear", "vp_folding_wooden_frame_horizontal_2_rear", "vp_hdframe_horizontal_2_rear", "vp_xlframe_horizontal_2_rear" ],
+    "fg": "vp_frame_horizontal_2_rear_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_frame_horizontal_2_rear_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_2_rear_season_summer", "vp_folding_frame_horizontal_2_rear_season_summer", "vp_frame_wood_horizontal_2_rear_season_summer", "vp_frame_wood_light_horizontal_2_rear_season_summer", "vp_folding_wooden_frame_horizontal_2_rear_season_summer", "vp_hdframe_horizontal_2_rear_season_summer", "vp_xlframe_horizontal_2_rear_season_summer" ],
+    "fg": "vp_frame_horizontal_2_rear_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_frame_horizontal_2_rear_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_2_rear_season_autumn", "vp_folding_frame_horizontal_2_rear_season_autumn", "vp_frame_wood_horizontal_2_rear_season_autumn", "vp_frame_wood_light_horizontal_2_rear_season_autumn", "vp_folding_wooden_frame_horizontal_2_rear_season_autumn", "vp_hdframe_horizontal_2_rear_season_autumn", "vp_xlframe_horizontal_2_rear_season_autumn" ],
+    "fg": "vp_frame_horizontal_2_rear_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_frame_horizontal_2_rear_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_2_rear_season_winter", "vp_folding_frame_horizontal_2_rear_season_winter", "vp_frame_wood_horizontal_2_rear_season_winter", "vp_frame_wood_light_horizontal_2_rear_season_winter", "vp_folding_wooden_frame_horizontal_2_rear_season_winter", "vp_hdframe_horizontal_2_rear_season_winter", "vp_xlframe_horizontal_2_rear_season_winter" ],
+    "fg": "vp_frame_horizontal_2_rear_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_frame_horizontal_2_rear_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_left", "vp_frame_vertical_T_left", "vp_folding_frame_horizontal_left", "vp_folding_frame_vertical_T_left", "vp_frame_wood_horizontal_left", "vp_frame_wood_vertical_T_left", "vp_frame_wood_light_horizontal_left", "vp_frame_wood_light_vertical_T_left", "vp_folding_wooden_frame_horizontal_left", "vp_folding_wooden_frame_vertical_T_left", "vp_hdframe_horizontal_left", "vp_hdframe_vertical_T_left", "vp_xlframe_horizontal_left", "vp_xlframe_vertical_T_left" ],
+    "fg": "vp_frame_horizontal_left_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_frame_horizontal_left_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_left_season_summer", "vp_frame_vertical_T_left_season_summer", "vp_folding_frame_horizontal_left_season_summer", "vp_folding_frame_vertical_T_left_season_summer", "vp_frame_wood_horizontal_left_season_summer", "vp_frame_wood_vertical_T_left_season_summer", "vp_frame_wood_light_horizontal_left_season_summer", "vp_frame_wood_light_vertical_T_left_season_summer", "vp_folding_wooden_frame_horizontal_left_season_summer", "vp_folding_wooden_frame_vertical_T_left_season_summer", "vp_hdframe_horizontal_left_season_summer", "vp_hdframe_vertical_T_left_season_summer", "vp_xlframe_horizontal_left_season_summer", "vp_xlframe_vertical_T_left_season_summer" ],
+    "fg": "vp_frame_horizontal_left_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_frame_horizontal_left_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_left_season_autumn", "vp_frame_vertical_T_left_season_autumn", "vp_folding_frame_horizontal_left_season_autumn", "vp_folding_frame_vertical_T_left_season_autumn", "vp_frame_wood_horizontal_left_season_autumn", "vp_frame_wood_vertical_T_left_season_autumn", "vp_frame_wood_light_horizontal_left_season_autumn", "vp_frame_wood_light_vertical_T_left_season_autumn", "vp_folding_wooden_frame_horizontal_left_season_autumn", "vp_folding_wooden_frame_vertical_T_left_season_autumn", "vp_hdframe_horizontal_left_season_autumn", "vp_hdframe_vertical_T_left_season_autumn", "vp_xlframe_horizontal_left_season_autumn", "vp_xlframe_vertical_T_left_season_autumn" ],
+    "fg": "vp_frame_horizontal_left_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_frame_horizontal_left_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_left_season_winter", "vp_frame_vertical_T_left_season_winter", "vp_folding_frame_horizontal_left_season_winter", "vp_folding_frame_vertical_T_left_season_winter", "vp_frame_wood_horizontal_left_season_winter", "vp_frame_wood_vertical_T_left_season_winter", "vp_frame_wood_light_horizontal_left_season_winter", "vp_frame_wood_light_vertical_T_left_season_winter", "vp_folding_wooden_frame_horizontal_left_season_winter", "vp_folding_wooden_frame_vertical_T_left_season_winter", "vp_hdframe_horizontal_left_season_winter", "vp_hdframe_vertical_T_left_season_winter", "vp_xlframe_horizontal_left_season_winter", "vp_xlframe_vertical_T_left_season_winter" ],
+    "fg": "vp_frame_horizontal_left_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_frame_horizontal_left_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_2_left", "vp_folding_frame_horizontal_2_left", "vp_frame_wood_horizontal_2_left", "vp_frame_wood_light_horizontal_2_left", "vp_folding_wooden_frame_horizontal_2_left", "vp_hdframe_horizontal_2_left", "vp_xlframe_horizontal_2_left" ],
+    "fg": "vp_frame_horizontal_2_left_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_frame_horizontal_2_left_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_2_left_season_summer", "vp_folding_frame_horizontal_2_left_season_summer", "vp_frame_wood_horizontal_2_left_season_summer", "vp_frame_wood_light_horizontal_2_left_season_summer", "vp_folding_wooden_frame_horizontal_2_left_season_summer", "vp_hdframe_horizontal_2_left_season_summer", "vp_xlframe_horizontal_2_left_season_summer" ],
+    "fg": "vp_frame_horizontal_2_left_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_frame_horizontal_2_left_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_2_left_season_autumn", "vp_folding_frame_horizontal_2_left_season_autumn", "vp_frame_wood_horizontal_2_left_season_autumn", "vp_frame_wood_light_horizontal_2_left_season_autumn", "vp_folding_wooden_frame_horizontal_2_left_season_autumn", "vp_hdframe_horizontal_2_left_season_autumn", "vp_xlframe_horizontal_2_left_season_autumn" ],
+    "fg": "vp_frame_horizontal_2_left_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_frame_horizontal_2_left_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_2_left_season_winter", "vp_folding_frame_horizontal_2_left_season_winter", "vp_frame_wood_horizontal_2_left_season_winter", "vp_frame_wood_light_horizontal_2_left_season_winter", "vp_folding_wooden_frame_horizontal_2_left_season_winter", "vp_hdframe_horizontal_2_left_season_winter", "vp_xlframe_horizontal_2_left_season_winter" ],
+    "fg": "vp_frame_horizontal_2_left_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_frame_horizontal_2_left_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_right", "vp_frame_vertical_T_right", "vp_folding_frame_horizontal_right", "vp_folding_frame_vertical_T_right", "vp_frame_wood_horizontal_right", "vp_frame_wood_vertical_T_right", "vp_frame_wood_light_horizontal_right", "vp_frame_wood_light_vertical_T_right", "vp_folding_wooden_frame_horizontal_right", "vp_folding_wooden_frame_vertical_T_right", "vp_hdframe_horizontal_right", "vp_hdframe_vertical_T_right", "vp_xlframe_horizontal_right", "vp_xlframe_vertical_T_right" ],
+    "fg": "vp_frame_horizontal_right_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_frame_horizontal_right_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_right_season_summer", "vp_frame_vertical_T_right_season_summer", "vp_folding_frame_horizontal_right_season_summer", "vp_folding_frame_vertical_T_right_season_summer", "vp_frame_wood_horizontal_right_season_summer", "vp_frame_wood_vertical_T_right_season_summer", "vp_frame_wood_light_horizontal_right_season_summer", "vp_frame_wood_light_vertical_T_right_season_summer", "vp_folding_wooden_frame_horizontal_right_season_summer", "vp_folding_wooden_frame_vertical_T_right_season_summer", "vp_hdframe_horizontal_right_season_summer", "vp_hdframe_vertical_T_right_season_summer", "vp_xlframe_horizontal_right_season_summer", "vp_xlframe_vertical_T_right_season_summer" ],
+    "fg": "vp_frame_horizontal_right_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_frame_horizontal_right_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_right_season_autumn", "vp_frame_vertical_T_right_season_autumn", "vp_folding_frame_horizontal_right_season_autumn", "vp_folding_frame_vertical_T_right_season_autumn", "vp_frame_wood_horizontal_right_season_autumn", "vp_frame_wood_vertical_T_right_season_autumn", "vp_frame_wood_light_horizontal_right_season_autumn", "vp_frame_wood_light_vertical_T_right_season_autumn", "vp_folding_wooden_frame_horizontal_right_season_autumn", "vp_folding_wooden_frame_vertical_T_right_season_autumn", "vp_hdframe_horizontal_right_season_autumn", "vp_hdframe_vertical_T_right_season_autumn", "vp_xlframe_horizontal_right_season_autumn", "vp_xlframe_vertical_T_right_season_autumn" ],
+    "fg": "vp_frame_horizontal_right_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_frame_horizontal_right_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_horizontal_right_season_winter", "vp_frame_vertical_T_right_season_winter", "vp_folding_frame_horizontal_right_season_winter", "vp_folding_frame_vertical_T_right_season_winter", "vp_frame_wood_horizontal_right_season_winter", "vp_frame_wood_vertical_T_right_season_winter", "vp_frame_wood_light_horizontal_right_season_winter", "vp_frame_wood_light_vertical_T_right_season_winter", "vp_folding_wooden_frame_horizontal_right_season_winter", "vp_folding_wooden_frame_vertical_T_right_season_winter", "vp_hdframe_horizontal_right_season_winter", "vp_hdframe_vertical_T_right_season_winter", "vp_xlframe_horizontal_right_season_winter", "vp_xlframe_vertical_T_right_season_winter" ],
+    "fg": "vp_frame_horizontal_right_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_frame_horizontal_right_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_vertical", "vp_folding_frame_vertical", "vp_frame_wood_vertical", "vp_frame_wood_light_vertical", "vp_folding_wooden_frame_vertical", "vp_hdframe_vertical", "vp_xlframe_vertical" ],
+    "fg": "vp_frame_vertical_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_frame_vertical_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_vertical_season_summer", "vp_folding_frame_vertical_season_summer", "vp_frame_wood_vertical_season_summer", "vp_frame_wood_light_vertical_season_summer", "vp_folding_wooden_frame_vertical_season_summer", "vp_hdframe_vertical_season_summer", "vp_xlframe_vertical_season_summer" ],
+    "fg": "vp_frame_vertical_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_frame_vertical_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_vertical_season_autumn", "vp_folding_frame_vertical_season_autumn", "vp_frame_wood_vertical_season_autumn", "vp_frame_wood_light_vertical_season_autumn", "vp_folding_wooden_frame_vertical_season_autumn", "vp_hdframe_vertical_season_autumn", "vp_xlframe_vertical_season_autumn" ],
+    "fg": "vp_frame_vertical_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_frame_vertical_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_vertical_season_winter", "vp_folding_frame_vertical_season_winter", "vp_frame_wood_vertical_season_winter", "vp_frame_wood_light_vertical_season_winter", "vp_folding_wooden_frame_vertical_season_winter", "vp_hdframe_vertical_season_winter", "vp_xlframe_vertical_season_winter" ],
+    "fg": "vp_frame_vertical_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_frame_vertical_season_winter"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_vertical_2", "vp_folding_frame_vertical_2", "vp_frame_wood_vertical_2", "vp_frame_wood_light_vertical_2", "vp_folding_wooden_frame_vertical_2", "vp_hdframe_vertical_2", "vp_xlframe_vertical_2" ],
+    "fg": "vp_frame_vertical_2_season_spring",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_frame_vertical_2_season_spring"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_vertical_2_season_summer", "vp_folding_frame_vertical_2_season_summer", "vp_frame_wood_vertical_2_season_summer", "vp_frame_wood_light_vertical_2_season_summer", "vp_folding_wooden_frame_vertical_2_season_summer", "vp_hdframe_vertical_2_season_summer", "vp_xlframe_vertical_2_season_summer" ],
+    "fg": "vp_frame_vertical_2_season_summer",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_frame_vertical_2_season_summer"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_vertical_2_season_autumn", "vp_folding_frame_vertical_2_season_autumn", "vp_frame_wood_vertical_2_season_autumn", "vp_frame_wood_light_vertical_2_season_autumn", "vp_folding_wooden_frame_vertical_2_season_autumn", "vp_hdframe_vertical_2_season_autumn", "vp_xlframe_vertical_2_season_autumn" ],
+    "fg": "vp_frame_vertical_2_season_autumn",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_frame_vertical_2_season_autumn"
+    }
+    ]
+},
+{
+    "id": [ "vp_frame_vertical_2_season_winter", "vp_folding_frame_vertical_2_season_winter", "vp_frame_wood_vertical_2_season_winter", "vp_frame_wood_light_vertical_2_season_winter", "vp_folding_wooden_frame_vertical_2_season_winter", "vp_hdframe_vertical_2_season_winter", "vp_xlframe_vertical_2_season_winter" ],
+    "fg": "vp_frame_vertical_2_season_winter",
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_frame_vertical_2_season_winter"
+    }
+    ]
+}
+]
