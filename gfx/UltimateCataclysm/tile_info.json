@@ -20,25 +20,25 @@
     "human_body_plus.png": { "sprite_width": 32, "sprite_height": 48, "sprite_offset_y": -16 }
   },
   {
-    "centered.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -16 }
+    "centered.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -16, "sprites_across": 12 }
   },
   {
-    "large.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -32 }
+    "large.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -32, "sprites_across": 8 }
   },
   {
-    "large_ridden.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -27 }
+    "large_ridden.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -27, "sprites_across": 3 }
   },
   {
-    "huge.png": { "sprite_width": 64, "sprite_height": 96, "sprite_offset_x": -16, "sprite_offset_y": -64  }
+    "huge.png": { "sprite_width": 64, "sprite_height": 96, "sprite_offset_x": -16, "sprite_offset_y": -64, "sprites_across": 4  }
   },
   {
-    "giant.png": { "sprite_width": 96, "sprite_height": 96, "sprite_offset_x": -32, "sprite_offset_y": -64  }
+    "giant.png": { "sprite_width": 96, "sprite_height": 96, "sprite_offset_x": -32, "sprite_offset_y": -64, "sprites_across": 4 }
   },
   {
     "incomplete.png": { "filler": true }
   },
   {
-    "incomplete_large.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -32, "filler": true }
+    "incomplete_large.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -32, "filler": true, "sprites_across": 8 }
   },
   {
     "fillerhoder.png": {
@@ -50,10 +50,10 @@
     "filler.png": { "sprite_width": 32, "sprite_height": 32, "filler": true  }
   },
   {
-    "filler_tall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true  }
+    "filler_tall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true, "sprites_across": 2 }
   },
   {
-    "fillergiant.png": { "sprite_width": 96, "sprite_height": 96, "sprite_offset_x": -32, "sprite_offset_y": -64, "filler": true  }
+    "fillergiant.png": { "sprite_width": 96, "sprite_height": 96, "sprite_offset_x": -32, "sprite_offset_y": -64, "filler": true, "sprites_across": 4  }
   },
   {
     "fallback.png": {

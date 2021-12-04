@@ -1,0 +1,50 @@
+[
+{
+    "id": "vp_light_red",
+    "fg": [ "vp_light_red_season_spring", "vp_light_red_season_spring", "vp_light_red_season_spring", "vp_light_red_season_spring" ],
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_spring",
+        "bg": "vp_light_red_season_spring"
+    }
+    ]
+},
+{
+    "id": "vp_light_red_season_summer",
+    "fg": [ "vp_light_red_season_summer", "vp_light_red_season_summer", "vp_light_red_season_summer", "vp_light_red_season_summer" ],
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_summer",
+        "bg": "vp_light_red_season_summer"
+    }
+    ]
+},
+{
+    "id": "vp_light_red_season_autumn",
+    "fg": [ "vp_light_red_season_autumn", "vp_light_red_season_autumn", "vp_light_red_season_autumn", "vp_light_red_season_autumn" ],
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_autumn",
+        "bg": "vp_light_red_season_autumn"
+    }
+    ]
+},
+{
+    "id": "vp_light_red_season_winter",
+    "fg": [ "vp_light_red_season_winter", "vp_light_red_season_winter", "vp_light_red_season_winter", "vp_light_red_season_winter" ],
+    "multitile": true,
+    "additional_tiles": [
+    {
+        "id": "broken",
+        "fg": "vp_broken_overlay_season_winter",
+        "bg": "vp_light_red_season_winter"
+    }
+    ]
+}
+]
