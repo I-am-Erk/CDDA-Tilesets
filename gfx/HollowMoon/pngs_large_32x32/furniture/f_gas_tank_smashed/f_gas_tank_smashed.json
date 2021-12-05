@@ -1,0 +1,18 @@
+[
+  {
+    "id": [ "f_gas_tank_smashed_season_srping", "f_diesel_tank_smashed_season_srping" ],
+    "fg": "f_gas_tank_smashed_season_spring"
+  },
+  {
+    "id": [ "f_gas_tank_smashed_season_summer", "f_diesel_tank_smashed_season_summer" ],
+    "fg": "f_gas_tank_smashed_season_summer"
+  },
+  {
+    "id": [ "f_gas_tank_smashed_season_autumn", "f_diesel_tank_smashed_season_autumn" ],
+    "fg": "f_gas_tank_smashed_season_autumn"
+  },
+  {
+    "id": [ "f_gas_tank_smashed_season_winter", "f_diesel_tank_smashed_season_winter" ],
+    "fg": "f_gas_tank_smashed_season_winter"
+  }
+]
