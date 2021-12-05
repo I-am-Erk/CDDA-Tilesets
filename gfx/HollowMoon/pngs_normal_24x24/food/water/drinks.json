@@ -1,0 +1,78 @@
+[
+  {
+    "id": [
+      "water_season_spring",
+      "wine_cabernet_season_spring",
+      "whiskey_season_spring",
+      "young_yeast_season_spring",
+      "apple_cider_season_spring",
+      "milk_season_spring",
+      "coffee_season_spring",
+      "cranberry_juice_season_spring",
+      "juice_season_spring",
+      "tomato_juice_season_spring",
+      "maple_sap_season_spring",
+      "cooking_oil_season_spring",
+      "molasses_season_spring",
+      "honey_bottled_season_spring"
+    ],
+    "fg": "water_season_spring"
+  },
+  {
+    "id": [
+      "water_season_summer",
+      "wine_cabernet_season_summer",
+      "whiskey_season_summer",
+      "young_yeast_season_summer",
+      "apple_cider_season_summer",
+      "milk_season_summer",
+      "coffee_season_summer",
+      "cranberry_juice_season_summer",
+      "juice_season_summer",
+      "tomato_juice_season_summer",
+      "maple_sap_season_summer",
+      "cooking_oil_season_summer",
+      "molasses_season_summer",
+      "honey_bottled_season_summer"
+    ],
+    "fg": "water_season_summer"
+  },
+  {
+    "id": [
+      "water_season_autumn",
+      "wine_cabernet_season_autumn",
+      "whiskey_season_autumn",
+      "young_yeast_season_autumn",
+      "apple_cider_season_autumn",
+      "milk_season_autumn",
+      "coffee_season_autumn",
+      "cranberry_juice_season_autumn",
+      "juice_season_autumn",
+      "tomato_juice_season_autumn",
+      "maple_sap_season_autumn",
+      "cooking_oil_season_autumn",
+      "molasses_season_autumn",
+      "honey_bottled_season_autumn"
+    ],
+    "fg": "water_season_autumn"
+  },
+  {
+    "id": [
+      "water_season_winter",
+      "wine_cabernet_season_winter",
+      "whiskey_season_winter",
+      "young_yeast_season_winter",
+      "apple_cider_season_winter",
+      "milk_season_winter",
+      "coffee_season_winter",
+      "cranberry_juice_season_winter",
+      "juice_season_winter",
+      "tomato_juice_season_winter",
+      "maple_sap_season_winter",
+      "cooking_oil_season_winter",
+      "molasses_season_winter",
+      "honey_bottled_season_winter"
+    ],
+    "fg": "water_season_winter"
+  }
+]
