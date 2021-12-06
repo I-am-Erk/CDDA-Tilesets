@@ -6,14 +6,13 @@
   },
   {
     "id": "t_grass_alien_season_summer",
-    "multitile": true,
     "fg": "t_grass_alien",
     "bg": "t_grass_summer_tall"
   },
   {
     "id": "t_grass_alien_season_autumn",
     "fg": "t_grass_alien",
-    "bg": "t_grass_autumn_tall",
+    "bg": "t_grass_autumn_tall"
   },
   {
     "id": "t_grass_alien_season_winter",
