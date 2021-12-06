@@ -1,5 +1,11 @@
+[
 {
   "id": "mon_wraith",
   "fg": "mon_wraith",
   "bg": "shadow_32x32_small"
+},
+{
+  "id": "mon_absence",
+  "fg": "empty_32x32",
 }
+]
