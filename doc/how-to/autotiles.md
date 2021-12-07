@@ -114,7 +114,7 @@ If all goes well, you should be able to run the `slice_multitile.py` script and 
 
 ```
 $ tools/slice_multitile.py
-usage: slice_multitile.py [-h] [--tile TILE] [--out OUT] [--no-json] image width [height]
+usage: slice_multitile.py [-h] [--tile TILE] [--out OUT] [--no-json] [--background BACKGROUND] image width [height]
 slice_multitile.py: error: the following arguments are required: image, width
 ```
 
