@@ -49,7 +49,7 @@
   },
   {
     "id": [ "river_center", "lake_surface", "lake_water_cube", "lake_shore" ],
-    "fg": "river_center",
+    "fg": "deep_river",
     "bg": "field",
     "rotates": false
   },
