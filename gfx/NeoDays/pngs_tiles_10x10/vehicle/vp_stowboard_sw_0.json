@@ -1,1 +1,1 @@
-{"id": "vp_stowboard_sw", "fg": ["2394_vp_stowboard_sw_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["155_vp_cargo_bag_1"], "bg": []}], "bg": []}
+{"id": ["vp_stowboard_sw", "vp_stowboard_sw_edge"], "fg": ["2394_vp_stowboard_sw_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["155_vp_cargo_bag_1"], "bg": []}], "bg": []}
