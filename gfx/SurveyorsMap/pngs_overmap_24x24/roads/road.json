@@ -1,54 +1,52 @@
 {
   "id": "road",
-  "fg": "road_unconnected",
+  "fg": "om_road_unconnected",
   "multitile": true,
   "additional_tiles": [
     {
       "id": "center",
-      "fg": "road_center"
+      "fg": "om_road_center"
     },
     {
       "id": "corner",
       "fg": [
-        "road_corner_nw",
-        "road_corner_sw",
-        "road_corner_se",
-        "road_corner_ne"
-      ],
-      "bg": "field"
+        "om_road_corner_nw",
+        "om_road_corner_sw",
+        "om_road_corner_se",
+        "om_road_corner_ne"
+      ]
     },
     {
       "id": "t_connection",
       "fg": [
-        "road_t_connection_n",
-        "road_t_connection_w",
-        "road_t_connection_s",
-        "road_t_connection_e"
+        "om_road_t_connection_n",
+        "om_road_t_connection_w",
+        "om_road_t_connection_s",
+        "om_road_t_connection_e"
       ]
     },
     {
       "id": "edge",
       "fg": [
-        "road_edge_ns",
-        "road_edge_ew"
+        "om_road_edge_ns",
+        "om_road_edge_ew"
       ]
     },
     {
       "id": "end_piece",
       "fg": [
-        "road_end_piece_n",
-        "road_end_piece_w",
-        "road_end_piece_s",
-        "road_end_piece_e"
+        "om_road_end_piece_n",
+        "om_road_end_piece_w",
+        "om_road_end_piece_s",
+        "om_road_end_piece_e"
       ]
     },
     {
       "id": "unconnected",
       "fg": [
-        "road_unconnected",
-        "road_unconnected"
-      ],
-      "bg": "field"
+        "om_road_unconnected",
+        "om_road_unconnected"
+      ]
     }
   ]
 }
