@@ -1,1 +1,1 @@
-{"id": ["vp_seat", "vp_folding_seat", "vp_reclining_seat"], "fg": ["702_seat_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["155_vp_cargo_bag_1"], "bg": []}], "bg": []}
+{"id": ["vp_seat", "vp_folding_seat", "vp_reclining_seat"], "fg": ["702_vp_seat_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["155_vp_cargo_bag_1"], "bg": []}], "bg": []}
