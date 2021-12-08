@@ -1,1 +1,1 @@
-{"id": ["vp_board_horizontal_front", "vp_board_horizontal_front", "vp_board_horizontal"], "fg": ["2368_vp_fxlhalfboard_horizontal_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["3858_vp_frame_broken_1"], "bg": []}], "bg": []}
+{"id": ["vp_board_horizontal_front", "vp_board_horizontal_rear", "vp_board_horizontal"], "fg": ["2368_vp_fxlhalfboard_horizontal_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["3858_vp_frame_broken_1"], "bg": []}], "bg": []}
