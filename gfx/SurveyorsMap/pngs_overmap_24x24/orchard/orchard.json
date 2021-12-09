@@ -4,5 +4,40 @@
     "fg": [ "orchard_N", "orchard_E", "orchard_S", "orchard_W" ],
     "bg": [ "field" ],
     "rotates": true
+  },
+  {
+    "id": [ "orchard_tree_apple" ],
+    "fg": [ "orchard" ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [ 
+      "farm_stills_1", 
+      "farm_stills_2", 
+      "farm_stills_4", 
+      "farm_stills_5", 
+      "farm_stills_6", 
+      "farm_stills_8", 
+      "farm_stills_9", 
+      "farm_stills_10", 
+      "farm_stills_11",
+      "farm_stills_12" 
+    ],
+    "fg": [ "veg_fields" ],
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [ "orchard_stall", "farm_stills_3" ],
+    "fg": [ "orchard_1" ],
+    "bg": [],
+    "rotates": true
+  },
+  {
+    "id": [ "orchard_processing", "farm_stills_7" ],
+    "fg": [ "orchard_2" ],
+    "bg": [],
+    "rotates": true
   }
 ]
