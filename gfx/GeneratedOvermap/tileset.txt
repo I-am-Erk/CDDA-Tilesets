@@ -1,0 +1,4 @@
+NAME: GeneratedOvermap
+VIEW: GeneratedOvermap+SurveyorsMap
+JSON: tile_config.json
+TILESET: generated_overmap.png
