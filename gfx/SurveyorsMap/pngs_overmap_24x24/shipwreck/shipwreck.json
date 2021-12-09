@@ -1,0 +1,24 @@
+[
+  {
+    "id": [ "shipwreck_river_1", "shipwreck_river_3"],
+    "fg": [ 
+      "sw_horiz_left",
+      "sw_vert_top",
+      "sw_horiz_left",
+      "sw_vert_top"
+    ],
+    "bg": [ "om-field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "shipwreck_river_2", "shipwreck_river_4"],
+    "fg": [
+      "sw_horiz_right",
+      "sw_vert_bottom",
+      "sw_horiz_right",
+      "sw_vert_bottom"
+    ],
+    "bg": [ "om-field" ],
+    "rotates": true
+  }
+]
