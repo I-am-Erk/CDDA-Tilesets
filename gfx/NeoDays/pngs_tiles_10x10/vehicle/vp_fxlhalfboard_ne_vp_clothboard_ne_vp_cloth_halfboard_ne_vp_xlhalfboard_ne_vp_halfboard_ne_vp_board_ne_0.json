@@ -1,1 +1,1 @@
-{"id": ["vp_fxlhalfboard_ne", "vp_clothboard_ne", "vp_cloth_halfboard_ne", "vp_xlhalfboard_ne", "vp_halfboard_ne", "vp_board_ne"], "fg": ["2374_vp_fxlhalfboard_ne_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["155_vp_cargo_bag_1"], "bg": []}], "bg": []}
+{"id": ["vp_fxlhalfboard_ne", "vp_clothboard_ne", "vp_cloth_halfboard_ne", "vp_xlhalfboard_ne", "vp_halfboard_ne"], "fg": ["2374_vp_fxlhalfboard_ne_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["155_vp_cargo_bag_1"], "bg": []}], "bg": []}
