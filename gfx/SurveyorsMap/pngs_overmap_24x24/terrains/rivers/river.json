@@ -60,39 +60,15 @@
     "rotates": true
   },
   {
-    "id": "bridgehead_ground_north",
-    "fg": "bridge_head_north",
+    "id": "bridgehead_ground",
+    "fg": [ "bridge_head_north", "bridge_head_east", "bridge_head_south", "bridge_head_west" ], 
     "bg": "river_center",
-    "rotates": false
-  },
-    {
-    "id": "bridgehead_ground_south",
-    "fg": "bridge_head_south",
-    "bg": "river_center",
-    "rotates": false
+    "rotates": true
   },
   {
-    "id": "bridgehead_ground_east",
-    "fg": "bridge_head_east",
-    "bg": "river_center",
-    "rotates": false
-  },
-  {
-    "id": "bridgehead_ground_west",
-    "fg": "bridge_head_west",
-    "bg": "river_center",
-    "rotates": false
-  },
-  {
-    "id": [ "bridge_north", "bridge_south" ],
-    "fg": "bridge_vert",
+    "id": "bridge",
+    "fg": [ "bridge_vert", "bridge_horiz", "bridge_vert", "bridge_horiz" ],
     "bg": "deep_river",
-    "rotates": false
-  },
-  {
-    "id": [ "bridge_east", "bridge_west" ],
-    "fg": "bridge_horiz",
-    "bg": "deep_river",
-    "rotates": false
+    "rotates": true
   }
 ]

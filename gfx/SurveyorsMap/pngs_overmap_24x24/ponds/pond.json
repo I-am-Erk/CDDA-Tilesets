@@ -1,26 +1,26 @@
 [
   {
     "id": [ "pond_field" ],
-    "fg": [ "pond_N", "pond_E", "pond_S", "pond_W" ],
-    "bg": [ "field" ],
-    "rotates": true
+    "fg": [ "pond" ],
+    "bg": [ "om-field" ],
+    "rotates": false
   },
   {
     "id": [ "pond_forest" ],
-    "fg": [ "pond_N", "pond_E", "pond_S", "pond_W" ],
-    "bg": [ "forest" ],
-    "rotates": true
+    "fg": [ "pond" ],
+    "bg": [ "om_forest_center" ],
+    "rotates": false
   },
   {
     "id": [ "pond_swamp" ],
-    "fg": [ "pond_N", "pond_E", "pond_S", "pond_W" ],
+    "fg": [ "pond" ],
     "bg": [ "swamp" ],
-    "rotates": true
+    "rotates": false
   },
   {
     "id": [ "hot_springs" ],
-    "fg": [ "hotsprings_N", "hotsprings_E", "hotsprings_S", "hotsprings_W" ],
-    "bg": [ "field" ],
+    "fg": [ "hotsprings" ],
+    "bg": [ "om-field" ],
     "rotates": true
   }
 ]
