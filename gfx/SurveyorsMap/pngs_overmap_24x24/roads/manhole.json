@@ -1,7 +1,7 @@
 [
   {
     "id": "road_nesw_manhole",
-    "fg": "om_road_manhole",
+    "fg": "manhole",
     "bg": "om_road_center"
   }
 ]
