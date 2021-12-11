@@ -1,0 +1,9 @@
+{
+  "id": "vp_door",
+  "fg": ["3856_vp_door_left_0", "3857_vp_door_right_0"],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [{"id": "left", "fg": ["3856_vp_door_left_0"], "bg": []}, {"id": "right", "fg": ["3857_vp_door_right_0"], "bg": []}, {"id": "broken", "fg": ["2283_vp_door_opaque_1"], "bg": []},
+  {"id": "open", "fg": ["2284_vp_door_opaque_2"], "bg": []}],
+  "bg": []
+}
