@@ -1,0 +1,30 @@
+[
+  {"id": "t_railroad_rubble",
+  "fg": [
+        { "weight": 2, "sprite": "t_railroad_rubble_0"},
+        { "weight": 1, "sprite": "t_railroad_rubble_1"}
+  ],
+  "bg": []
+  },
+  {"id": "t_railroad_rubble_season_autumn",
+  "fg": [
+        { "weight": 2, "sprite": "t_railroad_rubble_season_autumn_0"},
+        { "weight": 1, "sprite": "t_railroad_rubble_season_autumn_1"}
+  ],
+  "bg": []
+  },
+  {"id": "t_railroad_rubble_season_winter",
+  "fg": [
+        { "weight": 2, "sprite": "t_railroad_rubble_season_winter_0"},
+        { "weight": 1, "sprite": "t_railroad_rubble_season_winter_1"}
+  ],
+  "bg": []
+  },
+  {"id": "t_railroad_rubble_season_summer",
+  "fg": [
+        { "weight": 2, "sprite": "t_railroad_rubble_season_summer_0"},
+        { "weight": 1, "sprite": "t_railroad_rubble_season_summer_1"}
+  ],
+  "bg": []
+  }
+]
