@@ -1,6 +1,12 @@
 [
   {
     "id": [ "nest_dermatik", "anthill" ],
+    "fg": [ "hill_hand" ],
+    "bg": [ ],
+    "rotates": false
+  },
+  {
+    "id": [ "cave"],
     "fg": [ "hill" ],
     "bg": [ ],
     "rotates": false
