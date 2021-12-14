@@ -1,7 +1,7 @@
 [
   {
     "id": "road_nesw_manhole",
-    "fg": "manhole",
-    "bg": "om_road_center"
+    "fg": "city_street_unconnected",
+    "bg": "city_street_center"
   }
 ]

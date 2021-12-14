@@ -26,25 +26,25 @@
   {
     "id": [ "dirt_road_om_forest_center" ],
     "fg": [ "dirt_road_edge_ns", "dirt_road_edge_ew" ],
-    "bg": "om_forest_center",
+    "bg": "forest_center",
     "rotates": true
   },
   {
     "id": [ "dirt_road_3way_om_forest_center" ],
     "fg": [ "dirt_road_t_connection_n", "dirt_road_t_connection_e", "dirt_road_t_connection_s", "dirt_road_t_connection_w" ],
-    "bg": "om_forest_center",
+    "bg": "forest_center",
     "rotates": true
   },
   {
     "id": [ "dirt_road_turn_om_forest_center" ],
     "fg": [ "dirt_road_corner_ne", "dirt_road_corner_se", "dirt_road_corner_sw", "dirt_road_corner_nw" ],
-    "bg": "om_forest_center",
+    "bg": "forest_center",
     "rotates": true
   },
   {
     "id": [ "dirt_road_turn1_om_forest_center" ],
     "fg": [ "dirt_road_corner_nw", "dirt_road_corner_ne", "dirt_road_corner_se", "dirt_road_corner_sw" ],
-    "bg": "om_forest_center",
+    "bg": "forest_center",
     "rotates": true
   },
   {
@@ -74,25 +74,25 @@
   {
     "id": [ "rural_road_om_forest_center" ],
     "fg": [ "rural_road_edge_ns", "rural_road_edge_ew" ],
-    "bg": "om_forest_center",
+    "bg": "forest_center",
     "rotates": true
   },
   {
     "id": [ "rural_road_3way_om_forest_center" ],
     "fg": [ "rural_road_t_connection_n", "rural_road_t_connection_e", "rural_road_t_connection_s", "rural_road_t_connection_w" ],
-    "bg": "om_forest_center",
+    "bg": "forest_center",
     "rotates": true
   },
   {
     "id": [ "rural_road_turn_om_forest_center" ],
     "fg": [ "rural_road_corner_ne", "rural_road_corner_se", "rural_road_corner_sw", "rural_road_corner_nw" ],
-    "bg": "om_forest_center",
+    "bg": "forest_center",
     "rotates": true
   },
   {
     "id": [ "rural_road_turn1_om_forest_center" ],
     "fg": [ "rural_road_corner_nw", "rural_road_corner_ne", "rural_road_corner_se", "rural_road_corner_sw" ],
-    "bg": "om_forest_center",
+    "bg": "forest_center",
     "rotates": true
   }
 ]

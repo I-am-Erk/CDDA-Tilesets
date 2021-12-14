@@ -2,13 +2,13 @@
   {
     "id": [ "pond_field" ],
     "fg": [ "pond" ],
-    "bg": [ "om-field" ],
+    "bg": [ "field" ],
     "rotates": false
   },
   {
     "id": [ "pond_forest" ],
     "fg": [ "pond" ],
-    "bg": [ "om_forest_center" ],
+    "bg": [ "forest_center" ],
     "rotates": false
   },
   {
@@ -20,7 +20,7 @@
   {
     "id": [ "hot_springs" ],
     "fg": [ "hotsprings" ],
-    "bg": [ "om-field" ],
+    "bg": [ "field" ],
     "rotates": true
   }
 ]

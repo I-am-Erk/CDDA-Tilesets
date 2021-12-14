@@ -2,7 +2,7 @@
   {
     "id": [ "moonshine_still" ],
     "fg": [ "moonshine_still_N", "moonshine_still_E", "moonshine_still_S", "moonshine_still_W" ],
-    "bg": [ "om_forest_center" ],
+    "bg": [ "forest_center" ],
     "rotates": true
   },
   {

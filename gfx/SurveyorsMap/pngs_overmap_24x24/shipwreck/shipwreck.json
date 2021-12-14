@@ -1,24 +1,24 @@
 [
   {
-    "id": [ "shipwreck_river_1", "shipwreck_river_3"],
+    "id": [ "shipwreck_river_1" ],
     "fg": [ 
       "sw_horiz_left",
       "sw_vert_top",
       "sw_horiz_left",
       "sw_vert_top"
     ],
-    "bg": [ "om-field" ],
+    "bg": [ "field" ],
     "rotates": true
   },
   {
-    "id": [ "shipwreck_river_2", "shipwreck_river_4"],
+    "id": [ "shipwreck_river_2" ],
     "fg": [
       "sw_horiz_right",
       "sw_vert_bottom",
       "sw_horiz_right",
       "sw_vert_bottom"
     ],
-    "bg": [ "om-field" ],
+    "bg": [ "field" ],
     "rotates": true
   }
 ]

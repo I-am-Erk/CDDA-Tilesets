@@ -2,7 +2,7 @@
   {
     "id": [ "dumpsite" ],
     "fg": [ "dumpsite" ],
-    "bg": [ "om_forest_center" ],
+    "bg": [ "forest_center" ],
     "rotates": true
   }
 ]
