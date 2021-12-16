@@ -1,0 +1,13 @@
+[
+  {
+    "id": [ 
+      "bus_stat_0",
+      "bus_stat_1",
+      "bus_stat_0_roof",
+      "bus_stat_1_roof"
+    ],
+    "fg": [ "bus_station" ],
+    "bg": [ ],
+    "rotates": false
+  }
+]
