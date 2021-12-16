@@ -10,7 +10,7 @@
       "garage_gas_roof_1"
     ],
     "fg": [ "gas_station" ],
-    "bg": [ ],
+    "bg": [ "field" ],
     "rotates": false
   }
 ]

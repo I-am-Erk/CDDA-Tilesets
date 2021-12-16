@@ -7,7 +7,7 @@
       "bus_stat_1_roof"
     ],
     "fg": [ "bus_station" ],
-    "bg": [ ],
+    "bg": [ "field" ],
     "rotates": false
   }
 ]
