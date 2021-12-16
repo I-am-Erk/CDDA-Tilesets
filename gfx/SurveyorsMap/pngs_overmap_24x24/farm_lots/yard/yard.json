@@ -1,8 +1,0 @@
-[
-  {
-    "id": [ "yard" ],
-    "fg": [ "yard_N", "yard_E", "yard_S", "yard_W" ],
-    "bg": [ "field" ],
-    "rotates": true
-  }
-]

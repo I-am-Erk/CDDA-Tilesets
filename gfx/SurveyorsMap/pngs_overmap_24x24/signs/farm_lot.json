@@ -11,7 +11,8 @@
       "farm_lot_m1",
       "farm_lot_wire_turn_h",
       "farm_lot_wire_turn_uni",
-      "farm_lot_wire_turn_v"
+      "farm_lot_wire_turn_v",
+      "yard"
     ],
     "fg": [
       "farm_lot"
