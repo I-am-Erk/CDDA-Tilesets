@@ -1,12 +1,10 @@
 [
   {
-    "id": [ "orchard" ],
-    "fg": [ "orchard_N", "orchard_E", "orchard_S", "orchard_W" ],
-    "bg": [ "field" ],
-    "rotates": true
-  },
-  {
-    "id": [ "orchard_tree_apple" ],
+    "id": [ 
+      "orchard",
+      "orchard_tree_apple",
+      "farm_stills_11"
+    ],
     "fg": [ "orchard" ],
     "bg": [],
     "rotates": false
@@ -21,7 +19,6 @@
       "farm_stills_8", 
       "farm_stills_9", 
       "farm_stills_10", 
-      "farm_stills_11",
       "farm_stills_12" 
     ],
     "fg": [ "veg_fields" ],
