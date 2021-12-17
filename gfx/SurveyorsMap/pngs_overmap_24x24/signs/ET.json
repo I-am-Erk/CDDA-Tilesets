@@ -36,7 +36,13 @@
     "rotates": false
   },
   {
-    "id": [ "triffid_field", 
+    "id": [ "triffid_field" ],
+    "fg": [ "triffid_field" ],
+    "bg": [ "forest_dense_center" ],
+    "rotates": false
+  },
+  {
+    "id": [
       "triffid_rootsnw",
       "triffid_rootsn",
       "triffid_rootsen",
@@ -47,19 +53,31 @@
       "triffid_rootsse"
     ],
     "fg": [ "triffid_field" ],
-    "bg": [],
+    "bg": [ "solid_earth" ],
     "rotates": false
   },
   {
-    "id": [ "triffid_grove", "triffid_grove_z2", "triffid_grove_z3", "triffid_grove_roof", "triffid_roots" ],
+    "id": [ "triffid_roots" ],
     "fg": [ "triffid_trunk" ],
-    "bg": [],
+    "bg": [ "solid_earth" ],
+    "rotates": false
+  },
+  {
+    "id": [ "triffid_grove" ],
+    "fg": [ "triffid_trunk" ],
+    "bg": [ "forest_dense_center" ],
+    "rotates": false
+  },
+  {
+    "id": [ "triffid_grove_z2", "triffid_grove_z3", "triffid_grove_roof" ],
+    "fg": [ "triffid_trunk" ],
+    "bg": [ "open_air" ],
     "rotates": false
   },
   {
     "id": [ "triffid_finale" ],
     "fg": [ "triffid_heart" ],
-    "bg": [],
+    "bg": [ "solid_rock" ],
     "rotates": false
   }
 ]
