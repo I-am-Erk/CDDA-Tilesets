@@ -3,13 +3,5 @@
     "id": "forest_water",
     "fg": "swamp",
     "bg": ""
-  },
-  {
-    "id": "solid_earth",
-    "fg": "solid_earth"
-  },
-  {
-    "id": [ "deep_rock", "empty_rock" ],
-    "fg": "solid_rock"
   }
 ]
