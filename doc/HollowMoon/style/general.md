@@ -50,5 +50,9 @@ Please keep these in mind, especially when doing ropes, chains, plants, fences a
 ## Revisions happen
 Lastly it is important to recognize that revisions are bound to happen. I will periodically perform content revisions from time to time. 
 
+## Check the document first
+When deciding to make a new sprite, be sure to check the "scrap" section to see if it already exists. There are plenty of sprites that are already finished that haven't been implemented yet. 
+Once you're certain it hasn't been already been done, that is a great time to start. 
+
 ## Thanks for reading! Good luck out there
 ![check](image/check.png)
