@@ -1,0 +1,1 @@
+{"id": "vp_door_rear_sw", "fg": ["3859_vp_door_internal_2"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["2283_vp_door_opaque_1"], "bg": []}, {"id": "open", "fg": ["2284_vp_door_opaque_2"], "bg": []}], "bg": []}
