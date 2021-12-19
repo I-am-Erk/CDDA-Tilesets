@@ -1,5 +1,5 @@
 {
-  "id": "vp_door",
+  "id": ["vp_door", "vp_fdoor_left", "vp_door_left"],
   "fg": ["3856_vp_door_left_0"],
   "rotates": true,
   "multitile": true,
