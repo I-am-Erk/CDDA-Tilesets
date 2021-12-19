@@ -1,0 +1,12 @@
+{
+  "id": "mon_zombie_master",
+  "animated": true,
+  "fg": [
+    { "weight": 15, "sprite": "mon_zombie_master1" },
+    { "weight": 15, "sprite": "mon_zombie_master2" },
+    { "weight": 15, "sprite": "mon_zombie_master3" },
+    { "weight": 15, "sprite": "mon_zombie_master4" }
+  ],
+  "bg": [
+  ]
+}
