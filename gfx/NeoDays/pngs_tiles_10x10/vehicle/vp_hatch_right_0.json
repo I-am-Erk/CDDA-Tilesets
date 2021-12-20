@@ -1,1 +1,1 @@
-{"id": "vp_hatch_right", "fg": ["3902_vp_door_trunk_right_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["2283_vp_door_opaque_1"], "bg": []}, {"id": "open", "fg": ["3902_vp_door_trunk_open_right_0"], "bg": []}], "bg": []}
+{"id": "vp_hatch_right", "fg": ["3900_vp_door_trunk_right_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["2283_vp_door_opaque_1"], "bg": []}, {"id": "open", "fg": ["3902_vp_door_trunk_open_right_0"], "bg": []}], "bg": []}
