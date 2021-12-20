@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 {"id": "vp_door", "fg": ["3856_vp_door_left_0"], "rotates": true, "multitile": true, "fg": ["3856_vp_door_left_0", "3857_vp_door_right_0"], "additional_tiles": [{"id": "broken", "fg": ["2283_vp_door_opaque_1"], "bg": []}, {"id": "open", "fg": ["2284_vp_door_opaque_2"], "bg": []}], "bg": []}
-=======
-{"id": "vp_door", "fg": ["3856_vp_door_left_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["2283_vp_door_opaque_1"], "bg": []}, {"id": "open", "fg": ["2284_vp_door_opaque_2"], "bg": []}], "bg": []}
->>>>>>> parent of 170858612 (Update vp_door_0.json)
