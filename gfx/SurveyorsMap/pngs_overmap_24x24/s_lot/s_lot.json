@@ -1,8 +1,0 @@
-[
-  {
-    "id": [ "s_lot" ],
-    "fg": [ "s_lot_N", "s_lot_E", "s_lot_S", "s_lot_W" ],
-    "bg": [ "field" ],
-    "rotates": true
-  }
-]

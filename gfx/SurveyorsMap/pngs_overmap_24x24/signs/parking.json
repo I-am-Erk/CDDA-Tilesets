@@ -1,0 +1,10 @@
+[
+  {
+    "id": [ 
+      "s_lot"
+    ],
+    "fg": [ "parking" ],
+    "bg": [ "field" ],
+    "rotates": false
+  }
+]

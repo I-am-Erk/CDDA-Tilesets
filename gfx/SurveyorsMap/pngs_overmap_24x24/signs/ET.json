@@ -1,0 +1,83 @@
+[
+  {
+    "id": [ "fungal_tower", "fungal_bloom" ],
+    "fg": [ "fungal" ],
+    "bg": [ "field" ],
+    "rotates": false
+  },
+  {
+    "id": [ "mi-go_scout_tower_1" ],
+    "fg": [ "mi-go" ],
+    "bg": [ "field" ],
+    "rotates": false
+  },
+  {
+    "id": [ "mi-go_scout_tower_2", "mi-go_scout_tower_3", "mi-go_scout_tower_4" ],
+    "fg": [ "mi-go" ],
+    "bg": [ "open_air" ],
+    "rotates": false
+  },
+  {
+    "id": [ "mi-go_camp1" ],
+    "fg": [ "mi-go_e1" ],
+    "bg": [ "field" ],
+    "rotates": false
+  },
+  {
+    "id": [ "mi-go_camp2" ],
+    "fg": [ "mi-go_e2" ],
+    "bg": [ "field" ],
+    "rotates": false
+  },
+  {
+    "id": [ "mi-go_camp2-1", "mi-go_camp2-2" ],
+    "fg": [ "mi-go_e2" ],
+    "bg": [ "open_air" ],
+    "rotates": false
+  },
+  {
+    "id": [ "triffid_field" ],
+    "fg": [ "triffid_field" ],
+    "bg": [ "forest_dense_center" ],
+    "rotates": false
+  },
+  {
+    "id": [
+      "triffid_rootsnw",
+      "triffid_rootsn",
+      "triffid_rootsen",
+      "triffid_rootsw",
+      "triffid_rootse",
+      "triffid_rootssw",
+      "triffid_rootss",
+      "triffid_rootsse"
+    ],
+    "fg": [ "triffid_field" ],
+    "bg": [ "solid_earth" ],
+    "rotates": false
+  },
+  {
+    "id": [ "triffid_roots" ],
+    "fg": [ "triffid_trunk" ],
+    "bg": [ "solid_earth" ],
+    "rotates": false
+  },
+  {
+    "id": [ "triffid_grove" ],
+    "fg": [ "triffid_trunk" ],
+    "bg": [ "forest_dense_center" ],
+    "rotates": false
+  },
+  {
+    "id": [ "triffid_grove_z2", "triffid_grove_z3", "triffid_grove_roof" ],
+    "fg": [ "triffid_trunk" ],
+    "bg": [ "open_air" ],
+    "rotates": false
+  },
+  {
+    "id": [ "triffid_finale" ],
+    "fg": [ "triffid_heart" ],
+    "bg": [ "solid_rock" ],
+    "rotates": false
+  }
+]

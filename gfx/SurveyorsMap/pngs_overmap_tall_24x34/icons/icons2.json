@@ -1,0 +1,38 @@
+[
+  {
+    "id": "mission_cursor",
+    "fg": [ "mission_cursor" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "npc_female",
+    "fg": [ "npc_marker" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "npc_male",
+    "fg": [ "npc_marker" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "player_male",
+    "fg": [ "player_marker" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "player_female",
+    "fg": [ "player_marker" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overmap_remembered_vehicle",
+    "fg": [ "overmap_remembered_vehicle" ],
+    "rotates": false,
+    "bg": [  ]
+  }
+]

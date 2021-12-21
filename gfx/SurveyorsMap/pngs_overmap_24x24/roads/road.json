@@ -14,8 +14,7 @@
         "road_corner_sw",
         "road_corner_se",
         "road_corner_ne"
-      ],
-      "bg": "field"
+      ]
     },
     {
       "id": "t_connection",
@@ -47,8 +46,7 @@
       "fg": [
         "road_unconnected",
         "road_unconnected"
-      ],
-      "bg": "field"
+      ]
     }
   ]
 }

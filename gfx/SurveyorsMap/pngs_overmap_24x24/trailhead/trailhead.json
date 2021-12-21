@@ -1,8 +1,0 @@
-[
-  {
-    "id": [ "trailhead" ],
-    "fg": [ "trailhead_N", "trailhead_E", "trailhead_S", "trailhead_W" ],
-    "bg": [ "forest" ],
-    "rotates": true
-  }
-]

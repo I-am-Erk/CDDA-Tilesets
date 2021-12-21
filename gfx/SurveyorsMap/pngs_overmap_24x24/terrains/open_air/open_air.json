@@ -1,0 +1,25 @@
+[  
+  {
+    "id": [ "open_air" ],
+    "fg": [
+      {"weight": 1, "sprite": "open_air"},
+      {"weight": 1, "sprite": "open_air_01"},
+      {"weight": 1, "sprite": "open_air_02"},
+      {"weight": 1, "sprite": "open_air_03"},
+      {"weight": 1, "sprite": "open_air_04"},
+      {"weight": 1, "sprite": "open_air_05"},
+      {"weight": 1, "sprite": "open_air_06"},
+      {"weight": 1, "sprite": "open_air_07"},
+      {"weight": 1, "sprite": "open_air_08"},
+      {"weight": 1, "sprite": "open_air_09"},
+      {"weight": 1, "sprite": "open_air_10"},
+      {"weight": 1, "sprite": "open_air_11"},
+      {"weight": 1, "sprite": "open_air_12"},
+      {"weight": 1, "sprite": "open_air_13"},
+      {"weight": 1, "sprite": "open_air_14"},
+      {"weight": 1, "sprite": "open_air_15"}
+	],
+    "bg": [],
+    "rotates": false
+  }
+]
