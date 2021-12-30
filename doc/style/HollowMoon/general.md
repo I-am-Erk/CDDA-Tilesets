@@ -2,6 +2,11 @@
 
 A bunch of rules that can be applied for every type of sprite.
 
+## Summary
+
+In general you should focus on keeping things simple, eye catching and visually interesting where possible.
+When in doubt about something you can contact Joshuu on the discord or [secretstamos](https://github.com/secretstamos) on Github. If you do, please send the original file to make helping you easier. 
+
 ## Use a limited set of colors as in pseudo-16 bit format
 
 ![example](image/example.png)
@@ -51,8 +56,14 @@ Please keep these in mind, especially when doing ropes, chains, plants, fences a
 Lastly it is important to recognize that revisions are bound to happen. I will periodically perform content revisions from time to time. 
 
 ## Check the document first
-When deciding to make a new sprite, be sure to check the "scrap" section to see if it already exists. There are plenty of sprites that are already finished that haven't been implemented yet. 
+When deciding to make a new sprite, be sure to check the [scrap](https://github.com/I-am-Erk/CDDA-Tilesets/tree/master/gfx/HollowMoon/scrap) section to see if it already exists, and in particular this [file](https://github.com/I-am-Erk/CDDA-Tilesets/blob/master/gfx/HollowMoon/scrap/Lots_and_lots_of_sprites_by_secretstamos_to_sort_edited.png) . There are plenty of sprites that are already finished that haven't been implemented yet. 
 Once you're certain it hasn't been already been done, that is a great time to start. 
+
+## Extra informations
+
+- [Overlay](https://github.com/Fris0uman/CDDA-Tilesets/blob/organisation_fix/doc/style/HollowMoon/overlay.md)
+- [Terrain](https://github.com/Fris0uman/CDDA-Tilesets/blob/organisation_fix/doc/style/HollowMoon/terrain.md)
+- [Walls](https://github.com/Fris0uman/CDDA-Tilesets/blob/organisation_fix/doc/style/HollowMoon/walls.md)
 
 ## Thanks for reading! Good luck out there
 ![check](image/check.png)
