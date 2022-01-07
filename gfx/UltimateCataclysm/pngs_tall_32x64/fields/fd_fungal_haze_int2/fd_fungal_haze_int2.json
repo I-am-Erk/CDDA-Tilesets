@@ -1,0 +1,14 @@
+{
+  "id": "fd_fungal_haze_int2",
+  "animated": true,
+    "fg": [
+      { "weight": 8, "sprite": "shroom_fallout-2-1" },
+      { "weight": 8, "sprite": "shroom_fallout-2-2" },
+      { "weight": 8, "sprite": "shroom_fallout-2-3" },
+      { "weight": 8, "sprite": "shroom_fallout-2-4" },
+      { "weight": 8, "sprite": "shroom_fallout-2-5" },
+      { "weight": 8, "sprite": "shroom_fallout-2-6" },
+      { "weight": 8, "sprite": "shroom_fallout-2-7" },
+      { "weight": 8, "sprite": "shroom_fallout-2-8" }
+    ]
+}
