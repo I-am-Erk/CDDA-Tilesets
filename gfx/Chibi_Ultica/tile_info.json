@@ -68,7 +68,7 @@
     "small.png": { "sprite_width": 20, "sprite_height": 20, "filler": true }
   },
   {
-    "normal.png": { "filler": true }
+    "normal.png": { "filler": true, "exclude": [ "overlay" ] }
   },
   {
     "tallfurniture.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true }
@@ -89,7 +89,14 @@
     "centered.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -16, "filler": true }
   },
   {
-    "large.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -32, "filler": true }
+    "large.png": {
+      "sprite_width": 64,
+      "sprite_height": 64,
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -32,
+      "filler": true,
+      "exclude": [ "overlay" ]
+    }
   },
   {
     "giant.png": { "sprite_width": 96, "sprite_height": 96, "sprite_offset_x": -32, "sprite_offset_y": -64, "filler": true }
