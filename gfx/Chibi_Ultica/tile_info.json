@@ -8,6 +8,9 @@
     "ChibiLargeMonster.png": { "sprite_width": 64, "sprite_height": 80, "sprite_offset_x": -16, "sprite_offset_y": -48 }
   },
   {
+    "ChibiBigMonster.png": { "sprite_width": 80, "sprite_height": 64, "sprite_offset_x": -48, "sprite_offset_y": -32 }
+  },
+  {
     "ChibiLargeMonsterMagiclysm.png": { "sprite_width": 64, "sprite_height": 80, "sprite_offset_x": -16, "sprite_offset_y": -48 }
   },
   {
