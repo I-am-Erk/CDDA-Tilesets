@@ -1,0 +1,11 @@
+{
+  "id": "weather_portal_storm",
+  "animated": true,
+  "fg": [
+    { "weight": 5, "sprite": "weather_portal_storm_1" },
+    { "weight": 5, "sprite": "weather_portal_storm_2" },
+    { "weight": 5, "sprite": "weather_portal_storm_3" }
+  ],
+  "bg": [
+  ]
+}
