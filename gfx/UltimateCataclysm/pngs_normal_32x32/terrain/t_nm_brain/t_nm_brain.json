@@ -8,7 +8,8 @@
       "fg": [
         { "weight": 1, "sprite": "t_nm_brain_center" },
         { "weight": 1, "sprite": "t_nm_brain_center2" },
-        { "weight": 1, "sprite": "t_nm_brain_center3" }
+        { "weight": 1, "sprite": "t_nm_brain_center3" },
+        { "weight": 1, "sprite": "t_nm_brain_center4" }
       ]
     },
     {
