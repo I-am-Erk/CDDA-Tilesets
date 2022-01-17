@@ -1,0 +1,23 @@
+[
+  {
+    "id": [ "f_flower_fungal" ],
+    "fg": [
+      { "weight": 1, "sprite": "f_flower_fungal01" },
+      { "weight": 1, "sprite": "f_flower_fungal02" },
+      { "weight": 1, "sprite": "f_flower_fungal03" },
+      { "weight": 1, "sprite": "f_flower_fungal04" },
+      { "weight": 1, "sprite": "f_flower_fungal05" },
+      { "weight": 1, "sprite": "f_flower_fungal06" },
+      { "weight": 1, "sprite": "f_flower_fungal07" },
+      { "weight": 1, "sprite": "f_flower_fungal08" },
+      { "weight": 1, "sprite": "f_flower_fungal09" },
+      { "weight": 1, "sprite": "f_flower_fungal10" },
+      { "weight": 1, "sprite": "f_flower_fungal11" },
+      { "weight": 1, "sprite": "f_flower_fungal12" },
+      { "weight": 1, "sprite": "f_flower_fungal13" },
+      { "weight": 1, "sprite": "f_flower_fungal14" },
+      { "weight": 1, "sprite": "f_flower_fungal15" },
+      { "weight": 1, "sprite": "f_flower_fungal16" }
+    ]
+  }
+]
