@@ -2,13 +2,9 @@
   "id": "fd_fire_int3",
   "animated": true,
     "fg": [
+      { "weight": 8, "sprite": "fd_fire_int3_0" },
       { "weight": 8, "sprite": "fd_fire_int3_1" },
       { "weight": 8, "sprite": "fd_fire_int3_2" },
-      { "weight": 8, "sprite": "fd_fire_int3_3" },
-      { "weight": 8, "sprite": "fd_fire_int3_4" },
-      { "weight": 8, "sprite": "fd_fire_int3_5" },
-      { "weight": 8, "sprite": "fd_fire_int3_6" },
-      { "weight": 8, "sprite": "fd_fire_int3_7" },
-      { "weight": 8, "sprite": "fd_fire_int3_8" }
+      { "weight": 8, "sprite": "fd_fire_int3_3" }
     ]
 }
