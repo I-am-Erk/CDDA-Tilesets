@@ -76,5 +76,15 @@
       { "weight": 1, "sprite": "mon_feral_scientist_scalpel_4" }
     ],
   "bg": ["shadow_32x32_normal"]
+  },
+  {
+    "id": "mon_feral_sapien_spear",
+    "fg": [
+      { "weight": 1, "sprite": "mon_feral_sapien_spear_0" },
+      { "weight": 1, "sprite": "mon_feral_sapien_spear_1" },
+      { "weight": 1, "sprite": "mon_feral_sapien_spear_2" },
+      { "weight": 1, "sprite": "mon_feral_sapien_spear_3" }
+    ],
+  "bg": ["shadow_32x32_normal"]
   }
 ]
