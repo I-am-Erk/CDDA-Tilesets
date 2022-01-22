@@ -1,0 +1,28 @@
+[
+  {
+    "id": [ "vp_seat_wood", "seat_wood_bench" ],
+    "fg": [ "vp_seat_wood_rotN", "vp_seat_wood_rotN", "vp_seat_wood_rotS", "vp_seat_wood_rotS" ],
+    "bg": [ "vp_wooden_aisle_vertical", "vp_wooden_aisle_horizontal" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_seat_wood_rotN", "vp_seat_wood_rotN", "vp_seat_wood_rotS", "vp_seat_wood_rotS" ]
+      }
+    ]
+  },
+  {
+    "id": "vp_seat_wood_flimsy",
+    "fg": [ "vp_seat_wood_flimsy_rotN", "vp_seat_wood_flimsy_rotN", "vp_seat_wood_flimsy_rotS", "vp_seat_wood_flimsy_rotS" ],
+    "bg": [ "vp_wooden_aisle_vertical", "vp_wooden_aisle_horizontal" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_seat_wood_flimsy_rotN", "vp_seat_wood_flimsy_rotN", "vp_seat_wood_flimsy_rotS", "vp_seat_wood_flimsy_rotS" ]
+      }
+    ]
+  }
+]

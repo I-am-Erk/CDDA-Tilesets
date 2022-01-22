@@ -1,0 +1,62 @@
+[
+  {
+    "id": "mission_arrow_down",
+    "fg": [ "mission_arrow_down" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "mission_arrow_e",
+    "fg": [ "mission_arrow_e" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "mission_arrow_n",
+    "fg": [ "mission_arrow_n" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "mission_arrow_ne",
+    "fg": [ "mission_arrow_ne" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "mission_arrow_nw",
+    "fg": [ "mission_arrow_nw" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "mission_arrow_s",
+    "fg": [ "mission_arrow_s" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "mission_arrow_se",
+    "fg": [ "mission_arrow_se" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "mission_arrow_sw",
+    "fg": [ "mission_arrow_sw" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "mission_arrow_up",
+    "fg": [ "mission_arrow_up" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "mission_arrow_w",
+    "fg": [ "mission_arrow_w" ],
+    "rotates": false,
+    "bg": [  ]
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "id": "mon_demon_spiderling",
+  "animated": true,
+  "fg": [
+    { "weight": 15, "sprite": "mon_demon_spiderling_0" },
+    { "weight": 15, "sprite": "mon_demon_spiderling_1" },
+    { "weight": 15, "sprite": "mon_demon_spiderling_2" },
+    { "weight": 15, "sprite": "mon_demon_spiderling_1" }
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

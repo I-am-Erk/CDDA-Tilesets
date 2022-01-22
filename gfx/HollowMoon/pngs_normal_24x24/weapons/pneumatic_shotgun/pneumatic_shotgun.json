@@ -1,0 +1,6 @@
+[
+    { "id": ["pneumatic_shotgun", "tihar", "airspeargun", "helsing"], "fg": "pneumatic_shotgun", "bg": [], "rotates": false },
+	{ "id": ["pneumatic_shotgun_season_autumn", "tihar_season_autumn", "airspeargun_season_autumn", "helsing_season_autumn"], "fg": "pneumatic_shotgun_autumn", "bg": [], "rotates": false },
+	{ "id": ["pneumatic_shotgun_season_winter", "tihar_season_winter", "airspeargun_season_winter", "helsing_season_winter"], "fg": "pneumatic_shotgun_winter", "bg": [], "rotates": false },
+	{ "id": ["pneumatic_shotgun_season_summer", "tihar_season_summer", "airspeargun_season_summer", "helsing_season_summer"], "fg": "pneumatic_shotgun_summer", "bg": [], "rotates": false }
+]

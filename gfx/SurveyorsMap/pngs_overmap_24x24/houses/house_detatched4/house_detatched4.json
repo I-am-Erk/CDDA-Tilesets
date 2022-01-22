@@ -1,0 +1,25 @@
+[
+  {
+    "id": [ "house_detatched4" ],
+    "fg": [ "house_detatched4_N", "house_detatched4_E", "house_detatched4_S", "house_detatched4_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "house_detatched4_roof" ],
+    "fg": [ "house_detatched4_roof_N", "house_detatched4_roof_E", "house_detatched4_roof_S", "house_detatched4_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "house_detatched4_basement" ],
+    "fg": [
+      "house_detatched4_basement_N",
+      "house_detatched4_basement_E",
+      "house_detatched4_basement_S",
+      "house_detatched4_basement_W"
+    ],
+    "bg": [ "solid_earth" ],
+    "rotates": true
+  }
+]

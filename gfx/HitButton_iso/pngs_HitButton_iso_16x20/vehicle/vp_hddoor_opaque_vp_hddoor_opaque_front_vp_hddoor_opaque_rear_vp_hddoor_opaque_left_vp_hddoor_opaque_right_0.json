@@ -1,0 +1,1 @@
+{"id": ["vp_hddoor_opaque", "vp_hddoor_opaque_front", "vp_hddoor_opaque_rear", "vp_hddoor_opaque_left", "vp_hddoor_opaque_right"], "fg": ["2527_vp_hddoor_opaque_0"], "multitile": true, "additional_tiles": [{"id": "open", "fg": ["2528_vp_hddoor_1"], "bg": []}, {"id": "broken", "fg": ["236_vp_hdframe_cover_1"], "bg": []}], "bg": []}

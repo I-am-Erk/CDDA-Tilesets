@@ -8,8 +8,6 @@
     { "weight": 1, "sprite": "mon_zombie_labsecurity_4" },
     { "weight": 1, "sprite": "mon_zombie_labsecurity_5" }
   ],
-  "bg": [
-    ""
-  ],
+  "bg": ["shadow_32x32_normal"],
   "rotates": false
 }

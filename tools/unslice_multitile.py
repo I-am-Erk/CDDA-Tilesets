@@ -6,7 +6,7 @@ Combine a set of multitile sprites into 4x4 grid
 import argparse
 import pyvips
 
-from slice_autotiles import MAPS
+from slice_multitile import MAPS
 
 
 def main(args):

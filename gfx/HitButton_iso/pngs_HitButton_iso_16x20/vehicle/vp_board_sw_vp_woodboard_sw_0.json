@@ -1,0 +1,1 @@
+{"id": ["vp_board_sw", "vp_woodboard_sw"], "multitile": true, "fg": ["99_vp_board_nw_1", "100_vp_board_nw_2", "101_vp_board_nw_3", "98_vp_board_nw_0"], "additional_tiles": [{"id": "broken", "fg": ["235_vp_frame_cover_1"], "bg": []}], "bg": []}

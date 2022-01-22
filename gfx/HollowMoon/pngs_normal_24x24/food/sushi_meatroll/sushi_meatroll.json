@@ -1,0 +1,6 @@
+[
+    { "id": ["sushi_meatroll", "sushi_fishroll", "sushi_veggyroll"], "fg": "sushi_meatroll", "bg": [], "rotates": false },
+	{ "id": ["sushi_meatroll_season_autumn", "sushi_fishroll_season_autumn", "sushi_veggyroll_season_autumn"], "fg": "sushi_meatroll_autumn", "bg": [], "rotates": false },
+	{ "id": ["sushi_meatroll_season_winter", "sushi_fishroll_season_winter", "sushi_veggyroll_season_winter"], "fg": "sushi_meatroll_winter", "bg": [], "rotates": false },
+	{ "id": ["sushi_meatroll_season_summer", "sushi_fishroll_season_summer", "sushi_veggyroll_season_summer"], "fg": "sushi_meatroll_summer", "bg": [], "rotates": false }
+]

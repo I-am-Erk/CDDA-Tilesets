@@ -1,0 +1,14 @@
+{
+  "id": "vp_autoclave",
+  "fg": [
+    "vp_autoclave"
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "broken", "fg": [ "vp_autoclave_broken" ], "bg": [  ] }
+  ],
+  "bg": [
+    
+  ]
+}

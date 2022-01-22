@@ -1,0 +1,8 @@
+[
+  {
+    "id": [ "publicgarden" ],
+    "fg": [ "publicgarden_NESW" ],
+    "bg": [ "field" ],
+    "rotates": true
+  }
+]

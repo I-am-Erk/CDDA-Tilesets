@@ -1,5 +1,22 @@
-{
-  "id": "f_dandelion",
-  "fg": "f_dandelion",
-  "bg": ""
-}
+[
+  {
+    "id": "f_dandelion_season_spring",
+    "fg": "f_dandelion",
+    "bg": ""
+  },
+  {
+    "id": "f_dandelion_season_summer",
+    "fg": "f_dandelion_season_summer",
+    "bg": ""
+  },
+  {
+    "id": "f_dandelion_season_autumn",
+    "fg": "f_dandelion_season_autumn",
+    "bg": ""
+  },
+  {
+    "id": "f_dandelion_season_winter",
+    "fg": "f_dandelion_season_winter",
+    "bg": ""
+  }
+]

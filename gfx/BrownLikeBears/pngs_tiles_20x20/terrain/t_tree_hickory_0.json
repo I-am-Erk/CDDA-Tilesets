@@ -1,1 +1,42 @@
-{"id": "t_tree_hickory", "fg": ["1983_t_tree_hickory_0"], "bg": [], "rotates": false, "multitile": false}
+[
+  {
+    "id": "t_tree_hickory_season_spring",
+    "fg": "1983_t_tree_hickory_0",
+    "bg": "forest_grass_spring"
+  },
+  {
+    "id": "t_tree_hickory_season_summer",
+    "fg": "1983_t_tree_hickory_0",
+    "bg": "forest_grass_summer"
+  },
+  {
+    "id": "t_tree_hickory_season_autumn",
+    "fg": "1983_t_tree_hickory_0",
+    "bg": "forest_grass_autumn"
+  },
+  {
+    "id": "t_tree_hickory_season_winter",
+    "fg": "1983_t_tree_hickory_0",
+    "bg": "forest_grass_winter"
+  },
+  {
+    "id": "t_tree_hickory_harvested_season_spring",
+    "fg": "1983_t_tree_hickory_0",
+    "bg": "forest_grass_spring"
+  },
+  {
+    "id": "t_tree_hickory_harvested_season_summer",
+    "fg": "1983_t_tree_hickory_0",
+    "bg": "forest_grass_summer"
+  },
+  {
+    "id": "t_tree_hickory_harvested_season_autumn",
+    "fg": "1983_t_tree_hickory_0",
+    "bg": "forest_grass_autumn"
+  },
+  {
+    "id": "t_tree_hickory_harvested_season_winter",
+    "fg": "1983_t_tree_hickory_0",
+    "bg": "forest_grass_winter"
+  }
+]

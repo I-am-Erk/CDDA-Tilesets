@@ -1,0 +1,6 @@
+[
+    { "id": ["scarf_loose", "scarf_fur_loose", "patchwork_scarf_loose", "knit_scarf_loose"], "fg": "scarf_loose", "bg": [], "rotates": false },
+	{ "id": ["scarf_loose_season_autumn", "scarf_fur_loose_season_autumn", "patchwork_scarf_loose_season_autumn", "knit_scarf_loose_season_autumn"], "fg": "scarf_loose_autumn", "bg": [], "rotates": false },
+	{ "id": ["scarf_loose_season_winter", "scarf_fur_loose_season_winter", "patchwork_scarf_loose_season_winter", "knit_scarf_loose_season_winter"], "fg": "scarf_loose_winter", "bg": [], "rotates": false },
+	{ "id": ["scarf_loose_season_summer", "scarf_fur_loose_season_summer", "patchwork_scarf_loose_season_summer", "knit_scarf_loose_season_summer"], "fg": "scarf_loose_summer", "bg": [], "rotates": false }
+]

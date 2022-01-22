@@ -1,0 +1,26 @@
+[
+  {
+    "id": "f_mustard_season_spring",
+    "fg": "f_mustard_spring",
+    "bg": "",
+    "rotates": false
+  },
+  {
+    "id": "f_mustard_season_summer",
+    "fg": "f_mustard_summer",
+    "bg": "",
+    "rotates": false
+  },
+  {
+    "id": "f_mustard_season_autumn",
+    "fg": "f_mustard_autumn",
+    "bg": "",
+    "rotates": false
+  },
+  {
+    "id": "f_mustard_season_winter",
+    "fg": "f_mustard_winter",
+    "bg": "",
+    "rotates": false
+  }
+]

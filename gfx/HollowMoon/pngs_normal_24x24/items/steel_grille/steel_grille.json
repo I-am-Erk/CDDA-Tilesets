@@ -1,0 +1,6 @@
+[
+    { "id": ["steel_grille", "platinum_grille"], "fg": "steel_grille", "bg": [], "rotates": false },
+	{ "id": ["steel_grille_season_autumn", "platinum_grille_season_autumn"], "fg": "steel_grille_autumn", "bg": [], "rotates": false },
+	{ "id": ["steel_grille_season_winter", "platinum_grille_season_winter"], "fg": "steel_grille_winter", "bg": [], "rotates": false },
+	{ "id": ["steel_grille_season_summer", "platinum_grille_season_summer"], "fg": "steel_grille_summer", "bg": [], "rotates": false }
+]

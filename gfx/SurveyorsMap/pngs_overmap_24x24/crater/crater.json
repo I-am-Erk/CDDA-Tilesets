@@ -1,0 +1,52 @@
+{
+  "id": [ "crater_core", "crater" ],
+  "fg": "crater_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "crater_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "crater_corner_nw",
+        "crater_corner_sw",
+        "crater_corner_se",
+        "crater_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "crater_t_connection_n",
+        "crater_t_connection_w",
+        "crater_t_connection_s",
+        "crater_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "crater_edge_ns",
+        "crater_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "crater_end_piece_n",
+        "crater_end_piece_w",
+        "crater_end_piece_s",
+        "crater_end_piece_e"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "crater_unconnected",
+        "crater_unconnected"
+      ]
+    }
+  ]
+}

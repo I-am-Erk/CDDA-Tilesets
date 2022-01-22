@@ -1,0 +1,14 @@
+{
+  "id": "mon_leprechaun",
+  "animated": true,
+  "fg": [
+    { "weight": 15, "sprite": "mon_leprechaun" },
+    { "weight": 15, "sprite": "mon_leprechaun_1" },
+    { "weight": 15, "sprite": "mon_leprechaun" },
+    { "weight": 15, "sprite": "mon_leprechaun_2" }
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

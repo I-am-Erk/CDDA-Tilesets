@@ -1,0 +1,6 @@
+[
+    { "id": ["rifle_scope", "rifle_scope_mod"], "fg": "rifle_scope", "bg": [], "rotates": false },
+	{ "id": ["rifle_scope_season_autumn", "rifle_scope_mod_season_autumn"], "fg": "rifle_scope_autumn", "bg": [], "rotates": false },
+	{ "id": ["rifle_scope_season_winter", "rifle_scope_mod_season_winter"], "fg": "rifle_scope_winter", "bg": [], "rotates": false },
+	{ "id": ["rifle_scope_season_summer", "rifle_scope_mod_season_summer"], "fg": "rifle_scope_summer", "bg": [], "rotates": false }
+]

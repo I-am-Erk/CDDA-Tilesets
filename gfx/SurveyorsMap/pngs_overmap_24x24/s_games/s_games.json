@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "s_games" ],
+    "fg": [ "s_games_N", "s_games_E", "s_games_S", "s_games_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_games_roof" ],
+    "fg": [ "s_games_roof_N", "s_games_roof_E", "s_games_roof_S", "s_games_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

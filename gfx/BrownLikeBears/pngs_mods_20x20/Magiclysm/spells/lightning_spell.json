@@ -1,0 +1,13 @@
+{
+  "id": [
+    "explosion_lightning_bolt",
+    "explosion_lightning_blast"
+  ],
+  "fg": "lightning_spell_edge",
+  "bg": "",
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "corner", "fg": [ "lightning_spell_corner" ], "bg": "" },
+    { "id": "edge", "fg": [ "lightning_spell_edge" ], "bg": "" }
+  ]
+}

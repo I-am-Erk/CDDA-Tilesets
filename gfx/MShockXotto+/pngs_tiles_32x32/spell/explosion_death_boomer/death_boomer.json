@@ -1,0 +1,12 @@
+{
+  "id": [
+    "explosion_death_boomer"
+  ],
+  "fg": "explosion_death_boomer_edge",
+  "bg": "",
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "corner", "fg": [ "explosion_death_boomer_corner" ], "bg": "" },
+    { "id": "edge", "fg": [ "explosion_death_boomer_edge" ], "bg": "" }
+  ]
+}

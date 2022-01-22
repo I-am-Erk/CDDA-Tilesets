@@ -1,0 +1,6 @@
+[
+    { "id": ["frozen_dinner", "cooked_dinner"], "fg": "frozen_dinner", "bg": [], "rotates": false },
+	{ "id": ["frozen_dinner_season_autumn", "cooked_dinner_season_autumn"], "fg": "frozen_dinner_autumn", "bg": [], "rotates": false },
+	{ "id": ["frozen_dinner_season_winter", "cooked_dinner_season_winter"], "fg": "frozen_dinner_winter", "bg": [], "rotates": false },
+	{ "id": ["frozen_dinner_season_summer", "cooked_dinner_season_summer"], "fg": "frozen_dinner_summer", "bg": [], "rotates": false }
+]

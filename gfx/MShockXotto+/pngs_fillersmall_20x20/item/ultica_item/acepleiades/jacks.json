@@ -1,0 +1,17 @@
+[
+  {
+    "id": "jack",
+    "fg": [ "jack" ],
+    "bg": [  ]
+  },
+  {
+    "id": "jack_small",
+    "fg": [ "jack_small" ],
+    "bg": [  ]
+  },
+  {
+    "id": "jack_makeshift",
+    "fg": [ "jack_makeshift" ],
+    "bg": [  ]
+  }
+]

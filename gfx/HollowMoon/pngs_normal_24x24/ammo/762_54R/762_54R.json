@@ -1,0 +1,6 @@
+[
+    { "id": ["762_54R", "reloaded_762_54R"], "fg": "762_54R", "bg": [], "rotates": false },
+	{ "id": ["762_54R_season_autumn", "reloaded_762_54R_season_autumn"], "fg": "762_54R_autumn", "bg": [], "rotates": false },
+	{ "id": ["762_54R_season_winter", "reloaded_762_54R_season_winter"], "fg": "762_54R_winter", "bg": [], "rotates": false },
+	{ "id": ["762_54R_season_summer", "reloaded_762_54R_season_summer"], "fg": "762_54R_summer", "bg": [], "rotates": false }
+]

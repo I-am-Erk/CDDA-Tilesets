@@ -1,0 +1,21 @@
+[{
+	"id": "pond_field",
+	"fg": "pond_field",
+	"bg": "field",
+	"rotates": false
+},{
+	"id": "pond_forest",
+	"fg": "pond_forest",
+	"bg": "field",
+	"rotates": false
+},{
+	"id": "pond_swamp",
+	"fg": "pond_swamp",
+	"bg": "field",
+	"rotates": false
+},{
+	"id": "hot_springs",
+	"fg": "hot_springs",
+	"bg": "field",
+	"rotates": false
+}]

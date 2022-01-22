@@ -1,0 +1,74 @@
+{
+    "id": "subway",
+    "fg": "sewer_unconnected",
+    "multitile": true,
+    "bg": "subway_unconnected",
+    "additional_tiles": [
+        {
+            "id": "center",
+            "fg": "sewer_center",
+            "bg": "subway_center"
+        },
+        {
+            "id": "corner",
+            "fg": [
+                "sewer_corner_nw",
+                "sewer_corner_sw",
+                "sewer_corner_se",
+                "sewer_corner_ne"
+            ],
+            "bg": [
+                "subway_corner_nw",
+                "subway_corner_sw",
+                "subway_corner_se",
+                "subway_corner_ne"
+            ]
+        },
+        {
+            "id": "t_connection",
+            "fg": [
+                "sewer_t_connection_n",
+                "sewer_t_connection_w",
+                "sewer_t_connection_s",
+                "sewer_t_connection_e"
+            ],
+            "bg": [
+                "subway_t_connection_n",
+                "subway_t_connection_w",
+                "subway_t_connection_s",
+                "subway_t_connection_e"
+            ]
+        },
+        {
+            "id": "edge",
+            "fg": [
+                "sewer_edge_ns",
+                "sewer_edge_ew"
+            ],
+            "bg": [
+                "subway_edge_ns",
+                "subway_edge_ew"
+            ]
+        },
+        {
+            "id": "end_piece",
+            "fg": [
+                "sewer_end_piece_n",
+                "sewer_end_piece_w",
+                "sewer_end_piece_s",
+                "sewer_end_piece_e"
+            ],
+            "bg": [
+                "subway_end_piece_n",
+                "subway_end_piece_w",
+                "subway_end_piece_s",
+                "subway_end_piece_e"
+            ]
+        },
+        {
+            "id": "unconnected",
+            "fg": "sewer_unconnected",
+            "bg": "subway_unconnected"
+        }
+    ]
+}

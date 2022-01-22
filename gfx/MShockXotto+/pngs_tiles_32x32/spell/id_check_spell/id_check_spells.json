@@ -1,0 +1,12 @@
+{
+  "id": [
+    "explosion_green_maintenance_check",
+    "explosion_yellow_maintenance_check",
+    "explosion_blue_maintenance_check",
+    "explosion_blue_maintenance_check2",
+    "explosion_green_researcher_check",
+    "explosion_black_security_check"
+  ],
+  "fg": "id_check",
+  "bg": ""
+}

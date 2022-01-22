@@ -1,0 +1,11 @@
+[
+  {
+    "id": "mon_crawler",
+    "fg": [
+      { "weight": 1, "sprite": "mon_crawler1" },
+      { "weight": 1, "sprite": "mon_crawler2" },
+      { "weight": 1, "sprite": "mon_crawler3" }
+    ],
+    "bg": "shadow_64x64_medium"
+  }
+]

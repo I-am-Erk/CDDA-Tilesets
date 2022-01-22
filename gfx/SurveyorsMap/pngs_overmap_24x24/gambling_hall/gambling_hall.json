@@ -1,0 +1,25 @@
+[
+  {
+    "id": [ "gambling_hall" ],
+    "fg": [ "gambling_hall_N", "gambling_hall_E", "gambling_hall_S", "gambling_hall_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "gambling_hall_roof" ],
+    "fg": [ "gambling_hall_roof_N", "gambling_hall_roof_E", "gambling_hall_roof_S", "gambling_hall_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "gambling_hall_upper_roof" ],
+    "fg": [
+      "gambling_hall_upper_roof_N",
+      "gambling_hall_upper_roof_E",
+      "gambling_hall_upper_roof_S",
+      "gambling_hall_upper_roof_W"
+    ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

@@ -1,35 +1,35 @@
 [
   {
-    "id": "vp_frame_wood_vertical2",
-    "fg": [ "frame_wood_vertical2" ],
+    "id": "vp_frame_wood_vertical_2",
+    "fg": [ "frame_wood_vertical_2" ],
     "rotates": true,
     "bg": [  ],
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "frame_wood_vertical2" ] } ]
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "frame_wood_vertical_2" ] } ]
   },
   {
-    "id": "vp_frame_wood_vertical2_unconnected",
-    "fg": [ "frame_wood_vertical2_unconnected" ],
+    "id": "vp_frame_wood_vertical_2_unconnected",
+    "fg": [ "frame_wood_vertical_2_unconnected" ],
     "rotates": true,
     "bg": [  ],
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "frame_wood_vertical2_unconnected" ] } ]
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "frame_wood_vertical_2_unconnected" ] } ]
   },
   {
-    "id": "vp_frame_wood_vertical2_right",
-    "fg": [ "frame_wood_vertical2_right" ],
+    "id": "vp_frame_wood_vertical_2_right",
+    "fg": [ "frame_wood_vertical_2_right" ],
     "rotates": true,
     "bg": [  ],
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "frame_wood_vertical2_right" ] } ]
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "frame_wood_vertical_2_right" ] } ]
   },
   {
-    "id": "vp_frame_wood_vertical2_left",
-    "fg": [ "frame_wood_vertical2_left" ],
+    "id": "vp_frame_wood_vertical_2_left",
+    "fg": [ "frame_wood_vertical_2_left" ],
     "rotates": true,
     "bg": [  ],
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "frame_wood_vertical2_left" ] } ]
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "frame_wood_vertical_2_left" ] } ]
   },
   {
     "id": "vp_frame_wood_vertical",
@@ -96,52 +96,52 @@
     "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "frame_wood_ne" ] } ]
   },
   {
-    "id": "vp_frame_wood_horizontal2",
-    "fg": [ "frame_wood_horizontal2" ],
+    "id": "vp_frame_wood_horizontal_2",
+    "fg": [ "frame_wood_horizontal_2" ],
     "rotates": true,
     "bg": [  ],
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "frame_wood_horizontal2" ] } ]
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "frame_wood_horizontal_2" ] } ]
   },
   {
-    "id": "vp_frame_wood_horizontal2_unconnected",
-    "fg": [ "frame_wood_horizontal2_unconnected" ],
+    "id": "vp_frame_wood_horizontal_2_unconnected",
+    "fg": [ "frame_wood_horizontal_2_unconnected" ],
     "rotates": true,
     "bg": [  ],
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "frame_wood_horizontal2_unconnected" ] } ]
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "frame_wood_horizontal_2_unconnected" ] } ]
   },
   {
-    "id": "vp_frame_wood_horizontal2_right",
-    "fg": [ "frame_wood_horizontal2_right" ],
+    "id": "vp_frame_wood_horizontal_2_right",
+    "fg": [ "frame_wood_horizontal_2_right" ],
     "rotates": true,
     "bg": [  ],
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "frame_wood_horizontal2_right" ] } ]
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "frame_wood_horizontal_2_right" ] } ]
   },
   {
-    "id": "vp_frame_wood_horizontal2_rear",
-    "fg": [ "frame_wood_horizontal2_rear" ],
+    "id": "vp_frame_wood_horizontal_2_rear",
+    "fg": [ "frame_wood_horizontal_2_rear" ],
     "rotates": true,
     "bg": [  ],
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "frame_wood_horizontal2_rear" ] } ]
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "frame_wood_horizontal_2_rear" ] } ]
   },
   {
-    "id": "vp_frame_wood_horizontal2_left",
-    "fg": [ "frame_wood_horizontal2_left" ],
+    "id": "vp_frame_wood_horizontal_2_left",
+    "fg": [ "frame_wood_horizontal_2_left" ],
     "rotates": true,
     "bg": [  ],
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "frame_wood_horizontal2_left" ] } ]
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "frame_wood_horizontal_2_left" ] } ]
   },
   {
-    "id": "vp_frame_wood_horizontal2_front",
-    "fg": [ "frame_wood_horizontal2_front" ],
+    "id": "vp_frame_wood_horizontal_2_front",
+    "fg": [ "frame_wood_horizontal_2_front" ],
     "rotates": true,
     "bg": [  ],
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "frame_wood_horizontal2_front" ] } ]
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "frame_wood_horizontal_2_front" ] } ]
   },
   {
     "id": "vp_frame_wood_horizontal",
@@ -152,12 +152,12 @@
     "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "frame_wood_horizontal" ] } ]
   },
   {
-    "id": "vp_frame_wood_horizontal-unconnected",
-    "fg": [ "frame_wood_horizontal-unconnected" ],
+    "id": "vp_frame_wood_horizontal_unconnected",
+    "fg": [ "frame_wood_horizontal_unconnected" ],
     "rotates": true,
     "bg": [  ],
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "frame_wood_horizontal-unconnected" ] } ]
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "frame_wood_horizontal_unconnected" ] } ]
   },
   {
     "id": "vp_frame_wood_horizontal_right",
@@ -200,7 +200,7 @@
     "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "frame_wood_cross" ] } ]
   },
   {
-    "id": [ "vp_frame_wood_cross_unconnected", "frame_wood" ],
+    "id": [ "vp_frame_wood_cross_unconnected", "vp_frame_wood", "frame_wood" ],
     "fg": [ "frame_wood_cross_unconnected" ],
     "rotates": true,
     "bg": [  ],

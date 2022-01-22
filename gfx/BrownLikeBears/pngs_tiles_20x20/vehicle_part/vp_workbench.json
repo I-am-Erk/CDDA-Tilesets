@@ -1,0 +1,14 @@
+{
+  "id": "vp_workbench",
+  "fg": [
+    "vp_workbench"
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "broken", "fg": [ "vp_workbench_broken" ], "bg": [  ] }
+  ],
+  "bg": [
+    
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "id": "bridge",
+    "fg": [
+        "bridge_edge_ns",
+        "bridge_edge_ew"
+    ],
+    "bg": [
+        "road_edge_ns",
+        "road_edge_ew"
+    ],
+    "rotates": true
+}

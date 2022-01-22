@@ -1,0 +1,6 @@
+[
+    { "id": ["kukri", "kukri_plus_two", "kukri_plus_one"], "fg": "kukri", "bg": [], "rotates": false },
+	{ "id": ["kukri_season_autumn", "kukri_plus_two_season_autumn", "kukri_plus_one_season_autumn"], "fg": "kukri_autumn", "bg": [], "rotates": false },
+	{ "id": ["kukri_season_winter", "kukri_plus_two_season_winter", "kukri_plus_one_season_winter"], "fg": "kukri_winter", "bg": [], "rotates": false },
+	{ "id": ["kukri_season_summer", "kukri_plus_two_season_summer", "kukri_plus_one_season_summer"], "fg": "kukri_summer", "bg": [], "rotates": false }
+]

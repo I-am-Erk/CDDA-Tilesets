@@ -10,11 +10,5 @@
     "fg": [ "overlay_worn_gold_watch" ],
     "rotates": false,
     "bg": [  ]
-  },
-  {
-    "id": "overlay_worn_silver_watch",
-    "fg": [ "overlay_worn_gold_watch" ],
-    "rotates": false,
-    "bg": [  ]
   }
 ]

@@ -1,0 +1,13 @@
+{
+  "id": "mon_plasticgolem",
+  "fg": [
+    { "weight": 10, "sprite": "mon_plasticgolem_white" },
+    { "weight": 10, "sprite": "mon_plasticgolem_black" },
+    { "weight": 6, "sprite": "mon_plasticgolem_blue" },
+    { "weight": 5, "sprite": "mon_plasticgolem_red" },
+    { "weight": 3, "sprite": "mon_plasticgolem_green" },
+    { "weight": 1, "sprite": "mon_plasticgolem_grey" }
+  ],
+  "bg": "",
+  "rotates": false
+}

@@ -1,0 +1,34 @@
+[
+  {"id": "t_floor",
+  "fg": [
+        { "weight": 12, "sprite": "t_floor_0"},
+        { "weight": 1, "sprite": "t_floor_1"},
+		{ "weight": 1, "sprite": "t_floor_2"}
+  ],
+  "bg": []
+  },
+  {"id": "t_floor_season_autumn",
+  "fg": [
+        { "weight": 12, "sprite": "t_floor_autumn_0"},
+        { "weight": 1, "sprite": "t_floor_autumn_1"},
+		{ "weight": 1, "sprite": "t_floor_autumn_2"}
+  ],
+  "bg": []
+  },
+  {"id": "t_floor_season_winter",
+  "fg": [
+        { "weight": 12, "sprite": "t_floor_winter_0"},
+        { "weight": 1, "sprite": "t_floor_winter_1"},
+		{ "weight": 1, "sprite": "t_floor_winter_2"}
+  ],
+  "bg": []
+  },
+  {"id": "t_floor_season_summer",
+  "fg": [
+        { "weight": 12, "sprite": "t_floor_summer_0"},
+        { "weight": 1, "sprite": "t_floor_summer_1"},
+		{ "weight": 1, "sprite": "t_floor_summer_2"}
+  ],
+  "bg": []
+  }
+]

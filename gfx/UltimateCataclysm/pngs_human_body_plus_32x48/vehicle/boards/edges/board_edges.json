@@ -1,0 +1,26 @@
+[
+  {
+    "id": "vp_board_ne_edge",
+    "fg": [ "vp_board_ne", "vp_board_ne_edge_rotW", "vp_board_ne_rotS", "vp_board_ne_edge_rotE" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
+        "bg": [ "vp_board_ne", "vp_board_ne_edge_rotW", "vp_board_ne_rotS", "vp_board_ne_edge_rotE" ]
+      }
+    ]
+  },
+  {
+    "id": "vp_board_nw_edge",
+    "fg": [ "vp_board_ne_rotW", "vp_board_nw_edge_rotW", "vp_board_nw_rotS", "vp_board_nw_edge_rotE" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
+        "bg": [ "vp_board_ne_rotW", "vp_board_nw_edge_rotW", "vp_board_nw_rotS", "vp_board_nw_edge_rotE" ]
+      }
+    ]
+  }
+]

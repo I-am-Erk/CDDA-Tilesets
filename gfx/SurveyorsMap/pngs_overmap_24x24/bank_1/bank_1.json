@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "bank_1" ],
+    "fg": [ "bank_1_N", "bank_1_E", "bank_1_S", "bank_1_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "bank_roof_1" ],
+    "fg": [ "bank_roof_1_N", "bank_roof_1_E", "bank_roof_1_S", "bank_roof_1_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

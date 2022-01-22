@@ -1,0 +1,6 @@
+[
+    { "id": ["bandages", "bandages_makeshift_boiled", "bandages_makeshift_bleached", "bandages_makeshift"], "fg": "bandages", "bg": [], "rotates": false },
+	{ "id": ["bandages_season_autumn", "bandages_makeshift_boiled_season_autumn", "bandages_makeshift_bleached_season_autumn", "bandages_makeshift_season_autumn"], "fg": "bandages_autumn", "bg": [], "rotates": false },
+	{ "id": ["bandages_season_winter", "bandages_makeshift_boiled_season_winter", "bandages_makeshift_bleached_season_winter", "bandages_makeshift_season_winter"], "fg": "bandages_winter", "bg": [], "rotates": false },
+	{ "id": ["bandages_season_summer", "bandages_makeshift_boiled_season_summer", "bandages_makeshift_bleached_season_summer", "bandages_makeshift_season_summer"], "fg": "bandages_summer", "bg": [], "rotates": false }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "vp_door_shutter",
+    "fg": [ "vp_door_shutter_faceS", "vp_door_shutter_faceE", "vp_door_shutter_faceN", "vp_door_shutter_faceW" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "open",
+        "fg": [ "vp_door_shutter_open_faceS", "vp_door_shutter_open_faceE", "vp_door_shutter_open_faceN", "vp_door_shutter_open_faceW" ]
+      },
+      {
+        "id": "broken",
+        "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
+        "bg": [ "vp_door_shutter_open_faceS", "vp_door_shutter_open_faceE", "vp_door_shutter_open_faceN", "vp_door_shutter_open_faceW" ]
+      }
+    ]
+  },
+  {
+    "id": "vp_door_shutter_left",
+    "fg": [ "vp_door_shutter_faceW", "vp_door_shutter_left_rotW_right_rotE", "vp_door_shutter_faceE", "vp_door_shutter_faceN" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "open",
+        "fg": [ "vp_door_shutter_open_faceW", "vp_door_shutter_open_left_rotW_right_rotE", "vp_door_shutter_open_faceE", "vp_door_shutter_open_faceN" ]
+      },
+      {
+        "id": "broken",
+        "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
+        "bg": [ "vp_door_shutter_open_faceW", "vp_door_shutter_open_left_rotW_right_rotE", "vp_door_shutter_open_faceE", "vp_door_shutter_open_faceN" ]
+      }
+    ]
+  },
+  {
+    "id": "vp_door_shutter_right",
+    "fg": [ "vp_door_shutter_faceE", "vp_door_shutter_faceN", "vp_door_shutter_faceW", "vp_door_shutter_left_rotW_right_rotE" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "open",
+        "fg": [ "vp_door_shutter_open_faceE", "vp_door_shutter_open_faceN", "vp_door_shutter_open_faceW", "vp_door_shutter_open_left_rotW_right_rotE" ]
+      },
+      {
+        "id": "broken",
+        "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
+        "bg": [ "vp_door_shutter_open_faceE", "vp_door_shutter_open_faceN", "vp_door_shutter_open_faceW", "vp_door_shutter_open_left_rotW_right_rotE" ]
+      }
+    ]
+  }
+]

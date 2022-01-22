@@ -1,0 +1,1 @@
+{"id": ["vp_frame_handle", "vp_frame_wood_handle", "vp_frame_wood_light_handle"], "multitile": true, "fg": ["160_vp_frame_handle_0", "161_vp_frame_handle_1", "162_vp_frame_handle_2", "163_vp_frame_handle_3"], "additional_tiles": [{"id": "broken", "fg": ["235_vp_frame_cover_1"], "bg": []}], "bg": []}

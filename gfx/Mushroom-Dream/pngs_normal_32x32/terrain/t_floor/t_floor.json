@@ -1,0 +1,16 @@
+{
+  "id": "t_floor",
+  "fg": [
+    { "weight": 2, "sprite": "t_floor_01" },
+    { "weight": 2, "sprite": "t_floor_02" },
+    { "weight": 2, "sprite": "t_floor_03" },
+    { "weight": 2, "sprite": "t_floor_04" },
+    { "weight": 2, "sprite": "t_floor_05" },
+    { "weight": 2, "sprite": "t_floor_06" },
+    { "weight": 2, "sprite": "t_floor_07" }
+  ],
+  "bg": [
+    ""
+  ],
+  "rotates": false
+}

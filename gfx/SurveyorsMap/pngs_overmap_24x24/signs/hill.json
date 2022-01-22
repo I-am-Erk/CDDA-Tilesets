@@ -1,0 +1,20 @@
+[
+  {
+    "id": [ "nest_dermatik", "anthill" ],
+    "fg": [ "hill_bad" ],
+    "bg": [ "field" ],
+    "rotates": false
+  },
+  {
+    "id": [ "lmoe" ],
+    "fg": [ "hill_good" ],
+    "bg": [ ],
+    "rotates": false
+  },
+  {
+    "id": [ "cave"],
+    "fg": [ "hill" ],
+    "bg": [ ],
+    "rotates": false
+  }
+]

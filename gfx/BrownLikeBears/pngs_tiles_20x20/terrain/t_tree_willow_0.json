@@ -1,1 +1,42 @@
-{"id": "t_tree_willow", "fg": ["1982_t_tree_willow_0"], "bg": [], "rotates": false, "multitile": false}
+[
+  {
+    "id": "t_tree_willow_season_spring",
+    "fg": "1982_t_tree_willow_0",
+    "bg": "forest_grass_spring"
+  },
+  {
+    "id": "t_tree_willow_season_summer",
+    "fg": "1982_t_tree_willow_0",
+    "bg": "forest_grass_summer"
+  },
+  {
+    "id": "t_tree_willow_season_autumn",
+    "fg": "1982_t_tree_willow_0",
+    "bg": "forest_grass_autumn"
+  },
+  {
+    "id": "t_tree_willow_season_winter",
+    "fg": "1982_t_tree_willow_0",
+    "bg": "forest_grass_winter"
+  },
+  {
+    "id": "t_tree_willow_harvested_season_spring",
+    "fg": "1982_t_tree_willow_0",
+    "bg": "forest_grass_spring"
+  },
+  {
+    "id": "t_tree_willow_harvested_season_summer",
+    "fg": "1982_t_tree_willow_0",
+    "bg": "forest_grass_summer"
+  },
+  {
+    "id": "t_tree_willow_harvested_season_autumn",
+    "fg": "1982_t_tree_willow_0",
+    "bg": "forest_grass_autumn"
+  },
+  {
+    "id": "t_tree_willow_harvested_season_winter",
+    "fg": "1982_t_tree_willow_0",
+    "bg": "forest_grass_winter"
+  }
+]

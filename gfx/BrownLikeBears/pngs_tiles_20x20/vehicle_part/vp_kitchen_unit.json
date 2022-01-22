@@ -1,0 +1,14 @@
+{
+  "id": "vp_kitchen_unit",
+  "fg": [
+    "vp_kitchen_unit"
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "broken", "fg": [ "vp_kitchen_unit_broken" ], "bg": [  ] }
+  ],
+  "bg": [
+    
+  ]
+}

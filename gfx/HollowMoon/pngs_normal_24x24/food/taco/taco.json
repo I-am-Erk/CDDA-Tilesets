@@ -1,0 +1,6 @@
+[
+    { "id": ["taco", "tiotaco"], "fg": "taco", "bg": [], "rotates": false },
+	{ "id": ["taco_season_autumn", "tiotaco_season_autumn"], "fg": "taco_autumn", "bg": [], "rotates": false },
+	{ "id": ["taco_season_winter", "tiotaco_season_winter"], "fg": "taco_winter", "bg": [], "rotates": false },
+	{ "id": ["taco_season_summer", "tiotaco_season_summer"], "fg": "taco_summer", "bg": [], "rotates": false }
+]

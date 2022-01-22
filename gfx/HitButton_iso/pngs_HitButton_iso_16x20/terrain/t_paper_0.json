@@ -1,0 +1,1 @@
+{"id": ["t_paper"], "fg": ["720_t_paper_0", "721_t_paper_1"], "multitile": true, "additional_tiles": [{"id": "corner", "fg": ["722_t_paper_2", "723_t_paper_3", "724_t_paper_4", "725_t_paper_5"], "bg": []}, {"id": "t_connection", "fg": ["726_t_paper_6", "727_t_paper_7", "728_t_paper_8", "729_t_paper_9"], "bg": []}, {"id": "center", "fg": ["730_t_paper_10"], "bg": []}], "bg": []}

@@ -1,0 +1,25 @@
+[  
+  {
+    "id": [ "solid_earth" ],
+    "fg": [
+      {"weight": 1, "sprite": "solid_earth"},
+      {"weight": 1, "sprite": "solid_earth_01"},
+      {"weight": 1, "sprite": "solid_earth_02"},
+      {"weight": 1, "sprite": "solid_earth_03"},
+      {"weight": 1, "sprite": "solid_earth_04"},
+      {"weight": 1, "sprite": "solid_earth_05"},
+      {"weight": 1, "sprite": "solid_earth_06"},
+      {"weight": 1, "sprite": "solid_earth_07"},
+      {"weight": 1, "sprite": "solid_earth_08"},
+      {"weight": 1, "sprite": "solid_earth_09"},
+      {"weight": 1, "sprite": "solid_earth_10"},
+      {"weight": 1, "sprite": "solid_earth_11"},
+      {"weight": 1, "sprite": "solid_earth_12"},
+      {"weight": 1, "sprite": "solid_earth_13"},
+      {"weight": 1, "sprite": "solid_earth_14"},
+      {"weight": 1, "sprite": "solid_earth_15"}
+	],
+    "bg": [],
+    "rotates": false
+  }
+]

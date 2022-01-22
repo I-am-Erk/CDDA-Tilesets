@@ -4,8 +4,6 @@
     "2714_mon_zombie_fungus_0",
     "mon_zombie_fungus_1"
   ],
-  "bg": [
-    ""
-  ],
+  "bg": ["shadow_32x32_normal"],
   "rotates": false
 }

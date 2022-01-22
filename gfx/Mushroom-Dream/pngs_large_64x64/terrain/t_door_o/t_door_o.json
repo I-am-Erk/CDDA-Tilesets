@@ -1,0 +1,35 @@
+[
+  {
+    "id": "t_door_o",
+    "fg": "t_door_o",
+    "bg": "t_floor_large",
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "center", "fg": "t_door_o", "bg": "" },
+      { "id": "edge", "fg": [ "t_door_o_vertical", "t_door_o" ], "bg": "" },
+      { "id": "unconnected", "fg": [ "t_door_o", "t_door_o" ], "bg": "" }
+    ]
+  },
+  {
+    "id": "t_door_red_o",
+    "fg": "t_door_red_o",
+    "bg": "",
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "center", "fg": "t_door_red_o", "bg": "" },
+      { "id": "edge", "fg": [ "t_door_red_o_vertical", "t_door_red_o" ], "bg": "" },
+      { "id": "unconnected", "fg": [ "t_door_red_o", "t_door_red_o" ], "bg": "" }
+    ]
+  },
+  {
+    "id": "t_door_green_o",
+    "fg": "t_door_green_o",
+    "bg": "",
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "center", "fg": "t_door_green_o", "bg": "" },
+      { "id": "edge", "fg": [ "t_door_green_o_vertical", "t_door_green_o" ], "bg": "" },
+      { "id": "unconnected", "fg": [ "t_door_green_o", "t_door_green_o" ], "bg": "" }
+    ]
+  }
+]

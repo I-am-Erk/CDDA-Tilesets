@@ -1,1 +1,22 @@
-{"id": "t_tree_maple", "fg": ["1984_t_tree_maple_0"], "bg": [], "rotates": false, "multitile": false}
+[
+  {
+    "id": [ "t_tree_maple_season_spring", "t_tree_maple_tapped_season_spring" ],
+    "fg": "1984_t_tree_maple_0",
+    "bg": "forest_grass_spring"
+  },
+  {
+    "id": [ "t_tree_maple_season_summer", "t_tree_maple_tapped_season_summer" ],
+    "fg": "1984_t_tree_maple_0",
+    "bg": "forest_grass_summer"
+  },
+  {
+    "id": [ "t_tree_maple_season_autumn", "t_tree_maple_tapped_season_autumn" ],
+    "fg": "1984_t_tree_maple_0",
+    "bg": "forest_grass_autumn"
+  },
+  {
+    "id": [ "t_tree_maple_season_winter", "t_tree_maple_tapped_season_winter" ],
+    "fg": "1984_t_tree_maple_0",
+    "bg": "forest_grass_winter"
+  }
+]

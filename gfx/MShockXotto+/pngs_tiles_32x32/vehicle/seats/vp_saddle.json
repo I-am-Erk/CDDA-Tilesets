@@ -12,19 +12,5 @@
         "bg": [ "saddle_pedal_rotN", "saddle_pedal_rotW", "saddle_pedal_rotS", "saddle_pedal_rotE" ]
       }
     ]
-  },
-  {
-    "id": "vp_saddle_motor",
-    "fg": [ "saddle_motor_rotN", "saddle_motor_rotW", "saddle_motor_rotS", "saddle_motor_rotE" ],
-    "rotates": true,
-    "bg": [  ],
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": [ "3987_vp_cargo_space_2" ],
-        "bg": [ "saddle_motor_rotN", "saddle_motor_rotW", "saddle_motor_rotS", "saddle_motor_rotE" ]
-      }
-    ]
   }
 ]

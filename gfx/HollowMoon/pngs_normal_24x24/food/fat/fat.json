@@ -1,0 +1,6 @@
+[
+    { "id": ["fat", "mutant_human_fat", "human_fat", "mutant_fat"], "fg": "fat", "bg": [], "rotates": false },
+	{ "id": ["fat_season_autumn", "mutant_human_fat_season_autumn", "human_fat_season_autumn", "mutant_fat_season_autumn"], "fg": "fat_autumn", "bg": [], "rotates": false },
+	{ "id": ["fat_season_winter", "mutant_human_fat_season_winter", "human_fat_season_winter", "mutant_fat_season_winter"], "fg": "fat_winter", "bg": [], "rotates": false },
+	{ "id": ["fat_season_summer", "mutant_human_fat_season_summer", "human_fat_season_summer", "mutant_fat_season_summer"], "fg": "fat_summer", "bg": [], "rotates": false }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "mon_hallu_mannequin",
+    "fg": "mon_hallu_mannequin",
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_mannequin_decoy",
+    "fg": "mon_hallu_mannequin",
+    "bg": "shadow_32x48_normal"
+  }
+]

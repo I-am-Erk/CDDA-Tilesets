@@ -1,0 +1,62 @@
+[
+  {
+    "id": "overlay_female_mutation_CHITIN",
+    "fg": "chitin_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_mutation_CHITIN",
+    "fg": "chitin_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_mutation_CHITIN2",
+    "fg": "chitin2_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_mutation_CHITIN2",
+    "fg": "chitin2_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_mutation_FEATHERS",
+    "fg": "feathers_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_mutation_FEATHERS",
+    "fg": "feathers_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_mutation_SCALES",
+    "fg": "scales_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_mutation_SCALES",
+    "fg": "scales_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_mutation_PLANTSKIN",
+    "fg": "plantskin_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_mutation_PLANTSKIN",
+    "fg": "plantskin_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_female_mutation_LUPINE_FUR",
+    "fg": "grayfur_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_mutation_LUPINE_FUR",
+    "fg": "grayfur_m",
+    "bg": ""
+  }
+]

@@ -14,13 +14,6 @@
     "bg": []
   },
   {
-    "id": "syringe",
-    "fg": [
-      "syringe"
-    ],
-    "bg": []
-  },
-  {
     "id": "antibiotics",
     "fg": [
       "antibiotics"

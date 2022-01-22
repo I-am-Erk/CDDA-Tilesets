@@ -1,0 +1,6 @@
+[
+    { "id": ["boiled_egg", "pickled_egg"], "fg": "boiled_egg", "bg": [], "rotates": false },
+	{ "id": ["boiled_egg_season_autumn", "pickled_egg_season_autumn"], "fg": "boiled_egg_autumn", "bg": [], "rotates": false },
+	{ "id": ["boiled_egg_season_winter", "pickled_egg_season_winter"], "fg": "boiled_egg_winter", "bg": [], "rotates": false },
+	{ "id": ["boiled_egg_season_summer", "pickled_egg_season_summer"], "fg": "boiled_egg_summer", "bg": [], "rotates": false }
+]

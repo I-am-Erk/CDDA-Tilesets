@@ -1,0 +1,6 @@
+[
+    { "id": ["suppressor_compact", "magic_suppressor"], "fg": "suppressor_compact", "bg": [], "rotates": false },
+	{ "id": ["suppressor_compact_season_autumn", "magic_suppressor_season_autumn"], "fg": "suppressor_compact_autumn", "bg": [], "rotates": false },
+	{ "id": ["suppressor_compact_season_winter", "magic_suppressor_season_winter"], "fg": "suppressor_compact_winter", "bg": [], "rotates": false },
+	{ "id": ["suppressor_compact_season_summer", "magic_suppressor_season_summer"], "fg": "suppressor_compact_summer", "bg": [], "rotates": false }
+]

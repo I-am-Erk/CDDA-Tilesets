@@ -38,5 +38,20 @@
     "id": "corpse_mon_ant_acid_larva",
     "fg": "corpse_mon_ant_acid_larva",
     "bg": ""
+  },
+  {
+    "id": "mon_ant_fungus",
+    "fg": "mon_ant_fungus",
+    "bg": "shadow_32x32_normal"
+  },
+  {
+    "id": "mon_ant_small",
+    "fg": "mon_ant_small",
+    "bg": "shadow_32x32_small"
+  },
+  {
+    "id": "mon_ant_acid_small",
+    "fg": "mon_ant_acid_small",
+    "bg": "shadow_32x32_small"
   }
 ]

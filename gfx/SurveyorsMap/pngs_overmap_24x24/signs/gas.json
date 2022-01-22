@@ -1,0 +1,16 @@
+[
+  {
+    "id": [ 
+      "s_gas",
+      "s_gas_1",
+      "s_gas_roof_1",
+      "s_gas_rural",
+      "s_gas_rural_roof",
+      "garage_gas_1",
+      "garage_gas_roof_1"
+    ],
+    "fg": [ "gas_station" ],
+    "bg": [ "field" ],
+    "rotates": false
+  }
+]

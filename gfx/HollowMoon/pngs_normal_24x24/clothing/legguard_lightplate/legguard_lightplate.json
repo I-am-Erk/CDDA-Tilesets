@@ -1,0 +1,6 @@
+[
+    { "id": ["legguard_lightplate", "legguard_hard"], "fg": "legguard_lightplate", "bg": [], "rotates": false },
+	{ "id": ["legguard_lightplate_season_autumn", "legguard_hard_season_autumn"], "fg": "legguard_lightplate_autumn", "bg": [], "rotates": false },
+	{ "id": ["legguard_lightplate_season_winter", "legguard_hard_season_winter"], "fg": "legguard_lightplate_winter", "bg": [], "rotates": false },
+	{ "id": ["legguard_lightplate_season_summer", "legguard_hard_season_summer"], "fg": "legguard_lightplate_summer", "bg": [], "rotates": false }
+]

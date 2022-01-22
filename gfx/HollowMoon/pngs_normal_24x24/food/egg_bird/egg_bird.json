@@ -1,0 +1,6 @@
+[
+    { "id": ["egg_bird", "egg_cockatrice", "egg_pheasant", "egg_grouse", "egg_crow", "egg_chicken", "egg_duck", "egg_turkey", "egg_goose_canadian", "egg_reptile"], "fg": "egg_bird", "bg": [], "rotates": false },
+	{ "id": ["egg_bird_season_autumn", "egg_cockatrice_season_autumn", "egg_pheasant_season_autumn", "egg_grouse_season_autumn", "egg_crow_season_autumn", "egg_chicken_season_autumn", "egg_duck_season_autumn", "egg_turkey_season_autumn", "egg_goose_canadian_season_autumn", "egg_reptile_season_autumn"], "fg": "egg_bird_autumn", "bg": [], "rotates": false },
+	{ "id": ["egg_bird_season_winter", "egg_cockatrice_season_winter", "egg_pheasant_season_winter", "egg_grouse_season_winter", "egg_crow_season_winter", "egg_chicken_season_winter", "egg_duck_season_winter", "egg_turkey_season_winter", "egg_goose_canadian_season_winter", "egg_reptile_season_winter"], "fg": "egg_bird_winter", "bg": [], "rotates": false },
+	{ "id": ["egg_bird_season_summer", "egg_cockatrice_season_summer", "egg_pheasant_season_summer", "egg_grouse_season_summer", "egg_crow_season_summer", "egg_chicken_season_summer", "egg_duck_season_summer", "egg_turkey_season_summer", "egg_goose_canadian_season_summer", "egg_reptile_season_summer"], "fg": "egg_bird_summer", "bg": [], "rotates": false }
+]

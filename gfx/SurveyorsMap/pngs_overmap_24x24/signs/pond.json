@@ -1,0 +1,26 @@
+[
+  {
+    "id": [ "pond_field" ],
+    "fg": [ "pond" ],
+    "bg": [ "field" ],
+    "rotates": false
+  },
+  {
+    "id": [ "pond_forest" ],
+    "fg": [ "pond" ],
+    "bg": [ "forest_center" ],
+    "rotates": false
+  },
+  {
+    "id": [ "pond_swamp" ],
+    "fg": [ "pond" ],
+    "bg": [ "swamp" ],
+    "rotates": false
+  },
+  {
+    "id": [ "hot_springs" ],
+    "fg": [ "hotsprings" ],
+    "bg": [ "field" ],
+    "rotates": true
+  }
+]

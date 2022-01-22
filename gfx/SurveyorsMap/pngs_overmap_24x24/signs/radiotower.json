@@ -1,0 +1,13 @@
+[
+  {
+    "id": [
+      "radio_tower",
+      "radio_tower_1",
+      "wasp_tower",
+      "wasp_tower_1"
+    ],
+    "fg": [ "radiotower" ],
+    "bg": [],
+    "rotates": false
+  }
+]

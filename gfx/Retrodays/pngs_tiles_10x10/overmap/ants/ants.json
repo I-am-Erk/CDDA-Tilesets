@@ -1,0 +1,57 @@
+{
+    "id": "ants",
+    "fg": "ants_unconnected",
+    "multitile": true,
+    "bg": "ants_bg",
+    "additional_tiles": [
+      {
+        "id": "center",
+        "bg": "ants_bg",
+        "fg": "ants_center"
+      },
+      {
+        "id": "corner",
+        "bg": "ants_bg",
+        "fg": [
+          "ants_corner_nw",
+          "ants_corner_sw",
+          "ants_corner_se",
+          "ants_corner_ne"
+        ]
+      },
+      {
+        "id": "t_connection",
+        "bg": "ants_bg",
+        "fg": [
+          "ants_t_connection_n",
+          "ants_t_connection_w",
+          "ants_t_connection_s",
+          "ants_t_connection_e"
+        ]
+      },
+      {
+        "id": "edge",
+        "bg": "ants_bg",
+        "fg": [
+          "ants_edge_ns",
+          "ants_edge_ew"
+        ]
+      },
+      {
+        "id": "end_piece",
+        "bg": "ants_bg",
+        "fg": [
+          "ants_end_piece_n",
+          "ants_end_piece_w",
+          "ants_end_piece_s",
+          "ants_end_piece_e"
+        ]
+      },
+      {
+        "id": "unconnected",
+        "bg": "ants_bg",
+        "fg": "ants_unconnected"
+      }
+    ]
+  }
+  

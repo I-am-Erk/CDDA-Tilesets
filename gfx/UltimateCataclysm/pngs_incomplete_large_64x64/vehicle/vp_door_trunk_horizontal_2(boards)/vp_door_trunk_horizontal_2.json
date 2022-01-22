@@ -1,0 +1,18 @@
+[
+  {
+    "id": "vp_door_trunk_horizontal_2",
+    "fg": [ "vp_door_trunk_horizontal_2", "vp_door_trunk_horizontal_2_rotW", "vp_door_trunk_horizontal_2_rotS", "vp_door_trunk_horizontal_2_rotE" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "open",
+        "fg": [ "vp_door_trunk_horizontal_2_open", "vp_door_trunk_horizontal_2_open_rotW", "vp_door_trunk_horizontal_2_open_rotS", "vp_door_trunk_horizontal_2_open_rotE" ]
+      },
+      {
+        "id": "broken",
+        "fg": [ "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall" ],
+        "bg": [ "vp_door_trunk_horizontal_2_open", "vp_door_trunk_horizontal_2_open_rotW", "vp_door_trunk_horizontal_2_open_rotS", "vp_door_trunk_horizontal_2_open_rotE" ]
+      }
+    ]
+  }
+]

@@ -1,1 +1,26 @@
-{"id": "t_chainfence_posts", "fg": ["432_t_chainfence_posts_0"], "bg": ["1_t_dirt_0"], "rotates": false}
+[
+  {
+    "id": "t_chainfence_posts_season_spring",
+    "fg": [ "432_t_chainfence_posts_0" ],
+    "rotates": false,
+    "bg": [ "1_t_dirt_0" ]
+  },
+  {
+    "id": "t_chainfence_posts_season_summer",
+    "fg": [ "432_t_chainfence_posts_0" ],
+    "rotates": false,
+    "bg": [ "t_dirt_summer" ]
+  },
+  {
+    "id": "t_chainfence_posts_season_autumn",
+    "fg": [ "432_t_chainfence_posts_0" ],
+    "rotates": false,
+    "bg": [ "t_dirt_autumn" ]
+  },
+  {
+    "id": "t_chainfence_posts_season_winter",
+    "fg": [ "432_t_chainfence_posts_0" ],
+    "rotates": false,
+    "bg": [ "t_dirt_winter" ]
+  }
+]

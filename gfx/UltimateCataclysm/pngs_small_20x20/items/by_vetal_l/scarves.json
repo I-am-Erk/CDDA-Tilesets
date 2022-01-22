@@ -1,0 +1,66 @@
+[
+  {
+    "id": "scarf_fur",
+    "fg": "scarf_fur"
+  },
+  {
+    "id": "knit_scarf",
+    "fg": "knit_scarf"
+  },
+  {
+    "id": "scarf_fur_long",
+    "fg": "scarf_fur_long"
+  },
+  {
+    "id": "long_knit_scarf",
+    "fg": "long_knit_scarf"
+  },
+  {
+    "id": "long_patchwork_scarf",
+    "fg": "long_patchwork_scarf"
+  },
+  {
+    "id": "scarf_long",
+    "fg": "scarf_long"
+  },
+  {
+    "id": "patchwork_scarf",
+    "fg": "patchwork_scarf"
+  },
+  {
+    "id": "scarf",
+    "fg": "scarf"
+  },
+  {
+    "id": "scarf_fur_loose",
+    "fg": "scarf_fur"
+  },
+  {
+    "id": "knit_scarf_loose",
+    "fg": "knit_scarf"
+  },
+  {
+    "id": "scarf_fur_long_loose",
+    "fg": "scarf_fur_long"
+  },
+  {
+    "id": "long_knit_scarf_loose",
+    "fg": "long_knit_scarf"
+  },
+  {
+    "id": "long_patchwork_scarf_loose",
+    "fg": "long_patchwork_scarf"
+  },
+  {
+    "id": "scarf_long_loose",
+    "fg": "scarf_long"
+  },
+  {
+    "id": "patchwork_scarf_loose",
+    "fg": "patchwork_scarf"
+  },
+  {
+    "id": "scarf_loose",
+    "fg": "scarf"
+  }
+]

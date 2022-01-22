@@ -1,0 +1,26 @@
+[
+  {
+    "id": "vp_xlframe_vertical_2",
+    "fg": [ "443_vp_xlframe_vertical_1" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_part_placeholder" ], "bg": [  ] } ],
+    "bg": [  ]
+  },
+  {
+    "id": "vp_xlframe_vertical_2_left",
+    "fg": [ "443_vp_xlframe_vertical_1" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_part_placeholder" ], "bg": [  ] } ],
+    "bg": [  ]
+  },
+  {
+    "id": "vp_xlframe_vertical_2_right",
+    "fg": [ "443_vp_xlframe_vertical_1" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "broken_part_placeholder" ], "bg": [  ] } ],
+    "bg": [  ]
+  }
+]

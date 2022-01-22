@@ -1,0 +1,22 @@
+[
+  {
+    "id": "t_grass_alien",
+    "fg": "t_grass_alien",
+    "bg": "t_grass_tall"
+  },
+  {
+    "id": "t_grass_alien_season_summer",
+    "fg": "t_grass_alien",
+    "bg": "t_grass_summer_tall"
+  },
+  {
+    "id": "t_grass_alien_season_autumn",
+    "fg": "t_grass_alien",
+    "bg": "t_grass_autumn_tall"
+  },
+  {
+    "id": "t_grass_alien_season_winter",
+    "fg": "t_grass_alien",
+    "bg": "snow_deep_tall"
+  }
+]

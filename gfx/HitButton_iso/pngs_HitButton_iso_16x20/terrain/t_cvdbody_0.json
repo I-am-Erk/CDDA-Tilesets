@@ -1,0 +1,1 @@
+{"id": ["t_cvdbody"], "fg": ["560_t_cvdbody_0"], "multitile": true, "additional_tiles": [{"id": "corner", "fg": ["561_t_cvdbody_1", "562_t_cvdbody_2", "563_t_cvdbody_3", "564_t_cvdbody_4"], "bg": []}, {"id": "t_connection", "fg": ["565_t_cvdbody_5", "566_t_cvdbody_6", "566_t_cvdbody_6", "567_t_cvdbody_7"], "bg": []}], "bg": []}

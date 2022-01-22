@@ -1,0 +1,11 @@
+{
+  "id": "mon_zombie_bio_op",
+  "animated": true,
+  "fg": [
+    { "weight": 10, "sprite": "mon_zombie_bio_op" },
+    { "weight": 25, "sprite": "mon_zombie_bio_op_1" },
+    { "weight": 25, "sprite": "mon_zombie_bio_op_2" }
+  ],
+  "bg": [
+  ]
+}

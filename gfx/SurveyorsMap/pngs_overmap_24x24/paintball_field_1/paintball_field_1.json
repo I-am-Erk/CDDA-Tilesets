@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "paintball_field_1" ],
+    "fg": [ "paintball_field_1_N", "paintball_field_1_E", "paintball_field_1_S", "paintball_field_1_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "paintball_field_roof_1" ],
+    "fg": [ "paintball_field_roof_1_N", "paintball_field_roof_1_E", "paintball_field_roof_1_S", "paintball_field_roof_1_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

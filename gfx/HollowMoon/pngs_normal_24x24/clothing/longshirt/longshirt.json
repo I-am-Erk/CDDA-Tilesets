@@ -1,0 +1,6 @@
+[
+    { "id": ["longshirt", "thermal_shirt"], "fg": "longshirt", "bg": [], "rotates": false },
+	{ "id": ["longshirt_season_autumn", "thermal_shirt_season_autumn"], "fg": "longshirt_autumn", "bg": [], "rotates": false },
+	{ "id": ["longshirt_season_winter", "thermal_shirt_season_winter"], "fg": "longshirt_winter", "bg": [], "rotates": false },
+	{ "id": ["longshirt_season_summer", "thermal_shirt_season_summer"], "fg": "longshirt_summer", "bg": [], "rotates": false }
+]

@@ -1,0 +1,1 @@
+{"id": ["vp_door_shutter", "vp_door_shutter_front", "vp_door_shutter_rear", "vp_door_shutter_left", "vp_door_shutter_right"], "fg": ["109_vp_door_opaque_0"], "multitile": true, "additional_tiles": [{"id": "open", "fg": ["110_vp_door_1"], "bg": []}, {"id": "broken", "fg": ["235_vp_frame_cover_1"], "bg": []}], "bg": []}

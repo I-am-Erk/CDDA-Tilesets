@@ -1,0 +1,1 @@
+{"id": ["vp_seed_drill", "vp_seed_drill_advanced", "v_planter_item", "v_planter_item_advanced"], "multitile": true, "fg": ["233_vp_seed_drill_0"], "additional_tiles": [{"id": "broken", "fg": ["235_vp_frame_cover_1"], "bg": []}], "bg": []}

@@ -110,5 +110,10 @@
     "bg": [  ],
     "multitile": true,
     "additional_tiles": [ { "id": "broken", "fg": [ "broken_hdhalfboard_vertical" ], "bg": [  ] } ]
+  },
+  {
+    "id": "vp_hdhalfboard_cover",
+    "fg": [ "vp_hdhalfboard_cover", "vp_hdhalfboard_cover_rotW", "vp_hdhalfboard_cover_rotS", "vp_hdhalfboard_cover_rotE" ],
+    "rotates": true
   }
 ]

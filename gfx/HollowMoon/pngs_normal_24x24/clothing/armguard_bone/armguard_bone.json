@@ -1,0 +1,6 @@
+[
+    { "id": ["armguard_bone", "armguard_acidchitin", "armguard_chitin"], "fg": "armguard_bone", "bg": [], "rotates": false },
+	{ "id": ["armguard_bone_season_autumn", "armguard_acidchitin_season_autumn", "armguard_chitin_season_autumn"], "fg": "armguard_bone_autumn", "bg": [], "rotates": false },
+	{ "id": ["armguard_bone_season_winter", "armguard_acidchitin_season_winter", "armguard_chitin_season_winter"], "fg": "armguard_bone_winter", "bg": [], "rotates": false },
+	{ "id": ["armguard_bone_season_summer", "armguard_acidchitin_season_summer", "armguard_chitin_season_summer"], "fg": "armguard_bone_summer", "bg": [], "rotates": false }
+]

@@ -1,0 +1,6 @@
+[
+    { "id": ["deluxe_veggy_rice", "deluxe_veggy_beansnrice", "deluxe_rice", "deluxe_beansnrice", "beansnrice", "tofu_rice"], "fg": "deluxe_veggy_rice", "bg": [], "rotates": false },
+	{ "id": ["deluxe_veggy_rice_season_autumn", "deluxe_veggy_beansnrice_season_autumn", "deluxe_rice_season_autumn", "deluxe_beansnrice_season_autumn", "beansnrice_season_autumn", "tofu_rice_season_autumn"], "fg": "deluxe_veggy_rice_autumn", "bg": [], "rotates": false },
+	{ "id": ["deluxe_veggy_rice_season_winter", "deluxe_veggy_beansnrice_season_winter", "deluxe_rice_season_winter", "deluxe_beansnrice_season_winter", "beansnrice_season_winter", "tofu_rice_season_winter"], "fg": "deluxe_veggy_rice_winter", "bg": [], "rotates": false },
+	{ "id": ["deluxe_veggy_rice_season_summer", "deluxe_veggy_beansnrice_season_summer", "deluxe_rice_season_summer", "deluxe_beansnrice_season_summer", "beansnrice_season_summer", "tofu_rice_season_summer"], "fg": "deluxe_veggy_rice_summer", "bg": [], "rotates": false }
+]

@@ -5,11 +5,6 @@
     "bg": [  ]
   },
   {
-    "id": "screwdriver_set",
-    "fg": [ "screwdriver_set" ],
-    "bg": [  ]
-  },
-  {
     "id": "wrench",
     "fg": [ "wrench" ],
     "bg": [  ]

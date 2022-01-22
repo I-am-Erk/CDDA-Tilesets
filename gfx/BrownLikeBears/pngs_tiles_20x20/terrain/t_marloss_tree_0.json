@@ -1,1 +1,42 @@
-{"id": "t_marloss_tree", "fg": ["1818_t_marloss_tree_0"], "rotates": false, "bg": []}
+[
+  {
+    "id": "t_marloss_tree_season_spring",
+    "fg": "1818_t_marloss_tree_0",
+    "bg": "forest_grass_spring"
+  },
+  {
+    "id": "t_marloss_tree_season_summer",
+    "fg": "1818_t_marloss_tree_0",
+    "bg": "forest_grass_summer"
+  },
+  {
+    "id": "t_marloss_tree_season_autumn",
+    "fg": "1818_t_marloss_tree_0",
+    "bg": "forest_grass_autumn"
+  },
+  {
+    "id": "t_marloss_tree_season_winter",
+    "fg": "1818_t_marloss_tree_0",
+    "bg": "forest_grass_winter"
+  },
+  {
+    "id": "t_marloss_tree_harvested_season_spring",
+    "fg": "1818_t_marloss_tree_0",
+    "bg": "forest_grass_spring"
+  },
+  {
+    "id": "t_marloss_tree_harvested_season_summer",
+    "fg": "1818_t_marloss_tree_0",
+    "bg": "forest_grass_summer"
+  },
+  {
+    "id": "t_marloss_tree_harvested_season_autumn",
+    "fg": "1818_t_marloss_tree_0",
+    "bg": "forest_grass_autumn"
+  },
+  {
+    "id": "t_marloss_tree_harvested_season_winter",
+    "fg": "1818_t_marloss_tree_0",
+    "bg": "forest_grass_winter"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "overlay_wielded_compositebow",
+    "fg": "composite_bow_heavy_mf"
+  },
+  {
+    "id": "overlay_wielded_reflexbow",
+    "fg": "composite_bow_light_mf"
+  },
+  {
+    "id": "overlay_wielded_compgreatbow",
+    "fg": "compound_greatbow_mf"
+  },
+  {
+    "id": "overlay_wielded_compbow",
+    "fg": "compound_hunting_bow_mf"
+  },
+  {
+    "id": "overlay_wielded_compbow_high",
+    "fg": "compound_hunting_bow_mf"
+  },
+  {
+    "id": "overlay_wielded_compbow_low",
+    "fg": "compound_hunting_bow_mf"
+  },
+  {
+    "id": "overlay_wielded_hybridbow",
+    "fg": "hybrid_longbow_mf"
+  },
+  {
+    "id": "overlay_wielded_longbow",
+    "fg": "longbow_mf"
+  },
+  {
+    "id": "overlay_wielded_recurbow",
+    "fg": "modern_recurve_bow_mf"
+  },
+  {
+    "id": "overlay_wielded_reflexrecurvebow",
+    "fg": "olympic_style_target_bow_mf"
+  },
+  {
+    "id": "overlay_wielded_shortbow",
+    "fg": "short_bow_mf"
+  },
+  {
+    "id": "overlay_wielded_selfbow",
+    "fg": "survival_bow_mf"
+  }
+]

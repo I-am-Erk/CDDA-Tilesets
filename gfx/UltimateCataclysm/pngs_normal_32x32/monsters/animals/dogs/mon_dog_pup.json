@@ -1,0 +1,67 @@
+[
+  {
+    "id": "mon_dog_auscattle_pup",
+    "fg": "mon_dog_auscattle_pup",
+    "bg": "shadow_32x32_small"
+  },
+  {
+    "id": "mon_dog_bcollie_pup",
+    "fg": "mon_dog_bcollie_pup",
+    "bg": "shadow_32x32_small"
+  },
+  {
+    "id": "mon_dog_beagle_pup",
+    "fg": "mon_dog_beagle_pup",
+    "bg": "shadow_32x32_small"
+  },
+  {
+    "id": "mon_dog_boxer_pup",
+    "fg": "mon_dog_boxer_pup",
+    "bg": "shadow_32x32_small"
+  },
+  {
+    "id": "mon_dog_bull_pup",
+    "fg": "mon_dog_bull_pup",
+    "bg": "shadow_32x32_small"
+  },
+  {
+    "id": "mon_dog_chihuahua_pup",
+    "fg": "mon_dog_chihuahua_pup",
+    "bg": "shadow_32x32_small"
+  },
+  {
+    "id": "mon_dog_dachshund_pup",
+    "fg": "mon_dog_dachshund_pup",
+    "bg": "shadow_32x32_small"
+  },
+  {
+    "id": "mon_dog_gpyrenees_pup",
+    "fg": "mon_dog_gpyrenees_pup",
+    "bg": "shadow_32x32_small"
+  },
+  {
+    "id": "mon_dog_gshepherd_pup",
+    "fg": "mon_dog_gshepherd_pup",
+    "bg": "shadow_32x32_small"
+  },
+  {
+    "id": "mon_dog_pitbullmix_pup",
+    "fg": "mon_dog_pitbullmix_pup",
+    "bg": "shadow_32x32_small"
+  },
+  {
+    "id": "mon_dog_pup",
+    "fg": "mon_dog_pup",
+    "bg": "shadow_32x32_small"
+  },
+  {
+    "id": "mon_dog_rottweiler_pup",
+    "fg": "mon_dog_rottweiler_pup",
+    "bg": "shadow_32x32_small"
+  },
+  {
+    "id": "mon_dog_samoyed_pup",
+    "fg": "mon_dog_samoyed_pup",
+    "bg": "shadow_32x32_small"
+  }
+]

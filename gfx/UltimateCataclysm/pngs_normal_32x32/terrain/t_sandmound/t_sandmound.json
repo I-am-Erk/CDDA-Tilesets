@@ -1,0 +1,12 @@
+[
+  {
+    "id": [ "t_sandmound_season_spring", "t_sandmound_season_summer", "t_sandmound_season_autumn" ],
+    "fg": "t_sandmound",
+    "bg": ""
+  },
+  {
+    "id": "t_sandmound_season_winter",
+    "fg": "t_dirtmound_season_winter",
+    "bg": ""
+  }
+]

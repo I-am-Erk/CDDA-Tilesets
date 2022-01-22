@@ -1,0 +1,30 @@
+[
+  {"id": "t_grass",
+  "fg": [
+        { "weight": 12, "sprite": "t_grass_0"},
+        { "weight": 1, "sprite": "t_grass_1"}
+  ],
+  "bg": []
+  },
+  {"id": "t_grass_season_autumn",
+  "fg": [
+        { "weight": 12, "sprite": "t_grass_autumn_0"},
+        { "weight": 1, "sprite": "t_grass_autumn_1"}
+  ],
+  "bg": []
+  },
+  {"id": "t_grass_season_winter",
+  "fg": [
+        { "weight": 12, "sprite": "t_grass_winter_0"},
+        { "weight": 1, "sprite": "t_grass_winter_1"}
+  ],
+  "bg": []
+  },
+  {"id": "t_grass_season_summer",
+  "fg": [
+        { "weight": 12, "sprite": "t_grass_summer_0"},
+        { "weight": 1, "sprite": "t_grass_summer_1"}
+  ],
+  "bg": []
+  }
+]

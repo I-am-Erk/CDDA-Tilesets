@@ -1,0 +1,14 @@
+{
+  "id": "vp_xlframe_sw",
+  "fg": [
+    "vp_xlframe_sw"
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "broken", "fg": [ "broken_part_placeholder" ], "bg": [  ] }
+  ],
+  "bg": [
+    
+  ]
+}

@@ -1,0 +1,6 @@
+[
+    { "id": ["nachos", "nachoshc", "nachosmc", "nachoshf", "nachosc", "nachosm"], "fg": "nachos", "bg": [], "rotates": false },
+	{ "id": ["nachos_season_autumn", "nachoshc_season_autumn", "nachosmc_season_autumn", "nachoshf_season_autumn", "nachosc_season_autumn", "nachosm_season_autumn"], "fg": "nachos_autumn", "bg": [], "rotates": false },
+	{ "id": ["nachos_season_winter", "nachoshc_season_winter", "nachosmc_season_winter", "nachoshf_season_winter", "nachosc_season_winter", "nachosm_season_winter"], "fg": "nachos_winter", "bg": [], "rotates": false },
+	{ "id": ["nachos_season_summer", "nachoshc_season_summer", "nachosmc_season_summer", "nachoshf_season_summer", "nachosc_season_summer", "nachosm_season_summer"], "fg": "nachos_summer", "bg": [], "rotates": false }
+]

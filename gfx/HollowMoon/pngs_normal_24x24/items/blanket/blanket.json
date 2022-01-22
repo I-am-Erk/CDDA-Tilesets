@@ -1,0 +1,6 @@
+[
+    { "id": ["blanket", "emer_blanket", "fur_blanket", "down_blanket", "electric_blanket_on", "electric_blanket"], "fg": "blanket", "bg": [], "rotates": false },
+	{ "id": ["blanket_season_autumn", "emer_blanket_season_autumn", "fur_blanket_season_autumn", "down_blanket_season_autumn", "electric_blanket_on_season_autumn", "electric_blanket_season_autumn"], "fg": "blanket_autumn", "bg": [], "rotates": false },
+	{ "id": ["blanket_season_winter", "emer_blanket_season_winter", "fur_blanket_season_winter", "down_blanket_season_winter", "electric_blanket_on_season_winter", "electric_blanket_season_winter"], "fg": "blanket_winter", "bg": [], "rotates": false },
+	{ "id": ["blanket_season_summer", "emer_blanket_season_summer", "fur_blanket_season_summer", "down_blanket_season_summer", "electric_blanket_on_season_summer", "electric_blanket_season_summer"], "fg": "blanket_summer", "bg": [], "rotates": false }
+]

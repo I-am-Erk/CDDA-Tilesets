@@ -1,0 +1,8 @@
+[
+  {
+    "id": [ "bandages_makeshift", "bandages_makeshift_boiled" ],
+    "fg": [ "bandages_makeshift" ],
+    "rotates": false,
+    "bg": [  ]
+  }
+]

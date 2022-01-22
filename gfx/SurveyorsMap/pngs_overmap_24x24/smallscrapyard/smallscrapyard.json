@@ -1,0 +1,8 @@
+[
+  {
+    "id": [ "smallscrapyard" ],
+    "fg": [ "smallscrapyard_N", "smallscrapyard_E", "smallscrapyard_S", "smallscrapyard_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  }
+]

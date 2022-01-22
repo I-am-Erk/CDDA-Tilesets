@@ -1,0 +1,8 @@
+[
+  {
+    "id": [ "cs_market_small" ],
+    "fg": [ "cs_market_small_N", "cs_market_small_E", "cs_market_small_S", "cs_market_small_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  }
+]

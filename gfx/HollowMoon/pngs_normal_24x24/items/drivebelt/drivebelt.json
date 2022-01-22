@@ -1,0 +1,6 @@
+[
+    { "id": ["drivebelt", "drivebelt_makeshift"], "fg": "drivebelt", "bg": [], "rotates": false },
+	{ "id": ["drivebelt_season_autumn", "drivebelt_makeshift_season_autumn"], "fg": "drivebelt_autumn", "bg": [], "rotates": false },
+	{ "id": ["drivebelt_season_winter", "drivebelt_makeshift_season_winter"], "fg": "drivebelt_winter", "bg": [], "rotates": false },
+	{ "id": ["drivebelt_season_summer", "drivebelt_makeshift_season_summer"], "fg": "drivebelt_summer", "bg": [], "rotates": false }
+]

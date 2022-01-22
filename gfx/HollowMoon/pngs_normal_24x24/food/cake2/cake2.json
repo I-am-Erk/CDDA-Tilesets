@@ -1,0 +1,26 @@
+[
+  {
+    "id": [ "cake2", "space_cake", "sponge_cake" ],
+    "fg": "cake2",
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": [ "cake2_season_autumn", "space_cake_season_autumn", "sponge_cake_season_autumn" ],
+    "fg": "cake2_autumn",
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": [ "cake2_season_winter", "space_cake_season_winter", "sponge_cake_season_winter" ],
+    "fg": "cake2_winter",
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": [ "cake2_season_summer", "space_cake_season_summer", "sponge_cake_season_summer" ],
+    "fg": "cake2_summer",
+    "bg": [  ],
+    "rotates": false
+  }
+]

@@ -1,0 +1,1 @@
+{"id": ["vp_vehicle_scoop", "v_scoop_item"], "multitile": true, "fg": ["228_vp_vehicle_scoop_0", "229_vp_vehicle_scoop_1", "230_vp_vehicle_scoop_2", "231_vp_vehicle_scoop_3"], "additional_tiles": [{"id": "broken", "fg": ["235_vp_frame_cover_1"], "bg": []}], "bg": []}

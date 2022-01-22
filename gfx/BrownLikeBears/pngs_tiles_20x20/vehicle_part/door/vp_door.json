@@ -51,7 +51,12 @@
       },
       {
         "id": "broken",
-        "fg": [ "broken_overlay_tear_LrotW", "broken_overlay_tear_LrotS", "broken_overlay_tear_rearRotS", "broken_overlay_tear_LrotN" ],
+        "fg": [
+          "broken_overlay_tear_LrotW",
+          "broken_overlay_tear_LrotS",
+          "broken_overlay_tear_rearRotS",
+          "broken_overlay_tear_LrotN"
+        ],
         "bg": [ "vp_door_trunk", "vp_door_trunk_rotW", "vp_door_trunk_rotS", "vp_door_trunk_rotE" ]
       }
     ]
@@ -70,7 +75,12 @@
       },
       {
         "id": "broken",
-        "fg": [ "broken_overlay_tear_LrotW", "broken_overlay_tear_LrotS", "broken_overlay_tear_rearRotS", "broken_overlay_tear_LrotN" ],
+        "fg": [
+          "broken_overlay_tear_LrotW",
+          "broken_overlay_tear_LrotS",
+          "broken_overlay_tear_rearRotS",
+          "broken_overlay_tear_LrotN"
+        ],
         "bg": [ "vp_door_rear_rotN", "vp_door_rear_rotW", "vp_door_rear_rotS", "vp_door_rear_rotE" ]
       }
     ]
@@ -142,9 +152,33 @@
       },
       {
         "id": "broken",
-        "fg": [ "broken_overlay_tear_LrotW", "broken_overlay_tear_LrotS", "broken_overlay_tear_rearRotS", "broken_overlay_tear_LrotN" ],
+        "fg": [
+          "broken_overlay_tear_LrotW",
+          "broken_overlay_tear_LrotS",
+          "broken_overlay_tear_rearRotS",
+          "broken_overlay_tear_LrotN"
+        ],
         "bg": [ "vp_door_opaque_rear_rotN", "vp_door_opaque_rear_rotW", "vp_door_opaque_rear_rotS", "vp_door_opaque_rear_rotE" ]
       }
     ]
+  },
+  {
+    "id": [ "vp_door_internal", "vp_door", "vp_door_inboard" ],
+    "fg": [ "326_vp_door_0" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "open", "fg": [ "327_vp_door_1" ], "bg": [  ] }, { "id": "broken", "fg": [ "382_vp_door_trunk_2" ], "bg": [  ] } ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "vp_door_shutter", "vp_door_sliding" ],
+    "fg": [ "343_vp_door_trunk_0" ],
+    "rotates": false,
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "open", "fg": [ "327_vp_door_1" ], "bg": [  ] },
+      { "id": "broken", "fg": [ "382_vp_door_trunk_2" ], "bg": [  ] }
+    ],
+    "bg": [  ]
   }
 ]

@@ -1,0 +1,11 @@
+{
+  "id": "disassembly",
+  "animated": true,
+  "fg": [
+    { "weight": 15, "sprite": "disassembly" },
+    { "weight": 15, "sprite": "disassembly_1" }
+  ],
+  "bg": [
+    
+  ]
+}

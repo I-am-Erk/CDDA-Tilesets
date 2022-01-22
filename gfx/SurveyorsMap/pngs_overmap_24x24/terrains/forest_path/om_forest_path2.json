@@ -1,0 +1,52 @@
+{
+  "id": "forest_trail",
+  "fg": "om_forest_path2_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "om_forest_path2_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "om_forest_path2_corner_nw",
+        "om_forest_path2_corner_sw",
+        "om_forest_path2_corner_se",
+        "om_forest_path2_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "om_forest_path2_t_connection_n",
+        "om_forest_path2_t_connection_w",
+        "om_forest_path2_t_connection_s",
+        "om_forest_path2_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "om_forest_path2_edge_ns",
+        "om_forest_path2_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "om_forest_path2_end_piece_n",
+        "om_forest_path2_end_piece_w",
+        "om_forest_path2_end_piece_s",
+        "om_forest_path2_end_piece_e"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "om_forest_path2_unconnected",
+        "om_forest_path2_unconnected"
+      ]
+    }
+  ]
+}

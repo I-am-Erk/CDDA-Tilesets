@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "mortuary" ],
+    "fg": [ "mortuary_N", "mortuary_E", "mortuary_S", "mortuary_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "mortuary_roof" ],
+    "fg": [ "mortuary_roof_N", "mortuary_roof_E", "mortuary_roof_S", "mortuary_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

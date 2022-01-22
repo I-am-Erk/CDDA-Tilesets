@@ -1,0 +1,6 @@
+[
+    { "id": ["retool_22", "retool_flaregun", "retool_762", "retool_654", "retool_545", "retool_9mm", "retool_57", "retool_46", "retool_45", "retool_308", "retool_223"], "fg": "retool_22", "bg": [], "rotates": false },
+	{ "id": ["retool_22_season_autumn", "retool_flaregun_season_autumn", "retool_762_season_autumn", "retool_654_season_autumn", "retool_545_season_autumn", "retool_9mm_season_autumn", "retool_57_season_autumn", "retool_46_season_autumn", "retool_45_season_autumn", "retool_308_season_autumn", "retool_223_season_autumn"], "fg": "retool_22_autumn", "bg": [], "rotates": false },
+	{ "id": ["retool_22_season_winter", "retool_flaregun_season_winter", "retool_762_season_winter", "retool_654_season_winter", "retool_545_season_winter", "retool_9mm_season_winter", "retool_57_season_winter", "retool_46_season_winter", "retool_45_season_winter", "retool_308_season_winter", "retool_223_season_winter"], "fg": "retool_22_winter", "bg": [], "rotates": false },
+	{ "id": ["retool_22_season_summer", "retool_flaregun_season_summer", "retool_762_season_summer", "retool_654_season_summer", "retool_545_season_summer", "retool_9mm_season_summer", "retool_57_season_summer", "retool_46_season_summer", "retool_45_season_summer", "retool_308_season_summer", "retool_223_season_summer"], "fg": "retool_22_summer", "bg": [], "rotates": false }
+]

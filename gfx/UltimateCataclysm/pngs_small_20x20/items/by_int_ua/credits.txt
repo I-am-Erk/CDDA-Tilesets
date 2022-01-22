@@ -1,0 +1,2 @@
+microscope.png:
+Model by qubodup https://blendswap.com/blend/5703, recoloring, render and edits by int_ua

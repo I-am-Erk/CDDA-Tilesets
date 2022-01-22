@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "moonshine_still_1" ],
+    "fg": [ "moonshine_still_1_N", "moonshine_still_1_E", "moonshine_still_1_S", "moonshine_still_1_W" ],
+    "bg": [ "forest_center" ],
+    "rotates": true
+  },
+  {
+    "id": [ "moonshine_still_roof_1" ],
+    "fg": [ "moonshine_still_roof_1_N", "moonshine_still_roof_1_E", "moonshine_still_roof_1_S", "moonshine_still_roof_1_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

@@ -1,0 +1,6 @@
+[
+    { "id": ["sourdough_starter", "sourdough_young", "sourdough_split", "landough_calrisean"], "fg": "sourdough_starter", "bg": [], "rotates": false },
+	{ "id": ["sourdough_starter_season_autumn", "sourdough_young_season_autumn", "sourdough_split_season_autumn", "landough_calrisean_season_autumn"], "fg": "sourdough_starter_autumn", "bg": [], "rotates": false },
+	{ "id": ["sourdough_starter_season_winter", "sourdough_young_season_winter", "sourdough_split_season_winter", "landough_calrisean_season_winter"], "fg": "sourdough_starter_winter", "bg": [], "rotates": false },
+	{ "id": ["sourdough_starter_season_summer", "sourdough_young_season_summer", "sourdough_split_season_summer", "landough_calrisean_season_summer"], "fg": "sourdough_starter_summer", "bg": [], "rotates": false }
+]

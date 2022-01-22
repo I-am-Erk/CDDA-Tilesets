@@ -1,0 +1,6 @@
+[
+    { "id": ["i6_diesel", "v12_diesel", "v12_combustion", "v8_diesel", "v8_combustion", "v6_diesel", "v6_combustion", "v2_combustion"], "fg": "i6_diesel", "bg": [], "rotates": false },
+	{ "id": ["i6_diesel_season_autumn", "v12_diesel_season_autumn", "v12_combustion_season_autumn", "v8_diesel_season_autumn", "v8_combustion_season_autumn", "v6_diesel_season_autumn", "v6_combustion_season_autumn", "v2_combustion_season_autumn"], "fg": "i6_diesel_autumn", "bg": [], "rotates": false },
+	{ "id": ["i6_diesel_season_winter", "v12_diesel_season_winter", "v12_combustion_season_winter", "v8_diesel_season_winter", "v8_combustion_season_winter", "v6_diesel_season_winter", "v6_combustion_season_winter", "v2_combustion_season_winter"], "fg": "i6_diesel_winter", "bg": [], "rotates": false },
+	{ "id": ["i6_diesel_season_summer", "v12_diesel_season_summer", "v12_combustion_season_summer", "v8_diesel_season_summer", "v8_combustion_season_summer", "v6_diesel_season_summer", "v6_combustion_season_summer", "v2_combustion_season_summer"], "fg": "i6_diesel_summer", "bg": [], "rotates": false }
+]

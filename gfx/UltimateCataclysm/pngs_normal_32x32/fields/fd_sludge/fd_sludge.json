@@ -1,0 +1,55 @@
+{
+  "id": "fd_sludge",
+  "fg": "fd_sludge_3_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        {"weight": 1, "sprite": "fd_sludge_1_center"},
+        {"weight": 1, "sprite": "fd_sludge_2_center"},
+        {"weight": 1, "sprite": "fd_sludge_3_center"}
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        { "weight": 1, "sprite": [ "fd_sludge_1_corner_nw", "fd_sludge_1_corner_sw", "fd_sludge_1_corner_se", "fd_sludge_1_corner_ne" ] },
+        { "weight": 1, "sprite": [ "fd_sludge_2_corner_nw", "fd_sludge_2_corner_sw", "fd_sludge_2_corner_se", "fd_sludge_2_corner_ne" ] },
+        { "weight": 1, "sprite": [ "fd_sludge_3_corner_nw", "fd_sludge_3_corner_sw", "fd_sludge_3_corner_se", "fd_sludge_3_corner_ne" ] }
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        { "weight": 1, "sprite": [ "fd_sludge_1_t_connection_n", "fd_sludge_1_t_connection_w", "fd_sludge_1_t_connection_s", "fd_sludge_1_t_connection_e" ] },
+        { "weight": 1, "sprite": [ "fd_sludge_2_t_connection_n", "fd_sludge_2_t_connection_w", "fd_sludge_2_t_connection_s", "fd_sludge_2_t_connection_e" ] },
+        { "weight": 1, "sprite": [ "fd_sludge_3_t_connection_n", "fd_sludge_3_t_connection_w", "fd_sludge_3_t_connection_s", "fd_sludge_3_t_connection_e" ] }
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        { "weight": 1, "sprite": [ "fd_sludge_1_edge_ns", "fd_sludge_1_edge_ew" ] },
+        { "weight": 1, "sprite": [ "fd_sludge_2_edge_ns", "fd_sludge_2_edge_ew" ] },
+        { "weight": 1, "sprite": [ "fd_sludge_3_edge_ns", "fd_sludge_3_edge_ew" ] }
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        { "weight": 1, "sprite": [ "fd_sludge_1_end_piece_n", "fd_sludge_1_end_piece_w", "fd_sludge_1_end_piece_s", "fd_sludge_1_end_piece_e" ] },
+        { "weight": 1, "sprite": [ "fd_sludge_2_end_piece_n", "fd_sludge_2_end_piece_w", "fd_sludge_2_end_piece_s", "fd_sludge_2_end_piece_e" ] },
+        { "weight": 1, "sprite": [ "fd_sludge_3_end_piece_n", "fd_sludge_3_end_piece_w", "fd_sludge_3_end_piece_s", "fd_sludge_3_end_piece_e" ] }
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        {"weight": 1, "sprite": ["fd_sludge_1_unconnected", "fd_sludge_1_unconnected"]},
+        {"weight": 1, "sprite": ["fd_sludge_2_unconnected", "fd_sludge_2_unconnected"]},
+        {"weight": 1, "sprite": ["fd_sludge_3_unconnected", "fd_sludge_3_unconnected"]}
+      ]
+    }
+  ]
+}

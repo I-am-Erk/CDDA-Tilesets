@@ -1,0 +1,41 @@
+[{
+  "id": [
+    "cabin",
+    "cabin_1",
+    "cabin_2",
+    "cabin_3",
+    "cabin_4",
+    "cabin_5",
+    "cabin_6",
+    "cabin_7",
+    "cabin_lapin",
+    "bandit_cabin",
+    "cabin_isherwood",
+    "cabin_lake",
+    "lake_cabin_boathouse",
+    "cabin_strange",
+    "cabin_strange_b",
+    "riverside_dwelling"
+  ],
+  "fg": [ "cabin_faceN", "cabin_faceE", "cabin_faceS", "cabin_faceW" ],
+  "bg": "field",
+  "rotates": true
+},{
+  "id": [
+    "cabin_roof",
+    "cabin_roof_1",
+    "cabin_roof_2",
+    "cabin_roof_3",
+    "cabin_roof_4",
+    "cabin_roof_5",
+    "cabin_roof_6",
+    "cabin_roof_7",
+    "cabin_strange_roof",
+    "cabin_roof_lapin",
+    "cabin_lake_roof",
+    "lake_cabin_boathouse_roof"
+  ],
+  "fg": [ "cabin_faceN", "cabin_faceE", "cabin_faceS", "cabin_faceW" ],
+  "bg": "open_air",
+  "rotates": true
+}]

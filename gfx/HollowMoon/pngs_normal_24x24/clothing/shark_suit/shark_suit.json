@@ -1,0 +1,6 @@
+[
+    { "id": ["shark_suit", "shark_suit_faraday"], "fg": "shark_suit", "bg": [], "rotates": false },
+	{ "id": ["shark_suit_season_autumn", "shark_suit_faraday_season_autumn"], "fg": "shark_suit_autumn", "bg": [], "rotates": false },
+	{ "id": ["shark_suit_season_winter", "shark_suit_faraday_season_winter"], "fg": "shark_suit_winter", "bg": [], "rotates": false },
+	{ "id": ["shark_suit_season_summer", "shark_suit_faraday_season_summer"], "fg": "shark_suit_summer", "bg": [], "rotates": false }
+]

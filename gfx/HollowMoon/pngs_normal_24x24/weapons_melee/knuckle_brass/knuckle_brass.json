@@ -1,0 +1,6 @@
+[
+    { "id": ["knuckle_brass", "crt_knuckledusters", "knuckle_steel"], "fg": "knuckle_brass", "bg": [], "rotates": false },
+	{ "id": ["knuckle_brass_season_autumn", "crt_knuckledusters_season_autumn", "knuckle_steel_season_autumn"], "fg": "knuckle_brass_autumn", "bg": [], "rotates": false },
+	{ "id": ["knuckle_brass_season_winter", "crt_knuckledusters_season_winter", "knuckle_steel_season_winter"], "fg": "knuckle_brass_winter", "bg": [], "rotates": false },
+	{ "id": ["knuckle_brass_season_summer", "crt_knuckledusters_season_summer", "knuckle_steel_season_summer"], "fg": "knuckle_brass_summer", "bg": [], "rotates": false }
+]

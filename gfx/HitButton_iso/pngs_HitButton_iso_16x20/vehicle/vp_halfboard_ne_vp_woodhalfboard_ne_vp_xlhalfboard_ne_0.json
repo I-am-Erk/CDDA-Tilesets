@@ -1,0 +1,1 @@
+{"id": ["vp_halfboard_ne", "vp_woodhalfboard_ne", "vp_xlhalfboard_ne"], "multitile": true, "fg": ["107_vp_halfboard_nw_3", "104_vp_halfboard_nw_0", "105_vp_halfboard_nw_1", "106_vp_halfboard_nw_2"], "additional_tiles": [{"id": "broken", "fg": ["235_vp_frame_cover_1"], "bg": []}], "bg": []}

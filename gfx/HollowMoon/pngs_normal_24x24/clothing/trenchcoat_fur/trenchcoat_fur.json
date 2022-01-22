@@ -1,0 +1,6 @@
+[
+    { "id": ["trenchcoat_fur", "trenchcoat_faux_fur"], "fg": "trenchcoat_fur", "bg": [], "rotates": false },
+	{ "id": ["trenchcoat_fur_season_autumn", "trenchcoat_faux_fur_season_autumn"], "fg": "trenchcoat_fur_autumn", "bg": [], "rotates": false },
+	{ "id": ["trenchcoat_fur_season_winter", "trenchcoat_faux_fur_season_winter"], "fg": "trenchcoat_fur_winter", "bg": [], "rotates": false },
+	{ "id": ["trenchcoat_fur_season_summer", "trenchcoat_faux_fur_season_summer"], "fg": "trenchcoat_fur_summer", "bg": [], "rotates": false }
+]

@@ -1,0 +1,6 @@
+[
+    { "id": ["rag", "chloroform_rag"], "fg": "rag", "bg": [], "rotates": false },
+	{ "id": ["rag_season_autumn", "chloroform_rag_season_autumn"], "fg": "rag_autumn", "bg": [], "rotates": false },
+	{ "id": ["rag_season_winter", "chloroform_rag_season_winter"], "fg": "rag_winter", "bg": [], "rotates": false },
+	{ "id": ["rag_season_summer", "chloroform_rag_season_summer"], "fg": "rag_summer", "bg": [], "rotates": false }
+]

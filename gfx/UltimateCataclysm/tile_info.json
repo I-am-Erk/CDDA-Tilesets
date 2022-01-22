@@ -14,40 +14,46 @@
     "tall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32 }
   },
   {
-    "centered.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -16 }
+    "human_body.png": { "sprite_width": 32, "sprite_height": 36, "sprite_offset_y": -8 }
   },
   {
-    "large.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -32 }
+    "human_body_plus.png": { "sprite_width": 32, "sprite_height": 48, "sprite_offset_y": -16 }
   },
   {
-    "huge.png": { "sprite_width": 64, "sprite_height": 96, "sprite_offset_x": -16, "sprite_offset_y": -64  }
+    "centered.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -16, "sprites_across": 12 }
   },
   {
-    "giant.png": { "sprite_width": 96, "sprite_height": 96, "sprite_offset_x": -32, "sprite_offset_y": -64  }
+    "large.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -32, "sprites_across": 8 }
+  },
+  {
+    "large_ridden.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -27, "sprites_across": 3 }
+  },
+  {
+    "huge.png": { "sprite_width": 64, "sprite_height": 96, "sprite_offset_x": -16, "sprite_offset_y": -64, "sprites_across": 4  }
+  },
+  {
+    "giant.png": { "sprite_width": 96, "sprite_height": 96, "sprite_offset_x": -32, "sprite_offset_y": -64, "sprites_across": 4 }
   },
   {
     "incomplete.png": { "filler": true }
   },
   {
-    "incomplete_tall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true }
+    "incomplete_large.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -32, "filler": true, "sprites_across": 8 }
   },
   {
-    "incomplete_large.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -32, "filler": true }
-  },
-  {
-    "fillerhoder.png": { 
+    "fillerhoder.png": {
       "source": "https://github.com/CleverRaven/Cataclysm-DDA/tree/b2d1f9f6cf6fae9c5076d29f9779e0ca6c03c222/gfx/HoderTileset",
-      "filler": true 
+      "filler": true
     }
   },
   {
     "filler.png": { "sprite_width": 32, "sprite_height": 32, "filler": true  }
   },
   {
-    "filler_tall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true  }
+    "filler_tall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true, "sprites_across": 2 }
   },
   {
-    "fillergiant.png": { "sprite_width": 96, "sprite_height": 96, "sprite_offset_x": -32, "sprite_offset_y": -64, "filler": true  }
+    "fillergiant.png": { "sprite_width": 96, "sprite_height": 96, "sprite_offset_x": -32, "sprite_offset_y": -64, "filler": true, "sprites_across": 4  }
   },
   {
     "fallback.png": {

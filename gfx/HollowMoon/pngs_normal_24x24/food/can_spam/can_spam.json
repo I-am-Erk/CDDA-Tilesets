@@ -1,0 +1,6 @@
+[
+    { "id": ["can_spam", "debug_nutrition"], "fg": "can_spam", "bg": [], "rotates": false },
+	{ "id": ["can_spam_season_autumn", "debug_nutrition_season_autumn"], "fg": "can_spam_autumn", "bg": [], "rotates": false },
+	{ "id": ["can_spam_season_winter", "debug_nutrition_season_winter"], "fg": "can_spam_winter", "bg": [], "rotates": false },
+	{ "id": ["can_spam_season_summer", "debug_nutrition_season_summer"], "fg": "can_spam_summer", "bg": [], "rotates": false }
+]
