@@ -1,0 +1,86 @@
+{
+  "id": ["t_fungus_floor_in", "t_fungus_floor_sup", "t_fungus_floor_out"],
+  "fg": "tfa0_unconnected",
+  "bg": "t_thconc_floor_center",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "animated": true,
+      "bg": "t_thconc_floor_center",
+      "fg": [
+        { "weight": 512, "sprite": "tfa0_center" },
+        { "weight": 8,   "sprite": "tfa1_center" },
+        { "weight": 8,   "sprite": "tfa2_center" },
+        { "weight": 128, "sprite": "tfa3_center" },
+        { "weight": 8,   "sprite": "tfa4_center" },
+        { "weight": 8,   "sprite": "tfa1_center" }
+      ]
+    },
+    {
+      "id": "corner",
+      "animated": true,
+      "bg": "t_thconc_floor_center",
+      "fg": [
+        { "weight": 512, "sprite": [ "tfa0_corner_nw", "tfa0_corner_sw", "tfa0_corner_se", "tfa0_corner_ne" ] },
+        { "weight": 8,   "sprite": [ "tfa1_corner_nw", "tfa1_corner_sw", "tfa1_corner_se", "tfa1_corner_ne" ] },
+        { "weight": 8,   "sprite": [ "tfa2_corner_nw", "tfa2_corner_sw", "tfa2_corner_se", "tfa2_corner_ne" ] },
+        { "weight": 128, "sprite": [ "tfa3_corner_nw", "tfa3_corner_sw", "tfa3_corner_se", "tfa3_corner_ne" ] },
+        { "weight": 8,   "sprite": [ "tfa4_corner_nw", "tfa4_corner_sw", "tfa4_corner_se", "tfa4_corner_ne" ] },
+        { "weight": 8,   "sprite": [ "tfa1_corner_nw", "tfa1_corner_sw", "tfa1_corner_se", "tfa1_corner_ne" ] }
+      ]
+    },
+    {
+      "id": "t_connection",
+      "animated": true,
+      "bg": "t_thconc_floor_center",
+      "fg": [
+        { "weight": 512, "sprite": [ "tfa0_t_connection_n", "tfa0_t_connection_w", "tfa0_t_connection_s", "tfa0_t_connection_e" ] },
+        { "weight": 8,   "sprite": [ "tfa1_t_connection_n", "tfa1_t_connection_w", "tfa1_t_connection_s", "tfa1_t_connection_e" ] },
+        { "weight": 8,   "sprite": [ "tfa2_t_connection_n", "tfa2_t_connection_w", "tfa2_t_connection_s", "tfa2_t_connection_e" ] },
+        { "weight": 128, "sprite": [ "tfa3_t_connection_n", "tfa3_t_connection_w", "tfa3_t_connection_s", "tfa3_t_connection_e" ] },
+        { "weight": 8,   "sprite": [ "tfa4_t_connection_n", "tfa4_t_connection_w", "tfa4_t_connection_s", "tfa4_t_connection_e" ] },
+        { "weight": 8,   "sprite": [ "tfa1_t_connection_n", "tfa1_t_connection_w", "tfa1_t_connection_s", "tfa1_t_connection_e" ] }
+      ]
+    },
+    {
+      "id": "edge",
+      "animated": true,
+      "bg": "t_thconc_floor_center",
+      "fg": [
+        { "weight": 512, "sprite": [ "tfa0_edge_ns", "tfa0_edge_ew" ] },
+        { "weight": 8,   "sprite": [ "tfa1_edge_ns", "tfa1_edge_ew" ] },
+        { "weight": 8,   "sprite": [ "tfa2_edge_ns", "tfa2_edge_ew" ] },
+        { "weight": 128, "sprite": [ "tfa3_edge_ns", "tfa3_edge_ew" ] },
+        { "weight": 8,   "sprite": [ "tfa4_edge_ns", "tfa4_edge_ew" ] },
+        { "weight": 8,   "sprite": [ "tfa1_edge_ns", "tfa1_edge_ew" ] }
+      ]
+    },
+    {
+      "id": "end_piece",
+      "animated": true,
+      "bg": "t_thconc_floor_center",
+      "fg": [
+        { "weight": 512, "sprite": [ "tfa0_end_piece_n", "tfa0_end_piece_w", "tfa0_end_piece_s", "tfa0_end_piece_e" ] },
+        { "weight": 8,   "sprite": [ "tfa1_end_piece_n", "tfa1_end_piece_w", "tfa1_end_piece_s", "tfa1_end_piece_e" ] },
+        { "weight": 8,   "sprite": [ "tfa2_end_piece_n", "tfa2_end_piece_w", "tfa2_end_piece_s", "tfa2_end_piece_e" ] },
+        { "weight": 128, "sprite": [ "tfa3_end_piece_n", "tfa3_end_piece_w", "tfa3_end_piece_s", "tfa3_end_piece_e" ] },
+        { "weight": 8,   "sprite": [ "tfa4_end_piece_n", "tfa4_end_piece_w", "tfa4_end_piece_s", "tfa4_end_piece_e" ] },
+        { "weight": 8,   "sprite": [ "tfa1_end_piece_n", "tfa1_end_piece_w", "tfa1_end_piece_s", "tfa1_end_piece_e" ] }
+      ]
+    },
+    {
+      "id": "unconnected",
+      "animated": true,
+      "bg": "t_thconc_floor_center",
+      "fg": [
+        { "weight": 512, "sprite": [ "tfa0_unconnected", "tfa0_unconnected" ] },
+        { "weight": 8,   "sprite": [ "tfa1_unconnected", "tfa1_unconnected" ] },
+        { "weight": 8,   "sprite": [ "tfa2_unconnected", "tfa2_unconnected" ] },
+        { "weight": 128, "sprite": [ "tfa3_unconnected", "tfa3_unconnected" ] },
+        { "weight": 8,   "sprite": [ "tfa4_unconnected", "tfa4_unconnected" ] },
+        { "weight": 8,   "sprite": [ "tfa1_unconnected", "tfa1_unconnected" ] }
+      ]
+    }
+  ]
+}

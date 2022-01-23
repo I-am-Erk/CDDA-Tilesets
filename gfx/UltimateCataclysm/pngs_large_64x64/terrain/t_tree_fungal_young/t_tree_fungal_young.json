@@ -1,0 +1,25 @@
+[
+  {
+    "id": "t_tree_fungal_young",
+    "fg": "t_tree_fungal_young",
+    "bg": "fungal_bed_common"
+  },
+  {
+    "id": "t_tree_fungal_young_season_summer",
+    "fg": "t_tree_fungal_young",
+    "bg": "fungal_bed_common",
+    "rotates": false
+  },
+  {
+    "id": "t_tree_fungal_young_season_autumn",
+    "fg": "t_tree_fungal_young", 
+    "bg": "fungal_bed_common",
+    "rotates": false
+  },
+  {
+    "id": "t_tree_fungal_young_season_winter",
+    "fg": "t_tree_fungal_young",
+    "bg": "fungal_bed_winter",
+    "rotates": false
+  }
+]
