@@ -4,5 +4,11 @@
     "fg": [ "pool_5" ],
     "rotates": true,
     "bg": [  ]
+  },
+  {
+    "id": "pool",
+    "fg": [ "pool_north","pool_east","pool_south","pool_west" ],
+    "rotates": true,
+    "bg": [  ]
   }
 ]
