@@ -1,0 +1,46 @@
+[
+  {
+    "id": [ "t_tree_fungal", "t_tree_fungal_season_spring", "t_tree_fungal_season_summer", "t_tree_fungal_season_autumn" ],
+    "bg": [ "fungal_bed_96_common" ],
+    "fg": [
+      { "weight": 1, "sprite": "t_tree_fungal00" },
+      { "weight": 1, "sprite": "t_tree_fungal01" },
+      { "weight": 1, "sprite": "t_tree_fungal02" },
+      { "weight": 1, "sprite": "t_tree_fungal03" },
+      { "weight": 1, "sprite": "t_tree_fungal04" },
+      { "weight": 1, "sprite": "t_tree_fungal05" },
+      { "weight": 1, "sprite": "t_tree_fungal06" },
+      { "weight": 1, "sprite": "t_tree_fungal07" },
+      { "weight": 1, "sprite": "t_tree_fungal08" },
+      { "weight": 1, "sprite": "t_tree_fungal09" },
+      { "weight": 1, "sprite": "t_tree_fungal10" }
+    ]
+  },
+  {
+    "id": [ "t_tree_fungal_season_winter" ],
+    "bg": [ "fungal_bed_96_winter" ],
+    "fg": [
+      { "weight": 1, "sprite": "t_tree_fungal00" },
+      { "weight": 1, "sprite": "t_tree_fungal01" },
+      { "weight": 1, "sprite": "t_tree_fungal02" },
+      { "weight": 1, "sprite": "t_tree_fungal03" },
+      { "weight": 1, "sprite": "t_tree_fungal04" },
+      { "weight": 1, "sprite": "t_tree_fungal05" },
+      { "weight": 1, "sprite": "t_tree_fungal06" },
+      { "weight": 1, "sprite": "t_tree_fungal07" },
+      { "weight": 1, "sprite": "t_tree_fungal08" },
+      { "weight": 1, "sprite": "t_tree_fungal09" },
+      { "weight": 1, "sprite": "t_tree_fungal10" }
+    ]
+  },
+  {
+    "id": [ "t_marloss_tree", "t_marloss_tree_season_spring", "t_marloss_tree_season_summer", "t_marloss_tree_season_autumn" ],
+    "bg": [ "fungal_bed_96_common" ],
+    "fg": [ "marloss_tree" ]
+  },
+  {
+    "id": [ "t_marloss_tree_season_winter" ],
+    "bg": [ "fungal_bed_96_winter" ],
+    "fg": [ "marloss_tree" ]
+  }
+]
