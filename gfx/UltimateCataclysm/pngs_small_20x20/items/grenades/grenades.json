@@ -1,5 +1,13 @@
 [
   {
+    "id": [ "homemade_grenade_act", "small_homemade_grenade_act", "military_explosive_grenade_act", "military_explosive_small_grenade_act" ],
+    "animated": true,
+      "fg": [
+        { "weight": 8, "sprite": "flashbang_act0" },
+        { "weight": 8, "sprite": "flashbang_act1" }
+      ]
+  },
+  {
     "id": "flashbang_act",
     "animated": true,
       "fg": [
