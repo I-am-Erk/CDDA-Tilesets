@@ -1,66 +1,91 @@
 [
   {
+    "id": 
+    [ 
+      "grenade",
+      "homemade_grenade",
+      "small_homemade_grenade",
+      "military_explosive_grenade",
+      "military_explosive_small_grenade",
+      "sling-ready_grenade",
+      "sling-ready_homemade_grenade",
+      "sling-ready_small_homemade_grenade",
+      "sling-ready_homemade_grenade_2",
+      "sling-ready_small_homemade_grenade_2"
+    ],
+    "animated": false,
+    "fg": [ "grenade" ]
+  },
+  {
     "id": [ "homemade_grenade_act", "small_homemade_grenade_act", "military_explosive_grenade_act", "military_explosive_small_grenade_act" ],
     "animated": true,
-      "fg": [
-        { "weight": 8, "sprite": "flashbang_act0" },
-        { "weight": 8, "sprite": "flashbang_act1" }
-      ]
+    "fg": [
+      { "weight": 8, "sprite": "flashbang_act0" },
+      { "weight": 8, "sprite": "flashbang_act1" }
+    ]
   },
   {
     "id": "flashbang_act",
     "animated": true,
-      "fg": [
-        { "weight": 8, "sprite": "flashbang_act0" },
-        { "weight": 8, "sprite": "flashbang_act1" }
-      ]
+    "fg": [
+      { "weight": 8, "sprite": "flashbang_act0" },
+      { "weight": 8, "sprite": "flashbang_act1" }
+    ]
   },
   {
     "id": "pipebomb_act",
     "animated": true,
-      "fg": [
-        { "weight": 8, "sprite": "pipebomb_act0" },
-        { "weight": 8, "sprite": "pipebomb_act1" }
-      ]
+    "fg": [
+      { "weight": 8, "sprite": "pipebomb_act0" },
+      { "weight": 8, "sprite": "pipebomb_act1" }
+    ]
   },
   {
-    "id": "grenade_act",
+    "id": 
+    [ 
+      "grenade_act",
+      "sling-ready_grenade_act",
+      "sling-ready_homemade_grenade_act",
+      "sling-ready_small_homemade_grenade_act",
+      "sling-ready_homemade_grenade_2_act",
+      "sling-ready_small_homemade_grenade_2_act"
+    ],
     "animated": true,
-      "fg": [
-        { "weight": 8, "sprite": "grenade_act0" },
-        { "weight": 8, "sprite": "grenade_act1" }
-      ]
+    "fg": [
+      { "weight": 8, "sprite": "grenade_act0" },
+      { "weight": 8, "sprite": "grenade_act1" }
+    ]
   },
   {
     "id": "grenade_emp_act",
     "animated": true,
-      "fg": [
-        { "weight": 8, "sprite": "grenade_emp_act0" },
-        { "weight": 8, "sprite": "grenade_emp_act1" }
-      ]
+    "fg": [
+      { "weight": 8, "sprite": "grenade_emp_act0" },
+      { "weight": 8, "sprite": "grenade_emp_act1" }
+    ]
   },
   {
     "id": "grenade_inc_act",
     "animated": true,
-      "fg": [
-        { "weight": 8, "sprite": "grenade_inc_act0" },
-        { "weight": 8, "sprite": "grenade_inc_act1" }
-      ]
+    "fg": [
+      { "weight": 8, "sprite": "grenade_inc_act0" },
+      { "weight": 8, "sprite": "grenade_inc_act1" }
+    ]
   },
   {
     "id": "scrambler_act",
     "animated": true,
-      "fg": [
-        { "weight": 8, "sprite": "scrambler_act0" },
-        { "weight": 8, "sprite": "scrambler_act1" }
-      ]
+    "fg": [
+      { "weight": 8, "sprite": "scrambler_act0" },
+      { "weight": 8, "sprite": "scrambler_act1" }
+    ]
   },
   {
     "id": "smokebomb_act",
     "animated": true,
-      "fg": [
-        { "weight": 8, "sprite": "smokebomb_act0" },
-        { "weight": 8, "sprite": "smokebomb_act1" }
-      ]
+    "fg": [
+      { "weight": 8, "sprite": "smokebomb_act0" },
+      { "weight": 8, "sprite": "smokebomb_act1" }
+    ]
   }
 ]
