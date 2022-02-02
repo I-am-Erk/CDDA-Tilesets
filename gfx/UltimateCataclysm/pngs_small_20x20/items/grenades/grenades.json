@@ -13,12 +13,10 @@
       "sling-ready_homemade_grenade_2",
       "sling-ready_small_homemade_grenade_2"
     ],
-    "animated": false,
     "fg": [ "grenade" ]
   },
   {
     "id": [ "molotov", "sling-ready_molotov" ],
-    "animated": true,
     "fg": [ "molotov" ]
   },
   {
