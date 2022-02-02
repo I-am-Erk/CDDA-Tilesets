@@ -17,6 +17,21 @@
     "fg": [ "grenade" ]
   },
   {
+    "id": [ "molotov", "sling-ready_molotov" ],
+    "animated": true,
+    "fg": [ "molotov" ]
+  },
+  {
+    "id": [ "molotov_lit", "sling-ready_molotov_lit" ],
+    "animated": true,
+    "fg": [
+      { "weight": 8, "sprite": "molotov_act0" },
+      { "weight": 8, "sprite": "molotov_act1" },
+      { "weight": 8, "sprite": "molotov_act2" },
+      { "weight": 8, "sprite": "molotov_act3" }
+    ]
+  },
+  {
     "id": [ "homemade_grenade_act", "small_homemade_grenade_act", "military_explosive_grenade_act", "military_explosive_small_grenade_act" ],
     "animated": true,
     "fg": [
