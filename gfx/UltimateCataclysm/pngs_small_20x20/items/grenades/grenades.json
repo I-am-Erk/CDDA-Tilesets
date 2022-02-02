@@ -87,5 +87,13 @@
       { "weight": 8, "sprite": "smokebomb_act0" },
       { "weight": 8, "sprite": "smokebomb_act1" }
     ]
+  },
+  {
+    "id": "dynamite_act",
+    "animated": true,
+    "fg": [
+      { "weight": 8, "sprite": "dynamite_act0" },
+      { "weight": 8, "sprite": "dynamite_act1" }
+    ]
   }
 ]
