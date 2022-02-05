@@ -1,0 +1,10 @@
+[
+  {
+    "id": "t_linoleum_white",
+    "fg": [
+      { "weight": 10, "sprite": "t_linoleum_white" },
+      { "weight": 1, "sprite": "t_linoleum_white_2" },
+      { "weight": 3, "sprite": "t_linoleum_white_3" }
+    ]
+  }
+]
