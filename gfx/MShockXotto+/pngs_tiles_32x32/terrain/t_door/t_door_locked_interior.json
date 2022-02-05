@@ -1,0 +1,13 @@
+{
+  "id": [
+    "t_door_locked_interior",
+    "t_door_locked_alarm"
+  ],
+  "fg": [
+    "t_door_locked_interior"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}
