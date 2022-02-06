@@ -1,0 +1,42 @@
+[
+  {
+    "id": [ "overlay_worn_glasses_bifocal", "overlay_worn_fancy_glasses_bifocal", "overlay_worn_fancy_sunglasses" ],
+    "fg": "overlay_worn_glasses_bifocal",
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "overlay_worn_fancy_transition_glasses_eye",
+      "overlay_worn_fancy_transition_glasses_bifocal",
+      "overlay_worn_fancy_transition_glasses_reading"
+    ],
+    "fg": "overlay_worn_fancy_transition_glasses_eye",
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "overlay_worn_glasses_eye",
+      "overlay_worn_glasses_reading"
+    ],
+    "fg": "overlay_worn_glasses_eye",
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "overlay_worn_sunglasses",
+      "overlay_worn_sunglasses_bifocal",
+      "overlay_worn_sunglasses_eye",
+      "overlay_worn_sunglasses_reading"
+    ],
+    "fg": "overlay_worn_sunglasses",
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "overlay_worn_transition_glasses_eye",
+      "overlay_worn_transition_glasses_bifocal"
+    ],
+    "fg": "overlay_worn_transition_glasses_eye",
+    "bg": [  ]
+  }
+]
