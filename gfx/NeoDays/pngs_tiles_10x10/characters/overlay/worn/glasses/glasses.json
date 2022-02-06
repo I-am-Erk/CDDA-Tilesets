@@ -12,5 +12,21 @@
     ],
     "fg": "overlay_worn_fancy_transition_glasses_eye",
     "bg": [  ]
+  },
+  {
+    "id": [
+      "overlay_worn_glasses_eye",
+      "overlay_worn_glasses_reading"
+    ],
+    "fg": "overlay_worn_glasses_eye",
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "overlay_worn_sunglasses",
+      "overlay_worn_sunglasses_bifocal"
+    ],
+    "fg": "overlay_worn_sunglasses",
+    "bg": [  ]
   }
 ]
