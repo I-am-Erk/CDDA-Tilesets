@@ -1,0 +1,11 @@
+[
+  {
+    "id": "t_thconc_floor",
+    "fg": [
+      { "weight": 1, "sprite": "t_thconc_floor" },
+      { "weight": 1, "sprite": "t_thconc_floor_1" },
+      { "weight": 1, "sprite": "t_thconc_floor_2" },
+      { "weight": 1, "sprite": "t_thconc_floor_3" }
+    ]
+  }
+]
