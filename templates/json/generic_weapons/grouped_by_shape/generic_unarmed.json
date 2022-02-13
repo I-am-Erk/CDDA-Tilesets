@@ -1,0 +1,34 @@
+[
+  {
+    "id": [
+      "cestus",
+      "knuckle_brass",
+      "knuckle_nail",
+      "knuckle_steel",
+      "knuckle_steel_forged",
+      "gloves_studded",
+      "knuckle_impact",
+      "knuckle_skewer",
+      "punch_dagger",
+      "knuckle_katar",
+      "bagh_nakha"
+    ],
+    "fd": "generic_unarmed"
+  },
+  {
+    "id": [
+      "overlay_wielded_cestus",
+      "overlay_wielded_knuckle_brass",
+      "overlay_wielded_knuckle_nail",
+      "overlay_wielded_knuckle_steel",
+      "overlay_wielded_knuckle_steel_forged",
+      "overlay_wielded_gloves_studded",
+      "overlay_wielded_knuckle_impact",
+      "overlay_wielded_knuckle_skewer",
+      "overlay_wielded_punch_dagger",
+      "overlay_wielded_knuckle_katar",
+      "overlay_wielded_bagh_nakha"
+    ],
+    "fd": "overlay_wielded_generic_unarmed"
+  }
+]
