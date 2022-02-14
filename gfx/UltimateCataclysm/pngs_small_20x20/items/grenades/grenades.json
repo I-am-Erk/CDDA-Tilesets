@@ -54,6 +54,14 @@
     ]
   },
   {
+    "id": [ "EMPbomb_act" ],
+    "animated": true,
+    "fg": [
+      { "weight": 8, "sprite": "EMPbomb_act0" },
+      { "weight": 8, "sprite": "EMPbomb_act1" }
+    ]
+  },
+  {
     "id": "flashbang_act",
     "animated": true,
     "fg": [
