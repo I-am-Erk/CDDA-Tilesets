@@ -46,6 +46,14 @@
     ]
   },
   {
+    "id": [ "dynamite_bomb_act" ],
+    "animated": true,
+    "fg": [
+      { "weight": 8, "sprite": "dynamite_bomb_act0" },
+      { "weight": 8, "sprite": "dynamite_bomb_act1" }
+    ]
+  },
+  {
     "id": "flashbang_act",
     "animated": true,
     "fg": [
