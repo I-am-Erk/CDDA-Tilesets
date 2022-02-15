@@ -1,6 +1,6 @@
 [
   {
-    "id": [ "30gal_firebarrel" ],
+    "id": [ "30gal_firebarrel_fd_fire" ],
     "animated": true,
     "fg": [
       { "weight": 8, "sprite": "30gal_firebarrel0" },

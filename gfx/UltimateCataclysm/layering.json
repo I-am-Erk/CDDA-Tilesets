@@ -119,6 +119,15 @@
         "layer": 90
       }
     ]
+  },
+  {
+    "context": "f_30gal_firebarrel",
+    "field_variants": [
+      {
+        "field": "fd_fire",
+        "sprite": [{"id": "30gal_firebarrel_fd_fire", "weight": 1}]
+      }
+    ]
   }
 ]
 }
