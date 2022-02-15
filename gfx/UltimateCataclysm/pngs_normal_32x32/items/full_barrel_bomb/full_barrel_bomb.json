@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "full_barrel_bomb", "military_explosive_full_barrel_bomb" ],
+    "fg": [ "full_barrel_bomb" ]
+  },
+  {
+    "id": [ "full_barrel_bomb_act", "military_explosive_full_barrel_bomb_act"  ],
+    "animated": true,
+    "fg": [
+      { "weight": 8, "sprite": "full_barrel_bomb_act0" },
+      { "weight": 8, "sprite": "full_barrel_bomb_act1" }
+    ]
+  }
+]
