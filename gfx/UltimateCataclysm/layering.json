@@ -125,7 +125,7 @@
     "field_variants": [
       {
         "field": "fd_fire",
-        "sprite": [{"id": "f_30gal_firebarrel_fd_fire", "weight": 1}]
+        "sprite": [{"id": "f_30gal_firebarrel_fd_fire", "weight": 2}]
       }
     ]
   }
