@@ -126,7 +126,6 @@
       {
         "field": "fd_fire",
         "sprite": [{"id": "f_30gal_firebarrel_fd_fire", "weight": 2}],
-        "layer": 90
       },
       {
         "field": "fd_smoke",
