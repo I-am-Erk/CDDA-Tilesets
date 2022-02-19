@@ -130,7 +130,6 @@
       {
         "field": "fd_smoke",
         "sprite": [{"id": "fd_smoke_overlay", "weight":2}],
-        "layer": 100
       }
     ]
   },
