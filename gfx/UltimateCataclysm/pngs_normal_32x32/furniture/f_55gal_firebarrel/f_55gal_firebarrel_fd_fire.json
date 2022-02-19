@@ -1,0 +1,15 @@
+[
+  {
+    "id": [ "f_55gal_firebarrel_fd_fire" ],
+    "animated": true,
+    "fg": [
+      { "weight": 8, "sprite": "55gal_firebarrel0" },
+      { "weight": 8, "sprite": "55gal_firebarrel1" },
+      { "weight": 8, "sprite": "55gal_firebarrel2" },
+      { "weight": 8, "sprite": "55gal_firebarrel3" },
+      { "weight": 8, "sprite": "55gal_firebarrel4" },
+      { "weight": 8, "sprite": "55gal_firebarrel5" },
+      { "weight": 8, "sprite": "55gal_firebarrel6" }
+    ]
+  }
+]
