@@ -1,0 +1,18 @@
+[
+  {
+    "id": [ "fd_smoke_overlay" ],
+    "animated": true,
+    "fg": [
+      { "weight": 8, "sprite": "smoke0" },
+      { "weight": 8, "sprite": "smoke1" },
+      { "weight": 8, "sprite": "smoke2" },
+      { "weight": 8, "sprite": "smoke3" },
+      { "weight": 8, "sprite": "smoke4" },
+      { "weight": 8, "sprite": "smoke5" },
+      { "weight": 8, "sprite": "smoke6" },
+      { "weight": 8, "sprite": "smoke7" },
+      { "weight": 8, "sprite": "smoke8" },
+      { "weight": 8, "sprite": "smoke9" }
+    ]
+  }
+]
