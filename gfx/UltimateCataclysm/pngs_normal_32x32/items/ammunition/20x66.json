@@ -1,0 +1,57 @@
+[
+  {
+    "id": [ "20x66_shot" ],
+    "bg": [ "20x66_b" ],
+    "fg": [ "20x66_f_shot" ]
+  },
+  {
+    "id": [ "20x66_bootleg_shot" ],
+    "bg": [ "20x66_b" ],
+    "fg": [ "20x66_f_shot_hm" ]
+  },
+  {
+    "id": [ "20x66_slug" ],
+    "bg": [ "20x66_b" ],
+    "fg": [ "20x66_f_slug" ]
+  },
+  {
+    "id": [ "20x66_bootleg_slug" ],
+    "bg": [ "20x66_b" ],
+    "fg": [ "20x66_f_slug_hm" ]
+  },
+  {
+    "id": [ "20x66_flechette" ],
+    "bg": [ "20x66_b" ],
+    "fg": [ "20x66_f_flechette" ]
+  },
+  {
+    "id": [ "20x66_bootleg_flechette" ],
+    "bg": [ "20x66_b" ],
+    "fg": [ "20x66_f_flechette_hm" ]
+  },
+  {
+    "id": [ "20x66_beanbag" ],
+    "bg": [ "20x66_b" ],
+    "fg": [ "20x66_f_beanbag" ]
+  },
+  {
+    "id": [ "20x66_exp" ],
+    "bg": [ "20x66_b" ],
+    "fg": [ "20x66_f_explosive" ]
+  },
+  {
+    "id": [ "20x66_flare" ],
+    "bg": [ "20x66_b" ],
+    "fg": [ "20x66_f_flare" ]
+  },
+  {
+    "id": [ "20x66_frag" ],
+    "bg": [ "20x66_b" ],
+    "fg": [ "20x66_f_frag" ]
+  },
+  {
+    "id": [ "20x66_inc" ],
+    "bg": [ "20x66_b" ],
+    "fg": [ "20x66_f_inc" ]
+  }
+]
