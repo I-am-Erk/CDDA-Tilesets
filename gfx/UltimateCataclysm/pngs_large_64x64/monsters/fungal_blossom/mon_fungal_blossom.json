@@ -1,5 +1,15 @@
 {
   "id": "mon_fungal_blossom",
-  "fg": "mon_fungal_blossom",
+  "animated": true,
+    "fg": [
+      { "weight": 128, "sprite": "mon_fungal_blossom0" },
+      { "weight": 8, "sprite": "mon_fungal_blossom1" },
+      { "weight": 8, "sprite": "mon_fungal_blossom2" },
+      { "weight": 8, "sprite": "mon_fungal_blossom3" },
+      { "weight": 8, "sprite": "mon_fungal_blossom4" },
+      { "weight": 8, "sprite": "mon_fungal_blossom5" },
+      { "weight": 8, "sprite": "mon_fungal_blossom6" },
+      { "weight": 8, "sprite": "mon_fungal_blossom7" }
+    ],
   "bg": "shadow_64x64_medium"
 }

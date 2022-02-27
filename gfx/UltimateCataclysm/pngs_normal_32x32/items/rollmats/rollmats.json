@@ -4,7 +4,7 @@
     "fg": "fur_rollmat"
   },
   {
-    "id": ["rollmat", "tent_kit", "large_tent_kit"],
+    "id": ["rollmat"],
     "fg": "rollmat"
   }
 ]
