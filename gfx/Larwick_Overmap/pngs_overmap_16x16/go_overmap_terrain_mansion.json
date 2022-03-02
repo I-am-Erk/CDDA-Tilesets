@@ -1,0 +1,210 @@
+[
+  {
+    "id": "mansion_white_no_sidewalk",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "generic_mansion",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_c1",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_c2",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_c3",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_c4",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_c5",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_c1u",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_c2u",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_c3u",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_c4u",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_c5u",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_c1d",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_c2d",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_c3d",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_c4d",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_c5d",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_+1",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_+2",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_+3",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_+4",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_+1u",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_+2u",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_+3u",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_+4u",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_+1d",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_+2d",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_+4d",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_t1",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_t2",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_t4",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_t5",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_t6",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_t7",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_t1u",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_t2u",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_t4u",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_t5u",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_t6u",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_t7u",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_t1d",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_t2d",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_t4d",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_t5d",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_t6d",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_t7d",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_e1",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_e2",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_e1u",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_e2u",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_e1d",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "mansion_e2d",
+    "fg": "mansion_white"
+  }
+]

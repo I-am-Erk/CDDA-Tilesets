@@ -1,0 +1,226 @@
+[
+  {
+    "id": "robofachq_roof_a0",
+    "fg": "open_air_blue"
+  },
+  {
+    "id": "robofachq_roof_a1",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_roof_a2",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_roof_a3",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_surface_parking",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "robofachq_surface_entrance",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_surface_car_entrance",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "robofachq_surface_a3",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_surface_b0",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_surface_b1",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_surface_b2",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_surface_b3",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_exe_a0",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_exe_a1",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_exe_a2",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_exe_a3",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_exe_b0",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_exe_b1",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_exe_b2",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_exe_b3",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_hab_a0",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_hab_a1",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_hab_a2",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_hab_a3",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_hab_b0",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_hab_b1",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_hab_b2",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_hab_b3",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_sub_a0",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_sub_a1",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_sub_a2",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_sub_a3",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_res_a0",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_res_a1",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_res_a2",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_res_a3",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_res_b0",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_res_b1",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_res_b2",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_res_b3",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_ai_a0",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_ai_a1",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_ai_a2",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_ai_a3",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_ai_b0",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_ai_b1",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_ai_b2",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_ai_b3",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_aiutl_a0",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_aiutl_a1",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_aiutl_a2",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_aiutl_a3",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_aiutl_b0",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_aiutl_b1",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_aiutl_b2",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "robofachq_aiutl_b3",
+    "fg": "bunker_light_blue"
+  }
+]

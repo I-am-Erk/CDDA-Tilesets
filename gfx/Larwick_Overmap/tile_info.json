@@ -1,0 +1,16 @@
+[
+  {
+    "pixelscale": 1,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "overmap.png": {  }
+  },
+  {
+    "fallback.png": {
+      "source": "https://github.com/Chezzo/Cataclysm-DDA/blob/0ca0b5307f1b2fab7edb5519a3176e1d887087a7/gfx/ChestHole32Tileset/fallback.png",
+      "fallback": true
+    }
+  }
+]

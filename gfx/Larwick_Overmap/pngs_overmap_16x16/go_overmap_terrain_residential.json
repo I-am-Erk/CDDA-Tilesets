@@ -1,0 +1,1198 @@
+[
+  {
+    "id": "generic_city_house_basement",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "basement",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "basement_bionic",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "basement_hidden_lab_stairs",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_wooded",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_prepper",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_prepper2",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_prepper2_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_fortified",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_fortified_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "duplex",
+    "fg": "duplex_light_gray"
+  },
+  {
+    "id": "duplex_roof",
+    "fg": "duplex_light_gray"
+  },
+  {
+    "id": "house_duplex2",
+    "fg": "duplex_light_gray"
+  },
+  {
+    "id": "house_duplex2_roof",
+    "fg": "duplex_light_gray"
+  },
+  {
+    "id": "house_duplex3",
+    "fg": "duplex_light_gray"
+  },
+  {
+    "id": "house_duplex3_roof",
+    "fg": "duplex_light_gray"
+  },
+  {
+    "id": "house_duplex4",
+    "fg": "duplex_light_gray"
+  },
+  {
+    "id": "house_duplex4_roof",
+    "fg": "duplex_light_gray"
+  },
+  {
+    "id": "house_duplex5",
+    "fg": "duplex_light_gray"
+  },
+  {
+    "id": "house_duplex5_roof",
+    "fg": "duplex_light_gray"
+  },
+  {
+    "id": "house_duplex6",
+    "fg": "duplex_light_gray"
+  },
+  {
+    "id": "house_duplex6_roof",
+    "fg": "duplex_light_gray"
+  },
+  {
+    "id": "house_duplex7",
+    "fg": "duplex_light_gray"
+  },
+  {
+    "id": "house_duplex7_roof",
+    "fg": "duplex_light_gray"
+  },
+  {
+    "id": "house_duplex8",
+    "fg": "duplex_light_gray"
+  },
+  {
+    "id": "house_duplex8_roof",
+    "fg": "duplex_light_gray"
+  },
+  {
+    "id": "house_duplex9",
+    "fg": "duplex_light_gray"
+  },
+  {
+    "id": "house_duplex9_roof",
+    "fg": "duplex_light_gray"
+  },
+  {
+    "id": "house_duplex10",
+    "fg": "duplex_light_gray"
+  },
+  {
+    "id": "house_duplex10_roof",
+    "fg": "duplex_light_gray"
+  },
+  {
+    "id": "house_duplex11",
+    "fg": "duplex_light_gray"
+  },
+  {
+    "id": "house_duplex11_roof",
+    "fg": "duplex_light_gray"
+  },
+  {
+    "id": "rural_house1",
+    "fg": "cabin_light_gray"
+  },
+  {
+    "id": "rural_house1_roof",
+    "fg": "cabin_light_gray"
+  },
+  {
+    "id": "rural_house2",
+    "fg": "cabin_light_gray"
+  },
+  {
+    "id": "rural_house2_roof",
+    "fg": "cabin_light_gray"
+  },
+  {
+    "id": "apartments_tower_any",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "apartments_con_tower_110",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "apartments_con_tower_010",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "apartments_con_tower_100",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "apartments_con_tower_000",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "apartments_con_tower_111",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "apartments_con_tower_011",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "apartments_con_tower_101",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "apartments_con_tower_001",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "apartments_con_tower_113",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "apartments_con_tower_013",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "apartments_con_tower_112",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "apartments_con_tower_012",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "apartments_con_tower_102",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "apartments_con_tower_002",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "apartments_con_tower_114",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "apartments_con_tower_014",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "apartments_con_tower_015",
+    "fg": "open_air_blue"
+  },
+  {
+    "id": "apartments_con_tower_104",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "apartments_con_tower_004",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "apartments_mod_tower_110",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "apartments_mod_tower_010",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "apartments_mod_tower_100",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "apartments_mod_tower_000",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "apartments_mod_tower_111",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "apartments_mod_tower_011",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "apartments_mod_tower_101",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "apartments_mod_tower_001",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "apartments_mod_tower_112",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "apartments_mod_tower_012",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "apartments_mod_tower_113",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "apartments_mod_tower_013",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "apartments_mod_tower_103",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "apartments_mod_tower_003",
+    "fg": "tower_light_green"
+  },
+  {
+    "id": "homelesscamp",
+    "fg": "tent_brown"
+  },
+  {
+    "id": "trailerpark_greensmall0",
+    "fg": "trailer_white"
+  },
+  {
+    "id": "trailerpark_greensmall0_roof",
+    "fg": "trailer_white"
+  },
+  {
+    "id": "trailerpark_greensmall1",
+    "fg": "trailer_white"
+  },
+  {
+    "id": "trailerpark_greensmall1_roof",
+    "fg": "trailer_white"
+  },
+  {
+    "id": "trailerpark_greensmall2",
+    "fg": "trailer_white"
+  },
+  {
+    "id": "trailerpark_greensmall2_roof",
+    "fg": "trailer_white"
+  },
+  {
+    "id": "house_01",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_01_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_02",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_02_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_03",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_03_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_04",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_04_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_04_basement",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_05_basement",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_05ab_basement",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_06",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_07",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_08",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_08_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_09",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_09_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_10",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_10_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_w_2",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_w_2_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_w_3",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_w_3_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_w_4",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_w_4_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_w_5",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_w_5_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_w_6",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_w_6_2ndfloor",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_w_6_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "emptyresidentiallot",
+    "fg": "square_dark_gray"
+  },
+  {
+    "id": "derelict_property",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_2story_base",
+    "fg": "big_house_light_gray"
+  },
+  {
+    "id": "house_2story_second",
+    "fg": "big_house_light_gray"
+  },
+  {
+    "id": "house_2story_roof",
+    "fg": "big_house_light_gray"
+  },
+  {
+    "id": "house_inner_garden",
+    "fg": "park_green"
+  },
+  {
+    "id": "house_inner_garden_roof",
+    "fg": "park_green"
+  },
+  {
+    "id": "house_w_1",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_w_1_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_11",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_11_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_12",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_12_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_13",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_13_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_14",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_14_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_15",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_15_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_16",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_16_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_17",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_17_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_18",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_18_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_19",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_19_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_20",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_20_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_21",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_21_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_22",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_22_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_23",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_23_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_24",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_24_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_25",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_25_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_26",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_26_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_27",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_27_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_28",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_28_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_29",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_29_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_30",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_30_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_31",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_31_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_32",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_32_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_33",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_33_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_34",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_34_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_35",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_35_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_36",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_36_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_37",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_37_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_38",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_38_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_39",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_39_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_40",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_40_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_41",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_41_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_42",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_42_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_vacant",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_vacant2",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_toolshed",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_toolshed_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_quiverfull",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_suicide",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_suicide_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_05",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_05ab",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_rv",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_rv_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_porch",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_porch_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_patio",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_patio_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_library",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_modern_1",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_modern_1_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_dogs",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_dogs_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_gardener",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_gardener_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_garage",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_garage_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_garage2",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_garage2_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_garage3",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_garage3_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_garage4",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_garage4_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_garage5",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_garage5_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_garage6",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_garage6_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_garage7",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_garage7_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_garage8",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_garage8_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "garden_house_1_floor_1",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "garden_house_1_floor_2",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "garden_house_1_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "garden_house_1_basement",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_detatched1",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_detatched1_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_detatched2",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_detatched2_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_detatched3",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_detatched3_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_detatched4",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_detatched4_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_detatched5",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_detatched5_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_detatched6",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_detatched6_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_detatched7",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_detatched7_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_detatched8",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_detatched8_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_detatched9",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_detatched9_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_detatched10",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_detatched10_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_crack1",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_crack1_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_crack2",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_crack3",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "house_crack3_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "2storyModern01_basement",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "2storyModern01_first",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "2storyModern01_second",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "2storyModern01_roof",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_1_1",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_1_2",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_1_3",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_1_4",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_1_1_basement",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_1_2_basement",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_1_6",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_4_1",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_4_2",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_4_3",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_4_4",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_4_5",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_4_6",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_4_7",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_4_8",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_5_1",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_5_2",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_5_3",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_5_4",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_5_5",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_5_6",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_5_1_basement",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_5_2_basement",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_6_1",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_6_2",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_6_3",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_6_4",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_6_5",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_6_6",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_6_1_basement",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_6_2_basement",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_2_1",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_2_2",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_2_3",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_2_4",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_2_5",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_2_6",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_2_1_basement",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_2_2_basement",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_3_1",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_3_2",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_3_3",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_3_4",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_3_5",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_3_6",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_3_1_basement",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "urban_3_2_basement",
+    "fg": "house_light_gray"
+  }
+]

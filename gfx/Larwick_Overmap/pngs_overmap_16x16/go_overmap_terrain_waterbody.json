@@ -1,0 +1,11 @@
+[
+  {
+    "id": "lake_shore",
+    "fg": "water_light_blue"
+  },
+  {
+
+    "id": "lake_surface",
+    "fg": "water_blue"
+  }
+]

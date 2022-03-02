@@ -1,0 +1,486 @@
+[
+  {
+    "id": "public_works_NE",
+    "fg": "industry_light_gray"
+  },
+  {
+    "id": "public_works_NE_roof",
+    "fg": "industry_light_gray"
+  },
+  {
+    "id": "public_works_NW",
+    "fg": "industry_light_gray"
+  },
+  {
+    "id": "public_works_NW_roof",
+    "fg": "industry_light_gray"
+  },
+  {
+    "id": "public_works_SW",
+    "fg": "industry_light_gray"
+  },
+  {
+    "id": "public_works_SW_roof",
+    "fg": "industry_light_gray"
+  },
+  {
+    "id": "public_works_SE",
+    "fg": "industry_light_gray"
+  },
+  {
+    "id": "public_works_SE_roof",
+    "fg": "industry_light_gray"
+  },
+  {
+    "id": "sai",
+    "fg": "garage_light_cyan"
+  },
+  {
+    "id": "pwr_sub_s",
+    "fg": "garage_light_cyan"
+  },
+  {
+    "id": "pwr_sub_s_roof",
+    "fg": "garage_light_cyan"
+  },
+  {
+    "id": "pwr_large_entrance",
+    "fg": "industry_cyan"
+  },
+  {
+    "id": "pwr_large_entrance_roof",
+    "fg": "industry_cyan"
+  },
+  {
+    "id": "pwr_large_2",
+    "fg": "silo_cyan"
+  },
+  {
+    "id": "silo_cyan_roof",
+    "fg": "silo_cyan"
+  },
+  {
+    "id": "pwr_large_3",
+    "fg": "silo_cyan"
+  },
+  {
+    "id": "pwr_large_4",
+    "fg": "silo_cyan"
+  },
+  {
+    "id": "warehouse",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "warehouse_roof",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "small_storage_units",
+    "fg": "garage_yellow"
+  },
+  {
+    "id": "small_storage_units_roof",
+    "fg": "garage_yellow"
+  },
+  {
+    "id": "small_storage_units_1",
+    "fg": "garage_yellow"
+  },
+  {
+    "id": "small_storage_units_roof_1",
+    "fg": "garage_yellow"
+  },
+  {
+    "id": "lumberyard_0_0",
+    "fg": "square_brown"
+  },
+  {
+    "id": "lumberyard_0_1",
+    "fg": "square_brown"
+  },
+  {
+    "id": "lumberyard_1_0",
+    "fg": "square_brown"
+  },
+  {
+    "id": "lumberyard_1_1",
+    "fg": "square_brown"
+  },
+  {
+    "id": "lumberyard_0_0_roof",
+    "fg": "square_brown"
+  },
+  {
+    "id": "lumberyard_0_1_roof",
+    "fg": "square_brown"
+  },
+  {
+    "id": "lumberyard_1_0_roof",
+    "fg": "square_brown"
+  },
+  {
+    "id": "lumberyard_1_1_roof",
+    "fg": "square_brown"
+  },
+  {
+    "id": "lumbermill_0_0",
+    "fg": "industry_brown"
+  },
+  {
+    "id": "lumbermill_0_1",
+    "fg": "industry_brown"
+  },
+  {
+    "id": "lumbermill_1_0",
+    "fg": "industry_brown"
+  },
+  {
+    "id": "lumbermill_1_1",
+    "fg": "industry_brown"
+  },
+  {
+    "id": "industry_brown_roof",
+    "fg": "industry_brown"
+  },
+  {
+    "id": "lumbermill_0_1_roof",
+    "fg": "industry_brown"
+  },
+  {
+    "id": "lumbermill_1_0_roof",
+    "fg": "industry_brown"
+  },
+  {
+    "id": "lumbermill_1_1_roof",
+    "fg": "industry_brown"
+  },
+  {
+    "id": "lumbermill_dforest",
+    "fg": "small_tree_brown"
+  },
+  {
+    "id": "construction_site",
+    "fg": "square_dark_gray"
+  },
+  {
+    "id": "abandonedwarehouse",
+    "fg": "industry_brown"
+  },
+  {
+    "id": "abandonedwarehouse_roof",
+    "fg": "industry_brown"
+  },
+  {
+    "id": "abandonedwarehouse_1",
+    "fg": "industry_brown"
+  },
+  {
+    "id": "abandonedwarehouse_1_roof",
+    "fg": "industry_brown"
+  },
+  {
+    "id": "abandonedwarehouse_2",
+    "fg": "industry_brown"
+  },
+  {
+    "id": "abandonedwarehouse_2_roof",
+    "fg": "industry_brown"
+  },
+  {
+    "id": "abandonedwarehouse_3",
+    "fg": "industry_brown"
+  },
+  {
+    "id": "abandonedwarehouse_3_roof",
+    "fg": "industry_brown"
+  },
+  {
+    "id": "abandonedwarehouse_4",
+    "fg": "industry_brown"
+  },
+  {
+    "id": "abandonedwarehouse_4_roof",
+    "fg": "industry_brown"
+  },
+  {
+    "id": "large_storage_units_3",
+    "fg": "industry_yellow"
+  },
+  {
+    "id": "large_storage_units_roof_3",
+    "fg": "industry_yellow"
+  },
+  {
+    "id": "large_storage_units_2",
+    "fg": "industry_yellow"
+  },
+  {
+    "id": "large_storage_units_roof_2",
+    "fg": "industry_yellow"
+  },
+  {
+    "id": "large_storage_units_1",
+    "fg": "industry_yellow"
+  },
+  {
+    "id": "large_storage_units_roof_1",
+    "fg": "industry_yellow"
+  },
+  {
+    "id": "medium_storage_units_1",
+    "fg": "garage_yellow"
+  },
+  {
+    "id": "medium_storage_units_roof_1",
+    "fg": "garage_yellow"
+  },
+  {
+    "id": "medium_storage_units_2",
+    "fg": "garage_yellow"
+  },
+  {
+    "id": "medium_storage_units_roof_2",
+    "fg": "garage_yellow"
+  },
+  {
+    "id": "steel_mill_0_1",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_0_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_0_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_0_4",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_1_1",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_1_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_1_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_1_4",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_2_1",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_2_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_2_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_2_4",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_3_1",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_3_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_3_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_rail_1",
+    "fg": "square_dark_gray"
+  },
+  {
+    "id": "steel_mill_4_1",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_4_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_4_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_rail_2",
+    "fg": "square_dark_gray"
+  },
+  {
+    "id": "industry_dark_gray_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_0_2_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_0_3_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_0_4_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_1_1_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_1_2_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_1_3_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_1_4_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_2_1_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_2_2_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_2_3_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_2_4_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_3_1_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_3_2_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_3_3_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_rail_1_2",
+    "fg": "square_dark_gray"
+  },
+  {
+    "id": "steel_mill_4_1_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_4_2_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_4_3_2",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_rail_2_2",
+    "fg": "square_dark_gray"
+  },
+  {
+    "id": "industry_dark_gray_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_0_2_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_0_3_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_0_4_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_1_1_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_1_2_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_1_3_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_1_4_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_2_1_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_2_2_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_2_3_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_2_4_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_3_1_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_3_2_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_3_3_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_rail_1_3",
+    "fg": "square_dark_gray"
+  },
+  {
+    "id": "steel_mill_4_1_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_4_2_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_4_3_3",
+    "fg": "industry_dark_gray"
+  },
+  {
+    "id": "steel_mill_rail_2_3",
+    "fg": "industry_dark_gray"
+  }
+]

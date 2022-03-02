@@ -1,0 +1,794 @@
+[
+  {
+    "id": "generic_necropolis_surface_building",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "necropolis_a_1",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "necropolis_a_2",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "necropolis_a_3",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "necropolis_a_4",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "necropolis_a_5",
+    "fg": "shop_dark_gray"
+  },
+  {
+    "id": "necropolis_a_7",
+    "fg": "industry_blue"
+  },
+  {
+    "id": "necropolis_a_8",
+    "fg": "industry_blue"
+  },
+  {
+    "id": "necropolis_a_9",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "necropolis_a_10",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "necropolis_a_12",
+    "fg": "shop_green"
+  },
+  {
+    "id": "necropolis_a_13",
+    "fg": "shop_green"
+  },
+  {
+    "id": "necropolis_a_14",
+    "fg": "hole_red"
+  },
+  {
+    "id": "necropolis_a_16",
+    "fg": "public_building_light_blue"
+  },
+  {
+    "id": "necropolis_a_17",
+    "fg": "public_building_light_blue"
+  },
+  {
+    "id": "necropolis_a_18",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "necropolis_a_19",
+    "fg": "tower_dark_gray"
+  },
+  {
+    "id": "necropolis_a_27",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "necropolis_a_28",
+    "fg": "shop_green"
+  },
+  {
+    "id": "necropolis_a_29",
+    "fg": "shop_green"
+  },
+  {
+    "id": "necropolis_a_30",
+    "fg": "park_green"
+  },
+  {
+    "id": "necropolis_a_32",
+    "fg": "church_light_gray"
+  },
+  {
+    "id": "necropolis_a_33",
+    "fg": "church_light_gray"
+  },
+  {
+    "id": "necropolis_a_34",
+    "fg": "shop_brown"
+  },
+  {
+    "id": "necropolis_a_35",
+    "fg": "hole_red"
+  },
+  {
+    "id": "necropolis_a_36",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "necropolis_a_37",
+    "fg": "shop_brown"
+  },
+  {
+    "id": "necropolis_a_38",
+    "fg": "hole_red"
+  },
+  {
+    "id": "necropolis_a_45",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "necropolis_a_46",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "necropolis_a_48",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "necropolis_a_49",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "necropolis_a_51",
+    "fg": "shop_light_red"
+  },
+  {
+    "id": "necropolis_a_52",
+    "fg": "building_columns_yellow"
+  },
+  {
+    "id": "necropolis_a_54",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "necropolis_a_55",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "necropolis_a_56",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "necropolis_a_57",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "necropolis_a_58",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "necropolis_a_60",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "necropolis_a_61",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "necropolis_a_63",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "necropolis_a_72",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "necropolis_a_73",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "necropolis_a_74",
+    "fg": "shop_magenta"
+  },
+  {
+    "id": "necropolis_a_75",
+    "fg": "shop_yellow"
+  },
+  {
+    "id": "necropolis_a_76",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "necropolis_a_78",
+    "fg": "gas_light_blue"
+  },
+  {
+    "id": "necropolis_a_79",
+    "fg": "gas_light_blue"
+  },
+  {
+    "id": "necropolis_a_80",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "necropolis_a_81",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "necropolis_b_1",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "necropolis_b_2",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "necropolis_b_3",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "necropolis_b_4",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "necropolis_b_9",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "rock_dark_gray0",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "rock_dark_gray3",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "rock_dark_gray4",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "rock_dark_gray6",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "rock_dark_gray8",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "rock_dark_gray9",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "necropolis_b_27",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "necropolis_b_28",
+    "fg": "cave_dark_gray"
+  },
+  {
+    "id": "necropolis_b_30",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "necropolis_b_32",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "necropolis_b_33",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "necropolis_b_34",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "necropolis_b_36",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "necropolis_b_37",
+    "fg": "cave_dark_gray"
+  },
+  {
+    "id": "necropolis_b_45",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "necropolis_b_52",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "necropolis_b_54",
+    "fg": "house_light_gray"
+  },
+  {
+    "id": "necropolis_b_55",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "necropolis_b_60",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "necropolis_b_61",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "necropolis_b_63",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "necropolis_b_72",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "necropolis_b_73",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "necropolis_b_74",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "necropolis_b_75",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "necropolis_b_76",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "necropolis_b_80",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "necropolis_b_81",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "necropolis_c_1",
+    "fg": "bunker_green"
+  },
+  {
+    "id": "necropolis_c_2",
+    "fg": "bunker_light_gray"
+  },
+  {
+    "id": "necropolis_c_3",
+    "fg": "bunker_green"
+  },
+  {
+    "id": "necropolis_c_4",
+    "fg": "bunker_green"
+  },
+  {
+    "id": "necropolis_c_5",
+    "fg": "bunker_red"
+  },
+  {
+    "id": "necropolis_c_6",
+    "fg": "bunker_red"
+  },
+  {
+    "id": "necropolis_c_7",
+    "fg": "bunker_red"
+  },
+  {
+    "id": "necropolis_c_8",
+    "fg": "bunker_red"
+  },
+  {
+    "id": "necropolis_c_9",
+    "fg": "bunker_dark_gray"
+  },
+  {
+    "id": "necropolis_c_10",
+    "fg": "bunker_green"
+  },
+  {
+    "id": "necropolis_c_11",
+    "fg": "bunker_green"
+  },
+  {
+    "id": "necropolis_c_12",
+    "fg": "bunker_green"
+  },
+  {
+    "id": "necropolis_c_13",
+    "fg": "bunker_light_gray"
+  },
+  {
+    "id": "necropolis_c_14",
+    "fg": "bunker_light_gray"
+  },
+  {
+    "id": "necropolis_c_15",
+    "fg": "bunker_red"
+  },
+  {
+    "id": "necropolis_c_16",
+    "fg": "bunker_red"
+  },
+  {
+    "id": "necropolis_c_17",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "necropolis_c_18",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "necropolis_c_19",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "necropolis_c_20",
+    "fg": "bunker_green"
+  },
+  {
+    "id": "necropolis_c_21",
+    "fg": "bunker_cyan"
+  },
+  {
+    "id": "necropolis_c_23",
+    "fg": "bunker_light_cyan"
+  },
+  {
+    "id": "necropolis_c_25",
+    "fg": "bunker_white"
+  },
+  {
+    "id": "necropolis_c_26",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "necropolis_c_27",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "necropolis_c_29",
+    "fg": "bunker_green"
+  },
+  {
+    "id": "necropolis_c_38",
+    "fg": "bunker_dark_gray"
+  },
+  {
+    "id": "necropolis_c_39",
+    "fg": "bunker_dark_gray"
+  },
+  {
+    "id": "necropolis_c_40",
+    "fg": "bunker_light_green"
+  },
+  {
+    "id": "necropolis_c_42",
+    "fg": "bunker_green"
+  },
+  {
+    "id": "necropolis_c_43",
+    "fg": "bunker_green"
+  },
+  {
+    "id": "necropolis_c_44",
+    "fg": "bunker_green"
+  },
+  {
+    "id": "necropolis_c_46",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "necropolis_c_47",
+    "fg": "bunker_dark_gray"
+  },
+  {
+    "id": "necropolis_c_48",
+    "fg": "bunker_dark_gray"
+  },
+  {
+    "id": "necropolis_c_51",
+    "fg": "bunker_light_red"
+  },
+  {
+    "id": "necropolis_c_52",
+    "fg": "bunker_light_red"
+  },
+  {
+    "id": "necropolis_c_53",
+    "fg": "bunker_light_red"
+  },
+  {
+    "id": "necropolis_c_55",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "necropolis_c_64",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "necropolis_c_65",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "necropolis_c_66",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "necropolis_c_67",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "necropolis_c_68",
+    "fg": "bunker_pink"
+  },
+  {
+    "id": "necropolis_c_69",
+    "fg": "bunker_pink"
+  },
+  {
+    "id": "necropolis_c_70",
+    "fg": "bunker_pink"
+  },
+  {
+    "id": "necropolis_c_71",
+    "fg": "bunker_pink"
+  },
+  {
+    "id": "necropolis_c_72",
+    "fg": "bunker_pink"
+  },
+  {
+    "id": "necropolis_c_73",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "necropolis_c_74",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "necropolis_c_75",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "necropolis_c_76",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "necropolis_c_77",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "necropolis_c_78",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "necropolis_c_79",
+    "fg": "bunker_light_blue"
+  },
+  {
+    "id": "necropolis_c_80",
+    "fg": "bunker_pink"
+  },
+  {
+    "id": "necropolis_c_81",
+    "fg": "bunker_pink"
+  },
+  {
+    "id": "necropolis_d_1",
+    "fg": "bunker_light_cyan"
+  },
+  {
+    "id": "necropolis_d_2",
+    "fg": "bunker_light_cyan"
+  },
+  {
+    "id": "necropolis_d_3",
+    "fg": "bunker_brown"
+  },
+  {
+    "id": "necropolis_d_4",
+    "fg": "bunker_brown"
+  },
+  {
+    "id": "necropolis_d_5",
+    "fg": "bunker_brown"
+  },
+  {
+    "id": "necropolis_d_6",
+    "fg": "bunker_red"
+  },
+  {
+    "id": "necropolis_d_7",
+    "fg": "bunker_red"
+  },
+  {
+    "id": "necropolis_d_8",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "necropolis_d_9",
+    "fg": "bunker_magenta"
+  },
+  {
+    "id": "necropolis_d_10",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "necropolis_d_17",
+    "fg": "bunker_magenta"
+  },
+  {
+    "id": "necropolis_d_19",
+    "fg": "bunker_light_green"
+  },
+  {
+    "id": "necropolis_d_20",
+    "fg": "bunker_light_green"
+  },
+  {
+    "id": "necropolis_d_21",
+    "fg": "bunker_light_green"
+  },
+  {
+    "id": "necropolis_d_22",
+    "fg": "bunker_light_green"
+  },
+  {
+    "id": "necropolis_d_23",
+    "fg": "bunker_light_green"
+  },
+  {
+    "id": "necropolis_d_25",
+    "fg": "bunker_light_green"
+  },
+  {
+    "id": "necropolis_d_27",
+    "fg": "bunker_yellow"
+  },
+  {
+    "id": "necropolis_d_28",
+    "fg": "bunker_light_green"
+  },
+  {
+    "id": "necropolis_d_29",
+    "fg": "bunker_light_green"
+  },
+  {
+    "id": "necropolis_d_30",
+    "fg": "bunker_light_green"
+  },
+  {
+    "id": "necropolis_d_31",
+    "fg": "bunker_light_green"
+  },
+  {
+    "id": "necropolis_d_32",
+    "fg": "bunker_light_green"
+  },
+  {
+    "id": "necropolis_d_33",
+    "fg": "bunker_light_green"
+  },
+  {
+    "id": "necropolis_d_34",
+    "fg": "bunker_light_green"
+  },
+  {
+    "id": "necropolis_d_35",
+    "fg": "bunker_light_green"
+  },
+  {
+    "id": "necropolis_d_36",
+    "fg": "bunker_yellow"
+  },
+  {
+    "id": "necropolis_d_37",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "necropolis_d_38",
+    "fg": "bunker_light_gray"
+  },
+  {
+    "id": "necropolis_d_39",
+    "fg": "bunker_light_gray"
+  },
+  {
+    "id": "necropolis_d_41",
+    "fg": "bunker_green"
+  },
+  {
+    "id": "necropolis_d_42",
+    "fg": "bunker_light_green"
+  },
+  {
+    "id": "necropolis_d_43",
+    "fg": "bunker_light_green"
+  },
+  {
+    "id": "necropolis_d_44",
+    "fg": "bunker_light_green"
+  },
+  {
+    "id": "necropolis_d_46",
+    "fg": "bunker_light_green"
+  },
+  {
+    "id": "necropolis_d_48",
+    "fg": "bunker_light_green"
+  },
+  {
+    "id": "necropolis_d_49",
+    "fg": "bunker_light_green"
+  },
+  {
+    "id": "necropolis_d_50",
+    "fg": "bunker_light_green"
+  },
+  {
+    "id": "necropolis_d_52",
+    "fg": "bunker_light_red"
+  },
+  {
+    "id": "necropolis_d_54",
+    "fg": "bunker_brown"
+  },
+  {
+    "id": "necropolis_d_55",
+    "fg": "bunker_light_green"
+  },
+  {
+    "id": "necropolis_d_56",
+    "fg": "bunker_light_green"
+  },
+  {
+    "id": "necropolis_d_57",
+    "fg": "bunker_light_green"
+  },
+  {
+    "id": "necropolis_d_58",
+    "fg": "bunker_light_green"
+  },
+  {
+    "id": "necropolis_d_59",
+    "fg": "bunker_light_green"
+  },
+  {
+    "id": "necropolis_d_61",
+    "fg": "bunker_white"
+  },
+  {
+    "id": "necropolis_d_63",
+    "fg": "bunker_brown"
+  },
+  {
+    "id": "necropolis_d_64",
+    "fg": "bunker_light_green"
+  },
+  {
+    "id": "necropolis_d_65",
+    "fg": "bunker_light_green"
+  },
+  {
+    "id": "necropolis_d_66",
+    "fg": "bunker_light_green"
+  },
+  {
+    "id": "necropolis_d_67",
+    "fg": "bunker_light_green"
+  },
+  {
+    "id": "necropolis_d_68",
+    "fg": "bunker_light_green"
+  },
+  {
+    "id": "necropolis_d_73",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "necropolis_d_75",
+    "fg": "public_building_brown"
+  },
+  {
+    "id": "necropolis_d_77",
+    "fg": "bunker_green"
+  },
+  {
+    "id": "necropolis_d_78",
+    "fg": "bunker_green"
+  },
+  {
+    "id": "necropolis_d_80",
+    "fg": "bunker_green"
+  }
+]
