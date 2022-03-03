@@ -1,25 +1,8 @@
 [
   {
     "id": [ "dirt_road", "dirt_road_forest" ],
-    "fg": "dirt_road_unconnected",
-    "multitile": true,
-    "additional_tiles": [
-      { "id": "center", "fg": "dirt_road_center" },
-      {
-        "id": "corner",
-        "fg": [ "dirt_road_corner_nw", "dirt_road_corner_sw", "dirt_road_corner_se", "dirt_road_corner_ne" ]
-      },
-      {
-        "id": "t_connection",
-        "fg": [ "dirt_road_t_connection_n", "dirt_road_t_connection_w", "dirt_road_t_connection_s", "dirt_road_t_connection_e" ]
-      },
-      { "id": "edge", "fg": [ "dirt_road_edge_ns", "dirt_road_edge_ew" ] },
-      {
-        "id": "end_piece",
-        "fg": [ "dirt_road_end_piece_n", "dirt_road_end_piece_w", "dirt_road_end_piece_s", "dirt_road_end_piece_e" ]
-      },
-      { "id": "unconnected", "fg": [ "dirt_road_unconnected", "dirt_road_unconnected" ] }
-    ]
+    "fg": [ "dirt_road_edge_ns", "dirt_road_edge_ew", "dirt_road_edge_ns", "dirt_road_edge_ew" ],
+    "rotates": true
   },
   {
     "id": [ "dirt_road_3way", "dirt_road_3way_forest" ],
@@ -28,12 +11,12 @@
   },
   {
     "id": "dirt_road_turn_forest",
-    "fg": [ "dirt_road_corner_ne", "dirt_road_corner_sw", "dirt_road_corner_se", "dirt_road_corner_nw" ],
+    "fg": [ "dirt_road_corner_ne", "dirt_road_corner_se", "dirt_road_corner_sw", "dirt_road_corner_nw" ],
     "rotates": true
   },
   {
     "id": "dirt_road_turn1_forest",
-    "fg": [ "dirt_road_corner_se", "dirt_road_corner_ne", "dirt_road_corner_nw", "dirt_road_corner_sw" ],
+    "fg": [ "dirt_road_corner_nw", "dirt_road_corner_ne", "dirt_road_corner_se", "dirt_road_corner_sw" ],
     "rotates": true
   }
 ]
