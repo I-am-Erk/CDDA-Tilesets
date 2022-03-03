@@ -6226,5 +6226,45 @@
   {
     "id": "refctr_SE5e_z-4",
     "fg": "rock_dark_gray"
+  },
+  {
+    "id": [ "refctr_S3a", "refctr_S3b", "refctr_S3c", "refctr_S3d", "refctr_S3e" ],
+    "fg": [ "road_edge_ns", "road_edge_ew", "road_edge_ns", "road_edge_ew" ],
+    "rotates": true
+  },
+  {
+    "id": [ "evac_center_2", "evac_center_3", "evac_center_4", "evac_center_22", "evac_center_24" ],
+    "fg": [ "road_edge_ew", "road_edge_ns", "road_edge_ew", "road_edge_ns" ],
+    "rotates": true
+  },
+  {
+    "id": [ "evac_center_6", "evac_center_11", "evac_center_16", "evac_center_10", "evac_center_15", "evac_center_20" ],
+    "fg": [ "road_edge_ns", "road_edge_ew", "road_edge_ns", "road_edge_ew" ],
+    "rotates": true
+  },
+  {
+    "id": "evac_center_23",
+    "fg": [ "road_t_connection_n", "road_t_connection_e", "road_t_connection_s", "road_t_connection_w" ],
+    "rotates": true
+  },
+  {
+    "id": "evac_center_1",
+    "fg": [ "road_corner_nw", "road_corner_ne", "road_corner_sw", "road_corner_se" ],
+    "rotates": true
+  },
+  {
+    "id": "evac_center_5",
+    "fg": [ "road_corner_ne", "road_corner_se", "road_corner_sw", "road_corner_nw" ],
+    "rotates": true
+  },
+  {
+    "id": "evac_center_21",
+    "fg": [ "road_corner_sw", "road_corner_nw", "road_corner_se", "road_corner_ne" ],
+    "rotates": true
+  },
+  {
+    "id": "evac_center_25",
+    "fg": [ "road_corner_se", "road_corner_sw", "road_corner_nw", "road_corner_ne" ],
+    "rotates": true
   }
 ]
