@@ -44,7 +44,7 @@
     "fg": "tent_white"
   },
   {
-    "id": "shelter",
+    "id": [ "shelter", "shelter_vandal", "shelter_1_vandal", "shelter_2_vandal" ],
     "fg": "industry_white"
   },
   {
