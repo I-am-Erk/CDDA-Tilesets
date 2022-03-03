@@ -1,0 +1,722 @@
+[
+  {
+    "id": "generic_city_building_no_sidewalk",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "park",
+    "fg": "park_green"
+  },
+  {
+    "id": "s_garage",
+    "fg": "garage_white"
+  },
+  {
+    "id": "s_garage_roof",
+    "fg": "garage_white"
+  },
+  {
+    "id": "s_garage_1",
+    "fg": "garage_white"
+  },
+  {
+    "id": "s_garage_roof_1",
+    "fg": "garage_white"
+  },
+  {
+    "id": "s_garage_2",
+    "fg": "garage_white"
+  },
+  {
+    "id": "s_garage_roof_2",
+    "fg": "garage_white"
+  },
+  {
+    "id": "s_garage_upper_roof_2",
+    "fg": "garage_white"
+  },
+  {
+    "id": "boat_rental",
+    "fg": "shop_white"
+  },
+  {
+    "id": "lighthouse_ground",
+    "fg": "watchtower_yellow"
+  },
+  {
+    "id": "lighthouse_z1",
+    "fg": "watchtower_yellow"
+  },
+  {
+    "id": "lighthouse_z2",
+    "fg": "watchtower_yellow"
+  },
+  {
+    "id": "lighthouse_z3",
+    "fg": "watchtower_yellow"
+  },
+  {
+    "id": "lighthouse_z4",
+    "fg": "watchtower_yellow"
+  },
+  {
+    "id": "lighthouse_z5",
+    "fg": "watchtower_yellow"
+  },
+  {
+    "id": "lighthouse_roof",
+    "fg": "watchtower_yellow"
+  },
+  {
+    "id": "island_sand",
+    "fg": "open_air_yellow"
+  },
+  {
+    "id": "island_forest",
+    "fg": "small_tree_green"
+  },
+  {
+    "id": "island_forest_thick",
+    "fg": "big_tree_green"
+  },
+  {
+    "id": "island_forest_water",
+    "fg": "water_light_blue"
+  },
+  {
+    "id": "island_field",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "cabin_isherwood",
+    "fg": "small_tree_light_green"
+  },
+  {
+    "id": "riverside_dwelling",
+    "fg": "cabin_yellow"
+  },
+  {
+    "id": "cabin_lake",
+    "fg": "small_tree_green"
+  },
+  {
+    "id": "cabin_lake_roof",
+    "fg": "small_tree_green"
+  },
+  {
+    "id": "lake_cabin_boathouse",
+    "fg": "small_tree_green"
+  },
+  {
+    "id": "lake_cabin_boathouse_roof",
+    "fg": "small_tree_green"
+  },
+  {
+    "id": "cabin_strange",
+    "fg": "small_tree_green"
+  },
+  {
+    "id": "cabin_strange_b",
+    "fg": "small_tree_green"
+  },
+  {
+    "id": "cabin_strange_roof",
+    "fg": "small_tree_green"
+  },
+  {
+    "id": "cabin",
+    "fg": "cabin_brown"
+  },
+  {
+    "id": "cabin_roof",
+    "fg": "cabin_brown"
+  },
+  {
+    "id": "cabin_1",
+    "fg": "cabin_brown"
+  },
+  {
+    "id": "cabin_roof_1",
+    "fg": "cabin_brown"
+  },
+  {
+    "id": "cabin_2",
+    "fg": "cabin_brown"
+  },
+  {
+    "id": "cabin_roof_2",
+    "fg": "cabin_brown"
+  },
+  {
+    "id": "cabin_3",
+    "fg": "cabin_brown"
+  },
+  {
+    "id": "cabin_roof_3",
+    "fg": "cabin_brown"
+  },
+  {
+    "id": "cabin_4",
+    "fg": "cabin_brown"
+  },
+  {
+    "id": "cabin_roof_4",
+    "fg": "cabin_brown"
+  },
+  {
+    "id": "cabin_5",
+    "fg": "cabin_brown"
+  },
+  {
+    "id": "cabin_roof_5",
+    "fg": "cabin_brown"
+  },
+  {
+    "id": "cabin_6",
+    "fg": "cabin_brown"
+  },
+  {
+    "id": "cabin_roof_6",
+    "fg": "cabin_brown"
+  },
+  {
+    "id": "cabin_7",
+    "fg": "cabin_brown"
+  },
+  {
+    "id": "cabin_roof_7",
+    "fg": "cabin_brown"
+  },
+  {
+    "id": "cabin_lapin",
+    "fg": "cabin_brown"
+  },
+  {
+    "id": "cabin_roof_lapin",
+    "fg": "cabin_brown"
+  },
+  {
+    "id": "dirtroad1_aban1",
+    "fg": "small_tree_green"
+  },
+  {
+    "id": "forest_aban1",
+    "fg": "small_tree_green"
+  },
+  {
+    "id": "dirtroad2_aban1",
+    "fg": "small_tree_green"
+  },
+  {
+    "id": "dirtplaza_aban1",
+    "fg": "small_tree_green"
+  },
+  {
+    "id": "cabin_aban1",
+    "fg": "cabin_green"
+  },
+  {
+    "id": "barn_aban1",
+    "fg": "cabin_green"
+  },
+  {
+    "id": "car_corner_aban1",
+    "fg": "cabin_green"
+  },
+  {
+    "id": "shipwreck_river_1",
+    "fg": "anchor_pink"
+  },
+  {
+    "id": "shipwreck_river_2",
+    "fg": "anchor_pink"
+  },
+  {
+    "id": "shipwreck_river_3",
+    "fg": "anchor_pink"
+  },
+  {
+    "id": "shipwreck_river_4",
+    "fg": "anchor_pink"
+  },
+  {
+    "id": "radio_tower",
+    "fg": "watchtower_light_gray"
+  },
+  {
+    "id": "radio_tower_even",
+    "fg": "watchtower_light_gray"
+  },
+  {
+    "id": "radio_tower_even_stair_only",
+    "fg": "watchtower_light_gray"
+  },
+  {
+    "id": "radio_tower_odd",
+    "fg": "watchtower_light_gray"
+  },
+  {
+    "id": "radio_tower_top",
+    "fg": "watchtower_light_gray"
+  },
+  {
+    "id": "radio_tower_1",
+    "fg": "watchtower_light_gray"
+  },
+  {
+    "id": "radio_tower_roof_1",
+    "fg": "watchtower_light_gray"
+  },
+  {
+    "id": "bandit_cabin",
+    "fg": "small_tree_green"
+  },
+  {
+    "id": "bandit_camp_1",
+    "fg": "small_tree_green"
+  },
+  {
+    "id": "bandit_camp_2",
+    "fg": "small_tree_green"
+  },
+  {
+    "id": "bandit_camp_3",
+    "fg": "small_tree_green"
+  },
+  {
+    "id": "bandit_camp_4",
+    "fg": "small_tree_green"
+  },
+  {
+    "id": "campsite",
+    "fg": "tent_light_green"
+  },
+  {
+    "id": "campsite_a",
+    "fg": "tent_light_green"
+  },
+  {
+    "id": "campsite_cabin_incomplete",
+    "fg": "cabin_brown"
+  },
+  {
+    "id": "campsite_field_biker",
+    "fg": "tent_light_green"
+  },
+  {
+    "id": "campsite_field_biker_destroyed",
+    "fg": "tent_light_green"
+  },
+  {
+    "id": "pond_field",
+    "fg": "pond_blue"
+  },
+  {
+    "id": "hunter_shack",
+    "fg": "house_cyan"
+  },
+  {
+    "id": "hunter_shack_roof",
+    "fg": "house_cyan"
+  },
+  {
+    "id": "hunter_shack_1",
+    "fg": "house_cyan"
+  },
+  {
+    "id": "hunter_shack_roof_1",
+    "fg": "house_cyan"
+  },
+  {
+    "id": "campground_1a",
+    "fg": "tent_light_green"
+  },
+  {
+    "id": "campground_1b",
+    "fg": "tent_light_green"
+  },
+  {
+    "id": "campground_2a",
+    "fg": "tent_light_green"
+  },
+  {
+    "id": "campground_2b",
+    "fg": "tent_light_green"
+  },
+  {
+    "id": "campground_roof",
+    "fg": "tent_light_green"
+  },
+  {
+    "id": "campground_1a_npc",
+    "fg": "tent_light_green"
+  },
+  {
+    "id": "campground_1b_npc",
+    "fg": "tent_light_green"
+  },
+  {
+    "id": "campground_2a_npc",
+    "fg": "tent_light_green"
+  },
+  {
+    "id": "campground_2b_npc",
+    "fg": "tent_light_green"
+  },
+  {
+    "id": "campground_roof_npc",
+    "fg": "tent_light_green"
+  },
+  {
+    "id": "desolatebarn",
+    "fg": "barn_brown"
+  },
+  {
+    "id": "bandit_garage_1",
+    "fg": "small_tree_white"
+  },
+  {
+    "id": "bandit_garage_2",
+    "fg": "small_tree_white"
+  },
+  {
+    "id": "ws_giant_sinkhole_1",
+    "fg": "hole_brown"
+  },
+  {
+    "id": "ws_giant_sinkhole_2",
+    "fg": "hole_brown"
+  },
+  {
+    "id": "cs_public_space",
+    "fg": "tower_white"
+  },
+  {
+    "id": "parking_2x1_0",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "parking_2x1_1",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "parking_3x1_0",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "parking_3x1_1",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "parking_3x1_2",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "parking_2x2_0_0",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "parking_2x2_0_1",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "parking_2x2_1_0",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "parking_2x2_1_1",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "irradiator_1_1",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_2",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_3",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_4",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_5",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_6",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_7",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_8",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_9",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_1_roof",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_2_roof",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_3_roof",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_4_roof",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_5_roof",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_6_roof",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_7_roof",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_8_roof",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_9_roof",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "airliner_1a",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_2a",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_3a",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_1b",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_2b",
+    "fg": "hole_light_blue"
+  },
+  {
+    "id": "airliner_3b",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_1c",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_2c",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_3c",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_1d",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_2d",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_3d",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_1e",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_2e",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_3e",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_1f",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_2f",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_3f",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_1g",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_2g",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_3g",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_1h",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_2h",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_3h",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_1i",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_2i",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_3i",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_1j",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_2j",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_3j",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_2a_1",
+    "fg": "open_air_blue"
+  },
+  {
+    "id": "airliner_2b_1",
+    "fg": "hole_light_blue"
+  },
+  {
+    "id": "airliner_2c_1",
+    "fg": "open_air_blue"
+  },
+  {
+    "id": "airliner_2b_-1",
+    "fg": "hole_light_blue"
+  },
+  {
+    "id": "airliner_2c_-1",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "cground_1",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_2",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_3",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_4",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_5",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_6",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_7",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_8",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_9",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_1_1",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_2_1",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_3_1",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_4_1",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_5_1",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_6_1",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_7_1",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_8_1",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_9_1",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_1_2",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_2_2",
+    "fg": "tent_green"
+  }
+]

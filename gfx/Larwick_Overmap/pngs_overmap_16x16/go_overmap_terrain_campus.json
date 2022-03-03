@@ -1,0 +1,370 @@
+[
+  {
+    "id": "campus_admin_0_0_0",
+    "fg": "big_building_light_green"
+  },
+  {
+    "id": "campus_admin_0_1_0",
+    "fg": "big_building_light_green"
+  },
+  {
+    "id": "campus_admin_0_2_0",
+    "fg": "big_building_light_green"
+  },
+  {
+    "id": "campus_admin_0_0_1",
+    "fg": "big_building_light_green"
+  },
+  {
+    "id": "campus_admin_0_1_1",
+    "fg": "big_building_light_green"
+  },
+  {
+    "id": "campus_admin_0_2_1",
+    "fg": "big_building_light_green"
+  },
+  {
+    "id": "campus_admin_0_0_2",
+    "fg": "big_building_light_green"
+  },
+  {
+    "id": "campus_admin_0_1_2",
+    "fg": "big_building_light_green"
+  },
+  {
+    "id": "campus_admin_0_2_2",
+    "fg": "big_building_light_green"
+  },
+  {
+    "id": "campus_admin_0_0_3",
+    "fg": "big_building_light_green"
+  },
+  {
+    "id": "campus_admin_0_1_3",
+    "fg": "big_building_light_green"
+  },
+  {
+    "id": "campus_admin_0_2_3",
+    "fg": "big_building_light_green"
+  },
+  {
+    "id": "campus_commons_0_0_0",
+    "fg": "parking_light_green"
+  },
+  {
+    "id": "campus_commons_1_0_0",
+    "fg": "parking_light_green"
+  },
+  {
+    "id": "campus_commons_0_1_0",
+    "fg": "parking_light_green"
+  },
+  {
+    "id": "campus_commons_1_1_0",
+    "fg": "parking_light_green"
+  },
+  {
+    "id": "campus_commons_0_2_0",
+    "fg": "parking_light_green"
+  },
+  {
+    "id": "campus_commons_1_2_0",
+    "fg": "parking_light_green"
+  },
+  {
+    "id": "campus_commons_0_3_0",
+    "fg": "parking_light_green"
+  },
+  {
+    "id": "campus_commons_1_3_0",
+    "fg": "parking_light_green"
+  },
+  {
+    "id": "campus_commons_0_0_1",
+    "fg": "parking_light_green"
+  },
+  {
+    "id": "campus_commons_1_0_1",
+    "fg": "parking_light_green"
+  },
+  {
+    "id": "campus_commons_0_1_1",
+    "fg": "parking_light_green"
+  },
+  {
+    "id": "campus_commons_1_1_1",
+    "fg": "parking_light_green"
+  },
+  {
+    "id": "campus_commons_0_2_1",
+    "fg": "parking_light_green"
+  },
+  {
+    "id": "campus_commons_1_2_1",
+    "fg": "parking_light_green"
+  },
+  {
+    "id": "campus_commons_0_3_1",
+    "fg": "parking_light_green"
+  },
+  {
+    "id": "campus_commons_1_3_1",
+    "fg": "parking_light_green"
+  },
+  {
+    "id": "campus_commons_0_0_2",
+    "fg": "parking_light_green"
+  },
+  {
+    "id": "campus_commons_1_0_2",
+    "fg": "parking_light_green"
+  },
+  {
+    "id": "campus_commons_0_1_2",
+    "fg": "parking_light_green"
+  },
+  {
+    "id": "campus_commons_1_1_2",
+    "fg": "parking_light_green"
+  },
+  {
+    "id": "campus_commons_0_2_2",
+    "fg": "parking_light_green"
+  },
+  {
+    "id": "campus_commons_1_2_2",
+    "fg": "parking_light_green"
+  },
+  {
+    "id": "campus_commons_0_3_2",
+    "fg": "parking_light_green"
+  },
+  {
+    "id": "campus_commons_1_3_2",
+    "fg": "parking_light_green"
+  },
+  {
+    "id": "campus_commons_0_0_3",
+    "fg": "parking_blue"
+  },
+  {
+    "id": "campus_commons_1_0_3",
+    "fg": "parking_blue"
+  },
+  {
+    "id": "campus_commons_0_1_3",
+    "fg": "parking_blue"
+  },
+  {
+    "id": "campus_commons_1_1_3",
+    "fg": "parking_blue"
+  },
+  {
+    "id": "campus_commons_0_2_3",
+    "fg": "parking_blue"
+  },
+  {
+    "id": "campus_commons_1_2_3",
+    "fg": "parking_blue"
+  },
+  {
+    "id": "campus_commons_0_3_3",
+    "fg": "parking_blue"
+  },
+  {
+    "id": "campus_commons_1_3_3",
+    "fg": "parking_blue"
+  },
+  {
+    "id": "campus_media_0_0_0",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "campus_media_0_1_0",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "campus_media_1_0_0",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "campus_media_1_1_0",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "campus_media_0_0_1",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "campus_media_0_1_1",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "campus_media_1_0_1",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "campus_media_1_1_1",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "campus_media_0_0_2",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "campus_media_0_1_2",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "campus_media_1_0_2",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "campus_media_1_1_2",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "campus_media_0_0_3",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "campus_media_0_1_3",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "campus_media_1_0_3",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "campus_media_1_1_3",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "campus_media_0_0_4",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "campus_media_0_1_4",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "campus_media_1_0_4",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "campus_media_1_1_4",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "campus_health_0_0_0",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "campus_health_0_1_0",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "campus_health_0_2_0",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "campus_health_0_0_1",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "campus_health_0_1_1",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "campus_health_0_2_1",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "campus_health_0_0_2",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "campus_health_0_1_2",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "campus_health_0_2_2",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "campus_health_0_0_3",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "campus_health_0_1_3",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "campus_health_0_2_3",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "campus_lecture_0_0_0",
+    "fg": "building_columns_brown"
+  },
+  {
+    "id": "campus_lecture_0_1_0",
+    "fg": "building_columns_brown"
+  },
+  {
+    "id": "campus_lecture_0_2_0",
+    "fg": "building_columns_brown"
+  },
+  {
+    "id": "campus_lecture_0_3_0",
+    "fg": "building_columns_brown"
+  },
+  {
+    "id": "campus_lecture_0_0_1",
+    "fg": "building_columns_brown"
+  },
+  {
+    "id": "campus_lecture_0_1_1",
+    "fg": "building_columns_brown"
+  },
+  {
+    "id": "campus_lecture_0_2_1",
+    "fg": "building_columns_brown"
+  },
+  {
+    "id": "campus_lecture_0_3_1",
+    "fg": "building_columns_brown"
+  },
+  {
+    "id": "campus_lecture_0_0_2",
+    "fg": "building_columns_brown"
+  },
+  {
+    "id": "campus_lecture_0_1_2",
+    "fg": "building_columns_brown"
+  },
+  {
+    "id": "campus_lecture_0_2_2",
+    "fg": "building_columns_brown"
+  },
+  {
+    "id": "campus_lecture_0_3_2",
+    "fg": "building_columns_brown"
+  },
+  {
+    "id": "campus_lecture_0_0_3",
+    "fg": "building_columns_brown"
+  },
+  {
+    "id": "campus_lecture_0_1_3",
+    "fg": "building_columns_brown"
+  },
+  {
+    "id": "campus_lecture_0_2_3",
+    "fg": "building_columns_brown"
+  },
+  {
+    "id": "campus_lecture_0_3_3",
+    "fg": "building_columns_brown"
+  }
+]

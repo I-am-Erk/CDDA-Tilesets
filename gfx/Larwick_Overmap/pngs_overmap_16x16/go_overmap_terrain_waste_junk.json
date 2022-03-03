@@ -1,0 +1,318 @@
+[
+  {
+    "id": "sewage_treatment_0_0_0",
+    "fg": "industry_cyan"
+  },
+  {
+    "id": "sewage_treatment_0_0_roof",
+    "fg": "open_air_blue"
+  },
+  {
+    "id": "sewage_treatment_1_0_0",
+    "fg": "industry_cyan"
+  },
+  {
+    "id": "sewage_treatment_1_0_roof",
+    "fg": "industry_cyan"
+  },
+  {
+    "id": "sewage_treatment_0_1_0",
+    "fg": "trap_blue"
+  },
+  {
+    "id": "sewage_treatment_0_1_roof",
+    "fg": "trap_blue"
+  },
+  {
+    "id": "sewage_treatment_1_1_0",
+    "fg": "industry_cyan"
+  },
+  {
+    "id": "sewage_treatment_1_1_roof",
+    "fg": "trap_blue"
+  },
+  {
+    "id": "sewage_treatment_0_0_-1",
+    "fg": "industry_cyan"
+  },
+  {
+    "id": "sewage_treatment_1_0_-1",
+    "fg": "industry_cyan"
+  },
+  {
+    "id": "sewage_treatment_2_0_-1",
+    "fg": "industry_cyan"
+  },
+  {
+    "id": "sewage_treatment_0_1_-1",
+    "fg": "industry_cyan"
+  },
+  {
+    "id": "sewage_treatment_1_1_-1",
+    "fg": "industry_cyan"
+  },
+  {
+    "id": "sewage_treatment_2_1_-1",
+    "fg": "industry_cyan"
+  },
+  {
+    "id": "toxic_dump",
+    "fg": "hive_light_green"
+  },
+  {
+    "id": "haz_sar_1_1",
+    "fg": "trap_pink"
+  },
+  {
+    "id": "haz_sar_1_2",
+    "fg": "trap_pink"
+  },
+  {
+    "id": "haz_sar_1_3",
+    "fg": "trap_pink"
+  },
+  {
+    "id": "haz_sar_1_4",
+    "fg": "trap_pink"
+  },
+  {
+    "id": "haz_sar_b_1",
+    "fg": "trap_pink"
+  },
+  {
+    "id": "haz_sar_b_2",
+    "fg": "trap_pink"
+  },
+  {
+    "id": "haz_sar_b_3",
+    "fg": "trap_pink"
+  },
+  {
+    "id": "haz_sar_b_4",
+    "fg": "trap_pink"
+  },
+  {
+    "id": "pump_station_1",
+    "fg": "industry_blue"
+  },
+  {
+    "id": "pump_station_1_roof",
+    "fg": "industry_blue"
+  },
+  {
+    "id": "pump_station_2",
+    "fg": "industry_blue"
+  },
+  {
+    "id": "pump_station_2_roof",
+    "fg": "industry_blue"
+  },
+  {
+    "id": "dumpsite",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "dump",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "recyclecenter",
+    "fg": "industry_green"
+  },
+  {
+    "id": "recyclecenter_roof",
+    "fg": "industry_green"
+  },
+  {
+    "id": "recyclecenter_1",
+    "fg": "industry_green"
+  },
+  {
+    "id": "recyclecenter_roof_1",
+    "fg": "industry_green"
+  },
+  {
+    "id": "recyclecenter_2",
+    "fg": "industry_green"
+  },
+  {
+    "id": "recyclecenter_roof_2",
+    "fg": "industry_green"
+  },
+  {
+    "id": "landfill",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "junkyard_1a",
+    "fg": "hive_light_gray"
+  },
+  {
+    "id": "junkyard_roof_1a",
+    "fg": "hive_light_gray"
+  },
+  {
+    "id": "junkyard_1b",
+    "fg": "hive_light_gray"
+  },
+  {
+    "id": "junkyard_roof_1b",
+    "fg": "hive_light_gray"
+  },
+  {
+    "id": "junkyard_2a",
+    "fg": "hive_light_gray"
+  },
+  {
+    "id": "junkyard_2b",
+    "fg": "hive_light_gray"
+  },
+  {
+    "id": "generic_regional_dump",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_regional_dump_0_0",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_regional_dump_1_0",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_regional_dump_2_0",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_regional_dump_3_0",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_regional_dump_0_1",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_regional_dump_1_1",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_regional_dump_2_1",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_regional_dump_3_1",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_regional_dump_0_2",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_regional_dump_1_2",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_regional_dump_2_2",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_regional_dump_3_2",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_regional_dump_0_3",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_regional_dump_1_3",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_regional_dump_2_3",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_regional_dump_3_3",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "smallscrapyard",
+    "fg": "hive_light_gray"
+  },
+  {
+    "id": "cs_open_sewer",
+    "fg": "manhole_open_cyan"
+  },
+  {
+    "id": "cs_city_dump_small",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_biker_dump_0_0",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_biker_dump_1_0",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_biker_dump_2_0",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_biker_dump_3_0",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_biker_dump_0_1",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_biker_dump_1_1",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_biker_dump_2_1",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_biker_dump_3_1",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_biker_dump_0_2",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_biker_dump_1_2",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_biker_dump_2_2",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_biker_dump_2_2_roof",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_biker_dump_3_2",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_biker_dump_0_3",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_biker_dump_1_3",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_biker_dump_2_3",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "ws_biker_dump_3_3",
+    "fg": "hive_brown"
+  }
+]

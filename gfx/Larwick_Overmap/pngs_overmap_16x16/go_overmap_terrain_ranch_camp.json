@@ -1,0 +1,242 @@
+[
+  {
+    "id": "ranch_camp_11",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_12",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_13",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_14",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_15",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_16",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_17",
+    "fg": "pond_blue"
+  },
+  {
+    "id": "ranch_camp_18",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_19",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_20",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_21",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_22",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_23",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_24",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_25",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_26",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_29",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_30",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_31",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_32",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_33",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_34",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_35",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_38",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_39",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_40",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_41",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_42",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_43",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_44",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_47",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_48",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_49",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_50",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_51",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_52",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_53",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_56",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_57",
+    "fg": "silo_brown"
+  },
+  {
+    "id": "ranch_camp_57_roof",
+    "fg": "silo_brown"
+  },
+  {
+    "id": "ranch_camp_57_silo",
+    "fg": "silo_brown"
+  },
+  {
+    "id": "ranch_camp_57_silocap",
+    "fg": "silo_brown"
+  },
+  {
+    "id": "ranch_camp_58",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_59",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_60",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_61",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_62",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_65",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_65_roof",
+    "fg": "open_air_blue"
+  },
+  {
+    "id": "ranch_camp_66",
+    "fg": "barn_brown"
+  },
+  {
+    "id": "ranch_camp_66_roof",
+    "fg": "barn_brown"
+  },
+  {
+    "id": "ranch_camp_67",
+    "fg": "garage_light_gray"
+  },
+  {
+    "id": "ranch_camp_67_roof",
+    "fg": "garage_light_gray"
+  },
+  {
+    "id": "ranch_camp_68",
+    "fg": "cabin_brown"
+  },
+  {
+    "id": "ranch_camp_68_roof",
+    "fg": "cabin_brown"
+  },
+  {
+    "id": "ranch_camp_70",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_71",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "ranch_camp_74_roof",
+    "fg": "open_air_blue"
+  },
+  {
+    "id": "ranch_camp_75_roof",
+    "fg": "open_air_blue"
+  },
+  {
+    "id": "ranch_camp_76",
+    "fg": "square_dark_gray"
+  }
+]

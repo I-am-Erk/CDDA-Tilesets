@@ -1,0 +1,282 @@
+[
+  {
+    "id": "faction_base_camp_0",
+    "fg": "tent_white"
+  },
+  {
+    "id": "faction_base_camp_new_0",
+    "fg": "tent_white"
+  },
+  {
+    "id": "faction_base_camp_1",
+    "fg": "tent_white"
+  },
+  {
+    "id": "faction_base_camp_2",
+    "fg": "tent_white"
+  },
+  {
+    "id": "faction_base_camp_3",
+    "fg": "tent_white"
+  },
+  {
+    "id": "faction_base_camp_4",
+    "fg": "tent_white"
+  },
+  {
+    "id": "faction_base_camp_5",
+    "fg": "tent_white"
+  },
+  {
+    "id": "faction_base_camp_6",
+    "fg": "tent_white"
+  },
+  {
+    "id": "faction_base_camp_7",
+    "fg": "tent_white"
+  },
+  {
+    "id": "faction_base_camp_8",
+    "fg": "tent_white"
+  },
+  {
+    "id": "faction_base_camp_9",
+    "fg": "tent_white"
+  },
+  {
+    "id": "faction_base_camp_10",
+    "fg": "tent_white"
+  },
+  {
+    "id": "faction_base_camp_11",
+    "fg": "tent_white"
+  },
+  {
+    "id": "faction_base_camp_12",
+    "fg": "tent_white"
+  },
+  {
+    "id": "faction_base_camp_13",
+    "fg": "tent_white"
+  },
+  {
+    "id": "faction_base_camp_14",
+    "fg": "tent_white"
+  },
+  {
+    "id": "faction_base_camp_15",
+    "fg": "tent_white"
+  },
+  {
+    "id": "faction_base_camp_16",
+    "fg": "tent_white"
+  },
+  {
+    "id": "faction_base_camp_17",
+    "fg": "tent_white"
+  },
+  {
+    "id": "faction_base_camp_18",
+    "fg": "tent_white"
+  },
+  {
+    "id": "faction_base_camp_19",
+    "fg": "tent_white"
+  },
+  {
+    "id": "faction_base_camp_20",
+    "fg": "tent_white"
+  },
+  {
+    "id": "faction_base_farm_0",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "faction_base_farm_1",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "faction_base_farm_2",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "faction_base_farm_3",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "faction_base_farm_4",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "faction_base_garage_0",
+    "fg": "garage_light_gray"
+  },
+  {
+    "id": "faction_base_garage_1",
+    "fg": "garage_light_gray"
+  },
+  {
+    "id": "faction_base_garage_2",
+    "fg": "garage_light_gray"
+  },
+  {
+    "id": "faction_base_garage_3",
+    "fg": "garage_light_gray"
+  },
+  {
+    "id": "faction_base_garage_4",
+    "fg": "garage_light_gray"
+  },
+  {
+    "id": "faction_base_garage_5",
+    "fg": "garage_light_gray"
+  },
+  {
+    "id": "faction_base_garage_6",
+    "fg": "garage_light_gray"
+  },
+  {
+    "id": "faction_base_kitchen_0",
+    "fg": "shop_light_green"
+  },
+  {
+    "id": "faction_base_kitchen_1",
+    "fg": "shop_light_green"
+  },
+  {
+    "id": "faction_base_kitchen_2",
+    "fg": "shop_light_green"
+  },
+  {
+    "id": "faction_base_kitchen_3",
+    "fg": "shop_light_green"
+  },
+  {
+    "id": "faction_base_kitchen_4",
+    "fg": "shop_light_green"
+  },
+  {
+    "id": "faction_base_kitchen_5",
+    "fg": "shop_light_green"
+  },
+  {
+    "id": "faction_base_kitchen_6",
+    "fg": "shop_light_green"
+  },
+  {
+    "id": "faction_base_kitchen_7",
+    "fg": "shop_light_green"
+  },
+  {
+    "id": "faction_base_kitchen_8",
+    "fg": "shop_light_green"
+  },
+  {
+    "id": "faction_hide_site_0",
+    "fg": "tent_white"
+  },
+  {
+    "id": "faction_wall_level_N_0",
+    "fg": "pond_light_gray"
+  },
+  {
+    "id": "faction_wall_level_E_0",
+    "fg": "pond_light_gray"
+  },
+  {
+    "id": "faction_wall_level_S_0",
+    "fg": "pond_light_gray"
+  },
+  {
+    "id": "faction_wall_level_W_0",
+    "fg": "pond_light_gray"
+  },
+  {
+    "id": "faction_wall_level_N_1",
+    "fg": "pond_light_gray"
+  },
+  {
+    "id": "faction_wall_level_E_1",
+    "fg": "pond_light_gray"
+  },
+  {
+    "id": "faction_wall_level_S_1",
+    "fg": "pond_light_gray"
+  },
+  {
+    "id": "faction_wall_level_W_1",
+    "fg": "pond_light_gray"
+  },
+  {
+    "id": "faction_base_workshop_0",
+    "fg": "pond_light_gray"
+  },
+  {
+    "id": "faction_base_blacksmith_0",
+    "fg": "shop_white"
+  },
+  {
+    "id": "faction_base_blacksmith_1",
+    "fg": "shop_white"
+  },
+  {
+    "id": "faction_base_blacksmith_2",
+    "fg": "shop_white"
+  },
+  {
+    "id": "faction_base_blacksmith_3",
+    "fg": "shop_white"
+  },
+  {
+    "id": "faction_base_blacksmith_4",
+    "fg": "shop_white"
+  },
+  {
+    "id": "faction_base_blacksmith_5",
+    "fg": "shop_white"
+  },
+  {
+    "id": "faction_base_blacksmith_6",
+    "fg": "shop_white"
+  },
+  {
+    "id": "faction_base_blacksmith_7",
+    "fg": "shop_white"
+  },
+  {
+    "id": "faction_base_blacksmith_8",
+    "fg": "shop_white"
+  },
+  {
+    "id": "faction_base_blacksmith_9",
+    "fg": "shop_white"
+  },
+  {
+    "id": "faction_base_blacksmith_10",
+    "fg": "shop_white"
+  },
+  {
+    "id": "faction_base_blacksmith_11",
+    "fg": "shop_white"
+  },
+  {
+    "id": "faction_base_blacksmith_12",
+    "fg": "shop_white"
+  },
+  {
+    "id": "faction_base_livestock_0",
+    "fg": "barn_pink"
+  },
+  {
+    "id": "faction_base_storehouse_0",
+    "fg": "barn_pink"
+  },
+  {
+    "id": "faction_base_saltworks_0",
+    "fg": "industry_white"
+  },
+  {
+    "id": "faction_base_canteen_0",
+    "fg": "shop_green"
+  }
+]

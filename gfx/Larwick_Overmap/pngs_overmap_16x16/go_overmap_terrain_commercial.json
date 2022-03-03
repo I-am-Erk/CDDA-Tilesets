@@ -1,0 +1,1702 @@
+[
+  {
+    "id": "s_gas",
+    "fg": "gas_light_blue"
+  },
+  {
+    "id": "s_gas_1",
+    "fg": "gas_light_blue"
+  },
+  {
+    "id": "s_gas_roof_1",
+    "fg": "gas_light_blue"
+  },
+  {
+    "id": "s_pharm",
+    "fg": "shop_light_green"
+  },
+  {
+    "id": "s_pharm_roof",
+    "fg": "shop_light_green"
+  },
+  {
+    "id": "s_pharm_1",
+    "fg": "shop_light_green"
+  },
+  {
+    "id": "s_pharm_roof_1",
+    "fg": "shop_light_green"
+  },
+  {
+    "id": "office_doctor",
+    "fg": "shop_light_red"
+  },
+  {
+    "id": "office_doctor_roof",
+    "fg": "shop_light_red"
+  },
+  {
+    "id": "office_doctor_1",
+    "fg": "shop_light_red"
+  },
+  {
+    "id": "office_doctor_roof_1",
+    "fg": "shop_light_red"
+  },
+  {
+    "id": "office_doctor_2",
+    "fg": "shop_light_red"
+  },
+  {
+    "id": "office_doctor_roof_2",
+    "fg": "shop_light_red"
+  },
+  {
+    "id": "office_doctor_upper_roof_2",
+    "fg": "shop_light_red"
+  },
+  {
+    "id": "office_cubical",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "office_cubical_roof",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "office_cubical_1",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "office_cubical_roof_1",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "office_tower_nw",
+    "fg": "tower_light_gray"
+  },
+  {
+    "id": "office_tower_ne",
+    "fg": "tower_light_gray"
+  },
+  {
+    "id": "office_tower_sw",
+    "fg": "tower_light_gray"
+  },
+  {
+    "id": "office_tower_se",
+    "fg": "tower_light_gray"
+  },
+  {
+    "id": "office_tower_underground_nw",
+    "fg": "parking_light_gray"
+  },
+  {
+    "id": "office_tower_underground_ne",
+    "fg": "parking_light_gray"
+  },
+  {
+    "id": "office_tower_underground_sw",
+    "fg": "parking_light_gray"
+  },
+  {
+    "id": "office_tower_underground_se",
+    "fg": "parking_light_gray"
+  },
+  {
+    "id": "office_tower_2_a1",
+    "fg": "tower_light_gray"
+  },
+  {
+    "id": "office_tower_2_a2",
+    "fg": "tower_light_gray"
+  },
+  {
+    "id": "office_tower_2_a3",
+    "fg": "small_tree_light_green"
+  },
+  {
+    "id": "office_tower_2_b1",
+    "fg": "tower_light_gray"
+  },
+  {
+    "id": "office_tower_2_b2",
+    "fg": "tower_light_gray"
+  },
+  {
+    "id": "office_tower_2_b3",
+    "fg": "tower_light_gray"
+  },
+  {
+    "id": "office_tower_collapse_a0",
+    "fg": "tower_light_gray"
+  },
+  {
+    "id": "office_tower_collapse_a1",
+    "fg": "tower_light_gray"
+  },
+  {
+    "id": "office_tower_collapse_a2",
+    "fg": "tower_light_gray"
+  },
+  {
+    "id": "office_tower_collapse_b0",
+    "fg": "tower_light_gray"
+  },
+  {
+    "id": "office_tower_collapse_b1",
+    "fg": "tower_light_gray"
+  },
+  {
+    "id": "office_tower_collapse_b2",
+    "fg": "tower_light_gray"
+  },
+  {
+    "id": "office_tower_collapse_b_a0",
+    "fg": "tower_light_gray"
+  },
+  {
+    "id": "office_tower_collapse_b_a1",
+    "fg": "tower_light_gray"
+  },
+  {
+    "id": "office_tower_collapse_b_a2",
+    "fg": "tower_light_gray"
+  },
+  {
+    "id": "office_tower_collapse_b_b0",
+    "fg": "tower_light_gray"
+  },
+  {
+    "id": "office_tower_collapse_b_b1",
+    "fg": "tower_light_gray"
+  },
+  {
+    "id": "office_tower_collapse_b_b2",
+    "fg": "tower_light_gray"
+  },
+  {
+    "id": "office_tower_2_a1_tower_lab",
+    "fg": "tower_light_gray"
+  },
+  {
+    "id": "office_tower_open_air_corner",
+    "fg": "open_air_blue"
+  },
+  {
+    "id": "s_grocery",
+    "fg": "shop_green"
+  },
+  {
+    "id": "s_grocery_roof",
+    "fg": "shop_green"
+  },
+  {
+    "id": "s_grocery_1",
+    "fg": "shop_green"
+  },
+  {
+    "id": "s_grocery_roof_1",
+    "fg": "shop_green"
+  },
+  {
+    "id": "s_hardware",
+    "fg": "shop_cyan"
+  },
+  {
+    "id": "s_hardware_roof",
+    "fg": "shop_cyan"
+  },
+  {
+    "id": "s_hardware_1",
+    "fg": "shop_cyan"
+  },
+  {
+    "id": "s_hardware_roof_1",
+    "fg": "shop_cyan"
+  },
+  {
+    "id": "s_hardware_2",
+    "fg": "shop_cyan"
+  },
+  {
+    "id": "s_hardware_roof_2",
+    "fg": "shop_cyan"
+  },
+  {
+    "id": "s_hardware_3",
+    "fg": "shop_cyan"
+  },
+  {
+    "id": "s_hardware_roof_3",
+    "fg": "shop_cyan"
+  },
+  {
+    "id": "s_electronics",
+    "fg": "shop_light_cyan"
+  },
+  {
+    "id": "s_electronics_roof",
+    "fg": "shop_light_cyan"
+  },
+  {
+    "id": "s_electronics_1",
+    "fg": "shop_light_cyan"
+  },
+  {
+    "id": "s_electronics_roof_1",
+    "fg": "shop_light_cyan"
+  },
+  {
+    "id": "s_sports",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "s_sports_roof",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "s_liquor",
+    "fg": "shop_magenta"
+  },
+  {
+    "id": "s_liquor_roof",
+    "fg": "shop_magenta"
+  },
+  {
+    "id": "s_gun",
+    "fg": "shop_red"
+  },
+  {
+    "id": "s_gun_roof",
+    "fg": "shop_red"
+  },
+  {
+    "id": "s_gun_1",
+    "fg": "shop_red"
+  },
+  {
+    "id": "s_gun_roof_1",
+    "fg": "shop_red"
+  },
+  {
+    "id": "s_gun_2",
+    "fg": "shop_red"
+  },
+  {
+    "id": "s_gun_3",
+    "fg": "shop_red"
+  },
+  {
+    "id": "s_gun_roof_3",
+    "fg": "shop_red"
+  },
+  {
+    "id": "s_gun_4",
+    "fg": "shop_red"
+  },
+  {
+    "id": "s_gun_2ndfloor_4",
+    "fg": "shop_red"
+  },
+  {
+    "id": "s_gun_roof_4",
+    "fg": "shop_red"
+  },
+  {
+    "id": "s_clothes",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "s_clothes_roof",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "s_clothes_1",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "s_clothes_roof_1",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "s_clothes_2",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "s_clothes_roof_2",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "s_clothes_3",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "s_clothes_roof_3",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "s_clothes_4",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "s_clothes_roof_4",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "s_clothes_upper_roof_4",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "s_clothes_5",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "s_clothes_roof_5",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "s_clothes_6",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "s_clothes_roof_6",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "s_bookstore",
+    "fg": "shop_brown"
+  },
+  {
+    "id": "s_bookstore_roof",
+    "fg": "shop_brown"
+  },
+  {
+    "id": "s_bookstore_upper_roof",
+    "fg": "shop_brown"
+  },
+  {
+    "id": "s_bookstore_1",
+    "fg": "shop_brown"
+  },
+  {
+    "id": "s_bookstore_roof_1",
+    "fg": "shop_brown"
+  },
+  {
+    "id": "s_bookstore_upper_roof_1",
+    "fg": "shop_brown"
+  },
+  {
+    "id": "s_bookstore_2",
+    "fg": "shop_brown"
+  },
+  {
+    "id": "s_bookstore_roof_2",
+    "fg": "shop_brown"
+  },
+  {
+    "id": "s_restaurant_foodplace",
+    "fg": "shop_light_red"
+  },
+  {
+    "id": "s_restaurant_foodplace_roof",
+    "fg": "shop_light_red"
+  },
+  {
+    "id": "s_restaurant_foodplace_upper_roof",
+    "fg": "shop_light_red"
+  },
+  {
+    "id": "s_restaurant",
+    "fg": "shop_light_red"
+  },
+  {
+    "id": "s_restaurant_roof",
+    "fg": "shop_light_red"
+  },
+  {
+    "id": "s_restaurant_1",
+    "fg": "shop_light_red"
+  },
+  {
+    "id": "s_restaurant_roof_1",
+    "fg": "shop_light_red"
+  },
+  {
+    "id": "s_restaurant_2",
+    "fg": "shop_light_red"
+  },
+  {
+    "id": "s_restaurant_roof_2",
+    "fg": "shop_light_red"
+  },
+  {
+    "id": "s_restaurant_3",
+    "fg": "shop_light_red"
+  },
+  {
+    "id": "s_restaurant_roof_3",
+    "fg": "shop_light_red"
+  },
+  {
+    "id": "s_restaurant_fast",
+    "fg": "shop_yellow"
+  },
+  {
+    "id": "s_restaurant_fast_roof",
+    "fg": "shop_yellow"
+  },
+  {
+    "id": "s_restaurant_fast_1",
+    "fg": "shop_yellow"
+  },
+  {
+    "id": "s_restaurant_fast_roof_1",
+    "fg": "shop_yellow"
+  },
+  {
+    "id": "s_restaurant_coffee",
+    "fg": "shop_brown"
+  },
+  {
+    "id": "s_restaurant_coffee_roof",
+    "fg": "shop_brown"
+  },
+  {
+    "id": "s_restaurant_coffee_1",
+    "fg": "shop_brown"
+  },
+  {
+    "id": "s_restaurant_coffee_roof_1",
+    "fg": "shop_brown"
+  },
+  {
+    "id": "s_restaurant_coffee_2",
+    "fg": "shop_brown"
+  },
+  {
+    "id": "s_restaurant_coffee_roof_2",
+    "fg": "shop_brown"
+  },
+  {
+    "id": "s_teashop",
+    "fg": "shop_light_green"
+  },
+  {
+    "id": "s_teashop_roof",
+    "fg": "shop_light_green"
+  },
+  {
+    "id": "s_teashop_1",
+    "fg": "shop_light_green"
+  },
+  {
+    "id": "s_teashop_roof_1",
+    "fg": "shop_light_green"
+  },
+  {
+    "id": "s_teashop_upper_roof_1",
+    "fg": "shop_light_green"
+  },
+  {
+    "id": "bar",
+    "fg": "shop_magenta"
+  },
+  {
+    "id": "bar_roof",
+    "fg": "shop_magenta"
+  },
+  {
+    "id": "bar_1",
+    "fg": "shop_magenta"
+  },
+  {
+    "id": "bar_roof_1",
+    "fg": "shop_magenta"
+  },
+  {
+    "id": "s_butcher",
+    "fg": "shop_light_red"
+  },
+  {
+    "id": "s_butcher_roof",
+    "fg": "shop_light_red"
+  },
+  {
+    "id": "s_butcher_upper_roof",
+    "fg": "shop_light_red"
+  },
+  {
+    "id": "s_butcher_1",
+    "fg": "shop_light_red"
+  },
+  {
+    "id": "s_butcher_roof_1",
+    "fg": "shop_light_red"
+  },
+  {
+    "id": "s_butcher_upper_roof_1",
+    "fg": "shop_light_red"
+  },
+  {
+    "id": "s_butcher_2",
+    "fg": "shop_light_red"
+  },
+  {
+    "id": "s_butcher_roof_2",
+    "fg": "shop_light_red"
+  },
+  {
+    "id": "s_bike_shop",
+    "fg": "shop_cyan"
+  },
+  {
+    "id": "s_bike_shop_roof",
+    "fg": "shop_cyan"
+  },
+  {
+    "id": "s_bike_shop_1",
+    "fg": "shop_cyan"
+  },
+  {
+    "id": "s_bike_shop_roof_1",
+    "fg": "shop_cyan"
+  },
+  {
+    "id": "s_pizza_parlor",
+    "fg": "shop_yellow"
+  },
+  {
+    "id": "s_pizza_parlor_roof",
+    "fg": "shop_yellow"
+  },
+  {
+    "id": "s_pizza_parlor_1",
+    "fg": "shop_yellow"
+  },
+  {
+    "id": "s_pizza_parlor_roof_1",
+    "fg": "shop_yellow"
+  },
+  {
+    "id": "bank",
+    "fg": "shop_yellow"
+  },
+  {
+    "id": "bank_roof",
+    "fg": "shop_yellow"
+  },
+  {
+    "id": "bank_1",
+    "fg": "shop_yellow"
+  },
+  {
+    "id": "bank_roof_1",
+    "fg": "shop_yellow"
+  },
+  {
+    "id": "pawn",
+    "fg": "shop_brown"
+  },
+  {
+    "id": "pawn_roof",
+    "fg": "shop_brown"
+  },
+  {
+    "id": "pawn_1",
+    "fg": "shop_brown"
+  },
+  {
+    "id": "pawn_roof_1",
+    "fg": "shop_brown"
+  },
+  {
+    "id": "pawn_pf",
+    "fg": "shop_brown"
+  },
+  {
+    "id": "pawn_pf_under",
+    "fg": "shop_brown"
+  },
+  {
+    "id": "pawn_pf_roof",
+    "fg": "shop_brown"
+  },
+  {
+    "id": "mil_surplus",
+    "fg": "shop_light_gray"
+  },
+  {
+    "id": "mil_surplus_roof",
+    "fg": "shop_light_gray"
+  },
+  {
+    "id": "mil_surplus_1",
+    "fg": "shop_light_gray"
+  },
+  {
+    "id": "mil_surplus_roof_1",
+    "fg": "shop_light_gray"
+  },
+  {
+    "id": "mil_surplus_2",
+    "fg": "shop_light_gray"
+  },
+  {
+    "id": "mil_surplus_roof_2",
+    "fg": "shop_light_gray"
+  },
+  {
+    "id": "furniture",
+    "fg": "shop_brown"
+  },
+  {
+    "id": "furniture_roof",
+    "fg": "shop_brown"
+  },
+  {
+    "id": "furniture_upper_roof",
+    "fg": "shop_brown"
+  },
+  {
+    "id": "s_music",
+    "fg": "shop_brown"
+  },
+  {
+    "id": "s_music_roof",
+    "fg": "shop_brown"
+  },
+  {
+    "id": "megastore_parking",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "megastore_0_0_0",
+    "fg": "big_building_blue"
+  },
+  {
+    "id": "megastore_1_0_0",
+    "fg": "big_building_blue"
+  },
+  {
+    "id": "megastore_2_0_0",
+    "fg": "big_building_blue"
+  },
+  {
+    "id": "megastore_0_1_0",
+    "fg": "big_building_blue"
+  },
+  {
+    "id": "megastore_1_1_0",
+    "fg": "big_building_blue"
+  },
+  {
+    "id": "megastore_2_1_0",
+    "fg": "big_building_blue"
+  },
+  {
+    "id": "megastore_0_2_0",
+    "fg": "big_building_blue"
+  },
+  {
+    "id": "megastore_1_2_0",
+    "fg": "big_building_blue"
+  },
+  {
+    "id": "megastore_2_2_0",
+    "fg": "big_building_blue"
+  },
+  {
+    "id": "megastore_0_0_1",
+    "fg": "big_building_blue"
+  },
+  {
+    "id": "megastore_1_0_1",
+    "fg": "big_building_blue"
+  },
+  {
+    "id": "megastore_2_0_1",
+    "fg": "big_building_blue"
+  },
+  {
+    "id": "megastore_0_1_1",
+    "fg": "big_building_blue"
+  },
+  {
+    "id": "megastore_1_1_1",
+    "fg": "big_building_blue"
+  },
+  {
+    "id": "megastore_2_1_1",
+    "fg": "big_building_blue"
+  },
+  {
+    "id": "megastore_0_2_1",
+    "fg": "big_building_blue"
+  },
+  {
+    "id": "megastore_1_2_1",
+    "fg": "big_building_blue"
+  },
+  {
+    "id": "megastore_2_2_1",
+    "fg": "big_building_blue"
+  },
+  {
+    "id": "megastore_0_0_roof",
+    "fg": "big_building_blue"
+  },
+  {
+    "id": "megastore_1_0_roof",
+    "fg": "big_building_blue"
+  },
+  {
+    "id": "megastore_2_0_roof",
+    "fg": "big_building_blue"
+  },
+  {
+    "id": "megastore_0_1_roof",
+    "fg": "big_building_blue"
+  },
+  {
+    "id": "megastore_1_1_roof",
+    "fg": "big_building_blue"
+  },
+  {
+    "id": "megastore_2_1_roof",
+    "fg": "big_building_blue"
+  },
+  {
+    "id": "megastore_0_2_roof",
+    "fg": "big_building_blue"
+  },
+  {
+    "id": "megastore_1_2_roof",
+    "fg": "big_building_blue"
+  },
+  {
+    "id": "megastore_2_2_roof",
+    "fg": "big_building_blue"
+  },
+  {
+    "id": "hotel_tower_1_1",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "hotel_tower_1_2",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "hotel_tower_1_3",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "hotel_tower_1_4",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "hotel_tower_flr2_1_4",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "hotel_tower_flr3_1_4",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "hotel_tower_flr4_1_4",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "hotel_tower_roof_1_4",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "hotel_tower_1_5",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "hotel_tower_flr2_1_5",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "hotel_tower_flr3_1_5",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "hotel_tower_flr4_1_5",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "hotel_tower_roof_1_5",
+    "fg": "parking_blue"
+  },
+  {
+    "id": "hotel_tower_1_5B",
+    "fg": "parking_blue"
+  },
+  {
+    "id": "hotel_tower_flr2_1_5B",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "hotel_tower_1_5C",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "hotel_tower_flr2_1_5C",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "hotel_tower_1_6",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "hotel_tower_flr2_1_6",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "hotel_tower_flr3_1_6",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "hotel_tower_flr4_1_6",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "hotel_tower_roof_1_6",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "hotel_tower_1_7",
+    "fg": "tower_dark_gray"
+  },
+  {
+    "id": "hotel_tower_flr2_1_7",
+    "fg": "tower_dark_gray"
+  },
+  {
+    "id": "hotel_tower_flr3_1_7",
+    "fg": "tower_dark_gray"
+  },
+  {
+    "id": "hotel_tower_flr4_1_7",
+    "fg": "tower_dark_gray"
+  },
+  {
+    "id": "hotel_tower_roof_1_7",
+    "fg": "tower_dark_gray"
+  },
+  {
+    "id": "hotel_tower_1_8",
+    "fg": "tower_dark_gray"
+  },
+  {
+    "id": "hotel_tower_flr2_1_8",
+    "fg": "tower_dark_gray"
+  },
+  {
+    "id": "hotel_tower_flr3_1_8",
+    "fg": "tower_dark_gray"
+  },
+  {
+    "id": "hotel_tower_flr4_1_8",
+    "fg": "tower_dark_gray"
+  },
+  {
+    "id": "hotel_tower_roof_1_8",
+    "fg": "tower_dark_gray"
+  },
+  {
+    "id": "hotel_tower_1_9",
+    "fg": "tower_dark_gray"
+  },
+  {
+    "id": "hotel_tower_flr2_1_9",
+    "fg": "tower_dark_gray"
+  },
+  {
+    "id": "hotel_tower_flr3_1_9",
+    "fg": "tower_dark_gray"
+  },
+  {
+    "id": "hotel_tower_flr4_1_9",
+    "fg": "tower_dark_gray"
+  },
+  {
+    "id": "hotel_tower_roof_1_9",
+    "fg": "tower_dark_gray"
+  },
+  {
+    "id": "hotel_tower_b_1",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "hotel_tower_b_2",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "hotel_tower_b_3",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "motel_twd_1",
+    "fg": "two_story_light_blue"
+  },
+  {
+    "id": "motel_twd_2",
+    "fg": "two_story_light_blue"
+  },
+  {
+    "id": "motel_twd_second_floor",
+    "fg": "two_story_light_blue"
+  },
+  {
+    "id": "motel_entrance",
+    "fg": "two_story_light_blue"
+  },
+  {
+    "id": "motel_entrance_roof",
+    "fg": "two_story_light_blue"
+  },
+  {
+    "id": "motel_1",
+    "fg": "two_story_light_blue"
+  },
+  {
+    "id": "motel_1_roof",
+    "fg": "two_story_light_blue"
+  },
+  {
+    "id": "motel_2",
+    "fg": "two_story_light_blue"
+  },
+  {
+    "id": "motel_2_roof",
+    "fg": "two_story_light_blue"
+  },
+  {
+    "id": "motel_3",
+    "fg": "two_story_light_blue"
+  },
+  {
+    "id": "motel_3_roof",
+    "fg": "two_story_light_blue"
+  },
+  {
+    "id": "s_gas_rural",
+    "fg": "gas_light_blue"
+  },
+  {
+    "id": "s_gas_rural_roof",
+    "fg": "gas_light_blue"
+  },
+  {
+    "id": "hdwr_large_0_0_0",
+    "fg": "big_building_light_green"
+  },
+  {
+    "id": "hdwr_large_1_0_0",
+    "fg": "big_building_light_green"
+  },
+  {
+    "id": "hdwr_large_0_1_0",
+    "fg": "big_building_light_green"
+  },
+  {
+    "id": "hdwr_large_1_1_0",
+    "fg": "big_building_light_green"
+  },
+  {
+    "id": "hdwr_large_0_2_0",
+    "fg": "big_building_light_green"
+  },
+  {
+    "id": "hdwr_large_1_2_0",
+    "fg": "big_building_light_green"
+  },
+  {
+    "id": "hdwr_large_0_0_1",
+    "fg": "open_air_brown"
+  },
+  {
+    "id": "hdwr_large_1_0_1",
+    "fg": "open_air_brown"
+  },
+  {
+    "id": "hdwr_large_0_1_1",
+    "fg": "open_air_brown"
+  },
+  {
+    "id": "hdwr_large_1_1_1",
+    "fg": "open_air_brown"
+  },
+  {
+    "id": "hdwr_large_0_2_1",
+    "fg": "open_air_brown"
+  },
+  {
+    "id": "hdwr_large_1_2_1",
+    "fg": "open_air_brown"
+  },
+  {
+    "id": "garage_gas_1",
+    "fg": "gas_light_blue"
+  },
+  {
+    "id": "garage_gas_roof_1",
+    "fg": "gas_light_blue"
+  },
+  {
+    "id": "garage_gas_2",
+    "fg": "gas_light_blue"
+  },
+  {
+    "id": "garage_gas_roof_2",
+    "fg": "gas_light_blue"
+  },
+  {
+    "id": "garage_gas_3",
+    "fg": "gas_light_blue"
+  },
+  {
+    "id": "garage_gas_roof_3",
+    "fg": "gas_light_blue"
+  },
+  {
+    "id": "dispensary",
+    "fg": "shop_green"
+  },
+  {
+    "id": "dispensary_roof",
+    "fg": "shop_green"
+  },
+  {
+    "id": "dispensary_1",
+    "fg": "shop_green"
+  },
+  {
+    "id": "dispensary_roof_1",
+    "fg": "shop_green"
+  },
+  {
+    "id": "dispensary_2",
+    "fg": "shop_green"
+  },
+  {
+    "id": "dispensary_roof_2",
+    "fg": "shop_green"
+  },
+  {
+    "id": "small_office",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "small_office_roof",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "small_office_upper_roof",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "candy_shop",
+    "fg": "shop_light_green"
+  },
+  {
+    "id": "candy_shop_roof",
+    "fg": "shop_light_green"
+  },
+  {
+    "id": "candy_shop_1",
+    "fg": "shop_light_green"
+  },
+  {
+    "id": "candy_shop_roof_1",
+    "fg": "shop_light_green"
+  },
+  {
+    "id": "bakery",
+    "fg": "shop_green"
+  },
+  {
+    "id": "bakery_roof",
+    "fg": "shop_green"
+  },
+  {
+    "id": "bakery_upper_roof",
+    "fg": "shop_green"
+  },
+  {
+    "id": "icecream_shop",
+    "fg": "shop_yellow"
+  },
+  {
+    "id": "icecream_shop_roof",
+    "fg": "shop_yellow"
+  },
+  {
+    "id": "dollarstore",
+    "fg": "shop_yellow"
+  },
+  {
+    "id": "dollarstore_roof",
+    "fg": "shop_yellow"
+  },
+  {
+    "id": "dollarstore_1",
+    "fg": "shop_yellow"
+  },
+  {
+    "id": "dollarstore_roof_1",
+    "fg": "shop_yellow"
+  },
+  {
+    "id": "lancenter",
+    "fg": "shop_light_cyan"
+  },
+  {
+    "id": "lancenter_roof",
+    "fg": "shop_light_cyan"
+  },
+  {
+    "id": "lancenter_1",
+    "fg": "shop_light_cyan"
+  },
+  {
+    "id": "lancenter_roof_1",
+    "fg": "shop_light_cyan"
+  },
+  {
+    "id": "landscapingsupplyco_1a",
+    "fg": "shop_green"
+  },
+  {
+    "id": "landscapingsupplyco_1b",
+    "fg": "shop_green"
+  },
+  {
+    "id": "landscapingsupplyco_1b_roof",
+    "fg": "shop_green"
+  },
+  {
+    "id": "s_vfw",
+    "fg": "public_building_green"
+  },
+  {
+    "id": "s_vfw_roof",
+    "fg": "public_building_green"
+  },
+  {
+    "id": "s_thrift",
+    "fg": "shop_light_gray"
+  },
+  {
+    "id": "s_thrift_roof",
+    "fg": "shop_light_gray"
+  },
+  {
+    "id": "s_daycare",
+    "fg": "shop_light_green"
+  },
+  {
+    "id": "s_daycare_roof",
+    "fg": "shop_light_green"
+  },
+  {
+    "id": "s_petstore",
+    "fg": "shop_light_green"
+  },
+  {
+    "id": "s_petstore_roof",
+    "fg": "shop_light_green"
+  },
+  {
+    "id": "s_petstore_1",
+    "fg": "shop_light_green"
+  },
+  {
+    "id": "s_petstore_roof_1",
+    "fg": "shop_light_green"
+  },
+  {
+    "id": "s_petstore_2",
+    "fg": "shop_light_green"
+  },
+  {
+    "id": "s_petstore_roof_2",
+    "fg": "shop_light_green"
+  },
+  {
+    "id": "s_shoppingplaza_a1",
+    "fg": "square_light_gray"
+  },
+  {
+    "id": "s_shoppingplaza_a2",
+    "fg": "square_light_gray"
+  },
+  {
+    "id": "s_shoppingplaza_a3",
+    "fg": "square_light_gray"
+  },
+  {
+    "id": "s_shoppingplaza_a4",
+    "fg": "square_light_gray"
+  },
+  {
+    "id": "s_shoppingplaza_a5",
+    "fg": "square_light_gray"
+  },
+  {
+    "id": "s_shoppingplaza_a6",
+    "fg": "square_light_gray"
+  },
+  {
+    "id": "s_shoppingplaza_b1",
+    "fg": "square_light_gray"
+  },
+  {
+    "id": "s_shoppingplaza_b2",
+    "fg": "square_light_gray"
+  },
+  {
+    "id": "s_shoppingplaza_b3",
+    "fg": "square_light_gray"
+  },
+  {
+    "id": "s_shoppingplaza_b4",
+    "fg": "square_light_gray"
+  },
+  {
+    "id": "s_shoppingplaza_b5",
+    "fg": "square_light_gray"
+  },
+  {
+    "id": "s_shoppingplaza_b6",
+    "fg": "square_light_gray"
+  },
+  {
+    "id": "veterinarian",
+    "fg": "shop_light_red"
+  },
+  {
+    "id": "veterinarian_roof",
+    "fg": "shop_light_red"
+  },
+  {
+    "id": "s_laundromat",
+    "fg": "shop_white"
+  },
+  {
+    "id": "s_laundromat_roof",
+    "fg": "shop_white"
+  },
+  {
+    "id": "s_laundromat_1",
+    "fg": "shop_white"
+  },
+  {
+    "id": "s_laundromat_roof_1",
+    "fg": "shop_white"
+  },
+  {
+    "id": "s_jewelry",
+    "fg": "shop_white"
+  },
+  {
+    "id": "s_jewelry_roof",
+    "fg": "shop_white"
+  },
+  {
+    "id": "generic_motel",
+    "fg": "two_story_light_blue"
+  },
+  {
+    "id": "2fmotel_entrance",
+    "fg": "two_story_light_blue"
+  },
+  {
+    "id": "2fmotel_1",
+    "fg": "two_story_light_blue"
+  },
+  {
+    "id": "2fmotel_2",
+    "fg": "two_story_light_blue"
+  },
+  {
+    "id": "2fmotel_3",
+    "fg": "two_story_light_blue"
+  },
+  {
+    "id": "2fmotel_entrance_f2",
+    "fg": "two_story_light_blue"
+  },
+  {
+    "id": "2fmotel_1_f2",
+    "fg": "two_story_light_blue"
+  },
+  {
+    "id": "2fmotel_2_f2",
+    "fg": "two_story_light_blue"
+  },
+  {
+    "id": "2fmotel_3_f2",
+    "fg": "two_story_light_blue"
+  },
+  {
+    "id": "2fmotel_1_r",
+    "fg": "two_story_light_blue"
+  },
+  {
+    "id": "2fmotel_2_r",
+    "fg": "two_story_light_blue"
+  },
+  {
+    "id": "2fmotel_3_r",
+    "fg": "two_story_light_blue"
+  },
+  {
+    "id": "generic_large_office_tower",
+    "fg": "tower_white"
+  },
+  {
+    "id": "home_improvement",
+    "fg": "shop_light_cyan"
+  },
+  {
+    "id": "home_improvement_roof",
+    "fg": "shop_light_cyan"
+  },
+  {
+    "id": "loffice_tower_1",
+    "fg": "tower_white"
+  },
+  {
+    "id": "loffice_tower_2",
+    "fg": "tower_white"
+  },
+  {
+    "id": "loffice_tower_3",
+    "fg": "tower_white"
+  },
+  {
+    "id": "loffice_tower_4",
+    "fg": "tower_white"
+  },
+  {
+    "id": "loffice_tower_5",
+    "fg": "tower_white"
+  },
+  {
+    "id": "loffice_tower_6",
+    "fg": "tower_white"
+  },
+  {
+    "id": "loffice_tower_7",
+    "fg": "tower_white"
+  },
+  {
+    "id": "loffice_tower_8",
+    "fg": "tower_white"
+  },
+  {
+    "id": "loffice_tower_9",
+    "fg": "tower_white"
+  },
+  {
+    "id": "loffice_tower_9b",
+    "fg": "tower_white"
+  },
+  {
+    "id": "loffice_tower_10",
+    "fg": "tower_white"
+  },
+  {
+    "id": "loffice_tower_10b",
+    "fg": "tower_white"
+  },
+  {
+    "id": "loffice_tower_11",
+    "fg": "tower_white"
+  },
+  {
+    "id": "loffice_tower_12",
+    "fg": "tower_white"
+  },
+  {
+    "id": "loffice_tower_13",
+    "fg": "tower_white"
+  },
+  {
+    "id": "loffice_tower_14",
+    "fg": "tower_white"
+  },
+  {
+    "id": "loffice_tower_15",
+    "fg": "tower_white"
+  },
+  {
+    "id": "loffice_tower_16",
+    "fg": "tower_white"
+  },
+  {
+    "id": "loffice_tower_17",
+    "fg": "open_air_blue"
+  },
+  {
+    "id": "loffice_tower_18",
+    "fg": "open_air_blue"
+  },
+  {
+    "id": "loffice_tower_19",
+    "fg": "open_air_blue"
+  },
+  {
+    "id": "loffice_tower_20",
+    "fg": "open_air_blue"
+  },
+  {
+    "id": "s_antique",
+    "fg": "shop_magenta"
+  },
+  {
+    "id": "s_antique_roof",
+    "fg": "shop_magenta"
+  },
+  {
+    "id": "s_arcade",
+    "fg": "shop_light_cyan"
+  },
+  {
+    "id": "s_arcade_roof",
+    "fg": "shop_light_cyan"
+  },
+  {
+    "id": "s_gardening",
+    "fg": "shop_green"
+  },
+  {
+    "id": "s_gardening_roof",
+    "fg": "shop_green"
+  },
+  {
+    "id": "craft_shop",
+    "fg": "shop_cyan"
+  },
+  {
+    "id": "craft_shop_roof",
+    "fg": "shop_cyan"
+  },
+  {
+    "id": "craft_shop_upper_roof",
+    "fg": "shop_cyan"
+  },
+  {
+    "id": "craft_shop_1",
+    "fg": "shop_cyan"
+  },
+  {
+    "id": "craft_shop_roof_1",
+    "fg": "shop_cyan"
+  },
+  {
+    "id": "craft_shop_2",
+    "fg": "shop_cyan"
+  },
+  {
+    "id": "craft_shop_2ndfloor_2",
+    "fg": "shop_cyan"
+  },
+  {
+    "id": "craft_shop_roof_2",
+    "fg": "shop_cyan"
+  },
+  {
+    "id": "cs_market_small",
+    "fg": "shop_light_gray"
+  },
+  {
+    "id": "cs_sex_shop",
+    "fg": "shop_pink"
+  },
+  {
+    "id": "cs_sex_shop_roof",
+    "fg": "shop_pink"
+  },
+  {
+    "id": "cs_internet_cafe",
+    "fg": "shop_light_cyan"
+  },
+  {
+    "id": "cs_internet_cafe_roof",
+    "fg": "shop_light_cyan"
+  },
+  {
+    "id": "cs_internet_cafe_upper_roof",
+    "fg": "shop_light_cyan"
+  },
+  {
+    "id": "cs_car_showroom",
+    "fg": "big_building_white"
+  },
+  {
+    "id": "cs_car_showroom_2ndfloor",
+    "fg": "big_building_white"
+  },
+  {
+    "id": "cs_car_showroom_roof",
+    "fg": "big_building_white"
+  },
+  {
+    "id": "cs_car_dealership",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "cs_car_dealership_roof",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "cs_tire_shop",
+    "fg": "shop_white"
+  },
+  {
+    "id": "cs_tire_shop_roof",
+    "fg": "shop_white"
+  },
+  {
+    "id": "headshop",
+    "fg": "shop_green"
+  },
+  {
+    "id": "headshop_roof",
+    "fg": "shop_green"
+  },
+  {
+    "id": "headshop_upper_roof",
+    "fg": "shop_green"
+  },
+  {
+    "id": "abstorefront",
+    "fg": "shop_light_gray"
+  },
+  {
+    "id": "abstorefront_roof",
+    "fg": "shop_light_gray"
+  },
+  {
+    "id": "abstorefront_1",
+    "fg": "shop_light_gray"
+  },
+  {
+    "id": "abstorefront_roof_1",
+    "fg": "shop_light_gray"
+  },
+  {
+    "id": "abstorefront_2",
+    "fg": "shop_light_gray"
+  },
+  {
+    "id": "abstorefront_roof_2",
+    "fg": "shop_light_gray"
+  },
+  {
+    "id": "station_radio",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "station_radio_roof",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "station_radio_1",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "station_radio_roof_1",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "cs_gardening_allotment",
+    "fg": "small_tree_brown"
+  },
+  {
+    "id": "cs_gardening_allotment_roof",
+    "fg": "small_tree_brown"
+  },
+  {
+    "id": "animalpound",
+    "fg": "shop_brown"
+  },
+  {
+    "id": "animalpound_roof",
+    "fg": "shop_brown"
+  },
+  {
+    "id": "animalshelter",
+    "fg": "shop_pink"
+  },
+  {
+    "id": "animalshelter_roof",
+    "fg": "shop_pink"
+  },
+  {
+    "id": "emptycommerciallot",
+    "fg": "square_dark_gray"
+  },
+  {
+    "id": "s_hunting",
+    "fg": "shop_brown"
+  },
+  {
+    "id": "s_hunting_roof",
+    "fg": "shop_brown"
+  },
+  {
+    "id": "city_block2_1",
+    "fg": "tower_light_blue"
+  },
+  {
+    "id": "city_block2_2",
+    "fg": "tower_light_blue"
+  },
+  {
+    "id": "city_block2_3",
+    "fg": "tower_light_blue"
+  },
+  {
+    "id": "city_block2_4",
+    "fg": "tower_light_blue"
+  },
+  {
+    "id": "city_block2_flr2_1",
+    "fg": "tower_light_blue"
+  },
+  {
+    "id": "city_block2_flr2_2",
+    "fg": "tower_light_blue"
+  },
+  {
+    "id": "city_block2_flr2_3",
+    "fg": "tower_light_blue"
+  },
+  {
+    "id": "city_block2_flr2_4",
+    "fg": "tower_light_blue"
+  },
+  {
+    "id": "city_block2_roof_1",
+    "fg": "tower_light_blue"
+  },
+  {
+    "id": "city_block2_roof_2",
+    "fg": "tower_light_blue"
+  },
+  {
+    "id": "city_block2_roof_3",
+    "fg": "tower_light_blue"
+  },
+  {
+    "id": "city_block2_roof_4",
+    "fg": "tower_light_blue"
+  }
+]

@@ -1,0 +1,654 @@
+[
+  {
+    "id": "generic_mall",
+    "fg": "industry_red"
+  },
+  {
+    "id": "mall_a_3",
+    "fg": "industry_light_red"
+  },
+  {
+    "id": "mall_b_3",
+    "fg": "industry_light_red"
+  },
+  {
+    "id": "mall_a_3_roof",
+    "fg": "industry_light_red"
+  },
+  {
+    "id": "mall_upper_roof_3",
+    "fg": "industry_light_red"
+  },
+  {
+    "id": "mall_a_4",
+    "fg": "firestation_light_gray"
+  },
+  {
+    "id": "mall_upper_roof_4",
+    "fg": "firestation_light_gray"
+  },
+  {
+    "id": "mall_b_4",
+    "fg": "firestation_light_gray"
+  },
+  {
+    "id": "mall_a_4_roof",
+    "fg": "firestation_light_gray"
+  },
+  {
+    "id": "mall_a_5",
+    "fg": "firestation_light_gray"
+  },
+  {
+    "id": "mall_b_5",
+    "fg": "firestation_light_gray"
+  },
+  {
+    "id": "mall_a_5_roof",
+    "fg": "firestation_light_gray"
+  },
+  {
+    "id": "mall_a_7",
+    "fg": "square_dark_gray"
+  },
+  {
+    "id": "mall_a_8",
+    "fg": "square_dark_gray"
+  },
+  {
+    "id": "mall_a_9",
+    "fg": "square_dark_gray"
+  },
+  {
+    "id": "mall_a_10_roof",
+    "fg": "open_air_blue"
+  },
+  {
+    "id": "mall_a_11",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_11",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_11_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_12",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_12",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_12_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_upper_roof_12",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_13",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_upper_roof_13",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_13",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_13_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_14",
+    "fg": "big_building_red"
+  },
+  {
+    "id": "mall_b_14",
+    "fg": "big_building_red"
+  },
+  {
+    "id": "mall_a_14_roof",
+    "fg": "big_building_red"
+  },
+  {
+    "id": "mall_a_19_roof",
+    "fg": "open_air_blue"
+  },
+  {
+    "id": "mall_a_20",
+    "fg": "park_light_red"
+  },
+  {
+    "id": "mall_b_20",
+    "fg": "park_light_red"
+  },
+  {
+    "id": "mall_a_20_roof",
+    "fg": "park_light_red"
+  },
+  {
+    "id": "mall_a_21",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_21",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_21_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_22",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_22",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_22_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_23",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_23",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_23_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_24",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_24",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_24_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_25",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_25",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_25_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_26",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_26",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_26_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_29",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_29",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_29_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_30",
+    "fg": "industry_light_red"
+  },
+  {
+    "id": "mall_b_30",
+    "fg": "industry_light_red"
+  },
+  {
+    "id": "mall_a_30_roof",
+    "fg": "industry_light_red"
+  },
+  {
+    "id": "mall_a_31",
+    "fg": "industry_light_red"
+  },
+  {
+    "id": "mall_b_31",
+    "fg": "industry_light_red"
+  },
+  {
+    "id": "mall_a_31_roof",
+    "fg": "industry_light_red"
+  },
+  {
+    "id": "mall_a_32",
+    "fg": "industry_light_red"
+  },
+  {
+    "id": "mall_b_32",
+    "fg": "industry_light_red"
+  },
+  {
+    "id": "mall_a_32_roof",
+    "fg": "industry_light_red"
+  },
+  {
+    "id": "mall_a_33",
+    "fg": "industry_light_red"
+  },
+  {
+    "id": "mall_b_33",
+    "fg": "industry_light_red"
+  },
+  {
+    "id": "mall_a_33_roof",
+    "fg": "industry_light_red"
+  },
+  {
+    "id": "mall_a_34",
+    "fg": "industry_light_red"
+  },
+  {
+    "id": "mall_b_34",
+    "fg": "industry_light_red"
+  },
+  {
+    "id": "mall_a_34_roof",
+    "fg": "industry_light_red"
+  },
+  {
+    "id": "mall_upper_roof_34",
+    "fg": "industry_light_red"
+  },
+  {
+    "id": "mall_a_35",
+    "fg": "industry_light_red"
+  },
+  {
+    "id": "mall_b_35",
+    "fg": "industry_light_red"
+  },
+  {
+    "id": "mall_a_35_roof",
+    "fg": "industry_light_red"
+  },
+  {
+    "id": "mall_upper_roof_35",
+    "fg": "industry_light_red"
+  },
+  {
+    "id": "mall_a_38",
+    "fg": "industry_light_red"
+  },
+  {
+    "id": "mall_b_38",
+    "fg": "industry_light_red"
+  },
+  {
+    "id": "mall_a_38_roof",
+    "fg": "industry_light_red"
+  },
+  {
+    "id": "mall_a_39",
+    "fg": "industry_light_red"
+  },
+  {
+    "id": "mall_b_39",
+    "fg": "industry_light_red"
+  },
+  {
+    "id": "mall_a_39_roof",
+    "fg": "industry_light_red"
+  },
+  {
+    "id": "mall_a_40",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_40",
+    "fg": "firestation_light_gray"
+  },
+  {
+    "id": "mall_a_40_roof",
+    "fg": "firestation_light_gray"
+  },
+  {
+    "id": "mall_a_41",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_41",
+    "fg": "firestation_light_gray"
+  },
+  {
+    "id": "mall_a_41_roof",
+    "fg": "firestation_light_gray"
+  },
+  {
+    "id": "mall_a_42",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_42",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_42_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_43",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_43",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_43_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_44",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_44",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_44_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_47",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_47",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_47_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_48",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_48",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_48_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_upper_roof_48",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_49",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_49",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_49_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_upper_roof_49",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_50",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_50",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_50_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_upper_roof_50",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_51",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_51",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_51_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_upper_roof_51",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_52",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_52",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_52_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_53",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_53",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_53_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_56",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_56",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_56_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_57",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_57",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_57_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_58",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_58",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_58_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_59",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_59",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_59_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_60",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_60",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_60_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_61",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_61",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_61_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_62",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_62",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_62_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_65",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_65",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_65_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_66",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_66",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_66_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_67",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_67",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_67_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_68",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_68",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_68_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_69",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_69",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_69_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_70",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_70",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_70_roof",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_71",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_b_71",
+    "fg": "big_building_light_red"
+  },
+  {
+    "id": "mall_a_71_roof",
+    "fg": "big_building_light_red"
+  }
+]

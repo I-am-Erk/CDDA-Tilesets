@@ -1,0 +1,634 @@
+[
+  {
+    "id": "church",
+    "fg": "church_light_gray"
+  },
+  {
+    "id": "church_roof",
+    "fg": "church_light_gray"
+  },
+  {
+    "id": "church_steeple",
+    "fg": "church_light_gray"
+  },
+  {
+    "id": "church_steeple_end",
+    "fg": "church_light_gray"
+  },
+  {
+    "id": "church_steeple_roof",
+    "fg": "church_light_gray"
+  },
+  {
+    "id": "church_1",
+    "fg": "church_light_gray"
+  },
+  {
+    "id": "church_2ndfloor_1",
+    "fg": "church_light_gray"
+  },
+  {
+    "id": "church_3rdfloor_1",
+    "fg": "church_light_gray"
+  },
+  {
+    "id": "church_roof_1",
+    "fg": "church_light_gray"
+  },
+  {
+    "id": "cathedral_1_NW",
+    "fg": "church_white"
+  },
+  {
+    "id": "cathedral_1_NE",
+    "fg": "church_white"
+  },
+  {
+    "id": "cathedral_1_SW",
+    "fg": "church_white"
+  },
+  {
+    "id": "cathedral_1_SE",
+    "fg": "church_white"
+  },
+  {
+    "id": "cathedral_b_NW",
+    "fg": "church_white"
+  },
+  {
+    "id": "cathedral_b_NE",
+    "fg": "church_white"
+  },
+  {
+    "id": "cathedral_b_SW",
+    "fg": "church_white"
+  },
+  {
+    "id": "cathedral_b_SE",
+    "fg": "church_white"
+  },
+  {
+    "id": "s_library",
+    "fg": "public_building_brown"
+  },
+  {
+    "id": "s_library_roof",
+    "fg": "public_building_brown"
+  },
+  {
+    "id": "s_library_1",
+    "fg": "public_building_brown"
+  },
+  {
+    "id": "s_library_roof_1",
+    "fg": "public_building_brown"
+  },
+  {
+    "id": "s_library_2",
+    "fg": "public_building_brown"
+  },
+  {
+    "id": "s_library_roof_2",
+    "fg": "public_building_brown"
+  },
+  {
+    "id": "police",
+    "fg": "public_building_light_blue"
+  },
+  {
+    "id": "police_roof",
+    "fg": "public_building_light_blue"
+  },
+  {
+    "id": "police_1",
+    "fg": "public_building_light_blue"
+  },
+  {
+    "id": "police_2ndfloor_1",
+    "fg": "public_building_light_blue"
+  },
+  {
+    "id": "police_roof_1",
+    "fg": "public_building_light_blue"
+  },
+  {
+    "id": "police_2",
+    "fg": "public_building_light_blue"
+  },
+  {
+    "id": "police_roof_2",
+    "fg": "public_building_light_blue"
+  },
+  {
+    "id": "police_upper_roof_2",
+    "fg": "public_building_light_blue"
+  },
+  {
+    "id": "generic_hospital",
+    "fg": "big_building_red"
+  },
+  {
+    "id": "hospital_1",
+    "fg": "big_building_red"
+  },
+  {
+    "id": "hospital_2",
+    "fg": "big_building_red"
+  },
+  {
+    "id": "hospital_3",
+    "fg": "big_building_red"
+  },
+  {
+    "id": "hospital_4",
+    "fg": "big_building_red"
+  },
+  {
+    "id": "hospital_5",
+    "fg": "big_building_red"
+  },
+  {
+    "id": "hospital_6",
+    "fg": "big_building_red"
+  },
+  {
+    "id": "hospital_7",
+    "fg": "big_building_red"
+  },
+  {
+    "id": "hospital_8",
+    "fg": "big_building_red"
+  },
+  {
+    "id": "hospital_9",
+    "fg": "big_building_red"
+  },
+  {
+    "id": "school_1_1",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_1_2",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_1_3",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_1_4",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_1_5",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_1_6",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_1_7",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_1_8",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_1_9",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_2_1",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_2_2",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_2_3",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_2_4",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_2_5",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_2_6",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_2_7",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_2_8",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_2_9",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_3_1",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_3_2",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_3_3",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_3_4",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_3_5",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_3_6",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_3_7",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_3_8",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_3_9",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_4_1",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_4_2",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_4_3",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_4_4",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_4_5",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_4_6",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_4_7",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_4_8",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "school_4_9",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "prison_1_1",
+    "fg": "watchtower_light_gray"
+  },
+  {
+    "id": "prison_1_2",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_1_3",
+    "fg": "watchtower_light_gray"
+  },
+  {
+    "id": "prison_1_4",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_1_5",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_1_6",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_1_7",
+    "fg": "watchtower_light_gray"
+  },
+  {
+    "id": "prison_1_8",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_1_9",
+    "fg": "watchtower_light_gray"
+  },
+  {
+    "id": "prison_1_b_1",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_1_b_2",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_1_b_3",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_1_b_4",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_1_b_5",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_1_b_6",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_1_b_7",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_1_b_8",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_1_b_9",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_1_b_7_hidden",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_1_b_8_hidden_lab_stairs",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_1_b_9_hidden",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_alcatraz_1",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_alcatraz_2",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_alcatraz_3",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_alcatraz_4",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_alcatraz_5",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_alcatraz_6",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_alcatraz_7",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_alcatraz_8",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_alcatraz_9",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_alcatraz_10",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_alcatraz_11",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_alcatraz_12",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_alcatraz_13",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_alcatraz_14",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_alcatraz_15",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_alcatraz_1_2f",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_alcatraz_2_2f",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_alcatraz_3_2f",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_alcatraz_4_2f",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_alcatraz_5_2f",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_alcatraz_6_2f",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_alcatraz_7_2f",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_alcatraz_8_2f",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_alcatraz_9_2f",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_alcatraz_10_2f",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_alcatraz_11_2f",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_alcatraz_12_2f",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_alcatraz_13_2f",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_alcatraz_14_2f",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_alcatraz_15_2f",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "post_office",
+    "fg": "two_story_light_blue"
+  },
+  {
+    "id": "two_story_light_blue_roof",
+    "fg": "two_story_light_blue"
+  },
+  {
+    "id": "two_story_light_blue_1",
+    "fg": "two_story_light_blue"
+  },
+  {
+    "id": "two_story_light_blue_roof_1",
+    "fg": "two_story_light_blue"
+  },
+  {
+    "id": "mortuary",
+    "fg": "two_story_brown"
+  },
+  {
+    "id": "mortuary_roof",
+    "fg": "two_story_brown"
+  },
+  {
+    "id": "fire_station",
+    "fg": "firestation_red"
+  },
+  {
+    "id": "fire_station_roof",
+    "fg": "two_story_brown"
+  },
+  {
+    "id": "fire_station_1",
+    "fg": "two_story_brown"
+  },
+  {
+    "id": "fire_station_roof_1",
+    "fg": "two_story_brown"
+  },
+  {
+    "id": "homeless_0_0_0",
+    "fg": "two_story_green"
+  },
+  {
+    "id": "homeless_1_0_0",
+    "fg": "two_story_green"
+  },
+  {
+    "id": "homeless_0_0_1",
+    "fg": "two_story_green"
+  },
+  {
+    "id": "homeless_1_0_1",
+    "fg": "two_story_green"
+  },
+  {
+    "id": "homeless_0_0_2",
+    "fg": "two_story_green"
+  },
+  {
+    "id": "homeless_1_0_2",
+    "fg": "two_story_green"
+  },
+  {
+    "id": "homeless_0_0_roof",
+    "fg": "two_story_green"
+  },
+  {
+    "id": "homeless_1_0_roof",
+    "fg": "two_story_green"
+  },
+  {
+    "id": "town_hall_0_0_0",
+    "fg": "public_building_light_green"
+  },
+  {
+    "id": "town_hall_1_0_0",
+    "fg": "public_building_light_green"
+  },
+  {
+    "id": "town_hall_0_1_0",
+    "fg": "public_building_light_green"
+  },
+  {
+    "id": "town_hall_1_1_0",
+    "fg": "public_building_light_green"
+  },
+  {
+    "id": "town_hall_0_0_1",
+    "fg": "public_building_light_green"
+  },
+  {
+    "id": "town_hall_1_0_1",
+    "fg": "public_building_light_green"
+  },
+  {
+    "id": "town_hall_0_1_1",
+    "fg": "public_building_light_green"
+  },
+  {
+    "id": "town_hall_1_1_1",
+    "fg": "public_building_light_green"
+  },
+  {
+    "id": "town_hall_0_0_roof",
+    "fg": "public_building_light_green"
+  },
+  {
+    "id": "town_hall_1_0_roof",
+    "fg": "public_building_light_green"
+  },
+  {
+    "id": "town_hall_0_1_roof",
+    "fg": "public_building_light_green"
+  },
+  {
+    "id": "town_hall_1_1_roof",
+    "fg": "public_building_light_green"
+  }
+]

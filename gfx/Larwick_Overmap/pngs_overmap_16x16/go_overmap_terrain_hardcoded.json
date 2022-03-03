@@ -1,0 +1,146 @@
+[
+  {
+    "id": "open_air",
+    "fg": "open_air_blue"
+  },
+  {
+    "id": "crater",
+    "fg": "hole_red"
+  },
+  {
+    "id": "field",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "forest",
+    "fg": "small_tree_green"
+  },
+  {
+    "id": "forest_thick",
+    "fg": "big_tree_green"
+  },
+  {
+    "id": "forest_water",
+    "fg": "swamp_cyan"
+  },
+  {
+    "id": "s_lot",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "standing_stones",
+    "fg": "small_tree_dark_gray"
+  },
+  {
+    "id": "temple_stairs",
+    "fg": "building_columns_pink"
+  },
+  {
+    "id": "temple_finale",
+    "fg": "building_columns_pink"
+  },
+  {
+    "id": "mine_entrance",
+    "fg": "mine_magenta"
+  },
+  {
+    "id": "mine_entrance_roof",
+    "fg": "mine_magenta"
+  },
+  {
+    "id": "mine_shaft_middle",
+    "fg": "mine_dark_gray"
+  },
+  {
+    "id": "mine_shaft_lower",
+    "fg": "mine_dark_gray"
+  },
+  {
+    "id": "mine",
+    "fg": "mine_brown"
+  },
+  {
+    "id": "mine_down",
+    "fg": "mine_brown"
+  },
+  {
+    "id": "mine_finale",
+    "fg": "mine_brown"
+  },
+  {
+    "id": "cave",
+    "fg": "cave_light_gray"
+  },
+  {
+    "id": "cave_rat",
+    "fg": "cave_brown"
+  },
+  {
+    "id": "hive",
+    "fg": "hive_yellow"
+  },
+  {
+    "id": "spider_pit",
+    "fg": "small_tree_white"
+  },
+  {
+    "id": "spider_pit_under",
+    "fg": "web_light_gray"
+  },
+  {
+    "id": "slimepit",
+    "fg": "pond_light_green"
+  },
+  {
+    "id": "slimepit_down",
+    "fg": "pond_light_green"
+  },
+  {
+    "id": "triffid_grove",
+    "fg": "big_tree_pink"
+  },
+  {
+    "id": "triffid_roots",
+    "fg": "big_tree_magenta"
+  },
+  {
+    "id": "triffid_finale",
+    "fg": "big_tree_red"
+  },
+  {
+    "id": "rock",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "empty_rock",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "rift",
+    "fg": "portal_red"
+  },
+  {
+    "id": "hellmouth",
+    "fg": "portal_light_red"
+  },
+  {
+    "id": "ants",
+    "fg": "pond_brown"
+  },
+  {
+    "id": "ants_food",
+    "fg": "hive_red"
+  },
+  {
+    "id": "ants_larvae",
+    "fg": "hive_white"
+  },
+  {
+    "id": "ants_queen",
+    "fg": "hive_red"
+  },
+  {
+    "id": "tutorial",
+    "fg": "square_cyan"
+  }
+]

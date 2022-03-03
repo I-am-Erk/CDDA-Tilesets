@@ -1,0 +1,14 @@
+[
+  {
+    "id": "fungal_tower",
+    "fg": "fungal_yellow"
+  },
+  {
+    "id": "fungal_bloom",
+    "fg": "fungal_light_gray"
+  },
+  {
+    "id": "fungal_flowers",
+    "fg": "fungal_cyan"
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "pixelscale": 1,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "overmap.png": {  }
+  },
+  {
+    "fallback.png": {
+      "fallback": true
+    }
+  }
+]

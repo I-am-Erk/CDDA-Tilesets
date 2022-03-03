@@ -1,0 +1,60 @@
+[
+  {
+    "id": "generic_river",
+    "fg": "water_light_blue"
+  },
+  {
+    "id": "generic_river_bank",
+    "fg": "water_light_blue"
+  },
+  {
+    "id": "river_center",
+    "fg": "water_blue"
+  },
+  {
+    "id": "river",
+    "fg": "water_light_blue"
+  },
+  {
+    "id": "river_c_not_ne",
+    "fg": "water_light_blue"
+  },
+  {
+    "id": "river_c_not_nw",
+    "fg": "water_light_blue"
+  },
+  {
+    "id": "river_c_not_se",
+    "fg": "water_light_blue"
+  },
+  {
+    "id": "river_c_not_sw",
+    "fg": "water_light_blue"
+  },
+  {
+    "id": "river_ne",
+    "fg": "water_light_blue"
+  },
+  {
+    "id": "river_se",
+    "fg": "water_light_blue"
+  },
+  {
+    "id": "river_sw",
+    "fg": "water_light_blue"
+  },
+  {
+    "id": "river_nw",
+    "fg": "water_light_blue"
+  },
+  {
+    "id": "bridge_road",
+    "fg": [ "v_line_white", "h_line_white", "v_line_white", "h_line_white" ],
+    "rotates": true
+  },
+  {
+    "id": "bridge",
+    "fg": [ "v_line_blue", "h_line_blue", "v_line_blue", "h_line_blue" ],
+    "rotates": true
+  }
+]
