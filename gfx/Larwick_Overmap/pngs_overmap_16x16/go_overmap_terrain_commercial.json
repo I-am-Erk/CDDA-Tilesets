@@ -781,31 +781,31 @@
   },
   {
     "id": "hotel_tower_1_1",
-    "fg": "tower_dark_gray"
+    "fg": "parking_dark_gray"
   },
   {
     "id": "hotel_tower_1_2",
-    "fg": "tower_dark_gray"
+    "fg": "parking_dark_gray"
   },
   {
     "id": "hotel_tower_1_3",
-    "fg": "tower_dark_gray"
+    "fg": "parking_dark_gray"
   },
   {
     "id": "hotel_tower_1_4",
-    "fg": "tower_dark_gray"
+    "fg": "parking_dark_gray"
   },
   {
     "id": "hotel_tower_flr2_1_4",
-    "fg": "tower_dark_gray"
+    "fg": "parking_dark_gray"
   },
   {
     "id": "hotel_tower_flr3_1_4",
-    "fg": "tower_dark_gray"
+    "fg": "parking_dark_gray"
   },
   {
     "id": "hotel_tower_flr4_1_4",
-    "fg": "tower_dark_gray"
+    "fg": "parking_dark_gray"
   },
   {
     "id": "hotel_tower_roof_1_4",
@@ -853,15 +853,15 @@
   },
   {
     "id": "hotel_tower_flr2_1_6",
-    "fg": "tower_dark_gray"
+    "fg": "parking_dark_gray"
   },
   {
     "id": "hotel_tower_flr3_1_6",
-    "fg": "tower_dark_gray"
+    "fg": "parking_dark_gray"
   },
   {
     "id": "hotel_tower_flr4_1_6",
-    "fg": "tower_dark_gray"
+    "fg": "parking_dark_gray"
   },
   {
     "id": "hotel_tower_roof_1_6",
@@ -869,63 +869,63 @@
   },
   {
     "id": "hotel_tower_1_7",
-    "fg": "parking_dark_gray"
+    "fg": "tower_dark_gray"
   },
   {
     "id": "hotel_tower_flr2_1_7",
-    "fg": "parking_dark_gray"
+    "fg": "tower_dark_gray"
   },
   {
     "id": "hotel_tower_flr3_1_7",
-    "fg": "parking_dark_gray"
+    "fg": "tower_dark_gray"
   },
   {
     "id": "hotel_tower_flr4_1_7",
-    "fg": "parking_dark_gray"
+    "fg": "tower_dark_gray"
   },
   {
     "id": "hotel_tower_roof_1_7",
-    "fg": "parking_dark_gray"
+    "fg": "tower_dark_gray"
   },
   {
     "id": "hotel_tower_1_8",
-    "fg": "parking_dark_gray"
+    "fg": "tower_dark_gray"
   },
   {
     "id": "hotel_tower_flr2_1_8",
-    "fg": "parking_dark_gray"
+    "fg": "tower_dark_gray"
   },
   {
     "id": "hotel_tower_flr3_1_8",
-    "fg": "parking_dark_gray"
+    "fg": "tower_dark_gray"
   },
   {
     "id": "hotel_tower_flr4_1_8",
-    "fg": "parking_dark_gray"
+    "fg": "tower_dark_gray"
   },
   {
     "id": "hotel_tower_roof_1_8",
-    "fg": "parking_dark_gray"
+    "fg": "tower_dark_gray"
   },
   {
     "id": "hotel_tower_1_9",
-    "fg": "parking_dark_gray"
+    "fg": "tower_dark_gray"
   },
   {
     "id": "hotel_tower_flr2_1_9",
-    "fg": "parking_dark_gray"
+    "fg": "tower_dark_gray"
   },
   {
     "id": "hotel_tower_flr3_1_9",
-    "fg": "parking_dark_gray"
+    "fg": "tower_dark_gray"
   },
   {
     "id": "hotel_tower_flr4_1_9",
-    "fg": "parking_dark_gray"
+    "fg": "tower_dark_gray"
   },
   {
     "id": "hotel_tower_roof_1_9",
-    "fg": "parking_dark_gray"
+    "fg": "tower_dark_gray"
   },
   {
     "id": "hotel_tower_b_1",
@@ -1653,50 +1653,50 @@
   },
   {
     "id": "city_block2_1",
-    "fg": "parking_light_blue"
+    "fg": "tower_light_blue"
   },
   {
     "id": "city_block2_2",
-    "fg": "parking_light_blue"
+    "fg": "tower_light_blue"
   },
   {
     "id": "city_block2_3",
-    "fg": "parking_light_blue"
+    "fg": "tower_light_blue"
   },
   {
     "id": "city_block2_4",
-    "fg": "parking_light_blue"
+    "fg": "tower_light_blue"
   },
   {
     "id": "city_block2_flr2_1",
-    "fg": "parking_light_blue"
+    "fg": "tower_light_blue"
   },
   {
     "id": "city_block2_flr2_2",
-    "fg": "parking_light_blue"
+    "fg": "tower_light_blue"
   },
   {
     "id": "city_block2_flr2_3",
-    "fg": "parking_light_blue"
+    "fg": "tower_light_blue"
   },
   {
     "id": "city_block2_flr2_4",
-    "fg": "parking_light_blue"
+    "fg": "tower_light_blue"
   },
   {
     "id": "city_block2_roof_1",
-    "fg": "parking_light_blue"
+    "fg": "tower_light_blue"
   },
   {
     "id": "city_block2_roof_2",
-    "fg": "parking_light_blue"
+    "fg": "tower_light_blue"
   },
   {
     "id": "city_block2_roof_3",
-    "fg": "parking_light_blue"
+    "fg": "tower_light_blue"
   },
   {
     "id": "city_block2_roof_4",
-    "fg": "parking_light_blue"
+    "fg": "tower_light_blue"
   }
 ]
