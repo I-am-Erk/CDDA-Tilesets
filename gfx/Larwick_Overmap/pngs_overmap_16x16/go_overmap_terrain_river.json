@@ -48,7 +48,13 @@
     "fg": "water_light_blue"
   },
   {
-    "id": [ "river_east", "river_north", "river_west", "river_south" ],
-    "fg": "water_light_blue"
+    "id": "bridge_road",
+    "fg": [ "v_line_white", "h_line_white", "v_line_white", "h_line_white" ],
+    "rotates": true
+  },
+  {
+    "id": "bridge",
+    "fg": [ "v_line_blue", "h_line_blue", "v_line_blue", "h_line_blue" ],
+    "rotates": true
   }
 ]
