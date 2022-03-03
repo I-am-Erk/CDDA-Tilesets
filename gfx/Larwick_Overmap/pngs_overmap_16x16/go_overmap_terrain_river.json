@@ -13,38 +13,42 @@
   },
   {
     "id": "river",
-    "fg": "water_blue"
+    "fg": "water_light_blue"
   },
   {
     "id": "river_c_not_ne",
-    "fg": "water_blue"
+    "fg": "water_light_blue"
   },
   {
     "id": "river_c_not_nw",
-    "fg": "water_blue"
+    "fg": "water_light_blue"
   },
   {
     "id": "river_c_not_se",
-    "fg": "water_blue"
+    "fg": "water_light_blue"
   },
   {
     "id": "river_c_not_sw",
-    "fg": "water_blue"
+    "fg": "water_light_blue"
   },
   {
     "id": "river_ne",
-    "fg": "water_blue"
+    "fg": "water_light_blue"
   },
   {
     "id": "river_se",
-    "fg": "water_blue"
+    "fg": "water_light_blue"
   },
   {
     "id": "river_sw",
-    "fg": "water_blue"
+    "fg": "water_light_blue"
   },
   {
     "id": "river_nw",
-    "fg": "water_blue"
+    "fg": "water_light_blue"
+  },
+  {
+    "id": [ "river_east", "river_north", "river_west", "river_south" ],
+    "fg": "water_light_blue"
   }
 ]
