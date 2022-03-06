@@ -113,23 +113,23 @@
   },
   {
     "id": "lake_retreat_ground",
-    "fg": "shop_white_white"
+    "fg": "shop_white"
   },
   {
     "id": "lake_retreat_z1",
-    "fg": "shop_white_white"
+    "fg": "shop_white"
   },
   {
     "id": "lake_retreat_z2",
-    "fg": "shop_white_white"
+    "fg": "shop_white"
   },
   {
     "id": "lake_retreat_z3",
-    "fg": "shop_white_white"
+    "fg": "shop_white"
   },
   {
     "id": "lake_retreat_z4",
-    "fg": "shop_white_white"
+    "fg": "shop_white"
   },
   {
     "id": "lake_retreat_boathouse",
@@ -141,43 +141,43 @@
   },
   {
     "id": "wizardtower1_ground",
-    "fg": "shop_white_white"
+    "fg": "shop_white"
   },
   {
     "id": "wizardtower1_living",
-    "fg": "shop_white_white"
+    "fg": "shop_white"
   },
   {
     "id": "wizardtower1_golems",
-    "fg": "shop_white_white"
+    "fg": "shop_white"
   },
   {
     "id": "wizardtower1_study",
-    "fg": "shop_white_white"
+    "fg": "shop_white"
   },
   {
     "id": "wizardtower1_roof",
-    "fg": "shop_white_white"
+    "fg": "shop_white"
   },
   {
     "id": "wizardtower2_ground",
-    "fg": "shop_white_white"
+    "fg": "shop_white"
   },
   {
     "id": "wizardtower2_stairs1",
-    "fg": "shop_white_white"
+    "fg": "shop_white"
   },
   {
     "id": "wizardtower2_stairs2",
-    "fg": "shop_white_white"
+    "fg": "shop_white"
   },
   {
     "id": "wizardtower2_study",
-    "fg": "shop_white_white"
+    "fg": "shop_white"
   },
   {
     "id": "wizardtower2_roof",
-    "fg": "shop_white_white"
+    "fg": "shop_white"
   },
   {
     "id": "forest_tomb",
