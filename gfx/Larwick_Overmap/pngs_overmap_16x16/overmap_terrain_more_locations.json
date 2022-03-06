@@ -1,119 +1,119 @@
 [
   {
     "id": "bandit_tower_1gate",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "bandit_tower_1ybe",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "bandit_tower_1yle",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "bandit_tower_1yre",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "bandit_tower_1yte",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "bandit_tower_1cyblc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "bandit_tower_1cybrc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "bandit_tower_1cytlc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "bandit_tower_1cytrc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "bandit_tower_1blc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "bandit_tower_1brc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "bandit_tower_1tlc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "bandit_tower_1trc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "bandit_tower_2blc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "bandit_tower_2brc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "bandit_tower_2tlc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "bandit_tower_2trc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "bandit_tower_3blc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "bandit_tower_3brc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "bandit_tower_3tlc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "bandit_tower_3trc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "bandit_tower_4blc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "bandit_tower_4brc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "bandit_tower_4tlc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "bandit_tower_4trc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "bandit_tower_ublc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "bandit_tower_ubrc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "bandit_tower_utlc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "bandit_tower_utrc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "estate_umid",
@@ -741,250 +741,250 @@
   },
   {
     "id": "refugee_tower_1gate",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "refugee_tower_1ybe",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "refugee_tower_1yle",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "refugee_tower_1yre",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "refugee_tower_1yte",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "refugee_tower_1cyblc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "refugee_tower_1cybrc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "refugee_tower_1cytlc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "refugee_tower_1cytrc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "refugee_tower_1blc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "refugee_tower_1brc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "refugee_tower_1tlc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "refugee_tower_1trc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "refugee_tower_2blc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "refugee_tower_2brc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "refugee_tower_2tlc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "refugee_tower_2trc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "refugee_tower_3blc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "refugee_tower_3brc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "refugee_tower_3tlc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "refugee_tower_3trc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "refugee_tower_4blc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "refugee_tower_4brc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "refugee_tower_4tlc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "refugee_tower_4trc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "refugee_tower_5blc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "refugee_tower_5brc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "refugee_tower_5tlc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "refugee_tower_5trc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "refugee_tower_ublc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "refugee_tower_ubrc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "refugee_tower_utlc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "refugee_tower_utrc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "tri_tower_1gate",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "tri_tower_1ybe",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "tri_tower_1yle",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "tri_tower_1yre",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "tri_tower_1yte",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "tri_tower_1cyblc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "tri_tower_1cybrc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "tri_tower_1cytlc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "tri_tower_1cytrc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "tri_tower_1blc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "tri_tower_1brc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "tri_tower_1tlc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "tri_tower_1trc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "tri_tower_2blc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "tri_tower_2brc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "tri_tower_2tlc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "tri_tower_2trc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "tri_tower_3blc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "tri_tower_3brc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "tri_tower_3tlc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "tri_tower_3trc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "tri_tower_4blc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "tri_tower_4brc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "tri_tower_4tlc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "tri_tower_4trc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "tri_tower_ublc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "tri_tower_ubrc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "tri_tower_utlc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   },
   {
     "id": "tri_tower_utrc",
-    "fg": "parking_light_white"
+    "fg": "parking_white"
   }
 ]
