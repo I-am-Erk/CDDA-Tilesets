@@ -313,7 +313,7 @@
   },
   {
     "id": "mil_outpost_ybe_gate",
-    "fg": "TODO: ."
+    "fg": "one_grass_white"
   },
   {
     "id": "mil_outpost_ybrc",
@@ -673,7 +673,7 @@
   },
   {
     "id": "combogarageA_first",
-    "fg": "TODO: ^"
+    "fg": "house_white"
   },
   {
     "id": "combogarageA_second",
@@ -701,7 +701,7 @@
   },
   {
     "id": "combogarageB_first",
-    "fg": "TODO: ^"
+    "fg": "house_white"
   },
   {
     "id": "combogarageB_second",
@@ -729,7 +729,7 @@
   },
   {
     "id": "combogarageC_first",
-    "fg": "TODO: ^"
+    "fg": "house_white"
   },
   {
     "id": "combogarageC_second",
