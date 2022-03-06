@@ -1,0 +1,990 @@
+[
+  {
+    "id": "bandit_tower_1gate",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "bandit_tower_1ybe",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "bandit_tower_1yle",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "bandit_tower_1yre",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "bandit_tower_1yte",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "bandit_tower_1cyblc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "bandit_tower_1cybrc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "bandit_tower_1cytlc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "bandit_tower_1cytrc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "bandit_tower_1blc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "bandit_tower_1brc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "bandit_tower_1tlc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "bandit_tower_1trc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "bandit_tower_2blc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "bandit_tower_2brc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "bandit_tower_2tlc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "bandit_tower_2trc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "bandit_tower_3blc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "bandit_tower_3brc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "bandit_tower_3tlc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "bandit_tower_3trc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "bandit_tower_4blc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "bandit_tower_4brc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "bandit_tower_4tlc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "bandit_tower_4trc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "bandit_tower_ublc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "bandit_tower_ubrc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "bandit_tower_utlc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "bandit_tower_utrc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "estate_umid",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "estate_ube",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "estate_ule",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "estate_ure",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "estate_ute",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "estate_mid",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "estate_1be",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "estate_1bloc",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "estate_1broc",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "estate_1by",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "estate_1ica",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "estate_1icb",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "estate_1icc",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "estate_1icd",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "estate_1le",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "estate_1re",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "estate_1te",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "estate_1tloc",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "estate_1troc",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "estate_1ty",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "estate_2be",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "estate_2bloc",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "estate_2broc",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "estate_2ica",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "estate_2icb",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "estate_2icc",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "estate_2icd",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "estate_2le",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "estate_2re",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "estate_2te",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "estate_2tloc",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "estate_2troc",
+    "fg": "mansion_white"
+  },
+  {
+    "id": "factory_tlc",
+    "fg": "industry_white"
+  },
+  {
+    "id": "factory_te",
+    "fg": "industry_white"
+  },
+  {
+    "id": "factory_trc",
+    "fg": "industry_white"
+  },
+  {
+    "id": "factory_le",
+    "fg": "industry_white"
+  },
+  {
+    "id": "factory_mid",
+    "fg": "industry_white"
+  },
+  {
+    "id": "factory_re",
+    "fg": "industry_white"
+  },
+  {
+    "id": "factory_blc",
+    "fg": "industry_white"
+  },
+  {
+    "id": "factory_be",
+    "fg": "industry_white"
+  },
+  {
+    "id": "factory_be_gate",
+    "fg": "industry_white"
+  },
+  {
+    "id": "factory_brc",
+    "fg": "industry_white"
+  },
+  {
+    "id": "mil_outpost_ytlc",
+    "fg": "one_grass_white"
+  },
+  {
+    "id": "mil_outpost_yte",
+    "fg": "one_grass_white"
+  },
+  {
+    "id": "mil_outpost_ytrc",
+    "fg": "one_grass_white"
+  },
+  {
+    "id": "mil_outpost_yle",
+    "fg": "one_grass_white"
+  },
+  {
+    "id": "mil_outpost_yre",
+    "fg": "one_grass_white"
+  },
+  {
+    "id": "mil_outpost_yblc",
+    "fg": "one_grass_white"
+  },
+  {
+    "id": "mil_outpost_ybe",
+    "fg": "one_grass_white"
+  },
+  {
+    "id": "mil_outpost_ybe_gate",
+    "fg": "TODO: ."
+  },
+  {
+    "id": "mil_outpost_ybrc",
+    "fg": "one_grass_white"
+  },
+  {
+    "id": "mil_outpost_1tlc",
+    "fg": "tent_white"
+  },
+  {
+    "id": "mil_outpost_1te",
+    "fg": "tent_white"
+  },
+  {
+    "id": "mil_outpost_1trc",
+    "fg": "tent_white"
+  },
+  {
+    "id": "mil_outpost_1le",
+    "fg": "tent_white"
+  },
+  {
+    "id": "mil_outpost_1mid",
+    "fg": "tent_white"
+  },
+  {
+    "id": "mil_outpost_1re",
+    "fg": "tent_white"
+  },
+  {
+    "id": "mil_outpost_1blc",
+    "fg": "tent_white"
+  },
+  {
+    "id": "mil_outpost_1be",
+    "fg": "tent_white"
+  },
+  {
+    "id": "mil_outpost_1brc",
+    "fg": "tent_white"
+  },
+  {
+    "id": "mil_outpost_2tlc",
+    "fg": "tent_white"
+  },
+  {
+    "id": "mil_outpost_2te",
+    "fg": "tent_white"
+  },
+  {
+    "id": "mil_outpost_2trc",
+    "fg": "tent_white"
+  },
+  {
+    "id": "mil_outpost_2le",
+    "fg": "tent_white"
+  },
+  {
+    "id": "mil_outpost_2re",
+    "fg": "tent_white"
+  },
+  {
+    "id": "mil_outpost_2blc",
+    "fg": "tent_white"
+  },
+  {
+    "id": "mil_outpost_2be",
+    "fg": "tent_white"
+  },
+  {
+    "id": "mil_outpost_2brc",
+    "fg": "tent_white"
+  },
+  {
+    "id": "mil_outpost_3c",
+    "fg": "tent_white"
+  },
+  {
+    "id": "mil_outpost_utlc",
+    "fg": "tent_white"
+  },
+  {
+    "id": "mil_outpost_utea",
+    "fg": "tent_white"
+  },
+  {
+    "id": "mil_outpost_uteb",
+    "fg": "tent_white"
+  },
+  {
+    "id": "mil_outpost_utrc",
+    "fg": "tent_white"
+  },
+  {
+    "id": "mil_outpost_ule",
+    "fg": "tent_white"
+  },
+  {
+    "id": "mil_outpost_umid",
+    "fg": "tent_white"
+  },
+  {
+    "id": "mil_outpost_umid_finale",
+    "fg": "tent_white"
+  },
+  {
+    "id": "mil_outpost_ure",
+    "fg": "tent_white"
+  },
+  {
+    "id": "mil_outpost_ublc",
+    "fg": "tent_white"
+  },
+  {
+    "id": "mil_outpost_ubea",
+    "fg": "tent_white"
+  },
+  {
+    "id": "mil_outpost_ubeb",
+    "fg": "tent_white"
+  },
+  {
+    "id": "mil_outpost_ubrc",
+    "fg": "tent_white"
+  },
+  {
+    "id": "3storyA_first",
+    "fg": "house_white"
+  },
+  {
+    "id": "3storyA_second",
+    "fg": "house_white"
+  },
+  {
+    "id": "3storyA_third",
+    "fg": "house_white"
+  },
+  {
+    "id": "3storyA_basement",
+    "fg": "house_white"
+  },
+  {
+    "id": "3storyA_roof",
+    "fg": "house_white"
+  },
+  {
+    "id": "3storyB_first",
+    "fg": "house_white"
+  },
+  {
+    "id": "3storyB_second",
+    "fg": "house_white"
+  },
+  {
+    "id": "3storyB_third",
+    "fg": "house_white"
+  },
+  {
+    "id": "3storyB_basement",
+    "fg": "house_white"
+  },
+  {
+    "id": "3storyB_roof",
+    "fg": "house_white"
+  },
+  {
+    "id": "3storyC_first",
+    "fg": "house_white"
+  },
+  {
+    "id": "3storyC_second",
+    "fg": "house_white"
+  },
+  {
+    "id": "3storyC_third",
+    "fg": "house_white"
+  },
+  {
+    "id": "3storyC_basement",
+    "fg": "house_white"
+  },
+  {
+    "id": "3storyC_roof",
+    "fg": "house_white"
+  },
+  {
+    "id": "3storyD_first",
+    "fg": "house_white"
+  },
+  {
+    "id": "3storyD_second",
+    "fg": "house_white"
+  },
+  {
+    "id": "3storyD_third",
+    "fg": "house_white"
+  },
+  {
+    "id": "3storyD_basement",
+    "fg": "house_white"
+  },
+  {
+    "id": "3storyD_roof",
+    "fg": "house_white"
+  },
+  {
+    "id": "3storyE_first",
+    "fg": "house_white"
+  },
+  {
+    "id": "3storyE_second",
+    "fg": "house_white"
+  },
+  {
+    "id": "3storyE_third",
+    "fg": "house_white"
+  },
+  {
+    "id": "3storyE_basement",
+    "fg": "house_white"
+  },
+  {
+    "id": "3storyE_roof",
+    "fg": "house_white"
+  },
+  {
+    "id": "3storyF_first",
+    "fg": "house_white"
+  },
+  {
+    "id": "3storyF_second",
+    "fg": "house_white"
+  },
+  {
+    "id": "3storyF_third",
+    "fg": "house_white"
+  },
+  {
+    "id": "3storyF_basement",
+    "fg": "house_white"
+  },
+  {
+    "id": "3storyF_roof",
+    "fg": "house_white"
+  },
+  {
+    "id": "2storyA_first",
+    "fg": "house_white"
+  },
+  {
+    "id": "2storyA_second",
+    "fg": "house_white"
+  },
+  {
+    "id": "2storyA_basement",
+    "fg": "house_white"
+  },
+  {
+    "id": "2storyA_roof",
+    "fg": "house_white"
+  },
+  {
+    "id": "2storyB_first",
+    "fg": "house_white"
+  },
+  {
+    "id": "2storyB_second",
+    "fg": "house_white"
+  },
+  {
+    "id": "2storyB_basement",
+    "fg": "house_white"
+  },
+  {
+    "id": "2storyB_roof",
+    "fg": "house_white"
+  },
+  {
+    "id": "2storyC_first",
+    "fg": "house_white"
+  },
+  {
+    "id": "2storyC_second",
+    "fg": "house_white"
+  },
+  {
+    "id": "2storyC_basement",
+    "fg": "house_white"
+  },
+  {
+    "id": "2storyC_roof",
+    "fg": "house_white"
+  },
+  {
+    "id": "2storyD_first",
+    "fg": "house_white"
+  },
+  {
+    "id": "2storyD_second",
+    "fg": "house_white"
+  },
+  {
+    "id": "2storyD_basement",
+    "fg": "house_white"
+  },
+  {
+    "id": "2storyD_roof",
+    "fg": "house_white"
+  },
+  {
+    "id": "2storyE_first",
+    "fg": "house_white"
+  },
+  {
+    "id": "2storyE_second",
+    "fg": "house_white"
+  },
+  {
+    "id": "2storyE_basement",
+    "fg": "house_white"
+  },
+  {
+    "id": "2storyE_roof",
+    "fg": "house_white"
+  },
+  {
+    "id": "2storyF_first",
+    "fg": "house_white"
+  },
+  {
+    "id": "2storyF_second",
+    "fg": "house_white"
+  },
+  {
+    "id": "2storyF_basement",
+    "fg": "house_white"
+  },
+  {
+    "id": "2storyF_roof",
+    "fg": "house_white"
+  },
+  {
+    "id": "combohouseA_first",
+    "fg": "house_white"
+  },
+  {
+    "id": "combohouseA_second",
+    "fg": "house_white"
+  },
+  {
+    "id": "combohouseA_basement",
+    "fg": "house_white"
+  },
+  {
+    "id": "combohouseA_roof",
+    "fg": "house_white"
+  },
+  {
+    "id": "combogarageA_first",
+    "fg": "TODO: ^"
+  },
+  {
+    "id": "combogarageA_second",
+    "fg": "house_white"
+  },
+  {
+    "id": "combogarageA_roof",
+    "fg": "house_white"
+  },
+  {
+    "id": "combohouseB_first",
+    "fg": "house_white"
+  },
+  {
+    "id": "combohouseB_second",
+    "fg": "house_white"
+  },
+  {
+    "id": "combohouseB_basement",
+    "fg": "house_white"
+  },
+  {
+    "id": "combohouseB_roof",
+    "fg": "house_white"
+  },
+  {
+    "id": "combogarageB_first",
+    "fg": "TODO: ^"
+  },
+  {
+    "id": "combogarageB_second",
+    "fg": "house_white"
+  },
+  {
+    "id": "combogarageB_roof",
+    "fg": "house_white"
+  },
+  {
+    "id": "combohouseC_first",
+    "fg": "house_white"
+  },
+  {
+    "id": "combohouseC_second",
+    "fg": "house_white"
+  },
+  {
+    "id": "combohouseC_basement",
+    "fg": "house_white"
+  },
+  {
+    "id": "combohouseC_roof",
+    "fg": "house_white"
+  },
+  {
+    "id": "combogarageC_first",
+    "fg": "TODO: ^"
+  },
+  {
+    "id": "combogarageC_second",
+    "fg": "house_white"
+  },
+  {
+    "id": "combogarageC_roof",
+    "fg": "house_white"
+  },
+  {
+    "id": "refugee_tower_1gate",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "refugee_tower_1ybe",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "refugee_tower_1yle",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "refugee_tower_1yre",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "refugee_tower_1yte",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "refugee_tower_1cyblc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "refugee_tower_1cybrc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "refugee_tower_1cytlc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "refugee_tower_1cytrc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "refugee_tower_1blc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "refugee_tower_1brc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "refugee_tower_1tlc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "refugee_tower_1trc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "refugee_tower_2blc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "refugee_tower_2brc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "refugee_tower_2tlc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "refugee_tower_2trc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "refugee_tower_3blc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "refugee_tower_3brc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "refugee_tower_3tlc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "refugee_tower_3trc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "refugee_tower_4blc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "refugee_tower_4brc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "refugee_tower_4tlc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "refugee_tower_4trc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "refugee_tower_5blc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "refugee_tower_5brc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "refugee_tower_5tlc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "refugee_tower_5trc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "refugee_tower_ublc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "refugee_tower_ubrc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "refugee_tower_utlc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "refugee_tower_utrc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "tri_tower_1gate",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "tri_tower_1ybe",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "tri_tower_1yle",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "tri_tower_1yre",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "tri_tower_1yte",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "tri_tower_1cyblc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "tri_tower_1cybrc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "tri_tower_1cytlc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "tri_tower_1cytrc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "tri_tower_1blc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "tri_tower_1brc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "tri_tower_1tlc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "tri_tower_1trc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "tri_tower_2blc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "tri_tower_2brc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "tri_tower_2tlc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "tri_tower_2trc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "tri_tower_3blc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "tri_tower_3brc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "tri_tower_3tlc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "tri_tower_3trc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "tri_tower_4blc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "tri_tower_4brc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "tri_tower_4tlc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "tri_tower_4trc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "tri_tower_ublc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "tri_tower_ubrc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "tri_tower_utlc",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "tri_tower_utrc",
+    "fg": "parking_light_white"
+  }
+]

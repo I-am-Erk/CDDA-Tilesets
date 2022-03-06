@@ -1,0 +1,178 @@
+[
+  {
+    "id": "s_electronicstore",
+    "fg": "shop_white"
+  },
+  {
+    "id": "s_electronicstore_2ndfloor",
+    "fg": "shop_white"
+  },
+  {
+    "id": "s_gunstore",
+    "fg": "shop_white"
+  },
+  {
+    "id": "s_gunstore_2ndfloor",
+    "fg": "shop_white"
+  },
+  {
+    "id": "s_gunstore_roof",
+    "fg": "shop_white"
+  },
+  {
+    "id": "s_diner",
+    "fg": "shop_white"
+  },
+  {
+    "id": "s_diner_2ndfloor",
+    "fg": "shop_white"
+  },
+  {
+    "id": "s_diner_roof",
+    "fg": "shop_white"
+  },
+  {
+    "id": "s_apt",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "s_apt_2ndfloor",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "s_apt_roof",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "s_apt_2",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "s_apt_2_2ndfloor",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "s_apt_2_roof",
+    "fg": "parking_light_white"
+  },
+  {
+    "id": "s_cardealer",
+    "fg": "shop_white"
+  },
+  {
+    "id": "s_cardealer_roof",
+    "fg": "shop_white"
+  },
+  {
+    "id": "s_camping",
+    "fg": "shop_white"
+  },
+  {
+    "id": "s_camping_roof",
+    "fg": "shop_white"
+  },
+  {
+    "id": "s_games",
+    "fg": "shop_white"
+  },
+  {
+    "id": "s_games_roof",
+    "fg": "shop_white"
+  },
+  {
+    "id": "s_air_term",
+    "fg": "tower_white"
+  },
+  {
+    "id": "s_air_parking",
+    "fg": "tower_white"
+  },
+  {
+    "id": "s_air_atc",
+    "fg": "tower_white"
+  },
+  {
+    "id": "s_air_atc_2",
+    "fg": "tower_white"
+  },
+  {
+    "id": "s_air_atc_3",
+    "fg": "tower_white"
+  },
+  {
+    "id": "s_air_hangars",
+    "fg": "hangar_white"
+  },
+  {
+    "id": "s_air_runway",
+    "fg": "tower_white"
+  },
+  {
+    "id": "s_air_runway_hangars",
+    "fg": "tower_white"
+  },
+  {
+    "id": "s_air_runway_l",
+    "fg": "tower_white"
+  },
+  {
+    "id": "s_air_runway_r",
+    "fg": "tower_white"
+  },
+  {
+    "id": "s_air_runway_term",
+    "fg": "tower_white"
+  },
+  {
+    "id": "s_lightindustry_road_0",
+    "fg": "industry_white"
+  },
+  {
+    "id": "s_lightindustry_road_1",
+    "fg": "industry_white"
+  },
+  {
+    "id": "s_lightindustry_00",
+    "fg": "industry_white"
+  },
+  {
+    "id": "s_lightindustry_01",
+    "fg": "industry_white"
+  },
+  {
+    "id": "s_lightindustry_10",
+    "fg": "industry_white"
+  },
+  {
+    "id": "s_lightindustry_11",
+    "fg": "industry_white"
+  },
+  {
+    "id": "s_gas_g1",
+    "fg": "industry_white"
+  },
+  {
+    "id": "s_gas_g0",
+    "fg": "industry_white"
+  },
+  {
+    "id": "s_gas_b11",
+    "fg": "industry_white"
+  },
+  {
+    "id": "s_gas_b20",
+    "fg": "gas_white"
+  },
+  {
+    "id": "s_gas_b21",
+    "fg": "gas_white"
+  },
+  {
+    "id": "s_bunker_shop_g",
+    "fg": "house_white"
+  },
+  {
+    "id": "s_bunker_shop_b",
+    "fg": "gas_white"
+  }
+]
