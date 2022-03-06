@@ -1,0 +1,9 @@
+[
+  {
+    "id": "mon_feral_human_tool",
+    "fg": [
+      { "weight": 1, "sprite": "mon_feral_human_tool_1" },
+      { "weight": 1, "sprite": "mon_feral_human_tool_2" }
+    ]
+  }
+]
