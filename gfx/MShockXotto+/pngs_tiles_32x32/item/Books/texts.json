@@ -63,7 +63,6 @@
     "id": [
       "recipe_alpha",
       "recipe_chimera",
-      "recipe_elfa",
       "recipe_medicalmut",
       "recipe_raptor",
       "recipe_mininuke_launch",
@@ -157,7 +156,7 @@
     "bg": [  ]
   },
   {
-    "id": [ "record_patient", "tailor_portfolio", "isherwood_herbal_remedies" ],
+    "id": [ "record_patient", "tailor_portfolio", "isherwood_herbal_remedies", "decoy_elfa", "recipe_elfa" ],
     "fg": [ "generic_binder" ],
     "bg": [  ]
   }
