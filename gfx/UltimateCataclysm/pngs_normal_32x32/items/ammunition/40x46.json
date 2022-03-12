@@ -92,6 +92,16 @@
     "id": [ "bp_40x46mm_slug_m118" ],
     "bg": [ "40x46_b_bp" ],
     "fg": [ "40x46_f_118slug" ]
+  },
+
+  {
+    "id": [ "40mm_emp" ],
+    "bg": [ "40x46_b" ],
+    "fg": [ "40x46_f_118emp" ]
+  },
+  {
+    "id": [ "40mmEMP_act" ],
+    "fg": [ "40x46_f_118emp_active" ]
   }
   
 ]
