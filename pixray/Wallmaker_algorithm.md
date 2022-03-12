@@ -28,7 +28,14 @@ Later on we will want to be able to specify a different overlay_image to allow o
 - Likewise take the 2 pixels from the left and append them to the right, creating a 36x32 image.
 -  Add an alpha overlay of the 2 right edge pixels and 2 left pixels in place at alpha 25. The result should look like https://raw.githubusercontent.com/I-am-Erk/CDDA-Tilesets/precursor-sprites-for-pixray/pixray/eldritch_wall_frame_2.png
 -  save this output as [name]_ew_transparencymap.png
-- turn off filters=wallpaper
-- replace size and pixel_size with 36,32
+2. Adjust settings for pixray:
+- turn off `filters=wallpaper`
+- replace size and pixel_size with [36,32]
 - use [name]_edge_ew.png as the palette
 - use [name]_ew_transparencymap.png as the overlay_image
+3. Crop resulting image by 2px on each side to a 32x32 output.
+4. Save file as [name]_edge_ew2.png
+5. Run pixray again with same settings and the post-pixray crop, but output file as [name]_edge_ew3.png
+
+
+Vertical wall algorithm pending
