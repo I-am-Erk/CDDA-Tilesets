@@ -1,6 +1,6 @@
 [
-    { "id": ["syringe", "adrenaline_injector"], "fg": "syringe", "bg": [], "rotates": false },
-	{ "id": ["syringe_season_autumn", "adrenaline_injector_season_autumn"], "fg": "syringe_autumn", "bg": [], "rotates": false },
-	{ "id": ["syringe_season_winter", "adrenaline_injector_season_winter"], "fg": "syringe_winter", "bg": [], "rotates": false },
-	{ "id": ["syringe_season_summer", "adrenaline_injector_season_summer"], "fg": "syringe_summer", "bg": [], "rotates": false }
+    { "id": ["syringe", "adrenaline_injector", "flu_shot"], "fg": "syringe", "bg": [], "rotates": false },
+	{ "id": ["syringe_season_autumn", "adrenaline_injector_season_autumn", "flu_shot_season_autumn"], "fg": "syringe_autumn", "bg": [], "rotates": false },
+	{ "id": ["syringe_season_winter", "adrenaline_injector_season_winter", "flu_shot_season_winter"], "fg": "syringe_winter", "bg": [], "rotates": false },
+	{ "id": ["syringe_season_summer", "adrenaline_injector_season_summer", "flu_shot_season_summer"], "fg": "syringe_summer", "bg": [], "rotates": false }
 ]
