@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """Wall maker"""
 # FIXME: missing purpose of module in doc
 
@@ -5,11 +7,27 @@ import os
 import sys
 import tempfile
 
+import argparse
 import requests
 from PIL.Image import Image
 
 sys.path.append("pixray")
-import pixray # noqa pylint: disable=C0413
+import pixray  # noqa pylint: disable=C0413
+
+parser = argparse.ArgumentParser()
+# FIXME: missing argument descriptions
+parser.add_argument(
+    'name', type=str,
+    help=""
+)
+parser.add_argument(
+    'palette', type=str,
+    help=""
+)
+parser.add_argument(
+    'prompt', type=str,
+    help=""
+)
 
 
 def generate_horizontal(name, prompt, palette, overlay_url):
@@ -71,3 +89,12 @@ def generate_horizontal(name, prompt, palette, overlay_url):
     config['output_name'] = f"{name}_edge_ew3.png"
 
     pixray.run(**config)
+
+
+if __name__ == '__main__':
+    URL = "https://raw.githubusercontent.com/I-am-Erk/CDDA-Tilesets/precursor-sprites-for-pixray/pixray/wall_ew_transmap2.png"  # noqa pylint: disable=C0301
+
+    args = parser.parse_args()
+
+    generate_horizontal(args.name, args.prompt, args.palette, URL)
+    sys.exit()
