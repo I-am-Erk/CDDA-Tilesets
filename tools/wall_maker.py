@@ -9,7 +9,7 @@ import tempfile
 
 import argparse
 import requests
-from PIL.Image import Image
+from PIL import Image
 
 sys.path.append("pixray")
 import pixray  # noqa pylint: disable=C0413
@@ -51,10 +51,10 @@ def generate_horizontal(name, prompt, palette, overlay_url):
         'output_name': f"{name}_edge_ew1.png"
     }
 
-    canvas = Image.new(Image.RGBA, (36, 32))
+    canvas = Image.new('RGBA', (36, 32))
     image = Image.open(config['output_name'])
     # same height as `image`
-    mask = Image.new(Image.RGBA, (2, 32), color=(1., 1., 1., .25))
+    mask = Image.new('RGBA', (2, 32), color=(1., 1., 1., .25))
 
     # download overlay
     img_data = requests.get(overlay_url).content
