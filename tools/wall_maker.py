@@ -35,7 +35,12 @@ def generate_horizontal(name, prompt, palette, overlay_url):
     # FIXME: missing meaningful doc
 
     overlay_temp_filename = os.path.join(tempfile.gettempdir(), 'overlay.png')
+    # download overlay
+    img_data = requests.get(overlay_url).content
+    with open(overlay_temp_filename, 'wb') as handler:
+        handler.write(img_data)
 
+    # step 1
     config = {
         'prompt': f"{prompt} #pixelart",
         'drawer': "pixel",
@@ -50,27 +55,18 @@ def generate_horizontal(name, prompt, palette, overlay_url):
         'overlay_offset': 5,
         'output_name': f"{name}_edge_ew1.png"
     }
+    pixray.run(**config)
 
     canvas = Image.new('RGBA', (36, 32))
     image = Image.open(config['output_name'])
     # same height as `image`
     mask = Image.new('RGBA', (2, 32), color=(1., 1., 1., .25))
 
-    # download overlay
-    img_data = requests.get(overlay_url).content
-    with open(overlay_temp_filename, 'wb') as handler:
-        handler.write(img_data)
-
-    # step 1
-    pixray.run(**config)
-
-    overlay_image = Image.open(overlay_temp_filename)
-    canvas.paste(overlay_image, box=(2, 0))
+    canvas.paste(Image.open(overlay_temp_filename), box=(2, 0))
     # left edge
     canvas.paste(image.crop((0, 0, 2, 32)), (0, 0), mask=mask)
     # right edge
     canvas.paste(image.crop((30, 0, 32, 32)), (32, 32), mask=mask)
-
     canvas.save(f"{name}_ew_transparencymap.png")
 
     # step 2
@@ -87,7 +83,6 @@ def generate_horizontal(name, prompt, palette, overlay_url):
     image.save(f"{name}_edge_ew2.png")
 
     config['output_name'] = f"{name}_edge_ew3.png"
-
     pixray.run(**config)
 
 
