@@ -74,13 +74,13 @@ def generate_horizontal(name, prompt, palette, overlay_url):
     canvas.save(f"{name}_ew_transparencymap.png")
 
     # step 2
-    config = {
+    config.update({
         'size': [36, 32],
         'pixel_size': [36, 32],
         'filters': "wallpaper",
         'palette': f"{name}_edge_ew.png",
         'overlay_image': f"{name}_ew_transparencymap.png"
-    }
+    })
     pixray.run(**config)
 
     image = Image.open(f"{name}_edge_ew.png").crop((2, 0, 32, 32))
