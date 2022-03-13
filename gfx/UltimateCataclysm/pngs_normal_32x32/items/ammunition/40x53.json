@@ -1,0 +1,49 @@
+[
+
+  {
+    "id": [ "40x53mm_m430a1" ],
+    "bg": [ "40x53_b" ],
+    "fg": [ "40x53_f_169m430a1" ]
+  },
+  {
+    "id": [ "belt40mm" ],
+    "bg": [ "40x53_b" ],
+    "fg": [ "40x53_f_169belt" ]
+  },
+
+  {
+    "id": [ "40x53mm_m1001" ],
+    "bg": [ "40x53_b" ],
+    "fg": [ "40x53_f_169m1001" ]
+  },
+  {
+    "id": [ "40x53mm_buckshot_m169" ],
+    "bg": [ "40x53_b_r" ],
+    "fg": [ "40x53_f_169buckshot" ]
+  },
+  {
+    "id": [ "bp_40x53mm_buckshot_m169" ],
+    "bg": [ "40x53_b_bp" ],
+    "fg": [ "40x53_f_169buckshot" ]
+  },
+  {
+    "id": [ "40x53mm_flechette_m169" ],
+    "bg": [ "40x53_b_r" ],
+    "fg": [ "40x53_f_169flechette" ]
+  },
+  {
+    "id": [ "bp_40x53mm_flechette_m169" ],
+    "bg": [ "40x53_b_bp" ],
+    "fg": [ "40x53_f_169flechette" ]
+  },
+  {
+    "id": [ "40x53mm_slug_m169" ],
+    "bg": [ "40x53_b_r" ],
+    "fg": [ "40x53_f_169slug" ]
+  },
+  {
+    "id": [ "bp_40x53mm_slug_m169" ],
+    "bg": [ "40x53_b_bp" ],
+    "fg": [ "40x53_f_169slug" ]
+  }
+]
