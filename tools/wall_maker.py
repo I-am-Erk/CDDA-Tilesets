@@ -60,7 +60,7 @@ def generate_horizontal(name, prompt, palette, overlay_url):
     canvas = Image.new('RGBA', (36, 32))
     image = Image.open(config['output_name'])
     # same height as `image`
-    mask = Image.new('RGBA', (2, 32), color=(1., 1., 1., .25))
+    mask = Image.new('RGBA', (2, 32), color=(255, 255, 255, 63))
 
     canvas.paste(Image.open(overlay_temp_filename), box=(2, 0))
     # left edge
