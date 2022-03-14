@@ -8,7 +8,8 @@ name: Chibi_Ultica composer
 
 env:
   TILESET: Chibi_Ultica
-  COMPOSE_ARGS: --use-all
+  COMPOSER_URL: https://github.com/sulyi/Cataclysm-DDA/blob/f99bfa075d2663d0942b88e6337f08cc1a4fa291/tools/gfx_tools/compose.py
+  COMPOSE_ARGS: --use-all --loglevel INFO
   BUILD_DIR: build
 
 on:
@@ -64,7 +65,7 @@ jobs:
         id: build
         run: |
           mkdir "$BUILD_DIR"
-          wget -q -P "$BUILD_DIR" https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/compose.py \
+          wget -q -P "$BUILD_DIR" "$COMPOSE_URL" \
           || echo "Error: Failed to get compose.py"
 
           python3 "$BUILD_DIR/compose.py" $COMPOSE_ARGS "gfx/$TILESET" "$BUILD_DIR"

@@ -68,7 +68,7 @@
     "small.png": { "sprite_width": 20, "sprite_height": 20, "filler": true }
   },
   {
-    "normal.png": { "filler": true }
+    "normal.png": { "filler": true, "exclude":  [ "overlay" ] }
   },
   {
     "tallfurniture.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true }
