@@ -1,0 +1,17 @@
+[
+  {
+    "id": [ "explosive_hm_rocket" ],
+    "bg": [ "hmr_b" ],
+    "fg": [ "hmr_f_he" ]
+  },
+  {
+    "id": [ "incendiary_hm_rocket" ],
+    "bg": [ "hmr_b" ],
+    "fg": [ "hmr_f_inc" ]
+  },
+  {
+    "id": [ "spiked_rocket" ],
+    "bg": [ "hmr_b" ],
+    "fg": [ "hmr_f_spiked" ]
+  }
+]
