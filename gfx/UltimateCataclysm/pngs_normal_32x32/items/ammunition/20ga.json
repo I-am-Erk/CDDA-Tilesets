@@ -1,0 +1,22 @@
+[
+  {
+    "id": [ "shot_paper_slug" ],
+    "bg": [ "20ga_b" ],
+    "fg": [ "20ga_f_paper" ]
+  },
+  {
+    "id": [ "shot_paper_bird" ],
+    "bg": [ "20ga_b" ],
+    "fg": [ "20ga_f_birdshot" ]
+  },
+  {
+    "id": [ "shot_paper_00" ],
+    "bg": [ "20ga_b" ],
+    "fg": [ "20ga_f_00" ]
+  },
+  {
+    "id": [ "shot_paper_dragon" ],
+    "bg": [ "20ga_b" ],
+    "fg": [ "20ga_f_pyro" ]
+  }
+]
