@@ -61,5 +61,11 @@
     "id": [ "bp_22_ratshot" ],
     "bg": [ "22_b_bp" ],
     "fg": [ "22_f_ratshot" ]
-  }
+  },
+
+  {
+    "id": [ "22_blank" ],
+    "bg": [ "22_b" ],
+    "fg": [ "22_f_blank" ]
+  }  
 ]
