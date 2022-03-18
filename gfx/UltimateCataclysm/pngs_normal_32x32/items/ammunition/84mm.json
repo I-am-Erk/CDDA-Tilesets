@@ -1,0 +1,17 @@
+[
+  {
+    "id": [ "84x246mm_he" ],
+    "bg": [ "84mm_b" ],
+    "fg": [ "84mm_f_he" ]
+  },
+  {
+    "id": [ "84x246mm_hedp" ],
+    "bg": [ "84mm_b" ],
+    "fg": [ "84mm_f_hedp" ]
+  },
+  {
+    "id": [ "84x246mm_smoke" ],
+    "bg": [ "84mm_b" ],
+    "fg": [ "84mm_f_smoke" ]
+  }
+]

@@ -13,5 +13,16 @@
     "id": [ "66mm_HEAT" ],
     "bg": [ "66heat_b" ],
     "fg": [ "66heat_f" ]
+  },
+  
+  {
+    "id": [ "m235tpa" ],
+    "bg": [ "66heat_b" ],
+    "fg": [ "66heat_f_m235" ]
+  },
+  {
+    "id": [ "m74_clip" ],
+    "bg": [ "66heat_b" ],
+    "fg": [ "66heat_f_m235x4" ]
   }
 ]

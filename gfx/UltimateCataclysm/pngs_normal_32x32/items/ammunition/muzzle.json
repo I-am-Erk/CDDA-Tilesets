@@ -1,0 +1,27 @@
+[
+  {
+    "id": [ "flintlock_ammo","flintlock_shot" ],
+    "bg": [ "muzzle_b" ],
+    "fg": [ "muzzle_f_cartridge" ]
+  },
+  {
+    "id": [ "blun_lead_shot" ],
+    "bg": [ "muzzle_b" ],
+    "fg": [ "muzzle_f_shot" ]
+  },
+  {
+    "id": [ "blun_slug" ],
+    "bg": [ "muzzle_b" ],
+    "fg": [ "muzzle_f_slug" ]
+  },
+  {
+    "id": [ "blun_flechette" ],
+    "bg": [ "muzzle_b" ],
+    "fg": [ "muzzle_f_flechette" ]
+  },
+  {
+    "id": [ "blun_shot" ],
+    "bg": [ "muzzle_b" ],
+    "fg": [ "muzzle_f_scrap" ]
+  }
+]
