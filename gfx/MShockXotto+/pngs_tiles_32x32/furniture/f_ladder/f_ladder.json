@@ -1,0 +1,12 @@
+{
+  "id": "f_ladder",
+  "animated": true,
+  "fg": [
+    { "weight": 15, "sprite": "f_ladder_1" },
+    { "weight": 15, "sprite": "f_ladder_2" },
+    { "weight": 15, "sprite": "f_ladder_3" },
+    { "weight": 15, "sprite": "f_ladder_2" }
+  ],
+  "bg": [
+  ]
+}
