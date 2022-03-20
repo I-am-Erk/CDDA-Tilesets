@@ -1,0 +1,12 @@
+{
+  "id": [ "t_sidewalk_ramp_up_low", "t_sidewalk_ramp_up_high" ],
+  "animated": true,
+  "fg": [
+    { "weight": 15, "sprite": "t_sidewalk_ramp_up_1" },
+    { "weight": 15, "sprite": "t_sidewalk_ramp_up_2" },
+    { "weight": 15, "sprite": "t_sidewalk_ramp_up_3" },
+    { "weight": 15, "sprite": "t_sidewalk_ramp_up_2" }
+  ],
+  "bg": [
+  ]
+}

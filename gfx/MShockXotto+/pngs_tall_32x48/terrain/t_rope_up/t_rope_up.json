@@ -1,0 +1,12 @@
+{
+  "id": "t_rope_up",
+  "animated": true,
+  "fg": [
+    { "weight": 15, "sprite": "t_rope_up_1" },
+    { "weight": 15, "sprite": "t_rope_up_2" },
+    { "weight": 15, "sprite": "t_rope_up_3" },
+    { "weight": 15, "sprite": "t_rope_up_2" }
+  ],
+  "bg": [
+  ]
+}
