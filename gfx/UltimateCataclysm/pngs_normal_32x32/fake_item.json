@@ -10,7 +10,8 @@
       "propane",
       "gas_fungicidal",
       "gas_insecticidal",
-      "gas_chloramine"
+      "gas_chloramine",
+      "battery"
     ],
     "fg": [ "fake_item" ]
   }
