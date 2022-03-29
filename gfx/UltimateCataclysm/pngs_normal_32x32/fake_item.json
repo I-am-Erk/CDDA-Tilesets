@@ -11,7 +11,8 @@
       "gas_fungicidal",
       "gas_insecticidal",
       "gas_chloramine",
-      "battery"
+      "battery",
+      "f_fake_bench_hands"
     ],
     "fg": [ "fake_item" ]
   }
