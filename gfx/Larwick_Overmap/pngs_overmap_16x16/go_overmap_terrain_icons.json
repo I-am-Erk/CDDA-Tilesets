@@ -1,0 +1,37 @@
+[
+  {
+    "id": "cursor",
+    "fg": "cursor",
+    "bg": ""
+  },
+  {
+    "id": "highlight",
+    "fg": "highlight",
+    "bg": ""
+  },
+  {
+    "id": "highlight_item",
+    "fg": "highlight",
+    "bg": ""
+  },
+  {
+    "id": "line_target",
+    "fg": "cursor",
+    "bg": ""
+  },
+  {
+    "id": "line_trail",
+    "fg": "cursor",
+    "bg": ""
+  },
+  {
+    "id": "animation_line",
+    "fg": "cursor",
+    "bg": ""
+  },
+  {
+	"id": "unknown_map_extra",
+	"fg": "",
+	"bg": ""
+  }
+]
