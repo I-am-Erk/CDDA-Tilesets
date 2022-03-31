@@ -1,0 +1,18 @@
+[
+  { 
+    "id": [ "welding_wire_alloy" ],
+    "fg": [ "aluminum_welding_wire" ]
+  },
+  { 
+    "id": [ "welding_wire_steel" ],
+    "fg": [ "welding_wire" ]
+  },
+  { 
+    "id": [ "brazing_rod_alloy", "welding_rod_alloy" ],
+    "fg": [ "aluminum_welding_rod" ]
+  },
+  { 
+    "id": [ "welding_rod_steel", "brazing_rod_bronze" ],
+    "fg": [ "welding_rod" ]
+  }  
+]
