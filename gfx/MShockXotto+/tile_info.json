@@ -20,16 +20,9 @@
     "tall.png": { "sprite_width": 32, "sprite_height": 48, "sprite_offset_x": 0, "sprite_offset_y": -16 }
   },
   {
-<<<<<<< HEAD
-<<<<<<< HEAD
     "taller.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_x": 0, "sprite_offset_y": -32 }
-=======
-    "tallstatic.png": { "sprite_width": 32, "sprite_height": 48, "sprite_offset_x": 0, "sprite_offset_y": 0 }
->>>>>>> c887dcf52 (Doors (incomplete))
   },
   {
-=======
->>>>>>> 644074997 (Fixed New Trunks To Actually Work)
     "large.png": { "sprite_width": 64, "sprite_height": 80, "sprite_offset_x": -16, "sprite_offset_y": -48 }
   },
   {
