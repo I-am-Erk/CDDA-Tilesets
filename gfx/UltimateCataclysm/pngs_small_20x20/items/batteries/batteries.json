@@ -45,6 +45,11 @@
     "bg": ""
   },
   {
+    "id": "light_minus_disposable_battery_cell",
+    "fg": "light_minus_battery_cell",
+    "bg": ""
+  },
+  {
     "id": "light_minus_atomic_battery_cell",
     "fg": "light_minus_atomic_battery_cell",
     "bg": ""
