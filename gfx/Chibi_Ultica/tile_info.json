@@ -60,7 +60,7 @@
     "small.png": { "sprite_width": 20, "sprite_height": 20, "filler": true }
   },
   {
-    "normal.png": { "filler": true, "exclude": [ "overlay", "monsters" ] }
+    "normal.png": { "filler": true, "exclude": [ "overlay/mutations", "overlay/wielded", "overlay/worn", "monsters" ] }
   },
   {
     "tall.png": {
