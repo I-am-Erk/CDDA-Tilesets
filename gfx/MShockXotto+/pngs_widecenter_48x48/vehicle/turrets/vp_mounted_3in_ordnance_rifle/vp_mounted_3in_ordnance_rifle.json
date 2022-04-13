@@ -1,0 +1,25 @@
+[
+  {
+    "id": [ "vp_mounted_3in_ordnance_rifle" ],
+    "fg": [
+      "vp_mounted_3in_ordnance_rifle",
+      "vp_mounted_3in_ordnance_rifle_rotW",
+      "vp_mounted_3in_ordnance_rifle_rotS",
+      "vp_mounted_3in_ordnance_rifle_rotE"
+    ],
+    "bg": [  ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [
+          "vp_mounted_3in_ordnance_rifle_broken",
+          "vp_mounted_3in_ordnance_rifle_broken_rotW",
+          "vp_mounted_3in_ordnance_rifle_broken_rotS",
+          "vp_mounted_3in_ordnance_rifle_broken_rotE"
+        ]
+      }
+    ]
+  }
+]
