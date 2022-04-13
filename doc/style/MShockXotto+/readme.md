@@ -27,7 +27,7 @@ The main thing that we want to keep from the previous tilesets is the anime/cart
 
 ![furnitures](image/furnitures.png)
 
-- Outline using a less-saturated, darker color taken from the sprite's pallete.
+- Outline using a less-saturated, darker color taken from the sprite's palette.
 
 # Terrain
 
