@@ -17,6 +17,9 @@
     "wide.png": { "sprite_width": 48, "sprite_height": 48, "sprite_offset_x": -16, "sprite_offset_y": -16 }
   },
   {
+    "widecenter.png": { "sprite_width": 48, "sprite_height": 48, "sprite_offset_x": -8, "sprite_offset_y": -16 }
+  },
+  {
     "tall.png": { "sprite_width": 32, "sprite_height": 48, "sprite_offset_x": 0, "sprite_offset_y": -16 }
   },
   {
