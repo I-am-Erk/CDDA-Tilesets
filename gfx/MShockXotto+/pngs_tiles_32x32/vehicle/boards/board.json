@@ -1,5 +1,16 @@
 [
   {
+    "id": "vp_boat_board",
+    "fg": "vp_boat_board",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "vp_boat_board_broken" ]
+      }
+    ]
+  },
+  {
     "id": "vp_board_ne",
     "fg": [ "vp_board_ne", "vp_board_ne_rotW", "vp_board_ne_rotS", "vp_board_ne_rotE" ],
     "rotates": true,
