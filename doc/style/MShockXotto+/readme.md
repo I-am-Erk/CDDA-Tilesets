@@ -6,7 +6,7 @@ The main thing that we want to keep from the previous tilesets is the anime/cart
 
 - Cartoon style, make your sprite recognisable.
 - Clean texture without random noise
-- About a dozen colours max
+- Keep the colour count per material (bone, meat, cotton, wood, metal etc...) low, around 3-4 per material.
 
 # Monsters
 
@@ -34,4 +34,4 @@ The main thing that we want to keep from the previous tilesets is the anime/cart
 ![terrain](image/terrain.png)
 
 - No outline required
-- Terrain should fill their canevas as the game doesn't display anything behind them. Transparency will appear black in game.
+- Terrain should fill their canvas as the game doesn't display anything behind them. Transparency will appear black in game.
