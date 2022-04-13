@@ -1,0 +1,9 @@
+[
+  {
+    "id": "vp_inflatable_airbag",
+    "fg": [ "vp_inflatable_airbag" ],
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "vp_inflatable_airbag_broken" ] } ]
+  }
+]
