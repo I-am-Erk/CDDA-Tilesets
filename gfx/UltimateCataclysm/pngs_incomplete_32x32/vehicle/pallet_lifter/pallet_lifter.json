@@ -1,0 +1,15 @@
+[
+  {
+    "id": "vp_crane_tiny",
+    "fg": [ "vp_pallet_lifter"],
+    "multitile": true,
+    "rotates": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_pallet_lifter" ]
+      }
+    ]
+  }
+]
