@@ -324,7 +324,7 @@
     "fg": [
       "vp_hdboard_horizontal_rear",
       "vp_hdboard_horizontal_rear_rotW",
-      "vp_hdboard_horizontal_rear_rotS",
+      "vp_hdhalfboard_horizontal_front",
       "vp_hdboard_horizontal_rear_rotE"
     ],
     "rotates": true,
@@ -337,7 +337,7 @@
         "bg": [
           "vp_hdboard_horizontal_rear",
           "vp_hdboard_horizontal_rear_rotW",
-          "vp_hdboard_horizontal_rear_rotS",
+          "vp_hdhalfboard_horizontal_front",
           "vp_hdboard_horizontal_rear_rotE"
         ]
       }
