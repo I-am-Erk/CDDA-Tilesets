@@ -1,0 +1,141 @@
+[
+  {
+    "id": "mon_feral_armored_battleaxe",
+    "fg": [
+      { "weight": 1, "sprite": "mon_feral_armored_battleaxe" },
+      { "weight": 1, "sprite": "mon_feral_armored_battleaxe2" }
+    ],
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_feral_armored_mace",
+    "fg": [
+      { "weight": 1, "sprite": "mon_feral_armored_mace" },
+      { "weight": 1, "sprite": "mon_feral_armored_mace2" }
+    ],
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_feral_fancy_crossbow",
+    "fg": [
+      { "weight": 1, "sprite": "mon_feral_fancy_crossbow" },
+      { "weight": 1, "sprite": "mon_feral_fancy_crossbow2" }
+    ],
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_feral_fancy_rapier",
+    "fg": [
+      { "weight": 1, "sprite": "mon_feral_fancy_rapier" },
+      { "weight": 1, "sprite": "mon_feral_fancy_rapier2" }
+    ],
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_feral_fancy_rapier_fake",
+    "fg": "mon_feral_fancy_rapier_fake",
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_feral_human_axe_fungal_corpse",
+    "fg": "mon_feral_human_axe_fungal_corpse",
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_feral_human_crowbar_fungal_corpse",
+    "fg": "mon_feral_human_crowbar_fungal_corpse",
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_feral_human_pipe_fungal_corpse",
+    "fg": "mon_feral_human_pipe_fungal_corpse",
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_feral_human_axe_fungal_infected",
+    "fg": "mon_feral_human_axe_fungal_infected",
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_feral_human_crowbar_fungal_infected",
+    "fg": "mon_feral_human_crowbar_fungal_infected",
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_feral_human_pipe_fungal_infected",
+    "fg": "mon_feral_human_pipe_fungal_infected",
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_feral_human_tool",
+    "fg": [
+      { "weight": 1, "sprite": "mon_feral_human_tool" },
+      { "weight": 1, "sprite": "mon_feral_human_tool2" }
+    ],
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_feral_maid_broom",
+    "fg": [
+      { "weight": 1, "sprite": "mon_feral_maid_broom" },
+      { "weight": 1, "sprite": "mon_feral_maid_broom2" }
+    ],
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_feral_maid_candlestick",
+    "fg": [
+      { "weight": 1, "sprite": "mon_feral_maid_candlestick" },
+      { "weight": 1, "sprite": "mon_feral_maid_candlestick2" }
+    ],
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_feral_maid_knife",
+    "fg": [
+      { "weight": 1, "sprite": "mon_feral_maid_knife" },
+      { "weight": 1, "sprite": "mon_feral_maid_knife2" }
+    ],
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_feral_militia",
+    "fg": [
+      { "weight": 1, "sprite": "mon_feral_militia" },
+      { "weight": 1, "sprite": "mon_feral_militia2" }
+    ],
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_feral_prepper",
+    "fg": [
+      { "weight": 1, "sprite": "mon_feral_prepper" },
+      { "weight": 1, "sprite": "mon_feral_prepper2" }
+    ],
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_feral_sapien_spear",
+    "fg": [
+      { "weight": 1, "sprite": "mon_feral_sapien_spear" },
+      { "weight": 1, "sprite": "mon_feral_sapien_spear2" }
+    ],
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_feral_soldier",
+    "fg": [
+      { "weight": 1, "sprite": "mon_feral_soldier" },
+      { "weight": 1, "sprite": "mon_feral_soldier2" }
+    ],
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_feral_survivalist",
+    "fg": [
+      { "weight": 1, "sprite": "mon_feral_survivalist" },
+      { "weight": 1, "sprite": "mon_feral_survivalist2" }
+    ],
+    "bg": "shadow_32x48_normal"
+  }
+]
