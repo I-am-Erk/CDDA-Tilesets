@@ -189,7 +189,7 @@
   },
   {
     "id": [ "vp_hddoor", "vp_hddoor_front" ],
-    "fg": [ "vp_hddoor_front_rotN", "vp_hddoor_front_rotW", "vp_hddoor_front_rotS", "vp_hddoor_front_rotE" ],
+    "fg": [ "vp_hddoor_rear_rotS", "vp_hddoor_front_rotW", "vp_hddoor_front_rotS", "vp_hddoor_front_rotE" ],
     "bg": [  ],
     "rotates": true,
     "multitile": true,
@@ -202,7 +202,7 @@
       {
         "id": "broken",
         "fg": [ "3987_vp_cargo_space_2" ],
-        "bg": [ "vp_hddoor_front_rotN", "vp_hddoor_front_rotW", "vp_hddoor_front_rotS", "vp_hddoor_front_rotE" ]
+        "bg": [ "vp_hddoor_rear_rotS", "vp_hddoor_front_rotW", "vp_hddoor_front_rotS", "vp_hddoor_front_rotE" ]
       }
     ]
   },
@@ -440,7 +440,7 @@
   {
     "id": [ "vp_hddoor_opaque", "vp_hddoor_opaque_front" ],
     "fg": [
-      "vp_hddoor_opaque_front_rotN",
+      "vp_hddoor_opaque_rear_rotS",
       "vp_hddoor_opaque_front_rotW",
       "vp_hddoor_opaque_front_rotS",
       "vp_hddoor_opaque_front_rotE"
@@ -458,7 +458,7 @@
         "id": "broken",
         "fg": [ "3987_vp_cargo_space_2" ],
         "bg": [
-          "vp_hddoor_opaque_front_rotN",
+          "vp_hddoor_opaque_rear_rotS",
           "vp_hddoor_opaque_front_rotW",
           "vp_hddoor_opaque_front_rotS",
           "vp_hddoor_opaque_front_rotE"
