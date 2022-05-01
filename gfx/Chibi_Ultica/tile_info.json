@@ -60,7 +60,7 @@
     "small.png": { "sprite_width": 20, "sprite_height": 20, "filler": true }
   },
   {
-    "normal.png": { "filler": true, "exclude": [ "overlay/mutations", "overlay/wielded", "overlay/worn", "monsters" ] }
+    "normal.png": { "filler": true, "exclude": [ "overlay/mutations", "overlay/wielded", "overlay/worn" ] }
   },
   {
     "tall.png": {
@@ -68,7 +68,7 @@
       "sprite_height": 64,
       "sprite_offset_y": -32,
       "filler": true,
-      "exclude": [ "monsters", "overlay" ]
+      "exclude": [ "overlay" ]
     }
   },
   {
@@ -105,7 +105,7 @@
       "sprite_height": 48,
       "sprite_offset_y": -16,
       "filler": true,
-      "exclude": [ "character", "monsters", "overlay" ]
+      "exclude": [ "character", "overlay" ]
     }
   },
   {
