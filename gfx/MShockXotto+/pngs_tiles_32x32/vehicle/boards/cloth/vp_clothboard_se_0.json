@@ -1,1 +1,38 @@
-{"id": "vp_clothboard_se", "fg": ["3989_vp_cloth_halfboard_horizontal_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["3987_vp_cargo_space_2"], "bg": ["3989_vp_cloth_halfboard_horizontal_0"]}], "bg": []}
+[
+  {
+    "id": "vp_clothboard_se",
+    "fg": [ "3989_vp_cloth_halfboard_horizontal_0" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "3989_vp_cloth_halfboard_horizontal_0" ] } ],
+    "bg": [  ]
+  },
+  {
+    "id": "vp_clothboard_se_edge",
+    "fg": [ "vp_clothboard_se_edge", "vp_clothboard_se_edge_rotW", "vp_clothboard_se_edge_rotS", "vp_clothboard_se_edge_rotE" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "3987_vp_cargo_space_2" ],
+        "bg": [ "vp_clothboard_se_edge", "vp_clothboard_se_edge_rotW", "vp_clothboard_se_edge_rotS", "vp_clothboard_se_edge_rotE" ]
+      }
+    ],
+    "bg": [  ]
+  },
+  {
+    "id": "vp_clothboard_sw_edge",
+    "fg": [ "vp_clothboard_sw_edge", "vp_clothboard_sw_edge_rotW", "vp_clothboard_sw_edge_rotS", "vp_clothboard_sw_edge_rotE" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "3987_vp_cargo_space_2" ],
+        "bg": [ "vp_clothboard_sw_edge", "vp_clothboard_sw_edge_rotW", "vp_clothboard_sw_edge_rotS", "vp_clothboard_sw_edge_rotE" ]
+      }
+    ],
+    "bg": [  ]
+  }
+]

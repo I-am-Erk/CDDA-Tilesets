@@ -1,0 +1,48 @@
+[
+  {
+    "id": [ "vp_clothboard_ne_edge" ],
+    "fg": [
+      "vp_clothboard_ne_edge",
+      "vp_clothboard_ne_edge_rotW",
+      "vp_clothboard_ne_edge_rotS",
+      "vp_clothboard_ne_edge_rotE"
+    ],
+    "bg": [  ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [
+      "vp_clothboard_ne_edge",
+      "vp_clothboard_ne_edge_rotW",
+      "vp_clothboard_ne_edge_rotS",
+      "vp_clothboard_ne_edge_rotE"
+    ]
+      }
+    ]
+  },
+  {
+    "id": [ "vp_clothboard_nw_edge" ],
+    "fg": [
+      "vp_clothboard_nw_edge",
+      "vp_clothboard_nw_edge_rotW",
+      "vp_clothboard_nw_edge_rotS",
+      "vp_clothboard_nw_edge_rotE"
+    ],
+    "bg": [  ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [
+      "vp_clothboard_nw_edge",
+      "vp_clothboard_nw_edge_rotW",
+      "vp_clothboard_nw_edge_rotS",
+      "vp_clothboard_nw_edge_rotE"
+    ]
+      }
+    ]
+  }
+]
