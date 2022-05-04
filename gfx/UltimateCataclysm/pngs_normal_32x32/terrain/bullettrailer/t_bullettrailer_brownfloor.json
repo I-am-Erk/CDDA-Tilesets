@@ -1,0 +1,10 @@
+{
+  "id": "t_bullettrailer_brownfloor",
+      "fg": [
+        { "weight": 100, "sprite": "t_bullettrailer_brownfloor1" },
+        { "weight": 100, "sprite": "t_bullettrailer_brownfloor2" },
+        { "weight": 100, "sprite": "t_bullettrailer_brownfloor3" },
+        { "weight": 100, "sprite": "t_bullettrailer_brownfloor4" }
+      ],
+  "bg": ""
+}
