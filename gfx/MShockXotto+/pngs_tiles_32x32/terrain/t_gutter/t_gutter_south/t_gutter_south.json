@@ -1,0 +1,52 @@
+{
+  "id": "t_gutter_south",
+  "fg": "t_gutter_south_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_gutter_south_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_gutter_south_corner_nw",
+        "t_gutter_south_corner_sw",
+        "t_gutter_south_corner_se",
+        "t_gutter_south_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_gutter_south_t_connection_n",
+        "t_gutter_south_t_connection_w",
+        "t_gutter_south_t_connection_s",
+        "t_gutter_south_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_gutter_south_edge_ns",
+        "t_gutter_south_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_gutter_south_end_piece_n",
+        "t_gutter_south_end_piece_w",
+        "t_gutter_south_end_piece_s",
+        "t_gutter_south_end_piece_e"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_gutter_south_unconnected",
+        "t_gutter_south_unconnected"
+      ]
+    }
+  ]
+}
