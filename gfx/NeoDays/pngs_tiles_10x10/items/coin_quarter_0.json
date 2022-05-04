@@ -1,1 +1,1 @@
-{"id": "coin_quarter", "fg": ["3056_coin_quarter_0"], "rotates": false, "bg": []}
+{"id": ["coin_quarter", "coin_dime", "coin_nickel", "coin_half_dollar", "coin_dollar"], "fg": ["3056_coin_quarter_0"], "rotates": false, "bg": []}
