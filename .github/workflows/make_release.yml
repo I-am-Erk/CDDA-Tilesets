@@ -77,8 +77,8 @@ jobs:
             artifact: BrownLikeBears
             tileset_dir: gfx/BrownLikeBears
             compose_args: --use-all --obsolete-fillers
-          - name: Chibi_Ultica
-            artifact: Chibi_Ultica
+          - name: ChibiUltica
+            artifact: ChibiUltica
             tileset_dir: gfx/Chibi_Ultica
             compose_args: --use-all
           - name: HollowMoon
