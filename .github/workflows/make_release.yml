@@ -5,9 +5,8 @@
 name: Make Release
 concurrency: release
 on:
-  push:
-    branches:
-      - release_tweaks_test
+  schedule:
+    - cron: '0 12 * * sun'
 
 jobs:
   release:
