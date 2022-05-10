@@ -128,9 +128,6 @@ jobs:
           wget https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/compose.py \
           || echo "Error: Failed to get compose.py"
 
-          wget -P tools/format/ https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/format/json_formatter.cgi \
-          || echo "Error: Failed to get json_formatter.cgi"
-
           mkdir build
           python3 compose.py ${{matrix.compose_args}} --feedback CONCISE --loglevel INFO "${{matrix.tileset_dir}}" build
 
