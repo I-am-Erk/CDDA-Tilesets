@@ -37,6 +37,13 @@ jobs:
           tag: ${{ steps.generate_env_vars.outputs.tag_name }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Get Previous tag
+        id: previous_tag
+        uses: WyriHaximus/github-action-get-previous-tag@v1
+      - name: Abort if there are no changes
+        run: |
+          # exit 1 if there are no changes, exit 0 if there are changes
+          git diff ${{ steps.previous_tag.outputs.tag }} | grep ""
       - name: Push tag
         id: tag_version
         uses: mathieudutour/github-tag-action@v5.5
@@ -45,9 +52,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           custom_tag: ${{ steps.generate_env_vars.outputs.tag_name }}
           tag_prefix: ""
-      - name: Get Previous tag
-        id: previous_tag
-        uses: WyriHaximus/github-action-get-previous-tag@v1
       - name: Create release
         id: create_release
         uses: actions/create-release@main
