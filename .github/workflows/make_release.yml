@@ -89,7 +89,7 @@ jobs:
             artifact: Larwick_Overmap
             tileset_dir: gfx/Larwick_Overmap
             compose_args: --use-all
-          - name: MShockXotto+
+          - name: MshockXotto+
             artifact: MShockXotto+
             tileset_dir: gfx/MShockXotto+
             compose_args: --use-all
