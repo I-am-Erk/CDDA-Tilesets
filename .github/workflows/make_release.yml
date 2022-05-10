@@ -72,43 +72,43 @@ jobs:
           - name: Altica
             artifact: Altica
             tileset_dir: gfx/Altica
-            compose_args: --use-all --obsolete-fillers
+            compose_args: --use-all --obsolete-fillers --format-json
           - name: BrownLikeBears
             artifact: BrownLikeBears
             tileset_dir: gfx/BrownLikeBears
-            compose_args: --use-all --obsolete-fillers
+            compose_args: --use-all --obsolete-fillers --format-json
           - name: ChibiUltica
             artifact: ChibiUltica
             tileset_dir: gfx/Chibi_Ultica
-            compose_args: --use-all
+            compose_args: --use-all --format-json
           - name: HollowMoon
             artifact: HollowMoon
             tileset_dir: gfx/HollowMoon
-            compose_args: --use-all --obsolete-fillers
+            compose_args: --use-all --obsolete-fillers --format-json
           - name: Larwick_Overmap
             artifact: Larwick_Overmap
             tileset_dir: gfx/Larwick_Overmap
-            compose_args: --use-all
-          - name: MshockXotto+
-            artifact: MShockXotto+
+            compose_args: --use-all --format-json
+          - name: MShockXotto+
+            artifact: MshockXotto+
             tileset_dir: gfx/MShockXotto+
-            compose_args: --use-all
+            compose_args: --use-all --format-json
           - name: NeoDays
             artifact: NeoDaysTileset
             tileset_dir: gfx/NeoDays
-            compose_args: --use-all
+            compose_args: --use-all --format-json
           - name: Retrodays
             artifact: RetroDaysTileset
             tileset_dir: gfx/Retrodays
-            compose_args: --use-all
+            compose_args: --use-all --format-json
           - name: SurveyorsMap
             artifact: SurveyorsMap
             tileset_dir: gfx/SurveyorsMap
-            compose_args: --use-all
+            compose_args: --use-all --format-json
           - name: UltimateCataclysm
             artifact: UltimateCataclysm
             tileset_dir: gfx/UltimateCataclysm
-            compose_args: --use-all --obsolete-fillers
+            compose_args: --use-all --obsolete-fillers --format-json
     name: ${{ matrix.name }}
     runs-on: ubuntu-latest
     steps:
