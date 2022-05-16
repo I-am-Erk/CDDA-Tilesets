@@ -8,6 +8,9 @@ on:
   schedule:
     - cron: '0 12 * * sun'
 
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 jobs:
   release:
     name: Create Release
@@ -52,6 +55,15 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           custom_tag: ${{ steps.generate_env_vars.outputs.tag_name }}
           tag_prefix: ""
+      - name: "Generate release notes"
+        run: |
+          gh api \
+            --method POST \
+            -H "Accept: application/vnd.github.v3+json" \
+            /repos/I-am-Erk/CDDA-Tilesets/releases/generate-notes \
+            -f tag_name='${{ steps.generate_env_vars.outputs.tag_name }}' \
+            -f target_commitish='master' \
+            -q .body > CHANGELOG.md
       - name: Create release
         id: create_release
         uses: actions/create-release@main
@@ -61,8 +73,7 @@ jobs:
         with:
           tag_name: ${{ steps.generate_env_vars.outputs.tag_name }}
           release_name: ${{ steps.generate_env_vars.outputs.release_name }}
-          body: |
-            Full Changelog [${{ steps.previous_tag.outputs.tag }}...${{ steps.generate_env_vars.outputs.tag_name }}](https://github.com/${{ github.repository }}/compare/${{ steps.previous_tag.outputs.tag }}...${{ steps.generate_env_vars.outputs.tag_name }})
+          body_path: ./CHANGELOG.md
           draft: false
           prerelease: false
 
