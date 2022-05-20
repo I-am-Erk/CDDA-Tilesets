@@ -1,0 +1,112 @@
+[
+  {
+    "id": "t_gutter_west",
+    "fg": "t_gutter_unconnected",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "corner",
+        "fg": [ "t_gutter_corner_nw", "t_gutter_corner_sw", "t_gutter_corner_se", "t_gutter_corner_ne" ]
+      },
+      {
+        "id": "t_connection",
+        "fg": [
+          "t_gutter_corner_ne",
+          "t_gutter_edge_ns",
+          "t_gutter_corner_se",
+          "t_gutter_edge_ns"
+        ]
+      },
+      { "id": "edge", "fg": [ "t_gutter_edge_ns", "t_gutter_edge_ew" ] },
+      {
+        "id": "end_piece",
+        "fg": [ "t_gutter_edge_ns", "t_gutter_edge_ew", "t_gutter_edge_ns", "t_gutter_edge_ew" ]
+      }
+    ]
+  },
+  {
+    "id": "t_gutter_south",
+    "fg": "t_gutter_unconnected",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "corner",
+        "fg": [ "t_gutter_corner_nw", "t_gutter_corner_sw", "t_gutter_corner_se", "t_gutter_corner_ne" ]
+      },
+      {
+        "id": "t_connection",
+        "fg": [
+          "t_gutter_corner_nw",
+          "t_gutter_edge_ns",
+          "t_gutter_edge_ew",
+          "t_gutter_edge_ns"
+        ]
+      },
+      { "id": "edge", "fg": [ "t_gutter_edge_ns", "t_gutter_edge_ew" ] },
+      {
+        "id": "end_piece",
+        "fg": [
+          "t_gutter_edge_ns",
+          "t_gutter_edge_ew",
+          "t_gutter_edge_ns",
+          "t_gutter_edge_ew"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t_gutter_north",
+    "fg": "t_gutter_unconnected",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "corner",
+        "fg": [ "t_gutter_corner_nw", "t_gutter_corner_sw", "t_gutter_corner_se", "t_gutter_corner_ne" ]
+      },
+      {
+        "id": "t_connection",
+        "fg": [
+          "t_gutter_edge_ew",
+          "t_gutter_edge_ns",
+          "t_gutter_edge_ew",
+          "t_gutter_edge_ns"
+        ]
+      },
+      { "id": "edge", "fg": [ "t_gutter_edge_ns", "t_gutter_edge_ew" ] },
+      {
+        "id": "end_piece",
+        "fg": [
+          "t_gutter_edge_ns",
+          "t_gutter_edge_ew",
+          "t_gutter_edge_ns",
+          "t_gutter_edge_ew"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t_gutter_east",
+    "fg": "t_gutter_unconnected",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "corner",
+        "fg": [ "t_gutter_corner_nw", "t_gutter_corner_sw", "t_gutter_corner_se", "t_gutter_corner_ne" ]
+      },
+      {
+        "id": "t_connection",
+        "fg": [
+          "t_gutter_corner_nw",
+          "t_gutter_edge_ns",
+          "t_gutter_corner_sw",
+          "t_gutter_edge_ns"
+        ]
+      },
+      { "id": "edge", "fg": [ "t_gutter_edge_ns", "t_gutter_edge_ew" ] },
+      {
+        "id": "end_piece",
+        "fg": [ "t_gutter_edge_ns", "t_gutter_edge_ew", "t_gutter_edge_ns", "t_gutter_edge_ew" ]
+      }
+    ]
+  }
+]
