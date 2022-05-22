@@ -44,7 +44,7 @@
     "fg": "tent_white"
   },
   {
-    "id": [ "shelter", "shelter_vandal", "shelter_1_vandal", "shelter_2_vandal" ],
+    "id": [ "shelter", "shelter_vandal", "shelter_1_vandal", "shelter_2_vandal", "shelter_1b", "shelter_1b_vandal", "shelter_roof_1b" ],
     "fg": "industry_white"
   },
   {
@@ -73,6 +73,10 @@
   },
   {
     "id": "lmoe",
+    "fg": "bunker_red"
+  },
+  {
+    "id": "lmoe_zombie",
     "fg": "bunker_red"
   },
   {

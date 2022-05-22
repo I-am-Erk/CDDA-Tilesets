@@ -453,11 +453,11 @@
   },
   {
     "id": "house_inner_garden",
-    "fg": "park_green"
+    "fg": "house_light_green"
   },
   {
     "id": "house_inner_garden_roof",
-    "fg": "park_green"
+    "fg": "house_light_green"
   },
   {
     "id": "house_w_1",

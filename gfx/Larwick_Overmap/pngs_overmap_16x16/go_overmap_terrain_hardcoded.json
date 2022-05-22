@@ -48,6 +48,14 @@
     "fg": "mine_magenta"
   },
   {
+    "id": "mine_entrance_loading_zone",
+    "fg": "mine_magenta"
+  },
+  {
+    "id": "mine_entrance_loading_zone_roof",
+    "fg": "mine_magenta"
+  },
+  {
     "id": "mine_shaft_middle",
     "fg": "mine_dark_gray"
   },
@@ -100,6 +108,14 @@
     "fg": "big_tree_pink"
   },
   {
+    "id": "triffid_grove_trunk",
+    "fg": "big_tree_pink"
+  },
+  {
+    "id": "triffid_grove_roof",
+    "fg": "big_tree_pink"
+  },
+  {
     "id": "triffid_roots",
     "fg": "big_tree_magenta"
   },
@@ -124,6 +140,10 @@
     "fg": "portal_light_red"
   },
   {
+    "id": "anthill",
+    "fg": "hive_brown"
+  },
+  {
     "id": "ants",
     "fg": "pond_brown"
   },
@@ -138,6 +158,14 @@
   {
     "id": "ants_queen",
     "fg": "hive_red"
+  },
+  {
+    "id": "nest_dermatik",
+    "fg": "hive_brown"
+  },
+  {
+    "id": "nest_dermatik_roof",
+    "fg": "hive_brown"
   },
   {
     "id": "tutorial",

@@ -196,6 +196,14 @@
     "fg": "small_tree_light_green"
   },
   {
+    "id": "communitygarden_2",
+    "fg": "small_tree_light_green"
+  },
+  {
+    "id": "communitygarden_3",
+    "fg": "small_tree_light_green"
+  },
+  {
     "id": "publicgarden",
     "fg": "small_tree_light_green"
   },
