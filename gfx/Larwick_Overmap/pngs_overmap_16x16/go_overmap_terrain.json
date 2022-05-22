@@ -40,6 +40,26 @@
     "fg": "shop_white"
   },
   {
+    "id": "boat_rental_1",
+    "fg": "shop_white"
+  },
+  {
+    "id": "boat_rental_2",
+    "fg": "shop_white"
+  },
+  {
+    "id": "boat_rental_roof",
+    "fg": "shop_white"
+  },
+  {
+    "id": "boat_rental_1_roof",
+    "fg": "shop_white"
+  },
+  {
+    "id": "boat_rental_2_roof",
+    "fg": "shop_white"
+  },
+  {
     "id": "lighthouse_ground",
     "fg": "watchtower_yellow"
   },
@@ -265,6 +285,38 @@
   },
   {
     "id": "radio_tower_roof_1",
+    "fg": "watchtower_light_gray"
+  },
+  {
+    "id": "wasp_tower",
+    "fg": "watchtower_light_gray"
+  },
+  {
+    "id": "wasp_tower_1",
+    "fg": "watchtower_light_gray"
+  },
+  {
+    "id": "wasp_tower_roof_1",
+    "fg": "watchtower_light_gray"
+  },
+  {
+    "id": "wasp_tower_even_1",
+    "fg": "watchtower_light_gray"
+  },
+  {
+    "id": "wasp_tower_odd_1",
+    "fg": "watchtower_light_gray"
+  },
+  {
+    "id": "wasp_tower_even_2",
+    "fg": "watchtower_light_gray"
+  },
+  {
+    "id": "wasp_tower_odd_2",
+    "fg": "watchtower_light_gray"
+  },
+  {
+    "id": "wasp_tower_top",
     "fg": "watchtower_light_gray"
   },
   {
@@ -718,5 +770,9 @@
   {
     "id": "cground_2_2",
     "fg": "tent_green"
+  },
+  {
+    "id": "exo_safehouse_stone_0",
+    "fg": "barn_light_gray"
   }
 ]
