@@ -1,0 +1,10 @@
+{
+  "id": "mon_memory",
+  "fg": [
+    { "weight": 1, "sprite": "mon_memory1" },
+    { "weight": 100, "sprite": "mon_memory2" },
+    { "weight": 100, "sprite": "mon_memory3" }
+  ],
+  "rotates": false,
+  "bg": []
+}

@@ -1,0 +1,12 @@
+{
+  "id": "mon_shifting_mass",
+  "animated": true,
+  "fg": [
+    { "weight": 50, "sprite": "mon_shifting_mass1" },
+    { "weight": 50, "sprite": "mon_shifting_mass2" },
+    { "weight": 50, "sprite": "mon_shifting_mass3" },
+    { "weight": 50, "sprite": "mon_shifting_mass4" }
+  ],
+  "rotates": false,
+  "bg": []
+}
