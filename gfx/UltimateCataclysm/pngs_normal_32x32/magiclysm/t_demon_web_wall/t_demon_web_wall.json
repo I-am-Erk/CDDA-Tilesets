@@ -1,0 +1,38 @@
+{
+  "id": "t_demon_web_wall",
+  "fg": "t_demon_web_wall_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "center", "fg": "t_demon_web_wall_center" },
+    {
+      "id": "corner",
+      "fg": [
+        "t_demon_web_wall_corner_nw",
+        "t_demon_web_wall_corner_sw",
+        "t_demon_web_wall_corner_se",
+        "t_demon_web_wall_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_demon_web_wall_t_connection_n",
+        "t_demon_web_wall_t_connection_w",
+        "t_demon_web_wall_t_connection_s",
+        "t_demon_web_wall_t_connection_e"
+      ]
+    },
+    { "id": "edge", "fg": [ "t_demon_web_wall_edge_ns", "t_demon_web_wall_edge_ew" ] },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_demon_web_wall_end_piece_n",
+        "t_demon_web_wall_end_piece_w",
+        "t_demon_web_wall_end_piece_s",
+        "t_demon_web_wall_end_piece_e"
+      ]
+    },
+    { "id": "unconnected", "fg": [ "t_demon_web_wall_unconnected", "t_demon_web_wall_unconnected" ] }
+  ]
+}
+

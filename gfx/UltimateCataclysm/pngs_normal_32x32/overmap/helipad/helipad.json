@@ -1,17 +1,22 @@
-[{
-	"id": "helipad_ne",
-	"fg": [ "helipad_ne_north", "helipad_ne_west", "helipad_ne_south", "helipad_ne_east" ],
-	"rotates": true
-},{
-	"id": "helipad_nw",
-	"fg": [ "helipad_nw_north", "helipad_nw_west", "helipad_nw_south", "helipad_nw_east" ],
-	"rotates": true
-},{
-	"id": "helipad_se",
-	"fg": [ "helipad_se_north", "helipad_se_west", "helipad_se_south", "helipad_se_east" ],
-	"rotates": true
-},{
-	"id": "helipad_sw",
-	"fg": [ "helipad_sw_north", "helipad_sw_west", "helipad_sw_south", "helipad_sw_east" ],
-	"rotates": true
-}]
+[
+  {
+    "id": "helipad_ne",
+    "fg": [ "helipad_ne_north", "helipad_ne_east", "helipad_ne_south", "helipad_ne_west" ],
+    "rotates": true
+  },
+  {
+    "id": "helipad_nw",
+    "fg": [ "helipad_nw_north", "helipad_nw_east", "helipad_nw_south", "helipad_nw_west" ],
+    "rotates": true
+  },
+  {
+    "id": "helipad_se",
+    "fg": [ "helipad_se_north", "helipad_se_east", "helipad_se_south", "helipad_se_west" ],
+    "rotates": true
+  },
+  {
+    "id": "helipad_sw",
+    "fg": [ "helipad_sw_north", "helipad_sw_east", "helipad_sw_south", "helipad_sw_west" ],
+    "rotates": true
+  }
+]

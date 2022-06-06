@@ -1,0 +1,22 @@
+[
+  {
+    "id": "t_tree_burnt",
+    "fg": "t_tree_burnt",
+    "bg": "t_grass_giant"
+  },
+  {
+    "id": "t_tree_burnt_season_summer",
+    "fg": "t_tree_burnt",
+    "bg": "t_grass_summer_giant"
+  },
+  {
+    "id": "t_tree_burnt_season_autumn",
+    "fg": "t_tree_burnt",
+    "bg": "t_grass_autumn_giant"
+  },
+  {
+    "id": "t_tree_burnt_season_winter",
+    "fg": "t_tree_burnt",
+    "bg": "snow_shallow_giant"
+  }
+]
