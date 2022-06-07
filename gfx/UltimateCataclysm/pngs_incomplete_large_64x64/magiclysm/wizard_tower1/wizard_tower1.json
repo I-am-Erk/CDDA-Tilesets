@@ -1,0 +1,8 @@
+[
+  {
+    "id": [ "wizardtower1_ground", "wizardtower1_living", "wizardtower1_golems", "wizardtower1_study", "wizardtower1_roof" ],
+    "fg": [ "wizard_tower1_rot_N", "wizard_tower1_rot_W", "wizard_tower1_rot_S", "wizard_tower1_rot_E" ],
+    "bg": "field_large",
+    "rotates": true
+  }
+]

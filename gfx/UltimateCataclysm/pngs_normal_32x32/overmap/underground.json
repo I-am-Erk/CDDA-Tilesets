@@ -1,0 +1,10 @@
+[
+  {
+    "id": "solid_earth",
+    "fg": "t_soil_center"
+  },
+  {
+    "id": [ "empty_rock", "deep_rock" ],
+    "fg": "t_rock_center"
+  }
+]
