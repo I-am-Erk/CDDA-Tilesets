@@ -1,7 +1,7 @@
 [
   {
 	"id": "lab_subway_vent_shaft_roof",
-    "fg": [ "lab_subway_vent_shaft_rot_NS", "lab_subway_vent_shaft_rot_EW" ],
+  "fg": [ "lab_subway_vent_shaft_rot_NS", "lab_subway_vent_shaft_rot_EW" ],
 	"bg": "open_air",
 	"rotates": true
   },

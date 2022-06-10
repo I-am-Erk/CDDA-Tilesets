@@ -6,7 +6,7 @@
 	  "small_wooded_trail_rot_E",
 	  "small_wooded_trail_rot_S",
 	  "small_wooded_trail_rot_W"
-	  ],
+	],
 	"bg": "field",
 	"rotates": true
   },
@@ -17,7 +17,7 @@
 	  "small_wooded_trail_2_rot_E",
 	  "small_wooded_trail_2_rot_S",
 	  "small_wooded_trail_2_rot_W"
-	  ],
+	],
 	"bg": "field",
 	"rotates": true
   }
