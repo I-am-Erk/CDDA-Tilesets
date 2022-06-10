@@ -1,0 +1,20 @@
+[
+  {
+	"id": "silo",
+	"fg": [ "silo_rot_N", "silo_rot_E", "silo_rot_S", "silo_rot_W" ],
+	"bg": "field",
+	"rotates": true
+  },
+  {
+	"id": "silo_1",
+	"fg": [ "silo_rot_N", "silo_rot_E", "silo_rot_S", "silo_rot_W" ],
+	"bg": "t_soil_center",
+	"rotates": true
+  },
+  {
+  "id": [ "silo_2", "silo_3", "silo_4", "silo_finale" ],
+	"fg": [ "silo_rot_N", "silo_rot_E", "silo_rot_S", "silo_rot_W" ],
+	"bg": "t_rock_center",
+	"rotates": true
+  }
+]

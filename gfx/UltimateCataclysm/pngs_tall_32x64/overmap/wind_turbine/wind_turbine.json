@@ -1,0 +1,19 @@
+[
+  {
+	"id": [
+	  "wind_turbine_pillar",
+	  "wind_turbine_pillar_platform",
+	  "wind_turbine_nacelle",
+	  "wind_turbine_roof"
+	],
+	"fg": [ "wind_turbine_rot_N", "wind_turbine_rot_E", "wind_turbine_rot_S", "wind_turbine_rot_W" ],
+	"bg": "open_air_tall",
+	"rotates": true
+  },
+  {
+	"id": "wind_turbine_ground",
+	"fg": [ "wind_turbine_rot_N", "wind_turbine_rot_E", "wind_turbine_rot_S", "wind_turbine_rot_W" ],
+	"bg": "field_tall",
+	"rotates": true
+  }
+]
