@@ -204,6 +204,14 @@
     "fg": "cabin_brown"
   },
   {
+    "id": "cabin_prepper",
+    "fg": "cabin_brown"
+  },
+  {
+    "id": "cabin_prepper_shelter",
+    "fg": "bunker_red"
+  },
+  {
     "id": "cabin_roof_7",
     "fg": "cabin_brown"
   },
@@ -773,6 +781,14 @@
   },
   {
     "id": "exo_safehouse_stone_0",
+    "fg": "barn_light_gray"
+  },
+  {
+    "id": "exo_safehouse_stone_1",
+    "fg": "barn_light_gray"
+  },
+  {
+    "id": "exo_safehouse_stone_2",
     "fg": "barn_light_gray"
   }
 ]

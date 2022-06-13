@@ -1,74 +1,18 @@
 [
   {
-    "id": "fema_entrance",
+    "id": [
+    "fema_entrance", "fema", "fema_1_3", "fema_2_1", "fema_2_2", "fema_2_3", "fema_3_1", "fema_3_2", "fema_3_3",
+    "FEMA_tlc", "FEMA_te", "FEMA_trc", "FEMA_le", "FEMA_mid", "FEMA_re", "FEMA_blc", "FEMA_entrance", "FEMA_brc"
+    ],
     "fg": "tent_white"
   },
   {
-    "id": "fema",
-    "fg": "tent_white"
-  },
-  {
-    "id": "FEMA_tlc",
-    "fg": "tent_white"
-  },
-  {
-    "id": "FEMA_te",
-    "fg": "tent_white"
-  },
-  {
-    "id": "FEMA_trc",
-    "fg": "tent_white"
-  },
-  {
-    "id": "FEMA_le",
-    "fg": "tent_white"
-  },
-  {
-    "id": "FEMA_mid",
-    "fg": "tent_white"
-  },
-  {
-    "id": "FEMA_re",
-    "fg": "tent_white"
-  },
-  {
-    "id": "FEMA_blc",
-    "fg": "tent_white"
-  },
-  {
-    "id": "FEMA_entrance",
-    "fg": "tent_white"
-  },
-  {
-    "id": "FEMA_brc",
-    "fg": "tent_white"
-  },
-  {
-    "id": [ "shelter", "shelter_vandal", "shelter_1_vandal", "shelter_2_vandal", "shelter_1b", "shelter_1b_vandal", "shelter_roof_1b" ],
-    "fg": "industry_white"
-  },
-  {
-    "id": "shelter_roof",
-    "fg": "industry_white"
-  },
-  {
-    "id": "shelter_1",
-    "fg": "industry_white"
-  },
-  {
-    "id": "shelter_roof_1",
-    "fg": "industry_white"
-  },
-  {
-    "id": "shelter_2",
-    "fg": "industry_white"
-  },
-  {
-    "id": "shelter_roof_2",
-    "fg": "industry_white"
-  },
-  {
-    "id": "shelter_under",
+    "id": [
+    "shelter", "shelter_roof", "shelter_under", "shelter_vandal", "shelter_under_vandal",
+    "shelter_1", "shelter_roof_1", "shelter_under_1", "shelter_1_vandal", "shelter_under_1_vandal",
+    "shelter_2", "shelter_roof_2", "shelter_under_2", "shelter_2_vandal", "shelter_under_2_vandal",
+    "shelter_1b", "shelter_roof_1b", "shelter_under_1b", "shelter_1b_vandal", "shelter_under_1b_vandal"
+    ],
     "fg": "industry_white"
   },
   {
@@ -89,6 +33,10 @@
   },
   {
     "id": "lmoe_under_empty",
+    "fg": "bunker_red"
+  },
+  {
+    "id": "lmoe_zombie_under_empty",
     "fg": "bunker_red"
   },
   {

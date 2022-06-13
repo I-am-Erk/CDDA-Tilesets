@@ -104,6 +104,14 @@
     "fg": "pond_light_green"
   },
   {
+    "id": "slimepit_top",
+    "fg": "pond_light_green"
+  },
+  {
+    "id": "slimepit_bottom",
+    "fg": "pond_light_green"
+  },
+  {
     "id": "triffid_grove",
     "fg": "big_tree_pink"
   },

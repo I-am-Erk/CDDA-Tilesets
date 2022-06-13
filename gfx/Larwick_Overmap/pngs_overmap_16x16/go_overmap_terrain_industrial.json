@@ -140,7 +140,7 @@
     "fg": "industry_brown"
   },
   {
-    "id": "industry_brown_roof",
+    "id": "lumbermill_0_0_roof",
     "fg": "industry_brown"
   },
   {
@@ -482,5 +482,85 @@
   {
     "id": "steel_mill_rail_2_3",
     "fg": "industry_dark_gray"
+  },
+  {
+    "id": "s_lightindustry_road_0",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "s_lightindustry_road_1",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "s_lightindustry_scen_road_0",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "s_lightindustry_scen_road_1",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "s_lightindustry_00",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "s_lightindustry_01",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "s_lightindustry_10",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "s_lightindustry_11",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "s_lightindustry_00_roof",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "s_lightindustry_01_roof",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "s_lightindustry_10_roof",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "s_lightindustry_11_roof",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "s_lightindustry_scen_00_roof",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "s_lightindustry_scen_01_roof",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "s_lightindustry_scen_10_roof",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "s_lightindustry_scen_11_roof",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "s_lightindustry_scen_00",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "s_lightindustry_scen_01",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "s_lightindustry_scen_10",
+    "fg": "industry_light_blue"
+  },
+  {
+    "id": "s_lightindustry_scen_11",
+    "fg": "industry_light_blue"
   }
 ]

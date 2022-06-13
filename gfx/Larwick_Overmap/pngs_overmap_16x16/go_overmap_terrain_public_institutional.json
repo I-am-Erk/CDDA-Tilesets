@@ -52,6 +52,38 @@
     "fg": "church_white"
   },
   {
+    "id": "cathedral_2_NW",
+    "fg": "church_white"
+  },
+  {
+    "id": "cathedral_2_NE",
+    "fg": "church_white"
+  },
+  {
+    "id": "cathedral_2_SW",
+    "fg": "church_white"
+  },
+  {
+    "id": "cathedral_2_SE",
+    "fg": "church_white"
+  },
+  {
+    "id": "cathedral_3_NW",
+    "fg": "church_white"
+  },
+  {
+    "id": "cathedral_3_NE",
+    "fg": "church_white"
+  },
+  {
+    "id": "cathedral_3_SW",
+    "fg": "church_white"
+  },
+  {
+    "id": "cathedral_3_SE",
+    "fg": "church_white"
+  },
+  {
     "id": "cathedral_b_NW",
     "fg": "church_white"
   },
@@ -341,6 +373,78 @@
   },
   {
     "id": "prison_1_9",
+    "fg": "watchtower_light_gray"
+  },
+  {
+    "id": "prison_1_2f_1",
+    "fg": "watchtower_light_gray"
+  },
+  {
+    "id": "prison_1_2f_2",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_1_2f_3",
+    "fg": "watchtower_light_gray"
+  },
+  {
+    "id": "prison_1_2f_4",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_1_2f_5",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_1_2f_6",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_1_2f_7",
+    "fg": "watchtower_light_gray"
+  },
+  {
+    "id": "prison_1_2f_8",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_1_2f_9",
+    "fg": "watchtower_light_gray"
+  },
+  {
+    "id": "prison_1_3f_1",
+    "fg": "watchtower_light_gray"
+  },
+  {
+    "id": "prison_1_3f_2",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_1_3f_3",
+    "fg": "watchtower_light_gray"
+  },
+  {
+    "id": "prison_1_3f_4",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_1_3f_5",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_1_3f_6",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_1_3f_7",
+    "fg": "watchtower_light_gray"
+  },
+  {
+    "id": "prison_1_3f_8",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": "prison_1_3f_9",
     "fg": "watchtower_light_gray"
   },
   {
