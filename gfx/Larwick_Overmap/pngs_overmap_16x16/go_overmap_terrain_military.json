@@ -2,15 +2,15 @@
   {
     "id": [
     "fema_entrance", "fema", "fema_1_3", "fema_2_1", "fema_2_2", "fema_2_3", "fema_3_1", "fema_3_2", "fema_3_3",
-    "FEMA_tlc", "FEMA_te", "FEMA_trc", "FEMA_le", "FEMA_mid", "FEMA_re", "FEMA_blc", "FEMA_entrance", "FEMA_brc",
+    "FEMA_tlc", "FEMA_te", "FEMA_trc", "FEMA_le", "FEMA_mid", "FEMA_re", "FEMA_blc", "FEMA_entrance", "FEMA_brc"
     ],
     "fg": "tent_white"
   },
   {
     "id": [
     "shelter", "shelter_roof", "shelter_under", "shelter_vandal", "shelter_under_vandal",
-    "shelter_1", "shelter_roof_1", "shelter_under_1", "shelter_1_vandal", "shelter_under_1_vandal"
-    "shelter_2", "shelter_roof_2", "shelter_under_2", "shelter_2_vandal", "shelter_under_2_vandal"
+    "shelter_1", "shelter_roof_1", "shelter_under_1", "shelter_1_vandal", "shelter_under_1_vandal",
+    "shelter_2", "shelter_roof_2", "shelter_under_2", "shelter_2_vandal", "shelter_under_2_vandal",
     "shelter_1b", "shelter_roof_1b", "shelter_under_1b", "shelter_1b_vandal", "shelter_under_1b_vandal"
     ],
     "fg": "industry_white"
