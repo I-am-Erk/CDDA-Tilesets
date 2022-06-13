@@ -774,5 +774,13 @@
   {
     "id": "exo_safehouse_stone_0",
     "fg": "barn_light_gray"
+  },
+  {
+    "id": "exo_safehouse_stone_1",
+    "fg": "barn_light_gray"
+  },
+  {
+    "id": "exo_safehouse_stone_2",
+    "fg": "barn_light_gray"
   }
 ]
