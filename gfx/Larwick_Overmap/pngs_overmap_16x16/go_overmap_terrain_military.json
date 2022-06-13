@@ -44,31 +44,12 @@
     "fg": "tent_white"
   },
   {
-    "id": [ "shelter", "shelter_vandal", "shelter_1_vandal", "shelter_2_vandal", "shelter_1b", "shelter_1b_vandal", "shelter_roof_1b" ],
-    "fg": "industry_white"
-  },
-  {
-    "id": "shelter_roof",
-    "fg": "industry_white"
-  },
-  {
-    "id": "shelter_1",
-    "fg": "industry_white"
-  },
-  {
-    "id": "shelter_roof_1",
-    "fg": "industry_white"
-  },
-  {
-    "id": "shelter_2",
-    "fg": "industry_white"
-  },
-  {
-    "id": "shelter_roof_2",
-    "fg": "industry_white"
-  },
-  {
-    "id": "shelter_under",
+    "id": [
+    "shelter", "shelter_roof", "shelter_under", "shelter_vandal", "shelter_under_vandal",
+    "shelter_1", "shelter_roof_1", "shelter_under_1", "shelter_1_vandal", "shelter_under_1_vandal"
+    "shelter_2", "shelter_roof_2", "shelter_under_2", "shelter_2_vandal", "shelter_under_2_vandal"
+    "shelter_1b", "shelter_roof_1b", "shelter_under_1b", "shelter_1b_vandal", "shelter_under_1b_vandal"
+    ],
     "fg": "industry_white"
   },
   {
@@ -89,6 +70,10 @@
   },
   {
     "id": "lmoe_under_empty",
+    "fg": "bunker_red"
+  },
+  {
+    "id": "lmoe_zombie_under_empty",
     "fg": "bunker_red"
   },
   {
