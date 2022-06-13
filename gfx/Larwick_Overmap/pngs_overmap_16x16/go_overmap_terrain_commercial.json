@@ -248,6 +248,18 @@
     "fg": "shop_light_cyan"
   },
   {
+    "id": "s_electronicstore",
+    "fg": "shop_light_cyan"
+  },
+  {
+    "id": "s_electronicstore_2ndfloor",
+    "fg": "shop_light_cyan"
+  },
+  {
+    "id": "s_electronicstore_roof",
+    "fg": "shop_light_cyan"
+  },
+  {
     "id": "s_sports",
     "fg": "shop_light_blue"
   },
@@ -301,6 +313,18 @@
   },
   {
     "id": "s_gun_roof_4",
+    "fg": "shop_red"
+  },
+  {
+    "id": "s_gunstore",
+    "fg": "shop_red"
+  },
+  {
+    "id": "s_gunstore_2ndfloor",
+    "fg": "shop_red"
+  },
+  {
+    "id": "s_gunstore_roof",
     "fg": "shop_red"
   },
   {
