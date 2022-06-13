@@ -204,6 +204,14 @@
     "fg": "cabin_brown"
   },
   {
+    "id": "cabin_prepper",
+    "fg": "cabin_brown"
+  },
+  {
+    "id": "cabin_prepper_shelter",
+    "fg": "bunker_red"
+  },
+  {
     "id": "cabin_roof_7",
     "fg": "cabin_brown"
   },
