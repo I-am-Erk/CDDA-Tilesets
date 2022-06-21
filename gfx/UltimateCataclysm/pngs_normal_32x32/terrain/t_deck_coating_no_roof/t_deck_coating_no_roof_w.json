@@ -1,0 +1,55 @@
+[
+  {
+    "id": "t_deck_coating_no_roof_w",
+    "fg": "t_deck_coating_no_roof_w",
+    "bg": "t_deck_coating_no_roof_edge_ns",
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "center", "fg": "t_deck_coating_no_roof_w", "bg": "t_deck_coating_no_roof_center" },
+      {
+        "id": "corner",
+        "fg": "t_deck_coating_no_roof_w",
+        "bg": [
+          "t_deck_coating_no_roof_corner_nw",
+          "t_deck_coating_no_roof_corner_sw",
+          "t_deck_coating_no_roof_corner_se",
+          "t_deck_coating_no_roof_corner_ne"
+        ]
+      },
+      {
+        "id": "t_connection",
+        "fg": "t_deck_coating_no_roof_w",
+        "bg": [
+          "t_deck_coating_no_roof_t_connection_n",
+          "t_deck_coating_no_roof_t_connection_w",
+          "t_deck_coating_no_roof_t_connection_s",
+          "t_deck_coating_no_roof_t_connection_e"
+        ]
+      },
+      {
+        "id": "edge",
+        "fg": "t_deck_coating_no_roof_w",
+        "bg": [ "t_deck_coating_no_roof_edge_ns", "t_deck_coating_no_roof_edge_ew" ]
+      },
+      {
+        "id": "end_piece",
+        "fg": "t_deck_coating_no_roof_w",
+        "bg": [
+          "t_deck_coating_no_roof_end_piece_n",
+          "t_deck_coating_no_roof_end_piece_w",
+          "t_deck_coating_no_roof_end_piece_s",
+          "t_deck_coating_no_roof_end_piece_e"
+        ]
+      },
+      {
+        "id": "unconnected",
+        "fg": "t_deck_coating_no_roof_w",
+        "bg": [ "t_deck_coating_no_roof_edge_ns", "t_deck_coating_no_roof_edge_ns" ]
+      }
+    ]
+  },
+  {
+    "id": "t_deck_coating_no_roof_w_season_winter",
+    "fg": "snow_smooth"
+  }
+]
