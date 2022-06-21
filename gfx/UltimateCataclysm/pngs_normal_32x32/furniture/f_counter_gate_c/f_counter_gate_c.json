@@ -10,7 +10,8 @@
         "fg": [ "f_counter_gate_c_rot_NS", "f_counter_gate_c_rot_EW", "f_counter_gate_c_rot_NS", "f_counter_gate_c_rot_EW" ]
       },
       { "id": "edge", "fg": [ "f_counter_gate_c_rot_NS", "f_counter_gate_c_rot_EW" ] },
-      { "id": "unconnected", "fg": [ "f_counter_gate_c_rot_NS", "f_counter_gate_c_rot_EW" ] }
+      { "id": "unconnected", "fg": [ "f_counter_gate_c_rot_NS", "f_counter_gate_c_rot_EW" ] },
+      { "id": "end_piece", "fg": [ "f_counter_gate_c_rot_NS", "f_counter_gate_c_rot_EW" ] }
     ]
   }
 ]
