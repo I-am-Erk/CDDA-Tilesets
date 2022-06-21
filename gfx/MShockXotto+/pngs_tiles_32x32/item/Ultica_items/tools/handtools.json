@@ -1,10 +1,5 @@
 [
   {
-    "id": "saw",
-    "fg": [ "wood_saw" ],
-    "bg": [  ]
-  },
-  {
     "id": "wrench",
     "fg": [ "wrench" ],
     "bg": [  ]
