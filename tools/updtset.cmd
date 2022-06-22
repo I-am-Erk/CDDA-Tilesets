@@ -90,7 +90,9 @@ if /i [!curarg1!] EQU [/] (
 )
 :continue
 if /i [!verbose!] EQU [YES] (echo.)
+if /i [!verbose!] EQU [YES] (echo    Edit top part for the first run.)
 if /i [!verbose!] EQU [YES] (echo    For advanced use please run %0 /?)
+if /i [!verbose!] EQU [YES] (echo    Autocloses if everything ok.)
 if /i [!verbose!] EQU [YES] (echo.)
 
 echo 1. Check if folders are correct.
@@ -200,10 +202,11 @@ if not errorlevel 1 (
 	if /i [!verbose!] EQU [YES] (echo.)
 	
 	echo.
-	echo All done... Refresh tileset in game. 
+	echo     All done... Refresh tileset in game. 
 ) else (
 	echo ERROR: Something went wrong! && goto stop
 )
+timeout /t 10 >nul
 exit /b 0
 :stop
 echo:
