@@ -1,0 +1,32 @@
+[
+  {
+    "id": "overlay_female_mutation_SHELL",
+    "fg": "shell_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_mutation_SHELL",
+    "fg": "shell_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_mutation_SHELL2",
+    "fg": "shell_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_mutation_SHELL2",
+    "fg": "shell_m",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_mutation_SHELL3",
+    "fg": "shell_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_mutation_SHELL3",
+    "fg": "shell_m",
+    "bg": ""
+  }
+]
