@@ -1,0 +1,49 @@
+{
+  "id": "t_chainfence",
+  "fg": "t_chainfence_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "center", "fg": "t_chainfence_unconnected" },
+    {
+      "id": "corner",
+      "fg": [ 
+        "t_chainfence_corner_n", 
+        "t_chainfence_corner_e",
+        "t_chainfence_corner_s",
+        "t_chainfence_corner_w"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_chainfence_connection_e",
+        "t_chainfence_connection_w",
+        "t_chainfence_connection_w",
+        "t_chainfence_connection_e"
+      ]
+    },
+    { 
+      "id": "edge", 
+      "fg": [ 
+        "t_brick_wall_connection_w",
+        "t_brick_wall_connection_e"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_chainfence_connection_e",
+        "t_chainfence_connection_w",
+        "t_chainfence_connection_e",
+        "t_chainfence_connection_w"
+      ]
+    },
+    { 
+      "id": "unconnected",
+      "fg": [ 
+        "t_chainfence_unconnected", 
+        "t_chainfence_unconnected"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "pixelscale": 1,
+      "height": 16,
+      "iso": true,
+      "width": 32
+  },
+  {
+    "furniture.png": { "sprite_width": 32, "sprite_height": 32 }
+  },
+  {
+    "furniture_tall.png": { "sprite_width": 32, "sprite_height": 64 }
+  },
+  {
+    "large.png": { "sprite_width": 64, "sprite_height": 64 }
+  },
+  {
+    "terrain.png": { "sprite_width": 32, "sprite_height": 20 }
+  },
+  {
+    "wall.png": { "sprite_width": 32, "sprite_height": 64 }
+  }
+]
