@@ -1,1 +1,39 @@
-{"id": ["t_fence_h", "t_fence_v", "t_fence"], "fg": ["238_t_fence_h_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "center", "fg": ["239_t_fence_h_1"], "bg": []}, {"id": "corner", "fg": ["240_t_fence_h_2", "241_t_fence_h_3", "242_t_fence_h_4", "238_t_fence_h_0"], "bg": []}, {"id": "edge", "fg": ["243_t_fence_h_5", "244_t_fence_h_6", "243_t_fence_h_5", "244_t_fence_h_6"], "bg": []}, {"id": "end_piece", "fg": ["243_t_fence_h_5", "244_t_fence_h_6", "245_t_fence_h_7", "238_t_fence_h_0"], "bg": []}, {"id": "t_connection", "fg": ["244_t_fence_h_6", "241_t_fence_h_3", "239_t_fence_h_1", "242_t_fence_h_4"], "bg": []}, {"id": "unconnected", "fg": ["238_t_fence_h_0"], "bg": []}], "bg": []}
+{
+  "id": ["t_fence_h", "t_fence_v", "t_fence"],
+  "fg": ["238_t_fence_h_0"],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles":[
+    {
+      "id": "center",
+      "fg": ["239_t_fence_h_1"],
+      "bg": []
+    },
+    {
+      "id": "corner",
+      "fg": ["240_t_fence_h_2", "241_t_fence_h_3", "242_t_fence_h_4", "238_t_fence_h_0"],
+      "bg": []
+    },
+    {
+      "id": "edge",
+      "fg": ["243_t_fence_h_5", "244_t_fence_h_6", "243_t_fence_h_5", "244_t_fence_h_6"],
+      "bg": []
+    },
+    {
+      "id": "end_piece",
+      "fg": ["243_t_fence_h_5", "244_t_fence_h_6", "245_t_fence_h_7", "238_t_fence_h_0"],
+      "bg": []
+    },
+    {
+      "id": "t_connection",
+      "fg": ["244_t_fence_h_6", "241_t_fence_h_3", "239_t_fence_h_1", "242_t_fence_h_4"],
+      "bg": []
+    },
+    {
+      "id": "unconnected",
+      "fg": ["238_t_fence_h_0"],
+      "bg": []
+    }
+  ],
+  "bg": []
+}

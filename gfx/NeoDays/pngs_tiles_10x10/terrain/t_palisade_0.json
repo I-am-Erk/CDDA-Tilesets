@@ -1,1 +1,39 @@
-{"id": "t_palisade", "fg": ["250_t_palisade_0", "251_t_palisade_1", "250_t_palisade_0", "251_t_palisade_1"], "rotates": true, "bg": []}
+{
+  "id": "t_palisade",
+  "fg": ["t_palisade_0"],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles":[
+    {
+      "id": "center",
+      "fg": ["t_palisade_8"],
+      "bg": []
+    },
+    {
+      "id": "corner",
+      "fg": ["t_palisade_7", "t_palisade_1", "t_palisade_2", "t_palisade_6"],
+      "bg": []
+    },
+    {
+      "id": "edge",
+      "fg": ["t_palisade_3", "t_palisade_4", "t_palisade_3", "t_palisade_4"],
+      "bg": []
+    },
+    {
+      "id": "end_piece",
+      "fg": ["t_palisade_3", "t_palisade_1", "t_palisade_5", "t_palisade_0"],
+      "bg": []
+    },
+    {
+      "id": "t_connection",
+      "fg": ["t_palisade_8", "t_palisade_7", "t_palisade_4", "t_palisade_6"],
+      "bg": []
+    },
+    {
+      "id": "unconnected",
+      "fg": ["t_palisade_5"],
+      "bg": []
+    }
+  ],
+  "bg": []
+}
