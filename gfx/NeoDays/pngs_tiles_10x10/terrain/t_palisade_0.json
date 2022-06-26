@@ -6,12 +6,12 @@
   "additional_tiles":[
     {
       "id": "center",
-      "fg": ["t_palisade_1"],
+      "fg": ["t_palisade_10"],
       "bg": []
     },
     {
       "id": "corner",
-      "fg": ["t_palisade_2", "t_palisade_3", "t_palisade_4", "t_palisade_0"],
+      "fg": ["t_palisade_9", "t_palisade_3", "t_palisade_4", "t_palisade_8"],
       "bg": []
     },
     {
@@ -26,7 +26,7 @@
     },
     {
       "id": "t_connection",
-      "fg": ["t_palisade_6", "t_palisade_3", "t_palisade_1", "t_palisade_4"],
+      "fg": ["t_palisade_10", "t_palisade_9", "t_palisade_6", "t_palisade_8"],
       "bg": []
     },
     {
