@@ -31,6 +31,9 @@
     }
   },
   {
-    "fallback.png": { "sprite_width": 20, "sprite_height": 20, "fallback": true }
+    "small.png": { "sprite_width": 20, "sprite_height": 20, "sprite_offset_x": 6, "sprite_offset_y": 0, "filler": true }
+  },
+  {
+    "fallback.png": { "sprite_width": 20, "sprite_height": 20, "sprite_offset_x": 6, "sprite_offset_y": -6, "fallback": true }
   }
 ]
