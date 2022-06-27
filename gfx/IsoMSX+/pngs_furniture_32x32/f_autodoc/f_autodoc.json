@@ -1,0 +1,10 @@
+{
+  "id": "f_autodoc",
+  "fg": [
+    "f_autodoc_ne",
+    "f_autodoc_se",
+    "f_autodoc_sw",
+    "f_autodoc_nw"
+  ],
+  "rotates": true
+}

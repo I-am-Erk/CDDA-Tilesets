@@ -1,0 +1,10 @@
+#Isometric MSX+
+
+NAME: Isometric MSX+
+VIEW: IsoMSX+
+JSON: tile_config.json
+TILESET: tiles.png
+
+#Conversion of tiles sourced from MShockXotto+ tileset to isometric perspective
+#Sample/reference tiles sourced from MShockXotto+ maintained by Fris0uman
+#Isometric conversions made by Zupercharged
