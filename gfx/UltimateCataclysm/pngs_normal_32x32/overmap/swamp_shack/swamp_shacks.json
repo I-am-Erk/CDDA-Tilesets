@@ -1,6 +1,6 @@
 [{
 	"id": "hunter_shack",
-	"fg": [ "hunter_shack_faceN", "hunter_shack_faceE", "hunter_shack_faceS", "hunter_shack_faceW" ],
+	"fg": [ "hunter_shack_faceS", "hunter_shack_faceE", "hunter_shack_faceN", "hunter_shack_faceW" ],
 	"bg": "field",
 	"rotates": true
 },{
