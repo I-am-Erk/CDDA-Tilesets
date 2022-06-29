@@ -1,7 +1,7 @@
 @echo off
 setlocal EnableDelayedExpansion
 setlocal EnableExtensions
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::ver 1.12 / 2022-06-22::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::ver 1.13 / 2022-06-29::::
 :: this script does following:
 :: - compose tileset from the source
 :: - put composed tileset into some folder for future use
@@ -90,9 +90,7 @@ if /i [!curarg1!] EQU [/] (
 )
 :continue
 if /i [!verbose!] EQU [YES] (echo.)
-if /i [!verbose!] EQU [YES] (echo    Edit top part for the first run.)
 if /i [!verbose!] EQU [YES] (echo    For advanced use please run %0 /?)
-if /i [!verbose!] EQU [YES] (echo    Autocloses if everything ok.)
 if /i [!verbose!] EQU [YES] (echo.)
 
 echo 1. Check if folders are correct.
@@ -136,8 +134,12 @@ if /i [!verbose!] EQU [YES] (echo.)
 echo 2. Check if python available.
 if /i [!verbose!] EQU [YES] (echo    - IMPORTANT: If any error apears at this stage please refer following page first.)
 if /i [!verbose!] EQU [YES] (echo      https://github.com/CleverRaven/Cataclysm-DDA/blob/master/doc/TILESET.md#pyvips )
-python --version > nul
-if errorlevel 1 (echo ERROR: No Python found! && goto stop)
+py --version > nul
+if errorlevel 1 (
+	echo ERROR: No Python found!
+	echo If you are sure that Python is installed - please check 'path' environment variable.
+	goto stop
+)
 if /i [!verbose!] EQU [YES] (echo    - Python found.)
 pip show pyvips --no-color 1>nul 
 if errorlevel 1 (
@@ -152,8 +154,9 @@ if errorlevel 1 (
 )
 vips -v 1>nul
 if errorlevel 1 (
-	if /i [!verbose!] EQU [YES] (echo    - No 'libvips' library found. Please refer installation manual:)
-	if /i [!verbose!] EQU [YES] (echo      https://libvips.github.io/libvips/install.html )
+	echo ERROR! No 'libvips' library found. Please refer installation manual:
+	echo https://libvips.github.io/libvips/install.html 
+	echo If you are sure that library was installed - please check library version and 'path' environment variable.
 	goto stop
 ) else (
 	if /i [!verbose!] EQU [YES] (echo    - Library 'libvips' found.)
@@ -172,7 +175,7 @@ pushd "!path_to_compose!" || goto :deleted
 rd /q /s . 2> NUL
 popd
 :deleted
-python.exe "%script_dir%\compose.py" --use-all "%tileset_fork%\gfx\%tileset_name%" "!path_to_compose!"
+py.exe "%script_dir%\compose.py" --use-all "%tileset_fork%\gfx\%tileset_name%" "!path_to_compose!"
 if not errorlevel 1 (
 	if /i [!verbose!] EQU [YES] (echo.)
 
@@ -215,6 +218,9 @@ pause >nul
 exit /b 1
 
 :: Change log
+:: 1.13
+:: V fixed python launching command. Now it is 'py' everywhere. Sometimes py works, but python launches shortcut that tries to setup Python from Windows store.
+:: V fixed error message, now it appears even in quiet mode.
 :: 1.12
 :: + Added check for pyvips and libvips
 :: + Added installation of pyvips
