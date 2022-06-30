@@ -32,7 +32,7 @@ set script_dir="T:\workshop"
 set composed_dir="T:\workshop\compiled"
 
 ::
-:: 5. Set path to the folder where the CDDA game located
+:: 5. Set path to CDDA game folder
 
 set the_game_dir="T:\cataclysm"
 
