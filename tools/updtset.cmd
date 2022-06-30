@@ -27,7 +27,7 @@ set def_tileset="UltimateCataclysm"
 set script_dir="T:\workshop"
 
 ::
-:: 4. Set path to the folder where to put composed tileset (for future examination)
+:: 4. Set path to the folder where to put the composed tileset (for future examination)
 
 set composed_dir="T:\workshop\compiled"
 
