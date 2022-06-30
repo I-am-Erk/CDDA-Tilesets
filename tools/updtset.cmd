@@ -214,20 +214,3 @@ echo:
 echo (press any key to close this window)
 pause >nul
 exit /b 1
-
-:: Change log
-:: 1.13
-:: V fixed python launching command. Now it is 'py' everywhere. Sometimes py works, but python launches shortcut that tries to setup Python from Windows store.
-:: V fixed error message, now it appears even in quiet mode.
-:: 1.12
-:: + Added check for pyvips and libvips
-:: + Added installation of pyvips
-:: 1.11
-:: + Added support of paths with spaces
-:: ~ Changed behavior, now verbose is default mode
-:: ~ Changed /v key to /q - quiet mode
-:: 1.10
-:: + Now supports /v /d /s keys
-:: + Also can accept tileset name as argument so it can be provided via shortcut
-:: 1.01
-:: + Added manual reference for python (module+library)
