@@ -12,7 +12,7 @@ setlocal EnableExtensions
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-:: 1. Set correct folder same as in github desktop repository local path
+:: 1. Set path to your local copy of the tileset repository
 
 set tileset_fork="T:\cdda-tilesets"
 
