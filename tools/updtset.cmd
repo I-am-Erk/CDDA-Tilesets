@@ -23,8 +23,6 @@ set def_tileset="UltimateCataclysm"
 
 ::
 :: 3. Set path to compose.py file 
-::    if it is in cdda source local repository type full path to it
-::    or if it's in your workshop type this path
 
 set script_dir="T:\workshop"
 
