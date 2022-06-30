@@ -8,7 +8,7 @@ setlocal EnableExtensions
 :: - copy said composed tileset from the folder into the game so you can try in on the fly
 :: - copy layering json file from tileset source into the game
 ::
-:: PLEASE setup 5 variables below, put correct text inside a quotes
+:: PLEASE setup 5 variables below, put correct text between quotes
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
