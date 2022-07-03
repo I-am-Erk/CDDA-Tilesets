@@ -1,0 +1,4 @@
+[
+{"id": ["mon_zombie_grabber"], "fg": ["273_mon_zombie_grabber_0"], "bg": [ "hex_brown" ]},
+{"id": ["mon_zombie_grappler"], "fg": ["274_mon_zombie_grappler_0"], "bg": [ "hex_red" ]}
+]

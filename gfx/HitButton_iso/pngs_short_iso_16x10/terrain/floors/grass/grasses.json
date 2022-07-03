@@ -1,0 +1,30 @@
+[
+  {
+    "id": [ "t_grass" ],
+    "bg": [
+      { "weight": 1, "sprite": "t_grass_1" },
+      { "weight": 1, "sprite": "t_grass_2" },
+      { "weight": 1, "sprite": "t_grass_3" },
+      { "weight": 1, "sprite": "t_grass_4" },
+      { "weight": 1, "sprite": "t_grass_5" },
+      { "weight": 1, "sprite": "t_grass_6" }
+    ],
+    "fg": [
+      { "weight": 1, "sprite": "floor_outline_double" },
+      { "weight": 1, "sprite": "floor_outline_double_2" },
+      { "weight": 1, "sprite": "floor_outline_double_3" },
+      { "weight": 1, "sprite": "floor_outline_left" },
+      { "weight": 1, "sprite": "floor_outline_right" }
+    ]
+  },
+  {
+    "id": [ "t_grass_long" ],
+    "fg": [ "t_grass_long" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "t_grass_white" ],
+    "fg": [ "t_grass_white" ],
+    "bg": [  ]
+  }
+]

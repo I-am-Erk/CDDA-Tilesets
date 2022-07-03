@@ -1,7 +1,8 @@
-NAME: HitButton_iso
-VIEW: HitButton iso
+NAME: ShasmButton_iso
+VIEW: SmashButton iso
 JSON: tile_config.json
-TILESET: HitButton_iso.png
+TILESET: SmashButton_iso.png
+Original Author: HitButton
 
 
 #HitButton iso is an isometric tileset created from scratch, with some inspiration drawn from Retrodays, by hitbutton.
