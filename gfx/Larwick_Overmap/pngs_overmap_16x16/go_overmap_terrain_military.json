@@ -926,5 +926,12 @@
   {
     "id": "mil_base_3i4",
     "fg": "bunker_red"
+  },
+  {
+    "id": [
+      "gunshow_0",
+      "gunshow_1"
+    ],
+    "fg": "tent_red"
   }
 ]
