@@ -12,5 +12,5 @@ jobs:
       - name: "Validate SUMMARY"
         uses: CleverRaven/pr-validator@master
         with:
-          description-regex: '(\n|^)#### Summary\s+(None|((Ultica|Ultica-iso|Chibi-Ultica|Altica|NeoDays|RetroDays|HitButton|MSX|BLB|MD|HM|Smap|Larwick|Infrastructure) +".*"))\s*(\n|$)'
+          description-regex: '(\n|^)#### Summary\s+(None|((Ultica|Ultica-iso|Chibi-Ultica|Altica|NeoDays|RetroDays|HitButton|MSX|IsoMSX|BLB|MD|HM|Smap|Larwick|Infrastructure) +".*"))\s*(\n|$)'
           description-regex-flags: 'i'
