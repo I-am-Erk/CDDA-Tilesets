@@ -60,6 +60,19 @@
     "fg": "shop_white"
   },
   {
+    "id": [
+      "sealab_small_surface",
+      "sealab_small_roof",
+      "sealab_small_-1",
+      "sealab_small_-2",
+      "sealab_small_-3",
+      "sealab_small_-4",
+      "sealab_small_-5"
+    ],
+    "fg": "watchtower_light_blue"
+  },
+
+  {
     "id": "lighthouse_ground",
     "fg": "watchtower_yellow"
   },
@@ -131,6 +144,11 @@
     "id": "lake_cabin_boathouse_roof",
     "fg": "small_tree_green"
   },
+  {
+    "id": "lake_cabin_water",
+    "fg": "water_blue"
+  },
+
   {
     "id": "cabin_strange",
     "fg": "small_tree_green"

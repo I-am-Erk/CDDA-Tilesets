@@ -132,6 +132,11 @@
     "fg": "big_tree_red"
   },
   {
+    "id": "solid_earth",
+    "fg": "rock_brown"
+  },
+
+  {
     "id": "rock",
     "fg": "rock_dark_gray"
   },

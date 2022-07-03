@@ -56,7 +56,7 @@
     "fg": "silo_cyan"
   },
   {
-    "id": "silo_cyan_roof",
+    "id": "pwr_large_2_roof",
     "fg": "silo_cyan"
   },
   {
@@ -324,7 +324,7 @@
     "fg": "square_dark_gray"
   },
   {
-    "id": "industry_dark_gray_2",
+    "id": "steel_mill_0_1_2",
     "fg": "industry_dark_gray"
   },
   {
@@ -404,7 +404,7 @@
     "fg": "square_dark_gray"
   },
   {
-    "id": "industry_dark_gray_3",
+    "id": "steel_mill_0_1_3",
     "fg": "industry_dark_gray"
   },
   {
