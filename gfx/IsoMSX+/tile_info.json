@@ -1,23 +1,39 @@
 [
   {
     "pixelscale": 1,
-      "height": 16,
-      "iso": true,
-      "width": 32
+    "height": 20,
+    "iso": true,
+    "width": 32
   },
   {
     "furniture.png": { "sprite_width": 32, "sprite_height": 32 }
   },
   {
-    "furniture_tall.png": { "sprite_width": 32, "sprite_height": 64 }
+    "furniture_tall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_x": 0, "sprite_offset_y": -44 }
   },
   {
-    "large.png": { "sprite_width": 64, "sprite_height": 64 }
+    "large.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -44 }
   },
   {
     "terrain.png": { "sprite_width": 32, "sprite_height": 20 }
   },
   {
-    "wall.png": { "sprite_width": 32, "sprite_height": 64 }
+    "wall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_x": 0, "sprite_offset_y": -44 }
+  },
+  {
+    "tiles.png": {
+      "sprite_width": 32,
+      "sprite_height": 32,
+      "sprite_offset_x": 0,
+      "sprite_offset_y": -12,
+      "filler": true,
+      "exclude": [ "terrain", "furniture", "vehicle", "trap", "mods/Magiclysm/terrain", "mods/Magiclysm/vehicle" ]
+    }
+  },
+  {
+    "small.png": { "sprite_width": 20, "sprite_height": 20, "sprite_offset_x": 6, "sprite_offset_y": 0, "filler": true }
+  },
+  {
+    "fallback.png": { "sprite_width": 20, "sprite_height": 20, "sprite_offset_x": 6, "sprite_offset_y": -6, "fallback": true }
   }
 ]
