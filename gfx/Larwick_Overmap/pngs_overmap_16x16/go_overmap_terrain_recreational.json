@@ -826,5 +826,12 @@
   {
     "id": "marina_20",
     "fg": "anchor_cyan"
+  },
+  {
+    "id": [
+      "lodge_ground1",
+      "lodge_ground2"
+    ],
+    "fg": "big_house_brown"
   }
 ]

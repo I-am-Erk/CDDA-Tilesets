@@ -312,6 +312,17 @@
     "fg": "trailer_white"
   },
   {
+    "id": [
+      "trailerparksmall0",
+      "trailerparksmall1",
+      "trailerparksmall2",
+      "trailerparksmall0_roof",
+      "trailerparksmall1_roof",
+      "trailerparksmall2_roof"
+    ],
+    "fg": "trailer_light_gray"
+  },
+  {
     "id": "house_01",
     "fg": "house_light_gray"
   },
