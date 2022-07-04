@@ -488,6 +488,10 @@
     "fg": "pond_blue"
   },
   {
+    "id": "hot_springs",
+    "fg": "pond_light_blue"
+  },
+  {
     "id": "movietheater_0_0",
     "fg": "big_building_yellow"
   },
@@ -838,7 +842,7 @@
       "lodge_roof1",
       "lodge_roof2",
       "lodge_basement_residential1",
-      "lodge_basement_residential2",
+      "lodge_basement_residential2"
     ],
     "fg": "big_house_brown"
   }
