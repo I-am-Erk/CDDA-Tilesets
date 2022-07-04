@@ -80,6 +80,10 @@
     "fg": "cave_light_gray"
   },
   {
+    "id": "c_cave_entrance",
+    "fg": "cave_light_blue"
+  },
+  {
     "id": "cave_rat",
     "fg": "cave_brown"
   },
@@ -131,6 +135,11 @@
     "id": "triffid_finale",
     "fg": "big_tree_red"
   },
+  {
+    "id": "solid_earth",
+    "fg": "rock_brown"
+  },
+
   {
     "id": "rock",
     "fg": "rock_dark_gray"
