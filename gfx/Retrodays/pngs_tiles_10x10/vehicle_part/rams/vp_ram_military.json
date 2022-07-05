@@ -1,0 +1,5 @@
+{
+  "id": "vp_ram_military",
+  "fg": [ "vp_ram_military", "vp_ram_military_left", "vp_ram_military_down", "vp_ram_military_right" ],
+  "rotates": true
+}
