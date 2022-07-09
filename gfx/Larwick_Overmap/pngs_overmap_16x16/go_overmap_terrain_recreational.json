@@ -881,13 +881,13 @@
       "fort_2b",
       "fort_3b"
     ],
-    "fg": "one_grass_brown"
+    "fg": "two_grass_brown"
   },
   {
     "id": [
       "fort_2b_1",
       "fort_3b_1"
     ],
-    "fg": "open_air_brown"
+    "fg": "open_air_blue"
   }
 ]
