@@ -61,11 +61,15 @@
   },
   {
     "id": "2farm_3",
-    "fg": "two_grass_brown"
+    "fg": "barn_brown"
+  },
+  {
+    "id": "2farm_loft_3",
+    "fg": "barn_brown"
   },
   {
     "id": "2farm_roof_3",
-    "fg": "two_grass_brown"
+    "fg": "barn_brown"
   },
   {
     "id": "2farm_4",
@@ -73,7 +77,7 @@
   },
   {
     "id": "2farm_roof_4",
-    "fg": "two_grass_brown"
+    "fg": "open_air_blue"
   },
   {
     "id": "2farm_5",
@@ -81,7 +85,19 @@
   },
   {
     "id": "2farm_6",
-    "fg": "two_grass_brown"
+    "fg": "silo_brown"
+  },
+  {
+    "id": "2farm_6_1",
+    "fg": "silo_brown"
+  },
+  {
+    "id": "2farm_6_2",
+    "fg": "silo_brown"
+  },
+  {
+    "id": "2farm_6_3",
+    "fg": "silo_brown"
   },
   {
     "id": "2farm_7",
@@ -125,7 +141,7 @@
   },
   {
     "id": "2farm_roof_15",
-    "fg": "two_grass_brown"
+    "fg": "open_air_blue"
   },
   {
     "id": "2farm_16",
@@ -144,6 +160,14 @@
     "fg": "cabin_brown"
   },
   {
+    "id": "farm_stills_3_2nd",
+    "fg": "cabin_brown"
+  },
+  {
+    "id": "farm_stills_3_roof",
+    "fg": "cabin_brown"
+  },
+  {
     "id": "farm_stills_4",
     "fg": "two_grass_brown"
   },
@@ -157,6 +181,10 @@
   },
   {
     "id": "farm_stills_7",
+    "fg": "barn_brown"
+  },
+  {
+    "id": "farm_stills_7_roof",
     "fg": "barn_brown"
   },
   {
@@ -188,7 +216,15 @@
     "fg": "industry_light_green"
   },
   {
+    "id": "orchard_processing_roof",
+    "fg": "industry_light_green"
+  },
+  {
     "id": "orchard_stall",
+    "fg": "shop_light_green"
+  },
+  {
+    "id": "orchard_stall_roof",
     "fg": "shop_light_green"
   },
   {

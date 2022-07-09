@@ -4,7 +4,15 @@
     "fg": "two_story_light_gray"
   },
   {
-    "id": "park",
+    "id": [
+      "park",
+      "park_2",
+      "park_3",
+      "park_4",
+      "park_5",
+      "park_6",
+      "park_7"
+    ],
     "fg": "park_green"
   },
   {
