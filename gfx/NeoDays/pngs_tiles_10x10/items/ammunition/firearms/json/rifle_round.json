@@ -36,9 +36,7 @@
     "762_51", "762_51_incendiary", "reloaded_762_51", "reloaded_762_51_incendiary",
     "762_54R", "reloaded_762_54R",
     "9mm", "9mmP", "9mmP2", "9mmfmj", "reloaded_9mm", "reloaded_9mmP", "reloaded_9mmP2", "reloaded_9mmfmj",
-    "9x18mm", "9x18mmfmj", "9x18mmP2", "reloaded_9x18mm", "reloaded_9x18mmfmj", "reloaded_9x18mmP2",
+    "9x18mm", "9x18mmfmj", "9x18mmP2", "reloaded_9x18mm", "reloaded_9x18mmfmj", "reloaded_9x18mmP2"
   ],
-  "fg": ["rifle_round"],
-  "rotates": false,
-  "bg": []
+  "fg": "rifle_round"
 }
