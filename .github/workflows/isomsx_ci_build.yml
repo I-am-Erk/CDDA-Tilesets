@@ -3,11 +3,11 @@
 #
 # This action is triggered by any PR against the master branch as well
 # as on any push to the master branch itself
-# that changes any file in gfx/MShockXotto+ folder
-name: MShockXotto+ composer
+# that changes any file in gfx/IsoMSX+ folder
+name: IsoMSX+ composer
 
 env:
-  TILESET: MShockXotto+
+  TILESET: IsoMSX+
   COMPOSE_ARGS: --use-all
   BUILD_DIR: build
 
@@ -16,14 +16,14 @@ on:
     branches:
       - master
     paths:
-      - 'gfx/MShockXotto\+/**'
-      - '.github/workflows/msx_ci_build.yml'
+      - 'gfx/IsoMSX+/**'
+      - '.github/workflows/isomsx_ci_build.yml'
   pull_request:
     branches:
       - master
     paths:
-      - 'gfx/MShockXotto\+/**'
-      - '.github/workflows/msx_ci_build.yml'
+      - 'gfx/IsoMSX+/**'
+      - '.github/workflows/isomsx_ci_build.yml'
 
 jobs:
   build:
