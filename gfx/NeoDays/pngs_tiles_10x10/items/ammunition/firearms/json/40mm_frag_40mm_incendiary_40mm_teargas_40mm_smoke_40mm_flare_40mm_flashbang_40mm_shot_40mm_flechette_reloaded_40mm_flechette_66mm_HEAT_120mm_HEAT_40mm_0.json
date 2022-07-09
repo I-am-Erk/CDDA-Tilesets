@@ -12,7 +12,7 @@
     "84x246mm_he", "84x246mm_hedp", "84x246mm_smoke",
     "m235tpa"
   ],
-  "fg": ["1217_40mm_frag_0"],
+  "fg": ["40mm_round"],
   "rotates": false,
   "bg": []
 }
