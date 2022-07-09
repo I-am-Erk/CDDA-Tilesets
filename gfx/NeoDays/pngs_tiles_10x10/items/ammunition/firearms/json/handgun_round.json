@@ -20,6 +20,6 @@
     "9mm", "9mmP", "9mmP2", "9mmfmj", "reloaded_9mm", "reloaded_9mmP", "reloaded_9mmP2", "reloaded_9mmfmj",
     "9x18mm", "9x18mmfmj", "9x18mmP2", "reloaded_9x18mm", "reloaded_9x18mmfmj", "reloaded_9x18mmP2"
   ],
-  "fg": "rifle_round"
+  "fg": "handgun_round"
 }
 
