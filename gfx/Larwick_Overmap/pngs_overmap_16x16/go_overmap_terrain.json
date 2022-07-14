@@ -129,20 +129,8 @@
     "fg": "one_grass_brown"
   },
   {
-    "id": "cabin_isherwood",
-    "fg": "small_tree_light_green"
-  },
-  {
     "id": "riverside_dwelling",
     "fg": "cabin_yellow"
-  },
-  {
-    "id": "cabin_lake",
-    "fg": "small_tree_green"
-  },
-  {
-    "id": "cabin_lake_roof",
-    "fg": "small_tree_green"
   },
   {
     "id": "lake_cabin_boathouse",
@@ -170,84 +158,35 @@
     "fg": "small_tree_green"
   },
   {
-    "id": "cabin",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_roof",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_1",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_roof_1",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_2",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_roof_2",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_3",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_roof_3",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_4",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_roof_4",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_5",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_roof_5",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_6",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_roof_6",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_7",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_prepper",
+    "id": [
+      "cabin",
+      "cabin_roof",
+      "cabin_1",
+      "cabin_roof_1",
+      "cabin_2",
+      "cabin_roof_2",
+      "cabin_3",
+      "cabin_roof_3",
+      "cabin_4",
+      "cabin_roof_4",
+      "cabin_5",
+      "cabin_roof_5",
+      "cabin_6",
+      "cabin_roof_6",
+      "cabin_7",
+      "cabin_roof_7",
+      "cabin_lake",
+      "cabin_lake_roof",
+      "cabin_lapin",
+      "cabin_roof_lapin",
+      "cabin_isherwood",
+      "cabin_prepper"
+    ],
     "fg": "cabin_brown"
   },
   {
     "id": "cabin_prepper_shelter",
     "fg": "bunker_red"
-  },
-  {
-    "id": "cabin_roof_7",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_lapin",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_roof_lapin",
-    "fg": "cabin_brown"
   },
   {
     "id": "dirtroad1_aban1",
