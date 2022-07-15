@@ -1,0 +1,49 @@
+{
+  "id": "f_sandbag_wall",
+  "fg": "f_sandbag_wall_n",
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "center", "fg": "f_sandbag_wall_s" },
+    {
+      "id": "corner",
+      "fg": [ 
+        "f_sandbag_wall_n",
+        "f_sandbag_wall_e",
+        "f_sandbag_wall_s",
+        "f_sandbag_wall_w"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_sandbag_wall_e",
+        "f_sandbag_wall_w",
+        "f_sandbag_wall_s",
+        "f_sandbag_wall_s"
+      ]
+    },
+    {
+      "id": "edge", 
+      "fg": [ 
+        "f_sandbag_wall_w", 
+        "f_sandbag_wall_e"
+      ] 
+    },
+    {
+      "id": "end_piece",
+      "fg": [ 
+        "f_sandbag_wall_n",
+        "f_sandbag_wall_n",
+        "f_sandbag_wall_w",
+        "f_sandbag_wall_e"
+      ]
+    },
+    { 
+      "id": "unconnected",
+      "fg": [
+        "f_sandbag_wall_n", 
+        "f_sandbag_wall_n" 
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "f_carrot_wild", "f_carrot_wild_season_summer" ],
+    "fg": "f_carrot_wild"
+  },
+  {
+    "id": "f_carrot_wild_season_autumn",
+    "fg": "f_carrot_wild_season_autumn"
+  },
+  {
+    "id": "f_carrot_wild_season_winter",
+    "fg": "f_carrot_wild_season_winter"
+  }
+]

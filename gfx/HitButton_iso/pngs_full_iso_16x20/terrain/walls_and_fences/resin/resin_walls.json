@@ -1,0 +1,84 @@
+[
+  {
+    "id": [ "t_wall_resin" ],
+    "fg": [
+      { "weight": 1, "sprite": [ "t_wall_resin_L", "t_wall_resin_R" ] },
+      { "weight": 1, "sprite": [ "t_wall_resin_L2", "t_wall_resin_R2" ] },
+      { "weight": 1, "sprite": [ "t_wall_resin_L3", "t_wall_resin_R3" ] }
+    ],
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "center", "fg": [ "t_wall_resin_center" ], "bg": [  ] },
+      {
+        "id": "end_piece",
+        "fg": [
+          { "weight": 1, "sprite": [ "t_wall_resin_L", "t_wall_resin_R" ] },
+          { "weight": 1, "sprite": [ "t_wall_resin_L2", "t_wall_resin_R2" ] },
+          { "weight": 1, "sprite": [ "t_wall_resin_L3", "t_wall_resin_R3" ] }
+        ],
+        "bg": [  ]
+      },
+      { "id": "unconnected", "fg": [ "t_wall_resin_unconnected" ], "bg": [  ] },
+      {
+        "id": "edge",
+        "fg": [
+          { "weight": 1, "sprite": [ "t_wall_resin_L", "t_wall_resin_R" ] },
+          { "weight": 1, "sprite": [ "t_wall_resin_L2", "t_wall_resin_R2" ] },
+          { "weight": 1, "sprite": [ "t_wall_resin_L3", "t_wall_resin_R3" ] }
+        ],
+        "bg": [  ]
+      },
+      {
+        "id": "corner",
+        "fg": [ "t_wall_resin_corner_nw", "t_wall_resin_corner_sw", "t_wall_resin_corner_se", "t_wall_resin_corner_ne" ],
+        "bg": [  ]
+      },
+      {
+        "id": "t_connection",
+        "fg": [ "t_wall_resin_t_connection_n", "t_wall_resin_t_connection_w", "t_wall_resin_t_connection_s", "t_wall_resin_t_connection_e" ],
+        "bg": [  ]
+      }
+    ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "t_wall_resin_cage" ],
+    "fg": [ "t_wall_resin_cage_L", "t_wall_resin_cage_R" ],
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "center", "fg": [ "t_wall_resin_cage" ], "bg": [  ] },
+      {
+        "id": "end_piece",
+        "fg": [ "t_wall_resin_cage_L", "t_wall_resin_cage_R" ],
+        "bg": [  ]
+      },
+      { "id": "unconnected", "fg": [ "t_wall_resin_cage" ], "bg": [  ] },
+      {
+        "id": "edge",
+        "fg": [ "t_wall_resin_cage_L", "t_wall_resin_cage_R" ],
+        "bg": [  ]
+      },
+      {
+        "id": "corner",
+        "fg": [ "t_wall_resin_cage_R", "t_wall_resin_cage", "t_wall_resin_cage_L", "t_wall_resin_corner_ne" ],
+        "bg": [  ]
+      },
+      {
+        "id": "t_connection",
+        "fg": [ "t_wall_resin_cage_R", "t_wall_resin_cage", "t_wall_resin_cage", "t_wall_resin_cage_L" ],
+        "bg": [  ]
+      }
+    ],
+    "bg": [  ]
+  },
+  {
+   "id": ["t_resin_hole", "t_resin_hole_o"], 
+   "multitile": true, 
+   "fg": ["t_resin_hole_o_L", "t_resin_hole_o_R"], "bg": []
+  },
+  {
+   "id": ["t_resin_hole_c"], 
+   "multitile": true, 
+   "fg": ["t_resin_hole_c_L", "t_resin_hole_c_R"], "bg": []
+  }
+]

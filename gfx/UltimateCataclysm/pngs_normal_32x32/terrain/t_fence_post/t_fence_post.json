@@ -1,0 +1,22 @@
+[
+  {
+    "id": "t_fence_post",
+    "fg": "t_fence_post",
+    "bg": "t_grass"
+  },
+  {
+    "id": "t_fence_post_season_summer",
+    "fg": "t_fence_post",
+    "bg": "t_grass_summer"
+  },
+  {
+    "id": "t_fence_post_season_autumn",
+    "fg": "t_fence_post",
+    "bg": "t_grass_autumn"
+  },
+  {
+    "id": "t_fence_post_season_winter",
+    "fg": "t_fence_post",
+    "bg": "snow_shallow_center"
+  }
+]

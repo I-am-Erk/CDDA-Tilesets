@@ -56,5 +56,15 @@
     "id": "bridge",
     "fg": [ "v_line_blue", "h_line_blue", "v_line_blue", "h_line_blue" ],
     "rotates": true
+  },
+  {
+    "id": "bridgehead_ground",
+    "fg": [ "v_line_gray-blue", "h_line_blue-gray", "v_line_blue-gray", "h_line_gray-blue" ],
+    "rotates": true
+  },
+  {
+    "id": "bridgehead_ramp",
+    "fg": [ "v_line_gray-white", "h_line_white-gray", "v_line_white-gray", "h_line_gray-white" ],
+    "rotates": true
   }
 ]

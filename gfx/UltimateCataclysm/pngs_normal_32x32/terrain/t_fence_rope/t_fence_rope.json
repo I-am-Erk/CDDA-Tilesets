@@ -1,6 +1,6 @@
 [
   {
-    "id": "t_fence_rope_season_spring",
+    "id": "t_fence_rope",
     "fg": "t_fence_rope_unconnected",
     "bg": "t_grass",
     "multitile": true,

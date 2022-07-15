@@ -1,11 +1,11 @@
 [
   {
-    "id": [ "dirt_road", "dirt_road_forest" ],
+    "id": [ "dirt_road", "dirt_road_forest", "rural_road", "rural_road_forest" ],
     "fg": [ "dirt_road_edge_ns", "dirt_road_edge_ew", "dirt_road_edge_ns", "dirt_road_edge_ew" ],
     "rotates": true
   },
   {
-    "id": [ "dirt_road_3way", "dirt_road_3way_forest" ],
+    "id": [ "dirt_road_3way", "dirt_road_3way_forest", "rural_road_3way", "rural_road_3way_forest" ],
     "fg": [ "dirt_road_t_connection_n", "dirt_road_t_connection_e", "dirt_road_t_connection_s", "dirt_road_t_connection_w" ],
     "rotates": true
   },

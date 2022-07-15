@@ -8,15 +8,24 @@
     "fg": "hole_red"
   },
   {
-    "id": "field",
+    "id": [
+      "field",
+      "special_field"
+    ],
     "fg": "one_grass_brown"
   },
   {
-    "id": "forest",
+    "id": [
+      "forest",
+      "special_forest"
+    ],
     "fg": "small_tree_green"
   },
   {
-    "id": "forest_thick",
+    "id": [
+      "forest_thick",
+      "special_forest_thick"
+    ],
     "fg": "big_tree_green"
   },
   {
@@ -80,6 +89,10 @@
     "fg": "cave_light_gray"
   },
   {
+    "id": "c_cave_entrance",
+    "fg": "cave_light_blue"
+  },
+  {
     "id": "cave_rat",
     "fg": "cave_brown"
   },
@@ -131,6 +144,11 @@
     "id": "triffid_finale",
     "fg": "big_tree_red"
   },
+  {
+    "id": "solid_earth",
+    "fg": "rock_brown"
+  },
+
   {
     "id": "rock",
     "fg": "rock_dark_gray"

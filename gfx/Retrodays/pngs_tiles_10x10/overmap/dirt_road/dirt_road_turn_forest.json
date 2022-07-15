@@ -1,5 +1,5 @@
 {
-    "id": "dirt_road_turn_forest",
+    "id": [ "dirt_road_turn_forest", "rural_road_turn_forest" ],
     "fg": [
         "dirt_road_corner_ne",
         "dirt_road_corner_se",
