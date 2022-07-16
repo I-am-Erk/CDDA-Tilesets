@@ -865,7 +865,7 @@
       "fort_1c_1",
       "fort_4c_1"
     ],
-    "fg": "fortress_dark_gray"
+    "fg": "fortress_red"
   },
   {
     "id": [
@@ -874,7 +874,7 @@
       "fort_2c_1",
       "fort_3c_1"
     ],
-    "fg": "fortress_light_gray"
+    "fg": "fortress_light_red"
   },
   {
     "id": [
