@@ -8,24 +8,15 @@
     "fg": "hole_red"
   },
   {
-    "id": [
-      "field",
-      "special_field"
-    ],
+    "id": "field",
     "fg": "one_grass_brown"
   },
   {
-    "id": [
-      "forest",
-      "special_forest"
-    ],
+    "id": "forest",
     "fg": "small_tree_green"
   },
   {
-    "id": [
-      "forest_thick",
-      "special_forest_thick"
-    ],
+    "id": "forest_thick",
     "fg": "big_tree_green"
   },
   {
