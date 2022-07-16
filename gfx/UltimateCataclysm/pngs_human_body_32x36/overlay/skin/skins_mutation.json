@@ -70,32 +70,12 @@
     "bg": ""
   },
   {
-    "id": "overlay_male_mutation_PATCHSKIN1",
+    "id": [ "overlay_male_mutation_PATCHSKIN1", "overlay_male_mutation_PATCHSKIN2", "overlay_male_mutation_PATCHSKIN3" ],
     "fg": "patchskin_m",
     "bg": ""
   },
   {
-    "id": "overlay_male_mutation_PATCHSKIN2",
-    "fg": "patchskin_m",
-    "bg": ""
-  },
-  {
-    "id": "overlay_male_mutation_PATCHSKIN3",
-    "fg": "patchskin_m",
-    "bg": ""
-  },
-  {
-    "id": "overlay_female_mutation_PATCHSKIN1",
-    "fg": "patchskin_f",
-    "bg": ""
-  },
-  {
-    "id": "overlay_female_mutation_PATCHSKIN2",
-    "fg": "patchskin_f",
-    "bg": ""
-  },
-  {
-    "id": "overlay_female_mutation_PATCHSKIN3",
+    "id": [ "overlay_female_mutation_PATCHSKIN1", "overlay_female_mutation_PATCHSKIN2", "overlay_female_mutation_PATCHSKIN3" ],
     "fg": "patchskin_f",
     "bg": ""
   }
