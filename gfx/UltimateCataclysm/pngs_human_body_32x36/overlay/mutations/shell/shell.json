@@ -1,11 +1,11 @@
 [
   {
-    "id": [ "overlay_female_mutation_SHELL", "overlay_female_mutation_SHELL2" ]
+    "id": [ "overlay_female_mutation_SHELL", "overlay_female_mutation_SHELL2" ],
     "fg": "shell_f",
     "bg": ""
   },
   {
-    "id": [ "overlay_male_mutation_SHELL", "overlay_male_mutation_SHELL2" ]
+    "id": [ "overlay_male_mutation_SHELL", "overlay_male_mutation_SHELL2" ],
     "fg": "shell_m",
     "bg": ""
   }
