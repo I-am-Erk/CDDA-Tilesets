@@ -22,11 +22,11 @@
     },
     {
       "id": "t_connection",
-      "fg": "f_table_5",
+      "fg": "f_table_5"
     },
     {
       "id": "unconnected",
-      "fg": "f_table_0",
+      "fg": "f_table_0"
     }
   ]
 }
