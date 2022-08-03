@@ -72,7 +72,7 @@ jobs:
           wget -q -P "$BUILD_DIR" https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/compose.py \
           || echo "Error: Failed to get compose.py"
 
-          python3 "$BUILD_DIR/compose.py" $COMPOSE_ARGS "gfx/$TILESET" "$BUILD_DIR"
+          python3 "$BUILD_DIR/compose.py" --feedback CONCISE --loglevel INFO $COMPOSE_ARGS "gfx/$TILESET" "$BUILD_DIR"
           [ -f "gfx/$TILESET/fallback.png" ] && cp "gfx/$TILESET/fallback.png" "$BUILD_DIR/"
 
           artifact_name="$TILESET-${GITHUB_SHA::7}"

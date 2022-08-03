@@ -46,7 +46,7 @@ jobs:
       - name: Abort if there are no changes
         run: |
           # exit 1 if there are no changes, exit 0 if there are changes
-          git diff ${{ steps.previous_tag.outputs.tag }} | grep ""
+          git diff ${{ steps.previous_tag.outputs.tag }} | grep -q ""
       - name: Push tag
         id: tag_version
         uses: mathieudutour/github-tag-action@v5.5
@@ -87,47 +87,47 @@ jobs:
           - name: Altica
             artifact: Altica
             tileset_dir: gfx/Altica
-            compose_args: --use-all --obsolete-fillers --format-json
+            compose_args: --use-all --obsolete-fillers
           - name: BrownLikeBears
             artifact: BrownLikeBears
             tileset_dir: gfx/BrownLikeBears
-            compose_args: --use-all --obsolete-fillers --format-json
+            compose_args: --use-all --obsolete-fillers
           - name: ChibiUltica
             artifact: ChibiUltica
             tileset_dir: gfx/Chibi_Ultica
-            compose_args: --use-all --format-json
+            compose_args: --use-all
           - name: HollowMoon
             artifact: HollowMoon
             tileset_dir: gfx/HollowMoon
-            compose_args: --use-all --obsolete-fillers --format-json
+            compose_args: --use-all --obsolete-fillers
           - name: Larwick_Overmap
             artifact: Larwick_Overmap
             tileset_dir: gfx/Larwick_Overmap
-            compose_args: --use-all --format-json
+            compose_args: --use-all
           - name: MShockXotto+
             artifact: MshockXotto+
             tileset_dir: gfx/MShockXotto+
-            compose_args: --use-all --format-json
+            compose_args: --use-all
           - name: NeoDays
             artifact: NeoDaysTileset
             tileset_dir: gfx/NeoDays
-            compose_args: --use-all --format-json
+            compose_args: --use-all
           - name: Retrodays
             artifact: RetroDaysTileset
             tileset_dir: gfx/Retrodays
-            compose_args: --use-all --format-json
+            compose_args: --use-all
           - name: SmashButton_iso
             artifact: SmashButton_iso
             tileset_dir: gfx/HitButton_iso
-            compose_args: --use-all --format-json
+            compose_args: --use-all
           - name: SurveyorsMap
             artifact: SurveyorsMap
             tileset_dir: gfx/SurveyorsMap
-            compose_args: --use-all --format-json
+            compose_args: --use-all
           - name: UltimateCataclysm
             artifact: UltimateCataclysm
             tileset_dir: gfx/UltimateCataclysm
-            compose_args: --use-all --obsolete-fillers --format-json
+            compose_args: --use-all --obsolete-fillers
     name: ${{ matrix.name }}
     runs-on: ubuntu-latest
     steps:
@@ -147,11 +147,11 @@ jobs:
       - name: Build
         id: build
         run: |
-          wget https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/compose.py \
+          wget -q https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/compose.py \
           || echo "Error: Failed to get compose.py"
 
           mkdir build
-          python3 compose.py ${{matrix.compose_args}} --feedback CONCISE --loglevel INFO "${{matrix.tileset_dir}}" build
+          python3 compose.py ${{matrix.compose_args}} --feedback CONCISE --loglevel INFO --format-json "${{matrix.tileset_dir}}" build
 
           release_name=${{matrix.artifact}}
           mkdir $release_name
