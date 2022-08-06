@@ -80,6 +80,10 @@
     "fg": "cave_light_gray"
   },
   {
+    "id": "cave_underground",
+    "fg": "cave_brown"
+  },
+  {
     "id": "c_cave_entrance",
     "fg": "cave_light_blue"
   },
@@ -116,19 +120,31 @@
     "fg": "pond_light_green"
   },
   {
-    "id": "triffid_grove",
+    "id": [
+      "triffid_grove",
+      "triffid_grove_z2",
+      "triffid_grove_z3",
+      "triffid_grove_trunk",
+      "triffid_grove_roof"
+    ],
     "fg": "big_tree_pink"
   },
   {
-    "id": "triffid_grove_trunk",
-    "fg": "big_tree_pink"
+    "id": "triffid_field",
+    "fg": "two_grass_green"
   },
   {
-    "id": "triffid_grove_roof",
-    "fg": "big_tree_pink"
-  },
-  {
-    "id": "triffid_roots",
+    "id": [
+      "triffid_roots",
+      "triffid_rootse",
+      "triffid_rootsse",
+      "triffid_rootsen",
+      "triffid_rootsn",
+      "triffid_rootsnw",
+      "triffid_rootsw",
+      "triffid_rootssw",
+      "triffid_rootss"
+    ],
     "fg": "big_tree_magenta"
   },
   {
