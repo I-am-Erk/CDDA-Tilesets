@@ -104,19 +104,12 @@
     "fg": "web_light_gray"
   },
   {
-    "id": "slimepit",
-    "fg": "pond_light_green"
-  },
-  {
-    "id": "slimepit_down",
-    "fg": "pond_light_green"
-  },
-  {
-    "id": "slimepit_top",
-    "fg": "pond_light_green"
-  },
-  {
-    "id": "slimepit_bottom",
+    "id": [
+      "slimepit",
+      "slimepit_down",
+      "slimepit_top",
+      "slimepit_bottom"
+    ],
     "fg": "pond_light_green"
   },
   {
@@ -193,11 +186,10 @@
     "fg": "hive_red"
   },
   {
-    "id": "nest_dermatik",
-    "fg": "hive_brown"
-  },
-  {
-    "id": "nest_dermatik_roof",
+    "id": [
+      "nest_dermatik"
+      "nest_dermatik_roof"
+    ],
     "fg": "hive_brown"
   },
   {
