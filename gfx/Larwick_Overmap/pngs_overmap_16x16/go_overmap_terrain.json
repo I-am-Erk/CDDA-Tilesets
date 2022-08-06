@@ -45,27 +45,14 @@
     "fg": "garage_white"
   },
   {
-    "id": "boat_rental",
-    "fg": "shop_white"
-  },
-  {
-    "id": "boat_rental_1",
-    "fg": "shop_white"
-  },
-  {
-    "id": "boat_rental_2",
-    "fg": "shop_white"
-  },
-  {
-    "id": "boat_rental_roof",
-    "fg": "shop_white"
-  },
-  {
-    "id": "boat_rental_1_roof",
-    "fg": "shop_white"
-  },
-  {
-    "id": "boat_rental_2_roof",
+    "id": [
+      "boat_rental",
+      "boat_rental_1",
+      "boat_rental_2",
+      "boat_rental_roof",
+      "boat_rental_1_roof",
+      "boat_rental_2_roof"
+    ],
     "fg": "shop_white"
   },
   {
@@ -82,31 +69,15 @@
   },
 
   {
-    "id": "lighthouse_ground",
-    "fg": "watchtower_yellow"
-  },
-  {
-    "id": "lighthouse_z1",
-    "fg": "watchtower_yellow"
-  },
-  {
-    "id": "lighthouse_z2",
-    "fg": "watchtower_yellow"
-  },
-  {
-    "id": "lighthouse_z3",
-    "fg": "watchtower_yellow"
-  },
-  {
-    "id": "lighthouse_z4",
-    "fg": "watchtower_yellow"
-  },
-  {
-    "id": "lighthouse_z5",
-    "fg": "watchtower_yellow"
-  },
-  {
-    "id": "lighthouse_roof",
+    "id": [
+      "lighthouse_ground",
+      "lighthouse_z1",
+      "lighthouse_z2",
+      "lighthouse_z3",
+      "lighthouse_z4",
+      "lighthouse_z5",
+      "lighthouse_roof"
+    ],
     "fg": "watchtower_yellow"
   },
   {
@@ -218,19 +189,12 @@
     "fg": "cabin_green"
   },
   {
-    "id": "shipwreck_river_1",
-    "fg": "anchor_pink"
-  },
-  {
-    "id": "shipwreck_river_2",
-    "fg": "anchor_pink"
-  },
-  {
-    "id": "shipwreck_river_3",
-    "fg": "anchor_pink"
-  },
-  {
-    "id": "shipwreck_river_4",
+    "id": [
+      "shipwreck_river_1",
+      "shipwreck_river_2",
+      "shipwreck_river_3",
+      "shipwreck_river_4"
+    ],
     "fg": "anchor_pink"
   },
   {
