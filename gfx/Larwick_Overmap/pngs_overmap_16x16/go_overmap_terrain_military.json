@@ -16,35 +16,16 @@
     "fg": "industry_white"
   },
   {
-    "id": "lmoe",
-    "fg": "bunker_red"
-  },
-  {
-    "id": "lmoe_zombie",
-    "fg": "bunker_red"
-  },
-  {
-    "id": "lmoe_roof",
-    "fg": "bunker_red"
-  },
-  {
-    "id": "lmoe_under",
-    "fg": "bunker_red"
-  },
-  {
-    "id": "lmoe_under_empty",
-    "fg": "bunker_red"
-  },
-  {
-    "id": "lmoe_zombie_under_empty",
-    "fg": "bunker_red"
-  },
-  {
-    "id": "bunker",
-    "fg": "bunker_red"
-  },
-  {
-    "id": "bunker_basement",
+    "id": [
+      "lmoe",
+      "lmoe_zombie",
+      "lmoe_roof",
+      "lmoe_under",
+      "lmoe_under_empty",
+      "lmoe_zombie_under_empty",
+      "bunker",
+      "bunker_basement"
+    ],
     "fg": "bunker_red"
   },
   {

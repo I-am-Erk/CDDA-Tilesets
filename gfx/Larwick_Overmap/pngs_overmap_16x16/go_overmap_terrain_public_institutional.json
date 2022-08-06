@@ -614,20 +614,13 @@
     "fg": "two_story_brown"
   },
   {
-    "id": "fire_station",
+    "id": [
+      "fire_station",
+      "fire_station_roof",
+      "fire_station_1",
+      "fire_station_roof_1"
+    ],
     "fg": "firestation_red"
-  },
-  {
-    "id": "fire_station_roof",
-    "fg": "two_story_brown"
-  },
-  {
-    "id": "fire_station_1",
-    "fg": "two_story_brown"
-  },
-  {
-    "id": "fire_station_roof_1",
-    "fg": "two_story_brown"
   },
   {
     "id": "homeless_0_0_0",
