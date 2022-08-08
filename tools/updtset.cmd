@@ -8,7 +8,7 @@ setlocal EnableExtensions
 :: - copy said composed tileset from the folder into the game so you can try in on the fly
 :: - copy layering json file from tileset source into the game
 ::
-:: PLEASE setup 5 variables below, put correct text between quotes
+:: PLEASE setup 4 variables below, put correct text between quotes
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -27,14 +27,14 @@ set def_tileset="UltimateCataclysm"
 set script_dir="T:\workshop"
 
 ::
-:: 4. Set path to the folder where to put the composed tileset (for future examination)
-
-set composed_dir="T:\workshop\compiled"
-
-::
-:: 5. Set path to CDDA game folder
+:: 4. Set path to CDDA game folder
 
 set the_game_dir="T:\cataclysm"
+
+::
+:: 5. OPTIONAL, Set path to the folder where to put the composed tileset (for future examination)
+
+set composed_dir="T:\workshop\compiled_tilesets\"
 
 ::
 :: all set, you're done! just doubleclick on this file.
@@ -49,7 +49,7 @@ SET the_game_dir=%the_game_dir:"=%
 
 :parse_command_line
 set verbose=YES
-set direct_update=NO
+set direct_update=YES
 set separate_composed=NO
 set tileset_arg=
 
@@ -61,7 +61,7 @@ if /i [!curarg1!] EQU [/] (
 	if /i [!curarg!] EQU [/q] (
 		set verbose=NO
 	) else if /i [!curarg!] EQU [/d] (
-		set direct_update=YES
+		set direct_update=NO
 	) else if /i [!curarg!] EQU [/s] (
 		set separate_composed=YES
 	) else (
@@ -71,8 +71,7 @@ if /i [!curarg1!] EQU [/] (
 		echo %0 [/q] [/d] [/s] [tileset]
 		echo.
 		echo   /q         Quiet mode - do not print additional info. Just main steps
-		echo   /d         Direct update - will put composed tileset direclty into the game.
-		echo              Without this key will use "composed_dir" variable path and just then update the game.
+		echo   /d         inDirect update - will use "composed_dir" variable path and just then update the game.
 		echo   /s         Separate forder for composed tilesets - in case of using "composed_dir" variable 
 		echo              will create separate folder with corresponding name for composed tileset,
 		echo              then update the game.
@@ -107,23 +106,25 @@ if /i [!verbose!] EQU [YES] (echo    - CDDA-Tileset fork with source tiles found
 if not exist "%script_dir%\compose.py" (echo ERROR: Cannot find compose.py file! && goto stop)
 if /i [!verbose!] EQU [YES] (echo    - Python 'compose.py' script found in [!script_dir!] folder.)
 if not exist "%composed_dir%" (echo ERROR: Check folder for composed tileset! && goto stop)
-if /i [!separate_composed!] EQU [YES] (
-	set path_to_compose=%composed_dir%\%tileset_name%
-	if not exist "!path_to_compose!" ( mkdir "!path_to_compose!" )
-) else (
-	set path_to_compose=%composed_dir%
-)
-if not exist "%the_game_dir%\cataclysm-tiles.exe" (echo ERROR: Cannot find the game! && goto stop)
+
 if /i [!direct_update!] EQU [YES] (
 	set path_to_compose=!the_game_dir!\gfx\!tileset_name!
+) else (
+	if /i [!separate_composed!] EQU [YES] (
+		set path_to_compose=%composed_dir%\%tileset_name%
+		if not exist "!path_to_compose!" ( mkdir "!path_to_compose!" )
+	) else (
+		set path_to_compose=%composed_dir%
+	)
 )
+
+if not exist "%the_game_dir%\cataclysm-tiles.exe" (echo ERROR: Cannot find the game! && goto stop)
+
 if /i [!verbose!] EQU [YES] (echo    - Composed tileset will be put to [!path_to_compose!])
 if /i [!verbose!] EQU [YES] (
 	if /i [!separate_composed!] EQU [NO] (
 		echo    - No separate folder will be created!
-	) else (
-		if /i [!direct_update!] EQU [YES] (	echo    x No need to provide both /d and /s keys. Direct update always update correct tileset.)
-	)
+	) 
 )
 if /i [!verbose!] EQU [YES] (echo    - Cataclysm game executable found.)
 if /i [!verbose!] EQU [YES] (echo.)
