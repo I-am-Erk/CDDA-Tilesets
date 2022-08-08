@@ -129,7 +129,12 @@
     "fg": "one_grass_brown"
   },
   {
-    "id": "riverside_dwelling",
+    "id": [
+      "riverside_dwelling", "riverside_dwelling_roof",
+      "riverside_dwelling1", "riverside_dwelling1_roof",
+      "riverside_dwelling2", "riverside_dwelling2_roof",
+      "riverside_dwelling3", "riverside_dwelling3_roof"
+    ],
     "fg": "cabin_yellow"
   },
   {
