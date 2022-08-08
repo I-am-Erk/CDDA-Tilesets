@@ -97,15 +97,16 @@ if /i [!tileset_arg!] EQU [] (
 	set tileset_name=!tileset_arg!
 )
 if /i [!verbose!] EQU [YES] (echo    - Will use [!tileset_name!] as tileset name.)
+
 if not exist "%tileset_fork%\gfx\" (
 	echo ERROR: Check tileset source dir! && goto stop)
 ) else (
 	if not exist "%tileset_fork%\gfx\%tileset_name%\tile_info.json" (echo ERROR: Check tileset name. Must be one of these:&& dir "%tileset_fork%\gfx\" /AD /B && goto stop )
 )
 if /i [!verbose!] EQU [YES] (echo    - CDDA-Tileset fork with source tiles found.)
+
 if not exist "%script_dir%\compose.py" (echo ERROR: Cannot find compose.py file! && goto stop)
 if /i [!verbose!] EQU [YES] (echo    - Python 'compose.py' script found in [!script_dir!] folder.)
-if not exist "%composed_dir%" (echo ERROR: Check folder for composed tileset! && goto stop)
 
 if /i [!direct_update!] EQU [YES] (
 	set path_to_compose=!the_game_dir!\gfx\!tileset_name!
@@ -117,15 +118,17 @@ if /i [!direct_update!] EQU [YES] (
 		set path_to_compose=%composed_dir%
 	)
 )
-
-if not exist "%the_game_dir%\cataclysm-tiles.exe" (echo ERROR: Cannot find the game! && goto stop)
-
+if not exist "%path_to_compose%" (echo ERROR: Check folder for composed tileset! && goto stop)
 if /i [!verbose!] EQU [YES] (echo    - Composed tileset will be put to [!path_to_compose!])
 if /i [!verbose!] EQU [YES] (
-	if /i [!separate_composed!] EQU [NO] (
-		echo    - No separate folder will be created!
+	if /i [!direct_update!] EQU [NO] (
+		if /i [!separate_composed!] EQU [NO] (
+			echo    - No separate folder will be created!
+		)
 	) 
 )
+
+if not exist "%the_game_dir%\cataclysm-tiles.exe" (echo ERROR: Cannot find the game! && goto stop)
 if /i [!verbose!] EQU [YES] (echo    - Cataclysm game executable found.)
 if /i [!verbose!] EQU [YES] (echo.)
 
@@ -133,17 +136,32 @@ if /i [!verbose!] EQU [YES] (echo.)
 echo 2. Check if python available.
 if /i [!verbose!] EQU [YES] (echo    - IMPORTANT: If any error apears at this stage please refer following page first.)
 if /i [!verbose!] EQU [YES] (echo      https://github.com/CleverRaven/Cataclysm-DDA/blob/master/doc/TILESET.md#pyvips )
-py --version > nul
+where py.exe /q
 if errorlevel 1 (
-	echo ERROR: No Python found!
-	echo If you are sure that Python is installed - please check 'path' environment variable.
-	goto stop
+	where python3.exe /q
+	if errorlevel 1 (
+		where python.exe /q 
+		if errorlevel 1 (
+			echo ERROR: No Python found!
+			echo If you are sure that Python is installed - please check 'path' environment variable.
+			goto stop
+		) else (
+			set APP=python
+		)
+	) else (
+		set APP=python3
+	)
+) else (
+	set APP=py
 )
-if /i [!verbose!] EQU [YES] (echo    - Python found.)
+		
+if /i [!verbose!] EQU [YES] (echo    - %APP% found.)
+%APP% --version
+
 pip show pyvips --no-color 1>nul 
 if errorlevel 1 (
 	if /i [!verbose!] EQU [YES] (echo    - NO python 'pyvips' module found. Will try to install it.)
-	py -m pip install --user pyvips --no-color >nul
+	%APP% -m pip install --user pyvips --no-color >nul
 	if errorlevel 1 (
 		echo    - Python 'pyvips' failed to install. && goto stop
 	)
@@ -151,7 +169,7 @@ if errorlevel 1 (
 ) else (
 	if /i [!verbose!] EQU [YES] (echo    - Python 'pyvips' module found.)
 )
-vips -v 1>nul
+where vips /q
 if errorlevel 1 (
 	echo ERROR! No 'libvips' library found. Please refer installation manual:
 	echo https://libvips.github.io/libvips/install.html 
@@ -174,7 +192,7 @@ pushd "!path_to_compose!" || goto :deleted
 rd /q /s . 2> NUL
 popd
 :deleted
-py.exe "%script_dir%\compose.py" --use-all "%tileset_fork%\gfx\%tileset_name%" "!path_to_compose!"
+%APP% "%script_dir%\compose.py" --use-all "%tileset_fork%\gfx\%tileset_name%" "!path_to_compose!"
 if not errorlevel 1 (
 	if /i [!verbose!] EQU [YES] (echo.)
 
