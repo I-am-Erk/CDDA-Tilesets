@@ -89,6 +89,8 @@ if /i [!curarg1!] EQU [/] (
 if /i [!verbose!] EQU [YES] (echo.)
 if /i [!verbose!] EQU [YES] (echo    For advanced use please run %0 /?)
 if /i [!verbose!] EQU [YES] (echo.)
+if /i [!verbose!] EQU [YES] (echo    WARNING! Tileset cant be composed with Python installed from Microsoft Store! )
+if /i [!verbose!] EQU [YES] (echo.)
 
 echo 1. Check if folders are correct.
 if /i [!tileset_arg!] EQU [] (
@@ -181,13 +183,6 @@ if errorlevel 1 (
 if /i [!verbose!] EQU [YES] (echo.)
 
 echo 3. Lets compose %tileset_name%. Be patient it takes some time.
-if /i [!direct_update!] EQU [YES] (
-	rd /q /s "%temp%\cdda_tset_compose"
-	mkdir "%temp%\cdda_tset_compose"
-	xcopy "%the_game_dir%\gfx\%tileset_name%\fallback*.*" "%temp%\cdda_tset_compose" /Y /Q 1>nul
-	xcopy "%the_game_dir%\gfx\%tileset_name%\tileset.txt" "%temp%\cdda_tset_compose" /Y /Q 1>nul
-	if /i [!verbose!] EQU [YES] (echo    - Essential tileset files backed up to [%temp%\cdda_tset_compose].)
-)
 pushd "!path_to_compose!" || goto :deleted
 rd /q /s . 2> NUL
 popd
@@ -205,8 +200,8 @@ if not errorlevel 1 (
 		if /i [!verbose!] EQU [YES] (echo      - [%the_game_dir%\gfx\%tileset_name%])
 		if /i [!verbose!] EQU [YES] (echo.)
 	) else (
-		xcopy "%temp%\cdda_tset_compose\fallback*.*" "%the_game_dir%\gfx\%tileset_name%" /Y /Q 1>nul
-		xcopy "%temp%\cdda_tset_compose\tileset.txt" "%the_game_dir%\gfx\%tileset_name%" /Y /Q 1>nul
+		xcopy "%tileset_fork%\gfx\%tileset_name%\fallback*.*" "%the_game_dir%\gfx\%tileset_name%" /Y /Q 1>nul
+		xcopy "%tileset_fork%\gfx\%tileset_name%\tileset.txt" "%the_game_dir%\gfx\%tileset_name%" /Y /Q 1>nul
 		if /i [!verbose!] EQU [YES] (echo    - Essential tileset files restored.)
 		if /i [!verbose!] EQU [YES] (echo.)
 	)
