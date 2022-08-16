@@ -2,7 +2,8 @@
   "id": [
     "tanbark",
     "birchbark",
-    "willowbark"
+    "willowbark",
+    "alder_bark"
   ],
   "fg": "bark"
 }

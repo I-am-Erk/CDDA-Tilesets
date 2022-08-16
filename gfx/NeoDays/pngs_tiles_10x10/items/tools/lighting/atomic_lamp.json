@@ -1,0 +1,7 @@
+{
+  "id": [
+    "atomic_lamp"
+  ],
+  "fg": "atomic_lamp",
+  "//": "due to a vehicle part json referring to this sprite, this file is necessary for the item to display"
+}
