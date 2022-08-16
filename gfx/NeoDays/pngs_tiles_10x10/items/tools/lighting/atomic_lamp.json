@@ -3,5 +3,5 @@
     "atomic_lamp"
   ],
   "fg": "atomic_lamp",
-  "//": "due to a vehicle part json referring to this sprite, this file is necessary for the item to display"
+  "//": "this file is necessary for the item to display due to '../vehicle/vp_atomic_lamp_0.json'"
 }
