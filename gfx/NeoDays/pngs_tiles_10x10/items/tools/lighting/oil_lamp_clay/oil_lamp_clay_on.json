@@ -1,0 +1,9 @@
+{
+  "id": "oil_lamp_clay_on",
+  "animated": true,
+    "fg": [
+      { "weight": 8, "sprite": "oil_lamp_clay_on_1" },
+      { "weight": 8, "sprite": "oil_lamp_clay_on_2" },
+      { "weight": 8, "sprite": "oil_lamp_clay_on_3" }
+    ]
+}
