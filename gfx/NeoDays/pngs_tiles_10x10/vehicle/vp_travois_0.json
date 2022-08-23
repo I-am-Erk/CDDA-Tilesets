@@ -6,7 +6,7 @@
   "additional_tiles": [
     {
       "id": "broken",
-      "fg": ["225_vp_travois_1"],
+      "fg": ["225_vp_travois_1"]
     }
   ]
 }
