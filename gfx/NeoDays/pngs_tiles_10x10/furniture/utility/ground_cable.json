@@ -1,36 +1,36 @@
 {
   "id": [
-    "t_scrap_wall",
-    "t_junk_wall",
-    "t_wall_metal"
+    "f_ground_cable",
+    "vp_ap_wall_wiring",
+    "wall_wiring"
   ],
-  "fg": "359_t_scrap_wall_0",
+  "fg": "f_ground_cable_0",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
     {
       "id": "center",
-      "fg": ["360_t_scrap_wall_1"]
+      "fg": "f_ground_cable_1"
     },
     {
       "id": "corner",
-      "fg": ["361_t_scrap_wall_2"]
+      "fg": "f_ground_cable_2"
     },
     {
       "id": "edge",
-      "fg": ["362_t_scrap_wall_3"]
+      "fg": "f_ground_cable_3"
     },
     {
       "id": "end_piece",
-      "fg": ["363_t_scrap_wall_4"]
+      "fg": "f_ground_cable_4"
     },
     {
       "id": "t_connection",
-      "fg": ["364_t_scrap_wall_5"]
+      "fg": "f_ground_cable_5"
     },
     {
       "id": "unconnected",
-      "fg": ["359_t_scrap_wall_0"]
+      "fg": "f_ground_cable_0"
     }
   ]
 }
