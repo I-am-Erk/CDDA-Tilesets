@@ -1,9 +1,5 @@
 {
-  "id": [
-    "f_ground_cable",
-    "vp_ap_wall_wiring",
-    "wall_wiring"
-  ],
+  "id": "f_ground_cable",
   "fg": "f_ground_cable_0",
   "rotates": true,
   "multitile": true,
