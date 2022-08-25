@@ -1,7 +1,7 @@
 {
   "id": [
-    "f_large_canvas_wall",
-    "f_canvas_wall"
+    "f_canvas_wall",
+    "f_large_canvas_wall"
   ],
   "fg": "tent_kit",
   "rotates": false,
@@ -9,23 +9,23 @@
   "additional_tiles": [
     {
       "id": "center",
-      "fg": "f_large_canvas_wall_1"
+      "fg": "f_canvas_wall_1"
     },
     {
       "id": "corner",
-      "fg": "f_large_canvas_wall_2"
+      "fg": "f_canvas_wall_2"
     },
     {
       "id": "edge",
-      "fg": "f_large_canvas_wall_3"
+      "fg": "f_canvas_wall_3"
     },
     {
       "id": "end_piece",
-      "fg": "f_large_canvas_wall_4"
+      "fg": "f_canvas_wall_4"
     },
     {
       "id": "t_connection",
-      "fg": "f_large_canvas_wall_5"
+      "fg": "f_canvas_wall_5"
     },
     {
       "id": "unconnected",
