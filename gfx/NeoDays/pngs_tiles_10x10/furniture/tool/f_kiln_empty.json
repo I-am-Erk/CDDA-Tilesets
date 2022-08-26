@@ -1,0 +1,14 @@
+{
+  "id": [
+    "f_kiln_empty",
+    "f_kiln_metal_empty",
+    "fuel_bunker",
+    "kiln",
+    "brick_kiln",
+    "kilnrig",
+    "char_kiln",
+    "vp_veh_kiln",
+    "vp_fuel_bunker"
+  ],
+  "fg": "f_kiln_empty"
+}
