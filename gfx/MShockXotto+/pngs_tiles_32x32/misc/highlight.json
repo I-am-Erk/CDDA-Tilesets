@@ -1,0 +1,8 @@
+{
+  "id": ["highlight", "line_trail", "line_target"],
+  "fg": [
+    "cursor"
+  ],
+  "rotates": false,
+  "bg": [ ]
+}
