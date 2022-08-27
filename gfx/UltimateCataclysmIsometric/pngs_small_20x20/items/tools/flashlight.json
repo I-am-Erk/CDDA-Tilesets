@@ -1,12 +1,12 @@
 [
   {
     "id": "flashlight",
-    "fg": [ "flashlight" ],
-    "bg": [ ]
+    "fg": "flashlight",
+    "bg": ""
   },
   {
     "id": "heavy_flashlight",
-    "fg": [ "heavy_flashlight" ],
-    "bg": [ ]
+    "fg": "heavy_flashlight",
+    "bg": ""
   }
 ]
