@@ -1,7 +1,5 @@
 {
   "id": "cup_plastic",
-  "fg": [
-    "cup_plastic"
-  ],
-  "bg": []
+  "fg": "cup_plastic",
+  "bg": ""
 }

@@ -1,7 +1,5 @@
 {
   "id": "jug_plastic",
-  "fg": [
-    "jug_plastic"
-  ],
-  "bg": []
+  "fg": "jug_plastic",
+  "bg": ""
 }

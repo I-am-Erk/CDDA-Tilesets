@@ -1,7 +1,5 @@
 {
   "id": "acorns",
-  "fg": [
-    "acorns"
-  ],
-  "bg": []
+  "fg": "acorns",
+  "bg": ""
 }

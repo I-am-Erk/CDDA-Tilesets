@@ -1,7 +1,5 @@
 {
   "id": "can_drink",
-  "fg": [
-    "can_drink"
-  ],
-  "bg": []
+  "fg": "can_drink",
+  "bg": ""
 }

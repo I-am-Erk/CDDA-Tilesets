@@ -1,7 +1,5 @@
 {
   "id": "jar_3l_glass",
-  "fg": [
-    "jar_3l_glass"
-  ],
-  "bg": []
+  "fg": "jar_3l_glass",
+  "bg": ""
 }

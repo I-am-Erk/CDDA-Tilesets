@@ -1,0 +1,136 @@
+[
+  {
+    "id": 
+    [ 
+      "grenade",
+      "homemade_grenade",
+      "small_homemade_grenade",
+      "military_explosive_grenade",
+      "military_explosive_small_grenade",
+      "sling-ready_grenade",
+      "sling-ready_homemade_grenade",
+      "sling-ready_small_homemade_grenade",
+      "sling-ready_homemade_grenade_2",
+      "sling-ready_small_homemade_grenade_2"
+    ],
+    "fg": [ "grenade" ]
+  },
+  {
+    "id": [ "molotov", "sling-ready_molotov" ],
+    "fg": [ "molotov" ]
+  },
+  {
+    "id": [ "molotov_lit", "sling-ready_molotov_lit" ],
+    "animated": true,
+    "fg": [
+      { "weight": 8, "sprite": "molotov_act0" },
+      { "weight": 8, "sprite": "molotov_act1" },
+      { "weight": 8, "sprite": "molotov_act2" },
+      { "weight": 8, "sprite": "molotov_act3" }
+    ]
+  },
+  {
+    "id": [ "homemade_grenade_act", "small_homemade_grenade_act", "military_explosive_grenade_act", "military_explosive_small_grenade_act" ],
+    "animated": true,
+    "fg": [
+      { "weight": 8, "sprite": "flashbang_act0" },
+      { "weight": 8, "sprite": "flashbang_act1" }
+    ]
+  },
+  {
+    "id": [ "homemade_bomb_act" ],
+    "animated": true,
+    "fg": [
+      { "weight": 8, "sprite": "homemade_bomb_act0" },
+      { "weight": 8, "sprite": "homemade_bomb_act1" }
+    ]
+  },
+  {
+    "id": [ "dynamite_bomb_act" ],
+    "animated": true,
+    "fg": [
+      { "weight": 8, "sprite": "dynamite_bomb_act0" },
+      { "weight": 8, "sprite": "dynamite_bomb_act1" }
+    ]
+  },
+  {
+    "id": [ "EMPbomb_act" ],
+    "animated": true,
+    "fg": [
+      { "weight": 8, "sprite": "EMPbomb_act0" },
+      { "weight": 8, "sprite": "EMPbomb_act1" }
+    ]
+  },
+  {
+    "id": "flashbang_act",
+    "animated": true,
+    "fg": [
+      { "weight": 8, "sprite": "flashbang_act0" },
+      { "weight": 8, "sprite": "flashbang_act1" }
+    ]
+  },
+  {
+    "id": "pipebomb_act",
+    "animated": true,
+    "fg": [
+      { "weight": 8, "sprite": "pipebomb_act0" },
+      { "weight": 8, "sprite": "pipebomb_act1" }
+    ]
+  },
+  {
+    "id": 
+    [ 
+      "grenade_act",
+      "sling-ready_grenade_act",
+      "sling-ready_homemade_grenade_act",
+      "sling-ready_small_homemade_grenade_act",
+      "sling-ready_homemade_grenade_2_act",
+      "sling-ready_small_homemade_grenade_2_act"
+    ],
+    "animated": true,
+    "fg": [
+      { "weight": 8, "sprite": "grenade_act0" },
+      { "weight": 8, "sprite": "grenade_act1" }
+    ]
+  },
+  {
+    "id": "grenade_emp_act",
+    "animated": true,
+    "fg": [
+      { "weight": 8, "sprite": "grenade_emp_act0" },
+      { "weight": 8, "sprite": "grenade_emp_act1" }
+    ]
+  },
+  {
+    "id": "grenade_inc_act",
+    "animated": true,
+    "fg": [
+      { "weight": 8, "sprite": "grenade_inc_act0" },
+      { "weight": 8, "sprite": "grenade_inc_act1" }
+    ]
+  },
+  {
+    "id": "scrambler_act",
+    "animated": true,
+    "fg": [
+      { "weight": 8, "sprite": "scrambler_act0" },
+      { "weight": 8, "sprite": "scrambler_act1" }
+    ]
+  },
+  {
+    "id": "smokebomb_act",
+    "animated": true,
+    "fg": [
+      { "weight": 8, "sprite": "smokebomb_act0" },
+      { "weight": 8, "sprite": "smokebomb_act1" }
+    ]
+  },
+  {
+    "id": "dynamite_act",
+    "animated": true,
+    "fg": [
+      { "weight": 8, "sprite": "dynamite_act0" },
+      { "weight": 8, "sprite": "dynamite_act1" }
+    ]
+  }
+]
