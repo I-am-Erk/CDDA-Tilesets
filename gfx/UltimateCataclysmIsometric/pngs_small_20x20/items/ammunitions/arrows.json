@@ -1,67 +1,67 @@
 [
   {
     "id": "arrow_cf",
-    "fg": [ "arrow_cf" ],
-    "bg": [ ]
+    "fg": "arrow_cf",
+    "bg": ""
   },
   {
     "id": "arrow_exploding",
-    "fg": [ "arrow_exploding" ],
-    "bg": [ ]
+    "fg": "arrow_exploding",
+    "bg": ""
   },
   {
     "id": "arrow_field_point_fletched",
-    "fg": [ "arrow_field_point_fletched" ],
-    "bg": [ ]
+    "fg": "arrow_field_point_fletched",
+    "bg": ""
   },
   {
     "id": "arrow_fire_hardened_fletched",
-    "fg": [ "arrow_fire_hardened_fletched" ],
-    "bg": [ ]
+    "fg": "arrow_fire_hardened_fletched",
+    "bg": ""
   },
   {
-    "id": "arrow_flammable",
-    "fg": [ "arrow_flammable" ],
-    "bg": [ ]
+    "id": "flamable_arrow",
+    "fg": "flamable_arrow",
+    "bg": ""
   },
   {
     "id": "arrow_flamming",
-    "fg": [ "arrow_flamming" ],
-    "bg": [ ]
+    "fg": "arrow_flamming",
+    "bg": ""
   },
   {
     "id": "arrow_heavy_fire_hardened_fletched",
-    "fg": [ "arrow_heavy_fire_hardened_fletched" ],
-    "bg": [ ]
+    "fg": "arrow_heavy_fire_hardened_fletched",
+    "bg": ""
   },
   {
     "id": "arrow_metal",
-    "fg": [ "arrow_metal" ],
-    "bg": [ ]
+    "fg": "arrow_metal",
+    "bg": ""
   },
   {
     "id": "arrow_metal_sharpened_fletched",
-    "fg": [ "arrow_metal_sharpened_fletched" ],
-    "bg": [ ]
+    "fg": "arrow_metal_sharpened_fletched",
+    "bg": ""
   },
   {
     "id": "arrow_plastic",
-    "fg": [ "arrow_plastic" ],
-    "bg": [ ]
+    "fg": "arrow_plastic",
+    "bg": ""
   },
   {
     "id": "arrow_small_game_fletched",
-    "fg": [ "arrow_small_game_fletched" ],
-    "bg": [ ]
+    "fg": "arrow_small_game_fletched",
+    "bg": ""
   },
   {
     "id": "arrow_wood",
-    "fg": [ "arrow_wooden" ],
-    "bg": [ ]
+    "fg": "arrow_wooden",
+    "bg": ""
   },
   {
     "id": "arrow_wood_heavy",
-    "fg": [ "arrow_wooden_heavy" ],
-    "bg": [ ]
+    "fg": "arrow_wooden_heavy",
+    "bg": ""
   }
 ]
