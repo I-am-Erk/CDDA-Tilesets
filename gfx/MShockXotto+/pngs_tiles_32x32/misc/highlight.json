@@ -1,0 +1,11 @@
+{
+  "id": [
+    "highlight",
+    "line_trail",
+    "line_target",
+    "cursor"
+  ],
+  "fg": [
+    "cursor"
+  ]
+}
