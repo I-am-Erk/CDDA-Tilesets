@@ -1,8 +1,11 @@
 {
-  "id": ["highlight", "line_trail", "line_target"],
-  "fg": [
+  "id": [
+    "highlight",
+    "line_trail",
+    "line_target",
     "cursor"
   ],
-  "rotates": false,
-  "bg": [ ]
+  "fg": [
+    "cursor"
+  ]
 }
