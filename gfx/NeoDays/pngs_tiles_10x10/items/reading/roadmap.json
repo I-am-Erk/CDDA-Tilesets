@@ -6,7 +6,8 @@
     "militarymap",
     "restaurantmap",
     "touristmap",
-    "trailmap"
+    "trailmap",
+    "labmap"
   ],
   "fg": "roadmap"
 }
