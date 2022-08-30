@@ -49,7 +49,8 @@
     "manual_eskrima",
     "manual_fencing",
     "manual_silat",
-    "manual_sojutsu"
+    "manual_sojutsu",
+    "ic_reference_electronics"
   ],
   "fg": "manual_green"
 }

@@ -20,7 +20,8 @@
     "textbook_armschina",
     "textbook_biodiesel",
     "textbook_armwest",
-    "holybook_mormon"
+    "holybook_mormon",
+    "arduino_experiments"
   ],
   "fg": "manual_light_blue"
 }
