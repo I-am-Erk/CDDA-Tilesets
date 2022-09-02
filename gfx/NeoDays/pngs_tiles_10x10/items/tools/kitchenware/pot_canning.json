@@ -10,5 +10,5 @@
     "f_standing_tank"
   ],
   "fg": "pot_canning",
-  "//" "maybe change to something smaller to help differentiate between these items and the standing tank?"
+  "//": "maybe change to something smaller to help differentiate between these items and the standing tank?"
 }
