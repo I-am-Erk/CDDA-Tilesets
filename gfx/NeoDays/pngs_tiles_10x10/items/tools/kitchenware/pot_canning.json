@@ -7,6 +7,7 @@
     "pressure_cooker",
     "casserole",
     "stock_pot",
+    "iron_pot",
     "f_standing_tank"
   ],
   "fg": "pot_canning",
