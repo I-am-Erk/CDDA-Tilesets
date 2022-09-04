@@ -1,0 +1,11 @@
+{
+  "id": [
+    "crossbow",
+    "huge_crossbow",
+    "rep_crossbow",
+    "bullet_crossbow",
+    "crossbow_makeshift",
+    "hand_crossbow"
+  ],
+  "fg": "crossbow"
+}
