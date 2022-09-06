@@ -1,12 +1,11 @@
 {
   "id": [
-    "mocassins",
+    "footrags_leather",
     "leathersandals",
     "bastsandals",
     "clogs",
-    "footrags_leather",
     "straw_sandals",
     "slippers"
   ],
-  "fg": "mocassins"
+  "fg": "footrags_leather"
 }
