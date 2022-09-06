@@ -72,23 +72,6 @@ MAPS = {
 }
 
 
-def iso_mask(width, height):
-    mask = np.full((height, width, 4), 1, dtype=np.uint8)
-
-    mid_x = width / 2
-    mid_y = height / 2
-
-    for iy, ix in np.ndindex(mask.shape[0:2]):
-        dx = (mid_x - ix) if ix < mid_x else ix + 1 - mid_x
-        dy = (mid_y - iy) if iy < mid_y else iy + 1 - mid_y
-        dist = dx + 2 * dy
-        if dist > height + 1:
-            mask[iy, ix, :] = 0
-            pass
-
-    return mask
-
-
 def main(args):
     args.height = args.height or args.width
 
@@ -102,40 +85,9 @@ def main(args):
 
     img = pyvips.Image.new_from_file(args.image)
 
+    slices = extract_slices(img, args.width, args.height, args.iso)
+
     pathlib.Path(output_dir).mkdir(parents=True, exist_ok=True)
-
-    slices = []
-
-    if args.iso:
-        if args.width % 2 != 0 or args.height % 2 != 0:
-            raise Exception(
-                'Only even width and height values are supported in ISO mode.')
-        if args.width != 2 * args.height:
-            raise Exception(
-                'Only tiles with a width:height ration 2:1 are supported in ISO mode.')
-        if img.width != 4 * args.width or img.height != 4 * args.height:
-            raise Exception(
-                f"Unexpected image size. Expected {4 * args.width}x{4 * args.height}, got {img.width}x{img.height}."
-            )
-
-        mask = iso_mask(args.width, args.height)
-
-        dx = args.width / 2
-        dy = args.height / 2
-        for row in range(7):
-            per_row = min(row, 6 - row) + 1
-            half_offsets = (8 - 2 * per_row) / 2
-            x_offset = half_offsets * dx
-            y_offset = row * dy
-            for col in range(per_row):
-                s = img.crop(x_offset + col * args.width, y_offset, args.width, args.height)
-                masked = s.numpy() * mask
-                slices.append(pyvips.Image.new_from_array(masked, interpretation="rgb"))
-
-    else:
-        for y in range(0, img.height, args.height):
-            for x in range(0, img.width, args.width):
-                slices.append(img.crop(x, y, args.width, args.height))
 
     slicing_map = MAPS.get("iso") if args.iso else MAPS.get(len(slices))
     if slicing_map is None:
@@ -201,6 +153,60 @@ def main(args):
     with open(tile_json_filename, "w") as tile_json_file:
         json.dump(json_content, tile_json_file, indent=2)
         tile_json_file.write("\n")
+
+
+def iso_mask(width, height):
+    mask = np.full((height, width, 4), 1, dtype=np.uint8)
+
+    mid_x = width / 2
+    mid_y = height / 2
+
+    for iy, ix in np.ndindex(mask.shape[0:2]):
+        dx = (mid_x - ix) if ix < mid_x else ix + 1 - mid_x
+        dy = (mid_y - iy) if iy < mid_y else iy + 1 - mid_y
+        dist = dx + 2 * dy
+        if dist > height + 1:
+            mask[iy, ix, :] = 0
+            pass
+
+    return mask
+
+
+def extract_slices(img, width, height, iso):
+    slices = []
+
+    if iso:
+        if width % 2 != 0 or height % 2 != 0:
+            raise Exception(
+                'Only even width and height values are supported in ISO mode.')
+        if width != 2 * height:
+            raise Exception(
+                'Only tiles with a width:height ration 2:1 are supported in ISO mode.')
+        if img.width != 4 * width or img.height != 4 * height:
+            raise Exception(
+                f"Unexpected image size. Expected {4 * width}x{4 * height}, got {img.width}x{img.height}."
+            )
+
+        mask = iso_mask(width, height)
+
+        dx = width / 2
+        dy = height / 2
+        for row in range(7):
+            per_row = min(row, 6 - row) + 1
+            half_offsets = (8 - 2 * per_row) / 2
+            x_offset = half_offsets * dx
+            y_offset = row * dy
+            for col in range(per_row):
+                s = img.crop(x_offset + col * width, y_offset, width, height)
+                masked = s.numpy() * mask
+                slices.append(pyvips.Image.new_from_array(masked, interpretation="rgb"))
+
+    else:
+        for y in range(0, img.height, height):
+            for x in range(0, img.width, width):
+                slices.append(img.crop(x, y, width, height))
+
+    return slices
 
 
 if __name__ == "__main__":
