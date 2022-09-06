@@ -24,7 +24,10 @@
     "tall_iso.png": { "sprite_width": 44, "sprite_height": 44, "sprite_offset_y": -22 }
   },
   {
-    "fullheight_iso.png": { "sprite_width": 44, "sprite_height": 66, "sprite_offset_y": -44, "sprite_offset_y_retracted": -5 }
+    "fullheight_iso.png": { "sprite_width": 44, "sprite_height": 66, "sprite_offset_y": -44 }
+  },  
+  {
+    "fullheight_iso_r.png": { "sprite_width": 44, "sprite_height": 66, "sprite_offset_y": -44, "sprite_offset_y_retracted": -5 }
   },  
 
   {
