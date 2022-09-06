@@ -1,0 +1,26 @@
+[
+  {
+    "id": [ "f_grave_head_season_spring", "f_grave_stone_season_spring", "f_grave_stone_old_season_spring" ],
+    "fg": [ "f_grave_head_season_spring" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": [ "f_grave_head_season_winter", "f_grave_stone_season_winter", "f_grave_stone_old_season_winter" ],
+    "fg": [ "f_grave_head_season_winter" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": [ "f_grave_head_season_autumn", "f_grave_stone_season_autumn", "f_grave_stone_old_season_autumn" ],
+    "fg": [ "f_grave_head_season_autumn" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": [ "f_grave_head_season_summer", "f_grave_stone_season_summer", "f_grave_stone_old_season_summer" ],
+    "fg": [ "f_grave_head_season_summer" ],
+    "bg": [  ],
+    "rotates": false
+  }
+]
