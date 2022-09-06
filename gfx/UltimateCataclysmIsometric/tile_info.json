@@ -1,10 +1,53 @@
 [
   {
+    "iso": true,
     "pixelscale": 1,
-      "height": 22,
-      "iso": true,
-      "width": 44
+    "height": 22,
+    "width": 44,
+    "//": "I assume that one tile is about 1x1m"
   },
+
+  {
+    "iso_tall.png": { 
+      "sprite_width": 44,
+      "sprite_height": 110, 
+      "sprite_offset_y": -88,
+      "//1": "Objects height is about 4m, here goes every tall sprite that do not cover too much"
+    }
+  },  
+  {
+    "iso_full.png": { 
+      "sprite_width": 44,
+      "sprite_height": 66, 
+      "sprite_offset_y": -44,
+      "//1": "Objects height is about 2m, here goes every normal sprite that do not cover too much"
+    }
+  },  
+  {
+    "iso_full_r.png": { 
+      "sprite_width": 44,
+      "sprite_height": 66,
+      "sprite_offset_y": -44,
+      "sprite_offset_y_retracted": -5,
+      "//2": "Here goes all walls and other sprites that can be retracted"
+    }
+  },  
+  {
+    "iso_half.png": {
+      "sprite_width": 44, 
+      "sprite_height": 44,
+      "sprite_offset_y": -22,
+      "//3": "Most furniture goes here. Max object height is about 1m."
+    }
+  },
+  {
+    "iso_flat.png": {
+      "sprite_width": 44,
+      "sprite_height": 22,
+      "//4": "Flat objects, floors mostly."
+    }
+  },
+
   {
     "small.png": { "sprite_width": 20, "sprite_height": 20, "sprite_offset_x": 15 }
   },
@@ -17,18 +60,6 @@
   {
     "tall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -44, "sprite_offset_x": 5 }
   },
-  {
-    "normal_iso.png": { "sprite_width": 44, "sprite_height": 22 }
-  },
-  {
-    "tall_iso.png": { "sprite_width": 44, "sprite_height": 44, "sprite_offset_y": -22 }
-  },
-  {
-    "fullheight_iso.png": { "sprite_width": 44, "sprite_height": 66, "sprite_offset_y": -44 }
-  },  
-  {
-    "fullheight_iso_r.png": { "sprite_width": 44, "sprite_height": 66, "sprite_offset_y": -44, "sprite_offset_y_retracted": -5 }
-  },  
 
   {
     "fallback.png": {

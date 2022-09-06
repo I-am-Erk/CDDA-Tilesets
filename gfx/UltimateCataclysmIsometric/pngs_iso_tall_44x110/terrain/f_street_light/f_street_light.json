@@ -1,0 +1,52 @@
+{
+  "id": "f_street_light",
+  "fg": "f_street_light_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_street_light_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_street_light_corner_nw",
+        "f_street_light_corner_sw",
+        "f_street_light_corner_se",
+        "f_street_light_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_street_light_t_connection_n",
+        "f_street_light_t_connection_w",
+        "f_street_light_t_connection_s",
+        "f_street_light_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_street_light_edge_ns",
+        "f_street_light_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_street_light_end_piece_n",
+        "f_street_light_end_piece_w",
+        "f_street_light_end_piece_s",
+        "f_street_light_end_piece_e"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_street_light_unconnected",
+        "f_street_light_unconnected"
+      ]
+    }
+  ]
+}
