@@ -71,6 +71,13 @@ MAPS = {
     },
 }
 
+OUTPUT_ORDER = [
+    'unconnected', 'end_piece_w', 'edge_ew', 'end_piece_e',
+    'end_piece_n', 'corner_nw', 't_connection_n', 'corner_ne',
+    'edge_ns', 't_connection_w', 'center', 't_connection_e',
+    'end_piece_s', 'corner_sw', 't_connection_s', 'corner_se'
+]
+
 
 def main(args):
     args.height = args.height or args.width
@@ -79,6 +86,18 @@ def main(args):
         args.tile = pathlib.Path(args.image).stem\
             .replace('autotile_', '').replace('multitile_', '')\
             .replace('_autotile', '').replace('_multitile', '')  # TODO: regex
+
+    rearrange = None
+    rearrange_bottom = False
+    if args.rearrange_top is not None and args.rearrange_bottom is not None:
+        raise Exception(
+            "Can only use one of --rearrange-top and rearrange-bottom.")
+    rearrange = args.rearrange_top or args.rearrange_bottom
+    rearrange_bottom = args.rearrange_bottom is not None
+
+    if rearrange is not None and rearrange < args.height:
+        raise Exception(
+            f"Can't rearrange with a height smaller than the original sprite height ({args.height}). Got {rearrange}.")
 
     output_dir = args.out or os.path.join(
         os.path.dirname(args.image), args.tile)
@@ -95,68 +114,83 @@ def main(args):
             'No slicing map that matches these sizes, '
             'did you forget to specify height?')
 
-    for suffix, position in slicing_map.items():
-        slices[position].pngsave(
-            os.path.join(output_dir, f'{args.tile}_{suffix}.png'))
+    if rearrange is not None:
+        img_out = pyvips.Image.new_from_array(
+            np.full(shape=(rearrange * 4, args.width * 4, 4),
+                    fill_value=1, dtype=np.uint8),
+            interpretation="rgb")
 
-    if args.no_json:
-        return
+        for col in range(4):
+            for row in range(4):
+                sprite = slices[slicing_map[OUTPUT_ORDER[col + 4 * row]]]
+                y_offset = rearrange - args.height if rearrange_bottom else 0
+                img_out = img_out.draw_image(sprite, col * args.width, row * rearrange + y_offset)
 
-    json_content = {  # double quotes here to make copying easier
-        "id": args.tile,
-        "fg": f"{args.tile}_unconnected",
-        "multitile": True,
-        "additional_tiles": [
-            {
-                "id": "center",
-                "fg": f"{args.tile}_center",
-            }, {
-                "id": "corner",
-                "fg": [
-                    f"{args.tile}_corner_nw",
-                    f"{args.tile}_corner_sw",
-                    f"{args.tile}_corner_se",
-                    f"{args.tile}_corner_ne"],
-            }, {
-                "id": "t_connection",
-                "fg": [
-                    f"{args.tile}_t_connection_n",
-                    f"{args.tile}_t_connection_w",
-                    f"{args.tile}_t_connection_s",
-                    f"{args.tile}_t_connection_e"],
-            }, {
-                "id": "edge",
-                "fg": [
-                    f"{args.tile}_edge_ns",
-                    f"{args.tile}_edge_ew"],
-            }, {
-                "id": "end_piece",
-                "fg": [
-                    f"{args.tile}_end_piece_n",
-                    f"{args.tile}_end_piece_w",
-                    f"{args.tile}_end_piece_s",
-                    f"{args.tile}_end_piece_e"],
-            }, {
-                "id": "unconnected",
-                # two copies because multitiles are assumed to rotate
-                "fg": [f"{args.tile}_unconnected", f"{args.tile}_unconnected"],
-            }
-        ]
-    }
+        img_out.pngsave(
+            os.path.join(output_dir, f'{args.tile}_multitile_rearranged.png'))
+    else:
+        for suffix, position in slicing_map.items():
+            slices[position].pngsave(
+                os.path.join(output_dir, f'{args.tile}_{suffix}.png'))
 
-    if args.background is not None:
-        json_content['bg'] = args.background
-        for array in json_content['additional_tiles']:
-            array['bg'] = args.background
+        if args.no_json:
+            return
 
-    tile_json_filename = os.path.join(output_dir, f"{args.tile}.json")
-    with open(tile_json_filename, "w") as tile_json_file:
-        json.dump(json_content, tile_json_file, indent=2)
-        tile_json_file.write("\n")
+        json_content = {  # double quotes here to make copying easier
+            "id": args.tile,
+            "fg": f"{args.tile}_unconnected",
+            "multitile": True,
+            "additional_tiles": [
+                {
+                    "id": "center",
+                    "fg": f"{args.tile}_center",
+                }, {
+                    "id": "corner",
+                    "fg": [
+                        f"{args.tile}_corner_nw",
+                        f"{args.tile}_corner_sw",
+                        f"{args.tile}_corner_se",
+                        f"{args.tile}_corner_ne"],
+                }, {
+                    "id": "t_connection",
+                    "fg": [
+                        f"{args.tile}_t_connection_n",
+                        f"{args.tile}_t_connection_w",
+                        f"{args.tile}_t_connection_s",
+                        f"{args.tile}_t_connection_e"],
+                }, {
+                    "id": "edge",
+                    "fg": [
+                        f"{args.tile}_edge_ns",
+                        f"{args.tile}_edge_ew"],
+                }, {
+                    "id": "end_piece",
+                    "fg": [
+                        f"{args.tile}_end_piece_n",
+                        f"{args.tile}_end_piece_w",
+                        f"{args.tile}_end_piece_s",
+                        f"{args.tile}_end_piece_e"],
+                }, {
+                    "id": "unconnected",
+                    # two copies because multitiles are assumed to rotate
+                    "fg": [f"{args.tile}_unconnected", f"{args.tile}_unconnected"],
+                }
+            ]
+        }
+
+        if args.background is not None:
+            json_content['bg'] = args.background
+            for array in json_content['additional_tiles']:
+                array['bg'] = args.background
+
+        tile_json_filename = os.path.join(output_dir, f"{args.tile}.json")
+        with open(tile_json_filename, "w") as tile_json_file:
+            json.dump(json_content, tile_json_file, indent=2)
+            tile_json_file.write("\n")
 
 
 def iso_mask(width, height):
-    mask = np.full((height, width, 4), 1, dtype=np.uint8)
+    mask = np.full(shape=(height, width, 4), fill_value=1, dtype=np.uint8)
 
     mid_x = width / 2
     mid_y = height / 2
@@ -238,4 +272,13 @@ if __name__ == "__main__":
     parser.add_argument(
         "--background", dest='background',
         help="background sprite name")
+    parser.add_argument(
+        "--rearrange-top", type=int,
+        help="re-arrange to multitile with the given sprite height; "
+             "if iso, bring into ortho format; aligns at the top")
+    parser.add_argument(
+        "--rearrange-bottom", type=int,
+        help="re-arrange to multitile with the given sprite height; "
+             "if iso, bring into ortho format; aligns at the bottom")
+
     main(parser.parse_args())
