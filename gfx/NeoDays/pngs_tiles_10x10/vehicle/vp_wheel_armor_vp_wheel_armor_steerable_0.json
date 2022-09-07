@@ -1,1 +1,15 @@
-{"id": ["vp_wheel_armor", "vp_wheel_armor_steerable"], "fg": ["2309_vp_wheel_armor_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["2305_vp_wheel_bicycle_steerable_1"], "bg": []}], "bg": []}
+{
+  "id": [
+    "vp_wheel_armor",
+    "vp_wheel_armor_steerable"
+  ],
+  "fg": "wheel_armor",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "2305_vp_wheel_bicycle_steerable_1"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": [
+    "wheel_bicycle",
+    "wheel_bicycle_or",
+    "wheel_motorbike",
+    "wheel_motorbike_or",
+    "wheel_slick"
+  ],
+  "fg": "wheel_bicycle"
+}
