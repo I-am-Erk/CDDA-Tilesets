@@ -1,0 +1,10 @@
+{
+  "id": [
+    "deflated_wheel_bicycle",
+    "deflated_wheel_bicycle_or",
+    "deflated_wheel_motorbike",
+    "deflated_wheel_motorbike_or",
+    "deflated_wheel_slick"
+  ],
+  "fg": "deflated_wheel_bicycle"
+}
