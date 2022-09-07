@@ -156,7 +156,7 @@ A rhomboid template like [multitile_grid_4x4_iso.png](../templates/multitile_gri
 #### Re-arranging for ISO with height
 
 Unfortunately, the approach explained in [Slicing isometric autotiles](#slicing-isometric-autotiles)
-does not for ISO sprites with a height (like walls etc.).
+does not work for ISO sprites with a height (like walls etc.).
 
 For working with ISO sprites with a height, options `--rearrange-top <height>` and `--rearrange-bottom <height>`
 of `slice_multitile.py` can be used. The workflow for walls would be:
