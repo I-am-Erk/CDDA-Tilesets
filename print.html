@@ -346,9 +346,9 @@ in the table.</p>
 <p>Before an autotile template can be used by the game, it needs to be sliced up into individual tiles.
 We use the <code>tools/slice_multitile.py</code> script to achieve this.</p>
 <p>To run the script, you will need <a href="https://python.org">python</a> installed, as well as the libvips
-graphic library. Something like these commands should suffice to install them on Ubuntu:</p>
+graphic library. Further, numpy is required. Something like these commands should suffice to install them on Ubuntu:</p>
 <pre><code class="language-sh">$ sudo apt install python3-pip libvips
-$ pip3 install pyvips
+$ pip3 install pyvips numpy
 </code></pre>
 <p>If all goes well, you should be able to run the <code>slice_multitile.py</code> script and see the usage note:</p>
 <pre><code>$ tools/slice_multitile.py
@@ -380,6 +380,21 @@ a JSON file with connection data, for example:</p>
 <li>mud_t_connection_w.png</li>
 <li>mud_unconnected.png</li>
 </ul>
+<h4><a class="header" href="#slicing-isometric-autotiles" id="slicing-isometric-autotiles">Slicing isometric autotiles</a></h4>
+<p>Isometric autotile is supported by <code>slice_multitile.py</code> using the <code>--iso</code> argument.
+A rhomboid template like <a href="how-to/../templates/multitile_grid_4x4_iso.png">multitile_grid_4x4_iso.png</a> is uses as the basis.</p>
+<p><img src="how-to/../templates/multitile_grid_4x4_iso.png" alt="ISO Multitile 4x4 Template" /></p>
+<h4><a class="header" href="#re-arranging-for-iso-with-height" id="re-arranging-for-iso-with-height">Re-arranging for ISO with height</a></h4>
+<p>Unfortunately, the approach explained in <a href="how-to/autotiles.html#slicing-isometric-autotiles">Slicing isometric autotiles</a>
+does not work for ISO sprites with a height (like walls etc.).</p>
+<p>For working with ISO sprites with a height, options <code>--rearrange-top &lt;height&gt;</code> and <code>--rearrange-bottom &lt;height&gt;</code>
+of <code>slice_multitile.py</code> can be used. The workflow for walls would be:</p>
+<ol>
+<li>Draw wall tops on the flat ISO template</li>
+<li>Use <code>--rearrange-bottom</code> to give the sprites a height and arrange them in a usual ortho autotile layout</li>
+<li>Draw wall sides on that created layout</li>
+<li>Slice the result without using <code>--iso</code></li>
+</ol>
 <h3><a class="header" href="#tall-multitile-template" id="tall-multitile-template">Tall multitile template</a></h3>
 <p>There is now support for tall multitile templates too:</p>
 <p><img src="how-to/image/multitile_grid_4x4_tall.png" alt="Tall Multitile 4x4 Template" /></p>
