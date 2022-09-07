@@ -1,6 +1,8 @@
 {
   "id": [
     "coat_fur",
+    "xs_coat_fur",
+    "xl_coat_fur",
     "coat_fur_sf"
   ],
   "fg": "coat_fur"

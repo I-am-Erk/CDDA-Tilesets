@@ -1,10 +1,7 @@
 {
   "id": [
     "arm_warmers",
-    "leg_warmers",
-    "leg_warmers_f",
-    "leg_warmers_xl",
-    "leg_warmers_xlf"
+    "leg_warmers"
   ],
   "fg": "arm_warmers"
 }
