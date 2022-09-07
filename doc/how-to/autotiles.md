@@ -103,11 +103,11 @@ Before an autotile template can be used by the game, it needs to be sliced up in
 We use the `tools/slice_multitile.py` script to achieve this.
 
 To run the script, you will need [python](https://python.org) installed, as well as the libvips
-graphic library. Something like these commands should suffice to install them on Ubuntu:
+graphic library. Forther, numpy is required. Something like these commands should suffice to install them on Ubuntu:
 
 ```sh
 $ sudo apt install python3-pip libvips
-$ pip3 install pyvips
+$ pip3 install pyvips numpy
 ```
 
 If all goes well, you should be able to run the `slice_multitile.py` script and see the usage note:
