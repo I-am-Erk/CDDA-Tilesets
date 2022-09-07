@@ -103,11 +103,11 @@ Before an autotile template can be used by the game, it needs to be sliced up in
 We use the `tools/slice_multitile.py` script to achieve this.
 
 To run the script, you will need [python](https://python.org) installed, as well as the libvips
-graphic library. Something like these commands should suffice to install them on Ubuntu:
+graphic library. Further, numpy is required. Something like these commands should suffice to install them on Ubuntu:
 
 ```sh
 $ sudo apt install python3-pip libvips
-$ pip3 install pyvips
+$ pip3 install pyvips numpy
 ```
 
 If all goes well, you should be able to run the `slice_multitile.py` script and see the usage note:
@@ -145,6 +145,26 @@ a JSON file with connection data, for example:
 - mud_t_connection_s.png
 - mud_t_connection_w.png
 - mud_unconnected.png
+
+#### Slicing isometric autotiles
+
+Isometric autotile is supported by `slice_multitile.py` using the `--iso` argument.
+A rhomboid template like [multitile_grid_4x4_iso.png](../templates/multitile_grid_4x4_iso.png) is uses as the basis.
+
+![ISO Multitile 4x4 Template](../templates/multitile_grid_4x4_iso.png)
+
+#### Re-arranging for ISO with height
+
+Unfortunately, the approach explained in [Slicing isometric autotiles](#slicing-isometric-autotiles)
+does not work for ISO sprites with a height (like walls etc.).
+
+For working with ISO sprites with a height, options `--rearrange-top <height>` and `--rearrange-bottom <height>`
+of `slice_multitile.py` can be used. The workflow for walls would be:
+
+1. Draw wall tops on the flat ISO template
+2. Use `--rearrange-bottom` to give the sprites a height and arrange them in a usual ortho autotile layout
+3. Draw wall sides on that created layout
+4. Slice the result without using `--iso`
 
 ### Tall multitile template
 
