@@ -1,6 +1,6 @@
 {
   "id": "vp_frame_horizontal",
-  "fg": "vp_frame_horizonta0",
+  "fg": "vp_frame_horizontal",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
