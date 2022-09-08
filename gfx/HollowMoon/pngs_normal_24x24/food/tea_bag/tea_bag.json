@@ -1,0 +1,6 @@
+[
+    { "id": ["tea_bag", "tea_fruit_bag", "tea_green_bag", "herbal_tea_bag", "tea_bag_chamomile", "tea_bag_dandelion"], "fg": "tea_bag_season_spring", "bg": [], "rotates": false },
+	{ "id": ["tea_bag_season_autumn", "tea_fruit_bag_season_autumn", "tea_green_bag_season_autumn", "herbal_tea_bag_season_autumn", "tea_bag_chamomile_season_autumn", "tea_bag_dandelion_season_autumn"], "fg": "tea_bag_season_autumn", "bg": [], "rotates": false },
+	{ "id": ["tea_bag_season_winter", "tea_fruit_bag_season_winter", "tea_green_bag_season_winter", "herbal_tea_bag_season_winter", "tea_bag_chamomile_season_winter", "tea_bag_dandelion_season_winter"], "fg": "tea_bag_season_winter", "bg": [], "rotates": false },
+	{ "id": ["tea_bag_season_summer", "tea_fruit_bag_season_summer", "tea_green_bag_season_summer", "herbal_tea_bag_season_summer", "tea_bag_chamomile_season_summer", "tea_bag_dandelion_season_summer"], "fg": "tea_bag_season_summer", "bg": [], "rotates": false }
+]
