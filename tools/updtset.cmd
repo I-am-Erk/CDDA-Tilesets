@@ -14,7 +14,7 @@ setlocal EnableExtensions
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 :: 1. Set path to your local copy of the tileset repository
 
-set tileset_fork="T:\cdda-tilesets"
+set tileset_fork=".."
 
 ::
 :: 2. Set correct tileset folder name (e.g. UltimateCataclysm)
@@ -22,19 +22,19 @@ set tileset_fork="T:\cdda-tilesets"
 set def_tileset="UltimateCataclysm"
 
 ::
-:: 3. Set path to compose.py file 
+:: 3. Set path to compose.py file
 
-set script_dir="T:\workshop"
+set script_dir="[CDDA_PATH]\tools\gfx_tools"
 
 ::
 :: 4. Set path to CDDA game folder
 
-set the_game_dir="T:\cataclysm"
+set the_game_dir="..\..\Cataclysm-DDA"
 
 ::
 :: 5. OPTIONAL, Set path to the folder where to put the composed tileset (for future examination)
 
-set composed_dir="T:\workshop\compiled_tilesets\"
+set composed_dir="compiled_tilesets\"
 
 ::
 :: all set, you're done! just doubleclick on this file.
@@ -46,6 +46,11 @@ SET def_tileset=%def_tileset:"=%
 SET script_dir=%script_dir:"=%
 SET composed_dir=%composed_dir:"=%
 SET the_game_dir=%the_game_dir:"=%
+
+:overwrite_with_env_var
+if /i [!CDDA_PATH!] NEQ [] (
+    SET the_game_dir=%CDDA_PATH:"=%
+)
 
 :parse_command_line
 set verbose=YES
@@ -72,12 +77,13 @@ if /i [!curarg1!] EQU [/] (
 		echo.
 		echo   /q         Quiet mode - do not print additional info. Just main steps
 		echo   /d         inDirect update - will use "composed_dir" variable path and just then update the game.
-		echo   /s         Separate forder for composed tilesets - in case of using "composed_dir" variable 
+		echo   /s         Separate forder for composed tilesets - in case of using "composed_dir" variable
 		echo              will create separate folder with corresponding name for composed tileset,
 		echo              then update the game.
 		echo   tileset    Should be the same as foldername in tileset repository.
 		echo.
 		echo   When used without any key will use variables set in the top part of the %0 script.
+        echo   Alternatively, use an environmental variable: set CDDA_PATH="C:\Program Files\Cataclysm-DDA"
 		exit /b 255
 	)
 	shift /1
@@ -107,8 +113,8 @@ if not exist "%tileset_fork%\gfx\" (
 )
 if /i [!verbose!] EQU [YES] (echo    - CDDA-Tileset fork with source tiles found.)
 
-if not exist "%script_dir%\compose.py" (echo ERROR: Cannot find compose.py file! && goto stop)
-if /i [!verbose!] EQU [YES] (echo    - Python 'compose.py' script found in [!script_dir!] folder.)
+if not exist "%script_dir:[CDDA_PATH]=!CDDA_PATH!%\compose.py" (echo ERROR: Cannot find compose.py file! && goto stop)
+if /i [!verbose!] EQU [YES] (echo    - Python 'compose.py' script found in [%script_dir:[CDDA_PATH]=!CDDA_PATH!%] folder.)
 
 if /i [!direct_update!] EQU [YES] (
 	set path_to_compose=!the_game_dir!\gfx\!tileset_name!
@@ -120,14 +126,14 @@ if /i [!direct_update!] EQU [YES] (
 		set path_to_compose=%composed_dir%
 	)
 )
-if not exist "%path_to_compose%" (echo ERROR: Check folder for composed tileset! && goto stop)
+if not exist "%path_to_compose%" (echo ERROR: Check folder "%path_to_compose%" for composed tileset! && goto stop)
 if /i [!verbose!] EQU [YES] (echo    - Composed tileset will be put to [!path_to_compose!])
 if /i [!verbose!] EQU [YES] (
 	if /i [!direct_update!] EQU [NO] (
 		if /i [!separate_composed!] EQU [NO] (
 			echo    - No separate folder will be created!
 		)
-	) 
+	)
 )
 
 if not exist "%the_game_dir%\cataclysm-tiles.exe" (echo ERROR: Cannot find the game! && goto stop)
@@ -142,7 +148,7 @@ where py.exe /q
 if errorlevel 1 (
 	where python3.exe /q
 	if errorlevel 1 (
-		where python.exe /q 
+		where python.exe /q
 		if errorlevel 1 (
 			echo ERROR: No Python found!
 			echo If you are sure that Python is installed - please check 'path' environment variable.
@@ -156,11 +162,11 @@ if errorlevel 1 (
 ) else (
 	set APP=py
 )
-		
+
 if /i [!verbose!] EQU [YES] (echo    - %APP% found.)
 %APP% --version
 
-pip show pyvips --no-color 1>nul 
+pip show pyvips --no-color 1>nul
 if errorlevel 1 (
 	if /i [!verbose!] EQU [YES] (echo    - NO python 'pyvips' module found. Will try to install it.)
 	%APP% -m pip install --user pyvips --no-color >nul
@@ -174,7 +180,7 @@ if errorlevel 1 (
 where vips /q
 if errorlevel 1 (
 	echo ERROR! No 'libvips' library found. Please refer installation manual:
-	echo https://libvips.github.io/libvips/install.html 
+	echo https://libvips.github.io/libvips/install.html
 	echo If you are sure that library was installed - please check library version and 'path' environment variable.
 	goto stop
 ) else (
@@ -205,7 +211,7 @@ if not errorlevel 1 (
 		if /i [!verbose!] EQU [YES] (echo    - Essential tileset files restored.)
 		if /i [!verbose!] EQU [YES] (echo.)
 	)
-	
+
 	echo 5. If there any layering info it'll be copied too.
 	if exist "%tileset_fork%\gfx\%tileset_name%\layering.json" (
 		xcopy "%tileset_fork%\gfx\%tileset_name%\layering.json" "%the_game_dir%\gfx\%tileset_name%" /Y /Q 1>nul
@@ -215,9 +221,9 @@ if not errorlevel 1 (
 		if /i [!verbose!] EQU [YES] (echo      -   to [%the_game_dir%\gfx\%tileset_name%])
 	)
 	if /i [!verbose!] EQU [YES] (echo.)
-	
+
 	echo.
-	echo     All done... Refresh tileset in game. 
+	echo     All done... Refresh tileset in game.
 ) else (
 	echo ERROR: Something went wrong! && goto stop
 )
