@@ -47,9 +47,12 @@ SET script_dir=%script_dir:"=%
 SET composed_dir=%composed_dir:"=%
 SET the_game_dir=%the_game_dir:"=%
 
-:overwrite_game_path_with_env_var
+:overwrite_with_env_var
 if /i [!CDDA_PATH!] NEQ [] (
     SET the_game_dir=%CDDA_PATH:"=%
+)
+if /i [!CDDA_TILESET!] NEQ [] (
+    SET def_tileset=%CDDA_TILESET:"=%
 )
 
 :interactive_game_path
@@ -72,53 +75,66 @@ set curarg=%1
 set curarg1=!curarg:~0,1!
 
 if /i [!curarg1!] EQU [/] (
-	if /i [!curarg!] EQU [/q] (
-		set verbose=NO
-	) else if /i [!curarg!] EQU [/d] (
-		set direct_update=NO
-	) else if /i [!curarg!] EQU [/s] (
-		set separate_composed=YES
-	) else (
-		:usage
-		echo Compose tileset and update game with it
-		echo.
-		echo %0 [/q] [/d] [/s] [tileset]
-		echo.
-		echo   /q         Quiet mode - do not print additional info. Just main steps
-		echo   /d         inDirect update - will use "composed_dir" variable path and just then update the game.
-		echo   /s         Separate forder for composed tilesets - in case of using "composed_dir" variable
-		echo              will create separate folder with corresponding name for composed tileset,
-		echo              then update the game.
-		echo   tileset    Should be the same as foldername in tileset repository.
-		echo.
-		echo   When used without any key will use variables set in the top part of the %0 script.
+    if /i [!curarg!] EQU [/q] (
+        set verbose=NO
+    ) else if /i [!curarg!] EQU [/d] (
+        set direct_update=NO
+    ) else if /i [!curarg!] EQU [/s] (
+        set separate_composed=YES
+    ) else (
+        :usage
+        echo Compose tileset and update game with it
+        echo.
+        echo %0 [/q] [/d] [/s] [tileset]
+        echo.
+        echo   /q         Quiet mode - do not print additional info. Just main steps
+        echo   /d         inDirect update - will use "composed_dir" variable path and just then update the game.
+        echo   /s         Separate forder for composed tilesets - in case of using "composed_dir" variable
+        echo              will create separate folder with corresponding name for composed tileset,
+        echo              then update the game.
+        echo   tileset    Should be the same as foldername in tileset repository.
+        echo.
+        echo   When used without any key will use variables set in the top part of the %0 script.
         echo   Alternatively, use an environmental variable: set CDDA_PATH="C:\Program Files\Cataclysm-DDA"
-		exit /b 255
-	)
-	shift /1
-	goto next_arg
+        exit /b 255
+    )
+    shift /1
+    goto next_arg
 ) else (
-	if /i [!curarg!] EQU [] ( goto continue ) else ( set tileset_arg=!curarg! && shift /1 && goto next_arg )
+    if /i [!curarg!] EQU [] ( goto continue ) else ( set tileset_arg=!curarg!&& shift /1 && goto next_arg )
 )
 :continue
+
 if /i [!verbose!] EQU [YES] (echo.)
 if /i [!verbose!] EQU [YES] (echo    For advanced use please run %0 /?)
 if /i [!verbose!] EQU [YES] (echo.)
 if /i [!verbose!] EQU [YES] (echo    WARNING! Tileset cant be composed with Python installed from Microsoft Store! )
 if /i [!verbose!] EQU [YES] (echo.)
 
+:interactive_tileset
+if /i [!tileset_arg!] EQU [] (
+    if /i [!def_tileset!] EQU [] (
+        echo No tileset specified
+        echo To set the tileset permanently, run set_tileset.cmd
+        echo Alternatively, run this script with the tileset name as argument
+        echo Setting the game directory temporarily...
+        CALL set_tileset.cmd /t /c || echo Error setting tileset && goto stop
+        SET tileset_arg=!CDDA_TILESET:"=!
+    )
+)
+
 echo 1. Check if folders are correct.
 if /i [!tileset_arg!] EQU [] (
-	set tileset_name=!def_tileset!
+    set tileset_name=!def_tileset!
 ) else (
-	set tileset_name=!tileset_arg!
+    set tileset_name=!tileset_arg!
 )
 if /i [!verbose!] EQU [YES] (echo    - Will use [!tileset_name!] as tileset name.)
 
 if not exist "%tileset_fork%\gfx\" (
-	echo ERROR: Check tileset source dir! && goto stop
+    echo ERROR: Check tileset source dir! && goto stop
 ) else (
-	if not exist "%tileset_fork%\gfx\%tileset_name%\tile_info.json" (echo ERROR: Check tileset name. Must be one of these:&& dir "%tileset_fork%\gfx\" /AD /B && goto stop)
+    if not exist "%tileset_fork%\gfx\%tileset_name%\tile_info.json" (echo ERROR: Check tileset name. Must be one of these:&& dir "%tileset_fork%\gfx\" /AD /B && goto stop)
 )
 if /i [!verbose!] EQU [YES] (echo    - CDDA-Tileset fork with source tiles found.)
 
@@ -126,23 +142,23 @@ if not exist "%script_dir:[CDDA_PATH]=!CDDA_PATH!%\compose.py" (echo ERROR: Cann
 if /i [!verbose!] EQU [YES] (echo    - Python 'compose.py' script found in [%script_dir:[CDDA_PATH]=!CDDA_PATH!%] folder.)
 
 if /i [!direct_update!] EQU [YES] (
-	set path_to_compose=!the_game_dir!\gfx\!tileset_name!
+    set path_to_compose=!the_game_dir!\gfx\!tileset_name!
 ) else (
-	if /i [!separate_composed!] EQU [YES] (
-		set path_to_compose=%composed_dir%\%tileset_name%
-		if not exist "!path_to_compose!" ( mkdir "!path_to_compose!" )
-	) else (
-		set path_to_compose=%composed_dir%
-	)
+    if /i [!separate_composed!] EQU [YES] (
+        set path_to_compose=%composed_dir%\%tileset_name%
+        if not exist "!path_to_compose!" ( mkdir "!path_to_compose!" )
+    ) else (
+        set path_to_compose=%composed_dir%
+    )
 )
 if not exist "%path_to_compose%" (echo ERROR: Check folder "%path_to_compose%" for composed tileset! && goto stop)
 if /i [!verbose!] EQU [YES] (echo    - Composed tileset will be put to [!path_to_compose!])
 if /i [!verbose!] EQU [YES] (
-	if /i [!direct_update!] EQU [NO] (
-		if /i [!separate_composed!] EQU [NO] (
-			echo    - No separate folder will be created!
-		)
-	)
+    if /i [!direct_update!] EQU [NO] (
+        if /i [!separate_composed!] EQU [NO] (
+            echo    - No separate folder will be created!
+        )
+    )
 )
 
 if not exist "%the_game_dir%\cataclysm-tiles.exe" (echo ERROR: Cannot find the game! && goto stop)
@@ -155,21 +171,21 @@ if /i [!verbose!] EQU [YES] (echo    - IMPORTANT: If any error apears at this st
 if /i [!verbose!] EQU [YES] (echo      https://github.com/CleverRaven/Cataclysm-DDA/blob/master/doc/TILESET.md#pyvips )
 where py.exe /q
 if errorlevel 1 (
-	where python3.exe /q
-	if errorlevel 1 (
-		where python.exe /q
-		if errorlevel 1 (
-			echo ERROR: No Python found!
-			echo If you are sure that Python is installed - please check 'path' environment variable.
-			goto stop
-		) else (
-			set APP=python
-		)
-	) else (
-		set APP=python3
-	)
+    where python3.exe /q
+    if errorlevel 1 (
+        where python.exe /q
+        if errorlevel 1 (
+            echo ERROR: No Python found!
+            echo If you are sure that Python is installed - please check 'path' environment variable.
+            goto stop
+        ) else (
+            set APP=python
+        )
+    ) else (
+        set APP=python3
+    )
 ) else (
-	set APP=py
+    set APP=py
 )
 
 if /i [!verbose!] EQU [YES] (echo    - %APP% found.)
@@ -177,23 +193,23 @@ if /i [!verbose!] EQU [YES] (echo    - %APP% found.)
 
 pip show pyvips --no-color 1>nul
 if errorlevel 1 (
-	if /i [!verbose!] EQU [YES] (echo    - NO python 'pyvips' module found. Will try to install it.)
-	%APP% -m pip install --user pyvips --no-color >nul
-	if errorlevel 1 (
-		echo    - Python 'pyvips' failed to install. && goto stop
-	)
-	if /i [!verbose!] EQU [YES] (echo    - Python 'pyvips' installed.)
+    if /i [!verbose!] EQU [YES] (echo    - NO python 'pyvips' module found. Will try to install it.)
+    %APP% -m pip install --user pyvips --no-color >nul
+    if errorlevel 1 (
+        echo    - Python 'pyvips' failed to install. && goto stop
+    )
+    if /i [!verbose!] EQU [YES] (echo    - Python 'pyvips' installed.)
 ) else (
-	if /i [!verbose!] EQU [YES] (echo    - Python 'pyvips' module found.)
+    if /i [!verbose!] EQU [YES] (echo    - Python 'pyvips' module found.)
 )
 where vips /q
 if errorlevel 1 (
-	echo ERROR! No 'libvips' library found. Please refer installation manual:
-	echo https://libvips.github.io/libvips/install.html
-	echo If you are sure that library was installed - please check library version and 'path' environment variable.
-	goto stop
+    echo ERROR! No 'libvips' library found. Please refer installation manual:
+    echo https://libvips.github.io/libvips/install.html
+    echo If you are sure that library was installed - please check library version and 'path' environment variable.
+    goto stop
 ) else (
-	if /i [!verbose!] EQU [YES] (echo    - Library 'libvips' found.)
+    if /i [!verbose!] EQU [YES] (echo    - Library 'libvips' found.)
 )
 if /i [!verbose!] EQU [YES] (echo.)
 
@@ -204,37 +220,37 @@ popd
 :deleted
 %APP% "%script_dir%\compose.py" --use-all "%tileset_fork%\gfx\%tileset_name%" "!path_to_compose!"
 if not errorlevel 1 (
-	if /i [!verbose!] EQU [YES] (echo.)
+    if /i [!verbose!] EQU [YES] (echo.)
 
-	echo 4. Now composed tileset will be copied into the game so you can refresh it.
-	if /i [!direct_update!] EQU [NO] (
-		xcopy "!path_to_compose!\*.*" "%the_game_dir%\gfx\%tileset_name%" /Y /Q 1>nul
-		if errorlevel 1 goto stop
-		if /i [!verbose!] EQU [YES] (echo    - All files are available both in)
-		if /i [!verbose!] EQU [YES] (echo      - [!path_to_compose!] and in)
-		if /i [!verbose!] EQU [YES] (echo      - [%the_game_dir%\gfx\%tileset_name%])
-		if /i [!verbose!] EQU [YES] (echo.)
-	) else (
-		xcopy "%tileset_fork%\gfx\%tileset_name%\fallback*.*" "%the_game_dir%\gfx\%tileset_name%" /Y /Q 1>nul
-		xcopy "%tileset_fork%\gfx\%tileset_name%\tileset.txt" "%the_game_dir%\gfx\%tileset_name%" /Y /Q 1>nul
-		if /i [!verbose!] EQU [YES] (echo    - Essential tileset files restored.)
-		if /i [!verbose!] EQU [YES] (echo.)
-	)
+    echo 4. Now composed tileset will be copied into the game so you can refresh it.
+    if /i [!direct_update!] EQU [NO] (
+        xcopy "!path_to_compose!\*.*" "%the_game_dir%\gfx\%tileset_name%" /Y /Q 1>nul
+        if errorlevel 1 goto stop
+        if /i [!verbose!] EQU [YES] (echo    - All files are available both in)
+        if /i [!verbose!] EQU [YES] (echo      - [!path_to_compose!] and in)
+        if /i [!verbose!] EQU [YES] (echo      - [%the_game_dir%\gfx\%tileset_name%])
+        if /i [!verbose!] EQU [YES] (echo.)
+    ) else (
+        xcopy "%tileset_fork%\gfx\%tileset_name%\fallback*.*" "%the_game_dir%\gfx\%tileset_name%" /Y /Q 1>nul
+        xcopy "%tileset_fork%\gfx\%tileset_name%\tileset.txt" "%the_game_dir%\gfx\%tileset_name%" /Y /Q 1>nul
+        if /i [!verbose!] EQU [YES] (echo    - Essential tileset files restored.)
+        if /i [!verbose!] EQU [YES] (echo.)
+    )
 
-	echo 5. If there any layering info it'll be copied too.
-	if exist "%tileset_fork%\gfx\%tileset_name%\layering.json" (
-		xcopy "%tileset_fork%\gfx\%tileset_name%\layering.json" "%the_game_dir%\gfx\%tileset_name%" /Y /Q 1>nul
-		if errorlevel 1 goto stop
-		if /i [!verbose!] EQU [YES] (echo    - Additional 'layering.json' file copied)
-		if /i [!verbose!] EQU [YES] (echo      - from [%tileset_fork%\gfx\%tileset_name%])
-		if /i [!verbose!] EQU [YES] (echo      -   to [%the_game_dir%\gfx\%tileset_name%])
-	)
-	if /i [!verbose!] EQU [YES] (echo.)
+    echo 5. If there any layering info it'll be copied too.
+    if exist "%tileset_fork%\gfx\%tileset_name%\layering.json" (
+        xcopy "%tileset_fork%\gfx\%tileset_name%\layering.json" "%the_game_dir%\gfx\%tileset_name%" /Y /Q 1>nul
+        if errorlevel 1 goto stop
+        if /i [!verbose!] EQU [YES] (echo    - Additional 'layering.json' file copied)
+        if /i [!verbose!] EQU [YES] (echo      - from [%tileset_fork%\gfx\%tileset_name%])
+        if /i [!verbose!] EQU [YES] (echo      -   to [%the_game_dir%\gfx\%tileset_name%])
+    )
+    if /i [!verbose!] EQU [YES] (echo.)
 
-	echo.
-	echo     All done... Refresh tileset in game.
+    echo.
+    echo     All done... Refresh tileset in game.
 ) else (
-	echo ERROR: Something went wrong! && goto stop
+    echo ERROR: Something went wrong! && goto stop
 )
 timeout /t 10 >nul
 exit /b 0

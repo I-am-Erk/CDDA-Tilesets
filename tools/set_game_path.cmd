@@ -19,11 +19,11 @@ set /p path_arg="Game directory: "
 )
 
 if not exist %path_arg% (
-	echo ERROR: Directory "%path_arg%" does not exist! && goto stop
+    echo ERROR: Directory "%path_arg%" does not exist! && goto stop
 )
 
 if not exist "!path_arg!\gfx" (
-	echo ERROR: Directory "%path_arg%" is not a valid CDDA game directory! && goto stop
+    echo ERROR: Directory "%path_arg%" is not a valid CDDA game directory! && goto stop
 )
 
 if /i [%is_temp%] EQU [YES] (
