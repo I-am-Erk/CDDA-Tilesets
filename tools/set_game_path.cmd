@@ -1,11 +1,15 @@
 @echo off
 
 set path_arg=
+set is_temp=NO
+set silent=NO
 
 :next_arg
 if not "%1"=="" (
     if /i [%1] EQU [/t] (
         set is_temp=YES
+    ) else if /i [%1] EQU [/s] (
+        set silent=YES
     ) else (
         set path_arg=%1
     )
@@ -22,7 +26,7 @@ if not exist %path_arg% (
     echo ERROR: Directory "%path_arg%" does not exist! && goto stop
 )
 
-if not exist "!path_arg!\gfx" (
+if not exist "%path_arg%\gfx" (
     echo ERROR: Directory "%path_arg%" is not a valid CDDA game directory! && goto stop
 )
 
@@ -36,7 +40,11 @@ if /i [%is_temp%] EQU [YES] (
 
 exit /b 0
 :stop
-echo:
-echo (press any key to close this window)
-pause >nul
+echo.
+
+if /i [%silent%] NEQ [YES] (
+    echo (press any key to close this window^)
+    pause >nul
+)
+
 exit /b 1

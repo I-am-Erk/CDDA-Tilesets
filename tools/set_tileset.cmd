@@ -4,6 +4,7 @@ set tileset_arg=
 
 set is_temp=NO
 set allow_clear=YES
+set silent=NO
 
 :next_arg
 if not "%1"=="" (
@@ -11,6 +12,8 @@ if not "%1"=="" (
         set is_temp=YES
     ) else if /i [%1] EQU [/c] (
         set allow_clear=NO
+    ) else if /i [%1] EQU [/s] (
+        set silent=YES
     ) else (
         set tileset_arg=%1
     )
@@ -18,11 +21,15 @@ if not "%1"=="" (
     goto :next_arg
 )
 
-set count=0
+if /i [%is_temp%] NEQ [YES] (
+    setlocal EnableDelayedExpansion
+)
 
 if /i [%tileset_arg%] NEQ [] (
     goto :skip_interactive
 )
+
+set count=0
 
 :: Read in files
 for /d %%x in (..\gfx\*.*) do (
@@ -41,7 +48,7 @@ echo.
 
 :: Print list of files
 for /l %%x in (1,1,!count!) do (
-   echo %%x] !choice[%%x]!
+    echo %%x] !choice[%%x]!
 )
 echo.
 
@@ -78,7 +85,11 @@ echo.
 exit /b 0
 
 :stop
-echo:
-echo (press any key to close this window)
-pause >nul
+echo.
+
+if /i [%silent%] NEQ [YES] (
+    echo (press any key to close this window^)
+    pause >nul
+)
+
 exit /b 1

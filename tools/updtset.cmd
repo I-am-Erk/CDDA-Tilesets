@@ -47,23 +47,6 @@ SET script_dir=%script_dir:"=%
 SET composed_dir=%composed_dir:"=%
 SET the_game_dir=%the_game_dir:"=%
 
-:overwrite_with_env_var
-if /i [!CDDA_PATH!] NEQ [] (
-    SET the_game_dir=%CDDA_PATH:"=%
-)
-if /i [!CDDA_TILESET!] NEQ [] (
-    SET def_tileset=%CDDA_TILESET:"=%
-)
-
-:interactive_game_path
-if /i [!the_game_dir!] EQU [] (
-    echo No game directory specified
-    echo To set the game directory permanently, run set_game_path.cmd
-    echo Setting the game directory temporarily...
-    CALL set_game_path.cmd /t || echo Error setting game directory && goto stop
-    SET the_game_dir=!CDDA_PATH:"=!
-)
-
 :parse_command_line
 set verbose=YES
 set direct_update=YES
@@ -108,8 +91,25 @@ if /i [!curarg1!] EQU [/] (
 if /i [!verbose!] EQU [YES] (echo.)
 if /i [!verbose!] EQU [YES] (echo    For advanced use please run %0 /?)
 if /i [!verbose!] EQU [YES] (echo.)
-if /i [!verbose!] EQU [YES] (echo    WARNING! Tileset cant be composed with Python installed from Microsoft Store! )
+if /i [!verbose!] EQU [YES] (echo    WARNING^^^! Tileset cant be composed with Python installed from Microsoft Store! )
 if /i [!verbose!] EQU [YES] (echo.)
+
+:overwrite_with_env_var
+if /i [!CDDA_PATH!] NEQ [] (
+    SET the_game_dir=%CDDA_PATH:"=%
+)
+if /i [!CDDA_TILESET!] NEQ [] (
+    SET def_tileset=%CDDA_TILESET:"=%
+)
+
+:interactive_game_path
+if /i [!the_game_dir!] EQU [] (
+    echo No game directory specified
+    echo To set the game directory permanently, run set_game_path.cmd
+    echo Setting the game directory temporarily...
+    CALL set_game_path.cmd /t /s || echo Error setting game directory && goto stop
+    SET the_game_dir=!CDDA_PATH:"=!
+)
 
 :interactive_tileset
 if /i [!tileset_arg!] EQU [] (
@@ -118,7 +118,7 @@ if /i [!tileset_arg!] EQU [] (
         echo To set the tileset permanently, run set_tileset.cmd
         echo Alternatively, run this script with the tileset name as argument
         echo Setting the game directory temporarily...
-        CALL set_tileset.cmd /t /c || echo Error setting tileset && goto stop
+        CALL set_tileset.cmd /t /c /s || echo Error setting tileset && goto stop
         SET tileset_arg=!CDDA_TILESET:"=!
     )
 )
@@ -254,8 +254,10 @@ if not errorlevel 1 (
 )
 timeout /t 10 >nul
 exit /b 0
+
 :stop
-echo:
-echo (press any key to close this window)
+
+echo.
+echo (press any key to close this window^)
 pause >nul
 exit /b 1
