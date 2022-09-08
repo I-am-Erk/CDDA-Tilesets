@@ -1,0 +1,12 @@
+{
+  "id": "vp_xlframe_ne",
+  "fg": "vp_xlframe_ne",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "725_vp_blade_vertical_1"
+    }
+  ]
+}
