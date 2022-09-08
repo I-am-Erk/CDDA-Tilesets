@@ -1,0 +1,12 @@
+{
+  "id": "vp_frame_horizontal",
+  "fg": "vp_frame_horizonta0",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "155_vp_cargo_bag_1"
+    }
+  ]
+}
