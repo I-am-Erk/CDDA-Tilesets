@@ -1,0 +1,6 @@
+[
+    { "id": ["file_season_spring", "bio_file_season_spring", "psych_file_season_spring", "lab_file_sec_season_spring", "lab_file_bio_season_spring", "security_file_season_spring", "lab_file_psych_season_spring", "lab_file_portal_season_spring", "record_accounting_season_spring"], "fg": "file_season_spring", "bg": [], "rotates": false },
+	{ "id": ["file_season_autumn", "bio_file_season_autumn", "psych_file_season_autumn", "lab_file_sec_season_autumn", "lab_file_bio_season_autumn", "security_file_season_autumn", "lab_file_psych_season_autumn", "lab_file_portal_season_autumn", "record_accounting_season_autumn"], "fg": "file_season_autumn", "bg": [], "rotates": false },
+	{ "id": ["file_season_winter", "bio_file_season_winter", "psych_file_season_winter", "lab_file_sec_season_winter", "lab_file_bio_season_winter", "security_file_season_winter", "lab_file_psych_season_winter", "lab_file_portal_season_winter", "record_accounting_season_winter"], "fg": "file_season_winter", "bg": [], "rotates": false },
+	{ "id": ["file_season_summer", "bio_file_season_summer", "psych_file_season_summer", "lab_file_sec_season_summer", "lab_file_bio_season_summer", "security_file_season_summer", "lab_file_psych_season_summer", "lab_file_portal_season_summer", "record_accounting_season_summer"], "fg": "file_season_summer", "bg": [], "rotates": false }
+]
