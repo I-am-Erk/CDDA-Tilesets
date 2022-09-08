@@ -1,0 +1,6 @@
+[
+    { "id": ["labmap", "ab_postit_bio", "ab_postit_portal", "ab_postit_blob", "ab_postit_migo", "ab_postit_tech"], "fg": "labmap_season_spring", "bg": [], "rotates": false },
+	{ "id": ["labmap_season_autumn", "ab_postit_bio_autumn", "ab_postit_portal_season_autumn", "ab_postit_blob_season_autumn", "ab_postit_migo_season_autumn", "ab_postit_tech_season_autumn"], "fg": "labmap_season_autumn", "bg": [], "rotates": false },
+	{ "id": ["labmap_season_winter", "ab_postit_bio_winter", "ab_postit_portal_season_winter", "ab_postit_blob_season_winter", "ab_postit_migo_season_winter", "ab_postit_tech_season_winter"], "fg": "labmap_season_winter", "bg": [], "rotates": false },
+	{ "id": ["labmap_season_summer", "ab_postit_bio_summer", "ab_postit_portal_season_summer", "ab_postit_blob_season_summer", "ab_postit_migo_season_summer", "ab_postit_tech_season_summer"], "fg": "labmap_season_summer", "bg": [], "rotates": false }
+]
