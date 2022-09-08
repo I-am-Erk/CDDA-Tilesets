@@ -29,7 +29,7 @@ set script_dir="[CDDA_PATH]\tools\gfx_tools"
 ::
 :: 4. Set path to CDDA game folder
 
-set the_game_dir="..\..\Cataclysm-DDA"
+set the_game_dir=""
 
 ::
 :: 5. OPTIONAL, Set path to the folder where to put the composed tileset (for future examination)
@@ -47,9 +47,18 @@ SET script_dir=%script_dir:"=%
 SET composed_dir=%composed_dir:"=%
 SET the_game_dir=%the_game_dir:"=%
 
-:overwrite_with_env_var
+:overwrite_game_path_with_env_var
 if /i [!CDDA_PATH!] NEQ [] (
     SET the_game_dir=%CDDA_PATH:"=%
+)
+
+:interactive_game_path
+if /i [!the_game_dir!] EQU [] (
+    echo No game directory specified
+    echo To set the game directory permanently, run set_game_path.cmd
+    echo Setting the game directory temporarily...
+    CALL set_game_path.cmd /t || echo Error setting game directory && goto stop
+    SET the_game_dir=!CDDA_PATH:"=!
 )
 
 :parse_command_line
@@ -89,7 +98,7 @@ if /i [!curarg1!] EQU [/] (
 	shift /1
 	goto next_arg
 ) else (
-	if /i [!curarg!] EQU [] ( goto continue ) else ( set tileset_arg=!curarg!&& shift /1 && goto next_arg )
+	if /i [!curarg!] EQU [] ( goto continue ) else ( set tileset_arg=!curarg! && shift /1 && goto next_arg )
 )
 :continue
 if /i [!verbose!] EQU [YES] (echo.)
@@ -107,9 +116,9 @@ if /i [!tileset_arg!] EQU [] (
 if /i [!verbose!] EQU [YES] (echo    - Will use [!tileset_name!] as tileset name.)
 
 if not exist "%tileset_fork%\gfx\" (
-	echo ERROR: Check tileset source dir! && goto stop)
+	echo ERROR: Check tileset source dir! && goto stop
 ) else (
-	if not exist "%tileset_fork%\gfx\%tileset_name%\tile_info.json" (echo ERROR: Check tileset name. Must be one of these:&& dir "%tileset_fork%\gfx\" /AD /B && goto stop )
+	if not exist "%tileset_fork%\gfx\%tileset_name%\tile_info.json" (echo ERROR: Check tileset name. Must be one of these:&& dir "%tileset_fork%\gfx\" /AD /B && goto stop)
 )
 if /i [!verbose!] EQU [YES] (echo    - CDDA-Tileset fork with source tiles found.)
 
