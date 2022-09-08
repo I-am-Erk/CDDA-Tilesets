@@ -11,7 +11,7 @@
   "additional_tiles": [
     {
       "id": "broken",
-      "fg": "1183_vp_tank_medium_1"
+      "fg": "vp_broken_red"
     }
   ]
 }
