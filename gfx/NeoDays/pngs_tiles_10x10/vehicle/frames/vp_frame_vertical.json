@@ -1,5 +1,9 @@
 {
-  "id": "vp_frame_vertical",
+  "id": [
+    "vp_frame_vertical",
+    "vp_frame_vertical_left",
+    "vp_frame_vertical_right"
+  ],
   "fg": "vp_frame_vertical",
   "rotates": true,
   "multitile": true,
