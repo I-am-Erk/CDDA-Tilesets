@@ -1,0 +1,12 @@
+{
+  "id": "vp_hdframe_ne",
+  "fg": "vp_hdframe_ne",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_green"
+    }
+  ]
+}
