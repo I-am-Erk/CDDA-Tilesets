@@ -19,12 +19,12 @@ set tileset_fork=".."
 ::
 :: 2. Set correct tileset folder name (e.g. UltimateCataclysm)
 
-set def_tileset="UltimateCataclysm"
+set def_tileset=""
 
 ::
 :: 3. Set path to compose.py file
 
-set script_dir="[CDDA_PATH]\tools\gfx_tools"
+set script_dir="CDDA_PATH\tools\gfx_tools"
 
 ::
 :: 4. Set path to CDDA game folder
@@ -117,7 +117,7 @@ if /i [!tileset_arg!] EQU [] (
         echo No tileset specified
         echo To set the tileset permanently, run set_tileset.cmd
         echo Alternatively, run this script with the tileset name as argument
-        echo Setting the game directory temporarily...
+        echo Setting the tileset temporarily...
         CALL set_tileset.cmd /t /c /s || echo Error setting tileset && goto stop
         SET tileset_arg=!CDDA_TILESET:"=!
     )
@@ -138,8 +138,11 @@ if not exist "%tileset_fork%\gfx\" (
 )
 if /i [!verbose!] EQU [YES] (echo    - CDDA-Tileset fork with source tiles found.)
 
-if not exist "%script_dir:[CDDA_PATH]=!CDDA_PATH!%\compose.py" (echo ERROR: Cannot find compose.py file! && goto stop)
-if /i [!verbose!] EQU [YES] (echo    - Python 'compose.py' script found in [%script_dir:[CDDA_PATH]=!CDDA_PATH!%] folder.)
+set script_path=%script_dir:CDDA_PATH=!the_game_dir!%\compose.py
+echo %script_path%
+
+if not exist "%script_path%" (echo ERROR: Cannot find compose.py file! && goto stop)
+if /i [!verbose!] EQU [YES] (echo    - Python 'compose.py' script found under !script_path! folder.)
 
 if /i [!direct_update!] EQU [YES] (
     set path_to_compose=!the_game_dir!\gfx\!tileset_name!
@@ -218,7 +221,7 @@ pushd "!path_to_compose!" || goto :deleted
 rd /q /s . 2> NUL
 popd
 :deleted
-%APP% "%script_dir%\compose.py" --use-all "%tileset_fork%\gfx\%tileset_name%" "!path_to_compose!"
+%APP% "%script_path%" --use-all "%tileset_fork%\gfx\%tileset_name%" "!path_to_compose!"
 if not errorlevel 1 (
     if /i [!verbose!] EQU [YES] (echo.)
 

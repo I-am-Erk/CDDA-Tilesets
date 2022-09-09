@@ -59,9 +59,14 @@ set tileset_arg=!choice[%select%]!
 
 :skip_interactive
 if /i [%tileset_arg%] EQU [Clear-tileset-settings] (
-    :: Print about clearing
-    echo Clearing tileset settings
-    REG delete HKCU\Environment /F /V CDDA_TILESET || echo Error removing env var CDDA_TILESET && goto stop
+    if /i [%is_temp%] EQU [YES] (
+        echo Clearing temporary tileset settings
+        SET CDDA_TILESET=
+    ) else (
+        echo Clearing permanent tileset settings, reboot required
+        SETX CDDA_TILESET ""
+        REG delete HKCU\Environment /F /V CDDA_TILESET || echo Error removing env var CDDA_TILESET && goto stop
+    )
 ) else (
     if /i [%tileset_arg%] EQU [] (
         echo ERROR: Invalid tileset selection! && goto stop
