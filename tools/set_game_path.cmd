@@ -11,33 +11,48 @@ if not "%1"=="" (
     ) else if /i [%1] EQU [/s] (
         set silent=YES
     ) else (
-        set path_arg=%1
+        set path_arg=%~f1
     )
     shift
     goto :next_arg
 )
 
-if /i [%path_arg%] EQU [] (
-:: Retrieve User input
-set /p path_arg="Game directory: "
+if /i [%path_arg%] NEQ [] (
+    goto :skip_interactive
 )
 
-if not exist %path_arg% (
+if exist "%CD%\gfx" (
+    if exist "%CD%\cataclysm-tiles.exe" (
+        echo Detected CDDA game directory at %CD%
+        set path_arg=%CD%&& goto :skip_interactive
+    )
+)
+
+:: Retrieve User input
+set /p path_arg="Game directory: "
+
+
+:skip_interactive
+if not exist "%path_arg%" (
     echo ERROR: Directory "%path_arg%" does not exist! && goto stop
 )
 
 if not exist "%path_arg%\gfx" (
     echo ERROR: Directory "%path_arg%" is not a valid CDDA game directory! && goto stop
 )
-
-if /i [%is_temp%] EQU [YES] (
-    echo Setting cdda path temporarily
-    SET CDDA_PATH=%path_arg%
-) else (
-    echo Setting cdda path permanently, reboot required
-    SETX CDDA_PATH %path_arg%
+if not exist "%path_arg%\cataclysm-tiles.exe" (
+    echo ERROR: Directory "%path_arg%" is not a valid CDDA game directory! && goto stop
 )
 
+if /i [%is_temp%] EQU [YES] (
+    echo Setting cdda path to "%path_arg%", temporarily
+    SET CDDA_PATH=%path_arg%
+) else (
+    echo Setting cdda path "%path_arg%", permanently
+    echo Reboot required
+    SETX CDDA_PATH %path_arg%
+)
+pause >nul
 exit /b 0
 :stop
 echo.

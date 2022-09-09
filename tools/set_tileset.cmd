@@ -81,7 +81,8 @@ if /i [%tileset_arg%] EQU [Clear-tileset-settings] (
         echo Setting tileset to %tileset_arg% temporarily
         SET CDDA_TILESET=%tileset_arg%
     ) else (
-        echo Setting tileset to %tileset_arg% permanently, reboot required
+        echo Setting tileset to %tileset_arg% permanently
+        echo Reboot required
         SETX CDDA_TILESET %tileset_arg%
     )
 )
