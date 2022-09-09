@@ -1,0 +1,15 @@
+{
+  "id": [
+    "vp_frame_cover",
+    "vp_halfboard_cover"
+  ],
+  "fg": "vp_frame_cover",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_gray"
+    }
+  ]
+}
