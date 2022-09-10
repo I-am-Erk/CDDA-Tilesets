@@ -1,0 +1,36 @@
+{
+  "id": "vp_boat_board",
+  "fg": "vp_boat_board",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_brown"
+    },
+    {
+      "id": "center",
+      "fg": "vp_boat_board_cross"
+    },
+    {
+      "id": "corner",
+      "fg": "vp_boat_board_corner"
+    },
+    {
+      "id": "edge",
+      "fg": "vp_boat_board_vertical"
+    },
+    {
+      "id": "end_piece",
+      "fg": "vp_boat_board_vertical"
+    },
+    {
+      "id": "t_connection",
+      "fg": "vp_boat_board_t_connection"
+    },
+    {
+      "id": "unconnected",
+      "fg": "vp_boat_board"
+    }
+  ]
+}

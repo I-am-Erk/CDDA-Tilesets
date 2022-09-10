@@ -1,0 +1,15 @@
+{
+  "id": [
+    "vp_hdboard_ne",
+    "vp_hdhalfboard_ne"
+  ],
+  "fg": "vp_hdboard_ne",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_green"
+    }
+  ]
+}
