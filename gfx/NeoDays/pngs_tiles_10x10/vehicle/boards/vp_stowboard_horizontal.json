@@ -1,0 +1,16 @@
+{
+  "id": [
+    "vp_stowboard_horizontal",
+    "vp_stowboard_horizontal_front",
+    "vp_stowboard_horizontal_rear"
+  ],
+  "fg": "vp_stowboard_horizontal",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_gray"
+    }
+  ]
+}
