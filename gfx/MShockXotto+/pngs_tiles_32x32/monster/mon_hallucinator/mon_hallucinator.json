@@ -1,0 +1,8 @@
+{
+  "id": "mon_hallucinator",
+  "animated": true,
+  "fg": [
+    { "weight": 58, "sprite": "mon_hallucinator" },
+    { "weight": 2, "sprite": "mon_hallucinator_2" }
+  ]
+}
