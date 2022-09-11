@@ -5,10 +5,20 @@ Combine a set of multitile sprites into 4x4 grid
 
 import argparse
 import os
-import pyvips
 import numpy as np
 
 from slice_multitile import MAPS
+
+try:
+    vips_path = os.getenv("LIBVIPS_PATH")
+    if vips_path is not None and vips_path != "":
+        os.environ["PATH"] += ";"+os.path.join(vips_path, "bin")
+    import pyvips
+    Vips = pyvips
+except ImportError:
+    import gi
+    gi.require_version('Vips', '8.0')  # NoQA
+    from gi.repository import Vips
 
 
 def main(args):
