@@ -1,5 +1,13 @@
 @echo off
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:: This script sets the environmental variable LIBVIPS_PATH to either:
+:: - the first positional argument or
+::   (also supports drag & drop ofthe game folder ontothe script file)
+:: - the current working directory it it is a valid libvips directory or
+:: - a path entered by the user upon prompt
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 set path_arg=
 set is_temp=NO
 set silent=NO

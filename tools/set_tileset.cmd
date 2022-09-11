@@ -1,5 +1,11 @@
 @echo off
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:: This script sets the environmental variable CDDA_TILESET to either:
+:: - the first positional argument or
+:: - a path entered by the user upon prompt
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 set tileset_arg=
 
 set is_temp=NO
