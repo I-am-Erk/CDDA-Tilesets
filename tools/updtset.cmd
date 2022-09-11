@@ -2,13 +2,11 @@
 setlocal EnableDelayedExpansion
 setlocal EnableExtensions
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::ver 1.13 / 2022-06-29::::
-:: this script does the following:
+:: This script does the following:
 :: - compose tilesets from source
 :: - put composed tileset into some folder for future use
 :: - copy said composed tileset from the folder into the game so you can try in on the fly
 :: - copy layering json file from tileset source into the game
-::
-:: PLEASE setup 4 variables below, put correct text between quotes
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
