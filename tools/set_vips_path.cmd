@@ -25,19 +25,18 @@ if /i [%path_arg%] NEQ [] (
     goto :skip_interactive
 )
 
-if exist "%CD%\gfx" (
-    if exist "%CD%\cataclysm-tiles.exe" (
-        echo Detected CDDA game directory at %CD%
-        set path_arg=%CD%&& goto :skip_interactive
-    )
+if exist "%CD%\bin\vips.exe" (
+    echo Detected libvips directory at %CD%
+    set path_arg=%CD%&& goto :skip_interactive
 )
 
 :: Retrieve User input
-set /p path_arg="Game directory: "
+set /p path_arg="VIPS directory: "
 
 :skip_interactive
 
 :: Make path absolute
+
 for %%x in ("%path_arg%") do (
     set path_arg=%%~fx
 )
@@ -46,20 +45,17 @@ if not exist "%path_arg%" (
     echo ERROR: Directory "%path_arg%" does not exist! && goto stop
 )
 
-if not exist "%path_arg%\gfx" (
-    echo ERROR: Directory "%path_arg%" is not a valid CDDA game directory! && goto stop
-)
-if not exist "%path_arg%\cataclysm-tiles.exe" (
-    echo ERROR: Directory "%path_arg%" is not a valid CDDA game directory! && goto stop
+if not exist "%path_arg%\bin\vips.exe" (
+    echo ERROR: Directory "%path_arg%" is not a valid libvips directory! && goto stop
 )
 
 if /i [%is_temp%] EQU [YES] (
-    echo Setting cdda path to "%path_arg%", temporarily
-    SET CDDA_PATH=%path_arg%
+    echo Setting libvips path to "%path_arg%", temporarily
+    set "LIBVIPS_PATH=%path_arg%"
 ) else (
-    echo Setting cdda path "%path_arg%", permanently
+    echo Setting libvips path to "%path_arg%", permanently
     echo Reboot required
-    SETX CDDA_PATH %path_arg%
+    setx LIBVIPS_PATH "%path_arg%"
 )
 
 exit /b 0

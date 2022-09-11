@@ -205,7 +205,7 @@ if errorlevel 1 (
 ) else (
     if /i [!verbose!] EQU [YES] (echo    - Python 'pyvips' module found.)
 )
-where vips /q
+where %LIBVIPS_PATH%\bin\:vips vips /q
 if errorlevel 1 (
     echo ERROR! No 'libvips' library found. Please refer installation manual:
     echo https://libvips.github.io/libvips/install.html
