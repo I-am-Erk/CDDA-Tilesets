@@ -1,15 +1,15 @@
 {
   "id": [
-    "vp_watercannon",
-    "vp_shockcannon_mounted"
+    "vp_laser_rifle",
+    "vp_fusion_gun"
   ],
-  "fg": "vp_watercannon",
+  "fg": "vp_laser_rifle",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
     {
       "id": "broken",
-      "fg": "vp_broken_blue"
+      "fg": "vp_broken_pink"
     }
   ]
 }
