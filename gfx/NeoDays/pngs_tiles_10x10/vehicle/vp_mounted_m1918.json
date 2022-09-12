@@ -1,0 +1,17 @@
+{
+  "id": [
+    "vp_mounted_m1918",
+    "vp_flamethrower",
+    "vp_tow_launcher",
+    "vp_tow_turret"
+  ],
+  "fg": "vp_mounted_m1918",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_gray"
+    }
+  ]
+}
