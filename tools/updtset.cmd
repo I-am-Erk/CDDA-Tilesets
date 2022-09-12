@@ -22,7 +22,9 @@ set def_tileset=""
 ::
 :: 3. Set path to compose.py file
 
-set script_dir="CDDA_PATH\tools\gfx_tools"
+set script_dir="."
+:: For use of compose.py script from the game directory:
+:: set script_dir="CDDA_PATH\tools\gfx_tools"
 
 ::
 :: 4. Set path to CDDA game folder
