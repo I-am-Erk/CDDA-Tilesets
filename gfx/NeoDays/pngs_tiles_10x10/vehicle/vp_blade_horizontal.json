@@ -1,6 +1,6 @@
 {
-  "id": "vp_xlframe_cover",
-  "fg": "vp_xlframe_cover",
+  "id": "vp_blade_horizontal",
+  "fg": "vp_blade_horizontal",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
