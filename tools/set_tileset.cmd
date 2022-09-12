@@ -82,7 +82,7 @@ if /i [%tileset_arg%] EQU [Clear-tileset-settings] (
         echo ERROR: Tileset "%tileset_arg%" does not exist! && goto stop
     )
     echo Selected tileset %tileset_arg%
-    
+
     if /i [%is_temp%] EQU [YES] (
         echo Setting tileset to %tileset_arg% temporarily
         SET CDDA_TILESET=%tileset_arg%
@@ -93,7 +93,11 @@ if /i [%tileset_arg%] EQU [Clear-tileset-settings] (
     )
 )
 
-echo.
+if /i [%silent%] NEQ [YES] (
+    echo (press any key to close this window^)
+    pause >nul
+)
+
 exit /b 0
 
 :stop

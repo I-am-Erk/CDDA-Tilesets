@@ -70,6 +70,11 @@ if /i [%is_temp%] EQU [YES] (
     SETX CDDA_PATH %path_arg%
 )
 
+if /i [%silent%] NEQ [YES] (
+    echo (press any key to close this window^)
+    pause >nul
+)
+
 exit /b 0
 :stop
 echo.

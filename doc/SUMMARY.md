@@ -1,6 +1,7 @@
 # Summary
 
 - [Installation & Building](installation.md)
+  - [Windows guide](installation_windows.md)
 - [Style guidelines](style/summary.md)
     - [General](style/general.md)
     - [Items](style/items.md)
