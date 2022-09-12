@@ -3,7 +3,7 @@
     <head>
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
-        <title>Installation &amp; Building - UltimateCataclysm — Documentation</title>
+        <title>Windows guide - UltimateCataclysm — Documentation</title>
         
         
 
@@ -89,7 +89,7 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item expanded "><a href="installation.html"><strong aria-hidden="true">1.</strong> Installation &amp; Building</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="installation_windows.html"><strong aria-hidden="true">1.1.</strong> Windows guide</a></li></ol></li><li class="chapter-item expanded "><a href="style/summary.html"><strong aria-hidden="true">2.</strong> Style guidelines</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="style/general.html"><strong aria-hidden="true">2.1.</strong> General</a></li><li class="chapter-item expanded "><a href="style/items.html"><strong aria-hidden="true">2.2.</strong> Items</a></li><li class="chapter-item expanded "><a href="style/overlay.html"><strong aria-hidden="true">2.3.</strong> Overlay</a></li><li class="chapter-item expanded "><a href="style/creatures.html"><strong aria-hidden="true">2.4.</strong> Creatures</a></li><li class="chapter-item expanded "><a href="style/terrain-furniture.html"><strong aria-hidden="true">2.5.</strong> Terrain &amp; Furniture</a></li></ol></li><li class="chapter-item expanded "><strong aria-hidden="true">3.</strong> How to</li><li><ol class="section"><li class="chapter-item expanded "><a href="how-to/structure.html"><strong aria-hidden="true">3.1.</strong> Tileset structure</a></li><li class="chapter-item expanded "><a href="how-to/autotiles.html"><strong aria-hidden="true">3.2.</strong> Autotiles</a></li></ol></li><li class="chapter-item expanded "><strong aria-hidden="true">4.</strong> Tools</li><li><ol class="section"><li class="chapter-item expanded "><strong aria-hidden="true">4.1.</strong> Slice autotiles</li><li class="chapter-item expanded "><strong aria-hidden="true">4.2.</strong> Generate preview</li></ol></li></ol>
+                <ol class="chapter"><li class="chapter-item expanded "><a href="installation.html"><strong aria-hidden="true">1.</strong> Installation &amp; Building</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="installation_windows.html" class="active"><strong aria-hidden="true">1.1.</strong> Windows guide</a></li></ol></li><li class="chapter-item expanded "><a href="style/summary.html"><strong aria-hidden="true">2.</strong> Style guidelines</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="style/general.html"><strong aria-hidden="true">2.1.</strong> General</a></li><li class="chapter-item expanded "><a href="style/items.html"><strong aria-hidden="true">2.2.</strong> Items</a></li><li class="chapter-item expanded "><a href="style/overlay.html"><strong aria-hidden="true">2.3.</strong> Overlay</a></li><li class="chapter-item expanded "><a href="style/creatures.html"><strong aria-hidden="true">2.4.</strong> Creatures</a></li><li class="chapter-item expanded "><a href="style/terrain-furniture.html"><strong aria-hidden="true">2.5.</strong> Terrain &amp; Furniture</a></li></ol></li><li class="chapter-item expanded "><strong aria-hidden="true">3.</strong> How to</li><li><ol class="section"><li class="chapter-item expanded "><a href="how-to/structure.html"><strong aria-hidden="true">3.1.</strong> Tileset structure</a></li><li class="chapter-item expanded "><a href="how-to/autotiles.html"><strong aria-hidden="true">3.2.</strong> Autotiles</a></li></ol></li><li class="chapter-item expanded "><strong aria-hidden="true">4.</strong> Tools</li><li><ol class="section"><li class="chapter-item expanded "><strong aria-hidden="true">4.1.</strong> Slice autotiles</li><li class="chapter-item expanded "><strong aria-hidden="true">4.2.</strong> Generate preview</li></ol></li></ol>
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
         </nav>
@@ -159,49 +159,65 @@
 
                 <div id="content" class="content">
                     <main>
-                        <h1><a class="header" href="#installation" id="installation">Installation</a></h1>
-<h2><a class="header" href="#stable" id="stable">Stable</a></h2>
-<p>The easiest way to download the tileset would be from the latest release. It is a stable tileset build which you can safely put into the game and run.</p>
+                        <h1><a class="header" href="#windows-guide" id="windows-guide">Windows guide</a></h1>
+<p>Guide for Windows users, without touching the Command Line.</p>
+<h2><a class="header" href="#install-requirements" id="install-requirements">Install requirements</a></h2>
+<p><strong>Python</strong></p>
+<p>Install Python 3 from <a href="https://www.python.org/downloads/windows/">python.org</a>.</p>
+<p>During installation, check &quot;Add Python to PATH&quot;.</p>
+<p><strong>libvips</strong></p>
+<p>Download the latest libvips distribution from <a href="https://libvips.github.io/libvips/install.html">libvips.github.io</a>
+(get vips-dev-w64-web-#.#.#.zip NOT vips-dev-w64-all-#.#.#.zip).</p>
+<p>Extract the files somewhere.</p>
+<p><strong>Cataclysm-DDA game</strong></p>
+<p>The easiest way to get the game is to use the <a href="https://github.com/remyroy/CDDA-Game-Launcher">CDDA Game Launcher</a>.
+With the launcher, install the latest <strong>experimental</strong> release.</p>
+<h2><a class="header" href="#setting-up-paths" id="setting-up-paths">Setting up paths</a></h2>
+<p>For composing tilesets, some path must be known to the respective scripts.
+This section describes the most easy drag &amp; drop approach.</p>
+<p>In <code>CDDA-Tilesets</code>, go into folder <code>tools</code>.</p>
 <ol>
-<li>Download the <a href="https://github.com/I-am-Erk/CDDA-Tilesets/releases/latest">latest release</a> from the releases page (Not the source code !).</li>
-<li>Extract archive once it's downloaded.</li>
-<li>Put <em>UltimateCataclysm</em> folder from extracted files into your <code>cataclysmdda\gfx</code> folder. It should look like: <code>cataclysmdda\gfx\UltimateCataclysm</code>.</li>
-</ol>
+<li>
+<p>Copy <code>set_game_path.cmd</code> into the game's folder, and double-click it.
+OR: Drag &amp; drop the game folder onto <code>set_game_path.cmd</code>.</p>
 <blockquote>
-<p>⚠ If you have &quot;Missing &quot;tile_config.json&quot; file&quot; error upon loading the tileset, this means that you have downloaded and extracted the source code, and <strong>not</strong> the tileset.</p>
+<p>Note: This sets the environmental variable <code>CDDA_PATH</code>.</p>
 </blockquote>
-<h2><a class="header" href="#develop" id="develop">Develop</a></h2>
-<p>The most up to date build of the tileset (per commit). Might be broken.</p>
-<ol>
-<li>Locate the most recent commit that has a green check right next to it <a href="https://github.com/I-am-Erk/CDDA-Tilesets/commits/master">here</a>.</li>
-<li>Click on the green check -&gt; <em>&quot;CI Build / CI Build&quot; Details</em></li>
-<li>Find <em>Artifacts</em> drop-down menu, click on it, and then select the artifact.</li>
-<li>Proceed with step 2 and 3 from stable installation.</li>
-</ol>
+</li>
+<li>
+<p>Copy <code>set_vips_path.cmd</code> into the vips folder (e.g. <code>C:\vips-dev-x.xx</code>), and double-click it.
+OR: Drag &amp; drop the vips folder onto <code>set_vips_path.cmd</code>.</p>
 <blockquote>
-<p>Red cross means that the build has failed and no artifacts were produced.</p>
+<p>Note: This sets the environmental variable <code>LIBVIPS_PATH</code>.</p>
 </blockquote>
-<h1><a class="header" href="#building" id="building">Building</a></h1>
-<p>You will need:</p>
-<ul>
-<li>Python 3</li>
-<li><a href="https://libvips.github.io/libvips/install.html">Libvips</a></li>
-<li>pyvips (install it via python pip: <code>pip install pyvips</code>) </li>
-<li><a href="https://github.com/CleverRaven/Cataclysm-DDA/blob/master/tools/gfx_tools/compose.py">compose.py</a> script from the main <a href="https://github.com/CleverRaven/Cataclysm-DDA">Cataclysm-DDA</a> repository</li>
-</ul>
-<p>Once you have everything ready, you can build the tileset:</p>
-<pre><code class="language-sh"># Assuming that you are in the root of the tileset repository
-$ python3 &lt;path-to-compose-py-script&gt;/compose.py gfx/UltimateCataclysm
-</code></pre>
+</li>
+<li>
+<p>Optional: To set a tileset to compose permanently, double-click <code>set_tileset.cmd</code> and select the desired tileset.
+If not set permanently, the update script will allow for interactive selection of a tileset.</p>
+<blockquote>
+<p>Note: This sets the environmental variable <code>CDDA_TILESET</code>.</p>
+</blockquote>
+</li>
+</ol>
+<p>After these steps, it might be necessary to restart the computer.</p>
+<h2><a class="header" href="#compose-and-update-tileset" id="compose-and-update-tileset">Compose and update tileset</a></h2>
+<p>In <code>tools</code>, double-click <code>updtset.cmd</code>.</p>
+<p>You will be prompted to select a tileset (unless it was set permanently).
+At the first run, <code>pyvips</code> will be installed automatically.</p>
+<p>If something goes wrong, read the script's output carefully!</p>
 
                     </main>
 
                     <nav class="nav-wrapper" aria-label="Page navigation">
                         <!-- Mobile navigation buttons -->
                         
+                            <a rel="prev" href="installation.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
 
                         
-                            <a rel="next" href="installation_windows.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                            <a rel="next" href="style/summary.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
                                 <i class="fa fa-angle-right"></i>
                             </a>
                         
@@ -213,9 +229,13 @@ $ python3 &lt;path-to-compose-py-script&gt;/compose.py gfx/UltimateCataclysm
 
             <nav class="nav-wide-wrapper" aria-label="Page navigation">
                 
+                    <a rel="prev" href="installation.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
 
                 
-                    <a rel="next" href="installation_windows.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                    <a rel="next" href="style/summary.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
                         <i class="fa fa-angle-right"></i>
                     </a>
                 
