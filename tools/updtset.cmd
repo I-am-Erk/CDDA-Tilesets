@@ -139,7 +139,6 @@ if not exist "%tileset_fork%\gfx\" (
 if /i [!verbose!] EQU [YES] (echo    - CDDA-Tileset fork with source tiles found.)
 
 set script_path=%script_dir:CDDA_PATH=!the_game_dir!%\compose.py
-echo %script_path%
 
 if not exist "%script_path%" (echo ERROR: Cannot find compose.py file! && goto stop)
 if /i [!verbose!] EQU [YES] (echo    - Python 'compose.py' script found under !script_path! folder.)
