@@ -6,15 +6,32 @@
     "width": 44,
     "retract_dist_min": 1.8,
     "retract_dist_max": 4.0,
-    "//": "I assume that one tile is about 1x1m"
+    "//": "I assume that one tile is about 1x1m."
   },
+
+  {
+    "cursors.png": { 
+      "sprite_width": 44,
+      "sprite_height": 88, 
+      "sprite_offset_y": -66
+    }
+  },  
 
   {
     "iso_tall.png": { 
       "sprite_width": 44,
       "sprite_height": 110, 
       "sprite_offset_y": -88,
-      "//1": "Objects height is about 4m, here goes every tall sprite that do not cover too much"
+      "//1": "Objects height is about 4m, here goes every tall sprite that do not cover too much."
+    }
+  },  
+  {
+    "iso_high.png": { 
+      "sprite_width": 44,
+      "sprite_height": 88, 
+      "sprite_offset_y": -66,
+      "sprite_offset_y_retracted": -5,
+      "//2": "Objects height is about 2.5m: walls, windows, doors goes here. Will be retracted."
     }
   },  
   {
@@ -22,16 +39,7 @@
       "sprite_width": 44,
       "sprite_height": 66, 
       "sprite_offset_y": -44,
-      "//1": "Objects height is about 2m, here goes every normal sprite that do not cover too much"
-    }
-  },  
-  {
-    "iso_full_r.png": { 
-      "sprite_width": 44,
-      "sprite_height": 66,
-      "sprite_offset_y": -44,
-      "sprite_offset_y_retracted": -5,
-      "//2": "Here goes all walls and other sprites that can be retracted"
+      "//3": "Objects height is about 1.6m, here goes tall furniture mostly. Wardrobes, fridges."
     }
   },  
   {
@@ -39,14 +47,29 @@
       "sprite_width": 44, 
       "sprite_height": 44,
       "sprite_offset_y": -22,
-      "//3": "Most furniture goes here. Max object height is about 1m."
+      "//4": "Max object height is about 0.8m. Short furniture goes here. Beds, chairs, tables."
     }
   },
   {
     "iso_flat.png": {
       "sprite_width": 44,
-      "sprite_height": 22,
-      "//4": "Flat objects, floors mostly."
+      "sprite_height": 33,
+      "sprite_offset_y": -11,
+      "//5": "Flat objects but some extensions allowed, floors, grass, snow, sidewalks"
+    }
+  },
+  {
+    "iso_sub.png": {
+      "sprite_width": 44,
+      "sprite_height": 44,
+      "//6": "Submerged tiles, shallow pits"
+    }
+  },
+  {
+    "iso_deep.png": {
+      "sprite_width": 44,
+      "sprite_height": 66,
+      "//7": "deep water, deep pits, stairs going down"
     }
   },
 
