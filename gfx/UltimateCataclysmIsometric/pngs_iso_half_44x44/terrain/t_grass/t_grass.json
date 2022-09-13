@@ -1,0 +1,17 @@
+[
+  {
+    "id": "t_grass",
+    "fg": "t_grass",
+    "bg": ""
+  },
+  {
+    "id": "t_grass_season_summer",
+    "fg": "t_grass_summer",
+    "bg": ""
+  },
+  {
+    "id": "t_grass_season_autumn",
+    "fg": "t_grass_autumn",
+    "bg": ""
+  }
+]
