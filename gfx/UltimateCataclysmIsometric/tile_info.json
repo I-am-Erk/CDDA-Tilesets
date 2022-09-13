@@ -4,6 +4,8 @@
     "pixelscale": 1,
     "height": 22,
     "width": 44,
+    "retract_dist_min": 1.8,
+    "retract_dist_max": 4.0,
     "//": "I assume that one tile is about 1x1m"
   },
 
