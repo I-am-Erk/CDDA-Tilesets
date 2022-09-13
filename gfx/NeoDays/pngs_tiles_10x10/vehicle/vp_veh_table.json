@@ -1,15 +1,15 @@
 {
   "id": [
-    "vp_folding_frame",
-    "vp_xlframe_horizontal"
+    "vp_veh_table",
+    "vp_veh_table_wood"
   ],
-  "fg": "vp_folding_frame",
+  "fg": "vp_veh_table",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
     {
       "id": "broken",
-      "fg": "vp_blade_vertical_broken"
+      "fg": "vp_broken_brown"
     }
   ]
 }

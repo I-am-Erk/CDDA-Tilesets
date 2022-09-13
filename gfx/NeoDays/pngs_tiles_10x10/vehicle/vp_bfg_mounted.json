@@ -1,12 +1,13 @@
 {
-  "id": "vp_xlframe_cover",
-  "fg": "vp_xlframe_cover",
+  "id": "vp_bfg_mounted",
+  "fg": "vp_bfg_mounted",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
     {
       "id": "broken",
-      "fg": "vp_blade_vertical_broken"
+      "fg": "vp_broken_green"
     }
   ]
+
 }

@@ -1,0 +1,17 @@
+{
+  "id": [
+    "vp_m249",
+    "vp_mounted_m240",
+    "vp_mounted_m60",
+    "vp_mounted_m134"
+  ],
+  "fg": "vp_m249",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_light_blue"
+    }
+  ]
+}
