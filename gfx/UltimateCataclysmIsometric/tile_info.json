@@ -74,16 +74,16 @@
   },
 
   {
-    "small.png": { "sprite_width": 20, "sprite_height": 20, "sprite_offset_x": 15 }
+    "small.png":  { "sprite_width": 20, "sprite_height": 20, "sprite_offset_x":  12 , "sprite_offset_y":  -1}
   },
   {
-    "normal.png": { "sprite_width": 32, "sprite_height": 32, "sprite_offset_x": 5, "sprite_offset_y": -10 }
+    "normal.png": { "sprite_width": 32, "sprite_height": 32, "sprite_offset_x":   5 , "sprite_offset_y": -20}
   },
   {
-    "large.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -44 }
-  },  
+    "large.png":  { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16 , "sprite_offset_y": -48}
+  },
   {
-    "tall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -44, "sprite_offset_x": 5 }
+    "tall.png":   { "sprite_width": 32, "sprite_height": 64, "sprite_offset_x":   5 , "sprite_offset_y": -48}
   },
 
   {
