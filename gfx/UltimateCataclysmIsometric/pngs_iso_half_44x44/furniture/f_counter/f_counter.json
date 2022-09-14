@@ -1,7 +1,7 @@
 {
   "id": "f_counter",
   "fg": "f_counter_unconnected",
-  "height_3d": 20,  
+  "height_3d": 22,  
   "multitile": true,
   "additional_tiles": [
     {

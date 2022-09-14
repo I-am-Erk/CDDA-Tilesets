@@ -1,6 +1,7 @@
 {
   "id": "f_bench",
   "fg": "f_bench_unconnected",
+  "height_3d": 10,
   "multitile": true,
   "additional_tiles": [
     {
