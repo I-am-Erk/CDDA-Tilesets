@@ -1,0 +1,10 @@
+{
+  "id": [
+    "mon_chicken_chick",
+    "mon_goose_chick",
+    "mon_goose_golden_chick",
+    "mon_goose_canadian_chick",
+    "mon_duck_chick"
+  ],
+  "fg": "mon_chicken_chick"
+}

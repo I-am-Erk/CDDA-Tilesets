@@ -1,0 +1,12 @@
+{
+  "id": [
+    "mon_grouse_chick",
+    "mon_turkey_chick",
+    "mon_cardinal_chick",
+    "mon_robin_chick",
+    "mon_sparrow_chick",
+    "mon_hummingbird_chick",
+    "mon_pheasant_chick"
+  ],
+  "fg": "mon_grouse_chick"
+}
