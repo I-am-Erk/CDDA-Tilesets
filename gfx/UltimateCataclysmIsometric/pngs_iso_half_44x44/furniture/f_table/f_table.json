@@ -1,7 +1,7 @@
 {
   "id": "f_table",
   "fg": "f_table_unconnected",
-  "height_3d": 22,
+  "height_3d": 20,
   "multitile": true,
   "additional_tiles": [
     {
