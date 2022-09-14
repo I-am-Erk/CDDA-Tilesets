@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "vp_door_right", "vp_door_vertical_right", "vp_door_ne", "vp_door_se", "vp_door_front_right", "vp_door_rear_right", "vp_door_sliding" ],
+    "fg": [ "vp_door_right", "vp_door_right_rotW", "vp_door_right_rotS", "vp_door_right_rotE" ],
+    "bg": [  ],
+    "rotates": true
+  },
+  {
+    "id": [ "vp_door_left", "vp_door_vertical_left", "vp_door_nw", "vp_door_sw", "vp_door_front_left", "vp_door_rear_left" ],
+    "fg": [ "vp_door_left", "vp_door_left_rotW", "vp_door_left_rotS", "vp_door_left_rotE" ],
+    "bg": [  ],
+    "rotates": true
+  }
+]
