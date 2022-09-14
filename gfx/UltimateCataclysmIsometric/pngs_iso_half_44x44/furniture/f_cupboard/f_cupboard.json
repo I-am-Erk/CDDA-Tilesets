@@ -1,6 +1,7 @@
 {
   "id": "f_cupboard",
   "fg": "f_cupboard_unconnected",
+  "height_3d": 20,
   "multitile": true,
   "additional_tiles": [
     {
