@@ -1,6 +1,6 @@
 [
   {
-    "id": [ "vp_halfboard_cover", "vp_halfboard_cover_left", "vp_halfboard_cover_right" ],
+    "id": [ "vp_halfboard_cover", "vp_halfboard_horizontal_front", "vp_halfboard_cover_left", "vp_halfboard_cover_right" ],
     "fg": [ "vp_halfboard_cover", "vp_halfboard_cover_rotW", "vp_halfboard_cover_rotS", "vp_halfboard_cover_rotE" ],
     "rotates": true,
     "bg": [  ]
@@ -30,25 +30,25 @@
     "bg": [  ]
   },
   {
-    "id": [ "vp_halfboard_vertical_left" ],
+    "id": "vp_halfboard_vertical_left",
     "fg": [ "vp_halfboard_vertical_left", "vp_halfboard_vertical_right_rotE", "vp_halfboard_vertical_right", "vp_halfboard_vertical_left_rotE" ],
     "rotates": true,
     "bg": [  ]
   },
   {
-    "id": [ "vp_halfboard_wheel_left" ],
+    "id": "vp_halfboard_wheel_left",
     "fg": [ "vp_halfboard_wheel_left", "vp_halfboard_wheel_right_rotE", "vp_halfboard_vertical_right", "vp_halfboard_vertical_left_rotE" ],
     "rotates": true,
     "bg": [  ]
   },
   {
-    "id": [ "vp_halfboard_vertical_right" ],
+    "id": "vp_halfboard_vertical_right",
     "fg": [ "vp_halfboard_vertical_right", "vp_halfboard_vertical_left_rotE", "vp_halfboard_vertical_left", "vp_halfboard_vertical_right_rotE" ],
     "rotates": true,
     "bg": [  ]
   },
   {
-    "id": [ "vp_halfboard_wheel_right" ],
+    "id": "vp_halfboard_wheel_right",
     "fg": [ "vp_halfboard_vertical_right", "vp_halfboard_vertical_left_rotE", "vp_halfboard_wheel_left", "vp_halfboard_wheel_right_rotE" ],
     "rotates": true,
     "bg": [  ]
