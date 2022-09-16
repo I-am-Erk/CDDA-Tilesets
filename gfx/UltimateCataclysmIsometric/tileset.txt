@@ -1,4 +1,4 @@
-NAME: UlticaISO
-VIEW: UlticaISO
+NAME: UlticaISO_deprecated
+VIEW: UlticaISO_deprecated
 JSON: tile_config.json
 TILESET: tiles.png
