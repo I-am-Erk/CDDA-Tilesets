@@ -3,11 +3,11 @@
 #
 # This action is triggered by any PR against the master branch as well
 # as on any push to the master branch itself
-# that changes any file in gfx/UltimateCataclysmIsometric folder
-name: UltimateCataclysmIsometric composer
+# that changes any file in gfx/Ultica_iso folder
+name: Ultica_iso composer
 
 env:
-  TILESET: UltimateCataclysmIsometric
+  TILESET: Ultica_iso
   COMPOSE_ARGS: --use-all --obsolete-fillers
   BUILD_DIR: build
 
@@ -16,13 +16,13 @@ on:
     branches:
       - master
     paths:
-      - 'gfx/UltimateCataclysmIsometric/**'
+      - 'gfx/Ultica_iso/**'
       - '.github/workflows/Ultica-iso_ci_build.yml'
   pull_request:
     branches:
       - master
     paths:
-      - 'gfx/UltimateCataclysmIsometric/**'
+      - 'gfx/Ultica_iso/**'
       - '.github/workflows/Ultica-iso_ci_build.yml'
 
 jobs:
