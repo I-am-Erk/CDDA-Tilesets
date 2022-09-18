@@ -5,7 +5,7 @@
     "width": 48,
     "height": 24,
     "retract_dist_min": 2.5,
-    "retract_dist_max": 5.0,
+    "retract_dist_max": 6.0,
     "//": "We assume a base area of 90cm x 90cm."
   },
   {
@@ -44,8 +44,7 @@
       "sprite_width": 48,
       "sprite_height": 96,
       "sprite_offset_y": -72,
-      "sprite_offset_y_retracted": -5,
-      "//2": "Objects height is about 2.1m. Will be retracted."
+      "//2": "Objects height is about 2.1m."
     }
   },
   {
