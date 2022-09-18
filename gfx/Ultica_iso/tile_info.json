@@ -29,7 +29,16 @@
       "sprite_height": 96,
       "sprite_offset_y": -72,
       "sprite_offset_y_retracted": -5,
-      "//2": "Objects height is about 2.5m: walls, windows, doors goes here. Will be retracted."
+      "//2": "Objects height is about 2.1m. Will be retracted."
+    }
+  },
+  {
+    "iso_tall.png": {
+      "sprite_width": 48,
+      "sprite_height": 120,
+      "sprite_offset_y": -96,
+      "sprite_offset_y_retracted": -5,
+      "//2": "Objects height is about 2.8m: walls, windows, doors goes here. Will be retracted."
     }
   },
   {
