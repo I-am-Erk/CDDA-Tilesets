@@ -1,0 +1,13 @@
+{
+  "id": [
+    "overlay_worn_chestwrap",
+    "overlay_worn_chestwrap_leather",
+    "overlay_worn_chestwrap_fur",
+    "overlay_worn_chestwrap_wool"
+  ],
+  "fg": [
+    "overlay_worn_chestwrap"
+  ],
+  "rotates": false,
+  "bg": [ ]
+}

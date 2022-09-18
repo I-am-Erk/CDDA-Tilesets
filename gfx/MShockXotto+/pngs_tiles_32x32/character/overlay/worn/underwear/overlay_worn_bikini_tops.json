@@ -1,0 +1,12 @@
+{
+  "id": [
+    "overlay_worn_bikini_top",
+    "overlay_worn_bikini_top_fur",
+    "overlay_worn_bikini_top_leather"
+  ],
+  "fg": [
+    "overlay_worn_bikini_top"
+  ],
+  "rotates": false,
+  "bg": [ ]
+}
