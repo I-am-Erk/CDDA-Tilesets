@@ -24,6 +24,22 @@
     }
   },
   {
+    "iso_half.png": {
+      "sprite_width": 48,
+      "sprite_height": 48,
+      "sprite_offset_y": -24,
+      "//5": "Object like furniture up to 72cm"
+    }
+  },
+  {
+    "iso_full.png": {
+      "sprite_width": 48,
+      "sprite_height": 72,
+      "sprite_offset_y": -48,
+      "//5": "Object like furniture up to 144cm"
+    }
+  },
+  {
     "iso_high.png": {
       "sprite_width": 48,
       "sprite_height": 96,
