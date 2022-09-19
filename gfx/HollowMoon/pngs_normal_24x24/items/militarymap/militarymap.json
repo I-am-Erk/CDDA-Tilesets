@@ -1,0 +1,46 @@
+[
+  {
+    "id": [
+      "militarymap_season_spring",
+      "roadmap_season_spring",
+      "satellitemap_season_spring",
+      "subwaymap_season_spring",
+      "survivormap_season_spring"
+    ],
+    "fg": [ "militarymap_season_spring" ],
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "militarymap_season_summer",
+      "roadmap_season_summer",
+      "satellitemap_season_summer",
+      "subwaymap_season_summer",
+      "survivormap_season_summer"
+    ],
+    "fg": [ "militarymap_season_summer" ],
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "militarymap_season_autumn",
+      "roadmap_season_autumn",
+      "satellitemap_season_autumn",
+      "subwaymap_season_autumn",
+      "survivormap_season_autumn"
+    ],
+    "fg": [ "militarymap_season_autumn" ],
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "militarymap_season_winter",
+      "roadmap_season_winter",
+      "satellitemap_season_winter",
+      "subwaymap_season_winter",
+      "survivormap_season_winter"
+    ],
+    "fg": [ "militarymap_season_winter" ],
+    "bg": [  ]
+  }
+]
