@@ -1,0 +1,6 @@
+[
+    { "id": ["broken_dispatch_season_spring", "broken_dispatch_military_season_spring"], "fg": "broken_dispatch_season_spring", "bg": [], "rotates": false },
+	{ "id": ["broken_dispatch_season_autumn", "broken_dispatch_military_season_autumn"], "fg": "broken_dispatch_season_autumn", "bg": [], "rotates": false },
+	{ "id": ["broken_dispatch_season_winter", "broken_dispatch_military_season_winter"], "fg": "broken_dispatch_season_winter", "bg": [], "rotates": false },
+	{ "id": ["broken_dispatch_season_summer", "broken_dispatch_military_season_summer"], "fg": "broken_dispatch_season_summer", "bg": [], "rotates": false }
+]
