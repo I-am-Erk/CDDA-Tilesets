@@ -5,7 +5,7 @@
     "width": 48,
     "height": 24,
     "retract_dist_min": 2.5,
-    "retract_dist_max": 5.0,
+    "retract_dist_max": 6.0,
     "//": "We assume a base area of 90cm x 90cm."
   },
   {
@@ -24,12 +24,36 @@
     }
   },
   {
+    "iso_half.png": {
+      "sprite_width": 48,
+      "sprite_height": 48,
+      "sprite_offset_y": -24,
+      "//5": "Object like furniture up to 72cm"
+    }
+  },
+  {
+    "iso_full.png": {
+      "sprite_width": 48,
+      "sprite_height": 72,
+      "sprite_offset_y": -48,
+      "//5": "Object like furniture up to 144cm"
+    }
+  },
+  {
     "iso_high.png": {
       "sprite_width": 48,
       "sprite_height": 96,
       "sprite_offset_y": -72,
-      "sprite_offset_y_retracted": -5,
-      "//2": "Objects height is about 2.1m. Will be retracted."
+      "//2": "Objects height is about 2.1m."
+    }
+  },
+  {
+    "iso_wide_high.png": {
+      "sprite_width": 96,
+      "sprite_height": 96,
+      "sprite_offset_x": -24,
+      "sprite_offset_y": -72,
+      "//2": "Objects height is about 2.1m, with extra width"
     }
   },
   {
