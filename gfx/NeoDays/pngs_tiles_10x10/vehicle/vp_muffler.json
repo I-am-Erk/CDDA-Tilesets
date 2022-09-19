@@ -1,7 +1,7 @@
 {
   "id": "vp_muffler",
   "fg": "vp_muffler",
-  "//": "change to use item sprite instead?"
+  "//": "change to use item sprite instead?",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
