@@ -1,0 +1,12 @@
+{
+  "id": "vp_headlight_reinforced",
+  "fg": "vp_headlight_reinforced",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_gray"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": [
+    "vp_horn_car",
+    "vp_horn_big",
+    "vp_beeper",
+    "vp_chimes"
+  ],
+  "fg": "vp_horn_car",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_gray"
+    }
+  ]
+}
