@@ -1,7 +1,7 @@
 {
-  "id": "vp_hand_paddles",
-  "fg": "vp_hand_paddles",
-  "rotates": false,
+  "id": "vp_wheel_wood_b",
+  "fg": "vp_wheel_wood_b",
+  "rotates": true,
   "multitile": true,
   "additional_tiles": [
     {
