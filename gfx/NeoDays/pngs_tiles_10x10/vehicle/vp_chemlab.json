@@ -1,6 +1,6 @@
 {
-  "id": "vp_veh_forge",
-  "fg": "vp_veh_forge",
+  "id": "vp_chemlab",
+  "fg": "vp_chemlab",
   "rotates": false,
   "multitile": true,
   "additional_tiles": [
