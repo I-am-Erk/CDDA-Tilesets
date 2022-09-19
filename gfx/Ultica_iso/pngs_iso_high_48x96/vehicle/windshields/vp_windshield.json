@@ -8,7 +8,12 @@
       "vp_windshield_horizontal_rotE"
     ],
     "bg": [  ],
-
+    "rotates": true
+  },
+  {
+    "id": [ "vp_windshield_horizontal_rear" ],
+    "fg": [ "vp_windshield_rear", "vp_windshield_rear_rotW", "vp_windshield_rear_rotS", "vp_windshield_rear_rotE" ],
+    "bg": [  ],
     "rotates": true
   },
   {
