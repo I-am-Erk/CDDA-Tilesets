@@ -48,6 +48,15 @@
     }
   },
   {
+    "iso_wide_high.png": {
+      "sprite_width": 96,
+      "sprite_height": 96,
+      "sprite_offset_x": -24,
+      "sprite_offset_y": -72,
+      "//2": "Objects height is about 2.1m, with extra width"
+    }
+  },
+  {
     "iso_tall.png": {
       "sprite_width": 48,
       "sprite_height": 120,
