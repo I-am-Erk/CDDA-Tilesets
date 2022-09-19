@@ -1,6 +1,6 @@
 [
-    { "id": ["welder_season_spring", "welding_rod_alloy_season_spring", "welding_rod_steel_season_spring", "welder_crude_season_spring", "welding_rod_alloy_season_spring"], "fg": "welder_season_spring", "bg": [], "rotates": false },
-	{ "id": ["welder_season_autumn", "welding_rod_alloy_season_autumn", "welding_rod_steel_season_autumn", "welder_crude_season_autumn", "welding_rod_alloy_season_autumn"], "fg": "welder_season_autumn", "bg": [], "rotates": false },
-	{ "id": ["welder_season_winter", "welding_rod_alloy_season_winter", "welding_rod_steel_season_winter", "welder_crude_season_winter", "welding_rod_alloy_season_winter"], "fg": "welder_season_winter", "bg": [], "rotates": false },
-	{ "id": ["welder_season_summer", "welding_rod_alloy_season_summer", "welding_rod_steel_season_summer", "welder_crude_season_summer", "welding_rod_alloy_season_summer"], "fg": "welder_season_summer", "bg": [], "rotates": false }
+    { "id": ["welder_season_spring", "welding_rod_alloy_season_spring", "welding_rod_steel_season_spring", "welder_crude_season_spring"], "fg": "welder_season_spring", "bg": [], "rotates": false },
+	{ "id": ["welder_season_autumn", "welding_rod_alloy_season_autumn", "welding_rod_steel_season_autumn", "welder_crude_season_autumn"], "fg": "welder_season_autumn", "bg": [], "rotates": false },
+	{ "id": ["welder_season_winter", "welding_rod_alloy_season_winter", "welding_rod_steel_season_winter", "welder_crude_season_winter"], "fg": "welder_season_winter", "bg": [], "rotates": false },
+	{ "id": ["welder_season_summer", "welding_rod_alloy_season_summer", "welding_rod_steel_season_summer", "welder_crude_season_summer"], "fg": "welder_season_summer", "bg": [], "rotates": false }
 ]
