@@ -1,1 +1,15 @@
-{"id": ["vp_cargo_space", "vp_cargo_space_external"], "fg": ["2328_vp_cargo_space_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["vp_broken_gray"], "bg": []}], "bg": []}
+{
+  "id": [
+    "vp_cargo_space",
+    "vp_cargo_space_external"
+  ],
+  "fg": "vp_cargo_space",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_gray"
+    }
+  ]
+}
