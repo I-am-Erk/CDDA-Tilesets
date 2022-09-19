@@ -52,5 +52,16 @@
     "fg": [ "vp_halfboard_vertical_right", "vp_halfboard_vertical_left_rotE", "vp_halfboard_wheel_left", "vp_halfboard_wheel_right_rotE" ],
     "rotates": true,
     "bg": [  ]
+  },
+  {
+    "id": "vp_halfboard_horizontal_rear",
+    "fg": [
+      "vp_halfboard_horizontal_rear",
+      "vp_halfboard_horizontal_rear_rotW",
+      "vp_halfboard_horizontal_rear_rotS",
+      "vp_halfboard_horizontal_rear_rotE"
+    ],
+    "rotates": true,
+    "bg": [  ]
   }
 ]
