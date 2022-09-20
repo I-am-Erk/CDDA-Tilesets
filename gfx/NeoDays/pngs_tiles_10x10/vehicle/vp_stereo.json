@@ -1,0 +1,12 @@
+{
+  "id": "vp_stereo",
+  "fg": "vp_stereo",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_machine_broken"
+    }
+  ]
+}
