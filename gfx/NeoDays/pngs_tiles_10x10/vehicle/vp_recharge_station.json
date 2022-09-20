@@ -1,0 +1,12 @@
+{
+  "id": "vp_recharge_station",
+  "fg": "vp_recharge_station",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_machine_broken"
+    }
+  ]
+}
