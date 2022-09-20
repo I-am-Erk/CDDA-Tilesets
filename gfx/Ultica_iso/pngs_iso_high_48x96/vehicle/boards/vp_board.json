@@ -1,24 +1,24 @@
 [
   {
-    "id": "vp_board_se",
+    "id": [ "vp_board_se", "vp_board_se_edge" ],
     "fg": [ "vp_board_se", "vp_board_se_rotW", "vp_board_vertical_left", "vp_board_se_rotE" ],
     "rotates": true,
     "bg": [  ]
   },
   {
-    "id": "vp_board_sw",
+    "id": [ "vp_board_sw", "vp_board_sw_edge" ],
     "fg": [ "vp_board_sw", "vp_board_vertical_right_rotE", "vp_board_sw_rotS", "vp_board_sw_rotE" ],
     "rotates": true,
     "bg": [  ]
   },
   {
-    "id": "vp_board_nw",
+    "id": [ "vp_board_nw", "vp_board_nw_edge" ],
     "fg": [ "vp_board_vertical_left", "vp_board_se_rotE", "vp_board_se", "vp_board_se_rotW" ],
     "rotates": true,
     "bg": [  ]
   },
   {
-    "id": "vp_board_ne",
+    "id": [ "vp_board_ne", "vp_board_ne_edge" ],
     "fg": [ "vp_board_sw_rotS", "vp_board_sw_rotE", "vp_board_sw", "vp_board_vertical_right_rotE" ],
     "rotates": true,
     "bg": [  ]
