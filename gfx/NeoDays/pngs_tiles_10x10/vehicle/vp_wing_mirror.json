@@ -1,0 +1,15 @@
+{
+  "id": [
+    "vp_inboard_mirror",
+    "vp_wing_mirror"
+  ],
+  "fg": "vp_wing_mirror",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_windshield_broken"
+    }
+  ]
+}
