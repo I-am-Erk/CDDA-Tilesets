@@ -66,6 +66,22 @@
     }
   },
   {
+    "iso_large.png": { 
+      "sprite_width": 64,
+      "sprite_height": 64,
+      "sprite_offset_x": -8,
+      "sprite_offset_y": -40
+    }
+  },
+  {
+    "iso_giant.png": { 
+      "sprite_width": 96,
+      "sprite_height": 96,
+      "sprite_offset_x": -24,
+      "sprite_offset_y": -72
+    }
+  },
+  {
     "normal.png": { 
       "sprite_width": 32,
       "sprite_height": 32,
@@ -121,6 +137,33 @@
       "sprite_offset_x": -8,
       "sprite_offset_y": -72,
       "pixelscale": 2,
+      "filler": true
+    }
+  },
+  {
+    "large.png": { 
+      "sprite_width": 64,
+      "sprite_height": 64,
+      "sprite_offset_x": -8,
+      "sprite_offset_y": -40,
+      "filler": true
+    }
+  },
+  {
+    "giant.png": { 
+      "sprite_width": 96,
+      "sprite_height": 96,
+      "sprite_offset_x": -24,
+      "sprite_offset_y": -72,
+      "filler": true
+    }
+  },
+  {
+    "fillergiant.png": { 
+      "sprite_width": 96,
+      "sprite_height": 96,
+      "sprite_offset_x": -24,
+      "sprite_offset_y": -72,
       "filler": true
     }
   },
