@@ -1,13 +1,13 @@
 {
-  "id": "vp_door_motor",
-  "fg": "vp_door_motor",
+  "id": "vp_autoclave",
+  "fg": "vp_autoclave",
   "bg": "black_pure",
-  "rotates": true,
+  "rotates": false,
   "multitile": true,
   "additional_tiles": [
     {
       "id": "broken",
-      "fg": "vp_broken_gray"
+      "fg": "vp_machine_broken"
     }
   ]
 }

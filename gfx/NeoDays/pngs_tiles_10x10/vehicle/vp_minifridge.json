@@ -1,6 +1,7 @@
 {
   "id": "vp_minifridge",
   "fg": "vp_minifridge",
+  "bg": "black_pure",
   "rotates": false,
   "multitile": true,
   "additional_tiles": [

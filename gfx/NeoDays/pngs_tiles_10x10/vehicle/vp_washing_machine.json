@@ -1,6 +1,7 @@
 {
   "id": "vp_washing_machine",
   "fg": "vp_washing_machine",
+  "bg": "black_pure",
   "//": "change this sprite to full size washing machine, and only use this sprite for the item?",
   "rotates": false,
   "multitile": true,
