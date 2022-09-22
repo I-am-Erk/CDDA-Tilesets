@@ -1,15 +1,15 @@
 {
   "id": [
-    "vp_wheel_wide",
-    "vp_wheel_wide_steerable"
+    "vp_jumper_cable_heavy",
+    "vp_jumper_cable"
   ],
-  "fg": "wheel_wide",
+  "fg": "vp_jumper_cable",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
     {
       "id": "broken",
-      "fg": "vp_wheel_broken"
+      "fg": "vp_broken_gray"
     }
   ]
 }

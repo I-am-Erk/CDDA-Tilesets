@@ -1,10 +1,7 @@
 {
-  "id": [
-    "vp_cargo_space",
-    "vp_cargo_space_external"
-  ],
-  "fg": "vp_cargo_space",
-  "rotates": true,
+  "id": "vp_tracker",
+  "fg": "vp_tracker",
+  "rotates": false,
   "multitile": true,
   "additional_tiles": [
     {

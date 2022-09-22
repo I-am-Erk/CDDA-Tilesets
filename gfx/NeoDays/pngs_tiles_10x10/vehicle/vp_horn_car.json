@@ -1,9 +1,11 @@
 {
   "id": [
-    "vp_cargo_space",
-    "vp_cargo_space_external"
+    "vp_horn_car",
+    "vp_horn_big",
+    "vp_beeper",
+    "vp_chimes"
   ],
-  "fg": "vp_cargo_space",
+  "fg": "vp_horn_car",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [

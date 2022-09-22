@@ -1,6 +1,6 @@
 {
-  "id": "vp_veh_forge",
-  "fg": "vp_veh_forge",
+  "id": "vp_kitchen_unit",
+  "fg": "vp_kitchen_unit",
   "rotates": false,
   "multitile": true,
   "additional_tiles": [

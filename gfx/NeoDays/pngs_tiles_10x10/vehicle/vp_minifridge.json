@@ -1,6 +1,6 @@
 {
-  "id": "vp_veh_forge",
-  "fg": "vp_veh_forge",
+  "id": "vp_minifridge",
+  "fg": "vp_minifridge",
   "rotates": false,
   "multitile": true,
   "additional_tiles": [

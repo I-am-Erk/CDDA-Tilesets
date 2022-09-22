@@ -1,6 +1,6 @@
 {
-  "id": "vp_seatbelt_heavyduty",
-  "fg": "vp_seatbelt_heavyduty",
+  "id": "vp_seatbelt",
+  "fg": "vp_muffler",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [

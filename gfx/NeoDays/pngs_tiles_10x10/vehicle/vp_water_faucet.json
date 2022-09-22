@@ -1,6 +1,6 @@
 {
-  "id": "vp_veh_forge",
-  "fg": "vp_veh_forge",
+  "id": "vp_water_faucet",
+  "fg": "vp_water_faucet",
   "rotates": false,
   "multitile": true,
   "additional_tiles": [

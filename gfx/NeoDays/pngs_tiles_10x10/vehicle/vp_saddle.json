@@ -1,9 +1,11 @@
 {
   "id": [
-    "vp_cargo_space",
-    "vp_cargo_space_external"
+    "vp_saddle",
+    "vp_saddle_motor",
+    "vp_saddle_pedal",
+    "vp_saddle_scooter"
   ],
-  "fg": "vp_cargo_space",
+  "fg": "vp_saddle",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [

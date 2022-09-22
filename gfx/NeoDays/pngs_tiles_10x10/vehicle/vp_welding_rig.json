@@ -1,6 +1,6 @@
 {
-  "id": "vp_veh_forge",
-  "fg": "vp_veh_forge",
+  "id": "vp_welding_rig",
+  "fg": "vp_welding_rig",
   "rotates": false,
   "multitile": true,
   "additional_tiles": [
