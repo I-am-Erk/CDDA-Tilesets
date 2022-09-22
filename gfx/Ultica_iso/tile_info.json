@@ -48,6 +48,14 @@
     }
   },
   {
+    "iso_flat_on_high.png": {
+      "sprite_width": 48,
+      "sprite_height": 36,
+      "sprite_offset_y": -84,
+      "//5": "Flat objects but some extensions allowed, on top of high objects (2.1m)"
+    }
+  },
+  {
     "iso_wide_high.png": {
       "sprite_width": 96,
       "sprite_height": 96,
