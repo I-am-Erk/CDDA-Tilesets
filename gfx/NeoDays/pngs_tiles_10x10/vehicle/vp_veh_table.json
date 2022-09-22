@@ -4,6 +4,7 @@
     "vp_veh_table_wood"
   ],
   "fg": "vp_veh_table",
+  "bg": "black_pure",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
