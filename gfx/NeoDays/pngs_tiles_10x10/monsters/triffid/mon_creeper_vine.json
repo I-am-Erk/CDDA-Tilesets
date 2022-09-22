@@ -1,0 +1,33 @@
+{
+  "id": "mon_creeper_vine",
+  "fg": "mon_creeper_vine_0",
+  "rotates": false,
+  "//": "below doesnt work (as intended? it uses '_2')",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "mon_creeper_vine_1"
+    },
+    {
+      "id": "corner",
+      "fg": "mon_creeper_vine_2"
+    },
+    {
+      "id": "edge",
+      "fg": "mon_creeper_vine_3"
+    },
+    {
+      "id": "end_piece",
+      "fg": "mon_creeper_vine_4"
+    },
+    {
+      "id": "t_connection",
+      "fg": "mon_creeper_vine_5"
+    },
+    {
+      "id": "unconnected",
+      "fg": "mon_creeper_vine_0"
+    }
+  ]
+}
