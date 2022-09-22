@@ -2,10 +2,10 @@
   "id": [
     "vp_seat_wood",
     "vp_seat_leather",
-    "vp_reclining_seat_leather",
-    "seat_leather"
+    "vp_reclining_seat_leather"
   ],
   "fg": "vp_seat_brown",
+  "bg": "black_pure",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
