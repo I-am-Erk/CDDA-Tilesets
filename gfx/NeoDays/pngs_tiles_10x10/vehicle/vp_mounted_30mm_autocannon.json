@@ -5,6 +5,7 @@
     "vp_mounted_rm614"
   ],
   "fg": "vp_mounted_30mm_autocannon",
+  "bg": "black_pure",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [

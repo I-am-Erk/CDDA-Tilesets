@@ -1,6 +1,7 @@
 {
   "id": "vp_bfg_mounted",
   "fg": "vp_bfg_mounted",
+  "bg": "black_pure",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
