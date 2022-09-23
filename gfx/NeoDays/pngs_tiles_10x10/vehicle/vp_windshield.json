@@ -9,6 +9,7 @@
     "vp_windshield_vertical_2_right"
   ],
   "fg": "vp_windshield",
+  "bg": "black_pure",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
