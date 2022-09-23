@@ -5,6 +5,7 @@
     "vp_floodlight"
   ],
   "fg": "vp_headlight",
+  "bg": "black_pure",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
