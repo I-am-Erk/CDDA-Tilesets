@@ -6,6 +6,6 @@
     "headlight_reinforced",
     "floodlight"
   ],
-  "fg": "car_headlight",
+  "fg": "vp_headlight",
   "rotates": true
 }
