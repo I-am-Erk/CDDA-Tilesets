@@ -1,0 +1,6 @@
+{
+  "id": "f_chair",
+  "height_3d": 16,
+  "rotates": true,
+  "fg": ["f_chair_faceS", "f_chair_faceW", "f_chair_faceN", "f_chair_faceE"]
+}
