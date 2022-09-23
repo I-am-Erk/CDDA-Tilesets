@@ -1,1 +1,0 @@
-{"id": "vp_atomic_lamp", "fg": ["atomic_lamp"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["vp_broken_gray"], "bg": []}], "bg": []}
