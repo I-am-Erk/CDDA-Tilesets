@@ -1,7 +1,13 @@
 {
-  "id": [
-    "vp_fridge_cargo",
-    "fridge_cargo"
-  ],
-  "fg": "vp_fridge_cargo"
+  "id": "vp_fridge_cargo",
+  "fg": "vp_fridge_cargo",
+  "bg": "black_pure",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_machine_broken"
+    }
+  ]
 }
