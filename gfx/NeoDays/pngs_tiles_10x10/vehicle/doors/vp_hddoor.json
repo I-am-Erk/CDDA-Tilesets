@@ -6,6 +6,7 @@
     "vp_hdhatch_opaque"
   ],
   "fg": "vp_hddoor_closed",
+  "bg": "black_pure",
   "rotates": false,
   "multitile": true,
   "additional_tiles": [
