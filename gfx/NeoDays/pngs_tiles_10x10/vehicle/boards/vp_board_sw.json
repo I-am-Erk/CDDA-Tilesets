@@ -9,6 +9,7 @@
     "vp_halfboard_hatch_wheel_left"
   ],
   "fg": "vp_board_sw",
+  "bg": "black_pure",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [

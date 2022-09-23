@@ -26,6 +26,7 @@
     "vp_board_ne_edge"
   ],
   "fg": "vp_board_vertical",
+  "bg": "black_pure",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
