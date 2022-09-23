@@ -8,7 +8,8 @@
   "additional_tiles": [
     {
       "id": "broken",
-      "fg": "vp_machine_broken"
+      "fg": "vp_machine_broken",
+      "bg": "black_pure"
     }
   ]
 }

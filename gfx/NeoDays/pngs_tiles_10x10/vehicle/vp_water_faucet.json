@@ -1,12 +1,14 @@
 {
   "id": "vp_water_faucet",
   "fg": "vp_water_faucet",
+  "bg": "black_pure",
   "rotates": false,
   "multitile": true,
   "additional_tiles": [
     {
       "id": "broken",
-      "fg": "vp_machine_broken"
+      "fg": "vp_machine_broken",
+      "bg": "black_pure"
     }
   ]
 }

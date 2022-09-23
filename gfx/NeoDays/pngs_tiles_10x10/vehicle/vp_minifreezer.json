@@ -1,6 +1,6 @@
 {
-  "id": "vp_autoclave",
-  "fg": "vp_autoclave",
+  "id": "vp_minifreezer",
+  "fg": "minifreezer",
   "bg": "black_pure",
   "rotates": false,
   "multitile": true,
