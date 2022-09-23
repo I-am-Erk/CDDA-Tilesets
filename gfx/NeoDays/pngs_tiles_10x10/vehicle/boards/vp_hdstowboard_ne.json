@@ -1,6 +1,7 @@
 {
   "id": "vp_hdstowboard_ne",
   "fg": "vp_hdstowboard_ne",
+  "bg": "black_pure",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [

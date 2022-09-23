@@ -5,6 +5,7 @@
     "vp_stowboard_horizontal_rear"
   ],
   "fg": "vp_stowboard_horizontal",
+  "bg": "black_pure",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [

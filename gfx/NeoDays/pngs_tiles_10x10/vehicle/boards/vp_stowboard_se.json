@@ -1,6 +1,7 @@
 {
   "id": "vp_stowboard_se",
   "fg": "vp_stowboard_se",
+  "bg": "black_pure",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
