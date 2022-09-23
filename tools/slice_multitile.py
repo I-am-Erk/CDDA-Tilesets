@@ -211,48 +211,91 @@ def main(args):
 
         if args.no_json:
             return
-
-        json_content = {  # double quotes here to make copying easier
-            "id": args.tile,
-            "fg": f"{args.tile}_unconnected",
-            "multitile": True,
-            "additional_tiles": [
-                {
-                    "id": "center",
-                    "fg": f"{args.tile}_center",
-                }, {
-                    "id": "corner",
-                    "fg": [
-                        f"{args.tile}_corner_nw",
-                        f"{args.tile}_corner_sw",
-                        f"{args.tile}_corner_se",
-                        f"{args.tile}_corner_ne"],
-                }, {
-                    "id": "t_connection",
-                    "fg": [
-                        f"{args.tile}_t_connection_n",
-                        f"{args.tile}_t_connection_w",
-                        f"{args.tile}_t_connection_s",
-                        f"{args.tile}_t_connection_e"],
-                }, {
-                    "id": "edge",
-                    "fg": [
-                        f"{args.tile}_edge_ns",
-                        f"{args.tile}_edge_ew"],
-                }, {
-                    "id": "end_piece",
-                    "fg": [
-                        f"{args.tile}_end_piece_n",
-                        f"{args.tile}_end_piece_w",
-                        f"{args.tile}_end_piece_s",
-                        f"{args.tile}_end_piece_e"],
-                }, {
-                    "id": "unconnected",
-                    # two copies because multitiles are assumed to rotate
-                    "fg": [f"{args.tile}_unconnected", f"{args.tile}_unconnected"],
-                }
-            ]
-        }
+        
+        if len(slices) != 25:
+            json_content = {  # double quotes here to make copying easier
+                "id": args.tile,
+                "fg": f"{args.tile}_unconnected",
+                "multitile": True,
+                "additional_tiles": [
+                    {
+                        "id": "center",
+                        "fg": f"{args.tile}_center",
+                    }, {
+                        "id": "corner",
+                        "fg": [
+                            f"{args.tile}_corner_nw",
+                            f"{args.tile}_corner_sw",
+                            f"{args.tile}_corner_se",
+                            f"{args.tile}_corner_ne"],
+                    }, {
+                        "id": "t_connection",
+                        "fg": [
+                            f"{args.tile}_t_connection_n",
+                            f"{args.tile}_t_connection_w",
+                            f"{args.tile}_t_connection_s",
+                            f"{args.tile}_t_connection_e"],
+                    }, {
+                        "id": "edge",
+                        "fg": [
+                            f"{args.tile}_edge_ns",
+                            f"{args.tile}_edge_ew"],
+                    }, {
+                        "id": "end_piece",
+                        "fg": [
+                            f"{args.tile}_end_piece_n",
+                            f"{args.tile}_end_piece_w",
+                            f"{args.tile}_end_piece_s",
+                            f"{args.tile}_end_piece_e"],
+                    }, {
+                        "id": "unconnected",
+                        # two copies because multitiles are assumed to rotate
+                        "fg": [f"{args.tile}_unconnected", f"{args.tile}_unconnected"],
+                    }
+                ]
+            }
+        else:
+            json_content = {  # double quotes here to make copying easier
+                "id": args.tile,
+                "fg": f"{args.tile}_unconnected_faceS",
+                "multitile": True,
+                "additional_tiles": [
+                    {
+                        "id": "center",
+                        "fg": f"{args.tile}_center",
+                    }, {
+                        "id": "corner",
+                        "fg": [
+                            f"{args.tile}_corner_nw",
+                            f"{args.tile}_corner_sw",
+                            f"{args.tile}_corner_se",
+                            f"{args.tile}_corner_ne"],
+                    }, {
+                        "id": "t_connection",
+                        "fg": [
+                            f"{args.tile}_t_connection_n",
+                            f"{args.tile}_t_connection_w",
+                            f"{args.tile}_t_connection_s",
+                            f"{args.tile}_t_connection_e"],
+                    }, {
+                        "id": "edge",
+                        "fg": [
+                            f"{args.tile}_edge_ns_faceW", f"{args.tile}_edge_ew_faceS",
+                            f"{args.tile}_edge_ns_faceE", f"{args.tile}_edge_ew_faceN"],
+                    }, {
+                        "id": "end_piece",
+                        "fg": [
+                            f"{args.tile}_end_piece_n_faceW", f"{args.tile}_end_piece_w_faceS",
+                            f"{args.tile}_end_piece_s_faceW", f"{args.tile}_end_piece_e_faceS",
+                            f"{args.tile}_end_piece_n_faceE", f"{args.tile}_end_piece_w_faceN",
+                            f"{args.tile}_end_piece_s_faceE", f"{args.tile}_end_piece_e_faceN"],
+                    }, {
+                        "id": "unconnected",
+                        "fg": [f"{args.tile}_unconnected_faceN", f"{args.tile}_unconnected_faceE",
+                               f"{args.tile}_unconnected_faceS", f"{args.tile}_unconnected_faceW"],
+                    }
+                ]
+            }
 
         if args.background is not None:
             json_content['bg'] = args.background
