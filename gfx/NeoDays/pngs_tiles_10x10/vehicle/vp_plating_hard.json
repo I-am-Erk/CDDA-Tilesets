@@ -1,5 +1,6 @@
 {
   "id": "vp_plating_hard",
   "fg": "vp_plating_hard",
+  "bg": "black_pure",
   "rotates": true
 }

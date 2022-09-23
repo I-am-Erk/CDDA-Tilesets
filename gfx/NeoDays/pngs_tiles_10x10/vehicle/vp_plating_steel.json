@@ -4,5 +4,6 @@
     "vp_plating_chitin"
   ],
   "fg": "vp_plating_steel",
+  "bg": "black_pure",
   "rotates": true
 }
