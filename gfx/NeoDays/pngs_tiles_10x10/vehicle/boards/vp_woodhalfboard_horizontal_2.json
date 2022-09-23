@@ -5,6 +5,7 @@
     "vp_woodhalfboard_horizontal_2_rear"
   ],
   "fg": "vp_woodhalfboard_horizontal_2",
+  "bg": "black_pure",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
