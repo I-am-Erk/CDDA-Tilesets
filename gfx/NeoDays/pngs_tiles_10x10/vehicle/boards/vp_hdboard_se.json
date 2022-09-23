@@ -4,6 +4,7 @@
     "vp_hdhalfboard_se"
   ],
   "fg": "vp_hdboard_se",
+  "bg": "black_pure",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
