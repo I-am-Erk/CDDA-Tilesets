@@ -1,12 +1,14 @@
 {
-  "id": "vp_seatbelt_heavyduty",
-  "fg": "vp_seatbelt_heavyduty",
+  "id": "vp_cargo_lock",
+  "fg": "vp_cargo_lock",
+  "bg": "black_pure",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
     {
       "id": "broken",
-      "fg": "vp_seatbelt_broken"
+      "fg": "vp_broken_gray"
     }
   ]
+
 }

@@ -1,15 +1,27 @@
-{
-  "id": [
-    "vp_inboard_mirror",
-    "vp_wing_mirror"
-  ],
-  "fg": "vp_wing_mirror",
-  "rotates": true,
-  "multitile": true,
-  "additional_tiles": [
-    {
-      "id": "broken",
-      "fg": "vp_windshield_broken"
-    }
-  ]
-}
+[
+  {
+    "id": "vp_inboard_mirror",
+    "fg": "vp_wing_mirror",
+    "bg": "black_pure",
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "vp_windshield_broken"
+      }
+    ]
+  },
+  {
+    "id": "vp_wing_mirror",
+    "fg": "vp_wing_mirror",
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "vp_windshield_broken"
+      }
+    ]
+  }
+]

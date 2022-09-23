@@ -1,14 +1,13 @@
 {
-  "id": "vp_muffler",
-  "fg": "vp_muffler",
+  "id": "vp_seatbelt_heavyduty",
+  "fg": "vp_seatbelt_heavyduty",
   "bg": "black_pure",
-  "//": "change to use item sprite instead?",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
     {
       "id": "broken",
-      "fg": ["vp_broken_gray"]
+      "fg": "vp_seatbelt_broken"
     }
   ]
 }
