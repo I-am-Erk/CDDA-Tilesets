@@ -7,5 +7,6 @@
     "floodlight"
   ],
   "fg": "vp_headlight",
+  "//": "vehicle part",
   "rotates": true
 }

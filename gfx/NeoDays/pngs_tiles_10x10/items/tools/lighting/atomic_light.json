@@ -1,7 +1,5 @@
 {
-  "id": [
-    "atomic_light"
-  ],
+  "id": "atomic_light",
   "fg": "atomic_light",
-  "//": "this file is necessary for the item to display due to '../vehicle/vp_atomic_light_0.json'"
+  "//": "vehicle part"
 }
