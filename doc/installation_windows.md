@@ -29,15 +29,15 @@ This section describes the most easy drag & drop approach.
 
 In `CDDA-Tilesets`, go into folder `tools`.
 
-1. Copy `set_game_path.cmd` into the game's folder, and double-click it.
+1. Copy `set_game_path.cmd` into the game's folder, and double-click it.  
 OR: Drag & drop the game folder onto `set_game_path.cmd`.
    > Note: This sets the environmental variable `CDDA_PATH`.
 
-2. Copy `set_vips_path.cmd` into the vips folder (e.g. `C:\vips-dev-x.xx`), and double-click it.
+2. Copy `set_vips_path.cmd` into the vips folder (e.g. `C:\vips-dev-x.xx`), and double-click it.  
 OR: Drag & drop the vips folder onto `set_vips_path.cmd`.
    > Note: This sets the environmental variable `LIBVIPS_PATH`.
 
-3. Optional: To set a tileset to compose permanently, double-click `set_tileset.cmd` and select the desired tileset.
+3. Optional: To set a tileset to compose permanently, double-click `set_tileset.cmd` and select the desired tileset.  
 If not set permanently, the update script will allow for interactive selection of a tileset.
    > Note: This sets the environmental variable `CDDA_TILESET`.
 
