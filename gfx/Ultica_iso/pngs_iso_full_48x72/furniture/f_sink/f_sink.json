@@ -51,10 +51,10 @@
     {
       "id": "unconnected",
       "fg": [
-        "f_sink_unconnected_faceN",
-        "f_sink_unconnected_faceE",
         "f_sink_unconnected_faceS",
-        "f_sink_unconnected_faceW"
+        "f_sink_unconnected_faceW",
+        "f_sink_unconnected_faceN",
+        "f_sink_unconnected_faceE"
       ]
     }
   ]

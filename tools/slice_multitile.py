@@ -291,8 +291,8 @@ def main(args):
                             f"{args.tile}_end_piece_s_faceE", f"{args.tile}_end_piece_e_faceN"],
                     }, {
                         "id": "unconnected",
-                        "fg": [f"{args.tile}_unconnected_faceN", f"{args.tile}_unconnected_faceE",
-                               f"{args.tile}_unconnected_faceS", f"{args.tile}_unconnected_faceW"],
+                        "fg": [f"{args.tile}_unconnected_faceS", f"{args.tile}_unconnected_faceW",
+                               f"{args.tile}_unconnected_faceN", f"{args.tile}_unconnected_faceE"],
                     }
                 ]
             }

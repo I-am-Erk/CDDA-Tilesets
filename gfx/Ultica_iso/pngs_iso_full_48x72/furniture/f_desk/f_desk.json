@@ -51,10 +51,10 @@
     {
       "id": "unconnected",
       "fg": [
-        "f_desk_unconnected_faceN",
-        "f_desk_unconnected_faceE",
         "f_desk_unconnected_faceS",
-        "f_desk_unconnected_faceW"
+        "f_desk_unconnected_faceW",
+        "f_desk_unconnected_faceN",
+        "f_desk_unconnected_faceE"
       ]
     }
   ]
