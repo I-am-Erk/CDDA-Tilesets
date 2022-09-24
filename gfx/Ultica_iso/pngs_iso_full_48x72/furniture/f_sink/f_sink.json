@@ -1,6 +1,6 @@
 {
   "id": "f_sink",
-  "fg": "f_sink_unconnected",
+  "fg": "f_sink_unconnected_faceS",
   "height_3d": 30,
   "multitile": true,
   "additional_tiles": [
@@ -29,24 +29,32 @@
     {
       "id": "edge",
       "fg": [
-        "f_sink_edge_ns",
-        "f_sink_edge_ew"
+        "f_sink_edge_ns_faceW",
+        "f_sink_edge_ew_faceS",
+        "f_sink_edge_ns_faceE",
+        "f_sink_edge_ew_faceN"
       ]
     },
     {
       "id": "end_piece",
       "fg": [
-        "f_sink_end_piece_n",
-        "f_sink_end_piece_w",
-        "f_sink_end_piece_s",
-        "f_sink_end_piece_e"
+        "f_sink_end_piece_n_faceW",
+        "f_sink_end_piece_w_faceS",
+        "f_sink_end_piece_s_faceW",
+        "f_sink_end_piece_e_faceS",
+        "f_sink_end_piece_n_faceE",
+        "f_sink_end_piece_w_faceN",
+        "f_sink_end_piece_s_faceE",
+        "f_sink_end_piece_e_faceN"
       ]
     },
     {
       "id": "unconnected",
       "fg": [
-        "f_sink_unconnected",
-        "f_sink_unconnected"
+        "f_sink_unconnected_faceN",
+        "f_sink_unconnected_faceE",
+        "f_sink_unconnected_faceS",
+        "f_sink_unconnected_faceW"
       ]
     }
   ]
