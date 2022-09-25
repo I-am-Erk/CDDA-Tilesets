@@ -55,7 +55,7 @@ jobs:
           python3 "$BUILD_DIR/compose.py" --feedback CONCISE --loglevel INFO $COMPOSE_ARGS "gfx/$TILESET" "$BUILD_DIR"
           [ -f "gfx/$TILESET/fallback.png" ] && cp "gfx/$TILESET/fallback.png" "$BUILD_DIR/"
 
-          artifact_name="$TILESET-${GITHUB_SHA::7}"
+          artifact_name="$TILESET-dev-git-${GITHUB_SHA::7}"
 
           mkdir "$artifact_name"
           mv "${BUILD_DIR}"/*.png           "$artifact_name"
