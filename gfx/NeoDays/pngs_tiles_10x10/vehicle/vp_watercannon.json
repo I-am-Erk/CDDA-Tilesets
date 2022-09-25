@@ -4,7 +4,7 @@
     "vp_shockcannon_mounted"
   ],
   "fg": "vp_watercannon",
-  "bg": "black_pure",
+  "bg": "background_black",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [

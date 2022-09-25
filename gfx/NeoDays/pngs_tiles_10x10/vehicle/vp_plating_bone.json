@@ -1,6 +1,6 @@
 {
   "id": "vp_plating_bone",
   "fg": "vp_plating_bone",
-  "bg": "black_pure",
+  "bg": "background_black",
   "rotates": true
 }

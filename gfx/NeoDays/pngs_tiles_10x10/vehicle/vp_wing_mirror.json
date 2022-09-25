@@ -2,7 +2,7 @@
   {
     "id": "vp_inboard_mirror",
     "fg": "vp_wing_mirror",
-    "bg": "black_pure",
+    "bg": "background_black",
     "rotates": true,
     "multitile": true,
     "additional_tiles": [

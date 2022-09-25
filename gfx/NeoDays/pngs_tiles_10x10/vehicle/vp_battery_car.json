@@ -8,7 +8,7 @@
     "vp_storage_battery_removable"
   ],
   "fg": "vp_battery_car",
-  "bg": "black_pure",
+  "bg": "background_black",
   "rotates": false,
   "multitile": true,
   "additional_tiles": [

@@ -6,7 +6,7 @@
       "vp_wood box"
     ],
     "fg": "vp_box",
-    "bg": "black_pure",
+    "bg": "background_black",
     "rotates": true,
     "multitile": true,
     "additional_tiles": [

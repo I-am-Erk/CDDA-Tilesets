@@ -5,7 +5,7 @@
     "vp_hdstowboard_vertical_right"
   ],
   "fg": "vp_hdstowboard_vertical",
-  "bg": "black_pure",
+  "bg": "background_black",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [

@@ -11,7 +11,7 @@
     "vp_m60"
   ],
   "fg": "vp_mounted_browning",
-  "bg": "black_pure",
+  "bg": "background_black",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [

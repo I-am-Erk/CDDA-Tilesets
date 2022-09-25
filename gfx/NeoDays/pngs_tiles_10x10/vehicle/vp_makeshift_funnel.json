@@ -1,7 +1,7 @@
 {
   "id": "vp_makeshift_funnel",
   "fg": "tr_makeshift_funnel",
-  "bg": "black_pure",
+  "bg": "background_black",
   "rotates": false,
   "multitile": true,
   "additional_tiles": [

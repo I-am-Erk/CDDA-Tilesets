@@ -5,7 +5,7 @@
     "vp_hdhalfboard_horizontal_2_rear"
   ],
   "fg": "vp_hdhalfboard_horizontal_2",
-  "bg": "black_pure",
+  "bg": "background_black",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [

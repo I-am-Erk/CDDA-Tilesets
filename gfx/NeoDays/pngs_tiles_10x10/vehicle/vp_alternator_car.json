@@ -6,7 +6,7 @@
     "vp_alternator_truck"
   ],
   "fg": "motor_alternator",
-  "bg": "black_pure",
+  "bg": "background_black",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [

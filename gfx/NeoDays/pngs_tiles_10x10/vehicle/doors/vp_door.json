@@ -6,7 +6,7 @@
       "vp_fdoor"
     ],
     "fg": "vp_door_closed",
-    "bg": "black_pure",
+    "bg": "background_black",
     "rotates": false,
     "multitile": true,
     "additional_tiles": [
@@ -23,7 +23,7 @@
   {
     "id": "vp_door_internal",
     "fg": "vp_door_closed",
-    "bg": "black_pure",
+    "bg": "background_black",
     "rotates": false,
     "multitile": true,
     "additional_tiles": [
@@ -34,7 +34,7 @@
       {
         "id": "open",
         "fg": "vp_door_open",
-        "bg": "black_pure"
+        "bg": "background_black"
       }
     ]
   }
