@@ -8,6 +8,7 @@
     "vp_halfboard_nw"
   ],
   "fg": "vp_board_nw",
+  "bg": "background_black",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [

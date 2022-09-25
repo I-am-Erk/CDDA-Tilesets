@@ -4,6 +4,7 @@
     "vp_woodhalfboard_sw"
   ],
   "fg": "vp_woodboard_sw",
+  "bg": "background_black",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [

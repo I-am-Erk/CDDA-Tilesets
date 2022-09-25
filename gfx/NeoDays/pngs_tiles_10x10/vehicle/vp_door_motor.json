@@ -1,6 +1,7 @@
 {
   "id": "vp_door_motor",
   "fg": "vp_door_motor",
+  "bg": "background_black",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [

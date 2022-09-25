@@ -5,6 +5,7 @@
     "vp_hdhalfboard_vertical_2_right"
   ],
   "fg": "vp_hdhalfboard_vertical_2",
+  "bg": "background_black",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [

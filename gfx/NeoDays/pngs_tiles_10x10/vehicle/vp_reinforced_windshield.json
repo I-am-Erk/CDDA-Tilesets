@@ -1,6 +1,7 @@
 {
   "id": "vp_reinforced_windshield",
   "fg": "vp_reinforced_windshield",
+  "bg": "background_black",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [

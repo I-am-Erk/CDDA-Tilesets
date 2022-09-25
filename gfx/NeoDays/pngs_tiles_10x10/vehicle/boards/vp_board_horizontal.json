@@ -22,6 +22,7 @@
     "vp_halfboard_cover_left"
   ],
   "fg": "vp_board_horizontal",
+  "bg": "background_black",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [

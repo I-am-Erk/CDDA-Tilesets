@@ -8,6 +8,7 @@
     "vp_woodhalfboard_horizontal_rear"
   ],
   "fg": "vp_woodboard_horizontal",
+  "bg": "background_black",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [

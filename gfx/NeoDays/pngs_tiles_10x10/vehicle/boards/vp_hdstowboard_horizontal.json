@@ -5,6 +5,7 @@
     "vp_hdstowboard_horizontal_rear"
   ],
   "fg": "vp_hdstowboard_horizontal",
+  "bg": "background_black",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
