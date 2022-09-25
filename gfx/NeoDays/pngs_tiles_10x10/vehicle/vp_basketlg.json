@@ -5,7 +5,7 @@
     "vp_basketlg_folding",
     "vp_basketlg_external"
   ],
-  "fg": "basket",
+  "fg": "vp_basketlg",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
