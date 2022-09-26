@@ -1,0 +1,94 @@
+[
+  {
+    "id": [
+      "5l_iron_season_spring",
+      "5l_tin_season_spring",
+      "5l_gold_season_spring",
+      "5l_zinc_season_spring",
+      "5l_lead_season_spring",
+      "5l_steel_season_spring",
+      "5l_brass_season_spring",
+      "5l_copper_season_spring",
+      "5l_silver_season_spring",
+      "5l_bronze_season_spring",
+      "5l_plastic_season_spring",
+      "5l_platinum_season_spring",
+      "5l_aluminum_season_spring",
+      "5l_hc_steel_season_spring",
+      "5l_mc_steel_season_spring",
+      "5l_lc_steel_season_spring",
+      "5l_budget_steel_season_spring"
+    ],
+    "fg": [ "5l_iron_season_spring" ],
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "5l_iron_season_summer",
+      "5l_tin_season_summer",
+      "5l_gold_season_summer",
+      "5l_zinc_season_summer",
+      "5l_lead_season_summer",
+      "5l_steel_season_summer",
+      "5l_brass_season_summer",
+      "5l_copper_season_summer",
+      "5l_silver_season_summer",
+      "5l_bronze_season_summer",
+      "5l_plastic_season_summer",
+      "5l_platinum_season_summer",
+      "5l_aluminum_season_summer",
+      "5l_hc_steel_season_summer",
+      "5l_mc_steel_season_summer",
+      "5l_lc_steel_season_summer",
+      "5l_budget_steel_season_summer"
+    ],
+    "fg": [ "5l_iron_season_summer" ],
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "5l_iron_season_autumn",
+      "5l_tin_season_autumn",
+      "5l_gold_season_autumn",
+      "5l_zinc_season_autumn",
+      "5l_lead_season_autumn",
+      "5l_steel_season_autumn",
+      "5l_brass_season_autumn",
+      "5l_copper_season_autumn",
+      "5l_silver_season_autumn",
+      "5l_bronze_season_autumn",
+      "5l_plastic_season_autumn",
+      "5l_platinum_season_autumn",
+      "5l_aluminum_season_autumn",
+      "5l_hc_steel_season_autumn",
+      "5l_mc_steel_season_autumn",
+      "5l_lc_steel_season_autumn",
+      "5l_budget_steel_season_autumn"
+    ],
+    "fg": [ "5l_iron_season_autumn" ],
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "5l_iron_season_winter",
+      "5l_tin_season_winter",
+      "5l_gold_season_winter",
+      "5l_zinc_season_winter",
+      "5l_lead_season_winter",
+      "5l_steel_season_winter",
+      "5l_brass_season_winter",
+      "5l_copper_season_winter",
+      "5l_silver_season_winter",
+      "5l_bronze_season_winter",
+      "5l_plastic_season_winter",
+      "5l_platinum_season_winter",
+      "5l_aluminum_season_winter",
+      "5l_hc_steel_season_winter",
+      "5l_mc_steel_season_winter",
+      "5l_lc_steel_season_winter",
+      "5l_budget_steel_season_winter"
+    ],
+    "fg": [ "5l_iron_season_winter" ],
+    "bg": [  ]
+  }
+]

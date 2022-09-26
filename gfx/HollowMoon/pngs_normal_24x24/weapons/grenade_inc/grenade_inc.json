@@ -1,0 +1,6 @@
+[
+    { "id": ["grenade_inc_season_spring", "smokebomb_season_spring", "insecticidalbomb_season_spring", "fungicidalbomb_season_spring"], "fg": "grenade_inc_season_spring", "bg": [], "rotates": false },
+	{ "id": ["grenade_inc_season_autumn", "smokebomb_season_autumn", "insecticidalbomb_season_autumn", "fungicidalbomb_season_autumn"], "fg": "grenade_inc_season_autumn", "bg": [], "rotates": false },
+	{ "id": ["grenade_inc_season_winter", "smokebomb_season_winter", "insecticidalbomb_season_winter", "fungicidalbomb_season_winter"], "fg": "grenade_inc_season_winter", "bg": [], "rotates": false },
+	{ "id": ["grenade_inc_season_summer", "smokebomb_season_summer", "insecticidalbomb_season_summer", "fungicidalbomb_season_summer"], "fg": "grenade_inc_season_summer", "bg": [], "rotates": false }
+]

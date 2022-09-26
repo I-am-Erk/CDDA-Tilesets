@@ -1,0 +1,37 @@
+[
+  {
+    "id": [
+      "vp_box",
+      "vp_folding wood box",
+      "vp_wood box"
+    ],
+    "fg": "vp_box",
+    "bg": "background_black",
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "vp_broken_brown"
+      }
+    ]
+  },
+  {
+    "id": [
+      "vp_box_wheelbarrow",
+      "vp_basketsm",
+      "vp_basketsm_wheelchair",
+      "vp_basketsm_bike_rear",
+      "vp_basketsm_external"
+    ],
+    "fg": "vp_box",
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "vp_broken_brown"
+      }
+    ]
+  }
+]

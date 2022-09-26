@@ -1,0 +1,16 @@
+{
+  "id": [
+    "vp_frame_horizontal_2",
+    "vp_frame_horizontal_2_front",
+    "vp_frame_horizontal_2_rear"
+  ],
+  "fg": "vp_frame_horizontal_2",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_gray"
+    }
+  ]
+}

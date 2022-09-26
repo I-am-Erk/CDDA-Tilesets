@@ -15,8 +15,12 @@
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": [ "3987_vp_cargo_space_2" ],
-        "bg": [ "vp_wheel_bicycle_rotN", "vp_wheel_bicycle_rotW", "vp_wheel_bicycle_rotS", "vp_wheel_bicycle_rotE" ]
+        "fg": [
+          "broken_vp_wheel_bicycle_rotN",
+          "broken_vp_wheel_bicycle_rotW",
+          "broken_vp_wheel_bicycle_rotS",
+          "broken_vp_wheel_bicycle_rotE"
+        ]
       }
     ]
   },

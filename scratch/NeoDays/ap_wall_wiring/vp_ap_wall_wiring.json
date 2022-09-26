@@ -1,0 +1,48 @@
+[
+  {
+  "id": "vp_ap_wall_wiring",
+  "fg": "vp_ap_wall_wiring_unconnected"
+  },
+  {
+    "id": "center",
+    "fg": "vp_ap_wall_wiring_center"
+  },
+  {
+    "//": "corners",
+    "fg": [
+      "vp_ap_wall_wiring_cornerNW",
+      "vp_ap_wall_wiring_cornerSW",
+      "vp_ap_wall_wiring_cornerSE",
+      "vp_ap_wall_wiring_cornerNE"
+    ]
+  },
+  {
+    "id": "edge",
+    "fg": [
+      "vp_ap_wall_wiring_NS",
+      "vp_ap_wall_wiring_EW"
+    ]
+  },
+  {
+    "id": "end_piece",
+    "fg": [
+      "vp_ap_wall_wiring_endN",
+      "vp_ap_wall_wiring_endE",
+      "vp_ap_wall_wiring_endS",
+      "vp_ap_wall_wiring_endW"
+    ]
+  },
+  {
+    "id": "t_connection",
+    "fg": [
+      "vp_ap_wall_wiring_t_connectionN",
+      "vp_ap_wall_wiring_t_connectionE",
+      "vp_ap_wall_wiring_t_connectionS",
+      "vp_ap_wall_wiring_t_connectionW"
+    ]
+  },
+  {
+    "id": "unconnected",
+    "fg": "vp_ap_wall_wiring_unconnected"
+  }
+]

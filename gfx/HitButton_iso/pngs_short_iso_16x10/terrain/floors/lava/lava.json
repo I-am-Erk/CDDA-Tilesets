@@ -1,0 +1,17 @@
+{
+  "id": [
+    "t_lava"
+  ],
+  "animated": true,
+  "fg": [
+    { "weight": 15, "sprite": "lava_0" },
+    { "weight": 15, "sprite": "lava_1" },
+    { "weight": 15, "sprite": "lava_2" },
+    { "weight": 15, "sprite": "lava_3" },
+    { "weight": 15, "sprite": "lava_4" },
+    { "weight": 15, "sprite": "lava_5" }
+  ],
+  "bg": [
+    
+  ]
+}

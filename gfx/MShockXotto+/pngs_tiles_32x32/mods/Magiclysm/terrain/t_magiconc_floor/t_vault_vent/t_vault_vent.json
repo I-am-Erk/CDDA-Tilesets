@@ -1,0 +1,52 @@
+{
+  "id": "t_vault_vent",
+  "fg": "t_magiconc_floor_center",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_magiconc_floor_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_vault_vent_corner_nw",
+        "t_vault_vent_corner_sw",
+        "t_vault_vent_corner_se",
+        "t_vault_vent_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_vault_vent_t_connection_n",
+        "t_vault_vent_t_connection_w",
+        "t_vault_vent_t_connection_s",
+        "t_vault_vent_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_vault_vent_edge_ns",
+        "t_vault_vent_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_vault_vent_end_piece_n",
+        "t_vault_vent_end_piece_w",
+        "t_vault_vent_end_piece_s",
+        "t_vault_vent_end_piece_e"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_magiconc_floor_center",
+        "t_magiconc_floor_center"
+      ]
+    }
+  ]
+}

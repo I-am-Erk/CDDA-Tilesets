@@ -68,5 +68,15 @@
     "id": "overlay_male_mutation_LUPINE_FUR",
     "fg": "grayfur_m",
     "bg": ""
+  },
+  {
+    "id": [ "overlay_male_mutation_PATCHSKIN1", "overlay_male_mutation_PATCHSKIN2", "overlay_male_mutation_PATCHSKIN3" ],
+    "fg": "patchskin_m",
+    "bg": ""
+  },
+  {
+    "id": [ "overlay_female_mutation_PATCHSKIN1", "overlay_female_mutation_PATCHSKIN2", "overlay_female_mutation_PATCHSKIN3" ],
+    "fg": "patchskin_f",
+    "bg": ""
   }
 ]

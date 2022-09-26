@@ -1,0 +1,13 @@
+{
+  "id": [
+    "money_strap_one",
+    "money_strap_two",
+    "money_strap_five",
+    "money_strap_ten",
+    "money_strap_twenty",
+    "money_strap_fifty",
+    "money_strap_hundred",
+    "money_strap_FMCNote"
+  ],
+  "fg": "money_strap"
+}

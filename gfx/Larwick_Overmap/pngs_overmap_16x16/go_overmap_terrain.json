@@ -4,7 +4,16 @@
     "fg": "two_story_light_gray"
   },
   {
-    "id": "park",
+    "id": [
+      "park",
+      "park_2",
+      "park_3",
+      "park_4",
+      "park_5",
+      "park_5_roof",
+      "park_6",
+      "park_7"
+    ],
     "fg": "park_green"
   },
   {
@@ -36,35 +45,39 @@
     "fg": "garage_white"
   },
   {
-    "id": "boat_rental",
+    "id": [
+      "boat_rental",
+      "boat_rental_1",
+      "boat_rental_2",
+      "boat_rental_roof",
+      "boat_rental_1_roof",
+      "boat_rental_2_roof"
+    ],
     "fg": "shop_white"
   },
   {
-    "id": "lighthouse_ground",
-    "fg": "watchtower_yellow"
+    "id": [
+      "sealab_small_surface",
+      "sealab_small_roof",
+      "sealab_small_-1",
+      "sealab_small_-2",
+      "sealab_small_-3",
+      "sealab_small_-4",
+      "sealab_small_-5"
+    ],
+    "fg": "watchtower_light_blue"
   },
+
   {
-    "id": "lighthouse_z1",
-    "fg": "watchtower_yellow"
-  },
-  {
-    "id": "lighthouse_z2",
-    "fg": "watchtower_yellow"
-  },
-  {
-    "id": "lighthouse_z3",
-    "fg": "watchtower_yellow"
-  },
-  {
-    "id": "lighthouse_z4",
-    "fg": "watchtower_yellow"
-  },
-  {
-    "id": "lighthouse_z5",
-    "fg": "watchtower_yellow"
-  },
-  {
-    "id": "lighthouse_roof",
+    "id": [
+      "lighthouse_ground",
+      "lighthouse_z1",
+      "lighthouse_z2",
+      "lighthouse_z3",
+      "lighthouse_z4",
+      "lighthouse_z5",
+      "lighthouse_roof"
+    ],
     "fg": "watchtower_yellow"
   },
   {
@@ -81,27 +94,20 @@
   },
   {
     "id": "island_forest_water",
-    "fg": "water_light_blue"
+    "fg": "swamp_cyan"
   },
   {
     "id": "island_field",
     "fg": "one_grass_brown"
   },
   {
-    "id": "cabin_isherwood",
-    "fg": "small_tree_light_green"
-  },
-  {
-    "id": "riverside_dwelling",
+    "id": [
+      "riverside_dwelling", "riverside_dwelling_roof",
+      "riverside_dwelling1", "riverside_dwelling1_roof",
+      "riverside_dwelling2", "riverside_dwelling2_roof",
+      "riverside_dwelling3", "riverside_dwelling3_roof"
+    ],
     "fg": "cabin_yellow"
-  },
-  {
-    "id": "cabin_lake",
-    "fg": "small_tree_green"
-  },
-  {
-    "id": "cabin_lake_roof",
-    "fg": "small_tree_green"
   },
   {
     "id": "lake_cabin_boathouse",
@@ -111,6 +117,11 @@
     "id": "lake_cabin_boathouse_roof",
     "fg": "small_tree_green"
   },
+  {
+    "id": "lake_cabin_water",
+    "fg": "water_blue"
+  },
+
   {
     "id": "cabin_strange",
     "fg": "small_tree_green"
@@ -124,76 +135,35 @@
     "fg": "small_tree_green"
   },
   {
-    "id": "cabin",
+    "id": [
+      "cabin",
+      "cabin_roof",
+      "cabin_1",
+      "cabin_roof_1",
+      "cabin_2",
+      "cabin_roof_2",
+      "cabin_3",
+      "cabin_roof_3",
+      "cabin_4",
+      "cabin_roof_4",
+      "cabin_5",
+      "cabin_roof_5",
+      "cabin_6",
+      "cabin_roof_6",
+      "cabin_7",
+      "cabin_roof_7",
+      "cabin_lake",
+      "cabin_lake_roof",
+      "cabin_lapin",
+      "cabin_roof_lapin",
+      "cabin_isherwood",
+      "cabin_prepper"
+    ],
     "fg": "cabin_brown"
   },
   {
-    "id": "cabin_roof",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_1",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_roof_1",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_2",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_roof_2",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_3",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_roof_3",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_4",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_roof_4",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_5",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_roof_5",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_6",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_roof_6",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_7",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_roof_7",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_lapin",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "cabin_roof_lapin",
-    "fg": "cabin_brown"
+    "id": "cabin_prepper_shelter",
+    "fg": "bunker_red"
   },
   {
     "id": "dirtroad1_aban1",
@@ -224,47 +194,32 @@
     "fg": "cabin_green"
   },
   {
-    "id": "shipwreck_river_1",
+    "id": [
+      "shipwreck_river_1",
+      "shipwreck_river_2",
+      "shipwreck_river_3",
+      "shipwreck_river_4"
+    ],
     "fg": "anchor_pink"
   },
   {
-    "id": "shipwreck_river_2",
-    "fg": "anchor_pink"
-  },
-  {
-    "id": "shipwreck_river_3",
-    "fg": "anchor_pink"
-  },
-  {
-    "id": "shipwreck_river_4",
-    "fg": "anchor_pink"
-  },
-  {
-    "id": "radio_tower",
-    "fg": "watchtower_light_gray"
-  },
-  {
-    "id": "radio_tower_even",
-    "fg": "watchtower_light_gray"
-  },
-  {
-    "id": "radio_tower_even_stair_only",
-    "fg": "watchtower_light_gray"
-  },
-  {
-    "id": "radio_tower_odd",
-    "fg": "watchtower_light_gray"
-  },
-  {
-    "id": "radio_tower_top",
-    "fg": "watchtower_light_gray"
-  },
-  {
-    "id": "radio_tower_1",
-    "fg": "watchtower_light_gray"
-  },
-  {
-    "id": "radio_tower_roof_1",
+    "id": [
+      "radio_tower",
+      "radio_tower_even",
+      "radio_tower_even_stair_only",
+      "radio_tower_odd",
+      "radio_tower_top",
+      "radio_tower_1",
+      "radio_tower_roof_1",
+      "wasp_tower",
+      "wasp_tower_1",
+      "wasp_tower_roof_1",
+      "wasp_tower_even_1",
+      "wasp_tower_odd_1",
+      "wasp_tower_even_2",
+      "wasp_tower_odd_2",
+      "wasp_tower_top"
+    ],
     "fg": "watchtower_light_gray"
   },
   {
@@ -718,5 +673,45 @@
   {
     "id": "cground_2_2",
     "fg": "tent_green"
+  },
+  {
+    "id": [
+        "exo_safehouse_stone_0",
+        "exo_safehouse_stone_1",
+        "exo_safehouse_stone_2"
+      ],
+    "fg": "barn_light_gray"
+  },
+  {
+    "id": [
+        "pottery_cottage",
+        "pottery_cottage_2nd",
+        "pottery_cottage_roof"
+      ],
+    "fg": "cabin_yellow"
+  },
+  {
+    "id": [
+        "pottery_cottage_field",
+        "pottery_cottage_field_2nd",
+        "pottery_cottage_field_roof"
+      ],
+    "fg": "cabin_brown"
+  },
+  {
+    "id": [
+        "isolated_road_field_0",
+        "isolated_road_field_1"
+      ],
+    "fg": "two_grass_green"
+  },
+  {
+    "id": [
+        "isolated_house_farm_gunsmith",
+        "isolated_house_farm_roof_gunsmith",
+        "isolated_house_farm_blacksmith",
+        "isolated_house_farm_roof_blacksmith"
+      ],
+    "fg": "cabin_light_gray"
   }
 ]

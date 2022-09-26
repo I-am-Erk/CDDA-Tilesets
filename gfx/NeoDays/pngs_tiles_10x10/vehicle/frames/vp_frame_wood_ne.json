@@ -1,0 +1,15 @@
+{
+  "id": [
+    "vp_frame_wood_ne",
+    "vp_frame_wood_light_ne"
+  ],
+  "fg": "vp_frame_wood_ne",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_brown"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "f_ground_cable",
+  "fg": "f_ground_cable_0",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_ground_cable_1"
+    },
+    {
+      "id": "corner",
+      "fg": "f_ground_cable_2"
+    },
+    {
+      "id": "edge",
+      "fg": "f_ground_cable_3"
+    },
+    {
+      "id": "end_piece",
+      "fg": "f_ground_cable_4"
+    },
+    {
+      "id": "t_connection",
+      "fg": "f_ground_cable_5"
+    },
+    {
+      "id": "unconnected",
+      "fg": "f_ground_cable_0"
+    }
+  ]
+}

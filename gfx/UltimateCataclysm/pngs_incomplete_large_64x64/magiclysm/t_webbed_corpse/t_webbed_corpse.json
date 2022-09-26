@@ -1,0 +1,22 @@
+[
+  {
+    "id": "t_webbed_corpse",
+    "fg": "t_webbed_corpse",
+    "bg": "t_grass_large"
+  },
+  {
+    "id": "t_webbed_corpse_season_summer",
+    "fg": "t_webbed_corpse",
+    "bg": "t_grass_summer_large"
+  },
+  {
+    "id": "t_webbed_corpse_season_autumn",
+    "fg": "t_webbed_corpse",
+    "bg": "t_grass_autumn_large"
+  },
+  {
+    "id": "t_webbed_corpse_season_winter",
+    "fg": "t_webbed_corpse",
+    "bg": "snow_shallow_large"
+  }
+]

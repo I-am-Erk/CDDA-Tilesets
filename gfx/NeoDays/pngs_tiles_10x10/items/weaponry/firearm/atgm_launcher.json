@@ -1,0 +1,12 @@
+{
+  "id": [
+    "atgm_launcher",
+    "atgm_turret",
+    "howitzer_gun",
+    "tank_gun_auto",
+    "tank_gun_manual",
+    "tank_gun_rws",
+    "surv_rocket_launcher"
+  ],
+  "fg": "atgm_launcher"
+}

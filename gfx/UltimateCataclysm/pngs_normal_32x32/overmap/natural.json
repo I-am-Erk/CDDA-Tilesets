@@ -1,22 +1,19 @@
 [
   {
     "id": "forest_water",
-    "fg": "swamp",
-    "bg": ""
+    "fg": "swamp"
   },
   {
-	"id": [ "forest", "special_forest" ],
+    "id": [ "forest", "special_forest" ],
     "fg": "forest",
     "bg": "field"
   },
   {
     "id": [ "field", "special_field" ],
-    "fg": "field",
-    "bg": ""
+    "fg": "field"
   },
   {
     "id": "open_air",
-    "fg": "open_air",
-    "bg": ""
+    "fg": "open_air"
   }
 ]

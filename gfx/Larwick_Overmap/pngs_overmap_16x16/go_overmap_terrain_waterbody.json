@@ -7,5 +7,13 @@
 
     "id": "lake_surface",
     "fg": "water_blue"
+  },
+  {
+    "id": "lake_water_cube",
+    "fg": "water_blue"
+  },
+  {
+    "id": "lake_bed",
+    "fg": "water_blue"
   }
 ]

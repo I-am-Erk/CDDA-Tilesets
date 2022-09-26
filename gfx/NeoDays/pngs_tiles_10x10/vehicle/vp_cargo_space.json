@@ -1,0 +1,27 @@
+[
+  {
+    "id": "vp_cargo_space",
+    "fg": "vp_cargo_space",
+    "bg": "background_black",
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "vp_broken_gray"
+      }
+    ]
+  },
+  {
+    "id": "vp_cargo_space_external",
+    "fg": "vp_cargo_space",
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "vp_broken_gray"
+      }
+    ]
+  }
+]

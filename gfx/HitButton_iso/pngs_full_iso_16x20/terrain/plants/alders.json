@@ -1,0 +1,6 @@
+[
+{"id": ["t_tree_alder"], "fg": ["t_tree_alder"], "bg": []},
+{"id": ["t_tree_alder_season_autumn"], "fg": ["t_tree_alder_season_autumn"], "bg": []},
+{"id": ["t_tree_alder_season_winter"], "fg": ["t_tree_alder_season_winter"], "bg": []},
+{"id": ["t_tree_alder_harvested"], "fg": ["t_tree_alder_season_winter"], "bg": []}
+]

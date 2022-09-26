@@ -1,0 +1,17 @@
+{
+  "id": [
+    "t_rock_floor"
+  ],
+  "bg": [
+      { "weight": 1, "sprite": "t_rock_floor_1" },
+      { "weight": 1, "sprite": "t_rock_floor_2" },
+      { "weight": 1, "sprite": "t_rock_floor_3" }
+  ],
+  "fg": [
+    { "weight": 1, "sprite": "floor_outline_double" },
+    { "weight": 1, "sprite": "floor_outline_double_2" },
+    { "weight": 1, "sprite": "floor_outline_double_3" },
+    { "weight": 1, "sprite": "floor_outline_left" },
+    { "weight": 1, "sprite": "floor_outline_right" }
+  ]
+}

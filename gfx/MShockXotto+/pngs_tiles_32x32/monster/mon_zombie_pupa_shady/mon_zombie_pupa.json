@@ -1,0 +1,10 @@
+[
+  {
+    "id": [ "mon_zombie_pupa_shady", "mon_zombie_pupa_decoy_shady" ],
+    "fg": "mon_zombie_pupa_shady"
+  },
+  {
+    "id": [ "corpse_mon_zombie_pupa_shady", "corpse_mon_zombie_pupa_decoy_shady" ],
+    "fg": "corpse_mon_zombie_pupa_shady"
+  }
+]

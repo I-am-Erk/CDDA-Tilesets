@@ -1,1 +1,0 @@
-[{"height": 32, "width": 32}, {"tiles.png": {"//": "indices 0 to 5999"}}, {"tiles48.png": {"//": "indices 6000 to 6319", "sprite_offset_x": -8, "sprite_offset_y": -8, "sprite_width": 48, "sprite_height": 48}}, {"tree.png": {"//": "indices 6320 to 6399", "sprite_offset_x": -16, "sprite_offset_y": -48, "sprite_width": 64, "sprite_height": 80}}, {"fallback.png": {"fallback": true}}]

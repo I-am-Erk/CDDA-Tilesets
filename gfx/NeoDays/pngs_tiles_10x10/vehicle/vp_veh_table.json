@@ -1,0 +1,16 @@
+{
+  "id": [
+    "vp_veh_table",
+    "vp_veh_table_wood"
+  ],
+  "fg": "vp_veh_table",
+  "bg": "background_black",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_brown"
+    }
+  ]
+}

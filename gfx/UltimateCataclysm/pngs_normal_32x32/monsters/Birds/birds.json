@@ -1,0 +1,46 @@
+[
+  {
+    "id": "mon_coot",
+    "fg": [ { "weight": 20, "sprite": "mon_coot1" }, { "weight": 10, "sprite": "mon_coot2" } ],
+    "bg": "shadow_32x32_normal"
+  },
+  {
+    "id": "mon_cormorant",
+    "fg": [ { "weight": 20, "sprite": "mon_cormorant1" }, { "weight": 10, "sprite": "mon_cormorant2" } ],
+    "bg": "shadow_32x32_normal"
+  },
+  {
+    "id": "mon_goose_golden",
+    "fg": [ { "weight": 20, "sprite": "mon_goose_golden1" }, { "weight": 10, "sprite": "mon_goose_golden2" } ],
+    "bg": "shadow_32x32_normal"
+  },
+  {
+    "id": "mon_goose",
+    "fg": [
+      { "weight": 16, "sprite": "mon_goose1" },
+      { "weight": 12, "sprite": "mon_goose2" },
+      { "weight": 2, "sprite": "mon_gooserare" }
+    ],
+    "bg": "shadow_32x32_normal"
+  },
+  {
+    "id": "mon_grebe",
+    "fg": [ { "weight": 20, "sprite": "mon_grebe1" }, { "weight": 10, "sprite": "mon_grebe2" } ],
+    "bg": "shadow_32x32_normal"
+  },
+  {
+    "id": "mon_hummingbird",
+    "fg": [ { "weight": 20, "sprite": "mon_hummingbird1" }, { "weight": 10, "sprite": "mon_hummingbird2" } ],
+    "bg": "shadow_32x32_small"
+  },
+  {
+    "id": "mon_moorhen",
+    "fg": [ { "weight": 20, "sprite": "mon_moorhen1" }, { "weight": 10, "sprite": "mon_moorhen2" } ],
+    "bg": "shadow_32x32_normal"
+  },
+  {
+    "id": "mon_woodpecker",
+    "fg": [ { "weight": 20, "sprite": "mon_woodpecker1" }, { "weight": 10, "sprite": "mon_woodpecker2" } ],
+    "bg": "shadow_32x32_small"
+  }
+]

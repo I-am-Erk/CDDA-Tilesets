@@ -1,0 +1,32 @@
+{
+  "id": "fd_electricity",
+  "fg": "fd_electricity_0",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "fd_electricity_1"
+    },
+    {
+      "id": "corner",
+      "fg": "fd_electricity_2"
+    },
+    {
+      "id": "edge",
+      "fg": "fd_electricity_3"
+    },
+    {
+      "id": "end_piece",
+      "fg": "fd_electricity_4"
+    },
+    {
+      "id": "t_connection",
+      "fg": "fd_electricity_5"
+    },
+    {
+      "id": "unconnected",
+      "fg": "fd_electricity_0"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": [
+    "sausage",
+    "mre_maplesausage",
+    "hotdogs_frozen",
+    "hotdogs_cooked",
+    "hotdogs_cooked_wheat_free",
+    "hotdogs_campfire",
+    "hotdogs_newyork",
+    "hotdogs_newyork_wheat_free",
+    "chilidogs",
+    "chilidogs_wheat_free",
+    "chilidogs_human",
+    "mannwurst",
+    "currywurst",
+    "h_currywurst",
+    "sweet_sausage"
+  ],
+  "fg": "sausage"
+}

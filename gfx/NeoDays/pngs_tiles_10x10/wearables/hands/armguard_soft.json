@@ -1,0 +1,12 @@
+{
+  "id": [
+    "armguard_soft",
+    "chainmail_arms",
+    "armguard_metal",
+    "legguard_metal",
+    "chainmail_legs",
+    "armguard_lightplate",
+    "legguard_lightplate"
+  ],
+  "fg": "armguard_soft"
+}

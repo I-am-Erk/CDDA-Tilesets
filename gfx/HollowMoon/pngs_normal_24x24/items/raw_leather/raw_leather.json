@@ -1,0 +1,46 @@
+[
+  {
+    "id": [
+      "raw_leather_season_spring",
+      "cured_hide_season_spring",
+      "tanned_hide_season_spring",
+      "raw_tainted_leather_season_spring",
+      "tanning_hide_leaflet_season_spring"
+    ],
+    "fg": [ "raw_leather_season_spring" ],
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "raw_leather_season_summer",
+      "cured_hide_season_summer",
+      "tanned_hide_season_summer",
+      "raw_tainted_leather_season_summer",
+      "tanning_hide_leaflet_season_summer"
+    ],
+    "fg": [ "raw_leather_season_summer" ],
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "raw_leather_season_autumn",
+      "cured_hide_season_autumn",
+      "tanned_hide_season_autumn",
+      "raw_tainted_leather_season_autumn",
+      "tanning_hide_leaflet_season_autumn"
+    ],
+    "fg": [ "raw_leather_season_autumn" ],
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "raw_leather_season_winter",
+      "cured_hide_season_winter",
+      "tanned_hide_season_winter",
+      "raw_tainted_leather_season_winter",
+      "tanning_hide_leaflet_season_winter"
+    ],
+    "fg": [ "raw_leather_season_winter" ],
+    "bg": [  ]
+  }
+]

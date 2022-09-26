@@ -1,0 +1,7 @@
+[
+  {
+	"id": [ "sub_station_roof", "sub_station", "sewer_sub_station", "underground_sub_station" ],
+	"fg": [ "sub_station_rot_N", "sub_station_rot_E", "sub_station_rot_S", "sub_station_rot_W" ],
+	"rotates": true
+  }
+]

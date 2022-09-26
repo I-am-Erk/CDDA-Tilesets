@@ -1,0 +1,22 @@
+[
+  {
+    "id": "t_door_c",
+    "multitile": true,
+    "fg": ["t_door_c_w", "t_door_c_e"]
+  },
+  {
+    "id": "t_door_locked",
+    "multitile": true,
+    "fg": ["t_door_c_w", "t_door_c_e"]
+  },
+  {
+    "id": "t_door_o",
+    "multitile": true,
+    "fg": ["t_door_o_w", "t_door_o_e"]
+  },
+  {
+    "id": "t_door_b",
+    "multitile": true,
+    "fg": ["t_door_o_w", "t_door_o_e"]
+  }
+]

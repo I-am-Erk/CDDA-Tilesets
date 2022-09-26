@@ -1,4 +1,5 @@
-[{
+[
+ {
   "id": "vp_ram_spiked",
   "fg": "vp_ram_spiked",
   "rotates": true,
@@ -10,7 +11,8 @@
       "bg": "vp_ram_spiked"
     }
   ]
-}, {
+ }, 
+ {
   "id": "vp_ram_steel",
   "fg": "vp_ram_steel",
   "rotates": true,
@@ -22,7 +24,8 @@
       "bg": "vp_ram_spiked"
     }
   ]
-},   {
+ },   
+ {
   "id": "vp_spike",
   "fg": "vp_spike",
   "rotates": true,
@@ -33,5 +36,19 @@
       "fg": "crack_metal_center",
       "bg": "vp_spike"
     }
+   ]
+  },
+   {
+  "id": "vp_ram_wood",
+  "fg": "vp_ram_wood",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "crack_metal_center",
+      "bg": "vp_ram_wood"
+    }
   ]
-}]
+} 
+]

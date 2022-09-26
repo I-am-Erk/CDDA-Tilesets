@@ -29,16 +29,42 @@
     "large_ridden.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -27, "sprites_across": 3 }
   },
   {
-    "huge.png": { "sprite_width": 64, "sprite_height": 96, "sprite_offset_x": -16, "sprite_offset_y": -64, "sprites_across": 4  }
+    "huge.png": { "sprite_width": 64, "sprite_height": 96, "sprite_offset_x": -16, "sprite_offset_y": -64, "sprites_across": 4 }
   },
   {
     "giant.png": { "sprite_width": 96, "sprite_height": 96, "sprite_offset_x": -32, "sprite_offset_y": -64, "sprites_across": 4 }
   },
   {
+    "incomplete_small.png": { "sprite_width": 20, "sprite_height": 20, "sprite_offset_x": 6, "filler": true }
+  },
+  {
     "incomplete.png": { "filler": true }
   },
   {
-    "incomplete_large.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -32, "filler": true, "sprites_across": 8 }
+    "incomplete_tall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true }
+  },
+  {
+    "incomplete_body_plus.png": { "sprite_width": 32, "sprite_height": 48, "sprite_offset_y": -16, "filler": true }
+  },
+  {
+    "incomplete_large.png": {
+      "sprite_width": 64,
+      "sprite_height": 64,
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -32,
+      "filler": true,
+      "sprites_across": 8
+    }
+  },
+  {
+    "incomplete_giant.png": {
+      "sprite_width": 96,
+      "sprite_height": 96,
+      "sprite_offset_x": -32,
+      "sprite_offset_y": -64,
+      "filler": true,
+      "sprites_across": 4
+    }
   },
   {
     "fillerhoder.png": {
@@ -47,13 +73,20 @@
     }
   },
   {
-    "filler.png": { "sprite_width": 32, "sprite_height": 32, "filler": true  }
+    "filler.png": { "sprite_width": 32, "sprite_height": 32, "filler": true }
   },
   {
     "filler_tall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true, "sprites_across": 2 }
   },
   {
-    "fillergiant.png": { "sprite_width": 96, "sprite_height": 96, "sprite_offset_x": -32, "sprite_offset_y": -64, "filler": true, "sprites_across": 4  }
+    "fillergiant.png": {
+      "sprite_width": 96,
+      "sprite_height": 96,
+      "sprite_offset_x": -32,
+      "sprite_offset_y": -64,
+      "filler": true,
+      "sprites_across": 4
+    }
   },
   {
     "fallback.png": {

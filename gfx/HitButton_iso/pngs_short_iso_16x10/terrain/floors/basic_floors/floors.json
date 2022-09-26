@@ -1,0 +1,63 @@
+[
+  {
+    "id": [ "t_floor" ],
+    "bg": [
+      { "weight": 2, "sprite": "t_floor_1" },
+      { "weight": 1, "sprite": "t_floor_2" },
+      { "weight": 1, "sprite": "t_floor_3" }
+    ],
+    "fg": [
+      { "weight": 1, "sprite": "floor_outline_double" },
+      { "weight": 1, "sprite": "floor_outline_double_2" },
+      { "weight": 1, "sprite": "floor_outline_double_3" },
+      { "weight": 1, "sprite": "floor_outline_left" },
+      { "weight": 1, "sprite": "floor_outline_right" }
+    ]
+  },
+  {
+    "id": [ "t_floor_waxed" ],
+    "bg": [
+      { "weight": 1, "sprite": "t_floor_waxed_1" },
+      { "weight": 1, "sprite": "t_floor_waxed_2" },
+      { "weight": 1, "sprite": "t_floor_waxed_3" },
+      { "weight": 1, "sprite": "t_floor_waxed_4" }
+    ],
+    "fg": [
+      { "weight": 1, "sprite": "floor_outline_double" },
+      { "weight": 1, "sprite": "floor_outline_double_2" },
+      { "weight": 1, "sprite": "floor_outline_double_3" },
+      { "weight": 1, "sprite": "floor_outline_left" },
+      { "weight": 1, "sprite": "floor_outline_right" }
+    ]
+  },
+  {
+    "id": [ "t_linoleum_gray" ],
+    "bg": [
+      { "weight": 1, "sprite": "lino_gray" },
+      { "weight": 2, "sprite": "lino_gray2" },
+      { "weight": 1, "sprite": "lino_gray3" }
+    ],
+    "fg": [
+      { "weight": 1, "sprite": "floor_outline_double" },
+      { "weight": 1, "sprite": "floor_outline_double_2" },
+      { "weight": 1, "sprite": "floor_outline_double_3" },
+      { "weight": 1, "sprite": "floor_outline_left" },
+      { "weight": 1, "sprite": "floor_outline_right" }
+    ]
+  },
+  {
+    "id": [ "t_linoleum_white" ],
+    "bg": [
+      { "weight": 1, "sprite": "lino_white" },
+      { "weight": 2, "sprite": "lino_white2" },
+      { "weight": 1, "sprite": "lino_white3" }
+    ],
+    "fg": [
+      { "weight": 1, "sprite": "floor_outline_double" },
+      { "weight": 1, "sprite": "floor_outline_double_2" },
+      { "weight": 1, "sprite": "floor_outline_double_3" },
+      { "weight": 1, "sprite": "floor_outline_left" },
+      { "weight": 1, "sprite": "floor_outline_right" }
+    ]
+  }
+]

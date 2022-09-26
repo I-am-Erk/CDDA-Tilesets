@@ -1,0 +1,7 @@
+{"id": "t_window_no_curtains_open",
+ "multitile": true,
+ "fg": [
+   "t_window_no_curtains_open_w",
+   "t_window_no_curtains_open_e"
+  ]
+}
