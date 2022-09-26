@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 '''
-Combine a set of multitile sprites into 4x4 grid
+Combine a set of multitile sprites into 4x4 or 5x5 grid grid
 '''
 
 import argparse
@@ -29,7 +29,7 @@ def main(args):
     height = None
     num_sprites = 25 if os.path.isfile(os.path.join(args.path, f'{args.tile}_unconnected_faceN.png')) else 16
     template_size = math.isqrt(num_sprites)
-    
+
     id_map = MAPS_ISO[num_sprites] if args.iso else MAPS[num_sprites]
     for suffix, position in id_map.items():
         sprite = pyvips.Image.new_from_file(os.path.join(args.path, f'{args.tile}_{suffix}.png'))

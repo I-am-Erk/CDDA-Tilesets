@@ -190,12 +190,12 @@ def main(args):
     if rearrange is not None:
         template_size = 5 if len(slices) == 25 else 4
         order = OUTPUT_ORDER[template_size]
-        
+
         img_out = pyvips.Image.new_from_array(
             np.full(shape=(rearrange * template_size, args.width * template_size, 4),
                     fill_value=1, dtype=np.uint8),
             interpretation="rgb")
-        
+
         for col in range(template_size):
             for row in range(template_size):
                 sprite = slices[slicing_map[order[col + template_size * row]]]
@@ -211,7 +211,7 @@ def main(args):
 
         if args.no_json:
             return
-        
+
         if len(slices) != 25:
             json_content = {  # double quotes here to make copying easier
                 "id": args.tile,
@@ -326,6 +326,14 @@ def iso_mask(width, height):
 
 
 def extract_slices(img, width, height, iso):
+    try:
+        if not img.hasalpha():
+            img = img.addalpha()
+        if img.get_typeof('icc-profile-data') != 0:
+            img = img.icc_transform('srgb')
+    except Vips.Error as vips_error:
+        raise Exception(vips_error)
+
     slices = []
 
     if iso:
@@ -335,7 +343,7 @@ def extract_slices(img, width, height, iso):
         if width != 2 * height:
             raise Exception(
                 'Only tiles with a width:height ration 2:1 are supported in ISO mode.')
-        
+
         template_size = 0
         if img.width == 4 * width and img.height == 4 * height:
             template_size = 4
@@ -359,7 +367,7 @@ def extract_slices(img, width, height, iso):
             for col in range(per_row):
                 s = img.crop(x_offset + col * width, y_offset, width, height)
                 masked = s.numpy() * mask
-                slices.append(pyvips.Image.new_from_array(masked, interpretation="rgb"))
+                slices.append(pyvips.Image.new_from_array(masked, interpretation="srgb"))
 
     else:
         for y in range(0, img.height, height):
