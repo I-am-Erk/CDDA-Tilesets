@@ -1,0 +1,18 @@
+[
+  {
+    "id": [ "f_forge_season_spring", "f_home_furnace_season_spring" ],
+    "fg": "f_forge_season_spring"
+  },
+  {
+    "id": [ "f_forge_season_summer", "f_home_furnace_season_summer" ],
+    "fg": "f_forge_season_summer"
+  },
+  {
+    "id": [ "f_forge_season_autumn", "f_home_furnace_season_autumn" ],
+    "fg": "f_forge_season_autumn"
+  },
+  {
+    "id": [ "f_forge_season_winter", "f_home_furnace_season_winter" ],
+    "fg": "f_forge_season_winter"
+  }
+]
