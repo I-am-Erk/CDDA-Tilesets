@@ -290,6 +290,14 @@ when you want to adjust all sprites as one image:</p>
 <pre><code class="language-sh">cd mud_tiles
 $ tools/unslice_multitile.py mud
 </code></pre>
+<h3><a class="header" href="#slicing-variants" id="slicing-variants">Slicing variants</a></h3>
+<p>Randomly selected sprite variants can be used based on weights.
+For easier creation of these variants, multitile-like images can be sliced into numbered variant sprites using <code>slice_variants.py</code>.</p>
+<p>Usage is the same as with <code>slice_multitile.py</code>. E.g.:</p>
+<pre><code class="language-sh">$ tools/slice_variants.py t_floor_multitile.png 32 32
+</code></pre>
+<p>The script can handle any multitile size, not only 4x4.
+For iso multitiles, use switch <code>--iso</code>.</p>
 
                     </main>
 
