@@ -1,0 +1,6 @@
+[
+    { "id": ["coin_dime_season_spring", "coin_penny_season_spring", "coin_dollar_season_spring", "coin_quarter_season_spring", "coin_gold_season_spring", "coin_half_dollar_season_spring", "RobofacCoin_season_spring"], "fg": "coin_dime_season_spring", "bg": [], "rotates": false },
+	{ "id": ["coin_dime_season_autumn", "coin_penny_season_autumn", "coin_dollar_season_autumn", "coin_quarter_season_autumn", "coin_gold_season_autumn", "coin_half_dollar_season_autumn", "RobofacCoin_season_autumn"], "fg": "coin_dime_season_autumn", "bg": [], "rotates": false },
+	{ "id": ["coin_dime_season_winter", "coin_penny_season_winter", "coin_dollar_season_winter", "coin_quarter_season_winter", "coin_gold_season_winter", "coin_half_dollar_season_winter", "RobofacCoin_season_winter"], "fg": "coin_dime_season_winter", "bg": [], "rotates": false },
+	{ "id": ["coin_dime_season_summer", "coin_penny_season_summer", "coin_dollar_season_summer", "coin_quarter_season_summer", "coin_gold_season_summer", "coin_half_dollar_season_summer", "RobofacCoin_season_summer"], "fg": "coin_dime_season_summer", "bg": [], "rotates": false }
+]
