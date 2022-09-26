@@ -1,6 +1,6 @@
 [
   {
-    "id": [ "overlay_worn_fedora", "fedora" ],
+    "id": [ "overlay_worn_fedora" ],
     "fg": [ "overlay_worn_fedora" ],
     "rotates": false,
     "bg": [  ]
