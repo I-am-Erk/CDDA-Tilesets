@@ -1,0 +1,7 @@
+{
+  "id": "f_oven",
+  "height_3d": 30,
+  "rotates": true,
+  "fg": [ "f_oven_faceS", "f_oven_faceW", "f_oven_faceN", "f_oven_faceE" ],
+  "bg": ""
+}
