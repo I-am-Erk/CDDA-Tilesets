@@ -1,0 +1,28 @@
+{
+  "id": [ "t_wall_glass" ],
+  "fg": "t_wall_glass_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "edge",
+      "fg": [
+        "t_wall_glass_E", "t_wall_glass_N",
+        "t_wall_glass_W", "t_wall_glass_S"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_wall_glass_E", "t_wall_glass_N",
+        "t_wall_glass_W", "t_wall_glass_S"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_wall_glass_unconnected",
+        "t_wall_glass_unconnected"
+      ]
+    }
+  ]
+}
