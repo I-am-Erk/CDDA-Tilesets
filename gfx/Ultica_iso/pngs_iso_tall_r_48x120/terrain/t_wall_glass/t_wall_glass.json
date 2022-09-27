@@ -6,15 +6,15 @@
     {
       "id": "edge",
       "fg": [
-        "t_wall_glass_WEOI", "t_wall_glass_NSIO",
-        "t_wall_glass_WEIO", "t_wall_glass_NSOI"
+        "t_wall_glass_E", "t_wall_glass_N",
+        "t_wall_glass_W", "t_wall_glass_S"
       ]
     },
     {
       "id": "end_piece",
       "fg": [
-        "t_wall_glass_WEOI", "t_wall_glass_NSIO",
-        "t_wall_glass_WEIO", "t_wall_glass_NSOI"
+        "t_wall_glass_E", "t_wall_glass_N",
+        "t_wall_glass_W", "t_wall_glass_S"
       ]
     },
     {
