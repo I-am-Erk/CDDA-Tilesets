@@ -1,0 +1,61 @@
+{
+  "id": "f_bookcase",
+  "height_3d": 3,
+  "fg": "f_bookcase_faceS",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_bookcase_faceS"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_bookcase_faceN",
+        "f_bookcase_faceS",
+        "f_bookcase_faceS",
+        "f_bookcase_faceN"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_bookcase_faceN",
+        "f_bookcase_faceW",
+        "f_bookcase_faceS",
+        "f_bookcase_faceE"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_bookcase_faceW",
+        "f_bookcase_faceS",
+        "f_bookcase_faceE",
+        "f_bookcase_faceN"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_bookcase_faceW",
+        "f_bookcase_faceS",
+        "f_bookcase_faceW",
+        "f_bookcase_faceS",
+        "f_bookcase_faceE",
+        "f_bookcase_faceN",
+        "f_bookcase_faceE",
+        "f_bookcase_faceN"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_bookcase_faceS",
+        "f_bookcase_faceW",
+        "f_bookcase_faceN",
+        "f_bookcase_faceE"
+      ]
+    }
+  ]
+}
