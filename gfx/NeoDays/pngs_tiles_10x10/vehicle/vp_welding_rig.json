@@ -1,0 +1,14 @@
+{
+  "id": "vp_welding_rig",
+  "fg": "vp_welding_rig",
+  "bg": "background_black",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_machine_broken",
+      "bg": "background_black"
+    }
+  ]
+}

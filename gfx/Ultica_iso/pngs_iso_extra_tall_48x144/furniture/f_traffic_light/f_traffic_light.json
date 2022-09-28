@@ -1,0 +1,16 @@
+{
+  "id": "f_traffic_light",
+  "fg": "f_traffic_light_rotS",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_traffic_light_rotS",
+        "f_traffic_light_rotW",
+        "f_traffic_light_rotN",
+        "f_traffic_light_rotE"
+      ]
+    }
+  ]
+}

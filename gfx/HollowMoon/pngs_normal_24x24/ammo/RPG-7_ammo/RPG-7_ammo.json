@@ -1,0 +1,6 @@
+[
+    { "id": ["RPG-7_ammo_season_spring", "RPG-7_tbg7v_season_spring", "RPG-7_pg7vr_season_spring", "RPG-7_og7v_season_spring"], "fg": "RPG-7_ammo_season_spring", "bg": [], "rotates": false },
+	{ "id": ["RPG-7_ammo_season_autumn", "RPG-7_tbg7v_season_autumn", "RPG-7_pg7vr_season_autumn", "RPG-7_og7v_season_autumn"], "fg": "RPG-7_ammo_season_autumn", "bg": [], "rotates": false },
+	{ "id": ["RPG-7_ammo_season_winter", "RPG-7_tbg7v_season_winter", "RPG-7_pg7vr_season_winter", "RPG-7_og7v_season_winter"], "fg": "RPG-7_ammo_season_winter", "bg": [], "rotates": false },
+	{ "id": ["RPG-7_ammo_season_summer", "RPG-7_tbg7v_season_summer", "RPG-7_pg7vr_season_summer", "RPG-7_og7v_season_summer"], "fg": "RPG-7_ammo_season_summer", "bg": [], "rotates": false }
+]

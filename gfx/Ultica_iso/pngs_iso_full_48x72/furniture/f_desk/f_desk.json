@@ -1,0 +1,61 @@
+{
+  "id": "f_desk",
+  "fg": "f_desk_unconnected_faceS",
+  "height_3d": 26,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_desk_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_desk_corner_nw",
+        "f_desk_corner_sw",
+        "f_desk_corner_se",
+        "f_desk_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_desk_t_connection_n",
+        "f_desk_t_connection_w",
+        "f_desk_t_connection_s",
+        "f_desk_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_desk_edge_ns_faceW",
+        "f_desk_edge_ew_faceS",
+        "f_desk_edge_ns_faceE",
+        "f_desk_edge_ew_faceN"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_desk_end_piece_n_faceW",
+        "f_desk_end_piece_w_faceS",
+        "f_desk_end_piece_s_faceW",
+        "f_desk_end_piece_e_faceS",
+        "f_desk_end_piece_n_faceE",
+        "f_desk_end_piece_w_faceN",
+        "f_desk_end_piece_s_faceE",
+        "f_desk_end_piece_e_faceN"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_desk_unconnected_faceS",
+        "f_desk_unconnected_faceW",
+        "f_desk_unconnected_faceN",
+        "f_desk_unconnected_faceE"
+      ]
+    }
+  ]
+}

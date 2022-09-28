@@ -1,0 +1,37 @@
+{
+  "id": [
+    "fd_cigsmoke",
+    "fd_weedsmoke",
+    "fd_methsmoke",
+    "fd_cracksmoke"
+  ],
+  "fg": "fd_cigsmoke_0",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "fd_cigsmoke_1"
+    },
+    {
+      "id": "corner",
+      "fg": "fd_cigsmoke_2"
+    },
+    {
+      "id": "edge",
+      "fg": "fd_cigsmoke_3"
+    },
+    {
+      "id": "end_piece",
+      "fg": "fd_cigsmoke_4"
+    },
+    {
+      "id": "t_connection",
+      "fg": "fd_cigsmoke_5"
+    },
+    {
+      "id": "unconnected",
+      "fg": "fd_cigsmoke_0"
+    }
+  ]
+}

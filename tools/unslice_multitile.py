@@ -1,14 +1,25 @@
 #!/usr/bin/env python3
 '''
-Combine a set of multitile sprites into 4x4 grid
+Combine a set of multitile sprites into 4x4 or 5x5 grid grid
 '''
 
 import argparse
 import os
-import pyvips
+import math
 import numpy as np
 
-from slice_multitile import MAPS
+from slice_multitile import MAPS, MAPS_ISO
+
+try:
+    vips_path = os.getenv("LIBVIPS_PATH")
+    if vips_path is not None and vips_path != "":
+        os.environ["PATH"] += ";"+os.path.join(vips_path, "bin")
+    import pyvips
+    Vips = pyvips
+except ImportError:
+    import gi
+    gi.require_version('Vips', '8.0')  # NoQA
+    from gi.repository import Vips
 
 
 def main(args):
@@ -16,7 +27,10 @@ def main(args):
 
     width = None
     height = None
-    id_map = MAPS["iso"] if args.iso else MAPS[16]
+    num_sprites = 25 if os.path.isfile(os.path.join(args.path, f'{args.tile}_unconnected_faceN.png')) else 16
+    template_size = math.isqrt(num_sprites)
+
+    id_map = MAPS_ISO[num_sprites] if args.iso else MAPS[num_sprites]
     for suffix, position in id_map.items():
         sprite = pyvips.Image.new_from_file(os.path.join(args.path, f'{args.tile}_{suffix}.png'))
 
@@ -40,17 +54,18 @@ def main(args):
     if args.iso:
         extra_height = height - width // 2
         output_img = pyvips.Image.new_from_array(
-            np.full(shape=(width * 2 + extra_height, width * 4, 4),
+            np.full(shape=(width // 2 * template_size + extra_height, width * template_size, 4),
                     fill_value=0, dtype=np.uint8),
             interpretation="rgb")
 
         dx = width // 2
         dy = width // 4
 
+        double_size = 2 * template_size
         index = 0
-        for row in range(7):
-            per_row = min(row, 6 - row) + 1
-            half_offsets = (8 - 2 * per_row) // 2
+        for row in range(double_size - 1):
+            per_row = min(row, double_size - 2 - row) + 1
+            half_offsets = (double_size - 2 * per_row) // 2
             x_offset = half_offsets * dx
             y_offset = row * dy
             for col in range(per_row):
@@ -60,7 +75,7 @@ def main(args):
 
     else:
         output_img = pyvips.Image.arrayjoin(
-            [multitile_dict[i] for i in range(16)], across=4)
+            [multitile_dict[i] for i in range(num_sprites)], across=template_size)
 
     output_img.pngsave(os.path.join(args.path, f'{args.tile}_multitile.png'))
 

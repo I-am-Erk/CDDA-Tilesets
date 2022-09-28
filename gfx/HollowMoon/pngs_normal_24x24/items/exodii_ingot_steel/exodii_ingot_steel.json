@@ -1,0 +1,54 @@
+[
+  {
+    "id": [
+      "exodii_ingot_steel_season_spring",
+      "exodii_ingot_tin_season_spring",
+      "exodii_ingot_lead_season_spring",
+      "exodii_ingot_zinc_season_spring",
+      "exodii_ingot_copper_season_spring",
+      "exodii_ingot_plastic_season_spring",
+      "exodii_ingot_aluminum_season_spring"
+    ],
+    "fg": [ "exodii_ingot_steel_season_spring" ],
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "exodii_ingot_steel_season_summer",
+      "exodii_ingot_tin_season_summer",
+      "exodii_ingot_lead_season_summer",
+      "exodii_ingot_zinc_season_summer",
+      "exodii_ingot_copper_season_summer",
+      "exodii_ingot_plastic_season_summer",
+      "exodii_ingot_aluminum_season_summer"
+    ],
+    "fg": [ "exodii_ingot_steel_season_summer" ],
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "exodii_ingot_steel_season_autumn",
+      "exodii_ingot_tin_season_autumn",
+      "exodii_ingot_lead_season_autumn",
+      "exodii_ingot_zinc_season_autumn",
+      "exodii_ingot_copper_season_autumn",
+      "exodii_ingot_plastic_season_autumn",
+      "exodii_ingot_aluminum_season_autumn"
+    ],
+    "fg": [ "exodii_ingot_steel_season_autumn" ],
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "exodii_ingot_steel_season_winter",
+      "exodii_ingot_tin_season_winter",
+      "exodii_ingot_lead_season_winter",
+      "exodii_ingot_zinc_season_winter",
+      "exodii_ingot_copper_season_winter",
+      "exodii_ingot_plastic_season_winter",
+      "exodii_ingot_aluminum_season_winter"
+    ],
+    "fg": [ "exodii_ingot_steel_season_winter" ],
+    "bg": [  ]
+  }
+]

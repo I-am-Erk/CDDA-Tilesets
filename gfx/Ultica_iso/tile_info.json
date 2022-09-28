@@ -1,0 +1,191 @@
+[
+  {
+    "iso": true,
+    "pixelscale": 1,
+    "width": 48,
+    "height": 24,
+    "retract_dist_min": 2.5,
+    "retract_dist_max": 6.0,
+    "//": "We assume a base area of 90cm x 90cm."
+  },
+  {
+    "cursors.png": { 
+      "sprite_width": 48,
+      "sprite_height": 96, 
+      "sprite_offset_y": -72
+    }
+  },
+  {
+    "iso_flat.png": {
+      "sprite_width": 48,
+      "sprite_height": 36,
+      "sprite_offset_y": -12,
+      "//5": "Flat objects but some extensions allowed, floors, grass, snow, sidewalks"
+    }
+  },
+  {
+    "iso_half.png": {
+      "sprite_width": 48,
+      "sprite_height": 48,
+      "sprite_offset_y": -24,
+      "//5": "Object like furniture up to 72cm"
+    }
+  },
+  {
+    "iso_full.png": {
+      "sprite_width": 48,
+      "sprite_height": 72,
+      "sprite_offset_y": -48,
+      "//5": "Object like furniture up to 144cm"
+    }
+  },
+  {
+    "iso_high.png": {
+      "sprite_width": 48,
+      "sprite_height": 96,
+      "sprite_offset_y": -72,
+      "//2": "Objects height is about 2.1m."
+    }
+  },
+  {
+    "iso_wide_high.png": {
+      "sprite_width": 96,
+      "sprite_height": 96,
+      "sprite_offset_x": -24,
+      "sprite_offset_y": -72,
+      "//2": "Objects height is about 2.1m, with extra width"
+    }
+  },
+  {
+    "iso_tall_r.png": {
+      "sprite_width": 48,
+      "sprite_height": 120,
+      "sprite_offset_y": -96,
+      "sprite_offset_y_retracted": -5,
+      "//2": "Objects height is about 2.8m: walls, windows, doors goes here. Will be retracted."
+    }
+  },
+  {
+    "iso_tall.png": {
+      "sprite_width": 48,
+      "sprite_height": 120,
+      "sprite_offset_y": -96,
+      "//2": "Objects height is about 2.8m: walls, windows, doors goes here. Will NOT be retracted."
+    }
+  },
+  {
+    "iso_extra_tall.png": {
+      "sprite_width": 48,
+      "sprite_height": 144,
+      "sprite_offset_y": -120,
+      "//2": "Objects height is about 3.6m. Will NOT be retracted."
+    }
+  },
+  {
+    "iso_large.png": { 
+      "sprite_width": 64,
+      "sprite_height": 64,
+      "sprite_offset_x": -8,
+      "sprite_offset_y": -40
+    }
+  },
+  {
+    "iso_giant.png": { 
+      "sprite_width": 96,
+      "sprite_height": 96,
+      "sprite_offset_x": -24,
+      "sprite_offset_y": -72
+    }
+  },
+  {
+    "normal.png": { 
+      "sprite_width": 32,
+      "sprite_height": 32,
+      "sprite_offset_x": 8,
+      "sprite_offset_y": 0,
+      "filler": true
+    }
+  },
+  {
+    "normal_2x.png": { 
+      "sprite_width": 32,
+      "sprite_height": 32,
+      "sprite_offset_x": -6,
+      "sprite_offset_y": -44,
+      "pixelscale": 2,
+      "filler": true
+    }
+  },
+  {
+    "small.png": { 
+      "sprite_width": 20,
+      "sprite_height": 20,
+      "sprite_offset_x": 14,
+      "sprite_offset_y": -4,
+      "filler": true,
+      "exclude": [ "mods" ]
+    }
+  },
+  {
+    "tall_2x.png": { 
+      "sprite_width": 32,
+      "sprite_height": 64,
+      "sprite_offset_x": -6,
+      "sprite_offset_y": -100,
+      "pixelscale": 2,
+      "filler": true
+    }
+  },
+  {
+    "human_body_2x.png": { 
+      "sprite_width": 32,
+      "sprite_height": 36,
+      "sprite_offset_x": -8,
+      "sprite_offset_y": -60,
+      "pixelscale": 2,
+      "filler": true
+    }
+  },
+  {
+    "human_body_plus_2x.png": { 
+      "sprite_width": 32,
+      "sprite_height": 48,
+      "sprite_offset_x": -8,
+      "sprite_offset_y": -72,
+      "pixelscale": 2,
+      "filler": true
+    }
+  },
+  {
+    "large.png": { 
+      "sprite_width": 64,
+      "sprite_height": 64,
+      "sprite_offset_x": -8,
+      "sprite_offset_y": -40,
+      "filler": true
+    }
+  },
+  {
+    "giant.png": { 
+      "sprite_width": 96,
+      "sprite_height": 96,
+      "sprite_offset_x": -24,
+      "sprite_offset_y": -72,
+      "filler": true
+    }
+  },
+  {
+    "fillergiant.png": { 
+      "sprite_width": 96,
+      "sprite_height": 96,
+      "sprite_offset_x": -24,
+      "sprite_offset_y": -72,
+      "filler": true
+    }
+  },
+  {
+    "fallback.png": {
+      "fallback": true
+    }
+  }
+]

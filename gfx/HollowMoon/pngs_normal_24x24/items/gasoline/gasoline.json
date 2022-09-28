@@ -1,0 +1,74 @@
+[
+  {
+    "id": [
+      "gasoline_season_spring",
+      "avgas_season_spring",
+      "biodiesel_season_spring",
+      "crude_lamp_oil_season_spring",
+      "diesel_season_spring",
+      "flamethrower_fuel_season_spring",
+      "gelled_gasoline_season_spring",
+      "jp8_season_spring",
+      "lamp_oil_season_spring",
+      "motor_oil_season_spring",
+      "napalm_season_spring",
+      "nicotine_liquid_season_spring"
+    ],
+    "fg": [ "gasoline_season_spring" ],
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "gasoline_season_summer",
+      "avgas_season_summer",
+      "biodiesel_season_summer",
+      "crude_lamp_oil_season_summer",
+      "diesel_season_summer",
+      "flamethrower_fuel_season_summer",
+      "gelled_gasoline_season_summer",
+      "jp8_season_summer",
+      "lamp_oil_season_summer",
+      "motor_oil_season_summer",
+      "napalm_season_summer",
+      "nicotine_liquid_season_summer"
+    ],
+    "fg": [ "gasoline_season_summer" ],
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "gasoline_season_autumn",
+      "avgas_season_autumn",
+      "biodiesel_season_autumn",
+      "crude_lamp_oil_season_autumn",
+      "diesel_season_autumn",
+      "flamethrower_fuel_season_autumn",
+      "gelled_gasoline_season_autumn",
+      "jp8_season_autumn",
+      "lamp_oil_season_autumn",
+      "motor_oil_season_autumn",
+      "napalm_season_autumn",
+      "nicotine_liquid_season_autumn"
+    ],
+    "fg": [ "gasoline_season_autumn" ],
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "gasoline_season_winter",
+      "avgas_season_winter",
+      "biodiesel_season_winter",
+      "crude_lamp_oil_season_winter",
+      "diesel_season_winter",
+      "flamethrower_fuel_season_winter",
+      "gelled_gasoline_season_winter",
+      "jp8_season_winter",
+      "lamp_oil_season_winter",
+      "motor_oil_season_winter",
+      "napalm_season_winter",
+      "nicotine_liquid_season_winter"
+    ],
+    "fg": [ "gasoline_season_winter" ],
+    "bg": [  ]
+  }
+]

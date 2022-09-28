@@ -1,0 +1,43 @@
+{
+  "id": "vp_inflatable_airbag",
+  "fg": "vp_inflatable_airbag",
+  "bg": "background_black",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_green"
+    },
+    {
+      "id": "center",
+      "fg": "vp_inflatable_airbag_cross",
+      "bg": "background_black"
+    },
+    {
+      "id": "corner",
+      "fg": "vp_inflatable_airbag_corner",
+      "bg": "background_black"
+    },
+    {
+      "id": "edge",
+      "fg": "vp_inflatable_airbag_vertical",
+      "bg": "background_black"
+    },
+    {
+      "id": "end_piece",
+      "fg": "vp_inflatable_airbag_vertical",
+      "bg": "background_black"
+    },
+    {
+      "id": "t_connection",
+      "fg": "vp_inflatable_airbag_t_connection",
+      "bg": "background_black"
+    },
+    {
+      "id": "unconnected",
+      "fg": "vp_inflatable_airbag",
+      "bg": "background_black"
+    }
+  ]
+}

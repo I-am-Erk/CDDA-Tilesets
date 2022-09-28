@@ -1,0 +1,10 @@
+{
+  "id": [
+    "mon_fish_trout",
+    "mon_fish_perch",
+    "mon_fish_salmon",
+    "mon_fish_sunfish",
+    "mon_fish_bowfin"
+  ],
+  "fg": "mon_fish_trout"
+}

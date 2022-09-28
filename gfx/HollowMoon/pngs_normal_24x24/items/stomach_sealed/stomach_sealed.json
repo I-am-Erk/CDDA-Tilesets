@@ -1,0 +1,6 @@
+[
+    { "id": ["stomach_sealed_season_spring", "small_stomach_boiled_season_spring", "small_hstomach_boiled_season_spring", "demihuman_stomach_boiled_season_spring", "small_demihuman_stomach_boiled_season_spring"], "fg": "stomach_sealed_season_spring", "bg": [], "rotates": false },
+	{ "id": ["stomach_sealed_season_autumn", "small_stomach_boiled_season_autumn", "small_hstomach_boiled_season_autumn", "demihuman_stomach_boiled_season_autumn", "small_demihuman_stomach_boiled_season_autumn"], "fg": "stomach_sealed_season_autumn", "bg": [], "rotates": false },
+	{ "id": ["stomach_sealed_season_winter", "small_stomach_boiled_season_winter", "small_hstomach_boiled_season_winter", "demihuman_stomach_boiled_season_winter", "small_demihuman_stomach_boiled_season_winter"], "fg": "stomach_sealed_season_winter", "bg": [], "rotates": false },
+	{ "id": ["stomach_sealed_season_summer", "small_stomach_boiled_season_summer", "small_hstomach_boiled_season_summer", "demihuman_stomach_boiled_season_summer", "small_demihuman_stomach_boiled_season_summer"], "fg": "stomach_sealed_season_summer", "bg": [], "rotates": false }
+]

@@ -1,0 +1,23 @@
+{
+  "id": [
+    "vp_mounted_browning",
+    "vp_mounted_mk19",
+    "vp_mounted_abzats",
+    "vp_mounted_howitzer",
+    "vp_mounted_tank_auto",
+    "vp_mounted_tank_manual",
+    "vp_mounted_tank_rws",
+    "vp_m240",
+    "vp_m60"
+  ],
+  "fg": "vp_mounted_browning",
+  "bg": "background_black",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_green"
+    }
+  ]
+}

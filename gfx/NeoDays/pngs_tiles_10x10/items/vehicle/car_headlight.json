@@ -6,6 +6,7 @@
     "headlight_reinforced",
     "floodlight"
   ],
-  "fg": "car_headlight",
+  "fg": "vp_headlight",
+  "//": "vehicle part",
   "rotates": true
 }

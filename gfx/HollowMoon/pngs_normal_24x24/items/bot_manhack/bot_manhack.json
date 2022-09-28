@@ -1,0 +1,6 @@
+[
+    { "id": ["bot_manhack_season_spring", "bot_c4_hack_season_spring", "bot_EMP_hack_season_spring", "bot_tazer_hack_season_spring", "bot_gasbomb_hack_season_spring", "bot_mininuke_hack_season_spring", "bot_flashbang_hack_season_spring", "bot_grenade_hack_season_spring"], "fg": "bot_manhack_season_spring", "bg": [], "rotates": false },
+	{ "id": ["bot_manhack_season_autumn", "bot_c4_hack_season_autumn", "bot_EMP_hack_season_autumn", "bot_tazer_hack_season_autumn", "bot_gasbomb_hack_season_autumn", "bot_mininuke_hack_season_autumn", "bot_flashbang_hack_season_autumn", "bot_grenade_hack_season_autumn"], "fg": "bot_manhack_season_autumn", "bg": [], "rotates": false },
+	{ "id": ["bot_manhack_season_winter", "bot_c4_hack_season_winter", "bot_EMP_hack_season_winter", "bot_tazer_hack_season_winter", "bot_gasbomb_hack_season_winter", "bot_mininuke_hack_season_winter", "bot_flashbang_hack_season_winter", "bot_grenade_hack_season_winter"], "fg": "bot_manhack_season_winter", "bg": [], "rotates": false },
+	{ "id": ["bot_manhack_season_summer", "bot_c4_hack_season_summer", "bot_EMP_hack_season_summer", "bot_tazer_hack_season_summer", "bot_gasbomb_hack_season_summer", "bot_mininuke_hack_season_summer", "bot_flashbang_hack_season_summer", "bot_grenade_hack_season_summer"], "fg": "bot_manhack_season_summer", "bg": [], "rotates": false }
+]
