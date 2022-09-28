@@ -1,51 +1,84 @@
 {
   "id": "t_brick_wall",
-  "fg": "t_brick_wall_unconnected",
+  "fg": "t_brick_wall1_unconnected",
   "multitile": true,
   "additional_tiles": [
     {
       "id": "center",
-      "fg": "t_brick_wall_center"
+      "fg": [
+        { "weight": 1, "sprite": "t_brick_wall1_center"},
+        { "weight": 1, "sprite": "t_brick_wall2_center"}, 
+        { "weight": 1, "sprite": "t_brick_wall3_center"}, 
+        { "weight": 1, "sprite": "t_brick_wall4_center"}, 
+        { "weight": 1, "sprite": "t_brick_wall5_center"}, 
+        { "weight": 1, "sprite": "t_brick_wall6_center"}, 
+        { "weight": 1, "sprite": "t_brick_wall7_center"}, 
+        { "weight": 1, "sprite": "t_brick_wall8_center"}
+      ]
     },
     {
       "id": "corner",
       "fg": [
-        "t_brick_wall_corner_nw",
-        "t_brick_wall_corner_sw",
-        "t_brick_wall_corner_se",
-        "t_brick_wall_corner_ne"
+        { "weight": 1, "sprite":  [ "t_brick_wall1_corner_nw", "t_brick_wall1_corner_sw", "t_brick_wall1_corner_se", "t_brick_wall1_corner_ne" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall2_corner_nw", "t_brick_wall2_corner_sw", "t_brick_wall2_corner_se", "t_brick_wall2_corner_ne" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall3_corner_nw", "t_brick_wall3_corner_sw", "t_brick_wall3_corner_se", "t_brick_wall3_corner_ne" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall4_corner_nw", "t_brick_wall4_corner_sw", "t_brick_wall4_corner_se", "t_brick_wall4_corner_ne" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall5_corner_nw", "t_brick_wall5_corner_sw", "t_brick_wall5_corner_se", "t_brick_wall5_corner_ne" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall6_corner_nw", "t_brick_wall6_corner_sw", "t_brick_wall6_corner_se", "t_brick_wall6_corner_ne" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall7_corner_nw", "t_brick_wall7_corner_sw", "t_brick_wall7_corner_se", "t_brick_wall7_corner_ne" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall8_corner_nw", "t_brick_wall8_corner_sw", "t_brick_wall8_corner_se", "t_brick_wall8_corner_ne" ] }
       ]
     },
     {
       "id": "t_connection",
       "fg": [
-        "t_brick_wall_t_connection_n",
-        "t_brick_wall_t_connection_w",
-        "t_brick_wall_t_connection_s",
-        "t_brick_wall_t_connection_e"
+        { "weight": 1, "sprite":  [ "t_brick_wall1_t_connection_n", "t_brick_wall1_t_connection_w", "t_brick_wall1_t_connection_s", "t_brick_wall1_t_connection_e" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall2_t_connection_n", "t_brick_wall2_t_connection_w", "t_brick_wall2_t_connection_s", "t_brick_wall2_t_connection_e" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall3_t_connection_n", "t_brick_wall3_t_connection_w", "t_brick_wall3_t_connection_s", "t_brick_wall3_t_connection_e" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall4_t_connection_n", "t_brick_wall4_t_connection_w", "t_brick_wall4_t_connection_s", "t_brick_wall4_t_connection_e" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall5_t_connection_n", "t_brick_wall5_t_connection_w", "t_brick_wall5_t_connection_s", "t_brick_wall5_t_connection_e" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall6_t_connection_n", "t_brick_wall6_t_connection_w", "t_brick_wall6_t_connection_s", "t_brick_wall6_t_connection_e" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall7_t_connection_n", "t_brick_wall7_t_connection_w", "t_brick_wall7_t_connection_s", "t_brick_wall7_t_connection_e" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall8_t_connection_n", "t_brick_wall8_t_connection_w", "t_brick_wall8_t_connection_s", "t_brick_wall8_t_connection_e" ] }
       ]
     },
     {
       "id": "edge",
       "fg": [
-        "t_brick_wall_edge_ns",
-        "t_brick_wall_edge_ew"
+        { "weight": 1, "sprite":  [ "t_brick_wall1_edge_ns", "t_brick_wall1_edge_ew" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall2_edge_ns", "t_brick_wall2_edge_ew" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall3_edge_ns", "t_brick_wall3_edge_ew" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall4_edge_ns", "t_brick_wall4_edge_ew" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall5_edge_ns", "t_brick_wall5_edge_ew" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall6_edge_ns", "t_brick_wall6_edge_ew" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall7_edge_ns", "t_brick_wall7_edge_ew" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall8_edge_ns", "t_brick_wall8_edge_ew" ] }
       ]
     },
     {
       "id": "end_piece",
       "fg": [
-        "t_brick_wall_end_piece_n",
-        "t_brick_wall_end_piece_w",
-        "t_brick_wall_end_piece_s",
-        "t_brick_wall_end_piece_e"
+        { "weight": 1, "sprite":  [ "t_brick_wall1_end_piece_n", "t_brick_wall1_end_piece_w", "t_brick_wall1_end_piece_s", "t_brick_wall1_end_piece_e" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall2_end_piece_n", "t_brick_wall2_end_piece_w", "t_brick_wall2_end_piece_s", "t_brick_wall2_end_piece_e" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall3_end_piece_n", "t_brick_wall3_end_piece_w", "t_brick_wall3_end_piece_s", "t_brick_wall3_end_piece_e" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall4_end_piece_n", "t_brick_wall4_end_piece_w", "t_brick_wall4_end_piece_s", "t_brick_wall4_end_piece_e" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall5_end_piece_n", "t_brick_wall5_end_piece_w", "t_brick_wall5_end_piece_s", "t_brick_wall5_end_piece_e" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall6_end_piece_n", "t_brick_wall6_end_piece_w", "t_brick_wall6_end_piece_s", "t_brick_wall6_end_piece_e" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall7_end_piece_n", "t_brick_wall7_end_piece_w", "t_brick_wall7_end_piece_s", "t_brick_wall7_end_piece_e" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall8_end_piece_n", "t_brick_wall8_end_piece_w", "t_brick_wall8_end_piece_s", "t_brick_wall8_end_piece_e" ] }
       ]
     },
     {
       "id": "unconnected",
       "fg": [
-        "t_brick_wall_unconnected",
-        "t_brick_wall_unconnected"
+        { "weight": 1, "sprite":  [ "t_brick_wall1_unconnected", "t_brick_wall1_unconnected" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall2_unconnected", "t_brick_wall2_unconnected" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall3_unconnected", "t_brick_wall3_unconnected" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall4_unconnected", "t_brick_wall4_unconnected" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall5_unconnected", "t_brick_wall5_unconnected" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall6_unconnected", "t_brick_wall6_unconnected" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall7_unconnected", "t_brick_wall7_unconnected" ] },
+        { "weight": 1, "sprite":  [ "t_brick_wall8_unconnected", "t_brick_wall8_unconnected" ] }
       ]
     }
   ]
