@@ -1,0 +1,6 @@
+{
+  "id": "f_filing_cabinet",
+  "height_3d": 48,
+  "rotates": true,
+  "fg": ["f_filing_cabinet_faceS", "f_filing_cabinet_faceW", "f_filing_cabinet_faceN", "f_filing_cabinet_faceE"]
+}
