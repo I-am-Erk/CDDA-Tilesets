@@ -4,26 +4,6 @@
     "fg": "t_window"
   },
   {
-    "id": "t_window_empty",
-    "fg": "t_window_empty"
-  },
-  {
-    "id": "t_window_domestic",
-    "fg": "t_window_domestic"
-  },
-  {
-    "id": "t_window_open",
-    "fg": "t_window_open"
-  },
-  {
-    "id": "t_window_no_curtains",
-    "fg": "t_window_no_curtains"
-  },
-  {
-    "id": "t_window_no_curtains_open",
-    "fg": "t_window_no_curtains_open"
-  },
-  {
     "id": [ "t_window_taped", "t_window_alarm_taped" ],
     "fg": "t_window_taped"
   }
