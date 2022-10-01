@@ -1,0 +1,11 @@
+[
+  {
+    "id": "t_door_bar_c",
+    "fg": "t_door_bar_c"
+  },
+  {
+    "id": "t_door_bar_locked",
+    "fg": "pickable",
+    "bg": "t_door_bar_c"
+  }
+]
