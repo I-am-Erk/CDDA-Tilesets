@@ -107,10 +107,21 @@
   },
   {
     "normal.png": { 
+      "//": "Items are offset already for placement on tables",
       "sprite_width": 32,
       "sprite_height": 32,
       "sprite_offset_x": 8,
       "sprite_offset_y": 0,
+      "filler": true
+    }
+  },
+  {
+    "normal_offset.png": { 
+      "//": "Furniture needs to be offset for iso",
+      "sprite_width": 32,
+      "sprite_height": 32,
+      "sprite_offset_x": 8,
+      "sprite_offset_y": -8,
       "filler": true
     }
   },
