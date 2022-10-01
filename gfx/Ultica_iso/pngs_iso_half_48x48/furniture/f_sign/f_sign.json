@@ -1,0 +1,53 @@
+{
+  "id": "f_sign",
+  "fg": "f_sign_faceS",
+  "height_3d": 24,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_sign_faceS"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_sign_faceW",
+        "f_sign_faceS",
+        "f_sign_faceS",
+        "f_sign_faceS"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_sign_faceS",
+        "f_sign_faceW",
+        "f_sign_faceS",
+        "f_sign_faceS"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_sign_faceW",
+        "f_sign_faceS"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_sign_faceW",
+        "f_sign_faceS",
+        "f_sign_faceW",
+        "f_sign_faceS"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_sign_faceS",
+        "f_sign_faceW"
+      ]
+    }
+  ]
+}
