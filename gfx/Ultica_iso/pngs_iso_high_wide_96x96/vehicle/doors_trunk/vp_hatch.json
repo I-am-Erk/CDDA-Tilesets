@@ -1,0 +1,16 @@
+{
+  "id": "vp_hatch",
+  "fg": [
+    "vp_door_trunk",
+    "vp_door_trunk_rotW",
+    "vp_door_trunk_rotS",
+    "vp_door_trunk_rotE"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "open",
+      "fg": [ "vp_door_trunk_open", "vp_door_trunk_open_rotW", "vp_door_trunk_open_rotS", "vp_door_trunk_open_rotE" ]
+    }
+  ]
+}
