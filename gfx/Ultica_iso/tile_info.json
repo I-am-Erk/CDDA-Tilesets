@@ -40,6 +40,14 @@
     }
   },
   {
+    "iso_full_wide.png": {
+      "sprite_width": 96,
+      "sprite_height": 72,
+      "sprite_offset_x": -24,
+      "sprite_offset_y": -48
+    }
+  },
+  {
     "iso_high.png": {
       "sprite_width": 48,
       "sprite_height": 96,
@@ -56,7 +64,7 @@
     }
   },
   {
-    "iso_wide_high.png": {
+    "iso_high_wide.png": {
       "sprite_width": 96,
       "sprite_height": 96,
       "sprite_offset_x": -24,
