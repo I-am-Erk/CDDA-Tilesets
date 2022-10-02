@@ -1,0 +1,5 @@
+{
+  "id": "vp_cargo_space",
+    "fg": [ "vp_cargo_space", "vp_cargo_space_rot" ],
+  "rotates": true
+}

@@ -1,0 +1,5 @@
+{
+  "id": "vp_box",
+  "fg": [ "vp_box", "vp_box_rot" ],
+  "rotates": true
+}
