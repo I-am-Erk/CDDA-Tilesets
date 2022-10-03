@@ -2,47 +2,55 @@
   {
     "id": "graffiti",
     "fg": [
-      { 
+      {
+        "weight": 20,
+        "sprite": [ "graffiti_TEXT_01_w", "graffiti_TEXT_01_f" ]
+      },
+      {
+        "weight": 20,
+        "sprite": [ "graffiti_TEXT_02_w", "graffiti_TEXT_02_f" ]
+      },
+      {
         "weight": 10,
         "sprite": [ "graffiti_I_WAS_HERE_w", "graffiti_I_WAS_HERE_f" ]
       },
-      { 
+      {
         "weight": 10,
         "sprite": [ "graffiti_NO_FUTURE_w", "graffiti_NO_FUTURE_f" ]
       },
-      { 
+      {
         "weight": 5,
         "sprite": [ "graffiti_ANARCHY_w", "graffiti_ANARCHY_f" ]
       },
-      { 
+      {
         "weight": 5,
         "sprite": [ "graffiti_SKULL_w", "graffiti_SKULL_f" ]
       },
-      { 
+      {
         "weight": 5,
         "sprite": [ "graffiti_ZOMBIE_w", "graffiti_ZOMBIE_f" ]
       },
-      { 
+      {
         "weight": 5,
         "sprite": [ "graffiti_HIC_SUNT_IMMORTUI_w", "graffiti_HIC_SUNT_IMMORTUI_f" ]
       },
-      { 
+      {
         "weight": 1,
         "sprite": [ "graffiti_BANKSY_HEART_w", "graffiti_BANKSY_HEART_f" ]
       },
-      { 
+      {
         "weight": 10,
         "sprite": [ "graffiti_FCK_YOU_w", "graffiti_FCK_YOU_f" ]
       },
-      { 
+      {
         "weight": 10,
         "sprite": [ "graffiti_FCK_ZBS_w", "graffiti_FCK_ZBS_f" ]
       },
-      { 
+      {
         "weight": 5,
         "sprite": [ "graffiti_FCK_NZS_w", "graffiti_FCK_NZS_f" ]
       },
-      { 
+      {
         "weight": 5,
         "sprite": [ "graffiti_FCK_PTN_w", "graffiti_FCK_PTN_f" ]
       }
