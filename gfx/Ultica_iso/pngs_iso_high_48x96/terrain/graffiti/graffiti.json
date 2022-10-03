@@ -20,6 +20,10 @@
       },
       { 
         "weight": 5,
+        "sprite": [ "graffiti_ZOMBIE_w", "graffiti_ZOMBIE_f" ]
+      },
+      { 
+        "weight": 5,
         "sprite": [ "graffiti_HIC_SUNT_IMMORTUI_w", "graffiti_HIC_SUNT_IMMORTUI_f" ]
       },
       { 
@@ -62,11 +66,15 @@
     "fg": [ "graffiti_SKULL_w", "graffiti_SKULL_f" ]
   },
   {
+    "id": [ "graffiti_ZOMBIE", "graffiti_ZOMBIES", "graffiti_Z", "graffiti_ZS" ],
+    "fg": [ "graffiti_ZOMBIE_w", "graffiti_ZOMBIE_f" ]
+  },
+  {
     "id": [ "graffiti_HIC_SUNT_IMMORTUI", "graffiti_IMMORTUI" ],
     "fg": [ "graffiti_HIC_SUNT_IMMORTUI_w", "graffiti_HIC_SUNT_IMMORTUI_f" ]
   },
   {
-    "id": [ "graffiti_BANKSY_HEART", "graffiti_BANKSY_GIRL" ],
+    "id": [ "graffiti_BANKSY_HEART", "graffiti_BANKSY_GIRL", "graffiti_GIRL" ],
     "fg": [ "graffiti_BANKSY_HEART_w", "graffiti_BANKSY_HEART_f" ]
   },
   {
