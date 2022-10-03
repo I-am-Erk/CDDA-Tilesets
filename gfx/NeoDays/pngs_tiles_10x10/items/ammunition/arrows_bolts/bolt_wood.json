@@ -1,13 +1,4 @@
 {
-  "id": [
-    "bolt_wood",
-    "bolt_wood_bodkin",
-    "bolt_wood_small_game",
-    "bolt_simple_wood",
-    "bolt_simple_small_game",
-    "bolt_makeshift",
-    "arrow_fire_hardened_fletched",
-    "arrow_heavy_fire_hardened_fletched"
-  ],
+  "id": ["bolt_wood", "arrow_fire_hardened_fletched", "arrow_heavy_fire_hardened_fletched"],
   "fg": "bolt_wood"
 }
