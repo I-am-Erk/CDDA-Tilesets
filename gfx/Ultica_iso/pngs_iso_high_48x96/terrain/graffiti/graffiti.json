@@ -1,0 +1,48 @@
+{
+  "id": "graffiti",
+  "fg": [
+    { 
+      "weight": 1,
+      "sprite": [
+        "graffiti_I_WAS_HERE_w",
+        "graffiti_I_WAS_HERE_f"
+      ]
+    },
+    { 
+      "weight": 1,
+      "sprite": [
+        "graffiti_ANARCHY_w",
+        "graffiti_ANARCHY_f"
+      ]
+    },
+    { 
+      "weight": 1,
+      "sprite": [
+        "graffiti_BANKSY_HEART_w",
+        "graffiti_BANKSY_HEART_f"
+      ]
+    },
+    { 
+      "weight": 1,
+      "sprite": [
+        "graffiti_FCK_ZBS_w",
+        "graffiti_FCK_ZBS_f"
+      ]
+    },
+    { 
+      "weight": 1,
+      "sprite": [
+        "graffiti_FCK_NZS_w",
+        "graffiti_FCK_NZS_f"
+      ]
+    },
+    { 
+      "weight": 1,
+      "sprite": [
+        "graffiti_FCK_PTN_w",
+        "graffiti_FCK_PTN_f"
+      ]
+    }
+  ],
+  "bg": ""
+}
