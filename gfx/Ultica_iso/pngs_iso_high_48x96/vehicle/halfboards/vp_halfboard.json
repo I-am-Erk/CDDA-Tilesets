@@ -30,6 +30,18 @@
     "bg": [  ]
   },
   {
+    "id": [ "vp_halfboard_hatch_wheel_right" ],
+    "fg": [ "vp_halfboard_se", "vp_halfboard_se_rotW", "vp_halfboard_hatch_wheel_right_rotS", "vp_halfboard_hatch_wheel_right_rotE" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": [ "vp_halfboard_hatch_wheel_left" ],
+    "fg": [ "vp_halfboard_hatch_wheel_left", "vp_halfboard_hatch_wheel_left_rotW", "vp_halfboard_sw_rotS", "vp_halfboard_sw_rotE" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
     "id": "vp_halfboard_vertical_left",
     "fg": [ "vp_halfboard_vertical_left", "vp_halfboard_vertical_right_rotE", "vp_halfboard_vertical_right", "vp_halfboard_vertical_left_rotE" ],
     "rotates": true,
