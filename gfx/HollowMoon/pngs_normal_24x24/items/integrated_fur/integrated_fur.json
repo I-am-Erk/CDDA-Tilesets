@@ -1,7 +1,7 @@
 [
   {
     "id": [
-      "integrated_fur_season_spring"
+      "integrated_fur_season_spring",
       "integrated_lynx_fur_season_spring",
       "integrated_lupine_fur_season_spring",
       "integrated_feline_fur_season_spring",
@@ -15,7 +15,7 @@
   },
   {
     "id": [
-      "integrated_fur_season_summer"
+      "integrated_fur_season_summer",
       "integrated_lynx_fur_season_summer",
       "integrated_lupine_fur_season_summer",
       "integrated_feline_fur_season_summer",
@@ -29,7 +29,7 @@
   },
   {
     "id": [
-      "integrated_fur_season_autumn"
+      "integrated_fur_season_autumn",
       "integrated_lynx_fur_season_autumn",
       "integrated_lupine_fur_season_autumn",
       "integrated_feline_fur_season_autumn",
