@@ -2,8 +2,7 @@
   {
     "id": [
       "chem_aluminium_powder_season_spring",
-      "cathod_mix_season_spring",
-      "chem_aluminium_powder_season_spring",
+      "cathod_mix_season_spring"
       "chem_aluminium_sulphate_season_spring",
       "chem_ammonium_nitrate_season_spring",
       "chem_antimony_trichloride_season_spring",
@@ -20,8 +19,7 @@
       "detergent_season_spring",
       "extinguishing_agent_season_spring",
       "chem_hexamine_season_spring",
-      "chem_hmtd_season_spring",
-      "chem_hydrogen_peroxide_conc_season_spring",
+      "chem_hmtd_season_spring"
       "chem_rocket_fuel_season_spring",
       "incendiary_season_spring",
       "chem_lead_azide_season_spring",
@@ -57,8 +55,7 @@
   {
     "id": [
       "chem_aluminium_powder_season_summer",
-      "cathod_mix_season_summer",
-      "chem_aluminium_powder_season_summer",
+      "cathod_mix_season_summer"
       "chem_aluminium_sulphate_season_summer",
       "chem_ammonium_nitrate_season_summer",
       "chem_antimony_trichloride_season_summer",
@@ -75,8 +72,7 @@
       "detergent_season_summer",
       "extinguishing_agent_season_summer",
       "chem_hexamine_season_summer",
-      "chem_hmtd_season_summer",
-      "chem_hydrogen_peroxide_conc_season_summer",
+      "chem_hmtd_season_summer"
       "chem_rocket_fuel_season_summer",
       "incendiary_season_summer",
       "chem_lead_azide_season_summer",
@@ -112,8 +108,7 @@
   {
     "id": [
       "chem_aluminium_powder_season_autumn",
-      "cathod_mix_season_autumn",
-      "chem_aluminium_powder_season_autumn",
+      "cathod_mix_season_autumn"
       "chem_aluminium_sulphate_season_autumn",
       "chem_ammonium_nitrate_season_autumn",
       "chem_antimony_trichloride_season_autumn",
@@ -130,8 +125,7 @@
       "detergent_season_autumn",
       "extinguishing_agent_season_autumn",
       "chem_hexamine_season_autumn",
-      "chem_hmtd_season_autumn",
-      "chem_hydrogen_peroxide_conc_season_autumn",
+      "chem_hmtd_season_autumn"
       "chem_rocket_fuel_season_autumn",
       "incendiary_season_autumn",
       "chem_lead_azide_season_autumn",
@@ -167,8 +161,7 @@
   {
     "id": [
       "chem_aluminium_powder_season_winter",
-      "cathod_mix_season_winter",
-      "chem_aluminium_powder_season_winter",
+      "cathod_mix_season_winter"
       "chem_aluminium_sulphate_season_winter",
       "chem_ammonium_nitrate_season_winter",
       "chem_antimony_trichloride_season_winter",
@@ -186,7 +179,6 @@
       "extinguishing_agent_season_winter",
       "chem_hexamine_season_winter",
       "chem_hmtd_season_winter",
-      "chem_hydrogen_peroxide_conc_season_winter",
       "chem_rocket_fuel_season_winter",
       "incendiary_season_winter",
       "chem_lead_azide_season_winter",

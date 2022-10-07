@@ -8,8 +8,7 @@
       "integrated_lightfur_conc_season_spring",
       "integrated_ursine_fur_season_spring",
       "sheet_fur_patchworkseason_spring",
-      "scrap_faux_fur_season_spring",
-      "methed_alcohol_season_spring"
+      "scrap_faux_fur_season_spring"
     ],
     "fg": "integrated_fur_season_spring"
   },
@@ -22,8 +21,7 @@
       "integrated_lightfur_conc_season_summer",
       "integrated_ursine_fur_season_summer",
       "sheet_fur_patchworkseason_summer",
-      "scrap_faux_fur_season_summer",
-      "methed_alcohol_season_summer"
+      "scrap_faux_fur_season_summer"
     ],
     "fg": "integrated_fur_season_summer"
   },
@@ -36,8 +34,7 @@
       "integrated_lightfur_conc_season_autumn",
       "integrated_ursine_fur_season_autumn",
       "sheet_fur_patchworkseason_autumn",
-      "scrap_faux_fur_season_autumn",
-      "methed_alcohol_season_autumn"
+      "scrap_faux_fur_season_autumn"
     ],
     "fg": "integrated_fur_season_autumn"
   },
@@ -50,8 +47,7 @@
       "integrated_lightfur_conc_season_winter",
       "integrated_ursine_fur_season_winter",
       "sheet_fur_patchworkseason_winter",
-      "scrap_faux_fur_season_winter",
-      "methed_alcohol_season_winter"
+      "scrap_faux_fur_season_winter"
     ],
     "fg": "integrated_fur_season_winter"
   }
