@@ -2,6 +2,14 @@
 
 Isometric version of the Ultimate Cataclysm (Ultica) tileset.
 
+## Download
+
+Ultica-ISO is not in the game yet, but you can download it [here](https://github.com/I-am-Erk/CDDA-Tilesets/actions/workflows/Ultica-iso_ci_build.yml?query=is:success).
+
+Select the top-most workflow run, and scroll down to the Artifacts section.
+
+## Sprite sizes
+
 The tile base is 48x24px.
 
 ## Length units
