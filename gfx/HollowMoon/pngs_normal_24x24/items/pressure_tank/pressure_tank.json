@@ -1,0 +1,42 @@
+[
+  {
+    "id": [
+      "pressure_tank_season_spring",
+      "nitrogen_tank_season_spring",
+      "hydrogen_tank_season_spring",
+      "butane_tank_season_spring"
+    ],
+    "fg": [ "pressure_tank_season_spring" ],
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "pressure_tank_season_summer",
+      "nitrogen_tank_season_summer",
+      "hydrogen_tank_season_summer",
+      "butane_tank_season_summer"
+    ],
+    "fg": [ "pressure_tank_season_summer" ],
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "pressure_tank_season_autumn",
+      "nitrogen_tank_season_autumn",
+      "hydrogen_tank_season_autumn",
+      "butane_tank_season_autumn"
+    ],
+    "fg": [ "pressure_tank_season_autumn" ],
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "pressure_tank_season_winter",
+      "nitrogen_tank_season_winter",
+      "hydrogen_tank_season_winter",
+      "butane_tank_season_winter"
+    ],
+    "fg": [ "pressure_tank_season_winter" ],
+    "bg": [  ]
+  }
+]

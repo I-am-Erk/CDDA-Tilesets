@@ -1,0 +1,6 @@
+[
+    { "id": ["aquarium_small_drying_season_spring", "aquarium_small_season_spring"], "fg": "aquarium_small_drying_season_spring", "bg": [], "rotates": false },
+	{ "id": ["aquarium_small_drying_season_autumn", "aquarium_small_season_autumn"], "fg": "aquarium_small_drying_season_autumn", "bg": [], "rotates": false },
+	{ "id": ["aquarium_small_drying_season_winter", "aquarium_small_season_winter"], "fg": "aquarium_small_drying_season_winter", "bg": [], "rotates": false },
+	{ "id": ["aquarium_small_drying_season_summer", "aquarium_small_season_summer"], "fg": "aquarium_small_drying_season_summer", "bg": [], "rotates": false }
+]

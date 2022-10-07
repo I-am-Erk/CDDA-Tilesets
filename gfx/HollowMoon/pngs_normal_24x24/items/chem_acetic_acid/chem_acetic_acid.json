@@ -1,0 +1,62 @@
+[
+  {
+    "id": [
+      "chem_acetic_acid_season_spring",
+      "chem_acetone_season_spring",
+      "anesthetic_season_spring",
+      "denat_alcohol_season_spring",
+      "chem_ethanol_season_spring",
+      "chem_hydrogen_peroxide_conc_season_spring",
+      "chem_formaldehyde_season_spring",
+      "chem_methanol_season_spring",
+      "chem_methanol_fuelcell_season_spring",
+      "methed_alcohol_season_spring"
+    ],
+    "fg": "chem_acetic_acid_season_spring"
+  },
+  {
+    "id": [
+      "chem_acetic_acid_season_summer",
+      "chem_acetone_season_summer",
+      "anesthetic_season_summer",
+      "denat_alcohol_season_summer",
+      "chem_ethanol_season_summer",
+      "chem_hydrogen_peroxide_conc_season_summer",
+      "chem_formaldehyde_season_summer",
+      "chem_methanol_season_summer",
+      "chem_methanol_fuelcell_season_summer",
+      "methed_alcohol_season_summer"
+    ],
+    "fg": "chem_acetic_acid_season_summer"
+  },
+  {
+    "id": [
+      "chem_acetic_acid_season_autumn",
+      "chem_acetone_season_autumn",
+      "anesthetic_season_autumn",
+      "denat_alcohol_season_autumn",
+      "chem_ethanol_season_autumn",
+      "chem_hydrogen_peroxide_conc_season_autumn",
+      "chem_formaldehyde_season_autumn",
+      "chem_methanol_season_autumn",
+      "chem_methanol_fuelcell_season_autumn",
+      "methed_alcohol_season_autumn"
+    ],
+    "fg": "chem_acetic_acid_season_autumn"
+  },
+  {
+    "id": [
+      "chem_acetic_acid_season_winter",
+      "chem_acetone_season_winter",
+      "anesthetic_season_winter",
+      "denat_alcohol_season_winter",
+      "chem_ethanol_season_winter",
+      "chem_hydrogen_peroxide_conc_season_winter",
+      "chem_formaldehyde_season_winter",
+      "chem_methanol_season_winter",
+      "chem_methanol_fuelcell_season_winter",
+      "methed_alcohol_season_winter"
+    ],
+    "fg": "chem_acetic_acid_season_winter"
+  }
+]
