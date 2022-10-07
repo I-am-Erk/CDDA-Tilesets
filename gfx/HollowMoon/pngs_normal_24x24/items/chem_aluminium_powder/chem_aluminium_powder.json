@@ -2,7 +2,7 @@
   {
     "id": [
       "chem_aluminium_powder_season_spring",
-      "cathod_mix_season_spring"
+      "cathod_mix_season_spring",
       "chem_aluminium_sulphate_season_spring",
       "chem_ammonium_nitrate_season_spring",
       "chem_antimony_trichloride_season_spring",
@@ -55,7 +55,7 @@
   {
     "id": [
       "chem_aluminium_powder_season_summer",
-      "cathod_mix_season_summer"
+      "cathod_mix_season_summer",
       "chem_aluminium_sulphate_season_summer",
       "chem_ammonium_nitrate_season_summer",
       "chem_antimony_trichloride_season_summer",
@@ -108,7 +108,7 @@
   {
     "id": [
       "chem_aluminium_powder_season_autumn",
-      "cathod_mix_season_autumn"
+      "cathod_mix_season_autumn",
       "chem_aluminium_sulphate_season_autumn",
       "chem_ammonium_nitrate_season_autumn",
       "chem_antimony_trichloride_season_autumn",
@@ -161,7 +161,7 @@
   {
     "id": [
       "chem_aluminium_powder_season_winter",
-      "cathod_mix_season_winter"
+      "cathod_mix_season_winter",
       "chem_aluminium_sulphate_season_winter",
       "chem_ammonium_nitrate_season_winter",
       "chem_antimony_trichloride_season_winter",
