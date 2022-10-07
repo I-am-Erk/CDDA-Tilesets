@@ -1,0 +1,46 @@
+[
+  {
+    "id": [
+      "w_paint_season_spring",
+      "p_paint_season_spring",
+      "g_paint_season_spring",
+      "b_paint_season_spring",
+      "y_paint_season_spring"
+    ],
+    "fg": [ "w_paint_season_spring" ],
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "w_paint_season_summer",
+      "p_paint_season_summer",
+      "g_paint_season_summer",
+      "b_paint_season_summer",
+      "y_paint_season_summer"
+    ],
+    "fg": [ "w_paint_season_summer" ],
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "w_paint_season_autumn",
+      "p_paint_season_autumn",
+      "g_paint_season_autumn",
+      "b_paint_season_autumn",
+      "y_paint_season_autumn"
+    ],
+    "fg": [ "w_paint_season_autumn" ],
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "w_paint_season_winter",
+      "p_paint_season_winter",
+      "g_paint_season_winter",
+      "b_paint_season_winter",
+      "y_paint_season_winter"
+    ],
+    "fg": [ "w_paint_season_winter" ],
+    "bg": [  ]
+  }
+]

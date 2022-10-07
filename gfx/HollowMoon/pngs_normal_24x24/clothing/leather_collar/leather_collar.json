@@ -1,0 +1,6 @@
+[
+    { "id": ["leather_collar_season_spring", "faux_fur_collar_season_spring", "fur_collar_season_spring"], "fg": "leather_collar_season_spring", "bg": [], "rotates": false },
+	{ "id": ["leather_collar_season_autumn", "faux_fur_collar_season_autumn", "fur_collar_season_autumn"], "fg": "leather_collar_season_autumn", "bg": [], "rotates": false },
+	{ "id": ["leather_collar_season_winter", "faux_fur_collar_season_winter", "fur_collar_season_winter"], "fg": "leather_collar_season_winter", "bg": [], "rotates": false },
+	{ "id": ["leather_collar_season_summer", "faux_fur_collar_season_summer", "fur_collar_season_summer"], "fg": "leather_collar_season_summer", "bg": [], "rotates": false }
+]
