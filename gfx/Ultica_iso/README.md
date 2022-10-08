@@ -2,6 +2,8 @@
 
 Isometric version of the Ultimate Cataclysm (Ultica) tileset.
 
+## Sprite sizes
+
 The tile base is 48x24px.
 
 ## Length units
