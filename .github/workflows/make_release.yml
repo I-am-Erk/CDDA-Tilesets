@@ -128,6 +128,10 @@ jobs:
             artifact: UltimateCataclysm
             tileset_dir: gfx/UltimateCataclysm
             compose_args: --use-all --obsolete-fillers
+          - name: Ultica_iso
+            artifact: Ultica_iso
+            tileset_dir: gfx/Ultica_iso
+            compose_args: --use-all
     name: ${{ matrix.name }}
     runs-on: ubuntu-latest
     steps:
