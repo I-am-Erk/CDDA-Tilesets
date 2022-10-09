@@ -17,6 +17,6 @@
   {
     "id": [ "t_claymound" ],
     "fg": [ "t_claymound" ],
-    "bg": [  ]
+    "height_3d": 2
   }
 ]

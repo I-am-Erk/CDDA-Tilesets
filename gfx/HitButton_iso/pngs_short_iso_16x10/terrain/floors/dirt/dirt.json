@@ -17,6 +17,6 @@
   {
     "id": [ "t_dirtmound" ],
     "fg": [ "t_dirtmound" ],
-    "bg": [  ]
+    "height_3d": 2
   }
 ]

@@ -17,6 +17,6 @@
   {
     "id": [ "t_sandmound" ],
     "fg": [ "t_sandmound" ],
-    "bg": [  ]
+    "height_3d": 2
   }
 ]
