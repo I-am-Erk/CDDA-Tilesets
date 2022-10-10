@@ -1,7 +1,8 @@
 {
   "id": [
     "t_tree_dead_season_winter",
-    "t_tree_harvested_season_winter"
+    "t_tree_harvested_season_winter",
+    "t_tree_season_winter"
   ],
   "fg": "t_tree_dead_season_winter"
 }
