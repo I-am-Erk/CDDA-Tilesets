@@ -20,7 +20,13 @@
     "ultica-tall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true }
   },
   {
-    "human_body.png": { "sprite_width": 32, "sprite_height": 36, "sprite_offset_y": -8, "filler": true }
+    "human_body.png": {
+      "sprite_width": 32,
+      "sprite_height": 36,
+      "sprite_offset_y": -8,
+      "filler": true,
+      "exclude": [ "overlay/bionics", "overlay/facial_hair", "overlay/hair", "overlay/mutations", "overlay/skin", "overlay/worn" ]
+    }
   },
   {
     "human_body_plus.png": {
@@ -30,9 +36,6 @@
       "filler": true,
       "exclude": [ "character", "mods/magiclysm/overlay/worn", "overlay/mutations", "overlay/skin", "overlay/worn" ]
     }
-  },
-  {
-    "human_body_wielded.png": { "sprite_width": 32, "sprite_height": 36, "sprite_offset_y": -8, "filler": true }
   },
   {
     "centered.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -16, "filler": true }
