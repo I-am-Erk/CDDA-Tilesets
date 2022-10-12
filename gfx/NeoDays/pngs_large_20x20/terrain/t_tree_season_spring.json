@@ -1,0 +1,11 @@
+{
+  "id": [
+    "t_tree_season_spring",
+    "t_tree",
+    "t_tree_apple_season_summer",
+    "t_tree_pear_season_summer",
+    "t_tree_apple_harvested",
+    "t_tree_pear_harvested"
+  ],
+  "fg": "t_tree_season_spring"
+}
