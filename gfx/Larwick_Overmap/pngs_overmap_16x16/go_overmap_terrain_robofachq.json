@@ -73,7 +73,11 @@
       "robofachq_meteorology0",
       "robofachq_meteorology1",
       "robofachq_meteorology2",
-      "robofachq_meteorology3"
+      "robofachq_meteorology3",
+      "robofachq_meteorology_roof0",
+      "robofachq_meteorology_roof1",
+      "robofachq_meteorology_roof2",
+      "robofachq_meteorology_roof3"
     ],
     "fg": "bunker_yellow"
   }
