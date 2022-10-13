@@ -16,6 +16,18 @@
     },
     {
       "weight": 10,
+      "sprite": "graffiti_TEXT_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_TEXT_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_TEXT_5"
+    },
+    {
+      "weight": 10,
       "sprite": "graffiti_ART_0"
     },
     {
@@ -33,6 +45,18 @@
     {
       "weight": 10,
       "sprite": "graffiti_ART_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_ART_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_ART_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_ART_7"
     }
   ]
 }
