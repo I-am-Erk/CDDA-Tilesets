@@ -61,6 +61,18 @@
     {
       "weight": 10,
       "sprite": "graffiti_ART_8"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_A"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_SKULL"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_ZOMBIE"
     }
   ]
 }

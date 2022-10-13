@@ -1,0 +1,5 @@
+{
+  "id": "graffiti_SKULL",
+  "fg": "graffiti_SKULL",
+  "//": "in order to guarantee being called when the sprite is a skull tag, this is needed"
+}
