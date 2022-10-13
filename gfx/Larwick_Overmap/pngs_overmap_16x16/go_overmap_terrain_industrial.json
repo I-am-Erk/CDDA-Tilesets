@@ -585,5 +585,9 @@
       "full_basic_lab_roof"
     ],
     "fg": "industry_light_gray"
+  },
+  {
+    "id": "smallscrapyard_ocu",
+    "fg": "hive_red"
   }
 ]
