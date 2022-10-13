@@ -44,7 +44,12 @@
     },
     {
       "id": "unconnected",
-      "fg": "f_sink_unconnected"
+      "fg": [
+        "f_sink_unconnected",
+        "f_sink_unconnected",
+        "f_sink_unconnected",
+        "f_sink_unconnected"
+      ]
     }
   ]
 }
