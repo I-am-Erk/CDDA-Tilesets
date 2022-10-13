@@ -57,6 +57,10 @@
     {
       "weight": 10,
       "sprite": "graffiti_ART_7"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_ART_8"
     }
   ]
 }
