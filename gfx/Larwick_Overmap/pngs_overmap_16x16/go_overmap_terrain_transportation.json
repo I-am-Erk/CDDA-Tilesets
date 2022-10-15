@@ -200,6 +200,7 @@
       "runway_fuel2",
       "runway_end"
     ],
+    "rotates": true,
     "fg": "h_runway"
   },
   {
@@ -241,6 +242,7 @@
       "s_air_runway_B",
       "s_air_runway_l"
     ],
+    "rotates": true,
     "fg": "h_runway"
   },
   {
