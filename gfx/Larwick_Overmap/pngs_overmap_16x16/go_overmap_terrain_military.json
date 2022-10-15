@@ -105,36 +105,26 @@
     "fg": "building_columns_red"
   },
   {
-    "id": "helipad_nw",
+    "id": [
+      "helipad_nw",
+      "helipad_ne",
+      "helipad2f_nw",
+      "helipad2f_ne",
+      "helipad_roof_nw",
+      "helipad_roof_ne"
+    ],
     "fg": "building_columns_red"
   },
   {
-    "id": "helipad_ne",
-    "fg": "building_columns_red"
-  },
-  {
-    "id": "helipad_sw",
-    "fg": "building_columns_red"
-  },
-  {
-    "id": "helipad_se",
-    "fg": "building_columns_red"
-  },
-  {
-    "id": "helipad2f_nw",
-    "fg": "building_columns_red"
-  },
-  {
-    "id": "helipad2f_ne",
-    "fg": "building_columns_red"
-  },
-  {
-    "id": "helipad2f_sw",
-    "fg": "building_columns_red"
-  },
-  {
-    "id": "helipad2f_se",
-    "fg": "building_columns_red"
+    "id": [
+      "helipad_sw",
+      "helipad_se",
+      "helipad2f_sw",
+      "helipad2f_se",
+      "helipad_roof_sw",
+      "helipad_roof_se"
+    ],
+    "fg": "helipad_red"
   },
   {
     "id": "mil_base_1a",
