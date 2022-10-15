@@ -512,59 +512,62 @@
     "fg": "cabin_brown"
   },
   {
-    "id": "farm_dairy_twd_1",
+    "id": [
+      "farm_dairy_twd_1",
+      "farm_dairy_twd_2",
+      "farm_dairy_twd_9",
+      "farm_dairy_twd_10"
+    ],
     "fg": "two_grass_brown"
   },
   {
-    "id": "farm_dairy_twd_2",
-    "fg": "two_grass_brown"
-  },
-  {
-    "id": "farm_dairy_twd_3",
-    "fg": "two_grass_brown"
-  },
-  {
-    "id": "farm_dairy_twd_4",
+    "id": [
+      "farm_dairy_twd_3",
+      "farm_dairy_twd_4",
+      "farm_dairy_twd_second_floor_3",
+      "farm_dairy_twd_second_floor_4",
+      "farm_dairy_twd_second_floor_12",
+      "farm_dairy_twd_3_roof",
+      "farm_dairy_twd_4_roof"
+    ],
     "fg": "cabin_brown"
   },
   {
-    "id": "farm_dairy_twd_5",
-    "fg": "two_grass_brown"
-  },
-  {
-    "id": "farm_dairy_twd_6",
+    "id": [
+      "farm_dairy_twd_5",
+      "farm_dairy_twd_6",
+      "farm_dairy_twd_12",
+      "farm_dairy_twd_second_floor_5",
+      "farm_dairy_twd_second_floor_6"
+    ],
     "fg": "barn_brown"
   },
   {
-    "id": "farm_dairy_twd_9",
-    "fg": "two_grass_brown"
+    "id": "farm_dairy_twd_11",
+    "rotates": true,
+    "fg": "dirt_road_edge_ns",
+    "//": "temporary fix"
   },
   {
-    "id": "farm_dairy_twd_10",
-    "fg": "two_grass_brown"
+    "id": "farm_dairy_twd_7",
+    "rotates": true,
+    "fg": [
+      "dirt_road_t_connection_n",
+      "dirt_road_t_connection_e",
+      "dirt_road_t_connection_s",
+      "dirt_road_t_connection_w"
+    ],
+    "//": "temporary fix"
   },
   {
-    "id": "farm_dairy_twd_12",
-    "fg": "barn_brown"
-  },
-  {
-    "id": "farm_dairy_twd_second_floor_3",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "farm_dairy_twd_second_floor_4",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "farm_dairy_twd_second_floor_5",
-    "fg": "barn_brown"
-  },
-  {
-    "id": "farm_dairy_twd_second_floor_6",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "farm_dairy_twd_second_floor_12",
-    "fg": "cabin_brown"
+    "id": "farm_dairy_twd_8",
+    "rotates": true,
+    "fg": [
+      "dirt_road_corner_ne",
+      "dirt_road_corner_se",
+      "dirt_road_corner_sw",
+      "dirt_road_corner_nw"
+    ],
+    "//": "temporary fix"
   }
 ]
