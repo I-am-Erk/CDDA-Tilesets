@@ -203,6 +203,33 @@
     "fg": "h_runway"
   },
   {
+    "id": "s_air_parking",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "s_air_atc",
+    "fg": "watchtower_light_gray"
+  },
+  {
+    "id": "s_air_hangars",
+    "fg": "hangar_light_gray"
+  },
+  {
+    "id": "s_air_term",
+    "fg": "public_building_light_gray"
+  },
+  {
+    "id": [
+      "s_air_runway",
+      "s_air_runway_r",
+      "s_air_runway_hangars",
+      "s_air_runway_term",
+      "s_air_runway_B",
+      "s_air_runway_l"
+    ],
+    "fg": "h_runway"
+  },
+  {
     "id": "bus_stat_0",
     "fg": "firestation_light_cyan"
   },
