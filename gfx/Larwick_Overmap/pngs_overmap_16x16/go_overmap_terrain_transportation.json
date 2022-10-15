@@ -207,16 +207,30 @@
     "fg": "parking_dark_gray"
   },
   {
-    "id": "s_air_atc",
-    "fg": "watchtower_light_gray"
+    "id": [
+      "s_air_atc",
+      "s_air_atc_2",
+      "s_air_atc_3"
+    ],
+    "fg": "watchtower_cyan"
   },
   {
-    "id": "s_air_hangars",
-    "fg": "hangar_light_gray"
+    "id": [
+      "s_air_hangars",
+      "s_air_hangars_roof"
+    ],
+    "fg": "hangar_cyan"
   },
   {
-    "id": "s_air_term",
-    "fg": "public_building_light_gray"
+    "id": [
+      "s_air_term",
+      "s_air_term_roof"
+    ],
+    "fg": "public_building_light_cyan"
+  },
+  {
+    "id": "s_air_helicopter_pad",
+    "fg": "helipad_cyan"
   },
   {
     "id": [
