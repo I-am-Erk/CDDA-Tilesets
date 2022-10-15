@@ -223,6 +223,10 @@
     "fg": "watchtower_light_gray"
   },
   {
+    "id": "wasp_tower_roof",
+    "fg": "open_air_blue"
+  },
+  {
     "id": "bandit_cabin",
     "fg": "small_tree_green"
   },
