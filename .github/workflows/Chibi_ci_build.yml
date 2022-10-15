@@ -83,13 +83,13 @@ jobs:
           cp "gfx/$TILESET/tileset.txt"     "$artifact_name"
           cp "gfx/$TILESET/layering.json"   "$artifact_name"
 
-          echo ::set-output name=artifact_name::"$artifact_name"
+          echo "ARTIFACT-NAME=$artifact_name" >> $GITHUB_OUTPUT
 
       - name: Upload Artifacts
         uses: actions/upload-artifact@v2
         with:
-          name: ${{ steps.build.outputs.artifact_name }}
-          path: ${{ steps.build.outputs.artifact_name }}
+          name: ${{ steps.build.outputs.ARTIFACT-NAME }}
+          path: ${{ steps.build.outputs.ARTIFACT-NAME }}
 
       - name: Compare IDs with ${{ github.base_ref }}
         id: compare
