@@ -1624,20 +1624,24 @@
     "fg": "shop_light_gray"
   },
   {
-    "id": "station_radio",
+    "id": [
+      "station_radio",
+      "station_radio_roof",
+      "station_radio_1",
+      "station_radio_roof_1"
+    ],
     "fg": "two_story_light_gray"
   },
   {
-    "id": "station_radio_roof",
-    "fg": "two_story_light_gray"
-  },
-  {
-    "id": "station_radio_1",
-    "fg": "two_story_light_gray"
-  },
-  {
-    "id": "station_radio_roof_1",
-    "fg": "two_story_light_gray"
+    "id": [
+      "station_radio_tower_even",
+      "station_radio_tower_odd",
+      "station_radio_tower_top",
+      "station_radio_1_tower_even",
+      "station_radio_1_tower_odd",
+      "station_radio_1_tower_top"
+    ],
+    "fg": "watchtower_light_gray"
   },
   {
     "id": "cs_gardening_allotment",
@@ -1729,5 +1733,22 @@
       "salon_roof"
     ],
     "fg": "shop_pink"
+  },
+  {
+    "id": [
+      "farm_supply_looted_1",
+      "farm_supply_looted_2",
+      "farm_supply_looted_3",
+      "farm_supply_looted_4",
+      "farm_supply_1",
+      "farm_supply_2",
+      "farm_supply_3",
+      "farm_supply_4",
+      "farm_supply_roof_1",
+      "farm_supply_roof_2",
+      "farm_supply_roof_3",
+      "farm_supply_roof_4"
+    ],
+    "fg": "shop_yellow"
   }
 ]

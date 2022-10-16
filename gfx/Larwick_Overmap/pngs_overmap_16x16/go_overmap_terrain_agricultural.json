@@ -20,6 +20,15 @@
   },
   {
     "id": [
+      "farm_1_silo",
+      "farm_1_silo_1",
+      "farm_1_silo_2",
+      "farm_1_silo_roof"
+    ],
+    "fg": "silo_brown"
+  },
+  {
+    "id": [
       "farm_1_greenhouse",
       "farm_1_greenhouse_roof"
     ],
@@ -47,100 +56,53 @@
     "fg": "barn_brown"
   },
   {
-    "id": "2farm_1",
+    "id": [
+      "2farm_1",
+      "2farm_2",
+      "2farm_4",
+      "2farm_5",
+      "2farm_7",
+      "2farm_8",
+      "2farm_9",
+      "2farm_10",
+      "2farm_12",
+      "2farm_13",
+      "2farm_14",
+      "2farm_15",
+      "2farm_16"
+    ],
     "fg": "two_grass_brown"
   },
   {
-    "id": "2farm_2",
-    "fg": "two_grass_brown"
-  },
-  {
-    "id": "2farm_3",
+    "id": [
+      "2farm_3",
+      "2farm_loft_3",
+      "2farm_roof_3"
+    ],
     "fg": "barn_brown"
   },
   {
-    "id": "2farm_loft_3",
-    "fg": "barn_brown"
-  },
-  {
-    "id": "2farm_roof_3",
-    "fg": "barn_brown"
-  },
-  {
-    "id": "2farm_4",
-    "fg": "two_grass_brown"
-  },
-  {
-    "id": "2farm_roof_4",
+    "id": [
+      "2farm_roof_4",
+      "2farm_roof_15"
+    ],
     "fg": "open_air_blue"
   },
   {
-    "id": "2farm_5",
-    "fg": "two_grass_brown"
-  },
-  {
-    "id": "2farm_6",
+    "id": [
+      "2farm_6",
+      "2farm_6_1",
+      "2farm_6_2",
+      "2farm_6_3"
+    ],
     "fg": "silo_brown"
   },
   {
-    "id": "2farm_6_1",
-    "fg": "silo_brown"
-  },
-  {
-    "id": "2farm_6_2",
-    "fg": "silo_brown"
-  },
-  {
-    "id": "2farm_6_3",
-    "fg": "silo_brown"
-  },
-  {
-    "id": "2farm_7",
-    "fg": "two_grass_brown"
-  },
-  {
-    "id": "2farm_8",
-    "fg": "two_grass_brown"
-  },
-  {
-    "id": "2farm_9",
-    "fg": "two_grass_brown"
-  },
-  {
-    "id": "2farm_10",
-    "fg": "two_grass_brown"
-  },
-  {
-    "id": "2farm_11",
+    "id": [
+      "2farm_11",
+      "2farm_roof_11"
+    ],
     "fg": "cabin_brown"
-  },
-  {
-    "id": "2farm_roof_11",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "2farm_12",
-    "fg": "two_grass_brown"
-  },
-  {
-    "id": "2farm_13",
-    "fg": "two_grass_brown"
-  },
-  {
-    "id": "2farm_14",
-    "fg": "two_grass_brown"
-  },
-  {
-    "id": "2farm_15",
-    "fg": "two_grass_brown"
-  },
-  {
-    "id": "2farm_roof_15",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "2farm_16",
-    "fg": "two_grass_brown"
   },
   {
     "id": "farm_stills_1",
@@ -550,59 +512,62 @@
     "fg": "cabin_brown"
   },
   {
-    "id": "farm_dairy_twd_1",
+    "id": [
+      "farm_dairy_twd_1",
+      "farm_dairy_twd_2",
+      "farm_dairy_twd_9",
+      "farm_dairy_twd_10"
+    ],
     "fg": "two_grass_brown"
   },
   {
-    "id": "farm_dairy_twd_2",
-    "fg": "two_grass_brown"
-  },
-  {
-    "id": "farm_dairy_twd_3",
-    "fg": "two_grass_brown"
-  },
-  {
-    "id": "farm_dairy_twd_4",
+    "id": [
+      "farm_dairy_twd_3",
+      "farm_dairy_twd_4",
+      "farm_dairy_twd_second_floor_3",
+      "farm_dairy_twd_second_floor_4",
+      "farm_dairy_twd_second_floor_12",
+      "farm_dairy_twd_3_roof",
+      "farm_dairy_twd_4_roof"
+    ],
     "fg": "cabin_brown"
   },
   {
-    "id": "farm_dairy_twd_5",
-    "fg": "two_grass_brown"
-  },
-  {
-    "id": "farm_dairy_twd_6",
+    "id": [
+      "farm_dairy_twd_5",
+      "farm_dairy_twd_6",
+      "farm_dairy_twd_12",
+      "farm_dairy_twd_second_floor_5",
+      "farm_dairy_twd_second_floor_6"
+    ],
     "fg": "barn_brown"
   },
   {
-    "id": "farm_dairy_twd_9",
-    "fg": "two_grass_brown"
+    "id": "farm_dairy_twd_11",
+    "rotates": true,
+    "fg": "dirt_road_edge_ns",
+    "//": "temporary fix"
   },
   {
-    "id": "farm_dairy_twd_10",
-    "fg": "two_grass_brown"
+    "id": "farm_dairy_twd_7",
+    "rotates": true,
+    "fg": [
+      "dirt_road_t_connection_n",
+      "dirt_road_t_connection_e",
+      "dirt_road_t_connection_s",
+      "dirt_road_t_connection_w"
+    ],
+    "//": "temporary fix"
   },
   {
-    "id": "farm_dairy_twd_12",
-    "fg": "barn_brown"
-  },
-  {
-    "id": "farm_dairy_twd_second_floor_3",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "farm_dairy_twd_second_floor_4",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "farm_dairy_twd_second_floor_5",
-    "fg": "barn_brown"
-  },
-  {
-    "id": "farm_dairy_twd_second_floor_6",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "farm_dairy_twd_second_floor_12",
-    "fg": "cabin_brown"
+    "id": "farm_dairy_twd_8",
+    "rotates": true,
+    "fg": [
+      "dirt_road_corner_ne",
+      "dirt_road_corner_se",
+      "dirt_road_corner_sw",
+      "dirt_road_corner_nw"
+    ],
+    "//": "temporary fix"
   }
 ]

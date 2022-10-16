@@ -152,52 +152,98 @@
     "fg": "parking_dark_gray"
   },
   {
-    "id": "control_tower_0",
+    "id": [
+      "control_tower_0",
+      "control_tower_1",
+      "control_tower_2",
+      "control_tower_roof"
+    ],
     "fg": "watchtower_light_gray"
   },
   {
-    "id": "control_tower_1",
-    "fg": "watchtower_light_gray"
-  },
-  {
-    "id": "control_tower_2",
-    "fg": "watchtower_light_gray"
-  },
-  {
-    "id": "control_tower_roof",
-    "fg": "watchtower_light_gray"
-  },
-  {
-    "id": "fuel_station",
+    "id": [
+      "fuel_station",
+      "fuel_station_roof"
+    ],
     "fg": "gas_dark_gray"
   },
   {
-    "id": "fuel_station_roof",
-    "fg": "gas_dark_gray"
-  },
-  {
-    "id": "airport_lot_0",
+    "id": [
+      "airport_lot_0",
+      "airport_lot_1"
+    ],
     "fg": "parking_dark_gray"
   },
   {
-    "id": "airport_lot_1",
+    "id": [
+      "hangar",
+      "hangar_roof"
+    ],
+    "fg": "hangar_light_gray"
+  },
+  {
+    "id": [
+      "waiting_area",
+      "waiting_area_roof"
+    ],
+    "fg": "public_building_light_cyan"
+  },
+  {
+    "id": [
+      "runway",
+      "runway_start",
+      "runway_hangar",
+      "runway_hangar2",
+      "runway_carts",
+      "runway_wild",
+      "runway_fuel",
+      "runway_fuel2",
+      "runway_end"
+    ],
+    "rotates": true,
+    "fg": "h_runway"
+  },
+  {
+    "id": "s_air_parking",
     "fg": "parking_dark_gray"
   },
   {
-    "id": "hangar",
-    "fg": "hangar_light_gray"
+    "id": [
+      "s_air_atc",
+      "s_air_atc_2",
+      "s_air_atc_3"
+    ],
+    "fg": "watchtower_cyan"
   },
   {
-    "id": "hangar_roof",
-    "fg": "hangar_light_gray"
+    "id": [
+      "s_air_hangars",
+      "s_air_hangars_roof"
+    ],
+    "fg": "hangar_cyan"
   },
   {
-    "id": "waiting_area",
+    "id": [
+      "s_air_term",
+      "s_air_term_roof"
+    ],
     "fg": "public_building_light_cyan"
   },
   {
-    "id": "waiting_area_roof",
-    "fg": "public_building_light_cyan"
+    "id": "s_air_helicopter_pad",
+    "fg": "helipad_cyan"
+  },
+  {
+    "id": [
+      "s_air_runway",
+      "s_air_runway_r",
+      "s_air_runway_hangars",
+      "s_air_runway_term",
+      "s_air_runway_B",
+      "s_air_runway_l"
+    ],
+    "rotates": true,
+    "fg": "h_runway"
   },
   {
     "id": "bus_stat_0",
