@@ -1719,5 +1719,26 @@
       "farm_supply_roof_4"
     ],
     "fg": "shop_yellow"
+  },
+  {
+    "id": [
+      "strip_mall_1",
+      "strip_mall_2",
+      "strip_mall_3",
+      "strip_mall_4",
+      "strip_mall_roof_1",
+      "strip_mall_roof_2",
+      "strip_mall_roof_3",
+      "strip_mall_roof_4"
+    ],
+    "fg": "shop_light_red"
+  },
+  {
+    "id": "strip_mall_5",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "strip_mall_roof_5",
+    "fg": "open_air_blue"
   }
 ]
