@@ -40,27 +40,21 @@
     "fg": "building_columns_pink"
   },
   {
-    "id": "mine_entrance",
+    "id": [
+      "mine_entrance",
+      "mine_entrance_loading_zone",
+      "mine_entrance_roof",
+      "mine_entrance_loading_zone_roof"
+    ],
     "fg": "mine_magenta"
   },
   {
-    "id": "mine_entrance_roof",
-    "fg": "mine_magenta"
-  },
-  {
-    "id": "mine_entrance_loading_zone",
-    "fg": "mine_magenta"
-  },
-  {
-    "id": "mine_entrance_loading_zone_roof",
-    "fg": "mine_magenta"
-  },
-  {
-    "id": "mine_shaft_middle",
-    "fg": "mine_dark_gray"
-  },
-  {
-    "id": "mine_shaft_lower",
+    "id": [
+      "mine_shaft_middle",
+      "mine_shaft_middle_east",
+      "mine_shaft_lower",
+      "mine_shaft_lower_east"
+    ],
     "fg": "mine_dark_gray"
   },
   {
