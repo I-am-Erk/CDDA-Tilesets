@@ -1239,5 +1239,19 @@
         "nursing_home_sh11"
       ],
     "fg": "parking_dark_gray"
+  },
+  {
+    "id": [
+      "trailer_hub_10",
+      "trailer_hub_10_roof"
+    ],
+    "fg": "house_cyan"
+  },
+  {
+    "id": [
+      "prefab",
+      "prefab_roof"
+    ],
+    "fg": "trailer_light_gray"
   }
 ]
