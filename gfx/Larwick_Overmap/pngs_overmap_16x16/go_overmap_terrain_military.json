@@ -39,6 +39,8 @@
       "lmoe_under",
       "lmoe_under_empty",
       "lmoe_zombie_under_empty",
+      "lmoe_prepperquest",
+      "lmoe_under_empty_prepperquest",
       "bunker",
       "bunker_basement"
     ],

@@ -121,19 +121,6 @@
     "id": "lake_cabin_water",
     "fg": "water_blue"
   },
-
-  {
-    "id": "cabin_strange",
-    "fg": "small_tree_green"
-  },
-  {
-    "id": "cabin_strange_b",
-    "fg": "small_tree_green"
-  },
-  {
-    "id": "cabin_strange_roof",
-    "fg": "small_tree_green"
-  },
   {
     "id": [
       "cabin",
@@ -152,6 +139,9 @@
       "cabin_roof_6",
       "cabin_7",
       "cabin_roof_7",
+      "cabin_strange",
+      "cabin_strange_b",
+      "cabin_strange_roof",
       "cabin_lake",
       "cabin_lake_roof",
       "cabin_lapin",
