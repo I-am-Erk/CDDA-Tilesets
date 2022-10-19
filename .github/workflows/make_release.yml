@@ -7,6 +7,7 @@ concurrency: release
 on:
   schedule:
     - cron: '0 20 * * sun'
+  workflow_dispatch:
 
 env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -28,8 +29,8 @@ jobs:
       - name: Generate environmental variables
         id: generate_env_vars
         run: |
-          echo "TAG-NAME=${{ steps.get-timestamp.outputs.time }}"
-          echo "RELEASE-TITLE=Tilesets Release ${{ steps.get-timestamp.outputs.time }}"
+          echo "TAG-NAME=${{ steps.get-timestamp.outputs.time }}" >> $GITHUB_OUTPUT
+          echo "RELEASE-TITLE=Tilesets Release ${{ steps.get-timestamp.outputs.time }}" >> $GITHUB_OUTPUT
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
