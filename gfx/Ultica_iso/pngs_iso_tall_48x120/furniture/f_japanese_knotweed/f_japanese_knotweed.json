@@ -1,0 +1,14 @@
+{
+    "id": "f_japanese_knotweed",
+    "fg": [
+      { "weight": 5, "sprite": "f_japanese_knotweed1" },
+      { "weight": 5, "sprite": "f_japanese_knotweed2" },
+      { "weight": 5, "sprite": "f_japanese_knotweed3" },
+      { "weight": 5, "sprite": "f_japanese_knotweed4" },
+      { "weight": 5, "sprite": "f_japanese_knotweed5" },
+      { "weight": 5, "sprite": "f_japanese_knotweed6" },
+      { "weight": 5, "sprite": "f_japanese_knotweed7" },
+      { "weight": 5, "sprite": "f_japanese_knotweed8" }
+    ],
+    "bg": ""
+}
