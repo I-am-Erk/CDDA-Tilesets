@@ -1,0 +1,37 @@
+[
+  {
+    "id": "t_tree_pine",
+    "fg": "t_tree_pine",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_pine_season_summer",
+    "fg": "t_tree_pine",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_pine_season_autumn",
+    "fg": "t_tree_pine",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_pine_season_winter",
+    "fg": "t_tree_pine",
+    "bg": "snow_shallow_extra_giant"
+  },
+  
+  {
+    "id": "t_tree_pine_harvested",
+    "fg": "t_tree_pine_harvested",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_pine_harvested_season_summer",
+    "fg": "t_tree_pine_harvested",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_pine_harvested_season_autumn",
+    "fg": "t_tree_pine_harvested",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_pine_harvested_season_winter",
+    "fg": "t_tree_pine_harvested",
+    "bg": "snow_shallow_extra_giant"
+  }
+]

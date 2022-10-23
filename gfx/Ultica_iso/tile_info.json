@@ -20,7 +20,7 @@
       "sprite_width": 48,
       "sprite_height": 36,
       "sprite_offset_y": -12,
-      "//5": "Flat objects but some extensions allowed, floors, grass, snow, sidewalks"
+      "//": "Flat objects but some extensions allowed, floors, grass, snow, sidewalks"
     }
   },
   {
@@ -28,7 +28,7 @@
       "sprite_width": 48,
       "sprite_height": 48,
       "sprite_offset_y": -24,
-      "//5": "Object like furniture up to 72cm"
+      "//": "Object like furniture up to 72cm"
     }
   },
   {
@@ -36,7 +36,7 @@
       "sprite_width": 48,
       "sprite_height": 72,
       "sprite_offset_y": -48,
-      "//5": "Object like furniture up to 144cm"
+      "//": "Object like furniture up to 144cm"
     }
   },
   {
@@ -52,7 +52,7 @@
       "sprite_width": 48,
       "sprite_height": 96,
       "sprite_offset_y": -72,
-      "//2": "Objects height is about 2.1m."
+      "//": "Objects height is about 2.1m."
     }
   },
   {
@@ -60,7 +60,7 @@
       "sprite_width": 48,
       "sprite_height": 36,
       "sprite_offset_y": -84,
-      "//5": "Flat objects but some extensions allowed, on top of high objects (2.1m)"
+      "//": "Flat objects but some extensions allowed, on top of high objects (2.1m)"
     }
   },
   {
@@ -69,7 +69,7 @@
       "sprite_height": 96,
       "sprite_offset_x": -24,
       "sprite_offset_y": -72,
-      "//2": "Objects height is about 2.1m, with extra width"
+      "//": "Objects height is about 2.1m, with extra width"
     }
   },
   {
@@ -78,7 +78,7 @@
       "sprite_height": 120,
       "sprite_offset_y": -96,
       "sprite_offset_y_retracted": -5,
-      "//2": "Objects height is about 2.8m: walls, windows, doors goes here. Will be retracted."
+      "//": "Objects height is about 2.8m: walls, windows, doors goes here. Will be retracted."
     }
   },
   {
@@ -86,7 +86,7 @@
       "sprite_width": 48,
       "sprite_height": 120,
       "sprite_offset_y": -96,
-      "//2": "Objects height is about 2.8m: walls, windows, doors goes here. Will NOT be retracted."
+      "//": "Objects height is about 2.8m: walls, windows, doors goes here. Will NOT be retracted."
     }
   },
   {
@@ -94,7 +94,16 @@
       "sprite_width": 48,
       "sprite_height": 144,
       "sprite_offset_y": -120,
-      "//2": "Objects height is about 3.6m. Will NOT be retracted."
+      "//": "Objects height is about 3.6m. Will NOT be retracted."
+    }
+  },
+  {
+    "iso_extra_giant.png": {
+      "sprite_width": 200,
+      "sprite_height": 240,
+      "sprite_offset_x": -76,
+      "sprite_offset_y": -216,
+      "//": "Objects height is about 5+m. Trees mostly. Will NOT be retracted."
     }
   },
   {
