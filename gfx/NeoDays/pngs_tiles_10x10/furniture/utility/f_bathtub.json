@@ -26,7 +26,10 @@
     },
     {
       "id": "unconnected",
-      "fg": "f_bathtub_0"
+      "fg": [
+        "f_bathtub_0",
+        "f_bathtub_0"
+      ]
     }
   ]
 }

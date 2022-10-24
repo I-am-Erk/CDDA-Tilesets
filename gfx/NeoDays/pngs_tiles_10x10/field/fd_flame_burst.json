@@ -29,7 +29,12 @@
     },
     {
       "id": "unconnected",
-      "fg": "fd_flame_burst"
+      "fg": [
+        "fd_flame_burst",
+        "fd_flame_burst",
+        "fd_flame_burst",
+        "fd_flame_burst"
+      ]
     }
   ]
 }
