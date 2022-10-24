@@ -8,6 +8,7 @@
     "casserole",
     "stock_pot",
     "iron_pot",
+    "pot_aluminum",
     "f_standing_tank"
   ],
   "fg": "pot_canning",
