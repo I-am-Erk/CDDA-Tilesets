@@ -1,0 +1,8 @@
+{
+  "id": [
+    "t_metal_floor",
+    "t_scrap_floor",
+    "t_junk_floor"
+  ],
+  "fg": "t_metal_floor"
+}
