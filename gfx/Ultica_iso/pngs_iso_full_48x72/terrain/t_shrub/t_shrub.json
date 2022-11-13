@@ -1,0 +1,19 @@
+[
+  {
+    "id": "t_shrub",
+    "fg": "t_shrub_spring",
+    "bg": "t_grass_full"
+  }, {
+    "id": "t_shrub_season_summer",
+    "fg": "t_shrub_summer",
+    "bg": "t_grass_summer_full"
+  }, {
+    "id": "t_shrub_season_autumn",
+    "fg": "t_shrub_autumn",
+    "bg": "t_grass_autumn_full"
+  }, {
+    "id": "t_shrub_season_winter",
+    "fg": "t_shrub_winter",
+    "bg": "snow_shallow_full"
+  }
+]

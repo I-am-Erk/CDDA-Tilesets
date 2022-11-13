@@ -1,0 +1,19 @@
+[
+  {
+    "id": "t_tree_birch",
+    "fg": "t_tree_birch_spring",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_birch_season_summer",
+    "fg": "t_tree_birch_summer",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_birch_season_autumn",
+    "fg": "t_tree_birch_autumn",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_birch_season_winter",
+    "fg": "t_tree_birch_winter",
+    "bg": "snow_shallow_extra_giant"
+  }
+]
