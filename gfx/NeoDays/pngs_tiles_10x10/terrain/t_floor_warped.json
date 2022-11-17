@@ -1,0 +1,11 @@
+{
+  "id": [
+    "t_floor_warped",
+    "t_warped_roof"
+  ],
+  "animated": true,
+  "fg": [
+    { "weight": 100, "sprite": "t_rock_floor" },
+    { "weight": 100, "sprite": "t_floor_warped" }
+  ]
+}

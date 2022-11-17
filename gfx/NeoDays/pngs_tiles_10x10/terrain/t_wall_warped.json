@@ -1,0 +1,9 @@
+{
+  "id": "t_wall_warped",
+  "animated": true,
+  "fg": [
+    { "weight": 200, "sprite": "t_wall_warped_0" },
+    { "weight": 200, "sprite": "t_wall_warped_1" }
+  ],
+  "rotates": true
+}
