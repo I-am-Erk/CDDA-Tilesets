@@ -1,0 +1,14 @@
+[
+  {
+    "id": "f_trashcan",
+    "height_3d": 20,
+    "fg": "f_trashcan",
+    "bg": ""
+  },
+  {
+    "id": "f_metal_trashcan",
+    "height_3d": 20,
+    "fg": "f_metal_trashcan",
+    "bg": ""
+  }
+]

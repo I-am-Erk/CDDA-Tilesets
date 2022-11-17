@@ -1,0 +1,10 @@
+[
+  {
+    "id": "vp_forklift_fork",
+    "fg": "vp_forklift_fork",
+    "bg": [  ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_forklift_fork" ] } ]
+  }
+]

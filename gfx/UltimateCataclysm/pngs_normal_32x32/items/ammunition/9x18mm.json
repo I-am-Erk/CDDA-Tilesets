@@ -1,0 +1,49 @@
+[
+  {
+    "id": [ "9x18mm" ],
+    "bg": [ "9x18mm_b" ],
+    "fg": [ "9x18mm_f_57n181s" ]
+  },
+  {
+    "id": [ "reloaded_9x18mm" ],
+    "bg": [ "9x18mm_b_r" ],
+    "fg": [ "9x18mm_f_57n181s" ]
+  },
+  {
+    "id": [ "bp_9x18mm" ],
+    "bg": [ "9x18mm_b_bp" ],
+    "fg": [ "9x18mm_f_57n181s" ]
+  },
+  
+  {
+    "id": [ "9x18mmP2" ],
+    "bg": [ "9x18mm_b" ],
+    "fg": [ "9x18mm_f_sp7" ]
+  },
+  {
+    "id": [ "reloaded_9x18mmP2" ],
+    "bg": [ "9x18mm_b_r" ],
+    "fg": [ "9x18mm_f_sp7" ]
+  },
+  {
+    "id": [ "bp_9x18mmP2" ],
+    "bg": [ "9x18mm_b_bp" ],
+    "fg": [ "9x18mm_f_sp7" ]
+  },
+  
+  {
+    "id": [ "9x18mmfmj" ],
+    "bg": [ "9x18mm_b" ],
+    "fg": [ "9x18mm_f_rg028" ]
+  },
+  {
+    "id": [ "reloaded_9x18mmfmj" ],
+    "bg": [ "9x18mm_b_r" ],
+    "fg": [ "9x18mm_f_rg028" ]
+  },
+  {
+    "id": [ "bp_9x18mmfmj" ],
+    "bg": [ "9x18mm_b_bp" ],
+    "fg": [ "9x18mm_f_rg028" ]
+  }
+]

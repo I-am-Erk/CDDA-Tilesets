@@ -1,0 +1,19 @@
+[
+  {
+    "id": "t_tree_pistachio",
+    "fg": "t_tree_pistachio_spring",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_pistachio_season_summer",
+    "fg": "t_tree_pistachio_summer",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_pistachio_season_autumn",
+    "fg": "t_tree_pistachio_autumn",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_pistachio_season_winter",
+    "fg": "t_tree_pistachio_winter",
+    "bg": "snow_shallow_extra_giant"
+  }
+]

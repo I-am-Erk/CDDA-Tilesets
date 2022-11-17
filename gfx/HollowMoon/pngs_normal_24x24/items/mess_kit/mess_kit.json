@@ -1,0 +1,6 @@
+[
+    { "id": ["mess_kit_season_spring", "mil_mess_kit_season_spring", "survivor_mess_kit_season_spring"], "fg": "mess_kit_season_spring", "bg": [], "rotates": false },
+	{ "id": ["mess_kit_season_autumn", "mil_mess_kit_season_autumn", "survivor_mess_kit_season_autumn"], "fg": "mess_kit_season_autumn", "bg": [], "rotates": false },
+	{ "id": ["mess_kit_season_winter", "mil_mess_kit_season_winter", "survivor_mess_kit_season_winter"], "fg": "mess_kit_season_winter", "bg": [], "rotates": false },
+	{ "id": ["mess_kit_season_summer", "mil_mess_kit_season_summer", "survivor_mess_kit_season_summer"], "fg": "mess_kit_season_summer", "bg": [], "rotates": false }
+]

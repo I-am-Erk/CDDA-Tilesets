@@ -1,0 +1,26 @@
+[
+  {
+	"id": "lab_subway_vent_shaft_roof",
+  "fg": [ "lab_subway_vent_shaft_rot_NS", "lab_subway_vent_shaft_rot_EW" ],
+	"bg": "open_air",
+	"rotates": true
+  },
+  {
+	"id": "lab_subway_vent_shaft_surface",
+	"fg": [ "lab_subway_vent_shaft_rot_NS", "lab_subway_vent_shaft_rot_EW" ],
+	"bg": "field",
+	"rotates": true
+  },
+  {
+	"id": "lab_subway_vent_shaft-1",
+	"fg": [ "lab_subway_vent_shaft_rot_NS", "lab_subway_vent_shaft_rot_EW" ],
+	"bg": "t_soil_center",
+	"rotates": true
+  },
+  {
+	"id": [ "lab_subway_vent_shaft-2", "lab_subway_vent_shaft-3", "lab_subway_vent_shaft-4" ],
+	"fg": [ "lab_subway_vent_shaft_rot_NS", "lab_subway_vent_shaft_rot_EW" ],
+	"bg": "t_rock_center",
+	"rotates": true
+  }
+]

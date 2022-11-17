@@ -1,0 +1,22 @@
+[
+  {
+    "id": [ "RPG-7_ammo" ],
+    "bg": [ "rpg7_b" ],
+    "fg": [ "rpg7_f_pg7vl" ]
+  },
+  {
+    "id": [ "RPG-7_pg7vr" ],
+    "bg": [ "rpg7_b" ],
+    "fg": [ "rpg7_f_pg7vr" ]
+  },
+  {
+    "id": [ "RPG-7_og7v" ],
+    "bg": [ "rpg7_b" ],
+    "fg": [ "rpg7_f_og7v" ]
+  },
+  {
+    "id": [ "RPG-7_tbg7v" ],
+    "bg": [ "rpg7_b" ],
+    "fg": [ "rpg7_f_tbg7v" ]
+  }
+]

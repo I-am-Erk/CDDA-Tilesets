@@ -1,0 +1,40 @@
+{
+  "id": [
+    "fd_flame_burst",
+    "fd_fire"
+  ],
+  "fg": "fd_flame_burst",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "fd_incendiary_1"
+    },
+    {
+      "id": "corner",
+      "fg": "fd_incendiary_2"
+    },
+    {
+      "id": "edge",
+      "fg": "fd_incendiary_3"
+    },
+    {
+      "id": "end_piece",
+      "fg": "fd_incendiary_4"
+    },
+    {
+      "id": "t_connection",
+      "fg": "fd_incendiary_5"
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "fd_flame_burst",
+        "fd_flame_burst",
+        "fd_flame_burst",
+        "fd_flame_burst"
+      ]
+    }
+  ]
+}

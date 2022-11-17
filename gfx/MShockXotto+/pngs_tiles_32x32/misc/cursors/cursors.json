@@ -1,0 +1,11 @@
+[
+  {
+    "id": [ "line_trail", "cursor" ],
+    "fg": [ "cursor" ]
+  },
+  {
+    "id": "line_target",
+    "fg": "cursor_white",
+    "bg": ""
+  }
+]

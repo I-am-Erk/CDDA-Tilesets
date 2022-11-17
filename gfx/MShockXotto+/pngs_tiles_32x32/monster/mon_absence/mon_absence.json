@@ -1,0 +1,12 @@
+{
+  "id": "mon_absence",
+  "animated": true,
+  "fg": [
+    { "weight": 20, "sprite": "mon_absence_1" },
+    { "weight": 20, "sprite": "mon_absence_2" },
+    { "weight": 20, "sprite": "mon_absence_3" },
+    { "weight": 20, "sprite": "mon_absence_4" }
+  ],
+  "bg": [
+  ]
+}

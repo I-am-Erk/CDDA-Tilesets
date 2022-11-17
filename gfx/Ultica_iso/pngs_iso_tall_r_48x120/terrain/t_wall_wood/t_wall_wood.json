@@ -1,0 +1,61 @@
+{
+  "id": "t_wall_wood",
+  "fg": "t_wall_wood1_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        { "weight": 1, "sprite": "t_wall_wood1_center"},
+        { "weight": 1, "sprite": "t_wall_wood2_center"}, 
+        { "weight": 1, "sprite": "t_wall_wood3_center"}, 
+        { "weight": 1, "sprite": "t_wall_wood4_center"}
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        { "weight": 1, "sprite":  [ "t_wall_wood1_corner_nw", "t_wall_wood1_corner_sw", "t_wall_wood1_corner_se", "t_wall_wood1_corner_ne" ] },
+        { "weight": 1, "sprite":  [ "t_wall_wood2_corner_nw", "t_wall_wood2_corner_sw", "t_wall_wood2_corner_se", "t_wall_wood2_corner_ne" ] },
+        { "weight": 1, "sprite":  [ "t_wall_wood3_corner_nw", "t_wall_wood3_corner_sw", "t_wall_wood3_corner_se", "t_wall_wood3_corner_ne" ] },
+        { "weight": 1, "sprite":  [ "t_wall_wood4_corner_nw", "t_wall_wood4_corner_sw", "t_wall_wood4_corner_se", "t_wall_wood4_corner_ne" ] }
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        { "weight": 1, "sprite":  [ "t_wall_wood1_t_connection_n", "t_wall_wood1_t_connection_w", "t_wall_wood1_t_connection_s", "t_wall_wood1_t_connection_e" ] },
+        { "weight": 1, "sprite":  [ "t_wall_wood2_t_connection_n", "t_wall_wood2_t_connection_w", "t_wall_wood2_t_connection_s", "t_wall_wood2_t_connection_e" ] },
+        { "weight": 1, "sprite":  [ "t_wall_wood3_t_connection_n", "t_wall_wood3_t_connection_w", "t_wall_wood3_t_connection_s", "t_wall_wood3_t_connection_e" ] },
+        { "weight": 1, "sprite":  [ "t_wall_wood4_t_connection_n", "t_wall_wood4_t_connection_w", "t_wall_wood4_t_connection_s", "t_wall_wood4_t_connection_e" ] }
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        { "weight": 1, "sprite":  [ "t_wall_wood1_edge_ns", "t_wall_wood1_edge_ew" ] },
+        { "weight": 1, "sprite":  [ "t_wall_wood2_edge_ns", "t_wall_wood2_edge_ew" ] },
+        { "weight": 1, "sprite":  [ "t_wall_wood3_edge_ns", "t_wall_wood3_edge_ew" ] },
+        { "weight": 1, "sprite":  [ "t_wall_wood4_edge_ns", "t_wall_wood4_edge_ew" ] }
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        { "weight": 1, "sprite":  [ "t_wall_wood1_end_piece_n", "t_wall_wood1_end_piece_w", "t_wall_wood1_end_piece_s", "t_wall_wood1_end_piece_e" ] },
+        { "weight": 1, "sprite":  [ "t_wall_wood2_end_piece_n", "t_wall_wood2_end_piece_w", "t_wall_wood2_end_piece_s", "t_wall_wood2_end_piece_e" ] },
+        { "weight": 1, "sprite":  [ "t_wall_wood3_end_piece_n", "t_wall_wood3_end_piece_w", "t_wall_wood3_end_piece_s", "t_wall_wood3_end_piece_e" ] },
+        { "weight": 1, "sprite":  [ "t_wall_wood4_end_piece_n", "t_wall_wood4_end_piece_w", "t_wall_wood4_end_piece_s", "t_wall_wood4_end_piece_e" ] }
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        { "weight": 1, "sprite":  [ "t_wall_wood1_unconnected", "t_wall_wood1_unconnected" ] },
+        { "weight": 1, "sprite":  [ "t_wall_wood2_unconnected", "t_wall_wood2_unconnected" ] },
+        { "weight": 1, "sprite":  [ "t_wall_wood3_unconnected", "t_wall_wood3_unconnected" ] },
+        { "weight": 1, "sprite":  [ "t_wall_wood4_unconnected", "t_wall_wood4_unconnected" ] }
+      ]
+    }
+  ]
+}

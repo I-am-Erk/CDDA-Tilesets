@@ -1,0 +1,36 @@
+{
+  "id": [
+    "fd_bile",
+    "fd_gibs_veggy",
+    "fd_sap"
+  ],
+  "fg": "fd_bile_0",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "fd_bile_1"
+    },
+    {
+      "id": "corner",
+      "fg": "fd_bile_2"
+    },
+    {
+      "id": "edge",
+      "fg": "fd_bile_3"
+    },
+    {
+      "id": "end_piece",
+      "fg": "fd_bile_4"
+    },
+    {
+      "id": "t_connection",
+      "fg": "fd_bile_5"
+    },
+    {
+      "id": "unconnected",
+      "fg": "fd_bile_0"
+    }
+  ]
+}

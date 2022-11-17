@@ -1,0 +1,8 @@
+{
+  "id": [
+    "t_carpet_yellow",
+    "t_floor_waxed_y"
+  ],
+  "//": "potentially separate 't_floor_waxed_y' to a unique sprite?",
+  "fg": "t_carpet_yellow"
+}

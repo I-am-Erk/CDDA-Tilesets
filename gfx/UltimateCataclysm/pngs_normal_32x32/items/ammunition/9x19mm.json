@@ -1,0 +1,65 @@
+[
+  {
+    "id": [ "9mm" ],
+    "bg": [ "9x19mm_b" ],
+    "fg": [ "9x19mm_f_jhp" ]
+  },
+  {
+    "id": [ "reloaded_9mm" ],
+    "bg": [ "9x19mm_b_r" ],
+    "fg": [ "9x19mm_f_jhp" ]
+  },
+  {
+    "id": [ "bp_9mm" ],
+    "bg": [ "9x19mm_b_bp" ],
+    "fg": [ "9x19mm_f_jhp" ]
+  },
+  
+  {
+    "id": [ "9mmfmj" ],
+    "bg": [ "9x19mm_b" ],
+    "fg": [ "9x19mm_f_fmj" ]
+  },
+  {
+    "id": [ "reloaded_9mmfmj" ],
+    "bg": [ "9x19mm_b_r" ],
+    "fg": [ "9x19mm_f_fmj" ]
+  },
+  {
+    "id": [ "bp_9mmfmj" ],
+    "bg": [ "9x19mm_b_bp" ],
+    "fg": [ "9x19mm_f_fmj" ]
+  },
+  
+  {
+    "id": [ "9mmP" ],
+    "bg": [ "9x19mm_b" ],
+    "fg": [ "9x19mm_f_+p" ]
+  },
+  {
+    "id": [ "reloaded_9mmP" ],
+    "bg": [ "9x19mm_b_r" ],
+    "fg": [ "9x19mm_f_+p" ]
+  },
+  {
+    "id": [ "bp_9mmP" ],
+    "bg": [ "9x19mm_b_bp" ],
+    "fg": [ "9x19mm_f_+p" ]
+  },
+
+  {
+    "id": [ "9mmP2" ],
+    "bg": [ "9x19mm_b" ],
+    "fg": [ "9x19mm_f_+p+" ]
+  },
+  {
+    "id": [ "reloaded_9mmP2" ],
+    "bg": [ "9x19mm_b_r" ],
+    "fg": [ "9x19mm_f_+p+" ]
+  },
+  {
+    "id": [ "bp_9mmP2" ],
+    "bg": [ "9x19mm_b_bp" ],
+    "fg": [ "9x19mm_f_+p+" ]
+  }
+]

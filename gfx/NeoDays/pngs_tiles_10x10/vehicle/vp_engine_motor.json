@@ -1,0 +1,16 @@
+{
+  "id": [
+    "vp_engine_motor",
+    "vp_foot_pedals"
+  ],
+  "fg": "vp_frame_cover",
+  "//": "maybe assign vp_engine_motor to the item?",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_red"
+    }
+  ]
+}

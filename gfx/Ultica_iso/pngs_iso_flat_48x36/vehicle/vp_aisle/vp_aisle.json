@@ -1,0 +1,22 @@
+[
+  {
+    "id": "vp_aisle_vertical",
+    "rotates": true,
+    "fg": [ "vp_aisle_vertical", "vp_aisle_horizontal" ]
+  },
+  {
+    "id": "vp_aisle_horizontal",
+    "rotates": true,
+    "fg": [ "vp_aisle_horizontal", "vp_aisle_vertical" ]
+  },
+  {
+    "id": "vp_lit_aisle_vertical",
+    "rotates": true,
+    "fg": [ "vp_lit_aisle_vertical", "vp_lit_aisle_horizontal" ]
+  },
+  {
+    "id": "vp_lit_aisle_horizontal",
+    "rotates": true,
+    "fg": [ "vp_lit_aisle_horizontal", "vp_lit_aisle_vertical" ]
+  }
+]

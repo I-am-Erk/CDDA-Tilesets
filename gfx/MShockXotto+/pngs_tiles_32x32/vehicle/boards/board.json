@@ -1,5 +1,16 @@
 [
   {
+    "id": "vp_boat_board",
+    "fg": "vp_boat_board",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "vp_boat_board_broken" ]
+      }
+    ]
+  },
+  {
     "id": "vp_board_ne",
     "fg": [ "vp_board_ne", "vp_board_ne_rotW", "vp_board_ne_rotS", "vp_board_ne_rotE" ],
     "rotates": true,
@@ -105,18 +116,18 @@
   },
   {
     "id": [ "vp_board_horizontal", "vp_board_horizontal_2" ],
-    "fg": [ "vp_board_horizontal_front" ],
+    "fg": [ "vp_board_horizontal", "vp_board_vertical" ],
     "rotates": true,
     "bg": [  ],
     "multitile": true,
-    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_board_horizontal_front" ] } ]
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_board_horizontal" ] } ]
   },
   {
     "id": "vp_board_horizontal_front",
     "fg": [
       "vp_board_horizontal_front",
       "vp_board_horizontal_front_rotW",
-      "vp_board_horizontal_front",
+      "vp_board_horizontal_front_rotS",
       "vp_board_horizontal_front_rotE"
     ],
     "rotates": true,
@@ -129,7 +140,7 @@
         "bg": [
           "vp_board_horizontal_front",
           "vp_board_horizontal_front_rotW",
-          "vp_board_horizontal_front",
+          "vp_board_horizontal_front_rotS",
           "vp_board_horizontal_front_rotE"
         ]
       }
@@ -229,7 +240,7 @@
       "vp_hdboard_vertical_left",
       "vp_hdboard_vertical_rotW_rotE",
       "vp_hdboard_vertical_right",
-      "vp_hdboard_vertical_rotW_rotE"
+      "vp_hdboard_vertical_left_rotE"
     ],
     "rotates": true,
     "bg": [  ],
@@ -242,7 +253,7 @@
           "vp_hdboard_vertical_left",
           "vp_hdboard_vertical_rotW_rotE",
           "vp_hdboard_vertical_right",
-          "vp_hdboard_vertical_rotW_rotE"
+          "vp_hdboard_vertical_left_rotE"
         ]
       }
     ]
@@ -251,7 +262,7 @@
     "id": "vp_hdboard_vertical_right",
     "fg": [
       "vp_hdboard_vertical_right",
-      "vp_hdboard_vertical_rotW_rotE",
+      "vp_hdboard_vertical_left_rotE",
       "vp_hdboard_vertical_left",
       "vp_hdboard_vertical_rotW_rotE"
     ],
@@ -264,7 +275,7 @@
         "fg": [ "3987_vp_cargo_space_2" ],
         "bg": [
           "vp_hdboard_vertical_right",
-          "vp_hdboard_vertical_rotW_rotE",
+          "vp_hdboard_vertical_left_rotE",
           "vp_hdboard_vertical_left",
           "vp_hdboard_vertical_rotW_rotE"
         ]
@@ -273,7 +284,12 @@
   },
   {
     "id": [ "vp_hdboard_horizontal", "vp_hdboard_horizontal_2" ],
-    "fg": [ "vp_hdboard_horizontal_front" ],
+    "fg": [
+      "vp_hdboard_horizontal_front",
+      "vp_hdboard_horizontal_front_rotW",
+      "vp_hdboard_horizontal_front_rotS",
+      "vp_hdboard_horizontal_front_rotE"
+    ],
     "rotates": true,
     "bg": [  ],
     "multitile": true,
@@ -284,7 +300,7 @@
     "fg": [
       "vp_hdboard_horizontal_front",
       "vp_hdboard_horizontal_front_rotW",
-      "vp_hdboard_horizontal_front",
+      "vp_hdboard_horizontal_front_rotS",
       "vp_hdboard_horizontal_front_rotE"
     ],
     "rotates": true,
@@ -297,7 +313,7 @@
         "bg": [
           "vp_hdboard_horizontal_front",
           "vp_hdboard_horizontal_front_rotW",
-          "vp_hdboard_horizontal_front",
+          "vp_hdboard_horizontal_front_rotS",
           "vp_hdboard_horizontal_front_rotE"
         ]
       }
@@ -307,9 +323,9 @@
     "id": "vp_hdboard_horizontal_rear",
     "fg": [
       "vp_hdboard_horizontal_rear",
-      "vp_hdboard_horizontal_front_rotE",
-      "vp_hdboard_horizontal_front",
-      "vp_hdboard_horizontal_front_rotW"
+      "vp_hdboard_horizontal_rear_rotW",
+      "vp_hdhalfboard_horizontal_front",
+      "vp_hdboard_horizontal_rear_rotE"
     ],
     "rotates": true,
     "bg": [  ],
@@ -320,9 +336,9 @@
         "fg": [ "3987_vp_cargo_space_2" ],
         "bg": [
           "vp_hdboard_horizontal_rear",
-          "vp_hdboard_horizontal_front_rotE",
-          "vp_hdboard_horizontal_front",
-          "vp_hdboard_horizontal_front_rotW"
+          "vp_hdboard_horizontal_rear_rotW",
+          "vp_hdhalfboard_horizontal_front",
+          "vp_hdboard_horizontal_rear_rotE"
         ]
       }
     ]

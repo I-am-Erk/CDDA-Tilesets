@@ -1,0 +1,6 @@
+[
+    { "id": ["large_stomach_sealed_season_spring", "stomach_boiled_season_spring", "hstomach_boiled_season_spring"], "fg": "large_stomach_sealed_season_spring", "bg": [], "rotates": false },
+	{ "id": ["large_stomach_sealed_season_autumn", "stomach_boiled_season_autumn", "hstomach_boiled_season_autumn"], "fg": "large_stomach_sealed_season_autumn", "bg": [], "rotates": false },
+	{ "id": ["large_stomach_sealed_season_winter", "stomach_boiled_season_winter", "hstomach_boiled_season_winter"], "fg": "large_stomach_sealed_season_winter", "bg": [], "rotates": false },
+	{ "id": ["large_stomach_sealed_season_summer", "stomach_boiled_season_summer", "hstomach_boiled_season_summer"], "fg": "large_stomach_sealed_season_summer", "bg": [], "rotates": false }
+]

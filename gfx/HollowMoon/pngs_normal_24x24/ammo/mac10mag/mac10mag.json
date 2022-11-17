@@ -1,0 +1,50 @@
+[
+  {
+    "id": [
+      "mac10mag_season_spring",
+      "tec9mag_30rd_season_spring",
+      "mp5mag_season_spring",
+      "vz58mag30_season_spring",
+      "thompson_bigmag_season_spring",
+      "tdi_mag_season_spring",
+      "tdi_10mm_mag_season_spring"
+    ],
+    "fg": "mac10mag_season_spring"
+  },
+  {
+    "id": [
+      "mac10mag_season_summer",
+      "tec9mag_30rd_season_summer",
+      "mp5mag_season_summer",
+      "vz58mag30_season_summer",
+      "thompson_bigmag_season_summer",
+      "tdi_mag_season_summer",
+      "tdi_10mm_mag_season_summer"
+    ],
+    "fg": "mac10mag_season_summer"
+  },
+  {
+    "id": [
+      "mac10mag_season_autumn",
+      "tec9mag_30rd_season_autumn",
+      "mp5mag_season_autumn",
+      "vz58mag30_season_autumn",
+      "thompson_bigmag_season_autumn",
+      "tdi_mag_season_autumn",
+      "tdi_10mm_mag_season_autumn"
+    ],
+    "fg": "mac10mag_season_autumn"
+  },
+  {
+    "id": [
+      "mac10mag_season_winter",
+      "tec9mag_30rd_season_winter",
+      "mp5mag_season_winter",
+      "vz58mag30_season_winter",
+      "thompson_bigmag_season_winter",
+      "tdi_mag_season_winter",
+      "tdi_10mm_mag_season_winter"
+    ],
+    "fg": "mac10mag_season_winter"
+  }
+]

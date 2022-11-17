@@ -1,0 +1,9 @@
+{
+  "id": "mon_gracke",
+  "animated": true,
+    "fg": [
+      { "weight": 10, "sprite": "mon_gracke" },
+      { "weight": 10, "sprite": "mon_gracke_1" },
+      { "weight": 10, "sprite": "mon_gracke_2" }
+    ]
+}

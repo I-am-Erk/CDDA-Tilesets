@@ -1,0 +1,9 @@
+[
+  {
+    "id": "vp_inflatable_section",
+    "fg": [ "vp_inflatable_section" ],
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "vp_inflatable_section_broken" ] } ]
+  }
+]

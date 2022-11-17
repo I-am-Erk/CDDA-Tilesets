@@ -1,0 +1,7 @@
+{
+  "id": "f_fridge",
+  "height_3d": 28,
+  "rotates": true,
+  "fg": [ "f_fridge_faceS", "f_fridge_faceW", "f_fridge_faceN", "f_fridge_faceE" ],
+  "bg": ""
+}

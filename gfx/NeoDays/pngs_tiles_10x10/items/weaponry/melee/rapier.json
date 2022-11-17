@@ -1,0 +1,12 @@
+{
+  "id": [
+    "rapier",
+    "rapier_fake",
+    "fencing_foil",
+    "fencing_epee",
+    "fencing_sabre",
+    "estoc",
+    "estoc_fake"
+  ],
+  "fg": "rapier"
+}

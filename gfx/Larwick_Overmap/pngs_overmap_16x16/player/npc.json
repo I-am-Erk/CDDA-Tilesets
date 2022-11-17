@@ -1,0 +1,11 @@
+{
+  "id": [
+    "npc_male",
+    "npc_female"
+  ],
+  "fg": "npc",
+  "rotates": false,
+  "bg": [
+    
+  ]
+}

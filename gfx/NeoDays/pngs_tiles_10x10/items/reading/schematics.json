@@ -1,0 +1,19 @@
+{
+  "id": [
+    "schematics_antimateriel",
+    "schematics_hazmatbot",
+    "schematics_dispatch",
+    "schematics_dispatch_military",
+    "schematics_eyebot",
+    "schematics_grocerybot",
+    "schematics_sciencebot",
+    "schematics_searchlight",
+    "schematics_molebot",
+    "schematics_nursebot",
+    "schematics_copbot",
+    "schematics_riotbot",
+    "schematics_secubot",
+    "schematics_skitterbot"
+  ],
+  "fg": "schematics"
+}

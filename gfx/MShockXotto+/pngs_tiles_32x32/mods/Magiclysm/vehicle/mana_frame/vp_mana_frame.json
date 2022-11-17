@@ -1,0 +1,12 @@
+{
+  "id": "vp_mana_frame",
+  "animated": true,
+  "fg": [
+    { "weight": 15, "sprite": "vp_mana_frame_1" },
+    { "weight": 15, "sprite": "vp_mana_frame_2" },
+    { "weight": 15, "sprite": "vp_mana_frame_3" },
+    { "weight": 15, "sprite": "vp_mana_frame_2" }
+  ],
+  "bg": [
+  ]
+}

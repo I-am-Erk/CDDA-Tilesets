@@ -8,7 +8,7 @@ name: Mushroom-Dream composer
 
 env:
   TILESET: Mushroom-Dream
-  COMPOSE_ARGS: --use-all  --obsolete-fillers
+  COMPOSE_ARGS: --use-all --obsolete-fillers
   BUILD_DIR: build
 
 on:
@@ -31,12 +31,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Install Dependencies
-        run: |
-          sudo apt install musl-dev gcc libvips-dev python3-dev python3-pip python3-wheel
-          pip3 install pyvips
+        uses: awalsh128/cache-apt-pkgs-action@v1
+        with:
+          packages: musl python3 python3-pip libvips42
+
+        # re-installing libvips; caching it won't set it up the way we need it
+        # still cache it because we'll make it work somehow
+      - run: sudo apt-get install libvips42
+      - run: pip3 install pyvips
 
       - name: Checkout Code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Build
         id: build
@@ -45,23 +50,23 @@ jobs:
           wget -q -P "$BUILD_DIR" https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/compose.py \
           || echo "Error: Failed to get compose.py"
 
-          python3 "$BUILD_DIR/compose.py" $COMPOSE_ARGS "gfx/$TILESET" "$BUILD_DIR"
+          python3 "$BUILD_DIR/compose.py" --feedback CONCISE --loglevel INFO $COMPOSE_ARGS "gfx/$TILESET" "$BUILD_DIR"
           [ -f "gfx/$TILESET/fallback.png" ] && cp "gfx/$TILESET/fallback.png" "$BUILD_DIR/"
 
-          artifact_name="$TILESET-${GITHUB_SHA::7}"
+          artifact_name="$TILESET-dev-git-${GITHUB_SHA::7}"
 
           mkdir "$artifact_name"
           mv "${BUILD_DIR}"/*.png           "$artifact_name"
           cp "$BUILD_DIR/tile_config.json"  "$artifact_name"
           cp "gfx/$TILESET/tileset.txt"     "$artifact_name"
 
-          echo ::set-output name=artifact_name::"$artifact_name"
+          echo "ARTIFACT-NAME=$artifact_name" >> $GITHUB_OUTPUT
 
       - name: Upload Artifacts
         uses: actions/upload-artifact@v2
         with:
-          name: ${{ steps.build.outputs.artifact_name }}
-          path: ${{ steps.build.outputs.artifact_name }}
+          name: ${{ steps.build.outputs.ARTIFACT-NAME }}
+          path: ${{ steps.build.outputs.ARTIFACT-NAME }}
 
       - name: Compare IDs with ${{ github.base_ref }}
         id: compare

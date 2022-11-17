@@ -1,0 +1,111 @@
+{
+  "id": "t_slope_up",
+  "fg": "t_slope_up_1_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "animated": true,
+      "fg": [
+        { "weight": 15, "sprite": [ "t_slope_up_1_unconnected", "t_slope_up_1_unconnected" ] },
+        { "weight": 15, "sprite": [ "t_slope_up_2_unconnected", "t_slope_up_2_unconnected" ] },
+        { "weight": 15, "sprite": [ "t_slope_up_3_unconnected", "t_slope_up_3_unconnected" ] },
+        { "weight": 15, "sprite": [ "t_slope_up_2_unconnected", "t_slope_up_2_unconnected" ] }
+      ]
+    },
+    {
+      "id": "corner",
+      "animated": true,
+      "fg": [
+        {
+          "weight": 15,
+          "sprite": [ "t_slope_up_1_corner_nw", "t_slope_up_1_corner_sw", "t_slope_up_1_corner_se", "t_slope_up_1_corner_ne" ]
+        },
+        {
+          "weight": 15,
+          "sprite": [ "t_slope_up_2_corner_nw", "t_slope_up_2_corner_sw", "t_slope_up_2_corner_se", "t_slope_up_2_corner_ne" ]
+        },
+        {
+          "weight": 15,
+          "sprite": [ "t_slope_up_3_corner_nw", "t_slope_up_3_corner_sw", "t_slope_up_3_corner_se", "t_slope_up_3_corner_ne" ]
+        },
+        {
+          "weight": 15,
+          "sprite": [ "t_slope_up_2_corner_nw", "t_slope_up_2_corner_sw", "t_slope_up_2_corner_se", "t_slope_up_2_corner_ne" ]
+        }
+      ]
+    },
+    {
+      "id": "t_connection",
+      "animated": true,
+      "fg": [
+        {
+          "weight": 15,
+          "sprite": [
+            "t_slope_up_1_t_connection_n",
+            "t_slope_up_1_t_connection_w",
+            "t_slope_up_1_t_connection_s",
+            "t_slope_up_1_t_connection_e"
+          ]
+        },
+        {
+          "weight": 15,
+          "sprite": [
+            "t_slope_up_2_t_connection_n",
+            "t_slope_up_2_t_connection_w",
+            "t_slope_up_2_t_connection_s",
+            "t_slope_up_2_t_connection_e"
+          ]
+        },
+        {
+          "weight": 15,
+          "sprite": [
+            "t_slope_up_3_t_connection_n",
+            "t_slope_up_3_t_connection_w",
+            "t_slope_up_3_t_connection_s",
+            "t_slope_up_3_t_connection_e"
+          ]
+        },
+        {
+          "weight": 15,
+          "sprite": [
+            "t_slope_up_2_t_connection_n",
+            "t_slope_up_2_t_connection_w",
+            "t_slope_up_2_t_connection_s",
+            "t_slope_up_2_t_connection_e"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "edge",
+      "animated": true,
+      "fg": [
+        { "weight": 15, "sprite": [ "t_slope_up_1_edge_ns", "t_slope_up_1_edge_ew" ] },
+        { "weight": 15, "sprite": [ "t_slope_up_2_edge_ns", "t_slope_up_2_edge_ew" ] },
+        { "weight": 15, "sprite": [ "t_slope_up_3_edge_ns", "t_slope_up_3_edge_ew" ] },
+        { "weight": 15, "sprite": [ "t_slope_up_2_edge_ns", "t_slope_up_2_edge_ew" ] }
+      ]
+    },
+    {
+      "id": "end_piece",
+      "animated": true,
+      "fg": [
+        { "weight": 15, "sprite": [ "t_slope_up_1_edge_ns", "t_slope_up_1_edge_ew" ] },
+        { "weight": 15, "sprite": [ "t_slope_up_2_edge_ns", "t_slope_up_2_edge_ew" ] },
+        { "weight": 15, "sprite": [ "t_slope_up_3_edge_ns", "t_slope_up_3_edge_ew" ] },
+        { "weight": 15, "sprite": [ "t_slope_up_2_edge_ns", "t_slope_up_2_edge_ew" ] }
+      ]
+    },
+    {
+      "id": "unconnected",
+      "animated": true,
+      "fg": [
+        { "weight": 15, "sprite": [ "t_slope_up_1_unconnected", "t_slope_up_1_unconnected" ] },
+        { "weight": 15, "sprite": [ "t_slope_up_2_unconnected", "t_slope_up_2_unconnected" ] },
+        { "weight": 15, "sprite": [ "t_slope_up_3_unconnected", "t_slope_up_3_unconnected" ] },
+        { "weight": 15, "sprite": [ "t_slope_up_2_unconnected", "t_slope_up_2_unconnected" ] }
+      ]
+    }
+  ]
+}

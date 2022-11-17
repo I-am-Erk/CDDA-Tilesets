@@ -1,0 +1,30 @@
+[
+  {
+    "id": "mon_zombie_soldier_season_spring",
+    "fg": [
+      { "weight": 1, "sprite": "mon_zombie_soldier_1_season_spring" },
+      { "weight": 1, "sprite": "mon_zombie_soldier_2_season_spring" }
+    ]
+  },
+  {
+    "id": "mon_zombie_soldier_season_summer",
+    "fg": [
+      { "weight": 1, "sprite": "mon_zombie_soldier_1_season_summer" },
+      { "weight": 1, "sprite": "mon_zombie_soldier_2_season_summer" }
+    ]
+  },
+  {
+    "id": "mon_zombie_soldier_season_autumn",
+    "fg": [
+      { "weight": 1, "sprite": "mon_zombie_soldier_1_season_autumn" },
+      { "weight": 1, "sprite": "mon_zombie_soldier_2_season_autumn" }
+    ]
+  },
+  {
+    "id": "mon_zombie_soldier_season_winter",
+    "fg": [
+      { "weight": 1, "sprite": "mon_zombie_soldier_1_season_winter" },
+      { "weight": 1, "sprite": "mon_zombie_soldier_2_season_winter" }
+    ]
+  }
+]

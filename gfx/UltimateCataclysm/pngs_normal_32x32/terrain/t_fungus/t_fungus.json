@@ -1,106 +1,416 @@
 [
   {
-    "id": ["t_fungus", "t_fungus_floor_out"],
+    "id": [ "t_fungus" ],
     "multitile": true,
-    "fg": "t_fungus_unconnected",
-    "bg": "t_grass",
+    "fg": "t_fungus1_unconnected",
+    "bg": "t_dirt_center",
     "additional_tiles": [
-      { "id": "center", "bg": "t_grass", "fg": "t_fungus_center" },
+      { "id": "center", "bg": "t_dirt_center", "fg": [
+          {"weight": 32, "sprite": "t_fungus1_center"},
+          {"weight": 32, "sprite": "t_fungus2_center"},
+          {"weight": 32, "sprite": "t_fungus3_center"},
+          {"weight": 32, "sprite": "t_fungus4_center"},
+          {"weight": 32, "sprite": "t_fungus5_center"},
+          {"weight": 32, "sprite": "t_fungus6_center"},
+          {"weight": 1, "sprite": "t_fungus_sticks01"},
+          {"weight": 1, "sprite": "t_fungus_sticks02"},
+          {"weight": 1, "sprite": "t_fungus_sticks03"},
+          {"weight": 1, "sprite": "t_fungus_sticks04"},
+          {"weight": 1, "sprite": "t_fungus_sticks05"},
+          {"weight": 1, "sprite": "t_fungus_sticks06"},
+          {"weight": 1, "sprite": "t_fungus_sticks07"},
+          {"weight": 1, "sprite": "t_fungus_sticks08"},
+          {"weight": 1, "sprite": "t_fungus_sticks09"},
+          {"weight": 1, "sprite": "t_fungus_sticks10"},
+          {"weight": 1, "sprite": "t_fungus_sticks11"},
+          {"weight": 1, "sprite": "t_fungus_sticks12"},
+          {"weight": 1, "sprite": "t_fungus_sticks13"},
+          {"weight": 1, "sprite": "t_fungus_sticks14"},
+          {"weight": 1, "sprite": "t_fungus_sticks15"},
+          {"weight": 1, "sprite": "t_fungus_1ball16"},
+          {"weight": 1, "sprite": "t_fungus_1ball01"},
+          {"weight": 1, "sprite": "t_fungus_1ball02"},
+          {"weight": 1, "sprite": "t_fungus_1ball03"},
+          {"weight": 1, "sprite": "t_fungus_1ball04"},
+          {"weight": 1, "sprite": "t_fungus_1ball05"},
+          {"weight": 1, "sprite": "t_fungus_1ball06"},
+          {"weight": 1, "sprite": "t_fungus_1ball07"},
+          {"weight": 1, "sprite": "t_fungus_1ball08"},
+          {"weight": 1, "sprite": "t_fungus_1ball09"},
+          {"weight": 1, "sprite": "t_fungus_1ball10"},
+          {"weight": 1, "sprite": "t_fungus_1ball11"},
+          {"weight": 1, "sprite": "t_fungus_1ball12"},
+          {"weight": 1, "sprite": "t_fungus_1ball13"},
+          {"weight": 1, "sprite": "t_fungus_1ball14"},
+          {"weight": 1, "sprite": "t_fungus_1ball15"},
+          {"weight": 1, "sprite": "t_fungus_1ball16"},
+          {"weight": 1, "sprite": "t_fungus_1ball16"},
+          {"weight": 1, "sprite": "t_fungus_2balls01"},
+          {"weight": 1, "sprite": "t_fungus_2balls02"},
+          {"weight": 1, "sprite": "t_fungus_2balls03"},
+          {"weight": 1, "sprite": "t_fungus_2balls04"},
+          {"weight": 1, "sprite": "t_fungus_2balls05"},
+          {"weight": 1, "sprite": "t_fungus_2balls06"},
+          {"weight": 1, "sprite": "t_fungus_2balls07"},
+          {"weight": 1, "sprite": "t_fungus_2balls08"},
+          {"weight": 1, "sprite": "t_fungus_2balls09"},
+          {"weight": 1, "sprite": "t_fungus_2balls10"},
+          {"weight": 1, "sprite": "t_fungus_2balls11"},
+          {"weight": 1, "sprite": "t_fungus_2balls12"},
+          {"weight": 1, "sprite": "t_fungus_2balls13"},
+          {"weight": 1, "sprite": "t_fungus_2balls14"},
+          {"weight": 1, "sprite": "t_fungus_2balls15"},
+          {"weight": 1, "sprite": "t_fungus_2balls16"}
+        ]
+      },
       {
         "id": "corner",
-        "bg": "t_grass",
-        "fg": [ "t_fungus_corner_nw", "t_fungus_corner_sw", "t_fungus_corner_se", "t_fungus_corner_ne" ]
+        "bg": "t_dirt_center",
+        "fg": [
+          { "weight": 1, "sprite": [ "t_fungus1_corner_nw", "t_fungus1_corner_sw", "t_fungus1_corner_se", "t_fungus1_corner_ne" ] },
+          { "weight": 1, "sprite": [ "t_fungus2_corner_nw", "t_fungus2_corner_sw", "t_fungus2_corner_se", "t_fungus2_corner_ne" ] },
+          { "weight": 1, "sprite": [ "t_fungus3_corner_nw", "t_fungus3_corner_sw", "t_fungus3_corner_se", "t_fungus3_corner_ne" ] },
+          { "weight": 1, "sprite": [ "t_fungus5_corner_nw", "t_fungus5_corner_sw", "t_fungus5_corner_se", "t_fungus5_corner_ne" ] },
+          { "weight": 1, "sprite": [ "t_fungus6_corner_nw", "t_fungus6_corner_sw", "t_fungus6_corner_se", "t_fungus6_corner_ne" ] }
+        ]
       },
       {
         "id": "t_connection",
-        "bg": "t_grass",
-        "fg": [ "t_fungus_t_connection_n", "t_fungus_t_connection_w", "t_fungus_t_connection_s", "t_fungus_t_connection_e" ]
+        "bg": "t_dirt_center",
+        "fg": [ 
+          { "weight": 1, "sprite": [ "t_fungus1_t_connection_n", "t_fungus1_t_connection_w", "t_fungus1_t_connection_s", "t_fungus1_t_connection_e" ] },
+          { "weight": 1, "sprite": [ "t_fungus2_t_connection_n", "t_fungus2_t_connection_w", "t_fungus2_t_connection_s", "t_fungus2_t_connection_e" ] },
+          { "weight": 1, "sprite": [ "t_fungus3_t_connection_n", "t_fungus3_t_connection_w", "t_fungus3_t_connection_s", "t_fungus3_t_connection_e" ] },
+          { "weight": 1, "sprite": [ "t_fungus5_t_connection_n", "t_fungus5_t_connection_w", "t_fungus5_t_connection_s", "t_fungus5_t_connection_e" ] },
+          { "weight": 1, "sprite": [ "t_fungus6_t_connection_n", "t_fungus6_t_connection_w", "t_fungus6_t_connection_s", "t_fungus6_t_connection_e" ] }
+        ]
       },
-      { "id": "edge", "bg": "t_grass", "fg": [ "t_fungus_edge_ns", "t_fungus_edge_ew" ] },
+      { 
+        "id": "edge", 
+        "bg": "t_dirt_center", 
+        "fg": [ 
+          { "weight": 1, "sprite": [ "t_fungus1_edge_ns", "t_fungus1_edge_ew" ] },
+          { "weight": 1, "sprite": [ "t_fungus2_edge_ns", "t_fungus2_edge_ew" ] },
+          { "weight": 1, "sprite": [ "t_fungus3_edge_ns", "t_fungus3_edge_ew" ] },
+          { "weight": 1, "sprite": [ "t_fungus5_edge_ns", "t_fungus5_edge_ew" ] },
+          { "weight": 1, "sprite": [ "t_fungus6_edge_ns", "t_fungus6_edge_ew" ] }
+        ] 
+      },
       {
         "id": "end_piece",
-        "bg": "t_grass",
-        "fg": [ "t_fungus_end_piece_n", "t_fungus_end_piece_w", "t_fungus_end_piece_s", "t_fungus_end_piece_e" ]
+        "bg": "t_dirt_center",
+        "fg": [ 
+          { "weight": 1, "sprite": [ "t_fungus1_end_piece_n", "t_fungus1_end_piece_w", "t_fungus1_end_piece_s", "t_fungus1_end_piece_e" ] },
+          { "weight": 1, "sprite": [ "t_fungus2_end_piece_n", "t_fungus2_end_piece_w", "t_fungus2_end_piece_s", "t_fungus2_end_piece_e" ] },
+          { "weight": 1, "sprite": [ "t_fungus3_end_piece_n", "t_fungus3_end_piece_w", "t_fungus3_end_piece_s", "t_fungus3_end_piece_e" ] },
+          { "weight": 1, "sprite": [ "t_fungus5_end_piece_n", "t_fungus5_end_piece_w", "t_fungus5_end_piece_s", "t_fungus5_end_piece_e" ] },
+          { "weight": 1, "sprite": [ "t_fungus6_end_piece_n", "t_fungus6_end_piece_w", "t_fungus6_end_piece_s", "t_fungus6_end_piece_e" ] }
+        ]
       },
-      { "bg": "t_grass", "id": "unconnected", "fg": "t_fungus_unconnected" }
+      { "bg": "t_dirt_center", "id": "unconnected", "fg": "t_fungus1_unconnected" }
     ]
   },
   {
     "id": "t_fungus_season_summer",
     "multitile": true,
-    "fg": "t_fungus_unconnected",
-    "bg": "t_grass_summer",
+    "fg": "t_fungus1_unconnected",
+    "bg": "t_dirt_center",
     "additional_tiles": [
-      { "id": "center", "bg": "t_grass_summer", "fg": "t_fungus_center" },
+      { "id": "center", "bg": "t_dirt_center", "fg": [
+          {"weight": 32, "sprite": "t_fungus1_center"},
+          {"weight": 32, "sprite": "t_fungus2_center"},
+          {"weight": 32, "sprite": "t_fungus3_center"},
+          {"weight": 32, "sprite": "t_fungus4_center"},
+          {"weight": 32, "sprite": "t_fungus5_center"},
+          {"weight": 32, "sprite": "t_fungus6_center"},
+          {"weight": 1, "sprite": "t_fungus_sticks01"},
+          {"weight": 1, "sprite": "t_fungus_sticks02"},
+          {"weight": 1, "sprite": "t_fungus_sticks03"},
+          {"weight": 1, "sprite": "t_fungus_sticks04"},
+          {"weight": 1, "sprite": "t_fungus_sticks05"},
+          {"weight": 1, "sprite": "t_fungus_sticks06"},
+          {"weight": 1, "sprite": "t_fungus_sticks07"},
+          {"weight": 1, "sprite": "t_fungus_sticks08"},
+          {"weight": 1, "sprite": "t_fungus_sticks09"},
+          {"weight": 1, "sprite": "t_fungus_sticks10"},
+          {"weight": 1, "sprite": "t_fungus_sticks11"},
+          {"weight": 1, "sprite": "t_fungus_sticks12"},
+          {"weight": 1, "sprite": "t_fungus_sticks13"},
+          {"weight": 1, "sprite": "t_fungus_sticks14"},
+          {"weight": 1, "sprite": "t_fungus_sticks15"},
+          {"weight": 1, "sprite": "t_fungus_1ball16"},
+          {"weight": 1, "sprite": "t_fungus_1ball01"},
+          {"weight": 1, "sprite": "t_fungus_1ball02"},
+          {"weight": 1, "sprite": "t_fungus_1ball03"},
+          {"weight": 1, "sprite": "t_fungus_1ball04"},
+          {"weight": 1, "sprite": "t_fungus_1ball05"},
+          {"weight": 1, "sprite": "t_fungus_1ball06"},
+          {"weight": 1, "sprite": "t_fungus_1ball07"},
+          {"weight": 1, "sprite": "t_fungus_1ball08"},
+          {"weight": 1, "sprite": "t_fungus_1ball09"},
+          {"weight": 1, "sprite": "t_fungus_1ball10"},
+          {"weight": 1, "sprite": "t_fungus_1ball11"},
+          {"weight": 1, "sprite": "t_fungus_1ball12"},
+          {"weight": 1, "sprite": "t_fungus_1ball13"},
+          {"weight": 1, "sprite": "t_fungus_1ball14"},
+          {"weight": 1, "sprite": "t_fungus_1ball15"},
+          {"weight": 1, "sprite": "t_fungus_1ball16"},
+          {"weight": 1, "sprite": "t_fungus_1ball16"},
+          {"weight": 1, "sprite": "t_fungus_2balls01"},
+          {"weight": 1, "sprite": "t_fungus_2balls02"},
+          {"weight": 1, "sprite": "t_fungus_2balls03"},
+          {"weight": 1, "sprite": "t_fungus_2balls04"},
+          {"weight": 1, "sprite": "t_fungus_2balls05"},
+          {"weight": 1, "sprite": "t_fungus_2balls06"},
+          {"weight": 1, "sprite": "t_fungus_2balls07"},
+          {"weight": 1, "sprite": "t_fungus_2balls08"},
+          {"weight": 1, "sprite": "t_fungus_2balls09"},
+          {"weight": 1, "sprite": "t_fungus_2balls10"},
+          {"weight": 1, "sprite": "t_fungus_2balls11"},
+          {"weight": 1, "sprite": "t_fungus_2balls12"},
+          {"weight": 1, "sprite": "t_fungus_2balls13"},
+          {"weight": 1, "sprite": "t_fungus_2balls14"},
+          {"weight": 1, "sprite": "t_fungus_2balls15"},
+          {"weight": 1, "sprite": "t_fungus_2balls16"}
+        ]
+      },
       {
         "id": "corner",
-        "bg": "t_grass_summer",
-        "fg": [ "t_fungus_corner_nw", "t_fungus_corner_sw", "t_fungus_corner_se", "t_fungus_corner_ne" ]
+        "bg": "t_dirt_center",
+        "fg": [
+          { "weight": 1, "sprite": [ "t_fungus1_corner_nw", "t_fungus1_corner_sw", "t_fungus1_corner_se", "t_fungus1_corner_ne" ] },
+          { "weight": 1, "sprite": [ "t_fungus2_corner_nw", "t_fungus2_corner_sw", "t_fungus2_corner_se", "t_fungus2_corner_ne" ] },
+          { "weight": 1, "sprite": [ "t_fungus3_corner_nw", "t_fungus3_corner_sw", "t_fungus3_corner_se", "t_fungus3_corner_ne" ] },
+          { "weight": 1, "sprite": [ "t_fungus5_corner_nw", "t_fungus5_corner_sw", "t_fungus5_corner_se", "t_fungus5_corner_ne" ] },
+          { "weight": 1, "sprite": [ "t_fungus6_corner_nw", "t_fungus6_corner_sw", "t_fungus6_corner_se", "t_fungus6_corner_ne" ] }
+        ]
       },
       {
         "id": "t_connection",
-        "bg": "t_grass_summer",
-        "fg": [ "t_fungus_t_connection_n", "t_fungus_t_connection_w", "t_fungus_t_connection_s", "t_fungus_t_connection_e" ]
+        "bg": "t_dirt_center",
+        "fg": [ 
+          { "weight": 1, "sprite": [ "t_fungus1_t_connection_n", "t_fungus1_t_connection_w", "t_fungus1_t_connection_s", "t_fungus1_t_connection_e" ] },
+          { "weight": 1, "sprite": [ "t_fungus2_t_connection_n", "t_fungus2_t_connection_w", "t_fungus2_t_connection_s", "t_fungus2_t_connection_e" ] },
+          { "weight": 1, "sprite": [ "t_fungus3_t_connection_n", "t_fungus3_t_connection_w", "t_fungus3_t_connection_s", "t_fungus3_t_connection_e" ] },
+          { "weight": 1, "sprite": [ "t_fungus5_t_connection_n", "t_fungus5_t_connection_w", "t_fungus5_t_connection_s", "t_fungus5_t_connection_e" ] },
+          { "weight": 1, "sprite": [ "t_fungus6_t_connection_n", "t_fungus6_t_connection_w", "t_fungus6_t_connection_s", "t_fungus6_t_connection_e" ] }
+        ]
       },
-      { "id": "edge", "bg": "t_grass_summer", "fg": [ "t_fungus_edge_ns", "t_fungus_edge_ew" ] },
+      { "id": "edge", "bg": "t_dirt_center", "fg": [ "t_fungus1_edge_ns", "t_fungus1_edge_ew" ] },
       {
         "id": "end_piece",
-        "bg": "t_grass_summer",
-        "fg": [ "t_fungus_end_piece_n", "t_fungus_end_piece_w", "t_fungus_end_piece_s", "t_fungus_end_piece_e" ]
+        "bg": "t_dirt_center",
+        "fg": [ 
+          { "weight": 1, "sprite": [ "t_fungus1_end_piece_n", "t_fungus1_end_piece_w", "t_fungus1_end_piece_s", "t_fungus1_end_piece_e" ] },
+          { "weight": 1, "sprite": [ "t_fungus2_end_piece_n", "t_fungus2_end_piece_w", "t_fungus2_end_piece_s", "t_fungus2_end_piece_e" ] },
+          { "weight": 1, "sprite": [ "t_fungus3_end_piece_n", "t_fungus3_end_piece_w", "t_fungus3_end_piece_s", "t_fungus3_end_piece_e" ] },
+          { "weight": 1, "sprite": [ "t_fungus5_end_piece_n", "t_fungus5_end_piece_w", "t_fungus5_end_piece_s", "t_fungus5_end_piece_e" ] },
+          { "weight": 1, "sprite": [ "t_fungus6_end_piece_n", "t_fungus6_end_piece_w", "t_fungus6_end_piece_s", "t_fungus6_end_piece_e" ] }
+        ]
       },
-      { "bg": "t_grass_summer", "id": "unconnected", "fg": "t_fungus_unconnected" }
+      { "bg": "t_dirt_center", "id": "unconnected", "fg": "t_fungus1_unconnected" }
     ]
   },
   {
     "id": "t_fungus_season_autumn",
     "multitile": true,
-    "fg": "t_fungus_unconnected",
-    "bg": "t_grass_autumn",
+    "fg": "t_fungus1_unconnected",
+    "bg": "t_dirt_center",
     "additional_tiles": [
-      { "id": "center", "bg": "t_grass_autumn", "fg": "t_fungus_center" },
+      { "id": "center", "bg": "t_dirt_center", "fg": [
+          {"weight": 32, "sprite": "t_fungus1_center"},
+          {"weight": 32, "sprite": "t_fungus2_center"},
+          {"weight": 32, "sprite": "t_fungus3_center"},
+          {"weight": 32, "sprite": "t_fungus4_center"},
+          {"weight": 32, "sprite": "t_fungus5_center"},
+          {"weight": 32, "sprite": "t_fungus6_center"},
+          {"weight": 1, "sprite": "t_fungus_sticks01"},
+          {"weight": 1, "sprite": "t_fungus_sticks02"},
+          {"weight": 1, "sprite": "t_fungus_sticks03"},
+          {"weight": 1, "sprite": "t_fungus_sticks04"},
+          {"weight": 1, "sprite": "t_fungus_sticks05"},
+          {"weight": 1, "sprite": "t_fungus_sticks06"},
+          {"weight": 1, "sprite": "t_fungus_sticks07"},
+          {"weight": 1, "sprite": "t_fungus_sticks08"},
+          {"weight": 1, "sprite": "t_fungus_sticks09"},
+          {"weight": 1, "sprite": "t_fungus_sticks10"},
+          {"weight": 1, "sprite": "t_fungus_sticks11"},
+          {"weight": 1, "sprite": "t_fungus_sticks12"},
+          {"weight": 1, "sprite": "t_fungus_sticks13"},
+          {"weight": 1, "sprite": "t_fungus_sticks14"},
+          {"weight": 1, "sprite": "t_fungus_sticks15"},
+          {"weight": 1, "sprite": "t_fungus_1ball16"},
+          {"weight": 1, "sprite": "t_fungus_1ball01"},
+          {"weight": 1, "sprite": "t_fungus_1ball02"},
+          {"weight": 1, "sprite": "t_fungus_1ball03"},
+          {"weight": 1, "sprite": "t_fungus_1ball04"},
+          {"weight": 1, "sprite": "t_fungus_1ball05"},
+          {"weight": 1, "sprite": "t_fungus_1ball06"},
+          {"weight": 1, "sprite": "t_fungus_1ball07"},
+          {"weight": 1, "sprite": "t_fungus_1ball08"},
+          {"weight": 1, "sprite": "t_fungus_1ball09"},
+          {"weight": 1, "sprite": "t_fungus_1ball10"},
+          {"weight": 1, "sprite": "t_fungus_1ball11"},
+          {"weight": 1, "sprite": "t_fungus_1ball12"},
+          {"weight": 1, "sprite": "t_fungus_1ball13"},
+          {"weight": 1, "sprite": "t_fungus_1ball14"},
+          {"weight": 1, "sprite": "t_fungus_1ball15"},
+          {"weight": 1, "sprite": "t_fungus_1ball16"},
+          {"weight": 1, "sprite": "t_fungus_1ball16"},
+          {"weight": 1, "sprite": "t_fungus_2balls01"},
+          {"weight": 1, "sprite": "t_fungus_2balls02"},
+          {"weight": 1, "sprite": "t_fungus_2balls03"},
+          {"weight": 1, "sprite": "t_fungus_2balls04"},
+          {"weight": 1, "sprite": "t_fungus_2balls05"},
+          {"weight": 1, "sprite": "t_fungus_2balls06"},
+          {"weight": 1, "sprite": "t_fungus_2balls07"},
+          {"weight": 1, "sprite": "t_fungus_2balls08"},
+          {"weight": 1, "sprite": "t_fungus_2balls09"},
+          {"weight": 1, "sprite": "t_fungus_2balls10"},
+          {"weight": 1, "sprite": "t_fungus_2balls11"},
+          {"weight": 1, "sprite": "t_fungus_2balls12"},
+          {"weight": 1, "sprite": "t_fungus_2balls13"},
+          {"weight": 1, "sprite": "t_fungus_2balls14"},
+          {"weight": 1, "sprite": "t_fungus_2balls15"},
+          {"weight": 1, "sprite": "t_fungus_2balls16"}
+        ]
+      },
       {
         "id": "corner",
-        "bg": "t_grass_autumn",
-        "fg": [ "t_fungus_corner_nw", "t_fungus_corner_sw", "t_fungus_corner_se", "t_fungus_corner_ne" ]
+        "bg": "t_dirt_center",
+        "fg": [
+          { "weight": 1, "sprite": [ "t_fungus1_corner_nw", "t_fungus1_corner_sw", "t_fungus1_corner_se", "t_fungus1_corner_ne" ] },
+          { "weight": 1, "sprite": [ "t_fungus2_corner_nw", "t_fungus2_corner_sw", "t_fungus2_corner_se", "t_fungus2_corner_ne" ] },
+          { "weight": 1, "sprite": [ "t_fungus3_corner_nw", "t_fungus3_corner_sw", "t_fungus3_corner_se", "t_fungus3_corner_ne" ] },
+          { "weight": 1, "sprite": [ "t_fungus5_corner_nw", "t_fungus5_corner_sw", "t_fungus5_corner_se", "t_fungus5_corner_ne" ] },
+          { "weight": 1, "sprite": [ "t_fungus6_corner_nw", "t_fungus6_corner_sw", "t_fungus6_corner_se", "t_fungus6_corner_ne" ] }
+        ]
       },
       {
         "id": "t_connection",
-        "bg": "t_grass_autumn",
-        "fg": [ "t_fungus_t_connection_n", "t_fungus_t_connection_w", "t_fungus_t_connection_s", "t_fungus_t_connection_e" ]
+        "bg": "t_dirt_center",
+        "fg": [ 
+          { "weight": 1, "sprite": [ "t_fungus1_t_connection_n", "t_fungus1_t_connection_w", "t_fungus1_t_connection_s", "t_fungus1_t_connection_e" ] },
+          { "weight": 1, "sprite": [ "t_fungus2_t_connection_n", "t_fungus2_t_connection_w", "t_fungus2_t_connection_s", "t_fungus2_t_connection_e" ] },
+          { "weight": 1, "sprite": [ "t_fungus3_t_connection_n", "t_fungus3_t_connection_w", "t_fungus3_t_connection_s", "t_fungus3_t_connection_e" ] },
+          { "weight": 1, "sprite": [ "t_fungus5_t_connection_n", "t_fungus5_t_connection_w", "t_fungus5_t_connection_s", "t_fungus5_t_connection_e" ] },
+          { "weight": 1, "sprite": [ "t_fungus6_t_connection_n", "t_fungus6_t_connection_w", "t_fungus6_t_connection_s", "t_fungus6_t_connection_e" ] }
+        ]
       },
-      { "id": "edge", "bg": "t_grass_autumn", "fg": [ "t_fungus_edge_ns", "t_fungus_edge_ew" ] },
+      { "id": "edge", "bg": "t_dirt_center", "fg": [ "t_fungus1_edge_ns", "t_fungus1_edge_ew" ] },
       {
         "id": "end_piece",
-        "bg": "t_grass_autumn",
-        "fg": [ "t_fungus_end_piece_n", "t_fungus_end_piece_w", "t_fungus_end_piece_s", "t_fungus_end_piece_e" ]
+        "bg": "t_dirt_center",
+        "fg": [ 
+          { "weight": 1, "sprite": [ "t_fungus1_end_piece_n", "t_fungus1_end_piece_w", "t_fungus1_end_piece_s", "t_fungus1_end_piece_e" ] },
+          { "weight": 1, "sprite": [ "t_fungus2_end_piece_n", "t_fungus2_end_piece_w", "t_fungus2_end_piece_s", "t_fungus2_end_piece_e" ] },
+          { "weight": 1, "sprite": [ "t_fungus3_end_piece_n", "t_fungus3_end_piece_w", "t_fungus3_end_piece_s", "t_fungus3_end_piece_e" ] },
+          { "weight": 1, "sprite": [ "t_fungus5_end_piece_n", "t_fungus5_end_piece_w", "t_fungus5_end_piece_s", "t_fungus5_end_piece_e" ] },
+          { "weight": 1, "sprite": [ "t_fungus6_end_piece_n", "t_fungus6_end_piece_w", "t_fungus6_end_piece_s", "t_fungus6_end_piece_e" ] }
+        ]
       },
-      { "bg": "t_grass_autumn", "id": "unconnected", "fg": "t_fungus_unconnected" }
+      { "bg": "t_dirt_center", "id": "unconnected", "fg": "t_fungus1_unconnected" }
     ]
   },
   {
     "id": "t_fungus_season_winter",
     "multitile": true,
-    "fg": "t_fungus_unconnected",
+    "fg": "t_fungus1_unconnected",
     "bg": "snow_shallow_center",
     "additional_tiles": [
-      { "id": "center", "bg": "snow_shallow_center", "fg": "t_fungus_center" },
+      { "id": "center", "bg": "snow_shallow_center", "fg": [
+          {"weight": 32, "sprite": "t_fungus1_center"},
+          {"weight": 32, "sprite": "t_fungus2_center"},
+          {"weight": 32, "sprite": "t_fungus3_center"},
+          {"weight": 32, "sprite": "t_fungus4_center"},
+          {"weight": 32, "sprite": "t_fungus5_center"},
+          {"weight": 32, "sprite": "t_fungus6_center"},
+          {"weight": 1, "sprite": "t_fungus_sticks01"},
+          {"weight": 1, "sprite": "t_fungus_sticks02"},
+          {"weight": 1, "sprite": "t_fungus_sticks03"},
+          {"weight": 1, "sprite": "t_fungus_sticks04"},
+          {"weight": 1, "sprite": "t_fungus_sticks05"},
+          {"weight": 1, "sprite": "t_fungus_sticks06"},
+          {"weight": 1, "sprite": "t_fungus_sticks07"},
+          {"weight": 1, "sprite": "t_fungus_sticks08"},
+          {"weight": 1, "sprite": "t_fungus_sticks09"},
+          {"weight": 1, "sprite": "t_fungus_sticks10"},
+          {"weight": 1, "sprite": "t_fungus_sticks11"},
+          {"weight": 1, "sprite": "t_fungus_sticks12"},
+          {"weight": 1, "sprite": "t_fungus_sticks13"},
+          {"weight": 1, "sprite": "t_fungus_sticks14"},
+          {"weight": 1, "sprite": "t_fungus_sticks15"},
+          {"weight": 1, "sprite": "t_fungus_1ball16"},
+          {"weight": 1, "sprite": "t_fungus_1ball01"},
+          {"weight": 1, "sprite": "t_fungus_1ball02"},
+          {"weight": 1, "sprite": "t_fungus_1ball03"},
+          {"weight": 1, "sprite": "t_fungus_1ball04"},
+          {"weight": 1, "sprite": "t_fungus_1ball05"},
+          {"weight": 1, "sprite": "t_fungus_1ball06"},
+          {"weight": 1, "sprite": "t_fungus_1ball07"},
+          {"weight": 1, "sprite": "t_fungus_1ball08"},
+          {"weight": 1, "sprite": "t_fungus_1ball09"},
+          {"weight": 1, "sprite": "t_fungus_1ball10"},
+          {"weight": 1, "sprite": "t_fungus_1ball11"},
+          {"weight": 1, "sprite": "t_fungus_1ball12"},
+          {"weight": 1, "sprite": "t_fungus_1ball13"},
+          {"weight": 1, "sprite": "t_fungus_1ball14"},
+          {"weight": 1, "sprite": "t_fungus_1ball15"},
+          {"weight": 1, "sprite": "t_fungus_1ball16"},
+          {"weight": 1, "sprite": "t_fungus_1ball16"},
+          {"weight": 1, "sprite": "t_fungus_2balls01"},
+          {"weight": 1, "sprite": "t_fungus_2balls02"},
+          {"weight": 1, "sprite": "t_fungus_2balls03"},
+          {"weight": 1, "sprite": "t_fungus_2balls04"},
+          {"weight": 1, "sprite": "t_fungus_2balls05"},
+          {"weight": 1, "sprite": "t_fungus_2balls06"},
+          {"weight": 1, "sprite": "t_fungus_2balls07"},
+          {"weight": 1, "sprite": "t_fungus_2balls08"},
+          {"weight": 1, "sprite": "t_fungus_2balls09"},
+          {"weight": 1, "sprite": "t_fungus_2balls10"},
+          {"weight": 1, "sprite": "t_fungus_2balls11"},
+          {"weight": 1, "sprite": "t_fungus_2balls12"},
+          {"weight": 1, "sprite": "t_fungus_2balls13"},
+          {"weight": 1, "sprite": "t_fungus_2balls14"},
+          {"weight": 1, "sprite": "t_fungus_2balls15"},
+          {"weight": 1, "sprite": "t_fungus_2balls16"}
+        ]
+      },
       {
         "id": "corner",
         "bg": "snow_shallow_center",
-        "fg": [ "t_fungus_corner_nw", "t_fungus_corner_sw", "t_fungus_corner_se", "t_fungus_corner_ne" ]
+        "fg": [
+          { "weight": 1, "sprite": [ "t_fungus1_corner_nw", "t_fungus1_corner_sw", "t_fungus1_corner_se", "t_fungus1_corner_ne" ] },
+          { "weight": 1, "sprite": [ "t_fungus2_corner_nw", "t_fungus2_corner_sw", "t_fungus2_corner_se", "t_fungus2_corner_ne" ] },
+          { "weight": 1, "sprite": [ "t_fungus3_corner_nw", "t_fungus3_corner_sw", "t_fungus3_corner_se", "t_fungus3_corner_ne" ] },
+          { "weight": 1, "sprite": [ "t_fungus5_corner_nw", "t_fungus5_corner_sw", "t_fungus5_corner_se", "t_fungus5_corner_ne" ] },
+          { "weight": 1, "sprite": [ "t_fungus6_corner_nw", "t_fungus6_corner_sw", "t_fungus6_corner_se", "t_fungus6_corner_ne" ] }
+        ]
       },
       {
         "id": "t_connection",
         "bg": "snow_shallow_center",
-        "fg": [ "t_fungus_t_connection_n", "t_fungus_t_connection_w", "t_fungus_t_connection_s", "t_fungus_t_connection_e" ]
+        "fg": [ 
+          { "weight": 1, "sprite": [ "t_fungus1_t_connection_n", "t_fungus1_t_connection_w", "t_fungus1_t_connection_s", "t_fungus1_t_connection_e" ] },
+          { "weight": 1, "sprite": [ "t_fungus2_t_connection_n", "t_fungus2_t_connection_w", "t_fungus2_t_connection_s", "t_fungus2_t_connection_e" ] },
+          { "weight": 1, "sprite": [ "t_fungus3_t_connection_n", "t_fungus3_t_connection_w", "t_fungus3_t_connection_s", "t_fungus3_t_connection_e" ] },
+          { "weight": 1, "sprite": [ "t_fungus5_t_connection_n", "t_fungus5_t_connection_w", "t_fungus5_t_connection_s", "t_fungus5_t_connection_e" ] },
+          { "weight": 1, "sprite": [ "t_fungus6_t_connection_n", "t_fungus6_t_connection_w", "t_fungus6_t_connection_s", "t_fungus6_t_connection_e" ] }
+        ]
       },
-      { "id": "edge", "bg": "snow_shallow_center", "fg": [ "t_fungus_edge_ns", "t_fungus_edge_ew" ] },
+      { "id": "edge", "bg": "t_dirt_center", "fg": [ "t_fungus1_edge_ns", "t_fungus1_edge_ew" ] },
       {
         "id": "end_piece",
         "bg": "snow_shallow_center",
-        "fg": [ "t_fungus_end_piece_n", "t_fungus_end_piece_w", "t_fungus_end_piece_s", "t_fungus_end_piece_e" ]
+        "fg": [ 
+          { "weight": 1, "sprite": [ "t_fungus1_end_piece_n", "t_fungus1_end_piece_w", "t_fungus1_end_piece_s", "t_fungus1_end_piece_e" ] },
+          { "weight": 1, "sprite": [ "t_fungus2_end_piece_n", "t_fungus2_end_piece_w", "t_fungus2_end_piece_s", "t_fungus2_end_piece_e" ] },
+          { "weight": 1, "sprite": [ "t_fungus3_end_piece_n", "t_fungus3_end_piece_w", "t_fungus3_end_piece_s", "t_fungus3_end_piece_e" ] },
+          { "weight": 1, "sprite": [ "t_fungus5_end_piece_n", "t_fungus5_end_piece_w", "t_fungus5_end_piece_s", "t_fungus5_end_piece_e" ] },
+          { "weight": 1, "sprite": [ "t_fungus6_end_piece_n", "t_fungus6_end_piece_w", "t_fungus6_end_piece_s", "t_fungus6_end_piece_e" ] }
+        ]
       },
-      { "bg": "snow_shallow_center", "id": "unconnected", "fg": "t_fungus_unconnected" }
+      { "bg": "snow_shallow_center", "id": "unconnected", "fg": "t_fungus1_unconnected" }
     ]
   }
 ]

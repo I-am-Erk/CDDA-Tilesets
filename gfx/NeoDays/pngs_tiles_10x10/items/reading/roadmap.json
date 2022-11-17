@@ -1,0 +1,13 @@
+{
+  "id": [
+    "roadmap",
+    "satellitemap",
+    "survivormap",
+    "militarymap",
+    "restaurantmap",
+    "touristmap",
+    "trailmap",
+    "labmap"
+  ],
+  "fg": "roadmap"
+}

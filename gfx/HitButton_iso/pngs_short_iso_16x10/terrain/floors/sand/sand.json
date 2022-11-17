@@ -1,0 +1,22 @@
+[
+  {
+    "id": [ "t_sand" ],
+    "bg": [
+      { "weight": 1, "sprite": "t_sand_1" },
+      { "weight": 1, "sprite": "t_sand_2" },
+      { "weight": 1, "sprite": "t_sand_3" }
+    ],
+    "fg": [
+      { "weight": 1, "sprite": "floor_outline_double" },
+      { "weight": 1, "sprite": "floor_outline_double_2" },
+      { "weight": 1, "sprite": "floor_outline_double_3" },
+      { "weight": 1, "sprite": "floor_outline_left" },
+      { "weight": 1, "sprite": "floor_outline_right" }
+    ]
+  },
+  {
+    "id": [ "t_sandmound" ],
+    "fg": [ "t_sandmound" ],
+    "height_3d": 2
+  }
+]

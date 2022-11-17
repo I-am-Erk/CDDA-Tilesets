@@ -1,0 +1,25 @@
+{
+  "id": [
+    "mask_gas",
+    "mask_gas_xl",
+    "mask_survivor",
+    "mask_survivorxl",
+    "mask_hsurvivor",
+    "mask_lsurvivor",
+    "mask_bunker",
+    "mask_bunker_on",
+    "mask_wsurvivor",
+    "mask_wsurvivorxl",
+    "mask_fsurvivor",
+    "mask_fsurvivorxl",
+    "mask_h20survivor",
+    "mask_h20survivor_on",
+    "mask_h20survivorxl",
+    "mask_h20survivorxl_on",
+    "rebreather",
+    "rebreather_on",
+    "rebreather_xl",
+    "rebreather_xl_on"
+  ],
+  "fg": "mask_gas"
+}

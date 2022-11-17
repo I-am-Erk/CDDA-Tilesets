@@ -1,0 +1,10 @@
+[
+  {
+    "id": "overlay_wielded_hammer",
+    "fg": [ "overlay_wielded_hammer" ]
+  },
+  {
+    "id": "overlay_wielded_makeshift_hammer",
+    "fg": [ "overlay_wielded_hammer" ]
+  }
+]

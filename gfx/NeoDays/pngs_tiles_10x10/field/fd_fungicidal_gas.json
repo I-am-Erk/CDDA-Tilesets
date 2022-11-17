@@ -1,0 +1,32 @@
+{
+  "id": "fd_fungicidal_gas",
+  "fg": "fd_fungicidal_gas_0",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "fd_fungicidal_gas_1"
+    },
+    {
+      "id": "corner",
+      "fg": "fd_fungicidal_gas_2"
+    },
+    {
+      "id": "edge",
+      "fg": "fd_fungicidal_gas_3"
+    },
+    {
+      "id": "end_piece",
+      "fg": "fd_fungicidal_gas_4"
+    },
+    {
+      "id": "t_connection",
+      "fg": "fd_fungicidal_gas_5"
+    },
+    {
+      "id": "unconnected",
+      "fg": "fd_fungicidal_gas_0"
+    }
+  ]
+}

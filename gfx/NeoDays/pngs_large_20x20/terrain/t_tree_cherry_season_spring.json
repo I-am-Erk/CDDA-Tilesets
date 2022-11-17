@@ -1,0 +1,13 @@
+{
+  "id": [
+    "t_tree_cherry_season_spring",
+    "t_tree_plum_season_spring",
+    "t_tree_cherry_harvested",
+    "t_tree_plum_harvested",
+    "t_tree_apple_season_spring",
+    "t_tree_pear_season_spring",
+    "t_tree_peach_season_spring",
+    "t_tree_apricot_season_spring"
+  ],
+  "fg": "t_tree_cherry_season_spring"
+}

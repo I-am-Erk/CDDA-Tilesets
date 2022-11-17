@@ -1,0 +1,42 @@
+[
+  {
+    "id": [
+      "internal_oil_tank_season_spring",
+      "internal_ethanol_tank_season_spring",
+      "internal_gasoline_tank_season_spring",
+      "internal_battery_compartment_season_spring"
+    ],
+    "fg": [ "internal_oil_tank_season_spring" ],
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "internal_oil_tank_season_summer",
+      "internal_ethanol_tank_season_summer",
+      "internal_gasoline_tank_season_summer",
+      "internal_battery_compartment_season_summer"
+    ],
+    "fg": [ "internal_oil_tank_season_summer" ],
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "internal_oil_tank_season_autumn",
+      "internal_ethanol_tank_season_autumn",
+      "internal_gasoline_tank_season_autumn",
+      "internal_battery_compartment_season_autumn"
+    ],
+    "fg": [ "internal_oil_tank_season_autumn" ],
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "internal_oil_tank_season_winter",
+      "internal_ethanol_tank_season_winter",
+      "internal_gasoline_tank_season_winter",
+      "internal_battery_compartment_season_winter"
+    ],
+    "fg": [ "internal_oil_tank_season_winter" ],
+    "bg": [  ]
+  }
+]

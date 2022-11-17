@@ -1,7 +1,9 @@
 {
   "id": [
-    "overlay_mutation_HOOVES",
-    "overlay_mutation_DEMON_HOOVES"
+    "overlay_female_mutation_HOOVES",
+    "overlay_female_mutation_DEMON_HOOVES",
+    "overlay_male_mutation_HOOVES",
+    "overlay_male_mutation_DEMON_HOOVES"
   ],
   "fg": [
     "overlay_mutation_HOOVES"

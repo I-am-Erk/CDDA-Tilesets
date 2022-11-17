@@ -1,0 +1,44 @@
+[
+  {
+    "id": [ "cemetery_small" ],
+    "fg": [ "cemetery" ],
+    "bg": [ "field" ],
+    "rotates": false
+  },
+  {
+    "id": [ "Cemetery_1a" ],
+    "fg": [ "cem2_h_l", "cem2_v_t", "cem2_h_r", "cem2_v_b" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "Cemetery_1b" ],
+    "fg": [ "cem2_h_r", "cem2_v_b", "cem2_h_l", "cem2_v_t" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": "cemetery_4square_00",
+    "fg": [ "cem4_00_n", "cem4_00_e", "cem4_00_s", "cem4_00_w" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": "cemetery_4square_01",
+    "fg": [ "cem4_10_n", "cem4_10_e", "cem4_10_s", "cem4_10_w" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": "cemetery_4square_10",
+    "fg": [ "cem4_01_n", "cem4_01_e", "cem4_01_s", "cem4_01_w" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": "cemetery_4square_11",
+    "fg": [ "cem4_11_n", "cem4_11_e", "cem4_11_s", "cem4_11_w" ],
+    "bg": [ "field" ],
+    "rotates": true
+  }
+]

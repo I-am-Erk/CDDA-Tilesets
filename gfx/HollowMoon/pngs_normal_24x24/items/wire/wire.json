@@ -1,0 +1,62 @@
+[
+  {
+    "id": [
+      "wire_season_spring",
+      "hc_wire_season_spring",
+      "qt_wire_season_spring",
+      "lc_wire_season_spring",
+      "ch_wire_season_spring",
+      "mc_wire_season_spring",
+      "copper_wire_season_spring",
+      "cable_season_spring",
+      "welding_wire_steel_season_spring"
+    ],
+    "fg": [ "wire_season_spring" ],
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "wire_season_summer",
+      "hc_wire_season_summer",
+      "qt_wire_season_summer",
+      "lc_wire_season_summer",
+      "ch_wire_season_summer",
+      "mc_wire_season_summer",
+      "copper_wire_season_summer",
+      "cable_season_summer",
+      "welding_wire_steel_season_summer"
+    ],
+    "fg": [ "wire_season_summer" ],
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "wire_season_autumn",
+      "hc_wire_season_autumn",
+      "qt_wire_season_autumn",
+      "lc_wire_season_autumn",
+      "ch_wire_season_autumn",
+      "mc_wire_season_autumn",
+      "copper_wire_season_autumn",
+      "cable_season_autumn",
+      "welding_wire_steel_season_autumn"
+    ],
+    "fg": [ "wire_season_autumn" ],
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "wire_season_winter",
+      "hc_wire_season_winter",
+      "qt_wire_season_winter",
+      "lc_wire_season_winter",
+      "ch_wire_season_winter",
+      "mc_wire_season_winter",
+      "copper_wire_season_winter",
+      "cable_season_winter",
+      "welding_wire_steel_season_winter"
+    ],
+    "fg": [ "wire_season_winter" ],
+    "bg": [  ]
+  }
+]

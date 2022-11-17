@@ -1,0 +1,36 @@
+.50 bmg: rifle+
+.223: rifle
+.308: rifle
+.300 wine mag: rifle
+7.62x39mm: rifle
+5.45x39mm: rifle
+4.6x30mm: rifle
+.30-06: rifle
+.45-70: rifle
+7.62x54mmr: rifle
+5.7x28mm: rifle
+.700 nx: rifle
+.270 winchester: rifle
+.300blk: rifle
+7.62x51mm: rifle
+.30 carbine: rifle
+
+.22 lr: hand
+.40 s&w: hand
+.44 magnum: hand
+.38 special: hand
+.32 acp: hand
+.45 acp: hand
+.460 rowland: hand
+.454 casull: hand
+.500 s&w magnum: hand
+9x19mm: hand
+.380 acp: hand
+10mm auto: hand
+unused .22: hand
+.45 colt: hand
+9x18mm: hand
+.357 magnum: hand
+.357 sig: hand
+7.62x25mm: hand
+.38 super: hand

@@ -1,0 +1,9 @@
+{
+  "id": "gasoline_lantern_on",
+  "animated": true,
+    "fg": [
+      { "weight": 8, "sprite": "gasoline_lantern_on_1" },
+      { "weight": 8, "sprite": "gasoline_lantern_on_2" },
+      { "weight": 8, "sprite": "gasoline_lantern_on_3" }
+    ]
+}

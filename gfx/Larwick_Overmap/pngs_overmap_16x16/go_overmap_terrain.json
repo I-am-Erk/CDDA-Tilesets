@@ -1,0 +1,711 @@
+[
+  {
+    "id": "generic_city_building_no_sidewalk",
+    "fg": "two_story_light_gray"
+  },
+  {
+    "id": [
+      "park",
+      "park_2",
+      "park_3",
+      "park_4",
+      "park_5",
+      "park_5_roof",
+      "park_6",
+      "park_7"
+    ],
+    "fg": "park_green"
+  },
+  {
+    "id": "s_garage",
+    "fg": "garage_white"
+  },
+  {
+    "id": "s_garage_roof",
+    "fg": "garage_white"
+  },
+  {
+    "id": "s_garage_1",
+    "fg": "garage_white"
+  },
+  {
+    "id": "s_garage_roof_1",
+    "fg": "garage_white"
+  },
+  {
+    "id": "s_garage_2",
+    "fg": "garage_white"
+  },
+  {
+    "id": "s_garage_roof_2",
+    "fg": "garage_white"
+  },
+  {
+    "id": "s_garage_upper_roof_2",
+    "fg": "garage_white"
+  },
+  {
+    "id": [
+      "boat_rental",
+      "boat_rental_1",
+      "boat_rental_2",
+      "boat_rental_roof",
+      "boat_rental_1_roof",
+      "boat_rental_2_roof"
+    ],
+    "fg": "shop_white"
+  },
+  {
+    "id": [
+      "sealab_small_surface",
+      "sealab_small_roof",
+      "sealab_small_-1",
+      "sealab_small_-2",
+      "sealab_small_-3",
+      "sealab_small_-4",
+      "sealab_small_-5"
+    ],
+    "fg": "watchtower_light_blue"
+  },
+
+  {
+    "id": [
+      "lighthouse_ground",
+      "lighthouse_z1",
+      "lighthouse_z2",
+      "lighthouse_z3",
+      "lighthouse_z4",
+      "lighthouse_z5",
+      "lighthouse_roof"
+    ],
+    "fg": "watchtower_yellow"
+  },
+  {
+    "id": "island_sand",
+    "fg": "open_air_yellow"
+  },
+  {
+    "id": "island_forest",
+    "fg": "small_tree_green"
+  },
+  {
+    "id": "island_forest_thick",
+    "fg": "big_tree_green"
+  },
+  {
+    "id": "island_forest_water",
+    "fg": "swamp_cyan"
+  },
+  {
+    "id": "island_field",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": [
+      "riverside_dwelling", "riverside_dwelling_roof",
+      "riverside_dwelling1", "riverside_dwelling1_roof",
+      "riverside_dwelling2", "riverside_dwelling2_roof",
+      "riverside_dwelling3", "riverside_dwelling3_roof"
+    ],
+    "fg": "cabin_yellow"
+  },
+  {
+    "id": "lake_cabin_boathouse",
+    "fg": "small_tree_green"
+  },
+  {
+    "id": "lake_cabin_boathouse_roof",
+    "fg": "small_tree_green"
+  },
+  {
+    "id": "lake_cabin_water",
+    "fg": "water_blue"
+  },
+  {
+    "id": [
+      "cabin",
+      "cabin_roof",
+      "cabin_1",
+      "cabin_roof_1",
+      "cabin_2",
+      "cabin_roof_2",
+      "cabin_3",
+      "cabin_roof_3",
+      "cabin_4",
+      "cabin_roof_4",
+      "cabin_5",
+      "cabin_roof_5",
+      "cabin_6",
+      "cabin_roof_6",
+      "cabin_7",
+      "cabin_roof_7",
+      "cabin_strange",
+      "cabin_strange_b",
+      "cabin_strange_roof",
+      "cabin_lake",
+      "cabin_lake_roof",
+      "cabin_lapin",
+      "cabin_roof_lapin",
+      "cabin_isherwood",
+      "cabin_prepper"
+    ],
+    "fg": "cabin_brown"
+  },
+  {
+    "id": "cabin_prepper_shelter",
+    "fg": "bunker_red"
+  },
+  {
+    "id": "dirtroad1_aban1",
+    "fg": "small_tree_green"
+  },
+  {
+    "id": "forest_aban1",
+    "fg": "small_tree_green"
+  },
+  {
+    "id": "dirtroad2_aban1",
+    "fg": "small_tree_green"
+  },
+  {
+    "id": "dirtplaza_aban1",
+    "fg": "small_tree_green"
+  },
+  {
+    "id": "cabin_aban1",
+    "fg": "cabin_green"
+  },
+  {
+    "id": "barn_aban1",
+    "fg": "cabin_green"
+  },
+  {
+    "id": "car_corner_aban1",
+    "fg": "cabin_green"
+  },
+  {
+    "id": [
+      "shipwreck_river_1",
+      "shipwreck_river_2",
+      "shipwreck_river_3",
+      "shipwreck_river_4"
+    ],
+    "fg": "anchor_pink"
+  },
+  {
+    "id": [
+      "radio_tower",
+      "radio_tower_even",
+      "radio_tower_even_stair_only",
+      "radio_tower_odd",
+      "radio_tower_top",
+      "radio_tower_1",
+      "radio_tower_roof_1",
+      "wasp_tower",
+      "wasp_tower_1",
+      "wasp_tower_roof_1",
+      "wasp_tower_even_1",
+      "wasp_tower_odd_1",
+      "wasp_tower_even_2",
+      "wasp_tower_odd_2",
+      "wasp_tower_top"
+    ],
+    "fg": "watchtower_light_gray"
+  },
+  {
+    "id": "wasp_tower_roof",
+    "fg": "open_air_blue"
+  },
+  {
+    "id": "bandit_cabin",
+    "fg": "small_tree_green"
+  },
+  {
+    "id": "bandit_camp_1",
+    "fg": "small_tree_green"
+  },
+  {
+    "id": "bandit_camp_2",
+    "fg": "small_tree_green"
+  },
+  {
+    "id": "bandit_camp_3",
+    "fg": "small_tree_green"
+  },
+  {
+    "id": "bandit_camp_4",
+    "fg": "small_tree_green"
+  },
+  {
+    "id": "campsite",
+    "fg": "tent_light_green"
+  },
+  {
+    "id": "campsite_a",
+    "fg": "tent_light_green"
+  },
+  {
+    "id": "campsite_cabin_incomplete",
+    "fg": "cabin_brown"
+  },
+  {
+    "id": "campsite_field_biker",
+    "fg": "tent_light_green"
+  },
+  {
+    "id": "campsite_field_biker_destroyed",
+    "fg": "tent_light_green"
+  },
+  {
+    "id": "pond_field",
+    "fg": "pond_blue"
+  },
+  {
+    "id": "hunter_shack",
+    "fg": "house_cyan"
+  },
+  {
+    "id": "hunter_shack_roof",
+    "fg": "house_cyan"
+  },
+  {
+    "id": "hunter_shack_1",
+    "fg": "house_cyan"
+  },
+  {
+    "id": "hunter_shack_roof_1",
+    "fg": "house_cyan"
+  },
+  {
+    "id": "campground_1a",
+    "fg": "tent_light_green"
+  },
+  {
+    "id": "campground_1b",
+    "fg": "tent_light_green"
+  },
+  {
+    "id": "campground_2a",
+    "fg": "tent_light_green"
+  },
+  {
+    "id": "campground_2b",
+    "fg": "tent_light_green"
+  },
+  {
+    "id": "campground_roof",
+    "fg": "tent_light_green"
+  },
+  {
+    "id": "campground_1a_npc",
+    "fg": "tent_light_green"
+  },
+  {
+    "id": "campground_1b_npc",
+    "fg": "tent_light_green"
+  },
+  {
+    "id": "campground_2a_npc",
+    "fg": "tent_light_green"
+  },
+  {
+    "id": "campground_2b_npc",
+    "fg": "tent_light_green"
+  },
+  {
+    "id": "campground_roof_npc",
+    "fg": "tent_light_green"
+  },
+  {
+    "id": "desolatebarn",
+    "fg": "barn_brown"
+  },
+  {
+    "id": "bandit_garage_1",
+    "fg": "small_tree_white"
+  },
+  {
+    "id": "bandit_garage_2",
+    "fg": "small_tree_white"
+  },
+  {
+    "id": "ws_giant_sinkhole_1",
+    "fg": "hole_brown"
+  },
+  {
+    "id": "ws_giant_sinkhole_2",
+    "fg": "hole_brown"
+  },
+  {
+    "id": "cs_public_space",
+    "fg": "tower_white"
+  },
+  {
+    "id": "parking_2x1_0",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "parking_2x1_1",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "parking_3x1_0",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "parking_3x1_1",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "parking_3x1_2",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "parking_2x2_0_0",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "parking_2x2_0_1",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "parking_2x2_1_0",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "parking_2x2_1_1",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "irradiator_1_1",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_2",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_3",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_4",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_5",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_6",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_7",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_8",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_9",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_1_roof",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_2_roof",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_3_roof",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_4_roof",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_5_roof",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_6_roof",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_7_roof",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_8_roof",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "irradiator_1_9_roof",
+    "fg": "industry_light_green"
+  },
+  {
+    "id": "airliner_1a",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_2a",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_3a",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_1b",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_2b",
+    "fg": "hole_light_blue"
+  },
+  {
+    "id": "airliner_3b",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_1c",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_2c",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_3c",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_1d",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_2d",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_3d",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_1e",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_2e",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_3e",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_1f",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_2f",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_3f",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_1g",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_2g",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_3g",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_1h",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_2h",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_3h",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_1i",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_2i",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_3i",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_1j",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_2j",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_3j",
+    "fg": "one_grass_brown"
+  },
+  {
+    "id": "airliner_2a_1",
+    "fg": "open_air_blue"
+  },
+  {
+    "id": "airliner_2b_1",
+    "fg": "hole_light_blue"
+  },
+  {
+    "id": "airliner_2c_1",
+    "fg": "open_air_blue"
+  },
+  {
+    "id": "airliner_2b_-1",
+    "fg": "hole_light_blue"
+  },
+  {
+    "id": "airliner_2c_-1",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "cground_1",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_2",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_3",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_4",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_5",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_6",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_7",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_8",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_9",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_1_1",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_2_1",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_3_1",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_4_1",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_5_1",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_6_1",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_7_1",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_8_1",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_9_1",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_1_2",
+    "fg": "tent_green"
+  },
+  {
+    "id": "cground_2_2",
+    "fg": "tent_green"
+  },
+  {
+    "id": [
+        "exo_safehouse_stone_0",
+        "exo_safehouse_stone_1",
+        "exo_safehouse_stone_2"
+      ],
+    "fg": "barn_light_gray"
+  },
+  {
+    "id": [
+        "pottery_cottage",
+        "pottery_cottage_2nd",
+        "pottery_cottage_roof"
+      ],
+    "fg": "cabin_yellow"
+  },
+  {
+    "id": [
+        "pottery_cottage_field",
+        "pottery_cottage_field_2nd",
+        "pottery_cottage_field_roof"
+      ],
+    "fg": "cabin_brown"
+  },
+  {
+    "id": [
+        "isolated_road_field_0",
+        "isolated_road_field_1"
+      ],
+    "fg": "two_grass_green"
+  },
+  {
+    "id": [
+        "isolated_house_farm_gunsmith",
+        "isolated_house_farm_roof_gunsmith",
+        "isolated_house_farm_blacksmith",
+        "isolated_house_farm_roof_blacksmith"
+      ],
+    "fg": "cabin_light_gray"
+  }
+]

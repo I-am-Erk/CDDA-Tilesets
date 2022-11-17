@@ -2,9 +2,7 @@
 Comment blocks, surrounded with <!–– and ––>, won't be visible in the actual post.-->
 
 #### Summary
-Category "Brief description"
-<!-- This section should consist of exactly one line, edit the one above.
-Available categories are: Ultica, Ultica-iso, Chibi-Ultica, Altica, NeoDays, RetroDays, HitButton, NeoDays, MSX, BLB, Chesthole, MD, HM, Smap, Infrastructure.-->
+<!-- Brief description  -->
 
 #### Content of the change
 

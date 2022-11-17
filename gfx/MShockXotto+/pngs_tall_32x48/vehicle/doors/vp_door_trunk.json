@@ -1,0 +1,26 @@
+{
+  "id": "vp_door_trunk",
+  "fg": [
+    "vp_door_trunk",
+    "vp_door_trunk_rotW",
+    "vp_door_trunk_rotS",
+    "vp_door_trunk_rotE"
+  ],
+  "bg": [
+    
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "open",
+      "fg": [ "vp_door_trunk_open", "vp_door_trunk_open_rotW", "vp_door_trunk_open_rotS", "vp_door_trunk_open_rotE" ],
+      "bg": [  ]
+    },
+    {
+      "id": "broken",
+      "fg": [ "3987_vp_cargo_space_2" ],
+      "bg": [ "vp_door_trunk", "vp_door_trunk_rotW", "vp_door_trunk_rotS", "vp_door_trunk_rotE" ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "f_counter_gate_o",
+    "fg": "f_counter_gate_o_rot_EW",
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "center", "fg": "f_counter_gate_o_rot_EW" },
+      {
+        "id": "t_connection",
+        "fg": [ "f_counter_gate_o_rot_NS", "f_counter_gate_o_rot_EW", "f_counter_gate_o_rot_NS", "f_counter_gate_o_rot_EW" ]
+      },
+      { "id": "edge", "fg": [ "f_counter_gate_o_rot_NS", "f_counter_gate_o_rot_EW" ] },
+      { "id": "unconnected", "fg": [ "f_counter_gate_o_rot_NS", "f_counter_gate_o_rot_EW" ] },
+      { "id": "end_piece", "fg": [ "f_counter_gate_o_rot_NS", "f_counter_gate_o_rot_EW" ] }
+    ]
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "id": [ "field", "special_field" ],
+  "fg": "field",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "field"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "field_corner_nw",
+        "field_corner_sw",
+        "field_corner_se",
+        "field_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "field_t_connection_n",
+        "field_t_connection_w",
+        "field_t_connection_s",
+        "field_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "field_edge_ns",
+        "field_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "field_end_piece_n",
+        "field_end_piece_w",
+        "field_end_piece_s",
+        "field_end_piece_e"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "field_unconnected",
+        "field_unconnected"
+      ]
+    }
+  ]
+}

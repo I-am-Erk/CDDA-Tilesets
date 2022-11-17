@@ -1,0 +1,20 @@
+{
+  "id": [
+    "vp_door_wood",
+    "vp_door_wood_opaque"
+  ],
+  "fg": "vp_door_wood_closed",
+  "bg": "background_black",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_door_wood_broken"
+    },
+    {
+      "id": "open",
+      "fg": "vp_door_wood_open"
+    }
+  ]
+}

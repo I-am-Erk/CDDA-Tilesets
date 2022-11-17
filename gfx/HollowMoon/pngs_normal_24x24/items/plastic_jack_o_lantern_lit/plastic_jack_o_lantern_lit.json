@@ -1,0 +1,6 @@
+[
+    { "id": ["plastic_jack_o_lantern_lit_season_spring", "jackolantern_lit_season_spring"], "fg": "plastic_jack_o_lantern_lit_season_spring", "bg": [], "rotates": false },
+	{ "id": ["plastic_jack_o_lantern_lit_season_autumn", "jackolantern_lit_season_autumn"], "fg": "plastic_jack_o_lantern_lit_season_autumn", "bg": [], "rotates": false },
+	{ "id": ["plastic_jack_o_lantern_lit_season_winter", "jackolantern_lit_season_winter"], "fg": "plastic_jack_o_lantern_lit_season_winter", "bg": [], "rotates": false },
+	{ "id": ["plastic_jack_o_lantern_lit_season_summer", "jackolantern_lit_season_summer"], "fg": "plastic_jack_o_lantern_lit_season_summer", "bg": [], "rotates": false }
+]

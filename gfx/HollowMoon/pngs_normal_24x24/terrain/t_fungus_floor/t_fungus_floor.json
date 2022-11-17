@@ -1,0 +1,42 @@
+[
+  {
+    "id": [
+      "t_fungus_floor_season_spring",
+      "t_fungus_floor_out_season_spring",
+      "t_fungus_floor_sup_season_spring",
+      "t_fungus_floor_in_season_spring"
+    ],
+    "fg": "t_fungus_floor_season_spring",
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "t_fungus_floor_season_autumn",
+      "t_fungus_floor_out_season_autumn",
+      "t_fungus_floor_sup_season_autumn",
+      "t_fungus_floor_in_season_autumn"
+    ],
+    "fg": "t_fungus_floor_season_autumn",
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "t_fungus_floor_season_winter",
+      "t_fungus_floor_out_season_winter",
+      "t_fungus_floor_sup_season_winter",
+      "t_fungus_floor_in_season_winter"
+    ],
+    "fg": "t_fungus_floor_season_winter",
+    "bg": [  ]
+  },
+  {
+    "id": [
+      "t_fungus_floor_season_summer",
+      "t_fungus_floor_out_season_summer",
+      "t_fungus_floor_sup_season_summer",
+      "t_fungus_floor_in_season_summer"
+    ],
+    "fg": "t_fungus_floor_season_summer",
+    "bg": [  ]
+  }
+]

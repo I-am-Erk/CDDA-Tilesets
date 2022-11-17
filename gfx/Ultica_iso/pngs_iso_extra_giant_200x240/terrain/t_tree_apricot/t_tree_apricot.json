@@ -1,0 +1,19 @@
+[
+  {
+    "id": "t_tree_apricot_season_spring",
+    "fg": "t_tree_apricot_spring",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_apricot_season_summer",
+    "fg": "t_tree_apricot_summer",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_apricot_season_autumn",
+    "fg": "t_tree_apricot_autumn",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_apricot_season_winter",
+    "fg": "t_tree_apricot_winter",
+    "bg": "snow_shallow_extra_giant"
+  }
+]

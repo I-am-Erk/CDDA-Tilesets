@@ -5,70 +5,71 @@
     "height": 32
   },
   {
-    "ChibiLargeMonster.png": { "sprite_width": 64, "sprite_height": 80, "sprite_offset_x": -16, "sprite_offset_y": -48 }
+    "ChibiLarge.png": {
+      "sprite_width": 64,
+      "sprite_height": 80,
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -48,
+      "exclude": [ "furniture", "terrain", "mods/Magiclysm/furnitures" ]
+    }
   },
   {
-    "ChibiLargeMonsterMagiclysm.png": { "sprite_width": 64, "sprite_height": 80, "sprite_offset_x": -16, "sprite_offset_y": -48 }
+    "ChibiBig.png": { "sprite_width": 80, "sprite_height": 64, "sprite_offset_x": -48, "sprite_offset_y": -32 }
   },
   {
-    "ChibiLargeOverlay.png": { "sprite_width": 64, "sprite_height": 80, "sprite_offset_x": -16, "sprite_offset_y": -48 }
+    "ChibiNormal.png": {
+      "sprite_width": 32,
+      "sprite_height": 32,
+      "exclude": [ "appliances", "field", "furniture", "item", "misc", "spell", "terrain", "trap", "vehicle" ]
+    }
   },
   {
-    "ChibiNormalCharacter.png": { "sprite_width": 32, "sprite_height": 32 }
+    "ChibiWide.png": {
+      "sprite_width": 48,
+      "sprite_height": 48,
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -16,
+      "exclude": [ "items", "mods/Magiclysm/furnitures" ]
+    }
   },
   {
-    "ChibiNormalMonster.png": { "sprite_width": 32, "sprite_height": 32 }
+    "ChibiTall.png": {
+      "sprite_width": 32,
+      "sprite_height": 48,
+      "sprite_offset_x": 0,
+      "sprite_offset_y": -16,
+      "exclude": [ "furniture", "spell", "terrain", "vehicle", "mods/Magiclysm/furniture" ]
+    }
   },
   {
-    "ChibiNormalCharacterMagiclysm.png": { "sprite_width": 32, "sprite_height": 32 }
+    "ChibiTaller.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_x": 0, "sprite_offset_y": -32, "exclude": [ "terrain" ] }
   },
   {
-    "ChibiNormalMonsterMagiclysm.png": { "sprite_width": 32, "sprite_height": 32 }
+    "ChibiHuge.png": { "sprite_width": 128, "sprite_height": 128, "sprite_offset_x": -64, "sprite_offset_y": -96 }
   },
   {
-    "ChibiNormalMonsterMSC.png": { "sprite_width": 32, "sprite_height": 32 }
-  },
-  {
-    "ChibiWideMonster.png": { "sprite_width": 48, "sprite_height": 48, "sprite_offset_x": -16, "sprite_offset_y": -16 }
-  },
-  {
-    "ChibiTallMonster.png": { "sprite_width": 32, "sprite_height": 48, "sprite_offset_x": 0, "sprite_offset_y": -16 }
-  },
-  {
-    "ChibiTallMonsterMagiclysm.png": { "sprite_width": 32, "sprite_height": 48, "sprite_offset_x": 0, "sprite_offset_y": -16 }
-  },
-  {
-    "ChibiTallMonsterMSC.png": { "sprite_width": 32, "sprite_height": 48, "sprite_offset_x": 0, "sprite_offset_y": -16 }
-  },
-  {
-    "ChibiTallOverlay.png": { "sprite_width": 32, "sprite_height": 48, "sprite_offset_x": 0, "sprite_offset_y": -16 }
-  },
-  {
-    "ChibiTallOverlayMagiclysm.png": { "sprite_width": 32, "sprite_height": 48, "sprite_offset_x": 0, "sprite_offset_y": -16 }
-  },
-  {
-    "ChibiHugeAftershockMonster.png": { "sprite_width": 128, "sprite_height": 128, "sprite_offset_x": -64, "sprite_offset_y": -96 }
-  },
-  {
-    "ChibismallMonster.png": { "sprite_width": 20, "sprite_height": 20, "sprite_offset_x": 0, "sprite_offset_y": 0 }
+    "ChibiSmall.png": {
+      "sprite_width": 20,
+      "sprite_height": 20,
+      "sprite_offset_x": 0,
+      "sprite_offset_y": 0,
+      "exclude": [ "appliances", "items" ]
+    }
   },
   {
     "small.png": { "sprite_width": 20, "sprite_height": 20, "filler": true }
   },
   {
-    "normal.png": { "filler": true }
+    "normal.png": { "filler": true, "exclude": [ "overlay/mutations", "overlay/wielded", "overlay/worn" ] }
   },
   {
-    "tallfurniture.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true }
-  },
-  {
-    "tallmonsters.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true }
-  },
-  {
-    "tallterrain.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true }
-  },
-  {
-    "tallvehicle.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true }
+    "tall.png": {
+      "sprite_width": 32,
+      "sprite_height": 64,
+      "sprite_offset_y": -32,
+      "filler": true,
+      "exclude": [ "overlay" ]
+    }
   },
   {
     "huge.png": { "sprite_width": 64, "sprite_height": 96, "sprite_offset_x": -16, "sprite_offset_y": -64, "filler": true }
@@ -77,7 +78,14 @@
     "centered.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -16, "filler": true }
   },
   {
-    "large.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -32, "filler": true }
+    "large.png": {
+      "sprite_width": 64,
+      "sprite_height": 64,
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -32,
+      "filler": true,
+      "exclude": [ "overlay" ]
+    }
   },
   {
     "giant.png": { "sprite_width": 96, "sprite_height": 96, "sprite_offset_x": -32, "sprite_offset_y": -64, "filler": true }
@@ -92,10 +100,16 @@
     "incomplete_large.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -32, "filler": true }
   },
   {
-    "widemonsters.png": { "sprite_width": 32, "sprite_height": 48, "sprite_offset_y": -16, "filler": true }
+    "human_body_plus.png": {
+      "sprite_width": 32,
+      "sprite_height": 48,
+      "sprite_offset_y": -16,
+      "filler": true,
+      "exclude": [ "character", "overlay" ]
+    }
   },
   {
-    "widevehicle.png": { "sprite_width": 32, "sprite_height": 48, "sprite_offset_y": -16, "filler": true }
+    "human_body.png": { "sprite_width": 32, "sprite_height": 36, "sprite_offset_y": -8, "filler": true, "exclude": [ "overlay" ] }
   },
   {
     "fillerhoder.png": {

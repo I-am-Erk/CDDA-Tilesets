@@ -1,0 +1,8 @@
+[
+  {
+    "id": [ "emptycommerciallot", "construction_site", "emptyresidentiallot" ],
+    "fg": [ "construction_site" ],
+    "bg": [ "field" ],
+    "rotates": false
+  }
+]

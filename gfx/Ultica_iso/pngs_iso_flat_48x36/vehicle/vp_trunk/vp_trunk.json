@@ -1,0 +1,5 @@
+{
+  "id": [ "vp_trunk", "vp_trunk_rear_edge" ],
+  "fg": [ "vp_trunk", "vp_trunk_rot" ],
+  "rotates": true
+}

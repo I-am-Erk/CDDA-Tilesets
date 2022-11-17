@@ -48,8 +48,14 @@
     "rotates": false
   },
   {
-    "id": [ "river_center", "lake_surface", "lake_water_cube", "lake_shore" ],
+    "id": "lake_shore",
     "fg": "river_center",
+    "bg": [],
+    "rotates": false
+  },
+  {
+    "id": [ "river_center", "lake_surface", "lake_water_cube" ],
+    "fg": "deep_river",
     "bg": "field",
     "rotates": false
   },
@@ -60,27 +66,15 @@
     "rotates": true
   },
   {
-    "id": "river_c_not_nw",
-    "fg": "river_center",
-    "bg": "field",
-    "rotates": false
+    "id": "bridgehead_ground",
+    "fg": [ "bridge_head_north", "bridge_head_east", "bridge_head_south", "bridge_head_west" ], 
+    "bg": "river_center",
+    "rotates": true
   },
   {
-    "id": "river_c_not_ne",
-    "fg": "river_center",
-    "bg": "field",
-    "rotates": false
-  },
-  {
-    "id": "river_c_not_sw",
-    "fg": "river_center",
-    "bg": "field",
-    "rotates": false
-  },
-  {
-    "id": "river_c_not_se",
-    "fg": "river_center",
-    "bg": "field",
-    "rotates": false
+    "id": "bridge",
+    "fg": [ "bridge_vert", "bridge_horiz", "bridge_vert", "bridge_horiz" ],
+    "bg": "deep_river",
+    "rotates": true
   }
 ]

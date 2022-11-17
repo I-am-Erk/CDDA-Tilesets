@@ -1,0 +1,62 @@
+[
+  {
+    "id": [
+      "akmag30_season_spring",
+      "falbigmag_season_spring",
+      "stanag30_season_spring",
+      "ak74mag_season_spring",
+      "ruger30_season_spring",
+      "m1carbinebigmag_season_spring",
+      "scarhmag_30rd_season_spring",
+      "stanag30ranger_season_spring",
+      "m1918bigmag_season_spring",
+      "g36mag_30rd_season_spring"
+    ],
+    "fg": "akmag30_season_spring"
+  },
+  {
+    "id": [
+      "akmag30_season_summer",
+      "falbigmag_season_summer",
+      "stanag30_season_summer",
+      "ak74mag_season_summer",
+      "ruger30_season_summer",
+      "m1carbinebigmag_season_summer",
+      "scarhmag_30rd_season_summer",
+      "stanag30ranger_season_summer",
+      "m1918bigmag_season_summer",
+      "g36mag_30rd_season_summer"
+    ],
+    "fg": "akmag30_season_summer"
+  },
+  {
+    "id": [
+      "akmag30_season_autumn",
+      "falbigmag_season_autumn",
+      "stanag30_season_autumn",
+      "ak74mag_season_autumn",
+      "ruger30_season_autumn",
+      "m1carbinebigmag_season_autumn",
+      "scarhmag_30rd_season_autumn",
+      "stanag30ranger_season_autumn",
+      "m1918bigmag_season_autumn",
+      "g36mag_30rd_season_autumn"
+    ],
+    "fg": "akmag30_season_autumn"
+  },
+  {
+    "id": [
+      "akmag30_season_winter",
+      "falbigmag_season_winter",
+      "stanag30_season_winter",
+      "ak74mag_season_winter",
+      "ruger30_season_winter",
+      "m1carbinebigmag_season_winter",
+      "scarhmag_30rd_season_winter",
+      "stanag30ranger_season_winter",
+      "m1918bigmag_season_winter",
+      "g36mag_30rd_season_winter"
+    ],
+    "fg": "akmag30_season_winter"
+  }
+]

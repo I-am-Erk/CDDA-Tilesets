@@ -1,0 +1,32 @@
+[
+  {
+    "id": "t_window_bars",
+    "fg": [ "t_window_bars" ],
+    "bg": [ "987_t_door_frame_1" ],
+    "rotates": false
+  },
+  {
+    "id": "t_window_bars_alarm",
+    "fg": [ "t_window_bars_alarm" ],
+    "bg": [ "987_t_door_frame_1" ],
+    "rotates": false
+  },
+  {
+    "id": "t_window_bars_curtains",
+    "fg": [ "t_window_bars_curtains" ],
+    "bg": [ "987_t_door_frame_1" ],
+    "rotates": false
+  },
+  {
+    "id": "t_window_bars_domestic",
+    "fg": [ "t_window_bars_domestic" ],
+    "bg": [ "987_t_door_frame_1" ],
+    "rotates": false
+  },
+  {
+    "id": "t_window_bars_noglass",
+    "fg": [ "t_window_bars_noglass" ],
+    "bg": [ "987_t_door_frame_1" ],
+    "rotates": false
+  }
+]

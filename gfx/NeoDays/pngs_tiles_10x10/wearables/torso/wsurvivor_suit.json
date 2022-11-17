@@ -1,0 +1,11 @@
+{
+  "id": [
+    "wsurvivor_suit",
+    "xs_wsurvivor_suit",
+    "xl_wsurvivor_suit",
+    "wsurvivor_jumpsuit",
+    "xs_wsurvivor_jumpsuit",
+    "xl_wsurvivor_jumpsuit"
+  ],
+  "fg": "wsurvivor_suit"
+}

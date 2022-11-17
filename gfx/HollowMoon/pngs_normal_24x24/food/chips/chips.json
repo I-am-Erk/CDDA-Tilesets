@@ -1,0 +1,6 @@
+[
+    { "id": ["chips_season_spring", "chips2_season_spring", "chips3_season_spring"], "fg": "chips_season_spring", "bg": [], "rotates": false },
+	{ "id": ["chips_season_autumn", "chips2_season_autumn", "chips3_season_autumn"], "fg": "chips_season_autumn", "bg": [], "rotates": false },
+	{ "id": ["chips_season_winter", "chips2_season_winter", "chips3_season_winter"], "fg": "chips_season_winter", "bg": [], "rotates": false },
+	{ "id": ["chips_season_summer", "chips2_season_summer", "chips3_season_summer"], "fg": "chips_season_summer", "bg": [], "rotates": false }
+]

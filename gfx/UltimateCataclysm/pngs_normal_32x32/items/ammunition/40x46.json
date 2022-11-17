@@ -1,0 +1,118 @@
+[
+
+  {
+    "id": [ "40x46mm_m576" ],
+    "bg": [ "40x46_b" ],
+    "fg": [ "40x46_f_199m576" ]
+  },
+  {
+    "id": [ "40x46mm_buckshot_m199" ],
+    "bg": [ "40x46_b_r" ],
+    "fg": [ "40x46_f_199buckshot" ]
+  },
+  {
+    "id": [ "bp_40x46mm_buckshot_m199" ],
+    "bg": [ "40x46_b_bp" ],
+    "fg": [ "40x46_f_199buckshot" ]
+  },
+  {
+    "id": [ "40x46mm_flechette_m199" ],
+    "bg": [ "40x46_b_r" ],
+    "fg": [ "40x46_f_199flechette" ]
+  },
+  {
+    "id": [ "bp_40x46mm_flechette_m199" ],
+    "bg": [ "40x46_b_bp" ],
+    "fg": [ "40x46_f_199flechette" ]
+  },
+  {
+    "id": [ "40x46mm_slug_m199" ],
+    "bg": [ "40x46_b_r" ],
+    "fg": [ "40x46_f_199slug" ]
+  },
+  {
+    "id": [ "bp_40x46mm_slug_m199" ],
+    "bg": [ "40x46_b_bp" ],
+    "fg": [ "40x46_f_199slug" ]
+  },
+
+  {
+    "id": [ "40x46mm_m1006" ],
+    "bg": [ "40x46_b" ],
+    "fg": [ "40x46_f_212m1006" ]
+  },
+
+  {
+    "id": [ "40x46mm_hornets_nest_22lr" ],
+    "bg": [ "40x46_b" ],
+    "fg": [ "40x46_f_hnest22" ]
+  },
+  {
+    "id": [ "40x46mm_hornets_nest_410" ],
+    "bg": [ "40x46_b" ],
+    "fg": [ "40x46_f_hnest410" ]
+  },
+  {
+    "id": [ "40x46mm_hornets_nest_22lr_casing" ],
+    "bg": [ "40x46_b" ],
+    "fg": [ "40x46_f_hnest22_case" ]
+  },
+  {
+    "id": [ "40x46mm_hornets_nest_410_casing" ],
+    "bg": [ "40x46_b" ],
+    "fg": [ "40x46_f_hnest410_case" ]
+  },
+  
+  {
+    "id": [ "40x46mm_m433" ],
+    "bg": [ "40x46_b" ],
+    "fg": [ "40x46_f_118m433" ]
+  },
+  {
+    "id": [ "40x46mm_m651" ],
+    "bg": [ "40x46_b" ],
+    "fg": [ "40x46_f_118m651" ]
+  },
+
+  {
+    "id": [ "40x46mm_buckshot_m118" ],
+    "bg": [ "40x46_b_r" ],
+    "fg": [ "40x46_f_118buckshot" ]
+  },
+  {
+    "id": [ "bp_40x46mm_buckshot_m118" ],
+    "bg": [ "40x46_b_bp" ],
+    "fg": [ "40x46_f_118buckshot" ]
+  },
+  {
+    "id": [ "40x46mm_flechette_m118" ],
+    "bg": [ "40x46_b_r" ],
+    "fg": [ "40x46_f_118flechette" ]
+  },
+  {
+    "id": [ "bp_40x46mm_flechette_m118" ],
+    "bg": [ "40x46_b_bp" ],
+    "fg": [ "40x46_f_118flechette" ]
+  },
+  {
+    "id": [ "40x46mm_slug_m118" ],
+    "bg": [ "40x46_b_r" ],
+    "fg": [ "40x46_f_118slug" ]
+  },
+  {
+    "id": [ "bp_40x46mm_slug_m118" ],
+    "bg": [ "40x46_b_bp" ],
+    "fg": [ "40x46_f_118slug" ]
+  },
+
+  {
+    "id": [ "40mm_emp" ],
+    "bg": [ "40x46_b" ],
+    "fg": [ "40x46_f_118emp" ]
+  },
+  {
+    "id": [ "40mmEMP_act" ],
+    "fg": [ "40x46_f_118emp_active" ]
+  }
+  
+]

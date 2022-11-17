@@ -1,0 +1,22 @@
+[
+  {
+    "id": [ "t_clay" ],
+    "bg": [
+      { "weight": 1, "sprite": "t_clay_1" },
+      { "weight": 1, "sprite": "t_clay_2" },
+      { "weight": 1, "sprite": "t_clay_3" }
+    ],
+    "fg": [
+      { "weight": 1, "sprite": "floor_outline_double" },
+      { "weight": 1, "sprite": "floor_outline_double_2" },
+      { "weight": 1, "sprite": "floor_outline_double_3" },
+      { "weight": 1, "sprite": "floor_outline_left" },
+      { "weight": 1, "sprite": "floor_outline_right" }
+    ]
+  },
+  {
+    "id": [ "t_claymound" ],
+    "fg": [ "t_claymound" ],
+    "height_3d": 2
+  }
+]

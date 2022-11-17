@@ -1,0 +1,193 @@
+[
+  {
+    "id": [ "lajatang", "combatsaw_off", "combatsaw_on", "e_combatsaw_off", "e_combatsaw_on" ],
+    "fg": "cut_other"
+  },
+  {
+    "id": [ "battleaxe", "battleaxe_fake", "battleaxe_inferior", "bowling_axe" ],
+    "fg": "generic_battleaxe"
+  },
+  {
+    "id": [ "glass_shiv", "sharp_toothbrush" ],
+    "fg": "generic_shiv"
+  },
+  {
+    "id": [ "glass_macuahuitl", "makeshift_machete", "machete", "machete_gimmick" ],
+    "fg": "generic_machete"
+  },
+  {
+    "id": [
+      "base_kitchen_knife",
+      "knife_butcher",
+      "knife_steak",
+      "knife_paring",
+      "knife_chef",
+      "knife_carving",
+      "knife_bread",
+      "knife_vegetable_cleaver",
+      "knife_meat_cleaver",
+      "switchblade",
+      "knife_folding",
+      "knife_combat",
+      "knife_combat_mod",
+      "knife_hunting",
+      "knife_rambo",
+      "knife_rm42",
+      "knife_swissarmy",
+      "knife_trench",
+      "makeshift_knife",
+      "bone_knife",
+      "knife_baselard",
+      "kris",
+      "sword_bayonet",
+      "sword_bayonet_mod",
+      "tanto"
+    ],
+    "fg": "generic_knife"
+  },
+  {
+    "id": [
+      "sword_crude",
+      "sword_metal",
+      "cavalry_sabre",
+      "kris",
+      "kukri",
+      "jian",
+      "scimitar",
+      "scimitar_inferior",
+      "scimitar_fake",
+      "estoc",
+      "longsword",
+      "arming_sword",
+      "sword_xiphos",
+      "khopesh",
+      "dao",
+      "survivor_machete",
+      "wakizashi",
+      "zweihander",
+      "kirpan",
+      "nodachi",
+      "fencing_foil",
+      "fencing_epee",
+      "fencing_sabre",
+      "fencing_foil_sharpened",
+      "fencing_epee_sharpened",
+      "fencing_sabre_sharpened",
+      "shock_foil",
+      "shock_epee",
+      "shock_sabre",
+      "sword_cane",
+      "broadsword",
+      "rapier",
+      "katana",
+      "butterfly_swords",
+      "cutlass"
+    ],
+    "fg": "generic_sword"
+  },
+  {
+    "id": [
+      "overlay_wielded_lajatang",
+      "overlay_wielded_combatsaw_off",
+      "overlay_wielded_combatsaw_on",
+      "overlay_wielded_e_combatsaw_off",
+      "overlay_wielded_e_combatsaw_on"
+    ],
+    "fg": "overlay_wielded_cut_other"
+  },
+  {
+    "id": [
+      "overlay_wielded_battleaxe",
+      "overlay_wielded_battleaxe_fake",
+      "overlay_wielded_battleaxe_inferior",
+      "overlay_wielded_bowling_axe"
+    ],
+    "fg": "overlay_wielded_generic_battleaxe"
+  },
+  {
+    "id": [
+      "overlay_wielded_glass_shiv",
+      "overlay_wielded_sharp_toothbrush"
+    ],
+    "fg": "overlay_wielded_generic_shiv"
+  },
+  {
+    "id": [
+      "overlay_wielded_glass_macuahuitl",
+      "overlay_wielded_makeshift_machete",
+      "overlay_wielded_machete",
+      "overlay_wielded_machete_gimmick"
+    ],
+    "fg": "overlay_wielded_generic_machete"
+  },
+  {
+    "id": [
+      "overlay_wielded_base_kitchen_knife",
+      "overlay_wielded_knife_butcher",
+      "overlay_wielded_knife_steak",
+      "overlay_wielded_knife_paring",
+      "overlay_wielded_knife_chef",
+      "overlay_wielded_knife_carving",
+      "overlay_wielded_knife_bread",
+      "overlay_wielded_knife_vegetable_cleaver",
+      "overlay_wielded_knife_meat_cleaver",
+      "overlay_wielded_switchblade",
+      "overlay_wielded_knife_folding",
+      "overlay_wielded_knife_combat",
+      "overlay_wielded_knife_combat_mod",
+      "overlay_wielded_knife_hunting",
+      "overlay_wielded_knife_rambo",
+      "overlay_wielded_knife_rm42",
+      "overlay_wielded_knife_swissarmy",
+      "overlay_wielded_knife_trench",
+      "overlay_wielded_makeshift_knife",
+      "overlay_wielded_bone_knife",
+      "overlay_wielded_knife_baselard",
+      "overlay_wielded_kris",
+      "overlay_wielded_sword_bayonet",
+      "overlay_wielded_sword_bayonet_mod",
+      "overlay_wielded_tanto"
+    ],
+    "fg": "overlay_wielded_generic_knife"
+  },
+  {
+    "id": [
+      "overlay_wielded_sword_crude",
+      "overlay_wielded_sword_metal",
+      "overlay_wielded_cavalry_sabre",
+      "overlay_wielded_kris",
+      "overlay_wielded_kukri",
+      "overlay_wielded_jian",
+      "overlay_wielded_scimitar",
+      "overlay_wielded_scimitar_inferior",
+      "overlay_wielded_scimitar_fake",
+      "overlay_wielded_estoc",
+      "overlay_wielded_longsword",
+      "overlay_wielded_arming_sword",
+      "overlay_wielded_sword_xiphos",
+      "overlay_wielded_khopesh",
+      "overlay_wielded_dao",
+      "overlay_wielded_survivor_machete",
+      "overlay_wielded_wakizashi",
+      "overlay_wielded_zweihander",
+      "overlay_wielded_kirpan",
+      "overlay_wielded_nodachi",
+      "overlay_wielded_fencing_foil",
+      "overlay_wielded_fencing_epee",
+      "overlay_wielded_fencing_sabre",
+      "overlay_wielded_fencing_foil_sharpened",
+      "overlay_wielded_fencing_epee_sharpened",
+      "overlay_wielded_fencing_sabre_sharpened",
+      "overlay_wielded_shock_foil",
+      "overlay_wielded_shock_epee",
+      "overlay_wielded_shock_sabre",
+      "overlay_wielded_sword_cane",
+      "overlay_wielded_broadsword",
+      "overlay_wielded_rapier",
+      "overlay_wielded_katana",
+      "overlay_wielded_butterfly_swords",
+      "overlay_wielded_cutlass"
+    ],
+    "fg": "overlay_wielded_generic_sword"
+  }
+]

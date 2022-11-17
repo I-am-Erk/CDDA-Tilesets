@@ -1,0 +1,14 @@
+{
+  "id": [
+    "ring",
+    "diamond_ring",
+    "silver_ring",
+    "platinum_ring",
+    "ring_engagement",
+    "ring_purity",
+    "ring_signet",
+    "ring_wedding",
+    "gold_ring"
+  ],
+  "fg": "ring"
+}

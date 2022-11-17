@@ -8,55 +8,43 @@
     "character.png": { "sprite_width": 32, "sprite_height": 36, "sprite_offset_y": -8 }
   },
   {
+    "tall.png": { "sprite_width": 32, "sprite_height": 42, "sprite_offset_y": -14 }
+  },
+  {
     "small.png": { "sprite_width": 20, "sprite_height": 20, "sprite_offset_x": 6, "filler": true }
   },
   {
-    "normal.png": { "filler": true  }
+    "normal.png": { "filler": true }
   },
   {
-    "tall_furniture.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true  }
+    "ultica-tall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true }
   },
   {
-    "tall_magiclysm.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true  }
+    "human_body.png": {
+      "sprite_width": 32,
+      "sprite_height": 36,
+      "sprite_offset_y": -8,
+      "filler": true,
+      "exclude": [ "overlay/bionics", "overlay/facial_hair", "overlay/hair", "overlay/mutations", "overlay/skin", "overlay/worn" ]
+    }
   },
   {
-    "tall_monster.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true  }
+    "human_body_plus.png": {
+      "sprite_width": 32,
+      "sprite_height": 48,
+      "sprite_offset_y": -8,
+      "filler": true,
+      "exclude": [ "character", "mods/magiclysm/overlay/worn", "overlay/mutations", "overlay/skin", "overlay/worn" ]
+    }
   },
   {
-    "tall_terrain.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true  }
+    "centered.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -16, "filler": true }
   },
   {
-    "tall_overmap.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true  }
+    "large.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -32, "filler": true }
   },
   {
-    "tall_vehicle.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true  }
-  },
-  {
-    "tall_wielded.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true  }
-  },
-  {
-    "human_body.png": { "sprite_width": 32, "sprite_height": 36, "sprite_offset_y": -8, "filler": true  }
-  },
-  {
-    "human_body_wielded.png": { "sprite_width": 32, "sprite_height": 36, "sprite_offset_y": -8, "filler": true  }
-  },
-  {
-    "monsters_plus.png": { "sprite_width": 32, "sprite_height": 48, "sprite_offset_y": -16, "filler": true  }
-  },
-  {
-    "traps_plus.png": { "sprite_width": 32, "sprite_height": 48, "sprite_offset_y": -16, "filler": true  }
-  },
-  {
-    "vehicle_plus.png": { "sprite_width": 32, "sprite_height": 48, "sprite_offset_y": -16, "filler": true  }
-  },
-  {
-    "centered.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -16, "filler": true  }
-  },
-  {
-    "large.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -32, "filler": true  }
-  },
-  {
-    "large_ridden.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -27, "filler": true  }
+    "large_ridden.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -27, "filler": true }
   },
   {
     "huge.png": { "sprite_width": 64, "sprite_height": 96, "sprite_offset_x": -16, "sprite_offset_y": -64, "filler": true }
@@ -77,13 +65,13 @@
     }
   },
   {
-    "filler.png": { "sprite_width": 32, "sprite_height": 32, "filler": true  }
+    "filler.png": { "sprite_width": 32, "sprite_height": 32, "filler": true }
   },
   {
-    "filler_tall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true  }
+    "filler_tall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true }
   },
   {
-    "fillergiant.png": { "sprite_width": 96, "sprite_height": 96, "sprite_offset_x": -32, "sprite_offset_y": -64, "filler": true  }
+    "fillergiant.png": { "sprite_width": 96, "sprite_height": 96, "sprite_offset_x": -32, "sprite_offset_y": -64, "filler": true }
   },
   {
     "fallback.png": {

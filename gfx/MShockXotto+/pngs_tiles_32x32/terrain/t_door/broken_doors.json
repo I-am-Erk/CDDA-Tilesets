@@ -1,0 +1,23 @@
+[
+  {
+    "id": "t_door_b",
+    "fg": [
+      { "weight": 1, "sprite": "t_door_b" },
+      { "weight": 1, "sprite": "t_door_b_1" }
+    ]
+  },
+  {
+    "id": "t_door_green_b",
+    "fg": [
+      { "weight": 1, "sprite": "t_door_green_b" },
+      { "weight": 1, "sprite": "t_door_green_b_1" }
+    ]
+  },
+  {
+    "id": "t_door_red_b",
+    "fg": [
+      { "weight": 1, "sprite": "t_door_red_b" },
+      { "weight": 1, "sprite": "t_door_red_b_1" }
+    ]
+  }
+]

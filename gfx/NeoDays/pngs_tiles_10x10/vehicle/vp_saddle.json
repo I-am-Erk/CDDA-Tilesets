@@ -1,0 +1,17 @@
+{
+  "id": [
+    "vp_saddle",
+    "vp_saddle_motor",
+    "vp_saddle_pedal",
+    "vp_saddle_scooter"
+  ],
+  "fg": "vp_saddle",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_gray"
+    }
+  ]
+}

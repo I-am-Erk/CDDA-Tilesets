@@ -1,0 +1,6 @@
+[
+    { "id": ["smart_lamp_on_season_spring", "propane_lantern_on_season_spring", "electric_lantern_on_season_spring"], "fg": "smart_lamp_on_season_spring", "bg": [], "rotates": false },
+	{ "id": ["smart_lamp_on_season_autumn", "propane_lantern_on_season_autumn", "electric_lantern_on_season_autumn"], "fg": "smart_lamp_on_season_autumn", "bg": [], "rotates": false },
+	{ "id": ["smart_lamp_on_season_winter", "propane_lantern_on_season_winter", "electric_lantern_on_season_winter"], "fg": "smart_lamp_on_season_winter", "bg": [], "rotates": false },
+	{ "id": ["smart_lamp_on_season_summer", "propane_lantern_on_season_summer", "electric_lantern_on_season_summer"], "fg": "smart_lamp_on_season_summer", "bg": [], "rotates": false }
+]

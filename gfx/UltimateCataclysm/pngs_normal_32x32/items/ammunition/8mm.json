@@ -1,0 +1,37 @@
+[
+  {
+    "id": [ "8mm_caseless" ],
+    "bg": [ "8mm_b" ],
+    "fg": [ "8mm_f_caseless" ]
+  },
+  {
+    "id": [ "8mm_bootleg" ],
+    "bg": [ "8mm_b_r" ],
+    "fg": [ "8mm_f_bootleg" ]
+  },
+  {
+    "id": [ "8mm_fmj" ],
+    "bg": [ "8mm_b" ],
+    "fg": [ "8mm_f_fmj" ]
+  },
+  {
+    "id": [ "8mm_jhp" ],
+    "bg": [ "8mm_b" ],
+    "fg": [ "8mm_f_jhp" ]
+  },
+  {
+    "id": [ "8mm_hvp" ],
+    "bg": [ "8mm_b" ],
+    "fg": [ "8mm_f_hvp" ]
+  },
+  {
+    "id": [ "8mm_civilian" ],
+    "bg": [ "8mm_b" ],
+    "fg": [ "8mm_f_sporting" ]
+  },
+  {
+    "id": [ "8mm_inc" ],
+    "bg": [ "8mm_b" ],
+    "fg": [ "8mm_f_tracer" ]
+  }
+]

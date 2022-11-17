@@ -1,0 +1,18 @@
+[
+  {
+    "pixelscale": 1,
+    "width": 16,
+    "height": 16
+  },
+  {
+    "overmap.png": {  }
+  },
+  {
+    "overmap_tall.png": { "sprite_width": 16, "sprite_height": 20, "sprite_offset_y": -4 }
+  },
+  {
+    "fallback.png": {
+      "fallback": true
+    }
+  }
+]

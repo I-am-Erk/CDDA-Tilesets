@@ -1,0 +1,22 @@
+[
+  {
+    "id": "player_female",
+    "fg": "player_female",
+    "bg": "shadow_32x36_normal"
+  },
+  {
+    "id": "player_male",
+    "fg": "player_male",
+    "bg": "shadow_32x36_normal"
+  },
+  {
+    "id": "npc_female",
+    "fg": "player_female",
+    "bg": "shadow_32x36_normal"
+  },
+  {
+    "id": "npc_male",
+    "fg": "player_male",
+    "bg": "shadow_32x36_normal"
+  }
+]

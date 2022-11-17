@@ -1,0 +1,127 @@
+{
+  "id": ["f_fungal_clump"],
+  "fg": "tfc00_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "animated": true,
+      "fg": [
+        { "weight": 64, "sprite": "tfc00_center" },
+        { "weight": 8, "sprite": "tfc01_center" },
+        { "weight": 8, "sprite": "tfc02_center" },
+        { "weight": 8, "sprite": "tfc03_center" },
+        { "weight": 8, "sprite": "tfc04_center" },
+        { "weight": 8, "sprite": "tfc05_center" },
+        { "weight": 8, "sprite": "tfc06_center" },
+        { "weight": 64, "sprite": "tfc07_center" },
+        { "weight": 8, "sprite": "tfc08_center" },
+        { "weight": 8, "sprite": "tfc09_center" },
+        { "weight": 8, "sprite": "tfc10_center" },
+        { "weight": 8, "sprite": "tfc11_center" },
+        { "weight": 8, "sprite": "tfc12_center" },
+        { "weight": 8, "sprite": "tfc13_center" }
+      ]
+    },
+    {
+      "id": "corner",
+      "animated": true,
+      "fg": [
+        { "weight": 64, "sprite": [ "tfc00_corner_nw", "tfc00_corner_sw", "tfc00_corner_se", "tfc00_corner_ne" ] },
+        { "weight": 8, "sprite": [ "tfc01_corner_nw", "tfc01_corner_sw", "tfc01_corner_se", "tfc01_corner_ne" ] },
+        { "weight": 8, "sprite": [ "tfc02_corner_nw", "tfc02_corner_sw", "tfc02_corner_se", "tfc02_corner_ne" ] },
+        { "weight": 8, "sprite": [ "tfc03_corner_nw", "tfc03_corner_sw", "tfc03_corner_se", "tfc03_corner_ne" ] },
+        { "weight": 8, "sprite": [ "tfc04_corner_nw", "tfc04_corner_sw", "tfc04_corner_se", "tfc04_corner_ne" ] },
+        { "weight": 8, "sprite": [ "tfc05_corner_nw", "tfc05_corner_sw", "tfc05_corner_se", "tfc05_corner_ne" ] },
+        { "weight": 8, "sprite": [ "tfc06_corner_nw", "tfc06_corner_sw", "tfc06_corner_se", "tfc06_corner_ne" ] },
+        { "weight": 64, "sprite": [ "tfc07_corner_nw", "tfc07_corner_sw", "tfc07_corner_se", "tfc07_corner_ne" ] },
+        { "weight": 8, "sprite": [ "tfc08_corner_nw", "tfc08_corner_sw", "tfc08_corner_se", "tfc08_corner_ne" ] },
+        { "weight": 8, "sprite": [ "tfc09_corner_nw", "tfc09_corner_sw", "tfc09_corner_se", "tfc09_corner_ne" ] },
+        { "weight": 8, "sprite": [ "tfc10_corner_nw", "tfc10_corner_sw", "tfc10_corner_se", "tfc10_corner_ne" ] },
+        { "weight": 8, "sprite": [ "tfc11_corner_nw", "tfc11_corner_sw", "tfc11_corner_se", "tfc11_corner_ne" ] },
+        { "weight": 8, "sprite": [ "tfc12_corner_nw", "tfc12_corner_sw", "tfc12_corner_se", "tfc12_corner_ne" ] },
+        { "weight": 8, "sprite": [ "tfc13_corner_nw", "tfc13_corner_sw", "tfc13_corner_se", "tfc13_corner_ne" ] }
+      ]
+    },
+    {
+      "id": "t_connection",
+      "animated": true,
+      "fg": [
+        { "weight": 64, "sprite": [ "tfc00_t_connection_n", "tfc00_t_connection_w", "tfc00_t_connection_s", "tfc00_t_connection_e" ] },
+        { "weight": 8, "sprite": [ "tfc01_t_connection_n", "tfc01_t_connection_w", "tfc01_t_connection_s", "tfc01_t_connection_e" ] },
+        { "weight": 8, "sprite": [ "tfc02_t_connection_n", "tfc02_t_connection_w", "tfc02_t_connection_s", "tfc02_t_connection_e" ] },
+        { "weight": 8, "sprite": [ "tfc03_t_connection_n", "tfc03_t_connection_w", "tfc03_t_connection_s", "tfc03_t_connection_e" ] },
+        { "weight": 8, "sprite": [ "tfc04_t_connection_n", "tfc04_t_connection_w", "tfc04_t_connection_s", "tfc04_t_connection_e" ] },
+        { "weight": 8, "sprite": [ "tfc05_t_connection_n", "tfc05_t_connection_w", "tfc05_t_connection_s", "tfc05_t_connection_e" ] },
+        { "weight": 8, "sprite": [ "tfc06_t_connection_n", "tfc06_t_connection_w", "tfc06_t_connection_s", "tfc06_t_connection_e" ] },
+        { "weight": 64, "sprite": [ "tfc07_t_connection_n", "tfc07_t_connection_w", "tfc07_t_connection_s", "tfc07_t_connection_e" ] },
+        { "weight": 8, "sprite": [ "tfc08_t_connection_n", "tfc08_t_connection_w", "tfc08_t_connection_s", "tfc08_t_connection_e" ] },
+        { "weight": 8, "sprite": [ "tfc09_t_connection_n", "tfc09_t_connection_w", "tfc09_t_connection_s", "tfc09_t_connection_e" ] },
+        { "weight": 8, "sprite": [ "tfc10_t_connection_n", "tfc10_t_connection_w", "tfc10_t_connection_s", "tfc10_t_connection_e" ] },
+        { "weight": 8, "sprite": [ "tfc11_t_connection_n", "tfc11_t_connection_w", "tfc11_t_connection_s", "tfc11_t_connection_e" ] },
+        { "weight": 8, "sprite": [ "tfc12_t_connection_n", "tfc12_t_connection_w", "tfc12_t_connection_s", "tfc12_t_connection_e" ] },
+        { "weight": 8, "sprite": [ "tfc13_t_connection_n", "tfc13_t_connection_w", "tfc13_t_connection_s", "tfc13_t_connection_e" ] }
+      ]
+    },
+    {
+      "id": "edge",
+      "animated": true,
+      "fg": [
+        { "weight": 64, "sprite": [ "tfc00_edge_ns", "tfc00_edge_ew" ] },
+        { "weight": 8, "sprite": [ "tfc01_edge_ns", "tfc01_edge_ew" ] },
+        { "weight": 8, "sprite": [ "tfc02_edge_ns", "tfc02_edge_ew" ] },
+        { "weight": 8, "sprite": [ "tfc03_edge_ns", "tfc03_edge_ew" ] },
+        { "weight": 8, "sprite": [ "tfc04_edge_ns", "tfc04_edge_ew" ] },
+        { "weight": 8, "sprite": [ "tfc05_edge_ns", "tfc05_edge_ew" ] },
+        { "weight": 8, "sprite": [ "tfc06_edge_ns", "tfc06_edge_ew" ] },
+        { "weight": 64, "sprite": [ "tfc07_edge_ns", "tfc07_edge_ew" ] },
+        { "weight": 8, "sprite": [ "tfc08_edge_ns", "tfc08_edge_ew" ] },
+        { "weight": 8, "sprite": [ "tfc09_edge_ns", "tfc09_edge_ew" ] },
+        { "weight": 8, "sprite": [ "tfc10_edge_ns", "tfc10_edge_ew" ] },
+        { "weight": 8, "sprite": [ "tfc11_edge_ns", "tfc11_edge_ew" ] },
+        { "weight": 8, "sprite": [ "tfc12_edge_ns", "tfc12_edge_ew" ] },
+        { "weight": 8, "sprite": [ "tfc13_edge_ns", "tfc13_edge_ew" ] }
+      ]
+    },
+    {
+      "id": "end_piece",
+      "animated": true,
+      "fg": [
+        { "weight": 64, "sprite": [ "tfc00_end_piece_n", "tfc00_end_piece_w", "tfc00_end_piece_s", "tfc00_end_piece_e" ] },
+        { "weight": 8, "sprite": [ "tfc01_end_piece_n", "tfc01_end_piece_w", "tfc01_end_piece_s", "tfc01_end_piece_e" ] },
+        { "weight": 8, "sprite": [ "tfc02_end_piece_n", "tfc02_end_piece_w", "tfc02_end_piece_s", "tfc02_end_piece_e" ] },
+        { "weight": 8, "sprite": [ "tfc03_end_piece_n", "tfc03_end_piece_w", "tfc03_end_piece_s", "tfc03_end_piece_e" ] },
+        { "weight": 8, "sprite": [ "tfc04_end_piece_n", "tfc04_end_piece_w", "tfc04_end_piece_s", "tfc04_end_piece_e" ] },
+        { "weight": 8, "sprite": [ "tfc05_end_piece_n", "tfc05_end_piece_w", "tfc05_end_piece_s", "tfc05_end_piece_e" ] },
+        { "weight": 8, "sprite": [ "tfc06_end_piece_n", "tfc06_end_piece_w", "tfc06_end_piece_s", "tfc06_end_piece_e" ] },
+        { "weight": 64, "sprite": [ "tfc07_end_piece_n", "tfc07_end_piece_w", "tfc07_end_piece_s", "tfc07_end_piece_e" ] },
+        { "weight": 8, "sprite": [ "tfc08_end_piece_n", "tfc08_end_piece_w", "tfc08_end_piece_s", "tfc08_end_piece_e" ] },
+        { "weight": 8, "sprite": [ "tfc09_end_piece_n", "tfc09_end_piece_w", "tfc09_end_piece_s", "tfc09_end_piece_e" ] },
+        { "weight": 8, "sprite": [ "tfc10_end_piece_n", "tfc10_end_piece_w", "tfc10_end_piece_s", "tfc10_end_piece_e" ] },
+        { "weight": 8, "sprite": [ "tfc11_end_piece_n", "tfc11_end_piece_w", "tfc11_end_piece_s", "tfc11_end_piece_e" ] },
+        { "weight": 8, "sprite": [ "tfc12_end_piece_n", "tfc12_end_piece_w", "tfc12_end_piece_s", "tfc12_end_piece_e" ] },
+        { "weight": 8, "sprite": [ "tfc13_end_piece_n", "tfc13_end_piece_w", "tfc13_end_piece_s", "tfc13_end_piece_e" ] }
+      ]
+    },
+    {
+      "id": "unconnected",
+      "animated": true,
+      "fg": [
+        { "weight": 64, "sprite": [ "tfc00_unconnected", "tfc00_unconnected" ] },
+        { "weight": 8, "sprite": [ "tfc01_unconnected", "tfc01_unconnected" ] },
+        { "weight": 8, "sprite": [ "tfc02_unconnected", "tfc02_unconnected" ] },
+        { "weight": 8, "sprite": [ "tfc03_unconnected", "tfc03_unconnected" ] },
+        { "weight": 8, "sprite": [ "tfc04_unconnected", "tfc04_unconnected" ] },
+        { "weight": 8, "sprite": [ "tfc05_unconnected", "tfc05_unconnected" ] },
+        { "weight": 8, "sprite": [ "tfc06_unconnected", "tfc06_unconnected" ] },
+        { "weight": 64, "sprite": [ "tfc07_unconnected", "tfc07_unconnected" ] },
+        { "weight": 8, "sprite": [ "tfc08_unconnected", "tfc08_unconnected" ] },
+        { "weight": 8, "sprite": [ "tfc09_unconnected", "tfc09_unconnected" ] },
+        { "weight": 8, "sprite": [ "tfc10_unconnected", "tfc10_unconnected" ] },
+        { "weight": 8, "sprite": [ "tfc11_unconnected", "tfc11_unconnected" ] },
+        { "weight": 8, "sprite": [ "tfc12_unconnected", "tfc12_unconnected" ] },
+        { "weight": 8, "sprite": [ "tfc13_unconnected", "tfc13_unconnected" ] }
+      ]
+    }
+  ]
+}

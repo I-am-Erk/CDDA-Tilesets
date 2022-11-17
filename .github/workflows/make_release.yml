@@ -1,69 +1,181 @@
 # Creates a release using compose.py from https://github.com/CleverRaven/Cataclysm-DDA
 #
-# This action is triggerd by pushing any tag starting with v (e.g. v1.0.1 or v3.D)
-#
-# The release archive will be named using the version number from the tag (e.g. UltimateCataclysm-1.0)
-
-on:
-  push:
-    tags:
-    - 'v*'
+# This action is runs at 20:00 UTC Sunday
 
 name: Make Release
+concurrency: release
+on:
+  schedule:
+    - cron: '0 20 * * sun'
+  workflow_dispatch:
+
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
-  build:
-    name: Make Release
+  release:
+    name: Create Release
     runs-on: ubuntu-latest
-    container: alpine:latest
+    outputs:
+      upload_url: ${{ steps.create_release.outputs.upload_url }}
+      timestamp: ${{ steps.get-timestamp.outputs.time }}
+      release_already_exists: ${{ steps.tag_check.outputs.exists }}
+    steps:
+      - name: Get build timestamp
+        id: get-timestamp
+        uses: nanzm/get-time-action@v1.1
+        with:
+          format: 'YYYY-MM-DD'
+      - name: Generate environmental variables
+        id: generate_env_vars
+        run: |
+          echo "TAG-NAME=${{ steps.get-timestamp.outputs.time }}" >> $GITHUB_OUTPUT
+          echo "RELEASE-TITLE=Tilesets Release ${{ steps.get-timestamp.outputs.time }}" >> $GITHUB_OUTPUT
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - name: Check if there is an existing git tag
+        id: tag_check
+        uses: mukunku/tag-exists-action@v1.1.0
+        with:
+          tag: ${{ steps.generate_env_vars.outputs.TAG-NAME }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Get Previous tag
+        id: previous_tag
+        uses: WyriHaximus/github-action-get-previous-tag@v1
+      - name: Abort if there are no changes
+        run: |
+          # exit 1 if there are no changes, exit 0 if there are changes
+          git diff ${{ steps.previous_tag.outputs.tag }} | grep -q ""
+      - name: Push tag
+        id: tag_version
+        uses: mathieudutour/github-tag-action@v5.5
+        if: ${{ steps.tag_check.outputs.exists == 'false' }}
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          custom_tag: ${{ steps.generate_env_vars.outputs.TAG-NAME }}
+          tag_prefix: ""
+      - name: "Generate release notes"
+        run: |
+          gh api \
+            --method POST \
+            -H "Accept: application/vnd.github.v3+json" \
+            /repos/I-am-Erk/CDDA-Tilesets/releases/generate-notes \
+            -f tag_name='${{ steps.generate_env_vars.outputs.TAG-NAME }}' \
+            -f target_commitish='master' \
+            -q .body > CHANGELOG.md
+      - name: Create release
+        id: create_release
+        uses: actions/create-release@main
+        if: ${{ steps.tag_check.outputs.exists == 'false' }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ steps.generate_env_vars.outputs.TAG-NAME }}
+          release_name: ${{ steps.generate_env_vars.outputs.RELEASE-TITLE }}
+          body_path: ./CHANGELOG.md
+          draft: false
+          prerelease: false
+
+  builds:
+    needs: release
+    if: ${{ needs.release.outputs.release_already_exists == 'false' }}
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - name: Altica
+            artifact: Altica
+            tileset_dir: gfx/Altica
+            compose_args: --use-all --obsolete-fillers
+          - name: BrownLikeBears
+            artifact: BrownLikeBears
+            tileset_dir: gfx/BrownLikeBears
+            compose_args: --use-all --obsolete-fillers
+          - name: ChibiUltica
+            artifact: ChibiUltica
+            tileset_dir: gfx/Chibi_Ultica
+            compose_args: --use-all
+          - name: HollowMoon
+            artifact: HollowMoon
+            tileset_dir: gfx/HollowMoon
+            compose_args: --use-all --obsolete-fillers
+          - name: Larwick_Overmap
+            artifact: Larwick_Overmap
+            tileset_dir: gfx/Larwick_Overmap
+            compose_args: --use-all
+          - name: MShockXotto+
+            artifact: MshockXotto+
+            tileset_dir: gfx/MShockXotto+
+            compose_args: --use-all
+          - name: NeoDays
+            artifact: NeoDaysTileset
+            tileset_dir: gfx/NeoDays
+            compose_args: --use-all
+          - name: Retrodays
+            artifact: RetroDaysTileset
+            tileset_dir: gfx/Retrodays
+            compose_args: --use-all
+          - name: SmashButton_iso
+            artifact: SmashButton_iso
+            tileset_dir: gfx/HitButton_iso
+            compose_args: --use-all
+          - name: SurveyorsMap
+            artifact: SurveyorsMap
+            tileset_dir: gfx/SurveyorsMap
+            compose_args: --use-all
+          - name: UltimateCataclysm
+            artifact: UltimateCataclysm
+            tileset_dir: gfx/UltimateCataclysm
+            compose_args: --use-all --obsolete-fillers
+          - name: Ultica_iso
+            artifact: Ultica_iso
+            tileset_dir: gfx/Ultica_iso
+            compose_args: --use-all
+    name: ${{ matrix.name }}
+    runs-on: ubuntu-latest
     steps:
       - name: Install Dependencies
-        run: |
-          apk add --no-cache musl-dev gcc vips-dev python3-dev zip
-          pip3 install pyvips
+        uses: awalsh128/cache-apt-pkgs-action@v1
+        with:
+          packages: musl python3 python3-pip libvips42
+
+        # re-installing libvips; caching it won't set it up the way we need it
+        # still cache it because we'll make it work somehow
+      - run: sudo apt-get install libvips42
+      - run: pip3 install pyvips
 
       - name: Checkout Code
-        uses: actions/checkout@master
+        uses: actions/checkout@v3
 
       - name: Build
         id: build
         run: |
-          mkdir build && cd build
-          wget https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/compose.py
+          wget -q https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/compose.py \
+          || echo "Error: Failed to get compose.py"
 
-          cd ..
-          python3 build/compose.py UltimateCataclysm
-          cd build
+          mkdir build
+          python3 compose.py ${{matrix.compose_args}} --feedback CONCISE --loglevel INFO --format-json "${{matrix.tileset_dir}}" build
 
-          release_name=UltimateCataclysm-$(basename $GITHUB_REF | cut -c 2-)
-          tileset_dir=../gfx/UltimateCataclysm
-
+          release_name=${{matrix.artifact}}
           mkdir $release_name
-          mv $tileset_dir/*.png            $release_name
-          mv $tileset_dir/tile_config.json $release_name
-          mv $tileset_dir/tileset.txt      $release_name
+
+          cp -r build/*                          $release_name
+          mv ${{matrix.tileset_dir}}/tileset.txt $release_name
+          [ -f "${{matrix.tileset_dir}}/fallback.png" ] && mv "${{matrix.tileset_dir}}/fallback.png" $release_name
+          [ -f "${{matrix.tileset_dir}}/layering.json" ] && mv "${{matrix.tileset_dir}}/layering.json" $release_name
 
           zip -r $release_name.zip $release_name
 
-          echo ::set-output name=release_name::$release_name
-
-      - name: Create Release
-        id: create_release
-        uses: actions/create-release@v1.0.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tag_name: ${{ github.ref }}
-          release_name: Ultimate Cataclysm ${{ github.ref }}
-          draft: true
-          prerelease: false
+          echo "RELEASE-NAME=$release_name" >> $GITHUB_OUTPUT
 
       - name: Upload Release Asset
-        uses: actions/upload-release-asset@v1.0.1
+        uses: actions/upload-release-asset@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: build/${{ steps.build.outputs.release_name }}.zip
-          asset_name: ${{ steps.build.outputs.release_name }}.zip
+          upload_url: ${{ needs.release.outputs.upload_url }}
+          asset_path: ${{ steps.build.outputs.RELEASE-NAME }}.zip
+          asset_name: ${{ steps.build.outputs.RELEASE-NAME }}.zip
           asset_content_type: application/zip

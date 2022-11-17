@@ -1,0 +1,291 @@
+[
+  {
+    "id": "magic_shop",
+    "fg": "public_building_red"
+  },
+  {
+    "id": "magic_shop_2ndfloor",
+    "fg": "public_building_red"
+  },
+  {
+    "id": "magic_shop_roof",
+    "fg": "public_building_red"
+  },
+  {
+    "id": "magic_cabin",
+    "fg": "cabin_green"
+  },
+  {
+    "id": "magic_cabin_roof",
+    "fg": "cabin_green"
+  },
+  {
+    "id": "demon_spider_lair",
+    "fg": "small_tree_light_gray"
+  },
+  {
+    "id": "used_bookstore",
+    "fg": "shop_white"
+  },
+  {
+    "id": "used_bookstore_roof",
+    "fg": "shop_white"
+  },
+  {
+    "id": [ "house_technomancer_1", "house_technomancer_2" ],
+    "fg": "house_light_gray"
+  },
+  {
+    "id": [ "house_technomancer_3", "house_technomancer_4", "house_technomancer_5", "house_technomancer_6" ],
+    "fg": "house_light_gray"
+  },
+  {
+    "id": [ "magic_basement", "house_technomancer_7", "house_technomancer_8" ],
+    "fg": "house_light_gray"
+  },  {
+  "id": [ "house_detatched5_basement" ],
+  "fg": "house_light_gray"
+},
+  {
+    "id": "black_dragon_lair_z-0_NW",
+    "fg": "small_tree_cyan"
+  },
+  {
+    "id": "black_dragon_lair_z-0_NE",
+    "fg": "small_tree_cyan"
+  },
+  {
+    "id": "black_dragon_lair_z-0_SE",
+    "fg": "small_tree_cyan"
+  },
+  {
+    "id": "black_dragon_lair_z-0_SW",
+    "fg": "small_tree_cyan"
+  },
+  {
+    "id": "black_dragon_lair_z-1_NW",
+    "fg": "open_air_light_gray"
+  },
+  {
+    "id": "black_dragon_lair_z-1_NE",
+    "fg": "open_air_light_gray"
+  },
+  {
+    "id": "black_dragon_lair_z-1_SW",
+    "fg": "open_air_white"
+  },
+  {
+    "id": "black_dragon_lair_z-1_SE",
+    "fg": "open_air_light_gray"
+  },
+  {
+    "id": "black_dragon_lair_z-2_NW",
+    "fg": "open_air_light_gray"
+  },
+  {
+    "id": "black_dragon_lair_z-2_NE",
+    "fg": "open_air_light_gray"
+  },
+  {
+    "id": "black_dragon_lair_z-2_SW",
+    "fg": "open_air_light_gray"
+  },
+  {
+    "id": "black_dragon_lair_z-2_SE",
+    "fg": "open_air_light_gray"
+  },
+  {
+    "id": "black_dragon_lair_z-3_NW",
+    "fg": "open_air_light_gray"
+  },
+  {
+    "id": "black_dragon_lair_z-3_NE",
+    "fg": "open_air_light_gray"
+  },
+  {
+    "id": "black_dragon_lair_z-3_SW",
+    "fg": "open_air_light_gray"
+  },
+  {
+    "id": "black_dragon_lair_z-3_SE",
+    "fg": "open_air_light_gray"
+  },
+  {
+    "id": "black_dragon_lair_z-4_NW",
+    "fg": "open_air_light_gray"
+  },
+  {
+    "id": "black_dragon_lair_z-4_NE",
+    "fg": "open_air_light_gray"
+  },
+  {
+    "id": "black_dragon_lair_z-4_SW",
+    "fg": "open_air_light_gray"
+  },
+  {
+    "id": "black_dragon_lair_z-4_SE",
+    "fg": "open_air_light_gray"
+  },
+  {
+    "id": "lake_retreat_ground",
+    "fg": "shop_green"
+  },
+  {
+    "id": "lake_retreat_z1",
+    "fg": "shop_blue"
+  },
+  {
+    "id": "lake_retreat_z2",
+    "fg": "shop_blue"
+  },
+  {
+    "id": "lake_retreat_z3",
+    "fg": "shop_blue"
+  },
+  {
+    "id": "lake_retreat_z4",
+    "fg": "shop_blue"
+  },
+  {
+    "id": "lake_retreat_boathouse",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "lake_retreat_boathouse_roof",
+    "fg": "shop_blue"
+  },
+  {
+    "id": "wizardtower1_ground",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "wizardtower1_living",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "wizardtower1_golems",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "wizardtower1_study",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "wizardtower1_roof",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "wizardtower2_ground",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "wizardtower2_stairs1",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "wizardtower2_stairs2",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "wizardtower2_study",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "wizardtower2_roof",
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": "forest_tomb",
+    "fg": "cave_brown"
+  },
+  {
+    "id": "forest_tomb_roof",
+    "fg": "cave_brown"
+  },
+  {
+    "id": "forest_tomb_bottom",
+    "fg": "cave_brown"
+  },
+  {
+    "id": "magic_academy_ground",
+    "//": "color is overridden in this tileset",
+    "fg": "big_building_cyan"
+  },
+  {
+    "id": "magic_academy_2nd",
+    "//": "color is overridden in this tileset",
+    "fg": "big_building_cyan"
+  },
+  {
+    "id": "magic_academy_3rd",
+    "//": "color is overridden in this tileset",
+    "fg": "big_building_cyan"
+  },
+  {
+    "id": "magic_academy_4th",
+    "//": "color is overridden in this tileset",
+    "fg": "big_building_cyan"
+  },
+  {
+    "id": "magic_academy_5th",
+    "//": "color is overridden in this tileset",
+    "fg": "big_building_cyan"
+  },
+  {
+    "id": "magic_academy_6th",
+    "//": "color is overridden in this tileset",
+    "fg": "big_building_cyan"
+  },
+  {
+    "id": "magic_academy_7th",
+    "//": "color is overridden in this tileset",
+    "fg": "big_building_cyan"
+  },
+  {
+    "id": "magic_academy_8th",
+    "//": "color is overridden in this tileset",
+    "fg": "big_building_cyan"
+  },
+  {
+    "id": "magic_academy_basement",
+    "//": "color is overridden in this tileset",
+    "fg": "big_building_cyan"
+  },
+  {
+    "id": "magic_academy_roof",
+    "//": "color is overridden in this tileset",
+    "fg": "big_building_cyan"
+  },
+  {
+    "id": [
+      "attunement_altar_NW",
+      "attunement_altar_NE",
+      "attunement_altar_SW",
+      "attunement_altar_SE",
+      "attunement_altar_NW_roof",
+      "attunement_altar_NE_roof",
+      "attunement_altar_SW_roof",
+      "attunement_altar_SE_roof"
+    ],
+    "fg": "building_columns_light_green"
+  },
+  {
+    "id": [
+      "mine_balrog_west",
+      "mine_balrog_central",
+      "mine_balrog_east",
+      "mine_balrog_-1_west",
+      "mine_balrog_-1_central",
+      "mine_balrog_-1_east",
+      "mine_balrog_finale_nw",
+      "mine_balrog_finale_n",
+      "mine_balrog_finale_ne",
+      "mine_balrog_finale_sw",
+      "mine_balrog_finale_s",
+      "mine_balrog_finale_se",
+      "mine_balrog_bottomless_pit",
+      "mine_balrog_lava"
+    ],
+    "fg": "mine_dark_gray"
+  }
+]

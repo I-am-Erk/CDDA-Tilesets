@@ -1,0 +1,38 @@
+[
+  {
+    "id": "microlab_generic",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "microlab_rock_border",
+    "fg": "rock_dark_gray"
+  },
+  {
+    "id": "microlab_generic_edge",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "microlab_generic_surface_connector",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "microlab_sub_station",
+    "fg": "mine_light_blue"
+  },
+  {
+    "id": "microlab_sub_connector",
+    "fg": "mine_light_blue"
+  },
+  {
+    "id": "microlab_generic_sub_entry",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "microlab_generic_surface",
+    "fg": "big_building_light_blue"
+  },
+  {
+    "id": "microlab_generic_surface_roof",
+    "fg": "big_building_light_blue"
+  }
+]

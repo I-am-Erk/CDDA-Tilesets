@@ -1,0 +1,6 @@
+[
+    { "id": ["aquarium_medium_drying_season_spring", "aquarium_medium_season_spring"], "fg": "aquarium_medium_drying_season_spring", "bg": [], "rotates": false },
+	{ "id": ["aquarium_medium_drying_season_autumn", "aquarium_medium_season_autumn"], "fg": "aquarium_medium_drying_season_autumn", "bg": [], "rotates": false },
+	{ "id": ["aquarium_medium_drying_season_winter", "aquarium_medium_season_winter"], "fg": "aquarium_medium_drying_season_winter", "bg": [], "rotates": false },
+	{ "id": ["aquarium_medium_drying_season_summer", "aquarium_medium_season_summer"], "fg": "aquarium_medium_drying_season_summer", "bg": [], "rotates": false }
+]

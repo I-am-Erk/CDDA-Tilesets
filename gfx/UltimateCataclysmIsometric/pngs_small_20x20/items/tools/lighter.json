@@ -1,9 +1,0 @@
-{
-  "id": "lighter",
-  "fg": [
-    { "weight": 1, "sprite": "lightergreen"},
-    { "weight": 1, "sprite": "lighterblue"},
-    { "weight": 1, "sprite": "lighterred"}
-  ],
-  "bg": []
-}

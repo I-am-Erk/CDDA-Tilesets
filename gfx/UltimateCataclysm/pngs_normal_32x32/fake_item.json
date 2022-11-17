@@ -1,0 +1,18 @@
+[
+  {
+    "id": [
+      "aerosol_paint",
+      "albuterol",
+      "butane",
+      "oxyacetylene",
+      "oxygen",
+      "permanent_ink",
+      "propane",
+      "gas_fungicidal",
+      "gas_insecticidal",
+      "gas_chloramine",
+      "f_fake_bench_hands"
+    ],
+    "fg": [ "fake_item" ]
+  }
+]
