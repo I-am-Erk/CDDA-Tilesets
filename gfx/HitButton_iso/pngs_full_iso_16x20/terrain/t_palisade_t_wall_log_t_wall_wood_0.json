@@ -1,1 +1,36 @@
-{"id": ["t_palisade", "t_wall_log", "t_wall_wood"], "fg": ["705_t_palisade_0", "706_t_palisade_1"], "bg": [ ], "multitile": true, "additional_tiles": [{"id": "corner", "fg": ["707_t_palisade_3", "708_t_palisade_4", "709_t_palisade_5", "710_t_palisade_6"], "bg": []}, {"id": "t_connection", "fg": ["711_t_palisade_7", "712_t_palisade_8", "713_t_palisade_9", "714_t_palisade_10"], "bg": []}, {"id": "center", "fg": ["715_t_palisade_11"], "bg": []}]}
+{
+  "id": [
+    "t_wall_log",
+    "t_wall_wood",
+    "t_palisade"
+  ],
+  "fg": [
+    "t_wall_wood_NS",
+    "t_wall_wood_EW"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "corner",
+      "fg": [
+        "t_wall_wood_cornerNW",
+        "t_wall_wood_cornerSW",
+        "t_wall_wood_cornerSE",
+        "t_wall_wood_cornerNE"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_wall_wood_t_connectionN",
+        "t_wall_wood_t_connectionW",
+        "t_wall_wood_t_connectionS",
+        "t_wall_wood_t_connectionE"
+      ]
+    },
+    {
+      "id": "center",
+      "fg": "t_wall_wood_center"
+    }
+  ]
+}
