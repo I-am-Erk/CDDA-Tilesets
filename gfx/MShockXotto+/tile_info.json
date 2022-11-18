@@ -35,6 +35,9 @@
     "huge.png": { "sprite_width": 128, "sprite_height": 128, "sprite_offset_x": -64, "sprite_offset_y": -96 }
   },
   {
+    "dcss.png": { "filler": true }
+  },
+  {
     "fillersmall.png": { "sprite_width": 20, "sprite_height": 20, "filler": true }
   },
   {
