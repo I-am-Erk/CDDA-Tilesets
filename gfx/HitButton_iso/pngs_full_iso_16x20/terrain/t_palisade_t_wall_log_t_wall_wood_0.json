@@ -22,15 +22,15 @@
     {
       "id": "t_connection",
       "fg": [
-        "t_wall_wood_t_connectionN",
-        "t_wall_wood_t_connectionW",
-        "t_wall_wood_t_connectionS",
-        "t_wall_wood_t_connectionE"
+        "t_wall_wood_cornerNW",
+        "t_wall_wood_cornerSW",
+        "t_wall_wood_cornerSW",
+        "t_wall_wood_cornerSE"
       ]
     },
     {
       "id": "center",
-      "fg": "t_wall_wood_center"
+      "fg": "t_wall_wood_cornerSW"
     }
   ]
 }
