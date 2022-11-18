@@ -1,0 +1,36 @@
+{
+  "id": [
+    "t_wall_wood",
+    "t_wall_log",
+    "t_palisade"
+  ],
+  "fg": [
+    "t_wall_wood_NS",
+    "t_wall_wood_EW"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "corner",
+      "fg": [
+        "t_wall_wood_cornerNW",
+        "t_wall_wood_cornerSW",
+        "t_wall_wood_cornerSE",
+        "t_wall_wood_cornerNE"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_wall_wood_cornerNW",
+        "t_wall_wood_cornerSW",
+        "t_wall_wood_cornerSW",
+        "t_wall_wood_cornerSE"
+      ]
+    },
+    {
+      "id": "center",
+      "fg": "t_wall_wood_cornerSW"
+    }
+  ]
+}
