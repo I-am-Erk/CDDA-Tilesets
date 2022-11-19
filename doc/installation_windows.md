@@ -19,7 +19,7 @@ Extract the files somewhere.
 
 **Cataclysm-DDA game**
 
-The easiest way to get the game is to use the [CDDA Game Launcher](https://github.com/remyroy/CDDA-Game-Launcher).
+The easiest way to get the game is to use the [CDDA Game Launcher](https://github.com/Fris0uman/CDDA-Game-Launcher/releases).
 With the launcher, install the latest **experimental** release.
 
 ## Setting up paths
