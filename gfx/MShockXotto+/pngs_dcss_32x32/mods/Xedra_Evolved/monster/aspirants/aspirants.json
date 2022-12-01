@@ -1,0 +1,12 @@
+[
+  {
+    "id": "mon_redcap_aspirant",
+    "fg": [ "trog" ],
+    "bg": [  ]
+  },
+  {
+    "id": "mon_pooka_aspirant",
+    "fg": [ "deep_dwarf_death_knight" ],
+    "bg": [  ]
+  }
+]
