@@ -1,1 +1,32 @@
-{"id": "fd_incendiary", "fg": ["animation_bullet_flame"], "rotates": false, "multitile": true, "additional_tiles": [{"id": "center", "fg": ["2200_fd_incendiary_1"], "bg": []}, {"id": "corner", "fg": ["2201_fd_incendiary_2"], "bg": []}, {"id": "edge", "fg": ["2202_fd_incendiary_3"], "bg": []}, {"id": "end_piece", "fg": ["2203_fd_incendiary_4"], "bg": []}, {"id": "t_connection", "fg": ["2204_fd_incendiary_5"], "bg": []}, {"id": "unconnected", "fg": ["animation_bullet_flame"], "bg": []}], "bg": []}
+{
+  "id": "fd_incendiary",
+  "fg": "fd_incendiary_0",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "fd_incendiary_1"
+    },
+    {
+      "id": "corner",
+      "fg": "fd_incendiary_2"
+    },
+    {
+      "id": "edge",
+      "fg": "fd_incendiary_3"
+    },
+    {
+      "id": "end_piece",
+      "fg": "fd_incendiary_4"
+    },
+    {
+      "id": "t_connection",
+      "fg": "fd_incendiary_5"
+    },
+    {
+      "id": "unconnected",
+      "fg": "fd_incendiary_0"
+    }
+  ]
+}
