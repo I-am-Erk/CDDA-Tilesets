@@ -1,0 +1,20 @@
+[
+{
+  "id": "mon_orc_warrior",
+  "fg": "mon_orc_warrior",
+  "bg": ["shadow_32x32_normal"],
+  "rotates": false
+},
+{
+  "id": "mon_orc_archer",
+  "fg": "mon_orc_archer",
+  "bg": ["shadow_32x32_normal"],
+  "rotates": false
+},
+{
+  "id": "mon_orc_blood_warrior",
+  "fg": "mon_orc_blood_warrior",
+  "bg": ["shadow_32x32_normal"],
+  "rotates": false
+}
+]
