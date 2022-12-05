@@ -38,6 +38,9 @@
     "dcss.png": { "filler": true }
   },
   {
+    "dcssTall.png": { "sprite_width": 32, "sprite_height": 48, "sprite_offset_x": 0, "sprite_offset_y": -16, "filler": true }
+  },
+  {
     "fillersmall.png": { "sprite_width": 20, "sprite_height": 20, "filler": true }
   },
   {
