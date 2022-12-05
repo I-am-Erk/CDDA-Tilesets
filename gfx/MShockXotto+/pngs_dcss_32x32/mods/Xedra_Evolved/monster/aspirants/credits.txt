@@ -1,0 +1,2 @@
+chamons
+https://github.com/crawl/tiles/blob/master/releases/Nov-2015/UNUSED/monsters/deep_dwarf_death_knight.png
