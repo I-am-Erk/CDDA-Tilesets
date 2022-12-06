@@ -44,91 +44,30 @@
     "fg": "house_light_gray"
   },
   {
-    "id": "duplex",
-    "fg": "duplex_light_gray"
-  },
-  {
-    "id": "duplex_roof",
-    "fg": "duplex_light_gray"
-  },
-  {
-    "id": "house_duplex2",
-    "fg": "duplex_light_gray"
-  },
-  {
-    "id": "house_duplex2_roof",
-    "fg": "duplex_light_gray"
-  },
-  {
-    "id": "house_duplex3",
-    "fg": "duplex_light_gray"
-  },
-  {
-    "id": "house_duplex3_roof",
-    "fg": "duplex_light_gray"
-  },
-  {
-    "id": "house_duplex4",
-    "fg": "duplex_light_gray"
-  },
-  {
-    "id": "house_duplex4_roof",
-    "fg": "duplex_light_gray"
-  },
-  {
-    "id": "house_duplex5",
-    "fg": "duplex_light_gray"
-  },
-  {
-    "id": "house_duplex5_roof",
-    "fg": "duplex_light_gray"
-  },
-  {
-    "id": "house_duplex6",
-    "fg": "duplex_light_gray"
-  },
-  {
-    "id": "house_duplex6_roof",
-    "fg": "duplex_light_gray"
-  },
-  {
-    "id": "house_duplex7",
-    "fg": "duplex_light_gray"
-  },
-  {
-    "id": "house_duplex7_roof",
-    "fg": "duplex_light_gray"
-  },
-  {
-    "id": "house_duplex8",
-    "fg": "duplex_light_gray"
-  },
-  {
-    "id": "house_duplex8_roof",
-    "fg": "duplex_light_gray"
-  },
-  {
-    "id": "house_duplex9",
-    "fg": "duplex_light_gray"
-  },
-  {
-    "id": "house_duplex9_roof",
-    "fg": "duplex_light_gray"
-  },
-  {
-    "id": "house_duplex10",
-    "fg": "duplex_light_gray"
-  },
-  {
-    "id": "house_duplex10_roof",
-    "fg": "duplex_light_gray"
-  },
-  {
-    "id": "house_duplex11",
-    "fg": "duplex_light_gray"
-  },
-  {
-    "id": "house_duplex11_roof",
+    "id": [
+      "duplex",
+      "house_duplex2",
+      "house_duplex3",
+      "house_duplex4",
+      "house_duplex5",
+      "house_duplex6",
+      "house_duplex7",
+      "house_duplex8",
+      "house_duplex9",
+      "house_duplex10",
+      "house_duplex11",
+      "duplex_roof",
+      "house_duplex2_roof",
+      "house_duplex3_roof",
+      "house_duplex4_roof",
+      "house_duplex5_roof",
+      "house_duplex6_roof",
+      "house_duplex7_roof",
+      "house_duplex8_roof",
+      "house_duplex9_roof",
+      "house_duplex10_roof",
+      "house_duplex11_roof"
+    ],
     "fg": "duplex_light_gray"
   },
   {
@@ -1253,5 +1192,60 @@
       "prefab_roof"
     ],
     "fg": "trailer_light_gray"
+  },
+  {
+    "id": [
+      "retirement_community_1",
+      "retirement_community_2",
+      "retirement_community_3",
+      "retirement_community_4",
+      "retirement_community_5",
+      "retirement_community_6",
+      "retirement_community_7",
+      "retirement_community_15",
+      "retirement_community_18",
+      "retirement_community_19",
+      "retirement_community_22",
+      "retirement_community_23",
+      "retirement_community_26",
+
+      "retirement_community_2f_1",
+      "retirement_community_2f_2",
+      "retirement_community_2f_3",
+      "retirement_community_2f_4",
+      "retirement_community_2f_5",
+      "retirement_community_2f_6",
+      "retirement_community_2f_7",
+      "retirement_community_2f_15",
+      "retirement_community_2f_18",
+      "retirement_community_2f_19",
+      "retirement_community_2f_22",
+      "retirement_community_2f_23",
+      "retirement_community_2f_26",
+
+      "retirement_community_3f_1",
+      "retirement_community_3f_2",
+      "retirement_community_3f_3",
+      "retirement_community_3f_4",
+      "retirement_community_3f_5",
+      "retirement_community_3f_6",
+      "retirement_community_3f_7",
+      "retirement_community_3f_15",
+      "retirement_community_3f_18",
+      "retirement_community_3f_19",
+      "retirement_community_3f_22",
+      "retirement_community_3f_23",
+      "retirement_community_3f_26"
+    ],
+    "fg": "duplex_light_gray"
+  },
+  {
+    "id": [
+      "retirement_community_8",
+      "retirement_community_14",
+      "retirement_community_27",
+      "retirement_community_33"
+    ],
+    "fg": "parking_dark_gray"
   }
 ]
