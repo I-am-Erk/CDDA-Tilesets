@@ -1,18 +1,11 @@
 [
   {
-    "id": "generic_city_house_basement",
-    "fg": "house_light_gray"
-  },
-  {
-    "id": "basement",
-    "fg": "house_light_gray"
-  },
-  {
-    "id": "basement_bionic",
-    "fg": "house_light_gray"
-  },
-  {
-    "id": "basement_hidden_lab_stairs",
+    "id":[
+      "generic_city_house_basement",
+      "basement",
+      "basement_bionic",
+      "basement_hidden_lab_stairs"
+    ],
     "fg": "house_light_gray"
   },
   {
@@ -1270,5 +1263,37 @@
       "retirement_community_park_2f_5"
     ],
     "fg": "open_air_blue"
+  },
+  {
+    "id": [
+      "retirement_community_34",
+      "retirement_community_35",
+
+      "retirement_community_2f_34",
+      "retirement_community_2f_35"
+    ],
+    "fg":"shop_magenta"
+  },
+  {
+    "id": [
+      "retirement_community_36",
+      "retirement_community_2f_36"
+    ],
+    "fg": "pool_blue"
+  },
+  {
+    "id": [
+      "retirement_community_38",
+      "retirement_community_39",
+      "retirement_community_40",
+
+      "retirement_community_2f_38",
+      "retirement_community_2f_39",
+      "retirement_community_2f_40",
+
+      "retirement_community_b_37",
+      "retirement_community_b_38"
+    ],
+    "fg": "two_story_light_blue"
   }
 ]
