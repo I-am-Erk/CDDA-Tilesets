@@ -108,7 +108,10 @@
     "fg": "industry_blue"
   },
   {
-    "id": "dumpsite",
+    "id": [
+      "dumpsite",
+      "dumpsite_edge"
+    ],
     "fg": "hive_brown"
   },
   {
