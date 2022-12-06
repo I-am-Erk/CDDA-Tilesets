@@ -1247,5 +1247,28 @@
       "retirement_community_33"
     ],
     "fg": "parking_dark_gray"
+  },
+  {
+    "id": [
+      "retirement_community_2f_8",
+      "retirement_community_2f_9",
+      "retirement_community_2f_10",
+      "retirement_community_2f_11",
+      "retirement_community_2f_12",
+      "retirement_community_2f_13",
+      "retirement_community_2f_14",
+      "retirement_community_2f_27",
+      "retirement_community_2f_28",
+      "retirement_community_2f_29",
+      "retirement_community_2f_30",
+      "retirement_community_2f_31",
+      "retirement_community_2f_32",
+      "retirement_community_2f_33",
+      "retirement_community_2f_37",
+
+      "retirement_community_park_2f_2",
+      "retirement_community_park_2f_5"
+    ],
+    "fg": "open_air_blue"
   }
 ]
