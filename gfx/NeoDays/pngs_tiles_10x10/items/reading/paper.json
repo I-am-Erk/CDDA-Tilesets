@@ -17,9 +17,9 @@
     "newspaper_memorial",
     "necropolis_leaflet",
     "black_box_transcript",
-    "large_prinout_portal_storm_data",
-    "medium_prinout_portal_storm_data",
-    "small_prinout_portal_storm_data"
+    "large_printout_portal_storm_data",
+    "medium_printout_portal_storm_data",
+    "small_printout_portal_storm_data"
   ],
   "fg": "paper"
 }

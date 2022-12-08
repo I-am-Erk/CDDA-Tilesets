@@ -1,7 +1,9 @@
 {
   "id": [
     "f_stool",
-    "f_chair"
+    "f_chair",
+    "f_chair_white",
+    "f_chair_black"
   ],
   "fg": "f_stool"
 }
