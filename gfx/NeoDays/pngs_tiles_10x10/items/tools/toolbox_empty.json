@@ -2,7 +2,9 @@
   "id": [
     "toolbox_empty",
     "toolbox_workshop_empty",
-    "rc_car_box"
+    "rc_car_box",
+    "maker_kit_box",
+    "engineering_makerspace_kit"
   ],
   "fg": "toolbox_empty"
 }
