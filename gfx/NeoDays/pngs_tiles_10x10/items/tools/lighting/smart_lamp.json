@@ -3,7 +3,8 @@
     "smart_lamp",
     "electric_lantern",
     "oxylamp",
-    "atomic_lamp_off"
+    "atomic_lamp_off",
+    "propane_lantern"
   ],
   "fg": "smart_lamp"
 }
