@@ -569,5 +569,14 @@
       "dirt_road_corner_nw"
     ],
     "//": "temporary fix"
+  },
+  {
+    "id": [
+      "hayfield_straight",
+      "hayfield_turnL",
+      "hayfield_turnR",
+      "hayfield_end"
+    ],
+    "fg": "square_brown"
   }
 ]
