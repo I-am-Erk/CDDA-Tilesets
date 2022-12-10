@@ -1146,5 +1146,15 @@
       "nuclear_plant_8_3_7"
     ],
     "fg": "big_building_red"
+  },
+  {
+    "id": [
+      "wind_turbine_ground",
+      "wind_turbine_pillar",
+      "wind_turbine_pillar_platform",
+      "wind_turbine_nacelle",
+      "wind_turbine_roof"
+    ],
+    "fg": "turbine_light_gray"
   }
 ]
