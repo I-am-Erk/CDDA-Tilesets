@@ -1,34 +1,24 @@
 [
   {
-    "id": "mi-go_camp1",
+    "id": [
+      "mi-go_camp1",
+      "mi-go_camp2",
+      "mi-go_camp2-1",
+      "mi-go_camp2-2"
+    ],
     "fg": "hive_pink"
   },
   {
-    "id": "mi-go_camp2",
-    "fg": "hive_pink"
-  },
-  {
-    "id": "mi-go_camp2-1",
-    "fg": "hive_pink"
-  },
-  {
-    "id": "mi-go_camp2-2",
-    "fg": "hive_pink"
-  },
-  {
-    "id": "mi-go_scout_tower_1",
+    "id": [
+      "mi-go_scout_tower_1",
+      "mi-go_scout_tower_2",
+      "mi-go_scout_tower_3",
+      "mi-go_scout_tower_4"
+    ],
     "fg": "hive_magenta"
   },
   {
-    "id": "mi-go_scout_tower_2",
-    "fg": "hive_magenta"
-  },
-  {
-    "id": "mi-go_scout_tower_3",
-    "fg": "hive_magenta"
-  },
-  {
-    "id": "mi-go_scout_tower_4",
-    "fg": "hive_magenta"
+    "id": "mi-go_portal",
+    "fg": "portal_magenta"
   }
 ]
