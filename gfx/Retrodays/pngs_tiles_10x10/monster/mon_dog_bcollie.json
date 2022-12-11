@@ -1,0 +1,14 @@
+{
+  "id": [
+    "mon_dog_bcollie",
+    "mon_dog_boxer",
+    "mon_dog_gshepherd",
+    "mon_dog_gpyrenees",
+    "mon_dog_rottweiler",
+    "mon_dog_auscattle",
+    "mon_dog_thing",
+    "mon_dog_large",
+    "mon_dog"
+  ],
+  "fg": "mon_dog_bcollie"
+}
