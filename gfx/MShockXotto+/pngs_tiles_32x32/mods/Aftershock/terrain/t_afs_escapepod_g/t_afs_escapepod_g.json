@@ -1,0 +1,23 @@
+{
+  "id": "t_afs_escapepod_g",
+  "fg": "t_afs_escapepod_g_edge_ew",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_afs_escapepod_g_edge_ew",
+        "t_afs_escapepod_g_edge_ns",
+        "t_afs_escapepod_g_edge_ew",
+        "t_afs_escapepod_g_edge_ns"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_afs_escapepod_g_edge_ns",
+        "t_afs_escapepod_g_edge_ew"
+      ]
+    }
+  ]
+}
