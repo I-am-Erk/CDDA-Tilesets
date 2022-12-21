@@ -1,0 +1,11 @@
+[
+  {
+    "id": "t_deaddirt",
+    "fg": [
+      { "weight": 3, "sprite": "t_deaddirt_01" },
+      { "weight": 5, "sprite": "t_deaddirt_02" },
+      { "weight": 5, "sprite": "t_deaddirt_03" }
+    ],
+    "bg": ""
+  }
+]
