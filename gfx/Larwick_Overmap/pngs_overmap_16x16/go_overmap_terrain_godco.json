@@ -1,0 +1,57 @@
+[
+  {
+    "id": [
+      "godco_1",
+      "godco_1_1",
+      "godco_1_2"
+    ],
+    "fg": "church_dark_gray"
+  },
+  {
+    "id": [
+      "godco_2",
+      "godco_5"
+    ],
+    "fg": "dirt_road_edge_ns"
+  },
+  {
+    "id": [
+      "godco_3",
+      "godco_3_1"
+    ],
+    "fg": "cabin_dark_gray"
+  },
+  {
+    "id": [
+      "godco_4",
+      "godco_7"
+    ],
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": [
+      "godco_2_1",
+      "godco_2_2",
+      "godco_4_1",
+      "godco_5_1",
+      "godco_7_1"
+    ],
+    "fg": "open_air_blue"
+  },
+  {
+    "id": [
+      "godco_6",
+      "godco_9",
+      "godco_6_1",
+      "godco_9_1"
+    ],
+    "fg": "duplex_dark_gray"
+  },
+  {
+    "id": [
+      "godco_8",
+      "godco_8_1"
+    ],
+    "fg": "industry_dark_gray"
+  }
+]

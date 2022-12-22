@@ -216,7 +216,10 @@
     "fg": "tower_light_green"
   },
   {
-    "id": "homelesscamp",
+    "id": [
+      "homelesscamp",
+      "homelesscamp_npc"
+    ],
     "fg": "tent_brown"
   },
   {

@@ -1,0 +1,24 @@
+[
+  {
+    "id": [
+      "pagan_cult_long_wall",
+      "pagan_cult_left_corner",
+      "pagan_cult_right_corner",
+      "pagan_cult_left_corner_up",
+      "pagan_cult_right_corner_up"
+    ],
+    "fg": "fortress_brown"
+  },
+  {
+    "id": "pagan_cult_enter",
+    "fg": "square_brown"
+  },
+  {
+    "id": "pagan_cult_henge",
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": "pagan_cult_longhouse",
+    "fg": "barn_brown"
+  }
+]
