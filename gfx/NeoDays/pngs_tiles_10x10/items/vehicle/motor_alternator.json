@@ -8,7 +8,8 @@
     "alternator_bicycle",
     "alternator_motorbike",
     "alternator_car",
-    "alternator_truck"
+    "alternator_truck",
+    "exodii_motor"
   ],
   "fg": "motor_alternator"
 }
