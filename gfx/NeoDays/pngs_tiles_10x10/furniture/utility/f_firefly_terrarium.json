@@ -1,0 +1,12 @@
+{
+  "id": "f_firefly_terrarium",
+  "animated": true,
+  "fg": [
+    { "weight": 50, "sprite": "f_firefly_terrarium0" },
+    { "weight": 50, "sprite": "f_firefly_terrarium1" },
+    { "weight": 50, "sprite": "f_firefly_terrarium2" },
+    { "weight": 50, "sprite": "f_firefly_terrarium3" },
+    { "weight": 50, "sprite": "f_firefly_terrarium4" },
+    { "weight": 50, "sprite": "f_firefly_terrarium5" }
+  ]
+}
