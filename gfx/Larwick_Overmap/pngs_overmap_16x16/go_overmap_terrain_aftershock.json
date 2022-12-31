@@ -1,6 +1,12 @@
 [
   {
     "id": [
+      "afs_crashed_escape_pod"
+    ],
+    "fg": "hole_red"
+  },
+  {
+    "id": [
       "solid_glacier"
     ],
     "fg": "rock_cyan"
