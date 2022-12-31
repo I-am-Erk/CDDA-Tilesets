@@ -3,11 +3,6 @@
     "player_male",
     "player_female"
   ],
-  "fg": [
-    "player"
-  ],
-  "rotates": false,
-  "bg": [
-    
-  ]
+  "fg": "player",
+  "rotates": false
 }
