@@ -1,0 +1,41 @@
+[
+  {
+    "id": [
+      "afs_crashed_escape_pod"
+    ],
+    "fg": "hole_red"
+  },
+  {
+    "id": [
+      "solid_glacier"
+    ],
+    "fg": "rock_cyan"
+  },
+  {
+    "id": [
+      "ravine_floor"
+    ],
+    "fg": "one_grass_light_gray"
+  },
+  {
+    "id": [
+      "ravine"
+    ],
+    "fg": "open_air_blue"
+  },
+  {
+    "id": [
+      "ravine_edge",
+      "ravine_floor_edge"
+    ],
+    "fg": "rock_light_gray"
+  },
+  {
+    "id": "afs_astrobiology_lab_n1",
+    "fg": "big_building_magenta"
+  },
+  {
+    "id": "afs_formless_ruins_dynamic",
+    "fg": "hole_light_gray"
+  }
+]
