@@ -1,0 +1,13 @@
+{
+  "id": [
+    "money_bundle_one",
+    "money_bundle_two",
+    "money_bundle_five",
+    "money_bundle_ten",
+    "money_bundle_twenty",
+    "money_bundle_fifty",
+    "money_bundle_hundred",
+    "money_bundle_FMCNote"
+  ],
+  "fg": "money_bundle"
+}
