@@ -147,7 +147,9 @@
       "cabin_lapin",
       "cabin_roof_lapin",
       "cabin_isherwood",
-      "cabin_prepper"
+      "cabin_prepper",
+      "bandit_cabin",
+      "bandit_cabin_roof"
     ],
     "fg": "cabin_brown"
   },
@@ -215,10 +217,6 @@
   {
     "id": "wasp_tower_roof",
     "fg": "open_air_blue"
-  },
-  {
-    "id": "bandit_cabin",
-    "fg": "small_tree_green"
   },
   {
     "id": "bandit_camp_1",
