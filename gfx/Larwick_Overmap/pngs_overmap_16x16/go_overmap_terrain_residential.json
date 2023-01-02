@@ -232,6 +232,27 @@
   },
   {
     "id": [
+      "bungalow01_1",
+      "bungalow02_1",
+      "bungalow03",
+      "bungalow04",
+      "bungalow05",
+      "bungalow06",
+      "bungalow07",
+      "bungalow08",
+      "bungalow01_roof",
+      "bungalow02_roof",
+      "bungalow03_roof",
+      "bungalow04_roof",
+      "bungalow05_roof",
+      "bungalow06_roof",
+      "bungalow07_roof",
+      "bungalow08_roof"
+    ],
+    "fg": "bungalow_light_gray"
+  },
+  {
+    "id": [
       "duplex",
       "house_duplex2",
       "house_duplex3",
