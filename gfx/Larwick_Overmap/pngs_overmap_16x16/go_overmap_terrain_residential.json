@@ -4,36 +4,15 @@
       "generic_city_house_basement",
       "basement",
       "basement_bionic",
-      "basement_hidden_lab_stairs"
+      "basement_hidden_lab_stairs",
+      "house_wooded",
+      "house_roof",
+      "house_prepper",
+      "house_prepper2",
+      "house_prepper2_roof",
+      "house_fortified",
+      "house_fortified_roof"
     ],
-    "fg": "house_light_gray"
-  },
-  {
-    "id": "house_wooded",
-    "fg": "house_light_gray"
-  },
-  {
-    "id": "house_roof",
-    "fg": "house_light_gray"
-  },
-  {
-    "id": "house_prepper",
-    "fg": "house_light_gray"
-  },
-  {
-    "id": "house_prepper2",
-    "fg": "house_light_gray"
-  },
-  {
-    "id": "house_prepper2_roof",
-    "fg": "house_light_gray"
-  },
-  {
-    "id": "house_fortified",
-    "fg": "house_light_gray"
-  },
-  {
-    "id": "house_fortified_roof",
     "fg": "house_light_gray"
   },
   {
@@ -64,19 +43,12 @@
     "fg": "duplex_light_gray"
   },
   {
-    "id": "rural_house1",
-    "fg": "cabin_light_gray"
-  },
-  {
-    "id": "rural_house1_roof",
-    "fg": "cabin_light_gray"
-  },
-  {
-    "id": "rural_house2",
-    "fg": "cabin_light_gray"
-  },
-  {
-    "id": "rural_house2_roof",
+    "id": [
+      "rural_house1",
+      "rural_house1_roof",
+      "rural_house2",
+      "rural_house2_roof"
+    ],
     "fg": "cabin_light_gray"
   },
   {
