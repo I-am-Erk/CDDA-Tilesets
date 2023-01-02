@@ -149,7 +149,8 @@
       "cabin_isherwood",
       "cabin_prepper",
       "bandit_cabin",
-      "bandit_cabin_roof"
+      "bandit_cabin_roof",
+      "campsite_cabin_incomplete"
     ],
     "fg": "cabin_brown"
   },
@@ -235,23 +236,22 @@
     "fg": "small_tree_green"
   },
   {
-    "id": "campsite",
-    "fg": "tent_light_green"
-  },
-  {
-    "id": "campsite_a",
-    "fg": "tent_light_green"
-  },
-  {
-    "id": "campsite_cabin_incomplete",
-    "fg": "cabin_brown"
-  },
-  {
-    "id": "campsite_field_biker",
-    "fg": "tent_light_green"
-  },
-  {
-    "id": "campsite_field_biker_destroyed",
+    "id": [
+      "campsite",
+      "campsite_a",
+      "campsite_field_biker",
+      "campsite_field_biker_destroyed",
+      "campground_1a",
+      "campground_1b",
+      "campground_2a",
+      "campground_2b",
+      "campground_roof",
+      "campground_1a_npc",
+      "campground_1b_npc",
+      "campground_2a_npc",
+      "campground_2b_npc",
+      "campground_roof_npc"
+    ],
     "fg": "tent_light_green"
   },
   {
@@ -259,60 +259,13 @@
     "fg": "pond_blue"
   },
   {
-    "id": "hunter_shack",
+    "id": [
+      "hunter_shack",
+      "hunter_shack_roof",
+      "hunter_shack_1",
+      "hunter_shack_roof_1"
+    ],
     "fg": "house_cyan"
-  },
-  {
-    "id": "hunter_shack_roof",
-    "fg": "house_cyan"
-  },
-  {
-    "id": "hunter_shack_1",
-    "fg": "house_cyan"
-  },
-  {
-    "id": "hunter_shack_roof_1",
-    "fg": "house_cyan"
-  },
-  {
-    "id": "campground_1a",
-    "fg": "tent_light_green"
-  },
-  {
-    "id": "campground_1b",
-    "fg": "tent_light_green"
-  },
-  {
-    "id": "campground_2a",
-    "fg": "tent_light_green"
-  },
-  {
-    "id": "campground_2b",
-    "fg": "tent_light_green"
-  },
-  {
-    "id": "campground_roof",
-    "fg": "tent_light_green"
-  },
-  {
-    "id": "campground_1a_npc",
-    "fg": "tent_light_green"
-  },
-  {
-    "id": "campground_1b_npc",
-    "fg": "tent_light_green"
-  },
-  {
-    "id": "campground_2a_npc",
-    "fg": "tent_light_green"
-  },
-  {
-    "id": "campground_2b_npc",
-    "fg": "tent_light_green"
-  },
-  {
-    "id": "campground_roof_npc",
-    "fg": "tent_light_green"
   },
   {
     "id": "desolatebarn",
