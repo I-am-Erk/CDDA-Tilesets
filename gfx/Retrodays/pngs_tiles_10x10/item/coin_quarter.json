@@ -1,0 +1,10 @@
+{
+  "id": [
+    "coin_quarter",
+    "coin_dime",
+    "coin_nickel",
+    "coin_half_dollar",
+    "coin_dollar"
+  ],
+  "fg": "coin_quarter"
+}

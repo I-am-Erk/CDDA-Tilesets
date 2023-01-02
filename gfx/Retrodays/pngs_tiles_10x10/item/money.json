@@ -1,0 +1,13 @@
+{
+  "id": [
+    "money_one",
+    "money_two",
+    "money_five",
+    "money_ten",
+    "money_twenty",
+    "money_fifty",
+    "money_hundred",
+    "FMCNote"
+  ],
+  "fg": "money"
+}
