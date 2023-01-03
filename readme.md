@@ -20,14 +20,5 @@ This repository stores individual sprites for UltiCa in PNG format, and also sou
 
 For information about installing and contributing see [**documentation**](https://i-am-erk.github.io/CDDA-Tilesets).
 
-## Donations
-
-If you feel generous enough, you might consider supporting artists. 
-
-| Artist | Link |
-|-|-|
-| I-am-Erk | N/a |
-| barsoosayque | <a href="https://liberapay.com/barsoosayque/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a> |
-
 ## Licensing
 Cataclysm:Dark Days Ahead and the Ultimate Cataclysm tileset is the result of contributions from volunteers under the Creative Commons Attribution ShareAlike 3.0 license. The code and content of the game is free to use, modify, and redistribute for any purpose whatsoever. See [Creative Commons](http://creativecommons.org/licenses/by-sa/3.0/) for details. Some code distributed with the project is not part of the project and is released under different software licenses, the files covered by different software licenses have their own license notices.
