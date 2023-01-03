@@ -1,0 +1,9 @@
+{
+  "id": [
+    "r_paint",
+    "offal_canned",
+    "pickles_ferment"
+  ],
+  "fg": "r_paint",
+  "//": "disconnection for food items from paint wanted"
+}
