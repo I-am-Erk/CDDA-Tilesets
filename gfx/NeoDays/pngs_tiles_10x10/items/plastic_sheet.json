@@ -1,0 +1,8 @@
+{
+  "id": [
+    "plastic_sheet",
+    "rigid_plastic_sheet",
+    "polycarbonate_sheet"
+  ],
+  "fg": "plastic_sheet"
+}
