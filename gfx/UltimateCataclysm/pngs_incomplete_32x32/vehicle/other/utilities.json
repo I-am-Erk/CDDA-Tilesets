@@ -135,5 +135,17 @@
         "bg": [ "vp_chem_lab", "vp_chem_lab" ]
       }
     ]
+  },
+  {
+    "id": "vp_veh_oil_press_electric",
+    "fg": [ "vp_veh_oil_press_electric", "vp_veh_oil_press_electric" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_veh_oil_press_electric", "vp_veh_oil_press_electric" ]
+      }
+    ]
   }
 ]
