@@ -34,7 +34,15 @@
     "chem_hydrogen_peroxide_conc",
     "chem_nitric_acid",
     "chem_sulphuric_acid",
-    "chem_formaldehyde"
+    "chem_formaldehyde",
+    "ammonia_liquid",
+    "liquid_soap",
+    "propane",
+    "toluene",
+    "soapy_water",
+    "ammonia_hydroxide",
+    "chem_benzene",
+    "lye_potassium"
   ],
 
   "fg": "water"

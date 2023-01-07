@@ -9,7 +9,8 @@
     "spider_steak_soup",
     "oxygen",
     "oxygen_tank",
-    "oxygen_cylinder"
+    "oxygen_cylinder",
+    "mercury"
   ],
   "fg": "soup_fish"
 }

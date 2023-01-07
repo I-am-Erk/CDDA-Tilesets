@@ -19,7 +19,9 @@
     "lemonade",
     "lamp_oil",
     "crude_lamp_oil",
-    "motor_oil"
+    "motor_oil",
+    "camphine",
+    "chem_turpentine"
   ],
   "fg": "cooking_oil"
 }
