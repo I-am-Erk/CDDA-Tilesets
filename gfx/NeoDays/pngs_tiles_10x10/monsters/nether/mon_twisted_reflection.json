@@ -2,11 +2,15 @@
   "id": "mon_twisted_reflection",
   "animated": true,
   "fg": [
-    { "weight": 20, "sprite": "player_male" },
-    { "weight": 5, "sprite": "mon_twisted_reflection1" },
-    { "weight": 30, "sprite": "player_male" },
-    { "weight": 5, "sprite": "mon_twisted_reflection2" },
-    { "weight": 50, "sprite": "player_male" },
-    { "weight": 5, "sprite": "mon_twisted_reflection3" }
+    { "weight": 100, "sprite": "player_male" },
+    { "weight": 50, "sprite": "mon_twisted_reflection1" },
+    { "weight": 50, "sprite": "mon_twisted_reflection2" },
+    { "weight": 50, "sprite": "mon_twisted_reflection3" },
+    { "weight": 50, "sprite": "mon_twisted_reflection4" },
+    { "weight": 100, "sprite": "player_female" },
+    { "weight": 50, "sprite": "mon_twisted_reflection4" },
+    { "weight": 50, "sprite": "mon_twisted_reflection3" },
+    { "weight": 50, "sprite": "mon_twisted_reflection2" },
+    { "weight": 50, "sprite": "mon_twisted_reflection1" }
   ]
 }
