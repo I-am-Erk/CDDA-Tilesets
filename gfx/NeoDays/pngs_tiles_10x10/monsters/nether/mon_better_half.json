@@ -1,0 +1,7 @@
+{
+  "id": "mon_better_half",
+  "fg": [
+    { "weight": 50, "sprite": "overlay_mutation_THRESH_ALPHA" },
+    { "weight": 50, "sprite": "overlay_male_mutation_THRESH_ALPHA" }
+  ]
+}
