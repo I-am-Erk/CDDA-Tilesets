@@ -132,35 +132,32 @@
     "fg": "big_building_cyan"
   },
   {
-    "id": "lab_surface_brick_basementA0",
-    "fg": "rock_brown"
-  },
-  {
-    "id": "lab_surface_brick_basementB0",
-    "fg": "rock_brown"
-  },
-  {
-    "id": "lab_surface_brick_basementC0",
-    "fg": "rock_brown"
-  },
-  {
-    "id": "lab_surface_brick_basementD0",
-    "fg": "rock_brown"
-  },
-  {
-    "id": "lab_surface_brick_basementE0",
-    "fg": "rock_brown"
-  },
-  {
-    "id": "lab_surface_brick_basementA1",
-    "fg": "rock_brown"
-  },
-  {
-    "id": "lab_surface_brick_basementB1",
-    "fg": "rock_brown"
-  },
-  {
-    "id": "lab_surface_brick_basementC1",
+    "id": [
+      "lab_surface_brick_basementA0",
+      "lab_surface_brick_basementB0",
+      "lab_surface_brick_basementC0",
+      "lab_surface_brick_basementD0",
+      "lab_surface_brick_basementE0",
+      "lab_surface_brick_basementA1",
+      "lab_surface_brick_basementB1",
+      "lab_surface_brick_basementC1",
+      "lab_surface_brick_basementE1",
+      "lab_surface_brick_basementA2",
+      "lab_surface_brick_basementB2",
+      "lab_surface_brick_basementC2",
+      "lab_surface_brick_basementD2",
+      "lab_surface_brick_basementE2",
+      "lab_surface_brick_basementA3",
+      "lab_surface_brick_basementB3",
+      "lab_surface_brick_basementC3",
+      "lab_surface_brick_basementD3",
+      "lab_surface_brick_basementE3",
+      "lab_surface_brick_basementA4",
+      "lab_surface_brick_basementB4",
+      "lab_surface_brick_basementC4",
+      "lab_surface_brick_basementD4",
+      "lab_surface_brick_basementE4"
+    ],
     "fg": "rock_brown"
   },
   {
@@ -168,567 +165,143 @@
     "fg": "big_building_blue"
   },
   {
-    "id": "lab_surface_brick_basementE1",
-    "fg": "rock_brown"
-  },
-  {
-    "id": "lab_surface_brick_basementA2",
-    "fg": "rock_brown"
-  },
-  {
-    "id": "lab_surface_brick_basementB2",
-    "fg": "rock_brown"
-  },
-  {
-    "id": "lab_surface_brick_basementC2",
-    "fg": "rock_brown"
-  },
-  {
-    "id": "lab_surface_brick_basementD2",
-    "fg": "rock_brown"
-  },
-  {
-    "id": "lab_surface_brick_basementE2",
-    "fg": "rock_brown"
-  },
-  {
-    "id": "lab_surface_brick_basementA3",
-    "fg": "rock_brown"
-  },
-  {
-    "id": "lab_surface_brick_basementB3",
-    "fg": "rock_brown"
-  },
-  {
-    "id": "lab_surface_brick_basementC3",
-    "fg": "rock_brown"
-  },
-  {
-    "id": "lab_surface_brick_basementD3",
-    "fg": "rock_brown"
-  },
-  {
-    "id": "lab_surface_brick_basementE3",
-    "fg": "rock_brown"
-  },
-  {
-    "id": "lab_surface_brick_basementA4",
-    "fg": "rock_brown"
-  },
-  {
-    "id": "lab_surface_brick_basementB4",
-    "fg": "rock_brown"
-  },
-  {
-    "id": "lab_surface_brick_basementC4",
-    "fg": "rock_brown"
-  },
-  {
-    "id": "lab_surface_brick_basementD4",
-    "fg": "rock_brown"
-  },
-  {
-    "id": "lab_surface_brick_basementE4",
-    "fg": "rock_brown"
-  },
-  {
-    "id": "lab_surface_brick_blockA0",
+    "id": [
+      "lab_surface_brick_blockA0",
+      "lab_surface_brick_blockB0",
+      "lab_surface_brick_blockC0",
+      "lab_surface_brick_blockD0",
+      "lab_surface_brick_blockE0",
+      "lab_surface_brick_blockA1",
+      "lab_surface_brick_blockB1",
+      "lab_surface_brick_blockC1",
+      "lab_surface_brick_blockD1",
+      "lab_surface_brick_blockE1",
+      "lab_surface_brick_blockC2"
+    ],
     "fg": "parking_dark_gray"
   },
   {
-    "id": "lab_surface_brick_blockB0",
-    "fg": "parking_dark_gray"
-  },
-  {
-    "id": "lab_surface_brick_blockC0",
-    "fg": "parking_dark_gray"
-  },
-  {
-    "id": "lab_surface_brick_blockD0",
-    "fg": "parking_dark_gray"
-  },
-  {
-    "id": "lab_surface_brick_blockE0",
-    "fg": "parking_dark_gray"
-  },
-  {
-    "id": "lab_surface_brick_blockA1",
-    "fg": "parking_dark_gray"
-  },
-  {
-    "id": "lab_surface_brick_blockB1",
-    "fg": "parking_dark_gray"
-  },
-  {
-    "id": "lab_surface_brick_blockC1",
-    "fg": "parking_dark_gray"
-  },
-  {
-    "id": "lab_surface_brick_blockD1",
-    "fg": "parking_dark_gray"
-  },
-  {
-    "id": "lab_surface_brick_blockE1",
-    "fg": "parking_dark_gray"
-  },
-  {
-    "id": "lab_surface_brick_blockA2",
+    "id": [
+      "lab_surface_brick_blockA2",
+      "lab_surface_brick_blockB2",
+      "lab_surface_brick_blockD2",
+      "lab_surface_brick_blockE2",
+      "lab_surface_brick_blockA3",
+      "lab_surface_brick_blockB3",
+      "lab_surface_brick_blockC3",
+      "lab_surface_brick_blockD3",
+      "lab_surface_brick_blockE3",
+      "lab_surface_brick_blockA4",
+      "lab_surface_brick_blockB4",
+      "lab_surface_brick_blockC4",
+      "lab_surface_brick_blockD4",
+      "lab_surface_brick_blockE4",
+      "lab_surface_brick_block2A2",
+      "lab_surface_brick_block2B2",
+      "lab_surface_brick_block2D2",
+      "lab_surface_brick_block2E2",
+      "lab_surface_brick_block2A3",
+      "lab_surface_brick_block2B3",
+      "lab_surface_brick_block2C3",
+      "lab_surface_brick_block2D3",
+      "lab_surface_brick_block2E3",
+      "lab_surface_brick_block2A4",
+      "lab_surface_brick_block2B4",
+      "lab_surface_brick_block2C4",
+      "lab_surface_brick_block2D4",
+      "lab_surface_brick_block2E4",
+      "lab_surface_brick_block3A2",
+      "lab_surface_brick_block3B2",
+      "lab_surface_brick_block3D2",
+      "lab_surface_brick_block3E2",
+      "lab_surface_brick_block3A3",
+      "lab_surface_brick_block3B3",
+      "lab_surface_brick_block3C3",
+      "lab_surface_brick_block3D3",
+      "lab_surface_brick_block3E3",
+      "lab_surface_brick_block3A4",
+      "lab_surface_brick_block3B4",
+      "lab_surface_brick_block3C4",
+      "lab_surface_brick_block3D4",
+      "lab_surface_brick_block3E4",
+      "lab_surface_brick_block4A2",
+      "lab_surface_brick_block4B2",
+      "lab_surface_brick_block4D2",
+      "lab_surface_brick_block4E2",
+      "lab_surface_brick_block4A3",
+      "lab_surface_brick_block4B3",
+      "lab_surface_brick_block4C3",
+      "lab_surface_brick_block4D3",
+      "lab_surface_brick_block4E3",
+      "lab_surface_brick_block4A4",
+      "lab_surface_brick_block4B4",
+      "lab_surface_brick_block4C4",
+      "lab_surface_brick_block4D4",
+      "lab_surface_brick_block4E4",
+      "lab_surface_brick_block5A2",
+      "lab_surface_brick_block5B2",
+      "lab_surface_brick_block5D2",
+      "lab_surface_brick_block5E2",
+      "lab_surface_brick_block5A3",
+      "lab_surface_brick_block5B3",
+      "lab_surface_brick_block5C3",
+      "lab_surface_brick_block5D3",
+      "lab_surface_brick_block5E3",
+      "lab_surface_brick_block5A4",
+      "lab_surface_brick_block5B4",
+      "lab_surface_brick_block5C4",
+      "lab_surface_brick_block5D4",
+      "lab_surface_brick_block5E4"
+    ],
     "fg": "big_building_light_gray"
   },
   {
-    "id": "lab_surface_brick_blockB2",
-    "fg": "big_building_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_blockC2",
-    "fg": "parking_dark_gray"
-  },
-  {
-    "id": "lab_surface_brick_blockD2",
-    "fg": "big_building_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_blockE2",
-    "fg": "big_building_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_blockA3",
-    "fg": "big_building_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_blockB3",
-    "fg": "big_building_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_blockC3",
-    "fg": "big_building_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_blockD3",
-    "fg": "big_building_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_blockE3",
-    "fg": "big_building_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_blockA4",
-    "fg": "big_building_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_blockB4",
-    "fg": "big_building_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_blockC4",
-    "fg": "big_building_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_blockD4",
-    "fg": "big_building_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_blockE4",
-    "fg": "big_building_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block2A0",
+    "id": [
+      "lab_surface_brick_block2A0",
+      "lab_surface_brick_block2B0",
+      "lab_surface_brick_block2C0",
+      "lab_surface_brick_block2D0",
+      "lab_surface_brick_block2E0",
+      "lab_surface_brick_block2A1",
+      "lab_surface_brick_block2B1",
+      "lab_surface_brick_block2C1",
+      "lab_surface_brick_block2D1",
+      "lab_surface_brick_block2E1",
+      "lab_surface_brick_block2C2",
+      "lab_surface_brick_block3A0",
+      "lab_surface_brick_block3B0",
+      "lab_surface_brick_block3C0",
+      "lab_surface_brick_block3D0",
+      "lab_surface_brick_block3E0",
+      "lab_surface_brick_block3A1",
+      "lab_surface_brick_block3B1",
+      "lab_surface_brick_block3C1",
+      "lab_surface_brick_block3D1",
+      "lab_surface_brick_block3E1",
+      "lab_surface_brick_block3C2",
+      "lab_surface_brick_block4A0",
+      "lab_surface_brick_block4B0",
+      "lab_surface_brick_block4C0",
+      "lab_surface_brick_block4D0",
+      "lab_surface_brick_block4E0",
+      "lab_surface_brick_block4A1",
+      "lab_surface_brick_block4B1",
+      "lab_surface_brick_block4C1",
+      "lab_surface_brick_block4D1",
+      "lab_surface_brick_block4E1",
+      "lab_surface_brick_block5A0",
+      "lab_surface_brick_block5B0",
+      "lab_surface_brick_block5C0",
+      "lab_surface_brick_block5D0",
+      "lab_surface_brick_block5E0",
+      "lab_surface_brick_block5A1",
+      "lab_surface_brick_block5B1",
+      "lab_surface_brick_block5C1",
+      "lab_surface_brick_block5D1",
+      "lab_surface_brick_block5E1",
+      "lab_surface_brick_block4C2",
+      "lab_surface_brick_block5C2"
+    ],
     "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block2B0",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block2C0",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block2D0",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block2E0",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block2A1",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block2B1",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block2C1",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block2D1",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block2E1",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block2A2",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block2B2",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block2C2",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block2D2",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block2E2",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block2A3",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block2B3",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block2C3",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block2D3",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block2E3",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block2A4",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block2B4",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block2C4",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block2D4",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block2E4",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block3A0",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block3B0",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block3C0",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block3D0",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block3E0",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block3A1",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block3B1",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block3C1",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block3D1",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block3E1",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block3A2",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block3B2",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block3C2",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block3D2",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block3E2",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block3A3",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block3B3",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block3C3",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block3D3",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block3E3",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block3A4",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block3B4",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block3C4",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block3D4",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block3E4",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block4A0",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block4B0",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block4C0",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block4D0",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block4E0",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block4A1",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block4B1",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block4C1",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block4D1",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block4E1",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block4A2",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block4B2",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block4C2",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block4D2",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block4E2",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block4A3",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block4B3",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block4C3",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block4D3",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block4E3",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block4A4",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block4B4",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block4C4",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block4D4",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block4E4",
-    "fg": "rock_light_gray"
-  },
-  {
-    "id": "lab_surface_brick_block5A0",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block5B0",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block5C0",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block5D0",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block5E0",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block5A1",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block5B1",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block5C1",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block5D1",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block5E1",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block5A2",
-    "fg": "big_building_light_blue"
-  },
-  {
-    "id": "lab_surface_brick_block5B2",
-    "fg": "big_building_light_blue"
-  },
-  {
-    "id": "lab_surface_brick_block5C2",
-    "fg": "open_air_blue"
-  },
-  {
-    "id": "lab_surface_brick_block5D2",
-    "fg": "big_building_light_blue"
-  },
-  {
-    "id": "lab_surface_brick_block5E2",
-    "fg": "big_building_light_blue"
-  },
-  {
-    "id": "lab_surface_brick_block5A3",
-    "fg": "big_building_light_blue"
-  },
-  {
-    "id": "lab_surface_brick_block5B3",
-    "fg": "big_building_light_blue"
-  },
-  {
-    "id": "lab_surface_brick_block5C3",
-    "fg": "big_building_light_blue"
-  },
-  {
-    "id": "lab_surface_brick_block5D3",
-    "fg": "big_building_light_blue"
-  },
-  {
-    "id": "lab_surface_brick_block5E3",
-    "fg": "big_building_light_blue"
-  },
-  {
-    "id": "lab_surface_brick_block5A4",
-    "fg": "big_building_light_blue"
-  },
-  {
-    "id": "lab_surface_brick_block5B4",
-    "fg": "big_building_light_blue"
-  },
-  {
-    "id": "lab_surface_brick_block5C4",
-    "fg": "big_building_light_blue"
-  },
-  {
-    "id": "lab_surface_brick_block5D4",
-    "fg": "big_building_light_blue"
-  },
-  {
-    "id": "lab_surface_brick_block5E4",
-    "fg": "big_building_light_blue"
   }
 ]
