@@ -7,10 +7,10 @@
       "id": "center",
       "animated": true,
       "fg": [
-        { "weight": 15, "sprite": [ "t_slope_down_1_unconnected", "t_slope_down_1_unconnected" ] },
-        { "weight": 15, "sprite": [ "t_slope_down_2_unconnected", "t_slope_down_2_unconnected" ] },
-        { "weight": 15, "sprite": [ "t_slope_down_3_unconnected", "t_slope_down_3_unconnected" ] },
-        { "weight": 15, "sprite": [ "t_slope_down_2_unconnected", "t_slope_down_2_unconnected" ] }
+        { "weight": 15, "sprite": [ "t_slope_down_1_center", "t_slope_down_1_center" ] },
+        { "weight": 15, "sprite": [ "t_slope_down_2_center", "t_slope_down_2_center" ] },
+        { "weight": 15, "sprite": [ "t_slope_down_3_center", "t_slope_down_3_center" ] },
+        { "weight": 15, "sprite": [ "t_slope_down_2_center", "t_slope_down_2_center" ] }
       ]
     },
     {
