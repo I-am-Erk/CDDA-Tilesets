@@ -1,0 +1,17 @@
+[
+  {
+    "id": [
+      "go",
+      "senet",
+      "shogi",
+      "mahjong",
+      "domino",
+      "hnefatafl",
+      "latrunculi",
+      "jackstraws",
+      "backgammon",
+      "chaturanga"
+    ],
+    "fg": "generic_game_set"
+  }
+]
