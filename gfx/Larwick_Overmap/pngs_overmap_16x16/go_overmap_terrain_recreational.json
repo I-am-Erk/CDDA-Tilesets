@@ -228,16 +228,15 @@
     "fg": "small_tree_light_green"
   },
   {
-    "id": "shootingrange_1a",
-    "fg": "big_building_red"
-  },
-  {
-    "id": "shootingrange_1a_roof",
-    "fg": "big_building_red"
+    "id": [
+      "shootingrange_1a",
+      "shootingrange_1a_roof"
+    ],
+    "fg": "blind_red"
   },
   {
     "id": "shootingrange_2a",
-    "fg": "big_building_red"
+    "fg": "square_brown"
   },
   {
     "id": "miniaturerailway_0_0_0",
