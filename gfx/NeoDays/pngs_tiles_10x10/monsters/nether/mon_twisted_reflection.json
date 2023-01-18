@@ -1,0 +1,7 @@
+{
+  "id": "mon_twisted_reflection",
+  "fg": [
+    { "weight": 50, "sprite": "mon_twisted_reflection1" },
+    { "weight": 50, "sprite": "mon_twisted_reflection2" }
+  ]
+}
