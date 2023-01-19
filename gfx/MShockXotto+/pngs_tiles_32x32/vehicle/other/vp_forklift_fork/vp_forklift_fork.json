@@ -1,7 +1,7 @@
 [
   {
-    "id": "vp_forklift_fork",
-    "fg": "vp_forklift_fork",
+    "id": ["vp_forklift_fork", "vp_forklift_fork_horizontal_front"],
+    "fg": [ "vp_forklift_fork_N", "vp_forklift_fork_W", "vp_forklift_fork_S", "vp_forklift_fork_E" ],
     "bg": [  ],
     "rotates": true,
     "multitile": true,
