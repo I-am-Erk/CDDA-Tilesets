@@ -23,6 +23,12 @@ The main thing that we want to keep from the previous tilesets is the anime/cart
 - Items should be roughly scaled to the character, meaning that small object like pens and box cutter should be 20x20 and big items like disconnected oven should be 32x32.
 - However, magnified items, like this 32x32 cooked meat sprite, are still okay for the sake of being easy to recognise and looking nice.
 
+  ## Grades of Steel
+
+  ![Grades of Steel](image/steel_palettes.png)
+
+  Use those palettes to differentiate the various grade of steel in items
+
 # Furnitures
 
 ![furnitures](image/furnitures.png)
