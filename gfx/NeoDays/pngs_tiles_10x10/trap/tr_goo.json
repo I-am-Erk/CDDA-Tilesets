@@ -1,0 +1,31 @@
+{
+  "id": "tr_goo",
+  "fg": "tr_goo_0",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "tr_goo_1"
+    },
+    {
+      "id": "corner",
+      "fg": "tr_goo_2"
+    },
+    {
+      "id": "edge",
+      "fg": "tr_goo_3"
+    },
+    {
+      "id": "end_piece",
+      "fg": "tr_goo_4"
+    },
+    {
+      "id": "t_connection",
+      "fg": "tr_goo_5"
+    },
+    {
+      "id": "unconnected",
+      "fg": "tr_goo_0"
+    }
+  ]
+}

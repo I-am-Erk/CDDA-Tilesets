@@ -1,0 +1,11 @@
+{
+  "id": [
+    "tr_snake",
+    "tr_glow",
+    "tr_hum",
+    "tr_shadow",
+    "fd_push_items",
+    "tr_drain"
+  ],
+  "fg": "tr_snake"
+}
