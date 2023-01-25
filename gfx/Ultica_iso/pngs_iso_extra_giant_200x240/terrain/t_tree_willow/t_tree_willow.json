@@ -33,6 +33,42 @@
     "id": "t_tree_willow_harvested_season_winter",
     "fg": "t_tree_willow_harvested_winter",
     "bg": "snow_shallow_extra_giant"
+  },
+
+  {
+    "id": "t_tree_willow_transparent_season_spring",
+    "fg": "t_tree_willow_spring_transparent",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_willow_transparent_season_summer",
+    "fg": "t_tree_willow_summer_transparent",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_willow_transparent_season_autumn",
+    "fg": "t_tree_willow_autumn_transparent",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_willow_transparent_season_winter",
+    "fg": "t_tree_willow_winter_transparent",
+    "bg": "snow_shallow_extra_giant"
+  }, 
+  
+  {
+    "id": "t_tree_willow_harvested_transparent_season_spring",
+    "fg": "t_tree_willow_harvested_spring_transparent",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_willow_harvested_transparent_season_summer",
+    "fg": "t_tree_willow_harvested_summer_transparent",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_willow_harvested_transparent_season_autumn",
+    "fg": "t_tree_willow_harvested_autumn_transparent",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_willow_harvested_transparent_season_winter",
+    "fg": "t_tree_willow_harvested_winter_transparent",
+    "bg": "snow_shallow_extra_giant"
   }
 
 ]
