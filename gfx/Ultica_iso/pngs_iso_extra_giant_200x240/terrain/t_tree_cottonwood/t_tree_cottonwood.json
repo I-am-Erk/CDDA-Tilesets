@@ -1,4 +1,4 @@
-[
+[ 
   {
     "id": "t_tree_cottonwood_season_spring",
     "fg": "t_tree_cottonwood_spring",
@@ -12,8 +12,54 @@
     "fg": "t_tree_cottonwood_autumn",
     "bg": "t_grass_autumn_extra_giant"
   }, {
-    "id": "t_tree_cottonwood_season_winter",
+    "id": [ "t_tree_cottonwood_season_winter", "t_tree_cottonwood_harvested_season_winter" ],
     "fg": "t_tree_cottonwood_winter",
     "bg": "snow_shallow_extra_giant"
-  }
+  },
+  
+  {
+    "id": "t_tree_cottonwood_harvested_season_spring",
+    "fg": "t_tree_cottonwood_harvested_spring",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_cottonwood_harvested_season_summer",
+    "fg": "t_tree_cottonwood_harvested_summer",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_cottonwood_harvested_season_autumn",
+    "fg": "t_tree_cottonwood_harvested_autumn",
+    "bg": "t_grass_autumn_extra_giant"
+  }, 
+  
+  {
+    "id": "t_tree_cottonwood_transparent_season_spring",
+    "fg": "t_tree_cottonwood_spring_transparent",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_cottonwood_transparent_season_summer",
+    "fg": "t_tree_cottonwood_summer_transparent",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_cottonwood_transparent_season_autumn",
+    "fg": "t_tree_cottonwood_autumn_transparent",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": [ "t_tree_cottonwood_transparent_season_winter", "t_tree_cottonwood_harvested_transparent_season_winter" ],
+    "fg": "t_tree_cottonwood_winter_transparent",
+    "bg": "snow_shallow_extra_giant"
+  },
+  
+  {
+    "id": "t_tree_cottonwood_harvested_transparent_season_spring",
+    "fg": "t_tree_cottonwood_harvested_spring_transparent",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_cottonwood_harvested_transparent_season_summer",
+    "fg": "t_tree_cottonwood_harvested_summer_transparent",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_cottonwood_harvested_transparent_season_autumn",
+    "fg": "t_tree_cottonwood_harvested_autumn_transparent",
+    "bg": "t_grass_autumn_extra_giant"
+  }  
 ]
