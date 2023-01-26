@@ -1,19 +1,45 @@
 [
   {
-    "id": "t_tree_basswood",
+    "id": "t_tree_basswood_season_spring",
     "fg": "t_tree_basswood_spring",
     "bg": "t_grass_extra_giant"
   }, {
-    "id": "t_tree_basswood_season_summer",
+    "id": "t_tree_basswood_harvested_season_spring",
+    "fg": "t_tree_basswood_harvested_spring",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": [ "t_tree_basswood_season_summer", "t_tree_basswood_harvested_season_summer" ],
     "fg": "t_tree_basswood_summer",
     "bg": "t_grass_summer_extra_giant"
   }, {
-    "id": "t_tree_basswood_season_autumn",
+    "id": [ "t_tree_basswood_season_autumn", "t_tree_basswood_harvested_season_autumn" ],
     "fg": "t_tree_basswood_autumn",
     "bg": "t_grass_autumn_extra_giant"
   }, {
-    "id": "t_tree_basswood_season_winter",
+    "id": [ "t_tree_basswood_season_winter", "t_tree_basswood_harvested_season_winter" ],
     "fg": "t_tree_basswood_winter",
+    "bg": "snow_shallow_extra_giant"
+  },
+  
+  {
+    "id": "t_tree_basswood_transparent_season_spring",
+    "fg": "t_tree_basswood_spring_transparent",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_basswood_harvested_transparent_season_spring",
+    "fg": "t_tree_basswood_harvested_spring_transparent",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": [ "t_tree_basswood_transparent_season_summer", "t_tree_basswood_harvested_transparent_season_summer" ],
+    "fg": "t_tree_basswood_summer_transparent",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": [ "t_tree_basswood_transparent_season_autumn", "t_tree_basswood_harvested_transparent_season_autumn" ],
+    "fg": "t_tree_basswood_autumn_transparent",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": [ "t_tree_basswood_transparent_season_winter", "t_tree_basswood_harvested_transparent_season_winter" ],
+    "fg": "t_tree_basswood_winter_transparent",
     "bg": "snow_shallow_extra_giant"
   }
 ]
