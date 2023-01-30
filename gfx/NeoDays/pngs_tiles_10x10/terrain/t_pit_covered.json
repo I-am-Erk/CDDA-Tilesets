@@ -1,0 +1,8 @@
+{
+  "id": [
+    "t_pit_covered",
+    "t_pit_glass_covered",
+    "t_pit_spiked_covered"
+  ],
+  "fg": "t_pit_covered"
+}
