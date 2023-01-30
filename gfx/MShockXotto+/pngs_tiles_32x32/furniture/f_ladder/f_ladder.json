@@ -1,12 +1,25 @@
-{
-  "id": "f_ladder",
-  "animated": true,
-  "fg": [
-    { "weight": 15, "sprite": "f_ladder_1" },
-    { "weight": 15, "sprite": "f_ladder_2" },
-    { "weight": 15, "sprite": "f_ladder_3" },
-    { "weight": 15, "sprite": "f_ladder_2" }
-  ],
-  "bg": [
-  ]
-}
+[
+  {
+    "id": "f_ladder",
+    "animated": true,
+    "fg": [
+      { "weight": 15, "sprite": "f_ladder_1" },
+      { "weight": 15, "sprite": "f_ladder_2" },
+      { "weight": 15, "sprite": "f_ladder_3" },
+      { "weight": 15, "sprite": "f_ladder_2" }
+    ],
+    "bg": [  ]
+  },
+  {
+    "id": "f_aluminum_stepladder",
+    "animated": true,
+    "fg": [
+      { "weight": 15, "sprite": "f_aluminum_stepladder_1" },
+      { "weight": 15, "sprite": "f_aluminum_stepladder_2" },
+      { "weight": 15, "sprite": "f_aluminum_stepladder_3" },
+      { "weight": 15, "sprite": "f_aluminum_stepladder_2" }
+    ],
+    "bg": [  ]
+  }
+]
+

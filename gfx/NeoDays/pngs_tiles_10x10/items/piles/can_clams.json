@@ -1,0 +1,28 @@
+{
+  "id": [
+    "can_clams",
+    "can_chowder",
+    "rehydrated_fish",
+    "milk_powder",
+    "dry_rice",
+    "rice_cooked",
+    "beansnrice",
+    "yeast",
+    "bfipowder",
+    "morphine",
+    "sushi_rice",
+    "coke",
+    "meth",
+    "poppy_sleep",
+    "poppy_pain",
+    "lye_powder",
+    "detergent",
+    "chem_aluminium_sulphate",
+    "chem_ammonium_nitrate",
+    "chem_saltpetre",
+    "chem_rdx",
+    "material_quicklime",
+    "chem_hmtd"
+  ],
+  "fg": "can_clams"
+}

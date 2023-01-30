@@ -1,0 +1,34 @@
+{
+  "id": [
+    "t_pit_spiked",
+    "tr_spike_pit"
+  ],
+  "fg": "t_pit_spiked_0",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_pit_spiked_1"
+    },
+    {
+      "id": "corner",
+      "fg": "t_pit_spiked_2"
+    },
+    {
+      "id": "edge",
+      "fg": "t_pit_spiked_3"
+    },
+    {
+      "id": "end_piece",
+      "fg": "t_pit_spiked_4"
+    },
+    {
+      "id": "t_connection",
+      "fg": "t_pit_spiked_5"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_pit_spiked_0"
+    }
+  ]
+}

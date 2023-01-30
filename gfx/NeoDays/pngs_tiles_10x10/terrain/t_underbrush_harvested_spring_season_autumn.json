@@ -1,0 +1,9 @@
+{
+  "id": [
+    "t_underbrush_harvested_spring_season_autumn",
+    "t_underbrush_harvested_summer_season_autumn",
+    "t_underbrush_harvested_autumn_season_autumn",
+    "t_underbrush_harvested_winter_season_autumn"
+  ],
+  "fg": "t_underbrush_harvested_spring_season_autumn"
+}
