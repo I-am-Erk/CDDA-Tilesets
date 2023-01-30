@@ -1,0 +1,9 @@
+{
+  "id": [
+    "t_card_science",
+    "t_card_military",
+    "t_card_robofac",
+    "t_card_artisans"
+  ],
+  "fg": "t_card_science"
+}
