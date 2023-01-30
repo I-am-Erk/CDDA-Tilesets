@@ -1,4 +1,4 @@
-[
+[ 
   {
     "id": "t_tree_pear_season_spring",
     "fg": "t_tree_pear_spring",
@@ -9,11 +9,65 @@
     "bg": "t_grass_summer_extra_giant"
   }, {
     "id": "t_tree_pear_season_autumn",
-    "fg": "t_tree_pear_autumn",
+    "fg": "t_tree_pear_autumn_yield",
     "bg": "t_grass_autumn_extra_giant"
   }, {
     "id": "t_tree_pear_season_winter",
     "fg": "t_tree_pear_winter",
     "bg": "snow_shallow_extra_giant"
-  }
+  },
+  
+  {
+    "id": "t_tree_pear_harvested_season_spring",
+    "fg": "t_tree_pear_spring",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_pear_harvested_season_summer",
+    "fg": "t_tree_pear_summer",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_pear_harvested_season_autumn",
+    "fg": "t_tree_pear_autumn",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_pear_harvested_season_winter",
+    "fg": "t_tree_pear_winter",
+    "bg": "snow_shallow_extra_giant"
+  },
+  
+  {
+    "id": "t_tree_pear_transparent_season_spring",
+    "fg": "t_tree_pear_spring_transparent",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_pear_transparent_season_summer",
+    "fg": "t_tree_pear_summer_transparent",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_pear_transparent_season_autumn",
+    "fg": "t_tree_pear_autumn_yield_transparent",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_pear_transparent_season_winter",
+    "fg": "t_tree_pear_winter_transparent",
+    "bg": "snow_shallow_extra_giant"
+  },
+  
+  {
+    "id": "t_tree_pear_harvested_transparent_season_spring",
+    "fg": "t_tree_pear_spring_transparent",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_pear_harvested_transparent_season_summer",
+    "fg": "t_tree_pear_summer_transparent",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_pear_harvested_transparent_season_autumn",
+    "fg": "t_tree_pear_autumn_transparent",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_pear_harvested_transparent_season_winter",
+    "fg": "t_tree_pear_winter_transparent",
+    "bg": "snow_shallow_extra_giant"
+  }  
 ]
