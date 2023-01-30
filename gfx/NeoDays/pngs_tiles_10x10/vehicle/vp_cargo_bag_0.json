@@ -1,1 +1,0 @@
-{"id": "vp_cargo_bag", "fg": ["154_t_fungus_floor_sup_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["vp_broken_gray"], "bg": []}], "bg": []}
