@@ -1,6 +1,6 @@
-[
+[ 
   {
-    "id": "t_tree_coffee",
+    "id": "t_tree_coffee_season_spring",
     "fg": "t_tree_coffee_spring",
     "bg": "t_grass_extra_giant"
   }, {
@@ -9,11 +9,65 @@
     "bg": "t_grass_summer_extra_giant"
   }, {
     "id": "t_tree_coffee_season_autumn",
-    "fg": "t_tree_coffee_autumn",
+    "fg": "t_tree_coffee_autumn_yield",
     "bg": "t_grass_autumn_extra_giant"
   }, {
     "id": "t_tree_coffee_season_winter",
     "fg": "t_tree_coffee_winter",
     "bg": "snow_shallow_extra_giant"
-  }
+  },
+  
+  {
+    "id": "t_tree_coffee_harvested_season_spring",
+    "fg": "t_tree_coffee_spring",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_coffee_harvested_season_summer",
+    "fg": "t_tree_coffee_summer",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_coffee_harvested_season_autumn",
+    "fg": "t_tree_coffee_autumn",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_coffee_harvested_season_winter",
+    "fg": "t_tree_coffee_winter",
+    "bg": "snow_shallow_extra_giant"
+  },
+  
+  {
+    "id": "t_tree_coffee_transparent_season_spring",
+    "fg": "t_tree_coffee_spring_transparent",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_coffee_transparent_season_summer",
+    "fg": "t_tree_coffee_summer_transparent",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_coffee_transparent_season_autumn",
+    "fg": "t_tree_coffee_autumn_yield_transparent",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_coffee_transparent_season_winter",
+    "fg": "t_tree_coffee_winter_transparent",
+    "bg": "snow_shallow_extra_giant"
+  },
+  
+  {
+    "id": "t_tree_coffee_harvested_transparent_season_spring",
+    "fg": "t_tree_coffee_spring_transparent",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_coffee_harvested_transparent_season_summer",
+    "fg": "t_tree_coffee_summer_transparent",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_coffee_harvested_transparent_season_autumn",
+    "fg": "t_tree_coffee_autumn_transparent",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_coffee_harvested_transparent_season_winter",
+    "fg": "t_tree_coffee_winter_transparent",
+    "bg": "snow_shallow_extra_giant"
+  }  
 ]
