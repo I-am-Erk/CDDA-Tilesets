@@ -1,0 +1,10 @@
+{
+  "id": "mon_zeinonychus_shady",
+  "fg": [
+    "mon_zeinonychus_shady"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}

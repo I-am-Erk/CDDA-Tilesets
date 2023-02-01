@@ -1,0 +1,10 @@
+{
+  "id": "mon_stenonychosaurus",
+  "fg": [
+    "mon_stenonychosaurus"
+  ],
+  "bg": [
+    "bg_shadow_normal"
+  ],
+  "rotates": false
+}
