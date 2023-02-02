@@ -1,10 +1,7 @@
 {
   "id": [
     "silver_necklace",
-    "silver_locket",
-    "platinum_necklace",
-    "platinum_locket",
-    "pearl_collar"
+    "silver_locket"
   ],
   "fg": "silver_necklace"
 }
