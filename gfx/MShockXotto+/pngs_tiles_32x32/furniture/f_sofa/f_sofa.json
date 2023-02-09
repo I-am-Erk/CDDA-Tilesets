@@ -1,0 +1,17 @@
+{
+  "id": "f_sofa",
+  "fg": [
+    "f_sofa_0"
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "unconnected", "fg": [ "f_sofa_0" ], "bg": [  ] },
+    { "id": "corner", "fg": [ "f_sofa_1" ], "bg": [  ] },
+    { "id": "edge", "fg": [ "f_sofa_2" ], "bg": [  ] },
+    { "id": "end_piece", "fg": [ "f_sofa_3" ], "bg": [  ] }
+  ],
+  "bg": [
+    
+  ]
+}
