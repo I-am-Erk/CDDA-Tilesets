@@ -1,5 +1,12 @@
-{
-  "id": ["t_window_reinforced", "t_window_reinforced_noglass"],
-  "fg": "t_window_reinforced",
-  "bg": "t_window"
-}
+[
+  {
+    "id": "t_window_reinforced",
+    "fg": "t_window_reinforced",
+    "bg": "t_window"
+  },
+  {
+    "id": "t_window_reinforced_noglass",
+    "fg": "t_window_reinforced",
+    "bg": "t_window_empty"
+  }
+]

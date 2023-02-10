@@ -1,0 +1,11 @@
+[
+  {
+    "id": "f_safe_c",
+    "fg": "f_safe_c"
+  },
+  {
+    "id": "f_safe_l",
+    "fg": "pickable",
+    "bg": "f_safe_c"
+  }
+]
