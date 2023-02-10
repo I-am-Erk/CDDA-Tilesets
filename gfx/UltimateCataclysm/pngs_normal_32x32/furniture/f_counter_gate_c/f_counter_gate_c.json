@@ -1,10 +1,10 @@
 [
   {
     "id": "f_counter_gate_c",
-    "fg": "f_counter_gate_c_rot_NS",
+    "fg": "f_counter_gate_c_rot_EW",
     "multitile": true,
     "additional_tiles": [
-      { "id": "center", "fg": "f_counter_gate_c_rot_NS" },
+      { "id": "center", "fg": "f_counter_gate_c_rot_EW" },
       {
         "id": "t_connection",
         "fg": [ "f_counter_gate_c_rot_NS", "f_counter_gate_c_rot_EW", "f_counter_gate_c_rot_NS", "f_counter_gate_c_rot_EW" ]

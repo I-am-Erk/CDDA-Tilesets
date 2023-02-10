@@ -1,0 +1,11 @@
+[
+  {
+    "id": "f_gunsafe_c",
+    "fg": "f_gunsafe_c"
+  },
+  {
+    "id": "f_gunsafe_ml",
+    "fg": "pickable_large",
+    "bg": "f_gunsafe_c"
+  }
+]
