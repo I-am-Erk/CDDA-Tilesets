@@ -3,8 +3,9 @@
     "id": "t_pavement",
     "fg": [ ],
     "bg": [
-        { "weight": 15, "sprite": "t_pavement" },
+        { "weight": 50, "sprite": "t_pavement" },
         { "weight": 1, "sprite": "t_pavement_1" },
-        { "weight": 2, "sprite": "t_pavement_2" }
+        { "weight": 2, "sprite": "t_pavement_2" },
+        { "weight": 2, "sprite": "t_pavement_3" }
     ]
   }
