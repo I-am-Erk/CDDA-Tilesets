@@ -1,7 +1,8 @@
 [
   {
     "id": "clear",
-    "fg": "clear_light"
+    "fg": "clear_light",
+    "bg": []
   },
   {
     "id": "cloudy",
