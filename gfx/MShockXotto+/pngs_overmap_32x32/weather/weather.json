@@ -5,7 +5,7 @@
     "bg": []
   },
   {
-    "id": "unknown",
+    "id": "weather_unknown",
     "fg": "unknown_weather",
     "bg": []
   },
