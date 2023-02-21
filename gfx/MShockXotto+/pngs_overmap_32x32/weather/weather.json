@@ -35,6 +35,11 @@
     "bg": [ "clear_dark" ]
   },
   {
+    "id": "rainstorm",
+    "fg": "rainstorm",
+    "bg": [ "clear_dark" ]
+  },
+  {
     "id": "thunder",
     "fg": "thunder",
     "bg": [ "clear_dark" ]
