@@ -5,6 +5,11 @@
     "bg": []
   },
   {
+    "id": "null",
+    "fg": "unknown_weather",
+    "bg": []
+  },
+  {
     "id": "cloudy",
     "fg": "cloudy",
     "bg": [ "clear_light" ]
