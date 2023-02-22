@@ -1,0 +1,11 @@
+[
+  {
+    "id": "f_sand_castle",
+    "fg": [
+      { "weight": 1, "sprite": "f_sand_castle_0" },
+      { "weight": 1, "sprite": "f_sand_castle_1" },
+      { "weight": 1, "sprite": "f_sand_castle_2" }
+    ],
+    "bg": [  ]
+  }
+]
