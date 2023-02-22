@@ -1,0 +1,13 @@
+{
+  "id": [
+    "wand_cone_cold_lesser",
+    "wand_fireball_lesser",
+    "wand_hoaryblast_lesser",
+    "wand_improved_knock_lesser",
+    "wand_knock_lesser",
+    "wand_magic_missile_lesser",
+    "wand_mana_beam_lesser",
+    "wand_point_flare_lesser"
+  ],
+  "fg": "wand_lesser"
+}
