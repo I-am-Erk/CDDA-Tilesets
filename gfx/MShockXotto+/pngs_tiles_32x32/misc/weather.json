@@ -4,5 +4,13 @@
     "fg": [ "984_weather_snowflake_0" ],
     "rotates": false,
     "bg": [  ]
+  },
+  {
+    "id": "weather_rain_drop",
+    "fg": [
+      { "weight": 1, "sprite": "weather_rain_drop" },
+      { "weight": 10, "sprite": "weather_rain_drop_1" }
+    ],
+    "bg": [  ]
   }
 ]
