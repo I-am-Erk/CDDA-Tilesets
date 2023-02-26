@@ -12,6 +12,10 @@
     "fg": "t_window_bars"
   },
   {
+    "id": "t_window_empty",
+    "fg": "t_window_empty"
+  },
+  {
     "id": "t_window_bars_alarm",
     "fg": "armed_trap",
     "bg": "t_window_bars"
