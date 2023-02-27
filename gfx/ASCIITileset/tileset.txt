@@ -1,0 +1,7 @@
+NAME: ASCIITiles_all
+#Viewing (Option) name of the tileset
+VIEW: ASCIITiles ALL
+#JSON Path - Default of gfx/tile_config.json
+JSON: tile_config.json
+#Tileset Path - Default of gfx/tinytile.png
+TILESET: ASCIITiles.png
