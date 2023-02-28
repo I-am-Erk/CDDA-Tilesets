@@ -89,6 +89,10 @@ jobs:
             artifact: Altica
             tileset_dir: gfx/Altica
             compose_args: --use-all --obsolete-fillers
+          - name: ASCII_Overmap
+            artifact: ASCII_Overmap
+            tileset_dir: gfx/ASCII_Overmap
+            compose_args: --use-all
           - name: BrownLikeBears
             artifact: BrownLikeBears
             tileset_dir: gfx/BrownLikeBears
