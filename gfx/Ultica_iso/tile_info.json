@@ -222,24 +222,6 @@
     }
   },
   {
-    "giant.png": { 
-      "sprite_width": 96,
-      "sprite_height": 96,
-      "sprite_offset_x": -24,
-      "sprite_offset_y": -72,
-      "filler": true
-    }
-  },
-  {
-    "fillergiant.png": { 
-      "sprite_width": 96,
-      "sprite_height": 96,
-      "sprite_offset_x": -24,
-      "sprite_offset_y": -72,
-      "filler": true
-    }
-  },
-  {
     "fallback.png": {
       "fallback": true
     }
