@@ -1,0 +1,5 @@
+{
+  "id": "t_rock_floor",
+  "fg": "t_rock_floor",
+  "//": "needed due to t_floor_warped"
+}

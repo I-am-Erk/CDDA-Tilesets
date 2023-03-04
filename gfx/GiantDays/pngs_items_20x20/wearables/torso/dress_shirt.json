@@ -1,0 +1,8 @@
+{
+  "id": [
+    "dress_shirt",
+    "striped_shirt"
+  ],
+  "fg": "dress_shirt",
+  "//": "striped shirt should be different"
+}

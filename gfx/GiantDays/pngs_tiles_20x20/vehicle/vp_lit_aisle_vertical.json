@@ -1,0 +1,15 @@
+{
+  "id": [
+    "vp_lit_aisle_vertical",
+    "vp_aisle_lights"
+  ],
+  "fg": "vp_lit_aisle_vertical",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_gray"
+    }
+  ]
+}

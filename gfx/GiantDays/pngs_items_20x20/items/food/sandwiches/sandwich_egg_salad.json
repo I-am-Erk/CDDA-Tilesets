@@ -1,0 +1,11 @@
+{
+  "id": [
+    "sandwich_egg_salad",
+    "sandwich_egg_salad_wheat_free",
+    "fried_egg_sandwich",
+    "fried_egg_sandwich_wheat_free",
+    "deluxe_fried_egg_sandwich",
+    "deluxe_fried_egg_sandwich_wheat_free"
+  ],
+  "fg": "sandwich_egg_salad"
+}

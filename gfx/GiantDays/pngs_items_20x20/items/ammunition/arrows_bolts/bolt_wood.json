@@ -1,0 +1,11 @@
+{
+  "id": [
+    "bolt_wood",
+    "bolt_wood_bodkin",
+    "bolt_simple_wood",
+    "bolt_makeshift",
+    "arrow_fire_hardened_fletched",
+    "arrow_heavy_fire_hardened_fletched"
+  ],
+  "fg": "bolt_wood"
+}

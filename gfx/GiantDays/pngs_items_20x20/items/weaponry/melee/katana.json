@@ -1,0 +1,23 @@
+{
+  "id": [
+    "katana",
+    "katana_inferior",
+    "tanto",
+    "wakizashi",
+    "wakizashi_inferior",
+    "kukri",
+    "cutlass",
+    "cutlass_inferior",
+    "nodachi",
+    "scimitar",
+    "scimitar_inferior",
+    "cavalry_sabre",
+    "katana_fake",
+    "wakizashi_fake",
+    "cutlass_fake",
+    "nodachi_fake",
+    "scimitar_fake",
+    "cavalry_sabre_fake"
+  ],
+  "fg": "katana"
+}

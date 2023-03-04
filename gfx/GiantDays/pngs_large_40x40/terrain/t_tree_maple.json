@@ -1,0 +1,20 @@
+{
+  "id": [
+    "t_tree_maple",
+    "t_tree_maple_season_spring",
+    "t_tree_hickory_season_spring",
+    "t_tree_hickory",
+    "t_tree_hickory_harvested_season_spring",
+    "t_tree_hickory_harvested",
+    "t_tree_almond_season_spring",
+    "t_tree_almond",
+    "t_tree_almond_harvested_season_spring",
+    "t_tree_almond_harvested",
+    "t_tree_pecan_season_spring",
+    "t_tree_pecan",
+    "t_tree_pecan_harvested_season_spring",
+    "t_tree_pecan_harvested",
+    "t_tree_blackjack_season_spring"
+  ],
+  "fg": "t_tree_maple"
+}

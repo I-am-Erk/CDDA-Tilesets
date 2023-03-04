@@ -1,0 +1,11 @@
+{
+  "id": [
+    "t_concrete",
+    "t_concrete_floor",
+    "t_flat_roof",
+    "t_strconc_floor",
+    "t_thconc_floor",
+    "t_railroad_rubble"
+  ],
+  "fg": "t_concrete"
+}

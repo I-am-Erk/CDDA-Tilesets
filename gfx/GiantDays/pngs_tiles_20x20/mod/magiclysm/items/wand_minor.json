@@ -1,0 +1,13 @@
+{
+  "id": [
+    "wand_cone_cold_minor",
+    "wand_fireball_minor",
+    "wand_hoaryblast_minor",
+    "wand_improved_knock_minor",
+    "wand_knock_minor",
+    "wand_magic_missile_minor",
+    "wand_mana_beam_minor",
+    "wand_point_flare_minor"
+  ],
+  "fg": "wand_minor"
+}

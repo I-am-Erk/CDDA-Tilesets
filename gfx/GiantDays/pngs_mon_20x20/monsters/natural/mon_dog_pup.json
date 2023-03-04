@@ -1,0 +1,18 @@
+{
+  "id": [
+    "mon_dog_pup",
+    "mon_dog_beagle_pup",
+    "mon_dog_bcollie_pup",
+    "mon_dog_boxer_pup",
+    "mon_dog_bull_pup",
+    "mon_dog_auscattle_pup",
+    "mon_dog_chihuahua_pup",
+    "mon_dog_dachshund_pup",
+    "mon_dog_gshepherd_pup",
+    "mon_dog_gpyrenees_pup",
+    "mon_dog_pitbullmix_pup",
+    "mon_dog_rottweiler_pup",
+    "mon_dog_samoyed_pup"
+  ],
+  "fg": "mon_dog_pup"
+}

@@ -1,0 +1,11 @@
+{
+  "id": [
+    "t_tree_birch_harvested_season_winter",
+    "t_tree_almond_season_winter",
+    "t_tree_almond_harvested_season_winter",
+    "t_tree_pecan_season_winter",
+    "t_tree_pecan_harvested_season_winter",
+    "t_tree_maple_season_winter"
+  ],
+  "fg": "t_tree_birch_harvested_season_winter"
+}

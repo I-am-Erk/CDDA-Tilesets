@@ -1,0 +1,8 @@
+{
+  "id": [
+    "tr_portal_dungeon_entrance",
+    "tr_portal_dungeon_exit",
+    "tr_portal_dungeon_next_level"
+  ],
+  "fg": "mon_vortex"
+}

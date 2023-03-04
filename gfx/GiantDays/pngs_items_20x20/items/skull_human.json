@@ -1,0 +1,21 @@
+{
+  "id": [
+    "skull_human",
+    "skull_pig",
+    "skull_bovine",
+    "skull_goat",
+    "skull_cervine",
+    "skull_sheep",
+    "skull_moose",
+    "skull_moose_tusked",
+    "skull_equine",
+    "skull_rodent",
+    "skull_canis_small",
+    "skull_canis_medium",
+    "skull_feline_small",
+    "etched_skull",
+    "skull_canis",
+    "helmet_skull"
+  ],
+  "fg": "skull_human"
+}

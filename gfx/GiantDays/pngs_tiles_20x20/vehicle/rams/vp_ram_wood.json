@@ -1,0 +1,5 @@
+{
+  "id": "vp_ram_wood",
+  "fg": [ "vp_ram_wood", "vp_ram_wood_left", "vp_ram_wood_down", "vp_ram_wood_right" ],
+  "rotates": true
+}

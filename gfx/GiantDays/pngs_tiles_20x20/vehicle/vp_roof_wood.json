@@ -1,0 +1,12 @@
+{
+  "id": "vp_roof_wood",
+  "fg": "vp_roof_wood",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_brown"
+    }
+  ]
+}

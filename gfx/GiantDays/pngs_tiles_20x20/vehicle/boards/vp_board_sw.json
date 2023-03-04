@@ -1,0 +1,21 @@
+{
+  "id": [
+    "vp_board_sw",
+    "vp_fxlhalfboard_sw",
+    "vp_clothboard_sw",
+    "vp_cloth_halfboard_sw",
+    "vp_xlhalfboard_sw",
+    "vp_halfboard_sw",
+    "vp_halfboard_hatch_wheel_left"
+  ],
+  "fg": "vp_board_sw",
+  "bg": "background_black",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_gray"
+    }
+  ]
+}

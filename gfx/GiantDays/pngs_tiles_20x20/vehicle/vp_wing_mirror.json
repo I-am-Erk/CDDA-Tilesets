@@ -1,0 +1,27 @@
+[
+  {
+    "id": "vp_inboard_mirror",
+    "fg": "vp_wing_mirror",
+    "bg": "background_black",
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "vp_windshield_broken"
+      }
+    ]
+  },
+  {
+    "id": "vp_wing_mirror",
+    "fg": "vp_wing_mirror",
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "vp_windshield_broken"
+      }
+    ]
+  }
+]

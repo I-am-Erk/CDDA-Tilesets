@@ -1,0 +1,17 @@
+{
+  "id": [
+    "vp_basketlg",
+    "vp_basketlg_cart",
+    "vp_basketlg_folding",
+    "vp_basketlg_external"
+  ],
+  "fg": "vp_basketlg",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_gray"
+    }
+  ]
+}

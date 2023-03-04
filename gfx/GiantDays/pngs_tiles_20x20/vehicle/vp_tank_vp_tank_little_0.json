@@ -1,0 +1,1 @@
+{"id": ["vp_tank", "vp_tank_little"], "fg": ["1185_metal_tank_small_0"], "rotates": false, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["vp_broken_red"], "bg": []}], "bg": []}

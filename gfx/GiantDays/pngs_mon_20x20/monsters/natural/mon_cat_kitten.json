@@ -1,0 +1,20 @@
+{
+  "id": [
+    "mon_cat_kitten",
+    "mon_cat_bengal_kitten",
+    "mon_cat_black_kitten",
+    "mon_cat_calico_kitten",
+    "mon_cat_devon_rex_kitten",
+    "mon_cat_mutant_kitten_prism",
+    "mon_cat_longhair_kitten",
+    "mon_cat_maine_coon_kitten",
+    "mon_cat_persian_kitten",
+    "mon_cat_siamese_kitten",
+    "mon_cat_sphynx_kitten",
+    "mon_cat_tabby_kitten",
+    "mon_cat_liquid_kitten",
+    "mon_cat_void_kitten",
+    "mon_cat_chonker_kitten"
+  ],
+  "fg": "mon_cat_kitten"
+}
