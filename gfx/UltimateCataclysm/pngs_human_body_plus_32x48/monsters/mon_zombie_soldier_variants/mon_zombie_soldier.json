@@ -15,5 +15,15 @@
       "corpse_mon_zombie_military_pilot" 
     ],
     "fg": "corpse_mon_zombie_soldier"
+  },
+  {
+    "id": "mon_zombie_milbase_personnel",
+    "fg": "mon_zombie_milbase_personnel",
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_zombie_marine",
+    "fg": "mon_zombie_marine",
+    "bg": "shadow_32x48_normal"
   }
 ]

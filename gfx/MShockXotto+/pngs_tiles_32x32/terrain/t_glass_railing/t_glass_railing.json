@@ -12,7 +12,7 @@
         "t_glass_railing_corner_se",
         "t_glass_railing_corner_ne"
       ],
-      "bg": "985_t_backboard_1"
+      "bg": "t_pavement"
     },
     {
       "id": "t_connection",
@@ -22,7 +22,7 @@
         "t_glass_railing_t_connection_s",
         "t_glass_railing_t_connection_e"
       ],
-      "bg": "985_t_backboard_1"
+      "bg": "t_pavement"
     },
     {
       "id": "edge",
@@ -30,7 +30,7 @@
         "t_glass_railing_edge_ns",
         "t_glass_railing_edge_ew"
       ],
-      "bg": "985_t_backboard_1"
+      "bg": "t_pavement"
     },
     {
       "id": "end_piece",
@@ -40,7 +40,7 @@
         "t_glass_railing_end_piece_s",
         "t_glass_railing_end_piece_e"
       ],
-      "bg": "985_t_backboard_1"
+      "bg": "t_pavement"
     },
     {
       "id": "unconnected",
@@ -48,7 +48,7 @@
         "t_glass_railing_unconnected",
         "t_glass_railing_unconnected"
       ],
-      "bg": "985_t_backboard_1"
+      "bg": "t_pavement"
     }
   ]
 }

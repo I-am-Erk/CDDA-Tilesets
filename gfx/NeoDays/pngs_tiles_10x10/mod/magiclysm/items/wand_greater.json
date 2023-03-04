@@ -1,0 +1,13 @@
+{
+  "id": [
+    "wand_cone_cold_greater",
+    "wand_fireball_greater",
+    "wand_hoaryblast_greater",
+    "wand_improved_knock_greater",
+    "wand_knock_greater",
+    "wand_magic_missile_greater",
+    "wand_mana_beam_greater",
+    "wand_point_flare_greater"
+  ],
+  "fg": "wand_greater"
+}

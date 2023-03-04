@@ -7,7 +7,7 @@
     {
       "id": "center",
       "fg": "t_metal_railing_unconnected",
-      "bg": "985_t_backboard_1"
+      "bg": "t_pavement"
     },
     {
       "id": "corner",
@@ -17,7 +17,7 @@
         "t_metal_railing_corner_se",
         "t_metal_railing_corner_ne"
       ],
-      "bg": "985_t_backboard_1"
+      "bg": "t_pavement"
     },
     {
       "id": "t_connection",
@@ -27,7 +27,7 @@
         "t_metal_railing_unconnected",
         "t_metal_railing_edge_ns"
       ],
-      "bg": "985_t_backboard_1"
+      "bg": "t_pavement"
     },
     {
       "id": "edge",
@@ -35,7 +35,7 @@
         "t_metal_railing_edge_ns",
         "t_metal_railing_unconnected"
       ],
-      "bg": "985_t_backboard_1"
+      "bg": "t_pavement"
     },
     {
       "id": "end_piece",
@@ -45,7 +45,7 @@
         "t_metal_railing_end_piece_s",
         "t_metal_railing_unconnected"
       ],
-      "bg": "985_t_backboard_1"
+      "bg": "t_pavement"
     },
     {
       "id": "unconnected",
@@ -53,7 +53,7 @@
         "t_metal_railing_unconnected",
         "t_metal_railing_unconnected"
       ],
-      "bg": "985_t_backboard_1"
+      "bg": "t_pavement"
     }
   ]
 }

@@ -1,1 +1,1 @@
-{"id": "t_radio_tower", "fg": ["3166_t_radio_tower_0"], "bg": ["985_t_backboard_1"], "multitile": true, "additional_tiles": [{"id": "center", "fg": ["3167_t_radio_tower_2"], "bg": ["985_t_backboard_1"]}]}
+{"id": "t_radio_tower", "fg": ["3166_t_radio_tower_0"], "bg": ["t_pavement"], "multitile": true, "additional_tiles": [{"id": "center", "fg": ["3167_t_radio_tower_2"], "bg": ["t_pavement"]}]}

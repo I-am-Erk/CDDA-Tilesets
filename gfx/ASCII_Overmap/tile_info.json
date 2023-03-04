@@ -1,0 +1,12 @@
+[
+  {
+    "height": 10,
+    "width": 10
+  },
+  {
+    "ASCIITiles.png": { "//": "indices 0 to 4175" }
+  },
+  {
+    "fallback.png": { "fallback": true }
+  }
+]
