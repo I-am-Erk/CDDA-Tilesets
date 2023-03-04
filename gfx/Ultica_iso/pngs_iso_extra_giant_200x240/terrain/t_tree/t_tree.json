@@ -1,6 +1,6 @@
-[
+[ 
   {
-    "id": "t_tree",
+    "id": "t_tree_season_spring",
     "fg": "t_tree_spring",
     "bg": "t_grass_extra_giant"
   }, {
@@ -9,11 +9,65 @@
     "bg": "t_grass_summer_extra_giant"
   }, {
     "id": "t_tree_season_autumn",
-    "fg": "t_tree_autumn",
+    "fg": "t_tree_autumn_yield",
     "bg": "t_grass_autumn_extra_giant"
   }, {
     "id": "t_tree_season_winter",
     "fg": "t_tree_winter",
     "bg": "snow_shallow_extra_giant"
-  }
+  },
+  
+  {
+    "id": "t_tree_harvested_season_spring",
+    "fg": "t_tree_spring",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_harvested_season_summer",
+    "fg": "t_tree_summer",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_harvested_season_autumn",
+    "fg": "t_tree_autumn",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_harvested_season_winter",
+    "fg": "t_tree_winter",
+    "bg": "snow_shallow_extra_giant"
+  },
+  
+  {
+    "id": "t_tree_transparent_season_spring",
+    "fg": "t_tree_spring_transparent",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_transparent_season_summer",
+    "fg": "t_tree_summer_transparent",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_transparent_season_autumn",
+    "fg": "t_tree_autumn_yield_transparent",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_transparent_season_winter",
+    "fg": "t_tree_winter_transparent",
+    "bg": "snow_shallow_extra_giant"
+  },
+  
+  {
+    "id": "t_tree_harvested_transparent_season_spring",
+    "fg": "t_tree_spring_transparent",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_harvested_transparent_season_summer",
+    "fg": "t_tree_summer_transparent",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_harvested_transparent_season_autumn",
+    "fg": "t_tree_autumn_transparent",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_harvested_transparent_season_winter",
+    "fg": "t_tree_winter_transparent",
+    "bg": "snow_shallow_extra_giant"
+  }  
 ]

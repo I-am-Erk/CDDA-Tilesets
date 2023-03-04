@@ -1,6 +1,6 @@
-[
+[ 
   {
-    "id": "t_tree_beech",
+    "id": "t_tree_beech_season_spring",
     "fg": "t_tree_beech_spring",
     "bg": "t_grass_extra_giant"
   }, {
@@ -9,11 +9,65 @@
     "bg": "t_grass_summer_extra_giant"
   }, {
     "id": "t_tree_beech_season_autumn",
-    "fg": "t_tree_beech_autumn",
+    "fg": "t_tree_beech_yield_autumn",
     "bg": "t_grass_autumn_extra_giant"
   }, {
     "id": "t_tree_beech_season_winter",
     "fg": "t_tree_beech_winter",
     "bg": "snow_shallow_extra_giant"
-  }
+  },
+  
+  {
+    "id": "t_tree_beech_harvested_season_spring",
+    "fg": "t_tree_beech_spring",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_beech_harvested_season_summer",
+    "fg": "t_tree_beech_summer",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_beech_harvested_season_autumn",
+    "fg": "t_tree_beech_autumn",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_beech_harvested_season_winter",
+    "fg": "t_tree_beech_winter",
+    "bg": "snow_shallow_extra_giant"
+  },
+  
+  {
+    "id": "t_tree_beech_transparent_season_spring",
+    "fg": "t_tree_beech_spring_transparent",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_beech_transparent_season_summer",
+    "fg": "t_tree_beech_summer_transparent",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_beech_transparent_season_autumn",
+    "fg": "t_tree_beech_yield_autumn_transparent",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_beech_transparent_season_winter",
+    "fg": "t_tree_beech_winter_transparent",
+    "bg": "snow_shallow_extra_giant"
+  },
+  
+  {
+    "id": "t_tree_beech_harvested_transparent_season_spring",
+    "fg": "t_tree_beech_spring_transparent",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_beech_harvested_transparent_season_summer",
+    "fg": "t_tree_beech_summer_transparent",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_beech_harvested_transparent_season_autumn",
+    "fg": "t_tree_beech_autumn_transparent",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_beech_harvested_transparent_season_winter",
+    "fg": "t_tree_beech_winter_transparent",
+    "bg": "snow_shallow_extra_giant"
+  }  
 ]

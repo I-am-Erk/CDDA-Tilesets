@@ -1,11 +1,11 @@
-[
+[ 
   {
     "id": "t_tree_plum_season_spring",
     "fg": "t_tree_plum_spring",
     "bg": "t_grass_extra_giant"
   }, {
     "id": "t_tree_plum_season_summer",
-    "fg": "t_tree_plum_summer",
+    "fg": "t_tree_plum_summer_yield",
     "bg": "t_grass_summer_extra_giant"
   }, {
     "id": "t_tree_plum_season_autumn",
@@ -15,5 +15,59 @@
     "id": "t_tree_plum_season_winter",
     "fg": "t_tree_plum_winter",
     "bg": "snow_shallow_extra_giant"
-  }
+  },
+  
+  {
+    "id": "t_tree_plum_harvested_season_spring",
+    "fg": "t_tree_plum_spring",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_plum_harvested_season_summer",
+    "fg": "t_tree_plum_summer",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_plum_harvested_season_autumn",
+    "fg": "t_tree_plum_autumn",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_plum_harvested_season_winter",
+    "fg": "t_tree_plum_winter",
+    "bg": "snow_shallow_extra_giant"
+  },
+  
+  {
+    "id": "t_tree_plum_transparent_season_spring",
+    "fg": "t_tree_plum_spring_transparent",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_plum_transparent_season_summer",
+    "fg": "t_tree_plum_summer_yield_transparent",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_plum_transparent_season_autumn",
+    "fg": "t_tree_plum_autumn_transparent",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_plum_transparent_season_winter",
+    "fg": "t_tree_plum_winter_transparent",
+    "bg": "snow_shallow_extra_giant"
+  },
+  
+  {
+    "id": "t_tree_plum_harvested_transparent_season_spring",
+    "fg": "t_tree_plum_spring_transparent",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_plum_harvested_transparent_season_summer",
+    "fg": "t_tree_plum_summer_transparent",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_plum_harvested_transparent_season_autumn",
+    "fg": "t_tree_plum_autumn_transparent",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_plum_harvested_transparent_season_winter",
+    "fg": "t_tree_plum_winter_transparent",
+    "bg": "snow_shallow_extra_giant"
+  }  
 ]

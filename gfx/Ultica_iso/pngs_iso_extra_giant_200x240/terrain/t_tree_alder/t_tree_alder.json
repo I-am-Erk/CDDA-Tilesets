@@ -1,6 +1,6 @@
-[
+[ 
   {
-    "id": "t_tree_alder",
+    "id": "t_tree_alder_season_spring",
     "fg": "t_tree_alder_spring",
     "bg": "t_grass_extra_giant"
   }, {
@@ -15,5 +15,60 @@
     "id": "t_tree_alder_season_winter",
     "fg": "t_tree_alder_winter",
     "bg": "snow_shallow_extra_giant"
+  },
+  
+  {
+    "id": "t_tree_alder_harvested_season_spring",
+    "fg": "t_tree_alder_harvested_spring",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_alder_harvested_season_summer",
+    "fg": "t_tree_alder_harvested_summer",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_alder_harvested_season_autumn",
+    "fg": "t_tree_alder_harvested_autumn",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_alder_harvested_season_winter",
+    "fg": "t_tree_alder_harvested_winter",
+    "bg": "snow_shallow_extra_giant"
+  },
+  
+  {
+    "id": "t_tree_alder_transparent_season_spring",
+    "fg": "t_tree_alder_spring_transparent",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_alder_transparent_season_summer",
+    "fg": "t_tree_alder_summer_transparent",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_alder_transparent_season_autumn",
+    "fg": "t_tree_alder_autumn_transparent",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_alder_transparent_season_winter",
+    "fg": "t_tree_alder_winter_transparent",
+    "bg": "snow_shallow_extra_giant"
+  },
+  
+  {
+    "id": "t_tree_alder_harvested_transparent_season_spring",
+    "fg": "t_tree_alder_harvested_spring_transparent",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_alder_harvested_transparent_season_summer",
+    "fg": "t_tree_alder_harvested_summer_transparent",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_alder_harvested_transparent_season_autumn",
+    "fg": "t_tree_alder_harvested_autumn_transparent",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_alder_harvested_transparent_season_winter",
+    "fg": "t_tree_alder_harvested_winter_transparent",
+    "bg": "snow_shallow_extra_giant"
   }
+
 ]
