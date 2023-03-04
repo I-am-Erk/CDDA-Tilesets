@@ -1,6 +1,6 @@
-[
+[ 
   {
-    "id": "t_tree_maple",
+    "id": "t_tree_maple_season_spring",
     "fg": "t_tree_maple_spring",
     "bg": "t_grass_extra_giant"
   }, {
@@ -15,5 +15,59 @@
     "id": "t_tree_maple_season_winter",
     "fg": "t_tree_maple_winter",
     "bg": "snow_shallow_extra_giant"
-  }
+  },
+  
+  {
+    "id": "t_tree_maple_tapped_season_spring",
+    "fg": "t_tree_maple_tapped_spring",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_maple_tapped_season_summer",
+    "fg": "t_tree_maple_tapped_summer",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_maple_tapped_season_autumn",
+    "fg": "t_tree_maple_tapped_autumn",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_maple_tapped_season_winter",
+    "fg": "t_tree_maple_tapped_winter",
+    "bg": "snow_shallow_extra_giant"
+  },
+  
+  {
+    "id": "t_tree_maple_transparent_season_spring",
+    "fg": "t_tree_maple_spring_transparent",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_maple_transparent_season_summer",
+    "fg": "t_tree_maple_summer_transparent",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_maple_transparent_season_autumn",
+    "fg": "t_tree_maple_autumn_transparent",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_maple_transparent_season_winter",
+    "fg": "t_tree_maple_winter_transparent",
+    "bg": "snow_shallow_extra_giant"
+  },
+  
+  {
+    "id": "t_tree_maple_tapped_transparent_season_spring",
+    "fg": "t_tree_maple_tapped_spring_transparent",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_maple_tapped_transparent_season_summer",
+    "fg": "t_tree_maple_tapped_summer_transparent",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_maple_tapped_transparent_season_autumn",
+    "fg": "t_tree_maple_tapped_autumn_transparent",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_maple_tapped_transparent_season_winter",
+    "fg": "t_tree_maple_tapped_winter_transparent",
+    "bg": "snow_shallow_extra_giant"
+  }  
 ]
