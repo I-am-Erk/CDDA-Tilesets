@@ -5,11 +5,11 @@
     "bg": "t_grass_extra_giant"
   }, {
     "id": "t_tree_cherry_season_summer",
-    "fg": "t_tree_cherry_summer",
+    "fg": "t_tree_cherry_summer_yield",
     "bg": "t_grass_summer_extra_giant"
   }, {
     "id": "t_tree_cherry_season_autumn",
-    "fg": "t_tree_cherry_autumn_yield",
+    "fg": "t_tree_cherry_autumn",
     "bg": "t_grass_autumn_extra_giant"
   }, {
     "id": "t_tree_cherry_season_winter",
@@ -41,11 +41,11 @@
     "bg": "t_grass_extra_giant"
   }, {
     "id": "t_tree_cherry_transparent_season_summer",
-    "fg": "t_tree_cherry_summer_transparent",
+    "fg": "t_tree_cherry_summer_yield_transparent",
     "bg": "t_grass_summer_extra_giant"
   }, {
     "id": "t_tree_cherry_transparent_season_autumn",
-    "fg": "t_tree_cherry_autumn_yield_transparent",
+    "fg": "t_tree_cherry_autumn_transparent",
     "bg": "t_grass_autumn_extra_giant"
   }, {
     "id": "t_tree_cherry_transparent_season_winter",
