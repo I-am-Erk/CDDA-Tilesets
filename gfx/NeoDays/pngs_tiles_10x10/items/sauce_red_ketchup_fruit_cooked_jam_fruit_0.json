@@ -1,1 +1,20 @@
-{"id": ["sauce_red", "ketchup", "fruit_cooked", "jam_fruit"], "fg": ["953_sauce_red_0"], "rotates": false, "bg": []}
+{
+    "id": [
+        "sauce_red",
+        "ketchup",
+        "fruit_cooked",
+        "jam_fruit"
+    ],
+    "fg": [
+        {
+            "weight": 1,
+            "sprite": "sauce_red_0"
+        },
+        {
+            "weight": 1,
+            "sprite": "sauce_red_1"
+        }
+    ],
+    "rotates": false,
+    "bg": []
+}
