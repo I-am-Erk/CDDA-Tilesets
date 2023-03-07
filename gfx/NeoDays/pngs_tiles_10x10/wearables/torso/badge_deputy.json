@@ -1,0 +1,10 @@
+{
+  "id": [
+    "badge_deputy",
+    "badge_marshal",
+    "badge_detective",
+    "badge_cybercop",
+    "badge_swat"
+  ],
+  "fg": "badge_deputy"
+}
