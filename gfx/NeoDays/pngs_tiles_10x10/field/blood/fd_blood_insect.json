@@ -1,0 +1,20 @@
+{
+  "id": [
+    "fd_blood_insect",
+    "fd_gibs_insect"
+  ],
+  "fg": [
+    {
+      "weight": 3,
+      "sprite": "fd_blood_insect"
+    },
+    {
+      "weight": 1,
+      "sprite": "fd_blood_insect_2"
+    },
+    {
+      "weight": 1,
+      "sprite": "fd_blood_insect_3"
+    }
+  ]
+}
