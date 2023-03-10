@@ -1,27 +1,5 @@
 [
   {
-      "id": "t_grass",
-      "fg": [
-        { "weight": 5, "sprite": "t_grass_00" },
-        { "weight": 5, "sprite": "t_grass_01" },
-        { "weight": 5, "sprite": "t_grass_02" },
-        { "weight": 5, "sprite": "t_grass_03" },
-        { "weight": 5, "sprite": "t_grass_04" },
-        { "weight": 5, "sprite": "t_grass_05" },
-        { "weight": 5, "sprite": "t_grass_06" },
-        { "weight": 5, "sprite": "t_grass_07" },
-        { "weight": 5, "sprite": "t_grass_08" },
-        { "weight": 5, "sprite": "t_grass_09" },
-        { "weight": 5, "sprite": "t_grass_10" },
-        { "weight": 5, "sprite": "t_grass_11" },
-        { "weight": 5, "sprite": "t_grass_12" },
-        { "weight": 5, "sprite": "t_grass_13" },
-        { "weight": 5, "sprite": "t_grass_14" },
-        { "weight": 5, "sprite": "t_grass_15" }
-      ],
-      "bg": ""
-  },
-  {
       "id": "t_grass_season_winter",
       "fg": [
         { "weight": 5, "sprite": "t_grass_winter_00" },

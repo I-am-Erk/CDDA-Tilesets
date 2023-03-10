@@ -1,27 +1,5 @@
 [  
   {
-      "id": "t_grass_long",
-      "fg": [
-        { "weight": 5, "sprite": "t_grass_long_00" },
-        { "weight": 5, "sprite": "t_grass_long_01" },
-        { "weight": 5, "sprite": "t_grass_long_02" },
-        { "weight": 5, "sprite": "t_grass_long_03" },
-        { "weight": 5, "sprite": "t_grass_long_04" },
-        { "weight": 5, "sprite": "t_grass_long_05" },
-        { "weight": 5, "sprite": "t_grass_long_06" },
-        { "weight": 5, "sprite": "t_grass_long_07" },
-        { "weight": 5, "sprite": "t_grass_long_08" },
-        { "weight": 5, "sprite": "t_grass_long_09" },
-        { "weight": 5, "sprite": "t_grass_long_10" },
-        { "weight": 5, "sprite": "t_grass_long_11" },
-        { "weight": 5, "sprite": "t_grass_long_12" },
-        { "weight": 5, "sprite": "t_grass_long_13" },
-        { "weight": 5, "sprite": "t_grass_long_14" },
-        { "weight": 5, "sprite": "t_grass_long_15" }
-      ],
-      "bg": ""
-  },
-  {
       "id": "t_grass_long_season_winter",
       "fg": [
         { "weight": 5, "sprite": "t_grass_long_winter_00" },
