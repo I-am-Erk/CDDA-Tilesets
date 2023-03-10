@@ -1,22 +1,112 @@
-{
-    "id": "t_grass_long",
-    "fg": [
-      { "weight": 5, "sprite": "t_grass_long_00" },
-      { "weight": 5, "sprite": "t_grass_long_01" },
-      { "weight": 5, "sprite": "t_grass_long_02" },
-      { "weight": 5, "sprite": "t_grass_long_03" },
-      { "weight": 5, "sprite": "t_grass_long_04" },
-      { "weight": 5, "sprite": "t_grass_long_05" },
-      { "weight": 5, "sprite": "t_grass_long_06" },
-      { "weight": 5, "sprite": "t_grass_long_07" },
-      { "weight": 5, "sprite": "t_grass_long_08" },
-      { "weight": 5, "sprite": "t_grass_long_09" },
-      { "weight": 5, "sprite": "t_grass_long_10" },
-      { "weight": 5, "sprite": "t_grass_long_11" },
-      { "weight": 5, "sprite": "t_grass_long_12" },
-      { "weight": 5, "sprite": "t_grass_long_13" },
-      { "weight": 5, "sprite": "t_grass_long_14" },
-      { "weight": 5, "sprite": "t_grass_long_15" }
-    ],
-    "bg": ""
-}
+[  
+  {
+      "id": "t_grass_long",
+      "fg": [
+        { "weight": 5, "sprite": "t_grass_long_00" },
+        { "weight": 5, "sprite": "t_grass_long_01" },
+        { "weight": 5, "sprite": "t_grass_long_02" },
+        { "weight": 5, "sprite": "t_grass_long_03" },
+        { "weight": 5, "sprite": "t_grass_long_04" },
+        { "weight": 5, "sprite": "t_grass_long_05" },
+        { "weight": 5, "sprite": "t_grass_long_06" },
+        { "weight": 5, "sprite": "t_grass_long_07" },
+        { "weight": 5, "sprite": "t_grass_long_08" },
+        { "weight": 5, "sprite": "t_grass_long_09" },
+        { "weight": 5, "sprite": "t_grass_long_10" },
+        { "weight": 5, "sprite": "t_grass_long_11" },
+        { "weight": 5, "sprite": "t_grass_long_12" },
+        { "weight": 5, "sprite": "t_grass_long_13" },
+        { "weight": 5, "sprite": "t_grass_long_14" },
+        { "weight": 5, "sprite": "t_grass_long_15" }
+      ],
+      "bg": ""
+  },
+  {
+      "id": "t_grass_long_season_winter",
+      "fg": [
+        { "weight": 5, "sprite": "t_grass_long_winter_00" },
+        { "weight": 5, "sprite": "t_grass_long_winter_01" },
+        { "weight": 5, "sprite": "t_grass_long_winter_02" },
+        { "weight": 5, "sprite": "t_grass_long_winter_03" },
+        { "weight": 5, "sprite": "t_grass_long_winter_04" },
+        { "weight": 5, "sprite": "t_grass_long_winter_05" },
+        { "weight": 5, "sprite": "t_grass_long_winter_06" },
+        { "weight": 5, "sprite": "t_grass_long_winter_07" },
+        { "weight": 5, "sprite": "t_grass_long_winter_08" },
+        { "weight": 5, "sprite": "t_grass_long_winter_09" },
+        { "weight": 5, "sprite": "t_grass_long_winter_10" },
+        { "weight": 5, "sprite": "t_grass_long_winter_11" },
+        { "weight": 5, "sprite": "t_grass_long_winter_12" },
+        { "weight": 5, "sprite": "t_grass_long_winter_13" },
+        { "weight": 5, "sprite": "t_grass_long_winter_14" },
+        { "weight": 5, "sprite": "t_grass_long_winter_15" }
+      ],
+      "bg": ""
+  },
+  {
+      "id": "t_grass_long_season_spring",
+      "fg": [
+        { "weight": 5, "sprite": "t_grass_long_spring_00" },
+        { "weight": 5, "sprite": "t_grass_long_spring_01" },
+        { "weight": 5, "sprite": "t_grass_long_spring_02" },
+        { "weight": 5, "sprite": "t_grass_long_spring_03" },
+        { "weight": 5, "sprite": "t_grass_long_spring_04" },
+        { "weight": 5, "sprite": "t_grass_long_spring_05" },
+        { "weight": 5, "sprite": "t_grass_long_spring_06" },
+        { "weight": 5, "sprite": "t_grass_long_spring_07" },
+        { "weight": 5, "sprite": "t_grass_long_spring_08" },
+        { "weight": 5, "sprite": "t_grass_long_spring_09" },
+        { "weight": 5, "sprite": "t_grass_long_spring_10" },
+        { "weight": 5, "sprite": "t_grass_long_spring_11" },
+        { "weight": 5, "sprite": "t_grass_long_spring_12" },
+        { "weight": 5, "sprite": "t_grass_long_spring_13" },
+        { "weight": 5, "sprite": "t_grass_long_spring_14" },
+        { "weight": 5, "sprite": "t_grass_long_spring_15" }
+      ],
+      "bg": ""
+  },
+  {
+      "id": "t_grass_long_season_summer",
+      "fg": [
+        { "weight": 5, "sprite": "t_grass_long_summer_00" },
+        { "weight": 5, "sprite": "t_grass_long_summer_01" },
+        { "weight": 5, "sprite": "t_grass_long_summer_02" },
+        { "weight": 5, "sprite": "t_grass_long_summer_03" },
+        { "weight": 5, "sprite": "t_grass_long_summer_04" },
+        { "weight": 5, "sprite": "t_grass_long_summer_05" },
+        { "weight": 5, "sprite": "t_grass_long_summer_06" },
+        { "weight": 5, "sprite": "t_grass_long_summer_07" },
+        { "weight": 5, "sprite": "t_grass_long_summer_08" },
+        { "weight": 5, "sprite": "t_grass_long_summer_09" },
+        { "weight": 5, "sprite": "t_grass_long_summer_10" },
+        { "weight": 5, "sprite": "t_grass_long_summer_11" },
+        { "weight": 5, "sprite": "t_grass_long_summer_12" },
+        { "weight": 5, "sprite": "t_grass_long_summer_13" },
+        { "weight": 5, "sprite": "t_grass_long_summer_14" },
+        { "weight": 5, "sprite": "t_grass_long_summer_15" }
+      ],
+      "bg": ""
+  },
+  {
+      "id": "t_grass_long_season_autumn",
+      "fg": [
+        { "weight": 5, "sprite": "t_grass_long_autumn_00" },
+        { "weight": 5, "sprite": "t_grass_long_autumn_01" },
+        { "weight": 5, "sprite": "t_grass_long_autumn_02" },
+        { "weight": 5, "sprite": "t_grass_long_autumn_03" },
+        { "weight": 5, "sprite": "t_grass_long_autumn_04" },
+        { "weight": 5, "sprite": "t_grass_long_autumn_05" },
+        { "weight": 5, "sprite": "t_grass_long_autumn_06" },
+        { "weight": 5, "sprite": "t_grass_long_autumn_07" },
+        { "weight": 5, "sprite": "t_grass_long_autumn_08" },
+        { "weight": 5, "sprite": "t_grass_long_autumn_09" },
+        { "weight": 5, "sprite": "t_grass_long_autumn_10" },
+        { "weight": 5, "sprite": "t_grass_long_autumn_11" },
+        { "weight": 5, "sprite": "t_grass_long_autumn_12" },
+        { "weight": 5, "sprite": "t_grass_long_autumn_13" },
+        { "weight": 5, "sprite": "t_grass_long_autumn_14" },
+        { "weight": 5, "sprite": "t_grass_long_autumn_15" }
+      ],
+      "bg": ""
+  }
+]
