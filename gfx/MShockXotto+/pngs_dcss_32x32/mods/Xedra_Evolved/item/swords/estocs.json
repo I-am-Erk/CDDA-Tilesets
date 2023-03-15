@@ -3,10 +3,5 @@
     "id": "mirror_march_estoc",
     "fg": [ "rapier2" ],
     "bg": [  ]
-  },
-  {
-    "id": "winter_lord_estoc",
-    "fg": [ "rapier3" ],
-    "bg": [  ]
   }
 ]
