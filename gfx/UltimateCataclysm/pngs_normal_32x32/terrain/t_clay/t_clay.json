@@ -1,6 +1,6 @@
 [
   {
-    "id": "t_clay",
+    "id": [ "t_clay", "t_clay_underground" ],
     "multitile": true,
     "fg": "t_clay_unconnected",
     "bg": "t_grass",

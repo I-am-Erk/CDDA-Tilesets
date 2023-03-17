@@ -40,7 +40,7 @@
     "bg": "t_wall_metal_edge_ew"
   },
   {
-    "id": "t_elevator_control",
+    "id": [ "t_elevator_control", "t_elevator_control_robofac_up", "t_elevator_control_robofac_down" ],
     "fg": "t_elevator_control",
     "bg": "t_thconc_floor_center"
   },

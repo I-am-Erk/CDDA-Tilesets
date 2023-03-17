@@ -1,19 +1,27 @@
 [
-{
-  "id": "t_dirtmound",
-  "fg": "t_dirtmound",
-  "bg": "t_grass"
-},{
-  "id": "t_dirtmound_season_summer",
-  "fg": "t_dirtmound",
-  "bg": "t_grass_summer"
-},{
-  "id": "t_dirtmound_season_autumn",
-  "fg": "t_dirtmound",
-  "bg": "t_grass_autumn"
-},{
-  "id": "t_dirtmound_season_winter",
-  "fg": "t_dirtmound_season_winter",
-  "bg": ""
-}
+  {
+    "id": "t_dirtmound",
+    "fg": "t_dirtmound",
+    "bg": "t_grass"
+  },
+  {
+    "id": "t_dirtmound_season_summer",
+    "fg": "t_dirtmound",
+    "bg": "t_grass_summer"
+  },
+  {
+    "id": "t_dirtmound_season_autumn",
+    "fg": "t_dirtmound",
+    "bg": "t_grass_autumn"
+  },
+  {
+    "id": "t_dirtmound_season_winter",
+    "fg": "t_dirtmound_season_winter",
+    "bg": ""
+  },
+  {
+    "id": "t_claymound_underground",
+    "fg": "t_dirtmound",
+    "bg": "t_water_dp_center"
+  }
 ]
