@@ -1,0 +1,21 @@
+[
+  {
+    "id": "t_door_frame",
+    "fg": "t_door_frame"
+  },
+  {
+    "id": "t_door_c",
+    "fg": "t_door_c",
+    "bg": "t_door_frame"
+  },
+  {
+    "id": "t_door_o",
+    "fg": "t_door_o",
+    "bg": "t_door_frame"
+  },
+  {
+    "id": "t_door_b",
+    "fg": "t_door_b",
+    "bg": "t_door_frame"
+  }
+]

@@ -2,16 +2,16 @@
   {
     "id": "t_rdoor_c",
     "fg": "t_rdoor_c",
-    "bg": ""
+    "bg": "t_door_frame"
   },
   {
     "id": "t_rdoor_o",
     "fg": "t_rdoor_o",
-    "bg": ""
+    "bg": "t_door_frame"
   },
   {
     "id": "t_rdoor_b",
     "fg": "t_rdoor_b",
-    "bg": ""
+    "bg": "t_door_frame"
   }
 ]
