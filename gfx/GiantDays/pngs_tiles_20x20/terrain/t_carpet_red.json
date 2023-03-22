@@ -1,8 +1,0 @@
-{
-  "id": [
-    "t_carpet_red",
-    "t_floor_red"
-  ],
-  "//": "separate 't_floor_red' to be consistent with other generic colored floors",
-  "fg": "t_carpet_red"
-}
