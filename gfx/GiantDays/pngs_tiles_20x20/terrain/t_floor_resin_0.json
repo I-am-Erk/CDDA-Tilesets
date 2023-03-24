@@ -1,1 +1,9 @@
-{"id": "t_floor_resin", "fg": ["3001_t_floor_resin_0"], "rotates": false, "bg": []}
+{
+  "id": "t_floor_resin",
+  "fg": [
+    { "weight": 100, "sprite": "3001_t_floor_resin_0" },
+    { "weight": 100, "sprite": "3001_t_floor_resin_1" }
+  ],
+  "rotates": false,
+  "bg": []
+}
