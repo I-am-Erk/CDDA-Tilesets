@@ -1,0 +1,1 @@
+Modified from https://github.com/crawl/tiles/blob/master/releases/Nov-2015/item/weapon/bullwhip.png
