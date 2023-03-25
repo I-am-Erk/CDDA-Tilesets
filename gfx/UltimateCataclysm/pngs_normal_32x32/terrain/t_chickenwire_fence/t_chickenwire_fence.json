@@ -1,0 +1,226 @@
+[
+  {
+    "id": "t_chickenwire_fence",
+    "fg": "t_chickenwire_fence_unconnected",
+    "bg": "t_grass",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "center",
+        "fg": "t_chickenwire_fence_center",
+        "bg": "t_grass"
+      },
+      {
+        "id": "corner",
+        "fg": [
+          "t_chickenwire_fence_corner_nw",
+          "t_chickenwire_fence_corner_sw",
+          "t_chickenwire_fence_corner_se",
+          "t_chickenwire_fence_corner_ne"
+        ],
+        "bg": "t_grass"
+      },
+      {
+        "id": "t_connection",
+        "fg": [
+          "t_chickenwire_fence_t_connection_n",
+          "t_chickenwire_fence_t_connection_w",
+          "t_chickenwire_fence_t_connection_s",
+          "t_chickenwire_fence_t_connection_e"
+        ],
+        "bg": "t_grass"
+      },
+      {
+        "id": "edge",
+        "fg": [
+          "t_chickenwire_fence_edge_ns",
+          "t_chickenwire_fence_edge_ew"
+        ],
+        "bg": "t_grass"
+      },
+      {
+        "id": "end_piece",
+        "fg": [
+          "t_chickenwire_fence_end_piece_n",
+          "t_chickenwire_fence_end_piece_w",
+          "t_chickenwire_fence_end_piece_s",
+          "t_chickenwire_fence_end_piece_e"
+        ],
+        "bg": "t_grass"
+      },
+      {
+        "id": "unconnected",
+        "fg": "t_chickenwire_fence_unconnected",
+        "bg": "t_grass"
+      }
+    ]
+  },
+  {
+    "id": "t_chickenwire_fence_summer_season",
+    "fg": "t_chickenwire_fence_unconnected",
+    "bg": "t_grass_summer",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "center",
+        "fg": "t_chickenwire_fence_center",
+        "bg": "t_grass_summer"
+      },
+      {
+        "id": "corner",
+        "fg": [
+          "t_chickenwire_fence_corner_nw",
+          "t_chickenwire_fence_corner_sw",
+          "t_chickenwire_fence_corner_se",
+          "t_chickenwire_fence_corner_ne"
+        ],
+        "bg": "t_grass_summer"
+      },
+      {
+        "id": "t_connection",
+        "fg": [
+          "t_chickenwire_fence_t_connection_n",
+          "t_chickenwire_fence_t_connection_w",
+          "t_chickenwire_fence_t_connection_s",
+          "t_chickenwire_fence_t_connection_e"
+        ],
+        "bg": "t_grass_summer"
+      },
+      {
+        "id": "edge",
+        "fg": [
+          "t_chickenwire_fence_edge_ns",
+          "t_chickenwire_fence_edge_ew"
+        ],
+        "bg": "t_grass_summer"
+      },
+      {
+        "id": "end_piece",
+        "fg": [
+          "t_chickenwire_fence_end_piece_n",
+          "t_chickenwire_fence_end_piece_w",
+          "t_chickenwire_fence_end_piece_s",
+          "t_chickenwire_fence_end_piece_e"
+        ],
+        "bg": "t_grass_summer"
+      },
+      {
+        "id": "unconnected",
+        "fg": "t_chickenwire_fence_unconnected",
+        "bg": "t_grass_summer"
+      }
+    ]
+  },
+  {
+    "id": "t_chickenwire_fence_season_autumn",
+    "fg": "t_chickenwire_fence_unconnected",
+    "bg": "t_grass_autumn",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "center",
+        "fg": "t_chickenwire_fence_center",
+        "bg": "t_grass_autumn"
+      },
+      {
+        "id": "corner",
+        "fg": [
+          "t_chickenwire_fence_corner_nw",
+          "t_chickenwire_fence_corner_sw",
+          "t_chickenwire_fence_corner_se",
+          "t_chickenwire_fence_corner_ne"
+        ],
+        "bg": "t_grass_autumn"
+      },
+      {
+        "id": "t_connection",
+        "fg": [
+          "t_chickenwire_fence_t_connection_n",
+          "t_chickenwire_fence_t_connection_w",
+          "t_chickenwire_fence_t_connection_s",
+          "t_chickenwire_fence_t_connection_e"
+        ],
+        "bg": "t_grass_autumn"
+      },
+      {
+        "id": "edge",
+        "fg": [
+          "t_chickenwire_fence_edge_ns",
+          "t_chickenwire_fence_edge_ew"
+        ],
+        "bg": "t_grass_autumn"
+      },
+      {
+        "id": "end_piece",
+        "fg": [
+          "t_chickenwire_fence_end_piece_n",
+          "t_chickenwire_fence_end_piece_w",
+          "t_chickenwire_fence_end_piece_s",
+          "t_chickenwire_fence_end_piece_e"
+        ],
+        "bg": "t_grass_autumn"
+      },
+      {
+        "id": "unconnected",
+        "fg": "t_chickenwire_fence_unconnected",
+        "bg": "t_grass_autumn"
+      }
+    ]
+  },
+  {
+    "id": "t_chickenwire_fence_season_winter",
+    "fg": "t_chickenwire_fence_unconnected",
+    "bg": "snow_shallow_center",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "center",
+        "fg": "t_chickenwire_fence_center",
+        "bg": "snow_shallow_center"
+      },
+      {
+        "id": "corner",
+        "fg": [
+          "t_chickenwire_fence_corner_nw",
+          "t_chickenwire_fence_corner_sw",
+          "t_chickenwire_fence_corner_se",
+          "t_chickenwire_fence_corner_ne"
+        ],
+        "bg": "snow_shallow_center"
+      },
+      {
+        "id": "t_connection",
+        "fg": [
+          "t_chickenwire_fence_t_connection_n",
+          "t_chickenwire_fence_t_connection_w",
+          "t_chickenwire_fence_t_connection_s",
+          "t_chickenwire_fence_t_connection_e"
+        ],
+        "bg": "snow_shallow_center"
+      },
+      {
+        "id": "edge",
+        "fg": [
+          "t_chickenwire_fence_edge_ns",
+          "t_chickenwire_fence_edge_ew"
+        ],
+        "bg": "snow_shallow_center"
+      },
+      {
+        "id": "snow_shallow_center",
+        "fg": [
+          "t_chickenwire_fence_end_piece_n",
+          "t_chickenwire_fence_end_piece_w",
+          "t_chickenwire_fence_end_piece_s",
+          "t_chickenwire_fence_end_piece_e"
+        ],
+        "bg": "snow_shallow_center"
+      },
+      {
+        "id": "unconnected",
+        "fg": "t_chickenwire_fence_unconnected",
+        "bg": "snow_shallow_center"
+      }
+    ]
+  }
+]

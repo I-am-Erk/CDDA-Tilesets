@@ -1,0 +1,12 @@
+{
+  "id": "t_wooden_well",
+  "fg": "t_wooden_well",
+  "bg": "t_grass_large",
+  "multitile": true,
+  "rotates": false,
+  "additional_tiles": [
+    { "id": "season_summer", "fg": "t_wooden_well", "bg": "t_grass_summer_large" },
+    { "id": "season_autumn", "fg": "t_wooden_well", "bg": "t_grass_autumn_large" },
+    { "id": "season_winter", "fg": "t_wooden_well", "bg": "snow_shallow_large" }
+  ]
+}
