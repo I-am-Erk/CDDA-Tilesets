@@ -1,11 +1,22 @@
 [
   {
     "id": ["t_ramp_up_low", "t_ramp_down_low"],
-    "fg": "t_pavement",
-    "bg": ""
-  }, {
-    "id": [ "t_sidewalk_ramp_up_low", "t_sidewalk_ramp_down_low" ],
-    "fg": "t_sidewalk_center",
-    "bg": ""
+    "fg": "t_pavement"
+  },
+  {
+    "id": [ "t_concrete_ramp_up_high", "t_sidewalk_ramp_up_high" ],
+    "fg": "t_concrete_ramp_up_high"
+  },
+  {
+    "id": [ "t_concrete_ramp_up_low", "t_sidewalk_ramp_up_low" ],
+    "fg": "t_concrete_ramp_up_low"
+  },
+  {
+    "id": [ "t_concrete_ramp_down_high", "t_sidewalk_ramp_down_high" ],
+    "fg": "t_concrete_ramp_down_high"
+  },
+  {
+    "id": [ "t_concrete_ramp_down_low", "t_sidewalk_ramp_down_low" ],
+    "fg": "t_concrete_ramp_down_low"
   }
 ]

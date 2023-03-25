@@ -1,0 +1,12 @@
+{
+  "id": "t_palisade_gate",
+  "fg": "t_palisade_gate",
+  "bg": "t_grass",
+  "multitile": true,
+  "rotates": false,
+  "additional_tiles": [
+    { "id": "season_summer", "fg": "t_palisade_gate", "bg": "t_grass_summer" },
+    { "id": "season_autumn", "fg": "t_palisade_gate", "bg": "t_grass_autumn" },
+    { "id": "season_winter", "fg": "t_palisade_gate", "bg": "snow_shallow_center" }
+  ]
+}
