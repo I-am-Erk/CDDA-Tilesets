@@ -76,7 +76,7 @@
     ]
   },
   {
-    "id": "t_moss_season_autumn",
+    "id": [ "t_moss_season_autumn", "t_moss_underground" ],
     "multitile": true,
     "fg": "t_moss_autumn_unconnected",
     "bg": "t_grass_autumn_center",
