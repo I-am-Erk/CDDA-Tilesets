@@ -1,8 +1,5 @@
 {
   "id": "mon_llama",
-  "fg": [
-    { "weight": 1, "sprite": "mon_llama" },
-    { "weight": 1, "sprite": "mon_llama2" }
-  ],
+  "fg": "mon_llama",
   "bg": "shadow_64x64_medium"
 }
