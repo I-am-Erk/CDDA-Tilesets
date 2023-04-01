@@ -197,7 +197,7 @@
       "sprite_width": 32,
       "sprite_height": 36,
       "sprite_offset_x": -8,
-      "sprite_offset_y": -60,
+      "sprite_offset_y": -56,
       "pixelscale": 2,
       "filler": true
     }
