@@ -1,12 +1,22 @@
-{
-  "id": "t_bamboo_tall",
-  "multitile": true,
-  "rotates": false,
-  "fg": "t_bamboo_tall",
-  "bg": "t_grass_tall",
-  "additional_tiles": [
-    { "id": "season_summer", "fg": "t_bamboo_tall", "bg": "t_grass_summer_tall" },
-    { "id": "season_autumn", "fg": "t_bamboo_tall", "bg": "t_grass_autumn_tall" },
-    { "id": "season_winter", "fg": "t_bamboo_tall_winter", "bg": "snow_shallow_tall" }
-  ]
-}
+[
+  {
+    "id": "t_bamboo_tall",
+    "fg": "t_bamboo_tall",
+    "bg": "t_grass_tall"
+  },
+  {
+    "id": "t_bamboo_tall_season_summer",
+    "fg": "t_bamboo_tall",
+    "bg": "t_grass_summer_tall"
+  },
+  {
+    "id": "t_bamboo_tall_season_autumn",
+    "fg": "t_bamboo_tall",
+    "bg": "t_grass_autumn_tall"
+  },
+  {
+    "id": "t_bamboo_tall_season_winter",
+    "fg": "t_bamboo_tall_season_winter",
+    "bg": "snow_shallow_tall"
+  }
+]

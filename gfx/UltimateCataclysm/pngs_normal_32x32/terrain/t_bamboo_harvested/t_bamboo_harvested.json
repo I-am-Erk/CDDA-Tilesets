@@ -1,12 +1,5 @@
 {
   "id": "t_bamboo_harvested",
-  "multitile": true,
-  "rotates": false,
   "fg": "t_bamboo_harvested",
-  "bg": "t_grass",
-  "additional_tiles": [
-    { "id": "season_summer", "fg": "t_bamboo_harvested", "bg": "t_grass_summer" },
-    { "id": "season_autumn", "fg": "t_bamboo_harvested", "bg": "t_grass_autumn" },
-    { "id": "season_winter", "fg": "t_bamboo_winter", "bg": "snow_shallow_center" }
-  ]
+  "bg": "t_grass"
 }

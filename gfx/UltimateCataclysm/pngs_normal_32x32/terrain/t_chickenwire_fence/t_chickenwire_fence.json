@@ -56,7 +56,7 @@
     ]
   },
   {
-    "id": "t_chickenwire_fence_summer_season",
+    "id": "t_chickenwire_fence_season_summer",
     "fg": "t_chickenwire_fence_unconnected",
     "bg": "t_grass_summer",
     "multitile": true,

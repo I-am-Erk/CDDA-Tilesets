@@ -1,12 +1,22 @@
-{
-  "id": "t_bamboo",
-  "multitile": true,
-  "rotates": false,
-  "fg": "t_bamboo_spring",
-  "bg": "t_grass",
-  "additional_tiles": [
-    { "id": "season_summer", "fg": "t_bamboo", "bg": "t_grass_summer" },
-    { "id": "season_autumn", "fg": "t_bamboo", "bg": "t_grass_autumn" },
-    { "id": "season_winter", "fg": "t_bamboo_winter", "bg": "snow_shallow_center" }
-  ]
-}
+[
+  {
+    "id": "t_bamboo",
+    "fg": "t_bamboo_season_spring",
+    "bg": "t_grass"
+  },
+  {
+    "id": "t_bamboo_season_summer",
+    "fg": "t_bamboo",
+    "bg": "t_grass_summer"
+  },
+  {
+    "id": "t_bamboo_season_autumn",
+    "fg": "t_bamboo",
+    "bg": "t_grass_autumn"
+  },
+  {
+    "id": "t_bamboo_season_winter",
+    "fg": "t_bamboo_season_winter",
+    "bg": "snow_shallow_center"
+  }
+]
