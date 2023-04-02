@@ -1,0 +1,15 @@
+[
+  {
+    "id": [ "overlay_effect_bleed"  ],
+    "animated": true,
+    "fg": [
+      { "weight": 8, "sprite": "overlay_effect_bleed0" },
+      { "weight": 8, "sprite": "overlay_effect_bleed1" },
+      { "weight": 8, "sprite": "overlay_effect_bleed2" },
+      { "weight": 8, "sprite": "overlay_effect_bleed3" },
+      { "weight": 8, "sprite": "overlay_effect_bleed4" },
+      { "weight": 8, "sprite": "overlay_effect_bleed5" },
+      { "weight": 8, "sprite": "overlay_effect_bleed6" }
+    ]
+  }
+]

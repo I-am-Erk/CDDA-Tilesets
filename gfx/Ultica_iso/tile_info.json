@@ -128,8 +128,24 @@
       "sprite_width": 32,
       "sprite_height": 32,
       "sprite_offset_x": 8,
+      "sprite_offset_y": -15,
+      "filler": true,
+      "exclude": [         
+        "items/aunt_su_guns"
+      ]
+    }
+  },
+  {
+    "guns.png": { 
+      "//": "specific guns offset",
+      "sprite_width": 32,
+      "sprite_height": 32,
+      "sprite_offset_x": 8,
       "sprite_offset_y": 0,
-      "filler": true
+      "filler": true,
+      "now_include": [         
+        "items/aunt_su_guns"
+      ]
     }
   },
   {
@@ -138,7 +154,7 @@
       "sprite_width": 32,
       "sprite_height": 32,
       "sprite_offset_x": 8,
-      "sprite_offset_y": 0,
+      "sprite_offset_y": -15,
       "filler": true
     }
   },
@@ -197,7 +213,7 @@
       "sprite_width": 32,
       "sprite_height": 36,
       "sprite_offset_x": -8,
-      "sprite_offset_y": -60,
+      "sprite_offset_y": -56,
       "pixelscale": 2,
       "filler": true
     }

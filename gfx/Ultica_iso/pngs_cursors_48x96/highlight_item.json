@@ -1,0 +1,15 @@
+[
+  {
+    "id": [ "highlight_item"  ],
+    "animated": true,
+    "fg": [
+      { "weight": 8, "sprite": "highlight_item0" },
+      { "weight": 8, "sprite": "highlight_item1" },
+      { "weight": 8, "sprite": "highlight_item2" },
+      { "weight": 8, "sprite": "highlight_item3" },
+      { "weight": 8, "sprite": "highlight_item4" },
+      { "weight": 8, "sprite": "highlight_item5" },
+      { "weight": 8, "sprite": "highlight_item6" }
+    ]
+  }
+]
