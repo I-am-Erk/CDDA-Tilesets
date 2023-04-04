@@ -1,0 +1,22 @@
+[
+  {
+    "id": [
+      "explosion_jolt",
+      "explosion_lightning_bolt",
+      "explosion_lightning_blast",
+      "explosion_lightning_storm",
+      "explosion_stormshaper_ionization",
+      "explosion_storm_shipwrecker",
+      "explosion_shocking_dash",
+      "explosion_shocking_teleport",
+      "explosion_toxtricity"
+    ],
+    "fg": "stormshaper_spell_edge",
+    "bg": "",
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "corner", "fg": [ "stormshaper_spell_corner" ], "bg": "" },
+      { "id": "edge", "fg": [ "stormshaper_spell_edge" ], "bg": "" }
+    ]
+  }
+]
