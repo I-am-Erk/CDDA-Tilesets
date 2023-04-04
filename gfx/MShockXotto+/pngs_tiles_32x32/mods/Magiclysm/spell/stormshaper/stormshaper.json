@@ -18,8 +18,7 @@
     "rotates": true,
     "additional_tiles": [
       { "id": "corner", "fg": [ "stormshaper_spell_corner" ], "bg": "" },
-      { "id": "edge", "fg": [ "stormshaper_spell_edge" ], "bg": "" },
-      { "id": "center", "fg": [ "stormshaper_spell_center" ], "bg": "" }
+      { "id": "edge", "fg": [ "stormshaper_spell_edge" ], "bg": "" }
     ]
   }
 ]
