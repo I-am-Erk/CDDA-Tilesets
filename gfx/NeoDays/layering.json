@@ -8,14 +8,14 @@
         "sprite": [{"id": "american_flag", "weight": 1}],
         "layer": 90,
         "offset_x": 3,
-        "offset_y": -6
+        "offset_y": -10
       },
       {
         "item": "pride_flag",
         "sprite": [{"id": "pride_flag", "weight": 1}],
         "layer": 90,
         "offset_x": 3,
-        "offset_y": -6
+        "offset_y": -10
       }
     ]
   },
@@ -29,14 +29,14 @@
         "sprite": [{"id": "american_flag", "weight": 1}],
         "layer": 90,
         "offset_x": 3,
-        "offset_y": -6
+        "offset_y": -10
       },
       {
         "item": "pride_flag",
         "sprite": [{"id": "pride_flag", "weight": 1}],
         "layer": 90,
         "offset_x": 3,
-        "offset_y": -6
+        "offset_y": -10
       }
     ]
   }
