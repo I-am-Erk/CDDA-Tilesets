@@ -1,0 +1,19 @@
+{
+  "id": "f_bathtub",
+  "fg": [
+    "f_bathtub_unconnected"
+  ],
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "unconnected", "fg": [ "f_bathtub_unconnected" ], "bg": [  ] },
+    { "id": "center", "fg": [ "f_bathtub_center" ], "bg": [  ] },
+    { "id": "corner", "fg": [ "f_bathtub_corner" ], "bg": [  ] },
+    { "id": "edge", "fg": [ "f_bathtub_edge" ], "bg": [  ] },
+    { "id": "end_piece", "fg": [ "f_bathtub_end_piece" ], "bg": [  ] },
+    { "id": "t_connection", "fg": [ "f_bathtub_t_connection" ], "bg": [  ] }
+  ],
+  "bg": [
+    
+  ]
+}
