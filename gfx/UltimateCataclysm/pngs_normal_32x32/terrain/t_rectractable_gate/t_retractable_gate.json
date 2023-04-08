@@ -1,0 +1,17 @@
+[
+  {
+    "id": "t_retractable_gate_c",
+    "fg": "t_retractable_gate_c",
+    "bg": "t_strconc_floor_center"
+  },
+  {
+    "id": "t_retractable_gate_o",
+    "fg": "t_retractable_gate_o",
+    "bg": "t_strconc_floor_center"
+  },
+  {
+    "id": "t_retractable_gate_l",
+    "fg": "t_retractable_gate_l",
+    "bg": "t_strconc_floor_center"
+  }
+]

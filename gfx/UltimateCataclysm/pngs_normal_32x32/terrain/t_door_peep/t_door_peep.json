@@ -1,0 +1,31 @@
+[
+  {
+    "id": "t_door_c_peep",
+    "fg": "t_door_c_peep",
+    "bg": "t_door_frame"
+  },
+  {
+    "id": "t_door_o_peep",
+    "fg": "t_door_o_peep",
+    "bg": "t_door_frame"
+  },
+  {
+    "id": "t_door_b_peep",
+    "fg": "t_door_b_peep",
+    "bg": "t_door_frame"
+  },
+  {
+    "id": "t_door_boarded_peep",
+    "fg": "t_door_boarded_peep",
+    "bg": "t_door_frame"
+  },
+  {
+    "id": "t_door_boarded_damaged_peep",
+    "fg": "t_door_boarded_damaged_peep",
+    "bg": "t_door_frame"
+  },
+  {
+    "id": "t_door_locked_peep",
+    "fg": "t_door_locked_peep"
+  }
+]

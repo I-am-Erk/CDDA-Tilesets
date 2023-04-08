@@ -1,0 +1,13 @@
+{
+  "id": "vp_mountable_heater",
+  "fg": [ "vp_mountable_heater", "vp_mountable_heater", "vp_mountable_heater", "vp_mountable_heater" ],
+  "bg": "vp_trunk",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "crack_metal_center",
+      "bg": [ "vp_mountable_heater", "vp_mountable_heater", "vp_mountable_heater", "vp_mountable_heater" ]
+    }
+  ]
+}
