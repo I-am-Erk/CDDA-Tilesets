@@ -1,0 +1,12 @@
+[
+  {
+    "id": "t_crossbuck_wood",
+    "fg": "t_crossbuck_wood",
+    "bg": "dirt_tall"
+  },
+  {
+    "id": "t_crossbuck_wood_season_winter",
+    "fg": "t_crossbuck_wood",
+    "bg": "snow_shallow_tall"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "t_door_makeshift_c",
+    "fg": "t_door_makeshift_c",
+    "bg": "t_door_frame"
+  },
+  {
+    "id": "t_door_makeshift_o",
+    "fg": "t_door_makeshift_o",
+    "bg": "t_door_frame"
+  }
+]

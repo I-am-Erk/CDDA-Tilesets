@@ -1,0 +1,13 @@
+{
+  "id": "vp_mountable_heater_small",
+  "fg": [ "vp_mountable_heater_small", "vp_mountable_heater_small", "vp_mountable_heater_small", "vp_mountable_heater_small" ],
+  "bg": "vp_trunk",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "crack_metal_center",
+      "bg": [ "vp_mountable_heater_small", "vp_mountable_heater_small", "vp_mountable_heater_small", "vp_mountable_heater_small" ]
+    }
+  ]
+}
