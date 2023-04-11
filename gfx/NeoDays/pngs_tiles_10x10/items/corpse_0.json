@@ -1,1 +1,7 @@
-{"id": "corpse", "fg": ["2050_corpse_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "corpse",
+    "rmi2_corpse"
+  ],
+  "fg": "corpse"
+}
