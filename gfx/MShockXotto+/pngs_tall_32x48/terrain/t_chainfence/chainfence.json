@@ -19,7 +19,7 @@
       ],
       "bg": ""
     },
-    { "id": "edge", "fg": [ "t_chainfence_t_connection_n", "t_chainfence_t_connection_w" ], "bg": "" },
+    { "id": "edge", "fg": [ "t_chainfence_edge_ew", "t_chainfence_edge_ns" ], "bg": "" },
     {
       "id": "end_piece",
       "fg": [ "t_chainfence_end_piece_n", "t_chainfence_end_piece_w", "t_chainfence_end_piece_s", "t_chainfence_end_piece_e" ],
