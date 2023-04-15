@@ -8,7 +8,6 @@ on:
   schedule:
     - cron: '0 20 * * sun'
   workflow_dispatch:
-
 env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -16,71 +15,24 @@ jobs:
   release:
     name: Create Release
     runs-on: ubuntu-latest
+    permissions: write-all
     outputs:
-      upload_url: ${{ steps.create_release.outputs.upload_url }}
-      timestamp: ${{ steps.get-timestamp.outputs.time }}
-      release_already_exists: ${{ steps.tag_check.outputs.exists }}
+      timestamp: ${{ steps.timestamp.outputs.time }}
     steps:
       - name: Get build timestamp
-        id: get-timestamp
-        uses: nanzm/get-time-action@v1.1
-        with:
-          format: 'YYYY-MM-DD'
-      - name: Generate environmental variables
-        id: generate_env_vars
+        id: timestamp
         run: |
-          echo "TAG-NAME=${{ steps.get-timestamp.outputs.time }}" >> $GITHUB_OUTPUT
-          echo "RELEASE-TITLE=Tilesets Release ${{ steps.get-timestamp.outputs.time }}" >> $GITHUB_OUTPUT
+          # serves as a release's tag
+          echo "time=$(/bin/date -u "+%Y-%m-%d")" >> $GITHUB_OUTPUT
+      - id: rel-data
+        run: |
+          echo "RELEASE-TITLE=Tilesets Release ${{ steps.timestamp.outputs.time }}" >> $GITHUB_OUTPUT
       - uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-      - name: Check if there is an existing git tag
-        id: tag_check
-        uses: mukunku/tag-exists-action@v1.1.0
-        with:
-          tag: ${{ steps.generate_env_vars.outputs.TAG-NAME }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Get Previous tag
-        id: previous_tag
-        uses: WyriHaximus/github-action-get-previous-tag@v1
-      - name: Abort if there are no changes
-        run: |
-          # exit 1 if there are no changes, exit 0 if there are changes
-          git diff ${{ steps.previous_tag.outputs.tag }} | grep -q ""
-      - name: Push tag
-        id: tag_version
-        uses: mathieudutour/github-tag-action@v5.5
-        if: ${{ steps.tag_check.outputs.exists == 'false' }}
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          custom_tag: ${{ steps.generate_env_vars.outputs.TAG-NAME }}
-          tag_prefix: ""
-      - name: "Generate release notes"
-        run: |
-          gh api \
-            --method POST \
-            -H "Accept: application/vnd.github.v3+json" \
-            /repos/I-am-Erk/CDDA-Tilesets/releases/generate-notes \
-            -f tag_name='${{ steps.generate_env_vars.outputs.TAG-NAME }}' \
-            -f target_commitish='master' \
-            -q .body > CHANGELOG.md
-      - name: Create release
-        id: create_release
-        uses: actions/create-release@main
-        if: ${{ steps.tag_check.outputs.exists == 'false' }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tag_name: ${{ steps.generate_env_vars.outputs.TAG-NAME }}
-          release_name: ${{ steps.generate_env_vars.outputs.RELEASE-TITLE }}
-          body_path: ./CHANGELOG.md
-          draft: false
-          prerelease: false
+      - run: |
+          gh release create "${{ steps.timestamp.outputs.time }}" --generate-notes --title "${{ steps.rel-data.outputs.RELEASE-TITLE }}"
 
   builds:
     needs: release
-    if: ${{ needs.release.outputs.release_already_exists == 'false' }}
     strategy:
       fail-fast: false
       matrix:
@@ -139,6 +91,7 @@ jobs:
             compose_args: --use-all
     name: ${{ matrix.name }}
     runs-on: ubuntu-latest
+    permissions: write-all
     steps:
       - name: Install Dependencies
         uses: awalsh128/cache-apt-pkgs-action@v1
@@ -149,37 +102,22 @@ jobs:
         # still cache it because we'll make it work somehow
       - run: sudo apt-get install libvips42
       - run: pip3 install pyvips
+      - uses: actions/checkout@v3
 
-      - name: Checkout Code
-        uses: actions/checkout@v3
-
-      - name: Build
-        id: build
+      - name: Build ${{ matrix.name }}
         run: |
-          wget -q https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/compose.py \
-          || echo "Error: Failed to get compose.py"
+          wget -q https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/compose.py
 
           mkdir build
-          python3 compose.py ${{matrix.compose_args}} --feedback CONCISE --loglevel INFO --format-json "${{matrix.tileset_dir}}" build
+          python3 compose.py ${{ matrix.compose_args }} --feedback CONCISE --loglevel INFO --format-json "${{ matrix.tileset_dir }}" build
 
-          release_name=${{matrix.artifact}}
+          release_name=${{ matrix.artifact }}
           mkdir $release_name
 
-          cp -r build/*                          $release_name
-          mv ${{matrix.tileset_dir}}/tileset.txt $release_name
-          [ -f "${{matrix.tileset_dir}}/fallback.png" ] && mv "${{matrix.tileset_dir}}/fallback.png" $release_name
-          [ -f "${{matrix.tileset_dir}}/layering.json" ] && mv "${{matrix.tileset_dir}}/layering.json" $release_name
+          cp -r build/*                            $release_name
+          mv ${{ matrix.tileset_dir }}/tileset.txt $release_name
+          [ -f "${{ matrix.tileset_dir }}/fallback.png"  ] && mv "${{ matrix.tileset_dir }}/fallback.png"  $release_name
+          [ -f "${{ matrix.tileset_dir }}/layering.json" ] && mv "${{ matrix.tileset_dir }}/layering.json" $release_name
 
           zip -r $release_name.zip $release_name
-
-          echo "RELEASE-NAME=$release_name" >> $GITHUB_OUTPUT
-
-      - name: Upload Release Asset
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ needs.release.outputs.upload_url }}
-          asset_path: ${{ steps.build.outputs.RELEASE-NAME }}.zip
-          asset_name: ${{ steps.build.outputs.RELEASE-NAME }}.zip
-          asset_content_type: application/zip
+          gh release upload ${{ needs.release.outputs.timestamp }} $release_name.zip
