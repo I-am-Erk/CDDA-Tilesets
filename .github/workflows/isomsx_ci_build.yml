@@ -63,7 +63,7 @@ jobs:
           echo "ARTIFACT-NAME=$artifact_name" >> $GITHUB_OUTPUT
 
       - name: Upload Artifacts
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3.1.2
         with:
           name: ${{ steps.build.outputs.ARTIFACT-NAME }}
           path: ${{ steps.build.outputs.ARTIFACT-NAME }}
