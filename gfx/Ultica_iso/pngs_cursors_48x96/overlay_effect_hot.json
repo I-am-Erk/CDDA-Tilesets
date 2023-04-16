@@ -1,0 +1,24 @@
+[
+  {
+    "id": [ "overlay_effect_hot"  ],
+    "animated": true,
+    "fg": [
+      { "weight": 8, "sprite": "overlay_effect_hot0" },
+      { "weight": 8, "sprite": "overlay_effect_hot1" },
+      { "weight": 8, "sprite": "overlay_effect_hot2" },
+      { "weight": 8, "sprite": "overlay_effect_hot3" },
+      { "weight": 8, "sprite": "overlay_effect_hot4" },
+      { "weight": 8, "sprite": "overlay_effect_hot5" },
+      { "weight": 8, "sprite": "overlay_effect_hot6" },
+      { "weight": 8, "sprite": "overlay_effect_hot7" },
+      { "weight": 8, "sprite": "overlay_effect_hot8" },
+      { "weight": 8, "sprite": "overlay_effect_hot9" },
+      { "weight": 8, "sprite": "overlay_effect_hot10" },
+      { "weight": 8, "sprite": "overlay_effect_hot11" },
+      { "weight": 8, "sprite": "overlay_effect_hot12" },
+      { "weight": 8, "sprite": "overlay_effect_hot13" },
+      { "weight": 8, "sprite": "overlay_effect_hot14" },
+      { "weight": 8, "sprite": "overlay_effect_hot15" }
+    ]
+  }
+]

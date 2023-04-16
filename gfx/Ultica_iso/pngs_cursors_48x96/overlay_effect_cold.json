@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "overlay_effect_cold"  ],
+    "animated": true,
+    "fg": [
+      { "weight": 64, "sprite": "overlay_effect_cold0" },
+      { "weight": 8, "sprite": "overlay_effect_cold1" },
+      { "weight": 8, "sprite": "overlay_effect_cold2" },
+      { "weight": 8, "sprite": "overlay_effect_cold3" },
+      { "weight": 8, "sprite": "overlay_effect_cold4" },
+      { "weight": 8, "sprite": "overlay_effect_cold5" }
+    ]
+  }
+]

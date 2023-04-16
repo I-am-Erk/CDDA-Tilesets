@@ -1,0 +1,12 @@
+[
+  {
+    "id": [ "overlay_run"  ],
+    "animated": true,
+    "fg": [
+      { "weight": 10, "sprite": "overlay_run0" },
+      { "weight": 10, "sprite": "overlay_run1" },
+      { "weight": 10, "sprite": "overlay_run2" },
+      { "weight": 10, "sprite": "overlay_run3" }
+    ]
+  }
+]
