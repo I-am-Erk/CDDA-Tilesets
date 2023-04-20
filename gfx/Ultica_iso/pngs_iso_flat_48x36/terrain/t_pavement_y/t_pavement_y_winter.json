@@ -1,0 +1,52 @@
+{
+  "id": "t_pavement_y_season_winter",
+  "fg": "t_pavement_y_winter_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_pavement_y_winter_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_pavement_y_winter_corner_nw",
+        "t_pavement_y_winter_corner_sw",
+        "t_pavement_y_winter_corner_se",
+        "t_pavement_y_winter_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_pavement_y_winter_t_connection_n",
+        "t_pavement_y_winter_t_connection_w",
+        "t_pavement_y_winter_t_connection_s",
+        "t_pavement_y_winter_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_pavement_y_winter_edge_ns",
+        "t_pavement_y_winter_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_pavement_y_winter_end_piece_n",
+        "t_pavement_y_winter_end_piece_w",
+        "t_pavement_y_winter_end_piece_s",
+        "t_pavement_y_winter_end_piece_e"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_pavement_y_winter_unconnected",
+        "t_pavement_y_winter_unconnected"
+      ]
+    }
+  ]
+}
