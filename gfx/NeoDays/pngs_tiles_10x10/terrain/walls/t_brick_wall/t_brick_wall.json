@@ -1,5 +1,9 @@
 {
-  "id": "t_brick_wall",
+  "id": [
+    "t_brick_wall",
+    "t_sliding_brick_wall_c",
+    "t_secretdoor_brick_wall_c"
+  ],
   "fg": "t_brick_wall_unconnected",
   "multitile": true,
   "additional_tiles": [

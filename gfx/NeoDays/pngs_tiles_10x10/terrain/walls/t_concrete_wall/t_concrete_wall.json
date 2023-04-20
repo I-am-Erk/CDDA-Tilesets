@@ -1,5 +1,9 @@
 {
-  "id": "t_concrete_wall",
+  "id": [
+    "t_concrete_wall",
+    "t_sliding_concrete_wall_c",
+    "t_secretdoor_concrete_wall_c"
+  ],
   "fg": "t_concrete_wall_unconnected",
   "multitile": true,
   "additional_tiles": [
