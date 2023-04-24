@@ -1,0 +1,10 @@
+{
+  "id": "f_washer",
+  "multitile": true,
+  "fg": [
+    "f_washer_0",
+    "f_washer_1",
+    "f_dryer_2",
+    "f_dryer_3"
+  ]
+}
