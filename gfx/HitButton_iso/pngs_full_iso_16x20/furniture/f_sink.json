@@ -1,0 +1,11 @@
+{
+  "id": "f_sink",
+  "multitile": true,
+  "fg": [
+    "f_sink_0",
+    "f_sink_1",
+    "f_sink_2",
+    "f_sink_3"
+  ],
+  "height_3d": 3
+}
