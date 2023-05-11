@@ -1,16 +1,21 @@
 [
   {
     "id": [
-      "go",
       "senet",
-      "shogi",
       "mahjong",
-      "domino",
-      "hnefatafl",
-      "latrunculi",
-      "jackstraws",
+      "chaturanga",
       "backgammon",
-      "chaturanga"
+      "latrunculi",
+      "go",
+      "shogi",
+      "hnefatafl",
+      "domino",
+      "jackstraws",
+      "snakesnladders",
+      "ludo",
+      "poppirate",
+      "ranger",
+      "openfire"
     ],
     "fg": "generic_game_set"
   }
