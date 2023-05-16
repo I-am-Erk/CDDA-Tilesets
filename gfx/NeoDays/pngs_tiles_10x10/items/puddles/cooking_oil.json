@@ -21,7 +21,8 @@
     "crude_lamp_oil",
     "motor_oil",
     "camphine",
-    "chem_turpentine"
+    "chem_turpentine",
+    "paint_yellow"
   ],
   "fg": "cooking_oil"
 }
