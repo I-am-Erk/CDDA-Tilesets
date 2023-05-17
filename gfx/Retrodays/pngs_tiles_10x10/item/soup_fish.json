@@ -7,13 +7,8 @@
     "protein_drink",
     "hflesh_drink",
     "spider_steak_soup",
-    "oxygen"
+    "oxygen",
+    "mercury"
   ],
-  "fg": [
-    "883_soup_fish_0"
-  ],
-  "rotates": false,
-  "bg": [
-    
-  ]
+  "fg": "soup_fish"
 }
