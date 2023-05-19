@@ -12,7 +12,8 @@
     },
     {
       "id": "open",
-      "fg": "vp_door_trunk_open_right"
+      "fg": "vp_door_trunk_open_right",
+      "bg": "background_black"
     }
   ]
 }

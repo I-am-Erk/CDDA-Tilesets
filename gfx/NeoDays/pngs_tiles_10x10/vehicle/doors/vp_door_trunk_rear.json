@@ -20,7 +20,8 @@
     },
     {
       "id": "open",
-      "fg": "vp_door_trunk_open_rear"
+      "fg": "vp_door_trunk_open_rear",
+      "bg": "background_black"
     }
   ]
 }
