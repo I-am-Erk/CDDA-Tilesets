@@ -1,0 +1,20 @@
+{
+  "id": [
+    "vp_windshield_nw",
+    "vp_windshield_nw_edge",
+    "vp_windshield_wheel_left",
+
+    "vp_windshield_full_nw",
+    "vp_windshield_full_nw_edge",
+    "vp_windshield_full_wheel_left"
+  ],
+  "fg": "vp_windshield_nw",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_windshield_broken"
+    }
+  ]
+}
