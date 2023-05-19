@@ -17,12 +17,18 @@
     "vp_windshield_full_right"
   ],
   "fg": "vp_windshield_vertical",
+  "bg": "background_black",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
     {
       "id": "broken",
-      "fg": "vp_windshield_broken"
+      "fg": [
+        "vp_windshield_broken",
+        "vp_windshield_broken",
+        "vp_windshield_broken",
+        "vp_windshield_broken"
+      ]
     }
   ]
 }
