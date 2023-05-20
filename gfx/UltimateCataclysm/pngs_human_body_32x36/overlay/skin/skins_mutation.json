@@ -41,12 +41,12 @@
   },
   {
     "id": "overlay_female_mutation_THICK_SCALES",
-    "fg": "scales_f",
+    "fg": "scales_thick_f",
     "bg": ""
   },
   {
     "id": "overlay_male_mutation_THICK_SCALES",
-    "fg": "scales_m",
+    "fg": "scales_thick_m",
     "bg": ""
   },
   {
