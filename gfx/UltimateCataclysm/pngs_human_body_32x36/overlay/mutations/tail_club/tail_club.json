@@ -1,0 +1,12 @@
+[
+  {
+    "id": "overlay_female_mutation_TAIL_CLUB",
+    "fg": "tail_club_f",
+    "bg": ""
+  },
+  {
+    "id": "overlay_male_mutation_TAIL_CLUB",
+    "fg": "tail_club_m",
+    "bg": ""
+  }
+]
