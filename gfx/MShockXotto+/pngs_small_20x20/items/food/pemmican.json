@@ -2,11 +2,11 @@
   {
     "id": "pemmican_veggy",
     "fg": "pemmican",
-    "bg": " "
+    "bg": ""
   },
   {
     "id": "pemmican_meat",
     "fg": "pemmican",
-    "bg": " "
+    "bg": ""
   }
 ]
