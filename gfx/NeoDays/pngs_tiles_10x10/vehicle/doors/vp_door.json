@@ -2,7 +2,6 @@
   {
     "id": [
       "vp_door",
-      "vp_door_opaque",
       "vp_fdoor"
     ],
     "fg": "vp_door_closed",
@@ -17,24 +16,6 @@
       {
         "id": "open",
         "fg": "vp_door_open"
-      }
-    ]
-  },
-  {
-    "id": "vp_door_internal",
-    "fg": "vp_door_closed",
-    "bg": "background_black",
-    "rotates": false,
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "vp_door_broken"
-      },
-      {
-        "id": "open",
-        "fg": "vp_door_open",
-        "bg": "background_black"
       }
     ]
   }

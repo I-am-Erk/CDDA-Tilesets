@@ -1,15 +1,12 @@
 {
   "id": [
-    "vp_door_front",
-    "vp_door_front_left",
-    "vp_door_vertical_left",
-    "vp_door_sw",
-    "vp_door_nw",
+    "vp_door_opaque_left",
 
-    "vp_hddoor",
-    "vp_hddoor_nw"
+    "vp_door_internal_left",
+
+    "vp_hddoor_opaque_left"
   ],
-  "fg": "vp_door_left",
+  "fg": "vp_door_opaque_left",
   "bg": "background_black",
   "rotates": true,
   "multitile": true,
