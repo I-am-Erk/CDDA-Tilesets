@@ -1,0 +1,12 @@
+[
+  {
+    "id": "pemmican_veggy",
+    "fg": "pemmican",
+    "bg": " "
+  },
+  {
+    "id": "pemmican_meat",
+    "fg": "pemmican",
+    "bg": " "
+  }
+]
