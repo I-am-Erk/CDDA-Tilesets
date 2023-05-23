@@ -1,5 +1,10 @@
 [
   {
+    "id": "pemmican",
+    "fg": "pemmican",
+    "bg": ""
+  },
+  {
     "id": "pemmican_veggy",
     "fg": "pemmican",
     "bg": ""
