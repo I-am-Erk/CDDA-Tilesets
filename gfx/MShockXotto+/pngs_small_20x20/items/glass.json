@@ -1,5 +1,5 @@
 {
-  "id": ["glass", "base_glass_dish", "wine_glass"],
+  "id": ["glass", "base_glass_dish"],
   "fg": ["glass"],
   "bg": []
 }
