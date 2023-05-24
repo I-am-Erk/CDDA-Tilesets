@@ -2,9 +2,7 @@
   "id": [
     "vp_door_opaque_right",
 
-    "vp_door_internal_right",
-
-    "vp_hddoor_opaque_right"
+    "vp_door_internal_right"
   ],
   "//": "this doesn't seem to work and seems to affect every tileset, leaving here when/if fixed",
   "fg": "vp_door_opaque_right",

@@ -4,10 +4,7 @@
     "vp_door_front_left",
     "vp_door_vertical_left",
     "vp_door_sw",
-    "vp_door_nw",
-
-    "vp_hddoor",
-    "vp_hddoor_nw"
+    "vp_door_nw"
   ],
   "fg": "vp_door_left",
   "bg": "background_black",
