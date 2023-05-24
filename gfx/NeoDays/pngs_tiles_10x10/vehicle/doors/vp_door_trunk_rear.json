@@ -5,8 +5,7 @@
     "vp_hatch_rear",
     "vp_hatch",
     "vp_hatch_opaque",
-    "vp_door_shutter",
-    "vp_door_sliding"
+    "vp_door_shutter"
   ],
   "fg": "vp_door_trunk_closed_rear",
   "bg": "background_black",
