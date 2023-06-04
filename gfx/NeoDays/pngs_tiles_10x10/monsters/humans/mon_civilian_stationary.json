@@ -1,0 +1,13 @@
+{
+  "id": "mon_civilian_stationary",
+  "fg": [
+    {
+      "weight": 1,
+      "sprite": "mon_civilian_stationary_m"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_civilian_stationary_f"
+    }
+  ]
+}
