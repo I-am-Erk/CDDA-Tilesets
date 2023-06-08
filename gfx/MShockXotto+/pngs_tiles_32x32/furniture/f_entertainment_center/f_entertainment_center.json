@@ -1,0 +1,15 @@
+{
+  "id": "f_entertainment_center",
+  "fg": "f_entertainment_center_unconnected",
+  "bg": "",
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "edge", "fg": [ "f_entertainment_center_ew" ], "bg": "" },
+    { "id": "end_piece", "fg": [ "f_entertainment_center_w", "f_entertainment_center_e" ], "bg": "" },
+    {
+      "id": "unconnected",
+      "fg": [ "f_entertainment_center_unconnected", "f_entertainment_center_unconnected" ],
+      "bg": ""
+    }
+  ]
+}
