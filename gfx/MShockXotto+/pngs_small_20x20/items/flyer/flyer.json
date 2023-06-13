@@ -1,10 +1,5 @@
 {
-  "id": "flyer",
-  "fg": [
-    { "weight": 5, "sprite": "flyer_0" },
-    { "weight": 5, "sprite": "flyer_1" },
-    { "weight": 5, "sprite": "flyer_2" },
-    { "weight": 5, "sprite": "flyer_3" }
-  ],
+  "id": "flyer"
+  "fg": "flyer_1",
   "bg": ""
 }
