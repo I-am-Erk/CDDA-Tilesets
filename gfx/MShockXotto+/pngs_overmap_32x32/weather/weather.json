@@ -63,5 +63,9 @@
     "id": "snowstorm",
     "fg": "snowstorm",
     "bg": [ "clear_dark" ]
+  },
+  {
+    "id": [ "distant_portal_storm", "early_portal_storm" ],
+    "fg": "distant_portal_storm"
   }
 ]
