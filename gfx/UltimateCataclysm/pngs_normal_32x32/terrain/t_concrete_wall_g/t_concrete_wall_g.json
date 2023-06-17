@@ -1,51 +1,49 @@
-[
-  {
-    "id": [ "t_concrete_wall_g", "t_sconc_wall_g", "t_strconc_wall_g" ],
-    "fg": "t_concrete_wall_g_unconnected",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "center",
-        "fg": "t_concrete_wall_g_center"
-      },
-      {
-        "id": "corner",
-        "fg": [
-          "t_concrete_wall_g_corner_nw",
-          "t_concrete_wall_g_corner_sw",
-          "t_concrete_wall_g_corner_se",
-          "t_concrete_wall_g_corner_ne"
-        ]
-      },
-      {
-        "id": "t_connection",
-        "fg": [
-          "t_concrete_wall_g_t_connection_n",
-          "t_concrete_wall_g_t_connection_w",
-          "t_concrete_wall_g_t_connection_s",
-          "t_concrete_wall_g_t_connection_e"
-        ]
-      },
-      {
-        "id": "edge",
-        "fg": [
-          "t_concrete_wall_g_edge_ns",
-          "t_concrete_wall_g_edge_ew"
-        ]
-      },
-      {
-        "id": "end_piece",
-        "fg": [
-          "t_concrete_wall_g_end_piece_n",
-          "t_concrete_wall_g_end_piece_w",
-          "t_concrete_wall_g_end_piece_s",
-          "t_concrete_wall_g_end_piece_e"
-        ]
-      },
-      {
-        "id": "unconnected",
-        "fg": "t_concrete_wall_g_unconnected"
-      }
-    ]
-  }
-]
+{
+  "id": "t_concrete_wall_g",
+  "fg": "t_concrete_wall_g_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_concrete_wall_g_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_concrete_wall_g_corner_nw",
+        "t_concrete_wall_g_corner_sw",
+        "t_concrete_wall_g_corner_se",
+        "t_concrete_wall_g_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_concrete_wall_g_t_connection_n",
+        "t_concrete_wall_g_t_connection_w",
+        "t_concrete_wall_g_t_connection_s",
+        "t_concrete_wall_g_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_concrete_wall_g_edge_ns",
+        "t_concrete_wall_g_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_concrete_wall_g_end_piece_n",
+        "t_concrete_wall_g_end_piece_w",
+        "t_concrete_wall_g_end_piece_s",
+        "t_concrete_wall_g_end_piece_e"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_concrete_wall_g_unconnected"
+    }
+  ]
+}

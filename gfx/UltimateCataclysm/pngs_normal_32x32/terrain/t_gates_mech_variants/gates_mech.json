@@ -17,7 +17,7 @@
   {
     "id": "t_gates_control_concrete_lab",
     "fg": "gates_mech_digital",
-    "bg": "t_strconc_wall"
+    "bg": "t_strconc_wall_unconnected"
   },
   {
     "id": "t_gates_control_brick",
