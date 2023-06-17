@@ -67,7 +67,7 @@
     },
     {
       "id": "unconnected",
-      "fg": "t_scrap_wall_halfway_t_connection_n",
+      "fg": "t_scrap_wall_halfway_edge_ew",
       "bg": "t_scrap_floor_unconnected_2"
     }
   ]
