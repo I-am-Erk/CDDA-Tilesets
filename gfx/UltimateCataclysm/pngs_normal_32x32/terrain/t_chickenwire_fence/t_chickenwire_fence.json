@@ -207,7 +207,7 @@
         "bg": "snow_shallow_center"
       },
       {
-        "id": "snow_shallow_center",
+        "id": "end_piece",
         "fg": [
           "t_chickenwire_fence_end_piece_n",
           "t_chickenwire_fence_end_piece_w",

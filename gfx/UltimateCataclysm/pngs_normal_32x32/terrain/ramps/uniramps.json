@@ -18,5 +18,25 @@
   {
     "id": [ "t_concrete_ramp_down_low", "t_sidewalk_ramp_down_low" ],
     "fg": "t_concrete_ramp_down_low"
+  },
+  {
+    "id": "t_railroad_ramp_up_low",
+    "fg": "t_railroad_ramp_up_low",
+    "bg": "t_railroad_rubble_center"
+  },
+  {
+    "id": "t_railroad_ramp_up_high",
+    "fg": "t_railroad_ramp_up_high",
+    "bg": "t_railroad_rubble_center"
+  },
+  {
+    "id": "t_railroad_ramp_down_high",
+    "fg": "t_railroad_ramp_down_high",
+    "bg": "t_railroad_rubble_center"
+  },
+  {
+    "id": "t_railroad_ramp_down_low",
+    "fg": "t_railroad_ramp_down_low",
+    "bg": "t_railroad_rubble_center"
   }
 ]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "t_claymound",
+    "fg": "t_claymound",
+    "bg": "t_clay_center"
+  },
+  {
+    "id": "t_claymound_underground",
+    "fg": "t_claymound",
+    "bg": "t_water_dp_center"
+  }
+]

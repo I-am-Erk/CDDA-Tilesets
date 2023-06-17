@@ -1,0 +1,27 @@
+[
+  {
+    "id": [ "t_lake_bed", "t_ocean_bed" ],
+    "fg": "t_lake_bed_transparent",
+    "bg": "t_sand_center4"
+  },
+  {
+    "id": "t_bulkhead_roof",
+    "fg": "t_lake_bed_transparent",
+    "bg": "t_metal_floor_center"
+  },
+  {
+    "id": "t_lake_bed_concrete",
+    "fg": "t_lake_bed_transparent",
+    "bg": "t_concrete_center"
+  },
+  {
+    "id": "t_lake_bed_concrete_yellow",
+    "fg": "t_lake_bed_transparent",
+    "bg": "t_pavement_y"
+  },
+  {
+    "id": "t_concrete_dock_deep_pile",
+    "fg": "t_lake_bed_transparent",
+    "bg": "t_concrete_wall_unconnected"
+  }
+]
