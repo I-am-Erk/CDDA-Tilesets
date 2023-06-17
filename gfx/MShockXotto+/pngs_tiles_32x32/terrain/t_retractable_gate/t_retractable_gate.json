@@ -2,16 +2,16 @@
   {
     "id": "t_retractable_gate_o",
     "fg": "t_retractable_gate_o",
-    "bg": "t_sidewalk"
+    "bg": "993_t_missile_exploded_3"
   },
   {
     "id": "t_retractable_gate_c",
     "fg": "t_retractable_gate_c",
-    "bg": "t_sidewalk"
+    "bg": "993_t_missile_exploded_3"
   },
   {
     "id": "t_retractable_gate_l",
     "fg": "t_retractable_gate_l",
-    "bg": "t_sidewalk"
+    "bg": "993_t_missile_exploded_3"
   }
 ]
