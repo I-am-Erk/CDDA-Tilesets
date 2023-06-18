@@ -76,7 +76,7 @@
     ]
   },
   {
-    "id": [ "t_moss_season_autumn", "t_moss_underground" ],
+    "id": "t_moss_season_autumn",
     "multitile": true,
     "fg": "t_moss_autumn_unconnected",
     "bg": "t_grass_autumn_center",
@@ -159,6 +159,39 @@
         ]
       },
       { "bg": "snow_shallow_center", "id": "unconnected", "fg": "snow_shallow_unconnected" }
+    ]
+  },
+  {
+    "id": "t_moss_underground",
+    "multitile": true,
+    "fg": "t_moss_unconnected",
+    "bg": "t_rock_floor_center",
+    "additional_tiles": [
+      {
+        "id": "center",
+        "bg": "t_rock_floor_center",
+        "fg": [
+          { "weight": 1, "sprite": "t_moss_center" },
+          { "weight": 1, "sprite": "t_moss_center2" }
+        ]
+      },
+      {
+        "id": "corner",
+        "bg": "t_rock_floor_center",
+        "fg": [ "t_moss_corner_nw", "t_moss_corner_sw", "t_moss_corner_se", "t_moss_corner_ne" ]
+      },
+      {
+        "id": "t_connection",
+        "bg": "t_rock_floor_center",
+        "fg": [ "t_moss_t_connection_n", "t_moss_t_connection_w", "t_moss_t_connection_s", "t_moss_t_connection_e" ]
+      },
+      { "id": "edge", "bg": "t_rock_floor_center", "fg": [ "t_moss_edge_ns", "t_moss_edge_ew" ] },
+      {
+        "id": "end_piece",
+        "bg": "t_rock_floor_center",
+        "fg": [ "t_moss_end_piece_n", "t_moss_end_piece_w", "t_moss_end_piece_s", "t_moss_end_piece_e" ]
+      },
+      { "bg": "t_rock_floor_center", "id": "unconnected", "fg": "t_moss_unconnected" }
     ]
   }
 ]

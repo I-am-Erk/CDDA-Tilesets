@@ -18,10 +18,5 @@
     "id": "t_dirtmound_season_winter",
     "fg": "t_dirtmound_season_winter",
     "bg": ""
-  },
-  {
-    "id": "t_claymound_underground",
-    "fg": "t_dirtmound",
-    "bg": "t_water_dp_center"
   }
 ]
