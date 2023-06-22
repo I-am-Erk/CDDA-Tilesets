@@ -1,1 +1,1 @@
-{"id": "t_milking_machine", "fg": ["3114_t_machinery_light_0"], "bg": ["993_t_missile_exploded_3"], "rotates": false}
+{"id": "t_milking_machine", "fg": ["f_machinery_light"], "bg": ["993_t_missile_exploded_3"], "rotates": false}
