@@ -3,6 +3,7 @@
     "height": 20,
     "iso": true,
     "width": 16,
+    "zlevel_height": 10,
     "pixelscale": 2
   },
   {
