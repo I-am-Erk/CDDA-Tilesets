@@ -1,24 +1,6 @@
 [
   {
-    "id": "vp_ram_spiked#front",
-    "fg": [ "vp_ram_spiked", "vp_ram_spiked_left", "vp_ram_spiked_down", "vp_ram_spiked_right" ],
-    "bg": "",
-    "rotates": true
-  },
-  {
-    "id": "vp_ram_spiked#left",
-    "fg": [ "vp_ram_spiked", "vp_ram_spiked_left", "vp_ram_spiked_down", "vp_ram_spiked_right" ],
-    "bg": "",
-    "rotates": true
-  },
-  {
-    "id": "vp_ram_spiked#right",
-    "fg": [ "vp_ram_spiked", "vp_ram_spiked_left", "vp_ram_spiked_down", "vp_ram_spiked_right" ],
-    "bg": "",
-    "rotates": true
-  },
-  {
-    "id": "vp_ram_spiked#rear",
+    "id": "vp_ram_spiked",
     "fg": [ "vp_ram_spiked", "vp_ram_spiked_left", "vp_ram_spiked_down", "vp_ram_spiked_right" ],
     "bg": "",
     "rotates": true
@@ -52,7 +34,8 @@
     "fg": [ "vp_ram_hardsteel", "vp_ram_hardsteel_left", "vp_ram_hardsteel_down", "vp_ram_hardsteel_right" ],
     "bg": "",
     "rotates": true
-  },
+  }
+,
   {
     "id": "vp_ram_alloy",
     "fg": [ "vp_ram_alloy", "vp_ram_alloy_left", "vp_ram_alloy_down", "vp_ram_alloy_right" ],
