@@ -1,6 +1,6 @@
 [
   {
-    "id": "vp_frame_wood_deck",
+    "id": "vp_frame_wood_deck_cover",
     "fg": [ "vp_frame_wood_deck_north", "vp_frame_wood_deck_west", "vp_frame_wood_deck_south", "vp_frame_wood_deck_east" ],
     "rotates": true,
     "multitile": true,
