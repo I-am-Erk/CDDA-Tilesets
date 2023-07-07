@@ -1,0 +1,16 @@
+[
+  {
+    "id": [ "vp_frame_wood_deck_cover", "vp_wheel_skateboard" ],
+    "fg": [ "vp_frame_wood_deck_north", "vp_frame_wood_deck_west", "vp_frame_wood_deck_south", "vp_frame_wood_deck_east" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "3987_vp_cargo_space_2" ],
+        "bg": [ "vp_frame_wood_deck_north", "vp_frame_wood_deck_west", "vp_frame_wood_deck_south", "vp_frame_wood_deck_east" ]
+      }
+    ]
+  }
+]
+
