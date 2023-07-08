@@ -8,6 +8,8 @@
   "overlay_wielded_spear_steel_crude",
   "overlay_wielded_spear_steel"
   ],
-  "fg": overlay_wielded_spear_knife_proper,
+  "fg": [
+    "overlay_wielded_spear_knife_proper"
+  ],
   "rotates": false
 },
