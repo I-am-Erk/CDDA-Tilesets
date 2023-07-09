@@ -1,0 +1,53 @@
+{
+  "id": "t_sandmound_season_autumn",
+  "height_3d": 36,
+  "fg": "t_sandmound_autumn_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_sandmound_autumn_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_sandmound_autumn_corner_nw",
+        "t_sandmound_autumn_corner_sw",
+        "t_sandmound_autumn_corner_se",
+        "t_sandmound_autumn_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_sandmound_autumn_t_connection_n",
+        "t_sandmound_autumn_t_connection_w",
+        "t_sandmound_autumn_t_connection_s",
+        "t_sandmound_autumn_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_sandmound_autumn_edge_ns",
+        "t_sandmound_autumn_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_sandmound_autumn_end_piece_n",
+        "t_sandmound_autumn_end_piece_w",
+        "t_sandmound_autumn_end_piece_s",
+        "t_sandmound_autumn_end_piece_e"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_sandmound_autumn_unconnected",
+        "t_sandmound_autumn_unconnected"
+      ]
+    }
+  ]
+}
