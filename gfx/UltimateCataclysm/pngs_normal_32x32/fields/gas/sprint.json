@@ -1,0 +1,16 @@
+[
+  {
+    "id": [
+      "run_nw",
+      "run_n",
+      "run_ne",
+      "run_w",
+      "run_e",
+      "run_sw",
+      "run_s",
+      "run_se"
+    ],
+    "fg": "fd_smoke",
+    "bg": ""
+  }
+]

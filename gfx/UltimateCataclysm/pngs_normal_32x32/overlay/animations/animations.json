@@ -1,6 +1,6 @@
 [
   {
-    "id": "animation_hit",
+    "id": ["animation_hit", "bash_effective"],
     "fg": "animation_hit",
     "bg": ""
   }
