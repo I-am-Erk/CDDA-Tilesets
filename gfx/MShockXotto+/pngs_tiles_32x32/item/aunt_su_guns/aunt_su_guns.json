@@ -3,5 +3,10 @@
    "id": "modular_ar15",
    "fg": "ar15",
    "bg": []
+  },
+  {
+   "id": "modular_m4_carbine_var_modular_m4a1",
+   "fg": "m4_carbine_var_m4a1",
+   "bg": []
   }
 ]
