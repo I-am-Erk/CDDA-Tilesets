@@ -1,0 +1,34 @@
+[
+  {
+    "id": "vp_solar_panel",
+    "fg": [ "vp_solar_panel" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "vp_solar_panel_damaged" ], "bg": [  ] } ],
+    "bg": [  ]
+  },
+  {
+    "id": "vp_reinforced_solar_panel",
+    "fg": [ "vp_reinforced_solar_panel" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "vp_reinforced_solar_panel_damaged" ], "bg": [  ] } ],
+    "bg": [  ]
+  },
+  {
+    "id": "vp_solar_panel_v2",
+    "fg": [ "vp_solar_panel_v2" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "vp_solar_panel_v2_damaged" ], "bg": [  ] } ],
+    "bg": [  ]
+  },
+  {
+    "id": "vp_reinforced_solar_panel_v2",
+    "fg": [ "vp_solar_panel_v2" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "vp_solar_panel_v2_damaged" ], "bg": [  ] } ],
+    "bg": [  ]
+  }
+]

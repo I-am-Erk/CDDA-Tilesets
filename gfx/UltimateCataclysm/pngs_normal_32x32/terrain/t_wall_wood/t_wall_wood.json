@@ -1,17 +1,15 @@
+[
 {
   "id": [ "t_wall_wood", "t_wall_wood_chipped", "t_wall_wood_broken" ],
-  "multitile": true,
   "fg": "t_wall_wood_unconnected",
-  "bg": "",
+  "multitile": true,
   "additional_tiles": [
     {
       "id": "center",
-      "bg": "",
-      "fg": "t_wall_wood_center"
+      "fg": "t_wall_wood_t_connection_n"
     },
     {
       "id": "corner",
-      "bg": "",
       "fg": [
         "t_wall_wood_corner_nw",
         "t_wall_wood_corner_sw",
@@ -21,7 +19,6 @@
     },
     {
       "id": "t_connection",
-      "bg": "",
       "fg": [
         "t_wall_wood_t_connection_n",
         "t_wall_wood_t_connection_w",
@@ -31,7 +28,6 @@
     },
     {
       "id": "edge",
-      "bg": "",
       "fg": [
         "t_wall_wood_edge_ns",
         "t_wall_wood_edge_ew"
@@ -39,7 +35,6 @@
     },
     {
       "id": "end_piece",
-      "bg": "",
       "fg": [
         "t_wall_wood_end_piece_n",
         "t_wall_wood_end_piece_w",
@@ -48,9 +43,9 @@
       ]
     },
     {
-      "bg": "",
       "id": "unconnected",
       "fg": "t_wall_wood_unconnected"
     }
   ]
 }
+]

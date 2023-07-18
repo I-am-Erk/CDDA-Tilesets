@@ -1,0 +1,11 @@
+{
+  "id": "f_oven",
+  "multitile": true,
+  "height_3d": 5,
+  "fg": [
+    "f_oven_0",
+    "f_oven_1",
+    "f_oven_2",
+    "f_oven_3"
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "t_wattle_fence_posts",
+    "fg": "t_wattle_fence_posts",
+    "bg": "t_grass"
+  },
+  {
+    "id": "t_wattle_fence_posts_season_summer",
+    "fg": "t_wattle_fence_posts",
+    "bg": "t_grass_summer"
+  },
+  {
+    "id": "t_wattle_fence_posts_season_autumn",
+    "fg": "t_wattle_fence_posts",
+    "bg": "t_grass_autumn"
+  },
+  {
+    "id": "t_wattle_fence_posts_season_winter",
+    "fg": "t_wattle_fence_posts",
+    "bg": "snow_shallow_center"
+  }
+]

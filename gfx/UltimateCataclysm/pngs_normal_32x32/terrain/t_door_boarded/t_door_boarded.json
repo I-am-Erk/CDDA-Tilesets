@@ -1,0 +1,12 @@
+[
+  {
+    "id": "t_door_boarded",
+    "fg": "t_door_boarded",
+    "bg": "t_door_frame"
+  },
+  {
+    "id": "t_door_boarded_damaged",
+    "fg": "t_door_boarded_damaged",
+    "bg": "t_door_frame"
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "id": "t_door_green_frame",
+    "fg": "t_door_green_frame"
+  },
+  {
+    "id": "t_door_green_c",
+    "fg": "t_door_green_c",
+    "bg": "t_door_green_frame"
+  },
+  {
+    "id": "t_door_green_o",
+    "fg": "t_door_green_o",
+    "bg": "t_door_green_frame"
+  },
+  {
+    "id": "t_door_green_b",
+    "fg": "t_door_green_b",
+    "bg": "t_door_green_frame"
+  }
+]

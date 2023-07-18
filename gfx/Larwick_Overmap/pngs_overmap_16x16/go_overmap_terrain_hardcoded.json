@@ -189,5 +189,9 @@
   {
     "id": "tutorial",
     "fg": "square_cyan"
+  },
+  {
+    "id": "rock_border",
+    "fg": "rock_white"
   }
 ]

@@ -7,6 +7,6 @@
     "explosion_death_amigara",
     "spawning_zombie_die"
   ],
-  "fg": "t_open_air",
+  "fg": "empty_32x32",
   "bg": ""
 }

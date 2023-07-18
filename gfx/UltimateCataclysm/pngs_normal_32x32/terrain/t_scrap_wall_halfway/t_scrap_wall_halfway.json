@@ -1,0 +1,74 @@
+{
+  "id": "t_scrap_wall_halfway",
+  "fg": "t_scrap_wall_halfway_edge_ew",
+  "bg": "t_scrap_floor_unconnected_2",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_scrap_wall_halfway_t_connection_n",
+      "bg": "t_scrap_floor_center_2"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_scrap_wall_halfway_corner_nw",
+        "t_scrap_wall_halfway_corner_sw",
+        "t_scrap_wall_halfway_corner_se",
+        "t_scrap_wall_halfway_corner_ne"
+      ],
+      "bg": [
+        "t_scrap_floor_corner_nw_2",
+        "t_scrap_floor_corner_sw_2",
+        "t_scrap_floor_corner_se_2",
+        "t_scrap_floor_corner_ne_2"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_scrap_wall_halfway_t_connection_n",
+        "t_scrap_wall_halfway_t_connection_w",
+        "t_scrap_wall_halfway_t_connection_s",
+        "t_scrap_wall_halfway_t_connection_e"
+      ],
+      "bg": [
+        "t_scrap_floor_t_connection_n_2",
+        "t_scrap_floor_t_connection_w_2",
+        "t_scrap_floor_t_connection_s_2",
+        "t_scrap_floor_t_connection_e_2"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_scrap_wall_halfway_edge_ns",
+        "t_scrap_wall_halfway_edge_ew"
+      ],
+      "bg": [
+        "t_scrap_floor_edge_ns_2",
+        "t_scrap_floor_edge_ew_2"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_scrap_wall_halfway_end_piece_n",
+        "t_scrap_wall_halfway_end_piece_w",
+        "t_scrap_wall_halfway_end_piece_s",
+        "t_scrap_wall_halfway_end_piece_e"
+      ],
+      "bg": [
+        "t_scrap_floor_end_piece_n_2",
+        "t_scrap_floor_end_piece_w_2",
+        "t_scrap_floor_end_piece_s_2",
+        "t_scrap_floor_end_piece_e_2"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_scrap_wall_halfway_edge_ew",
+      "bg": "t_scrap_floor_unconnected_2"
+    }
+  ]
+}

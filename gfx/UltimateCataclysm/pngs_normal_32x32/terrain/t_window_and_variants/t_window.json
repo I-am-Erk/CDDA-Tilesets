@@ -8,6 +8,20 @@
     "fg": "t_window_taped"
   },
   {
+    "id": [
+      "t_window_no_curtains_taped",
+      "t_double_pane_glass_taped",
+      "t_single_pane_glass_taped",
+      "t_triple_pane_glass_taped",
+      "t_quadruple_pane_glass_taped",
+      "t_reinforced_double_pane_glass_taped",
+      "t_reinforced_single_pane_glass_taped",
+      "t_reinforced_triple_pane_glass_taped",
+      "t_reinforced_quadruple_pane_glass_taped"
+    ],
+    "fg": "t_window_no_curtains_taped"
+  },
+  {
     "id": "t_window_bars",
     "fg": "t_window_bars"
   },

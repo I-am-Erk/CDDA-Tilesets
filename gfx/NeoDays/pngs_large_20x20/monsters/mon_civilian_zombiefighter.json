@@ -1,0 +1,14 @@
+{
+  "id": "mon_civilian_zombiefighter",
+  "fg": [
+    {
+      "weight": 1,
+      "sprite": "mon_civilian_zombiefighter_m"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_civilian_zombiefighter_f"
+    }
+  ],
+  "//": "changing these to simply use character and overlay the stick would be better, but i do not see how to do that whilst keeping variants correct"
+}

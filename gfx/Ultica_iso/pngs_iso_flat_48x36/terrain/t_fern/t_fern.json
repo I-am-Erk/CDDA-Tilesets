@@ -2,11 +2,11 @@
   {
     "id": "t_fern",
     "fg": "t_fern_fg",
-    "bg": "t_grass_00"
+    "bg": "t_grass_summer_00"
   },
   {
     "id": "t_fern_harvested",
     "fg": "t_fern_harvested_fg",
-    "bg": "t_grass_01"
+    "bg": "t_grass_summer_01"
   }
 ]

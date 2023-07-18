@@ -40,16 +40,6 @@
     "bg": ""
   },
   {
-    "id": "overlay_female_mutation_THICK_SCALES",
-    "fg": "scales_f",
-    "bg": ""
-  },
-  {
-    "id": "overlay_male_mutation_THICK_SCALES",
-    "fg": "scales_m",
-    "bg": ""
-  },
-  {
     "id": "overlay_female_mutation_PLANTSKIN",
     "fg": "plantskin_f",
     "bg": ""

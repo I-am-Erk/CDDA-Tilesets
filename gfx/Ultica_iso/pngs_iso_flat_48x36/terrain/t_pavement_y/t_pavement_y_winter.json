@@ -1,0 +1,61 @@
+{
+  "id": "t_pavement_y_season_winter",
+  "fg": "t_pavement_y_winter_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [ 
+        { "weight": 1, "sprite":"t_pavement_y_winter_center"  },
+        { "weight": 1, "sprite":"t_pavement_y_winter1_center" }, 
+        { "weight": 1, "sprite":"t_pavement_y_winter2_center" }, 
+        { "weight": 1, "sprite":"t_pavement_y_winter3_center" }
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        { "weight": 1, "sprite": [ "t_pavement_y_winter_corner_nw", "t_pavement_y_winter_corner_sw", "t_pavement_y_winter_corner_se", "t_pavement_y_winter_corner_ne" ] },
+        { "weight": 1, "sprite": [ "t_pavement_y_winter1_corner_nw", "t_pavement_y_winter1_corner_sw", "t_pavement_y_winter1_corner_se", "t_pavement_y_winter1_corner_ne" ] },
+        { "weight": 1, "sprite": [ "t_pavement_y_winter2_corner_nw", "t_pavement_y_winter2_corner_sw", "t_pavement_y_winter2_corner_se", "t_pavement_y_winter2_corner_ne" ] },
+        { "weight": 1, "sprite": [ "t_pavement_y_winter3_corner_nw", "t_pavement_y_winter3_corner_sw", "t_pavement_y_winter3_corner_se", "t_pavement_y_winter3_corner_ne" ] }
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        { "weight": 1, "sprite": [ "t_pavement_y_winter_t_connection_n", "t_pavement_y_winter_t_connection_w", "t_pavement_y_winter_t_connection_s", "t_pavement_y_winter_t_connection_e" ] },
+        { "weight": 1, "sprite": [ "t_pavement_y_winter1_t_connection_n", "t_pavement_y_winter1_t_connection_w", "t_pavement_y_winter1_t_connection_s", "t_pavement_y_winter1_t_connection_e" ] },
+        { "weight": 1, "sprite": [ "t_pavement_y_winter2_t_connection_n", "t_pavement_y_winter2_t_connection_w", "t_pavement_y_winter2_t_connection_s", "t_pavement_y_winter2_t_connection_e" ] },
+        { "weight": 1, "sprite": [ "t_pavement_y_winter3_t_connection_n", "t_pavement_y_winter3_t_connection_w", "t_pavement_y_winter3_t_connection_s", "t_pavement_y_winter3_t_connection_e" ] }
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        { "weight": 1, "sprite": [ "t_pavement_y_winter_edge_ns", "t_pavement_y_winter_edge_ew" ] },
+        { "weight": 1, "sprite": [ "t_pavement_y_winter1_edge_ns", "t_pavement_y_winter1_edge_ew" ] },
+        { "weight": 1, "sprite": [ "t_pavement_y_winter2_edge_ns", "t_pavement_y_winter2_edge_ew" ] },
+        { "weight": 1, "sprite": [ "t_pavement_y_winter3_edge_ns", "t_pavement_y_winter3_edge_ew" ] }
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        { "weight": 1, "sprite": [ "t_pavement_y_winter_end_piece_n", "t_pavement_y_winter_end_piece_w", "t_pavement_y_winter_end_piece_s", "t_pavement_y_winter_end_piece_e" ] },
+        { "weight": 1, "sprite": [ "t_pavement_y_winter1_end_piece_n", "t_pavement_y_winter1_end_piece_w", "t_pavement_y_winter1_end_piece_s", "t_pavement_y_winter1_end_piece_e" ] },
+        { "weight": 1, "sprite": [ "t_pavement_y_winter2_end_piece_n", "t_pavement_y_winter2_end_piece_w", "t_pavement_y_winter2_end_piece_s", "t_pavement_y_winter2_end_piece_e" ] },
+        { "weight": 1, "sprite": [ "t_pavement_y_winter3_end_piece_n", "t_pavement_y_winter3_end_piece_w", "t_pavement_y_winter3_end_piece_s", "t_pavement_y_winter3_end_piece_e" ] }
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        { "weight": 1, "sprite": [ "t_pavement_y_winter_unconnected", "t_pavement_y_winter_unconnected" ] },
+        { "weight": 1, "sprite": [ "t_pavement_y_winter1_unconnected", "t_pavement_y_winter1_unconnected" ] },
+        { "weight": 1, "sprite": [ "t_pavement_y_winter2_unconnected", "t_pavement_y_winter2_unconnected" ] },
+        { "weight": 1, "sprite": [ "t_pavement_y_winter3_unconnected", "t_pavement_y_winter3_unconnected" ] }
+      ]
+    }
+  ]
+}

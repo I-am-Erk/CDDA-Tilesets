@@ -1,0 +1,21 @@
+[
+  {
+    "id": "t_door_red_frame",
+    "fg": "t_door_red_frame"
+  },
+  {
+    "id": "t_door_red_c",
+    "fg": "t_door_red_c",
+    "bg": "t_door_red_frame"
+  },
+  {
+    "id": "t_door_red_o",
+    "fg": "t_door_red_o",
+    "bg": "t_door_red_frame"
+  },
+  {
+    "id": "t_door_red_b",
+    "fg": "t_door_red_b",
+    "bg": "t_door_red_frame"
+  }
+]

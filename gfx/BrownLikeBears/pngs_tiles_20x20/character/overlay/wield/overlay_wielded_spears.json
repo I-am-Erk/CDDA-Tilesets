@@ -1,0 +1,15 @@
+{
+  "id": [
+  "overlay_wielded_spear_knife_proper",
+  "overlay_wielded_spear_knife_superior",
+  "overlay_wielded_spear_forked",
+  "overlay_wielded_spear_stone_simple",
+  "overlay_wielded_spear_stone",
+  "overlay_wielded_spear_steel_crude",
+  "overlay_wielded_spear_steel"
+  ],
+  "fg": [
+    "overlay_wielded_spear_knife_proper"
+  ],
+  "rotates": false
+}

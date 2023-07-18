@@ -1,0 +1,12 @@
+[
+  {
+    "id": "t_railroad_crossing_signal",
+    "fg": "t_railroad_crossing_signal",
+    "bg": "dirt_tall"
+  },
+  {
+    "id": "t_railroad_crossing_signal_season_winter",
+    "fg": "t_railroad_crossing_signal",
+    "bg": "snow_shallow_tall"
+  }
+]

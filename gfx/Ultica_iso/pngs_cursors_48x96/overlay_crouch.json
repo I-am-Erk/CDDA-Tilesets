@@ -1,0 +1,18 @@
+[
+  {
+    "id": [ "overlay_crouch"  ],
+    "animated": true,
+    "fg": [
+      { "weight": 16, "sprite": "overlay_crouch0" },
+      { "weight": 8, "sprite": "overlay_crouch1" },
+      { "weight": 8, "sprite": "overlay_crouch2" },
+      { "weight": 8, "sprite": "overlay_crouch3" },
+      { "weight": 8, "sprite": "overlay_crouch4" },
+      { "weight": 16, "sprite": "overlay_crouch5" },
+      { "weight": 8, "sprite": "overlay_crouch4" },
+      { "weight": 8, "sprite": "overlay_crouch3" },
+      { "weight": 8, "sprite": "overlay_crouch2" },
+      { "weight": 8, "sprite": "overlay_crouch1" }
+    ]
+  }
+]

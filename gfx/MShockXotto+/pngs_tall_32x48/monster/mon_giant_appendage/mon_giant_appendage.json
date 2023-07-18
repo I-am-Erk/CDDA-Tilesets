@@ -1,0 +1,9 @@
+{
+  "id": "mon_giant_appendage",
+  "animated": true,
+  "fg": [
+    { "weight": 20, "sprite": "mon_giant_appendage_1" },
+    { "weight": 20, "sprite": "mon_giant_appendage_2" },
+    { "weight": 20, "sprite": "mon_giant_appendage_3" }
+  ]
+}

@@ -1,0 +1,33 @@
+[
+  {
+    "id": [ "mon_feral_fancy_rapier", "mon_feral_fancy_rapier_fake" ],
+    "fg": [
+      { "weight": 1, "sprite": "mon_feral_fancy_rapier_0" },
+      { "weight": 1, "sprite": "mon_feral_fancy_rapier_1" },
+      { "weight": 1, "sprite": "mon_feral_fancy_rapier_2" },
+      { "weight": 1, "sprite": "mon_feral_fancy_rapier_3" },
+      { "weight": 1, "sprite": "mon_feral_fancy_rapier_4" },
+      { "weight": 1, "sprite": "mon_feral_fancy_rapier_5" },
+      { "weight": 1, "sprite": "mon_feral_fancy_rapier_6" },
+      { "weight": 1, "sprite": "mon_feral_fancy_rapier_7" }
+    ],
+    "bg": [ "shadow_32x32_normal" ],
+    "rotates": false
+  },
+  {
+    "id": "mon_feral_fancy_crossbow",
+    "fg": [
+      { "weight": 1, "sprite": "mon_feral_fancy_crossbow_0" },
+      { "weight": 1, "sprite": "mon_feral_fancy_crossbow_1" },
+      { "weight": 1, "sprite": "mon_feral_fancy_crossbow_2" },
+      { "weight": 1, "sprite": "mon_feral_fancy_crossbow_3" },
+      { "weight": 1, "sprite": "mon_feral_fancy_crossbow_4" },
+      { "weight": 1, "sprite": "mon_feral_fancy_crossbow_5" },
+      { "weight": 1, "sprite": "mon_feral_fancy_crossbow_6" },
+      { "weight": 1, "sprite": "mon_feral_fancy_crossbow_7" }
+    ],
+    "bg": [ "shadow_32x32_normal" ],
+    "rotates": false
+  }
+]
+ 

@@ -1,12 +1,6 @@
 {
   "id": [
-    "vp_windshield",
-    "vp_windshield_wheel_left",
-    "vp_windshield_wheel_right",
-    "vp_windshield_full_wheel_left",
-    "vp_windshield_full_wheel_right",
-    "vp_windshield_vertical_2_left",
-    "vp_windshield_vertical_2_right"
+    "vp_windshield"
   ],
   "fg": "vp_windshield",
   "bg": "background_black",
