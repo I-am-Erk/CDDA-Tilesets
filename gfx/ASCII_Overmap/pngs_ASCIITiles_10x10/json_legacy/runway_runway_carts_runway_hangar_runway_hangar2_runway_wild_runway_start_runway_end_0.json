@@ -1,1 +1,8 @@
-{"id": ["runway", "runway_carts", "runway_hangar", "runway_hangar2", "runway_wild", "runway_start", "runway_end"], "fg": ["532_runway_0"], "bg": ["64_necropolis_a_2_1"], "rotates": true}
+{"id": ["runway", "runway_carts", "runway_hangar", "runway_hangar2", "runway_wild", "runway_start", "runway_end","mil_base_minefield_n","mil_base_minefield_s","refctr_fence_h",
+            "refctr_fence_entrance_L",
+            "refctr_fence_entrance_R","s_air_runway_l",
+            "s_air_runway_B",
+            "s_air_runway_term",
+            "s_air_runway",
+            "s_air_runway_hangars",
+            "s_air_runway_r"], "fg": ["532_runway_0"], "bg": ["64_necropolis_a_2_1"], "rotates": true}

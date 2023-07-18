@@ -1,1 +1,9 @@
-{"id": "afs_crashed_escape_pod", "fg": ["891_campground_1a_npc_0"], "bg": ["77_s_butcher_1"]}
+{"id": ["afs_crashed_escape_pod", "crashing_ship_3",
+            "crashing_ship_2",
+            "crashing_ship_1",
+            "crashing_ship_6",
+            "crashing_ship_5",
+            "crashing_ship_4",
+            "crashing_ship_9",
+            "crashing_ship_8",
+            "crashing_ship_7"], "fg": ["891_campground_1a_npc_0"], "bg": ["77_s_butcher_1"]}

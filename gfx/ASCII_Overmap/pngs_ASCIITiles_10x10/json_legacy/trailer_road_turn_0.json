@@ -1,1 +1,1 @@
-{"id": "trailer_road_turn", "fg": ["527_trailer_road_turn_0"], "bg": ["64_necropolis_a_2_1"], "rotates": true}
+{"id": ["trailer_road_turn","mil_base_minefield_ne","refctr_fence_NE"], "fg": ["527_trailer_road_turn_0"], "bg": ["64_necropolis_a_2_1"], "rotates": true}

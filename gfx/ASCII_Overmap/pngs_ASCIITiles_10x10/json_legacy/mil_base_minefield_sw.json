@@ -1,0 +1,6 @@
+{
+        "id": ["mil_base_minefield_sw","refctr_fence_SW"],
+        "fg": "light_gray192",
+        "bg": "64_necropolis_a_2_1",
+        "rotates": true
+    }
