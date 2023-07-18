@@ -5,4 +5,7 @@
             "s_air_runway_term",
             "s_air_runway",
             "s_air_runway_hangars",
-            "s_air_runway_r"], "fg": ["532_runway_0"], "bg": ["64_necropolis_a_2_1"], "rotates": true}
+            "s_air_runway_r","speedway_7_5",
+            "speedway_6_7",
+            "speedway_7_7","speedway_6_7_1",
+            "speedway_6_7_2"], "fg": ["532_runway_0"], "bg": ["64_necropolis_a_2_1"], "rotates": true}

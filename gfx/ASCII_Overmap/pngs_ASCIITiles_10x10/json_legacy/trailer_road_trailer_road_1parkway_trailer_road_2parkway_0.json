@@ -1,1 +1,5 @@
-{"id": ["trailer_road", "trailer_road_1parkway", "trailer_road_2parkway","mil_base_minefield_e","mil_base_minefield_w","refctr_fence_v"], "fg": ["515_trailer_road_0"], "bg": ["64_necropolis_a_2_1"], "rotates": true}
+{"id": ["trailer_road", "trailer_road_1parkway", "trailer_road_2parkway","mil_base_minefield_e","mil_base_minefield_w","refctr_fence_v","speedway_8_2",
+            "speedway_8_3",
+            "speedway_8_4",
+            "speedway_8_6",
+            "speedway_5_9"], "fg": ["515_trailer_road_0"], "bg": ["64_necropolis_a_2_1"], "rotates": true}

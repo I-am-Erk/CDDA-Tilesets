@@ -1,0 +1,11 @@
+{
+        "id": [
+            "speedway_3_0",
+            "speedway_5_0",
+            "speedway_2_5",
+            "speedway_4_5"
+        ],
+        "fg": "red196",
+        "bg": "64_necropolis_a_2_1",
+        "rotates": true
+    }
