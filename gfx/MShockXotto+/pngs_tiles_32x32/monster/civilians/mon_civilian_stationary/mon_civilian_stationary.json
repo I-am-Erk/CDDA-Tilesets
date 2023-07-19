@@ -1,0 +1,9 @@
+{
+  "id": "mon_civilian_stationary",
+  "fg": [
+    { "weight": 1, "sprite": "mon_civilian_stationary_0" },
+    { "weight": 1, "sprite": "mon_civilian_stationary_1" }
+  ],
+  "bg": ["shadow_32x32_normal"],
+  "rotates": false
+}
