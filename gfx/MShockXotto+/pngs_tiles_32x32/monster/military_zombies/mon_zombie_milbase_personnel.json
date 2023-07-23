@@ -1,9 +1,0 @@
-{
-  "id": "mon_zombie_milbase_personnel",
-  "fg": [
-    { "weight": 1, "sprite": "mon_zombie_milbase_personnel" },
-    { "weight": 1, "sprite": "mon_zombie_milbase_personnel_1" }
-  ],
-  "bg": ["shadow_32x32_normal"],
-  "rotates": false
-}
