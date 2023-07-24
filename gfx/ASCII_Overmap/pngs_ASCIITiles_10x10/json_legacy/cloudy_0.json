@@ -1,1 +1,1 @@
-{"id": "cloudy", "fg": ["718_cloudy_0"], "bg": ["72_office_tower_ne_1"]}
+{"id": ["cloudy","fog","mist"], "fg": ["718_cloudy_0"], "bg": ["72_office_tower_ne_1"]}
