@@ -3,12 +3,7 @@
     "arm_splint",
     "leg_splint",
     "2byarm_guard",
-    "2byshin_guard",
-    "vambrace_larmor",
-    "armguard_larmor",
-    "xs_armguard_larmor",
-    "xl_armguard_larmor",
-    "armguard_larmor_mod"
+    "2byshin_guard"
   ],
   "fg": "arm_splint"
 }
