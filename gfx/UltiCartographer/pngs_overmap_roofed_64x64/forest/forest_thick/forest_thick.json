@@ -1,0 +1,15 @@
+{
+    "id": "forest_thick",
+    "fg": [
+        {"weight": 1, "sprite": "forest_thick_trees_0"},
+        {"weight": 1, "sprite": "forest_thick_trees_1"},
+        {"weight": 1, "sprite": "forest_thick_trees_2"},
+        {"weight": 1, "sprite": "forest_thick_trees_3"}
+    ],
+    "bg": [
+        {"weight": 1, "sprite": "forest_thick_floor_0"},
+        {"weight": 1, "sprite": "forest_thick_floor_1"},
+        {"weight": 1, "sprite": "forest_thick_floor_2"},
+        {"weight": 1, "sprite": "forest_thick_floor_3"}
+    ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "field",  
+  "fg": [
+    { "weight": 1, "sprite": "field_details_basic_0" },
+    { "weight": 1, "sprite": "field_details_basic_1" },
+    { "weight": 1, "sprite": "field_details_basic_2" },
+    { "weight": 1, "sprite": "field_details_basic_3" }
+  ],
+  "bg": [
+    { "weight": 1, "sprite": "field_0" },
+    { "weight": 1, "sprite": "field_1" },
+    { "weight": 1, "sprite": "field_2" },
+    { "weight": 1, "sprite": "field_3" },
+    { "weight": 1, "sprite": "field_4" },
+    { "weight": 1, "sprite": "field_5" },
+    { "weight": 1, "sprite": "field_6" },
+    { "weight": 1, "sprite": "field_7" }
+  ]
+}

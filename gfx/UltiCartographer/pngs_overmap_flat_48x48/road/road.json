@@ -1,0 +1,79 @@
+[
+  {
+    "id": "road",
+    "fg": [
+      { "weight": 1, "sprite": "road_0" },
+      { "weight": 1, "sprite": "road_1" },
+      { "weight": 1, "sprite": "road_2" },
+      { "weight": 1, "sprite": "road_3" }
+    ],
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "center", "fg": "road_center", "bg": [
+        { "weight": 1, "sprite": "road_0" },
+        { "weight": 1, "sprite": "road_1" },
+        { "weight": 1, "sprite": "road_2" },
+        { "weight": 1, "sprite": "road_3" }
+      ] 
+      },
+      {
+        "id": "edge",
+        "fg": [ "road_edge_0", "road_edge_1" ],
+        "bg": [
+          { "weight": 1, "sprite": "road_0" },
+          { "weight": 1, "sprite": "road_1" },
+          { "weight": 1, "sprite": "road_2" },
+          { "weight": 1, "sprite": "road_3" }
+        ]
+      },
+      { "id": "corner", "fg": [ "road_corner_0", "road_corner_1", "road_corner_2", "road_corner_3" ], 
+      "bg": [
+        { "weight": 1, "sprite": "common_field_0" },
+        { "weight": 1, "sprite": "common_field_1" },
+        { "weight": 1, "sprite": "common_field_2" },
+        { "weight": 1, "sprite": "common_field_3" }
+      ] 
+      },
+      {
+        "id": "t_connection",
+        "fg": [ "road_t_connection_0", "road_t_connection_1", "road_t_connection_2", "road_t_connection_3" ],
+        "bg": [
+          { "weight": 1, "sprite": "road_0" },
+          { "weight": 1, "sprite": "road_1" },
+          { "weight": 1, "sprite": "road_2" },
+          { "weight": 1, "sprite": "road_3" }
+        ]
+      },
+      {
+        "id": "end_piece",
+        "fg": [ "road_end_piece_0", "road_end_piece_1", "road_end_piece_2", "road_end_piece_3" ],
+        "bg": [
+          { "weight": 1, "sprite": "road_0" },
+          { "weight": 1, "sprite": "road_1" },
+          { "weight": 1, "sprite": "road_2" },
+          { "weight": 1, "sprite": "road_3" }
+        ] 
+      },
+      {
+        "id": "unconnected",
+        "fg": "road_unconnected" ,
+        "bg": [
+          { "weight": 1, "sprite": "road_0" },
+          { "weight": 1, "sprite": "road_1" },
+          { "weight": 1, "sprite": "road_2" },
+          { "weight": 1, "sprite": "road_3" }
+        ] 
+      }
+    ]
+  },
+  {
+    "id": "road_nesw_manhole",
+    "fg": "road_nesw_manhole",
+    "bg": [
+      { "weight": 1, "sprite": "road_0" },
+      { "weight": 1, "sprite": "road_1" },
+      { "weight": 1, "sprite": "road_2" },
+      { "weight": 1, "sprite": "road_3" }
+    ]
+  }
+]

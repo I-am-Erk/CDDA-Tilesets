@@ -1,0 +1,16 @@
+{
+  "id": "s_electronics",
+  "fg": [
+    "s_electronics_0",
+    "s_electronics_1",
+    "s_electronics_2",
+    "s_electronics_3"
+  ],
+  "bg": [
+    { "weight": 1, "sprite": "common_field_64_0" },
+    { "weight": 1, "sprite": "common_field_64_1" },
+    { "weight": 1, "sprite": "common_field_64_2" },
+    { "weight": 1, "sprite": "common_field_64_3" }
+  ],
+  "rotates": true
+}

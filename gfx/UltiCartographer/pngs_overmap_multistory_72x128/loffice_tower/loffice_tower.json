@@ -1,0 +1,43 @@
+[
+    {
+        "//": "===== GROUND LEVEL =====",
+        "id": "loffice_tower_5",
+        "fg": [
+            "loffice_tower_5_0",
+            "loffice_tower_7_0",
+            "loffice_tower_8_0",
+            "loffice_tower_6_0"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "loffice_tower_6",
+        "fg": [
+            "loffice_tower_6_0",
+            "loffice_tower_5_0",
+            "loffice_tower_7_0",
+            "loffice_tower_8_0"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "loffice_tower_7",
+        "fg": [
+            "loffice_tower_7_0",
+            "loffice_tower_8_0",
+            "loffice_tower_6_0",
+            "loffice_tower_5_0"
+        ],
+        "rotates": true
+    },
+    {
+        "id": "loffice_tower_8",
+        "fg": [
+            "loffice_tower_8_0",
+            "loffice_tower_6_0",
+            "loffice_tower_5_0",
+            "loffice_tower_7_0"
+        ],
+        "rotates": true
+    }
+]

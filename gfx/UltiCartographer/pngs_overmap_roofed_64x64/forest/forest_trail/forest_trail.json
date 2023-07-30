@@ -1,0 +1,75 @@
+{
+    "id": "forest_trail",
+    "//": "Is there a better way to randomize multitiles that are NOT supposed to rotate?",
+    "fg": [
+      { "weight": 1, "sprite": ["forest_trail_trees_0", "forest_trail_trees_0", "forest_trail_trees_0", "forest_trail_trees_0"] },
+      { "weight": 1, "sprite": ["forest_trail_trees_1", "forest_trail_trees_1", "forest_trail_trees_1", "forest_trail_trees_1"] },
+      { "weight": 1, "sprite": ["forest_trail_trees_2", "forest_trail_trees_2", "forest_trail_trees_2", "forest_trail_trees_2"] },
+      { "weight": 1, "sprite": ["forest_trail_trees_3", "forest_trail_trees_3", "forest_trail_trees_3", "forest_trail_trees_3"] }
+    ],
+    "bg": [
+      "forest_trail_0",
+      "forest_trail_1",
+      "forest_trail_2",
+      "forest_trail_3"
+    ],
+    "multitile": true,
+    "additional_tiles": [
+        { 
+          "id": "corner",
+          "fg": [
+            { "weight": 1, "sprite": ["forest_trail_trees_0", "forest_trail_trees_0", "forest_trail_trees_0", "forest_trail_trees_0"] },
+            { "weight": 1, "sprite": ["forest_trail_trees_1", "forest_trail_trees_1", "forest_trail_trees_1", "forest_trail_trees_1"] },
+            { "weight": 1, "sprite": ["forest_trail_trees_2", "forest_trail_trees_2", "forest_trail_trees_2", "forest_trail_trees_2"] },
+            { "weight": 1, "sprite": ["forest_trail_trees_3", "forest_trail_trees_3", "forest_trail_trees_3", "forest_trail_trees_3"] }
+          ],
+          "bg": [
+            "forest_trail_corner_0",
+            "forest_trail_corner_1",
+            "forest_trail_corner_2",
+            "forest_trail_corner_3"
+            ] 
+        },
+        { 
+          "id": "edge",
+          "fg": [
+            { "weight": 1, "sprite": ["forest_trail_trees_0", "forest_trail_trees_0", "forest_trail_trees_0", "forest_trail_trees_0"] },
+            { "weight": 1, "sprite": ["forest_trail_trees_1", "forest_trail_trees_1", "forest_trail_trees_1", "forest_trail_trees_1"] },
+            { "weight": 1, "sprite": ["forest_trail_trees_2", "forest_trail_trees_2", "forest_trail_trees_2", "forest_trail_trees_2"] },
+            { "weight": 1, "sprite": ["forest_trail_trees_3", "forest_trail_trees_3", "forest_trail_trees_3", "forest_trail_trees_3"] }
+          ],
+          "bg": [
+            { "weight": 1, "sprite": ["forest_trail_edge_0", "forest_trail_edge_1", "forest_trail_edge_2", "forest_trail_edge_3"]},
+            { "weight": 1, "sprite": ["forest_trail_edge_2", "forest_trail_edge_3", "forest_trail_edge_0", "forest_trail_edge_1"]}
+          ]
+        },
+        { 
+          "id": "t_connection",
+          "fg": [
+            { "weight": 1, "sprite": ["forest_trail_trees_0", "forest_trail_trees_0", "forest_trail_trees_0", "forest_trail_trees_0"] },
+            { "weight": 1, "sprite": ["forest_trail_trees_1", "forest_trail_trees_1", "forest_trail_trees_1", "forest_trail_trees_1"] },
+            { "weight": 1, "sprite": ["forest_trail_trees_2", "forest_trail_trees_2", "forest_trail_trees_2", "forest_trail_trees_2"] },
+            { "weight": 1, "sprite": ["forest_trail_trees_3", "forest_trail_trees_3", "forest_trail_trees_3", "forest_trail_trees_3"] }
+          ],
+          "bg": [
+            "forest_trail_t_connection_0",
+            "forest_trail_t_connection_1",
+            "forest_trail_t_connection_2",
+            "forest_trail_t_connection_3"
+            ] 
+        },
+        { 
+          "id": "end_piece",
+          "fg": [
+            { "weight": 1, "sprite": ["forest_trail_trees_0", "forest_trail_trees_0", "forest_trail_trees_0", "forest_trail_trees_0"] },
+            { "weight": 1, "sprite": ["forest_trail_trees_1", "forest_trail_trees_1", "forest_trail_trees_1", "forest_trail_trees_1"] },
+            { "weight": 1, "sprite": ["forest_trail_trees_2", "forest_trail_trees_2", "forest_trail_trees_2", "forest_trail_trees_2"] },
+            { "weight": 1, "sprite": ["forest_trail_trees_3", "forest_trail_trees_3", "forest_trail_trees_3", "forest_trail_trees_3"] }
+          ],
+          "bg": [
+            { "weight": 1, "sprite": ["forest_trail_edge_0", "forest_trail_edge_1", "forest_trail_edge_2", "forest_trail_edge_3"]},
+            { "weight": 1, "sprite": ["forest_trail_edge_2", "forest_trail_edge_3", "forest_trail_edge_0", "forest_trail_edge_1"]}
+          ]
+        }
+    ]
+}

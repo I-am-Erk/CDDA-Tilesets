@@ -1,0 +1,15 @@
+{
+    "id": "forest_water",
+    "fg": [
+        {"weight": 1, "sprite": "forest_water_trees_0"},
+        {"weight": 1, "sprite": "forest_water_trees_1"},
+        {"weight": 1, "sprite": "forest_water_trees_2"},
+        {"weight": 1, "sprite": "forest_water_trees_3"}
+    ],
+    "bg": [
+        {"weight": 1, "sprite": "forest_water_floor_0"},
+        {"weight": 1, "sprite": "forest_water_floor_1"},
+        {"weight": 1, "sprite": "forest_water_floor_2"},
+        {"weight": 1, "sprite": "forest_water_floor_3"}
+    ]
+}

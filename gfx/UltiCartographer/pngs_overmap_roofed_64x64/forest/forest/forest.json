@@ -1,0 +1,15 @@
+{
+    "id": "forest",
+    "fg": [
+        {"weight": 1, "sprite": "forest_trees_0"},
+        {"weight": 1, "sprite": "forest_trees_1"},
+        {"weight": 1, "sprite": "forest_trees_2"},
+        {"weight": 1, "sprite": "forest_trees_3"}
+    ],
+    "bg": [
+        {"weight": 1, "sprite": "forest_floor_0"},
+        {"weight": 1, "sprite": "forest_floor_1"},
+        {"weight": 1, "sprite": "forest_floor_2"},
+        {"weight": 1, "sprite": "forest_floor_3"}
+    ]
+}

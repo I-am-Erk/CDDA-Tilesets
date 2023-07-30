@@ -1,0 +1,16 @@
+{
+  "id": "generic_city_house",
+  "fg": [
+    "generic_city_house_0",
+    "generic_city_house_1",
+    "generic_city_house_2",
+    "generic_city_house_3"
+  ],
+  "bg": [
+    { "weight": 1, "sprite": "common_field_64_0" },
+    { "weight": 1, "sprite": "common_field_64_1" },
+    { "weight": 1, "sprite": "common_field_64_2" },
+    { "weight": 1, "sprite": "common_field_64_3" }
+  ],
+  "rotates": true
+}
