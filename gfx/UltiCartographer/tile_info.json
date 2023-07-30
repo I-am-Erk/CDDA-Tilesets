@@ -1,0 +1,20 @@
+[
+  {
+    "pixelscale": 1,
+    "width": 48,
+    "height": 48,
+    "zlevel_height": 0
+  },
+  {
+    "overmap_flat.png": {}
+  },
+  {
+    "overmap_roofed.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -16 }
+  },
+  {
+    "overmap_multistory.png": { "sprite_width": 72, "sprite_height": 128, "sprite_offset_x": -24, "sprite_offset_y": -80 }
+  },
+  {
+    "fallback.png": { "fallback": true }
+  }
+]

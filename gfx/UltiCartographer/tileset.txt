@@ -1,0 +1,7 @@
+# UltiCartographer
+# For overmap use only
+
+NAME: UltiCartographer
+VIEW: UltiCarto (Early Alpha)
+JSON: tile_config.json
+TILESET: tiles.png
