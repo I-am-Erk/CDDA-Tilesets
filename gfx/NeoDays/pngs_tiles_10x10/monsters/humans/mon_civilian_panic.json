@@ -1,5 +1,8 @@
 {
-  "id": "mon_civilian_panic",
+  "id": [
+    "mon_civilian_panic",
+    "mon_civilian_parent"
+  ],
   "fg": [
     {
       "weight": 1,
