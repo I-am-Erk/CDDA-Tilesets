@@ -2,7 +2,8 @@
   "id": [
     "trenchcoat",
     "duster",
-    "greatcoat"
+    "xs_duster",
+    "xl_duster"
   ],
   "fg": "trenchcoat"
 }
