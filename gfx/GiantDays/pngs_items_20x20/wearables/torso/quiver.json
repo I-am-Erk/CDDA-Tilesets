@@ -1,9 +1,7 @@
 {
   "id": [
     "quiver",
-    "quiver_birchbark",
-    "sheath",
-    "bootsheath"
+    "quiver_birchbark"
   ],
   "fg": "quiver"
 }
