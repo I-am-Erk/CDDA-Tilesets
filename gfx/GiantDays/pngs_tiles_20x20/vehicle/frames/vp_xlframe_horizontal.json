@@ -1,6 +1,6 @@
 {
-  "id": "vp_xlframe_se",
-  "fg": "vp_xlframe_se",
+  "id": "vp_xlframe_horizontal",
+  "fg": "vp_xlframe_horizontal",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
