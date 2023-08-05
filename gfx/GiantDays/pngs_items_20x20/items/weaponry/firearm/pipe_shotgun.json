@@ -1,0 +1,9 @@
+{
+  "id": [
+    "pipe_shotgun",
+    "pipe_double_shotgun",
+    "pipe_combination_gun",
+    "410_pipe_shotgun"
+  ],
+  "fg": "pipe_shotgun"
+}
