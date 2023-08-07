@@ -1,7 +1,8 @@
 {
   "id": [
     "t_dirtmound",
-    "t_dirtmoundfloor"
+    "t_dirtmoundfloor",
+    "t_claymound"
   ],
   "fg": "t_dirtmound"
 }

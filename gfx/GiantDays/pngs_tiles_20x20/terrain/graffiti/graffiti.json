@@ -68,6 +68,14 @@
     },
     {
       "weight": 10,
+      "sprite": "graffiti_Z"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_AT_SIGN"
+    },
+    {
+      "weight": 10,
       "sprite": "graffiti_SKULL"
     },
     {

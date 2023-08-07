@@ -1,0 +1,8 @@
+{
+  "id": "t_grass_alien",
+  "animated": true,
+  "fg": [
+    { "weight": 100, "sprite": "t_grass_alien_0" },
+    { "weight": 100, "sprite": "t_grass_alien_1" }
+  ]
+}
