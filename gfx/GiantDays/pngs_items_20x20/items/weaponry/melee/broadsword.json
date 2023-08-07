@@ -2,16 +2,11 @@
   "id": [
     "broadsword",
     "broadsword_inferior",
+    "broadsword_fake",
     "zweihander",
     "zweihander_inferior",
-    "arming_sword",
-    "arming_sword_inferior",
-    "longsword",
-    "longsword_inferior",
-    "broadsword_fake",
     "zweihander_fake",
-    "arming_sword_fake",
-    "longsword_fake"
+    "sword_crude_large"
   ],
   "fg": "broadsword"
 }

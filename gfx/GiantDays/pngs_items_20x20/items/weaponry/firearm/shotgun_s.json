@@ -1,16 +1,12 @@
 {
   "id": [
     "shotgun_s",
-    "pipe_shotgun",
     "shotgun_d",
-    "pipe_double_shotgun",
     "rebar_rifle",
     "doublespeargun",
     "blunderbuss",
     "combination_gun",
-    "pipe_combination_gun",
     "surv_levershotgun",
-    "410_pipe_shotgun",
     "m6_asw"
   ],
   "fg": "shotgun_s"
