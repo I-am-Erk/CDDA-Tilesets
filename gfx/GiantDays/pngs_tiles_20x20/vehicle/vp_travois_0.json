@@ -1,0 +1,12 @@
+{
+  "id": "vp_travois",
+  "fg": "f_ladder",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": ["vp_broken_brown"]
+    }
+  ]
+}

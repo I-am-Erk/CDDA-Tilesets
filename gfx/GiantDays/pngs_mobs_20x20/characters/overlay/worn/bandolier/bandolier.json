@@ -1,0 +1,12 @@
+[
+  {
+    "id": [ "overlay_worn_bandolier_rifle", "overlay_worn_bandolier_shotgun" ],
+    "fg": "overlay_worn_bandolier_rifle",
+    "bg": [  ]
+  },
+  {
+    "id": [ "overlay_worn_torso_bandolier_grenade", "overlay_worn_torso_bandolier_shotgun" ],
+    "fg": "overlay_worn_torso_bandolier_grenade",
+    "bg": [  ]
+  }
+]

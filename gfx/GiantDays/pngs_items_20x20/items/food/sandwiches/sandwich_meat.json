@@ -1,0 +1,26 @@
+{
+  "id": [
+    "sandwich_t",
+    "sandwich_t_wheat_free",
+    "sandwich_human",
+    "smores",
+    "sandwich_pb",
+    "sandwich_pb_wheat_free",
+    "cheeseburgerhuman",
+    "sandwich_deluxe",
+    "sandwich_deluxe_wheat_free",
+    "sandwich_dudeluxe",
+    "cheeseburger",
+    "cheeseburger_wheat_free",
+    "hamburger",
+    "hamburger_wheat_free",
+    "bobburger",
+    "sloppyjoe",
+    "sloppyjoe_wheat_free",
+    "manwich",
+    "sandwich_sauce",
+    "sandwich_sauce_wheat_free",
+    "spider_steak_sandwich"
+  ],
+  "fg": "sandwich_meat"
+}

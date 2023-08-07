@@ -1,0 +1,16 @@
+{
+  "id": [
+    "vp_woodboard_nw",
+    "vp_woodhalfboard_nw"
+  ],
+  "fg": "vp_woodboard_nw",
+  "bg": "background_black",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_brown"
+    }
+  ]
+}

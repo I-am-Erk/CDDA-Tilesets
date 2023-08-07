@@ -1,0 +1,1 @@
+{"id": "vp_vehicle_clock", "fg": ["barometer"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["vp_broken_gray"], "bg": []}], "bg": []}

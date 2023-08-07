@@ -1,0 +1,22 @@
+[
+  {
+    "height": 20,
+    "width": 20,
+    "pixelscale": 1
+  },
+  {
+    "tiles.png": {  }
+  },
+  {
+    "mobs.png": {  }
+  },
+  {
+    "items.png": {  }
+  },
+  {
+    "large.png": { "sprite_offset_x": -10, "sprite_offset_y": -20, "sprite_width": 40, "sprite_height": 40 }
+  },
+  {
+    "fallback.png": { "fallback": true }
+  }
+]

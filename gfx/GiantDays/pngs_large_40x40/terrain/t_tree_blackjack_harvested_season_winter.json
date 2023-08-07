@@ -1,0 +1,13 @@
+{
+  "id": [
+    "t_tree_willow_season_winter",
+    "t_tree_blackjack_harvested_season_winter",
+    "t_tree_blackjack_season_winter",
+    "t_tree_hickory_dead_season_winter",
+    "t_tree_hickory_season_winter",
+    "t_tree_hickory_harvested_season_winter",
+    "mon_treent_season_winter",
+    "mon_treent_green_season_winter"
+  ],
+  "fg": "t_tree_blackjack_harvested_season_winter"
+}

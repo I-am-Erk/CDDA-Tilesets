@@ -1,0 +1,19 @@
+[
+  {
+    "id": "t_grass_season_winter",
+    "fg": [
+      {
+        "weight": 4,
+        "sprite": "t_grass_season_winter"
+      },
+      {
+        "weight": 1,
+        "sprite": "t_grass_season_winter_2"
+      },
+      {
+        "weight": 1,
+        "sprite": "t_grass_season_winter_3"
+      }
+    ]
+  }
+]

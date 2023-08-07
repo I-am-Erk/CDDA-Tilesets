@@ -1,0 +1,5 @@
+{
+  "id": "vp_ram_chitin",
+  "fg": [ "vp_ram_chitin", "vp_ram_chitin_left", "vp_ram_chitin_down", "vp_ram_chitin_right" ],
+  "rotates": true
+}

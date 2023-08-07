@@ -1,0 +1,12 @@
+{
+  "id": "vp_hdroof",
+  "fg": "vp_hdroof",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_gray"
+    }
+  ]
+}

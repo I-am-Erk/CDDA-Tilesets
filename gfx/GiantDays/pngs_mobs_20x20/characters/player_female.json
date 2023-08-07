@@ -1,0 +1,5 @@
+{
+  "id": "player_female",
+  "fg": "player_female",
+  "//": "needed due to mon_hallucinator"
+}

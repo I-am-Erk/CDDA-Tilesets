@@ -1,0 +1,15 @@
+{
+  "id": [
+    "vp_reaper",
+    "vp_reaper_advanced"
+  ],
+  "fg": "vp_reaper",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_gray"
+    }
+  ]
+}

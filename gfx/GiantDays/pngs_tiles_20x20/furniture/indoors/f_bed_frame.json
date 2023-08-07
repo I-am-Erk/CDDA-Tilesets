@@ -1,0 +1,32 @@
+{
+  "id": "f_bed_frame",
+  "fg": "f_bed_frame_0",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_bed_frame_1"
+    },
+    {
+      "id": "corner",
+      "fg": "f_bed_frame_2"
+    },
+    {
+      "id": "edge",
+      "fg": "f_bed_frame_3"
+    },
+    {
+      "id": "end_piece",
+      "fg": "f_bed_frame_4"
+    },
+    {
+      "id": "t_connection",
+      "fg": "f_bed_frame_5"
+    },
+    {
+      "id": "unconnected",
+      "fg": "f_bed_frame_0"
+    }
+  ]
+}

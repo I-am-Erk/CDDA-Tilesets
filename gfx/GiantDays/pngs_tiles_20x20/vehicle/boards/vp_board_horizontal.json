@@ -1,0 +1,34 @@
+{
+  "id": [
+    "vp_board_horizontal",
+    "vp_board_horizontal_front",
+    "vp_board_horizontal_rear",
+    "vp_fxlhalfboard_horizontal",
+    "vp_fxlhalfboard_horizontal_front",
+    "vp_fxlhalfboard_horizontal_rear",
+    "vp_clothboard_horizontal",
+    "vp_clothboard_horizontal_front",
+    "vp_clothboard_horizontal_rear",
+    "vp_cloth_halfboard_horizontal",
+    "vp_cloth_halfboard_horizontal_front",
+    "vp_cloth_halfboard_horizontal_rear",
+    "vp_xlhalfboard_horizontal",
+    "vp_xlhalfboard_horizontal_front",
+    "vp_xlhalfboard_horizontal_rear",
+    "vp_halfboard_horizontal",
+    "vp_halfboard_horizontal_front",
+    "vp_halfboard_horizontal_rear",
+    "vp_halfboard_cover_right",
+    "vp_halfboard_cover_left"
+  ],
+  "fg": "vp_board_horizontal",
+  "bg": "background_black",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_gray"
+    }
+  ]
+}

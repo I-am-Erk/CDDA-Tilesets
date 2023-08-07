@@ -1,0 +1,9 @@
+{
+  "id": [
+    "mon_caterpillar",
+    "mon_caterpillar_giant",
+    "mon_caterpillar_butterfly",
+    "mon_caterpillar_moth"
+  ],
+  "fg": "mon_caterpillar"
+}
