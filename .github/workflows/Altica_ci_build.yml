@@ -39,7 +39,7 @@ jobs:
 
         # re-installing libvips; caching it won't set it up the way we need it
         # still cache it because we'll make it work somehow
-      - run: sudo apt-get install libvips42
+      - run: sudo apt-get update; sudo apt-get install libvips42
       - run: pip3 install pyvips
 
       - name: Checkout Code
