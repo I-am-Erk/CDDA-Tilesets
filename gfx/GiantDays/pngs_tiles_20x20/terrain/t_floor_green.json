@@ -1,8 +1,0 @@
-{
-  "id": [
-    "t_floor_green",
-    "t_carpet_green"
-  ],
-  "//": "separate 't_carpet_green' to be similar to yellow and red variants",
-  "fg": "t_floor_green"
-}
