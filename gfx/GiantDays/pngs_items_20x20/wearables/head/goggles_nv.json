@@ -1,9 +1,7 @@
 {
   "id": [
     "goggles_nv",
-    "goggles_nv_on",
-    "goggles_ir",
-    "goggles_ir_on"
+    "goggles_nv_on"
   ],
   "fg": "goggles_nv"
 }

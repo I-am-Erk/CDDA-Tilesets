@@ -1,0 +1,10 @@
+{
+  "id": [
+    "ammo_satchel",
+    "chestpouch",
+    "legpouch",
+    "legpouch_large",
+    "fanny"
+  ],
+  "fg": "ammo_satchel"
+}
