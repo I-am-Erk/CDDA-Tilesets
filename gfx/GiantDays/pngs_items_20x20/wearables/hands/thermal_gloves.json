@@ -1,14 +1,7 @@
 {
   "id": [
     "thermal_gloves",
-    "thermal_gloves_on",
-    "wetsuit_gloves",
-    "nomex_gloves",
-    "gloves_fsurvivor",
-    "gloves_h20survivor",
-    "gloves_hsurvivor",
-    "gloves_plate",
-    "megaarmor_gloves_1"
+    "thermal_gloves_on"
   ],
   "fg": "thermal_gloves"
 }

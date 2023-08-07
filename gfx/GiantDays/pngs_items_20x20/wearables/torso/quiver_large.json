@@ -1,10 +1,7 @@
 {
   "id": [
     "quiver_large",
-    "quiver_large_birchbark",
-    "scabbard",
-    "bscabbard",
-    "baldric"
+    "quiver_large_birchbark"
   ],
   "fg": "quiver_large"
 }

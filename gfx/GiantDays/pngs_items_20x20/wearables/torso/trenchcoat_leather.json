@@ -1,11 +1,9 @@
 {
   "id": [
     "trenchcoat_leather",
-    "trenchcoat_survivor",
     "duster_leather",
     "xs_duster_leather",
     "xl_duster_leather",
-    "duster_survivor",
     "armor_nomad"
   ],
   "fg": "trenchcoat_leather"

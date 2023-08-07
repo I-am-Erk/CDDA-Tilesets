@@ -1,9 +1,7 @@
 {
   "id": [
     "armor_larmor",
-    "armor_blarmor",
-    "touring_suit",
-    "armor_lamellar"
+    "armor_blarmor"
   ],
   "fg": "armor_larmor"
 }

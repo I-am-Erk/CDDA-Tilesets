@@ -3,10 +3,7 @@
     "thermal_suit",
     "thermal_suit_on",
     "thermal_outfit",
-    "thermal_outfit_on",
-    "wetsuit",
-    "nomex_suit",
-    "stillsuit"
+    "thermal_outfit_on"
   ],
   "fg": "thermal_suit"
 }

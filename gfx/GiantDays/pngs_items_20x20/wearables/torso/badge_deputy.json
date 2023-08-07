@@ -1,10 +1,1 @@
-{
-  "id": [
-    "badge_deputy",
-    "badge_marshal",
-    "badge_detective",
-    "badge_cybercop",
-    "badge_swat"
-  ],
-  "fg": "badge_deputy"
-}
+{"id": ["badge_deputy", "badge_marshal"], "fg": ["badge_deputy"], "rotates": false, "bg": []}
