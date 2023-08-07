@@ -1,0 +1,7 @@
+{
+  "id": "mon_hallucinator",
+  "fg": [
+    { "weight": 100, "sprite": "player_male" },
+    { "weight": 100, "sprite": "player_female" }
+  ]
+}

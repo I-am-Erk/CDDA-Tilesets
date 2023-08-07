@@ -1,0 +1,15 @@
+{
+  "id": [
+    "vp_wheel_wide",
+    "vp_wheel_wide_steerable"
+  ],
+  "fg": "wheel_wide",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_wheel_broken"
+    }
+  ]
+}

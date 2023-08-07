@@ -1,0 +1,21 @@
+{
+  "id": [
+    "v12_diesel",
+    "i6_diesel",
+    "i4_diesel",
+    "v6_diesel",
+    "v8_diesel",
+    "1cyl_combustion",
+    "1cyl_combustion_small",
+    "1cyl_combustion_large",
+    "v2_combustion",
+    "i4_combustion",
+    "v6_combustion",
+    "v8_combustion",
+    "v12_combustion",
+    "small_turbine_engine",
+    "medium_turbine_engine",
+    "large_turbine_engine"
+  ],
+  "fg": "combustion_engine"
+}

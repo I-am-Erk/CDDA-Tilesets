@@ -1,0 +1,25 @@
+{
+  "id": [
+    "vp_door_front",
+    "vp_door_front_left",
+    "vp_door_vertical_left",
+    "vp_door_sw",
+    "vp_door_nw"
+  ],
+  "fg": "vp_door_left",
+  "bg": "background_black",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_door_broken",
+      "//": "temporary"
+    },
+    {
+      "id": "open",
+      "fg": "vp_door_open",
+      "bg": "background_black"
+    }
+  ]
+}

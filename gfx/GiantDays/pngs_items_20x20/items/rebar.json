@@ -1,0 +1,10 @@
+{
+  "id": [
+    "rebar",
+    "spear_rebar",
+    "spear_steel",
+    "spear_pipe",
+    "flute"
+  ],
+  "fg": "rebar"
+}

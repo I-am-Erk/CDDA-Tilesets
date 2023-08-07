@@ -1,0 +1,12 @@
+{
+  "id": [
+    "shortbow",
+    "recurbow",
+    "reflexbow",
+    "longbow",
+    "hybridbow",
+    "reflexrecurvebow",
+    "selfbow"
+  ],
+  "fg": "shortbow"
+}

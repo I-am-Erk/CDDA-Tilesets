@@ -1,0 +1,24 @@
+{
+  "id": [
+    "photo_album",
+    "recipe_bullets",
+    "recipe_arrows",
+    "recipe_bows",
+    "modern_tanner",
+    "atomic_survival",
+    "trappers_companion",
+    "howto_computer",
+    "manual_launcher",
+    "manual_archery",
+    "novel_adventure",
+    "novel_war",
+    "novel_western",
+    "pocket_firstaid",
+    "pocket_firearms",
+    "tailor_portfolio",
+    "family_cookbook",
+    "leather_journal",
+    "book_ruined"
+  ],
+  "fg": "manual_brown"
+}

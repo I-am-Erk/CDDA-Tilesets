@@ -1,0 +1,35 @@
+{
+  "id": [
+    "f_dumpster",
+    "f_recycle_bin"
+    ],
+  "fg": "f_dumpster_0",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_dumpster_1"
+    },
+    {
+      "id": "corner",
+      "fg": "f_dumpster_2"
+    },
+    {
+      "id": "edge",
+      "fg": "f_dumpster_3"
+    },
+    {
+      "id": "end_piece",
+      "fg": "f_dumpster_4"
+    },
+    {
+      "id": "t_connection",
+      "fg": "f_dumpster_5"
+    },
+    {
+      "id": "unconnected",
+      "fg": "f_dumpster_0"
+    }
+  ]
+}

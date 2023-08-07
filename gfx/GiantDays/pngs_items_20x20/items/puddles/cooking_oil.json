@@ -1,0 +1,28 @@
+{
+  "id": [
+    "cooking_oil",
+    "cooking_oil2",
+    "protein_shake",
+    "hflesh_shake_fortified",
+    "hflesh_shake",
+    "mead",
+    "brew_mead",
+    "dandelion_wine",
+    "brew_dandelion_wine",
+    "dandelion_tea",
+    "drink_beeknees",
+    "drink_wsour",
+    "honey_gold",
+    "mugwort_oil",
+    "thyme_oil",
+    "protein_shake_fortified",
+    "lemonade",
+    "lamp_oil",
+    "crude_lamp_oil",
+    "motor_oil",
+    "camphine",
+    "chem_turpentine",
+    "paint_yellow"
+  ],
+  "fg": "cooking_oil"
+}

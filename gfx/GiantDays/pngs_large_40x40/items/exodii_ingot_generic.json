@@ -1,0 +1,9 @@
+{
+  "id": [
+    "exodii_ingot_tin",
+    "exodii_ingot_zinc",
+    "exodii_ingot_aluminum"
+  ],
+  "fg": "exodii_ingot_generic",
+  "//": "filler because of want for materials to be consistent across all items"
+}

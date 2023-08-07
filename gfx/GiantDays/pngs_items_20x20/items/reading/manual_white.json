@@ -1,0 +1,21 @@
+{
+  "id": [
+    "manual_pistol",
+    "textbook_computer",
+    "textbook_firstaid",
+    "booklet_firstaid",
+    "manual_dodge",
+    "novel_crime",
+    "novel_experimental",
+    "philosophy_book",
+    "story_book",
+    "textbook_electronics",
+    "emergency_book",
+    "welding_book",
+    "recipe_medicalmut",
+    "holybook_upanishads",
+    "novel_coa2",
+    "mag_barter"
+  ],
+  "fg": "manual_white"
+}

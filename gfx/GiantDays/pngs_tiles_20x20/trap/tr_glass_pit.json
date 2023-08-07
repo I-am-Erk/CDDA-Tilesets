@@ -1,0 +1,34 @@
+{
+  "id": [
+    "tr_glass_pit",
+    "t_pit_glass"
+  ],
+  "fg": "tr_glass_pit_0",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "tr_glass_pit_1"
+    },
+    {
+      "id": "corner",
+      "fg": "tr_glass_pit_2"
+    },
+    {
+      "id": "edge",
+      "fg": "tr_glass_pit_3"
+    },
+    {
+      "id": "end_piece",
+      "fg": "tr_glass_pit_4"
+    },
+    {
+      "id": "t_connection",
+      "fg": "tr_glass_pit_5"
+    },
+    {
+      "id": "unconnected",
+      "fg": "tr_glass_pit_0"
+    }
+  ]
+}

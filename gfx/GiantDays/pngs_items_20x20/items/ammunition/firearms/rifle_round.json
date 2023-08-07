@@ -1,0 +1,27 @@
+{
+  "id": [
+    "223", "reloaded_223",
+    "270", "reloaded_270",
+    "270win_jsp", "bp_270win_jsp", "reloaded_270win_jsp",
+    "30carbine", "bp_30carbine", "reloaded_30carbine",
+    "300blk", "300blk_ss", "bp_300blk", "reloaded_300blk",
+    "300_winmag", "reloaded_300_winmag",
+    "303_bthp", "bp_303", "reloaded_303", "303_fmjbt", "bp_303fmj", "reloaded_303fmj", "303_sp", "bp_303sp", "reloaded_303sp",
+    "308", "reloaded_308",
+    "3006", "3006fmj", "3006_incendiary", "reloaded_3006", "reloaded_3006_incendiary", "reloaded_3006fmj",
+    "338lapua_fmjbt", "bp_338lapua_fmjbt", "reloaded_338lapua_fmjbt", "338lapua_api", "bp_338lapua_api", "reloaded_338lapua_api", "338lapua_hpbt", "bp_338lapua_hpbt", "reloaded_338lapua_hpbt",
+    "450_ftx", "bp_450_ftx", "reloaded_450_ftx", "450_penetrator", "bp_450_penetrator", "reloaded_450_penetrator",
+    "46mm", "reloaded_46mm",
+    "4570_pen", "4570_low", "4570_sp", "reloaded_4570_sp_bp", "reloaded_4570_sp", "reloaded_4570_low", "reloaded_4570_pen",
+    "50beowulf_ftx", "bp_50beowulf_ftx", "reloaded_50beowulf_ftx", "50beowulf_penetrator", "bp_50beowulf_penetrator", "reloaded_50beowulf_penetrator",
+    "50bmg", "50ss", "50_incendiary", "reloaded_50bmg", "reloaded_50ss", "reloaded_50_incendiary",
+    "57mm", "reloaded_57mm",
+    "545", "545_ap", "reloaded_545", "reloaded_545_ap",
+    "556", "556_incendiary", "reloaded_556", "reloaded_556_incendiary",
+    "700nx", "reloaded_700nx",
+    "762_m43", "762_m87", "reloaded_762_m43", "reloaded_762_m87",
+    "762_51", "762_51_incendiary", "reloaded_762_51", "reloaded_762_51_incendiary",
+    "762_54R", "reloaded_762_54R"
+  ],
+  "fg": "rifle_round"
+}

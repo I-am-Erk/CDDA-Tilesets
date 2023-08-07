@@ -1,0 +1,11 @@
+{
+  "id": [
+    "makeshift_hose",
+    "string_6",
+    "string_36",
+    "leather_cat_tail",
+    "fur_cat_tail"
+  ],
+  "//": "separating these is desired",
+  "fg": "makeshift_hose"
+}

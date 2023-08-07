@@ -1,0 +1,13 @@
+{
+  "id": [
+    "t_tree_maple_season_summer",
+    "t_tree_hickory_season_summer",
+    "t_tree_hickory_harvested_season_summer",
+    "t_tree_almond_season_summer",
+    "t_tree_almond_harvested_season_summer",
+    "t_tree_pecan_season_summer",
+    "t_tree_pecan_harvested_season_summer",
+    "t_tree_blackjack"
+  ],
+  "fg": "t_tree_maple_season_summer"
+}

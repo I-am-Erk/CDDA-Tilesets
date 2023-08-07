@@ -1,0 +1,13 @@
+{
+  "id": "vp_halfboard_cross",
+  "fg": "vp_halfboard_cross",
+  "bg": "background_black",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_gray"
+    }
+  ]
+}

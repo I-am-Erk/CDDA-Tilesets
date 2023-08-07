@@ -1,0 +1,10 @@
+{
+  "id": [
+    "missing_poster_cat",
+    "missing_poster_dog",
+    "missing_poster_child",
+    "missing_poster_adult",
+    "movie_poster"
+  ],
+  "fg": "missing_poster"
+}

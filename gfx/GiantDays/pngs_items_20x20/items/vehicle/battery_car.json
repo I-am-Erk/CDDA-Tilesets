@@ -1,0 +1,11 @@
+{
+  "id": [
+    "battery_car",
+    "battery_motorbike",
+    "storage_battery",
+    "small_storage_battery",
+    "medium_storage_battery"
+  ],
+  "fg": "vp_battery_car",
+  "//": "vehicle part"
+}

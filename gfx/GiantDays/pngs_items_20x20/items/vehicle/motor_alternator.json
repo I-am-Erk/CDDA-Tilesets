@@ -1,0 +1,15 @@
+{
+  "id": [
+    "motor",
+    "motor_large",
+    "motor_small",
+    "motor_enhanced",
+    "motor_tiny",
+    "alternator_bicycle",
+    "alternator_motorbike",
+    "alternator_car",
+    "alternator_truck",
+    "exodii_motor"
+  ],
+  "fg": "motor_alternator"
+}

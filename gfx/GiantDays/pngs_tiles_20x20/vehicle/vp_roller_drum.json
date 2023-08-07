@@ -1,0 +1,12 @@
+{
+  "id": "vp_roller_drum",
+  "fg": "vp_roller_drum",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_gray"
+    }
+  ]
+}

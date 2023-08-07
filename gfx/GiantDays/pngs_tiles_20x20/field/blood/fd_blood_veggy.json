@@ -1,0 +1,19 @@
+{
+    "id": [
+        "fd_blood_veggy"
+    ],
+    "fg": [
+        {
+            "weight": 3,
+            "sprite": "fd_blood_veggy"
+        },
+        {
+            "weight": 1,
+            "sprite": "fd_blood_veggy_2"
+        },
+        {
+            "weight": 1,
+            "sprite": "fd_blood_veggy_3"
+        }
+    ]
+}

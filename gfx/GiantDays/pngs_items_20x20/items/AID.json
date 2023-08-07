@@ -1,0 +1,28 @@
+{
+  "id": [
+    "AID_bio_ups",
+    "AID_bio_watch",
+    "AID_bio_alarm",
+    "AID_bio_geiger",
+    "AID_bio_weight",
+    "AID_bio_magnet",
+    "AID_bio_trickle",
+    "AID_bio_syringe",
+    "AID_bio_climate",
+    "AID_bio_shotgun",
+    "AID_bio_heatsink",
+    "AID_bio_soporific",
+    "AID_bio_armor_arms",
+    "AID_bio_tattoo_led",
+    "AID_bio_flashlight",
+    "AID_bio_blood_anal",
+    "AID_bio_armor_legs",
+    "AID_bio_blood_filter",
+    "AID_bio_pitch_perfect",
+    "AID_bio_power_storage",
+    "AID_bio_power_storage_mkII",
+    "AID_bio_meteorologist",
+    "AID_bio_power_armor_interface"
+  ],
+  "fg": "AID"
+}

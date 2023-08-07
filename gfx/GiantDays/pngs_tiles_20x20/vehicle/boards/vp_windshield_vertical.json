@@ -1,0 +1,34 @@
+{
+  "id": [
+    "vp_windshield_vertical",
+    "vp_windshield_vertical_left",
+    "vp_windshield_vertical_right",
+    "vp_windshield_vertical_2_left",
+    "vp_windshield_vertical_2_right",
+    "vp_windshield_left",
+    "vp_windshield_right",
+
+    "vp_windshield_full_vertical",
+    "vp_windshield_full_vertical_left",
+    "vp_windshield_full_vertical_right",
+    "vp_windshield_full_vertical_2_left",
+    "vp_windshield_full_vertical_2_right",
+    "vp_windshield_full_left",
+    "vp_windshield_full_right"
+  ],
+  "fg": "vp_windshield_vertical",
+  "bg": "background_black",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [
+        "vp_windshield_broken",
+        "vp_windshield_broken",
+        "vp_windshield_broken",
+        "vp_windshield_broken"
+      ]
+    }
+  ]
+}

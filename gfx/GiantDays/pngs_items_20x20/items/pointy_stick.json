@@ -1,0 +1,11 @@
+{
+  "id": [
+    "pointy_stick",
+    "digging_stick",
+    "skewer",
+    "blowgun",
+    "pool_cue",
+    "knitting_needles"
+  ],
+  "fg": "pointy_stick"
+}

@@ -1,0 +1,26 @@
+{
+  "id": [
+    "vp_halfboard_vertical_2",
+    "vp_halfboard_vertical_2_left",
+    "vp_halfboard_vertical_2_right",
+    "vp_fxlhalfboard_vertical_2",
+    "vp_fxlhalfboard_vertical_2_left",
+    "vp_fxlhalfboard_vertical_2_right",
+    "vp_xlhalfboard_vertical_2",
+    "vp_xlhalfboard_vertical_2_left",
+    "vp_xlhalfboard_vertical_2_right",
+    "vp_cloth_halfboard_vertical_2",
+    "vp_cloth_halfboard_vertical_2_left",
+    "vp_cloth_halfboard_vertical_2_right"
+  ],
+  "fg": "vp_halfboard_vertical_2",
+  "bg": "background_black",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_gray"
+    }
+  ]
+}

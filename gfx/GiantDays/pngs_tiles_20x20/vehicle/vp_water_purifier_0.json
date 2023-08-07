@@ -1,0 +1,1 @@
+{"id": "vp_water_purifier", "fg": ["1660_fish_trap_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["vp_broken_light_blue"], "bg": []}], "bg": []}

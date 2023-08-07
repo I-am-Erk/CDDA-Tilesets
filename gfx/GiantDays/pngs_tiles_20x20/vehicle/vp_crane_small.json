@@ -1,0 +1,16 @@
+{
+  "id": [
+    "vp_crane_medium",
+    "vp_crane_small"
+  ],
+  "fg": "cantilever_small",
+  "//": "should this get backgrounded?",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_gray"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": [
+    "can_coconut",
+     "yoghurt",
+     "pudding",
+     "can_chicken",
+     "horseradish",
+     "con_milk",
+     "flour",
+     "flour_wheat_free",
+     "sugar",
+     "salt",
+     "meal_bone",
+     "meal_bone_tainted",
+     "starch",
+     "mayonnaise"
+  ],
+  "fg": ["mayonnaise"]
+}

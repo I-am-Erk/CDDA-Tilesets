@@ -1,0 +1,13 @@
+{
+  "id": [
+    "mon_crow_chick",
+    "mon_raven_chick",
+    "mon_woodpecker_chick",
+    "mon_coot_chick",
+    "mon_cormorant_chick",
+    "mon_moorhen_chick",
+    "mon_grebe_chick",
+    "mon_bluejay_chick"
+  ],
+  "fg": "mon_crow_chick"
+}

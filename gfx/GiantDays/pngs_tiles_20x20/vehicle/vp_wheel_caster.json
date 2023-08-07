@@ -1,0 +1,12 @@
+{
+  "id": "vp_wheel_caster",
+  "fg": "vp_wheel_caster",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_wheel_broken"
+    }
+  ]
+}
