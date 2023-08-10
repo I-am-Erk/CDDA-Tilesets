@@ -1,0 +1,10 @@
+{
+    "id": [
+        "highlight",
+        "line_target",
+        "line_trail",
+        "animation_line"
+    ],
+    "fg": "highlight",
+    "bg": []
+}
