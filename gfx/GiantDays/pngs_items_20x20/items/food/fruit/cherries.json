@@ -1,9 +1,7 @@
 {
   "id": [
     "cherries",
-    "irradiated_cherries",
-    "raspberries",
-    "irradiated_raspberries"
+    "irradiated_cherries"
   ],
   "fg": "cherries"
 }
