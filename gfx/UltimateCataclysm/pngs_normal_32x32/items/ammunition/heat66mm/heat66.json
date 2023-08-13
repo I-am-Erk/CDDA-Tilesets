@@ -1,15 +1,5 @@
 [
   {
-    "id": [ "atgm_heat" ],
-    "bg": [ "152heat_b" ],
-    "fg": [ "152heat_f" ]
-  },
-  {
-    "id": [ "120mm_HEAT" ],
-    "bg": [ "120heat_b" ],
-    "fg": [ "120heat_f" ]
-  },
-  {
     "id": [ "66mm_HEAT" ],
     "bg": [ "66heat_b" ],
     "fg": [ "66heat_f" ]
