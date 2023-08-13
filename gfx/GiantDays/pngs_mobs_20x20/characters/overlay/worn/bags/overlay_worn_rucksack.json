@@ -1,0 +1,12 @@
+[
+  {
+    "id": [
+      "overlay_worn_rucksack",
+      "overlay_worn_molle_pack",
+      "overlay_worn_gobag",
+      "overlay_worn_personal_gobag"
+    ],
+    "fg": "overlay_worn_rucksack",
+    "bg": [  ]
+  }
+]

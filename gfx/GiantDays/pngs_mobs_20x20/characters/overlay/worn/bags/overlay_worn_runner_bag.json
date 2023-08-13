@@ -1,0 +1,11 @@
+[
+  {
+    "id": [
+      "overlay_worn_runner_bag",
+      "overlay_worn_survivor_pack",
+      "overlay_worn_survivor_runner_pack"
+    ],
+    "fg": "overlay_worn_runner_bag",
+    "bg": [  ]
+  }
+]
