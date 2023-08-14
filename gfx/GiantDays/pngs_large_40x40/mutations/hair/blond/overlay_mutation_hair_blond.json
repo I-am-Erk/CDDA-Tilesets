@@ -1,0 +1,79 @@
+[
+  {
+    "id": [
+      "overlay_mutation_hair_blond_fro",
+      "overlay_mutation_fro_var_blond"
+    ],
+    "fg": "overlay_mutation_hair_blond_fro"
+  },
+  {
+    "id": [
+      "overlay_mutation_hair_blond_long",
+      "overlay_mutation_long_var_blond"
+    ],
+    "fg": "overlay_mutation_hair_blond_long"
+  },
+  {
+    "id": [
+      "overlay_mutation_hair_blond_medium",
+      "overlay_mutation_medium_var_blond"
+    ],
+    "fg": "overlay_mutation_hair_blond_medium"
+  },
+  {
+    "id": [
+      "overlay_mutation_hair_blond_mohawk",
+      "overlay_mutation_mohawk_var_blond"
+    ],
+    "fg": "overlay_mutation_hair_blond_mohawk"
+  },
+  {
+    "id": [
+      "overlay_mutation_hair_blond_short",
+      "overlay_mutation_short_var_blond"
+    ],
+    "fg": "overlay_mutation_hair_blond_short"
+  },
+  {
+    "id": [
+      "overlay_mutation_hair_blond_long_over_eye",
+      "overlay_mutation_long_over_eye_var_blond"
+    ],
+    "fg": "overlay_mutation_long_over_eye_var_blond"
+  },
+  {
+    "id": [
+      "overlay_mutation_hair_blond_messy",
+      "overlay_mutation_messy_var_blond"
+    ],
+    "fg": "overlay_mutation_messy_var_blond"
+  },
+  {
+    "id": [
+      "overlay_mutation_hair_blond_mullet",
+      "overlay_mutation_mullet_var_blond"
+    ],
+    "fg": "overlay_mutation_mullet_var_blond"
+  },
+  {
+    "id": [
+      "overlay_mutation_hair_blond_ponytail",
+      "overlay_mutation_ponytail_var_blond"
+    ],
+    "fg": "overlay_mutation_ponytail_var_blond"
+  },
+  {
+    "id": [
+      "overlay_mutation_hair_blond_short_no_fringe",
+      "overlay_mutation_short_no_fringe_var_blond"
+    ],
+    "fg": "overlay_mutation_short_no_fringe_var_blond"
+  },
+  {
+    "id": [
+      "overlay_mutation_hair_blond_short_over_eye",
+      "overlay_mutation_short_over_eye_var_blond"
+    ],
+    "fg": "overlay_mutation_short_over_eye_var_blond"
+  }
+]
