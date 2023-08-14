@@ -73,6 +73,10 @@ jobs:
             artifact: RetroDaysTileset
             tileset_dir: gfx/Retrodays
             compose_args: --use-all
+          - name: GiantDays
+            artifact: GiantDays
+            tileset_dir: gfx/GiantDays
+            compose_args: --use-all
           - name: SmashButton_iso
             artifact: SmashButton_iso
             tileset_dir: gfx/HitButton_iso
