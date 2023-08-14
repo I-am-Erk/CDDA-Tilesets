@@ -1,0 +1,16 @@
+[
+  {
+    "id": [
+      "overlay_mutation_hair_blue_buzzcut",
+      "overlay_mutation_buzzcut_var_blue"
+    ],
+    "fg": "overlay_mutation_buzzcut_var_blue"
+  },
+  {
+    "id": [
+      "overlay_mutation_hair_blue_crewcut",
+      "overlay_mutation_crewcut_var_blue"
+    ],
+    "fg": "overlay_mutation_hair_blue_crewcut"
+  }
+]
