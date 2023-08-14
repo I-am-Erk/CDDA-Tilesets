@@ -1,0 +1,79 @@
+[
+  {
+    "id": [
+      "overlay_mutation_hair_pink_fro",
+      "overlay_mutation_fro_var_pink"
+    ],
+    "fg": "overlay_mutation_hair_pink_fro"
+  },
+  {
+    "id": [
+      "overlay_mutation_hair_pink_long",
+      "overlay_mutation_long_var_pink"
+    ],
+    "fg": "overlay_mutation_hair_pink_long"
+  },
+  {
+    "id": [
+      "overlay_mutation_hair_pink_medium",
+      "overlay_mutation_medium_var_pink"
+    ],
+    "fg": "overlay_mutation_hair_pink_medium"
+  },
+  {
+    "id": [
+      "overlay_mutation_hair_pink_mohawk",
+      "overlay_mutation_mohawk_var_pink"
+    ],
+    "fg": "overlay_mutation_hair_pink_mohawk"
+  },
+  {
+    "id": [
+      "overlay_mutation_hair_pink_short",
+      "overlay_mutation_short_var_pink"
+    ],
+    "fg": "overlay_mutation_hair_pink_short"
+  },
+  {
+    "id": [
+      "overlay_mutation_hair_pink_long_over_eye",
+      "overlay_mutation_long_over_eye_var_pink"
+    ],
+    "fg": "overlay_mutation_long_over_eye_var_pink"
+  },
+  {
+    "id": [
+      "overlay_mutation_hair_pink_messy",
+      "overlay_mutation_messy_var_pink"
+    ],
+    "fg": "overlay_mutation_messy_var_pink"
+  },
+  {
+    "id": [
+      "overlay_mutation_hair_pink_mullet",
+      "overlay_mutation_mullet_var_pink"
+    ],
+    "fg": "overlay_mutation_mullet_var_pink"
+  },
+  {
+    "id": [
+      "overlay_mutation_hair_pink_ponytail",
+      "overlay_mutation_ponytail_var_pink"
+    ],
+    "fg": "overlay_mutation_ponytail_var_pink"
+  },
+  {
+    "id": [
+      "overlay_mutation_hair_pink_short_no_fringe",
+      "overlay_mutation_short_no_fringe_var_pink"
+    ],
+    "fg": "overlay_mutation_short_no_fringe_var_pink"
+  },
+  {
+    "id": [
+      "overlay_mutation_hair_pink_short_over_eye",
+      "overlay_mutation_short_over_eye_var_pink"
+    ],
+    "fg": "overlay_mutation_short_over_eye_var_pink"
+  }
+]
