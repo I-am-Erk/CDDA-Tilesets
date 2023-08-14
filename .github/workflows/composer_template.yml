@@ -1,0 +1,72 @@
+name: Tileset composer template
+
+on:
+  workflow_call:
+    inputs:
+      tileset:
+        type: string
+        required: true
+      composer-args:
+        type: string
+        required: true
+
+env:
+  BUILD_DIR: build
+  TILESET: ${{ inputs.tileset }}
+  COMPOSE_ARGS: ${{ inputs.composer-args }}
+
+jobs:
+  build:
+    name: CI Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Dependencies
+        uses: awalsh128/cache-apt-pkgs-action@v1
+        with:
+          packages: musl python3 python3-pip libvips42
+
+      - run: sudo apt-get update; sudo apt-get install libvips42
+      - run: pip3 install pyvips
+
+      - uses: actions/checkout@v3
+
+      - name: Build
+        id: build
+        run: |
+          mkdir "$BUILD_DIR"
+          wget -q -P "$BUILD_DIR" https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/compose.py
+
+          python3 "$BUILD_DIR/compose.py" --feedback CONCISE --loglevel INFO $COMPOSE_ARGS "gfx/$TILESET" "$BUILD_DIR"
+          [ -f "gfx/$TILESET/fallback.png" ] && cp "gfx/$TILESET/fallback.png" "$BUILD_DIR/"
+
+          artifact_name="$TILESET-dev-git-${GITHUB_SHA::7}"
+
+          mkdir "$artifact_name"
+          mv "${BUILD_DIR}"/*.png           "$artifact_name"
+          cp "$BUILD_DIR/tile_config.json"  "$artifact_name"
+          cp "gfx/$TILESET/tileset.txt"     "$artifact_name"
+
+          echo "ARTIFACT-NAME=$artifact_name" >> $GITHUB_OUTPUT
+
+      - name: Upload Artifacts
+        uses: actions/upload-artifact@v3.1.2
+        with:
+          name: ${{ steps.build.outputs.ARTIFACT-NAME }}
+          path: ${{ steps.build.outputs.ARTIFACT-NAME }}
+
+      - name: Compare IDs with ${{ github.base_ref }}
+        id: compare
+        if: github.base_ref
+        run: |
+          echo "Switching to the target branch ${{ github.base_ref }} to get differences between ID lists"
+          git fetch --no-tags --prune --no-recurse-submodules --depth=1 origin +${{ github.base_ref }}
+          git checkout origin/${{ github.base_ref }}
+
+          mkdir "$BUILD_DIR/base_json/"
+          python3 "$BUILD_DIR/compose.py" $COMPOSE_ARGS --only-json "gfx/$TILESET" "$BUILD_DIR/base_json/"
+
+          wget -q -P "$BUILD_DIR" https://raw.githubusercontent.com/CleverRaven/Cataclysm-DDA/master/tools/gfx_tools/list_tileset_ids.py \
+          || echo "Error: Failed to get list_tileset_ids.py"
+
+          echo -e "\nDifferences in IDs:"
+          (diff -u0 <(python3 "$BUILD_DIR/list_tileset_ids.py" "$BUILD_DIR/base_json/") <(python3 "$BUILD_DIR/list_tileset_ids.py" "$BUILD_DIR/")) | tail -n +3
