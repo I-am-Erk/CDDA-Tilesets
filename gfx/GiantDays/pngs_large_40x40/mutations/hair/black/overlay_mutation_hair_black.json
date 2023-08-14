@@ -1,0 +1,79 @@
+[
+  {
+    "id": [
+      "overlay_mutation_hair_black_fro",
+      "overlay_mutation_fro_var_black"
+    ],
+    "fg": "overlay_mutation_hair_black_fro"
+  },
+  {
+    "id": [
+      "overlay_mutation_hair_black_long",
+      "overlay_mutation_long_var_black"
+    ],
+    "fg": "overlay_mutation_hair_black_long"
+  },
+  {
+    "id": [
+      "overlay_mutation_hair_black_medium",
+      "overlay_mutation_medium_var_black"
+    ],
+    "fg": "overlay_mutation_hair_black_medium"
+  },
+  {
+    "id": [
+      "overlay_mutation_hair_black_mohawk",
+      "overlay_mutation_mohawk_var_black"
+    ],
+    "fg": "overlay_mutation_hair_black_mohawk"
+  },
+  {
+    "id": [
+      "overlay_mutation_hair_black_short",
+      "overlay_mutation_short_var_black"
+    ],
+    "fg": "overlay_mutation_hair_black_short"
+  },
+  {
+    "id": [
+      "overlay_mutation_hair_black_long_over_eye",
+      "overlay_mutation_long_over_eye_var_black"
+    ],
+    "fg": "overlay_mutation_long_over_eye_var_black"
+  },
+  {
+    "id": [
+      "overlay_mutation_hair_black_messy",
+      "overlay_mutation_messy_var_black"
+    ],
+    "fg": "overlay_mutation_messy_var_black"
+  },
+  {
+    "id": [
+      "overlay_mutation_hair_black_mullet",
+      "overlay_mutation_mullet_var_black"
+    ],
+    "fg": "overlay_mutation_mullet_var_black"
+  },
+  {
+    "id": [
+      "overlay_mutation_hair_black_ponytail",
+      "overlay_mutation_ponytail_var_black"
+    ],
+    "fg": "overlay_mutation_ponytail_var_black"
+  },
+  {
+    "id": [
+      "overlay_mutation_hair_black_short_no_fringe",
+      "overlay_mutation_short_no_fringe_var_black"
+    ],
+    "fg": "overlay_mutation_short_no_fringe_var_black"
+  },
+  {
+    "id": [
+      "overlay_mutation_hair_black_short_over_eye",
+      "overlay_mutation_short_over_eye_var_black"
+    ],
+    "fg": "overlay_mutation_short_over_eye_var_black"
+  }
+]
