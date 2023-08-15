@@ -1,4 +1,11 @@
 [
+
+  {
+    "id": [ "9x18mm_casing" ],
+    "bg": [ "9x18mm_b" ],
+    "fg": [ "4E_casing" ]
+  },
+
   {
     "id": [ "9x18mm" ],
     "bg": [ "9x18mm_b" ],

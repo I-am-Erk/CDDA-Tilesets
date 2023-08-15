@@ -1,4 +1,11 @@
 [
+
+  {
+    "id": [ "357mag_casing" ],
+    "bg": [ "357mag_b" ],
+    "fg": [ "4_casing" ]
+  },
+
   {
     "id": [ "357mag_jhp" ],
     "bg": [ "357mag_b" ],

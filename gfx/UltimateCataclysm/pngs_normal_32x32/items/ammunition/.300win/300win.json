@@ -1,4 +1,11 @@
 [
+
+  {
+    "id": [ "300_casing" ],
+    "bg": [ "300win_b" ],
+    "fg": [ "5_casing" ]
+  },
+
   {
     "id": [ "300_winmag" ],
     "bg": [ "300win_b" ],

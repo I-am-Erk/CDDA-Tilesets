@@ -1,4 +1,11 @@
 [
+
+  {
+    "id": [ "shot_hull" ],
+    "bg": [ "12ga_b" ],
+    "fg": [ "shot_hull" ]
+  },
+
   {
     "id": [ "shot_00" ],
     "bg": [ "12ga_b" ],

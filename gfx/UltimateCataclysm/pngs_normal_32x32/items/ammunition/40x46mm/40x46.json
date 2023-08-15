@@ -1,6 +1,39 @@
 [
 
   {
+    "id": [ "40x46mm_hornets_nest_22lr_casing" ],
+    "bg": [ "40x46_b" ],
+    "fg": [ "40mm_red_casing" ]
+  },
+  {
+    "id": [ "40x46mm_hornets_nest_410_casing" ],
+    "bg": [ "40x46_b" ],
+    "fg": [ "40mm_black_casing" ]
+  },
+
+  {
+    "id": [ "40x46mm_m118_casing" ],
+    "bg": [ "40x46_b" ],
+    "fg": [ "40mm_118_casing" ]
+  },
+  {
+    "id": [ "40x46mm_m195_casing" ],
+    "bg": [ "40x46_b" ],
+    "fg": [ "40mm_195_casing" ]
+  },
+  {
+    "id": [ "40x46mm_m199_casing" ],
+    "bg": [ "40x46_b" ],
+    "fg": [ "40mm_199_casing" ]
+  },
+  {
+    "id": [ "40x46mm_m212_casing" ],
+    "bg": [ "40x46_b" ],
+    "fg": [ "40mm_212_casing" ]
+  },
+
+
+  {
     "id": [ "40x46mm_m576" ],
     "bg": [ "40x46_b" ],
     "fg": [ "40x46_f_199m576" ]
@@ -51,16 +84,6 @@
     "id": [ "40x46mm_hornets_nest_410" ],
     "bg": [ "40x46_b" ],
     "fg": [ "40x46_f_hnest410" ]
-  },
-  {
-    "id": [ "40x46mm_hornets_nest_22lr_casing" ],
-    "bg": [ "40x46_b" ],
-    "fg": [ "40x46_f_hnest22_case" ]
-  },
-  {
-    "id": [ "40x46mm_hornets_nest_410_casing" ],
-    "bg": [ "40x46_b" ],
-    "fg": [ "40x46_f_hnest410_case" ]
   },
   
   {
