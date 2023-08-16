@@ -2,6 +2,11 @@
 
   {
     "id": [ "57mm_casing" ],
+    "bg": [ "" ],
+    "fg": [ "4_casing" ]
+  },
+  {
+    "id": [ "57mm_casing_transparent" ],
     "bg": [ "57x28_b" ],
     "fg": [ "4_casing" ]
   },

@@ -2,6 +2,11 @@
 
   {
     "id": [ "38_casing" ],
+    "bg": [ "" ],
+    "fg": [ "4_casing" ]
+  },
+  {
+    "id": [ "38_casing_transparent" ],
     "bg": [ "38_b" ],
     "fg": [ "4_casing" ]
   },

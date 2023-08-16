@@ -2,6 +2,11 @@
 
   {
     "id": [ "762R_casing" ],
+    "bg": [ "" ],
+    "fg": [ "5E_casing" ]
+  },
+  {
+    "id": [ "762R_casing_transparent" ],
     "bg": [ "762x54_b" ],
     "fg": [ "5E_casing" ]
   },

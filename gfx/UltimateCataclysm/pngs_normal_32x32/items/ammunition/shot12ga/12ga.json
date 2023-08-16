@@ -2,6 +2,11 @@
 
   {
     "id": [ "shot_hull" ],
+    "bg": [ "" ],
+    "fg": [ "shot_hull" ]
+  },
+  {
+    "id": [ "shot_hull_transparent" ],
     "bg": [ "12ga_b" ],
     "fg": [ "shot_hull" ]
   },
