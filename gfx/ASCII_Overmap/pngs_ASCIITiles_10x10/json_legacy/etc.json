@@ -1,0 +1,6 @@
+[
+{"id": ["cursor", "highlight", "line_target", "line_trail"], "fg": ["cursor"], "bg": []},
+{"id": "unknown_terrain", "fg": ["unknown_terrain"], "rotates": false, "bg": []},
+{"id": "road", "fg": ["dark_gray197"], "multitile": true, "additional_tiles": [{"id": "center", "fg": ["dark_gray197"], "bg": []}, {"id": "corner", "fg": ["dark_gray218", "dark_gray192", "dark_gray217", "dark_gray191"], "bg": []}, {"id": "t_connection", "fg": ["dark_gray194", "dark_gray195", "dark_gray193", "dark_gray180"], "bg": []}, {"id": "edge", "fg": ["dark_gray179", "dark_gray196"], "bg": []}, {"id": "end_piece", "fg": ["dark_gray179", "dark_gray196", "dark_gray179", "dark_gray196"], "bg": []}, {"id": "unconnected", "fg": ["dark_gray197", "dark_gray197"], "bg": []}], "bg": []},
+{"id": "forest_trail", "fg": ["green197"], "multitile": true, "additional_tiles": [{"id": "center", "fg": ["green197"], "bg": []}, {"id": "corner", "fg": ["green218", "green192", "green217", "green191"], "bg": []}, {"id": "t_connection", "fg": ["green194", "green195", "green193", "green180"], "bg": []}, {"id": "edge", "fg": ["green179", "green196"], "bg": []}, {"id": "end_piece", "fg": ["green179", "green196", "green179", "green196"], "bg": []}, {"id": "unconnected", "fg": ["green197", "green197"], "bg": []}], "bg": []}
+]
