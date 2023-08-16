@@ -1,0 +1,9 @@
+{
+    "id": [
+        "overlay_worn_mask_ski",
+        "overlay_worn_mask_ski_loose"
+    ],
+    "fg": "overlay_worn_mask_ski",
+    "rotates": false,
+    "bg": []
+}
