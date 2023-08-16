@@ -239,7 +239,10 @@
         "bg": "cyan"
     },
     {
-        "id": "drug_lab",
+        "id": [
+            "drug_lab",
+            "bandit_drug_lab"
+        ],
         "fg": "brown94",
         "bg": "black",
         "rotates": true
@@ -2105,6 +2108,11 @@
         "bg": "magenta"
     },
     {
+        "id": "solar_farm",
+        "fg": "black35",
+        "bg": "yellow"
+    },
+    {
         "id": [
             "small_storage_units",
             "small_storage_units_1"
@@ -3273,6 +3281,18 @@
             "zoo_0_2",
             "zoo_1_2",
             "zoo_2_2"
+        ],
+        "fg": "black90",
+        "bg": "green"
+    },
+    {
+        "id": [
+            "zoo_0_1_roof",
+            "zoo_1_1_roof",
+            "zoo_2_1_roof",
+            "zoo_0_2_roof",
+            "zoo_1_2_roof",
+            "zoo_2_2_roof"
         ],
         "fg": "black90",
         "bg": "green"
@@ -4759,6 +4779,23 @@
         "rotates": true
     },
     {
+        "id": [
+            "unvitrified_farm_1",
+            "unvitrified_farm_2",
+            "unvitrified_farm_neg_1",
+            "unvitrified_farm_0"
+        ],
+        "fg": "black71",
+        "bg": "light_gray"
+    },
+    {
+        "id": [
+            "unvitrified_orchard"
+        ],
+        "fg": "black71",
+        "bg": "light_gray"
+    },
+    {
         "id": "river_cave_food",
         "fg": "cyan79",
         "bg": "green"
@@ -5011,18 +5048,6 @@
             "dinozoo_0_2",
             "dinozoo_1_2",
             "dinozoo_2_2"
-        ],
-        "fg": "black90",
-        "bg": "green"
-    },
-    {
-        "id": [
-            "zoo_0_1_roof",
-            "zoo_1_1_roof",
-            "zoo_2_1_roof",
-            "zoo_0_2_roof",
-            "zoo_1_2_roof",
-            "zoo_2_2_roof"
         ],
         "fg": "black90",
         "bg": "green"
