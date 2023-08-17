@@ -1,0 +1,32 @@
+{
+  "id": "t_wall_resin_cage",
+  "fg": "3003_t_wall_resin_cage_1",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "3003_t_wall_resin_cage_1"
+    },
+    {
+      "id": "corner",
+      "fg": "3004_t_wall_resin_cage_2"
+    },
+    {
+      "id": "edge",
+      "fg": "3005_t_wall_resin_cage_3"
+    },
+    {
+      "id": "end_piece",
+      "fg": "3006_t_wall_resin_cage_4"
+    },
+    {
+      "id": "t_connection",
+      "fg": "3007_t_wall_resin_cage_5"
+    },
+    {
+      "id": "unconnected",
+      "fg": "3003_t_wall_resin_cage_1"
+    }
+  ]
+}

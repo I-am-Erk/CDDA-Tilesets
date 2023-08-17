@@ -1,0 +1,32 @@
+{
+  "id": "t_wall_resin",
+  "fg": "2992_t_wall_resin_6",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "2993_t_wall_resin_1"
+    },
+    {
+      "id": "corner",
+      "fg": "2994_t_wall_resin_2"
+    },
+    {
+      "id": "edge",
+      "fg": "2995_t_wall_resin_3"
+    },
+    {
+      "id": "end_piece",
+      "fg": "2996_t_wall_resin_4"
+    },
+    {
+      "id": "t_connection",
+      "fg": "2997_t_wall_resin_5"
+    },
+    {
+      "id": "unconnected",
+      "fg": "2992_t_wall_resin_6"
+    }
+  ]
+}
