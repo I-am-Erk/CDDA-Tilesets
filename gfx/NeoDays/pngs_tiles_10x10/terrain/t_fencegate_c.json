@@ -1,0 +1,11 @@
+{
+  "id": "t_fencegate_c",
+  "fg": [
+    "t_fencegate_c_0",
+    "t_fencegate_c_1",
+    "t_fencegate_c_0",
+    "t_fencegate_c_1"
+  ],
+  "//": "better connection sprites wanted",
+  "rotates": true
+}
