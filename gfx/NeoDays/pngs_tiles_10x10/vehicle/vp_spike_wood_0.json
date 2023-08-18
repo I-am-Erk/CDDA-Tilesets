@@ -1,1 +1,13 @@
-{"id": "vp_spike_wood", "fg": ["237_t_fence_post_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["vp_broken_brown"], "bg": []}], "bg": []}
+{
+  "id": "vp_spike_wood",
+  "fg": "t_fence_post",
+  "//": "new sprite wanted",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_brown"
+    }
+  ]
+}

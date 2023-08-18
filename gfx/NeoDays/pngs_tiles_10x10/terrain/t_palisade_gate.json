@@ -1,0 +1,11 @@
+{
+  "id": "t_palisade_gate",
+  "fg": [
+    "t_palisade_gate_0",
+    "t_palisade_gate_1",
+    "t_palisade_gate_0",
+    "t_palisade_gate_1"
+  ],
+  "//": "better connection sprites wanted",
+  "rotates": true
+}

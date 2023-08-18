@@ -1,0 +1,56 @@
+{
+  "id": [
+    "t_fence",
+    "t_fence_h",
+    "t_fence_v"
+  ],
+  "fg": "t_fence_0",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles":[
+    {
+      "id": "center",
+      "fg": "t_fence_1"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_fence_2",
+        "t_fence_3",
+        "t_fence_4",
+        "t_fence_0"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_fence_5",
+        "t_fence_6",
+        "t_fence_5",
+        "t_fence_6"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_fence_5",
+        "t_fence_6",
+        "t_fence_7",
+        "t_fence_0"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_fence_6",
+        "t_fence_3",
+        "t_fence_1",
+        "t_fence_4"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_fence_0"
+    }
+  ]
+}
