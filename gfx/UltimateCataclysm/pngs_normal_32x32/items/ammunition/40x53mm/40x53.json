@@ -2,6 +2,11 @@
 
   {
     "id": [ "40x53mm_m169_casing" ],
+    "bg": [ "" ],
+    "fg": [ "40mm_169_casing" ]
+  },
+  {
+    "id": [ "40x53mm_m169_casing_transparent" ],
     "bg": [ "40x53_b" ],
     "fg": [ "40mm_169_casing" ]
   },

@@ -2,6 +2,11 @@
 
   {
     "id": [ "45colt_casing" ],
+    "bg": [ "" ],
+    "fg": [ "4_casing" ]
+  },
+  {
+    "id": [ "45colt_casing_transparent" ],
     "bg": [ "45colt_b" ],
     "fg": [ "4_casing" ]
   },

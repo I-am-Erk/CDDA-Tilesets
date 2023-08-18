@@ -2,6 +2,11 @@
 
   {
     "id": [ "700nx_casing" ],
+    "bg": [ "" ],
+    "fg": [ "6_casing" ]
+  },
+  {
+    "id": [ "700nx_casing_transparent" ],
     "bg": [ "700nx_b" ],
     "fg": [ "6_casing" ]
   },

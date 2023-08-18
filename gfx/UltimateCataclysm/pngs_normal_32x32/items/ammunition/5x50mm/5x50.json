@@ -2,6 +2,11 @@
 
   {
     "id": [ "5x50_hull" ],
+    "bg": [ "" ],
+    "fg": [ "6R_casing" ]
+  },
+  {
+    "id": [ "5x50_hull_transparent" ],
     "bg": [ "5x50_b" ],
     "fg": [ "6R_casing" ]
   },
