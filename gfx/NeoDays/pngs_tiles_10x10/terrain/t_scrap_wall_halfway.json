@@ -1,0 +1,35 @@
+{
+  "id": [
+    "t_scrap_wall_halfway",
+    "t_junk_palisade"
+  ],
+  "fg": "t_scrap_wall_halfway_0",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_scrap_wall_halfway_1"
+    },
+    {
+      "id": "corner",
+      "fg": "t_scrap_wall_halfway_2"
+    },
+    {
+      "id": "edge",
+      "fg": "t_scrap_wall_halfway_3"
+    },
+    {
+      "id": "end_piece",
+      "fg": "t_scrap_wall_halfway_4"
+    },
+    {
+      "id": "t_connection",
+      "fg": "t_scrap_wall_halfway_5"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_scrap_wall_halfway_0"
+    }
+  ]
+}
