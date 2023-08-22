@@ -1,0 +1,9 @@
+{
+  "id": [
+    "highlight",
+    "line_target",
+    "line_trail",
+    "cursor"
+  ],
+  "fg": "highlight"
+}
