@@ -1,0 +1,12 @@
+{
+  "id": "vp_xlframe_vertical",
+  "fg": "t_reb_cage_3",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_blade_vertical_broken"
+    }
+  ]
+}

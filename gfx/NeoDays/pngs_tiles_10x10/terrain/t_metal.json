@@ -1,0 +1,10 @@
+{
+  "id": [
+    "t_metal",
+    "t_ov_reb_cage",
+    "t_ov_smreb_cage"
+  ],
+  "fg": "t_metal",
+  "rotates": false,
+  "//": "maybe have connection support (for rebar)?"
+}

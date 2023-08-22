@@ -1,0 +1,32 @@
+{
+  "id": "t_fence_barbed",
+  "fg": "t_fence_barbed_0",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_fence_metal_1"
+    },
+    {
+      "id": "corner",
+      "fg": "t_fence_barbed_2"
+    },
+    {
+      "id": "edge",
+      "fg": "t_fence_barbed_0"
+    },
+    {
+      "id": "end_piece",
+      "fg": "t_fence_barbed_3"
+    },
+    {
+      "id": "t_connection",
+      "fg": "t_fence_barbed_4"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_fence_barbed_0"
+    }
+  ]
+}
