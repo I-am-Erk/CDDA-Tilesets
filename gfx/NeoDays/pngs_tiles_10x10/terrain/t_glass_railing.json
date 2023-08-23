@@ -1,36 +1,36 @@
 {
   "id": [
-    "t_scrap_wall",
-    "t_junk_wall",
-    "t_wall_metal"
+    "t_glass_railing",
+    "t_glass_railing_h",
+    "t_glass_railing_v"
   ],
-  "fg": "359_t_scrap_wall_0",
+  "fg": "t_glass_railing_0",
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
     {
       "id": "center",
-      "fg": ["360_t_scrap_wall_1"]
+      "fg": "t_glass_railing_0"
     },
     {
       "id": "corner",
-      "fg": ["361_t_scrap_wall_2"]
+      "fg": "t_glass_railing_1"
     },
     {
       "id": "edge",
-      "fg": ["362_t_scrap_wall_3"]
+      "fg": "t_glass_railing_2"
     },
     {
       "id": "end_piece",
-      "fg": ["363_t_scrap_wall_4"]
+      "fg": "t_glass_railing_3"
     },
     {
       "id": "t_connection",
-      "fg": ["364_t_scrap_wall_5"]
+      "fg": "t_glass_railing_4"
     },
     {
       "id": "unconnected",
-      "fg": ["359_t_scrap_wall_0"]
+      "fg": "t_glass_railing_5"
     }
   ]
 }

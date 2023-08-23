@@ -1,0 +1,36 @@
+{
+  "id": [
+    "t_scrap_wall",
+    "t_junk_wall",
+    "t_wall_metal"
+  ],
+  "fg": "t_scrap_wall_0",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_scrap_wall_1"
+    },
+    {
+      "id": "corner",
+      "fg": "t_scrap_wall_2"
+    },
+    {
+      "id": "edge",
+      "fg": "t_scrap_wall_3"
+    },
+    {
+      "id": "end_piece",
+      "fg": "t_scrap_wall_4"
+    },
+    {
+      "id": "t_connection",
+      "fg": "t_scrap_wall_5"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_scrap_wall_0"
+    }
+  ]
+}

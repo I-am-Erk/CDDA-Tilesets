@@ -1,0 +1,32 @@
+{
+  "id": "t_wall_y",
+  "fg": "t_wall_y_0",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_wall_y_1"
+    },
+    {
+      "id": "corner",
+      "fg": "t_wall_y_2"
+    },
+    {
+      "id": "edge",
+      "fg": "t_wall_y_3"
+    },
+    {
+      "id": "end_piece",
+      "fg": "t_wall_y_4"
+    },
+    {
+      "id": "t_connection",
+      "fg": "t_wall_y_5"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_wall_y_0"
+    }
+  ]
+}

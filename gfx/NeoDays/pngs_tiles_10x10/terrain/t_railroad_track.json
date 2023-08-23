@@ -1,0 +1,43 @@
+{
+  "id": [
+    "t_railroad_track",
+    "t_railroad_track_h",
+    "t_railroad_track_v",
+    "t_railroad_track_d",
+    "t_railroad_track_d1",
+    "t_railroad_track_d2"
+  ],
+  "fg": "t_railroad_track_0",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_railroad_track_0"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_railroad_track_1",
+        "t_railroad_track_2",
+        "t_railroad_track_3",
+        "t_railroad_track_4"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": "t_railroad_track_5"
+    },
+    {
+      "id": "end_piece",
+      "fg": "t_railroad_track_5"
+    },
+    {
+      "id": "t_connection",
+      "fg": "t_railroad_track_6"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_railroad_track_5"
+  }]
+}
