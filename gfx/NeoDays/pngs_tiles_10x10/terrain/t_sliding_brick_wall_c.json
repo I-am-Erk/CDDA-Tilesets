@@ -1,0 +1,8 @@
+{
+  "id": [
+    "t_sliding_brick_wall_c",
+    "t_secretdoor_brick_wall_c"
+  ],
+  "fg": "t_brick_wall_3",
+  "rotates": true
+}
