@@ -27,10 +27,9 @@ You will need:
 - Python 3
 - [Libvips](https://libvips.github.io/libvips/install.html)
 - pyvips (install it via python pip: `pip install pyvips`) 
-- [compose.py](https://github.com/CleverRaven/Cataclysm-DDA/blob/master/tools/gfx_tools/compose.py) script from the main [Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) repository
 
 Once you have everything ready, you can build the tileset:
 ```sh
 # Assuming that you are in the root of the tileset repository
-$ python3 <path-to-compose-py-script>/compose.py gfx/UltimateCataclysm
+$ python3 tools/compose.py gfx/UltimateCataclysm
 ```

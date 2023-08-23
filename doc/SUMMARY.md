@@ -2,6 +2,7 @@
 
 - [Installation & Building](installation.md)
   - [Windows guide](installation_windows.md)
+  - [Nix](installation_nix.md)
 - [Style guidelines](style/summary.md)
     - [General](style/general.md)
     - [Items](style/items.md)

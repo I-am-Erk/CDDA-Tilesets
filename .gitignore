@@ -1,7 +1,6 @@
 .DS_Store
 desktop.ini
 __pycache__
-.direnv
 # generated on build
 gfx/*/tile_config.json
 
@@ -14,4 +13,10 @@ book
 # Krita
 *.png-autosave.kra
 *.kra
+*.kra~
 *.png~
+
+# Direnv & Nix
+.direnv
+result
+.local
