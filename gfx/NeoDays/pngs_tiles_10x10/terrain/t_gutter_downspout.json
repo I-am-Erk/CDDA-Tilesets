@@ -1,0 +1,6 @@
+{
+  "id": "t_gutter_downspout",
+  "fg": "t_gutter_downspout",
+  "rotates": true,
+  "//": "im not sure this is necessary as the sprite is circular symmetric but im not going to test it right now"
+}
