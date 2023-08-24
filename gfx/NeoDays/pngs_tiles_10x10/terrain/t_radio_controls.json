@@ -1,0 +1,11 @@
+{
+  "id": [
+    "t_radio_controls",
+    "t_containment_control",
+    "t_ins_bridge_control",
+    "t_jaildoor_control",
+    "t_outs_bridge_control",
+    "t_reinforced_glass_control"
+  ],
+  "fg": "t_radio_controls"
+}
