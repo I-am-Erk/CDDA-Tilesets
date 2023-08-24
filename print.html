@@ -91,7 +91,7 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item expanded "><a href="installation.html"><strong aria-hidden="true">1.</strong> Installation &amp; Building</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="installation_windows.html"><strong aria-hidden="true">1.1.</strong> Windows guide</a></li></ol></li><li class="chapter-item expanded "><a href="style/summary.html"><strong aria-hidden="true">2.</strong> Style guidelines</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="style/general.html"><strong aria-hidden="true">2.1.</strong> General</a></li><li class="chapter-item expanded "><a href="style/items.html"><strong aria-hidden="true">2.2.</strong> Items</a></li><li class="chapter-item expanded "><a href="style/overlay.html"><strong aria-hidden="true">2.3.</strong> Overlay</a></li><li class="chapter-item expanded "><a href="style/creatures.html"><strong aria-hidden="true">2.4.</strong> Creatures</a></li><li class="chapter-item expanded "><a href="style/terrain-furniture.html"><strong aria-hidden="true">2.5.</strong> Terrain &amp; Furniture</a></li></ol></li><li class="chapter-item expanded "><strong aria-hidden="true">3.</strong> How to</li><li><ol class="section"><li class="chapter-item expanded "><a href="how-to/structure.html"><strong aria-hidden="true">3.1.</strong> Tileset structure</a></li><li class="chapter-item expanded "><a href="how-to/autotiles.html"><strong aria-hidden="true">3.2.</strong> Autotiles</a></li></ol></li><li class="chapter-item expanded "><strong aria-hidden="true">4.</strong> Tools</li><li><ol class="section"><li class="chapter-item expanded "><strong aria-hidden="true">4.1.</strong> Slice autotiles</li><li class="chapter-item expanded "><strong aria-hidden="true">4.2.</strong> Generate preview</li></ol></li></ol>
+                <ol class="chapter"><li class="chapter-item expanded "><a href="installation.html"><strong aria-hidden="true">1.</strong> Installation &amp; Building</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="installation_windows.html"><strong aria-hidden="true">1.1.</strong> Windows guide</a></li><li class="chapter-item expanded "><a href="installation_nix.html"><strong aria-hidden="true">1.2.</strong> Nix</a></li></ol></li><li class="chapter-item expanded "><a href="style/summary.html"><strong aria-hidden="true">2.</strong> Style guidelines</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="style/general.html"><strong aria-hidden="true">2.1.</strong> General</a></li><li class="chapter-item expanded "><a href="style/items.html"><strong aria-hidden="true">2.2.</strong> Items</a></li><li class="chapter-item expanded "><a href="style/overlay.html"><strong aria-hidden="true">2.3.</strong> Overlay</a></li><li class="chapter-item expanded "><a href="style/creatures.html"><strong aria-hidden="true">2.4.</strong> Creatures</a></li><li class="chapter-item expanded "><a href="style/terrain-furniture.html"><strong aria-hidden="true">2.5.</strong> Terrain &amp; Furniture</a></li></ol></li><li class="chapter-item expanded "><strong aria-hidden="true">3.</strong> How to</li><li><ol class="section"><li class="chapter-item expanded "><a href="how-to/structure.html"><strong aria-hidden="true">3.1.</strong> Tileset structure</a></li><li class="chapter-item expanded "><a href="how-to/autotiles.html"><strong aria-hidden="true">3.2.</strong> Autotiles</a></li></ol></li><li class="chapter-item expanded "><strong aria-hidden="true">4.</strong> Tools</li><li><ol class="section"><li class="chapter-item expanded "><strong aria-hidden="true">4.1.</strong> Slice autotiles</li><li class="chapter-item expanded "><strong aria-hidden="true">4.2.</strong> Generate preview</li></ol></li></ol>
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
         </nav>
@@ -189,11 +189,10 @@
 <li>Python 3</li>
 <li><a href="https://libvips.github.io/libvips/install.html">Libvips</a></li>
 <li>pyvips (install it via python pip: <code>pip install pyvips</code>) </li>
-<li><a href="https://github.com/CleverRaven/Cataclysm-DDA/blob/master/tools/gfx_tools/compose.py">compose.py</a> script from the main <a href="https://github.com/CleverRaven/Cataclysm-DDA">Cataclysm-DDA</a> repository</li>
 </ul>
 <p>Once you have everything ready, you can build the tileset:</p>
 <pre><code class="language-sh"># Assuming that you are in the root of the tileset repository
-$ python3 &lt;path-to-compose-py-script&gt;/compose.py gfx/UltimateCataclysm
+$ python3 tools/compose.py gfx/UltimateCataclysm
 </code></pre>
 <h1><a class="header" href="#windows-guide" id="windows-guide">Windows guide</a></h1>
 <p>Guide for Windows users, without touching the Command Line.</p>
@@ -241,6 +240,26 @@ If not set permanently, the update script will allow for interactive selection o
 <p>You will be prompted to select a tileset (unless it was set permanently).
 At the first run, <code>pyvips</code> will be installed automatically.</p>
 <p>If something goes wrong, read the script's output carefully!</p>
+<h1><a class="header" href="#nix-installation" id="nix-installation">Nix Installation</a></h1>
+<p>Documentation of developing tileset with <a href="https://nixos.org/">Nix</a>. </p>
+<h2><a class="header" href="#build" id="build">Build</a></h2>
+<p>As this repository uses flakes, it's possible to build any of the tileset (not only UlitCa) using <code>nix build .#{name}</code> command. For example:</p>
+<pre><code class="language-sh"># This will build UltiCa
+nix build .#UltimateCataclysm
+
+# But this will build Mushroom Dream
+nix build .#Mushroom-Dream
+</code></pre>
+<p>And the result will be in <em>result</em> directory, ready to put into the game. If you want to link the result to the different directory, use <code>--out-link {path}</code> argument.</p>
+<h2><a class="header" href="#devshell" id="devshell">Devshell</a></h2>
+<p>Tileset flake also provide a simple devshell with python and vips to run tools such as <code>compose.py</code> or <code>generate_preview.py</code>.</p>
+<pre><code class="language-sh"># Enter the devshell
+nix develop .
+
+# This now works
+python3 tools/compose.py --use-all gfx/UltimateCataclysm out
+</code></pre>
+<p>Or if you have <a href="https://direnv.net/">direnv</a> enabled, it will automatically enter the devshell upon opening the repository.</p>
 <h1><a class="header" href="#style-guidelines" id="style-guidelines">Style guidelines</a></h1>
 <p>We have rules for sprites these days. 
 Not because it's important to keep the tileset consistent, but also to make things recognizable on the screen in the game. 
