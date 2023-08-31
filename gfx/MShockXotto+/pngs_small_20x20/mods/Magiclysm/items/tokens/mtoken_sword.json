@@ -1,0 +1,7 @@
+[
+  {
+    "id": [ "mtoken_longsword", "mtoken_arming_sword", "mtoken_broadsword"],
+    "bg": [],
+    "fg": [ "mtoken_longsword" ]
+  }
+]
