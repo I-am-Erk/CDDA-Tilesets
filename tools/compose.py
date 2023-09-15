@@ -928,6 +928,9 @@ def main() -> Union[int, ComposingException]:
         '--no-use-all', dest='no_use_all', action='store_true',
         help='Add unused images with id being their basename')
     arg_parser.add_argument(
+        '--use-all', dest='use_all', action='store_true',
+        help='Legacy argument for script compatability, enabled by default')
+    arg_parser.add_argument(
         '--obsolete-fillers', dest='obsolete_fillers', action='store_true',
         help='Warn about obsoleted fillers')
     arg_parser.add_argument(
