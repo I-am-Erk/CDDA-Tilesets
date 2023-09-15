@@ -1,0 +1,82 @@
+[
+  {
+    "id": [ "overlay_male_mutation_SYLPH_SKIN_1", "overlay_male_mutation_SYLPH_SKIN_2", "overlay_male_mutation_SYLPH_SKIN_3" ],
+    "fg": [ "overlay_male_mutation_SYLPH_SKIN_1" ]
+  },
+  {
+    "id": [
+      "overlay_female_mutation_SYLPH_SKIN_1",
+      "overlay_female_mutation_SYLPH_SKIN_2",
+      "overlay_female_mutation_SYLPH_SKIN_3"
+    ],
+    "fg": [ "overlay_female_mutation_SYLPH_SKIN_1" ]
+  },
+  {
+    "id": [
+      "overlay_male_mutation_HOMULLUS_SKIN_1",
+      "overlay_male_mutation_HOMULLUS_SKIN_2",
+      "overlay_male_mutation_HOMULLUS_SKIN_3"
+    ],
+    "fg": [ "overlay_male_mutation_HOMULLUS_SKIN_1" ]
+  },
+  {
+    "id": [
+      "overlay_female_mutation_HOMULLUS_SKIN_1",
+      "overlay_female_mutation_HOMULLUS_SKIN_2",
+      "overlay_female_mutation_HOMULLUS_SKIN_3"
+    ],
+    "fg": [ "overlay_female_mutation_HOMULLUS_SKIN_1" ]
+  },
+  {
+    "id": [ "overlay_male_mutation_ARVORE_SKIN_1", "overlay_male_mutation_ARVORE_SKIN_2", "overlay_male_mutation_ARVORE_SKIN_3" ],
+    "fg": [ "overlay_male_mutation_ARVORE_SKIN_1" ]
+  },
+  {
+    "id": [
+      "overlay_female_mutation_ARVORE_SKIN_1",
+      "overlay_female_mutation_ARVORE_SKIN_2",
+      "overlay_female_mutation_ARVORE_SKIN_3"
+    ],
+    "fg": [ "overlay_female_mutation_ARVORE_SKIN_1" ]
+  },
+  {
+    "id": [ "overlay_male_mutation_UNDINE_SKIN_1", "overlay_male_mutation_UNDINE_SKIN_2", "overlay_male_mutation_UNDINE_SKIN_3" ],
+    "fg": [ "overlay_male_mutation_UNDINE_SKIN_1" ]
+  },
+  {
+    "id": [
+      "overlay_female_mutation_UNDINE_SKIN_1",
+      "overlay_female_mutation_UNDINE_SKIN_2",
+      "overlay_female_mutation_UNDINE_SKIN_3"
+    ],
+    "fg": [ "overlay_female_mutation_UNDINE_SKIN_1" ]
+  },
+  {
+    "id": [
+      "overlay_male_mutation_SALAMANDER_SKIN_1",
+      "overlay_male_mutation_SALAMANDER_SKIN_2",
+      "overlay_male_mutation_SALAMANDER_SKIN_3"
+    ],
+    "fg": [ "overlay_male_mutation_SALAMANDER_SKIN_1" ]
+  },
+  {
+    "id": [
+      "overlay_female_mutation_SALAMANDER_SKIN_1",
+      "overlay_female_mutation_SALAMANDER_SKIN_2",
+      "overlay_female_mutation_SALAMANDER_SKIN_3"
+    ],
+    "fg": [ "overlay_female_mutation_SALAMANDER_SKIN_1" ]
+  },
+  {
+    "id": [ "overlay_male_mutation_IERDE_SKIN_1", "overlay_male_mutation_IERDE_SKIN_2", "overlay_male_mutation_IERDE_SKIN_3" ],
+    "fg": [ "overlay_male_mutation_IERDE_SKIN_1" ]
+  },
+  {
+    "id": [
+      "overlay_female_mutation_IERDE_SKIN_1",
+      "overlay_female_mutation_IERDE_SKIN_2",
+      "overlay_female_mutation_IERDE_SKIN_3"
+    ],
+    "fg": [ "overlay_female_mutation_IERDE_SKIN_1" ]
+  }
+]
