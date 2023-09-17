@@ -3,7 +3,8 @@
     "vp_mounted_m1918",
     "vp_flamethrower",
     "vp_tow_launcher",
-    "vp_tow_turret"
+    "vp_tow_turret",
+    "vp_plugged_3in_ordnance_rifle"
   ],
   "fg": "vp_mounted_m1918",
   "bg": "background_black",
