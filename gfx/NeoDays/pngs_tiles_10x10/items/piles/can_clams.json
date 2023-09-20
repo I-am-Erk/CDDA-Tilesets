@@ -22,7 +22,9 @@
     "chem_saltpetre",
     "chem_rdx",
     "material_quicklime",
-    "chem_hmtd"
+    "chem_hmtd",
+    "chem_zinc_powder",
+    "chem_zinc_oxide"
   ],
   "fg": "can_clams"
 }
