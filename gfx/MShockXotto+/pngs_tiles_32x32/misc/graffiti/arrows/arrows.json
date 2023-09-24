@@ -1,0 +1,23 @@
+[
+  {
+    "id": [ "graffiti_BOX", "graffiti_SQUARE" ],
+    "fg": [ "graffiti_BOX" ]
+  },
+  {
+    "id": [ "graffiti_EAST", "graffiti_RIGHT_ARROW", "graffiti_RIGHT" ],
+    "fg": [ "graffiti_EAST" ]
+  },
+  {
+    "id": [ "graffiti_SOUTH", "graffiti_DOWN_ARROW", "graffiti_DOWN" ],
+    "fg": [ "graffiti_SOUTH" ]
+  },
+  {
+    "id": [ "graffiti_WEST", "graffiti_LEFT_ARROW", "graffiti_LEFT" ],
+    "fg": [ "graffiti_WEST" ]
+  },
+  {
+    "id": [ "graffiti_NORTH", "graffiti_UP_ARROW", "graffiti_UP" ],
+    "fg": [ "graffiti_NORTH" ]
+  }
+]
+ 
