@@ -1,0 +1,11 @@
+{
+  "id": "vp_tank_little",
+  "fg": "metal_tank_little",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_red"
+    }
+  ]
+}
