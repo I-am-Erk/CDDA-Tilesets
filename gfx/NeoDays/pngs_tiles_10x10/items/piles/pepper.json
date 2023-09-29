@@ -15,7 +15,10 @@
     "incendiary",
     "ash",
     "cathod_mix",
-    "cac2powder"
+    "cac2powder",
+    "iodine_crystal",
+    "chem_manganese_dioxide",
+    "chem_mercury_fulminate"
   ],
   "fg": "pepper"
 }

@@ -30,7 +30,12 @@
     "chem_baking_soda",
     "chem_caco3",
     "chem_calcium_chloride",
-    "dye_powder"
+    "dye_powder",
+    "extinguishing_agent",
+    "chem_nickel_powder",
+    "chem_potassium_alum",
+    "chem_potassium_chloride",
+    "chem_potassium_hydroxide"
   ],
   "fg": "can_clams"
 }
