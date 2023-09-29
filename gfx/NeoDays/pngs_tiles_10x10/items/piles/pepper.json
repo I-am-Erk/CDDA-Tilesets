@@ -18,7 +18,8 @@
     "cac2powder",
     "iodine_crystal",
     "chem_manganese_dioxide",
-    "chem_mercury_fulminate"
+    "chem_mercury_fulminate",
+    "silicone"
   ],
   "fg": "pepper"
 }
