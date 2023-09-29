@@ -11,7 +11,9 @@
     "cinnamon",
     "fried_seeds",
     "sauerkraut",
-    "sauerkraut_onions"
+    "sauerkraut_onions",
+    "chem_compositionb",
+    "chem_lead_azide"
   ],
   "fg": "crack"
 }

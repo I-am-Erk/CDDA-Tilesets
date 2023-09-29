@@ -19,7 +19,8 @@
     "feces_roach",
     "material_soil",
     "dogfood",
-    "f_woodchips"
+    "f_woodchips",
+    "chem_ferric_chloride"
   ],
   "fg": "can_beans"
 }

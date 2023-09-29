@@ -13,7 +13,13 @@
     "chem_rocket_fuel",
     "chem_thermite",
     "incendiary",
-    "ash"
+    "ash",
+    "cathod_mix",
+    "cac2powder",
+    "iodine_crystal",
+    "chem_manganese_dioxide",
+    "chem_mercury_fulminate",
+    "silicone"
   ],
   "fg": "pepper"
 }
