@@ -24,7 +24,13 @@
     "material_quicklime",
     "chem_hmtd",
     "chem_zinc_powder",
-    "chem_zinc_oxide"
+    "chem_zinc_oxide",
+    "chem_antimony_trichloride",
+    "chem_apex",
+    "chem_baking_soda",
+    "chem_caco3",
+    "chem_calcium_chloride",
+    "dye_powder"
   ],
   "fg": "can_clams"
 }

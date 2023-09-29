@@ -9,7 +9,8 @@
     "gas_fungicidal",
     "brew_vinegar",
     "wine_chardonnay",
-    "wine_riesling"
+    "wine_riesling",
+    "conc_venom"
   ],
   "fg": "gasoline"
 }

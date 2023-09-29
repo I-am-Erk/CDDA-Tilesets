@@ -13,7 +13,9 @@
     "chem_rocket_fuel",
     "chem_thermite",
     "incendiary",
-    "ash"
+    "ash",
+    "cathod_mix",
+    "cac2powder"
   ],
   "fg": "pepper"
 }
