@@ -1,0 +1,15 @@
+[
+  {
+    "id": "f_bike_rack",
+    "fg": "f_bike_rack_unconnected",
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "edge", "fg": [ "f_bike_rack_edge_ns", "f_bike_rack_edge_ew" ] },
+      {
+        "id": "end_piece",
+        "fg": [ "f_bike_rack_end_piece_n", "f_bike_rack_end_piece_w", "f_bike_rack_end_piece_s", "f_bike_rack_end_piece_e" ]
+      },
+      { "id": "unconnected", "fg": [ "f_bike_rack_unconnected" ] }
+    ]
+  }
+]
