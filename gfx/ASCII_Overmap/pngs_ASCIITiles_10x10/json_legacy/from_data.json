@@ -3721,6 +3721,8 @@
             "urban_11_2",
             "urban_12_1",
             "urban_12_2",
+            "urban_20_1",
+            "urban_20_2",
             "urban_15_1",
             "urban_15_2",
             "urban_16_1",
@@ -3828,6 +3830,10 @@
             "urban_5_4",
             "urban_5_5",
             "urban_5_6",
+            "urban_20_2ndfloor_1",
+            "urban_20_2ndfloor_2",
+            "urban_20_roof_1",
+            "urban_20_roof_2",
             "urban_6_3",
             "urban_6_4",
             "urban_6_5",
@@ -4530,29 +4536,6 @@
             "roadstop_b_roof"
         ],
         "fg": "magenta94",
-        "bg": "black",
-        "rotates": true
-    },
-    {
-        "id": "railroad_bridge",
-        "fg": "light_cyan179",
-        "bg": "black",
-        "rotates": true
-    },
-    {
-        "id": "railroad_level_crossing",
-        "fg": "red197",
-        "bg": "black",
-        "rotates": true
-    },
-    {
-        "id": [
-            "railroad_station_0_1",
-            "railroad_station_0_2",
-            "railroad_station_0_3",
-            "railroad_station_0_4"
-        ],
-        "fg": "light_green179",
         "bg": "black",
         "rotates": true
     },
@@ -5408,6 +5391,47 @@
             "necropolis_d_81"
         ],
         "fg": "white197",
+        "bg": "black",
+        "rotates": true
+    },
+    {
+        "id": "railroad_bridge",
+        "fg": "light_cyan179",
+        "bg": "black",
+        "rotates": true
+    },
+    {
+        "id": "railroad_bridge_overpass",
+        "fg": "white179",
+        "bg": "black",
+        "rotates": true
+    },
+    {
+        "id": "railroad_bridgehead_ground",
+        "fg": "white118",
+        "bg": "black",
+        "rotates": true
+    },
+    {
+        "id": "railroad_bridgehead_ramp",
+        "fg": "white94",
+        "bg": "black",
+        "rotates": true
+    },
+    {
+        "id": "railroad_level_crossing",
+        "fg": "red197",
+        "bg": "black",
+        "rotates": true
+    },
+    {
+        "id": [
+            "railroad_station_0_1",
+            "railroad_station_0_2",
+            "railroad_station_0_3",
+            "railroad_station_0_4"
+        ],
+        "fg": "light_green179",
         "bg": "black",
         "rotates": true
     },
