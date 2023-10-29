@@ -2,7 +2,8 @@
   "id": [
     "powered_earmuffs",
     "powered_earmuffs_on",
-    "hat_noise_cancelling"
+    "hat_noise_cancelling",
+    "headphones_circumaural"
   ],
   "fg": "powered_earmuffs"
 }
