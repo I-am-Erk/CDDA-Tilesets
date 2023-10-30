@@ -1,0 +1,10 @@
+{
+  "id": [
+    "meat_cooked",
+    "human_cooked",
+    "royal_beef",
+    "peppermeat",
+    "spider_steak_cooked"
+  ],
+  "fg": "meat_cooked"
+}
