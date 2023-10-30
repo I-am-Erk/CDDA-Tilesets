@@ -20,7 +20,8 @@
     "material_soil",
     "dogfood",
     "f_woodchips",
-    "chem_ferric_chloride"
+    "chem_ferric_chloride",
+    "wild_rice_cooked"
   ],
   "fg": "can_beans"
 }
