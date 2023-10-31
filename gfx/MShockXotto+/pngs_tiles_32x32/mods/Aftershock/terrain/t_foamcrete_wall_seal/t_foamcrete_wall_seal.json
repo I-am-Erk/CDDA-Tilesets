@@ -1,0 +1,52 @@
+{
+  "id": "t_foamcrete_wall_seal",
+  "fg": "t_foamcrete_wall_seal_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_foamcrete_wall_seal_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_foamcrete_wall_seal_corner_nw",
+        "t_foamcrete_wall_seal_corner_sw",
+        "t_foamcrete_wall_seal_corner_se",
+        "t_foamcrete_wall_seal_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_foamcrete_wall_seal_t_connection_n",
+        "t_foamcrete_wall_seal_t_connection_w",
+        "t_foamcrete_wall_seal_t_connection_s",
+        "t_foamcrete_wall_seal_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_foamcrete_wall_seal_edge_ns",
+        "t_foamcrete_wall_seal_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_foamcrete_wall_seal_end_piece_n",
+        "t_foamcrete_wall_seal_end_piece_w",
+        "t_foamcrete_wall_seal_end_piece_s",
+        "t_foamcrete_wall_seal_end_piece_e"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_foamcrete_wall_seal_unconnected",
+        "t_foamcrete_wall_seal_unconnected"
+      ]
+    }
+  ]
+}
