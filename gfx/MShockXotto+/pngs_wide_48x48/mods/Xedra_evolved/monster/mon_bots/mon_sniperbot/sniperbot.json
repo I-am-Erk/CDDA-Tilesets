@@ -1,0 +1,10 @@
+[
+ {
+  "id": "mon_sniperbot",
+  "fg": [
+    { "weight": 100, "sprite": "mon_sniperbot" },
+    { "weight": 1, "sprite": "mon_sniperbot_1" }
+  ],
+  "bg": []
+ }
+]
