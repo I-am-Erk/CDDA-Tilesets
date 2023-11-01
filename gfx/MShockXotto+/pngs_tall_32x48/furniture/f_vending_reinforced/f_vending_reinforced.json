@@ -1,6 +1,0 @@
-{
-  "id": "f_vending_reinforced",
-  "rotates": true,
-  "fg": ["f_vending_reinforced", "f_vending_reinforced_W", "f_vending_reinforced_N", "f_vending_reinforced_E"],
-  "bg": ""
-}
