@@ -1,0 +1,8 @@
+{
+  "id": [
+    "vp_ap_box_battery_charger",
+    "vp_ap_foot_locker_recharge_station"
+  ],
+  "fg": "vp_recharge_station",
+  "//": "vehicle part"
+}
