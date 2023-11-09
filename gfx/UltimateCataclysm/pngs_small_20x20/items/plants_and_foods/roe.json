@@ -1,0 +1,53 @@
+[
+  {
+    "id": [
+      "egg_fish",
+      "egg_brown_trout",
+      "egg_brook_trout",
+      "egg_lake_trout",
+      "egg_rainbow_trout",
+      "egg_salmon",
+      "egg_kokanee_salmon",
+      "egg_rock_bass",
+      "egg_walleye",
+      "egg_sbass",
+      "egg_lbass",
+      "egg_calico_bass",
+      "egg_muskellunge",
+      "egg_fallfish"
+    ],
+    "fg": "roe"
+  },
+  {
+    "id": [ "egg_pbass", "egg_bullhead", "egg_bullhead_yellow" ],
+    "fg": "roe_2"
+  },
+  {
+    "id": [ "egg_whitefish", "egg_bluegill", "egg_pike", "egg_burbot", "egg_whitefish_round" ],
+    "fg": "roe_6"
+  },
+  {
+    "id": [ "egg_carp", "egg_grass_carp" ],
+    "fg": "roe_3"
+  },
+  {
+    "id": [ "egg_bowfin", "egg_sturgeon_lake", "egg_sturgeon_shortnose" ],
+    "fg": "roe_4"
+  },
+  {
+    "id": [ "egg_pumpkinseed", "egg_redbreast", "egg_green_sunfish", "egg_sunfish" ],
+    "fg": "roe_5"
+  },
+  {
+    "id": [ "egg_pickerel", "egg_pickerel_american" ],
+    "fg": "roe_9"
+  },
+  {
+    "id": "egg_gar_longnose",
+    "fg": "roe_8"
+  },
+  {
+    "id": [ "egg_white_sucker", "egg_goldfish" ],
+    "fg": "roe_7"
+  }
+]
