@@ -1,0 +1,13 @@
+[
+  {
+    "id": "t_sidewalk",
+    "fg": [ ],
+    "bg": [
+        { "weight": 100, "sprite": "t_sidewalk_0" },
+        { "weight": 1, "sprite": "t_sidewalk_1" },
+        { "weight": 2, "sprite": "t_sidewalk_2" },
+        { "weight": 2, "sprite": "t_sidewalk_3" }
+    ],
+    "rotates": true
+  }
+]
