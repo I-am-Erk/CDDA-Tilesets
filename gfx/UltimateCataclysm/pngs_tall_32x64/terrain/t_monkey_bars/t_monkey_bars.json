@@ -1,0 +1,226 @@
+[
+  {
+    "id": "t_monkey_bars",
+    "fg": "t_monkey_bars_unconnected",
+    "bg": "t_grass_tall",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "center",
+        "fg": "t_monkey_bars_center",
+        "bg": "t_grass_tall"
+      },
+      {
+        "id": "corner",
+        "fg": [
+          "t_monkey_bars_corner_nw",
+          "t_monkey_bars_corner_sw",
+          "t_monkey_bars_corner_se",
+          "t_monkey_bars_corner_ne"
+        ],
+        "bg": "t_grass_tall"
+      },
+      {
+        "id": "t_connection",
+        "fg": [
+          "t_monkey_bars_t_connection_n",
+          "t_monkey_bars_t_connection_w",
+          "t_monkey_bars_t_connection_s",
+          "t_monkey_bars_t_connection_e"
+        ],
+        "bg": "t_grass_tall"
+      },
+      {
+        "id": "edge",
+        "fg": [
+        "t_monkey_bars_edge_ns",
+        "t_monkey_bars_edge_ew"
+        ],
+        "bg": "t_grass_tall"
+      },
+      {
+        "id": "end_piece",
+        "fg": [
+          "t_monkey_bars_end_piece_n",
+          "t_monkey_bars_end_piece_w",
+          "t_monkey_bars_end_piece_s",
+          "t_monkey_bars_end_piece_e"
+        ],
+        "bg": "t_grass_tall"
+      },
+      {
+        "id": "unconnected",
+        "fg": "t_monkey_bars_unconnected",
+        "bg": "t_grass_tall"
+      }
+    ]
+  },
+  {
+    "id": "t_monkey_bars_season_summer",
+    "fg": "t_monkey_bars_unconnected",
+    "bg": "t_grass_summer_tall",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "center",
+        "fg": "t_monkey_bars_center",
+        "bg": "t_grass_summer_tall"
+      },
+      {
+        "id": "corner",
+        "fg": [
+          "t_monkey_bars_corner_nw",
+          "t_monkey_bars_corner_sw",
+          "t_monkey_bars_corner_se",
+          "t_monkey_bars_corner_ne"
+        ],
+        "bg": "t_grass_summer_tall"
+      },
+      {
+        "id": "t_connection",
+        "fg": [
+          "t_monkey_bars_t_connection_n",
+          "t_monkey_bars_t_connection_w",
+          "t_monkey_bars_t_connection_s",
+          "t_monkey_bars_t_connection_e"
+        ],
+        "bg": "t_grass_summer_tall"
+      },
+      {
+        "id": "edge",
+        "fg": [
+          "t_monkey_bars_edge_ns",
+          "t_monkey_bars_edge_ew"
+        ],
+        "bg": "t_grass_summer_tall"
+      },
+      {
+        "id": "end_piece",
+        "fg": [
+          "t_monkey_bars_end_piece_n",
+          "t_monkey_bars_end_piece_w",
+          "t_monkey_bars_end_piece_s",
+          "t_monkey_bars_end_piece_e"
+        ],
+        "bg": "t_grass_summer_tall"
+      },
+      {
+        "id": "unconnected",
+        "fg": "t_monkey_bars_unconnected",
+        "bg": "t_grass_summer_tall"
+      }
+    ]
+  },
+  {
+    "id": "t_monkey_bars_season_autumn",
+    "fg": "t_monkey_bars_unconnected",
+    "bg": "t_grass_autumn_tall",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "center",
+        "fg": "t_monkey_bars_center",
+        "bg": "t_grass_autumn_tall"
+      },
+      {
+        "id": "corner",
+        "fg": [
+          "t_monkey_bars_corner_nw",
+          "t_monkey_bars_corner_sw",
+          "t_monkey_bars_corner_se",
+          "t_monkey_bars_corner_ne"
+        ],
+        "bg": "t_grass_autumn_tall"
+      },
+      {
+        "id": "t_connection",
+        "fg": [
+          "t_monkey_bars_t_connection_n",
+          "t_monkey_bars_t_connection_w",
+          "t_monkey_bars_t_connection_s",
+          "t_monkey_bars_t_connection_e"
+        ],
+        "bg": "t_grass_autumn_tall"
+      },
+      {
+        "id": "edge",
+        "fg": [
+          "t_monkey_bars_edge_ns",
+          "t_monkey_bars_edge_ew"
+        ],
+        "bg": "t_grass_autumn_tall"
+      },
+      {
+        "id": "end_piece",
+        "fg": [
+          "t_monkey_bars_end_piece_n",
+          "t_monkey_bars_end_piece_w",
+          "t_monkey_bars_end_piece_s",
+          "t_monkey_bars_end_piece_e"
+        ],
+        "bg": "t_grass_autumn_tall"
+      },
+      {
+        "id": "unconnected",
+        "fg": "t_monkey_bars_unconnected",
+        "bg": "t_grass_autumn_tall"
+      }
+    ]
+  },
+  {
+    "id": "t_monkey_bars_season_winter",
+    "fg": "t_monkey_bars_unconnected",
+    "bg": "snow_shallow_tall",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "center",
+        "fg": "t_monkey_bars_center",
+        "bg": "snow_shallow_tall"
+      },
+      {
+        "id": "corner",
+        "fg": [
+          "t_monkey_bars_corner_nw",
+          "t_monkey_bars_corner_sw",
+          "t_monkey_bars_corner_se",
+          "t_monkey_bars_corner_ne"
+        ],
+        "bg": "snow_shallow_tall"
+      },
+      {
+        "id": "t_connection",
+        "fg": [
+          "t_monkey_bars_t_connection_n",
+          "t_monkey_bars_t_connection_w",
+          "t_monkey_bars_t_connection_s",
+          "t_monkey_bars_t_connection_e"
+        ],
+        "bg": "snow_shallow_tall"
+      },
+      {
+        "id": "edge",
+        "fg": [
+          "t_monkey_bars_edge_ns",
+          "t_monkey_bars_edge_ew"
+        ],
+        "bg": "snow_shallow_tall"
+      },
+      {
+        "id": "end_piece",
+        "fg": [
+          "t_monkey_bars_end_piece_n",
+          "t_monkey_bars_end_piece_w",
+          "t_monkey_bars_end_piece_s",
+          "t_monkey_bars_end_piece_e"
+        ],
+        "bg": "snow_shallow_tall"
+      },
+      {
+        "id": "unconnected",
+        "fg": "t_monkey_bars_unconnected",
+        "bg": "snow_shallow_tall"
+      }
+    ]
+  }
+]
