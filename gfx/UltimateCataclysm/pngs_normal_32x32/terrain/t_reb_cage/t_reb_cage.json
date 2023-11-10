@@ -1,0 +1,56 @@
+{
+  "id": "t_reb_cage",
+  "fg": "t_reb_cage_unconnected",
+  "bg": "t_thconc_floor_center",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_reb_cage_center",
+      "bg": "t_thconc_floor_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_reb_cage_corner_nw",
+        "t_reb_cage_corner_sw",
+        "t_reb_cage_corner_se",
+        "t_reb_cage_corner_ne"
+      ],
+      "bg": "t_thconc_floor_center"
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_reb_cage_t_connection_n",
+        "t_reb_cage_t_connection_w",
+        "t_reb_cage_t_connection_s",
+        "t_reb_cage_t_connection_e"
+      ],
+      "bg": "t_thconc_floor_center"
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_reb_cage_edge_ns",
+        "t_reb_cage_edge_ew"
+      ],
+      "bg": "t_thconc_floor_center"
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_reb_cage_end_piece_n",
+        "t_reb_cage_end_piece_w",
+        "t_reb_cage_end_piece_s",
+        "t_reb_cage_end_piece_e"
+      ],
+      "bg": "t_thconc_floor_center"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_reb_cage_unconnected",
+      "bg": "t_thconc_floor_center"
+    }
+  ]
+}
