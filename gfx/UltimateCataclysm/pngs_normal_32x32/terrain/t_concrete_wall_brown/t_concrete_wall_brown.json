@@ -1,0 +1,49 @@
+{
+  "id": "t_concrete_wall_brown",
+  "fg": "t_concrete_wall_brown_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_concrete_wall_brown_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_concrete_wall_brown_corner_nw",
+        "t_concrete_wall_brown_corner_sw",
+        "t_concrete_wall_brown_corner_se",
+        "t_concrete_wall_brown_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_concrete_wall_brown_t_connection_n",
+        "t_concrete_wall_brown_t_connection_w",
+        "t_concrete_wall_brown_t_connection_s",
+        "t_concrete_wall_brown_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_concrete_wall_brown_edge_ns",
+        "t_concrete_wall_brown_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_concrete_wall_brown_end_piece_n",
+        "t_concrete_wall_brown_end_piece_w",
+        "t_concrete_wall_brown_end_piece_s",
+        "t_concrete_wall_brown_end_piece_e"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_concrete_wall_brown_unconnected"
+    }
+  ]
+}
