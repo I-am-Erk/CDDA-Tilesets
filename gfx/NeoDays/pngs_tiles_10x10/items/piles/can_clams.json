@@ -40,6 +40,8 @@
     "teargas_spray",
     "chem_washing_soda",
     "hominy",
+    "rebreather_filler_ko2",
+    "rebreather_filler_soda_lime",
     "albuterol"
   ],
   "fg": "can_clams"
