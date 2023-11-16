@@ -1,0 +1,9 @@
+{
+  "id": [
+    "emer_blanket",
+    "welding_blanket",
+    "makeshift_welding_blanket",
+    "generic_folded_vehicle"
+  ],
+  "fg": "emer_blanket"
+}
