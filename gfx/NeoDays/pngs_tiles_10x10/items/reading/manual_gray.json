@@ -19,7 +19,10 @@
     "holybook_bible3",
     "scots_cookbook",
     "holybook_kojiki",
-    "holybook_havamal"
+    "holybook_havamal",
+    "survivalflavor_book",
+    "sweets_book",
+    "isherwood_herbal_remedies"
   ],
   "fg": ["manual_gray"]
 }
