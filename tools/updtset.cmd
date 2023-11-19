@@ -224,6 +224,9 @@ if errorlevel 1 (
 )
 if /i [!verbose!] EQU [YES] (echo.)
 
+set PATH=%LIBVIPS_PATH%;%PATH%
+set PATH=%LIBVIPS_PATH%\bin;%PATH%
+
 echo 3. Lets compose %tileset_name%. Be patient it takes some time.
 pushd "!path_to_compose!" || goto :deleted
 rd /q /s . 2> NUL
