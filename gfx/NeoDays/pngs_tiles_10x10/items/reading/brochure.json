@@ -5,7 +5,12 @@
     "furniturebrochure",
     "technologybrochure",
     "restaurantbrochure",
-    "grocerybrochure"
+    "grocerybrochure",
+    "buylocalpamphlet",
+    "getactivepamphlet",
+    "gunnutpamphlet",
+    "nightlifepamphlet",
+    "petpamphlet"
   ],
   "fg": "brochure"
 }
