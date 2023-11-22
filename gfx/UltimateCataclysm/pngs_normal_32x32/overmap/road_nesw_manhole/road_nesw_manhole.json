@@ -1,7 +1,7 @@
 [
-{
-    "id": "road_nesw_manhole",
+  {
+    "id": [ "road_nesw_manhole", "city_center" ],
     "fg": "road_nesw_manhole",
     "bg": "road_center"
-}
+  }
 ]

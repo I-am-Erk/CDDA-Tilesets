@@ -7,12 +7,12 @@
 	  "pool_3",
 	  "pool_4"
 	],
-	"fg": [ "pool_2_faceN", "pool_2_faceE", "pool_2_faceS", "pool_2_faceW" ],
+	"fg": [ "pool_2_faceN", "pool_2_faceW", "pool_2_faceS", "pool_2_faceE" ],
 	"bg": "field",
 	"rotates": true
 },{
 	"id": [ "pool_5", "pool_6" ],
-	"fg": [ "pool_5_faceN", "pool_5_faceE", "pool_5_faceS", "pool_5_faceW" ],
+	"fg": [ "pool_5_faceN", "pool_5_faceW", "pool_5_faceS", "pool_5_faceE" ],
 	"bg": "field",
 	"rotates": true
 },{
@@ -23,7 +23,7 @@
 	  "pool_roof_3",
 	  "pool_roof_4"
 	],
-	"fg": [ "pool_2_faceN", "pool_2_faceE", "pool_2_faceS", "pool_2_faceW" ],
+	"fg": [ "pool_2_faceN", "pool_2_faceW", "pool_2_faceS", "pool_2_faceE" ],
 	"bg": "open_air",
 	"rotates": true
 }

@@ -1,71 +1,62 @@
-[{
-  "id": "river_nw",
-  "fg": "river_nw",
-  "bg": "field",
-  "rotates": false
-},{
-  "id": "river_sw",
-  "fg": "river_sw",
-  "bg": "field",
-  "rotates": false
-},{
-  "id": "river_se",
-  "fg": "river_se",
-  "bg": "field",
-  "rotates": false
-},{
-  "id": "river_ne",
-  "fg": "river_ne",
-  "bg": "field",
-  "rotates": false
-},{
-  "id": "river_north",
-  "fg": "river_north",
-  "bg": "field",
-  "rotates": false
-},{
-  "id": "river_west",
-  "fg": "river_west",
-  "bg": "field",
-  "rotates": false
-},{
-  "id": "river_east",
-  "fg": "river_east",
-  "bg": "field",
-  "rotates": false
-},{
-  "id": "river_south",
-  "fg": "river_south",
-  "bg": "field",
-  "rotates": false
-},{
-  "id": "river_center",
-  "fg": "river_center",
-  "bg": "field",
-  "rotates": false
-},{
-  "id": "river",
-  "fg": ["river_north", "river_east", "river_south", "river_west"],
-  "bg": "field",
-  "rotates": true
-},{
-  "id": "river_c_not_nw",
-  "fg": "river_c_not_nw",
-  "bg": "field",
-  "rotates": false
-},{
-  "id": "river_c_not_ne",
-  "fg": "river_c_not_ne",
-  "bg": "field",
-  "rotates": false
-},{
-  "id": "river_c_not_sw",
-  "fg": "river_c_not_sw",
-  "bg": "field",
-  "rotates": false
-},{
-  "id": "river_c_not_se",
-  "fg": "river_c_not_se",
-  "bg": "field",
-  "rotates": false
-}]
+[
+  {
+    "id": "river_nw",
+    "fg": "river_nw",
+    "bg": "field",
+    "rotates": false
+  },
+  {
+    "id": "river_sw",
+    "fg": "river_sw",
+    "bg": "field",
+    "rotates": false
+  },
+  {
+    "id": "river_se",
+    "fg": "river_se",
+    "bg": "field",
+    "rotates": false
+  },
+  {
+    "id": "river_ne",
+    "fg": "river_ne",
+    "bg": "field",
+    "rotates": false
+  },
+  {
+    "id": "river_center",
+    "fg": "river_center",
+    "bg": "field",
+    "rotates": false
+  },
+  {
+    "id": "river",
+    "fg": ["river_north", "river_west", "river_south", "river_east"],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": "river_c_not_nw",
+    "fg": "river_c_not_nw",
+    "bg": "field",
+    "rotates": false
+  },
+  {
+    "id": "river_c_not_ne",
+    "fg": "river_c_not_ne",
+    "bg": "field",
+    "rotates": false
+  },
+  {
+    "id": "river_c_not_sw",
+    "fg": "river_c_not_sw",
+    "bg": "field",
+    "rotates": false
+  },
+  {
+    "id": "river_c_not_se",
+    "fg": "river_c_not_se",
+    "bg": "field",
+    "rotates": false
+  }
+]

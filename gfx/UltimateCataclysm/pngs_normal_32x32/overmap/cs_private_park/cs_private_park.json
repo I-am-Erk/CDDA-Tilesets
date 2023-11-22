@@ -3,9 +3,9 @@
 	"id": "cs_private_park_roof",
 	"fg": [
 	  "cs_private_park_rot_N",
-	  "cs_private_park_rot_E",
+	  "cs_private_park_rot_W",
 	  "cs_private_park_rot_S",
-	  "cs_private_park_rot_W"
+	  "cs_private_park_rot_E"
 	],
 	"bg": "open_air",
 	"rotates": true
@@ -14,9 +14,9 @@
 	"id": "cs_private_park",
 	"fg": [
 	  "cs_private_park_rot_N",
-	  "cs_private_park_rot_E",
+	  "cs_private_park_rot_W",
 	  "cs_private_park_rot_S",
-	  "cs_private_park_rot_W"
+	  "cs_private_park_rot_E"
 	],
 	"bg": "field",
 	"rotates": true

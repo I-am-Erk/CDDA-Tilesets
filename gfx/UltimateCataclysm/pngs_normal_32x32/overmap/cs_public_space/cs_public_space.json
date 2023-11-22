@@ -3,9 +3,9 @@
 	"id": "cs_public_space",
 	"fg": [
 	  "cs_public_space_rot_N",
-	  "cs_public_space_rot_E",
+	  "cs_public_space_rot_W",
 	  "cs_public_space_rot_S",
-	  "cs_public_space_rot_W"
+	  "cs_public_space_rot_E"
 	],
 	"bg": "field",
 	"rotates": true
