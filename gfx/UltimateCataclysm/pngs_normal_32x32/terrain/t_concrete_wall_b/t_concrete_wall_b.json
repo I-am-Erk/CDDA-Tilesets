@@ -43,10 +43,7 @@
     },
     {
       "id": "unconnected",
-      "fg": [
-        "t_concrete_wall_b_unconnected",
-        "t_concrete_wall_b_unconnected"
-      ]
+      "fg": "t_concrete_wall_b_unconnected"
     }
   ]
 }

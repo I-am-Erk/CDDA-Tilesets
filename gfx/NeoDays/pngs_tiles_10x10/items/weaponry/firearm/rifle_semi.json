@@ -1,0 +1,19 @@
+{
+  "id": [
+    "rifle_semi",
+    "m4a1",
+    "hk_g3",
+    "hk_g36",
+    "arx160",
+    "acr",
+    "ar15",
+    "modular_ar15",
+    "scar_l",
+    "scar_h",
+    "m107a1",
+    "h&k416a5",
+    "m27iar",
+    "rm51_assault_rifle"
+  ],
+  "fg": "rifle_semi"
+}

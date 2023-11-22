@@ -11,7 +11,10 @@
     "can_cheese",
     "chem_sulphur",
     "cheese_grits",
-    "corn_kernels"
+    "corn_kernels",
+    "hot_corn_casserole",
+    "pan_roasted_corn",
+    "grits"
   ],
   "fg": "can_corn"
 }
