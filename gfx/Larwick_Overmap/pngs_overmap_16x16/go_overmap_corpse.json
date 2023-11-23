@@ -14,13 +14,9 @@
   },
   {
     "id": "corpse_tentacle",
-    "fg": "tentacle_unconnected",
+    "fg": "skull_light_blue",
     "multitile": true,
     "additional_tiles": [
-      {
-        "id": "center",
-        "fg": "tentacle_center"
-      },
       {
         "id": "corner",
         "fg": [
@@ -28,15 +24,6 @@
           "tentacle_corner_sw",
           "tentacle_corner_se",
           "tentacle_corner_ne"
-        ]
-      },
-      {
-        "id": "t_connection",
-        "fg": [
-          "tentacle_t_connection_n",
-          "tentacle_t_connection_w",
-          "tentacle_t_connection_s",
-          "tentacle_t_connection_e"
         ]
       },
       {
@@ -53,13 +40,6 @@
           "tentacle_end_piece_w",
           "tentacle_end_piece_s",
           "tentacle_end_piece_e"
-        ]
-      },
-      {
-        "id": "unconnected",
-        "fg": [
-          "tentacle_unconnected",
-          "tentacle_unconnected"
         ]
       }
     ]
