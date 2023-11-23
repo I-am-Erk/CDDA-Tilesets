@@ -12,7 +12,15 @@
     "novel_tragedy",
     "ZSG",
     "textbook_armeast",
-    "brewing_cookbook"
+    "brewing_cookbook",
+    "distilling_cookbook",
+    "cookbook_liverforkids",
+    "baking_book",
+    "alloy_book",
+    "concrete_book",
+    "reference_firstaid1",
+    "reference_firstaid2",
+    "sa_cryptology_key"
   ],
   "fg": "manual_blue"
 }
