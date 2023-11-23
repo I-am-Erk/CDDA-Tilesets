@@ -1,0 +1,67 @@
+[
+  {
+    "id": [
+      "corpse_surface"
+    ],
+    "fg": "skull_light_red"
+  },
+  {
+    "id": [
+      "corpse_tentacle_surface_entry",
+      "corpse_tentacle_entry"
+    ],
+    "fg": "skull_blue"
+  },
+  {
+    "id": "corpse_tentacle",
+    "fg": "tentacle_unconnected",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "center",
+        "fg": "tentacle_center"
+      },
+      {
+        "id": "corner",
+        "fg": [
+          "tentacle_corner_nw",
+          "tentacle_corner_sw",
+          "tentacle_corner_se",
+          "tentacle_corner_ne"
+        ]
+      },
+      {
+        "id": "t_connection",
+        "fg": [
+          "tentacle_t_connection_n",
+          "tentacle_t_connection_w",
+          "tentacle_t_connection_s",
+          "tentacle_t_connection_e"
+        ]
+      },
+      {
+        "id": "edge",
+        "fg": [
+          "tentacle_edge_ns",
+          "tentacle_edge_ew"
+        ]
+      },
+      {
+        "id": "end_piece",
+        "fg": [
+          "tentacle_end_piece_n",
+          "tentacle_end_piece_w",
+          "tentacle_end_piece_s",
+          "tentacle_end_piece_e"
+        ]
+      },
+      {
+        "id": "unconnected",
+        "fg": [
+          "tentacle_unconnected",
+          "tentacle_unconnected"
+        ]
+      }
+    ]
+  }
+]
