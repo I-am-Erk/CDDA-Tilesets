@@ -1,0 +1,10 @@
+[
+  {
+    "id": [ "f_nm_tube", "f_nm_tube_emitter" ],
+    "fg": "f_nm_tube"
+  },
+  {
+    "id": [ "f_nm_nether_grass", "f_nm_nether_grass_tall" ],
+    "fg": "f_nm_nether_grass"
+  }
+]
