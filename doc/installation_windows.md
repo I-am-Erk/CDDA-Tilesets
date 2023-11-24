@@ -21,6 +21,20 @@ These tools will help you managing multitile objects, setting up the environment
 The easiest way to get the game is to use the [CDDA Game Launcher](https://github.com/Fris0uman/CDDA-Game-Launcher/releases).
 With the launcher, install the latest **experimental** release.
 
+Tools need to know where to put composed tileset. So you have three options:
+- copy `set_game_path.cmd` to your game dir and double-click it.
+- drag and drop game folder over `set_game_path.cmd` script.
+- or just double-click it and type path to the game folder.
+
+> [!NOTE]
+> if you change your game folder later, you can repeat this step and provide new path.
+
+## Tilesets and Windows
+
+Some tilesets reuse assets from other tilesets. This can be done by using symlinks, which are shortcuts that point to another file or folder. However, symlinks are disabled by default in Windows systems. If you want to compose tilesets that use symlinks (such as Altica or Ultica-ISO), you need to enable them.
+
+To enable symlinks, go to the `tools` folder in your local repository and double-click on `git_symlinks.cmd`. This will run a script that will configure your Git settings to allow symlinks. [^2]
+
 ## Python and Windows
 
 If you dont have Python istalled yet you need to disable app execution alias.  
@@ -33,57 +47,43 @@ If you dont have Python istalled yet you need to disable app execution alias.
 
 Make sure you are not using the Python version from the Microsoft Store. This version is incompatible with the tileset composing tools. You can uninstall this version safely from your system. The tools from the repo will install Python 3.12 for you, which you can use for any purpose.
 
-## Tilesets and Windows
+Open the `tools` folder in your local repository and double-click `updtset.cmd`
+Select any common tileset (like MShockXotto+) for the first runs until it finally compose.
+At the first run script will try to install Python using `winget`. In case of successful install it would stop and ask you to relaunch it again.  
 
-Some tilesets reuse assets from other tilesets. This can be done by using symlinks, which are shortcuts that point to another file or folder. However, symlinks are disabled by default in Windows systems. If you want to compose tilesets that use symlinks (such as Altica or Ultica-ISO), you need to enable them.
+> [!WARNING]
+> If script failed to install Python you should do it manually from [python.org](https://www.python.org/downloads/windows/).  
+> During installation, check "Add Python to PATH".
 
-To enable symlinks, go to the `tools` folder in your local repository and double-click on `git_symlinks.cmd`. This will run a script that will configure your Git settings to allow symlinks. [^2]
+## Python and components
 
-<!--
-## Install requirements
+When script found the Python it will print its version and check for the pyvips module and libvips library.  
+- In case of absent pyvips script will install it automatically. This step usually produce no errors, just informational messages.  
+- Next step is to check is there any libvips binaries available in the system. If they are not script will try to download 8.15 version and unzip it using VBS into users home folder. Then script call `set_vips_path.cmd` with this path.
 
-**Python**
+If script add libvips succesfully it stops and ask user to relaunch it again.
 
-Install Python 3 from [python.org](https://www.python.org/downloads/windows/).
+> [!WARNING]
+> If script failed to install libvips you should do it manually.  
+> Download the latest libvips distribution from [libvips.github.io](https://libvips.github.io/libvips/install.html)  
+> get vips-dev-w64-web-#.#.#.zip NOT vips-dev-w64-all-#.#.#.zip  
+> extract files somewhere and drag and drop this folder on `set_vips_path.cmd`  
 
-During installation, check "Add Python to PATH".
+## Final
 
-**libvips**
-
-Download the latest libvips distribution from [libvips.github.io](https://libvips.github.io/libvips/install.html)
-(get vips-dev-w64-web-#.#.#.zip NOT vips-dev-w64-all-#.#.#.zip).
-
-Extract the files somewhere.
-
-## Setting up paths
-
-For composing tilesets, some path must be known to the respective scripts.
-This section describes the most easy drag & drop approach.
-
-In `CDDA-Tilesets`, go into folder `tools`.
-
-1. Copy `set_game_path.cmd` into the game's folder, and double-click it.  
-OR: Drag & drop the game folder onto `set_game_path.cmd`.
-   > Note: This sets the environmental variable `CDDA_PATH`.
-
-2. Copy `set_vips_path.cmd` into the vips folder (e.g. `C:\vips-dev-x.xx`), and double-click it.  
-OR: Drag & drop the vips folder onto `set_vips_path.cmd`.
-   > Note: This sets the environmental variable `LIBVIPS_PATH`.
-
-3. Optional: To set a tileset to compose permanently, double-click `set_tileset.cmd` and select the desired tileset.  
-If not set permanently, the update script will allow for interactive selection of a tileset.
-   > Note: This sets the environmental variable `CDDA_TILESET`.
-
-After these steps, it might be necessary to restart the computer.
-
-## Compose and update tileset
-
-In `tools`, double-click `updtset.cmd`.
-
-You will be prompted to select a tileset (unless it was set permanently).
-At the first run, `pyvips` will be installed automatically.
--->
-
+Maximum at third run script should compose tileset and propose you to check it in game.
 If something goes wrong, read the script's output carefully!
+
+> [!TIP]
+> You may ask for help at tileset Discord server.
+
+> [!TIP]
+> To set a tileset to compose permanently, double-click `set_tileset.cmd` and select the desired tileset.  
+> If not set permanently, the update script will allow for interactive selection of a tileset.  
+> Note: This sets the environmental variable `CDDA_TILESET`. Delete it if you want to select tileset again.  
+
+> [!TIP]
+> When scripts ask you to restart your computer it may be necessary on some systems. But you can try and skip reboots.
+
 [^1]: Some tasks can be done much faster and easier with command line actually. So you can try to run ```winget install Github.GitHubDesktop```
 [^2]: That tool will guide you how to [enable symlinks](https://blogs.windows.com/windowsdeveloper/2016/12/02/symlinks-windows-10/) in your system and turn them on for your local repository.
