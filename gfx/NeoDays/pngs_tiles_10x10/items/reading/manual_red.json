@@ -27,7 +27,9 @@
     "manual_scorpion",
     "manual_toad",
     "manual_lizard",
-    "manual_venom_snake"
+    "manual_venom_snake",
+    "winemaking_beginner",
+    "tailor_japanese"
   ],
   "fg": "manual_red"
 }

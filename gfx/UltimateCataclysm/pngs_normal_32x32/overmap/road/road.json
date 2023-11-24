@@ -1,54 +1,80 @@
-{
-  "id": "road",
-  "fg": "road_unconnected",
-  "multitile": true,
-  "additional_tiles": [
-    {
-      "id": "center",
-      "fg": "road_center"
-    },
-    {
-      "id": "corner",
-      "fg": [
-        "road_corner_nw",
-        "road_corner_sw",
-        "road_corner_se",
-        "road_corner_ne"
-      ],
-      "bg": "field"
-    },
-    {
-      "id": "t_connection",
-      "fg": [
-        "road_t_connection_n",
-        "road_t_connection_w",
-        "road_t_connection_s",
-        "road_t_connection_e"
-      ]
-    },
-    {
-      "id": "edge",
-      "fg": [
-        "road_edge_ns",
-        "road_edge_ew"
-      ]
-    },
-    {
-      "id": "end_piece",
-      "fg": [
-        "road_end_piece_n",
-        "road_end_piece_w",
-        "road_end_piece_s",
-        "road_end_piece_e"
-      ]
-    },
-    {
-      "id": "unconnected",
-      "fg": [
-        "road_unconnected",
-        "road_unconnected"
-      ],
-      "bg": "field"
-    }
-  ]
-}
+[
+  {
+    "id": "road",
+    "fg": "road_unconnected",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "center",
+        "fg": "road_center"
+      },
+      {
+        "id": "corner",
+        "fg": [
+          "road_corner_nw",
+          "road_corner_sw",
+          "road_corner_se",
+          "road_corner_ne"
+        ],
+        "bg": "field"
+      },
+      {
+        "id": "t_connection",
+        "fg": [
+          "road_t_connection_n",
+          "road_t_connection_w",
+          "road_t_connection_s",
+          "road_t_connection_e"
+        ]
+      },
+      {
+        "id": "edge",
+        "fg": [
+          "road_edge_ns",
+          "road_edge_ew"
+        ]
+      },
+      {
+        "id": "end_piece",
+        "fg": [
+          "road_end_piece_n",
+          "road_end_piece_w",
+          "road_end_piece_s",
+          "road_end_piece_e"
+        ]
+      },
+      {
+        "id": "unconnected",
+        "fg": [
+          "road_unconnected",
+          "road_unconnected"
+        ],
+        "bg": "field"
+      }
+    ]
+  },
+  {
+    "id": "trailer_hub_01",
+    "fg": "road_center"
+  },
+  {
+    "id": "trailer_hub_11",
+    "fg": [ "road_edge_ew", "road_edge_ns" ],
+    "rotates": true
+  },
+  {
+    "id": [ "trailer_road", "trailer_road_1parkway", "trailer_road_2parkway" ],
+    "fg": [ "road_edge_ns", "road_edge_ew" ],
+    "rotates": true
+  },
+  {
+    "id": "trailer_road_turn",
+    "fg": [ "road_corner_ne", "road_corner_nw", "road_corner_sw", "road_corner_se" ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": "trailer_road_3way",
+    "fg": "road_center"
+  }
+]

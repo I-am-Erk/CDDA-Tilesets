@@ -1,0 +1,22 @@
+{
+    "id": "f_wreckage",
+    "fg": [
+      { "weight": 1, "sprite": "f_wreckage_00" },
+      { "weight": 1, "sprite": "f_wreckage_01" },
+      { "weight": 1, "sprite": "f_wreckage_02" },
+      { "weight": 1, "sprite": "f_wreckage_03" },
+      { "weight": 1, "sprite": "f_wreckage_04" },
+      { "weight": 1, "sprite": "f_wreckage_05" },
+      { "weight": 1, "sprite": "f_wreckage_06" },
+      { "weight": 1, "sprite": "f_wreckage_07" },
+      { "weight": 1, "sprite": "f_wreckage_08" },
+      { "weight": 1, "sprite": "f_wreckage_09" },
+      { "weight": 1, "sprite": "f_wreckage_10" },
+      { "weight": 1, "sprite": "f_wreckage_11" },
+      { "weight": 1, "sprite": "f_wreckage_12" },
+      { "weight": 1, "sprite": "f_wreckage_13" },
+      { "weight": 1, "sprite": "f_wreckage_14" },
+      { "weight": 1, "sprite": "f_wreckage_15" }
+    ],
+    "bg": ""
+}

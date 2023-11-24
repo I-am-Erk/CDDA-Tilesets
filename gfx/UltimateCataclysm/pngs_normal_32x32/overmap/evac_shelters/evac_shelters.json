@@ -1,28 +1,35 @@
 [
   {
     "id": [
-	  "shelter",
-	  "shelter_1",
-	  "shelter_2",
-	  "shelter_vandal",
-	  "shelter_1_vandal",
-	  "shelter_2_vandal"
-	],
-    "fg": [ "otr_evac_shelter_1_faceN", "otr_evac_shelter_1_faceE", "otr_evac_shelter_1_faceS", "otr_evac_shelter_1_faceW" ],
+	    "shelter",
+	    "shelter_1",
+	    "shelter_2",
+	    "shelter_vandal",
+	    "shelter_1_vandal",
+	    "shelter_2_vandal",
+      "shelter_1b"
+	  ],
+    "fg": [ "otr_evac_shelter_1_faceN", "otr_evac_shelter_1_faceW", "otr_evac_shelter_1_faceS", "otr_evac_shelter_1_faceE" ],
     "bg": "field",
     "rotates": true
-  },{
+  },
+  {
 	  "id": [
-	     "shelter_roof",
+	   "shelter_roof",
 		 "shelter_roof_1",
-		 "shelter_roof_2"
+		 "shelter_roof_2",
+     "shelter_roof_1b"
 		],
-	  "fg": [ "otr_evac_shelter_1_faceN", "otr_evac_shelter_1_faceE", "otr_evac_shelter_1_faceS", "otr_evac_shelter_1_faceW" ],
+	  "fg": [ "otr_evac_shelter_1_faceN", "otr_evac_shelter_1_faceW", "otr_evac_shelter_1_faceS", "otr_evac_shelter_1_faceE" ],
 	  "bg": "open_air",
 	  "rotates": true
-  },{
-	  "id": "shelter_under",
-	  "fg": [ "otr_evac_shelter_1_faceN", "otr_evac_shelter_1_faceE", "otr_evac_shelter_1_faceS", "otr_evac_shelter_1_faceW" ],
+  },
+  {
+	  "id": [
+      "shelter_under",
+      "shelter_under_1b"
+    ],
+	  "fg": [ "otr_evac_shelter_1_faceN", "otr_evac_shelter_1_faceW", "otr_evac_shelter_1_faceS", "otr_evac_shelter_1_faceE" ],
 	  "rotates": true
   }
 ]

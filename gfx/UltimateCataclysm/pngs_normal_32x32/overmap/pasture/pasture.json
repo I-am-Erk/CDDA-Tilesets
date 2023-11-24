@@ -1,53 +1,124 @@
-[{
-	"id": "2farm_4",
-	"fg": [ "pasture_end_n", "pasture_end_e", "pasture_end_s", "pasture_end_w" ],
-	"rotates": true
-},{
-	"id": "2farm_8",
-	"fg": [ "pasture_end_s", "pasture_end_w", "pasture_end_n", "pasture_end_e" ],
-	"rotates": true
-},{
-	"id": "dairy_farm_NW",
-	"fg": [ "pasture_end_w", "pasture_end_n", "pasture_end_e", "pasture_end_s" ],
-	"rotates": true
-},{
-	"id": "dairy_farm_NE",
-	"fg": [ "pasture_end_e", "pasture_end_s", "pasture_end_w", "pasture_end_n" ],
-	"rotates": true
-},{
-	"id": "ranch_camp_1",
-	"fg": [ "pasture_corner_nw", "pasture_corner_ne", "pasture_corner_se", "pasture_corner_sw" ],
-	"rotates": true
-},{
-	"id": [ "ranch_camp_2", "ranch_camp_3", "ranch_camp_4", "ranch_camp_5", "ranch_camp_6", "ranch_camp_7", "ranch_camp_8" ],
-	"fg": [ "pasture_not_n", "pasture_not_e", "pasture_not_s", "pasture_not_w" ],
-	"rotates": true
-},{
-	"id": "ranch_camp_9",
-	"fg": [ "pasture_corner_ne", "pasture_corner_se", "pasture_corner_sw", "pasture_corner_nw" ],
-	"rotates": true
-},{
-	"id": [ "ranch_camp_10", "ranch_camp_19", "ranch_camp_28", "ranch_camp_37", "ranch_camp_46", "ranch_camp_55", "ranch_camp_64" ],
-	"fg": [ "pasture_not_w", "pasture_not_n", "pasture_not_e", "pasture_not_s" ],
-	"rotates": true
-},{
-	"id": [ "ranch_camp_11", "ranch_camp_12", "ranch_camp_13", "ranch_camp_14", "ranch_camp_15", "ranch_camp_16", "ranch_camp_20", "ranch_camp_21", "ranch_camp_22", "ranch_camp_23", "ranch_camp_24", "ranch_camp_25", "ranch_camp_26", "ranch_camp_29", "ranch_camp_30", "ranch_camp_31", "ranch_camp_32", "ranch_camp_33", "ranch_camp_34", "ranch_camp_35", "ranch_camp_38", "ranch_camp_39", "ranch_camp_40", "ranch_camp_41", "ranch_camp_42", "ranch_camp_43", "ranch_camp_44", "ranch_camp_47", "ranch_camp_48", "ranch_camp_49", "ranch_camp_50", "ranch_camp_51", "ranch_camp_52", "ranch_camp_53", "ranch_camp_56", "ranch_camp_58", "ranch_camp_59", "ranch_camp_60", "ranch_camp_61", "ranch_camp_62", "ranch_camp_65", "ranch_camp_69", "ranch_camp_70", "ranch_camp_71" ],
-	"fg": "pasture_center",
-	"rotates": true
-},{
-	"id": [ "ranch_camp_18", "ranch_camp_27", "ranch_camp_36", "ranch_camp_45", "ranch_camp_54", "ranch_camp_63", "ranch_camp_72" ],
-	"fg": [ "pasture_not_e", "pasture_not_s", "pasture_not_w", "pasture_not_n" ],
-	"rotates": true
-},{
-	"id": [ "ranch_camp_73", "ranch_camp_78" ],
-	"fg": [ "pasture_corner_sw", "pasture_corner_nw", "pasture_corner_ne", "pasture_corner_se" ],
-	"rotates": true
-},{
-	"id": [ "ranch_camp_74", "ranch_camp_79", "ranch_camp_80" ],
-	"fg": [ "pasture_not_s", "pasture_not_w", "pasture_not_n", "pasture_not_e" ],
-	"rotates": true
-},{
-	"id": [ "ranch_camp_75", "ranch_camp_81" ],
-	"fg": [ "pasture_corner_se", "pasture_corner_sw", "pasture_corner_nw", "pasture_corner_ne" ],
-	"rotates": true
-}]
+[
+  {
+	  "id": "2farm_4",
+	  "fg": [ "pasture_end_n", "pasture_end_e", "pasture_end_s", "pasture_end_w" ],
+  	"rotates": true
+  },
+  {
+	  "id": "2farm_8",
+	  "fg": [ "pasture_end_s", "pasture_end_w", "pasture_end_n", "pasture_end_e" ],
+  	"rotates": true
+  },
+  {
+	  "id": "dairy_farm_NW",
+	  "fg": [ "pasture_end_w", "pasture_end_s", "pasture_end_e", "pasture_end_n" ],
+	  "rotates": true
+  },
+  {
+	  "id": "dairy_farm_NE",
+	  "fg": [ "pasture_end_e", "pasture_end_n", "pasture_end_w", "pasture_end_s" ],
+	  "rotates": true
+  },
+  {
+	  "id": "ranch_camp_1",
+	  "fg": [ "pasture_corner_nw", "pasture_corner_ne", "pasture_corner_se", "pasture_corner_sw" ],
+	  "rotates": true
+  },
+  {
+	  "id": [ "ranch_camp_2", "ranch_camp_3", "ranch_camp_4", "ranch_camp_5", "ranch_camp_6", "ranch_camp_7", "ranch_camp_8" ],
+	  "fg": [ "pasture_not_n", "pasture_not_e", "pasture_not_s", "pasture_not_w" ],
+	  "rotates": true
+  },
+  {
+	  "id": "ranch_camp_9",
+	  "fg": [ "pasture_corner_ne", "pasture_corner_se", "pasture_corner_sw", "pasture_corner_nw" ],
+	  "rotates": true
+  },
+  {
+  	"id": [ "ranch_camp_10", "ranch_camp_19", "ranch_camp_28", "ranch_camp_37", "ranch_camp_46", "ranch_camp_55", "ranch_camp_64" ],
+  	"fg": [ "pasture_not_w", "pasture_not_n", "pasture_not_e", "pasture_not_s" ],
+	  "rotates": true
+  },
+  {
+	  "id": [ "ranch_camp_11", "ranch_camp_12", "ranch_camp_13", "ranch_camp_14", "ranch_camp_15", "ranch_camp_16", "ranch_camp_20", "ranch_camp_21", "ranch_camp_22", "ranch_camp_23", "ranch_camp_24", "ranch_camp_25", "ranch_camp_26", "ranch_camp_29", "ranch_camp_30", "ranch_camp_31", "ranch_camp_32", "ranch_camp_33", "ranch_camp_34", "ranch_camp_35", "ranch_camp_38", "ranch_camp_39", "ranch_camp_40", "ranch_camp_41", "ranch_camp_42", "ranch_camp_43", "ranch_camp_44", "ranch_camp_47", "ranch_camp_48", "ranch_camp_49", "ranch_camp_50", "ranch_camp_51", "ranch_camp_52", "ranch_camp_53", "ranch_camp_56", "ranch_camp_58", "ranch_camp_59", "ranch_camp_60", "ranch_camp_61", "ranch_camp_62", "ranch_camp_65", "ranch_camp_69", "ranch_camp_70", "ranch_camp_71" ],
+  	"fg": "pasture_center",
+  	"rotates": true
+  },
+  {
+  	"id": [ "ranch_camp_18", "ranch_camp_27", "ranch_camp_36", "ranch_camp_45", "ranch_camp_54", "ranch_camp_63", "ranch_camp_72" ],
+  	"fg": [ "pasture_not_e", "pasture_not_s", "pasture_not_w", "pasture_not_n" ],
+  	"rotates": true
+  },
+  {
+	  "id": [ "ranch_camp_73", "ranch_camp_78" ],
+	  "fg": [ "pasture_corner_sw", "pasture_corner_nw", "pasture_corner_ne", "pasture_corner_se" ],
+  	"rotates": true
+  },
+  {
+  	"id": [ "ranch_camp_74", "ranch_camp_79", "ranch_camp_80" ],
+  	"fg": [ "pasture_not_s", "pasture_not_w", "pasture_not_n", "pasture_not_e" ],
+  	"rotates": true
+  },
+  {
+  	"id": [ "ranch_camp_75", "ranch_camp_81" ],
+  	"fg": [ "pasture_corner_se", "pasture_corner_sw", "pasture_corner_nw", "pasture_corner_ne" ],
+  	"rotates": true
+  },
+  {
+    "id": [ "paddock", "paddock_R_gap" ],
+    "fg": "pasture_unconnected"
+  },
+  {
+    "id": [ "paddock_trailhead_2", "paddock_trailhead_8" ],
+    "fg": "pasture_connection_ew"
+  },
+  {
+    "id": "paddock_DR",
+    "fg": "pasture_end_n"
+  },
+  {
+    "id": [ "paddock_trailhead_5", "paddock_R_butt" ],
+    "fg": "pasture_end_w"
+  },
+  {
+    "id": [ "paddock_L_butt", "paddock_C" ],
+    "fg": "pasture_end_e"
+  },
+  {
+    "id": "paddock_trailhead_3",
+    "fg": "pasture_corner_se"
+  },
+  {
+    "id": [ "splitrail_fence_DL", "paddock_trailhead_7" ],
+    "fg": "pasture_corner_nw"
+  },
+  {
+    "id": "paddock_trailhead_1",
+    "fg": "pasture_corner_ne"
+  },
+  {
+    "id": "splitrail_fence_UL",
+    "fg": [ "pasture_corner_se", "pasture_corner_ne" ],
+    "rotates": true
+  },
+  {
+    "id": "paddock_trailhead_4",
+    "fg": "pasture_not_n"
+  },
+  {
+    "id": "splitrail_fence_butt",
+    "fg": "pasture_not_e"
+  },
+  {
+    "id": "paddock_trailhead_6",
+    "fg": "pasture_not_s"
+  },
+  {
+    "id": "splitrail_fence_gap",
+    "fg": "pasture_not_w"
+  },
+  {
+    "id": [ "splitrail_fence_UR", "paddock_trailhead_9" ],
+    "fg": "pasture_corner_sw"
+  }
+]
