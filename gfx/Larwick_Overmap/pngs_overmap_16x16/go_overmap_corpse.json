@@ -43,5 +43,40 @@
         ]
       }
     ]
+  },
+  {
+    "id": [
+      "corpse_bowels_mid",
+      "corpse_bowels_empty_edge",
+      "corpse_bowels_lcorner",
+      "corpse_bowels_rcorner",
+      "corpse_bowels_neck_left",
+      "corpse_bowels_neck_right",
+      "corpse_bowels_neck_edge_center"
+    ],
+    "fg": "pond_light_red"
+  },
+  {
+    "id": [
+      "corpse_bowels_tentacle_edge"
+    ],
+    "fg": "pond_red"
+  },
+  {
+    "id": [
+      "corpse_neck",
+      "corpse_neck_center",
+      "corpse_head_neck_center",
+      "corpse_head_neck_l",
+      "corpse_head_neck_r",
+      "corpse_head",
+      "corpse_head_lcorner",
+      "corpse_head_rcorner",
+      "corpse_head_edge",
+      "corpse_under_brain",
+      "corpse_brain",
+      "corpse_head_fin"
+    ],
+    "fg": "skull_red"
   }
 ]
