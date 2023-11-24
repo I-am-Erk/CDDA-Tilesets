@@ -2,6 +2,13 @@
 
 Documentation of developing tileset with [Nix](https://nixos.org/). 
 
+## Prerequisites
+
+You will need:
+- Python 3
+- [Libvips](https://libvips.github.io/libvips/install.html)
+- pyvips (install it via python pip: `pip install pyvips`) 
+
 ## Build
 
 As this repository uses flakes, it's possible to build any of the tileset (not only UlitCa) using `nix build .#{name}` command. For example:
