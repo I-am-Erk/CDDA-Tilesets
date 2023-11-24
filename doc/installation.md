@@ -1,5 +1,7 @@
 # Installation
 
+You can select a different tileset than the one included with the game. You have two options: stable or latest. The stable version is tested and reliable, while the latest version is updated frequently and may have new features or bug fixes.
+
 ## Stable
 
 The easiest way to download the tileset would be from the latest release. It is a stable tileset build which you can safely put into the game and run.
@@ -25,6 +27,9 @@ The most up to date build of the tileset (per commit). Might be broken.
 
 # Building
 
-Please follow the instruction for your operation system:
-- [*Nix](installation_nix.md)
-- [Windows](installation_windows.md)
+To create your own tileset, test new sprites, or contribute to the project, please follow the instructions for your operating system:
+
+- For Linux, macOS, or other Unix-like systems, see [this guide](installation_nix.md).
+- For Windows, see [this guide](installation_windows.md).
+
+These guides will help you set up the required tools and steps to build the tileset from the source files.
