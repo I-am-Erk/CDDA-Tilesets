@@ -207,9 +207,9 @@ if errorlevel 1 (
 ) else (
     if /i [!verbose!] EQU [YES] (echo    - Python 'pyvips' module found.)
 )
-where %LIBVIPS_PATH%\bin\:vips vips /q
+where /q %LIBVIPS_PATH%\bin:vips.exe
 if errorlevel 1 (
-    echo ERROR! No 'libvips' library found. Please refer installation manual:
+    echo ERROR^^^! No 'libvips' library found. Please refer installation manual:
     echo https://libvips.github.io/libvips/install.html
     echo If you are sure that library was installed - please check library version and 'path' environment variable.
     echo Script will try to download libvips 8.15 into your home directory, try to run this script again after this.
@@ -223,9 +223,6 @@ if errorlevel 1 (
     if /i [!verbose!] EQU [YES] (echo    - Library 'libvips' found.)
 )
 if /i [!verbose!] EQU [YES] (echo.)
-
-set PATH=%LIBVIPS_PATH%;%PATH%
-set PATH=%LIBVIPS_PATH%\bin;%PATH%
 
 echo 3. Lets compose %tileset_name%. Be patient it takes some time.
 pushd "!path_to_compose!" || goto :deleted

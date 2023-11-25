@@ -63,7 +63,7 @@ if /i [%is_temp%] EQU [YES] (
 ) else (
     echo Setting libvips path to "%path_arg%", permanently
     echo Reboot required
-    setx LIBVIPS_PATH "%path_arg%"
+    setx LIBVIPS_PATH %path_arg%
 )
 
 if /i [%silent%] NEQ [YES] (
