@@ -161,50 +161,86 @@
                     <main>
                         <h1><a class="header" href="#windows-guide" id="windows-guide">Windows guide</a></h1>
 <p>Guide for Windows users, without touching the Command Line.</p>
-<h2><a class="header" href="#install-requirements" id="install-requirements">Install requirements</a></h2>
-<p><strong>Python</strong></p>
-<p>Install Python 3 from <a href="https://www.python.org/downloads/windows/">python.org</a>.</p>
-<p>During installation, check &quot;Add Python to PATH&quot;.</p>
-<p><strong>libvips</strong></p>
-<p>Download the latest libvips distribution from <a href="https://libvips.github.io/libvips/install.html">libvips.github.io</a>
-(get vips-dev-w64-web-#.#.#.zip NOT vips-dev-w64-all-#.#.#.zip).</p>
-<p>Extract the files somewhere.</p>
-<p><strong>Cataclysm-DDA game</strong></p>
+<h2><a class="header" href="#first-steps" id="first-steps">First steps</a></h2>
+<ol>
+<li><a href="https://github.com/join">Register</a> on GitHub</li>
+<li><a href="https://docs.github.com/en/enterprise-cloud@latest/desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop#downloading-and-installing-github-desktop">Get</a> <code>Github Desktop</code> <sup class="footnote-reference"><a href="#1">1</a></sup></li>
+<li><a href="https://docs.github.com/en/get-started/quickstart/fork-a-repo">Fork</a> Tileset repository</li>
+<li><a href="https://docs.github.com/en/desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop">Clone</a> forked repository.</li>
+</ol>
+<blockquote>
+<p>[!NOTE]
+It is a good practice to create new branch at the start. Name it &quot;playground&quot; for example.
+Your repo is your own private space. You can do whatever you want in it without affecting the original project. However, if you want to contribute to the project, you need to follow some guidelines. One of them is to keep your master branch clean and empty, and do your work in a separate branch. This will make it easier for you to sync your changes with the upstream repo and create pull requests.</p>
+</blockquote>
+<p>Now you have source files on your drive and some tools as well.<br />
+These tools will help you managing multitile objects, setting up the environment and composing tilesets.</p>
+<h2><a class="header" href="#the-game" id="the-game">The Game</a></h2>
 <p>The easiest way to get the game is to use the <a href="https://github.com/Fris0uman/CDDA-Game-Launcher/releases">CDDA Game Launcher</a>.
 With the launcher, install the latest <strong>experimental</strong> release.</p>
-<h2><a class="header" href="#setting-up-paths" id="setting-up-paths">Setting up paths</a></h2>
-<p>For composing tilesets, some path must be known to the respective scripts.
-This section describes the most easy drag &amp; drop approach.</p>
-<p>In <code>CDDA-Tilesets</code>, go into folder <code>tools</code>.</p>
-<ol>
-<li>
-<p>Copy <code>set_game_path.cmd</code> into the game's folder, and double-click it.<br />
-OR: Drag &amp; drop the game folder onto <code>set_game_path.cmd</code>.</p>
+<p>Tools need to know where to put composed tileset. So you have three options:</p>
+<ul>
+<li>copy <code>set_game_path.cmd</code> to your game dir and double-click it.</li>
+<li>drag and drop game folder over <code>set_game_path.cmd</code> script.</li>
+<li>or just double-click it and type path to the game folder.</li>
+</ul>
 <blockquote>
-<p>Note: This sets the environmental variable <code>CDDA_PATH</code>.</p>
+<p>[!NOTE]
+if you change your game folder later, you can repeat this step and provide new path.</p>
 </blockquote>
-</li>
-<li>
-<p>Copy <code>set_vips_path.cmd</code> into the vips folder (e.g. <code>C:\vips-dev-x.xx</code>), and double-click it.<br />
-OR: Drag &amp; drop the vips folder onto <code>set_vips_path.cmd</code>.</p>
+<h2><a class="header" href="#tilesets-and-windows" id="tilesets-and-windows">Tilesets and Windows</a></h2>
+<p>Some tilesets reuse assets from other tilesets. This can be done by using symlinks, which are shortcuts that point to another file or folder. However, symlinks are disabled by default in Windows systems. If you want to compose tilesets that use symlinks (such as Altica or Ultica-ISO), you need to enable them.</p>
+<p>To enable symlinks, go to the <code>tools</code> folder in your local repository and double-click on <code>git_symlinks.cmd</code>. This will run a script that will configure your Git settings to allow symlinks. <sup class="footnote-reference"><a href="#2">2</a></sup></p>
+<h2><a class="header" href="#python-and-windows" id="python-and-windows">Python and Windows</a></h2>
+<p>If you dont have Python istalled yet you need to disable app execution alias.</p>
+<details>
+   <summary>Go to -> "start" and type "Manage App Execution Aliases". Go to it and turn off "Python"</summary>
+<p><img src="https://i.stack.imgur.com/7C78e.png" alt="img" /></p>
+</details>
+<p>Make sure you are not using the Python version from the Microsoft Store. This version is incompatible with the tileset composing tools. You can uninstall this version safely from your system. The tools from the repo will install Python 3.12 for you, which you can use for any purpose.</p>
+<p>Open the <code>tools</code> folder in your local repository and double-click <code>updtset.cmd</code>
+Select any common tileset (like MShockXotto+) for the first runs until it finally compose.
+At the first run script will try to install Python using <code>winget</code>. In case of successful install it would stop and ask you to relaunch it again.</p>
 <blockquote>
-<p>Note: This sets the environmental variable <code>LIBVIPS_PATH</code>.</p>
+<p>[!WARNING]
+If script failed to install Python you should do it manually from <a href="https://www.python.org/downloads/windows/">python.org</a>.<br />
+During installation, check &quot;Add Python to PATH&quot;.</p>
 </blockquote>
-</li>
-<li>
-<p>Optional: To set a tileset to compose permanently, double-click <code>set_tileset.cmd</code> and select the desired tileset.<br />
-If not set permanently, the update script will allow for interactive selection of a tileset.</p>
+<h2><a class="header" href="#python-and-components" id="python-and-components">Python and components</a></h2>
+<p>The script will first check if Python is installed on your system. It will print the Python version and verify that the pyvips module and the libvips library are available.</p>
+<ul>
+<li>If pyvips is missing, the script will try to install it automatically. This step should not cause any errors, only informational messages.</li>
+<li>Next, the script will check if there are any libvips binaries in the system. If not, the script will attempt to download the 8.15 version and unzip it using VBS into the user’s home folder. Then, the script will call set_vips_path.cmd with this path.</li>
+</ul>
+<p>If the script successfully adds libvips, it will stop and ask the user to run it again.</p>
 <blockquote>
-<p>Note: This sets the environmental variable <code>CDDA_TILESET</code>.</p>
+<p>[!WARNING]
+If script failed to install libvips you should do it manually.<br />
+Download the latest libvips distribution from <a href="https://libvips.github.io/libvips/install.html">libvips.github.io</a><br />
+get vips-dev-w64-web-#.#.#.zip NOT vips-dev-w64-all-#.#.#.zip<br />
+extract files somewhere and drag and drop this folder on <code>set_vips_path.cmd</code></p>
 </blockquote>
-</li>
-</ol>
-<p>After these steps, it might be necessary to restart the computer.</p>
-<h2><a class="header" href="#compose-and-update-tileset" id="compose-and-update-tileset">Compose and update tileset</a></h2>
-<p>In <code>tools</code>, double-click <code>updtset.cmd</code>.</p>
-<p>You will be prompted to select a tileset (unless it was set permanently).
-At the first run, <code>pyvips</code> will be installed automatically.</p>
-<p>If something goes wrong, read the script's output carefully!</p>
+<h2><a class="header" href="#final" id="final">Final</a></h2>
+<p>Maximum at third run script should compose tileset and propose you to check it in game.
+If something goes wrong, read the script's output carefully!</p>
+<blockquote>
+<p>[!TIP]
+You may ask for help at tileset Discord server.</p>
+</blockquote>
+<blockquote>
+<p>[!TIP]
+To set a tileset to compose permanently, double-click <code>set_tileset.cmd</code> and select the desired tileset.<br />
+If not set permanently, the update script will allow for interactive selection of a tileset.<br />
+Note: This sets the environmental variable <code>CDDA_TILESET</code>. Delete it if you want to select tileset again.</p>
+</blockquote>
+<blockquote>
+<p>[!TIP]
+When scripts ask you to restart your computer it may be necessary on some systems. But you can try and skip reboots.</p>
+</blockquote>
+<div class="footnote-definition" id="1"><sup class="footnote-definition-label">1</sup>
+<p>Some tasks can be done much faster and easier with command line actually. So you can try to run <code>winget install Github.GitHubDesktop</code>
+<sup class="footnote-reference"><a href="#2">2</a></sup>: That tool will guide you how to <a href="https://blogs.windows.com/windowsdeveloper/2016/12/02/symlinks-windows-10/">enable symlinks</a> in your system and turn them on for your local repository.</p>
+</div>
 
                     </main>
 

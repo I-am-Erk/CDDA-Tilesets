@@ -161,6 +161,13 @@
                     <main>
                         <h1><a class="header" href="#nix-installation" id="nix-installation">Nix Installation</a></h1>
 <p>Documentation of developing tileset with <a href="https://nixos.org/">Nix</a>. </p>
+<h2><a class="header" href="#prerequisites" id="prerequisites">Prerequisites</a></h2>
+<p>You will need:</p>
+<ul>
+<li>Python 3</li>
+<li><a href="https://libvips.github.io/libvips/install.html">Libvips</a></li>
+<li>pyvips (install it via python pip: <code>pip install pyvips</code>) </li>
+</ul>
 <h2><a class="header" href="#build" id="build">Build</a></h2>
 <p>As this repository uses flakes, it's possible to build any of the tileset (not only UlitCa) using <code>nix build .#{name}</code> command. For example:</p>
 <pre><code class="language-sh"># This will build UltiCa
