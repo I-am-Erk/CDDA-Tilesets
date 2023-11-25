@@ -57,11 +57,12 @@ At the first run script will try to install Python using `winget`. In case of su
 
 ## Python and components
 
-When script found the Python it will print its version and check for the pyvips module and libvips library.  
-- In case of absent pyvips script will install it automatically. This step usually produce no errors, just informational messages.  
-- Next step is to check is there any libvips binaries available in the system. If they are not script will try to download 8.15 version and unzip it using VBS into users home folder. Then script call `set_vips_path.cmd` with this path.
+The script will first check if Python is installed on your system. It will print the Python version and verify that the pyvips module and the libvips library are available.
 
-If script add libvips succesfully it stops and ask user to relaunch it again.
+- If pyvips is missing, the script will try to install it automatically. This step should not cause any errors, only informational messages.
+- Next, the script will check if there are any libvips binaries in the system. If not, the script will attempt to download the 8.15 version and unzip it using VBS into the user’s home folder. Then, the script will call set_vips_path.cmd with this path.
+
+If the script successfully adds libvips, it will stop and ask the user to run it again.
 
 > [!WARNING]
 > If script failed to install libvips you should do it manually.  
