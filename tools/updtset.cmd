@@ -179,6 +179,9 @@ if errorlevel 1 (
         if errorlevel 1 (
             echo ERROR: No Python found!
             echo If you are sure that Python is installed - please check 'path' environment variable.
+            echo Script will try to install Python 3.12, try to run this script again after this.
+            echo.
+            winget install Python.Python.3.12 --disable-interactivity
             goto stop
         ) else (
             set APP=python
@@ -204,11 +207,17 @@ if errorlevel 1 (
 ) else (
     if /i [!verbose!] EQU [YES] (echo    - Python 'pyvips' module found.)
 )
-where %LIBVIPS_PATH%\bin\:vips vips /q
+where /q %LIBVIPS_PATH%\bin:vips.exe
 if errorlevel 1 (
-    echo ERROR! No 'libvips' library found. Please refer installation manual:
+    echo ERROR^^^! No 'libvips' library found. Please refer installation manual:
     echo https://libvips.github.io/libvips/install.html
     echo If you are sure that library was installed - please check library version and 'path' environment variable.
+    echo Script will try to download libvips 8.15 into your home directory, try to run this script again after this.
+    echo.
+    curl https://github.com/libvips/build-win64-mxe/releases/download/v8.15.0/vips-dev-w64-web-8.15.0.zip -L -o %HOMEDRIVE%%HOMEPATH%\vips-dev-w64-web-8.15.0.zip
+
+    call :UnZipFile "%HOMEDRIVE%%HOMEPATH%\vips" "%HOMEDRIVE%%HOMEPATH%\vips-dev-w64-web-8.15.0.zip"
+    call set_vips_path.cmd %HOMEDRIVE%%HOMEPATH%\vips\vips-dev-8.15\
     goto stop
 ) else (
     if /i [!verbose!] EQU [YES] (echo    - Library 'libvips' found.)
@@ -263,3 +272,18 @@ echo.
 echo (press any key to close this window^)
 pause >nul
 exit /b 1
+
+:UnZipFile <ExtractTo> <newzipfile>
+set vbs="%temp%\_.vbs"
+if exist %vbs% del /f /q %vbs%
+>%vbs%  echo Set fso = CreateObject("Scripting.FileSystemObject")
+>>%vbs% echo If NOT fso.FolderExists(%1) Then
+>>%vbs% echo fso.CreateFolder(%1)
+>>%vbs% echo End If
+>>%vbs% echo set objShell = CreateObject("Shell.Application")
+>>%vbs% echo set FilesInZip=objShell.NameSpace(%2).items
+>>%vbs% echo objShell.NameSpace(%1).CopyHere(FilesInZip)
+>>%vbs% echo Set fso = Nothing
+>>%vbs% echo Set objShell = Nothing
+cscript //nologo %vbs%
+if exist %vbs% del /f /q %vbs%

@@ -5,7 +5,7 @@
     "farm_isherwood_2",
     "2farm_11"
   ],
-  "fg": [ "rural_house_faceN", "rural_house_faceE", "rural_house_faceS", "rural_house_faceW" ],
+  "fg": [ "rural_house_faceN", "rural_house_faceW", "rural_house_faceS", "rural_house_faceE" ],
   "bg": "field",
   "rotates": true
 },{
@@ -13,7 +13,7 @@
     "dairy_farm_SW",
     "ranch_camp_68"
   ],
-  "fg": [ "rural_house_faceS", "rural_house_faceW", "rural_house_faceN", "rural_house_faceE" ],
+  "fg": [ "rural_house_faceS", "rural_house_faceE", "rural_house_faceN", "rural_house_faceW" ],
   "bg": "field",
   "rotates": true
 },{
@@ -23,7 +23,7 @@
     "farm_isherwood_2_roof",
     "2farm_roof_11"
   ],
-  "fg": [ "rural_house_faceN", "rural_house_faceE", "rural_house_faceS", "rural_house_faceW" ],
+  "fg": [ "rural_house_faceN", "rural_house_faceW", "rural_house_faceS", "rural_house_faceE" ],
   "bg": "open_air",
   "rotates": true
 },{
@@ -31,11 +31,11 @@
     "dairy_farm_SW_roof",
     "ranch_camp_68_roof"
   ],
-  "fg": [ "rural_house_faceS", "rural_house_faceW", "rural_house_faceN", "rural_house_faceE" ],
+  "fg": [ "rural_house_faceS", "rural_house_faceE", "rural_house_faceN", "rural_house_faceW" ],
   "bg": "open_air",
   "rotates": true
 },{
   "id": "farm_isherwood_2_cellar",
-  "fg": [ "rural_house_faceN", "rural_house_faceE", "rural_house_faceS", "rural_house_faceW" ],
+  "fg": [ "rural_house_faceN", "rural_house_faceW", "rural_house_faceS", "rural_house_faceE" ],
   "rotates": true
 }]

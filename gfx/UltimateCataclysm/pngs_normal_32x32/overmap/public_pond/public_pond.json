@@ -1,9 +1,12 @@
-[{
-	"id": "PublicPond_1a",
-	"fg": [ "public_pond_w", "public_pond_n", "public_pond_e", "public_pond_s" ],
-	"rotates": true
-},{
-	"id": "PublicPond_1b",
-	"fg": [ "public_pond_e", "public_pond_s", "public_pond_w", "public_pond_n" ],
-	"rotates": true
-}]
+[
+  {
+  	"id": "PublicPond_1a",
+	  "fg": [ "public_pond_w", "public_pond_s", "public_pond_e", "public_pond_n" ],
+  	"rotates": true
+  },
+  {
+  	"id": "PublicPond_1b",
+  	"fg": [ "public_pond_e", "public_pond_n", "public_pond_w", "public_pond_s" ],
+  	"rotates": true
+  }
+]
