@@ -1,0 +1,11 @@
+{
+  "id": [
+    "threshed_wheat",
+    "threshed_barley",
+    "threshed_oats",
+    "threshed_canola",
+    "threshed_lentils",
+    "threshed_buckwheat"
+  ],
+  "fg": "threshed_wheat"
+}
