@@ -11,12 +11,12 @@
   },
   {
     "id": "overlay_female_worn_wearable_light_on",
-    "fg": "headlamp_f",
+    "fg": "headlamp_on_f",
     "bg": ""
   },
   {
     "id": "overlay_male_worn_wearable_light_on",
-    "fg": "headlamp_m",
+    "fg": "headlamp_on_m",
     "bg": ""
   },
   {
@@ -31,12 +31,12 @@
   },
   {
     "id": "overlay_female_worn_survivor_light_on",
-    "fg": "headlamp_f",
+    "fg": "headlamp_on_f",
     "bg": ""
   },
   {
     "id": "overlay_male_worn_survivor_light_on",
-    "fg": "headlamp_m",
+    "fg": "headlamp_on_m",
     "bg": ""
   }
 ]
