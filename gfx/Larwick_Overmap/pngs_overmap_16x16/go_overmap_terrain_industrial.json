@@ -1148,6 +1148,10 @@
     "fg": "big_building_red"
   },
   {
+    "id": "solar_farm",
+    "fg": "square_yellow"
+  },
+  {
     "id": [
       "wind_turbine_ground",
       "wind_turbine_pillar",

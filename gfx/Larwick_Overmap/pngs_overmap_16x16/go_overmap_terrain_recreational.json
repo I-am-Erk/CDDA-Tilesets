@@ -848,7 +848,9 @@
       "lodge_roof1",
       "lodge_roof2",
       "lodge_basement_residential1",
-      "lodge_basement_residential2"
+      "lodge_basement_residential2",
+      "lodge_basement_residential3",
+      "lodge_basement_residential4"
     ],
     "fg": "big_house_brown"
   },

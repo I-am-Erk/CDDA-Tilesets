@@ -1705,6 +1705,13 @@
   },
   {
     "id": [
+      "barber_shop",
+      "barber_shop_roof"
+    ],
+    "fg": "shop_light_blue"
+  },
+  {
+    "id": [
       "farm_supply_looted_1",
       "farm_supply_looted_2",
       "farm_supply_looted_3",
