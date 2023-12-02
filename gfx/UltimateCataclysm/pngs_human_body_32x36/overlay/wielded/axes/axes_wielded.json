@@ -10,11 +10,6 @@
   "bg": ""
 },
 {
-  "id": "overlay_wielded_primitive_axe",
-  "fg": "primitive_axe_wielded",
-  "bg": ""
-},
-{
   "id": "overlay_wielded_hatchet",
   "fg": "hatchet_wielded",
   "bg": ""
