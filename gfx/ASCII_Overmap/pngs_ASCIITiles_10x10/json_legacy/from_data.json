@@ -3596,6 +3596,9 @@
             "bungalow20",
             "bungalow21",
             "bungalow22",
+            "bungalow23",
+            "bungalow24",
+            "bungalow25",
             "duplex",
             "garden_house_1_floor_1",
             "garden_house_1_floor_2",
@@ -3671,6 +3674,13 @@
             "house_duplex7",
             "house_duplex8",
             "house_duplex9",
+            "house_fence01",
+            "house_fence02_1",
+            "house_fence02_2",
+            "house_fence03",
+            "house_fence04",
+            "house_fence05_1",
+            "house_fence05_2",
             "house_fortified",
             "house_garage",
             "house_garage2",
@@ -3893,6 +3903,9 @@
             "bungalow20_roof",
             "bungalow21_roof",
             "bungalow22_roof",
+            "bungalow23_roof",
+            "bungalow24_roof",
+            "bungalow25_roof",
             "duplex_roof",
             "garden_house_1_roof",
             "house_01_roof",
@@ -3959,6 +3972,11 @@
             "house_duplex7_roof",
             "house_duplex8_roof",
             "house_duplex9_roof",
+            "house_fence01_roof",
+            "house_fence02_roof",
+            "house_fence03_roof",
+            "house_fence04_roof",
+            "house_fence05_roof",
             "house_fortified_roof",
             "house_garage2_roof",
             "house_garage3_roof",
@@ -4483,6 +4501,12 @@
         "rotates": true
     },
     {
+        "id": "city_center",
+        "fg": "dark_gray197",
+        "bg": "black",
+        "rotates": true
+    },
+    {
         "id": "bridge",
         "fg": "blue179",
         "bg": "black",
@@ -4908,7 +4932,10 @@
         "bg": "pink"
     },
     {
-        "id": "robot_dispatch_second",
+        "id": [
+            "robot_dispatch_second",
+            "robot_dispatch_roof"
+        ],
         "fg": "black82",
         "bg": "pink"
     },
