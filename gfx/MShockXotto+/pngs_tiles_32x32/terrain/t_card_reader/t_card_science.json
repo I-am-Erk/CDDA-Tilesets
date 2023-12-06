@@ -5,9 +5,5 @@
   ],
   "fg": [
     "t_card_military"
-  ],
-  "bg": [
-    "993_t_missile_exploded_3"
-  ],
-  "rotates": false
+  ]
 }
