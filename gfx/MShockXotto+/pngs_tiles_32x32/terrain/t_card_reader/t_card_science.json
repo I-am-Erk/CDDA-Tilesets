@@ -1,1 +1,13 @@
-{"id": "t_card_science", "fg": ["t_card_military"], "bg": ["993_t_missile_exploded_3"], "rotates": false}
+{
+  "id": [
+    "t_card_science",
+    "t_card_military"
+  ],
+  "fg": [
+    "t_card_military"
+  ],
+  "bg": [
+    "993_t_missile_exploded_3"
+  ],
+  "rotates": false
+}
