@@ -1,24 +1,24 @@
 [
   {
-    "id": "overmap_horde_3",
+    "id": [ "overmap_horde_3", "overmap_horde_4" ],
     "fg": [ "overmap_horde_3" ],
     "rotates": false,
     "bg": [  ]
   },
   {
-    "id": "overmap_horde_4",
+    "id": [ "overmap_horde_5", "overmap_horde_6" ],
     "fg": [ "overmap_horde_4" ],
     "rotates": false,
     "bg": [  ]
   },
   {
-    "id": "overmap_horde_5",
+    "id": [ "overmap_horde_7", "overmap_horde_8" ],
     "fg": [ "overmap_horde_5" ],
     "rotates": false,
     "bg": [  ]
   },
   {
-    "id": "overmap_horde_6",
+    "id": [ "overmap_horde_9", "overmap_horde_10" ],
     "fg": [ "overmap_horde_6" ],
     "rotates": false,
     "bg": [  ]
