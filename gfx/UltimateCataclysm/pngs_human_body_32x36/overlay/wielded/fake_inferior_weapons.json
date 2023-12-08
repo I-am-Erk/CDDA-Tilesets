@@ -35,11 +35,6 @@
     "bg": ""
   },
   {
-    "id": "overlay_wielded_cutlass_fake",
-    "fg": "cutlass_mf",
-    "bg": ""
-  },
-  {
     "id": "overlay_wielded_cutlass_inferior",
     "fg": "cutlass_mf",
     "bg": ""
