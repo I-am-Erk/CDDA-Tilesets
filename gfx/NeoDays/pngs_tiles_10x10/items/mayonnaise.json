@@ -12,10 +12,11 @@
      "salt",
      "meal_bone",
      "meal_bone_tainted",
+     "cottage_cheese",
      "starch",
      "sourdough_young_uncovered",
      "sourdough_split_uncovered",
      "mayonnaise"
   ],
-  "fg": ["mayonnaise"]
+  "fg": "mayonnaise"
 }
