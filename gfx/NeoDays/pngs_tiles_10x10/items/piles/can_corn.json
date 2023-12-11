@@ -14,6 +14,8 @@
     "corn_kernels",
     "hot_corn_casserole",
     "pan_roasted_corn",
+    "dry_corn",
+    "mustard_powder",
     "grits"
   ],
   "fg": "can_corn"
