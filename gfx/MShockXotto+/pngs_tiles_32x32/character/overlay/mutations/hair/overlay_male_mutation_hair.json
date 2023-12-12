@@ -486,12 +486,6 @@
     "bg": [  ]
   },
   {
-    "id": "overlay_male_mutation_hair_messy_var_gray",
-    "fg": [ "overlay_mutation_messy_var_gray" ],
-    "rotates": false,
-    "bg": [  ]
-  },
-  {
     "id": "overlay_male_mutation_hair_messy_var_green",
     "fg": [ "overlay_mutation_messy_var_green" ],
     "rotates": false,
