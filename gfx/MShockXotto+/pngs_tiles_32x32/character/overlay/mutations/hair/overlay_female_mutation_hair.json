@@ -241,7 +241,7 @@
   },
   {
     "id": "overlay_female_mutation_hair_mullet_var_black",
-    "fg": [ "overlay_mutation_hair_black_mullet" ],
+    "fg": [ "overlay_mutation_mullet_var_black" ],
     "rotates": false,
     "bg": [  ]
   },
@@ -295,61 +295,61 @@
   },
   {
     "id": "overlay_female_mutation_hair_mohawk_var_black",
-    "fg": [ "overlay_female_mutation_hair_black_mohawk" ],
+    "fg": [ "overlay_mutation_hair_black_mohawk" ],
     "rotates": false,
     "bg": [  ]
   },
   {
     "id": "overlay_female_mutation_hair_mohawk_var_blond",
-    "fg": [ "overlay_female_mutation_hair_blond_mohawk" ],
+    "fg": [ "overlay_mutation_hair_blond_mohawk" ],
     "rotates": false,
     "bg": [  ]
   },
   {
     "id": "overlay_female_mutation_hair_mohawk_var_blue",
-    "fg": [ "overlay_female_mutation_mohawk_var_blue" ],
+    "fg": [ "overlay_mutation_mohawk_var_blue" ],
     "rotates": false,
     "bg": [  ]
   },
   {
     "id": "overlay_female_mutation_hair_mohawk_var_brown",
-    "fg": [ "overlay_female_mutation_hair_brown_mohawk" ],
+    "fg": [ "overlay_mutation_hair_brown_mohawk" ],
     "rotates": false,
     "bg": [  ]
   },
   {
     "id": "overlay_female_mutation_hair_mohawk_var_gray",
-    "fg": [ "overlay_female_mutation_hair_gray_mohawk" ],
+    "fg": [ "overlay_mutation_hair_gray_mohawk" ],
     "rotates": false,
     "bg": [  ]
   },
   {
     "id": "overlay_female_mutation_hair_mohawk_var_green",
-    "fg": [ "overlay_female_mutation_mohawk_var_green" ],
+    "fg": [ "overlay_mutation_mohawk_var_green" ],
     "rotates": false,
     "bg": [  ]
   },
   {
     "id": "overlay_female_mutation_hair_mohawk_var_pink",
-    "fg": [ "overlay_female_mutation_mohawk_var_pink" ],
+    "fg": [ "overlay_mutation_mohawk_var_pink" ],
     "rotates": false,
     "bg": [  ]
   },
   {
     "id": "overlay_female_mutation_hair_mohawk_var_purple",
-    "fg": [ "overlay_female_mutation_mohawk_var_purple" ],
+    "fg": [ "overlay_mutation_mohawk_var_purple" ],
     "rotates": false,
     "bg": [  ]
   },
   {
     "id": "overlay_female_mutation_hair_mohawk_var_red",
-    "fg": [ "overlay_female_mutation_hair_red_mohawk" ],
+    "fg": [ "overlay_mutation_hair_red_mohawk" ],
     "rotates": false,
     "bg": [  ]
   },
   {
     "id": "overlay_female_mutation_hair_mohawk_var_white",
-    "fg": [ "overlay_female_mutation_hair_white_mohawk" ],
+    "fg": [ "overlay_mutation_hair_white_mohawk" ],
     "rotates": false,
     "bg": [  ]
   },
@@ -583,7 +583,7 @@
   },
   {
     "id": "overlay_female_mutation_hair_short_over_eye_var_black",
-    "fg": [ "overlay_mutation_hair_black_short_over_eye" ],
+    "fg": [ "overlay_mutation_short_over_eye_var_black" ],
     "rotates": false,
     "bg": [  ]
   },
@@ -637,7 +637,7 @@
   },
   {
     "id": "overlay_female_mutation_hair_short_no_fringe_var_black",
-    "fg": [ "overlay_mutation_hair_black_short_no_fringe" ],
+    "fg": [ "overlay_mutation_short_no_fringe_var_black" ],
     "rotates": false,
     "bg": [  ]
   },
