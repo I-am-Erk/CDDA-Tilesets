@@ -1,0 +1,15 @@
+{
+  "id": "mon_renfield_9mm",
+  "fg": [
+    { "weight": 1, "sprite": "mon_renfield_9mm_0" },
+    { "weight": 1, "sprite": "mon_renfield_9mm_1" },
+    { "weight": 1, "sprite": "mon_renfield_9mm_2" },
+    { "weight": 1, "sprite": "mon_renfield_9mm_3" },
+    { "weight": 1, "sprite": "mon_renfield_9mm_4" },
+    { "weight": 1, "sprite": "mon_renfield_9mm_5" },
+    { "weight": 1, "sprite": "mon_renfield_9mm_6" },
+    { "weight": 1, "sprite": "mon_renfield_9mm_7" }
+  ],
+  "bg": ["shadow_32x32_normal"],
+  "rotates": false
+}
