@@ -10,9 +10,9 @@
     "//": "We assume a base area of 90cm x 90cm."
   },
   {
-    "cursors.png": { 
+    "cursors.png": {
       "sprite_width": 48,
-      "sprite_height": 96, 
+      "sprite_height": 96,
       "sprite_offset_y": -72
     }
   },
@@ -91,6 +91,14 @@
     }
   },
   {
+    "iso_tall_plus.png": {
+      "sprite_width": 48,
+      "sprite_height": 132,
+      "sprite_offset_y": -96,
+      "//": "Objects height is about 2.8m: walls, windows, doors goes here. Will have a part that goes below current z_level"
+    }
+  },
+  {
     "iso_extra_tall.png": {
       "sprite_width": 48,
       "sprite_height": 144,
@@ -108,7 +116,7 @@
     }
   },
   {
-    "iso_large.png": { 
+    "iso_large.png": {
       "sprite_width": 64,
       "sprite_height": 64,
       "sprite_offset_x": -8,
@@ -116,7 +124,7 @@
     }
   },
   {
-    "iso_giant.png": { 
+    "iso_giant.png": {
       "sprite_width": 96,
       "sprite_height": 96,
       "sprite_offset_x": -24,
@@ -124,33 +132,33 @@
     }
   },
   {
-    "normal.png": { 
+    "normal.png": {
       "//": "Items are offset already for placement on tables",
       "sprite_width": 32,
       "sprite_height": 32,
       "sprite_offset_x": 8,
       "sprite_offset_y": -15,
       "filler": true,
-      "exclude": [         
+      "exclude": [
         "items/aunt_su_guns"
       ]
     }
   },
   {
-    "guns.png": { 
+    "guns.png": {
       "//": "specific guns offset",
       "sprite_width": 32,
       "sprite_height": 32,
       "sprite_offset_x": 8,
       "sprite_offset_y": 0,
       "filler": true,
-      "now_include": [         
+      "now_include": [
         "items/aunt_su_guns"
       ]
     }
   },
   {
-    "incomplete.png": { 
+    "incomplete.png": {
       "//": "Items are offset already for placement on tables",
       "sprite_width": 32,
       "sprite_height": 32,
@@ -160,7 +168,7 @@
     }
   },
   {
-    "normal_offset.png": { 
+    "normal_offset.png": {
       "//": "Furniture needs to be offset for iso",
       "sprite_width": 32,
       "sprite_height": 32,
@@ -170,7 +178,7 @@
     }
   },
   {
-    "normal_2x.png": { 
+    "normal_2x.png": {
       "sprite_width": 32,
       "sprite_height": 32,
       "sprite_offset_x": -6,
@@ -180,7 +188,7 @@
     }
   },
   {
-    "incomplete_2x.png": { 
+    "incomplete_2x.png": {
       "sprite_width": 32,
       "sprite_height": 32,
       "sprite_offset_x": -6,
@@ -190,7 +198,7 @@
     }
   },
   {
-    "small.png": { 
+    "small.png": {
       "sprite_width": 20,
       "sprite_height": 20,
       "sprite_offset_x": 14,
@@ -200,7 +208,7 @@
     }
   },
   {
-    "tall_2x.png": { 
+    "tall_2x.png": {
       "sprite_width": 32,
       "sprite_height": 64,
       "sprite_offset_x": -6,
@@ -210,7 +218,7 @@
     }
   },
   {
-    "human_body_2x.png": { 
+    "human_body_2x.png": {
       "sprite_width": 32,
       "sprite_height": 36,
       "sprite_offset_x": -8,
@@ -220,7 +228,7 @@
     }
   },
   {
-    "human_body_plus_2x.png": { 
+    "human_body_plus_2x.png": {
       "sprite_width": 32,
       "sprite_height": 48,
       "sprite_offset_x": -8,
@@ -230,7 +238,7 @@
     }
   },
   {
-    "large.png": { 
+    "large.png": {
       "sprite_width": 64,
       "sprite_height": 64,
       "sprite_offset_x": -8,
