@@ -1,0 +1,6 @@
+{
+  "id": "mon_vampire_strigoi",
+  "fg": [ "mon_vampire_strigoi" ],
+  "bg": ["shadow_32x32_normal"],
+  "rotates": false
+}
