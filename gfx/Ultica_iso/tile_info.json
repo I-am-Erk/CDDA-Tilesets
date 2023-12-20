@@ -4,15 +4,15 @@
     "pixelscale": 1,
     "width": 48,
     "height": 24,
-    "zlevel_height": 96,
+    "zlevel_height": 108,
     "retract_dist_min": 2.5,
     "retract_dist_max": 6.0,
-    "//": "We assume a base area of 90cm x 90cm."
+    "//": "We assume a base area of 90cm x 90cm. floor height -12px ~ 30cm BELOW baseline. So basically it is 96px of the wall on current Z-Level and additional 12px from Z-level above"
   },
   {
-    "cursors.png": { 
+    "cursors.png": {
       "sprite_width": 48,
-      "sprite_height": 96, 
+      "sprite_height": 96,
       "sprite_offset_y": -72
     }
   },
@@ -79,7 +79,8 @@
       "sprite_height": 120,
       "sprite_offset_y": -96,
       "sprite_offset_y_retracted": -5,
-      "//": "Objects height is about 2.8m: walls, windows, doors goes here. Will be retracted."
+      "//": "Objects height is about 2.8m: walls, windows, doors goes here. Will be retracted.",
+      "//2": "Retraction is obsolete mechanic, should not be used and removed."
     }
   },
   {
@@ -87,7 +88,8 @@
       "sprite_width": 48,
       "sprite_height": 120,
       "sprite_offset_y": -96,
-      "//": "Objects height is about 2.8m: walls, windows, doors goes here. Will NOT be retracted."
+      "//": "Objects height is about 2.8m: walls, windows, doors goes here. Will NOT be retracted.",
+      "//2": "All objects from here should migrate to iso_tall_plus"
     }
   },
   {
@@ -108,7 +110,7 @@
     }
   },
   {
-    "iso_large.png": { 
+    "iso_large.png": {
       "sprite_width": 64,
       "sprite_height": 64,
       "sprite_offset_x": -8,
@@ -116,7 +118,7 @@
     }
   },
   {
-    "iso_giant.png": { 
+    "iso_giant.png": {
       "sprite_width": 96,
       "sprite_height": 96,
       "sprite_offset_x": -24,
@@ -124,33 +126,33 @@
     }
   },
   {
-    "normal.png": { 
+    "normal.png": {
       "//": "Items are offset already for placement on tables",
       "sprite_width": 32,
       "sprite_height": 32,
       "sprite_offset_x": 8,
       "sprite_offset_y": -15,
       "filler": true,
-      "exclude": [         
+      "exclude": [
         "items/aunt_su_guns"
       ]
     }
   },
   {
-    "guns.png": { 
+    "guns.png": {
       "//": "specific guns offset",
       "sprite_width": 32,
       "sprite_height": 32,
       "sprite_offset_x": 8,
       "sprite_offset_y": 0,
       "filler": true,
-      "now_include": [         
+      "now_include": [
         "items/aunt_su_guns"
       ]
     }
   },
   {
-    "incomplete.png": { 
+    "incomplete.png": {
       "//": "Items are offset already for placement on tables",
       "sprite_width": 32,
       "sprite_height": 32,
@@ -160,7 +162,7 @@
     }
   },
   {
-    "normal_offset.png": { 
+    "normal_offset.png": {
       "//": "Furniture needs to be offset for iso",
       "sprite_width": 32,
       "sprite_height": 32,
@@ -170,7 +172,7 @@
     }
   },
   {
-    "normal_2x.png": { 
+    "normal_2x.png": {
       "sprite_width": 32,
       "sprite_height": 32,
       "sprite_offset_x": -6,
@@ -180,7 +182,7 @@
     }
   },
   {
-    "incomplete_2x.png": { 
+    "incomplete_2x.png": {
       "sprite_width": 32,
       "sprite_height": 32,
       "sprite_offset_x": -6,
@@ -190,7 +192,7 @@
     }
   },
   {
-    "small.png": { 
+    "small.png": {
       "sprite_width": 20,
       "sprite_height": 20,
       "sprite_offset_x": 14,
@@ -200,7 +202,7 @@
     }
   },
   {
-    "tall_2x.png": { 
+    "tall_2x.png": {
       "sprite_width": 32,
       "sprite_height": 64,
       "sprite_offset_x": -6,
@@ -210,7 +212,7 @@
     }
   },
   {
-    "human_body_2x.png": { 
+    "human_body_2x.png": {
       "sprite_width": 32,
       "sprite_height": 36,
       "sprite_offset_x": -8,
@@ -220,21 +222,12 @@
     }
   },
   {
-    "human_body_plus_2x.png": { 
+    "human_body_plus_2x.png": {
       "sprite_width": 32,
       "sprite_height": 48,
       "sprite_offset_x": -8,
       "sprite_offset_y": -72,
       "pixelscale": 2,
-      "filler": true
-    }
-  },
-  {
-    "large.png": { 
-      "sprite_width": 64,
-      "sprite_height": 64,
-      "sprite_offset_x": -8,
-      "sprite_offset_y": -40,
       "filler": true
     }
   },
