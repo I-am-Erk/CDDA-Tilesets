@@ -93,6 +93,14 @@
     }
   },
   {
+    "iso_tall_plus.png": {
+      "sprite_width": 48,
+      "sprite_height": 132,
+      "sprite_offset_y": -96,
+      "//": "Objects height is about 2.8m: walls, windows, doors goes here. Will have a part that goes below current z_level"
+    }
+  },
+  {
     "iso_extra_tall.png": {
       "sprite_width": 48,
       "sprite_height": 144,
