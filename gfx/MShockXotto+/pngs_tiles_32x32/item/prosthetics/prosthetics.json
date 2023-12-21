@@ -1,0 +1,30 @@
+[
+  {
+    "id": [ "left_peg_leg", "right_peg_leg" ],
+    "fg": "left_peg_leg"
+  },
+  {
+    "id": [ "left_leg_prosthetic_steel", "right_leg_prosthetic_steel" ],
+    "fg": "left_leg_prosthetic_steel"
+  },
+  {
+    "id": [ "left_leg_prosthetic", "right_leg_prosthetic" ],
+    "fg": "left_leg_prosthetic"
+  },
+  {
+    "id": [ "left_arm_prosthetic_wood", "right_arm_prosthetic_wood" ],
+    "fg": "left_arm_prosthetic_wood"
+  },
+  {
+    "id": [ "left_arm_prosthetic_steel", "right_arm_prosthetic_steel" ],
+    "fg": "left_arm_prosthetic_steel"
+  },
+  {
+    "id": [ "left_arm_prosthetic", "right_arm_prosthetic" ],
+    "fg": "left_arm_prosthetic"
+  },
+  {
+    "id": [ "left_arm_neuroprosthetic", "right_arm_neuroprosthetic" ],
+    "fg": "left_arm_neuroprosthetic"
+  }
+]

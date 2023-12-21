@@ -4,10 +4,10 @@
     "pixelscale": 1,
     "width": 48,
     "height": 24,
-    "zlevel_height": 96,
+    "zlevel_height": 108,
     "retract_dist_min": 2.5,
     "retract_dist_max": 6.0,
-    "//": "We assume a base area of 90cm x 90cm."
+    "//": "We assume a base area of 90cm x 90cm. floor height -12px ~ 30cm BELOW baseline. So basically it is 96px of the wall on current Z-Level and additional 12px from Z-level above"
   },
   {
     "cursors.png": {
@@ -79,7 +79,8 @@
       "sprite_height": 120,
       "sprite_offset_y": -96,
       "sprite_offset_y_retracted": -5,
-      "//": "Objects height is about 2.8m: walls, windows, doors goes here. Will be retracted."
+      "//": "Objects height is about 2.8m: walls, windows, doors goes here. Will be retracted.",
+      "//2": "Retraction is obsolete mechanic, should not be used and removed."
     }
   },
   {
@@ -87,7 +88,8 @@
       "sprite_width": 48,
       "sprite_height": 120,
       "sprite_offset_y": -96,
-      "//": "Objects height is about 2.8m: walls, windows, doors goes here. Will NOT be retracted."
+      "//": "Objects height is about 2.8m: walls, windows, doors goes here. Will NOT be retracted.",
+      "//2": "All objects from here should migrate to iso_tall_plus"
     }
   },
   {
@@ -234,15 +236,6 @@
       "sprite_offset_x": -8,
       "sprite_offset_y": -72,
       "pixelscale": 2,
-      "filler": true
-    }
-  },
-  {
-    "large.png": {
-      "sprite_width": 64,
-      "sprite_height": 64,
-      "sprite_offset_x": -8,
-      "sprite_offset_y": -40,
       "filler": true
     }
   },

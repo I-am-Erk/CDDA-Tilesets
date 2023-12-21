@@ -1,0 +1,37 @@
+[
+  {
+    "id": "t_bullettrailer_swall_eastcorner",
+    "fg": "t_bullettrailer_swall_eastcorner",
+    "bg": "t_grass_tall"
+  },
+  {
+    "id": "t_bullettrailer_swall_westcorner",
+    "fg": "t_bullettrailer_swall_westcorner",
+    "bg": "t_grass_tall"
+  },
+  {
+    "id": "t_bullettrailer_swall_wheels",
+    "fg": "t_bullettrailer_swall_wheels",
+    "bg": "t_grass_tall"
+  },
+  {
+    "id": "t_bullettrailer_swall_windows",
+    "fg": "t_bullettrailer_swall_windows",
+    "bg": "t_grass_tall"
+  },
+  {
+    "id": "t_bullettrailer_swall",
+    "fg": "t_bullettrailer_swall",
+    "bg": "t_grass_tall"
+  },
+  {
+    "id": "t_bullettrailer_swall_door",
+    "fg": "t_bullettrailer_swall_door",
+    "bg": "t_grass_tall"
+  },
+  {
+    "id": "t_bullettrailer_swall_door_o",
+    "fg": "t_bullettrailer_swall_door_o",
+    "bg": "t_grass_tall"
+  }
+]
