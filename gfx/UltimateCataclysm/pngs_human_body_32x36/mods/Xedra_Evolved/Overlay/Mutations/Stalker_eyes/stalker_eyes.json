@@ -1,0 +1,10 @@
+[
+  {
+    "id": [ "overlay_female_effect_stalker_eyes_eff", "overlay_female_mutation_stalker_eyes" ],
+    "fg": "overlay_female_mutation_stalker_eyes"
+  },
+  {
+    "id": [ "overlay_male_effect_stalker_eyes_eff", "overlay_male_mutation_stalker_eyes" ],
+    "fg": "overlay_male_mutation_stalker_eyes"
+  }
+]

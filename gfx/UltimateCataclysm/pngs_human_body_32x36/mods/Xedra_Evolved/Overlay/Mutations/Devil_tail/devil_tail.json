@@ -1,0 +1,10 @@
+[
+  {
+    "id": [ "overlay_female_effect_devil_tail_eff", "overlay_female_mutation_devil_tail" ],
+    "fg": "overlay_female_mutation_devil_tail"
+  },
+  {
+    "id": [ "overlay_male_effect_devil_tail_eff", "overlay_male_mutation_devil_tail" ],
+    "fg": "overlay_male_mutation_devil_tail"
+  }
+]
