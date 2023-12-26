@@ -13,8 +13,8 @@ Guide for Windows users, without touching the Command Line.
 > It is a good practice to create new branch at the start. Name it "playground" for example.
 > Your repo is your own private space. You can do whatever you want in it without affecting the original project. However, if you want to contribute to the project, you need to follow some guidelines. One of them is to keep your master branch clean and empty, and do your work in a separate branch. This will make it easier for you to sync your changes with the upstream repo and create pull requests.
 
-Now you have source files on your drive and some tools as well.  
-These tools will help you managing multitile objects, setting up the environment and composing tilesets.  
+Now you have source files on your drive and some tools as well.
+These tools will help you managing multitile objects, setting up the environment and composing tilesets.
 
 ## The Game
 
@@ -37,22 +37,22 @@ To enable symlinks, go to the `tools` folder in your local repository and double
 
 ## Python and Windows
 
-If you dont have Python istalled yet you need to disable app execution alias.  
+If you dont have Python istalled yet you need to disable app execution alias.
 <details>
    <summary>Go to -> "start" and type "Manage App Execution Aliases". Go to it and turn off "Python"</summary>
 
 ![img](https://i.stack.imgur.com/7C78e.png)
-   
+
 </details>
 
 Make sure you are not using the Python version from the Microsoft Store. This version is incompatible with the tileset composing tools. You can uninstall this version safely from your system. The tools from the repo will install Python 3.12 for you, which you can use for any purpose.
 
 Open the `tools` folder in your local repository and double-click `updtset.cmd`
 Select any common tileset (like MShockXotto+) for the first runs until it finally compose.
-At the first run script will try to install Python using `winget`. In case of successful install it would stop and ask you to relaunch it again.  
+At the first run script will try to install Python using `winget`. In case of successful install it would stop and ask you to relaunch it again.
 
 > [!WARNING]
-> If script failed to install Python you should do it manually from [python.org](https://www.python.org/downloads/windows/).  
+> If script failed to install Python you should do it manually from [python.org](https://www.python.org/downloads/windows/).
 > During installation, check "Add Python to PATH".
 
 ## Python and components
@@ -65,10 +65,10 @@ The script will first check if Python is installed on your system. It will print
 If the script successfully adds libvips, it will stop and ask the user to run it again.
 
 > [!WARNING]
-> If script failed to install libvips you should do it manually.  
-> Download the latest libvips distribution from [libvips.github.io](https://libvips.github.io/libvips/install.html)  
-> get vips-dev-w64-web-#.#.#.zip NOT vips-dev-w64-all-#.#.#.zip  
-> extract files somewhere and drag and drop this folder on `set_vips_path.cmd`  
+> If script failed to install libvips you should do it manually.
+> Download the latest libvips distribution from [libvips.github.io](https://libvips.github.io/libvips/install.html)
+> get vips-dev-w64-web-#.#.#.zip NOT vips-dev-w64-all-#.#.#.zip
+> extract files somewhere and drag and drop this folder on `set_vips_path.cmd`
 
 ## Final
 
@@ -79,12 +79,13 @@ If something goes wrong, read the script's output carefully!
 > You may ask for help at tileset Discord server.
 
 > [!TIP]
-> To set a tileset to compose permanently, double-click `set_tileset.cmd` and select the desired tileset.  
-> If not set permanently, the update script will allow for interactive selection of a tileset.  
-> Note: This sets the environmental variable `CDDA_TILESET`. Delete it if you want to select tileset again.  
+> To set a tileset to compose permanently, double-click `set_tileset.cmd` and select the desired tileset.
+> If not set permanently, the update script will allow for interactive selection of a tileset.
+> Note: This sets the environmental variable `CDDA_TILESET`. Delete it if you want to select tileset again.
 
 > [!TIP]
 > When scripts ask you to restart your computer it may be necessary on some systems. But you can try and skip reboots.
 
 [^1]: Some tasks can be done much faster and easier with command line actually. So you can try to run ```winget install Github.GitHubDesktop```
+
 [^2]: That tool will guide you how to [enable symlinks](https://blogs.windows.com/windowsdeveloper/2016/12/02/symlinks-windows-10/) in your system and turn them on for your local repository.

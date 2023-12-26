@@ -29,7 +29,7 @@ The most up to date build of the tileset (per commit). Might be broken.
 
 To create your own tileset, test new sprites, or contribute to the project, please follow the instructions for your operating system:
 
-- For Linux, macOS, or other Unix-like systems, see [this guide](installation_nix.md).
-- For Windows, see [this guide](installation_windows.md).
+- For Linux, macOS, or other Unix-like systems, see [this guide](./installation_nix.md).
+- For Windows, see [this guide](./installation_windows.md).
 
 These guides will help you set up the required tools and steps to build the tileset from the source files.
