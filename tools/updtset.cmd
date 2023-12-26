@@ -179,9 +179,9 @@ if errorlevel 1 (
         if errorlevel 1 (
             echo ERROR: No Python found!
             echo If you are sure that Python is installed - please check 'path' environment variable.
-            echo Script will try to install Python 3.12, try to run this script again after this.
+            echo Script will try to install Python 3.10, try to run this script again after this.
             echo.
-            winget install Python.Python.3.12 --disable-interactivity
+            winget install Python.Python.3.10 --disable-interactivity
             goto stop
         ) else (
             set APP=python
@@ -196,6 +196,8 @@ if errorlevel 1 (
 if /i [!verbose!] EQU [YES] (echo    - %APP% found.)
 %APP% --version
 
+pip install --upgrade pip --no-color 1>nul
+
 pip show pyvips --no-color 1>nul
 if errorlevel 1 (
     if /i [!verbose!] EQU [YES] (echo    - NO python 'pyvips' module found. Will try to install it.)
@@ -207,6 +209,19 @@ if errorlevel 1 (
 ) else (
     if /i [!verbose!] EQU [YES] (echo    - Python 'pyvips' module found.)
 )
+
+pip show numpy --no-color 1>nul
+if errorlevel 1 (
+    if /i [!verbose!] EQU [YES] (echo    - NO python 'numpy' module found. Will try to install it.)
+    %APP% -m pip install numpy --no-color >nul
+    if errorlevel 1 (
+        echo    - Python 'numpy' failed to install. && goto stop
+    )
+    if /i [!verbose!] EQU [YES] (echo    - Python 'numpy' installed.)
+) else (
+    if /i [!verbose!] EQU [YES] (echo    - Python 'numpy' module found.)
+)
+
 where /q %LIBVIPS_PATH%\bin:vips.exe
 if errorlevel 1 (
     echo ERROR^^^! No 'libvips' library found. Please refer installation manual:
