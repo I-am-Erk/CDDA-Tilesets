@@ -1,0 +1,318 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Windows wrappers - UltimateCataclysm — Documentation</title>
+        
+        
+
+
+        <!-- Custom HTML head -->
+        
+
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../installation.html"><strong aria-hidden="true">1.</strong> Installation &amp; Building</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../installation_windows.html"><strong aria-hidden="true">1.1.</strong> Windows guide</a></li><li class="chapter-item expanded "><a href="../installation_nix.html"><strong aria-hidden="true">1.2.</strong> Nix</a></li></ol></li><li class="chapter-item expanded "><a href="../style/summary.html"><strong aria-hidden="true">2.</strong> Style guidelines</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../style/UltimateCataclysm/summary.html"><strong aria-hidden="true">2.1.</strong> UltimateCataclysm (UltiCa)</a></li><li class="chapter-item expanded "><a href="../style/MShockXotto+/summary.html"><strong aria-hidden="true">2.2.</strong> MShockXotto+</a></li><li class="chapter-item expanded "><a href="../style/HollowMoon/summary.html"><strong aria-hidden="true">2.3.</strong> HollowMoon</a></li></ol></li><li class="chapter-item expanded "><a href="../how-to/summary.html"><strong aria-hidden="true">3.</strong> How to</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../how-to/structure.html"><strong aria-hidden="true">3.1.</strong> Tileset structure</a></li><li class="chapter-item expanded "><a href="../how-to/autotiles.html"><strong aria-hidden="true">3.2.</strong> Autotiles/Multitiles</a></li><li class="chapter-item expanded "><a href="../https://github.com/CleverRaven/Cataclysm-DDA/blob/master/doc/TILESET.html"><strong aria-hidden="true">3.3.</strong> Multitiles detailed info</a></li><li class="chapter-item expanded "><a href="../how-to/Cloning_symlinks_on_windows.html"><strong aria-hidden="true">3.4.</strong> Windows and symlinks</a></li></ol></li><li class="chapter-item expanded "><a href="../tools/summary.html"><strong aria-hidden="true">4.</strong> Tools</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../tools/common_tools.html"><strong aria-hidden="true">4.1.</strong> Common tools</a></li><li class="chapter-item expanded "><a href="../tools/windows_wrappers.html" class="active"><strong aria-hidden="true">4.2.</strong> Windows wrappers</a></li></ol></li><li class="chapter-item expanded "><a href="../https://github.com/CleverRaven/Cataclysm-DDA/blob/db3054e61b77fd16ef15961714bff97c4b5aac0c/doc/TILESET.html">main CDDA documentation</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">UltimateCataclysm — Documentation</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                        <a href="https://github.com/I-am-Erk/CDDA-Tilesets" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1><a class="header" href="#windows-wrappers-for-common-tools" id="windows-wrappers-for-common-tools">Windows Wrappers for Common Tools</a></h1>
+<p>For more detailed information, please refer to the <a href="./common_tools.html">Common Tools</a> section.</p>
+<p>We understand that artists may want to participate in tilesets, but not everyone is familiar with programmer's tools and environments. To optimize artists' time and workflow, we provide some wrappers that offer automation with preferred interactions such as double-clicking and drag-and-drop.</p>
+<p>These wrappers might have less functionality, but in most cases, their results are acceptable.</p>
+<h2><a class="header" href="#infrastructure-building-tools" id="infrastructure-building-tools">Infrastructure Building Tools</a></h2>
+<p>// TODO: Remember to update this section when 'updtset.cmd' is divided.</p>
+<h3><a class="header" href="#1-installation" id="1-installation">1) Installation</a></h3>
+<p>To work with tilesets and test them in the game, you need a clone of the tileset repository on your drive and download the game itself. You can refer to <a href="../installation_windows.html">this</a> page for details.</p>
+<p>The current <code>updtset.cmd</code> wrapper is written for the <strong>Windows Command Shell</strong> and is supposed to run on every Windows version from Windows XP to Windows 11 23H2. However, according to <a href="https://www.statista.com/statistics/265033/proportion-of-operating-systems-used-on-the-online-gaming-platform-steam/">this</a> statistic, older Windows versions can be excluded and the script can be rewritten in <strong>Powershell</strong>.</p>
+<p>At this time, the installation of necessary environment tools is tied together with preparation steps and the composing process.</p>
+<p>The installation tool <code>updtset.cmd</code> will install the following on its first run:</p>
+<ul>
+<li>Python</li>
+<li>Necessary Python modules (pyvips and numpy)</li>
+<li>Necessary VIPS library and binaries</li>
+</ul>
+<p><code>git_symlinks.cmd</code> is a small script that runs commands necessary for symlinks to work in the repository. However, there is another method described <a href="../how-to/Cloning_symlinks_on_windows.html">here</a>.</p>
+<h3><a class="header" href="#2-preparation" id="2-preparation">2) Preparation</a></h3>
+<p><em>There are some additional small scripts that are also written for the <strong>Windows Command Shell</strong> and should be rewritten in <strong>Python</strong> later, as <strong>Powershell</strong> does not support drag-and-drop over ps1 files.</em></p>
+<p><code>set_game_path.cmd</code> is a subtool that can be run separately from <code>updtset.cmd</code> and will set an environment variable pointing to the game. If you want to check your modified/added sprites in the game, tools need to know where the game is.</p>
+<p><code>set_tileset.cmd</code> - This subtool will fix a tileset for future composing runs. It is helpful if you prefer to work on only one tileset.</p>
+<p><code>set_vips_path.cmd</code> - This subtool allows you to define another <code>libvips</code> location.</p>
+<p>All these wrappers can be launched by dragging and dropping the appropriate folder over them. They will check if that folder has the correct files (game executable, libvips binary) and set the corresponding Windows user environment variable.
+Here's the revised version with improved style and grammar:</p>
+<h2><a class="header" href="#slicer" id="slicer">Slicer</a></h2>
+<p>The Slicer wrapper, <code>slicemt.py</code>, is a wrapper for the <a href="./common_tools.html">common tools</a> and performs the most repetitive process - slicing source files and composing tilesets. However, it cannot perform complex tasks such as multivariate multitile slicing or animation creation.</p>
+<p>If you need to slice multitiles and check the result in the game, you can do the following:</p>
+<ol>
+<li>Create a shortcut for <code>slicemt.py</code> on your desktop.</li>
+<li>Create a <code>source</code> subfolder in the <code>object folder</code> inside a tileset repository.</li>
+<li>Export a png file from your graphic editor to this <code>source</code> folder and name this multitile source accordingly.</li>
+<li>Drag-and-drop the <code>source</code> folder over the said shortcut.</li>
+</ol>
+<p>You will receive 16  sprites and a json file that will be used for composing. You may leave the <code>source</code> folder in the repository as it is ignored in the PR process. (<a href="https://github.com/I-am-Erk/CDDA-Tilesets/pull/2249#issue-2046838285">example with screenshots</a>)</p>
+<p>Under the hood, the following process occurs:</p>
+<ol>
+<li>
+<p>The script (<code>slicemt.py</code>) will try to check if there is a <code>source</code> folder to work on. If it was launched from the CLI inside the <code>object folder</code>, it will try to find the <code>source</code> folder one level deeper.</p>
+</li>
+<li>
+<p>If the script can find a folder with <code>png</code> at the beginning and <code>NxM</code> following, it will assume that it runs in a tileset repository and <code>NxM</code> are sprite dimensions. This will allow it to make an assumption about where <code>updtset.cmd</code> is located.</p>
+<p>Otherwise, the script will stop working.</p>
+</li>
+<li>
+<p>The script will try to make four different checks. Each check will try to find source files with a special name pattern. But you do not need to provide all of them. I will use <code>t_floor</code> as an example tile name.</p>
+<ul>
+<li>
+<p><strong>Slicing Variants</strong></p>
+<p>The pattern is <code>*_var*.png</code> so you can provide following files: <em>t_floor_var_1.png</em> or <em>t_floor_variants.png</em> each file will be sliced into 16  separate files and each file will have a name t_floor_var_XX.png, where XX is a number from 00 to 15.</p>
+<p>If you provide more than one source file (for example <em>t_floor_var_1.png</em> and <em>t_floor_var_2.png</em>) you will receive 32 files numbered from 00 to 31.</p>
+<p>In this and only in this case (slicing variants), you may provide a source file with a name different from the object name (t_floor). It can be used if you want to have variants for a subtile.</p>
+<p>Providing a source file named <code>t_floor_unconnected_variants.png</code> will produce variants named <code>t_floor_unconnected_var_XX.png</code>.</p>
+<p>Running this script over the same <code>source</code> folder with only one variant source file two (or more) times will produce separate images with names numbered from 00 to 31 (or even more). So each run will append the existing set of variants.</p>
+<p>Do not forget to empty the <code>object folder</code> for each slice run.</p>
+</li>
+<li>
+<p><strong>Slicing Simple Multitile</strong></p>
+<p>The second pattern is <code>object name</code>+<code>.png</code> so for our example, it will check for <code>t_floor.png</code> in the <code>source</code> folder and treat it as a multitile source.</p>
+<p>Slicing this source will provide 16 named as multitile sub-tiles and a json file (<code>t_floor.json</code>).</p>
+<p>This is the most common usage of this wrapper.</p>
+</li>
+<li>
+<p><strong>Slicing Transparent Multitile</strong></p>
+<p>The third pattern is <code>object name</code>+<code>_t*.png</code> so you can provide names like <code>t_floor_transparent.png</code>, <code>t_floor_trans.png</code> or even <code>t_floor_t.png</code>. The resulting set will be named as <code>t_floor_transparent</code> and consists of 16 subtile images and a json file.</p>
+<p>This pattern/name is useful for high objects and the game can swap them in close proximity to the player.</p>
+<p>Please read <a href="https://github.com/CleverRaven/Cataclysm-DDA/blob/master/doc/TILESET.md#optional-transparent-variant">this</a> document.</p>
+</li>
+<li>
+<p><strong>Seasonal Multitiles</strong></p>
+<p>Same as simple multitile, but the pattern is:</p>
+<pre><code>  object_name_winter*.png
+  object_name_spring*.png
+  object_name_summer*.png
+  object_name_autumn*.png
+</code></pre>
+<p>Resulting sets will have names like <code>t_floor_season_winter</code>, etc.</p>
+</li>
+<li>
+<p><strong>Seasonal Transparent Multitiles</strong></p>
+<p>Everything is similar to the previous sections, except for the pattern.
+<code>objectname_seasonname_t*.png</code> - <code>t_floor_winter_t.png</code> will work.</p>
+</li>
+</ul>
+<p>After slicing, the script will run <code>updtset.cmd</code> with the tileset name inferred from the path.</p>
+</li>
+</ol>
+<h2><a class="header" href="#composer" id="composer">Composer</a></h2>
+<p>For now, simply run <code>updtset.cmd</code>.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="../tools/common_tools.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="../https://github.com/CleverRaven/Cataclysm-DDA/blob/db3054e61b77fd16ef15961714bff97c4b5aac0c/doc/TILESET.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a rel="prev" href="../tools/common_tools.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="../https://github.com/CleverRaven/Cataclysm-DDA/blob/db3054e61b77fd16ef15961714bff97c4b5aac0c/doc/TILESET.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>

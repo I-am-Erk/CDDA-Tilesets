@@ -3,7 +3,7 @@
     <head>
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
-        <title>General - UltimateCataclysm — Documentation</title>
+        <title>Tools - UltimateCataclysm — Documentation</title>
         
         
 
@@ -89,7 +89,7 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item expanded "><a href="../installation.html"><strong aria-hidden="true">1.</strong> Installation &amp; Building</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../installation_windows.html"><strong aria-hidden="true">1.1.</strong> Windows guide</a></li><li class="chapter-item expanded "><a href="../installation_nix.html"><strong aria-hidden="true">1.2.</strong> Nix</a></li></ol></li><li class="chapter-item expanded "><a href="../style/summary.html"><strong aria-hidden="true">2.</strong> Style guidelines</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../style/general.html" class="active"><strong aria-hidden="true">2.1.</strong> General</a></li><li class="chapter-item expanded "><a href="../style/items.html"><strong aria-hidden="true">2.2.</strong> Items</a></li><li class="chapter-item expanded "><a href="../style/overlay.html"><strong aria-hidden="true">2.3.</strong> Overlay</a></li><li class="chapter-item expanded "><a href="../style/creatures.html"><strong aria-hidden="true">2.4.</strong> Creatures</a></li><li class="chapter-item expanded "><a href="../style/terrain-furniture.html"><strong aria-hidden="true">2.5.</strong> Terrain &amp; Furniture</a></li></ol></li><li class="chapter-item expanded "><strong aria-hidden="true">3.</strong> How to</li><li><ol class="section"><li class="chapter-item expanded "><a href="../how-to/structure.html"><strong aria-hidden="true">3.1.</strong> Tileset structure</a></li><li class="chapter-item expanded "><a href="../how-to/autotiles.html"><strong aria-hidden="true">3.2.</strong> Autotiles</a></li></ol></li><li class="chapter-item expanded "><strong aria-hidden="true">4.</strong> Tools</li><li><ol class="section"><li class="chapter-item expanded "><strong aria-hidden="true">4.1.</strong> Slice autotiles</li><li class="chapter-item expanded "><strong aria-hidden="true">4.2.</strong> Generate preview</li></ol></li></ol>
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../installation.html"><strong aria-hidden="true">1.</strong> Installation &amp; Building</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../installation_windows.html"><strong aria-hidden="true">1.1.</strong> Windows guide</a></li><li class="chapter-item expanded "><a href="../installation_nix.html"><strong aria-hidden="true">1.2.</strong> Nix</a></li></ol></li><li class="chapter-item expanded "><a href="../style/summary.html"><strong aria-hidden="true">2.</strong> Style guidelines</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../style/UltimateCataclysm/summary.html"><strong aria-hidden="true">2.1.</strong> UltimateCataclysm (UltiCa)</a></li><li class="chapter-item expanded "><a href="../style/MShockXotto+/summary.html"><strong aria-hidden="true">2.2.</strong> MShockXotto+</a></li><li class="chapter-item expanded "><a href="../style/HollowMoon/summary.html"><strong aria-hidden="true">2.3.</strong> HollowMoon</a></li></ol></li><li class="chapter-item expanded "><a href="../how-to/summary.html"><strong aria-hidden="true">3.</strong> How to</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../how-to/structure.html"><strong aria-hidden="true">3.1.</strong> Tileset structure</a></li><li class="chapter-item expanded "><a href="../how-to/autotiles.html"><strong aria-hidden="true">3.2.</strong> Autotiles/Multitiles</a></li><li class="chapter-item expanded "><a href="../https://github.com/CleverRaven/Cataclysm-DDA/blob/master/doc/TILESET.html"><strong aria-hidden="true">3.3.</strong> Multitiles detailed info</a></li><li class="chapter-item expanded "><a href="../how-to/Cloning_symlinks_on_windows.html"><strong aria-hidden="true">3.4.</strong> Windows and symlinks</a></li></ol></li><li class="chapter-item expanded "><a href="../tools/summary.html" class="active"><strong aria-hidden="true">4.</strong> Tools</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../tools/common_tools.html"><strong aria-hidden="true">4.1.</strong> Common tools</a></li><li class="chapter-item expanded "><a href="../tools/windows_wrappers.html"><strong aria-hidden="true">4.2.</strong> Windows wrappers</a></li></ol></li><li class="chapter-item expanded "><a href="../https://github.com/CleverRaven/Cataclysm-DDA/blob/db3054e61b77fd16ef15961714bff97c4b5aac0c/doc/TILESET.html">main CDDA documentation</a></li></ol>
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
         </nav>
@@ -159,34 +159,20 @@
 
                 <div id="content" class="content">
                     <main>
-                        <h1><a class="header" href="#general-style-guidelines" id="general-style-guidelines">General style guidelines</a></h1>
-<p>A bunch of rules that can be applied for every type of sprite.</p>
-<h2><a class="header" href="#use-a-limited-set-of-colors-as-in-pseudo-16-bit-format" id="use-a-limited-set-of-colors-as-in-pseudo-16-bit-format">Use a limited set of colors as in pseudo-16 bit format</a></h2>
-<p><img src="image/colors.png" alt="colors" /></p>
-<p>This is rule is one of the main rules not only for this tileset, but pixel art in general. 
-Each &quot;colour block&quot; should use 3-6 colors for shades. For example a blue shirt might have one light blue highlight, two medium blue main colours, one dark blue shade, and one very dark blue-green shade. 
-See <a href="https://lospec.com/pixel-art-tutorials/tags/colors">colors tutorials section</a> on lospec if you're having troubles with palette.</p>
-<h2><a class="header" href="#try-to-draw-with-realistic-proportions" id="try-to-draw-with-realistic-proportions">Try to draw with realistic proportions</a></h2>
-<p><img src="image/proportions.png" alt="proportions" /></p>
-<p>Small items/creatures should be small. But if feel that they are <strong>too small</strong>, it is ok to make them bigger for sakes of ability to be recognized. Be careful about sizes.</p>
-<h2><a class="header" href="#use-hard-edges-on-foreground-objects" id="use-hard-edges-on-foreground-objects">Use hard edges on foreground objects</a></h2>
-<p><img src="image/hard-edges.png" alt="hard-edges" /></p>
-<p>.. such as items and monsters. This is important because it makes things much more recognizable when zoomed out.</p>
-<h2><a class="header" href="#the-default-light-source-is-assumed-to-come-from-above-and-to-the-left" id="the-default-light-source-is-assumed-to-come-from-above-and-to-the-left">The default light source is assumed to come from above and to the left.</a></h2>
-<p><img src="image/sunlight.png" alt="sunlight" /></p>
+                        <h1><a class="header" href="#tools" id="tools">Tools</a></h1>
 
                     </main>
 
                     <nav class="nav-wrapper" aria-label="Page navigation">
                         <!-- Mobile navigation buttons -->
                         
-                            <a rel="prev" href="../style/summary.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                            <a rel="prev" href="../how-to/Cloning_symlinks_on_windows.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
                                 <i class="fa fa-angle-left"></i>
                             </a>
                         
 
                         
-                            <a rel="next" href="../style/items.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                            <a rel="next" href="../tools/common_tools.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
                                 <i class="fa fa-angle-right"></i>
                             </a>
                         
@@ -198,13 +184,13 @@ See <a href="https://lospec.com/pixel-art-tutorials/tags/colors">colors tutorial
 
             <nav class="nav-wide-wrapper" aria-label="Page navigation">
                 
-                    <a rel="prev" href="../style/summary.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                    <a rel="prev" href="../how-to/Cloning_symlinks_on_windows.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
                         <i class="fa fa-angle-left"></i>
                     </a>
                 
 
                 
-                    <a rel="next" href="../style/items.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                    <a rel="next" href="../tools/common_tools.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
                         <i class="fa fa-angle-right"></i>
                     </a>
                 

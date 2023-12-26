@@ -91,7 +91,7 @@
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
             <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item expanded "><a href="installation.html"><strong aria-hidden="true">1.</strong> Installation &amp; Building</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="installation_windows.html"><strong aria-hidden="true">1.1.</strong> Windows guide</a></li><li class="chapter-item expanded "><a href="installation_nix.html"><strong aria-hidden="true">1.2.</strong> Nix</a></li></ol></li><li class="chapter-item expanded "><a href="style/summary.html"><strong aria-hidden="true">2.</strong> Style guidelines</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="style/general.html"><strong aria-hidden="true">2.1.</strong> General</a></li><li class="chapter-item expanded "><a href="style/items.html"><strong aria-hidden="true">2.2.</strong> Items</a></li><li class="chapter-item expanded "><a href="style/overlay.html"><strong aria-hidden="true">2.3.</strong> Overlay</a></li><li class="chapter-item expanded "><a href="style/creatures.html"><strong aria-hidden="true">2.4.</strong> Creatures</a></li><li class="chapter-item expanded "><a href="style/terrain-furniture.html"><strong aria-hidden="true">2.5.</strong> Terrain &amp; Furniture</a></li></ol></li><li class="chapter-item expanded "><strong aria-hidden="true">3.</strong> How to</li><li><ol class="section"><li class="chapter-item expanded "><a href="how-to/structure.html"><strong aria-hidden="true">3.1.</strong> Tileset structure</a></li><li class="chapter-item expanded "><a href="how-to/autotiles.html"><strong aria-hidden="true">3.2.</strong> Autotiles</a></li></ol></li><li class="chapter-item expanded "><strong aria-hidden="true">4.</strong> Tools</li><li><ol class="section"><li class="chapter-item expanded "><strong aria-hidden="true">4.1.</strong> Slice autotiles</li><li class="chapter-item expanded "><strong aria-hidden="true">4.2.</strong> Generate preview</li></ol></li></ol>
+                <ol class="chapter"><li class="chapter-item expanded "><a href="installation.html"><strong aria-hidden="true">1.</strong> Installation &amp; Building</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="installation_windows.html"><strong aria-hidden="true">1.1.</strong> Windows guide</a></li><li class="chapter-item expanded "><a href="installation_nix.html"><strong aria-hidden="true">1.2.</strong> Nix</a></li></ol></li><li class="chapter-item expanded "><a href="style/summary.html"><strong aria-hidden="true">2.</strong> Style guidelines</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="style/UltimateCataclysm/summary.html"><strong aria-hidden="true">2.1.</strong> UltimateCataclysm (UltiCa)</a></li><li class="chapter-item expanded "><a href="style/MShockXotto+/summary.html"><strong aria-hidden="true">2.2.</strong> MShockXotto+</a></li><li class="chapter-item expanded "><a href="style/HollowMoon/summary.html"><strong aria-hidden="true">2.3.</strong> HollowMoon</a></li></ol></li><li class="chapter-item expanded "><a href="how-to/summary.html"><strong aria-hidden="true">3.</strong> How to</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="how-to/structure.html"><strong aria-hidden="true">3.1.</strong> Tileset structure</a></li><li class="chapter-item expanded "><a href="how-to/autotiles.html"><strong aria-hidden="true">3.2.</strong> Autotiles/Multitiles</a></li><li class="chapter-item expanded "><a href="https://github.com/CleverRaven/Cataclysm-DDA/blob/master/doc/TILESET.html"><strong aria-hidden="true">3.3.</strong> Multitiles detailed info</a></li><li class="chapter-item expanded "><a href="how-to/Cloning_symlinks_on_windows.html"><strong aria-hidden="true">3.4.</strong> Windows and symlinks</a></li></ol></li><li class="chapter-item expanded "><a href="tools/summary.html"><strong aria-hidden="true">4.</strong> Tools</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="tools/common_tools.html"><strong aria-hidden="true">4.1.</strong> Common tools</a></li><li class="chapter-item expanded "><a href="tools/windows_wrappers.html"><strong aria-hidden="true">4.2.</strong> Windows wrappers</a></li></ol></li><li class="chapter-item expanded "><a href="https://github.com/CleverRaven/Cataclysm-DDA/blob/db3054e61b77fd16ef15961714bff97c4b5aac0c/doc/TILESET.html">main CDDA documentation</a></li></ol>
             </div>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
         </nav>
@@ -189,8 +189,8 @@ Red cross means that the build has failed and no artifacts were produced.</p>
 <h1><a class="header" href="#building" id="building">Building</a></h1>
 <p>To create your own tileset, test new sprites, or contribute to the project, please follow the instructions for your operating system:</p>
 <ul>
-<li>For Linux, macOS, or other Unix-like systems, see <a href="installation_nix.html">this guide</a>.</li>
-<li>For Windows, see <a href="installation_windows.html">this guide</a>.</li>
+<li>For Linux, macOS, or other Unix-like systems, see <a href="./installation_nix.html">this guide</a>.</li>
+<li>For Windows, see <a href="./installation_windows.html">this guide</a>.</li>
 </ul>
 <p>These guides will help you set up the required tools and steps to build the tileset from the source files.</p>
 <h1><a class="header" href="#windows-guide" id="windows-guide">Windows guide</a></h1>
@@ -207,7 +207,7 @@ Red cross means that the build has failed and no artifacts were produced.</p>
 It is a good practice to create new branch at the start. Name it &quot;playground&quot; for example.
 Your repo is your own private space. You can do whatever you want in it without affecting the original project. However, if you want to contribute to the project, you need to follow some guidelines. One of them is to keep your master branch clean and empty, and do your work in a separate branch. This will make it easier for you to sync your changes with the upstream repo and create pull requests.</p>
 </blockquote>
-<p>Now you have source files on your drive and some tools as well.<br />
+<p>Now you have source files on your drive and some tools as well.
 These tools will help you managing multitile objects, setting up the environment and composing tilesets.</p>
 <h2><a class="header" href="#the-game" id="the-game">The Game</a></h2>
 <p>The easiest way to get the game is to use the <a href="https://github.com/Fris0uman/CDDA-Game-Launcher/releases">CDDA Game Launcher</a>.
@@ -237,7 +237,7 @@ Select any common tileset (like MShockXotto+) for the first runs until it finall
 At the first run script will try to install Python using <code>winget</code>. In case of successful install it would stop and ask you to relaunch it again.</p>
 <blockquote>
 <p>[!WARNING]
-If script failed to install Python you should do it manually from <a href="https://www.python.org/downloads/windows/">python.org</a>.<br />
+If script failed to install Python you should do it manually from <a href="https://www.python.org/downloads/windows/">python.org</a>.
 During installation, check &quot;Add Python to PATH&quot;.</p>
 </blockquote>
 <h2><a class="header" href="#python-and-components" id="python-and-components">Python and components</a></h2>
@@ -249,9 +249,9 @@ During installation, check &quot;Add Python to PATH&quot;.</p>
 <p>If the script successfully adds libvips, it will stop and ask the user to run it again.</p>
 <blockquote>
 <p>[!WARNING]
-If script failed to install libvips you should do it manually.<br />
-Download the latest libvips distribution from <a href="https://libvips.github.io/libvips/install.html">libvips.github.io</a><br />
-get vips-dev-w64-web-#.#.#.zip NOT vips-dev-w64-all-#.#.#.zip<br />
+If script failed to install libvips you should do it manually.
+Download the latest libvips distribution from <a href="https://libvips.github.io/libvips/install.html">libvips.github.io</a>
+get vips-dev-w64-web-#.#.#.zip NOT vips-dev-w64-all-#.#.#.zip
 extract files somewhere and drag and drop this folder on <code>set_vips_path.cmd</code></p>
 </blockquote>
 <h2><a class="header" href="#final" id="final">Final</a></h2>
@@ -263,8 +263,8 @@ You may ask for help at tileset Discord server.</p>
 </blockquote>
 <blockquote>
 <p>[!TIP]
-To set a tileset to compose permanently, double-click <code>set_tileset.cmd</code> and select the desired tileset.<br />
-If not set permanently, the update script will allow for interactive selection of a tileset.<br />
+To set a tileset to compose permanently, double-click <code>set_tileset.cmd</code> and select the desired tileset.
+If not set permanently, the update script will allow for interactive selection of a tileset.
 Note: This sets the environmental variable <code>CDDA_TILESET</code>. Delete it if you want to select tileset again.</p>
 </blockquote>
 <blockquote>
@@ -272,8 +272,10 @@ Note: This sets the environmental variable <code>CDDA_TILESET</code>. Delete it 
 When scripts ask you to restart your computer it may be necessary on some systems. But you can try and skip reboots.</p>
 </blockquote>
 <div class="footnote-definition" id="1"><sup class="footnote-definition-label">1</sup>
-<p>Some tasks can be done much faster and easier with command line actually. So you can try to run <code>winget install Github.GitHubDesktop</code>
-<sup class="footnote-reference"><a href="#2">2</a></sup>: That tool will guide you how to <a href="https://blogs.windows.com/windowsdeveloper/2016/12/02/symlinks-windows-10/">enable symlinks</a> in your system and turn them on for your local repository.</p>
+<p>Some tasks can be done much faster and easier with command line actually. So you can try to run <code>winget install Github.GitHubDesktop</code></p>
+</div>
+<div class="footnote-definition" id="2"><sup class="footnote-definition-label">2</sup>
+<p>That tool will guide you how to <a href="https://blogs.windows.com/windowsdeveloper/2016/12/02/symlinks-windows-10/">enable symlinks</a> in your system and turn them on for your local repository.</p>
 </div>
 <h1><a class="header" href="#nix-installation" id="nix-installation">Nix Installation</a></h1>
 <p>Documentation of developing tileset with <a href="https://nixos.org/">Nix</a>. </p>
@@ -303,79 +305,36 @@ python3 tools/compose.py --use-all gfx/UltimateCataclysm out
 </code></pre>
 <p>Or if you have <a href="https://direnv.net/">direnv</a> enabled, it will automatically enter the devshell upon opening the repository.</p>
 <h1><a class="header" href="#style-guidelines" id="style-guidelines">Style guidelines</a></h1>
-<p>We have rules for sprites these days. 
-Not because it's important to keep the tileset consistent, but also to make things recognizable on the screen in the game. 
-Without strict rules, UltiCa will quickly turn itself into a pixels mash up. 
-Rules and guidelines are divided between groups: </p>
+<p>We have rules for sprites these days.
+Not because it's important to keep the tileset consistent, but also to make things recognizable on the screen in the game.
+Without strict rules, any tileset will quickly turn itself into a pixels mash up.</p>
+<p>Different tilesets have different guides:</p>
 <ul>
-<li><a href="style/general.html">General</a></li>
-<li><a href="style/items.html">Items</a> (things on the floor)</li>
-<li><a href="style/overlay.html">Overlay</a> (wielded/worn/mutations)</li>
-<li><a href="style/creatures.html">Creatures</a></li>
-<li><a href="style/terrain.html">Terrain</a></li>
+<li><a href="style/./UltimateCataclysm/summary.html">UltimateCataclysm (Ultica)</a></li>
+<li><a href="style/./MShockXotto+/summary.html">MShockXotto+</a></li>
+<li><a href="style/./HollowMoon/summary.html">HollowMoon</a></li>
 </ul>
-<h1><a class="header" href="#general-style-guidelines" id="general-style-guidelines">General style guidelines</a></h1>
-<p>A bunch of rules that can be applied for every type of sprite.</p>
-<h2><a class="header" href="#use-a-limited-set-of-colors-as-in-pseudo-16-bit-format" id="use-a-limited-set-of-colors-as-in-pseudo-16-bit-format">Use a limited set of colors as in pseudo-16 bit format</a></h2>
-<p><img src="style/image/colors.png" alt="colors" /></p>
-<p>This is rule is one of the main rules not only for this tileset, but pixel art in general. 
-Each &quot;colour block&quot; should use 3-6 colors for shades. For example a blue shirt might have one light blue highlight, two medium blue main colours, one dark blue shade, and one very dark blue-green shade. 
-See <a href="https://lospec.com/pixel-art-tutorials/tags/colors">colors tutorials section</a> on lospec if you're having troubles with palette.</p>
-<h2><a class="header" href="#try-to-draw-with-realistic-proportions" id="try-to-draw-with-realistic-proportions">Try to draw with realistic proportions</a></h2>
-<p><img src="style/image/proportions.png" alt="proportions" /></p>
-<p>Small items/creatures should be small. But if feel that they are <strong>too small</strong>, it is ok to make them bigger for sakes of ability to be recognized. Be careful about sizes.</p>
-<h2><a class="header" href="#use-hard-edges-on-foreground-objects" id="use-hard-edges-on-foreground-objects">Use hard edges on foreground objects</a></h2>
-<p><img src="style/image/hard-edges.png" alt="hard-edges" /></p>
-<p>.. such as items and monsters. This is important because it makes things much more recognizable when zoomed out.</p>
-<h2><a class="header" href="#the-default-light-source-is-assumed-to-come-from-above-and-to-the-left" id="the-default-light-source-is-assumed-to-come-from-above-and-to-the-left">The default light source is assumed to come from above and to the left.</a></h2>
-<p><img src="style/image/sunlight.png" alt="sunlight" /></p>
-<h1><a class="header" href="#items" id="items">Items</a></h1>
-<h2><a class="header" href="#maximum-item-size-is-32x32-small-items-should-fit-within-16x16" id="maximum-item-size-is-32x32-small-items-should-fit-within-16x16">Maximum item size is 32x32; small items should fit within 16x16</a></h2>
-<p><img src="style/image/item-proportions.png" alt="item-proportions" /></p>
-<p>This is continuation of the general rule.</p>
-<h2><a class="header" href="#item-tiles-should-be-as-close-to-scale-as-they-can-be-while-still-recognizable" id="item-tiles-should-be-as-close-to-scale-as-they-can-be-while-still-recognizable">Item tiles should be as close to scale as they can be while still recognizable</a></h2>
-<p><img src="style/image/item-group.png" alt="item-group" /></p>
-<p>When in doubt, err on the side of larger, but avoid filling an entire 32x32 tile with a single nail or it would look like a nail as large as a survivor.
-Even for single items, putting multiple items into the icon could give it more recognizability without making it look comically huge.</p>
-<h2><a class="header" href="#containers-should-be-drawn-empty" id="containers-should-be-drawn-empty">Containers should be drawn empty</a></h2>
-<p><img src="style/image/containers.png" alt="containers" /></p>
-<p>Like jars or bottles. The game will use the same tile no matter the actual content of the item.</p>
-<h2><a class="header" href="#100-black-underline-without-shadow" id="100-black-underline-without-shadow">100% black underline without shadow</a></h2>
-<p><em>// TODO: image</em></p>
-<p>No shadow will make sure that players don't confuse several big items with furniture. Black underline helps to identify an item in the game world.</p>
-<h2><a class="header" href="#consider-placement-on-tables" id="consider-placement-on-tables">Consider placement on tables</a></h2>
-<p><img src="style/image/items-on-tables.png" alt="items-on-tables" /></p>
-<p>Table surfaces usually occupy top 19 pixels of a 32x32 sprite, try fitting your items there when possible.</p>
-<h1><a class="header" href="#overlay" id="overlay">Overlay</a></h1>
-<p>Rules about hair, mutations, worn clothes, wielded items and survivour's skin.</p>
-<h1><a class="header" href="#32x64-tile-base" id="32x64-tile-base">32x64 tile base</a></h1>
-<p>Use these as reference (base male and base female sprites): </p>
-<p><img src="style/image/skin-male.png" alt="male" />
-<img src="style/image/skin-female.png" alt="female" /></p>
-<h1><a class="header" href="#creatures" id="creatures">Creatures</a></h1>
-<h2><a class="header" href="#take-appropriate-tile-size" id="take-appropriate-tile-size">Take appropriate tile size</a></h2>
-<p>Consider 32x64 a default template for human-sized creatures:</p>
-<p><img src="style/image/skin-male.png" alt="male" />
-<img src="style/image/skin-female.png" alt="female" /></p>
-<h1><a class="header" href="#monster-sprites-should-have-8px-offset-from-the-ground" id="monster-sprites-should-have-8px-offset-from-the-ground">Monster sprites should have ~8px offset from the ground</a></h1>
-<p><em>// TODO: image</em></p>
-<p>To give them a 3d look.</p>
-<h1><a class="header" href="#facing-to-the-right-by-default" id="facing-to-the-right-by-default">Facing to the right by default</a></h1>
-<p>And remember that tiles are mirrored when creatures move.</p>
-<h1><a class="header" href="#monsters-should-drop-shadows-when-possible" id="monsters-should-drop-shadows-when-possible">Monsters should drop shadows when possible</a></h1>
-<p><em>// TODO: image</em></p>
-<p>Put shadows in a <code>bg</code> field in json, use <code>shadow_&lt;width&gt;x&lt;height&gt;_&lt;size&gt;</code> template. You can find shadow files in the root of any size directory (e.g. <code>pngs_normal_32x32</code>).</p>
-<h1><a class="header" href="#terrain--furniture" id="terrain--furniture">Terrain &amp; Furniture</a></h1>
-<h2><a class="header" href="#walls-and-floors-are-32x32-other-things-may-vary" id="walls-and-floors-are-32x32-other-things-may-vary">Walls and floors are 32x32, other things may vary</a></h2>
-<p><em>// TODO: image</em></p>
-<p>Again, you should size things accordingly to its size in the world.</p>
-<h2><a class="header" href="#keep-color-value-level-in-medium-range" id="keep-color-value-level-in-medium-range">Keep color value level in medium range</a></h2>
-<p><em>// TODO: image</em></p>
-<p>It's important to keep value level of the background objects (terrain, furniture) about 60-80, because it would define foreground entities (e.g. monsters) better.</p>
-<h1><a class="header" href="#keep-table-surfaces-consistent" id="keep-table-surfaces-consistent">Keep table surfaces consistent</a></h1>
-<p>When drawing something similar to a table keep in mind that currently table surfaces usually occupy top 19 pixels and items may be optimized to look like placed in that area.</p>
+<h1><a class="header" href="#ultimatecataclysm-ultica-style-guide" id="ultimatecataclysm-ultica-style-guide">UltimateCataclysm (Ultica) style guide</a></h1>
+<p>Rules and guidelines are divided between groups: </p>
+<ul>
+<li><a href="style/UltimateCataclysm/general.html">General</a></li>
+<li><a href="style/UltimateCataclysm/items.html">Items</a> (things on the floor)</li>
+<li><a href="style/UltimateCataclysm/overlay.html">Overlay</a> (wielded/worn/mutations)</li>
+<li><a href="style/UltimateCataclysm/creatures.html">Creatures</a></li>
+<li><a href="style/UltimateCataclysm/terrain.html">Terrain</a></li>
+</ul>
+<h1><a class="header" href="#mshockxotto" id="mshockxotto">MShockXotto+</a></h1>
+<h1><a class="header" href="#hollowmoon" id="hollowmoon">HollowMoon</a></h1>
+<h1><a class="header" href="#how-to" id="how-to">How to</a></h1>
+<p>Some guides that might help</p>
+<ul>
+<li><a href="how-to/./autotiles.html">Multitiles summary</a></li>
+<li><a href="https://github.com/CleverRaven/Cataclysm-DDA/blob/master/doc/TILESET.md#multitile">Multitiles detailed</a> (will open new browser window with main CDDA documentation)</li>
+<li><a href="how-to/./structure.html">Tileset structure</a></li>
+<li><a href="how-to/./Cloning_symlinks_on_windows.html">Windows and Symlinks</a></li>
+</ul>
 <h1><a class="header" href="#tileset-structure" id="tileset-structure">Tileset structure</a></h1>
-<p><em>// TODO: rewrite</em></p>
+<p>//TODO: rewrite document from scratch</p>
 <ul>
 <li>Put files into the best appropriate folder (terrain, furniture, mutations, items, etc).</li>
 <li>Give files a name based on the JSON ID they suit, eg <code>t_floor</code>.</li>
@@ -521,6 +480,146 @@ For easier creation of these variants, multitile-like images can be sliced into 
 </code></pre>
 <p>The script can handle any multitile size, not only 4x4.
 For iso multitiles, use switch <code>--iso</code>.</p>
+<h1><a class="header" href="#multitiles-detailed-info" id="multitiles-detailed-info">Multitiles detailed info</a></h1>
+<h1><a class="header" href="#how-to-clone-chibi-ulticas-symlinks-on-windows" id="how-to-clone-chibi-ulticas-symlinks-on-windows">How to clone Chibi-Ultica's symlinks on Windows</a></h1>
+<p>This guide comes from <a href="https://stackoverflow.com/questions/5917249/git-symlinks-in-windows/52097145#52097145">Stackoverflow</a></p>
+<h2><a class="header" href="#1-make-sure-git-is-installed-with-symlink-support--this-might-require-to-re-install-git-" id="1-make-sure-git-is-installed-with-symlink-support--this-might-require-to-re-install-git-">1. Make sure git is installed with symlink support ( this might require to re install git )</a></h2>
+<p><img src="how-to/image/Git_Enable_Symlinks.png" alt="Enable Symlinks" /></p>
+<h2><a class="header" href="#2-tell-bash-to-create-hardlinks-instead-of-symlinks" id="2-tell-bash-to-create-hardlinks-instead-of-symlinks">2. Tell Bash to create hardlinks instead of symlinks</a></h2>
+<ul>
+<li>
+<p>Edit: <em>(git folder)/etc/bash.bashrc</em></p>
+</li>
+<li>
+<p>Add to bottom: <code>MSYS=winsymlinks:nativestrict</code></p>
+</li>
+</ul>
+<h2><a class="header" href="#3-set-git-config-to-use-symlinks" id="3-set-git-config-to-use-symlinks">3. Set git config to use symlinks</a></h2>
+<ul>
+<li>Run command: <code>git config core.symlinks true</code></li>
+</ul>
+<p>OR if you have not cloned the repo yet</p>
+<ul>
+<li>Run command:<code>git clone -c core.symlinks=true https://github.com/I-am-Erk/CDDA-Tilesets.git</code></li>
+</ul>
+<h2><a class="header" href="#4-pull-the-repo" id="4-pull-the-repo">4. Pull the repo</a></h2>
+<p>NOTE: Unless you have enabled developer mode in the latest version of Windows 10, you need to <strong>run git bash as administrator</strong> to create symlinks</p>
+<h2><a class="header" href="#5-reset-all-symlinks-optional" id="5-reset-all-symlinks-optional">5. Reset all symlinks (optional)</a></h2>
+<p>If you had already cloned the repo before the introduciton of the Chibi_Ultica symlinks, you may find that the symlinks are not being created correctly 
+so to refresh all the symlinks in the repo you can run these commands.</p>
+<pre><code>find -type l -delete
+git reset --hard
+</code></pre>
+<p>NOTE: this will reset any changes since last commit so make sure you have committed first</p>
+<h1><a class="header" href="#tools" id="tools">Tools</a></h1>
+<h1><a class="header" href="#common-tools-scrips" id="common-tools-scrips">Common tools (scrips)</a></h1>
+<p>These are the tools that works the same way on every operating system.</p>
+<p>They supposed to run in shell environment and if you afraid doing so please refer <a href="tools/./windows_wrappers.html">Windows wrappers</a> documentation.</p>
+<h2><a class="header" href="#add_outlinepy" id="add_outlinepy">add_outline.py</a></h2>
+<p>// TODO: Add some info about add_outline.py</p>
+<h2><a class="header" href="#composepy" id="composepy">compose.py</a></h2>
+<p>Please refer <a href="https://github.com/CleverRaven/Cataclysm-DDA/blob/master/doc/TILESET.md#composepy">main CDDA documentation</a> about this tool.</p>
+<h2><a class="header" href="#generate_previewpy" id="generate_previewpy">generate_preview.py</a></h2>
+<p>// TODO: Add some info about generate_preview.py</p>
+<p>// TODO: Add link to how-to/preview section</p>
+<h2><a class="header" href="#recolor_season_variantspy" id="recolor_season_variantspy">recolor_season_variants.py</a></h2>
+<p>// TODO: Add some info about recolor_season_variants.py</p>
+<h2><a class="header" href="#slicers" id="slicers">Slicers</a></h2>
+<h3><a class="header" href="#slice_multitilepy" id="slice_multitilepy">slice_multitile.py</a></h3>
+<p>// TODO: Add some info about slice_multitile.py</p>
+<h3><a class="header" href="#slice_variantspy" id="slice_variantspy">slice_variants.py</a></h3>
+<p>// TODO: Add some info about slice_variants.py</p>
+<h3><a class="header" href="#unslice_multitilepy" id="unslice_multitilepy">unslice_multitile.py</a></h3>
+<p>// TODO: Add some info about unslice_multitile.py</p>
+<h1><a class="header" href="#windows-wrappers-for-common-tools" id="windows-wrappers-for-common-tools">Windows Wrappers for Common Tools</a></h1>
+<p>For more detailed information, please refer to the <a href="tools/./common_tools.html">Common Tools</a> section.</p>
+<p>We understand that artists may want to participate in tilesets, but not everyone is familiar with programmer's tools and environments. To optimize artists' time and workflow, we provide some wrappers that offer automation with preferred interactions such as double-clicking and drag-and-drop.</p>
+<p>These wrappers might have less functionality, but in most cases, their results are acceptable.</p>
+<h2><a class="header" href="#infrastructure-building-tools" id="infrastructure-building-tools">Infrastructure Building Tools</a></h2>
+<p>// TODO: Remember to update this section when 'updtset.cmd' is divided.</p>
+<h3><a class="header" href="#1-installation" id="1-installation">1) Installation</a></h3>
+<p>To work with tilesets and test them in the game, you need a clone of the tileset repository on your drive and download the game itself. You can refer to <a href="tools/../installation_windows.html">this</a> page for details.</p>
+<p>The current <code>updtset.cmd</code> wrapper is written for the <strong>Windows Command Shell</strong> and is supposed to run on every Windows version from Windows XP to Windows 11 23H2. However, according to <a href="https://www.statista.com/statistics/265033/proportion-of-operating-systems-used-on-the-online-gaming-platform-steam/">this</a> statistic, older Windows versions can be excluded and the script can be rewritten in <strong>Powershell</strong>.</p>
+<p>At this time, the installation of necessary environment tools is tied together with preparation steps and the composing process.</p>
+<p>The installation tool <code>updtset.cmd</code> will install the following on its first run:</p>
+<ul>
+<li>Python</li>
+<li>Necessary Python modules (pyvips and numpy)</li>
+<li>Necessary VIPS library and binaries</li>
+</ul>
+<p><code>git_symlinks.cmd</code> is a small script that runs commands necessary for symlinks to work in the repository. However, there is another method described <a href="tools/../how-to/Cloning_symlinks_on_windows.html">here</a>.</p>
+<h3><a class="header" href="#2-preparation" id="2-preparation">2) Preparation</a></h3>
+<p><em>There are some additional small scripts that are also written for the <strong>Windows Command Shell</strong> and should be rewritten in <strong>Python</strong> later, as <strong>Powershell</strong> does not support drag-and-drop over ps1 files.</em></p>
+<p><code>set_game_path.cmd</code> is a subtool that can be run separately from <code>updtset.cmd</code> and will set an environment variable pointing to the game. If you want to check your modified/added sprites in the game, tools need to know where the game is.</p>
+<p><code>set_tileset.cmd</code> - This subtool will fix a tileset for future composing runs. It is helpful if you prefer to work on only one tileset.</p>
+<p><code>set_vips_path.cmd</code> - This subtool allows you to define another <code>libvips</code> location.</p>
+<p>All these wrappers can be launched by dragging and dropping the appropriate folder over them. They will check if that folder has the correct files (game executable, libvips binary) and set the corresponding Windows user environment variable.
+Here's the revised version with improved style and grammar:</p>
+<h2><a class="header" href="#slicer" id="slicer">Slicer</a></h2>
+<p>The Slicer wrapper, <code>slicemt.py</code>, is a wrapper for the <a href="tools/./common_tools.html">common tools</a> and performs the most repetitive process - slicing source files and composing tilesets. However, it cannot perform complex tasks such as multivariate multitile slicing or animation creation.</p>
+<p>If you need to slice multitiles and check the result in the game, you can do the following:</p>
+<ol>
+<li>Create a shortcut for <code>slicemt.py</code> on your desktop.</li>
+<li>Create a <code>source</code> subfolder in the <code>object folder</code> inside a tileset repository.</li>
+<li>Export a png file from your graphic editor to this <code>source</code> folder and name this multitile source accordingly.</li>
+<li>Drag-and-drop the <code>source</code> folder over the said shortcut.</li>
+</ol>
+<p>You will receive 16  sprites and a json file that will be used for composing. You may leave the <code>source</code> folder in the repository as it is ignored in the PR process. (<a href="https://github.com/I-am-Erk/CDDA-Tilesets/pull/2249#issue-2046838285">example with screenshots</a>)</p>
+<p>Under the hood, the following process occurs:</p>
+<ol>
+<li>
+<p>The script (<code>slicemt.py</code>) will try to check if there is a <code>source</code> folder to work on. If it was launched from the CLI inside the <code>object folder</code>, it will try to find the <code>source</code> folder one level deeper.</p>
+</li>
+<li>
+<p>If the script can find a folder with <code>png</code> at the beginning and <code>NxM</code> following, it will assume that it runs in a tileset repository and <code>NxM</code> are sprite dimensions. This will allow it to make an assumption about where <code>updtset.cmd</code> is located.</p>
+<p>Otherwise, the script will stop working.</p>
+</li>
+<li>
+<p>The script will try to make four different checks. Each check will try to find source files with a special name pattern. But you do not need to provide all of them. I will use <code>t_floor</code> as an example tile name.</p>
+<ul>
+<li>
+<p><strong>Slicing Variants</strong></p>
+<p>The pattern is <code>*_var*.png</code> so you can provide following files: <em>t_floor_var_1.png</em> or <em>t_floor_variants.png</em> each file will be sliced into 16  separate files and each file will have a name t_floor_var_XX.png, where XX is a number from 00 to 15.</p>
+<p>If you provide more than one source file (for example <em>t_floor_var_1.png</em> and <em>t_floor_var_2.png</em>) you will receive 32 files numbered from 00 to 31.</p>
+<p>In this and only in this case (slicing variants), you may provide a source file with a name different from the object name (t_floor). It can be used if you want to have variants for a subtile.</p>
+<p>Providing a source file named <code>t_floor_unconnected_variants.png</code> will produce variants named <code>t_floor_unconnected_var_XX.png</code>.</p>
+<p>Running this script over the same <code>source</code> folder with only one variant source file two (or more) times will produce separate images with names numbered from 00 to 31 (or even more). So each run will append the existing set of variants.</p>
+<p>Do not forget to empty the <code>object folder</code> for each slice run.</p>
+</li>
+<li>
+<p><strong>Slicing Simple Multitile</strong></p>
+<p>The second pattern is <code>object name</code>+<code>.png</code> so for our example, it will check for <code>t_floor.png</code> in the <code>source</code> folder and treat it as a multitile source.</p>
+<p>Slicing this source will provide 16 named as multitile sub-tiles and a json file (<code>t_floor.json</code>).</p>
+<p>This is the most common usage of this wrapper.</p>
+</li>
+<li>
+<p><strong>Slicing Transparent Multitile</strong></p>
+<p>The third pattern is <code>object name</code>+<code>_t*.png</code> so you can provide names like <code>t_floor_transparent.png</code>, <code>t_floor_trans.png</code> or even <code>t_floor_t.png</code>. The resulting set will be named as <code>t_floor_transparent</code> and consists of 16 subtile images and a json file.</p>
+<p>This pattern/name is useful for high objects and the game can swap them in close proximity to the player.</p>
+<p>Please read <a href="https://github.com/CleverRaven/Cataclysm-DDA/blob/master/doc/TILESET.md#optional-transparent-variant">this</a> document.</p>
+</li>
+<li>
+<p><strong>Seasonal Multitiles</strong></p>
+<p>Same as simple multitile, but the pattern is:</p>
+<pre><code>  object_name_winter*.png
+  object_name_spring*.png
+  object_name_summer*.png
+  object_name_autumn*.png
+</code></pre>
+<p>Resulting sets will have names like <code>t_floor_season_winter</code>, etc.</p>
+</li>
+<li>
+<p><strong>Seasonal Transparent Multitiles</strong></p>
+<p>Everything is similar to the previous sections, except for the pattern.
+<code>objectname_seasonname_t*.png</code> - <code>t_floor_winter_t.png</code> will work.</p>
+</li>
+</ul>
+<p>After slicing, the script will run <code>updtset.cmd</code> with the tileset name inferred from the path.</p>
+</li>
+</ol>
+<h2><a class="header" href="#composer" id="composer">Composer</a></h2>
+<p>For now, simply run <code>updtset.cmd</code>.</p>
+<h1><a class="header" href="#main-cdda-documentation" id="main-cdda-documentation">main CDDA documentation</a></h1>
 
                     </main>
 
