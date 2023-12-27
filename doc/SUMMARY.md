@@ -5,8 +5,8 @@
   - [Nix](./installation_nix.md)
 - [Style guidelines](./style/summary.md)
     - [UltimateCataclysm (UltiCa)](./style/UltimateCataclysm/summary.md)
-    - [MShockXotto+](./style/MShockXotto+/summary.md)
-    - [HollowMoon](./style/HollowMoon/summary.md)
+    - [MShockXotto+](./style/MShockXotto+/SUMMARY.md)
+    - [HollowMoon](./style/HollowMoon/SUMMARY.md)
 
 - [How to](./how-to/summary.md)
     - [Tileset structure](./how-to/structure.md)
