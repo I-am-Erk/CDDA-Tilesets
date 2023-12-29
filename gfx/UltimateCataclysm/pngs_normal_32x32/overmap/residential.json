@@ -101,8 +101,6 @@
       "urban_1_1",
       "urban_1_3",
       "urban_1_6",
-      "urban_3_1",
-      "urban_3_2",
       "urban_7_1",
       "urban_7_2",
       "urban_8_1",
@@ -129,10 +127,6 @@
       "urban_29_8",
       "urban_29_9",
       "urban_29_10",
-      "urban_3_3",
-      "urban_3_4",
-      "urban_3_5",
-      "urban_3_6",
       "urban_7_3",
       "urban_7_4",
       "urban_7_5",
@@ -191,6 +185,8 @@
   },
   {
     "id": [
+      "urban_3_1",
+      "urban_3_2",
       "urban_5_1",
       "urban_5_2",
       "urban_6_1",
@@ -203,13 +199,36 @@
     "rotates": true
   },
   {
-    "id": [ "urban_1_4", "urban_4_5", "urban_4_6", "urban_4_7", "urban_4_8", "urban_2_3", "urban_2_4", "urban_2_5", "urban_2_6" ],
+    "id": [
+      "urban_1_4",
+      "urban_4_5",
+      "urban_4_6",
+      "urban_4_7",
+      "urban_4_8",
+      "urban_2_3",
+      "urban_2_4",
+      "urban_2_5",
+      "urban_2_6"
+    ],
     "fg": [ "otr_house_1_faceS", "otr_house_1_faceE", "otr_house_1_faceN", "otr_house_1_faceW" ],
     "bg": "open_air",
     "rotates": true
   },
   {
-    "id": [ "urban_5_3", "urban_5_4", "urban_5_5", "urban_5_6", "urban_6_3", "urban_6_4", "urban_6_5", "urban_6_6" ],
+    "id": [
+      "urban_3_3",
+      "urban_3_4",
+      "urban_3_5",
+      "urban_3_6",
+      "urban_5_3",
+      "urban_5_4",
+      "urban_5_5",
+      "urban_5_6",
+      "urban_6_3",
+      "urban_6_4",
+      "urban_6_5",
+      "urban_6_6"
+    ],
     "fg": [ "otr_house_1_faceN", "otr_house_1_faceE", "otr_house_1_faceS", "otr_house_1_faceW" ],
     "bg": "open_air",
     "rotates": true
