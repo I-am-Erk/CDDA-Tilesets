@@ -1,0 +1,340 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>General info - UltimateCataclysm — Documentation</title>
+        
+        
+
+
+        <!-- Custom HTML head -->
+        
+
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../../favicon.svg">
+        <link rel="shortcut icon" href="../../favicon.png">
+        <link rel="stylesheet" href="../../css/variables.css">
+        <link rel="stylesheet" href="../../css/general.css">
+        <link rel="stylesheet" href="../../css/chrome.css">
+        <link rel="stylesheet" href="../../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+        
+        <link rel="stylesheet" href="../../fonts/fonts.css">
+        
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../highlight.css">
+        <link rel="stylesheet" href="../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../../installation.html"><strong aria-hidden="true">1.</strong> Installation &amp; Building</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../installation_windows.html"><strong aria-hidden="true">1.1.</strong> Windows guide</a></li><li class="chapter-item expanded "><a href="../../installation_nix.html"><strong aria-hidden="true">1.2.</strong> Nix</a></li></ol></li><li class="chapter-item expanded "><a href="../../style/summary.html"><strong aria-hidden="true">2.</strong> Style guidelines</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../style/UltimateCataclysm/summary.html"><strong aria-hidden="true">2.1.</strong> UltimateCataclysm (UltiCa)</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../style/UltimateCataclysm/general.html"><strong aria-hidden="true">2.1.1.</strong> General info</a></li><li class="chapter-item expanded "><a href="../../style/UltimateCataclysm/terrain-furniture.html"><strong aria-hidden="true">2.1.2.</strong> Terrain/Furniture</a></li><li class="chapter-item expanded "><a href="../../style/UltimateCataclysm/creatures.html"><strong aria-hidden="true">2.1.3.</strong> Creatures</a></li><li class="chapter-item expanded "><a href="../../style/UltimateCataclysm/overlay.html"><strong aria-hidden="true">2.1.4.</strong> Overlays</a></li><li class="chapter-item expanded "><a href="../../style/UltimateCataclysm/items.html"><strong aria-hidden="true">2.1.5.</strong> Items</a></li></ol></li><li class="chapter-item expanded "><a href="../../style/MShockXotto+/SUMMARY.html"><strong aria-hidden="true">2.2.</strong> MShockXotto+</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../style/MShockXotto+/index.html"><strong aria-hidden="true">2.2.1.</strong> General info</a></li></ol></li><li class="chapter-item expanded "><a href="../../style/HollowMoon/SUMMARY.html"><strong aria-hidden="true">2.3.</strong> HollowMoon</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../style/HollowMoon/index.html" class="active"><strong aria-hidden="true">2.3.1.</strong> General info</a></li><li class="chapter-item expanded "><a href="../../style/HollowMoon/terrain.html"><strong aria-hidden="true">2.3.2.</strong> Terrain</a></li><li class="chapter-item expanded "><a href="../../style/HollowMoon/walls.html"><strong aria-hidden="true">2.3.3.</strong> Walls</a></li><li class="chapter-item expanded "><a href="../../style/HollowMoon/overlay.html"><strong aria-hidden="true">2.3.4.</strong> Overlay</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="../../how-to/summary.html"><strong aria-hidden="true">3.</strong> How to</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../how-to/structure.html"><strong aria-hidden="true">3.1.</strong> Tileset structure</a></li><li class="chapter-item expanded "><a href="../../how-to/autotiles.html"><strong aria-hidden="true">3.2.</strong> Autotiles/Multitiles</a></li><li class="chapter-item expanded "><a href="../../https://github.com/CleverRaven/Cataclysm-DDA/blob/master/doc/TILESET.html"><strong aria-hidden="true">3.3.</strong> Multitiles detailed info</a></li><li class="chapter-item expanded "><a href="../../how-to/Cloning_symlinks_on_windows.html"><strong aria-hidden="true">3.4.</strong> Windows and symlinks</a></li></ol></li><li class="chapter-item expanded "><a href="../../tools/summary.html"><strong aria-hidden="true">4.</strong> Tools</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../tools/common_tools.html"><strong aria-hidden="true">4.1.</strong> Common tools</a></li><li class="chapter-item expanded "><a href="../../tools/windows_wrappers.html"><strong aria-hidden="true">4.2.</strong> Windows wrappers</a></li></ol></li><li class="chapter-item expanded "><a href="../../https://github.com/CleverRaven/Cataclysm-DDA/blob/db3054e61b77fd16ef15961714bff97c4b5aac0c/doc/TILESET.html">main CDDA documentation</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">UltimateCataclysm — Documentation</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                        <a href="https://github.com/I-am-Erk/CDDA-Tilesets" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1><a class="header" href="#general-style-guidelines" id="general-style-guidelines">General style guidelines</a></h1>
+<p>A bunch of rules that can be applied for every type of sprite.</p>
+<h2><a class="header" href="#summary" id="summary">Summary</a></h2>
+<p>In general you should focus on keeping things simple, eye catching and visually interesting where possible.
+When in doubt about something you can contact Joshuu on the discord or <a href="https://github.com/secretstamos">secretstamos</a> on Github. If you do, please send the original file to make helping you easier. </p>
+<h2><a class="header" href="#use-a-limited-set-of-colors-as-in-pseudo-16-bit-format" id="use-a-limited-set-of-colors-as-in-pseudo-16-bit-format">Use a limited set of colors as in pseudo-16 bit format</a></h2>
+<p><img src="image/example.png" alt="example" /></p>
+<p>Colors are exclusively limited to four <a href="#rgb-values">main colors</a> in HollowMoon per season. You only need to submit sprites in the one color scheme - the <a href="#script">script</a> can handle the other seasons.</p>
+<p><img src="image/colors.png" alt="colors" /></p>
+<p>Note: You <strong>must</strong> use these <a href="#rgb-values">colors</a> in their exacts. The <a href="#script">script</a> cannot detect any other colors.</p>
+<h2><a class="header" href="#use-hard-edges-and-borders-around-everything" id="use-hard-edges-and-borders-around-everything">Use hard edges and borders around everything</a></h2>
+<p><img src="image/item_borders.png" alt="item_borders" /></p>
+<p>Everything needs a hard edge and a border. The edge should be in a dark color and the border should be in the lightest color. </p>
+<h2><a class="header" href="#shadows-are-allowed-for-items-and-furniture" id="shadows-are-allowed-for-items-and-furniture">Shadows are allowed for items and furniture</a></h2>
+<p>You are allowed and encouraged to use shadows outside of borders for world objects and characters.</p>
+<p><img src="image/furniture_borders.png" alt="furniture_borders" /></p>
+<p>Shadows for items however must maintain the bottom border. See:</p>
+<p><img src="image/shadows.png" alt="shadows" /></p>
+<h2><a class="header" href="#light-direction-illumination-and-dark-areas" id="light-direction-illumination-and-dark-areas">Light direction, illumination and dark areas</a></h2>
+<p>General location of the sun (or light in general) is top left.</p>
+<p>Light is coming from the top left side (illuminated areas) towards the bottom right side (darker areas, shadows).</p>
+<p><img src="image/sun.png" alt="sun" /></p>
+<h3><a class="header" href="#illumination-of-round-objects-like-orbs" id="illumination-of-round-objects-like-orbs">Illumination of round objects, like orbs</a></h3>
+<p>Same goes for round objects. Mind that different surfaces reflect light differently.</p>
+<p><img src="image/the_orb.png" alt="orb" /></p>
+<p><img src="image/the_orb_the_orb.png" alt="orbs" /></p>
+<h2><a class="header" href="#keep-it-light-and-fluffy" id="keep-it-light-and-fluffy">Keep it light and fluffy</a></h2>
+<p>A very important goal of this set - keep things generally thick and fluffy wherever possible. It is important to disregard reality and detail in situations where they might hinder the final product's readability.</p>
+<p>A whip, for example, is a very long and thin object. While you might initially think that a whip would be a single pixel wide (as it would be, realistically) this wouldn't be a good idea. </p>
+<p><img src="image/thickness.png" alt="thickness" /></p>
+<p>As seen in the above image, while the left whip retains a similar form to the acceptable whip, it is too thin and realistic for the set. It is needed to thicken out.
+Likewise, the center right whip might be realistically sized, but this level of detail does nothing to help and only exceeds its welcome. 
+The far right image is structurally identical to the acceptable whip but it does not pop. Without simple highlights, it blends together and doesn't look very good at all. </p>
+<p>Please keep these in mind, especially when doing ropes, chains, plants, fences and other thin objects. </p>
+<h2><a class="header" href="#revisions-happen" id="revisions-happen">Revisions happen</a></h2>
+<p>Lastly it is important to recognize that revisions are bound to happen. I will periodically perform content revisions from time to time. </p>
+<h2><a class="header" href="#the-scrapbook-and-how-to-use-it" id="the-scrapbook-and-how-to-use-it">The Scrapbook and how to use it</a></h2>
+<p>There are two files that are referenced as 'the Scrapbook' or 'the Sketchbook'</p>
+<ol>
+<li>
+<p><a href="https://github.com/I-am-Erk/CDDA-Tilesets/blob/master/gfx/HollowMoon/scrap/Lots_and_lots_of_sprites_by_secretstamos_to_sort_edited.png">First file</a> is a PNG file with sorted unimplemented sprites, that can be implemented as is or after some changes according to the style of the tileset.</p>
+</li>
+<li>
+<p><a href="https://github.com/I-am-Erk/CDDA-Tilesets/blob/master/gfx/HollowMoon/scrap/Lots_and_lots_of_sprites_by_secretstamos_to_sort.png">Second file</a> is a PNG file with unsorted sprites, both implemented and unimplemented. Use it as a resource to fuel your imagination when you create new sprites, as it can be a valuable insight of the general feel of the tileset. Remember though, that this is still just a sketchbook full of prototypes, unfinished images, and concept art - so not everything there is compliant to the offcial style of the tileset. Do not change this file.</p>
+</li>
+</ol>
+<p>When deciding to make a new sprite, be sure to check the <a href="https://github.com/I-am-Erk/CDDA-Tilesets/tree/master/gfx/HollowMoon/scrap">scrap section</a> to see if it already exists, and in particular the <a href="https://github.com/I-am-Erk/CDDA-Tilesets/blob/master/gfx/HollowMoon/scrap/Lots_and_lots_of_sprites_by_secretstamos_to_sort_edited.png">First file mentioned above</a>. There are plenty of sprites that are already finished that haven't been implemented yet. 
+When you decide to implement it, remove the sprite from the file.</p>
+<p>Once you're certain it hasn't been already been done, that is a great time to start. Otherwise use the sprite in the scrapbook to implement it in the tileset.</p>
+<h2><a class="header" href="#detailed-guides" id="detailed-guides">Detailed guides</a></h2>
+<ul>
+<li><a href="https://github.com/I-am-Erk/CDDA-Tilesets/blob/master/doc/style/HollowMoon/overlay.md">Overlay</a></li>
+<li><a href="https://github.com/I-am-Erk/CDDA-Tilesets/blob/master/doc/style/HollowMoon/terrain.md">Terrain</a></li>
+<li><a href="https://github.com/I-am-Erk/CDDA-Tilesets/blob/master/doc/style/HollowMoon/walls.md">Walls</a></li>
+</ul>
+<h2><a class="header" href="#script" id="script">Script</a></h2>
+<p>There is a Python helper script named: <strong>recolor_season_variants.py</strong></p>
+<p>Creating seasonal variants of your tiles manualy is inconvenient.
+This is where Python script comes in to handle this job for you.
+It creates recolored seasonal variations for sprites in target folder or even all subfolders for HollowMoon tileset.
+It requires a PNG file made in one of the seasonal palettes.</p>
+<p><strong>Usage</strong>:</p>
+<ol>
+<li>
+<p>Create a PNG sprite in any consistent palette allowed by HollowMoon tileset.
+For transparency use background color allowed by the tileset, it will be replaced 
+by the script with true transparency.</p>
+</li>
+<li>
+<p>Create a subfolder and name it using target file's name (for example 't_dirt').
+Name should correspond to how the game names relevant object (terrain, furniture, etc.).</p>
+</li>
+<li>
+<p>Name your source PNG file {season}.png (for example summer.png) where {season} 
+corresponds to the palette you used to create the sprite.
+If you used a spring palette you can also call it 'generic.png'.</p>
+</li>
+<li>
+<p>Place the file in the created subfolder and run the script targeting that folder.
+Script will also target subfolders so you can run it for the whole tileset folder.</p>
+</li>
+</ol>
+<h2><a class="header" href="#rgb-values" id="rgb-values">RGB values</a></h2>
+<p>Here are exact <strong>RGB values of colors</strong> used in each and every palette:</p>
+<ul>
+<li>
+<p><strong>Spring RGB</strong>: (240, 236, 187), (181, 175, 105), (115, 130, 92), (95, 76, 53),</p>
+</li>
+<li>
+<p><strong>Summer RGB</strong>: (255, 216, 148), (194, 176, 107), (83, 138, 106), (73, 75, 88),</p>
+</li>
+<li>
+<p><strong>Autumn RGB</strong>: (230, 227, 171), (216, 147, 110), (163, 100, 92), (90, 68, 72),</p>
+</li>
+<li>
+<p><strong>Winter RGB</strong>: (254, 254, 254), (203, 200, 218), (137, 119, 142), (90, 68, 72)</p>
+</li>
+<li>
+<p><strong>Background</strong> (for the script transparency): 21, 19, 21 (equal to HTML 151315)
+Background is translated to true transparency of: (255, 255, 255, 0) by the script.</p>
+</li>
+</ul>
+<h2><a class="header" href="#faq" id="faq">FAQ</a></h2>
+<p><strong>Q:</strong> There are some &quot;shadow&quot; sprites consisting of only outlined dark body. Are they allowed or are they placeholders?<br />
+<img src="image/shadow_sprites.png" alt="shadow sprites" /><br />
+<strong>A:</strong> The &quot;shadow&quot; sprites are to be used for small monsters that don't need detail or would look bad with detail.
+In other cases (like items) they are to be enlarged enough to utilize the palette - remember: readability first.
+&quot;Shadow&quot; sprites can be <strong>sparingly</strong> used as placeholders.</p>
+<h2><a class="header" href="#thanks-for-reading-good-luck-out-there" id="thanks-for-reading-good-luck-out-there">Thanks for reading! Good luck out there</a></h2>
+<p><img src="image/check.png" alt="check" /></p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="../../style/HollowMoon/SUMMARY.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="../../style/HollowMoon/terrain.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a rel="prev" href="../../style/HollowMoon/SUMMARY.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="../../style/HollowMoon/terrain.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>
