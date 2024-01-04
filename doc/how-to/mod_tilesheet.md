@@ -46,7 +46,7 @@ Now you need to create the final file: `tile_info.json` with following content:
 
 ## Composing the "tileset"
 
-Use `updtset.cmd` tool as usually. Your new dummy tileset will appear in the list of source tilesets available for composing.
+Use `updtset.cmd` tool as usual (you may refer to this [doc](../tools/windows_wrappers.md#composer)). Your new dummy tileset will appear in the list of source tilesets available for composing.
 
 If you did everything right you will get the composed tileset in your game directory `Cataclysm\gfx\my_mod`.
 
@@ -57,3 +57,39 @@ You will get:
 | :bar_chart:my_mod_sprites.png | your composed tilesheet |
 | :memo:tile_config.json | you need to fix it a bit |
 | :memo:tileset.txt | to be deleted |
+
+Check my_mod_sprites.png - this file should contain all your sprites.
+
+## Fixing the json
+
+Resulting `tile_config.json` supposed to be for a full tileset, so you need to fix it first. Open it in any text editor, copy all content and past it here: [CDDA json linter](https://dev.narc.ro/cataclysm/format.html) and press "LINT" button below.
+
+Now this file content can be easily readable. You will get something like this:
+
+```json
+{
+  "tile_info": [
+    ...
+  ],
+  "tiles-new": [
+    {
+      "file": "my_mod_sprites.png",
+      "//": "range from 1 to X",
+      "sprite_width": 32,
+      "sprite_height": 48,
+      "sprite_offset_x": 0,
+      "sprite_offset_y": 0,
+      "tiles": [
+        ...
+      ]
+    },
+    {
+      "file": "fallback.png",
+      "tiles": [],
+      "ascii": [
+        ...
+      ]
+    }
+  ]
+}
+```
