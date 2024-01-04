@@ -196,7 +196,7 @@ if errorlevel 1 (
 if /i [!verbose!] EQU [YES] (echo    - %APP% found.)
 %APP% --version
 
-pip install --upgrade pip --no-color 1>nul
+%APP% -m pip install --upgrade pip --no-color 1>nul
 
 pip show pyvips --no-color 1>nul
 if errorlevel 1 (
