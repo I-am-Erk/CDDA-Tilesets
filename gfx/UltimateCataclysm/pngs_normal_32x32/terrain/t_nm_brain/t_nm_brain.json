@@ -1,0 +1,57 @@
+[
+  {
+    "id": "t_nm_brain",
+    "fg": "t_nm_brain_unconnected",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "center",
+        "fg": [
+          { "weight": 1, "sprite": "t_nm_brain_center" },
+          { "weight": 1, "sprite": "t_nm_brain_center2" },
+          { "weight": 1, "sprite": "t_nm_brain_center3" },
+          { "weight": 1, "sprite": "t_nm_brain_center4" }
+        ]
+      },
+      {
+        "id": "corner",
+        "fg": [
+          "t_nm_brain_corner_nw",
+          "t_nm_brain_corner_sw",
+          "t_nm_brain_corner_se",
+          "t_nm_brain_corner_ne"
+        ],
+        "bg": "t_nm_floor_flesh"
+      },
+      {
+        "id": "t_connection",
+        "fg": [
+          "t_nm_brain_t_connection_n",
+          "t_nm_brain_t_connection_w",
+          "t_nm_brain_t_connection_s",
+          "t_nm_brain_t_connection_e"
+        ]
+      },
+      {
+        "id": "edge",
+        "fg": [
+          "t_nm_brain_edge_ns",
+          "t_nm_brain_edge_ew"
+        ]
+      },
+      {
+        "id": "end_piece",
+        "fg": [
+          "t_nm_brain_end_piece_n",
+          "t_nm_brain_end_piece_w",
+          "t_nm_brain_end_piece_s",
+          "t_nm_brain_end_piece_e"
+        ]
+      },
+      {
+        "id": "unconnected",
+        "fg": "t_nm_brain_unconnected"
+      }
+    ]
+  }
+]
