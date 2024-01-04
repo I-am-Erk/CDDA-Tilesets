@@ -93,3 +93,51 @@ Now this file content can be easily readable. You will get something like this:
   ]
 }
 ```
+
+You need to do the following:
+
+1) Remove `tile_info` section.
+2) Instead add the following content before `tiles-new` section:
+
+    ```json
+      "type": "mod_tileset",
+      "compatibility": [
+        "Chibi_Ultica",
+        "MShockXottoPlus"
+      ],
+    ```
+
+3) Remove comma between `my_mod_sprites` and `fallback` sections.
+4) Remove `fallback` section. Tileset will handle fallbacks.
+5) Wrap all text into square brackets `[ ]`.
+6) Fix offset values. In our demostration case `sprite_offset_y` will be `-16`.
+7) Be sure to include right tileset names into `compatibility`.
+
+You will get something like this:
+
+```json
+[
+  {
+    "type": "mod_tileset",
+    "compatibility": [
+      "Chibi_Ultica",
+      "MShockXottoPlus"
+    ],
+    "tiles-new": [
+      {
+        "file": "my_mod_sprites.png",
+        "//": "range from 1 to X",
+        "sprite_width": 32,
+        "sprite_height": 48,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": -16,
+        "tiles": [
+          ...
+        ]
+      }
+    ]
+  }
+]
+```
+
+Now you can use your mod tilesheet.

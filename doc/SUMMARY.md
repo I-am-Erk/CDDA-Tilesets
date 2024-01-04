@@ -22,6 +22,7 @@
   - [Autotiles/Multitiles](./how-to/autotiles.md)
   - [Multitiles detailed info](https://github.com/CleverRaven/Cataclysm-DDA/blob/master/doc/TILESET.md#multitile) (new browser window with man CDDA doc)
   - [Windows and symlinks](./how-to/Cloning_symlinks_on_windows.md)
+  - [Creating a mod tilesheet](./how-to/mod_tilesheet.md)
 - [Tools](./tools/summary.md)
   - [Common tools](./tools/common_tools.md)
   - [Windows wrappers](./tools/windows_wrappers.md)
