@@ -1,4 +1,4 @@
-# General
+# MShockXotto+ style guide
 
 MShockXotto+ was originally the mashup of the MShock and the Xotto tileset, both of which were already build on a few other tilesets. This means that MSX never had a strong style guide.
 And it still has not, the present style guide will list a few rules to follow but since MSX is a patchwork of different styles there's a lot of wriggle around the guide.
@@ -8,14 +8,14 @@ The main thing that we want to keep from the previous tilesets is the anime/cart
 - Clean texture without random noise
 - Keep the colour count per material (bone, meat, cotton, wood, metal etc...) low, around 3-4 per material.
 
-# Monsters
+## Monsters
 
 ![monsters](image/monsters.png)
 
 - Black outline RGBA(0,0,0,255)
 - Round shadow directly below the monster RGBA(0,0,0,115)
 
-# Items
+## Items
 
 ![items](image/items.png)
 
@@ -23,19 +23,19 @@ The main thing that we want to keep from the previous tilesets is the anime/cart
 - Items should be roughly scaled to the character, meaning that small object like pens and box cutter should be 20x20 and big items like disconnected oven should be 32x32.
 - However, magnified items, like this 32x32 cooked meat sprite, are still okay for the sake of being easy to recognise and looking nice.
 
-  ## Grades of Steel
+### Grades of Steel
 
   ![Grades of Steel](image/steel_palettes.png)
 
   Use those palettes to differentiate the various grade of steel in items
 
-# Furnitures
+## Furnitures
 
 ![furnitures](image/furnitures.png)
 
 - Outline using a less-saturated, darker color taken from the sprite's palette.
 
-# Terrain
+## Terrain
 
 ![terrain](image/terrain.png)
 
