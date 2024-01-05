@@ -196,7 +196,7 @@ if errorlevel 1 (
 if /i [!verbose!] EQU [YES] (echo    - %APP% found.)
 %APP% --version
 
-pip install --upgrade pip --no-color 1>nul
+%APP% -m pip install --upgrade pip --no-color 1>nul
 
 pip show pyvips --no-color 1>nul
 if errorlevel 1 (
@@ -226,10 +226,12 @@ where /q %LIBVIPS_PATH%\bin:vips.exe
 if errorlevel 1 (
     echo ERROR^^^! No 'libvips' library found. Please refer installation manual:
     echo https://libvips.github.io/libvips/install.html
-    echo If you are sure that library was installed - please check library version and 'path' environment variable.
+    echo Please also read this documentation:
+    echo https://i-am-erk.github.io/CDDA-Tilesets/installation_windows.html#python-and-components
+    echo If you are sure that library was installed - please check library version and 'LIBVIPS_PATH' environment variable.
     echo Script will try to download libvips 8.15 into your home directory, try to run this script again after this.
     echo.
-    curl https://github.com/libvips/build-win64-mxe/releases/download/v8.15.0/vips-dev-w64-web-8.15.0.zip -L -o %HOMEDRIVE%%HOMEPATH%\vips-dev-w64-web-8.15.0.zip
+    curl https://github.com/libvips/build-win64-mxe/releases/download/v8.15.0/vips-dev-w64-web-8.15.0.zip -L -o %HOMEDRIVE%%HOMEPATH%\vips-dev-w64-web-8.15.0.zip -k
 
     call :UnZipFile "%HOMEDRIVE%%HOMEPATH%\vips" "%HOMEDRIVE%%HOMEPATH%\vips-dev-w64-web-8.15.0.zip"
     call set_vips_path.cmd %HOMEDRIVE%%HOMEPATH%\vips\vips-dev-8.15\
