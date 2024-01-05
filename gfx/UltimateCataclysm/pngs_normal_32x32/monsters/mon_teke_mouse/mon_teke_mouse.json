@@ -1,0 +1,11 @@
+{
+  "id": "mon_teke_mouse",
+  "fg": [
+    { "weight": 1, "sprite": "mon_teke_mouse_1" },
+    { "weight": 1, "sprite": "mon_teke_mouse_2" },
+    { "weight": 1, "sprite": "mon_teke_mouse_3" },
+    { "weight": 1, "sprite": "mon_teke_mouse_4" },
+    { "weight": 1, "sprite": "mon_teke_mouse_5" }
+  ],
+  "bg": "shadow_32x32_small"
+}
