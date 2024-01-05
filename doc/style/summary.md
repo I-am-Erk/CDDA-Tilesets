@@ -5,6 +5,7 @@ Not because it's important to keep the tileset consistent, but also to make thin
 Without strict rules, any tileset will quickly turn itself into a pixels mash up.
 
 Different tilesets have different guides:
- - [UltimateCataclysm (Ultica)](./UltimateCataclysm/summary.md)
- - [MShockXotto+](./MShockXotto+/summary.md)
- - [HollowMoon](./HollowMoon/summary.md)
+
+- [UltimateCataclysm (Ultica)](./UltimateCataclysm/summary.md)
+- [MShockXotto+](./MShockXotto+/summary.md)
+- [HollowMoon](./HollowMoon/summary.md)
