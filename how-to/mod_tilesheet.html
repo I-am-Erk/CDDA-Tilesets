@@ -1,0 +1,358 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Creating a mod tilesheet - UltimateCataclysm — Documentation</title>
+        
+        
+
+
+        <!-- Custom HTML head -->
+        
+
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../favicon.svg">
+        <link rel="shortcut icon" href="../favicon.png">
+        <link rel="stylesheet" href="../css/variables.css">
+        <link rel="stylesheet" href="../css/general.css">
+        <link rel="stylesheet" href="../css/chrome.css">
+        <link rel="stylesheet" href="../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../FontAwesome/css/font-awesome.css">
+        
+        <link rel="stylesheet" href="../fonts/fonts.css">
+        
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../highlight.css">
+        <link rel="stylesheet" href="../tomorrow-night.css">
+        <link rel="stylesheet" href="../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+
+        
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../installation.html"><strong aria-hidden="true">1.</strong> Installation &amp; Building</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../installation_windows.html"><strong aria-hidden="true">1.1.</strong> Windows guide</a></li><li class="chapter-item expanded "><a href="../installation_nix.html"><strong aria-hidden="true">1.2.</strong> Nix</a></li></ol></li><li class="chapter-item expanded "><a href="../style/summary.html"><strong aria-hidden="true">2.</strong> Style guidelines</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../style/UltimateCataclysm/summary.html"><strong aria-hidden="true">2.1.</strong> UltimateCataclysm (UltiCa)</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../style/UltimateCataclysm/general.html"><strong aria-hidden="true">2.1.1.</strong> General info</a></li><li class="chapter-item expanded "><a href="../style/UltimateCataclysm/terrain-furniture.html"><strong aria-hidden="true">2.1.2.</strong> Terrain/Furniture</a></li><li class="chapter-item expanded "><a href="../style/UltimateCataclysm/creatures.html"><strong aria-hidden="true">2.1.3.</strong> Creatures</a></li><li class="chapter-item expanded "><a href="../style/UltimateCataclysm/overlay.html"><strong aria-hidden="true">2.1.4.</strong> Overlays</a></li><li class="chapter-item expanded "><a href="../style/UltimateCataclysm/items.html"><strong aria-hidden="true">2.1.5.</strong> Items</a></li></ol></li><li class="chapter-item expanded "><a href="../style/MShockXotto+/summary.html"><strong aria-hidden="true">2.2.</strong> MShockXotto+</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../style/MShockXotto+/general.html"><strong aria-hidden="true">2.2.1.</strong> General info</a></li></ol></li><li class="chapter-item expanded "><a href="../style/HollowMoon/summary.html"><strong aria-hidden="true">2.3.</strong> HollowMoon</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../style/HollowMoon/general.html"><strong aria-hidden="true">2.3.1.</strong> General info</a></li><li class="chapter-item expanded "><a href="../style/HollowMoon/terrain.html"><strong aria-hidden="true">2.3.2.</strong> Terrain</a></li><li class="chapter-item expanded "><a href="../style/HollowMoon/walls.html"><strong aria-hidden="true">2.3.3.</strong> Walls</a></li><li class="chapter-item expanded "><a href="../style/HollowMoon/overlay.html"><strong aria-hidden="true">2.3.4.</strong> Overlay</a></li></ol></li></ol></li><li class="chapter-item expanded "><a href="../how-to/summary.html"><strong aria-hidden="true">3.</strong> How to</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../how-to/structure.html"><strong aria-hidden="true">3.1.</strong> Tileset structure</a></li><li class="chapter-item expanded "><a href="../how-to/autotiles.html"><strong aria-hidden="true">3.2.</strong> Autotiles/Multitiles</a></li><li class="chapter-item expanded "><a href="../https://github.com/CleverRaven/Cataclysm-DDA/blob/master/doc/TILESET.html"><strong aria-hidden="true">3.3.</strong> Multitiles detailed info</a></li><li class="chapter-item expanded "><a href="../how-to/Cloning_symlinks_on_windows.html"><strong aria-hidden="true">3.4.</strong> Windows and symlinks</a></li><li class="chapter-item expanded "><a href="../how-to/mod_tilesheet.html" class="active"><strong aria-hidden="true">3.5.</strong> Creating a mod tilesheet</a></li></ol></li><li class="chapter-item expanded "><a href="../tools/summary.html"><strong aria-hidden="true">4.</strong> Tools</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../tools/common_tools.html"><strong aria-hidden="true">4.1.</strong> Common tools</a></li><li class="chapter-item expanded "><a href="../tools/windows_wrappers.html"><strong aria-hidden="true">4.2.</strong> Windows wrappers</a></li></ol></li><li class="chapter-item expanded "><a href="../https://github.com/CleverRaven/Cataclysm-DDA/blob/db3054e61b77fd16ef15961714bff97c4b5aac0c/doc/TILESET.html">main CDDA documentation</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                        
+                    </div>
+
+                    <h1 class="menu-title">UltimateCataclysm — Documentation</h1>
+
+                    <div class="right-buttons">
+                        <a href="../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+                        
+                        <a href="https://github.com/I-am-Erk/CDDA-Tilesets" title="Git repository" aria-label="Git repository">
+                            <i id="git-repository-button" class="fa fa-github"></i>
+                        </a>
+                        
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1><a class="header" href="#creating-mod-tilesheet-using-existing-tools" id="creating-mod-tilesheet-using-existing-tools">Creating mod tilesheet using existing tools</a></h1>
+<p>If you want to create a quite extended mod for CDDA and it'll be shipped separately from the main game you need a composed tilesheet.</p>
+<p>It is not a problem for mods with a couple of sprites, but if you have a lot of sprites better to use existing tools.</p>
+<h2><a class="header" href="#creating-a-dummy-tileset" id="creating-a-dummy-tileset">Creating a dummy tileset</a></h2>
+<p>First of all you need to create a dummy tileset in the tileset repository and receiving folder in your game.</p>
+<ul>
+<li>Create a <code>my_mod</code> folder under <code>CDDA-Tilesets\gfx</code> (tilesets repository)</li>
+<li>Create a <code>my_mod</code> folder under <code>Cataclysm\gfx</code> (your game folder)</li>
+</ul>
+<p>Now you need to create some files in repository.
+Go to <code>CDDA-Tilesets\gfx\my_mod\</code> and create <code>tileset.txt</code> and add the following content:</p>
+<pre><code class="language-txt">#my_mod
+
+NAME: my_mod_name
+VIEW: my_mod_view
+JSON: tile_config.json
+TILESET: tiles.png
+</code></pre>
+<p>As you can see name and view should be somehow related to your mod name, but actually they can be abything but existing tilesets names.</p>
+<p>Copy <code>fallback.png</code> from any other existing tileset into your <code>CDDA-Tilesets\gfx\my_mod\</code> folder. It is needed only to be checked once and you will delete it later.</p>
+<p>Lets assume that you have a number of sprites and sprites size are: x=32 and y=48. Put all of them into the folder and name this folder: <code>pngs_my_mod_sprites_32x48</code>.</p>
+<p>Now you need to create the final file: <code>tile_info.json</code> with following content:</p>
+<pre><code class="language-json">[
+  {
+    &quot;pixelscale&quot;: 1,
+    &quot;width&quot;: 1,
+    &quot;height&quot;: 1
+  },
+  {
+    &quot;my_mod_sprites.png&quot;: { &quot;sprite_width&quot;: 32, &quot;sprite_height&quot;: 48 }
+  }
+]
+</code></pre>
+<h2><a class="header" href="#composing-the-tileset" id="composing-the-tileset">Composing the &quot;tileset&quot;</a></h2>
+<p>Use <code>updtset.cmd</code> tool as usual (you may refer to this <a href="../tools/windows_wrappers.html#composer">doc</a>). Your new dummy tileset will appear in the list of source tilesets available for composing.</p>
+<p>If you did everything right you will get the composed tileset in your game directory <code>Cataclysm\gfx\my_mod</code>.</p>
+<p>You will get:
+| file | purpose |
+|--|--|
+| :bar_chart:fallback.png | to be deleted |
+| :bar_chart:my_mod_sprites.png | your composed tilesheet |
+| :memo:tile_config.json | you need to fix it a bit |
+| :memo:tileset.txt | to be deleted |</p>
+<p>Check my_mod_sprites.png - this file should contain all your sprites.</p>
+<h2><a class="header" href="#fixing-the-json" id="fixing-the-json">Fixing the json</a></h2>
+<p>Resulting <code>tile_config.json</code> supposed to be for a full tileset, so you need to fix it first. Open it in any text editor, copy all content and past it here: <a href="https://dev.narc.ro/cataclysm/format.html">CDDA json linter</a> and press &quot;LINT&quot; button below.</p>
+<p>Now this file content can be easily readable. You will get something like this:</p>
+<pre><code class="language-json">{
+  &quot;tile_info&quot;: [
+    ...
+  ],
+  &quot;tiles-new&quot;: [
+    {
+      &quot;file&quot;: &quot;my_mod_sprites.png&quot;,
+      &quot;//&quot;: &quot;range from 1 to X&quot;,
+      &quot;sprite_width&quot;: 32,
+      &quot;sprite_height&quot;: 48,
+      &quot;sprite_offset_x&quot;: 0,
+      &quot;sprite_offset_y&quot;: 0,
+      &quot;tiles&quot;: [
+        ...
+      ]
+    },
+    {
+      &quot;file&quot;: &quot;fallback.png&quot;,
+      &quot;tiles&quot;: [],
+      &quot;ascii&quot;: [
+        ...
+      ]
+    }
+  ]
+}
+</code></pre>
+<p>You need to do the following:</p>
+<ol>
+<li>
+<p>Remove <code>tile_info</code> section.</p>
+</li>
+<li>
+<p>Instead add the following content before <code>tiles-new</code> section:</p>
+<pre><code class="language-json">  &quot;type&quot;: &quot;mod_tileset&quot;,
+  &quot;compatibility&quot;: [
+    &quot;Chibi_Ultica&quot;,
+    &quot;MShockXottoPlus&quot;
+  ],
+</code></pre>
+</li>
+<li>
+<p>Remove comma between <code>my_mod_sprites</code> and <code>fallback</code> sections.</p>
+</li>
+<li>
+<p>Remove <code>fallback</code> section. Tileset will handle fallbacks.</p>
+</li>
+<li>
+<p>Wrap all text into square brackets <code>[ ]</code>.</p>
+</li>
+<li>
+<p>Fix offset values. In our demostration case <code>sprite_offset_y</code> will be <code>-16</code>.</p>
+</li>
+<li>
+<p>Be sure to include right tileset names into <code>compatibility</code>.</p>
+</li>
+</ol>
+<p>You will get something like this:</p>
+<pre><code class="language-json">[
+  {
+    &quot;type&quot;: &quot;mod_tileset&quot;,
+    &quot;compatibility&quot;: [
+      &quot;Chibi_Ultica&quot;,
+      &quot;MShockXottoPlus&quot;
+    ],
+    &quot;tiles-new&quot;: [
+      {
+        &quot;file&quot;: &quot;my_mod_sprites.png&quot;,
+        &quot;//&quot;: &quot;range from 1 to X&quot;,
+        &quot;sprite_width&quot;: 32,
+        &quot;sprite_height&quot;: 48,
+        &quot;sprite_offset_x&quot;: 0,
+        &quot;sprite_offset_y&quot;: -16,
+        &quot;tiles&quot;: [
+          ...
+        ]
+      }
+    ]
+  }
+]
+</code></pre>
+<p>Now you can use your mod tilesheet.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="../how-to/Cloning_symlinks_on_windows.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+                            <a rel="next" href="../tools/summary.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a rel="prev" href="../how-to/Cloning_symlinks_on_windows.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+                    <a rel="next" href="../tools/summary.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+        
+
+        
+
+        
+        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>
