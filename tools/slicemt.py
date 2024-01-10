@@ -96,10 +96,13 @@ print(f'Tileset name : {bcolors.OKCYAN}' + TilesetName + f'{bcolors.ENDC}')
 print('')
 
 # Set updtset.cmd path
-UpdateCmd = '\\'.join(PathDetails[:PathDetails.index('gfx')]) + '\\tools\\updtset.cmd ' + TilesetName
+UpdateCmd = '\\'.join(PathDetails[:PathDetails.index('gfx')]) + '\\tools\\updtset.cmd /q ' + TilesetName
 UpdatePath = '\\'.join(PathDetails[:PathDetails.index('gfx')]) + '\\tools\\'
 
 OutPath = FullPath + '\\..\\'
+
+# Mark source folder as scratch, so composer ignore it
+Path(FullPath+'\\.scratch').touch()
 
 # Detect source files for variants
 StartTime = time.time()
