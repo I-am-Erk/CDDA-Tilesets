@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cs_open_sewer",
+    "fg": "cs_open_sewer",
+    "bg": "field"
+  },
+  {
+    "id": "cs_open_sewer_undergound",
+    "fg": "cs_open_sewer",
+    "bg": "t_soil_center"
+  }
+]
