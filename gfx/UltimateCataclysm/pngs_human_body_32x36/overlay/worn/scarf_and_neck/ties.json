@@ -1,10 +1,5 @@
 [
   {
-    "id": "overlay_worn_tie_bow",
-    "fg": "bow_tie_mf",
-    "bg": ""
-  },
-  {
     "id": "overlay_worn_tie_clipon",
     "fg": "clip_on_tie_mf",
     "bg": ""
