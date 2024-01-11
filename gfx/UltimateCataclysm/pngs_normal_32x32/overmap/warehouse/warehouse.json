@@ -1,0 +1,17 @@
+{
+  "id": [
+    "warehouse",
+    "abandonedwarehouse",
+    "abandonedwarehouse_1",
+    "abandonedwarehouse_2",
+    "abandonedwarehouse_3",
+    "abandonedwarehouse_4",
+    "warehouse_roof",
+    "abandonedwarehouse_roof",
+    "abandonedwarehouse_1_roof",
+    "abandonedwarehouse_2_roof",
+    "abandonedwarehouse_3_roof",
+    "abandonedwarehouse_4_roof"
+  ],
+  "fg": "warehouse"
+}
