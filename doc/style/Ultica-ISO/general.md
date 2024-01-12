@@ -16,11 +16,13 @@ Experiments at the very beginning of the tileset creation showed that it would b
 
 The height of the Z-level is composed of the space above the base plane (3 meters), and the thickness of the base (thickness of the soil, roof/floor – 0.37 meters) and amounts to (96 + 12) 108 pixels.
 
->[!NOTE] You can consider 1 pixel height to be equivalent to 1¼ inches or 3.125 cm.
+> [!NOTE]
+> You can consider 1 pixel height to be equivalent to 1¼ inches or 3.125 cm.
 
 Due to the fact that the tile is not square, as in classic orthogonal tilesets, the conjugation of four tiles has some peculiarities.
 
->[!NOTE] In fact, this means that a pixel on the horizontal plane should be drawn if more than half of it falls within the boundaries of the object, and left empty otherwise. However, pixels on vertical surfaces should be drawn in most cases.
+> [!NOTE]
+> In fact, this means that a pixel on the horizontal plane should be drawn if more than half of it falls within the boundaries of the object, and left empty otherwise. However, pixels on vertical surfaces should be drawn in most cases.
 
 ![corners](./images/rhombuses.png)
 
