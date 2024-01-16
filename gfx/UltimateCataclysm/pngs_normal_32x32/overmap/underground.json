@@ -60,5 +60,54 @@
         "bg": "t_railroad_rubble_center"
       }
     ]
+  },
+  {
+    "id": "sewer",
+    "fg": "t_sewage_unconnected",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "center",
+        "fg": "t_sewage_center"
+      },
+      {
+        "id": "corner",
+        "fg": [
+          "t_sewage_corner_nw",
+          "t_sewage_corner_sw",
+          "t_sewage_corner_se",
+          "t_sewage_corner_ne"
+        ]
+      },
+      {
+        "id": "t_connection",
+        "fg": [
+          "t_sewage_t_connection_n",
+          "t_sewage_t_connection_w",
+          "t_sewage_t_connection_s",
+          "t_sewage_t_connection_e"
+        ]
+      },
+      {
+        "id": "edge",
+        "fg": [
+          "t_sewage_edge_ns",
+          "t_sewage_edge_ew"
+          ]
+      },
+      {
+        "id": "end_piece",
+        "fg": [
+          "t_sewage_end_piece_n",
+          "t_sewage_end_piece_w",
+          "t_sewage_end_piece_s",
+          "t_sewage_end_piece_e"
+        ]
+      },
+      {
+        "id": "unconnected",
+        "fg": "t_sewage_unconnected"
+      }
+    ]
   }
 ]

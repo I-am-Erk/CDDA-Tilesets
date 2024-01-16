@@ -89,8 +89,8 @@
       {
         "id": "edge",
         "fg": [
-          "t_railroad_track_small_d_corner_ne",
-          "t_railroad_track_small_d_corner_sw"
+          "t_railroad_track_small_edge_ns",
+          "t_railroad_track_small_edge_ew"
         ],
         "bg": "t_railroad_rubble_center"
       },
