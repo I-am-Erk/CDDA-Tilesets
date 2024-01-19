@@ -1,0 +1,10 @@
+{
+  "id": "mon_changeling",
+  "fg": [
+    { "weight": 1, "sprite": "mon_changeling_0" },
+    { "weight": 1, "sprite": "mon_changeling_1" },
+    { "weight": 1, "sprite": "mon_changeling_2" },
+    { "weight": 1, "sprite": "mon_changeling_3" }
+  ],
+  "rotates": false
+}
