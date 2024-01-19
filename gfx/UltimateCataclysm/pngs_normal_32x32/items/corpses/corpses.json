@@ -1,12 +1,14 @@
 [
   {
-  "id": "corpse",
-  "fg": "corpse",
-  "bg": ""
+    "id": "corpse",
+    "fg": "corpse"
   },
   {
-  "id": "corpse_generic_human",
-  "fg": "corpse_generic_human",
-  "bg": ""
- }
+    "id": "corpse_generic_human",
+    "fg": "corpse_generic_human"
+  },
+  {
+    "id": "corpse_mon_zombie_child",
+    "fg": "corpse_mon_zombie_child"
+  }
 ]

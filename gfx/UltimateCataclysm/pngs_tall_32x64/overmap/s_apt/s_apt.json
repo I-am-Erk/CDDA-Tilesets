@@ -1,0 +1,19 @@
+[
+  {
+    "id": [ "s_apt", "s_apt_2" ],
+    "fg": "s_apt",
+    "bg": "field_tall"
+  },
+  {
+    "id": [
+      "s_apt_2ndfloor",
+      "s_apt_roof",
+      "s_apt_upper_roof",
+      "s_apt_2_2ndfloor",
+      "s_apt_2_roof",
+      "s_apt_2_upper_roof"
+    ],
+    "fg": "s_apt",
+    "bg": "open_air_tall"
+  }
+]
