@@ -64,6 +64,10 @@
     },
     {
       "weight": 10,
+      "sprite": "graffiti_FUCK"
+    },
+    {
+      "weight": 10,
       "sprite": "graffiti_A"
     },
     {
