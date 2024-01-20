@@ -1,0 +1,32 @@
+{
+  "id": "t_conveyor",
+  "fg": "t_conveyor_0",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_conveyor_0"
+    },
+    {
+      "id": "corner",
+      "fg": "t_conveyor_1"
+    },
+    {
+      "id": "edge",
+      "fg": "t_conveyor_0"
+    },
+    {
+      "id": "end_piece",
+      "fg": "t_conveyor_0"
+    },
+    {
+      "id": "t_connection",
+      "fg": "t_conveyor_2"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_conveyor_0"
+    }
+  ]
+}
