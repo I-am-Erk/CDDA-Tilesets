@@ -1,0 +1,1 @@
+The head portion came from https://github.com/I-am-Erk/CDDA-Tilesets/blob/master/gfx/MShockXotto%2B/pngs_tiles_32x32/monster/mon_deer.png
