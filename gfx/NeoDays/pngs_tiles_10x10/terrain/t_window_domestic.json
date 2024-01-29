@@ -1,0 +1,12 @@
+{
+  "id": "t_window_domestic",
+  "fg": "t_window_domestic_0",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "t_connection",
+      "fg": "t_window_domestic_1"
+    }
+  ]
+}

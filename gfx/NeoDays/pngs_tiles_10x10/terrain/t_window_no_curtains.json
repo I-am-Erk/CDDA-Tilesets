@@ -1,0 +1,12 @@
+{
+  "id": "t_window_no_curtains",
+  "fg": "t_window_no_curtains_0",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "t_connection",
+      "fg": "t_window_no_curtains_1"
+    }
+  ]
+}
