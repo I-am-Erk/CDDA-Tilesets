@@ -1,0 +1,32 @@
+{
+  "id": "t_reinforced_glass_shutter_open",
+  "fg": "t_reinforced_glass_shutter_open_0",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_reinforced_glass_shutter_open_1"
+    },
+    {
+      "id": "corner",
+      "fg": "t_reinforced_glass_shutter_open_2"
+    },
+    {
+      "id": "edge",
+      "fg": "t_reinforced_glass_shutter_open_3"
+    },
+    {
+      "id": "end_piece",
+      "fg": "t_reinforced_glass_shutter_open_4"
+    },
+    {
+      "id": "t_connection",
+      "fg": "t_reinforced_glass_shutter_open_5"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_reinforced_glass_shutter_open_0"
+    }
+  ]
+}
