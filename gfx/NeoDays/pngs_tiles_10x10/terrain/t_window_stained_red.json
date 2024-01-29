@@ -1,0 +1,12 @@
+{
+  "id": "t_window_stained_red",
+  "fg": "t_window_stained_red_0",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "t_connection",
+      "fg": "t_window_stained_red_1"
+    }
+  ]
+}
