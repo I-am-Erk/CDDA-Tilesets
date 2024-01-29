@@ -184,6 +184,13 @@
     },
     {
         "id": [
+            "cabin_liam"
+        ],
+        "fg": "black67",
+        "bg": "green"
+    },
+    {
+        "id": [
             "cabin_roof",
             "cabin_roof_1",
             "cabin_roof_2",
@@ -371,7 +378,8 @@
             "dirt_road",
             "dirt_road_forest",
             "dirt_road_turnback",
-            "dirt_road_farm_parking"
+            "dirt_road_farm_parking",
+            "cabin_liam_driveway"
         ],
         "fg": "brown179",
         "bg": "black",
@@ -871,7 +879,8 @@
     {
         "id": [
             "s_gas",
-            "s_gas_rural"
+            "s_gas_rural",
+            "s_gas_g1"
         ],
         "fg": "light_blue94",
         "bg": "black",
@@ -879,8 +888,17 @@
     },
     {
         "id": [
+            "s_gas_g0"
+        ],
+        "fg": "light_blue196",
+        "bg": "black",
+        "rotates": true
+    },
+    {
+        "id": [
             "s_gas_roof_1",
-            "s_gas_rural_roof"
+            "s_gas_rural_roof",
+            "s_gas_g1_roof"
         ],
         "fg": "light_blue94",
         "bg": "black",
@@ -1206,6 +1224,22 @@
             "s_clothes_roof_5",
             "s_clothes_roof_6",
             "s_clothes_upper_roof_4"
+        ],
+        "fg": "blue94",
+        "bg": "black",
+        "rotates": true
+    },
+    {
+        "id": [
+            "s_fabricstore"
+        ],
+        "fg": "blue94",
+        "bg": "black",
+        "rotates": true
+    },
+    {
+        "id": [
+            "s_fabricstore_roof"
         ],
         "fg": "blue94",
         "bg": "black",
@@ -2287,9 +2321,7 @@
             "mall_a_55",
             "mall_a_63",
             "mall_a_64",
-            "mall_a_72",
-            "mall_b_10",
-            "mall_b_19"
+            "mall_a_72"
         ],
         "fg": "dark_gray179",
         "bg": "black",
@@ -2536,7 +2568,12 @@
     },
     {
         "id": [
+            "mall_a_58_basement",
+            "mall_a_59_basement",
+            "mall_a_60_basement",
+            "mall_a_67_basement",
             "mall_a_68_basement",
+            "mall_a_69_basement",
             "mall_a_67_sub_basement",
             "mall_a_68_sub_basement",
             "mall_a_69_sub_basement"
@@ -4020,6 +4057,11 @@
         "bg": "brown"
     },
     {
+        "id": "derelict_property_roof",
+        "fg": "black46",
+        "bg": "brown"
+    },
+    {
         "id": "bunker_shop_g",
         "fg": "black88",
         "bg": "brown"
@@ -4525,14 +4567,14 @@
         "rotates": true
     },
     {
-        "id": "godco_enter",
-        "fg": "brown179",
+        "id": "bridgehead_ramp",
+        "fg": "white94",
         "bg": "black",
         "rotates": true
     },
     {
-        "id": "bridgehead_ramp",
-        "fg": "white94",
+        "id": "godco_enter",
+        "fg": "brown179",
         "bg": "black",
         "rotates": true
     },
@@ -4656,6 +4698,12 @@
     {
         "id": "trailer_hub_01",
         "fg": "light_gray197",
+        "bg": "black",
+        "rotates": true
+    },
+    {
+        "id": "urban_25_sewer_connector",
+        "fg": "green191",
         "bg": "black",
         "rotates": true
     },
@@ -4808,12 +4856,6 @@
         "bg": "green"
     },
     {
-        "id": "s_restaurant_deserted_test",
-        "fg": "dark_gray94",
-        "bg": "magenta",
-        "rotates": true
-    },
-    {
         "id": "sunny",
         "fg": "yellow42",
         "bg": "light_gray"
@@ -4925,6 +4967,12 @@
         "id": "afs_crashed_escape_pod",
         "fg": "black43",
         "bg": "red"
+    },
+    {
+        "id": "afs_landed_shuttle",
+        "fg": "yellow94",
+        "bg": "black",
+        "rotates": true
     },
     {
         "id": "robot_dispatch_first",
@@ -5460,6 +5508,12 @@
         ],
         "fg": "light_green179",
         "bg": "black",
+        "rotates": true
+    },
+    {
+        "id": "s_restaurant_deserted_test",
+        "fg": "dark_gray94",
+        "bg": "magenta",
         "rotates": true
     },
     {
