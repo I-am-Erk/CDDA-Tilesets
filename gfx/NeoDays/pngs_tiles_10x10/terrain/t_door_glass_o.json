@@ -1,0 +1,14 @@
+{
+  "id": [
+    "t_door_glass_o",
+    "t_door_glass_frosted_o",
+    "t_door_glass_lab_o",
+    "t_door_glass_frosted_lab_o",
+    "t_door_glass_red_o",
+    "t_door_glass_green_o",
+    "t_door_glass_white_o",
+    "t_door_glass_gray_o"
+  ],
+  "fg": "t_door_glass_o",
+  "rotates": true
+}
