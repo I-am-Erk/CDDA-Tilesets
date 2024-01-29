@@ -1,1 +1,32 @@
-{"id": "t_reinforced_glass", "fg": ["459_t_reinforced_glass_0"], "rotates": true, "multitile": true, "additional_tiles": [{"id": "center", "fg": ["460_t_reinforced_glass_1"], "bg": []}, {"id": "corner", "fg": ["461_t_reinforced_glass_2"], "bg": []}, {"id": "edge", "fg": ["462_t_reinforced_glass_3"], "bg": []}, {"id": "end_piece", "fg": ["463_t_reinforced_glass_4"], "bg": []}, {"id": "t_connection", "fg": ["464_t_reinforced_glass_5"], "bg": []}, {"id": "unconnected", "fg": ["459_t_reinforced_glass_0"], "bg": []}], "bg": []}
+{
+  "id": "t_reinforced_glass",
+  "fg": "t_reinforced_glass_0",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_reinforced_glass_1"
+    },
+    {
+      "id": "corner",
+      "fg": "t_reinforced_glass_2"
+    },
+    {
+      "id": "edge",
+      "fg": "t_reinforced_glass_3"
+    },
+    {
+      "id": "end_piece",
+      "fg": "t_reinforced_glass_4"
+    },
+    {
+      "id": "t_connection",
+      "fg": "t_reinforced_glass_5"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_reinforced_glass_0"
+    }
+  ]
+}
