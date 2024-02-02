@@ -1,12 +1,10 @@
 [
   {
-    "id": "overlay_female_mutation_ARACHNID_ARMS",
-    "fg": "arachnid_arms_f",
-    "bg": ""
+    "id": [ "overlay_female_mutation_ARACHNID_ARMS", "overlay_female_mutation_ARACHNID_ARMS_OK" ],
+    "fg": "arachnid_arms_f"
   },
   {
-    "id": "overlay_male_mutation_ARACHNID_ARMS",
-    "fg": "arachnid_arms_m",
-    "bg": ""
+    "id": [ "overlay_male_mutation_ARACHNID_ARMS", "overlay_male_mutation_ARACHNID_ARMS_OK" ],
+    "fg": "arachnid_arms_m"
   }
 ]
