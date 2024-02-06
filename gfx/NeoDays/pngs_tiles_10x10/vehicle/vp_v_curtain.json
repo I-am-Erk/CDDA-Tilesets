@@ -1,0 +1,15 @@
+{
+  "id": [
+    "vp_v_curtain",
+    "vp_aisle_curtain"
+  ],
+  "fg": "t_curtains",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_gray"
+    }
+  ]
+}
