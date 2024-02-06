@@ -1,0 +1,11 @@
+{
+  "id": "mon_changeling_bannerman",
+  "fg": [
+    { "weight": 3, "sprite": "mon_changeling_bannerman_5" },
+    { "weight": 3, "sprite": "mon_changeling_bannerman_6" },
+    { "weight": 3, "sprite": "mon_changeling_bannerman_7" },
+    { "weight": 3, "sprite": "mon_changeling_bannerman_8" },
+    { "weight": 3, "sprite": "mon_changeling_bannerman_9" }
+        ],
+  "rotates": false
+}
