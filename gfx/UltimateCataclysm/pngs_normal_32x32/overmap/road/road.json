@@ -2,6 +2,7 @@
   {
     "id": "road",
     "fg": "road_unconnected",
+    "bg": "field",
     "multitile": true,
     "additional_tiles": [
       {
@@ -45,10 +46,7 @@
       },
       {
         "id": "unconnected",
-        "fg": [
-          "road_unconnected",
-          "road_unconnected"
-        ],
+        "fg": "road_unconnected",
         "bg": "field"
       }
     ]
