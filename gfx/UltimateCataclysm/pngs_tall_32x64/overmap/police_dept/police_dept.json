@@ -1,0 +1,129 @@
+[
+  {
+    "id": [
+      "police_dept_u010",
+      "police_dept_u011",
+      "police_dept_u012"
+    ],
+    "fg": [
+      "police_dept01",
+      "police_dept02",
+      "police_dept04",
+      "police_dept03"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "police_dept_u110",
+      "police_dept_u111",
+      "police_dept_u112"
+    ],
+    "fg": [
+      "police_dept02",
+      "police_dept04",
+      "police_dept03",
+      "police_dept01"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "police_dept_u000",
+      "police_dept_u001",
+      "police_dept_u002"
+    ],
+    "fg": [
+      "police_dept03",
+      "police_dept01",
+      "police_dept02",
+      "police_dept04"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "police_dept_u100",
+      "police_dept_u101",
+      "police_dept_u102"
+    ],
+    "fg": [
+      "police_dept04",
+      "police_dept03",
+      "police_dept01",
+      "police_dept02_bridge"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "police_dept_d010",
+      "police_dept_d011",
+      "police_dept_d012",
+      "police_dept_b01"
+    ],
+    "fg": [
+      "police_dept02",
+      "police_dept04",
+      "police_dept03",
+      "police_dept01"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "police_dept_d110",
+      "police_dept_d111",
+      "police_dept_d112",
+      "police_dept_b11"
+    ],
+    "fg": [
+      "police_dept01",
+      "police_dept02",
+      "police_dept04",
+      "police_dept03"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "police_dept_d000",
+      "police_dept_d001",
+      "police_dept_d002",
+      "police_dept_b00"
+    ],
+    "fg": [
+      "police_dept04",
+      "police_dept03",
+      "police_dept01",
+      "police_dept02"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "police_dept_d100",
+      "police_dept_d101",
+      "police_dept_d102",
+      "police_dept_b10"
+    ],
+    "fg": [
+      "police_dept03",
+      "police_dept01",
+      "police_dept02",
+      "police_dept04_bridge"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [ "police_dept_skyway", "police_dept_skyway_roof" ],
+    "fg": [
+      "police_dept_bridge_2",
+      "police_dept_bridge",
+      "police_dept_bridge_2",
+      "police_dept_bridge"
+    ],
+    "bg": "open_air_tall",
+    "rotates": true
+  }
+]
