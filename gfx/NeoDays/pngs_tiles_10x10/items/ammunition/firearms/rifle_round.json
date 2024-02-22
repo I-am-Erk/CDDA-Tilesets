@@ -2,7 +2,7 @@
   "id": [
     "223", "reloaded_223",
     "270", "reloaded_270",
-    "270win_jsp", "bp_270win_jsp", "reloaded_270win_jsp",
+    "270win_jsp", "bp_270win_jsp", "reloaded_270win_jsp", "bp_270win_fmj", "reloaded_270win_fmj",
     "30carbine", "bp_30carbine", "reloaded_30carbine",
     "300blk", "300blk_ss", "bp_300blk", "reloaded_300blk",
     "300_winmag", "reloaded_300_winmag",
@@ -13,6 +13,7 @@
     "450_ftx", "bp_450_ftx", "reloaded_450_ftx", "450_penetrator", "bp_450_penetrator", "reloaded_450_penetrator",
     "46mm", "reloaded_46mm",
     "4570_pen", "4570_low", "4570_sp", "reloaded_4570_sp_bp", "reloaded_4570_sp", "reloaded_4570_low", "reloaded_4570_pen",
+    "458wm", "bp_458wm", "reloaded_458wm",
     "50beowulf_ftx", "bp_50beowulf_ftx", "reloaded_50beowulf_ftx", "50beowulf_penetrator", "bp_50beowulf_penetrator", "reloaded_50beowulf_penetrator", "50beowulf_xtp", "bp_50beowulf_xtp", "reloaded_50beowulf_xtp",    "50bmg", "50ss", "50_incendiary", "reloaded_50bmg", "reloaded_50ss", "reloaded_50_incendiary",
     "57mm", "reloaded_57mm",
     "545", "545_ap", "reloaded_545", "reloaded_545_ap",
@@ -20,7 +21,8 @@
     "700nx", "reloaded_700nx",
     "762_m43", "762_m87", "reloaded_762_m43", "reloaded_762_m87",
     "762_51", "762_51_incendiary", "reloaded_762_51", "reloaded_762_51_incendiary",
-    "762_54R", "reloaded_762_54R"
+    "762_54R", "reloaded_762_54R",
+    "77mm_arisaka_jsp", "bp_77mm_arisaka_jsp", "77mm_arisaka_reloaded_jsp"
   ],
   "fg": "rifle_round"
 }
