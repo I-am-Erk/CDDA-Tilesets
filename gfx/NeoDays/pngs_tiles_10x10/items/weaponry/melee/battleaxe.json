@@ -2,7 +2,12 @@
   "id": [
     "battleaxe",
     "battleaxe_inferior",
-    "battleaxe_fake"
+    "battleaxe_fake",
+    "ch_battleaxe",
+    "hc_battleaxe",
+    "mc_battleaxe",
+    "lc_battleaxe",
+    "qt_battleaxe"
   ],
   "fg": "battleaxe"
 }
