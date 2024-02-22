@@ -1,7 +1,8 @@
 {
   "id": [
     "dry_meat_tainted",
-    "dry_veggy_tainted"
+    "dry_veggy_tainted",
+    "tainted_marrow"
   ],
   "fg": "dry_meat_tainted"
 }
