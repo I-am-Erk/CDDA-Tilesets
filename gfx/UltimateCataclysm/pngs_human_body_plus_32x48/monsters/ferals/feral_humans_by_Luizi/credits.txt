@@ -1,1 +1,13 @@
-Luizi
+[mon_feral_human_axe_fungal_corpse.png]
+Original author: Luizi
+Fungal style overhaul author: ShnitzelX2
+
+[mon_feral_human_crowbar_fungal_corpse.png]
+Original author: Luizi
+Fungal style overhaul author: ShnitzelX2
+
+[mon_feral_human_pipe_fungal_corpse.png]
+Original author: Luizi
+Fungal style overhaul author: ShnitzelX2
+
+Other pngs: Luizi

@@ -1,0 +1,16 @@
+[mon_fungaloid_queen.png]
+Original author: acepleiades
+Fungal style overhaul author: ShnitzelX2
+
+[mon_fungaloid_seeder"0 to 7".png]
+Original author: acepleiades
+New animated fungaloid seeder: vetall812
+Fungal style overhaul author: ShnitzelX2
+
+[mon_fungaloid_tower.png]
+Original author: acepleiades
+Fungal style overhaul author: ShnitzelX2
+
+[mon_skeleton_hulk_fungus.png]
+Original author: acepleiades
+Fungal style overhaul author: ShnitzelX2
