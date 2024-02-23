@@ -1,0 +1,5 @@
+[mon_fungaloid.png]
+Original author: I-am-Erk
+Second round of reviewing 32x64 monsters: barsoosayque
+Replace with version with alpha gray: actual-nh
+Fungal style overhaul author: ShnitzelX2
