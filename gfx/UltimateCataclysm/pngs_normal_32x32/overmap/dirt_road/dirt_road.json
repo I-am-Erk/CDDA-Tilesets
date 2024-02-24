@@ -5,7 +5,7 @@
   	"rotates": true
   },
   {
-    "id": [ "dirt_road_turnback", "trailhead" ],
+    "id": [ "dirt_road_turnback", "trailhead", "dirt_road_farm_parking" ],
     "fg": [ "dirt_road_end_piece_s", "dirt_road_end_piece_e", "dirt_road_end_piece_n", "dirt_road_end_piece_w" ],
     "rotates": true
   },

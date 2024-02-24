@@ -1,6 +1,23 @@
 [
   {
     "id": "vp_integrated_trashcan",
+    "fg": [
+      "f_recycle_bin",
+      "f_recycle_bin",
+      "f_recycle_bin",
+      "f_recycle_bin"
+    ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "f_recycle_bin", "f_recycle_bin", "f_recycle_bin", "f_recycle_bin" ]
+      }
+    ]
+  },
+  {
+    "id": "vp_integrated_trashcan_trash can",
     "fg": "f_recycle_bin",
     "bg": "vp_trunk",
     "multitile": true,

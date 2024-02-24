@@ -15,5 +15,23 @@
   {
     "id": "open_air",
     "fg": "open_air"
+  },
+  {
+    "id": "stream",
+    "multitile": true,
+    "fg": [ "t_water_moving_sh_edge_ns", "t_water_moving_sh_edge_ew" ],
+    "bg": "field",
+    "additional_tiles": [
+      {
+        "id": "corner",
+        "bg": "field",
+        "fg": [ "t_water_moving_sh_corner_se", "t_water_moving_sh_corner_ne", "t_water_moving_sh_corner_nw", "t_water_moving_sh_corner_sw" ]
+      },
+      {
+        "id": "end",
+        "bg": "field",
+        "fg": [ "t_water_moving_sh_end_piece_n", "t_water_moving_sh_end_piece_w", "t_water_moving_sh_end_piece_s", "t_water_moving_sh_end_piece_e" ]
+      }
+    ]
   }
 ]
