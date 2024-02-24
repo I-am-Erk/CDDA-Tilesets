@@ -18,7 +18,7 @@
   },
   {
     "id": "vp_integrated_trashcan_trash can",
-    "fg": "f_recycle_bin",
+    "fg": [ "f_recycle_bin", "f_recycle_bin" ],
     "bg": "vp_trunk",
     "multitile": true,
     "additional_tiles": [
