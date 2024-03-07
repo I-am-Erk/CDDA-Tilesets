@@ -1,0 +1,15 @@
+[
+  {
+    "id": "vp_seed_drill_advanced",
+    "fg": [ "vp_seed_drill_advanced"],
+    "multitile": true,
+    "rotates": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_seed_drill_advanced" ]
+      }
+    ]
+  }
+]
