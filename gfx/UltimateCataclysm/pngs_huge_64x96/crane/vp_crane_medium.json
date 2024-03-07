@@ -1,0 +1,8 @@
+[
+  {
+    "id": [ "vp_crane_medium"],
+    "fg": ["vp_crane_medium_back", "vp_crane_medium_front", "vp_crane_medium_front", "vp_crane_medium_front"],
+	"multitile": true,
+	"rotates": true
+  }
+]
