@@ -1,0 +1,42 @@
+[
+  {
+    "id": [ "overlay_male_worn_gold_locket", "overlay_male_worn_gold_necklace" ],
+    "fg": "overlay_male_worn_gold_necklace"
+  },
+  {
+    "id": [ "overlay_female_worn_gold_locket", "overlay_female_worn_gold_necklace" ],
+    "fg": "overlay_female_worn_gold_necklace"
+  },
+  {
+    "id": [ "overlay_male_worn_copper_locket", "overlay_male_worn_copper_necklace" ],
+    "fg": "overlay_male_worn_copper_necklace"
+  },
+  {
+    "id": [ "overlay_female_worn_copper_locket", "overlay_female_worn_copper_necklace" ],
+    "fg": "overlay_female_worn_copper_necklace"
+  },
+  {
+    "id": [ "overlay_male_worn_platinum_locket", "overlay_male_worn_platinum_necklace" ],
+    "fg": "overlay_male_worn_platinum_necklace"
+  },
+  {
+    "id": [ "overlay_female_worn_platinum_locket", "overlay_female_worn_platinum_necklace" ],
+    "fg": "overlay_female_worn_platinum_necklace"
+  },
+  {
+    "id": [
+      "overlay_male_worn_silver_locket",
+      "overlay_male_worn_silver_necklace",
+      "overlay_male_worn_altered_necklace"
+    ],
+    "fg": "overlay_male_worn_silver_necklace"
+  },
+  {
+    "id": [
+      "overlay_female_worn_silver_locket",
+      "overlay_female_worn_silver_necklace",
+      "overlay_female_worn_altered_necklace"
+    ],
+    "fg": "overlay_female_worn_silver_necklace"
+  }
+]
