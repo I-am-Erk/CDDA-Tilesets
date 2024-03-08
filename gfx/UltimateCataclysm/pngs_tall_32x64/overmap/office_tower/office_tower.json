@@ -1,0 +1,286 @@
+[
+  {
+    "id": [ "office_tower_nw", "office_tower_underground_nw" ],
+    "fg": [
+      "office_tower_ground_nw",
+      "office_tower_ground_sw",
+      "office_tower_ground_se",
+      "office_tower_ground_ne"
+    ],
+    "bg": "field_tall",
+    "rotates": true
+  },
+  {
+    "id": [ "office_tower_ne", "office_tower_underground_ne" ],
+    "fg": [
+      "office_tower_ground_ne",
+      "office_tower_ground_nw",
+      "office_tower_ground_sw",
+      "office_tower_ground_se"
+    ],
+    "bg": "field_tall",
+    "rotates": true
+  },
+  {
+    "id": [ "office_tower_sw", "office_tower_underground_sw" ],
+    "fg": [
+      "office_tower_ground_sw",
+      "office_tower_ground_se",
+      "office_tower_ground_ne",
+      "office_tower_ground_nw"
+    ],
+    "bg": "field_tall",
+    "rotates": true
+  },
+  {
+    "id": [ "office_tower_se", "office_tower_underground_se" ],
+    "fg": [
+      "office_tower_ground_se",
+      "office_tower_ground_ne",
+      "office_tower_ground_nw",
+      "office_tower_ground_sw"
+    ],
+    "bg": "field_tall",
+    "rotates": true
+  },
+  {
+    "id": "office_tower_roof_nw",
+    "fg": [
+      "office_tower_roof_nw",
+      "office_tower_roof_sw",
+      "office_tower_roof_se",
+      "office_tower_roof_ne"
+    ],
+    "bg": "open_air_tall",
+    "rotates": true
+  },
+  {
+    "id": "office_tower_roof_ne",
+    "fg": [
+      "office_tower_roof_ne",
+      "office_tower_roof_nw",
+      "office_tower_roof_sw",
+      "office_tower_roof_se"
+    ],
+    "bg": "open_air_tall",
+    "rotates": true
+  },
+  {
+    "id": "office_tower_roof_sw",
+    "fg": [
+      "office_tower_roof_sw",
+      "office_tower_roof_se",
+      "office_tower_roof_ne",
+      "office_tower_roof_nw"
+    ],
+    "bg": "open_air_tall",
+    "rotates": true
+  },
+  {
+    "id": "office_tower_roof_se",
+    "fg": [
+      "office_tower_roof_se",
+      "office_tower_roof_ne",
+      "office_tower_roof_nw",
+      "office_tower_roof_sw"
+    ],
+    "bg": "open_air_tall",
+    "rotates": true
+  },
+  {
+    "id": [
+      "loffice_tower_4",
+      "loffice_tower_8",
+      "office_skyscraper_4",
+      "office_skyscraper_8"
+    ],
+    "fg": [
+      "office_tower_ground_se",
+      "office_tower_ground_ne",
+      "office_tower_ground_nw",
+      "office_tower_ground_sw"
+    ],
+    "bg": "field_tall",
+    "rotates": true
+  },
+  {
+    "id": [
+      "loffice_tower_3",
+      "loffice_tower_7",
+      "office_skyscraper_3",
+      "office_skyscraper_7"
+    ],
+    "fg": [
+      "office_tower_ground_sw",
+      "office_tower_ground_se",
+      "office_tower_ground_ne",
+      "office_tower_ground_nw"
+    ],
+    "bg": "field_tall",
+    "rotates": true
+  },
+  {
+    "id": [
+      "loffice_tower_2",
+      "loffice_tower_6",
+      "office_skyscraper_2",
+      "office_skyscraper_6"
+    ],
+    "fg": [
+      "office_tower_ground_ne",
+      "office_tower_ground_nw",
+      "office_tower_ground_sw",
+      "office_tower_ground_se"
+    ],
+    "bg": "field_tall",
+    "rotates": true
+  },
+  {
+    "id": [
+      "loffice_tower_1",
+      "loffice_tower_5",
+      "office_skyscraper_1",
+      "office_skyscraper_5"
+    ],
+    "fg": [
+      "office_tower_ground_nw",
+      "office_tower_ground_sw",
+      "office_tower_ground_se",
+      "office_tower_ground_ne"
+    ],
+    "bg": "field_tall",
+    "rotates": true
+  },
+  {
+    "id": [
+      "loffice_tower_12",
+      "loffice_tower_16",
+      "office_skyscraper_apartments_001",
+      "office_skyscraper_apartments_002",
+      "office_skyscraper_12",
+      "office_skyscraper_16"
+    ],
+    "fg": [
+      "office_tower_mid_se",
+      "office_tower_mid_ne",
+      "office_tower_mid_nw",
+      "office_tower_mid_sw"
+    ],
+    "bg": "open_air_tall",
+    "rotates": true
+  },
+  {
+    "id": [
+      "loffice_tower_11",
+      "loffice_tower_15",
+      "office_skyscraper_apartments_101",
+      "office_skyscraper_apartments_102",
+      "office_skyscraper_11",
+      "office_skyscraper_15"
+    ],
+    "fg": [
+      "office_tower_mid_sw",
+      "office_tower_mid_se",
+      "office_tower_mid_ne",
+      "office_tower_mid_nw"
+    ],
+    "bg": "open_air_tall",
+    "rotates": true
+  },
+  {
+    "id": [
+      "loffice_tower_10",
+      "loffice_tower_10b",
+      "loffice_tower_14",
+      "office_skyscraper_apartments_011",
+      "office_skyscraper_apartments_012",
+      "office_skyscraper_10",
+      "office_skyscraper_10b",
+      "office_skyscraper_14"
+    ],
+    "fg": [
+      "office_tower_mid_ne",
+      "office_tower_mid_nw",
+      "office_tower_mid_sw",
+      "office_tower_mid_se"
+    ],
+    "bg": "open_air_tall",
+    "rotates": true
+  },
+  {
+    "id": [
+      "loffice_tower_9",
+      "loffice_tower_9b",
+      "loffice_tower_13",
+      "office_skyscraper_apartments_111",
+      "office_skyscraper_apartments_112",
+      "office_skyscraper_9",
+      "office_skyscraper_9b",
+      "office_skyscraper_13"
+    ],
+    "fg": [
+      "office_tower_mid_nw",
+      "office_tower_mid_sw",
+      "office_tower_mid_se",
+      "office_tower_mid_ne"
+    ],
+    "bg": "open_air_tall",
+    "rotates": true
+  },
+  {
+    "id": [
+      "loffice_tower_20",
+      "office_skyscraper_20"
+    ],
+    "fg": [
+      "office_tower_roof_se",
+      "office_tower_roof_ne",
+      "office_tower_roof_nw",
+      "office_tower_roof_sw"
+    ],
+    "bg": "open_air_tall",
+    "rotates": true
+  },
+  {
+    "id": [
+      "loffice_tower_19",
+      "office_skyscraper_19"
+    ],
+    "fg": [
+      "office_tower_roof_sw",
+      "office_tower_roof_se",
+      "office_tower_roof_ne",
+      "office_tower_roof_nw"
+    ],
+    "bg": "open_air_tall",
+    "rotates": true
+  },
+  {
+    "id": [
+      "loffice_tower_18",
+      "office_skyscraper_18"
+    ],
+    "fg": [
+      "office_tower_roof_ne",
+      "office_tower_roof_nw",
+      "office_tower_roof_sw",
+      "office_tower_roof_se"
+    ],
+    "bg": "open_air_tall",
+    "rotates": true
+  },
+  {
+    "id": [
+      "loffice_tower_17",
+      "office_skyscraper_17"
+    ],
+    "fg": [
+      "office_tower_roof_nw",
+      "office_tower_roof_sw",
+      "office_tower_roof_se",
+      "office_tower_roof_ne"
+    ],
+    "bg": "open_air_tall",
+    "rotates": true
+  }
+]
