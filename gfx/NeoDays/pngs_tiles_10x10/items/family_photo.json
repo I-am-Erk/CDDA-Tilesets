@@ -2,7 +2,8 @@
   "id": [
     "family_photo",
     "wallet_photo",
-    "polaroid_photo"
+    "polaroid_photo",
+    "icon"
   ],
   "fg": "family_photo"
 }
