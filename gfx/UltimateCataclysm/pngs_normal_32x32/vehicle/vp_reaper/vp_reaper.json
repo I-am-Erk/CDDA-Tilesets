@@ -1,7 +1,15 @@
 [
   {
-    "id": [ "vp_reaper"],
-    "fg": [ "vp_reaper_rotN", "vp_reaper_rotW", "vp_reaper_rotS", "vp_reaper_rotE" ],
-    "rotates": true
+    "id": "vp_reaper",
+    "fg": [ "vp_reaper"],
+    "multitile": true,
+    "rotates": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_reaper" ]
+      }
+    ]
   }
 ]
