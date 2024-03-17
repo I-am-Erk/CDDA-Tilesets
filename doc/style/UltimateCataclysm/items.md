@@ -4,7 +4,7 @@
 
 ![item-proportions](./image/item-proportions.png)
 
-This is continuation of the general rule.
+This is a continuation of the general rule.
 
 ## Item tiles should be as close to scale as they can be while still recognizable
 
@@ -29,4 +29,4 @@ No shadow will make sure that players don't confuse several big items with furni
 
 ![items-on-tables](./image/items-on-tables.png)
 
-Table surfaces usually occupy top 19 pixels of a 32x32 sprite, try fitting your items there when possible.
+Table surfaces usually occupy the top 19 pixels of a 32x32 sprite, try fitting your items there when possible.
