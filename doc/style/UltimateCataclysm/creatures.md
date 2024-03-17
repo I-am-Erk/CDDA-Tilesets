@@ -9,9 +9,9 @@ Consider 32x64 a default template for human-sized creatures:
 
 # Monster sprites should have ~8px offset from the ground
 
-// TODO: add monster image with measured offset
+![offset](./image/offset.png)
 
-To give them a 3d look.
+To give them a 3D look.
 
 # Facing to the right by default
 
