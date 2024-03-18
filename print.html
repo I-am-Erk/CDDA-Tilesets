@@ -306,8 +306,8 @@ python3 tools/compose.py --use-all gfx/UltimateCataclysm out
 <p>Or if you have <a href="https://direnv.net/">direnv</a> enabled, it will automatically enter the devshell upon opening the repository.</p>
 <h1><a class="header" href="#style-guidelines" id="style-guidelines">Style guidelines</a></h1>
 <p>We have rules for sprites these days.
-Not because it's important to keep the tileset consistent, but also to make things recognizable on the screen in the game.
-Without strict rules, any tileset will quickly turn itself into a pixels mash up.</p>
+Not only because it's important to keep tilesets consistent, but also to make things recognizable on the screen in the game.
+Without strict rules, any tileset will quickly turn itself into a mash up of pixels.</p>
 <p>Different tilesets have different guides:</p>
 <ul>
 <li><a href="style/./UltimateCataclysm/summary.html">UltimateCataclysm (Ultica)</a></li>
@@ -327,41 +327,41 @@ Without strict rules, any tileset will quickly turn itself into a pixels mash up
 <p>A bunch of rules that can be applied for every type of sprite.</p>
 <h2><a class="header" href="#use-a-limited-set-of-colors-as-in-pseudo-16-bit-format" id="use-a-limited-set-of-colors-as-in-pseudo-16-bit-format">Use a limited set of colors as in pseudo-16 bit format</a></h2>
 <p><img src="style/UltimateCataclysm/./image/colors.png" alt="colors" /></p>
-<p>This is rule is one of the main rules not only for this tileset, but pixel art in general.
+<p>This rule is one of the main guidelines not only for this tileset, but pixel art in general.
 Each &quot;colour block&quot; should use 3-6 colors for shades. For example a blue shirt might have one light blue highlight, two medium blue main colours, one dark blue shade, and one very dark blue-green shade.
-See <a href="https://lospec.com/pixel-art-tutorials/tags/colors">colors tutorials section</a> on lospec if you're having troubles with palette.</p>
+See <a href="https://lospec.com/pixel-art-tutorials/tags/colors">colors tutorials section</a> on lospec if you're having troubles with the palette.</p>
 <h2><a class="header" href="#try-to-draw-with-realistic-proportions" id="try-to-draw-with-realistic-proportions">Try to draw with realistic proportions</a></h2>
 <p><img src="style/UltimateCataclysm/./image/proportions.png" alt="proportions" /></p>
-<p>Small items/creatures should be small. But if feel that they are <strong>too small</strong>, it is ok to make them bigger for sakes of ability to be recognized. Be careful about sizes.</p>
+<p>Small items/creatures should be small. But if it feels like they are <strong>too small</strong>, it is ok to make them bigger for the sake of readability. Be careful about sizes.</p>
 <h2><a class="header" href="#use-hard-edges-on-foreground-objects" id="use-hard-edges-on-foreground-objects">Use hard edges on foreground objects</a></h2>
 <p><img src="style/UltimateCataclysm/./image/hard-edges.png" alt="hard-edges" /></p>
-<p>.. such as items and monsters. This is important because it makes things much more recognizable when zoomed out.</p>
+<p>Such as items and monsters. This is important because it makes things much more recognizable when zoomed out.</p>
 <h2><a class="header" href="#the-default-light-source-is-assumed-to-come-from-above-and-to-the-left" id="the-default-light-source-is-assumed-to-come-from-above-and-to-the-left">The default light source is assumed to come from above and to the left.</a></h2>
 <p><img src="style/UltimateCataclysm/./image/sunlight.png" alt="sunlight" /></p>
 <h1><a class="header" href="#terrain--furniture" id="terrain--furniture">Terrain &amp; Furniture</a></h1>
 <h2><a class="header" href="#walls-and-floors-are-32x32-other-things-may-vary" id="walls-and-floors-are-32x32-other-things-may-vary">Walls and floors are 32x32, other things may vary</a></h2>
 <p>// TODO: add terrain example image</p>
-<p>Again, you should size things accordingly to its size in the world.</p>
+<p>Again, you should size things accordingly to their size in the world.</p>
 <h2><a class="header" href="#keep-color-value-level-in-medium-range" id="keep-color-value-level-in-medium-range">Keep color value level in medium range</a></h2>
-<p>// TODO: add image with color levels explaination</p>
-<p>It's important to keep value level of the background objects (terrain, furniture) about 60-80, because it would define foreground entities (e.g. monsters) better.</p>
+<p>// TODO: add image with color levels explanation</p>
+<p>It's important to keep the value level of background objects (terrain, furniture) at about 60-80, because it helps define foreground entities (e.g. monsters) better.</p>
 <h1><a class="header" href="#keep-table-surfaces-consistent" id="keep-table-surfaces-consistent">Keep table surfaces consistent</a></h1>
-<p>When drawing something similar to a table keep in mind that currently table surfaces usually occupy top 19 pixels and items may be optimized to look like placed in that area.</p>
+<p>When drawing something similar to a table keep in mind that currently table surfaces usually occupy the top 19 pixels of a tile, and items may be optimized to look placed in that area.</p>
 <h1><a class="header" href="#creatures" id="creatures">Creatures</a></h1>
 <h2><a class="header" href="#take-appropriate-tile-size" id="take-appropriate-tile-size">Take appropriate tile size</a></h2>
 <p>Consider 32x64 a default template for human-sized creatures:</p>
 <p><img src="style/UltimateCataclysm/./image/skin-male.png" alt="male" />
 <img src="style/UltimateCataclysm/./image/skin-female.png" alt="female" /></p>
 <h1><a class="header" href="#monster-sprites-should-have-8px-offset-from-the-ground" id="monster-sprites-should-have-8px-offset-from-the-ground">Monster sprites should have ~8px offset from the ground</a></h1>
-<p>// TODO: add monster image with measured offset</p>
-<p>To give them a 3d look.</p>
+<p><img src="style/UltimateCataclysm/./image/offset.png" alt="offset" /></p>
+<p>To give them a 3D look.</p>
 <h1><a class="header" href="#facing-to-the-right-by-default" id="facing-to-the-right-by-default">Facing to the right by default</a></h1>
 <p>And remember that tiles are mirrored when creatures move.</p>
 <h1><a class="header" href="#monsters-should-drop-shadows-when-possible" id="monsters-should-drop-shadows-when-possible">Monsters should drop shadows when possible</a></h1>
 <p>// TODO: add monster with a shadow image</p>
 <p>Put shadows in a <code>bg</code> field in json, use <code>shadow_&lt;width&gt;x&lt;height&gt;_&lt;size&gt;</code> template. You can find shadow files in the root of any size directory (e.g. <code>pngs_normal_32x32</code>).</p>
 <h1><a class="header" href="#overlay" id="overlay">Overlay</a></h1>
-<p>Rules about hair, mutations, worn clothes, wielded items and survivour's skin.</p>
+<p>Rules about hair, mutations, worn clothes, wielded items and survivor's skin.</p>
 <h1><a class="header" href="#32x64-tile-base" id="32x64-tile-base">32x64 tile base</a></h1>
 <p>Use these as reference (base male and base female sprites):</p>
 <p><img src="style/UltimateCataclysm/./image/skin-male.png" alt="male" />
@@ -369,7 +369,7 @@ See <a href="https://lospec.com/pixel-art-tutorials/tags/colors">colors tutorial
 <h1><a class="header" href="#items" id="items">Items</a></h1>
 <h2><a class="header" href="#maximum-item-size-is-32x32-small-items-should-fit-within-16x16" id="maximum-item-size-is-32x32-small-items-should-fit-within-16x16">Maximum item size is 32x32; small items should fit within 16x16</a></h2>
 <p><img src="style/UltimateCataclysm/./image/item-proportions.png" alt="item-proportions" /></p>
-<p>This is continuation of the general rule.</p>
+<p>This is a continuation of the general rule.</p>
 <h2><a class="header" href="#item-tiles-should-be-as-close-to-scale-as-they-can-be-while-still-recognizable" id="item-tiles-should-be-as-close-to-scale-as-they-can-be-while-still-recognizable">Item tiles should be as close to scale as they can be while still recognizable</a></h2>
 <p><img src="style/UltimateCataclysm/./image/item-group.png" alt="item-group" /></p>
 <p>When in doubt, err on the side of larger, but avoid filling an entire 32x32 tile with a single nail or it would look like a nail as large as a survivor.
@@ -382,7 +382,7 @@ Even for single items, putting multiple items into the icon could give it more r
 <p>No shadow will make sure that players don't confuse several big items with furniture. Black underline helps to identify an item in the game world.</p>
 <h2><a class="header" href="#consider-placement-on-tables" id="consider-placement-on-tables">Consider placement on tables</a></h2>
 <p><img src="style/UltimateCataclysm/./image/items-on-tables.png" alt="items-on-tables" /></p>
-<p>Table surfaces usually occupy top 19 pixels of a 32x32 sprite, try fitting your items there when possible.</p>
+<p>Table surfaces usually occupy the top 19 pixels of a 32x32 sprite, try fitting your items there when possible.</p>
 <h1><a class="header" href="#mshockxotto" id="mshockxotto">MShockXotto+</a></h1>
 <h1><a class="header" href="#mshockxotto-style-guide" id="mshockxotto-style-guide">MShockXotto+ style guide</a></h1>
 <p>MShockXotto+ was originally the mashup of the MShock and the Xotto tileset, both of which were already build on a few other tilesets. This means that MSX never had a strong style guide.
