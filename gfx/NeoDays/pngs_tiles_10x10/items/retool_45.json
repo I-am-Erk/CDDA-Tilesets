@@ -1,7 +1,6 @@
 {
   "id": [
     "retool_45",
-    "grip",
     "lwfeed",
     "barrel_big",
     "barrel_small",
@@ -28,7 +27,6 @@
     "gun_crossbow",
     "laser_sight",
     "barrel_ported",
-    "pistol_grip",
     "aux_flamer",
     "pistol_bayonet",
     "rm121aux",
@@ -42,7 +40,6 @@
     "shoulder_strap",
     "arrowrest",
     "bow_stabilizer",
-    "light_grip",
     "beltfeed",
     "combination_gun_shotgun",
     "combination_gun_shotgun_pipe",
