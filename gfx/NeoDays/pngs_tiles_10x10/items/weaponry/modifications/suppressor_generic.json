@@ -1,0 +1,16 @@
+{
+  "id": [
+    "filter_suppressor",
+    "suppressor_compact",
+    "crafted_suppressor",
+    "mp5sd_suppressor",
+    "riv_suppressor",
+    "shot_suppressor",
+    "bottle_suppressor",
+    "suppressor",
+
+    "muzzle_brake_mod",
+    "muzzle_brake"
+  ],
+  "fg": "suppressor_generic"
+}
