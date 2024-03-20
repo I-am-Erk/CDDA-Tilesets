@@ -17,7 +17,8 @@
     "under_folding_stock",
     "under_folding_stock_folded",
 
-    "ugl_buttstock"
+    "ugl_buttstock",
+    "butt_hook"
   ],
   "fg": "stock_generic"
 }
