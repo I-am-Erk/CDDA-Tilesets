@@ -7,7 +7,10 @@
     "rm121aux_mod",
     "u_shotgun_mod",
     "rm121aux",
-    "u_shotgun"
+    "u_shotgun",
+    "m320_mod_mod",
+    "m320_mod",
+    "gun_crossbow"
   ],
   "fg": "underbarrel_generic"
 }

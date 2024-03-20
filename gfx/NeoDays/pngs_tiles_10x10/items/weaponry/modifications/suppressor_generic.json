@@ -13,7 +13,8 @@
     "muzzle_brake",
     "choke",
     "compensator",
-    "barrel_small"
+    "barrel_small",
+    "barrel_ported"
   ],
   "fg": "suppressor_generic"
 }
