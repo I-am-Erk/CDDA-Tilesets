@@ -3,7 +3,9 @@
     "bipod",
     "scout_bipod",
     "scout_bipod_deployed",
-    "bipod_mod"
+    "bipod_mod",
+    "arisaka_monopod",
+    "arisaka_monopod_deployed"
   ],
   "fg": "bipod_generic"
 }
