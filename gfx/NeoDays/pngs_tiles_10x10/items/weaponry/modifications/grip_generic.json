@@ -1,0 +1,17 @@
+{
+  "id": [
+    "breacher_grip",
+    "pistol_grip",
+    "grip",
+    "grip_mod",
+    "wooden_grip",
+    "light_grip",
+
+    "robofac_handguard",
+    "bipod_handguard",
+    "bipod_handguard_deployed",
+    "modern_handguard",
+    "factory_handguard"
+  ],
+  "fg": "grip_generic"
+}

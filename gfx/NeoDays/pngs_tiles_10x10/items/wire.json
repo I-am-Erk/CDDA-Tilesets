@@ -1,0 +1,13 @@
+{
+  "id": [
+    "wire",
+    "wire_barbed",
+    "qt_wire",
+    "ch_wire",
+    "mc_wire",
+    "lc_wire",
+    "hc_wire",
+    "chain"
+  ],
+  "fg": "wire"
+}

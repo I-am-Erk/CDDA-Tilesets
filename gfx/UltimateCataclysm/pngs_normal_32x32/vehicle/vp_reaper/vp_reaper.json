@@ -1,0 +1,15 @@
+[
+  {
+    "id": "vp_reaper",
+    "fg": [ "vp_reaper"],
+    "multitile": true,
+    "rotates": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [ "vp_reaper" ]
+      }
+    ]
+  }
+]

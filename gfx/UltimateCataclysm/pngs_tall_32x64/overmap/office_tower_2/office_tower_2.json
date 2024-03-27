@@ -6,7 +6,8 @@
       "office_tower_2_a1_2",
       "office_tower_2_a1_roof",
       "office_tower_collapse_a0",
-      "office_tower_collapse_b_a0"
+      "office_tower_collapse_b_a0",
+      "office_tower_2_a1_tower_lab"
     ],
     "fg": [
       "office_tower_2_a1_faceN",
@@ -36,7 +37,6 @@
   {
     "id": [
       "office_tower_2_a3",
-      "office_tower_2_a3_1",
       "office_tower_collapse_a2",
       "office_tower_collapse_b_a2"
       ],
@@ -98,5 +98,17 @@
       "office_tower_2_b3_faceE"
     ],
     "rotates": true
+  },
+  {
+    "id": [
+      "tower_lab",
+      "tower_lab_stairs",
+      "tower_lab_finale"
+    ],
+    "fg": "office_tower_2_a3_faceW"
+  },
+  {
+    "id": [ "office_tower_2_a3_1", "office_tower_open_air", "office_tower_open_air_corner" ],
+    "fg": "open_air_tall"
   }
 ]

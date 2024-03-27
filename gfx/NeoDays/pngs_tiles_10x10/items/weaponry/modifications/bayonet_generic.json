@@ -1,0 +1,16 @@
+{
+  "id": [
+    "inter_bayonet",
+    "inter_bayonet_folded",
+    "pistol_bayonet",
+    "rail_bayonet_lug",
+
+    "knife_combat_army",
+    "knife_combat_marine",
+    "sword_bayonet",
+    "enfield_bayonet",
+    "arisaka_bayonet",
+    "makeshift_bayonet"
+  ],
+  "fg": "bayonet_generic"
+}

@@ -50,5 +50,18 @@
       "bg": "vp_ram_wood"
     }
   ]
-} 
+},
+{
+  "id": "vp_tearer",
+  "fg": "vp_tearer",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "crack_metal_center",
+      "bg": "vp_tearer"
+    }
+  ]
+}
 ]

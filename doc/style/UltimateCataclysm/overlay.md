@@ -1,6 +1,6 @@
 # Overlay
 
-Rules about hair, mutations, worn clothes, wielded items and survivour's skin.
+Rules about hair, mutations, worn clothes, wielded items and survivor's skin.
 
 # 32x64 tile base
 Use these as reference (base male and base female sprites):
