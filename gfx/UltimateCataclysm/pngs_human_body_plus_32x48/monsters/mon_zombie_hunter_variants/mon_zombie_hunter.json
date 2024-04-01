@@ -7,6 +7,6 @@
 {
   "id": "mon_zombie_predator",
   "fg": "mon_zombie_predator",
-  "bg": "shadow_32x48_normal"
+  "bg": "shadow_32x48_medium"
 }
 ]
