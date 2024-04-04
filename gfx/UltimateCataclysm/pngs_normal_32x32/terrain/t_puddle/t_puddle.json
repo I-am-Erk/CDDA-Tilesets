@@ -1,0 +1,22 @@
+[
+  {
+    "id": "t_puddle",
+    "fg": "t_puddle",
+    "bg": "t_grass"
+  },
+  {
+    "id": "t_puddle_season_summer",
+    "fg": "t_puddle",
+    "bg": "t_grass_summer"
+  },
+  {
+    "id": "t_puddle_season_autumn",
+    "fg": "t_puddle",
+    "bg": "t_grass_autumn"
+  },
+  {
+    "id": "t_puddle_season_winter",
+    "fg": "t_puddle",
+    "bg": "snow_shallow_center"
+  }
+]

@@ -43,10 +43,7 @@
     },
     {
       "id": "unconnected",
-      "fg": [
-        "t_wall_metal_corrugated_unconnected",
-        "t_wall_metal_corrugated_unconnected"
-      ]
+      "fg": "t_wall_metal_corrugated_unconnected"
     }
   ]
 }
