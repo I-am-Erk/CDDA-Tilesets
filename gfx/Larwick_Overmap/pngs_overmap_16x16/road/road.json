@@ -1,5 +1,9 @@
 {
-  "id": "road",
+  "id": [
+    "road",
+    "mine_tunnel",
+    "subway"
+  ],
   "fg": "road_unconnected",
   "multitile": true,
   "additional_tiles": [
