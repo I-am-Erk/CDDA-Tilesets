@@ -184,10 +184,6 @@
     "fg": "hive_brown"
   },
   {
-    "id": "ants",
-    "fg": "pond_brown"
-  },
-  {
     "id": "ants_food",
     "fg": "hive_red"
   },

@@ -1,5 +1,8 @@
 {
-  "id": "forest_trail",
+  "id": [
+    "forest_trail",
+    "sewer"
+  ],
   "fg": "forest_trail_unconnected",
   "multitile": true,
   "additional_tiles": [
