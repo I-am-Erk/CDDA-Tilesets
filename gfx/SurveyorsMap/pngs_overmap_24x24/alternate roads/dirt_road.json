@@ -2,23 +2,27 @@
   {
     "id": "rural_road",
     "fg": "dirt_road_unconnected",
+    "bg": "field",
     "multitile": true,
     "additional_tiles": [
-      { "id": "center", "fg": "dirt_road_center" },
+      { "id": "center", "fg": "dirt_road_center", "bg": "field" },
       {
         "id": "corner",
-        "fg": [ "dirt_road_corner_nw", "dirt_road_corner_sw", "dirt_road_corner_se", "dirt_road_corner_ne" ]
+        "fg": [ "dirt_road_corner_nw", "dirt_road_corner_sw", "dirt_road_corner_se", "dirt_road_corner_ne" ],
+        "bg": "field"
       },
       {
         "id": "t_connection",
-        "fg": [ "dirt_road_t_connection_n", "dirt_road_t_connection_w", "dirt_road_t_connection_s", "dirt_road_t_connection_e" ]
+        "fg": [ "dirt_road_t_connection_n", "dirt_road_t_connection_w", "dirt_road_t_connection_s", "dirt_road_t_connection_e" ],
+        "bg": "field"
       },
-      { "id": "edge", "fg": [ "dirt_road_edge_ns", "dirt_road_edge_ew" ] },
+      { "id": "edge", "fg": [ "dirt_road_edge_ns", "dirt_road_edge_ew" ], "bg": "field" },
       {
         "id": "end_piece",
-        "fg": [ "dirt_road_end_piece_n", "dirt_road_end_piece_w", "dirt_road_end_piece_s", "dirt_road_end_piece_e" ]
+        "fg": [ "dirt_road_end_piece_n", "dirt_road_end_piece_w", "dirt_road_end_piece_s", "dirt_road_end_piece_e" ],
+        "bg": "field"
       },
-      { "id": "unconnected", "fg": [ "dirt_road_unconnected", "dirt_road_unconnected" ] }
+      { "id": "unconnected", "fg": [ "dirt_road_unconnected", "dirt_road_unconnected" ], "bg": "field" }
     ]
   },
   {
@@ -27,21 +31,24 @@
     "bg": "forest_center",
     "multitile": true,
     "additional_tiles": [
-      { "id": "center", "fg": "rural_road_center" },
+      { "id": "center", "fg": "rural_road_center", "bg": "forest_center" },
       {
         "id": "corner",
-        "fg": [ "rural_road_corner_nw", "rural_road_corner_sw", "rural_road_corner_se", "rural_road_corner_ne" ]
+        "fg": [ "rural_road_corner_nw", "rural_road_corner_sw", "rural_road_corner_se", "rural_road_corner_ne" ],
+        "bg": "forest_center"
       },
       {
         "id": "t_connection",
-        "fg": [ "rural_road_t_connection_n", "rural_road_t_connection_w", "rural_road_t_connection_s", "rural_road_t_connection_e" ]
+        "fg": [ "rural_road_t_connection_n", "rural_road_t_connection_w", "rural_road_t_connection_s", "rural_road_t_connection_e" ],
+        "bg": "forest_center"
       },
-      { "id": "edge", "fg": [ "rural_road_edge_ns", "rural_road_edge_ew" ] },
+      { "id": "edge", "fg": [ "rural_road_edge_ns", "rural_road_edge_ew" ], "bg": "forest_center" },
       {
         "id": "end_piece",
-        "fg": [ "rural_road_end_piece_n", "rural_road_end_piece_w", "rural_road_end_piece_s", "rural_road_end_piece_e" ]
+        "fg": [ "rural_road_end_piece_n", "rural_road_end_piece_w", "rural_road_end_piece_s", "rural_road_end_piece_e" ],
+        "bg": "forest_center"
       },
-      { "id": "unconnected", "fg": [ "rural_road_unconnected", "rural_road_unconnected" ] }
+      { "id": "unconnected", "fg": [ "rural_road_unconnected", "rural_road_unconnected" ], "bg": "forest_center" }
     ]
   }
 ]
