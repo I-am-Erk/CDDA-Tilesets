@@ -35,10 +35,10 @@
     {
       "id": "end_piece",
       "fg": [
-        "rural_road_end_piece_n",
-        "rural_road_end_piece_w",
         "rural_road_end_piece_s",
-        "rural_road_end_piece_e"
+        "rural_road_end_piece_e",
+        "rural_road_end_piece_n",
+        "rural_road_end_piece_w"
       ]
     },
     {
