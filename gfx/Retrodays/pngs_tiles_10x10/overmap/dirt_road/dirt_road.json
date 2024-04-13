@@ -1,9 +1,0 @@
-{
-    "id": [ "dirt_road", "rural_road"],
-    "fg": [
-        "dirt_road_edge_ns",
-        "dirt_road_edge_ew"
-    ],
-    "bg": "1_t_hole_0",
-    "rotates": true
-}

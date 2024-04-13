@@ -1,9 +1,0 @@
-{
-    "id": [ "dirt_road_forest", "rural_road_forest" ],
-    "fg": [
-        "dirt_road_edge_ns",
-        "dirt_road_edge_ew"
-    ],
-    "bg": "forest_trail_bg",
-    "rotates": true
-}
