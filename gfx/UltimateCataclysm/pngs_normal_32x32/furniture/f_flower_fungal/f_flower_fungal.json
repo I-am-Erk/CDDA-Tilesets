@@ -2,22 +2,24 @@
   {
     "id": [ "f_flower_fungal" ],
     "fg": [
-      { "weight": 1, "sprite": "f_flower_fungal01" },
-      { "weight": 1, "sprite": "f_flower_fungal02" },
-      { "weight": 1, "sprite": "f_flower_fungal03" },
-      { "weight": 1, "sprite": "f_flower_fungal04" },
-      { "weight": 1, "sprite": "f_flower_fungal05" },
-      { "weight": 1, "sprite": "f_flower_fungal06" },
-      { "weight": 1, "sprite": "f_flower_fungal07" },
-      { "weight": 1, "sprite": "f_flower_fungal08" },
-      { "weight": 1, "sprite": "f_flower_fungal09" },
-      { "weight": 1, "sprite": "f_flower_fungal10" },
-      { "weight": 1, "sprite": "f_flower_fungal11" },
-      { "weight": 1, "sprite": "f_flower_fungal12" },
-      { "weight": 1, "sprite": "f_flower_fungal13" },
-      { "weight": 1, "sprite": "f_flower_fungal14" },
-      { "weight": 1, "sprite": "f_flower_fungal15" },
-      { "weight": 1, "sprite": "f_flower_fungal16" }
+      { "weight": 1, "sprite": "f_flower_fungal_01" },
+      { "weight": 1, "sprite": "f_flower_fungal_02" },
+      { "weight": 1, "sprite": "f_flower_fungal_03" },
+      { "weight": 1, "sprite": "f_flower_fungal_04" },
+      { "weight": 1, "sprite": "f_flower_fungal_05" },
+      { "weight": 1, "sprite": "f_flower_fungal_06" },
+      { "weight": 1, "sprite": "f_flower_fungal_07" },
+      { "weight": 1, "sprite": "f_flower_fungal_08" },
+      { "weight": 1, "sprite": "f_flower_fungal_09" },
+      { "weight": 1, "sprite": "f_flower_fungal_10" },
+      { "weight": 1, "sprite": "f_flower_fungal_11" },
+      { "weight": 1, "sprite": "f_flower_fungal_12" },
+      { "weight": 1, "sprite": "f_flower_fungal_13" },
+      { "weight": 1, "sprite": "f_flower_fungal_14" },
+      { "weight": 1, "sprite": "f_flower_fungal_15" },
+      { "weight": 1, "sprite": "f_flower_fungal_16" },
+	  { "weight": 1, "sprite": "f_flower_fungal_17" },
+	  { "weight": 1, "sprite": "f_flower_fungal_18" }
     ]
   }
 ]
