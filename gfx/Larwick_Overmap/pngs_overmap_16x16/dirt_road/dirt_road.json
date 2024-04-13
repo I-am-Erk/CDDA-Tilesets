@@ -16,7 +16,7 @@
       { "id": "edge", "fg": [ "dirt_road_edge_ns", "dirt_road_edge_ew" ] },
       {
         "id": "end_piece",
-        "fg": [ "dirt_road_end_piece_n", "dirt_road_end_piece_w", "dirt_road_end_piece_s", "dirt_road_end_piece_e" ]
+        "fg": [ "dirt_road_end_piece_n", "dirt_road_end_piece_e", "dirt_road_end_piece_s", "dirt_road_end_piece_w" ]
       },
       { "id": "unconnected", "fg": [ "dirt_road_unconnected", "dirt_road_unconnected" ] }
     ]
