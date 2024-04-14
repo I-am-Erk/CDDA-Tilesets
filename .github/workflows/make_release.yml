@@ -27,7 +27,7 @@ jobs:
       - id: rel-data
         run: |
           echo "RELEASE-TITLE=Tilesets Release ${{ steps.timestamp.outputs.time }}" >> $GITHUB_OUTPUT
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - run: |
           gh release create "${{ steps.timestamp.outputs.time }}" --generate-notes --title "${{ steps.rel-data.outputs.RELEASE-TITLE }}"
 
@@ -106,7 +106,7 @@ jobs:
         # still cache it because we'll make it work somehow
       - run: sudo apt-get update; sudo apt-get install libvips42
       - run: pip3 install pyvips
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Build ${{ matrix.name }}
         run: |
