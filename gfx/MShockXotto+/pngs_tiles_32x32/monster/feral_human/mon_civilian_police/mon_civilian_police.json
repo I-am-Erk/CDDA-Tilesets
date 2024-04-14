@@ -1,0 +1,6 @@
+[
+  {
+    "id": "mon_civilian_police",
+    "fg": [ { "weight": 1, "sprite": "mon_civilian_police" }, { "weight": 1, "sprite": "mon_civilian_police_1" } ]
+  }
+]
