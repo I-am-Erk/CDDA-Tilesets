@@ -1,3 +1,0 @@
-[mon_fungal_wall.png]
-Original author: Sega Saturn
-Fungal style overhaul author: ShnitzelX2

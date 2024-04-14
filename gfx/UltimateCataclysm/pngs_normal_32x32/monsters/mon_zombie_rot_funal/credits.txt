@@ -1,3 +1,0 @@
-[mon_zombie_rot_fungal.png]
-Original author: Zaloran82
-Fungal style overhaul author: ShnitzelX2

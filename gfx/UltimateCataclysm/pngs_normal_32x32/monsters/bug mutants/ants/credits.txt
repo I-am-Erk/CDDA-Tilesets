@@ -1,5 +1,0 @@
-[mon_ant_fungus.png]
-Original author: Sega Saturn
-Fungal style overhaul author: ShnitzelX2
-
-Other pngs: Unknown
