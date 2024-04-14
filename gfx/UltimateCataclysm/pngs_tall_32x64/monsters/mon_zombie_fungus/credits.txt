@@ -1,3 +1,0 @@
-[mon_zombie_fungus.png]
-Original author: Sega Saturn
-Fungal style overhaul author: ShnitzelX2
