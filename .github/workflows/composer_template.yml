@@ -28,7 +28,7 @@ jobs:
       - run: sudo apt-get update; sudo apt-get install libvips42
       - run: pip3 install pyvips
 
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Build
         id: build
