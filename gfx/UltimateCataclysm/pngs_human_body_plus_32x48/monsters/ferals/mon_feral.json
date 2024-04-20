@@ -22,5 +22,15 @@
       { "weight": 50, "sprite": "mon_feral_axe_2" }
     ],
     "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_feral_jackboot",
+    "fg": "mon_feral_jackboot",
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_feral_swimmer_kickboard",
+    "fg": "mon_feral_swimmer_kickboard",
+    "bg": "shadow_32x48_normal"
   }
 ]
