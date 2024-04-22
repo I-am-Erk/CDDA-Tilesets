@@ -22,5 +22,13 @@
       { "weight": 50, "sprite": "mon_feral_axe_2" }
     ],
     "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_feral_prepper_knife",
+    "fg": [
+      { "weight": 1, "sprite": "mon_feral_prepper_knife_JACKET" },
+      { "weight": 1, "sprite": "mon_feral_prepper_knife_JACKET_BLOODY" }
+    ],
+    "bg": "shadow_32x48_normal"
   }
 ]
