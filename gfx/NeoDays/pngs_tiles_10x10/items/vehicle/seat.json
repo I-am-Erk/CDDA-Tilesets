@@ -1,5 +1,8 @@
 {
-  "id": "seat",
+  "id": [
+    "seat",
+    "seat_bench"
+  ],
   "fg": "vp_seat",
   "//": "vehicle part"
 }
