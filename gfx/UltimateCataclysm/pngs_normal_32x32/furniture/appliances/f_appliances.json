@@ -1,0 +1,34 @@
+[
+  {
+    "id": "f_active_backup_generator",
+    "fg": "f_active_backup_generator"
+  },
+  {
+    "id": "f_bandsaw",
+    "fg": "f_bandsaw"
+  },
+  {
+    "id": "f_hd_compressor_unit",
+    "fg": "f_hd_compressor_unit"
+  },
+  {
+    "id": "f_jointer",
+    "fg": "f_jointer"
+  },
+  {
+    "id": "f_mitresaw",
+    "fg": "f_mitresaw"
+  },
+  {
+    "id": "f_oxygen_concentrator",
+    "fg": "f_oxygen_concentrator"
+  },
+  {
+    "id": "f_planer",
+    "fg": "f_planer"
+    },
+  {
+    "id": "f_tablesaw",
+    "fg": "f_tablesaw"
+  }
+]
