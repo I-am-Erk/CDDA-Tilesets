@@ -10,116 +10,6 @@
         "bg": "red"
     },
     {
-        "id": [
-            "horse_farm_1",
-            "horse_farm_11",
-            "horse_farm_12",
-            "horse_farm_14",
-            "horse_farm_15",
-            "horse_farm_16",
-            "horse_farm_3",
-            "horse_farm_5",
-            "horse_farm_6",
-            "horse_farm_8"
-        ],
-        "fg": "black35",
-        "bg": "brown"
-    },
-    {
-        "id": [
-            "horse_farm_13_roof"
-        ],
-        "fg": "black94",
-        "bg": "brown",
-        "rotates": true
-    },
-    {
-        "id": [
-            "horse_farm_13"
-        ],
-        "fg": "black94",
-        "bg": "brown",
-        "rotates": true
-    },
-    {
-        "id": [
-            "horse_farm_2"
-        ],
-        "fg": "black35",
-        "bg": "brown"
-    },
-    {
-        "id": [
-            "horse_farm_4"
-        ],
-        "fg": "black111",
-        "bg": "brown"
-    },
-    {
-        "id": [
-            "horse_farm_4_roof"
-        ],
-        "fg": "black111",
-        "bg": "brown"
-    },
-    {
-        "id": [
-            "horse_farm_7"
-        ],
-        "fg": "black38",
-        "bg": "brown"
-    },
-    {
-        "id": [
-            "horse_farm_7_hayloft"
-        ],
-        "fg": "black38",
-        "bg": "brown"
-    },
-    {
-        "id": [
-            "horse_farm_7_roof"
-        ],
-        "fg": "black38",
-        "bg": "brown"
-    },
-    {
-        "id": [
-            "horse_farm_9"
-        ],
-        "fg": "black111",
-        "bg": "brown"
-    },
-    {
-        "id": [
-            "horse_farm_9_roof"
-        ],
-        "fg": "black111",
-        "bg": "brown"
-    },
-    {
-        "id": [
-            "horse_farm_10"
-        ],
-        "fg": "black111",
-        "bg": "brown"
-    },
-    {
-        "id": [
-            "horse_farm_10_roof"
-        ],
-        "fg": "black111",
-        "bg": "brown"
-    },
-    {
-        "id": [
-            "horse_farm_13_2ndfloor"
-        ],
-        "fg": "black94",
-        "bg": "brown",
-        "rotates": true
-    },
-    {
         "id": "cabin_isherwood",
         "fg": "black67",
         "bg": "green"
@@ -324,6 +214,12 @@
         ],
         "fg": "black76",
         "bg": "green"
+    },
+    {
+        "id": "dirt_road_farm_parking",
+        "fg": "brown179",
+        "bg": "black",
+        "rotates": true
     },
     {
         "id": "sugar_house",
@@ -1634,6 +1530,11 @@
         "bg": "light_gray"
     },
     {
+        "id": "cs_market_small_roof",
+        "fg": "black109",
+        "bg": "light_gray"
+    },
+    {
         "id": "cs_sex_shop",
         "fg": "black120",
         "bg": "pink"
@@ -2039,18 +1940,6 @@
         "id": "faction_base_garage_2_0",
         "fg": "black43",
         "bg": "light_gray"
-    },
-    {
-        "id": "rift",
-        "fg": "red94",
-        "bg": "black",
-        "rotates": true
-    },
-    {
-        "id": "hellmouth",
-        "fg": "light_red94",
-        "bg": "black",
-        "rotates": true
     },
     {
         "id": "sai",
@@ -3222,7 +3111,10 @@
         "bg": "green"
     },
     {
-        "id": "zoo_2_0",
+        "id": [
+            "zoo_2_0",
+            "zoo_3_0"
+        ],
         "fg": "black80",
         "bg": "green"
     },
@@ -3231,21 +3123,37 @@
             "zoo_0_1",
             "zoo_1_1",
             "zoo_2_1",
+            "zoo_3_1",
             "zoo_0_2",
             "zoo_1_2",
-            "zoo_2_2"
+            "zoo_2_2",
+            "zoo_3_2",
+            "zoo_0_3",
+            "zoo_1_3",
+            "zoo_2_3",
+            "zoo_3_3"
         ],
         "fg": "black90",
         "bg": "green"
     },
     {
         "id": [
+            "zoo_0_0_roof",
+            "zoo_1_0_roof",
+            "zoo_2_0_roof",
+            "zoo_3_0_roof",
             "zoo_0_1_roof",
             "zoo_1_1_roof",
             "zoo_2_1_roof",
+            "zoo_3_1_roof",
             "zoo_0_2_roof",
             "zoo_1_2_roof",
-            "zoo_2_2_roof"
+            "zoo_2_2_roof",
+            "zoo_3_2_roof",
+            "zoo_0_3_roof",
+            "zoo_1_3_roof",
+            "zoo_2_3_roof",
+            "zoo_3_3_roof"
         ],
         "fg": "black90",
         "bg": "green"
@@ -3560,7 +3468,6 @@
             "house_03",
             "house_04",
             "house_05",
-            "house_05ab",
             "house_06",
             "house_07",
             "house_08",
@@ -3693,7 +3600,11 @@
             "urban_17_1",
             "urban_17_2",
             "urban_18_3",
-            "urban_18_4"
+            "urban_18_4",
+            "urban_22_1",
+            "urban_22_2",
+            "urban_22_1_roof",
+            "urban_22_2_roof"
         ],
         "fg": "light_green94",
         "bg": "black",
@@ -4459,12 +4370,6 @@
         "rotates": true
     },
     {
-        "id": "city_center",
-        "fg": "dark_gray197",
-        "bg": "black",
-        "rotates": true
-    },
-    {
         "id": "bridge",
         "fg": "blue179",
         "bg": "black",
@@ -4889,6 +4794,11 @@
         "fg": "yellow94",
         "bg": "black",
         "rotates": true
+    },
+    {
+        "id": "afs_crashed_cargo_shuttle",
+        "fg": "black115",
+        "bg": "red"
     },
     {
         "id": "robot_dispatch_first",
