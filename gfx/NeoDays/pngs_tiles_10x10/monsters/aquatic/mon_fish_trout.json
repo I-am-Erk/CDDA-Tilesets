@@ -4,6 +4,13 @@
     "mon_fish_perch",
     "mon_fish_salmon",
     "mon_fish_sunfish",
+    "mon_fish_bluefin_tuna",
+    "mon_fish_mackerel",
+    "mon_fish_blackfish",
+    "mon_fish_haddock",
+    "mon_fish_sturgeon_lake",
+    "mon_fish_sturgeon_shortnose",
+    "mon_fish_porgy",
     "mon_fish_bowfin"
   ],
   "fg": "mon_fish_trout"
