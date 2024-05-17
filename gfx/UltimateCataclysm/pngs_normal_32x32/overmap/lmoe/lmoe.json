@@ -1,0 +1,17 @@
+[
+  {
+    "id": [ "lmoe", "lmoe_prepperquest", "lmoe_zombie" ],
+    "fg": "lmoe",
+    "bg": "field"
+  },
+  {
+    "id": "lmoe_roof",
+    "fg": "lmoe",
+    "bg": "open_air"
+  },
+  {
+    "id": [ "lmoe_under_empty", "lmoe_under_empty_prepperquest", "lmoe_zombie_under_empty" ],
+    "fg": "lmoe",
+    "bg": "t_soil_center"
+  }
+]
