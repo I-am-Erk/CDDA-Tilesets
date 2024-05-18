@@ -1,7 +1,7 @@
 {
-  "id": "clay_hydria",
-  "fg": [
+  "id": [
     "clay_hydria",
     "clay_urn"
-  ]
+  ],
+  "fg": "clay_hydria"
 }
