@@ -1,0 +1,11 @@
+{
+  "id": "mon_eigenspectre_3",
+  "animated": true,
+    "fg": [
+      { "weight": 32, "sprite": "mon_eigenspectre_3_1" },
+      { "weight": 32, "sprite": "mon_eigenspectre_3_2" },
+      { "weight": 32, "sprite": "mon_eigenspectre_3_3" },
+      { "weight": 32, "sprite": "mon_eigenspectre_3_4" }
+    ],
+  "bg": "shadow_64x64_medium"
+}

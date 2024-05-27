@@ -1,0 +1,29 @@
+{
+  "id": "t_LIXA_unfolded_tube_broken",
+  "multitile": true,
+  "fg": "t_LIXA_unfolded_tube_broken_n",
+  "bg": "t_LIXA_thconc_floor_center",
+  "additional_tiles": [
+    {
+      "id": "t_connection",
+      "bg": "t_LIXA_thconc_floor_center",
+      "fg": [
+        "t_LIXA_unfolded_tube_broken_n",
+        "t_LIXA_unfolded_tube_broken_w",
+        "t_LIXA_unfolded_tube_broken_s",
+        "t_LIXA_unfolded_tube_broken_e"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "bg": "t_LIXA_thconc_floor_center",
+      "fg": [
+        "t_LIXA_unfolded_tube_broken_n",
+        "t_LIXA_unfolded_tube_broken_w",
+        "t_LIXA_unfolded_tube_broken_s",
+        "t_LIXA_unfolded_tube_broken_e"
+      ]
+    }
+	]
+}
+
