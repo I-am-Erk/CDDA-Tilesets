@@ -1,13 +1,13 @@
 [
   {
     "id": [ "warehouse" ],
-    "fg": [ "warehouse_N", "warehouse_E", "warehouse_S", "warehouse_W" ],
+    "fg": [ "warehouse_N", "warehouse_W", "warehouse_S", "warehouse_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "warehouse_roof" ],
-    "fg": [ "warehouse_roof_N", "warehouse_roof_E", "warehouse_roof_S", "warehouse_roof_W" ],
+    "fg": [ "warehouse_roof_N", "warehouse_roof_W", "warehouse_roof_S", "warehouse_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

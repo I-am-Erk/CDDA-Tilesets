@@ -1,31 +1,31 @@
 [
   {
     "id": [ "church" ],
-    "fg": [ "church_N", "church_E", "church_S", "church_W" ],
+    "fg": [ "church_N", "church_W", "church_S", "church_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "church_roof" ],
-    "fg": [ "church_roof_N", "church_roof_E", "church_roof_S", "church_roof_W" ],
+    "fg": [ "church_roof_N", "church_roof_W", "church_roof_S", "church_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "church_steeple" ],
-    "fg": [ "church_steeple_N", "church_steeple_E", "church_steeple_S", "church_steeple_W" ],
+    "fg": [ "church_steeple_N", "church_steeple_W", "church_steeple_S", "church_steeple_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "church_steeple_end" ],
-    "fg": [ "church_steeple_end_N", "church_steeple_end_E", "church_steeple_end_S", "church_steeple_end_W" ],
+    "fg": [ "church_steeple_end_N", "church_steeple_end_W", "church_steeple_end_S", "church_steeple_end_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "church_steeple_roof" ],
-    "fg": [ "church_steeple_roof_N", "church_steeple_roof_E", "church_steeple_roof_S", "church_steeple_roof_W" ],
+    "fg": [ "church_steeple_roof_N", "church_steeple_roof_W", "church_steeple_roof_S", "church_steeple_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

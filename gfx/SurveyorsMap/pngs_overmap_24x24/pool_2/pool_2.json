@@ -1,13 +1,13 @@
 [
   {
     "id": [ "pool_2" ],
-    "fg": [ "pool_2_N", "pool_2_E", "pool_2_S", "pool_2_W" ],
+    "fg": [ "pool_2_N", "pool_2_W", "pool_2_S", "pool_2_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "pool_roof_2" ],
-    "fg": [ "pool_roof_2_N", "pool_roof_2_E", "pool_roof_2_S", "pool_roof_2_W" ],
+    "fg": [ "pool_roof_2_N", "pool_roof_2_W", "pool_roof_2_S", "pool_roof_2_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

@@ -1,7 +1,7 @@
 [
   {
     "id": [ "cs_public_space" ],
-    "fg": [ "cs_public_space_N", "cs_public_space_E", "cs_public_space_S", "cs_public_space_W" ],
+    "fg": [ "cs_public_space_N", "cs_public_space_W", "cs_public_space_S", "cs_public_space_E" ],
     "bg": [ "field" ],
     "rotates": true
   }

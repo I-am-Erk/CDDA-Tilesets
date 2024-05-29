@@ -1,13 +1,13 @@
 [
   {
     "id": [ "gambling_hall_1" ],
-    "fg": [ "gambling_hall_1_N", "gambling_hall_1_E", "gambling_hall_1_S", "gambling_hall_1_W" ],
+    "fg": [ "gambling_hall_1_N", "gambling_hall_1_W", "gambling_hall_1_S", "gambling_hall_1_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "gambling_hall_roof_1" ],
-    "fg": [ "gambling_hall_roof_1_N", "gambling_hall_roof_1_E", "gambling_hall_roof_1_S", "gambling_hall_roof_1_W" ],
+    "fg": [ "gambling_hall_roof_1_N", "gambling_hall_roof_1_W", "gambling_hall_roof_1_S", "gambling_hall_roof_1_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

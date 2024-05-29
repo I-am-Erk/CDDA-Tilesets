@@ -1,13 +1,13 @@
 [
   {
     "id": [ "bar_1" ],
-    "fg": [ "bar_1_N", "bar_1_E", "bar_1_S", "bar_1_W" ],
+    "fg": [ "bar_1_N", "bar_1_W", "bar_1_S", "bar_1_E" ],
     "bg": [  ],
     "rotates": true
   },
   {
     "id": [ "bar_roof_1" ],
-    "fg": [ "bar_roof_1_N", "bar_roof_1_E", "bar_roof_1_S", "bar_roof_1_W" ],
+    "fg": [ "bar_roof_1_N", "bar_roof_1_W", "bar_roof_1_S", "bar_roof_1_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

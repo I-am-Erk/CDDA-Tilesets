@@ -1,19 +1,19 @@
 [
   {
     "id": [ "police_2" ],
-    "fg": [ "police_2_N", "police_2_E", "police_2_S", "police_2_W" ],
+    "fg": [ "police_2_N", "police_2_W", "police_2_S", "police_2_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "police_roof_2" ],
-    "fg": [ "police_roof_2_N", "police_roof_2_E", "police_roof_2_S", "police_roof_2_W" ],
+    "fg": [ "police_roof_2_N", "police_roof_2_W", "police_roof_2_S", "police_roof_2_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "police_2ndfloor_2" ],
-    "fg": [ "police_upper_roof_2_N", "police_upper_roof_2_E", "police_upper_roof_2_S", "police_upper_roof_2_W" ],
+    "fg": [ "police_upper_roof_2_N", "police_upper_roof_2_W", "police_upper_roof_2_S", "police_upper_roof_2_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

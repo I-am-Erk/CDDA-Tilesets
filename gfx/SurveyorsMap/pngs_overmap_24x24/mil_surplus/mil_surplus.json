@@ -1,13 +1,13 @@
 [
   {
     "id": [ "mil_surplus" ],
-    "fg": [ "mil_surplus_N", "mil_surplus_E", "mil_surplus_S", "mil_surplus_W" ],
+    "fg": [ "mil_surplus_N", "mil_surplus_W", "mil_surplus_S", "mil_surplus_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "mil_surplus_roof" ],
-    "fg": [ "mil_surplus_roof_N", "mil_surplus_roof_E", "mil_surplus_roof_S", "mil_surplus_roof_W" ],
+    "fg": [ "mil_surplus_roof_N", "mil_surplus_roof_W", "mil_surplus_roof_S", "mil_surplus_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

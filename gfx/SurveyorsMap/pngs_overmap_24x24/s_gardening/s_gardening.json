@@ -1,13 +1,13 @@
 [
   {
     "id": [ "s_gardening" ],
-    "fg": [ "s_gardening_N", "s_gardening_E", "s_gardening_S", "s_gardening_W" ],
+    "fg": [ "s_gardening_N", "s_gardening_W", "s_gardening_S", "s_gardening_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "s_gardening_roof" ],
-    "fg": [ "s_gardening_roof_N", "s_gardening_roof_E", "s_gardening_roof_S", "s_gardening_roof_W" ],
+    "fg": [ "s_gardening_roof_N", "s_gardening_roof_W", "s_gardening_roof_S", "s_gardening_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

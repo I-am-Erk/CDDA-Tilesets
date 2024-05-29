@@ -1,19 +1,19 @@
 [
   {
     "id": [ "s_teashop_1" ],
-    "fg": [ "s_teashop_1_N", "s_teashop_1_E", "s_teashop_1_S", "s_teashop_1_W" ],
+    "fg": [ "s_teashop_1_N", "s_teashop_1_W", "s_teashop_1_S", "s_teashop_1_E" ],
     "bg": [  ],
     "rotates": true
   },
   {
     "id": [ "s_teashop_roof_1" ],
-    "fg": [ "s_teashop_roof_1_N", "s_teashop_roof_1_E", "s_teashop_roof_1_S", "s_teashop_roof_1_W" ],
+    "fg": [ "s_teashop_roof_1_N", "s_teashop_roof_1_W", "s_teashop_roof_1_S", "s_teashop_roof_1_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "s_teashop_upper_roof_1" ],
-    "fg": [ "s_teashop_upper_roof_1_N", "s_teashop_upper_roof_1_E", "s_teashop_upper_roof_1_S", "s_teashop_upper_roof_1_W" ],
+    "fg": [ "s_teashop_upper_roof_1_N", "s_teashop_upper_roof_1_W", "s_teashop_upper_roof_1_S", "s_teashop_upper_roof_1_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

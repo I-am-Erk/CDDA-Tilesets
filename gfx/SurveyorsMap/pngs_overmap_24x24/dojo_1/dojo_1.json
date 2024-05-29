@@ -1,19 +1,19 @@
 [
   {
     "id": [ "dojo_1" ],
-    "fg": [ "dojo_1_N", "dojo_1_E", "dojo_1_S", "dojo_1_W" ],
+    "fg": [ "dojo_1_N", "dojo_1_W", "dojo_1_S", "dojo_1_E" ],
     "bg": [  ],
     "rotates": true
   },
   {
     "id": [ "dojo_roof_1" ],
-    "fg": [ "dojo_roof_1_N", "dojo_roof_1_E", "dojo_roof_1_S", "dojo_roof_1_W" ],
+    "fg": [ "dojo_roof_1_N", "dojo_roof_1_W", "dojo_roof_1_S", "dojo_roof_1_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "dojo_upper_roof_1" ],
-    "fg": [ "dojo_upper_roof_1_N", "dojo_upper_roof_1_E", "dojo_upper_roof_1_S", "dojo_upper_roof_1_W" ],
+    "fg": [ "dojo_upper_roof_1_N", "dojo_upper_roof_1_W", "dojo_upper_roof_1_S", "dojo_upper_roof_1_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

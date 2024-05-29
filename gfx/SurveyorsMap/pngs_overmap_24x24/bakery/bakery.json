@@ -1,19 +1,19 @@
 [
   {
     "id": [ "bakery" ],
-    "fg": [ "bakery_N", "bakery_E", "bakery_S", "bakery_W" ],
+    "fg": [ "bakery_N", "bakery_W", "bakery_S", "bakery_E" ],
     "bg": [  ],
     "rotates": true
   },
   {
     "id": [ "bakery_roof" ],
-    "fg": [ "bakery_roof_N", "bakery_roof_E", "bakery_roof_S", "bakery_roof_W" ],
+    "fg": [ "bakery_roof_N", "bakery_roof_W", "bakery_roof_S", "bakery_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "bakery_upper_roof" ],
-    "fg": [ "bakery_upper_roof_N", "bakery_upper_roof_E", "bakery_upper_roof_S", "bakery_upper_roof_W" ],
+    "fg": [ "bakery_upper_roof_N", "bakery_upper_roof_W", "bakery_upper_roof_S", "bakery_upper_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

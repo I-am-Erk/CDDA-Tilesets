@@ -1,13 +1,13 @@
 [
   {
     "id": [ "shelter_1", "shelter_1_vandal" ],
-    "fg": [ "shelter_1_N", "shelter_1_E", "shelter_1_S", "shelter_1_W" ],
+    "fg": [ "shelter_1_N", "shelter_1_W", "shelter_1_S", "shelter_1_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "shelter_roof_1" ],
-    "fg": [ "shelter_roof_1_N", "shelter_roof_1_E", "shelter_roof_1_S", "shelter_roof_1_W" ],
+    "fg": [ "shelter_roof_1_N", "shelter_roof_1_W", "shelter_roof_1_S", "shelter_roof_1_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

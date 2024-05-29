@@ -1,19 +1,19 @@
 [
   {
     "id": [ "s_clothes_4" ],
-    "fg": [ "s_clothes_4_N", "s_clothes_4_E", "s_clothes_4_S", "s_clothes_4_W" ],
+    "fg": [ "s_clothes_4_N", "s_clothes_4_W", "s_clothes_4_S", "s_clothes_4_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "s_clothes_roof_4" ],
-    "fg": [ "s_clothes_roof_4_N", "s_clothes_roof_4_E", "s_clothes_roof_4_S", "s_clothes_roof_4_W" ],
+    "fg": [ "s_clothes_roof_4_N", "s_clothes_roof_4_W", "s_clothes_roof_4_S", "s_clothes_roof_4_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "s_clothes_upper_roof_4" ],
-    "fg": [ "s_clothes_upper_roof_4_N", "s_clothes_upper_roof_4_E", "s_clothes_upper_roof_4_S", "s_clothes_upper_roof_4_W" ],
+    "fg": [ "s_clothes_upper_roof_4_N", "s_clothes_upper_roof_4_W", "s_clothes_upper_roof_4_S", "s_clothes_upper_roof_4_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

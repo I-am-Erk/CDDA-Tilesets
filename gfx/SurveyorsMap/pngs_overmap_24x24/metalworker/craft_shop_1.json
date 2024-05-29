@@ -1,13 +1,13 @@
 [
   {
     "id": [ "craft_shop_1" ],
-    "fg": [ "craft_shop_1_N", "craft_shop_1_E", "craft_shop_1_S", "craft_shop_1_W" ],
+    "fg": [ "craft_shop_1_N", "craft_shop_1_W", "craft_shop_1_S", "craft_shop_1_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "craft_shop_roof_1" ],
-    "fg": [ "craft_shop_roof_1_N", "craft_shop_roof_1_E", "craft_shop_roof_1_S", "craft_shop_roof_1_W" ],
+    "fg": [ "craft_shop_roof_1_N", "craft_shop_roof_1_W", "craft_shop_roof_1_S", "craft_shop_roof_1_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

@@ -7,7 +7,7 @@
   },
   {
     "id": [ "communitygarden" ],
-    "fg": [ "communitygarden_N", "communitygarden_E", "communitygarden_S", "communitygarden_W" ],
+    "fg": [ "communitygarden_N", "communitygarden_W", "communitygarden_S", "communitygarden_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
@@ -19,49 +19,49 @@
   },
   {
     "id": [ "communitygarden_3" ],
-    "fg": [ "communitygarden_3_N", "communitygarden_3_E", "communitygarden_3_S", "communitygarden_3_W" ],
+    "fg": [ "communitygarden_3_N", "communitygarden_3_W", "communitygarden_3_S", "communitygarden_3_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "baskeball_court" ],
-    "fg": [ "baskeball_court_N", "baskeball_court_E", "baskeball_court_S", "baskeball_court_W" ],
+    "fg": [ "baskeball_court_N", "baskeball_court_W", "baskeball_court_S", "baskeball_court_E" ],
     "bg": [  ],
     "rotates": true
   },
   {
     "id": [ "tennis_court" ],
-    "fg": [ "tennis_court_N", "tennis_court_E", "tennis_court_S", "tennis_court_W" ],
+    "fg": [ "tennis_court_N", "tennis_court_W", "tennis_court_S", "tennis_court_E" ],
     "bg": [  ],
     "rotates": true
   },
   {
     "id": [ "volleyball_court" ],
-    "fg": [ "volleyball_court_N", "volleyball_court_E", "volleyball_court_S", "volleyball_court_W" ],
+    "fg": [ "volleyball_court_N", "volleyball_court_W", "volleyball_court_S", "volleyball_court_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "dog_park" ],
-    "fg": [ "dog_park_N", "dog_park_E", "dog_park_S", "dog_park_W" ],
+    "fg": [ "dog_park_N", "dog_park_W", "dog_park_S", "dog_park_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "park_maze" ],
-    "fg": [ "park_maze_N", "park_maze_E", "park_maze_S", "park_maze_W" ],
+    "fg": [ "park_maze_N", "park_maze_W", "park_maze_S", "park_maze_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "park_maze_2" ],
-    "fg": [ "park_maze_2_N", "park_maze_2_E", "park_maze_2_S", "park_maze_2_W" ],
+    "fg": [ "park_maze_2_N", "park_maze_2_W", "park_maze_2_S", "park_maze_2_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "park" ],
-    "fg": [ "park_N", "park_E", "park_S", "park_W" ],
+    "fg": [ "park_N", "park_W", "park_S", "park_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
@@ -73,19 +73,19 @@
   },
   {
     "id": [ "park_3" ],
-    "fg": [ "park_3_N", "park_3_E", "park_3_S", "park_3_W" ],
+    "fg": [ "park_3_N", "park_3_W", "park_3_S", "park_3_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "park_4" ],
-    "fg": [ "park_4_N", "park_4_E", "park_4_S", "park_4_W" ],
+    "fg": [ "park_4_N", "park_4_W", "park_4_S", "park_4_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "park_5" ],
-    "fg": [ "park_5_N", "park_5_E", "park_5_S", "park_5_W" ],
+    "fg": [ "park_5_N", "park_5_W", "park_5_S", "park_5_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
@@ -97,19 +97,19 @@
   },
   {
     "id": [ "park_7" ],
-    "fg": [ "park_7_N", "park_7_E", "park_7_S", "park_7_W" ],
+    "fg": [ "park_7_N", "park_7_W", "park_7_S", "park_7_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "playground" ],
-    "fg": [ "playground_N", "playground_E", "playground_S", "playground_W" ],
+    "fg": [ "playground_N", "playground_W", "playground_S", "playground_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "playground_1" ],
-    "fg": [ "playground_1_N", "playground_1_E", "playground_1_S", "playground_1_W" ],
+    "fg": [ "playground_1_N", "playground_1_W", "playground_1_S", "playground_1_E" ],
     "bg": [ "field" ],
     "rotates": true
   }

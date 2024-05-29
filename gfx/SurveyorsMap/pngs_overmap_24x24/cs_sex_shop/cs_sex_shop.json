@@ -1,13 +1,13 @@
 [
   {
     "id": [ "cs_sex_shop" ],
-    "fg": [ "cs_sex_shop_N", "cs_sex_shop_E", "cs_sex_shop_S", "cs_sex_shop_W" ],
+    "fg": [ "cs_sex_shop_N", "cs_sex_shop_W", "cs_sex_shop_S", "cs_sex_shop_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "cs_sex_shop_roof" ],
-    "fg": [ "cs_sex_shop_roof_N", "cs_sex_shop_roof_E", "cs_sex_shop_roof_S", "cs_sex_shop_roof_W" ],
+    "fg": [ "cs_sex_shop_roof_N", "cs_sex_shop_roof_W", "cs_sex_shop_roof_S", "cs_sex_shop_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

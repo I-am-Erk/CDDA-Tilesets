@@ -1,13 +1,13 @@
 [
   {
     "id": [ "art_gallery" ],
-    "fg": [ "art_gallery_N", "art_gallery_E", "art_gallery_S", "art_gallery_W" ],
+    "fg": [ "art_gallery_N", "art_gallery_W", "art_gallery_S", "art_gallery_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "art_gallery_roof" ],
-    "fg": [ "art_gallery_roof_N", "art_gallery_roof_E", "art_gallery_roof_S", "art_gallery_roof_W" ],
+    "fg": [ "art_gallery_roof_N", "art_gallery_roof_W", "art_gallery_roof_S", "art_gallery_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

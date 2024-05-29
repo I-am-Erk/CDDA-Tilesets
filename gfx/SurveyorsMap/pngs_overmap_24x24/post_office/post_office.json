@@ -1,13 +1,13 @@
 [
   {
     "id": [ "post_office" ],
-    "fg": [ "post_office_N", "post_office_E", "post_office_S", "post_office_W" ],
+    "fg": [ "post_office_N", "post_office_W", "post_office_S", "post_office_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "post_office_roof" ],
-    "fg": [ "post_office_roof_N", "post_office_roof_E", "post_office_roof_S", "post_office_roof_W" ],
+    "fg": [ "post_office_roof_N", "post_office_roof_W", "post_office_roof_S", "post_office_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

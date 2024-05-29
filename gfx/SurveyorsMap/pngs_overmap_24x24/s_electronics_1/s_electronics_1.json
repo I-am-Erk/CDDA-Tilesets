@@ -1,13 +1,13 @@
 [
   {
     "id": [ "s_electronics_1" ],
-    "fg": [ "s_electronics_1_N", "s_electronics_1_E", "s_electronics_1_S", "s_electronics_1_W" ],
+    "fg": [ "s_electronics_1_N", "s_electronics_1_W", "s_electronics_1_S", "s_electronics_1_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "s_electronics_roof_1" ],
-    "fg": [ "s_electronics_roof_1_N", "s_electronics_roof_1_E", "s_electronics_roof_1_S", "s_electronics_roof_1_W" ],
+    "fg": [ "s_electronics_roof_1_N", "s_electronics_roof_1_W", "s_electronics_roof_1_S", "s_electronics_roof_1_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

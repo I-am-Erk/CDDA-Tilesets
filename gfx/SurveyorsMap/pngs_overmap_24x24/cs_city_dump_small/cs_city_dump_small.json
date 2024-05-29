@@ -1,7 +1,7 @@
 [
   {
     "id": [ "cs_city_dump_small" ],
-    "fg": [ "cs_city_dump_small_N", "cs_city_dump_small_E", "cs_city_dump_small_S", "cs_city_dump_small_W" ],
+    "fg": [ "cs_city_dump_small_N", "cs_city_dump_small_W", "cs_city_dump_small_S", "cs_city_dump_small_E" ],
     "bg": [ "field" ],
     "rotates": true
   }

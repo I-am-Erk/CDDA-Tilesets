@@ -1,13 +1,13 @@
 [
   {
     "id": [ "dispensary_2" ],
-    "fg": [ "dispensary_2_N", "dispensary_2_E", "dispensary_2_S", "dispensary_2_W" ],
+    "fg": [ "dispensary_2_N", "dispensary_2_W", "dispensary_2_S", "dispensary_2_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "dispensary_roof_2" ],
-    "fg": [ "dispensary_roof_2_N", "dispensary_roof_2_E", "dispensary_roof_2_S", "dispensary_roof_2_W" ],
+    "fg": [ "dispensary_roof_2_N", "dispensary_roof_2_W", "dispensary_roof_2_S", "dispensary_roof_2_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

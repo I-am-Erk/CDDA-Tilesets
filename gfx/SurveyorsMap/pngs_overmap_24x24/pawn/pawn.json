@@ -1,13 +1,13 @@
 [
   {
     "id": [ "pawn" ],
-    "fg": [ "pawn_N", "pawn_E", "pawn_S", "pawn_W" ],
+    "fg": [ "pawn_N", "pawn_W", "pawn_S", "pawn_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "pawn_roof" ],
-    "fg": [ "pawn_roof_N", "pawn_roof_E", "pawn_roof_S", "pawn_roof_W" ],
+    "fg": [ "pawn_roof_N", "pawn_roof_W", "pawn_roof_S", "pawn_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

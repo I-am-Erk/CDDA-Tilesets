@@ -1,13 +1,13 @@
 [
   {
     "id": [ "s_pharm" ],
-    "fg": [ "s_pharm_N", "s_pharm_E", "s_pharm_S", "s_pharm_W" ],
+    "fg": [ "s_pharm_N", "s_pharm_W", "s_pharm_S", "s_pharm_E" ],
     "bg": [  ],
     "rotates": true
   },
   {
     "id": [ "s_pharm_roof" ],
-    "fg": [ "s_pharm_roof_N", "s_pharm_roof_E", "s_pharm_roof_S", "s_pharm_roof_W" ],
+    "fg": [ "s_pharm_roof_N", "s_pharm_roof_W", "s_pharm_roof_S", "s_pharm_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

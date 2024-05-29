@@ -1,13 +1,13 @@
 [
   {
     "id": [ "s_library" ],
-    "fg": [ "s_library_N", "s_library_E", "s_library_S", "s_library_W" ],
+    "fg": [ "s_library_N", "s_library_W", "s_library_S", "s_library_E" ],
     "bg": [  ],
     "rotates": true
   },
   {
     "id": [ "s_library_roof" ],
-    "fg": [ "s_library_roof_N", "s_library_roof_E", "s_library_roof_S", "s_library_roof_W" ],
+    "fg": [ "s_library_roof_N", "s_library_roof_W", "s_library_roof_S", "s_library_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

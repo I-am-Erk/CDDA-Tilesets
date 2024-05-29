@@ -1,7 +1,7 @@
 [
   {
     "id": [ "small_storage_units" ],
-    "fg": [ "small_storage_units_N", "small_storage_units_E", "small_storage_units_S", "small_storage_units_W" ],
+    "fg": [ "small_storage_units_N", "small_storage_units_W", "small_storage_units_S", "small_storage_units_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
@@ -9,9 +9,9 @@
     "id": [ "small_storage_units_roof" ],
     "fg": [
       "small_storage_units_roof_N",
-      "small_storage_units_roof_E",
+      "small_storage_units_roof_W",
       "small_storage_units_roof_S",
-      "small_storage_units_roof_W"
+      "small_storage_units_roof_E"
     ],
     "bg": [ "open_air" ],
     "rotates": true

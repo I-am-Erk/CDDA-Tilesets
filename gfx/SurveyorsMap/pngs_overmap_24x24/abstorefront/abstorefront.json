@@ -1,13 +1,13 @@
 [
   {
     "id": [ "abstorefront" ],
-    "fg": [ "abstorefront_N", "abstorefront_E", "abstorefront_S", "abstorefront_W" ],
+    "fg": [ "abstorefront_N", "abstorefront_W", "abstorefront_S", "abstorefront_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "abstorefront_roof" ],
-    "fg": [ "abstorefront_roof_N", "abstorefront_roof_E", "abstorefront_roof_S", "abstorefront_roof_W" ],
+    "fg": [ "abstorefront_roof_N", "abstorefront_roof_W", "abstorefront_roof_S", "abstorefront_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

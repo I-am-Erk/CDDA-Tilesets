@@ -1,13 +1,13 @@
 [
   {
     "id": [ "stripclub_2" ],
-    "fg": [ "stripclub_2_N", "stripclub_2_E", "stripclub_2_S", "stripclub_2_W" ],
+    "fg": [ "stripclub_2_N", "stripclub_2_W", "stripclub_2_S", "stripclub_2_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "stripclub_roof_2" ],
-    "fg": [ "stripclub_roof_2_N", "stripclub_roof_2_E", "stripclub_roof_2_S", "stripclub_roof_2_W" ],
+    "fg": [ "stripclub_roof_2_N", "stripclub_roof_2_W", "stripclub_roof_2_S", "stripclub_roof_2_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

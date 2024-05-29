@@ -1,19 +1,19 @@
 [
   {
     "id": [ "small_office" ],
-    "fg": [ "small_office_N", "small_office_E", "small_office_S", "small_office_W" ],
+    "fg": [ "small_office_N", "small_office_W", "small_office_S", "small_office_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "small_office_roof" ],
-    "fg": [ "small_office_roof_N", "small_office_roof_E", "small_office_roof_S", "small_office_roof_W" ],
+    "fg": [ "small_office_roof_N", "small_office_roof_W", "small_office_roof_S", "small_office_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "small_office_upper_roof" ],
-    "fg": [ "small_office_upper_roof_N", "small_office_upper_roof_E", "small_office_upper_roof_S", "small_office_upper_roof_W" ],
+    "fg": [ "small_office_upper_roof_N", "small_office_upper_roof_W", "small_office_upper_roof_S", "small_office_upper_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

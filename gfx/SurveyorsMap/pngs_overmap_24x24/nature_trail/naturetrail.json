@@ -1,13 +1,13 @@
 [
   {
     "id": [ "NatureTrail_1a" ],
-    "fg": [ "naturetrail_1a_N", "naturetrail_1a_E", "naturetrail_1a_S", "naturetrail_1a_W" ],
+    "fg": [ "naturetrail_1a_N", "naturetrail_1a_W", "naturetrail_1a_S", "naturetrail_1a_E" ],
     "bg": [ "forest_center" ],
     "rotates": true
   },
   {
     "id": [ "NatureTrail_1b" ],
-    "fg": [ "naturetrail_1b_N", "naturetrail_1b_E", "naturetrail_1b_S", "naturetrail_1b_W" ],
+    "fg": [ "naturetrail_1b_N", "naturetrail_1b_W", "naturetrail_1b_S", "naturetrail_1b_E" ],
     "bg": [ "forest_center" ],
     "rotates": true
   }

@@ -1,13 +1,13 @@
 [
   {
     "id": [ "animalpound" ],
-    "fg": [ "animalpound_N", "animalpound_E", "animalpound_S", "animalpound_W" ],
+    "fg": [ "animalpound_N", "animalpound_W", "animalpound_S", "animalpound_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "animalpound_roof" ],
-    "fg": [ "animalpound_roof_N", "animalpound_roof_E", "animalpound_roof_S", "animalpound_roof_W" ],
+    "fg": [ "animalpound_roof_N", "animalpound_roof_W", "animalpound_roof_S", "animalpound_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

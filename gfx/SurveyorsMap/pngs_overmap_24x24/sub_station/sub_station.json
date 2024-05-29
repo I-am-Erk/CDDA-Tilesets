@@ -1,25 +1,25 @@
 [
   {
     "id": [ "sub_station" ],
-    "fg": [ "sub_station_N", "sub_station_E", "sub_station_S", "sub_station_W" ],
+    "fg": [ "sub_station_N", "sub_station_W", "sub_station_S", "sub_station_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "sub_station_roof" ],
-    "fg": [ "sub_station_roof_N", "sub_station_roof_E", "sub_station_roof_S", "sub_station_roof_W" ],
+    "fg": [ "sub_station_roof_N", "sub_station_roof_W", "sub_station_roof_S", "sub_station_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "sewer_sub_station" ],
-    "fg": [ "sewer_sub_station_N", "sewer_sub_station_E", "sewer_sub_station_S", "sewer_sub_station_W" ],
+    "fg": [ "sewer_sub_station_N", "sewer_sub_station_W", "sewer_sub_station_S", "sewer_sub_station_E" ],
     "bg": [ "solid_earth" ],
     "rotates": true
   },
   {
     "id": [ "underground_sub_station" ],
-    "fg": [ "underground_sub_station_N", "underground_sub_station_E", "underground_sub_station_S", "underground_sub_station_W" ],
+    "fg": [ "underground_sub_station_N", "underground_sub_station_W", "underground_sub_station_S", "underground_sub_station_E" ],
     "bg": [ "solid_earth" ],
     "rotates": true
   }

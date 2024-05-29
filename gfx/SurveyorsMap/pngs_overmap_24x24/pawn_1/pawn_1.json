@@ -1,13 +1,13 @@
 [
   {
     "id": [ "pawn_1" ],
-    "fg": [ "pawn_1_N", "pawn_1_E", "pawn_1_S", "pawn_1_W" ],
+    "fg": [ "pawn_1_N", "pawn_1_W", "pawn_1_S", "pawn_1_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "pawn_roof_1" ],
-    "fg": [ "pawn_roof_1_N", "pawn_roof_1_E", "pawn_roof_1_S", "pawn_roof_1_W" ],
+    "fg": [ "pawn_roof_1_N", "pawn_roof_1_W", "pawn_roof_1_S", "pawn_roof_1_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

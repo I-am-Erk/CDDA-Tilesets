@@ -1,13 +1,13 @@
 [
   {
     "id": [ "icecream_shop" ],
-    "fg": [ "icecream_shop_N", "icecream_shop_E", "icecream_shop_S", "icecream_shop_W" ],
+    "fg": [ "icecream_shop_N", "icecream_shop_W", "icecream_shop_S", "icecream_shop_E" ],
     "bg": [  ],
     "rotates": true
   },
   {
     "id": [ "icecream_shop_roof" ],
-    "fg": [ "icecream_shop_roof_N", "icecream_shop_roof_E", "icecream_shop_roof_S", "icecream_shop_roof_W" ],
+    "fg": [ "icecream_shop_roof_N", "icecream_shop_roof_W", "icecream_shop_roof_S", "icecream_shop_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

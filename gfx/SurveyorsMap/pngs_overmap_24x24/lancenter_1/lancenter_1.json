@@ -1,13 +1,13 @@
 [
   {
     "id": [ "lancenter_1" ],
-    "fg": [ "lancenter_1_N", "lancenter_1_E", "lancenter_1_S", "lancenter_1_W" ],
+    "fg": [ "lancenter_1_N", "lancenter_1_W", "lancenter_1_S", "lancenter_1_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "lancenter_roof_1" ],
-    "fg": [ "lancenter_roof_1_N", "lancenter_roof_1_E", "lancenter_roof_1_S", "lancenter_roof_1_W" ],
+    "fg": [ "lancenter_roof_1_N", "lancenter_roof_1_W", "lancenter_roof_1_S", "lancenter_roof_1_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }
