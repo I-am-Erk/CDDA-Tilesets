@@ -1,13 +1,13 @@
 [
   {
     "id": [ "house_fortified" ],
-    "fg": [ "house_fortified_N", "house_fortified_E", "house_fortified_S", "house_fortified_W" ],
+    "fg": [ "house_fortified_N", "house_fortified_W", "house_fortified_S", "house_fortified_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "house_fortified_roof" ],
-    "fg": [ "house_fortified_roof_N", "house_fortified_roof_E", "house_fortified_roof_S", "house_fortified_roof_W" ],
+    "fg": [ "house_fortified_roof_N", "house_fortified_roof_W", "house_fortified_roof_S", "house_fortified_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
@@ -15,9 +15,9 @@
     "id": [ "house_fortified_basement" ],
     "fg": [
       "house_fortified_basement_N",
-      "house_fortified_basement_E",
+      "house_fortified_basement_W",
       "house_fortified_basement_S",
-      "house_fortified_basement_W"
+      "house_fortified_basement_E"
     ],
     "bg": [ "solid_earth" ],
     "rotates": true

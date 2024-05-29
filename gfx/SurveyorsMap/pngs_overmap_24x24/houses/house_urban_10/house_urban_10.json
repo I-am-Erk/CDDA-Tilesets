@@ -1,49 +1,49 @@
 [
   {
     "id": [ "urban_10_1" ],
-    "fg": [ "urban_10_1_N", "urban_10_1_E", "urban_10_1_S", "urban_10_1_W" ],
+    "fg": [ "urban_10_1_N", "urban_10_1_W", "urban_10_1_S", "urban_10_1_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "urban_10_2" ],
-    "fg": [ "urban_10_2_N", "urban_10_2_E", "urban_10_2_S", "urban_10_2_W" ],
+    "fg": [ "urban_10_2_N", "urban_10_2_W", "urban_10_2_S", "urban_10_2_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "urban_10_3" ],
-    "fg": [ "urban_10_3_N", "urban_10_3_E", "urban_10_3_S", "urban_10_3_W" ],
+    "fg": [ "urban_10_3_N", "urban_10_3_W", "urban_10_3_S", "urban_10_3_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "urban_10_4" ],
-    "fg": [ "urban_10_4_N", "urban_10_4_E", "urban_10_4_S", "urban_10_4_W" ],
+    "fg": [ "urban_10_4_N", "urban_10_4_W", "urban_10_4_S", "urban_10_4_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "urban_10_5" ],
-    "fg": [ "urban_10_5_N", "urban_10_5_E", "urban_10_5_S", "urban_10_5_W" ],
+    "fg": [ "urban_10_5_N", "urban_10_5_W", "urban_10_5_S", "urban_10_5_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "urban_10_6" ],
-    "fg": [ "urban_10_6_N", "urban_10_6_E", "urban_10_6_S", "urban_10_6_W" ],
+    "fg": [ "urban_10_6_N", "urban_10_6_W", "urban_10_6_S", "urban_10_6_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "urban_10_7" ],
-    "fg": [ "urban_10_7_N", "urban_10_7_E", "urban_10_7_S", "urban_10_7_W" ],
+    "fg": [ "urban_10_7_N", "urban_10_7_W", "urban_10_7_S", "urban_10_7_E" ],
     "bg": [ "solid_earth" ],
     "rotates": true
   },
   {
     "id": [ "urban_10_8" ],
-    "fg": [ "urban_10_8_N", "urban_10_8_E", "urban_10_8_S", "urban_10_8_W" ],
+    "fg": [ "urban_10_8_N", "urban_10_8_W", "urban_10_8_S", "urban_10_8_E" ],
     "bg": [ "solid_earth" ],
     "rotates": true
   }

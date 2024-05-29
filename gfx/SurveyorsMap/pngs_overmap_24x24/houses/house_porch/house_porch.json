@@ -1,19 +1,19 @@
 [
   {
     "id": [ "house_porch" ],
-    "fg": [ "house_porch_N", "house_porch_E", "house_porch_S", "house_porch_W" ],
+    "fg": [ "house_porch_N", "house_porch_W", "house_porch_S", "house_porch_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "house_porch_roof" ],
-    "fg": [ "house_porch_roof_N", "house_porch_roof_E", "house_porch_roof_S", "house_porch_roof_W" ],
+    "fg": [ "house_porch_roof_N", "house_porch_roof_W", "house_porch_roof_S", "house_porch_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "house_porch_basement" ],
-    "fg": [ "house_porch_basement_N", "house_porch_basement_E", "house_porch_basement_S", "house_porch_basement_W" ],
+    "fg": [ "house_porch_basement_N", "house_porch_basement_W", "house_porch_basement_S", "house_porch_basement_E" ],
     "bg": [ "solid_earth" ],
     "rotates": true
   }

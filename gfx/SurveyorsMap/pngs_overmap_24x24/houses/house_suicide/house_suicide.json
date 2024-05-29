@@ -1,13 +1,13 @@
 [
   {
     "id": [ "house_suicide" ],
-    "fg": [ "house_suicide_N", "house_suicide_E", "house_suicide_S", "house_suicide_W" ],
+    "fg": [ "house_suicide_N", "house_suicide_W", "house_suicide_S", "house_suicide_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "house_suicide_roof" ],
-    "fg": [ "house_suicide_roof_N", "house_suicide_roof_E", "house_suicide_roof_S", "house_suicide_roof_W" ],
+    "fg": [ "house_suicide_roof_N", "house_suicide_roof_W", "house_suicide_roof_S", "house_suicide_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

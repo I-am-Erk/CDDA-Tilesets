@@ -1,19 +1,19 @@
 [
   {
     "id": [ "house_prepper2" ],
-    "fg": [ "house_prepper2_N", "house_prepper2_E", "house_prepper2_S", "house_prepper2_W" ],
+    "fg": [ "house_prepper2_N", "house_prepper2_W", "house_prepper2_S", "house_prepper2_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "house_prepper2_roof" ],
-    "fg": [ "house_prepper2_roof_N", "house_prepper2_roof_E", "house_prepper2_roof_S", "house_prepper2_roof_W" ],
+    "fg": [ "house_prepper2_roof_N", "house_prepper2_roof_W", "house_prepper2_roof_S", "house_prepper2_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "house_prepper2_basement" ],
-    "fg": [ "house_prepper2_basement_N", "house_prepper2_basement_E", "house_prepper2_basement_S", "house_prepper2_basement_W" ],
+    "fg": [ "house_prepper2_basement_N", "house_prepper2_basement_W", "house_prepper2_basement_S", "house_prepper2_basement_E" ],
     "bg": [ "solid_earth" ],
     "rotates": true
   }

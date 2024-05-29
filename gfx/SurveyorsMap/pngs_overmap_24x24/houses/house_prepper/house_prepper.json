@@ -1,13 +1,13 @@
 [
   {
     "id": [ "house_prepper" ],
-    "fg": [ "house_prepper_N", "house_prepper_E", "house_prepper_S", "house_prepper_W" ],
+    "fg": [ "house_prepper_N", "house_prepper_W", "house_prepper_S", "house_prepper_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "house_prepper_basement" ],
-    "fg": [ "house_prepper_basement_N", "house_prepper_basement_E", "house_prepper_basement_S", "house_prepper_basement_W" ],
+    "fg": [ "house_prepper_basement_N", "house_prepper_basement_W", "house_prepper_basement_S", "house_prepper_basement_E" ],
     "bg": [ "solid_earth" ],
     "rotates": true
   }

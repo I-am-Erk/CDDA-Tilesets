@@ -1,193 +1,193 @@
 [
   {
     "id": [ "house_01" ],
-    "fg": [ "house_01_N", "house_01_E", "house_01_S", "house_01_W" ],
+    "fg": [ "house_01_N", "house_01_W", "house_01_S", "house_01_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "house_01_roof" ],
-    "fg": [ "house_01_roof_N", "house_01_roof_E", "house_01_roof_S", "house_01_roof_W" ],
+    "fg": [ "house_01_roof_N", "house_01_roof_W", "house_01_roof_S", "house_01_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "house_02" ],
-    "fg": [ "house_02_N", "house_02_E", "house_02_S", "house_02_W" ],
+    "fg": [ "house_02_N", "house_02_W", "house_02_S", "house_02_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "house_02_roof" ],
-    "fg": [ "house_02_roof_N", "house_02_roof_E", "house_02_roof_S", "house_02_roof_W" ],
+    "fg": [ "house_02_roof_N", "house_02_roof_W", "house_02_roof_S", "house_02_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "house_03" ],
-    "fg": [ "house_03_N", "house_03_E", "house_03_S", "house_03_W" ],
+    "fg": [ "house_03_N", "house_03_W", "house_03_S", "house_03_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "house_03_roof" ],
-    "fg": [ "house_03_roof_N", "house_03_roof_E", "house_03_roof_S", "house_03_roof_W" ],
+    "fg": [ "house_03_roof_N", "house_03_roof_W", "house_03_roof_S", "house_03_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "house_04" ],
-    "fg": [ "house_04_N", "house_04_E", "house_04_S", "house_04_W" ],
+    "fg": [ "house_04_N", "house_04_W", "house_04_S", "house_04_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "house_04_roof" ],
-    "fg": [ "house_04_roof_N", "house_04_roof_E", "house_04_roof_S", "house_04_roof_W" ],
+    "fg": [ "house_04_roof_N", "house_04_roof_W", "house_04_roof_S", "house_04_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "house_04_basement" ],
-    "fg": [ "house_04_basement_N", "house_04_basement_E", "house_04_basement_S", "house_04_basement_W" ],
+    "fg": [ "house_04_basement_N", "house_04_basement_W", "house_04_basement_S", "house_04_basement_E" ],
     "bg": [ "solid_earth" ],
     "rotates": true
   },
   {
     "id": [ "house_05ab" ],
-    "fg": [ "house_05ab_N", "house_05ab_E", "house_05ab_S", "house_05ab_W" ],
+    "fg": [ "house_05ab_N", "house_05ab_W", "house_05ab_S", "house_05ab_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "house_05ab_basement" ],
-    "fg": [ "house_05ab_basement_N", "house_05ab_basement_E", "house_05ab_basement_S", "house_05ab_basement_W" ],
+    "fg": [ "house_05ab_basement_N", "house_05ab_basement_W", "house_05ab_basement_S", "house_05ab_basement_E" ],
     "bg": [ "solid_earth" ],
     "rotates": true
   },
   {
     "id": [ "house_05" ],
-    "fg": [ "house_05_N", "house_05_E", "house_05_S", "house_05_W" ],
+    "fg": [ "house_05_N", "house_05_W", "house_05_S", "house_05_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "house_05_basement" ],
-    "fg": [ "house_05_basement_N", "house_05_basement_E", "house_05_basement_S", "house_05_basement_W" ],
+    "fg": [ "house_05_basement_N", "house_05_basement_W", "house_05_basement_S", "house_05_basement_E" ],
     "bg": [ "solid_earth" ],
     "rotates": true
   },
   {
     "id": [ "house_06" ],
-    "fg": [ "house_06_N", "house_06_E", "house_06_S", "house_06_W" ],
+    "fg": [ "house_06_N", "house_06_W", "house_06_S", "house_06_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "house_07" ],
-    "fg": [ "house_07_N", "house_07_E", "house_07_S", "house_07_W" ],
+    "fg": [ "house_07_N", "house_07_W", "house_07_S", "house_07_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "house_08" ],
-    "fg": [ "house_08_N", "house_08_E", "house_08_S", "house_08_W" ],
+    "fg": [ "house_08_N", "house_08_W", "house_08_S", "house_08_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "house_08_roof" ],
-    "fg": [ "house_08_roof_N", "house_08_roof_E", "house_08_roof_S", "house_08_roof_W" ],
+    "fg": [ "house_08_roof_N", "house_08_roof_W", "house_08_roof_S", "house_08_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "house_08_basement" ],
-    "fg": [ "house_08_basement_N", "house_08_basement_E", "house_08_basement_S", "house_08_basement_W" ],
+    "fg": [ "house_08_basement_N", "house_08_basement_W", "house_08_basement_S", "house_08_basement_E" ],
     "bg": [ "solid_earth" ],
     "rotates": true
   },
   {
     "id": [ "house_09" ],
-    "fg": [ "house_09_N", "house_09_E", "house_09_S", "house_09_W" ],
+    "fg": [ "house_09_N", "house_09_W", "house_09_S", "house_09_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "house_09_roof" ],
-    "fg": [ "house_09_roof_N", "house_09_roof_E", "house_09_roof_S", "house_09_roof_W" ],
+    "fg": [ "house_09_roof_N", "house_09_roof_W", "house_09_roof_S", "house_09_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "basement_bionic", "basement_bionic_decoy" ],
-    "fg": [ "house_09_basement_N", "house_09_basement_E", "house_09_basement_S", "house_09_basement_W" ],
+    "fg": [ "house_09_basement_N", "house_09_basement_W", "house_09_basement_S", "house_09_basement_E" ],
     "bg": [ "solid_earth" ],
     "rotates": true
   },
   {
     "id": [ "house_10" ],
-    "fg": [ "house_10_N", "house_10_E", "house_10_S", "house_10_W" ],
+    "fg": [ "house_10_N", "house_10_W", "house_10_S", "house_10_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "house_10_roof" ],
-    "fg": [ "house_10_roof_N", "house_10_roof_E", "house_10_roof_S", "house_10_roof_W" ],
+    "fg": [ "house_10_roof_N", "house_10_roof_W", "house_10_roof_S", "house_10_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "house_10_basement" ],
-    "fg": [ "house_10_basement_N", "house_10_basement_E", "house_10_basement_S", "house_10_basement_W" ],
+    "fg": [ "house_10_basement_N", "house_10_basement_W", "house_10_basement_S", "house_10_basement_E" ],
     "bg": [ "solid_earth" ],
     "rotates": true
   },
   {
     "id": [ "house_11" ],
-    "fg": [ "house_11_N", "house_11_E", "house_11_S", "house_11_W" ],
+    "fg": [ "house_11_N", "house_11_W", "house_11_S", "house_11_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "house_11_roof" ],
-    "fg": [ "house_11_roof_N", "house_11_roof_E", "house_11_roof_S", "house_11_roof_W" ],
+    "fg": [ "house_11_roof_N", "house_11_roof_W", "house_11_roof_S", "house_11_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "house_11_basement" ],
-    "fg": [ "house_11_basement_N", "house_11_basement_E", "house_11_basement_S", "house_11_basement_W" ],
+    "fg": [ "house_11_basement_N", "house_11_basement_W", "house_11_basement_S", "house_11_basement_E" ],
     "bg": [ "solid_earth" ],
     "rotates": true
   },
   {
     "id": [ "house_12" ],
-    "fg": [ "house_12_N", "house_12_E", "house_12_S", "house_12_W" ],
+    "fg": [ "house_12_N", "house_12_W", "house_12_S", "house_12_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "house_12_roof" ],
-    "fg": [ "house_12_roof_N", "house_12_roof_E", "house_12_roof_S", "house_12_roof_W" ],
+    "fg": [ "house_12_roof_N", "house_12_roof_W", "house_12_roof_S", "house_12_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "house_12_basement" ],
-    "fg": [ "house_12_basement_N", "house_12_basement_E", "house_12_basement_S", "house_12_basement_W" ],
+    "fg": [ "house_12_basement_N", "house_12_basement_W", "house_12_basement_S", "house_12_basement_E" ],
     "bg": [ "solid_earth" ],
     "rotates": true
   },
   {
     "id": [ "house_dogs" ],
-    "fg": [ "house_dogs_N", "house_dogs_E", "house_dogs_S", "house_dogs_W" ],
+    "fg": [ "house_dogs_N", "house_dogs_W", "house_dogs_S", "house_dogs_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "house_dogs_roof" ],
-    "fg": [ "house_dogs_roof_N", "house_dogs_roof_E", "house_dogs_roof_S", "house_dogs_roof_W" ],
+    "fg": [ "house_dogs_roof_N", "house_dogs_roof_W", "house_dogs_roof_S", "house_dogs_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }
