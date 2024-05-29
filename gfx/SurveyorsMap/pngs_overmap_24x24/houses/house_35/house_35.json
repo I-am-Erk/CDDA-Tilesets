@@ -1,13 +1,13 @@
 [
   {
     "id": [ "house_35" ],
-    "fg": [ "house_35_N", "house_35_E", "house_35_S", "house_35_W" ],
+    "fg": [ "house_35_N", "house_35_W", "house_35_S", "house_35_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "house_35_roof" ],
-    "fg": [ "house_35_roof_N", "house_35_roof_E", "house_35_roof_S", "house_35_roof_W" ],
+    "fg": [ "house_35_roof_N", "house_35_roof_W", "house_35_roof_S", "house_35_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

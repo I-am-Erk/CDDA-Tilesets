@@ -1,25 +1,25 @@
 [
   {
     "id": [ "2storyModern01_first" ],
-    "fg": [ "2storyModern01_first_N", "2storyModern01_first_E", "2storyModern01_first_S", "2storyModern01_first_W" ],
+    "fg": [ "2storyModern01_first_N", "2storyModern01_first_W", "2storyModern01_first_S", "2storyModern01_first_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "2storyModern01_second" ],
-    "fg": [ "2storyModern01_second_N", "2storymodern01_second_E", "2storymodern01_second_S", "2storymodern01_second_W" ],
+    "fg": [ "2storyModern01_second_N", "2storymodern01_second_W", "2storymodern01_second_S", "2storymodern01_second_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "2storyModern01_roof" ],
-    "fg": [ "2storyModern01_roof_N", "2storyModern01_roof_E", "2storyModern01_roof_S", "2storyModern01_roof_W" ],
+    "fg": [ "2storyModern01_roof_N", "2storyModern01_roof_W", "2storyModern01_roof_S", "2storyModern01_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "2storyModern01_basement" ],
-    "fg": [ "2storymodern01_basement_N", "2storymodern01_basement_E", "2storymodern01_basement_S", "2storymodern01_basement_W" ],
+    "fg": [ "2storymodern01_basement_N", "2storymodern01_basement_W", "2storymodern01_basement_S", "2storymodern01_basement_E" ],
     "bg": [ "solid_earth" ],
     "rotates": true
   }

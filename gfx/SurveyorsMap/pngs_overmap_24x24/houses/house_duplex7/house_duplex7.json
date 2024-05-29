@@ -1,13 +1,13 @@
 [
   {
     "id": [ "house_duplex7" ],
-    "fg": [ "house_duplex7_N", "house_duplex7_E", "house_duplex7_S", "house_duplex7_W" ],
+    "fg": [ "house_duplex7_N", "house_duplex7_W", "house_duplex7_S", "house_duplex7_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "house_duplex7_roof" ],
-    "fg": [ "house_duplex7_roof_N", "house_duplex7_roof_E", "house_duplex7_roof_S", "house_duplex7_roof_W" ],
+    "fg": [ "house_duplex7_roof_N", "house_duplex7_roof_W", "house_duplex7_roof_S", "house_duplex7_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

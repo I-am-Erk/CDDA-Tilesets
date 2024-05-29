@@ -1,19 +1,19 @@
 [
   {
     "id": [ "house_garage2" ],
-    "fg": [ "house_garage2_N", "house_garage2_E", "house_garage2_S", "house_garage2_W" ],
+    "fg": [ "house_garage2_N", "house_garage2_W", "house_garage2_S", "house_garage2_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "house_garage2_roof" ],
-    "fg": [ "house_garage2_roof_N", "house_garage2_roof_E", "house_garage2_roof_S", "house_garage2_roof_W" ],
+    "fg": [ "house_garage2_roof_N", "house_garage2_roof_W", "house_garage2_roof_S", "house_garage2_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "house_garage2_basement" ],
-    "fg": [ "house_garage2_basement_N", "house_garage2_basement_E", "house_garage2_basement_S", "house_garage2_basement_W" ],
+    "fg": [ "house_garage2_basement_N", "house_garage2_basement_W", "house_garage2_basement_S", "house_garage2_basement_E" ],
     "bg": [ "solid_earth" ],
     "rotates": true
   }
