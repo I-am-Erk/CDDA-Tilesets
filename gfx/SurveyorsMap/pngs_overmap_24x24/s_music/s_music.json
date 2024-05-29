@@ -1,13 +1,13 @@
 [
   {
     "id": [ "s_music" ],
-    "fg": [ "s_music_shop_N", "s_music_shop_E", "s_music_shop_S", "s_music_shop_W" ],
+    "fg": [ "s_music_shop_N", "s_music_shop_W", "s_music_shop_S", "s_music_shop_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "s_music_roof" ],
-    "fg": [ "s_music_shop_roof_N", "s_music_shop_roof_E", "s_music_shop_roof_S", "s_music_shop_roof_W" ],
+    "fg": [ "s_music_shop_roof_N", "s_music_shop_roof_W", "s_music_shop_roof_S", "s_music_shop_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

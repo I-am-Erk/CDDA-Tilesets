@@ -1,19 +1,19 @@
 [
   {
     "id": [ "furniture" ],
-    "fg": [ "furniture_N", "furniture_E", "furniture_S", "furniture_W" ],
+    "fg": [ "furniture_N", "furniture_W", "furniture_S", "furniture_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "furniture_roof" ],
-    "fg": [ "furniture_roof_N", "furniture_roof_E", "furniture_roof_S", "furniture_roof_W" ],
+    "fg": [ "furniture_roof_N", "furniture_roof_W", "furniture_roof_S", "furniture_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "furniture_upper_roof" ],
-    "fg": [ "furniture_upper_roof_N", "furniture_upper_roof_E", "furniture_upper_roof_S", "furniture_upper_roof_W" ],
+    "fg": [ "furniture_upper_roof_N", "furniture_upper_roof_W", "furniture_upper_roof_S", "furniture_upper_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

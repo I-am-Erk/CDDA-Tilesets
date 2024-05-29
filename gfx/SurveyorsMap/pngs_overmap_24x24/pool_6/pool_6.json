@@ -1,7 +1,7 @@
 [
   {
     "id": [ "pool_6" ],
-    "fg": [ "pool_6_N", "pool_6_E", "pool_6_S", "pool_6_W" ],
+    "fg": [ "pool_6_N", "pool_6_W", "pool_6_S", "pool_6_E" ],
     "bg": [ "field" ],
     "rotates": true
   }

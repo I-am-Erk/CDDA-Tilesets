@@ -3,9 +3,9 @@
     "id": [ "s_restaurant_foodplace_roof" ],
     "fg": [
       "s_restaurant_foodplace_roof_N",
-      "s_restaurant_foodplace_roof_E",
+      "s_restaurant_foodplace_roof_W",
       "s_restaurant_foodplace_roof_S",
-      "s_restaurant_foodplace_roof_W"
+      "s_restaurant_foodplace_roof_E"
     ],
     "bg": [ "open_air" ],
     "rotates": true
@@ -14,9 +14,9 @@
     "id": [ "s_restaurant_foodplace_upper_roof" ],
     "fg": [
       "s_restaurant_foodplace_upper_roof_N",
-      "s_restaurant_foodplace_upper_roof_E",
+      "s_restaurant_foodplace_upper_roof_W",
       "s_restaurant_foodplace_upper_roof_S",
-      "s_restaurant_foodplace_upper_roof_W"
+      "s_restaurant_foodplace_upper_roof_E"
     ],
     "bg": [ "open_air" ],
     "rotates": true

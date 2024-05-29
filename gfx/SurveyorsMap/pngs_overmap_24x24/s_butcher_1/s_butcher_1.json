@@ -1,19 +1,19 @@
 [
   {
     "id": [ "s_butcher_1" ],
-    "fg": [ "s_butcher_1_N", "s_butcher_1_E", "s_butcher_1_S", "s_butcher_1_W" ],
+    "fg": [ "s_butcher_1_N", "s_butcher_1_W", "s_butcher_1_S", "s_butcher_1_E" ],
     "bg": [  ],
     "rotates": true
   },
   {
     "id": [ "s_butcher_roof_1" ],
-    "fg": [ "s_butcher_roof_1_N", "s_butcher_roof_1_E", "s_butcher_roof_1_S", "s_butcher_roof_1_W" ],
+    "fg": [ "s_butcher_roof_1_N", "s_butcher_roof_1_W", "s_butcher_roof_1_S", "s_butcher_roof_1_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "s_butcher_upper_roof_1" ],
-    "fg": [ "s_butcher_upper_roof_1_N", "s_butcher_upper_roof_1_E", "s_butcher_upper_roof_1_S", "s_butcher_upper_roof_1_W" ],
+    "fg": [ "s_butcher_upper_roof_1_N", "s_butcher_upper_roof_1_W", "s_butcher_upper_roof_1_S", "s_butcher_upper_roof_1_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

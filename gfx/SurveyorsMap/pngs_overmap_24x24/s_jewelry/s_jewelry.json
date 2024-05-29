@@ -1,13 +1,13 @@
 [
   {
     "id": [ "s_jewelry" ],
-    "fg": [ "s_jewelry_N", "s_jewelry_E", "s_jewelry_S", "s_jewelry_W" ],
+    "fg": [ "s_jewelry_N", "s_jewelry_W", "s_jewelry_S", "s_jewelry_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "s_jewelry_roof" ],
-    "fg": [ "s_jewelry_roof_N", "s_jewelry_roof_E", "s_jewelry_roof_S", "s_jewelry_roof_W" ],
+    "fg": [ "s_jewelry_roof_N", "s_jewelry_roof_W", "s_jewelry_roof_S", "s_jewelry_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

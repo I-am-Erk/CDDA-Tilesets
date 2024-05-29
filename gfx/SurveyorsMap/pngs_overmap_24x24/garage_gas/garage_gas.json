@@ -1,25 +1,25 @@
 [
   {
     "id": [ "garage_gas_2" ],
-    "fg": [ "garage_gas_2_N", "garage_gas_2_E", "garage_gas_2_S", "garage_gas_2_W" ],
+    "fg": [ "garage_gas_2_N", "garage_gas_2_W", "garage_gas_2_S", "garage_gas_2_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "garage_gas_3" ],
-    "fg": [ "garage_gas_3_N", "garage_gas_3_E", "garage_gas_3_S", "garage_gas_3_W" ],
+    "fg": [ "garage_gas_3_N", "garage_gas_3_W", "garage_gas_3_S", "garage_gas_3_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "garage_gas_roof_2" ],
-    "fg": [ "garage_gas_roof_2_N", "garage_gas_roof_2_E", "garage_gas_roof_2_S", "garage_gas_roof_2_W" ],
+    "fg": [ "garage_gas_roof_2_N", "garage_gas_roof_2_W", "garage_gas_roof_2_S", "garage_gas_roof_2_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "garage_gas_roof_3" ],
-    "fg": [ "garage_gas_roof_3_N", "garage_gas_roof_3_E", "garage_gas_roof_3_S", "garage_gas_roof_3_W" ],
+    "fg": [ "garage_gas_roof_3_N", "garage_gas_roof_3_W", "garage_gas_roof_3_S", "garage_gas_roof_3_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

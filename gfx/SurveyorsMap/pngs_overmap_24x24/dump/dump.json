@@ -1,7 +1,7 @@
 [
   {
     "id": [ "dump", "landfill" ],
-    "fg": [ "dump_N", "dump_E", "dump_S", "dump_W" ],
+    "fg": [ "dump_N", "dump_W", "dump_S", "dump_E" ],
     "bg": [ "field" ],
     "rotates": true
   }

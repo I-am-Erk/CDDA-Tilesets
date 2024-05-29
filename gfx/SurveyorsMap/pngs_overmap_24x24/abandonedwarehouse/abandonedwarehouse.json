@@ -1,13 +1,13 @@
 [
   {
     "id": [ "abandonedwarehouse" ],
-    "fg": [ "abandonedwarehouse_N", "abandonedwarehouse_E", "abandonedwarehouse_S", "abandonedwarehouse_W" ],
+    "fg": [ "abandonedwarehouse_N", "abandonedwarehouse_W", "abandonedwarehouse_S", "abandonedwarehouse_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "abandonedwarehouse_roof" ],
-    "fg": [ "abandonedwarehouse_roof_N", "abandonedwarehouse_roof_E", "abandonedwarehouse_roof_S", "abandonedwarehouse_roof_W" ],
+    "fg": [ "abandonedwarehouse_roof_N", "abandonedwarehouse_roof_W", "abandonedwarehouse_roof_S", "abandonedwarehouse_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

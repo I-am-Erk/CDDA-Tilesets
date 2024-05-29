@@ -1,7 +1,7 @@
 [
   {
     "id": [ "s_restaurant_coffee" ],
-    "fg": [ "s_restaurant_coffee_N", "s_restaurant_coffee_E", "s_restaurant_coffee_S", "s_restaurant_coffee_W" ],
+    "fg": [ "s_restaurant_coffee_N", "s_restaurant_coffee_W", "s_restaurant_coffee_S", "s_restaurant_coffee_E" ],
     "bg": [  ],
     "rotates": true
   },
@@ -9,9 +9,9 @@
     "id": [ "s_restaurant_coffee_roof" ],
     "fg": [
       "s_restaurant_coffee_roof_N",
-      "s_restaurant_coffee_roof_E",
+      "s_restaurant_coffee_roof_W",
       "s_restaurant_coffee_roof_S",
-      "s_restaurant_coffee_roof_W"
+      "s_restaurant_coffee_roof_E"
     ],
     "bg": [ "open_air" ],
     "rotates": true

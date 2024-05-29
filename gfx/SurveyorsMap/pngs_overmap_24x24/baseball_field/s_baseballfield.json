@@ -1,25 +1,25 @@
 [
   {
     "id": [ "s_baseballfield_a1" ],
-    "fg": [ "s_baseballfield_a1_N", "s_baseballfield_a1_E", "s_baseballfield_a1_S", "s_baseballfield_a1_W" ],
+    "fg": [ "s_baseballfield_a1_N", "s_baseballfield_a1_W", "s_baseballfield_a1_S", "s_baseballfield_a1_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "s_baseballfield_a2" ],
-    "fg": [ "s_baseballfield_a2_N", "s_baseballfield_a2_E", "s_baseballfield_a2_S", "s_baseballfield_a2_W" ],
+    "fg": [ "s_baseballfield_a2_N", "s_baseballfield_a2_W", "s_baseballfield_a2_S", "s_baseballfield_a2_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "s_baseballfield_b1" ],
-    "fg": [ "s_baseballfield_b1_N", "s_baseballfield_b1_E", "s_baseballfield_b1_S", "s_baseballfield_b1_W" ],
+    "fg": [ "s_baseballfield_b1_N", "s_baseballfield_b1_W", "s_baseballfield_b1_S", "s_baseballfield_b1_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "s_baseballfield_b2" ],
-    "fg": [ "s_baseballfield_b2_N", "s_baseballfield_b2_E", "s_baseballfield_b2_S", "s_baseballfield_b2_W" ],
+    "fg": [ "s_baseballfield_b2_N", "s_baseballfield_b2_W", "s_baseballfield_b2_S", "s_baseballfield_b2_E" ],
     "bg": [ "field" ],
     "rotates": true
   }

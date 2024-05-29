@@ -1,25 +1,25 @@
 [
   {
     "id": [ "BotanicalGarden_1a" ],
-    "fg": [ "botanicalgarden_1a_N", "botanicalgarden_1a_E", "botanicalgarden_1a_S", "botanicalgarden_1a_W" ],
+    "fg": [ "botanicalgarden_1a_N", "botanicalgarden_1a_W", "botanicalgarden_1a_S", "botanicalgarden_1a_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "BotanicalGarden_1a_roof" ],
-    "fg": [ "botanicalgarden_1a_roof_N", "botanicalgarden_1a_roof_E", "botanicalgarden_1a_roof_S", "botanicalgarden_1a_roof_W" ],
+    "fg": [ "botanicalgarden_1a_roof_N", "botanicalgarden_1a_roof_W", "botanicalgarden_1a_roof_S", "botanicalgarden_1a_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "BotanicalGarden_1b" ],
-    "fg": [ "botanicalgarden_1b_N", "botanicalgarden_1b_E", "botanicalgarden_1b_S", "botanicalgarden_1b_W" ],
+    "fg": [ "botanicalgarden_1b_N", "botanicalgarden_1b_W", "botanicalgarden_1b_S", "botanicalgarden_1b_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "BotanicalGarden_1b_roof" ],
-    "fg": [ "botanicalgarden_1b_roof_N", "botanicalgarden_1b_roof_E", "botanicalgarden_1b_roof_S", "botanicalgarden_1b_roof_W" ],
+    "fg": [ "botanicalgarden_1b_roof_N", "botanicalgarden_1b_roof_W", "botanicalgarden_1b_roof_S", "botanicalgarden_1b_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

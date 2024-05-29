@@ -1,13 +1,13 @@
 [
   {
     "id": [ "home_improvement" ],
-    "fg": [ "home_improvement_N", "home_improvement_E", "home_improvement_S", "home_improvement_W" ],
+    "fg": [ "home_improvement_N", "home_improvement_W", "home_improvement_S", "home_improvement_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "home_improvement_roof" ],
-    "fg": [ "home_improvement_roof_N", "home_improvement_roof_E", "home_improvement_roof_S", "home_improvement_roof_W" ],
+    "fg": [ "home_improvement_roof_N", "home_improvement_roof_W", "home_improvement_roof_S", "home_improvement_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

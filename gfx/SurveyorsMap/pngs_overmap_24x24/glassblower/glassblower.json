@@ -1,19 +1,19 @@
 [
   {
     "id": [ "craft_shop" ],
-    "fg": [ "craft_shop_N", "craft_shop_E", "craft_shop_S", "craft_shop_W" ],
+    "fg": [ "craft_shop_N", "craft_shop_W", "craft_shop_S", "craft_shop_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "craft_shop_roof" ],
-    "fg": [ "craft_shop_roof_N", "craft_shop_roof_E", "craft_shop_roof_S", "craft_shop_roof_W" ],
+    "fg": [ "craft_shop_roof_N", "craft_shop_roof_W", "craft_shop_roof_S", "craft_shop_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "craft_shop_upper_roof" ],
-    "fg": [ "craft_shop_upper_roof_N", "craft_shop_upper_roof_E", "craft_shop_upper_roof_S", "craft_shop_upper_roof_W" ],
+    "fg": [ "craft_shop_upper_roof_N", "craft_shop_upper_roof_W", "craft_shop_upper_roof_S", "craft_shop_upper_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

@@ -1,13 +1,13 @@
 [
   {
     "id": [ "paintball_field" ],
-    "fg": [ "paintball_field_N", "paintball_field_E", "paintball_field_S", "paintball_field_W" ],
+    "fg": [ "paintball_field_N", "paintball_field_W", "paintball_field_S", "paintball_field_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "paintball_field_roof" ],
-    "fg": [ "paintball_field_roof_N", "paintball_field_roof_E", "paintball_field_roof_S", "paintball_field_roof_W" ],
+    "fg": [ "paintball_field_roof_N", "paintball_field_roof_W", "paintball_field_roof_S", "paintball_field_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

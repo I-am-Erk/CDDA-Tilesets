@@ -1,13 +1,13 @@
 [
   {
     "id": [ "candy_shop" ],
-    "fg": [ "candy_shop_N", "candy_shop_E", "candy_shop_S", "candy_shop_W" ],
+    "fg": [ "candy_shop_N", "candy_shop_W", "candy_shop_S", "candy_shop_E" ],
     "bg": [  ],
     "rotates": true
   },
   {
     "id": [ "candy_shop_roof" ],
-    "fg": [ "candy_shop_roof_N", "candy_shop_roof_E", "candy_shop_roof_S", "candy_shop_roof_W" ],
+    "fg": [ "candy_shop_roof_N", "candy_shop_roof_W", "candy_shop_roof_S", "candy_shop_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

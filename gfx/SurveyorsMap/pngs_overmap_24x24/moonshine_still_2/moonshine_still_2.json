@@ -1,13 +1,13 @@
 [
   {
     "id": [ "moonshine_still_2" ],
-    "fg": [ "moonshine_still_2_N", "moonshine_still_2_E", "moonshine_still_2_S", "moonshine_still_2_W" ],
+    "fg": [ "moonshine_still_2_N", "moonshine_still_2_W", "moonshine_still_2_S", "moonshine_still_2_E" ],
     "bg": [ "forest_center" ],
     "rotates": true
   },
   {
     "id": [ "moonshine_still_roof_2" ],
-    "fg": [ "moonshine_still_roof_2_N", "moonshine_still_roof_2_E", "moonshine_still_roof_2_S", "moonshine_still_roof_2_W" ],
+    "fg": [ "moonshine_still_roof_2_N", "moonshine_still_roof_2_W", "moonshine_still_roof_2_S", "moonshine_still_roof_2_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

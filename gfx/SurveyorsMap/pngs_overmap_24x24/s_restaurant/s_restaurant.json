@@ -1,13 +1,13 @@
 [
   {
     "id": [ "s_restaurant", "s_restaurant_foodplace" ],
-    "fg": [ "s_restaurant_N", "s_restaurant_E", "s_restaurant_S", "s_restaurant_W" ],
+    "fg": [ "s_restaurant_N", "s_restaurant_W", "s_restaurant_S", "s_restaurant_E" ],
     "bg": [  ],
     "rotates": true
   },
   {
     "id": [ "s_restaurant_roof" ],
-    "fg": [ "s_restaurant_roof_N", "s_restaurant_roof_E", "s_restaurant_roof_S", "s_restaurant_roof_W" ],
+    "fg": [ "s_restaurant_roof_N", "s_restaurant_roof_W", "s_restaurant_roof_S", "s_restaurant_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

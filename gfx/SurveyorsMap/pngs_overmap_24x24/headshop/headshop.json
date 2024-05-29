@@ -1,19 +1,19 @@
 [
   {
     "id": [ "headshop" ],
-    "fg": [ "headshop_N", "headshop_E", "headshop_S", "headshop_W" ],
+    "fg": [ "headshop_N", "headshop_W", "headshop_S", "headshop_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "headshop_roof" ],
-    "fg": [ "headshop_roof_N", "headshop_roof_E", "headshop_roof_S", "headshop_roof_W" ],
+    "fg": [ "headshop_roof_N", "headshop_roof_W", "headshop_roof_S", "headshop_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "headshop_upper_roof" ],
-    "fg": [ "headshop_upper_roof_N", "headshop_upper_roof_E", "headshop_upper_roof_S", "headshop_upper_roof_W" ],
+    "fg": [ "headshop_upper_roof_N", "headshop_upper_roof_W", "headshop_upper_roof_S", "headshop_upper_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

@@ -1,13 +1,13 @@
 [
   {
     "id": [ "s_butcher_2" ],
-    "fg": [ "s_butcher_2_N", "s_butcher_2_E", "s_butcher_2_S", "s_butcher_2_W" ],
+    "fg": [ "s_butcher_2_N", "s_butcher_2_W", "s_butcher_2_S", "s_butcher_2_E" ],
     "bg": [  ],
     "rotates": true
   },
   {
     "id": [ "s_butcher_roof_2" ],
-    "fg": [ "s_butcher_roof_2_N", "s_butcher_roof_2_E", "s_butcher_roof_2_S", "s_butcher_roof_2_W" ],
+    "fg": [ "s_butcher_roof_2_N", "s_butcher_roof_2_W", "s_butcher_roof_2_S", "s_butcher_roof_2_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

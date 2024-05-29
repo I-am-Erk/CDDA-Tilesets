@@ -1,13 +1,13 @@
 [
   {
     "id": [ "abstorefront_1" ],
-    "fg": [ "abstorefront_1_N", "abstorefront_1_E", "abstorefront_1_S", "abstorefront_1_W" ],
+    "fg": [ "abstorefront_1_N", "abstorefront_1_W", "abstorefront_1_S", "abstorefront_1_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "abstorefront_roof_1" ],
-    "fg": [ "abstorefront_roof_1_N", "abstorefront_roof_1_E", "abstorefront_roof_1_S", "abstorefront_roof_1_W" ],
+    "fg": [ "abstorefront_roof_1_N", "abstorefront_roof_1_W", "abstorefront_roof_1_S", "abstorefront_roof_1_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

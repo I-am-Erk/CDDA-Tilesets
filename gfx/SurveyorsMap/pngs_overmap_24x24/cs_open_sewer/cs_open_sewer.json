@@ -1,7 +1,7 @@
 [
   {
     "id": [ "cs_open_sewer" ],
-    "fg": [ "cs_open_sewer_N", "cs_open_sewer_E", "cs_open_sewer_S", "cs_open_sewer_W" ],
+    "fg": [ "cs_open_sewer_N", "cs_open_sewer_W", "cs_open_sewer_S", "cs_open_sewer_E" ],
     "bg": [ "field" ],
     "rotates": true
   }

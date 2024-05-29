@@ -1,13 +1,13 @@
 [
   {
     "id": [ "cs_private_park" ],
-    "fg": [ "cs_private_park_N", "cs_private_park_E", "cs_private_park_S", "cs_private_park_W" ],
+    "fg": [ "cs_private_park_N", "cs_private_park_W", "cs_private_park_S", "cs_private_park_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "cs_private_park_roof" ],
-    "fg": [ "cs_private_park_roof_N", "cs_private_park_roof_E", "cs_private_park_roof_S", "cs_private_park_roof_W" ],
+    "fg": [ "cs_private_park_roof_N", "cs_private_park_roof_W", "cs_private_park_roof_S", "cs_private_park_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

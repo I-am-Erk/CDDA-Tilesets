@@ -1,13 +1,13 @@
 [
   {
     "id": [ "s_camping" ],
-    "fg": [ "s_camping_N", "s_camping_E", "s_camping_S", "s_camping_W" ],
+    "fg": [ "s_camping_N", "s_camping_W", "s_camping_S", "s_camping_E" ],
     "bg": [  ],
     "rotates": true
   },
   {
     "id": [ "s_camping_roof" ],
-    "fg": [ "s_camping_roof_N", "s_camping_roof_E", "s_camping_roof_S", "s_camping_roof_W" ],
+    "fg": [ "s_camping_roof_N", "s_camping_roof_W", "s_camping_roof_S", "s_camping_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },

@@ -1,13 +1,13 @@
 [
   {
     "id": [ "s_grocery" ],
-    "fg": [ "s_grocery_N", "s_grocery_E", "s_grocery_S", "s_grocery_W" ],
+    "fg": [ "s_grocery_N", "s_grocery_W", "s_grocery_S", "s_grocery_E" ],
     "bg": [  ],
     "rotates": true
   },
   {
     "id": [ "s_grocery_roof" ],
-    "fg": [ "s_grocery_roof_N", "s_grocery_roof_E", "s_grocery_roof_S", "s_grocery_roof_W" ],
+    "fg": [ "s_grocery_roof_N", "s_grocery_roof_W", "s_grocery_roof_S", "s_grocery_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

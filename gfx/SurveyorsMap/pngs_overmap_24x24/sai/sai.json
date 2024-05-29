@@ -1,7 +1,7 @@
 [
   {
     "id": [ "sai" ],
-    "fg": [ "sai_N", "sai_E", "sai_S", "sai_W" ],
+    "fg": [ "sai_N", "sai_W", "sai_S", "sai_E" ],
     "bg": [ "field" ],
     "rotates": true
   }

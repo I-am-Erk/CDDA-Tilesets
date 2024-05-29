@@ -1,13 +1,13 @@
 [
   {
     "id": [ "s_hunting" ],
-    "fg": [ "s_hunting_N", "s_hunting_E", "s_hunting_S", "s_hunting_W" ],
+    "fg": [ "s_hunting_N", "s_hunting_W", "s_hunting_S", "s_hunting_E" ],
     "bg": [  ],
     "rotates": true
   },
   {
     "id": [ "s_hunting_roof" ],
-    "fg": [ "s_hunting_roof_N", "s_hunting_roof_E", "s_hunting_roof_S", "s_hunting_roof_W" ],
+    "fg": [ "s_hunting_roof_N", "s_hunting_roof_W", "s_hunting_roof_S", "s_hunting_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

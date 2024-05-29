@@ -1,7 +1,7 @@
 [
   {
     "id": [ "mine_entrance" ],
-    "fg": [ "mine_entrance_N", "mine_entrance_E", "mine_entrance_S", "mine_entrance_W" ],
+    "fg": [ "mine_entrance_N", "mine_entrance_W", "mine_entrance_S", "mine_entrance_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
@@ -9,16 +9,16 @@
     "id": [ "mine_entrance_loading_zone" ],
     "fg": [
       "mine_entrance_loading_zone_N",
-      "mine_entrance_loading_zone_E",
+      "mine_entrance_loading_zone_W",
       "mine_entrance_loading_zone_S",
-      "mine_entrance_loading_zone_W"
+      "mine_entrance_loading_zone_E"
     ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "mine_entrance_roof" ],
-    "fg": [ "mine_entrance_roof_N", "mine_entrance_roof_E", "mine_entrance_roof_S", "mine_entrance_roof_W" ],
+    "fg": [ "mine_entrance_roof_N", "mine_entrance_roof_W", "mine_entrance_roof_S", "mine_entrance_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
@@ -26,9 +26,9 @@
     "id": [ "mine_entrance_loading_zone_roof" ],
     "fg": [
       "mine_entrance_loading_zone_roof_N",
-      "mine_entrance_loading_zone_roof_E",
+      "mine_entrance_loading_zone_roof_W",
       "mine_entrance_loading_zone_roof_S",
-      "mine_entrance_loading_zone_roof_W"
+      "mine_entrance_loading_zone_roof_E"
     ],
     "bg": [ "open_air" ],
     "rotates": true

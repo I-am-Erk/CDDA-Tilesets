@@ -1,13 +1,13 @@
 [
   {
     "id": [ "police" ],
-    "fg": [ "police_N", "police_E", "police_S", "police_W" ],
+    "fg": [ "police_N", "police_W", "police_S", "police_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "police_roof" ],
-    "fg": [ "police_roof_N", "police_roof_E", "police_roof_S", "police_roof_W" ],
+    "fg": [ "police_roof_N", "police_roof_W", "police_roof_S", "police_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

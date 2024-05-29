@@ -1,13 +1,13 @@
 [
   {
     "id": [ "s_hardware_2" ],
-    "fg": [ "s_hardware_2_N", "s_hardware_2_E", "s_hardware_2_S", "s_hardware_2_W" ],
+    "fg": [ "s_hardware_2_N", "s_hardware_2_W", "s_hardware_2_S", "s_hardware_2_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "s_hardware_roof_2" ],
-    "fg": [ "s_hardware_roof_2_N", "s_hardware_roof_2_E", "s_hardware_roof_2_S", "s_hardware_roof_2_W" ],
+    "fg": [ "s_hardware_roof_2_N", "s_hardware_roof_2_W", "s_hardware_roof_2_S", "s_hardware_roof_2_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

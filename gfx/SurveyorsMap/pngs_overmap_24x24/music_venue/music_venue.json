@@ -1,13 +1,13 @@
 [
   {
     "id": [ "music_venue" ],
-    "fg": [ "music_venue_N", "music_venue_E", "music_venue_S", "music_venue_W" ],
+    "fg": [ "music_venue_N", "music_venue_W", "music_venue_S", "music_venue_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "music_venue_roof" ],
-    "fg": [ "music_venue_roof_N", "music_venue_roof_E", "music_venue_roof_S", "music_venue_roof_W" ],
+    "fg": [ "music_venue_roof_N", "music_venue_roof_W", "music_venue_roof_S", "music_venue_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

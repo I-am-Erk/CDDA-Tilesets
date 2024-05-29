@@ -1,13 +1,13 @@
 [
   {
     "id": [ "bowling_alley" ],
-    "fg": [ "bowling_alley_N", "bowling_alley_E", "bowling_alley_S", "bowling_alley_W" ],
+    "fg": [ "bowling_alley_N", "bowling_alley_W", "bowling_alley_S", "bowling_alley_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "bowling_alley_roof" ],
-    "fg": [ "bowling_alley_roof_N", "bowling_alley_roof_E", "bowling_alley_roof_S", "bowling_alley_roof_W" ],
+    "fg": [ "bowling_alley_roof_N", "bowling_alley_roof_W", "bowling_alley_roof_S", "bowling_alley_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

@@ -1,37 +1,37 @@
 [
   {
     "id": [ "trailerparksmall0" ],
-    "fg": [ "trailerparksmall0_N", "trailerparksmall0_E", "trailerparksmall0_S", "trailerparksmall0_W" ],
+    "fg": [ "trailerparksmall0_N", "trailerparksmall0_W", "trailerparksmall0_S", "trailerparksmall0_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "trailerparksmall1" ],
-    "fg": [ "trailerparksmall1_N", "trailerparksmall1_E", "trailerparksmall1_S", "trailerparksmall1_W" ],
+    "fg": [ "trailerparksmall1_N", "trailerparksmall1_W", "trailerparksmall1_S", "trailerparksmall1_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "trailerparksmall2" ],
-    "fg": [ "trailerparksmall2_N", "trailerparksmall2_E", "trailerparksmall2_S", "trailerparksmall2_W" ],
+    "fg": [ "trailerparksmall2_N", "trailerparksmall2_W", "trailerparksmall2_S", "trailerparksmall2_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "trailerparksmall0_roof" ],
-    "fg": [ "trailerparksmall0_roof_N", "trailerparksmall0_roof_E", "trailerparksmall0_roof_S", "trailerparksmall0_roof_W" ],
+    "fg": [ "trailerparksmall0_roof_N", "trailerparksmall0_roof_W", "trailerparksmall0_roof_S", "trailerparksmall0_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "trailerparksmall1_roof" ],
-    "fg": [ "trailerparksmall1_roof_N", "trailerparksmall1_roof_E", "trailerparksmall1_roof_S", "trailerparksmall1_roof_W" ],
+    "fg": [ "trailerparksmall1_roof_N", "trailerparksmall1_roof_W", "trailerparksmall1_roof_S", "trailerparksmall1_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "trailerparksmall2_roof" ],
-    "fg": [ "trailerparksmall2_roof_N", "trailerparksmall2_roof_E", "trailerparksmall2_roof_S", "trailerparksmall2_roof_W" ],
+    "fg": [ "trailerparksmall2_roof_N", "trailerparksmall2_roof_W", "trailerparksmall2_roof_S", "trailerparksmall2_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

@@ -1,19 +1,19 @@
 [
   {
     "id": [ "music_venue_1" ],
-    "fg": [ "music_venue_1_N", "music_venue_1_E", "music_venue_1_S", "music_venue_1_W" ],
+    "fg": [ "music_venue_1_N", "music_venue_1_W", "music_venue_1_S", "music_venue_1_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "music_venue_1_roof" ],
-    "fg": [ "music_venue_1_roof_N", "music_venue_1_roof_E", "music_venue_1_roof_S", "music_venue_1_roof_W" ],
+    "fg": [ "music_venue_1_roof_N", "music_venue_1_roof_W", "music_venue_1_roof_S", "music_venue_1_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "music_venue_1_roof_top" ],
-    "fg": [ "music_venue_1_roof_top_N", "music_venue_1_roof_top_E", "music_venue_1_roof_top_S", "music_venue_1_roof_top_W" ],
+    "fg": [ "music_venue_1_roof_top_N", "music_venue_1_roof_top_W", "music_venue_1_roof_top_S", "music_venue_1_roof_top_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

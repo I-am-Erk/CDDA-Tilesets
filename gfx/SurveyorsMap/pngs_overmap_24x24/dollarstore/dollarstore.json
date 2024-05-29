@@ -1,13 +1,13 @@
 [
   {
     "id": [ "dollarstore" ],
-    "fg": [ "dollarstore_N", "dollarstore_E", "dollarstore_S", "dollarstore_W" ],
+    "fg": [ "dollarstore_N", "dollarstore_W", "dollarstore_S", "dollarstore_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "dollarstore_roof" ],
-    "fg": [ "dollarstore_roof_N", "dollarstore_roof_E", "dollarstore_roof_S", "dollarstore_roof_W" ],
+    "fg": [ "dollarstore_roof_N", "dollarstore_roof_W", "dollarstore_roof_S", "dollarstore_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }
