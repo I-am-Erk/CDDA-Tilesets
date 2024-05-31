@@ -1,0 +1,14 @@
+[
+    {
+      "id": [ "s_dive_shop" ],
+      "fg": [ "s_dive_shop_N", "s_dive_shop_W", "s_dive_shop_S", "s_dive_shop_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "s_dive_shop_roof" ],
+      "fg": [ "s_dive_shop_roof_N", "s_dive_shop_roof_W", "s_dive_shop_roof_S", "s_dive_shop_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    }
+  ]
