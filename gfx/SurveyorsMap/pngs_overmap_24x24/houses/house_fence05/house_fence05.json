@@ -1,0 +1,27 @@
+[
+    {
+      "id": [ "house_fence05_1" ],
+      "fg": [ "house_fence05_1_N", "house_fence05_1_W", "house_fence05_1_S", "house_fence05_1_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "house_fence05_2" ],
+      "fg": [ "house_fence05_2_N", "house_fence05_2_W", "house_fence05_2_S", "house_fence05_2_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "house_fence05_roof" ],
+      "fg": [ "house_fence05_roof_N", "house_fence05_roof_W", "house_fence05_roof_S", "house_fence05_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "house_fence05_basement" ],
+      "fg": [ "house_fence05_basement_N", "house_fence05_basement_W", "house_fence05_basement_S", "house_fence05_basement_E" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    }
+  ]
+  
