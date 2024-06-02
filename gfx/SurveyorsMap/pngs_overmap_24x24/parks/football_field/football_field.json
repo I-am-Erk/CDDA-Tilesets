@@ -1,0 +1,63 @@
+[
+    {
+      "id": [ "football_field_a1" ],
+      "fg": [ "football_field_a1_N", "football_field_a1_W", "football_field_a1_S", "football_field_a1_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "football_field_a2", "football_field_a3", "football_field_a4" ],
+      "fg": [ "football_field_a2_N", "football_field_a2_W", "football_field_a2_S", "football_field_a2_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "football_field_a5" ],
+      "fg": [ "football_field_a5_N", "football_field_a5_W", "football_field_a5_S", "football_field_a5_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "football_field_b1" ],
+      "fg": [ "football_field_b1_N", "football_field_b1_W", "football_field_b1_S", "football_field_b1_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "football_field_b2", "football_field_b3", "football_field_b4" ],
+      "fg": [ "football_field_b2_N", "football_field_b2_W", "football_field_b2_S", "football_field_b2_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "football_field_b5" ],
+      "fg": [ "football_field_b5_N", "football_field_b5_W", "football_field_b5_S", "football_field_b5_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "football_field_c1" ],
+      "fg": [ "football_field_c1_N", "football_field_c1_W", "football_field_c1_S", "football_field_c1_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "football_field_c2", "football_field_c3", "football_field_c4" ],
+      "fg": [ "football_field_c2_N", "football_field_c2_W", "football_field_c2_S", "football_field_c2_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "football_field_c5" ],
+      "fg": [ "football_field_c5_N", "football_field_c5_W", "football_field_c5_S", "football_field_c5_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "football_field_C5" ],
+      "fg": [ "football_field_C5_roof_N", "football_field_C5_roof_W", "football_field_C5_roof_S", "football_field_C5_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    }
+  ]
+  
