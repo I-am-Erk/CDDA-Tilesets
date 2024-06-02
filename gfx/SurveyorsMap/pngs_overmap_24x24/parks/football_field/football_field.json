@@ -58,6 +58,12 @@
       "fg": [ "football_field_C5_roof_N", "football_field_C5_roof_W", "football_field_C5_roof_S", "football_field_C5_roof_E" ],
       "bg": [ "open_air" ],
       "rotates": true
+    },
+    {
+        "id": [ "football_field_B1", "football_field_B5" ],
+        "fg": [ "open_air" ],
+        "bg": [ "open_air" ],
+        "rotates": true
     }
   ]
   
