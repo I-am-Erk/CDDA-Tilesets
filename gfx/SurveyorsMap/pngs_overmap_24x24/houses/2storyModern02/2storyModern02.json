@@ -1,0 +1,27 @@
+[
+    {
+      "id": [ "2storyModern02_1" ],
+      "fg": [ "2storyModern02_1_N", "2storyModern02_1_W", "2storyModern02_1_S", "2storyModern02_1_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "2storyModern02_2" ],
+      "fg": [ "2storyModern02_2_N", "2storymodern01_second_W", "2storymodern01_second_S", "2storymodern01_second_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "2storyModern02_roof" ],
+      "fg": [ "2storyModern02_roof_N", "2storyModern02_roof_W", "2storyModern02_roof_S", "2storyModern02_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "2storyModern02_basement" ],
+      "fg": [ "2storyModern02_basement_N", "2storyModern02_basement_W", "2storyModern02_basement_S", "2storyModern02_basement_E" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    }
+  ]
+  
