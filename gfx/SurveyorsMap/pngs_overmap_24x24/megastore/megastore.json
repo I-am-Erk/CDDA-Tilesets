@@ -1,0 +1,201 @@
+[
+    {
+      "id": [ "megastore_0_0_0" ],
+      "fg": [ "megastore_0_0_0_S", "megastore_0_0_0_E", "megastore_0_0_0_N", "megastore_0_0_0_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "megastore_0_0_1", "megastore_0_0_roof" ],
+      "fg": [ "megastore_0_0_1_S", "megastore_0_0_1_E", "megastore_0_0_1_N", "megastore_0_0_1_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "megastore_1_0_0" ],
+      "fg": [ "megastore_1_0_0_S", "megastore_1_0_0_E", "megastore_1_0_0_N", "megastore_1_0_0_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "megastore_1_0_1", "megastore_1_0_roof" ],
+      "fg": [ "megastore_1_0_0_S", "megastore_1_0_0_E", "megastore_1_0_0_N", "megastore_1_0_0_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "megastore_2_0_0" ],
+      "fg": [ "megastore_2_0_0_S", "megastore_2_0_0_E", "megastore_2_0_0_N", "megastore_2_0_0_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "megastore_2_0_1", "megastore_2_0_roof" ],
+      "fg": [ "megastore_2_0_1_S", "megastore_2_0_1_E", "megastore_2_0_1_N", "megastore_2_0_1_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "megastore_0_1_0" ],
+      "fg": [ "megastore_0_1_0_S", "megastore_0_1_0_E", "megastore_0_1_0_N", "megastore_0_1_0_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "megastore_0_1_1" ],
+      "fg": [ "megastore_0_1_1_S", "megastore_0_1_1_E", "megastore_0_1_1_N", "megastore_0_1_1_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "megastore_0_1_roof" ],
+      "fg": [ "megastore_0_1_roof_S", "megastore_0_1_roof_E", "megastore_0_1_roof_N", "megastore_0_1_roof_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "megastore_1_1_0", "megastore_1_1_1" ],
+      "fg": [ "megastore_1_1_0_SENW" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "megastore_1_1_roof" ],
+      "fg": [ "megastore_1_1_roof_SWNE" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "megastore_2_1_0" ],
+      "fg": [ "megastore_2_1_0_S", "megastore_2_1_0_E", "megastore_2_1_0_N", "megastore_2_1_0_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "megastore_2_1_1" ],
+      "fg": [ "megastore_2_1_1_S", "megastore_2_1_1_E", "megastore_2_1_1_N", "megastore_2_1_1_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "megastore_2_1_roof" ],
+      "fg": [ "megastore_2_1_roof_S", "megastore_2_1_roof_E", "megastore_2_1_roof_N", "megastore_2_1_roof_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "megastore_0_2_0" ],
+      "fg": [ "megastore_0_2_0_S", "megastore_0_2_0_E", "megastore_0_2_0_N", "megastore_0_2_0_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "megastore_0_2_1" ],
+      "fg": [ "megastore_0_2_1_S", "megastore_0_2_1_E", "megastore_0_2_1_N", "megastore_0_2_1_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "megastore_0_2_roof" ],
+      "fg": [ "megastore_0_2_roof_S", "megastore_0_2_roof_E", "megastore_0_2_roof_N", "megastore_0_2_roof_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "megastore_1_2_0" ],
+      "fg": [ "megastore_1_2_0_S", "megastore_1_2_0_E", "megastore_1_2_0_N", "megastore_1_2_0_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "megastore_1_2_1", "megastore_1_2_roof" ],
+      "fg": [ "megastore_1_2_1_S", "megastore_1_2_1_E", "megastore_1_2_1_N", "megastore_1_2_1_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "megastore_2_2_0" ],
+      "fg": [ "megastore_2_2_0_S", "megastore_2_2_0_E", "megastore_2_2_0_N", "megastore_2_2_0_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "megastore_2_2_1" ],
+      "fg": [ "megastore_2_2_1_S", "megastore_2_2_1_E", "megastore_2_2_1_N", "megastore_2_2_1_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "megastore_2_2_roof" ],
+      "fg": [ "megastore_2_2_roof_S", "megastore_2_2_roof_E", "megastore_2_2_roof_N", "megastore_2_2_roof_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "megastore_parking_0_4" ],
+      "fg": [ "megastore_parking_0_4_S", "megastore_parking_0_4_E", "megastore_parking_0_4_N", "megastore_parking_0_4_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "megastore_parking_0_3" ],
+      "fg": [ "megastore_parking_0_3_S", "megastore_parking_0_3_E", "megastore_parking_0_3_N", "megastore_parking_0_3_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "megastore_parking_0_2" ],
+      "fg": [ "megastore_parking_0_2_S", "megastore_parking_0_2_E", "megastore_parking_0_2_N", "megastore_parking_0_2_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "megastore_parking_3_1" ],
+      "fg": [ "megastore_parking_3_1_S", "megastore_parking_3_1_E", "megastore_parking_3_1_N", "megastore_parking_3_1_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "megastore_parking_2_1" ],
+      "fg": [ "megastore_parking_2_1_S", "megastore_parking_2_1_E", "megastore_parking_2_1_N", "megastore_parking_2_1_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "megastore_parking_1_1" ],
+      "fg": [ "megastore_parking_1_1_S", "megastore_parking_1_1_E", "megastore_parking_1_1_N", "megastore_parking_1_1_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "megastore_parking_0_1" ],
+      "fg": [ "megastore_parking_0_1_S", "megastore_parking_0_1_E", "megastore_parking_0_1_N", "megastore_parking_0_1_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "megastore_parking_3_0" ],
+      "fg": [ "megastore_parking_3_0_S", "megastore_parking_3_0_E", "megastore_parking_3_0_N", "megastore_parking_3_0_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "megastore_parking_2_0" ],
+      "fg": [ "megastore_parking_2_0_S", "megastore_parking_2_0_E", "megastore_parking_2_0_N", "megastore_parking_2_0_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "megastore_parking_1_0" ],
+      "fg": [ "megastore_parking_1_0_S", "megastore_parking_1_0_E", "megastore_parking_1_0_N", "megastore_parking_1_0_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "megastore_parking_0_0" ],
+      "fg": [ "megastore_parking_0_0_S", "megastore_parking_0_0_E", "megastore_parking_0_0_N", "megastore_parking_0_0_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    }
+  ]
+  
