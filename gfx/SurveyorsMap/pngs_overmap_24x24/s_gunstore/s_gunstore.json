@@ -1,8 +1,8 @@
 [
   {
-    "id": [ "s_gunstore" ],
+    "id": [ "s_gunstore", "s_gunstore_looted" ],
     "fg": [ "s_gunstore_N", "s_gunstore_W", "s_gunstore_S", "s_gunstore_E" ],
-    "bg": [  ],
+    "bg": [ "field" ],
     "rotates": true
   },
   {
