@@ -1,0 +1,15 @@
+[
+    {
+      "id": [ "house_fence04" ],
+      "fg": [ "house_fence04_N", "house_fence04_W", "house_fence04_S", "house_fence04_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "house_fence04_roof" ],
+      "fg": [ "house_fence04_roof_N", "house_fence04_roof_W", "house_fence04_roof_S", "house_fence04_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    }
+  ]
+  
