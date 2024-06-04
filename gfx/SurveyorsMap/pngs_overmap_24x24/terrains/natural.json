@@ -3,5 +3,10 @@
     "id": "forest_water",
     "fg": "swamp",
     "bg": ""
+  },
+  {
+    "id": ["meadow_core", "meadow_end"],
+    "fg": "meadow",
+    "bg": "field"
   }
 ]
