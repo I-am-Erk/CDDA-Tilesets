@@ -1,0 +1,51 @@
+[
+    {
+      "id": [ "urban_5_1_basement" ],
+      "fg": [ "urban_5_1_basement_S", "urban_5_1_basement_E", "urban_5_1_basement_N", "urban_5_1_basement_W" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    },
+    {
+      "id": [ "urban_5_2_basement" ],
+      "fg": [ "urban_5_2_basement_S", "urban_5_2_basement_E", "urban_5_2_basement_N", "urban_5_2_basement_W" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    },
+    {
+      "id": [ "urban_5_1" ],
+      "fg": [ "urban_5_1_S", "urban_5_1_E", "urban_5_1_N", "urban_5_1_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "urban_5_3" ],
+      "fg": [ "urban_5_3_S", "urban_5_3_E", "urban_5_3_N", "urban_5_3_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "urban_5_2" ],
+      "fg": [ "urban_5_2_S", "urban_5_2_E", "urban_5_2_N", "urban_5_2_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "urban_5_4" ],
+      "fg": [ "urban_5_4_S", "urban_5_4_E", "urban_5_4_N", "urban_5_4_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "urban_5_5" ],
+      "fg": [ "urban_5_5_S", "urban_5_5_E", "urban_5_5_N", "urban_5_5_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "urban_5_6" ],
+      "fg": [ "urban_5_6_S", "urban_5_6_E", "urban_5_6_N", "urban_5_6_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    }
+  ]
+  
