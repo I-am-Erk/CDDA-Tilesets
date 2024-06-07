@@ -1,6 +1,6 @@
 [
   {
-    "id": [ "pond_field" ],
+    "id": [ "pond_field", "ranch_camp_17" ],
     "fg": [ "pond" ],
     "bg": [ "field" ],
     "rotates": false

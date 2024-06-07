@@ -1,0 +1,33 @@
+[
+    {
+      "id": [ "campground_1a" ],
+      "fg": [ "campground_1a_N", "campground_1a_W", "campground_1a_S", "campground_1a_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "campground_1b" ],
+      "fg": [ "campground_1b_N", "campground_1b_W", "campground_1b_S", "campground_1b_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "campground_2a" ],
+      "fg": [ "campground_2a_N", "campground_2a_W", "campground_2a_S", "campground_2a_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "campground_2b" ],
+      "fg": [ "campground_2b_N", "campground_2b_W", "campground_2b_S", "campground_2b_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+        "id": [ "campground_roof" ],
+        "fg": [ "campground_roof_N", "campground_roof_W", "campground_roof_S", "campground_roof_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      }
+  ]
+  

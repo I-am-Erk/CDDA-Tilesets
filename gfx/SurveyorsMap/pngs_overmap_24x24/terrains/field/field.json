@@ -1,52 +1,65 @@
 {
-  "id": [ "field", "special_field" ],
+  "id": [
+    "field",
+    "special_field",
+    "ranch_camp_11",
+    "ranch_camp_12",
+    "ranch_camp_13",
+    "ranch_camp_14",
+    "ranch_camp_15",
+    "ranch_camp_16",
+    "ranch_camp_20",
+    "ranch_camp_21",
+    "ranch_camp_22",
+    "ranch_camp_23",
+    "ranch_camp_24",
+    "ranch_camp_25",
+    "ranch_camp_26",
+    "ranch_camp_29",
+    "ranch_camp_30",
+    "ranch_camp_31",
+    "ranch_camp_32",
+    "ranch_camp_33",
+    "ranch_camp_34",
+    "ranch_camp_35",
+    "ranch_camp_38",
+    "ranch_camp_39",
+    "ranch_camp_40",
+    "ranch_camp_41",
+    "ranch_camp_42",
+    "ranch_camp_43",
+    "ranch_camp_44",
+    "ranch_camp_47",
+    "ranch_camp_48",
+    "ranch_camp_49",
+    "ranch_camp_50",
+    "ranch_camp_51",
+    "ranch_camp_52",
+    "ranch_camp_53",
+    "ranch_camp_56",
+    "ranch_camp_58",
+    "ranch_camp_59",
+    "ranch_camp_60",
+    "ranch_camp_61",
+    "ranch_camp_62",
+    "ranch_camp_65",
+    "ranch_camp_70",
+    "ranch_camp_71"
+  ],
   "fg": "field",
   "multitile": true,
   "additional_tiles": [
-    {
-      "id": "center",
-      "fg": "field"
-    },
-    {
-      "id": "corner",
-      "fg": [
-        "field_corner_nw",
-        "field_corner_sw",
-        "field_corner_se",
-        "field_corner_ne"
-      ]
-    },
+    { "id": "center", "fg": "field" },
+    { "id": "corner", "fg": [ "field_corner_nw", "field_corner_sw", "field_corner_se", "field_corner_ne" ] },
     {
       "id": "t_connection",
-      "fg": [
-        "field_t_connection_n",
-        "field_t_connection_w",
-        "field_t_connection_s",
-        "field_t_connection_e"
-      ]
+      "fg": [ "field_t_connection_n", "field_t_connection_w", "field_t_connection_s", "field_t_connection_e" ]
     },
-    {
-      "id": "edge",
-      "fg": [
-        "field_edge_ns",
-        "field_edge_ew"
-      ]
-    },
+    { "id": "edge", "fg": [ "field_edge_ns", "field_edge_ew" ] },
     {
       "id": "end_piece",
-      "fg": [
-        "field_end_piece_n",
-        "field_end_piece_w",
-        "field_end_piece_s",
-        "field_end_piece_e"
-      ]
+      "fg": [ "field_end_piece_n", "field_end_piece_w", "field_end_piece_s", "field_end_piece_e" ]
     },
-    {
-      "id": "unconnected",
-      "fg": [
-        "field_unconnected",
-        "field_unconnected"
-      ]
-    }
+    { "id": "unconnected", "fg": [ "field_unconnected", "field_unconnected" ] }
   ]
 }

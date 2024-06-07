@@ -1,0 +1,27 @@
+[
+    {
+      "id": [ "state_park_0_0" ],
+      "fg": [ "state_park_0_0_N", "state_park_0_0_W", "state_park_0_0_S", "state_park_0_0_E" ],
+      "bg": [ "forest_center" ],
+      "rotates": true
+    },
+    {
+      "id": [ "state_park_1_0" ],
+      "fg": [ "state_park_1_0_N", "state_park_1_0_W", "state_park_1_0_S", "state_park_1_0_E" ],
+      "bg": [ "forest_center" ],
+      "rotates": true
+    },
+    {
+      "id": [ "state_park_0_1" ],
+      "fg": [ "state_park_0_1_N", "state_park_0_1_W", "state_park_0_1_S", "state_park_0_1_E" ],
+      "bg": [ "forest_center" ],
+      "rotates": true
+    },
+    {
+      "id": [ "state_park_1_1" ],
+      "fg": [ "state_park_1_1_N", "state_park_1_1_W", "state_park_1_1_S", "state_park_1_1_E" ],
+      "bg": [ "forest_center" ],
+      "rotates": true
+    }
+  ]
+  

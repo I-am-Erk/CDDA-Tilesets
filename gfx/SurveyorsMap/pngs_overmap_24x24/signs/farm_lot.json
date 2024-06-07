@@ -1,6 +1,6 @@
 [
   {
-    "id": [ 
+    "id": [
       "farm_lot_wire_straight_h",
       "farm_lot_wire_straight_v",
       "farm_lot_wire_straight_v_open",
@@ -12,12 +12,94 @@
       "farm_lot_wire_turn_h",
       "farm_lot_wire_turn_uni",
       "farm_lot_wire_turn_v",
-      "yard"
+      "yard",
+      "farmland_straight",
+      "farmland_turn",
+      "farmland_turn_inside",
+      "farmland_U",
+      "hayfield_straight",
+      "hayfield_end",
+      "hayfield_turnL",
+      "hayfield_turnR",
+      "farm_isherwood_1",
+      "farm_isherwood_4",
+      "farm_isherwood_5",
+      "farm_isherwood_6",
+      "farm_isherwood_7",
+      "farm_isherwood_8",
+      "farm_isherwood_9",
+      "farm_1",
+      "farm_4",
+      "farm_5",
+      "farm_6",
+      "farm_7",
+      "farm_8",
+      "farm_9"
     ],
-    "fg": [
-      "farm_lot"
-    ],
+    "fg": [ "farm_lot" ],
     "bg": [ "field" ],
     "rotates": false
+  },
+  {
+    "id": [
+      "ranch_camp_80",
+      "ranch_camp_79",
+      "ranch_camp_74",
+      "ranch_camp_2",
+      "ranch_camp_3",
+      "ranch_camp_4",
+      "ranch_camp_5",
+      "ranch_camp_6",
+      "ranch_camp_7",
+      "ranch_camp_8"
+    ],
+    "fg": [ "refctr_fence_h_NS" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "ranch_camp_64",
+      "ranch_camp_55",
+      "ranch_camp_46",
+      "ranch_camp_37",
+      "ranch_camp_28",
+      "ranch_camp_19",
+      "ranch_camp_10",
+      "ranch_camp_18",
+      "ranch_camp_27",
+      "ranch_camp_36",
+      "ranch_camp_45",
+      "ranch_camp_54",
+      "ranch_camp_63",
+      "ranch_camp_72"
+    ],
+    "fg": [ "refctr_fence_v_NS" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "ranch_camp_81", "ranch_camp_75" ],
+    "fg": [ "refctr_fence_NW_S", "refctr_fence_NW_E", "refctr_fence_NW_N", "refctr_fence_NW_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "ranch_camp_73", "ranch_camp_78" ],
+    "fg": [ "refctr_fence_NE_S", "refctr_fence_NE_E", "refctr_fence_NE_N", "refctr_fence_NE_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "ranch_camp_9", "ranch_camp_69" ],
+    "fg": [ "refctr_fence_SW_S", "refctr_fence_SW_E", "refctr_fence_SW_N", "refctr_fence_SW_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "ranch_camp_1" ],
+    "fg": [ "refctr_fence_SE_S", "refctr_fence_SE_E", "refctr_fence_SE_N", "refctr_fence_SE_W" ],
+    "bg": [ "field" ],
+    "rotates": true
   }
 ]
