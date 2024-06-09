@@ -1,0 +1,145 @@
+[
+    {
+      "id": [ "prefab" ],
+      "fg": [ "prefab_N", "prefab_W", "prefab_S", "prefab_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "prefab_roof" ],
+      "fg": [ "prefab_roof_N", "prefab_roof_W", "prefab_roof_S", "prefab_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "trailer_hub_10" ],
+      "fg": [ "trailer_hub_10_N", "trailer_hub_10_W", "trailer_hub_10_S", "trailer_hub_10_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "trailer_hub_10_roof" ],
+      "fg": [ "trailer_hub_10_roof_N", "trailer_hub_10_roof_W", "trailer_hub_10_roof_S", "trailer_hub_10_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "trailer_hub_00" ],
+      "fg": [ "trailer_hub_00_N", "trailer_hub_00_W", "trailer_hub_00_S", "trailer_hub_00_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "trailer_hub_01" ],
+      "fg": [ "trailer_hub_01_N", "trailer_hub_01_W", "trailer_hub_01_S", "trailer_hub_01_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "trailer_hub_11" ],
+      "fg": [ "trailer_hub_11_N", "trailer_hub_11_W", "trailer_hub_11_S", "trailer_hub_11_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "trailer_caravan_00" ],
+      "fg": [ "trailer_caravan_00_N", "trailer_caravan_00_W", "trailer_caravan_00_S", "trailer_caravan_00_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "trailer_caravan_10" ],
+      "fg": [ "trailer_caravan_10_N", "trailer_caravan_10_W", "trailer_caravan_10_S", "trailer_caravan_10_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "trailer_caravan_01" ],
+      "fg": [ "trailer_caravan_01_N", "trailer_caravan_01_W", "trailer_caravan_01_S", "trailer_caravan_01_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "trailer_caravan_11" ],
+      "fg": [ "trailer_caravan_11_N", "trailer_caravan_11_W", "trailer_caravan_11_S", "trailer_caravan_11_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "trailer_road", "trailer_road_1parkway", "trailer_road_2parkway" ],
+      "fg": [ "trailer_road_NS", "trailer_road_EW" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "trailer_road_turn" ],
+      "fg": [ "trailer_road_turn_N", "trailer_road_turn_W", "trailer_road_turn_S", "trailer_road_turn_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "trailer_road_3way" ],
+      "fg": [ "trailer_road_3way_N", "trailer_road_3way_W", "trailer_road_3way_S", "trailer_road_3way_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "trailer_commercial_00" ],
+      "fg": [ "trailer_commercial_00_N", "trailer_commercial_00_W", "trailer_commercial_00_S", "trailer_commercial_00_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "trailer_commercial_00_roof" ],
+      "fg": [
+        "trailer_commercial_00_roof_N",
+        "trailer_commercial_00_roof_W",
+        "trailer_commercial_00_roof_S",
+        "trailer_commercial_00_roof_E"
+      ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "trailer_commercial_10" ],
+      "fg": [ "trailer_commercial_10_N", "trailer_commercial_10_W", "trailer_commercial_10_S", "trailer_commercial_10_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "trailer_commercial_10_roof" ],
+      "fg": [
+        "trailer_commercial_10_roof_N",
+        "trailer_commercial_10_roof_W",
+        "trailer_commercial_10_roof_S",
+        "trailer_commercial_10_roof_E"
+      ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "trailer_public_00" ],
+      "fg": [ "trailer_public_00_N", "trailer_public_00_W", "trailer_public_00_S", "trailer_public_00_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "trailer_public_00_roof" ],
+      "fg": [ "trailer_public_00_roof_N", "trailer_public_00_roof_W", "trailer_public_00_roof_S", "trailer_public_00_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "trailer_public_10" ],
+      "fg": [ "trailer_public_10_N", "trailer_public_10_W", "trailer_public_10_S", "trailer_public_10_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "trailer_public_10_roof" ],
+      "fg": [ "trailer_public_10_roof_N", "trailer_public_10_roof_W", "trailer_public_10_roof_S", "trailer_public_10_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    }
+  ]
+  
