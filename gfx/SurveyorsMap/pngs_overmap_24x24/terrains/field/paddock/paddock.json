@@ -1,0 +1,255 @@
+[
+    {
+      "id": [ "paddock" ],
+      "fg": [ "paddock_N", "paddock_W", "paddock_S", "paddock_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "pasture" ],
+      "fg": [ "field" ],
+      "bg": [ "" ],
+      "rotates": false
+    },
+    {
+      "id": [ "paddock_L_butt" ],
+      "fg": [ "paddock_L_butt_N", "paddock_L_butt_W", "paddock_L_butt_S", "paddock_L_butt_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "paddock_R_butt" ],
+      "fg": [ "paddock_R_butt_N", "paddock_R_butt_W", "paddock_R_butt_S", "paddock_R_butt_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "paddock_L_gap" ],
+      "fg": [ "paddock_L_gap_N", "paddock_L_gap_W", "paddock_L_gap_S", "paddock_L_gap_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "paddock_R_gap" ],
+      "fg": [ "paddock_R_gap_N", "paddock_R_gap_W", "paddock_R_gap_S", "paddock_R_gap_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "paddock_C" ],
+      "fg": [ "paddock_C_N", "paddock_C_W", "paddock_C_S", "paddock_C_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "paddock_UL" ],
+      "fg": [ "paddock_UL_N", "paddock_UL_W", "paddock_UL_S", "paddock_UL_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "paddock_UR" ],
+      "fg": [ "paddock_UR_N", "paddock_UR_W", "paddock_UR_S", "paddock_UR_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "paddock_DL" ],
+      "fg": [ "paddock_DL_N", "paddock_DL_W", "paddock_DL_S", "paddock_DL_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "paddock_DR" ],
+      "fg": [ "paddock_DR_N", "paddock_DR_W", "paddock_DR_S", "paddock_DR_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "paddock_d_D_butt" ],
+      "fg": [ "paddock_d_D_butt_N", "paddock_d_D_butt_W", "paddock_d_D_butt_S", "paddock_d_D_butt_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "paddock_d_U_gap" ],
+      "fg": [ "paddock_d_U_gap_N", "paddock_d_U_gap_W", "paddock_d_U_gap_S", "paddock_d_U_gap_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "paddock_d_D_gap" ],
+      "fg": [ "paddock_d_D_gap_N", "paddock_d_D_gap_W", "paddock_d_D_gap_S", "paddock_d_D_gap_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "paddock_d_U_butt" ],
+      "fg": [ "paddock_d_U_butt_N", "paddock_d_U_butt_W", "paddock_d_U_butt_S", "paddock_d_U_butt_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "paddock_special_1" ],
+      "fg": [ "paddock_special_1_N", "paddock_special_1_W", "paddock_special_1_S", "paddock_special_1_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "paddock_special_2" ],
+      "fg": [ "paddock_special_2_N", "paddock_special_2_W", "paddock_special_2_S", "paddock_special_2_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "paddock_special_3" ],
+      "fg": [ "paddock_special_3_N", "paddock_special_3_W", "paddock_special_3_S", "paddock_special_3_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "paddock_special_4" ],
+      "fg": [ "paddock_special_4_N", "paddock_special_4_W", "paddock_special_4_S", "paddock_special_4_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "paddock_trailhead_1" ],
+      "fg": [ "paddock_trailhead_1_N", "paddock_trailhead_1_W", "paddock_trailhead_1_S", "paddock_trailhead_1_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "paddock_trailhead_2" ],
+      "fg": [ "paddock_trailhead_2_N", "paddock_trailhead_2_W", "paddock_trailhead_2_S", "paddock_trailhead_2_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "paddock_trailhead_3" ],
+      "fg": [ "paddock_trailhead_3_N", "paddock_trailhead_3_W", "paddock_trailhead_3_S", "paddock_trailhead_3_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "paddock_trailhead_4" ],
+      "fg": [ "paddock_trailhead_4_N", "paddock_trailhead_4_W", "paddock_trailhead_4_S", "paddock_trailhead_4_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "paddock_trailhead_5" ],
+      "fg": [ "paddock_trailhead_5_N", "paddock_trailhead_5_W", "paddock_trailhead_5_S", "paddock_trailhead_5_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "paddock_trailhead_6" ],
+      "fg": [ "paddock_trailhead_6_N", "paddock_trailhead_6_W", "paddock_trailhead_6_S", "paddock_trailhead_6_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "paddock_trailhead_7" ],
+      "fg": [ "paddock_trailhead_7_N", "paddock_trailhead_7_W", "paddock_trailhead_7_S", "paddock_trailhead_7_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "paddock_trailhead_8" ],
+      "fg": [ "paddock_trailhead_8_N", "paddock_trailhead_8_W", "paddock_trailhead_8_S", "paddock_trailhead_8_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "paddock_trailhead_9" ],
+      "fg": [ "paddock_trailhead_9_N", "paddock_trailhead_9_W", "paddock_trailhead_9_S", "paddock_trailhead_9_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "paddock_end_UL" ],
+      "fg": [ "paddock_end_UL_N", "paddock_end_UL_W", "paddock_end_UL_S", "paddock_end_UL_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "paddock_end_DL" ],
+      "fg": [ "paddock_end_DL_N", "paddock_end_DL_W", "paddock_end_DL_S", "paddock_end_DL_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "paddock_end_UR" ],
+      "fg": [ "paddock_end_UR_N", "paddock_end_UR_W", "paddock_end_UR_S", "paddock_end_UR_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "paddock_end_DR" ],
+      "fg": [ "paddock_end_DR_N", "paddock_end_DR_W", "paddock_end_DR_S", "paddock_end_DR_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "farm_horse_ring_1", "horse_farm_isherwood_11" ],
+      "fg": [ "farm_horse_ring_1_N", "farm_horse_ring_1_W", "farm_horse_ring_1_S", "farm_horse_ring_1_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "farm_horse_ring_2", "horse_farm_isherwood_12" ],
+      "fg": [ "farm_horse_ring_2_N", "farm_horse_ring_2_W", "farm_horse_ring_2_S", "farm_horse_ring_2_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "farm_horse_ring_3", "horse_farm_isherwood_15" ],
+      "fg": [ "farm_horse_ring_3_N", "farm_horse_ring_3_W", "farm_horse_ring_3_S", "farm_horse_ring_3_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "farm_horse_ring_4", "horse_farm_isherwood_16" ],
+      "fg": [ "farm_horse_ring_4_N", "farm_horse_ring_4_W", "farm_horse_ring_4_S", "farm_horse_ring_4_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "splitrail_fence_butt" ],
+      "fg": [ "splitrail_fence_butt_N", "splitrail_fence_butt_W", "splitrail_fence_butt_S", "splitrail_fence_butt_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "splitrail_fence_UL", "farm_horse_track_large_1", "farm_horse_track_1" ],
+      "fg": [ "splitrail_fence_UL_N", "splitrail_fence_UL_W", "splitrail_fence_UL_S", "splitrail_fence_UL_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "splitrail_fence_UR", "farm_horse_track_large_2" ],
+      "fg": [ "splitrail_fence_UR_N", "splitrail_fence_UR_W", "splitrail_fence_UR_S", "splitrail_fence_UR_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "splitrail_fence_DL", "farm_horse_track_large_3", "farm_horse_track_2" ],
+      "fg": [ "splitrail_fence_DL_N", "splitrail_fence_DL_W", "splitrail_fence_DL_S", "splitrail_fence_DL_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "splitrail_fence_DR", "farm_horse_track_large_4" ],
+      "fg": [ "splitrail_fence_DR_N", "splitrail_fence_DR_W", "splitrail_fence_DR_S", "splitrail_fence_DR_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "splitrail_fence_gap" ],
+      "fg": [ "splitrail_fence_gap_N", "splitrail_fence_gap_W", "splitrail_fence_gap_S", "splitrail_fence_gap_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    }
+  ]
+  

@@ -1,25 +1,25 @@
 [
   {
     "id": [ "2silos" ],
-    "fg": [ "2silos_N", "2silos_W", "2silos_S", "2silos_E" ],
+    "fg": [ "2silos_S", "2silos_E", "2silos_N", "2silos_W" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "2silos_1" ],
-    "fg": [ "2silos_1_N", "2silos_1_W", "2silos_1_S", "2silos_1_E" ],
+    "fg": [ "2silos_1_S", "2silos_1_E", "2silos_1_N", "2silos_1_W" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "2silos_2" ],
-    "fg": [ "2silos_2_N", "2silos_2_W", "2silos_2_S", "2silos_2_E" ],
+    "fg": [ "2silos_2_S", "2silos_2_E", "2silos_2_N", "2silos_2_W" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "2silos_roof" ],
-    "fg": [ "2silos_roof_N", "2silos_roof_W", "2silos_roof_S", "2silos_roof_E" ],
+    "fg": [ "2silos_roof_S", "2silos_roof_E", "2silos_roof_N", "2silos_roof_W" ],
     "bg": [ "open_air" ],
     "rotates": true
   }
