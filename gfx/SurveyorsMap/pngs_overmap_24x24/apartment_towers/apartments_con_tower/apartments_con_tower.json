@@ -1,0 +1,102 @@
+[
+    {
+      "id": [ "apartments_con_tower_110" ],
+      "fg": [
+        "apartments_con_tower_110_S",
+        "apartments_con_tower_110_E",
+        "apartments_con_tower_110_N",
+        "apartments_con_tower_110_W"
+      ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "apartments_con_tower_111", "apartments_con_tower_112", "apartments_con_tower_113", "apartments_con_tower_114" ],
+      "fg": [
+        "apartments_con_tower_114_S",
+        "apartments_con_tower_114_E",
+        "apartments_con_tower_114_N",
+        "apartments_con_tower_114_W"
+      ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "apartments_con_tower_010" ],
+      "fg": [
+        "apartments_con_tower_010_S",
+        "apartments_con_tower_010_E",
+        "apartments_con_tower_010_N",
+        "apartments_con_tower_010_W"
+      ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "apartments_con_tower_014", "apartments_con_tower_011", "apartments_con_tower_012", "apartments_con_tower_013" ],
+      "fg": [
+        "apartments_con_tower_014_S",
+        "apartments_con_tower_014_E",
+        "apartments_con_tower_014_N",
+        "apartments_con_tower_014_W"
+      ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "apartments_con_tower_100" ],
+      "fg": [
+        "apartments_con_tower_100_S",
+        "apartments_con_tower_100_E",
+        "apartments_con_tower_100_N",
+        "apartments_con_tower_100_W"
+      ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "apartments_con_tower_104", "apartments_con_tower_102" ],
+      "fg": [
+        "apartments_con_tower_104_S",
+        "apartments_con_tower_104_E",
+        "apartments_con_tower_104_N",
+        "apartments_con_tower_104_W"
+      ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "apartments_con_tower_000" ],
+      "fg": [
+        "apartments_con_tower_000_S",
+        "apartments_con_tower_000_E",
+        "apartments_con_tower_000_N",
+        "apartments_con_tower_000_W"
+      ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "apartments_con_tower_004", "apartments_con_tower_002" ],
+      "fg": [
+        "apartments_con_tower_004_S",
+        "apartments_con_tower_004_E",
+        "apartments_con_tower_004_N",
+        "apartments_con_tower_004_W"
+      ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "apartments_con_tower_015" ],
+      "fg": [
+        "apartments_con_tower_015_S",
+        "apartments_con_tower_015_E",
+        "apartments_con_tower_015_N",
+        "apartments_con_tower_015_W"
+      ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    }
+  ]
+  
