@@ -1,0 +1,34 @@
+{
+  "id": "f_electrical_conduit",
+  "multitile": true,
+  "fg": "f_electrical_conduit_unconnected",
+  "bg": "",
+  "additional_tiles": [
+	{
+      "id": "edge",
+      "bg": "",
+      "fg": [
+        "f_electrical_conduit_edge_ns",
+        "f_electrical_conduit_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "bg": "",
+      "fg": [
+        "f_electrical_conduit_end_piece_n",
+        "f_electrical_conduit_end_piece_w",
+        "f_electrical_conduit_end_piece_s",
+        "f_electrical_conduit_end_piece_e"
+      ]
+    },
+	{
+      "bg": "",
+      "id": "unconnected",
+      "fg": [
+        "f_electrical_conduit_unconnected",
+		"f_electrical_conduit_unconnected"
+      ]
+    }	
+	]
+}

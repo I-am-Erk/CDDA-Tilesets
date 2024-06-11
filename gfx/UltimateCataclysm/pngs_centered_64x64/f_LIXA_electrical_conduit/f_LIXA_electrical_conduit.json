@@ -1,7 +1,6 @@
 {
   "id": "f_LIXA_electrical_conduit",
   "multitile": true,
-  "//": "unconnected = vertical",
   "fg": "f_LIXA_electrical_conduit_edge_ns",
   "bg": "",
   "additional_tiles": [
