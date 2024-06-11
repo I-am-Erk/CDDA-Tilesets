@@ -44,7 +44,9 @@
     "ranch_camp_62",
     "ranch_camp_65",
     "ranch_camp_70",
-    "ranch_camp_71"
+    "ranch_camp_71",
+    "splitrail_fence_inner",
+    "forest_trail_intersection"
   ],
   "fg": "field",
   "multitile": true,

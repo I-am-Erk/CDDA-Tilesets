@@ -6,9 +6,21 @@
     "rotates": false
   },
   {
-    "id": [ "lmoe" ],
+    "id": [ "lmoe", "lmoe_prepperquest", "lmoe_zombie" ],
     "fg": [ "hill_good" ],
     "bg": [ ],
+    "rotates": false
+  },
+  {
+    "id": [ "lmoe_roof" ],
+    "fg": [ "hill_good" ],
+    "bg": ["open_air" ],
+    "rotates": false
+  },
+  {
+    "id": [ "lmoe_under", "lmoe_under_empty", "lmoe_under_empty_prepperquest", "lmoe_zombie_under_empty" ],
+    "fg": [ "lmoe_under" ],
+    "bg": ["solid_earth" ],
     "rotates": false
   },
   {

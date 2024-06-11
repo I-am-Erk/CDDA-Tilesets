@@ -1,0 +1,18 @@
+[
+    {
+      "id": [
+        "magic_cabin"
+      ],
+      "fg": [ "magic_cabin" ],
+      "bg": [ "field"],
+      "rotates": true
+    },
+    {
+        "id": [ "magic_field_a1", "magic_field_a2", "magic_field_b1", "magic_field_b2", "small_magic_field" ],
+        "fg": [ "magic_field" ],
+        "bg": [ "field" ],
+        "rotates": true
+      }
+    
+  ]
+  

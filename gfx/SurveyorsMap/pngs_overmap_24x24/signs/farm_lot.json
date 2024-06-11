@@ -34,7 +34,12 @@
       "farm_6",
       "farm_7",
       "farm_8",
-      "farm_9"
+      "farm_9",
+      "2farm_10", "2farm_9",
+      "2farm_16", "2farm_15", "2farm_14", "2farm_13",
+      "2farm_20", "2farm_19", "2farm_18", "2farm_17",
+      "2farm_24", "2farm_23", "2farm_22", "2farm_21"
+
     ],
     "fg": [ "farm_lot" ],
     "bg": [ "field" ],
