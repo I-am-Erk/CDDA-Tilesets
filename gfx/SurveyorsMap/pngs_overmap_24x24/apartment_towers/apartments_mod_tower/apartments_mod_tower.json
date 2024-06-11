@@ -1,0 +1,91 @@
+[
+    {
+      "id": [ "apartments_mod_tower_110" ],
+      "fg": [
+        "apartments_mod_tower_110_S",
+        "apartments_mod_tower_110_E",
+        "apartments_mod_tower_110_N",
+        "apartments_mod_tower_110_W"
+      ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "apartments_mod_tower_111", "apartments_mod_tower_112", "apartments_mod_tower_113" ],
+      "fg": [
+        "apartments_mod_tower_113_S",
+        "apartments_mod_tower_113_E",
+        "apartments_mod_tower_113_N",
+        "apartments_mod_tower_113_W"
+      ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "apartments_mod_tower_010" ],
+      "fg": [
+        "apartments_mod_tower_010_S",
+        "apartments_mod_tower_010_E",
+        "apartments_mod_tower_010_N",
+        "apartments_mod_tower_010_W"
+      ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "apartments_mod_tower_014", "apartments_mod_tower_011", "apartments_mod_tower_012", "apartments_mod_tower_013" ],
+      "fg": [
+        "apartments_mod_tower_013_S",
+        "apartments_mod_tower_013_E",
+        "apartments_mod_tower_013_N",
+        "apartments_mod_tower_013_W"
+      ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "apartments_mod_tower_100" ],
+      "fg": [
+        "apartments_mod_tower_100_S",
+        "apartments_mod_tower_100_E",
+        "apartments_mod_tower_100_N",
+        "apartments_mod_tower_100_W"
+      ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "apartments_mod_tower_101", "apartments_mod_tower_103" ],
+      "fg": [
+        "apartments_mod_tower_103_S",
+        "apartments_mod_tower_103_E",
+        "apartments_mod_tower_103_N",
+        "apartments_mod_tower_103_W"
+      ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "apartments_mod_tower_000" ],
+      "fg": [
+        "apartments_mod_tower_000_S",
+        "apartments_mod_tower_000_E",
+        "apartments_mod_tower_000_N",
+        "apartments_mod_tower_000_W"
+      ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "apartments_mod_tower_001", "apartments_mod_tower_003" ],
+      "fg": [
+        "apartments_mod_tower_003_S",
+        "apartments_mod_tower_003_E",
+        "apartments_mod_tower_003_N",
+        "apartments_mod_tower_003_W"
+      ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    }
+  ]
+  
