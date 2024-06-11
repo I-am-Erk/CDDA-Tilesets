@@ -1,0 +1,38 @@
+[
+    {
+        "id": [ "farm_stills_4" ],
+        "fg": [ "farm_stills_4_N", "farm_stills_4_W", "farm_stills_4_S", "farm_stills_4_E" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "farm_stills_3" ],
+        "fg": [ "farm_stills_3_N", "farm_stills_3_W", "farm_stills_3_S", "farm_stills_3_E" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "farm_stills_3_basement" ],
+        "fg": [ "farm_stills_3_N", "farm_stills_3_W", "farm_stills_3_S", "farm_stills_3_E" ],
+        "bg": [ "solid_earth" ],
+        "rotates": true
+      },         
+      {
+        "id": [ "farm_stills_3_roof", "farm_stills_3_2nd"],
+        "fg": [ "farm_stills_3_N", "farm_stills_3_W", "farm_stills_3_S", "farm_stills_3_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },         
+      {
+        "id": [ "farm_stills_7" ],
+        "fg": [ "farm_stills_7_N", "farm_stills_7_W", "farm_stills_7_S", "farm_stills_7_E" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "farm_stills_7_roof" ],
+        "fg": [ "farm_stills_7_N", "farm_stills_7_W", "farm_stills_7_S", "farm_stills_7_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      }
+]
