@@ -157,7 +157,7 @@
     },
     {
       "id": [ "school_2_7", "school_3_7", "school_4_7" ],
-      "fg": [ "school_1_7_N", "school_1_7_W", "school_1_7_S", "school_1_7_E" ],
+      "fg": [ "school_2_7_N", "school_2_7_W", "school_2_7_S", "school_2_7_E" ],
       "bg": [ "open_air" ],
       "rotates": true
     }
