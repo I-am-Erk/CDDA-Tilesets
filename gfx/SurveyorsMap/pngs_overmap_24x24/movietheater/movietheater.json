@@ -1,0 +1,99 @@
+[
+    {
+      "id": [ "movietheater_0_0", "movietheater_roof_0_0" ],
+      "fg": [ "movietheater_0_0_N", "movietheater_0_0_W", "movietheater_0_0_S", "movietheater_0_0_E" ],
+      "bg": [ "" ],
+      "rotates": true
+    },
+    {
+      "id": [ "movietheater_1_0" ],
+      "fg": [ "movietheater_1_0_N", "movietheater_1_0_W", "movietheater_1_0_S", "movietheater_1_0_E" ],
+      "bg": [ "" ],
+      "rotates": true
+    },
+    {
+      "id": [ "movietheater_roof_1_0" ],
+      "fg": [ "movietheater_roof_1_0_N", "movietheater_roof_1_0_W", "movietheater_roof_1_0_S", "movietheater_roof_1_0_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "movietheater_2_0" ],
+      "fg": [ "movietheater_2_0_N", "movietheater_2_0_W", "movietheater_2_0_S", "movietheater_2_0_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "movietheater_roof_2_0" ],
+      "fg": [ "movietheater_roof_2_0_N", "movietheater_roof_2_0_W", "movietheater_roof_2_0_S", "movietheater_roof_2_0_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "movietheater_0_1" ],
+      "fg": [ "movietheater_0_1_N", "movietheater_0_1_W", "movietheater_0_1_S", "movietheater_0_1_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "movietheater_roof_0_1" ],
+      "fg": [ "movietheater_roof_0_1_N", "movietheater_roof_0_1_W", "movietheater_roof_0_1_S", "movietheater_roof_0_1_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "movietheater_1_1" ],
+      "fg": [ "movietheater_1_1_NESW" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "movietheater_roof_1_1" ],
+      "fg": [ "movietheater_roof_1_1_N", "movietheater_roof_1_1_W", "movietheater_roof_1_1_S", "movietheater_roof_1_1_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "movietheater_2_1" ],
+      "fg": [ "movietheater_2_1_N", "movietheater_2_1_W", "movietheater_2_1_S", "movietheater_2_1_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "movietheater_roof_2_1" ],
+      "fg": [ "movietheater_roof_2_1_N", "movietheater_roof_2_1_W", "movietheater_roof_2_1_S", "movietheater_roof_2_1_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "movietheater_0_2" ],
+      "fg": [ "movietheater_0_2_N", "movietheater_0_2_W", "movietheater_0_2_S", "movietheater_0_2_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "movietheater_roof_0_2" ],
+      "fg": [ "movietheater_roof_0_2_N", "movietheater_roof_0_2_W", "movietheater_roof_0_2_S", "movietheater_roof_0_2_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "movietheater_1_2", "movietheater_roof_1_2" ],
+      "fg": [ "movietheater_1_2_N", "movietheater_1_2_W", "movietheater_1_2_S", "movietheater_1_2_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "movietheater_2_2" ],
+      "fg": [ "movietheater_2_2_N", "movietheater_2_2_W", "movietheater_2_2_S", "movietheater_2_2_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "movietheater_roof_2_2" ],
+      "fg": [ "movietheater_roof_2_2_N", "movietheater_roof_2_2_W", "movietheater_roof_2_2_S", "movietheater_roof_2_2_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    }
+  ]
+  
