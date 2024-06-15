@@ -1,13 +1,12 @@
 {
-    "id": "t_LIXA_thconc_floor",
-	"animated": true,
-    "fg": [
-      { "weight": 32, "sprite": "t_LIXA_thconc_floor_center" },
-      { "weight": 32, "sprite": "t_LIXA_thconc_floor_center2" },
-      { "weight": 32, "sprite": "t_LIXA_thconc_floor_center3" },
-      { "weight": 32, "sprite": "t_LIXA_thconc_floor_center4" },
-      { "weight": 32, "sprite": "t_LIXA_thconc_floor_center5" },
-      { "weight": 32, "sprite": "t_LIXA_thconc_floor_center6" }
-    ],
-    "bg": ""
+  "id": "t_LIXA_thconc_floor",
+  "animated": true,
+  "fg": [
+    { "weight": 32, "sprite": "t_LIXA_thconc_floor_center" },
+    { "weight": 32, "sprite": "t_LIXA_thconc_floor_center2" },
+    { "weight": 32, "sprite": "t_LIXA_thconc_floor_center3" },
+    { "weight": 32, "sprite": "t_LIXA_thconc_floor_center4" },
+    { "weight": 32, "sprite": "t_LIXA_thconc_floor_center5" },
+    { "weight": 32, "sprite": "t_LIXA_thconc_floor_center6" }
+  ]
 }

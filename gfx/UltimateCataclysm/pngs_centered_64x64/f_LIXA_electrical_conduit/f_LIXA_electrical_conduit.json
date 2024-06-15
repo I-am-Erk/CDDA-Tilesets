@@ -2,11 +2,9 @@
   "id": "f_LIXA_electrical_conduit",
   "multitile": true,
   "fg": "f_LIXA_electrical_conduit_edge_ns",
-  "bg": "",
   "additional_tiles": [
-	{
+    {
       "id": "edge",
-      "bg": "",
       "fg": [
         "f_LIXA_electrical_conduit_edge_ns",
         "f_LIXA_electrical_conduit_edge_ew"
@@ -14,7 +12,6 @@
     },
     {
       "id": "end_piece",
-      "bg": "",
       "fg": [
         "f_LIXA_electrical_conduit_end_piece_n",
         "f_LIXA_electrical_conduit_end_piece_w",
@@ -22,12 +19,9 @@
         "f_LIXA_electrical_conduit_end_piece_e"
       ]
     },
-	{
-      "bg": "",
+    {
       "id": "unconnected",
-      "fg": [
-        "f_LIXA_electrical_conduit_edge_ns"
-      ]
-    }	
-	]
+      "fg": "f_LIXA_electrical_conduit_edge_ns"
+    }
+  ]
 }

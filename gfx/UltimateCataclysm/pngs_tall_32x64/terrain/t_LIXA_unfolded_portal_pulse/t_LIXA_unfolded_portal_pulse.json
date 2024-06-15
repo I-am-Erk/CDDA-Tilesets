@@ -3,14 +3,14 @@
   "fg": "t_LIXA_unfolded_portal_pulse1",
   "bg": "t_thconc_floor_center_tall",
   "animated": true,
-    "fg": [
-      { "weight": 6, "sprite": "t_LIXA_unfolded_portal_pulse1" },
-      { "weight": 6, "sprite": "t_LIXA_unfolded_portal_pulse2" },
-      { "weight": 6, "sprite": "t_LIXA_unfolded_portal_pulse3" },
-      { "weight": 6, "sprite": "t_LIXA_unfolded_portal_pulse4" },
-      { "weight": 6, "sprite": "t_LIXA_unfolded_portal_pulse5" },
-      { "weight": 6, "sprite": "t_LIXA_unfolded_portal_pulse6" },
-	  { "weight": 6, "sprite": "t_LIXA_unfolded_portal_pulse7" },
-	  { "weight": 6, "sprite": "t_LIXA_unfolded_portal_pulse8" }
-    ]
+  "fg": [
+    { "weight": 6, "sprite": "t_LIXA_unfolded_portal_pulse1" },
+    { "weight": 6, "sprite": "t_LIXA_unfolded_portal_pulse2" },
+    { "weight": 6, "sprite": "t_LIXA_unfolded_portal_pulse3" },
+    { "weight": 6, "sprite": "t_LIXA_unfolded_portal_pulse4" },
+    { "weight": 6, "sprite": "t_LIXA_unfolded_portal_pulse5" },
+    { "weight": 6, "sprite": "t_LIXA_unfolded_portal_pulse6" },
+    { "weight": 6, "sprite": "t_LIXA_unfolded_portal_pulse7" },
+    { "weight": 6, "sprite": "t_LIXA_unfolded_portal_pulse8" }
+  ]
 }

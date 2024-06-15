@@ -50,9 +50,7 @@
     {
       "id": "unconnected",
       "bg": "t_metal_floor_center",
-	  "fg": [
-        "t_LIXA_laser_center"
-      ]
+      "fg": "t_LIXA_laser_center"
     }
   ]
 }
