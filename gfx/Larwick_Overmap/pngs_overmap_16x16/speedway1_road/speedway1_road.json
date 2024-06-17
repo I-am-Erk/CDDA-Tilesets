@@ -1,0 +1,52 @@
+{
+  "id": "speedway1_road",
+  "fg": "speedway1_road_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "speedway1_road_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "speedway1_road_corner_nw",
+        "speedway1_road_corner_sw",
+        "speedway1_road_corner_se",
+        "speedway1_road_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "speedway1_road_t_connection_n",
+        "speedway1_road_t_connection_w",
+        "speedway1_road_t_connection_s",
+        "speedway1_road_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "speedway1_road_edge_ns",
+        "speedway1_road_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "speedway1_road_end_piece_n",
+        "speedway1_road_end_piece_w",
+        "speedway1_road_end_piece_s",
+        "speedway1_road_end_piece_e"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "speedway1_road_unconnected",
+        "speedway1_road_unconnected"
+      ]
+    }
+  ]
+}
