@@ -1747,5 +1747,13 @@
   {
     "id": "strip_mall_roof_5",
     "fg": "open_air_blue"
+  },
+  {
+    "id": ["s_camping","s_camping_roof"],
+    "fg": "shop_brown"
+  },
+  {
+    "id": ["s_dive_shop","s_dive_shop_roof"],
+    "fg": "shop_blue"
   }
 ]

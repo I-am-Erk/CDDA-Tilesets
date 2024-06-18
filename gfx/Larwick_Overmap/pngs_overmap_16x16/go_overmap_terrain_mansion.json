@@ -8,6 +8,10 @@
     "fg": "mansion_white"
   },
   {
+    "id": "generic_mansion_entrance",
+    "fg": "mansion_white"
+  },
+  {
     "id": "mansion_c1",
     "fg": "mansion_white"
   },
