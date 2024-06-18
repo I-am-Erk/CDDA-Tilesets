@@ -270,39 +270,11 @@
     "fg": "big_building_light_gray"
   },
   {
-    "id": "parking_garage_0_0",
+    "id": ["parking_garage_0_0","parking_garage_0_1","parking_garage_1_0","parking_garage_1_1","parking_garage_2_0","parking_garage_2_1","parking_garage_roof_0","parking_garage_roof_1","parking_garage_roof_top"],
     "fg": "big_building_light_gray"
   },
   {
-    "id": "parking_garage_0_1",
-    "fg": "big_building_light_gray"
-  },
-  {
-    "id": "parking_garage_1_0",
-    "fg": "big_building_light_gray"
-  },
-  {
-    "id": "parking_garage_1_1",
-    "fg": "big_building_light_gray"
-  },
-  {
-    "id": "parking_garage_2_0",
-    "fg": "big_building_light_gray"
-  },
-  {
-    "id": "parking_garage_2_1",
-    "fg": "big_building_light_gray"
-  },
-  {
-    "id": "parking_garage_roof_0",
-    "fg": "big_building_light_gray"
-  },
-  {
-    "id": "parking_garage_roof_1",
-    "fg": "big_building_light_gray"
-  },
-  {
-    "id": "parking_garage_roof_top",
+    "id": ["parking_garage2x2_0_0","parking_garage2x2_0_1","parking_garage2x2_0_2","parking_garage2x2_0_3","parking_garage2x2_1_0","parking_garage2x2_1_1","parking_garage2x2_1_2","parking_garage2x2_1_3","parking_garage2x2_2_0","parking_garage2x2_2_1","parking_garage2x2_2_2","parking_garage2x2_2_3","parking_garage2x2_3_0","parking_garage2x2_3_1","parking_garage2x2_3_2","parking_garage2x2_3_3","parking_garage2x2_4_2","parking_garage2x2_4_3"],
     "fg": "big_building_light_gray"
   }
 ]

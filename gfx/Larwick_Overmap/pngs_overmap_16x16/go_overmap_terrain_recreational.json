@@ -148,8 +148,20 @@
     "fg": "pond_blue"
   },
   {
-    "id": "skate_park",
+    "id": ["skate_park","skate_park_up"],
     "fg": "pond_light_gray"
+  },
+  {
+    "id": ["park_maze","park_maze_2"],
+    "fg": "big_tree_green"
+  },
+  {
+    "id": "volleyball_court",
+    "fg": "open_air_yellow"
+  },
+  {
+    "id": ["playground","playground_1","dog_park"],
+    "fg": "park_green"
   },
   {
     "id": "small_wooded_trail",
