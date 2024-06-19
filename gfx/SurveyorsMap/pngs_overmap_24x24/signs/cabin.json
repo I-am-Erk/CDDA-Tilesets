@@ -1,6 +1,21 @@
 [
   {
-    "id": [ "cabin", "cabin_1", "cabin_2", "cabin_3", "cabin_4", "cabin_5", "cabin_6", "cabin_7", "bandit_cabin", "cabin_strange", "cabin_lake", "cabin_isherwood" ],
+    "id": [
+      "cabin",
+      "cabin_1",
+      "cabin_2",
+      "cabin_3",
+      "cabin_4",
+      "cabin_5",
+      "cabin_6",
+      "cabin_7",
+      "bandit_cabin",
+      "cabin_strange",
+      "cabin_lake",
+      "cabin_isherwood",
+      "cabin_prepper",
+      "cabin_lapin", "hunter_shack", "hunter_shack_1"
+    ],
     "fg": [ "cabin" ],
     "rotates": true
   }

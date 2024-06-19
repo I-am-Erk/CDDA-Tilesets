@@ -18,7 +18,7 @@
     "rotates": false
   },
   {
-    "id": [ "hot_springs" ],
+    "id": [ "hot_springs", "natural_spring" ],
     "fg": [ "hotsprings" ],
     "bg": [ "field" ],
     "rotates": true

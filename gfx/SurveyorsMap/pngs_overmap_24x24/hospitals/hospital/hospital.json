@@ -1,0 +1,93 @@
+[
+    {
+      "id": [ "hospital_3" ],
+      "fg": [ "hospital_3_N", "hospital_3_W", "hospital_3_S", "hospital_3_E" ],
+      "bg": [ "" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hospital_3_roof" ],
+      "fg": [ "hospital_3_roof_N", "hospital_3_roof_W", "hospital_3_roof_S", "hospital_3_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hospital_2" ],
+      "fg": [ "hospital_2_N", "hospital_2_W", "hospital_2_S", "hospital_2_E" ],
+      "bg": [ "" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hospital_2_roof" ],
+      "fg": [ "hospital_2_roof_N", "hospital_2_roof_W", "hospital_2_roof_S", "hospital_2_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hospital_1" ],
+      "fg": [ "hospital_1_N", "hospital_1_W", "hospital_1_S", "hospital_1_E" ],
+      "bg": [ "" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hospital_1_roof" ],
+      "fg": [ "hospital_1_roof_N", "hospital_1_roof_W", "hospital_1_roof_S", "hospital_1_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hospital_6", "hospital_6_roof" ],
+      "fg": [ "hospital_6_N", "hospital_6_W", "hospital_6_S", "hospital_6_E" ],
+      "bg": [ "" ],
+      "rotates": true
+    },
+      {
+        "id": [ "hospital_5", "hospital_5_roof" ],
+        "fg": [ "hospital_5_NESW" ],
+        "bg": [ "" ],
+        "rotates": true
+      },
+      {
+        "id": [ "hospital_4" ],
+        "fg": [ "hospital_4_N", "hospital_4_W", "hospital_4_S", "hospital_4_E" ],
+        "bg": [ "" ],
+        "rotates": true
+      },
+      {
+        "id": [ "hospital_4_roof" ],
+        "fg": [ "hospital_4_roof_N", "hospital_4_roof_W", "hospital_4_roof_S", "hospital_4_roof_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "hospital_7" ],
+        "fg": [ "hospital_7_N", "hospital_7_W", "hospital_7_S", "hospital_7_E" ],
+        "bg": [ "" ],
+        "rotates": true
+      },
+      {
+        "id": [ "hospital_7_roof" ],
+        "fg": [ "hospital_7_roof_N", "hospital_7_roof_W", "hospital_7_roof_S", "hospital_7_roof_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "hospital_8", "hospital_8_roof" ],
+        "fg": [ "hospital_8_N", "hospital_8_W", "hospital_8_S", "hospital_8_E" ],
+        "bg": [ "" ],
+        "rotates": true
+      },
+      {
+        "id": [ "hospital_9" ],
+        "fg": [ "hospital_9_N", "hospital_9_W", "hospital_9_S", "hospital_9_E" ],
+        "bg": [ "" ],
+        "rotates": true
+      },
+      {
+        "id": [ "hospital_9_roof" ],
+        "fg": [ "hospital_9_roof_N", "hospital_9_roof_W", "hospital_9_roof_S", "hospital_9_roof_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      }
+  ]
+  
