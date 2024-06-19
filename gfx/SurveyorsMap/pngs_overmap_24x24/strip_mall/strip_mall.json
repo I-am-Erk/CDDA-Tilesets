@@ -1,0 +1,39 @@
+[
+    {
+      "id": [ "strip_mall_1" ],
+      "fg": [ "strip_mall_1_S", "strip_mall_1_E", "strip_mall_1_N", "strip_mall_1_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "strip_mall_roof_1" ],
+      "fg": [ "strip_mall_roof_1_S", "strip_mall_roof_1_E", "strip_mall_roof_1_N", "strip_mall_roof_1_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "strip_mall_2", "strip_mall_3", "strip_mall_4" ],
+      "fg": [ "strip_mall_2_S", "strip_mall_2_E", "strip_mall_2_N", "strip_mall_2_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "strip_mall_roof_2", "strip_mall_roof_3", "strip_mall_roof_4" ],
+      "fg": [ "strip_mall_roof_2_S", "strip_mall_roof_2_E", "strip_mall_roof_2_N", "strip_mall_roof_2_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "strip_mall_5" ],
+      "fg": [ "strip_mall_5_S", "strip_mall_5_E", "strip_mall_5_N", "strip_mall_5_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "strip_mall_roof_5" ],
+      "fg": [ "strip_mall_roof_5_S", "strip_mall_roof_5_E", "strip_mall_roof_5_N", "strip_mall_roof_5_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    }
+  ]
+  
