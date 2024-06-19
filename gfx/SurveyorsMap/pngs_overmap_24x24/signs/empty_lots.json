@@ -1,6 +1,6 @@
 [
   {
-    "id": [ "emptycommerciallot", "construction_site", "emptyresidentiallot" ],
+    "id": [ "emptycommerciallot", "construction_site", "emptyresidentiallot", "house_vacant3", "house_vacant1" ],
     "fg": [ "construction_site" ],
     "bg": [ "field" ],
     "rotates": false
