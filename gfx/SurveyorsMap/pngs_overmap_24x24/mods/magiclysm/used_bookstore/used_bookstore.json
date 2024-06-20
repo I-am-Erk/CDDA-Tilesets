@@ -1,0 +1,15 @@
+[
+    {
+      "id": [ "used_bookstore" ],
+      "fg": [ "used_bookstore_N", "used_bookstore_W", "used_bookstore_S", "used_bookstore_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "used_bookstore_roof" ],
+      "fg": [ "used_bookstore_roof_N", "used_bookstore_roof_W", "used_bookstore_roof_S", "used_bookstore_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    }
+  ]
+  

@@ -1,0 +1,56 @@
+[
+    {
+        "id": [ "wizardtower1_ground" ],
+        "fg": [ "wizardtower1_ground_S", "wizardtower1_ground_E", "wizardtower1_ground_N", "wizardtower1_ground_W" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "wizardtower1_living" ],
+        "fg": [ "wizardtower1_living_S", "wizardtower1_living_E", "wizardtower1_living_N", "wizardtower1_living_W" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "wizardtower1_golems" ],
+        "fg": [ "wizardtower1_golems" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "wizardtower1_roof", "wizardtower1_study" ],
+        "fg": [ "wizardtower1_roof" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "wizardtower2_ground" ],
+        "fg": [ "wizardtower2_ground_N", "wizardtower2_ground_W", "wizardtower2_ground_S", "wizardtower2_ground_E" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "wizardtower2_stairs1" ],
+        "fg": [ "wizardtower2_stairs1" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "wizardtower2_stairs2" ],
+        "fg": [ "wizardtower2_stairs2" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "wizardtower2_study" ],
+        "fg": [ "wizardtower2_study" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "wizardtower2_roof" ],
+        "fg": [ "wizardtower2_roof" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      }
+]
