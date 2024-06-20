@@ -1,0 +1,29 @@
+[
+    {
+      "id": "sewer",
+      "fg": "sewer_unconnected",
+      "multitile": true,
+      "bg": "solid_earth",
+      "additional_tiles": [
+        { "id": "center", "bg": "solid_earth", "fg": "sewer_center" },
+        {
+          "id": "corner",
+          "bg": "solid_earth",
+          "fg": [ "sewer_corner_se", "sewer_corner_sw", "sewer_corner_nw", "sewer_corner_ne" ]
+        },
+        {
+          "id": "t_connection",
+          "bg": "solid_earth",
+          "fg": [ "sewer_t_connection_n", "sewer_t_connection_w", "sewer_t_connection_s", "sewer_t_connection_e" ]
+        },
+        { "id": "edge", "bg": "solid_earth", "fg": [ "sewer_edge_ns", "sewer_edge_ew" ] },
+        {
+          "id": "end_piece",
+          "bg": "solid_earth",
+          "fg": [ "sewer_end_piece_n", "sewer_end_piece_w", "sewer_end_piece_s", "sewer_end_piece_e" ]
+        },
+        { "id": "unconnected", "bg": "solid_earth", "fg": "sewer_unconnected" }
+      ]
+    }
+  ]
+  
