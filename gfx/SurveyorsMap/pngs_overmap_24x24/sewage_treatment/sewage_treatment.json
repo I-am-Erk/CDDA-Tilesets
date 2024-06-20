@@ -1,0 +1,113 @@
+[
+    {
+      "id": [ "sewage_treatment_0_0_0" ],
+      "fg": [ "sewage_treatment_0_0_0_N", "sewage_treatment_0_0_0_W", "sewage_treatment_0_0_0_S", "sewage_treatment_0_0_0_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "sewage_treatment_0_0_roof" ],
+      "fg": [ "" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "sewage_treatment_1_0_0" ],
+      "fg": [ "sewage_treatment_1_0_0_N", "sewage_treatment_1_0_0_W", "sewage_treatment_1_0_0_S", "sewage_treatment_1_0_0_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "sewage_treatment_1_0_roof" ],
+      "fg": [
+        "sewage_treatment_1_0_roof_N",
+        "sewage_treatment_1_0_roof_W",
+        "sewage_treatment_1_0_roof_S",
+        "sewage_treatment_1_0_roof_E"
+      ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "sewage_treatment_0_1_0" ],
+      "fg": [ "sewage_treatment_0_1_0_N", "sewage_treatment_0_1_0_W", "sewage_treatment_0_1_0_S", "sewage_treatment_0_1_0_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "sewage_treatment_0_1_roof" ],
+      "fg": [
+        "sewage_treatment_0_1_roof_N",
+        "sewage_treatment_0_1_roof_W",
+        "sewage_treatment_0_1_roof_S",
+        "sewage_treatment_0_1_roof_E"
+      ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "sewage_treatment_1_1_0" ],
+      "fg": [ "sewage_treatment_1_1_0_N", "sewage_treatment_1_1_0_W", "sewage_treatment_1_1_0_S", "sewage_treatment_1_1_0_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "sewage_treatment_1_1_roof" ],
+      "fg": [
+        "sewage_treatment_1_1_roof_N",
+        "sewage_treatment_1_1_roof_W",
+        "sewage_treatment_1_1_roof_S",
+        "sewage_treatment_1_1_roof_E"
+      ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "sewage_treatment_1_0_upper_roof" ],
+      "fg": [
+        "sewage_treatment_1_0_upper_roof_N",
+        "sewage_treatment_1_0_upper_roof_W",
+        "sewage_treatment_1_0_upper_roof_S",
+        "sewage_treatment_1_0_upper_roof_E"
+      ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "sewage_treatment_0_0_-1" ],
+      "fg": [ "sewage_treatment_0_0_-1_N", "sewage_treatment_0_0_-1_W", "sewage_treatment_0_0_-1_S", "sewage_treatment_0_0_-1_E" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    },
+    {
+      "id": [ "sewage_treatment_1_0_-1" ],
+      "fg": [ "sewage_treatment_1_0_-1_N", "sewage_treatment_1_0_-1_W", "sewage_treatment_1_0_-1_S", "sewage_treatment_1_0_-1_E" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    },
+    {
+      "id": [ "sewage_treatment_2_0_-1" ],
+      "fg": [ "sewage_treatment_2_0_-1_N", "sewage_treatment_2_0_-1_W", "sewage_treatment_2_0_-1_S", "sewage_treatment_2_0_-1_E" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    },
+    {
+      "id": [ "sewage_treatment_0_1_-1" ],
+      "fg": [ "sewage_treatment_0_1_-1_N", "sewage_treatment_0_1_-1_W", "sewage_treatment_0_1_-1_S", "sewage_treatment_0_1_-1_E" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    },
+    {
+      "id": [ "sewage_treatment_1_1_-1" ],
+      "fg": [ "sewage_treatment_1_1_-1_N", "sewage_treatment_1_1_-1_W", "sewage_treatment_1_1_-1_S", "sewage_treatment_1_1_-1_E" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    },
+    {
+      "id": [ "sewage_treatment_2_1_-1" ],
+      "fg": [ "sewage_treatment_2_1_-1_N", "sewage_treatment_2_1_-1_W", "sewage_treatment_2_1_-1_S", "sewage_treatment_2_1_-1_E" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    }
+  ]
+  
