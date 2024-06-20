@@ -1,0 +1,21 @@
+[
+    {
+      "id": [ "magic_shop" ],
+      "fg": [ "magic_shop_N", "magic_shop_W", "magic_shop_S", "magic_shop_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "magic_shop_2ndfloor" ],
+      "fg": [ "magic_shop_2ndfloor_N", "magic_shop_2ndfloor_W", "magic_shop_2ndfloor_S", "magic_shop_2ndfloor_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "magic_shop_roof" ],
+      "fg": [ "magic_shop_roof_N", "magic_shop_roof_W", "magic_shop_roof_S", "magic_shop_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    }
+  ]
+  
