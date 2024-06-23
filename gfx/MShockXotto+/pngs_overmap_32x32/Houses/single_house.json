@@ -70,7 +70,8 @@
       "urban_18_7",
       "urban_18_8",
       "urban_18_9",
-      "urban_18_10"
+      "urban_18_10",
+      "2farm_11"
     ],
     "fg": [ "single_house_roofN", "single_house_roofE", "single_house_roofS", "single_house_roofW" ],
     "bg": [  ],
