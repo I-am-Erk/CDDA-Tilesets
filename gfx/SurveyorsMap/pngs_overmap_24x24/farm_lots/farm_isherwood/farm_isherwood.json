@@ -1,0 +1,33 @@
+[
+    {
+      "id": [ "farm_isherwood_3" ],
+      "fg": [ "farm_isherwood_3_N", "farm_isherwood_3_W", "farm_isherwood_3_S", "farm_isherwood_3_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "farm_isherwood_3_hayloft", "farm_isherwood_3_roof" ],
+      "fg": [ "farm_isherwood_3_roof_N", "farm_isherwood_3_roof_W", "farm_isherwood_3_roof_S", "farm_isherwood_3_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "farm_isherwood_2" ],
+      "fg": [ "farm_isherwood_2_N", "farm_isherwood_2_W", "farm_isherwood_2_S", "farm_isherwood_2_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "farm_isherwood_2_roof" ],
+      "fg": [ "farm_isherwood_2_N", "farm_isherwood_2_W", "farm_isherwood_2_S", "farm_isherwood_2_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "farm_isherwood_2_cellar" ],
+      "fg": [ "farm_isherwood_2_cellar_N", "farm_isherwood_2_cellar_W", "farm_isherwood_2_cellar_S", "farm_isherwood_2_cellar_E" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    }
+  ]
+  

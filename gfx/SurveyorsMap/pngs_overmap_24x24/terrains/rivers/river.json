@@ -54,7 +54,7 @@
     "rotates": false
   },
   {
-    "id": [ "river_center", "lake_surface", "lake_water_cube" ],
+    "id": [ "river_center", "lake_surface", "lake_water_cube", "lake_cabin_water" ],
     "fg": "deep_river",
     "bg": "field",
     "rotates": false

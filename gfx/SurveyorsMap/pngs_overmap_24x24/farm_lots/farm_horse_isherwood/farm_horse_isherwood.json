@@ -1,0 +1,128 @@
+[
+      {
+        "id": [ "horse_farm_isherwood_1" ],
+        "fg": [ "ranch_camp_corner_nw_S", "ranch_camp_corner_nw_E", "ranch_camp_corner_nw_N", "ranch_camp_corner_nw_W" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "horse_farm_isherwood_2", "horse_farm_isherwood_3" ],
+        "fg": [ "ranch_camp_horizonal_S", "ranch_camp_horizonal_E", "ranch_camp_horizonal_N", "ranch_camp_horizonal_W" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "horse_farm_isherwood_4" ],
+        "fg": [ "horse_farm_isherwood_4_N", "horse_farm_isherwood_4_W", "horse_farm_isherwood_4_S", "horse_farm_isherwood_4_E" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "horse_farm_isherwood_4_roof" ],
+        "fg": [ "horse_farm_isherwood_4_roof_N", "horse_farm_isherwood_4_roof_W", "horse_farm_isherwood_4_roof_S", "horse_farm_isherwood_4_roof_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "horse_farm_isherwood_5" ],
+        "fg": [ "horse_farm_isherwood_5_N", "horse_farm_isherwood_5_W", "horse_farm_isherwood_5_S", "horse_farm_isherwood_5_E" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "horse_farm_isherwood_6" ],
+        "fg": [ "ranch_camp_horizonal_N", "ranch_camp_horizonal_W", "ranch_camp_horizonal_S", "ranch_camp_horizonal_E" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "horse_farm_isherwood_7" ],
+        "fg": [ "horse_farm_isherwood_7_N", "horse_farm_isherwood_7_W", "horse_farm_isherwood_7_S", "horse_farm_isherwood_7_E" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "horse_farm_isherwood_7_roof", "horse_farm_isherwood_7_hayloft"],
+        "fg": [ "horse_farm_isherwood_7_roof_N", "horse_farm_isherwood_7_roof_W", "horse_farm_isherwood_7_roof_S", "horse_farm_isherwood_7_roof_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "horse_farm_isherwood_8" ],
+        "fg": [ "horse_farm_isherwood_8_N", "horse_farm_isherwood_8_W", "horse_farm_isherwood_8_S", "horse_farm_isherwood_8_E" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "horse_farm_isherwood_9" ],
+        "fg": [ "horse_farm_isherwood_9_N", "horse_farm_isherwood_9_W", "horse_farm_isherwood_9_S", "horse_farm_isherwood_9_E" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "horse_farm_isherwood_9_roof" ],
+        "fg": [ "horse_farm_isherwood_9_roof_N", "horse_farm_isherwood_9_roof_W", "horse_farm_isherwood_9_roof_S", "horse_farm_isherwood_9_roof_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "horse_farm_isherwood_13" ],
+        "fg": [ "horse_farm_isherwood_13_N", "horse_farm_isherwood_13_W", "horse_farm_isherwood_13_S", "horse_farm_isherwood_13_E" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "horse_farm_isherwood_13_2ndfloor" ],
+        "fg": [ "horse_farm_isherwood_13_2ndfloor_N", "horse_farm_isherwood_13_2ndfloor_W", "horse_farm_isherwood_13_2ndfloor_S", "horse_farm_isherwood_13_2ndfloor_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [  "horse_farm_isherwood_13_roof" ],
+        "fg": [ "horse_farm_isherwood_13_roof_N", "horse_farm_isherwood_13_roof_W", "horse_farm_isherwood_13_roof_S", "horse_farm_isherwood_13_roof_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+       {
+        "id": [ "horse_farm_isherwood_10" ],
+        "fg": [ "horse_farm_isherwood_10_N", "horse_farm_isherwood_10_W", "horse_farm_isherwood_10_S", "horse_farm_isherwood_10_E" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "horse_farm_isherwood_10_roof" ],
+        "fg": [ "horse_farm_isherwood_10_roof_N", "horse_farm_isherwood_10_roof_W", "horse_farm_isherwood_10_roof_S", "horse_farm_isherwood_10_roof_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "horse_farm_isherwood_11" ],
+        "fg": [ "horse_farm_isherwood_11_N", "horse_farm_isherwood_11_W", "horse_farm_isherwood_11_S", "horse_farm_isherwood_11_E" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "horse_farm_isherwood_12" ],
+        "fg": [ "horse_farm_isherwood_12_N", "horse_farm_isherwood_12_W", "horse_farm_isherwood_12_S", "horse_farm_isherwood_12_E" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "horse_farm_isherwood_14" ],
+        "fg": [ "dirt_road_end_piece_n", "dirt_road_end_piece_w", "dirt_road_end_piece_s", "dirt_road_end_piece_e" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "horse_farm_isherwood_15" ],
+        "fg": [ "horse_farm_isherwood_15_N", "horse_farm_isherwood_15_W", "horse_farm_isherwood_15_S", "horse_farm_isherwood_15_E" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "horse_farm_isherwood_16" ],
+        "fg": [ "horse_farm_isherwood_16_N", "horse_farm_isherwood_16_W", "horse_farm_isherwood_16_S", "horse_farm_isherwood_16_E" ],
+        "bg": [ "field" ],
+        "rotates": true
+      }
+]

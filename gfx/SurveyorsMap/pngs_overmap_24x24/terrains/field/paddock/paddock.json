@@ -192,25 +192,25 @@
       "rotates": true
     },
     {
-      "id": [ "farm_horse_ring_1", "horse_farm_isherwood_11" ],
+      "id": [ "farm_horse_ring_1" ],
       "fg": [ "farm_horse_ring_1_N", "farm_horse_ring_1_W", "farm_horse_ring_1_S", "farm_horse_ring_1_E" ],
       "bg": [ "field" ],
       "rotates": true
     },
     {
-      "id": [ "farm_horse_ring_2", "horse_farm_isherwood_12" ],
+      "id": [ "farm_horse_ring_2" ],
       "fg": [ "farm_horse_ring_2_N", "farm_horse_ring_2_W", "farm_horse_ring_2_S", "farm_horse_ring_2_E" ],
       "bg": [ "field" ],
       "rotates": true
     },
     {
-      "id": [ "farm_horse_ring_3", "horse_farm_isherwood_15" ],
+      "id": [ "farm_horse_ring_3" ],
       "fg": [ "farm_horse_ring_3_N", "farm_horse_ring_3_W", "farm_horse_ring_3_S", "farm_horse_ring_3_E" ],
       "bg": [ "field" ],
       "rotates": true
     },
     {
-      "id": [ "farm_horse_ring_4", "horse_farm_isherwood_16" ],
+      "id": [ "farm_horse_ring_4" ],
       "fg": [ "farm_horse_ring_4_N", "farm_horse_ring_4_W", "farm_horse_ring_4_S", "farm_horse_ring_4_E" ],
       "bg": [ "field" ],
       "rotates": true
