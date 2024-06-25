@@ -363,7 +363,7 @@ def main(args):
         if len(ids) > 0:
             print(f"{name} ({len(ids)} IDs):")
         for id_value in ids:
-            mark = "*" if id_value in id_with_sprites else " "
+            mark = "v" if id_value in id_with_sprites else " "
             print(f"{mark} - {id_value}")
 
     # om terrain names/ids can be found in:
