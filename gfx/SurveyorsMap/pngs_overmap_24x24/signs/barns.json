@@ -8,13 +8,7 @@
       "farm_3",
       "farm_3_roof",
       "bandit_farm_3",
-      "bandit_farm_3_roof",
-      "farm_isherwood_3",
-      "farm_isherwood_3_roof",
-      "farm_isherwood_3_hayloft",
-      "ranch_camp_65_roof",
-      "ranch_camp_66",
-      "ranch_camp_66_roof"
+      "bandit_farm_3_roof"
     ],
     "fg": [ "barn" ],
     "bg": [ "field" ],
