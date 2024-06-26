@@ -341,6 +341,27 @@ def get_all_sprited_ids(folder_path):
         ids += get_ids_from_file(json_file)
     return ids
 
+
+def sort_and_mark_objects(names_and_ids, sprited_ids, sorting_option):
+    result = []
+    for name, ids in names_and_ids.items():
+        marked_ids = sorted([id for id in ids if id in sprited_ids])
+        unmarked_ids = sorted([id for id in ids if id not in sprited_ids])
+        if len(marked_ids) + len(unmarked_ids) > 0:
+            result.append((name, marked_ids, unmarked_ids))
+
+    if sorting_option == "name":
+        result.sort(key=lambda x: x[0].lower())
+    elif sorting_option == "size":
+        result.sort(key=lambda x: (len(x[1])+len(x[2]), x[0].lower(), x[1], x[2] ))
+    elif sorting_option == "percent":
+        result.sort(key=lambda x: (1-( len(x[1]) / (len(x[1])+len(x[2])) ), x[0].lower(), x[1], x[2] ))
+    else:
+        result.sort(key=lambda x: x[0])
+
+    return result
+
+
 def main(args):
     if not args.yes:
         sys.excepthook = show_exception_and_exit
@@ -359,12 +380,14 @@ def main(args):
 
     names_and_ids = get_all_names_and_ids(overmap_objects)
 
-    for name, ids in names_and_ids.items():
-        if len(ids) > 0:
-            print(f"{name} ({len(ids)} IDs):")
-        for id_value in ids:
-            mark = "v" if id_value in id_with_sprites else " "
-            print(f"{mark} - {id_value}")
+    sorted_result = sort_and_mark_objects(names_and_ids, id_with_sprites, args.sort)
+
+    for name, marked_ids, unmarked_ids in sorted_result:
+        print(f"{name} ({len(marked_ids)} / {len(unmarked_ids)+len(marked_ids)}):")
+        for id1 in marked_ids:
+            print(f"{args.mark} - {id1}")
+        for id2 in unmarked_ids:
+            print(f"  - {id2}")
 
     # om terrain names/ids can be found in:
     # cdda\data\json\overmap\overmap_terrain\
@@ -399,11 +422,26 @@ if __name__ == "__main__":
         nargs="?",
         help="Tileset directory name. If left empty, the tool will attempt to identify possible tilesets based on the current directory.",
     )
-    parser.add_argument("--tile", type=str, help="Specific overmap tile to check.")
+    parser.add_argument(
+        "--tile",
+        type=str,
+        help="Specific overmap tile to check."
+    )
+    parser.add_argument(
+        "-m", "--mark",
+        choices=["v", "X", "#"],
+        help="Choose a symbol: 'v', 'X', or '#' for IDs that have a sprite."
+    )
+    parser.add_argument(
+        "-s", "--sort",
+        type=str,
+        choices=["name", "size", "percent"],
+        help="Choose sorting: 'name' - by name in lowercase, 'size' - by number of ids under the name, then alphabetically, or 'percent' by number of ids covered."
+    )
     parser.add_argument(
         "-y", "--yes",
         action="store_true",
-        help="Dont wait for user input"
+        help="Dont wait for user input."
     )
 
     main(parser.parse_args())
