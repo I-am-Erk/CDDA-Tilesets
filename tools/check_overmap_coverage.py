@@ -344,11 +344,16 @@ def get_all_sprited_ids(folder_path):
 
 def sort_and_mark_objects(names_and_ids, sprited_ids, sorting_option):
     result = []
+    total_marked_ids = 0
+    total_unmarked_ids = 0
+
     for name, ids in names_and_ids.items():
         marked_ids = sorted([id for id in ids if id in sprited_ids])
         unmarked_ids = sorted([id for id in ids if id not in sprited_ids])
         if len(marked_ids) + len(unmarked_ids) > 0:
             result.append((name, marked_ids, unmarked_ids))
+            total_marked_ids += len(marked_ids)
+            total_unmarked_ids += len(unmarked_ids)
 
     if sorting_option == "name":
         result.sort(key=lambda x: x[0].lower())
@@ -359,7 +364,7 @@ def sort_and_mark_objects(names_and_ids, sprited_ids, sorting_option):
     else:
         result.sort(key=lambda x: x[0])
 
-    return result
+    return result, total_marked_ids, total_unmarked_ids
 
 
 def main(args):
@@ -380,14 +385,31 @@ def main(args):
 
     names_and_ids = get_all_names_and_ids(overmap_objects)
 
-    sorted_result = sort_and_mark_objects(names_and_ids, id_with_sprites, args.sort)
+    sorted_result, total_marked_ids, total_unmarked_ids = sort_and_mark_objects(names_and_ids, id_with_sprites, args.sort)
 
+    csv_result = []
+    csv_result.append('\"name\";\"mark\";\"id\"')
     for name, marked_ids, unmarked_ids in sorted_result:
-        print(f"{name} ({len(marked_ids)} / {len(unmarked_ids)+len(marked_ids)}):")
+        print(f"{bcolors.BOLD}{bcolors.UNDERLINE}{name} ({len(marked_ids)} / {len(unmarked_ids)+len(marked_ids)}):{bcolors.ENDC}")
         for id1 in marked_ids:
-            print(f"{args.mark} - {id1}")
+            print(f"{bcolors.OKBLUE}{args.mark} - {id1}{bcolors.ENDC}")
+            csv_result.append('\"'+name+'\";\"'+args.mark+'\";\"'+id1+'\"')
         for id2 in unmarked_ids:
             print(f"  - {id2}")
+            csv_result.append('\"'+name+'\";\" \";\"'+id2+'\"')
+
+    print()
+    print(f"Total sprited/unsprited IDs: {total_marked_ids}/{total_unmarked_ids} ({round(total_marked_ids/total_unmarked_ids*100,1)}%)")
+
+    if args.file:
+        try:
+            output_file = open(args.file, "w")
+            for line in csv_result:
+                print(line, file=output_file)
+            output_file.close()
+            print(f"Result saved to: {bcolors.OKCYAN}{os.path.normpath(args.file)}{bcolors.ENDC}")
+        except:
+            raise ValueError("Cant write to output file!")
 
     # om terrain names/ids can be found in:
     # cdda\data\json\overmap\overmap_terrain\
@@ -423,19 +445,21 @@ if __name__ == "__main__":
         help="Tileset directory name. If left empty, the tool will attempt to identify possible tilesets based on the current directory.",
     )
     parser.add_argument(
-        "--tile",
+        "-f","--file",
         type=str,
-        help="Specific overmap tile to check."
+        help="Filename for output (only names and IDs)"
     )
     parser.add_argument(
         "-m", "--mark",
         choices=["v", "X", "#"],
+        default="#",
         help="Choose a symbol: 'v', 'X', or '#' for IDs that have a sprite."
     )
     parser.add_argument(
         "-s", "--sort",
         type=str,
         choices=["name", "size", "percent"],
+        default="name",
         help="Choose sorting: 'name' - by name in lowercase, 'size' - by number of ids under the name, then alphabetically, or 'percent' by number of ids covered."
     )
     parser.add_argument(
