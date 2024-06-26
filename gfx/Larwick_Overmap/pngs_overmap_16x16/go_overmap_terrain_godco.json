@@ -9,10 +9,12 @@
   },
   {
     "id": [
+      "godco_enter",
       "godco_2",
       "godco_5"
     ],
-    "fg": "dirt_road_edge_ns"
+    "fg": [ "dirt_road_edge_ns", "dirt_road_edge_ew", "dirt_road_edge_ns", "dirt_road_edge_ew" ],
+	"rotates": true
   },
   {
     "id": [

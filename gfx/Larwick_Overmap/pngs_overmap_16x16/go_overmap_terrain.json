@@ -220,20 +220,8 @@
     "fg": "open_air_blue"
   },
   {
-    "id": "bandit_camp_1",
-    "fg": "small_tree_green"
-  },
-  {
-    "id": "bandit_camp_2",
-    "fg": "small_tree_green"
-  },
-  {
-    "id": "bandit_camp_3",
-    "fg": "small_tree_green"
-  },
-  {
-    "id": "bandit_camp_4",
-    "fg": "small_tree_green"
+    "id": [ "bandit_camp_1", "bandit_camp_2", "bandit_camp_3", "bandit_camp_4", "bandit_camp_1_roof", "bandit_camp_2_roof", "bandit_camp_3_roof", "bandit_camp_4_roof" ],
+    "fg": "small_fort_brown"
   },
   {
     "id": [
