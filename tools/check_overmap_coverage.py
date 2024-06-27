@@ -337,7 +337,7 @@ def get_object_name(object_id, objects_list):
     elif "copy-from" in obj:
         object_name = get_object_name(obj["copy-from"], objects_list)
     else:
-        raise ValueError("Cant find name!")
+        object_name = None
     return object_name
 
 
@@ -351,7 +351,8 @@ def get_all_names_and_ids(objects_list):
             extracted_ids = obj["id"] if isinstance(obj["id"], list) else [obj["id"]]
             for object_id in extracted_ids:
                 name = get_object_name(object_id, objects_list)
-                names_and_ids[name].add(object_id)
+                if name:
+                    names_and_ids[name].add(object_id)
 
     sorted_results = sorted(
         names_and_ids.items(),
@@ -460,13 +461,16 @@ def main(args):
     game_dir = find_cdda_dir(args.game_dir)
     game_overmap_dir = os.path.join(game_dir, "data\json\overmap\overmap_terrain")
     game_overmap_mx = os.path.join(game_dir, "data\json\overmap\map_extras.json")
-
+    game_overmap_weather = os.path.join(game_dir, "data\json\weather_type.json")
     tileset_dir = find_tset_dir(args.tileset_dir)
     game_overmap_hardcoded = os.path.join(tileset_dir,"..\\..\\tools\\special_overmap_symbols.json")
 
     if args.part == 'm':
         overmap_objects = read_objects_from_dir(game_overmap_dir)
         print(f"{bcolors.BOLD}Main part of overmap objects is seleced{bcolors.ENDC}")
+    elif args.part == 'w':
+        overmap_objects = read_objects_from_file(game_overmap_weather)
+        print(f"{bcolors.BOLD}Overmap weather is selected{bcolors.ENDC}")
     elif args.part == 'x':
         overmap_objects = read_objects_from_file(game_overmap_mx)
         print(f"{bcolors.BOLD}Overmap extras is selected{bcolors.ENDC}")
@@ -477,7 +481,9 @@ def main(args):
 
     id_with_sprites, filenames_and_ids = get_all_sprited_ids(tileset_dir)
 
-    print(f"Total overmap objects in game: " + str(len(overmap_objects)))
+    names_and_ids = get_all_names_and_ids(overmap_objects)
+
+    print(f"Total overmap objects in game: " + str(len(names_and_ids)))
     if args.name:
         print(f"  - Filtering objects names by substring : {bcolors.BOLD}{args.name}{bcolors.ENDC}")
     if args.id:
@@ -486,8 +492,6 @@ def main(args):
         print(f"  - Filtering IDs that have sprites. Only upsrited IDs will be shown.")
     print()
 
-    names_and_ids = get_all_names_and_ids(overmap_objects)
-
     sorted_result, total_marked_ids, total_unmarked_ids = sort_and_mark_objects(
         names_and_ids, id_with_sprites, args.sort
     )
@@ -495,6 +499,8 @@ def main(args):
     csv_result = []
     csv_result.append('"name";"mark";"id"')
     for name, marked_ids, unmarked_ids in sorted_result:
+        if args.part == 'w':
+            name = "Weather"
         if (
             not args.name and not args.id
         ) or (
@@ -504,9 +510,10 @@ def main(args):
         ) or (
             args.name in name and (check_substring_in_list(args.id, marked_ids) or check_substring_in_list(args.id, unmarked_ids))
         ):
-            print(
-                f"{bcolors.BOLD}{bcolors.UNDERLINE}{name} ({len(marked_ids)} / {len(unmarked_ids)+len(marked_ids)}):{bcolors.ENDC}"
-            )
+            if args.part != 'w':
+                print(
+                    f"{bcolors.BOLD}{bcolors.UNDERLINE}{name} ({len(marked_ids)} / {len(unmarked_ids)+len(marked_ids)}):{bcolors.ENDC}"
+                )
             for id1 in marked_ids:
                 longest_id = len(max(marked_ids, key=len))
                 if ((not args.id) or (args.id in id1)) and not args.todo:
@@ -597,9 +604,9 @@ if __name__ == "__main__":
     parser.add_argument(
         "-p",
         "--part",
-        choices=["m", "x", "o"],
+        choices=["m", "x", "o", "w"],
         default="m",
-        help="Choose a part of overmap objects to check: 'm' - main part, 'x' - map extras, 'o' - other om objects",
+        help="Choose a part of overmap objects to check: 'm' - main part, 'w' - weather, 'x' - map extras, 'o' - other om objects",
     )
     parser.add_argument(
         "-y", "--yes", action="store_true", help="Don't wait for user input."
