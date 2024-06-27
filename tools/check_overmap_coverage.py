@@ -462,6 +462,8 @@ def main(args):
     game_overmap_mx = os.path.join(game_dir, "data\json\overmap\map_extras.json")
 
     tileset_dir = find_tset_dir(args.tileset_dir)
+    game_overmap_hardcoded = os.path.join(tileset_dir,"..\\..\\tools\\special_overmap_symbols.json")
+
     if args.part == 'm':
         overmap_objects = read_objects_from_dir(game_overmap_dir)
         print(f"{bcolors.BOLD}Main part of overmap objects is seleced{bcolors.ENDC}")
@@ -469,7 +471,8 @@ def main(args):
         overmap_objects = read_objects_from_file(game_overmap_mx)
         print(f"{bcolors.BOLD}Overmap extras is selected{bcolors.ENDC}")
     else:
-        raise ValueError("Unimplemented yet. Sorry.")
+        overmap_objects = read_objects_from_file(game_overmap_hardcoded)
+        print(f"{bcolors.BOLD}Hardcoded overmap objects are selected{bcolors.ENDC}")
 
 
     id_with_sprites, filenames_and_ids = get_all_sprited_ids(tileset_dir)
@@ -518,7 +521,7 @@ def main(args):
                     csv_result.append('"' + name + '";" ";"' + id2 + '"')
 
     print()
-    print(f"Total sprited/unsprited IDs: {total_marked_ids}/{total_unmarked_ids} ({round(total_marked_ids/total_unmarked_ids*100,1)}%)"
+    print(f"Total sprited/unsprited IDs: {total_marked_ids}/{total_unmarked_ids} [total: {total_marked_ids+total_unmarked_ids} ] ({round(total_marked_ids/(total_marked_ids+total_unmarked_ids)*100,1)}%)"
     )
 
     if args.file:
