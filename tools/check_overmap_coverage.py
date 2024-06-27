@@ -288,6 +288,7 @@ def read_objects_from_files(json_dir):
             ) as file_with_objects:
                 json_data = json.load(file_with_objects)
                 objects_all.extend(json_data)
+            file_with_objects.close
     return objects_all
 
 
