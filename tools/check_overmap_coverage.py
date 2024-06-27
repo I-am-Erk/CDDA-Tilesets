@@ -53,9 +53,9 @@ def check_cdda_dir(str_path):
 
 def find_cdda_dir(cli_arg):
     print(f"Determining CDDA executable directory:")
-    cdda_cl_argument  = False
+    cdda_cl_argument = False
     cdda_env_variable = False
-    cdda_kitty_data   = False
+    cdda_kitty_data = False
 
     cdda_dir = False
 
@@ -63,10 +63,14 @@ def find_cdda_dir(cli_arg):
     if cli_arg:
         cdda_cl_argument = check_cdda_dir(cli_arg)
         if cdda_cl_argument:
-            print(f"- CLI argument : {cdda_cl_argument} {bcolors.OKGREEN}found!{bcolors.ENDC}")
+            print(
+                f"- CLI argument : {cdda_cl_argument} {bcolors.OKGREEN}found!{bcolors.ENDC}"
+            )
             cdda_dir = cdda_cl_argument
         else:
-            print(f"- CLI argument : {cli_arg} {bcolors.WARNING}not found!{bcolors.ENDC}")
+            print(
+                f"- CLI argument : {cli_arg} {bcolors.WARNING}not found!{bcolors.ENDC}"
+            )
     else:
         print(f"- CLI argument : {bcolors.WARNING}not provided!{bcolors.ENDC}")
 
@@ -83,12 +87,18 @@ def find_cdda_dir(cli_arg):
                 if cdda_env_variable == cdda_cl_argument:
                     print(f"- ENV variable : exist and same as CLI argument.")
                 else:
-                    print(f"- ENV variable : {cdda_env_variable} {bcolors.WARNING}different from CLI!{bcolors.ENDC}")
+                    print(
+                        f"- ENV variable : {cdda_env_variable} {bcolors.WARNING}different from CLI!{bcolors.ENDC}"
+                    )
             else:
                 cdda_dir = cdda_env_variable
-                print(f"- ENV variable : {cdda_env_variable} {bcolors.OKGREEN}found!{bcolors.ENDC}")
+                print(
+                    f"- ENV variable : {cdda_env_variable} {bcolors.OKGREEN}found!{bcolors.ENDC}"
+                )
         else:
-            print(f"- ENV variable : {cli_arg} {bcolors.WARNING}not found!{bcolors.ENDC}")
+            print(
+                f"- ENV variable : {cli_arg} {bcolors.WARNING}not found!{bcolors.ENDC}"
+            )
     else:
         print(f"- ENV variable : {bcolors.WARNING}not provided!{bcolors.ENDC}")
 
@@ -113,27 +123,47 @@ def find_cdda_dir(cli_arg):
                 if cdda_env_variable:
                     if cdda_cl_argument:
                         if cdda_kitty_data == cdda_cl_argument:
-                            print(f"- Launcher  DB : setting exist and same as CLI argument.")
+                            print(
+                                f"- Launcher  DB : setting exist and same as CLI argument."
+                            )
                         elif cdda_kitty_data == cdda_env_variable:
-                            print(f"- Launcher  DB : setting exist and same as environment variable, but differs from CLI argument.")
+                            print(
+                                f"- Launcher  DB : setting exist and same as environment variable, but differs from CLI argument."
+                            )
                         else:
-                            print(f"- Launcher  DB : {cdda_kitty_data} {bcolors.WARNING}different from everything above!{bcolors.ENDC}")
+                            print(
+                                f"- Launcher  DB : {cdda_kitty_data} {bcolors.WARNING}different from everything above!{bcolors.ENDC}"
+                            )
                     elif cdda_kitty_data == cdda_env_variable:
-                        print(f"- Launcher  DB : setting exist and same as environment variable.")
+                        print(
+                            f"- Launcher  DB : setting exist and same as environment variable."
+                        )
                     else:
-                        print(f"- Launcher  DB : {cdda_kitty_data} {bcolors.WARNING}different from environment variable!{bcolors.ENDC}")
+                        print(
+                            f"- Launcher  DB : {cdda_kitty_data} {bcolors.WARNING}different from environment variable!{bcolors.ENDC}"
+                        )
                 elif cdda_cl_argument:
                     if cdda_kitty_data == cdda_cl_argument:
-                        print(f"- Launcher  DB : setting exist and same as CLI argument.")
+                        print(
+                            f"- Launcher  DB : setting exist and same as CLI argument."
+                        )
                     else:
-                        print(f"- Launcher  DB : {cdda_kitty_data} setting exist, but differs from CLI argument.")
+                        print(
+                            f"- Launcher  DB : {cdda_kitty_data} setting exist, but differs from CLI argument."
+                        )
                 else:
                     cdda_dir = cdda_kitty_data
-                    print(f"- Launcher  DB : {cdda_kitty_data} {bcolors.OKGREEN}found!{bcolors.ENDC}")
+                    print(
+                        f"- Launcher  DB : {cdda_kitty_data} {bcolors.OKGREEN}found!{bcolors.ENDC}"
+                    )
             else:
-                print(f"- Launcher  DB : {sql_arg} {bcolors.WARNING}setting exist, but no CDDA executable found{bcolors.ENDC}")
+                print(
+                    f"- Launcher  DB : {sql_arg} {bcolors.WARNING}setting exist, but no CDDA executable found{bcolors.ENDC}"
+                )
         else:
-            print(f"- Launcher  DB : {bcolors.WARNING}Launcher is here, but no game_directory found!{bcolors.ENDC}")
+            print(
+                f"- Launcher  DB : {bcolors.WARNING}Launcher is here, but no game_directory found!{bcolors.ENDC}"
+            )
     else:
         print(f"- Launcher  DB : no Kitten CDDA Launcher found.")
 
@@ -142,7 +172,9 @@ def find_cdda_dir(cli_arg):
         print(f"+ game is here : {bcolors.OKCYAN}{cdda_dir}{bcolors.ENDC}")
         return cdda_dir
     else:
-        print(f"{bcolors.FAIL}! Please provide path to the game as first argument to the script.{bcolors.ENDC}")
+        print(
+            f"{bcolors.FAIL}! Please provide path to the game as first argument to the script.{bcolors.ENDC}"
+        )
         raise ValueError("CDDA game directory not found!")
 
 
@@ -167,9 +199,11 @@ def select_tileset_dir(repo_root):
         print(f"    {i + 1}. {sub_dir}")
 
     try:
-        user_choice = (int(input("Enter the number corresponding to the desired tileset: ")) - 1)
+        user_choice = (
+            int(input("Enter the number corresponding to the desired tileset: ")) - 1
+        )
         selected_dir = all_sub_dirs[user_choice]
-        return (os.path.join(gfx_dir, selected_dir))
+        return os.path.join(gfx_dir, selected_dir)
     except (ValueError, IndexError):
         print("Invalid input.")
         return None
@@ -194,7 +228,9 @@ def find_tset_dir(cli_arg2):
             print(f"- CLI argument is not a valid path to the tileset.")
 
         if check_file_exsit(os.path.join(cwd, cli_arg2), tileset_file):
-            print(f"- CLI argument is a relative path. {bcolors.OKGREEN}Tileset found!{bcolors.ENDC}")
+            print(
+                f"- CLI argument is a relative path. {bcolors.OKGREEN}Tileset found!{bcolors.ENDC}"
+            )
             tileset_dir = os.path.normpath(os.path.join(cwd, cli_arg2))
         else:
             print(f"- CLI argument is not a relative path.")
@@ -204,16 +240,23 @@ def find_tset_dir(cli_arg2):
             repository_dir = get_repository_root(script_dir)
             if repository_dir:
                 print(f"  - Repository found!")
-                if check_file_exsit(os.path.normpath(os.path.join(repository_dir, "gfx", cli_arg2)), tileset_file):
+                if check_file_exsit(
+                    os.path.normpath(os.path.join(repository_dir, "gfx", cli_arg2)),
+                    tileset_file,
+                ):
                     print(f"  - {bcolors.OKGREEN}Tileset found!{bcolors.ENDC}")
-                    tileset_dir = os.path.normpath(os.path.join(repository_dir, "gfx", cli_arg2))
+                    tileset_dir = os.path.normpath(
+                        os.path.join(repository_dir, "gfx", cli_arg2)
+                    )
                 else:
                     print(f"  - Tileset not found")
             else:
                 print(f"  - Repository not found")
 
     else:
-        print("- No tileset argument provided. Should try to find repository and offer a choice.")
+        print(
+            "- No tileset argument provided. Should try to find repository and offer a choice."
+        )
         print(f"  - Check if current directory is in the repo.")
         repository_dir = get_repository_root(cwd)
         if repository_dir:
@@ -230,7 +273,9 @@ def find_tset_dir(cli_arg2):
         print(f"+ Tileset is here : {bcolors.OKCYAN}{tileset_dir}{bcolors.ENDC}")
         return tileset_dir
     else:
-        print(f"! {bcolors.FAIL}Please provide a path to the tileset as the second script argument{bcolors.ENDC}")
+        print(
+            f"! {bcolors.FAIL}Please provide a path to the tileset as the second script argument{bcolors.ENDC}"
+        )
         raise ValueError("Tileset not found!")
 
 
@@ -238,7 +283,9 @@ def read_objects_from_files(json_dir):
     objects_all = []
     for filename in os.listdir(json_dir):
         if filename.endswith(".json"):
-            with open(os.path.join(json_dir, filename), "r", encoding="utf-8") as file_with_objects:
+            with open(
+                os.path.join(json_dir, filename), "r", encoding="utf-8"
+            ) as file_with_objects:
                 json_data = json.load(file_with_objects)
                 objects_all.extend(json_data)
     return objects_all
@@ -302,7 +349,7 @@ def get_all_names_and_ids(objects_list):
     sorted_results = sorted(
         names_and_ids.items(),
         # key=lambda x: ( len(x[1]), sorted(x[0]) ) # sorted by number of ids in name, then by names within similar number
-        key=lambda x: x[0].lower() # sorted by names
+        key=lambda x: x[0].lower(),  # sorted by names
     )
 
     return dict(sorted_results)
@@ -312,7 +359,7 @@ def get_json_filenames(folder_path):
     json_filenames = []
     for root, dirs, files in os.walk(folder_path):
         for file in files:
-            if file.lower().endswith('.json') and file != "tile_info.json":
+            if file.lower().endswith(".json") and file != "tile_info.json":
                 json_filenames.append(os.path.join(root, file))
     return json_filenames
 
@@ -332,7 +379,9 @@ def get_ids_from_file(filename):
                 ids.append(obj["id"])
         return ids
     else:
-        raise ValueError("Input JSON data should be a single object or a list of objects.")
+        raise ValueError(
+            "Input JSON data should be a single object or a list of objects."
+        )
 
 
 def get_all_sprited_ids(folder_path):
@@ -358,13 +407,27 @@ def sort_and_mark_objects(names_and_ids, sprited_ids, sorting_option):
     if sorting_option == "name":
         result.sort(key=lambda x: x[0].lower())
     elif sorting_option == "size":
-        result.sort(key=lambda x: (len(x[1])+len(x[2]), x[0].lower(), x[1], x[2] ))
+        result.sort(key=lambda x: (len(x[1]) + len(x[2]), x[0].lower(), x[1], x[2]))
     elif sorting_option == "percent":
-        result.sort(key=lambda x: (1-( len(x[1]) / (len(x[1])+len(x[2])) ), x[0].lower(), x[1], x[2] ))
+        result.sort(
+            key=lambda x: (
+                1 - (len(x[1]) / (len(x[1]) + len(x[2]))),
+                x[0].lower(),
+                x[1],
+                x[2],
+            )
+        )
     else:
         result.sort(key=lambda x: x[0])
 
     return result, total_marked_ids, total_unmarked_ids
+
+
+def check_substring_in_list(substring, string_list):
+    for s in string_list:
+        if substring in s:
+            return True
+    return False
 
 
 def main(args):
@@ -379,27 +442,46 @@ def main(args):
 
     id_with_sprites = get_all_sprited_ids(tileset_dir)
 
-
     print(f"Total overmap objects in game: " + str(len(overmap_objects)))
+    if args.name:
+        print(f"  - Filtering objects names by substring : {bcolors.BOLD}{args.name}{bcolors.ENDC}")
+    if args.id:
+        print(f"  - Filtering ids by substring : {bcolors.BOLD}{args.id}{bcolors.ENDC}")
     print()
 
     names_and_ids = get_all_names_and_ids(overmap_objects)
 
-    sorted_result, total_marked_ids, total_unmarked_ids = sort_and_mark_objects(names_and_ids, id_with_sprites, args.sort)
+    sorted_result, total_marked_ids, total_unmarked_ids = sort_and_mark_objects(
+        names_and_ids, id_with_sprites, args.sort
+    )
 
     csv_result = []
-    csv_result.append('\"name\";\"mark\";\"id\"')
+    csv_result.append('"name";"mark";"id"')
     for name, marked_ids, unmarked_ids in sorted_result:
-        print(f"{bcolors.BOLD}{bcolors.UNDERLINE}{name} ({len(marked_ids)} / {len(unmarked_ids)+len(marked_ids)}):{bcolors.ENDC}")
-        for id1 in marked_ids:
-            print(f"{bcolors.OKBLUE}{args.mark} - {id1}{bcolors.ENDC}")
-            csv_result.append('\"'+name+'\";\"'+args.mark+'\";\"'+id1+'\"')
-        for id2 in unmarked_ids:
-            print(f"  - {id2}")
-            csv_result.append('\"'+name+'\";\" \";\"'+id2+'\"')
+        if (
+            not args.name and not args.id
+        ) or (
+            not args.id and args.name in name
+        ) or (
+            not args.name and (check_substring_in_list(args.id, marked_ids) or check_substring_in_list(args.id, unmarked_ids))
+        ) or (
+            args.name in name and (check_substring_in_list(args.id, marked_ids) or check_substring_in_list(args.id, unmarked_ids))
+        ):
+            print(
+                f"{bcolors.BOLD}{bcolors.UNDERLINE}{name} ({len(marked_ids)} / {len(unmarked_ids)+len(marked_ids)}):{bcolors.ENDC}"
+            )
+            for id1 in marked_ids:
+                if (not args.id) or (args.id in id1):
+                    print(f"{bcolors.OKBLUE}{args.mark} - {id1}{bcolors.ENDC}")
+                    csv_result.append('"' + name + '";"' + args.mark + '";"' + id1 + '"')
+            for id2 in unmarked_ids:
+                if (not args.id) or (args.id in id2):
+                    print(f"  - {id2}")
+                    csv_result.append('"' + name + '";" ";"' + id2 + '"')
 
     print()
-    print(f"Total sprited/unsprited IDs: {total_marked_ids}/{total_unmarked_ids} ({round(total_marked_ids/total_unmarked_ids*100,1)}%)")
+    print(f"Total sprited/unsprited IDs: {total_marked_ids}/{total_unmarked_ids} ({round(total_marked_ids/total_unmarked_ids*100,1)}%)"
+    )
 
     if args.file:
         try:
@@ -445,27 +527,31 @@ if __name__ == "__main__":
         help="Tileset directory name. If left empty, the tool will attempt to identify possible tilesets based on the current directory.",
     )
     parser.add_argument(
-        "-f","--file",
+        "-f", "--file",
         type=str,
-        help="Filename for output (only names and IDs)"
+        help="Specify a filename for output (only names and IDs)."
     )
     parser.add_argument(
-        "-m", "--mark",
+        "-m",
+        "--mark",
         choices=["v", "X", "#"],
         default="#",
-        help="Choose a symbol: 'v', 'X', or '#' for IDs that have a sprite."
+        help="Choose a symbol ('v', 'X', or '#') for IDs that have a sprite.",
     )
     parser.add_argument(
-        "-s", "--sort",
+        "-s",
+        "--sort",
         type=str,
         choices=["name", "size", "percent"],
         default="name",
-        help="Choose sorting: 'name' - by name in lowercase, 'size' - by number of ids under the name, then alphabetically, or 'percent' by number of ids covered."
+        help="Choose sorting: 'name' (by name in lowercase), 'size' (by the number of IDs under the name, then alphabetically), or 'percent' (by the number of IDs covered).",
     )
     parser.add_argument(
-        "-y", "--yes",
-        action="store_true",
-        help="Dont wait for user input."
+        "-n", "--name", type=str, help="Substring to look in a group name"
+    )
+    parser.add_argument("-i", "--id", type=str, help="Substring to look in an id name")
+    parser.add_argument(
+        "-y", "--yes", action="store_true", help="Don't wait for user input."
     )
 
     main(parser.parse_args())
