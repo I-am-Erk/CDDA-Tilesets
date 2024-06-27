@@ -367,21 +367,25 @@ def get_json_filenames(folder_path):
 def get_ids_from_file(filename):
     with open(filename, "r") as json_file:
         json_data = json.load(json_file)
+    json_file.close
     ids = []
+    objects = []
     if isinstance(json_data, dict):
-        return [json_data.get("id")]
-    elif isinstance(json_data, list):
-        ids = []
-        for obj in json_data:
-            if isinstance(obj["id"], list):
-                ids.extend(obj["id"])
-            else:
-                ids.append(obj["id"])
-        return ids
-    else:
-        raise ValueError(
-            "Input JSON data should be a single object or a list of objects."
-        )
+        objects.append(json_data.copy())
+    else: objects = json_data
+    for obj in objects:
+        list_of_ids = obj.get("id", [])
+        if isinstance(list_of_ids, str):
+            list_of_ids = [list_of_ids]
+        for main_id in list_of_ids:
+            ids.append(main_id)
+        additional_tiles = obj.get("additional_tiles", [])
+        for tile in additional_tiles:
+            tile_id = tile.get("id")
+            if tile_id:
+                additional_ids = [f"{main_id}_{tile_id}" for main_id in list_of_ids]
+                ids.extend(additional_ids)
+    return ids
 
 
 def get_all_sprited_ids(folder_path):
@@ -447,6 +451,8 @@ def main(args):
         print(f"  - Filtering objects names by substring : {bcolors.BOLD}{args.name}{bcolors.ENDC}")
     if args.id:
         print(f"  - Filtering ids by substring : {bcolors.BOLD}{args.id}{bcolors.ENDC}")
+    if args.todo:
+        print(f"  - Filtering IDs that have sprites. Only upsrited IDs will be shown.")
     print()
 
     names_and_ids = get_all_names_and_ids(overmap_objects)
@@ -471,7 +477,7 @@ def main(args):
                 f"{bcolors.BOLD}{bcolors.UNDERLINE}{name} ({len(marked_ids)} / {len(unmarked_ids)+len(marked_ids)}):{bcolors.ENDC}"
             )
             for id1 in marked_ids:
-                if (not args.id) or (args.id in id1):
+                if ((not args.id) or (args.id in id1)) and not args.todo:
                     print(f"{bcolors.OKBLUE}{args.mark} - {id1}{bcolors.ENDC}")
                     csv_result.append('"' + name + '";"' + args.mark + '";"' + id1 + '"')
             for id2 in unmarked_ids:
@@ -547,9 +553,14 @@ if __name__ == "__main__":
         help="Choose sorting: 'name' (by name in lowercase), 'size' (by the number of IDs under the name, then alphabetically), or 'percent' (by the number of IDs covered).",
     )
     parser.add_argument(
-        "-n", "--name", type=str, help="Substring to look in a group name"
+        "-n", "--name", type=str, help="Substring to look in a group name."
     )
-    parser.add_argument("-i", "--id", type=str, help="Substring to look in an id name")
+    parser.add_argument("-i", "--id", type=str, help="Substring to look in an id name.")
+    parser.add_argument(
+        "-t", "--todo",
+        action="store_true",
+        help="Show only IDs that do not have a sprite."
+    )
     parser.add_argument(
         "-y", "--yes", action="store_true", help="Don't wait for user input."
     )
