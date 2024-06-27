@@ -279,16 +279,22 @@ def find_tset_dir(cli_arg2):
         raise ValueError("Tileset not found!")
 
 
+def read_objects_from_file(json_file):
+    objects = []
+    with open(
+        json_file, "r", encoding="utf-8"
+    ) as file_with_objects:
+        json_data = json.load(file_with_objects)
+        objects.extend(json_data)
+    file_with_objects.close
+    return objects
+
+
 def read_objects_from_files(json_dir):
     objects_all = []
     for filename in os.listdir(json_dir):
         if filename.endswith(".json"):
-            with open(
-                os.path.join(json_dir, filename), "r", encoding="utf-8"
-            ) as file_with_objects:
-                json_data = json.load(file_with_objects)
-                objects_all.extend(json_data)
-            file_with_objects.close
+            objects_all.extend(read_objects_from_file(os.path.join(json_dir, filename)))
     return objects_all
 
 
