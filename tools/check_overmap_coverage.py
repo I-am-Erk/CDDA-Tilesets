@@ -290,7 +290,7 @@ def read_objects_from_file(json_file):
     return objects
 
 
-def read_objects_from_files(json_dir):
+def read_objects_from_dir(json_dir):
     objects_all = []
     for filename in os.listdir(json_dir):
         if filename.endswith(".json"):
@@ -397,9 +397,19 @@ def get_ids_from_file(filename):
 
 def get_all_sprited_ids(folder_path):
     ids = []
+    filenames_and_ids = []
     for json_file in get_json_filenames(folder_path):
-        ids += get_ids_from_file(json_file)
-    return ids
+        ids_from_file = get_ids_from_file(json_file)
+        ids += ids_from_file
+        filenames_and_ids.append((json_file, ids_from_file))
+    return ids, filenames_and_ids
+
+
+def get_filename_for_id(id_to_find, filenames_and_ids):
+    for filename, ids in filenames_and_ids:
+        if id_to_find in ids:
+            return filename
+    return None
 
 
 def sort_and_mark_objects(names_and_ids, sprited_ids, sorting_option):
@@ -441,6 +451,8 @@ def check_substring_in_list(substring, string_list):
     return False
 
 
+## MARK: main function
+
 def main(args):
     if not args.yes:
         sys.excepthook = show_exception_and_exit
@@ -451,7 +463,7 @@ def main(args):
 
     tileset_dir = find_tset_dir(args.tileset_dir)
     if args.part == 'm':
-        overmap_objects = read_objects_from_files(game_overmap_dir)
+        overmap_objects = read_objects_from_dir(game_overmap_dir)
         print(f"{bcolors.BOLD}Main part of overmap objects is seleced{bcolors.ENDC}")
     elif args.part == 'x':
         overmap_objects = read_objects_from_file(game_overmap_mx)
@@ -460,7 +472,7 @@ def main(args):
         raise ValueError("Unimplemented yet. Sorry.")
 
 
-    id_with_sprites = get_all_sprited_ids(tileset_dir)
+    id_with_sprites, filenames_and_ids = get_all_sprited_ids(tileset_dir)
 
     print(f"Total overmap objects in game: " + str(len(overmap_objects)))
     if args.name:
@@ -493,8 +505,12 @@ def main(args):
                 f"{bcolors.BOLD}{bcolors.UNDERLINE}{name} ({len(marked_ids)} / {len(unmarked_ids)+len(marked_ids)}):{bcolors.ENDC}"
             )
             for id1 in marked_ids:
+                longest_id = len(max(marked_ids, key=len))
                 if ((not args.id) or (args.id in id1)) and not args.todo:
-                    print(f"{bcolors.OKBLUE}{args.mark} - {id1}{bcolors.ENDC}")
+                    print(
+                        f"{bcolors.OKBLUE}{args.mark} - {str(id1).ljust(longest_id)}{bcolors.ENDC}" +
+                        (f" : {bcolors.UNDERLINE}{get_filename_for_id(id1, filenames_and_ids)}{bcolors.ENDC}" if args.json else "")
+                    )
                     csv_result.append('"' + name + '";"' + args.mark + '";"' + id1 + '"')
             for id2 in unmarked_ids:
                 if (not args.id) or (args.id in id2):
@@ -515,14 +531,7 @@ def main(args):
         except:
             raise ValueError("Cant write to output file!")
 
-    # om terrain names/ids can be found in:
-    # cdda\data\json\overmap\overmap_terrain\
-    # all files
-
-    # if 'type' = 'overmap_terrain'
-    # then 'name' is a group, name can be absent if 'copy-from' 'abstract'
-    # and 'id' is a OMT
-
+############################################################################## end of main ################## MARK: start of the scritp
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
@@ -576,6 +585,11 @@ if __name__ == "__main__":
         "-t", "--todo",
         action="store_true",
         help="Show only IDs that do not have a sprite."
+    )
+    parser.add_argument(
+        "-j", "--json",
+        action="store_true",
+        help="Print all json file names."
     )
     parser.add_argument(
         "-p",
