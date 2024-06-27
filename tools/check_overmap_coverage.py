@@ -447,9 +447,18 @@ def main(args):
 
     game_dir = find_cdda_dir(args.game_dir)
     game_overmap_dir = os.path.join(game_dir, "data\json\overmap\overmap_terrain")
+    game_overmap_mx = os.path.join(game_dir, "data\json\overmap\map_extras.json")
 
     tileset_dir = find_tset_dir(args.tileset_dir)
-    overmap_objects = read_objects_from_files(game_overmap_dir)
+    if args.part == 'm':
+        overmap_objects = read_objects_from_files(game_overmap_dir)
+        print(f"{bcolors.BOLD}Main part of overmap objects is seleced{bcolors.ENDC}")
+    elif args.part == 'x':
+        overmap_objects = read_objects_from_file(game_overmap_mx)
+        print(f"{bcolors.BOLD}Overmap extras is selected{bcolors.ENDC}")
+    else:
+        raise ValueError("Unimplemented yet. Sorry.")
+
 
     id_with_sprites = get_all_sprited_ids(tileset_dir)
 
@@ -567,6 +576,13 @@ if __name__ == "__main__":
         "-t", "--todo",
         action="store_true",
         help="Show only IDs that do not have a sprite."
+    )
+    parser.add_argument(
+        "-p",
+        "--part",
+        choices=["m", "x", "o"],
+        default="m",
+        help="Choose a part of overmap objects to check: 'm' - main part, 'x' - map extras, 'o' - other om objects",
     )
     parser.add_argument(
         "-y", "--yes", action="store_true", help="Don't wait for user input."
