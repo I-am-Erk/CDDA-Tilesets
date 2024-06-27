@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Unexplored",
+    "id": ["unexplored_terrain", "unknown_terrain"]
+  },
+  {
+    "name": "Highlights",
+    "id": ["highlight"]
+  },
+  {
+    "name": "Hordes",
+    "id": [
+      "overmap_horde_0",
+      "overmap_horde_1",
+      "overmap_horde_2",
+      "overmap_horde_3",
+      "overmap_horde_4",
+      "overmap_horde_5",
+      "overmap_horde_6",
+      "overmap_horde_7",
+      "overmap_horde_8",
+      "overmap_horde_9",
+      "overmap_horde_10"
+    ]
+  },
+  {
+    "name": "Vehicles",
+    "id": [
+      "overmap_remembered_vehicle",
+      "overmap_remembered_vehicle_above",
+      "overmap_remembered_vehicle_below"
+    ]
+  },
+  {
+    "name": "Cursors",
+    "id": [
+      "cursor",
+      "mission_cursor",
+      "mission_arrow_up",
+      "mission_arrow_down",
+      "mission_arrow_n",
+      "mission_arrow_s",
+      "mission_arrow_e",
+      "mission_arrow_w",
+      "mission_arrow_ne",
+      "mission_arrow_nw",
+      "mission_arrow_se",
+      "mission_arrow_sw"
+    ]
+  }
+]
