@@ -521,7 +521,7 @@ def main(args):
                     csv_result.append('"' + name + '";" ";"' + id2 + '"')
 
     print()
-    print(f"Total sprited/unsprited IDs: {total_marked_ids}/{total_unmarked_ids} [total: {total_marked_ids+total_unmarked_ids} ] ({round(total_marked_ids/(total_marked_ids+total_unmarked_ids)*100,1)}%)"
+    print(f"Total sprited/unsprited IDs: {total_marked_ids}/{total_unmarked_ids} [total: {total_marked_ids+total_unmarked_ids}] ({round(total_marked_ids/(total_marked_ids+total_unmarked_ids)*100,1)}%)"
     )
 
     if args.file:
