@@ -1,0 +1,167 @@
+[
+    {
+      "id": [ "office_skyscraper_1" ],
+      "fg": [ "office_skyscraper_1_S", "office_skyscraper_1_E", "office_skyscraper_1_N", "office_skyscraper_1_W" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_skyscraper_2" ],
+      "fg": [ "office_skyscraper_2_S", "office_skyscraper_2_E", "office_skyscraper_2_N", "office_skyscraper_2_W" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_skyscraper_3" ],
+      "fg": [ "office_skyscraper_3_S", "office_skyscraper_3_E", "office_skyscraper_3_N", "office_skyscraper_3_W" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_skyscraper_4" ],
+      "fg": [ "office_skyscraper_4_S", "office_skyscraper_4_E", "office_skyscraper_4_N", "office_skyscraper_4_W" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_skyscraper_5" ],
+      "fg": [ "office_skyscraper_5_S", "office_skyscraper_5_E", "office_skyscraper_5_N", "office_skyscraper_5_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_skyscraper_6" ],
+      "fg": [ "office_skyscraper_6_S", "office_skyscraper_6_E", "office_skyscraper_6_N", "office_skyscraper_6_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_skyscraper_7" ],
+      "fg": [ "office_skyscraper_7_S", "office_skyscraper_7_E", "office_skyscraper_7_N", "office_skyscraper_7_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_skyscraper_8" ],
+      "fg": [ "office_skyscraper_8_S", "office_skyscraper_8_E", "office_skyscraper_8_N", "office_skyscraper_8_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_skyscraper_apartments_111", "office_skyscraper_apartments_112" ],
+      "fg": [
+        "office_skyscraper_apartments_111_S",
+        "office_skyscraper_apartments_111_E",
+        "office_skyscraper_apartments_111_N",
+        "office_skyscraper_apartments_111_W"
+      ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_skyscraper_apartments_011", "office_skyscraper_apartments_012" ],
+      "fg": [
+        "office_skyscraper_apartments_011_S",
+        "office_skyscraper_apartments_011_E",
+        "office_skyscraper_apartments_011_N",
+        "office_skyscraper_apartments_011_W"
+      ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_skyscraper_apartments_101", "office_skyscraper_apartments_102" ],
+      "fg": [
+        "office_skyscraper_apartments_101_S",
+        "office_skyscraper_apartments_101_E",
+        "office_skyscraper_apartments_101_N",
+        "office_skyscraper_apartments_101_W"
+      ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_skyscraper_apartments_001", "office_skyscraper_apartments_002" ],
+      "fg": [
+        "office_skyscraper_apartments_001_S",
+        "office_skyscraper_apartments_001_E",
+        "office_skyscraper_apartments_001_N",
+        "office_skyscraper_apartments_001_W"
+      ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_skyscraper_9", "office_skyscraper_9b" ],
+      "fg": [ "loffice_tower_9_S", "loffice_tower_9_E", "loffice_tower_9_N", "loffice_tower_9_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_skyscraper_10", "office_skyscraper_10b" ],
+      "fg": [ "loffice_tower_10_S", "loffice_tower_10_E", "loffice_tower_10_N", "loffice_tower_10_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_skyscraper_11" ],
+      "fg": [ "loffice_tower_11_S", "loffice_tower_11_E", "loffice_tower_11_N", "loffice_tower_11_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_skyscraper_12" ],
+      "fg": [ "loffice_tower_4_S", "loffice_tower_4_E", "loffice_tower_4_N", "loffice_tower_4_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_skyscraper_13" ],
+      "fg": [ "loffice_tower_13_S", "loffice_tower_13_E", "loffice_tower_13_N", "loffice_tower_13_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_skyscraper_14" ],
+      "fg": [ "loffice_tower_14_S", "loffice_tower_14_E", "loffice_tower_14_N", "loffice_tower_14_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_skyscraper_15" ],
+      "fg": [ "loffice_tower_15_S", "loffice_tower_15_E", "loffice_tower_15_N", "loffice_tower_15_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_skyscraper_16" ],
+      "fg": [ "loffice_tower_16_S", "loffice_tower_16_E", "loffice_tower_16_N", "loffice_tower_16_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_skyscraper_17" ],
+      "fg": [ "loffice_tower_17_S", "loffice_tower_17_E", "loffice_tower_17_N", "loffice_tower_17_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_skyscraper_18" ],
+      "fg": [ "loffice_tower_18_S", "loffice_tower_18_E", "loffice_tower_18_N", "loffice_tower_18_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_skyscraper_19" ],
+      "fg": [ "loffice_tower_19_S", "loffice_tower_19_E", "loffice_tower_19_N", "loffice_tower_19_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_skyscraper_20" ],
+      "fg": [ "loffice_tower_20_S", "loffice_tower_20_E", "loffice_tower_20_N", "loffice_tower_20_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    }
+  ]
+  

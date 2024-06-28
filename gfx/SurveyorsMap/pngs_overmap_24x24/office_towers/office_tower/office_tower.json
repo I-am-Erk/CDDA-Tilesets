@@ -1,0 +1,207 @@
+[
+    {
+      "id": [ "loffice_tower_1" ],
+      "fg": [ "loffice_tower_1_S", "loffice_tower_1_E", "loffice_tower_1_N", "loffice_tower_1_W" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    },
+    {
+      "id": [ "loffice_tower_2" ],
+      "fg": [ "loffice_tower_2_S", "loffice_tower_2_E", "loffice_tower_2_N", "loffice_tower_2_W" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    },
+    {
+      "id": [ "loffice_tower_3" ],
+      "fg": [ "loffice_tower_3_S", "loffice_tower_3_E", "loffice_tower_3_N", "loffice_tower_3_W" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    },
+    {
+      "id": [ "loffice_tower_4" ],
+      "fg": [ "loffice_tower_4_S", "loffice_tower_4_E", "loffice_tower_4_N", "loffice_tower_4_W" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    },
+    {
+      "id": [ "loffice_tower_5" ],
+      "fg": [ "loffice_tower_5_S", "loffice_tower_5_E", "loffice_tower_5_N", "loffice_tower_5_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "loffice_tower_6" ],
+      "fg": [ "loffice_tower_6_S", "loffice_tower_6_E", "loffice_tower_6_N", "loffice_tower_6_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "loffice_tower_7" ],
+      "fg": [ "loffice_tower_7_S", "loffice_tower_7_E", "loffice_tower_7_N", "loffice_tower_7_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "loffice_tower_8" ],
+      "fg": [ "loffice_tower_8_S", "loffice_tower_8_E", "loffice_tower_8_N", "loffice_tower_8_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "loffice_tower_9", "loffice_tower_9b" ],
+      "fg": [ "loffice_tower_9_S", "loffice_tower_9_E", "loffice_tower_9_N", "loffice_tower_9_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "loffice_tower_10", "loffice_tower_10b" ],
+      "fg": [ "loffice_tower_10_S", "loffice_tower_10_E", "loffice_tower_10_N", "loffice_tower_10_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "loffice_tower_11" ],
+      "fg": [ "loffice_tower_11_S", "loffice_tower_11_E", "loffice_tower_11_N", "loffice_tower_11_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "loffice_tower_12" ],
+      "fg": [ "loffice_tower_4_S", "loffice_tower_4_E", "loffice_tower_4_N", "loffice_tower_4_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "loffice_tower_13" ],
+      "fg": [ "loffice_tower_13_S", "loffice_tower_13_E", "loffice_tower_13_N", "loffice_tower_13_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "loffice_tower_14" ],
+      "fg": [ "loffice_tower_14_S", "loffice_tower_14_E", "loffice_tower_14_N", "loffice_tower_14_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "loffice_tower_15" ],
+      "fg": [ "loffice_tower_15_S", "loffice_tower_15_E", "loffice_tower_15_N", "loffice_tower_15_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "loffice_tower_16" ],
+      "fg": [ "loffice_tower_16_S", "loffice_tower_16_E", "loffice_tower_16_N", "loffice_tower_16_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "loffice_tower_17" ],
+      "fg": [ "loffice_tower_17_S", "loffice_tower_17_E", "loffice_tower_17_N", "loffice_tower_17_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "loffice_tower_18" ],
+      "fg": [ "loffice_tower_18_S", "loffice_tower_18_E", "loffice_tower_18_N", "loffice_tower_18_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "loffice_tower_19" ],
+      "fg": [ "loffice_tower_19_S", "loffice_tower_19_E", "loffice_tower_19_N", "loffice_tower_19_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "loffice_tower_20" ],
+      "fg": [ "loffice_tower_20_S", "loffice_tower_20_E", "loffice_tower_20_N", "loffice_tower_20_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_tower_underground_se" ],
+      "fg": [ "loffice_tower_1_N", "loffice_tower_1_W", "loffice_tower_1_S", "loffice_tower_1_E" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_tower_underground_sw" ],
+      "fg": [ "loffice_tower_2_N", "loffice_tower_2_W", "loffice_tower_2_S", "loffice_tower_2_E" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_tower_underground_ne" ],
+      "fg": [ "loffice_tower_3_N", "loffice_tower_3_W", "loffice_tower_3_S", "loffice_tower_3_E" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_tower_underground_nw" ],
+      "fg": [ "loffice_tower_4_N", "loffice_tower_4_W", "loffice_tower_4_S", "loffice_tower_4_E" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_tower_se" ],
+      "fg": [ "loffice_tower_5_N", "loffice_tower_5_W", "loffice_tower_5_S", "loffice_tower_5_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_tower_sw" ],
+      "fg": [ "loffice_tower_6_N", "loffice_tower_6_W", "loffice_tower_6_S", "loffice_tower_6_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_tower_ne" ],
+      "fg": [ "loffice_tower_7_N", "loffice_tower_7_W", "loffice_tower_7_S", "loffice_tower_7_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_tower_nw" ],
+      "fg": [ "loffice_tower_8_N", "loffice_tower_8_W", "loffice_tower_8_S", "loffice_tower_8_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_tower_roof_se" ],
+      "fg": [ "loffice_tower_13_N", "loffice_tower_13_W", "loffice_tower_13_S", "loffice_tower_13_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_tower_roof_sw" ],
+      "fg": [ "loffice_tower_10_N", "loffice_tower_10_W", "loffice_tower_10_S", "loffice_tower_10_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_tower_roof_ne" ],
+      "fg": [ "loffice_tower_15_N", "loffice_tower_15_W", "loffice_tower_15_S", "loffice_tower_15_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_tower_roof_nw" ],
+      "fg": [ "loffice_tower_4_N", "loffice_tower_4_W", "loffice_tower_4_S", "loffice_tower_4_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_tower_roof_ne_roof" ],
+      "fg": [ "loffice_tower_19_N", "loffice_tower_19_W", "loffice_tower_19_S", "loffice_tower_19_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "office_tower_roof_se_roof" ],
+      "fg": [ "loffice_tower_17_N", "loffice_tower_17_W", "loffice_tower_17_S", "loffice_tower_17_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    }
+  ]
+  
