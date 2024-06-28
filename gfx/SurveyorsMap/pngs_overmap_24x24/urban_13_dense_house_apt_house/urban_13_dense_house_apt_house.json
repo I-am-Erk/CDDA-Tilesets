@@ -1,0 +1,75 @@
+[
+    {
+      "id": [ "urban_13_1" ],
+      "fg": [ "urban_13_1_S", "urban_13_1_E", "urban_13_1_N", "urban_13_1_W" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    },
+    {
+      "id": [ "urban_13_2" ],
+      "fg": [ "urban_13_2_S", "urban_13_2_E", "urban_13_2_N", "urban_13_2_W" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    },
+    {
+      "id": [ "urban_13_3" ],
+      "fg": [ "urban_13_3_S", "urban_13_3_E", "urban_13_3_N", "urban_13_3_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "urban_13_4" ],
+      "fg": [ "urban_13_4_S", "urban_13_4_E", "urban_13_4_N", "urban_13_4_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "urban_13_5" ],
+      "fg": [ "urban_13_5_S", "urban_13_5_E", "urban_13_5_N", "urban_13_5_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "urban_13_6" ],
+      "fg": [ "urban_13_6_S", "urban_13_6_E", "urban_13_6_N", "urban_13_6_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "urban_13_7" ],
+      "fg": [ "urban_13_7_S", "urban_13_7_E", "urban_13_7_N", "urban_13_7_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "urban_13_8" ],
+      "fg": [ "urban_13_8_S", "urban_13_8_E", "urban_13_8_N", "urban_13_8_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "urban_13_9" ],
+      "fg": [ "urban_13_9_S", "urban_13_9_E", "urban_13_9_N", "urban_13_9_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "urban_13_10" ],
+      "fg": [ "urban_13_10_S", "urban_13_10_E", "urban_13_10_N", "urban_13_10_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "urban_13_11" ],
+      "fg": [ "urban_13_11_S", "urban_13_11_E", "urban_13_11_N", "urban_13_11_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "urban_13_12" ],
+      "fg": [ "urban_13_12_S", "urban_13_12_E", "urban_13_12_N", "urban_13_12_W" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    }
+  ]
+  

@@ -1,0 +1,75 @@
+[
+    {
+      "id": [ "urban_14_1" ],
+      "fg": [ "urban_14_1_N", "urban_14_1_W", "urban_14_1_S", "urban_14_1_E" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    },
+    {
+      "id": [ "urban_14_2" ],
+      "fg": [ "urban_14_2_N", "urban_14_2_W", "urban_14_2_S", "urban_14_2_E" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    },
+    {
+      "id": [ "urban_14_3" ],
+      "fg": [ "urban_14_3_N", "urban_14_3_W", "urban_14_3_S", "urban_14_3_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "urban_14_4" ],
+      "fg": [ "urban_14_4_N", "urban_14_4_W", "urban_14_4_S", "urban_14_4_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "urban_14_5", "urban_14_7", "urban_14_9" ],
+      "fg": [ "urban_14_5_N", "urban_14_5_W", "urban_14_5_S", "urban_14_5_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "urban_14_6" ],
+      "fg": [ "urban_14_6_N", "urban_14_6_W", "urban_14_6_S", "urban_14_6_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "urban_14_8" ],
+      "fg": [ "urban_14_8_N", "urban_14_8_W", "urban_14_8_S", "urban_14_8_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "urban_14_10" ],
+      "fg": [ "urban_14_10_N", "urban_14_10_W", "urban_14_10_S", "urban_14_10_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "urban_14_11" ],
+      "fg": [ "urban_14_11_N", "urban_14_11_W", "urban_14_11_S", "urban_14_11_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "urban_14_12" ],
+      "fg": [ "urban_14_12_N", "urban_14_12_W", "urban_14_12_S", "urban_14_12_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "urban_14_13" ],
+      "fg": [ "urban_14_13_N", "urban_14_13_W", "urban_14_13_S", "urban_14_13_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "urban_14_14" ],
+      "fg": [ "urban_14_14_N", "urban_14_14_W", "urban_14_14_S", "urban_14_14_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    }
+  ]
+  
