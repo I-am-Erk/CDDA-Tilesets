@@ -35,5 +35,11 @@
     "fg": [ "orchard_2" ],
     "bg": [],
     "rotates": true
+  },
+  {
+    "id": "orchard_1",
+    "fg": [ "orchard_N", "orchard_E", "orchard_S", "orchard_W" ],
+    "bg": "field",
+    "rotates": true
   }
 ]
