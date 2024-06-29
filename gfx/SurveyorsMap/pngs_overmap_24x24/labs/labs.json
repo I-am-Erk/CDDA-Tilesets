@@ -12,8 +12,7 @@
       "lab_subway_vent_shaft-3",
       "microlab_generic_vent_shaft_connector",
       "microlab_portal_MSU14",
-      "microlab_portal_MSU14_elevator",
-      "central_lab"
+      "microlab_portal_MSU14_elevator"
     ],
     "fg": [ "tower_lab_stairs" ],
     "bg": [ "solid_rock" ],
