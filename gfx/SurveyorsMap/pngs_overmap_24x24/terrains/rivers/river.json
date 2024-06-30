@@ -66,15 +66,27 @@
     "rotates": true
   },
   {
-    "id": "bridgehead_ground",
-    "fg": [ "bridge_head_north", "bridge_head_east", "bridge_head_south", "bridge_head_west" ], 
+    "id": ["bridgehead_ground" ],
+    "fg": [ "bridge_head_north", "bridge_head_west", "bridge_head_south", "bridge_head_east" ], 
     "bg": "river_center",
     "rotates": true
   },
   {
-    "id": "bridge",
+    "id": [ "bridgehead_ramp" ],
+    "fg": [ "bridge_head_north", "bridge_head_west", "bridge_head_south", "bridge_head_east" ], 
+    "bg": "open_air",
+    "rotates": true
+  },
+  {
+    "id": ["bridge" ],
     "fg": [ "bridge_vert", "bridge_horiz", "bridge_vert", "bridge_horiz" ],
     "bg": "deep_river",
+    "rotates": true
+  },
+  {
+    "id": ["bridge_road" ],
+    "fg": [ "bridge_vert", "bridge_horiz", "bridge_vert", "bridge_horiz" ],
+    "bg": "open_air",
     "rotates": true
   }
 ]

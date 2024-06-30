@@ -1,0 +1,119 @@
+[
+  {
+    "id": [
+      "lab_stairs",
+      "central_lab_stairs",
+      "microlab_generic_isolated_stairs_odd",
+      "microlab_generic_isolated_stairs_up",
+      "microlab_generic_stairs_down",
+      "microlab_generic_isolated_elevator_pit",
+      "microlab_generic_isolated_elevator",
+      "lab_subway_vent_shaft-2",
+      "lab_subway_vent_shaft-3",
+      "microlab_generic_vent_shaft_connector",
+      "microlab_portal_MSU14",
+      "microlab_portal_MSU14_elevator"
+    ],
+    "fg": [ "tower_lab_stairs" ],
+    "bg": [ "solid_rock" ],
+    "rotates": true
+  },
+  {
+    "id": [ "central_lab_shaft", "lab_subway_vent_shaft-1" ],
+    "fg": [ "tower_lab_stairs" ],
+    "bg": [ "solid_earth" ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "lab",
+      "central_lab",
+      "central_lab_core",
+      "lab_escape_entrance",
+      "lab_escape_cells",
+      "lab_core",
+      "microlab_generic_edge",
+      "microlab_generic",
+      "microlab_generic_hallway_blind_end",
+      "microlab_generic_edge_room_connector",
+      "microlab_generic_firebreak"
+    ],
+    "fg": [ "tower_lab" ],
+    "bg": [ "solid_rock" ],
+    "rotates": true
+  },
+  {
+    "id": [ "microlab_sub_station", "microlab_generic_sub_entry" ],
+    "fg": [ "lab_squares_lightblue" ],
+    "bg": [ "solid_rock" ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "lab_finale",
+      "microlab_portal_dressroom",
+      "central_lab_hq_1",
+      "central_lab_hq_2",
+      "central_lab_hq_3",
+      "central_lab_hq_4",
+      "central_lab_hq_5",
+      "central_lab_hq_6",
+      "central_lab_hq_7",
+      "central_lab_hq_8",
+      "central_lab_hq_9"
+    ],
+    "fg": [ "tower_lab_finale" ],
+    "bg": [ "solid_rock" ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "microlab_generic_hallway",
+      "microlab_reactor",
+      "microlab_reactor_b",
+      "microlab_portal_elevator",
+      "microlab_portal_elevator_physics_glass",
+      "microlab_distorted_hallway",
+      "microlab_distorted_hallway_end",
+      "microlab_generic_hallway_end"
+    ],
+    "fg": [ "lab_squares_orange" ],
+    "bg": [ "solid_rock" ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "microlab_portal_security_hallway1",
+      "microlab_portal_security_hallway2",
+      "microlab_portal_security1",
+      "microlab_portal_security2",
+      "microlab_portal_security3",
+      "microlab_portal_security4",
+      "microlab_portal_security5",
+      "microlab_portal_security6",
+      "microlab_portal_security7",
+      "microlab_portal_security8"
+    ],
+    "fg": [ "lab_squares_red" ],
+    "bg": [ "solid_rock" ],
+    "rotates": true
+  },
+  {
+    "id": [ "microlab_distorted", "microlab_distorted_edge" ],
+    "fg": [ "lab_squares_pink" ],
+    "bg": [ "solid_rock" ],
+    "rotates": true
+  },
+  {
+    "id": [ "microlab_ratkin_sub_entry", "microlab_ratkin_edge", "microlab_ratkin" ],
+    "fg": [ "lab_squares_green" ],
+    "bg": [ "solid_earth" ],
+    "rotates": true
+  },
+  {
+    "id": [ "microlab_sub_station_ratkin" ],
+    "fg": [ "sewer_edge_ns", "sewer_edge_ew" ],
+    "bg": [ "solid_earth" ],
+    "rotates": true
+  }
+]

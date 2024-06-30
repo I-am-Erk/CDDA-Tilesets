@@ -48,13 +48,13 @@
     "rotates": true
   },
   {
-    "id": [ "lumbermill_0_1" ],
+    "id": [ "lumbermill_0_1", "lumbermill_0_1_ocu" ],
     "fg": [ "lumbermill_0_1_N", "lumbermill_0_1_W", "lumbermill_0_1_S", "lumbermill_0_1_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
-    "id": [ "lumbermill_0_1_roof", "lumbermill_0_1_ocu" ],
+    "id": [ "lumbermill_0_1_roof" ],
     "fg": [ "lumbermill_0_1_roof_N", "lumbermill_0_1_roof_W", "lumbermill_0_1_roof_S", "lumbermill_0_1_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
