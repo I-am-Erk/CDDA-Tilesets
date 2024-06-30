@@ -1,0 +1,74 @@
+[
+    {
+      "id": [ "town_hall_0_0_0" ],
+      "fg": [ "town_hall_0_0_0_N", "town_hall_0_0_0_W", "town_hall_0_0_0_S", "town_hall_0_0_0_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "town_hall_0_0_1", "town_hall_0_0_roof" ],
+      "fg": [ "town_hall_0_0_1_N", "town_hall_0_0_1_W", "town_hall_0_0_1_S", "town_hall_0_0_1_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "town_hall_1_0_0" ],
+      "fg": [ "town_hall_1_0_0_N", "town_hall_1_0_0_W", "town_hall_1_0_0_S", "town_hall_1_0_0_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "town_hall_1_0_1", "town_hall_1_0_roof" ],
+      "fg": [ "town_hall_1_0_1_N", "town_hall_1_0_1_W", "town_hall_1_0_1_S", "town_hall_1_0_1_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "town_hall_0_1_0" ],
+      "fg": [ "town_hall_0_1_0_N", "town_hall_0_1_0_W", "town_hall_0_1_0_S", "town_hall_0_1_0_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "town_hall_0_1_1" ],
+      "fg": [ "town_hall_0_1_1_N", "town_hall_0_1_1_W", "town_hall_0_1_1_S", "town_hall_0_1_1_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "town_hall_0_1_roof" ],
+      "fg": [ "town_hall_0_1_roof_N", "town_hall_0_1_roof_W", "town_hall_0_1_roof_S", "town_hall_0_1_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "town_hall_1_1_0" ],
+      "fg": [ "town_hall_1_1_0_N", "town_hall_1_1_0_W", "town_hall_1_1_0_S", "town_hall_1_1_0_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "town_hall_1_1_1" ],
+      "fg": [ "town_hall_1_1_1_N", "town_hall_1_1_1_W", "town_hall_1_1_1_S", "town_hall_1_1_1_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "town_hall_1_1_roof" ],
+      "fg": [ "town_hall_1_1_roof_N", "town_hall_1_1_roof_W", "town_hall_1_1_roof_S", "town_hall_1_1_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "town_hall_1_1_upper_roof" ],
+      "fg": [
+        "town_hall_1_1_upper_roof_N",
+        "town_hall_1_1_upper_roof_W",
+        "town_hall_1_1_upper_roof_S",
+        "town_hall_1_1_upper_roof_E"
+      ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    }
+  ]
+  

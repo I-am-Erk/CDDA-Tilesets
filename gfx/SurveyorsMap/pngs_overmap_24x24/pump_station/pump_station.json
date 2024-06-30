@@ -1,0 +1,45 @@
+[
+    {
+      "id": [ "pump_station_1" ],
+      "fg": [ "pump_station_1_N", "pump_station_1_W", "pump_station_1_S", "pump_station_1_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "pump_station_1_roof" ],
+      "fg": [ "pump_station_1_roof_N", "pump_station_1_roof_W", "pump_station_1_roof_S", "pump_station_1_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "pump_station_2" ],
+      "fg": [ "pump_station_2_N", "pump_station_2_W", "pump_station_2_S", "pump_station_2_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "pump_station_2_roof" ],
+      "fg": [ "pump_station_2_roof_N", "pump_station_2_roof_W", "pump_station_2_roof_S", "pump_station_2_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "pump_station_3" ],
+      "fg": [ "pump_station_3_N", "pump_station_3_W", "pump_station_3_S", "pump_station_3_E" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    },
+    {
+      "id": [ "pump_station_4" ],
+      "fg": [ "pump_station_4_N", "pump_station_4_W", "pump_station_4_S", "pump_station_4_E" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    },
+    {
+      "id": [ "pump_station_5" ],
+      "fg": [ "pump_station_5_N", "pump_station_5_W", "pump_station_5_S", "pump_station_5_E" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    }
+  ]
+  
