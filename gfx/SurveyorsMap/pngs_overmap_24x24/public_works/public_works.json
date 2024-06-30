@@ -1,0 +1,51 @@
+[
+    {
+      "id": [ "public_works_NW" ],
+      "fg": [ "public_works_NW_N", "public_works_NW_W", "public_works_NW_S", "public_works_NW_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "public_works_NW_roof" ],
+      "fg": [ "public_works_NW_roof_N", "public_works_NW_roof_W", "public_works_NW_roof_S", "public_works_NW_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "public_works_NE" ],
+      "fg": [ "public_works_NE_N", "public_works_NE_W", "public_works_NE_S", "public_works_NE_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "public_works_NE_roof" ],
+      "fg": [ "public_works_NE_roof_N", "public_works_NE_roof_W", "public_works_NE_roof_S", "public_works_NE_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "public_works_SW" ],
+      "fg": [ "public_works_SW_N", "public_works_SW_W", "public_works_SW_S", "public_works_SW_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "public_works_SW_roof" ],
+      "fg": [ "public_works_SW_roof_N", "public_works_SW_roof_W", "public_works_SW_roof_S", "public_works_SW_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "public_works_SE" ],
+      "fg": [ "public_works_SE_N", "public_works_SE_W", "public_works_SE_S", "public_works_SE_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "public_works_SE_roof" ],
+      "fg": [ "public_works_SE_roof_N", "public_works_SE_roof_W", "public_works_SE_roof_S", "public_works_SE_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    }
+  ]
+  
