@@ -1,0 +1,8 @@
+{
+  "id": "t_LIXA_portal_pulse",
+  "bg": "t_metal_floor_center_tall",
+  "fg": [
+    { "weight": 8, "sprite": "t_LIXA_portal_pulse_1" },
+    { "weight": 8, "sprite": "t_LIXA_portal_pulse_2" }
+  ]
+}
