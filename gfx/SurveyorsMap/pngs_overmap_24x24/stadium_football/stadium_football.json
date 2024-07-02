@@ -1,0 +1,576 @@
+[
+    {
+      "id": [ "stadium_football_1_0" ],
+      "fg": [ "stadium_football_1_0_N", "stadium_football_1_0_W", "stadium_football_1_0_S", "stadium_football_1_0_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_2_0", "stadium_football_6_0" ],
+      "fg": [ "stadium_football_2_0_N", "stadium_football_2_0_W", "stadium_football_2_0_S", "stadium_football_2_0_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_3_0", "stadium_football_7_0" ],
+      "fg": [ "stadium_football_3_0_N", "stadium_football_3_0_W", "stadium_football_3_0_S", "stadium_football_3_0_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_4_0" ],
+      "fg": [ "stadium_football_4_0_N", "stadium_football_4_0_W", "stadium_football_4_0_S", "stadium_football_4_0_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_5_0" ],
+      "fg": [ "stadium_football_5_0_N", "stadium_football_5_0_W", "stadium_football_5_0_S", "stadium_football_5_0_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_1_6" ],
+      "fg": [ "stadium_football_1_6_N", "stadium_football_1_6_W", "stadium_football_1_6_S", "stadium_football_1_6_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_2_6" ],
+      "fg": [ "stadium_football_2_6_N", "stadium_football_2_6_W", "stadium_football_2_6_S", "stadium_football_2_6_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_3_6" ],
+      "fg": [ "stadium_football_3_6_N", "stadium_football_3_6_W", "stadium_football_3_6_S", "stadium_football_3_6_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_4_6" ],
+      "fg": [ "stadium_football_4_6_N", "stadium_football_4_6_W", "stadium_football_4_6_S", "stadium_football_4_6_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_5_6" ],
+      "fg": [ "stadium_football_5_6_N", "stadium_football_5_6_W", "stadium_football_5_6_S", "stadium_football_5_6_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_6_6" ],
+      "fg": [ "stadium_football_6_6_N", "stadium_football_6_6_W", "stadium_football_6_6_S", "stadium_football_6_6_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_7_6" ],
+      "fg": [ "stadium_football_7_6_N", "stadium_football_7_6_W", "stadium_football_7_6_S", "stadium_football_7_6_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_0_0" ],
+      "fg": [ "stadium_football_0_0_N", "stadium_football_0_0_W", "stadium_football_0_0_S", "stadium_football_0_0_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_8_0" ],
+      "fg": [ "stadium_football_8_0_N", "stadium_football_8_0_W", "stadium_football_8_0_S", "stadium_football_8_0_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_0_1" ],
+      "fg": [ "stadium_football_0_1_N", "stadium_football_0_1_W", "stadium_football_0_1_S", "stadium_football_0_1_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_8_1" ],
+      "fg": [ "stadium_football_8_1_N", "stadium_football_8_1_W", "stadium_football_8_1_S", "stadium_football_8_1_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_0_2" ],
+      "fg": [ "stadium_football_0_2_N", "stadium_football_0_2_W", "stadium_football_0_2_S", "stadium_football_0_2_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_8_2" ],
+      "fg": [ "stadium_football_8_2_N", "stadium_football_8_2_W", "stadium_football_8_2_S", "stadium_football_8_2_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_0_3" ],
+      "fg": [ "stadium_football_0_3_N", "stadium_football_0_3_W", "stadium_football_0_3_S", "stadium_football_0_3_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_0_4" ],
+      "fg": [ "stadium_football_0_4_N", "stadium_football_0_4_W", "stadium_football_0_4_S", "stadium_football_0_4_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_0_5" ],
+      "fg": [ "stadium_football_0_5_N", "stadium_football_0_5_W", "stadium_football_0_5_S", "stadium_football_0_5_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_0_6" ],
+      "fg": [ "stadium_football_0_6_N", "stadium_football_0_6_W", "stadium_football_0_6_S", "stadium_football_0_6_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_8_3" ],
+      "fg": [ "stadium_football_8_3_N", "stadium_football_8_3_W", "stadium_football_8_3_S", "stadium_football_8_3_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_8_4" ],
+      "fg": [ "stadium_football_8_4_N", "stadium_football_8_4_W", "stadium_football_8_4_S", "stadium_football_8_4_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_8_5" ],
+      "fg": [ "stadium_football_8_5_N", "stadium_football_8_5_W", "stadium_football_8_5_S", "stadium_football_8_5_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_8_6" ],
+      "fg": [ "stadium_football_8_6_N", "stadium_football_8_6_W", "stadium_football_8_6_S", "stadium_football_8_6_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_1_1" ],
+      "fg": [ "stadium_football_1_1_N", "stadium_football_1_1_W", "stadium_football_1_1_S", "stadium_football_1_1_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_2_1", "stadium_football_6_1" ],
+      "fg": [ "stadium_football_2_1_N", "stadium_football_2_1_W", "stadium_football_2_1_S", "stadium_football_2_1_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_3_1" ],
+      "fg": [ "stadium_football_3_1_N", "stadium_football_3_1_W", "stadium_football_3_1_S", "stadium_football_3_1_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_4_1" ],
+      "fg": [ "stadium_football_4_1_N", "stadium_football_4_1_W", "stadium_football_4_1_S", "stadium_football_4_1_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_5_1" ],
+      "fg": [ "stadium_football_5_1_N", "stadium_football_5_1_W", "stadium_football_5_1_S", "stadium_football_5_1_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_7_1" ],
+      "fg": [ "stadium_football_7_1_N", "stadium_football_7_1_W", "stadium_football_7_1_S", "stadium_football_7_1_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_1_2", "stadium_football_1_4" ],
+      "fg": [ "stadium_football_1_2_N", "stadium_football_1_2_W", "stadium_football_1_2_S", "stadium_football_1_2_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_2_2" ],
+      "fg": [ "stadium_football_2_2_N", "stadium_football_2_2_W", "stadium_football_2_2_S", "stadium_football_2_2_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_3_2" ],
+      "fg": [ "stadium_football_3_2_N", "stadium_football_3_2_W", "stadium_football_3_2_S", "stadium_football_3_2_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_4_2" ],
+      "fg": [ "stadium_football_4_2_N", "stadium_football_4_2_W", "stadium_football_4_2_S", "stadium_football_4_2_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_5_2" ],
+      "fg": [ "stadium_football_5_2_N", "stadium_football_5_2_W", "stadium_football_5_2_S", "stadium_football_5_2_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_6_2" ],
+      "fg": [ "stadium_football_6_2_N", "stadium_football_6_2_W", "stadium_football_6_2_S", "stadium_football_6_2_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_7_2", "stadium_football_7_4" ],
+      "fg": [ "stadium_football_7_2_N", "stadium_football_7_2_W", "stadium_football_7_2_S", "stadium_football_7_2_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_1_3" ],
+      "fg": [ "stadium_football_1_3_N", "stadium_football_1_3_W", "stadium_football_1_3_S", "stadium_football_1_3_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_2_3" ],
+      "fg": [ "stadium_football_2_3_N", "stadium_football_2_3_W", "stadium_football_2_3_S", "stadium_football_2_3_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_3_3" ],
+      "fg": [ "stadium_football_3_3_N", "stadium_football_3_3_W", "stadium_football_3_3_S", "stadium_football_3_3_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_4_3" ],
+      "fg": [ "stadium_football_4_3_N", "stadium_football_4_3_W", "stadium_football_4_3_S", "stadium_football_4_3_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_5_3" ],
+      "fg": [ "stadium_football_5_3_N", "stadium_football_5_3_W", "stadium_football_5_3_S", "stadium_football_5_3_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_6_3" ],
+      "fg": [ "stadium_football_6_3_N", "stadium_football_6_3_W", "stadium_football_6_3_S", "stadium_football_6_3_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_7_3" ],
+      "fg": [ "stadium_football_7_3_N", "stadium_football_7_3_W", "stadium_football_7_3_S", "stadium_football_7_3_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_2_4" ],
+      "fg": [ "stadium_football_2_4_N", "stadium_football_2_4_W", "stadium_football_2_4_S", "stadium_football_2_4_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_3_4" ],
+      "fg": [ "stadium_football_3_4_N", "stadium_football_3_4_W", "stadium_football_3_4_S", "stadium_football_3_4_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_4_4" ],
+      "fg": [ "stadium_football_4_4_N", "stadium_football_4_4_W", "stadium_football_4_4_S", "stadium_football_4_4_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_5_4" ],
+      "fg": [ "stadium_football_5_4_N", "stadium_football_5_4_W", "stadium_football_5_4_S", "stadium_football_5_4_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_6_4" ],
+      "fg": [ "stadium_football_6_4_N", "stadium_football_6_4_W", "stadium_football_6_4_S", "stadium_football_6_4_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_1_5" ],
+      "fg": [ "stadium_football_1_5_N", "stadium_football_1_5_W", "stadium_football_1_5_S", "stadium_football_1_5_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_3_5" ],
+      "fg": [ "stadium_football_3_5_N", "stadium_football_3_5_W", "stadium_football_3_5_S", "stadium_football_3_5_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_2_5" ],
+      "fg": [ "stadium_football_2_5_N", "stadium_football_2_5_W", "stadium_football_2_5_S", "stadium_football_2_5_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_4_5" ],
+      "fg": [ "stadium_football_4_5_N", "stadium_football_4_5_W", "stadium_football_4_5_S", "stadium_football_4_5_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_5_5" ],
+      "fg": [ "stadium_football_5_5_N", "stadium_football_5_5_W", "stadium_football_5_5_S", "stadium_football_5_5_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_6_5" ],
+      "fg": [ "stadium_football_6_5_N", "stadium_football_6_5_W", "stadium_football_6_5_S", "stadium_football_6_5_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_7_5" ],
+      "fg": [ "stadium_football_7_5_N", "stadium_football_7_5_W", "stadium_football_7_5_S", "stadium_football_7_5_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_1_1_1" ],
+      "fg": [ "stadium_football_1_1_1_N", "stadium_football_1_1_1_W", "stadium_football_1_1_1_S", "stadium_football_1_1_1_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [
+        "stadium_football_2_1_1",
+        "stadium_football_6_1_1",
+        "stadium_football_2_1_2",
+        "stadium_football_6_1_2",
+        "stadium_football_2_1_3",
+        "stadium_football_6_1_3"
+      ],
+      "fg": [ "stadium_football_2_1_1_N", "stadium_football_2_1_1_W", "stadium_football_2_1_1_S", "stadium_football_2_1_1_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_3_1_1", "stadium_football_3_1_2", "stadium_football_3_1_3" ],
+      "fg": [ "stadium_football_3_1_1_N", "stadium_football_3_1_1_W", "stadium_football_3_1_1_S", "stadium_football_3_1_1_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_4_1_1", "stadium_football_4_1_2", "stadium_football_4_1_3" ],
+      "fg": [ "stadium_football_4_1_1_N", "stadium_football_4_1_1_W", "stadium_football_4_1_1_S", "stadium_football_4_1_1_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_5_1_1", "stadium_football_5_1_2", "stadium_football_5_1_3" ],
+      "fg": [ "stadium_football_5_1_1_N", "stadium_football_5_1_1_W", "stadium_football_5_1_1_S", "stadium_football_5_1_1_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_7_1_1" ],
+      "fg": [ "stadium_football_7_1_1_N", "stadium_football_7_1_1_W", "stadium_football_7_1_1_S", "stadium_football_7_1_1_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_1_5_1" ],
+      "fg": [ "stadium_football_1_5_1_N", "stadium_football_1_5_1_W", "stadium_football_1_5_1_S", "stadium_football_1_5_1_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_2_5_1" ],
+      "fg": [ "stadium_football_2_5_1_N", "stadium_football_2_5_1_W", "stadium_football_2_5_1_S", "stadium_football_2_5_1_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_3_5_1", "stadium_football_3_5_2", "stadium_football_3_5_3" ],
+      "fg": [ "stadium_football_3_5_1_N", "stadium_football_3_5_1_W", "stadium_football_3_5_1_S", "stadium_football_3_5_1_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_4_5_1", "stadium_football_4_5_2", "stadium_football_4_5_3" ],
+      "fg": [ "stadium_football_4_5_1_N", "stadium_football_4_5_1_W", "stadium_football_4_5_1_S", "stadium_football_4_5_1_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_5_5_1", "stadium_football_5_5_2", "stadium_football_5_5_3" ],
+      "fg": [ "stadium_football_5_5_1_N", "stadium_football_5_5_1_W", "stadium_football_5_5_1_S", "stadium_football_5_5_1_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_6_5_1" ],
+      "fg": [ "stadium_football_6_5_1_N", "stadium_football_6_5_1_W", "stadium_football_6_5_1_S", "stadium_football_6_5_1_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_7_5_1" ],
+      "fg": [ "stadium_football_7_5_1_N", "stadium_football_7_5_1_W", "stadium_football_7_5_1_S", "stadium_football_7_5_1_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [
+        "stadium_football_1_2_1",
+        "stadium_football_1_4_1",
+        "stadium_football_1_2_2",
+        "stadium_football_1_4_2",
+        "stadium_football_1_2_3",
+        "stadium_football_1_4_3"
+      ],
+      "fg": [ "stadium_football_1_2_1_N", "stadium_football_1_2_1_W", "stadium_football_1_2_1_S", "stadium_football_1_2_1_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_1_3_1", "stadium_football_1_3_2", "stadium_football_1_3_3" ],
+      "fg": [ "stadium_football_1_3_1_N", "stadium_football_1_3_1_W", "stadium_football_1_3_1_S", "stadium_football_1_3_1_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [
+        "stadium_football_7_2_1",
+        "stadium_football_7_4_1",
+        "stadium_football_7_2_2",
+        "stadium_football_7_4_2",
+        "stadium_football_7_2_3",
+        "stadium_football_7_4_3"
+      ],
+      "fg": [ "stadium_football_7_2_1_N", "stadium_football_7_2_1_W", "stadium_football_7_2_1_S", "stadium_football_7_2_1_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_7_3_1", "stadium_football_7_3_2", "stadium_football_7_3_3" ],
+      "fg": [ "stadium_football_7_3_1_N", "stadium_football_7_3_1_W", "stadium_football_7_3_1_S", "stadium_football_7_3_1_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_2_3_1", "stadium_football_6_3_1" ],
+      "fg": [ "open_air" ],
+      "bg": [ "" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_1_1_2", "stadium_football_1_1_3" ],
+      "fg": [ "stadium_football_1_1_2_N", "stadium_football_1_1_2_W", "stadium_football_1_1_2_S", "stadium_football_1_1_2_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_7_1_2", "stadium_football_7_1_3" ],
+      "fg": [ "stadium_football_7_1_2_N", "stadium_football_7_1_2_W", "stadium_football_7_1_2_S", "stadium_football_7_1_2_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_1_5_2", "stadium_football_1_5_3" ],
+      "fg": [ "stadium_football_1_5_2_N", "stadium_football_1_5_2_W", "stadium_football_1_5_2_S", "stadium_football_1_5_2_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_2_5_2", "stadium_football_2_5_3" ],
+      "fg": [ "stadium_football_2_5_2_N", "stadium_football_2_5_2_W", "stadium_football_2_5_2_S", "stadium_football_2_5_2_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_6_5_2", "stadium_football_6_5_3" ],
+      "fg": [ "stadium_football_6_5_2_N", "stadium_football_6_5_2_W", "stadium_football_6_5_2_S", "stadium_football_6_5_2_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_7_5_2", "stadium_football_7_5_3" ],
+      "fg": [ "stadium_football_7_5_2_N", "stadium_football_7_5_2_W", "stadium_football_7_5_2_S", "stadium_football_7_5_2_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_2_1_4", "stadium_football_2_1_5" ],
+      "fg": [ "stadium_football_2_1_4_N", "stadium_football_2_1_4_W", "stadium_football_2_1_4_S", "stadium_football_2_1_4_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_3_1_4", "stadium_football_3_1_5" ],
+      "fg": [ "stadium_football_3_1_4_N", "stadium_football_3_1_4_W", "stadium_football_3_1_4_S", "stadium_football_3_1_4_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_4_1_4", "stadium_football_4_1_5" ],
+      "fg": [ "stadium_football_4_1_4_N", "stadium_football_4_1_4_W", "stadium_football_4_1_4_S", "stadium_football_4_1_4_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_5_1_4", "stadium_football_5_1_5" ],
+      "fg": [ "stadium_football_5_1_4_N", "stadium_football_5_1_4_W", "stadium_football_5_1_4_S", "stadium_football_5_1_4_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_6_1_4", "stadium_football_6_1_5" ],
+      "fg": [ "stadium_football_6_1_4_N", "stadium_football_6_1_4_W", "stadium_football_6_1_4_S", "stadium_football_6_1_4_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_2_5_4", "stadium_football_2_5_5" ],
+      "fg": [ "stadium_football_2_5_4_N", "stadium_football_2_5_4_W", "stadium_football_2_5_4_S", "stadium_football_2_5_4_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_3_5_4", "stadium_football_3_5_5" ],
+      "fg": [ "stadium_football_3_5_4_N", "stadium_football_3_5_4_W", "stadium_football_3_5_4_S", "stadium_football_3_5_4_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_4_5_4", "stadium_football_4_5_5" ],
+      "fg": [ "stadium_football_4_5_4_N", "stadium_football_4_5_4_W", "stadium_football_4_5_4_S", "stadium_football_4_5_4_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_5_5_4", "stadium_football_5_5_5" ],
+      "fg": [ "stadium_football_5_5_4_N", "stadium_football_5_5_4_W", "stadium_football_5_5_4_S", "stadium_football_5_5_4_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "stadium_football_6_5_4", "stadium_football_6_5_5" ],
+      "fg": [ "stadium_football_6_5_4_N", "stadium_football_6_5_4_W", "stadium_football_6_5_4_S", "stadium_football_6_5_4_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    }
+  ]
+  
