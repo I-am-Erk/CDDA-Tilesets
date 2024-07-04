@@ -16,5 +16,47 @@
     "fg": [ "magic_field" ],
     "bg": [ "field" ],
     "rotates": true
+  },
+  {
+    "id": [ "magic_basement" ],
+    "fg": [ "magic_basement_N", "magic_basement_W", "magic_basement_S", "magic_basement_E" ],
+    "bg": [ "solid_earth" ],
+    "rotates": true
+  },
+  {
+    "id": [ "elf_workshop", "elf_workshop_roof" ],
+    "fg": [ "elf_workshop" ],
+    "bg": [ "" ],
+    "rotates": true
+  },
+  {
+    "id": [ "forest_tomb" ],
+    "fg": [ "forest_tomb" ],
+    "bg": [ "forest_unconnected" ],
+    "rotates": true
+  },
+  {
+    "id": [ "forest_tomb_roof" ],
+    "fg": [ "forest_tomb" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "forest_tomb_bottom" ],
+    "fg": [ "forest_tomb" ],
+    "bg": [ "solid_earth" ],
+    "rotates": true
+  },
+  {
+    "id": [ "demon_spider_lair" ],
+    "fg": [ "bad_magiclysm" ],
+    "bg": [ "forest_unconnected" ],
+    "rotates": true
+  },
+  {
+    "id": [ "standing_teleport_stones" ],
+    "fg": [ "standing_teleport_stones_N", "standing_teleport_stones_W", "standing_teleport_stones_S", "standing_teleport_stones_E" ],
+    "bg": [ "forest_unconnected" ],
+    "rotates": true
   }
 ]

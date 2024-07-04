@@ -1,0 +1,14 @@
+[
+    {
+        "id": [ "ogre_mound" ],
+        "fg": [ "ogre_mound_N", "ogre_mound_W", "ogre_mound_S", "ogre_mound_E" ],
+        "bg": [ "swamp" ],
+        "rotates": true
+      },
+      {
+        "id": [ "ogre_mound_roof" ],
+        "fg": [ "ogre_mound_roof_N", "ogre_mound_roof_W", "ogre_mound_roof_S", "ogre_mound_roof_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      }
+]
