@@ -47,5 +47,14 @@
       "mission_arrow_se",
       "mission_arrow_sw"
     ]
+  },
+  {
+    "name": "Player and NPCs",
+    "id": [
+        "npc_female",
+        "npc_male",
+        "player_male",
+        "player_female"
+    ]
   }
 ]
