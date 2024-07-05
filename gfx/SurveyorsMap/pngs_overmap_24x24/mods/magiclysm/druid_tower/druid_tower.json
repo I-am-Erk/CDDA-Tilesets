@@ -1,0 +1,80 @@
+[
+    {
+        "id": [ "druid_ritual_home_z0" ],
+        "fg": [ "druid_ritual_home_z0_N", "druid_ritual_home_z0_W", "druid_ritual_home_z0_S", "druid_ritual_home_z0_E" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "druid_ritual_home_z1" ],
+        "fg": [ "druid_ritual_home_z1_N", "druid_ritual_home_z1_W", "druid_ritual_home_z1_S", "druid_ritual_home_z1_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "druid_ritual_home_z2" ],
+        "fg": [ "druid_ritual_home_z2_N", "druid_ritual_home_z2_W", "druid_ritual_home_z2_S", "druid_ritual_home_z2_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "druid_ritual_home_z3" ],
+        "fg": [ "druid_ritual_home_z3_N", "druid_ritual_home_z3_W", "druid_ritual_home_z3_S", "druid_ritual_home_z3_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "druid_ritual_home_crown_nw" ],
+        "fg": [ "druid_ritual_home_crown_nw_N", "druid_ritual_home_crown_nw_W", "druid_ritual_home_crown_nw_S", "druid_ritual_home_crown_nw_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "druid_ritual_home_crown_sw" ],
+        "fg": [ "druid_ritual_home_crown_sw_N", "druid_ritual_home_crown_sw_W", "druid_ritual_home_crown_sw_S", "druid_ritual_home_crown_sw_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "druid_ritual_home_crown_ne" ],
+        "fg": [ "druid_ritual_home_crown_ne_N", "druid_ritual_home_crown_ne_W", "druid_ritual_home_crown_ne_S", "druid_ritual_home_crown_ne_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "druid_ritual_home_crown_se" ],
+        "fg": [ "druid_ritual_home_crown_se_N", "druid_ritual_home_crown_se_W", "druid_ritual_home_crown_se_S", "druid_ritual_home_crown_se_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "druid_ritual_home_crown_n" ],
+        "fg": [ "druid_ritual_home_crown_n_N", "druid_ritual_home_crown_n_W", "druid_ritual_home_crown_n_S", "druid_ritual_home_crown_n_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "druid_ritual_home_crown_s" ],
+        "fg": [ "druid_ritual_home_crown_s_N", "druid_ritual_home_crown_s_W", "druid_ritual_home_crown_s_S", "druid_ritual_home_crown_s_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "druid_ritual_home_crown_e" ],
+        "fg": [ "druid_ritual_home_crown_e_N", "druid_ritual_home_crown_e_W", "druid_ritual_home_crown_e_S", "druid_ritual_home_crown_e_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "druid_ritual_home_crown_w" ],
+        "fg": [ "druid_ritual_home_crown_w_N", "druid_ritual_home_crown_w_W", "druid_ritual_home_crown_w_S", "druid_ritual_home_crown_w_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "druid_ritual_home_crown" ],
+        "fg": [ "forest_center" ],
+        "bg": [ "" ],
+        "rotates": true
+      }
+]

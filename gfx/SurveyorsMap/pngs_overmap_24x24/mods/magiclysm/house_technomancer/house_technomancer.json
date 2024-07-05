@@ -1,0 +1,51 @@
+[
+    {
+      "id": [ "house_technomancer_1" ],
+      "fg": [ "house_technomancer_1_N", "house_technomancer_1_W", "house_technomancer_1_S", "house_technomancer_1_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "house_technomancer_3" ],
+      "fg": [ "house_technomancer_3_N", "house_technomancer_3_W", "house_technomancer_3_S", "house_technomancer_3_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "house_technomancer_5" ],
+      "fg": [ "house_technomancer_5_N", "house_technomancer_5_W", "house_technomancer_5_S", "house_technomancer_5_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "house_technomancer_7" ],
+      "fg": [ "house_technomancer_7_N", "house_technomancer_7_W", "house_technomancer_7_S", "house_technomancer_7_E" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    },
+    {
+      "id": [ "house_technomancer_2" ],
+      "fg": [ "house_technomancer_2_N", "house_technomancer_2_W", "house_technomancer_2_S", "house_technomancer_2_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "house_technomancer_4" ],
+      "fg": [ "house_technomancer_4_N", "house_technomancer_4_W", "house_technomancer_4_S", "house_technomancer_4_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "house_technomancer_6" ],
+      "fg": [ "house_technomancer_6_N", "house_technomancer_6_W", "house_technomancer_6_S", "house_technomancer_6_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "house_technomancer_8" ],
+      "fg": [ "house_technomancer_8_N", "house_technomancer_8_W", "house_technomancer_8_S", "house_technomancer_8_E" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    }
+  ]
+  
