@@ -8,5 +8,11 @@
     "id": ["meadow_core", "meadow_end"],
     "fg": "meadow",
     "bg": "field"
+  },
+  {
+    "id": [ "lake_bed" ],
+    "fg": [ "lake_bed" ],
+    "bg": [ "" ],
+    "rotates": true
   }
 ]

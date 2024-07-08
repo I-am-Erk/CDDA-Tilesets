@@ -1,0 +1,48 @@
+[
+  {
+    "id": [ "pottery_cottage" ],
+    "fg": [ "pottery_cottage_N", "pottery_cottage_W", "pottery_cottage_S", "pottery_cottage_E" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "pottery_cottage_2nd" ],
+    "fg": [ "pottery_cottage_2nd_N", "pottery_cottage_2nd_W", "pottery_cottage_2nd_S", "pottery_cottage_2nd_E" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "pottery_cottage_roof" ],
+    "fg": [ "pottery_cottage_roof_N", "pottery_cottage_roof_W", "pottery_cottage_roof_S", "pottery_cottage_roof_E" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "pottery_cottage_field" ],
+    "fg": [ "pottery_cottage_field_N", "pottery_cottage_field_W", "pottery_cottage_field_S", "pottery_cottage_field_E" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "pottery_cottage_field_2nd", "pottery_cottage_field_roof" ],
+    "fg": [
+      "pottery_cottage_field_2nd_N",
+      "pottery_cottage_field_2nd_W",
+      "pottery_cottage_field_2nd_S",
+      "pottery_cottage_field_2nd_E"
+    ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "pottery_cottage_basement" ],
+    "fg": [
+      "pottery_cottage_basement_N",
+      "pottery_cottage_basement_W",
+      "pottery_cottage_basement_S",
+      "pottery_cottage_basement_E"
+    ],
+    "bg": [ "solid_earth" ],
+    "rotates": true
+  }
+]

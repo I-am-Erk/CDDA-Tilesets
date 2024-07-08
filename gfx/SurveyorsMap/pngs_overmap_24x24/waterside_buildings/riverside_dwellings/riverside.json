@@ -1,0 +1,26 @@
+[
+    {
+        "id": [ "riverside_dwelling", "riverside_dwelling1", "riverside_dwelling2", "riverside_dwelling3" ],
+        "fg": [ "riverside_dwelling" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "riverside_dwelling_roof", "riverside_dwelling1_roof", "riverside_dwelling2_roof", "riverside_dwelling3_roof" ],
+        "fg": [ "riverside_dwelling" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "boat_rental", "boat_rental_1", "boat_rental_2"],
+        "fg": [ "boat_rental" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "boat_rental_roof", "boat_rental_1_roof", "boat_rental_2_roof"],
+        "fg": [ "boat_rental" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      }
+]

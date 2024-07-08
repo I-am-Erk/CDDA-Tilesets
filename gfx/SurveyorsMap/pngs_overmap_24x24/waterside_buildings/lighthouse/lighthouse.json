@@ -1,0 +1,33 @@
+[
+    {
+      "id": [ "lighthouse_ground" ],
+      "fg": [ "lighthouse_N", "lighthouse_W", "lighthouse_S", "lighthouse_E" ],
+      "bg": [ "deep_river" ],
+      "rotates": true
+    },
+    {
+      "id": [ "lighthouse_z1" ],
+      "fg": [ "lighthouse_z1_N", "lighthouse_z1_W", "lighthouse_z1_S", "lighthouse_z1_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "lighthouse_z2", "lighthouse_z3" ],
+      "fg": [ "lighthouse_z2_N", "lighthouse_z2_W", "lighthouse_z2_S", "lighthouse_z2_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "lighthouse_z4", "lighthouse_roof" ],
+      "fg": [ "lighthouse_z4_N", "lighthouse_z4_W", "lighthouse_z4_S", "lighthouse_z4_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "lighthouse_z5" ],
+      "fg": [ "lighthouse_z5_N", "lighthouse_z5_W", "lighthouse_z5_S", "lighthouse_z5_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    }
+  ]
+  
