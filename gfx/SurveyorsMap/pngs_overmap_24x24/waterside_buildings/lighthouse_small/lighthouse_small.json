@@ -1,0 +1,39 @@
+[
+    {
+      "id": [ "lighthouse_small_ground" ],
+      "fg": [ "lighthouse_small_ground_N", "lighthouse_small_ground_W", "lighthouse_small_ground_S", "lighthouse_small_ground_E" ],
+      "bg": [ "deep_river" ],
+      "rotates": true
+    },
+    {
+      "id": [ "lighthouse_small_z1" ],
+      "fg": [ "lighthouse_small_z1_N", "lighthouse_small_z1_W", "lighthouse_small_z1_S", "lighthouse_small_z1_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "lighthouse_small_z2" ],
+      "fg": [ "lighthouse_small_z2_N", "lighthouse_small_z2_W", "lighthouse_small_z2_S", "lighthouse_small_z2_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "lighthouse_small_z3" ],
+      "fg": [ "lighthouse_small_z3_N", "lighthouse_small_z3_W", "lighthouse_small_z3_S", "lighthouse_small_z3_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "lighthouse_small_z4" ],
+      "fg": [ "lighthouse_small_z4_N", "lighthouse_small_z4_W", "lighthouse_small_z4_S", "lighthouse_small_z4_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "lighthouse_small_roof" ],
+      "fg": [ "lighthouse_small_roof_N", "lighthouse_small_roof_W", "lighthouse_small_roof_S", "lighthouse_small_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    }
+  ]
+  
