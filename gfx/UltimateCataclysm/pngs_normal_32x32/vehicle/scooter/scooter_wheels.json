@@ -1,6 +1,6 @@
 [
   {
-    "id": [ "vp_wheel_small_scooter", "vp_wheel_small_scooter_steerable" ],
+    "id": "vp_wheel_small_scooter",
     "fg": [ "vp_wheel_scooter_rotN", "vp_wheel_scooter_rotW", "vp_wheel_scooter_rotS", "vp_wheel_scooter_rotE" ],
     "rotates": true
   },

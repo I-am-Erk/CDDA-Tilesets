@@ -1,0 +1,21 @@
+{
+  "id": [
+    "mc_chainmail_legs",
+    "lc_chainmail_legs",
+    "ch_chainmail_legs",
+    "qt_chainmail_legs",
+    "hc_chainmail_legs",
+    "xl_ch_chainmail_legs",
+    "xl_qt_chainmail_legs",
+    "xl_lc_chainmail_legs",
+    "xs_ch_chainmail_legs",
+    "xs_mc_chainmail_legs",
+    "xs_hc_chainmail_legs",
+    "xl_mc_chainmail_legs",
+    "xs_lc_chainmail_legs",
+    "xs_qt_chainmail_legs",
+    "xl_hc_chainmail_legs",
+    "chainmail_junk_legs"
+  ],
+  "fg": "chainmail_legs"
+}

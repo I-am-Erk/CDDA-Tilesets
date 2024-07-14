@@ -60,7 +60,7 @@
     ]
   },
   {
-    "id": ["vp_cargo_space", "animal_compartment"],
+    "id": "vp_cargo_space",
     "fg": "vp_cargo_space",
     "multitile": true,
     "additional_tiles": [

@@ -1,0 +1,21 @@
+{
+  "id": [
+    "lc_chainmail_vest",
+    "mc_chainmail_vest",
+    "ch_chainmail_vest",
+    "qt_chainmail_vest",
+    "hc_chainmail_vest",
+    "xs_mc_chainmail_vest",
+    "xl_mc_chainmail_vest",
+    "xl_lc_chainmail_vest",
+    "xl_ch_chainmail_vest",
+    "xs_ch_chainmail_vest",
+    "xs_hc_chainmail_vest",
+    "xl_qt_chainmail_vest",
+    "xs_qt_chainmail_vest",
+    "xl_hc_chainmail_vest",
+    "xs_lc_chainmail_vest",
+    "chainmail_junk_vest"
+  ],
+  "fg": "chainmail_vest"
+}

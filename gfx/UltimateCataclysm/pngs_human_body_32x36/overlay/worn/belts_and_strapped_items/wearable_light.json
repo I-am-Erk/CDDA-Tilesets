@@ -1,7 +1,10 @@
 [
   {
-    "id": "overlay_worn_wearable_light",
-    "fg": "wearable_light_m",
-    "bg": ""
+    "id": [ "overlay_male_worn_wearable_light_on", "overlay_male_worn_wearable_big_light_on" ],
+    "fg": "overlay_male_worn_wearable_light_on"
+  },
+  {
+    "id": [ "overlay_female_worn_wearable_light_on", "overlay_female_worn_wearable_big_light_on" ],
+    "fg": "overlay_female_worn_wearable_light_on"
   }
 ]

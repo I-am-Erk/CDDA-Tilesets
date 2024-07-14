@@ -51,29 +51,5 @@
         "bg": [ "vp_wooden_aisle_horizontal", "vp_wooden_aisle_vertical" ]
       }
     ]
-  },
-  {
-    "id": "vp_lit_aisle_vertical",
-    "fg": "vp_lit_aisle_vertical",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "vp_lit_aisle_vertical"
-      }
-    ]
-  },
-  {
-    "id": "vp_lit_aisle_horizontal",
-    "fg": "vp_lit_aisle_horizontal",
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "vp_lit_aisle_horizontal"
-      }
-    ]
   }
 ]

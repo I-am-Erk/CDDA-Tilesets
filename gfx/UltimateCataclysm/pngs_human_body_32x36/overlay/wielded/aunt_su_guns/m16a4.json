@@ -1,5 +1,4 @@
 {
-  "id": [ "overlay_wielded_m16a4", "overlay_wielded_m16_auto_rifle_var_m16a3" ],
-  "fg": "overlay_wielded_m16a4",
-  "bg": ""
+  "id": [ "overlay_wielded_modular_m16a4", "overlay_wielded_modular_m16_auto_rifle_var_modular_m16a3" ],
+  "fg": "overlay_wielded_m16a4"
 }
