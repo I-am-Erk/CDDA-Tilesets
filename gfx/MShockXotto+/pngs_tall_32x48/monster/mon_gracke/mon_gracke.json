@@ -6,11 +6,4 @@
       { "weight": 10, "sprite": "mon_gracke_1" },
       { "weight": 10, "sprite": "mon_gracke_2" }
     ]
-},
-{
-  "id": "mon_gracke",
-    "fg": [
-      { "weight": 10, "sprite": "mon_gracke_secret" }
-    ]
 }
-
