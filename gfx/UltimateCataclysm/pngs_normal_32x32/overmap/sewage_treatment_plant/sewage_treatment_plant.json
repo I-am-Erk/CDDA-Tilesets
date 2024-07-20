@@ -1,0 +1,154 @@
+[
+  {
+    "id": "sewage_treatment_0_0_0",
+    "fg": [
+      "sewagetreatmentplant_n_1",
+      "sewagetreatmentplant_w_1",
+      "sewagetreatmentplant_s_1",
+      "sewagetreatmentplant_e_1"
+    ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": "sewage_treatment_1_0_0",
+    "fg": [
+      "sewagetreatmentplant_n_2",
+      "sewagetreatmentplant_w_2",
+      "sewagetreatmentplant_s_2",
+      "sewagetreatmentplant_e_2"
+    ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": "sewage_treatment_0_1_0",
+    "fg": [
+      "sewagetreatmentplant_n_3",
+      "sewagetreatmentplant_w_3",
+      "sewagetreatmentplant_s_3",
+      "sewagetreatmentplant_e_3"
+    ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": "sewage_treatment_1_1_0",
+    "fg": [
+      "sewagetreatmentplant_n_4",
+      "sewagetreatmentplant_w_4",
+      "sewagetreatmentplant_s_4",
+      "sewagetreatmentplant_e_4"
+    ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": "sewage_treatment_0_0_roof",
+    "fg": [
+      "sewagetreatmentplant_n_1",
+      "sewagetreatmentplant_w_1",
+      "sewagetreatmentplant_s_1",
+      "sewagetreatmentplant_e_1"
+    ],
+    "bg": "open_air",
+    "rotates": true
+  },
+  {
+    "id": "sewage_treatment_1_0_roof",
+    "fg": [
+      "sewagetreatmentplant_n_2",
+      "sewagetreatmentplant_w_2",
+      "sewagetreatmentplant_s_2",
+      "sewagetreatmentplant_e_2"
+    ],
+    "bg": "open_air",
+    "rotates": true
+  },
+  {
+    "id": "sewage_treatment_0_1_roof",
+    "fg": [
+      "sewagetreatmentplant_n_3",
+      "sewagetreatmentplant_w_3",
+      "sewagetreatmentplant_s_3",
+      "sewagetreatmentplant_e_3"
+    ],
+    "bg": "open_air",
+    "rotates": true
+  },
+  {
+    "id": "sewage_treatment_1_1_roof",
+    "fg": [
+      "sewagetreatmentplant_n_4",
+      "sewagetreatmentplant_w_4",
+      "sewagetreatmentplant_s_4",
+      "sewagetreatmentplant_e_4"
+    ],
+    "bg": "open_air",
+    "rotates": true
+  },
+  {
+    "id": "sewage_treatment_0_0_-1",
+    "fg": [
+      "sewagetreatmentplant_n_1",
+      "sewagetreatmentplant_w_1",
+      "sewagetreatmentplant_s_1",
+      "sewagetreatmentplant_e_1"
+    ],
+    "bg": "t_sewage_center",
+    "rotates": true
+  },
+  {
+    "id": "sewage_treatment_1_0_-1",
+    "fg": [
+      "sewagetreatmentplant_n_2",
+      "sewagetreatmentplant_w_2",
+      "sewagetreatmentplant_s_2",
+      "sewagetreatmentplant_e_2"
+    ],
+    "bg": "t_sewage_center",
+    "rotates": true
+  },
+  {
+    "id": "sewage_treatment_0_1_-1",
+    "fg": [
+      "sewagetreatmentplant_n_3",
+      "sewagetreatmentplant_w_3",
+      "sewagetreatmentplant_s_3",
+      "sewagetreatmentplant_e_3"
+    ],
+    "bg": "t_sewage_center",
+    "rotates": true
+  },
+  {
+    "id": "sewage_treatment_1_1_-1",
+    "fg": [
+      "sewagetreatmentplant_n_4",
+      "sewagetreatmentplant_w_4",
+      "sewagetreatmentplant_s_4",
+      "sewagetreatmentplant_e_4"
+    ],
+    "bg": "t_sewage_center",
+    "rotates": true
+  },
+  {
+    "id": "sewage_treatment_2_0_-1",
+    "fg": [
+      "t_sewage_pipe_corner_ne",
+      "t_sewage_pipe_corner_nw",
+      "t_sewage_pipe_corner_sw",
+      "t_sewage_pipe_corner_se"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "sewage_treatment_2_1_-1",
+    "fg": [
+      "t_sewage_pipe_corner_se",
+      "t_sewage_pipe_corner_ne",
+      "t_sewage_pipe_corner_nw",
+      "t_sewage_pipe_corner_sw"
+    ],
+    "rotates": true
+  }
+]

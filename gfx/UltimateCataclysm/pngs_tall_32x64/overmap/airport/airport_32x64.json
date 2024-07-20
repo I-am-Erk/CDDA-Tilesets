@@ -1,0 +1,24 @@
+[
+  {
+    "id": [
+      "s_air_atc",
+      "s_air_atc_2",
+      "s_air_atc_3",
+      "s_air_atc_4",
+      "control_tower_0",
+      "control_tower_1",
+      "control_tower_2",
+      "control_tower_roof"
+    ],
+    "fg": "controltower"
+  },
+  {
+    "id": [
+      "s_air_term",
+      "s_air_term_roof",
+      "waiting_area",
+      "waiting_area_roof"
+    ],
+    "fg": "private_airport_terminal"
+  }
+]
