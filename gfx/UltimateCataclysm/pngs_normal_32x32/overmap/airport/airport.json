@@ -1,0 +1,57 @@
+[
+  {
+    "id": [ "airport_lot_0", "airport_lot_1", "s_air_parking" ],
+    "fg": [ "carpark_ns", "carpark_ew" ],
+    "rotates": true
+  },
+  {
+    "id": "s_air_helicopter_pad",
+    "fg": "helipad"
+  },
+  {
+    "id": [
+      "s_air_runway_r",
+      "s_air_runway",
+      "s_air_runway_hangars",
+      "s_air_runway_term",
+      "s_air_runway_B", 
+      "s_air_runway_l",
+      "runway_start",
+      "runway_hangar",
+      "runway_hangar2",
+      "runway",
+      "runway_carts",
+      "runway_wild",
+      "runway_fuel",
+      "runway_fuel2",
+      "runway_end"
+    ],
+    "fg": [ "runway_ew", "runway_ns" ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "s_air_hangars",
+      "s_air_hangars_roof",
+      "hangar",
+      "hangar_roof"
+    ],
+    "fg": [
+      "smallhangar_n",
+      "smallhangar_ew",
+      "smallhangar_s",
+      "smallhangar_ew"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [ "fuel_station", "fuel_station_roof" ],
+    "fg": [
+      "smallhangar_s",
+      "smallhangar_ew",
+      "smallhangar_n",
+      "smallhangar_ew"
+    ],
+    "rotates": true
+  }
+]
