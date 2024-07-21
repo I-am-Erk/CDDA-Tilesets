@@ -1,33 +1,22 @@
-[{
-  "id": "mon_zombie_prisoner_tough",
-  "fg": "mon_zombie_prisoner_tough",
-  "bg": "shadow_32x48_normal"
-},{
-  "id": "mon_zombie_prisoner_fat",
-  "fg": "mon_zombie_prisoner_fat",
-  "bg": "shadow_32x48_normal"
-},{
-  "id": "mon_zombie_prisoner_brute",
-  "fg": "mon_zombie_prisoner_brute",
-  "bg": "shadow_32x48_normal"
-},{
-  "id": "mon_zombie_resort_bouncer",
-  "fg": "mon_zombie_resort_bouncer",
-  "bg": "shadow_32x48_normal"
-},{
-  "id": "mon_irradiated_wanderer_1",
-  "fg": "mon_irradiated_wanderer_1",
-  "bg": "shadow_32x48_normal"
-},{
-  "id": "mon_irradiated_wanderer_2",
-  "fg": "mon_irradiated_wanderer_2",
-  "bg": "shadow_32x48_normal"
-},{
-  "id": "mon_irradiated_wanderer_3",
-  "fg": "mon_irradiated_wanderer_3",
-  "bg": "shadow_32x48_normal"
-},{
-  "id": "mon_irradiated_wanderer_4",
-  "fg": "mon_irradiated_wanderer_4",
-  "bg": "shadow_32x48_normal"
-}]
+[
+  {
+    "id": "mon_zombie_prisoner_tough",
+    "fg": "mon_zombie_prisoner_tough",
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_zombie_prisoner_fat",
+    "fg": "mon_zombie_prisoner_fat",
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_zombie_prisoner_brute",
+    "fg": "mon_zombie_prisoner_brute",
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_zombie_resort_bouncer",
+    "fg": "mon_zombie_resort_bouncer",
+    "bg": "shadow_32x48_normal"
+  }
+]

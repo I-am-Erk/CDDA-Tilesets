@@ -1,177 +1,142 @@
 [
   {
     "id": "overlay_wielded_battleaxe",
-    "fg": "battle_axe_mf",
-    "bg": ""
+    "fg": "battle_axe_mf"
   },
   {
     "id": "overlay_wielded_knife_butcher",
-    "fg": "butcher_knife_mf",
-    "bg": ""
+    "fg": "butcher_knife_mf"
   },
   {
     "id": "overlay_female_wielded_butterfly_swords",
-    "fg": "butterfly_swords_f",
-    "bg": ""
+    "fg": "butterfly_swords_f"
   },
   {
     "id": "overlay_male_wielded_butterfly_swords",
-    "fg": "butterfly_swords_m",
-    "bg": ""
+    "fg": "butterfly_swords_m"
   },
   {
     "id": "overlay_wielded_cavalry_sabre",
-    "fg": "cavalry_saber_mf",
-    "bg": ""
+    "fg": "overlay_wielded_cavalry_sabre"
   },
   {
     "id": "overlay_wielded_sword_crude",
-    "fg": "crude_sword_mf",
-    "bg": ""
+    "fg": "crude_sword_mf"
   },
   {
     "id": "overlay_wielded_cutlass",
-    "fg": "cutlass_mf",
-    "bg": ""
+    "fg": "cutlass_mf"
   },
   {
     "id": "overlay_wielded_dao",
-    "fg": "dao_mf",
-    "bg": ""
+    "fg": "dao_mf"
   },
   {
     "id": "overlay_wielded_diveknife",
-    "fg": "dive_knife_mf",
-    "bg": ""
+    "fg": "dive_knife_mf"
   },
   {
     "id": "overlay_female_wielded_glaive",
-    "fg": "glaive_f",
-    "bg": ""
+    "fg": "glaive_f"
   },
   {
     "id": "overlay_male_wielded_glaive",
-    "fg": "glaive_m",
-    "bg": ""
+    "fg": "glaive_m"
   },
   {
     "id": "overlay_wielded_glass_shiv",
-    "fg": "glass_shiv_mf",
-    "bg": ""
+    "fg": "glass_shiv_mf"
   },
   {
     "id": "overlay_wielded_jian",
-    "fg": "jian_mf",
-    "bg": ""
+    "fg": "jian_mf"
   },
   {
     "id": "overlay_wielded_khopesh",
-    "fg": "khopesh_mf",
-    "bg": ""
+    "fg": "khopesh_mf"
   },
   {
     "id": "overlay_wielded_kukri",
-    "fg": "kukri_mf",
-    "bg": ""
+    "fg": "kukri_mf"
   },
   {
     "id": "overlay_wielded_lajatang",
-    "fg": "lajatang_mf",
-    "bg": ""
+    "fg": "lajatang_mf"
   },
   {
     "id": "overlay_wielded_machete",
-    "fg": "machete_mf",
-    "bg": ""
+    "fg": "machete_mf"
   },
   {
     "id": "overlay_female_wielded_makeshift_halberd",
-    "fg": "makeshift_glaive_f",
-    "bg": ""
+    "fg": "makeshift_glaive_f"
   },
   {
     "id": "overlay_male_wielded_makeshift_halberd",
-    "fg": "makeshift_glaive_m",
-    "bg": ""
+    "fg": "makeshift_glaive_m"
   },
   {
     "id": "overlay_wielded_makeshift_machete",
-    "fg": "makeshift_machete_mf",
-    "bg": ""
+    "fg": "makeshift_machete_mf"
   },
   {
     "id": "overlay_wielded_glass_macuahuitl",
-    "fg": "makeshift_macuahuitl_mf",
-    "bg": ""
+    "fg": "makeshift_macuahuitl_mf"
   },
   {
     "id": "overlay_female_wielded_makeshift_scythe_war",
-    "fg": "makeshift_war_scythe_f",
-    "bg": ""
+    "fg": "makeshift_war_scythe_f"
   },
   {
     "id": "overlay_male_wielded_makeshift_scythe_war",
-    "fg": "makeshift_war_scythe_m",
-    "bg": ""
+    "fg": "makeshift_war_scythe_m"
   },
   {
     "id": "overlay_female_wielded_naginata",
-    "fg": "naginata_f",
-    "bg": ""
+    "fg": "naginata_f"
   },
   {
     "id": "overlay_male_wielded_naginata",
-    "fg": "naginata_m",
-    "bg": ""
+    "fg": "naginata_m"
   },
   {
     "id": "overlay_wielded_knuckle_katar",
-    "fg": "razorbar_katar_mf",
-    "bg": ""
+    "fg": "razorbar_katar_mf"
   },
   {
     "id": "overlay_wielded_scimitar",
-    "fg": "scimitar_mf",
-    "bg": ""
+    "fg": "scimitar_mf"
   },
   {
     "id": "overlay_wielded_scythe",
-    "fg": "scythe_mf",
-    "bg": ""
+    "fg": "scythe_mf"
   },
   {
     "id": "overlay_wielded_survivor_machete",
-    "fg": "survivor_machete_mf",
-    "bg": ""
+    "fg": "survivor_machete_mf"
   },
   {
     "id": "overlay_wielded_sword_bayonet",
-    "fg": "sword_bayonet_mf",
-    "bg": ""
+    "fg": "sword_bayonet_mf"
   },
   {
     "id": "overlay_female_wielded_bagh_nakha",
-    "fg": "tiger_claws_f",
-    "bg": ""
+    "fg": "tiger_claws_f"
   },
   {
     "id": "overlay_male_wielded_bagh_nakha",
-    "fg": "tiger_claws_m",
-    "bg": ""
+    "fg": "tiger_claws_m"
   },
   {
     "id": "overlay_female_wielded_scythe_war",
-    "fg": "war_scythe_f",
-    "bg": ""
+    "fg": "war_scythe_f"
   },
   {
     "id": "overlay_male_wielded_scythe_war",
-    "fg": "war_scythe_m",
-    "bg": ""
+    "fg": "war_scythe_m"
   },
   {
     "id": "overlay_wielded_sword_xiphos",
-    "fg": "xiphos_mf",
-    "bg": ""
+    "fg": "xiphos_mf"
   }
 ]

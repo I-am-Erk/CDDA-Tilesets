@@ -1,0 +1,21 @@
+{
+  "id": [
+    "lc_chainmail_hood",
+    "mc_chainmail_hood",
+    "ch_chainmail_hood",
+    "qt_chainmail_hood",
+    "hc_chainmail_hood",
+    "xs_mc_chainmail_hood",
+    "xl_mc_chainmail_hood",
+    "xl_lc_chainmail_hood",
+    "xl_ch_chainmail_hood",
+    "xs_ch_chainmail_hood",
+    "xs_hc_chainmail_hood",
+    "xl_qt_chainmail_hood",
+    "xs_qt_chainmail_hood",
+    "xl_hc_chainmail_hood",
+    "xs_lc_chainmail_hood",
+    "chainmail_junk_hood"
+  ],
+  "fg": "chainmail_hood"
+}

@@ -1,5 +1,4 @@
 {
-  "id": ["flyer", "necropolis_leaflet", "abstractmap"],
-  "fg": "flyer",
-  "bg": ""
+  "id": ["flyer", "abstractmap"],
+  "fg": "flyer"
 }
