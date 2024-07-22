@@ -1,6 +1,6 @@
 [
   {
-    "id": [ "bread", "sourdough_bread", "wastebread", "Dana_sourdough_bread" ],
+    "id": [ "bread", "sourdough_bread", "Dana_sourdough_bread" ],
     "fg": "bread",
     "bg": [  ],
     "rotates": false
@@ -9,7 +9,6 @@
     "id": [
       "bread_season_autumn",
       "sourdough_bread_season_autumn",
-      "wastebread_season_autumn",
       "Dana_sourdough_bread_season_autumn"
     ],
     "fg": "bread_autumn",
@@ -20,7 +19,6 @@
     "id": [
       "bread_season_winter",
       "sourdough_bread_season_winter",
-      "wastebread_season_winter",
       "Dana_sourdough_bread_season_winter"
     ],
     "fg": "bread_winter",
@@ -31,7 +29,6 @@
     "id": [
       "bread_season_summer",
       "sourdough_bread_season_summer",
-      "wastebread_season_summer",
       "Dana_sourdough_bread_season_summer"
     ],
     "fg": "bread_summer",
