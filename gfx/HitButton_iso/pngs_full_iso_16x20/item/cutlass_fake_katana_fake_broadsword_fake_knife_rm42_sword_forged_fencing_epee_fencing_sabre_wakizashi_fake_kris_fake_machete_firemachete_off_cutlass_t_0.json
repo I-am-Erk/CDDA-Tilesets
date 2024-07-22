@@ -1,1 +1,37 @@
-{"id": ["cutlass_fake", "katana_fake", "broadsword_fake", "knife_rm42", "sword_forged", "fencing_epee", "fencing_sabre", "wakizashi_fake", "kris_fake", "machete", "firemachete_off", "cutlass", "tanto", "kris", "wakizashi", "katana", "broadsword", "broadfire_off", "makeshift_machete", "knife_steak", "knife_butcher", "survivor_machete", "knife_hunting", "makeshift_knife", "knife_combat", "kukri", "knife_rambo", "diveknife", "knife_trench", "firekatana_off", "shishkebab_off", "throwing_knife"], "fg": ["1598_cutlass_fake_0"], "bg": []}
+{
+  "id": [
+    "cutlass_fake",
+    "katana_fake",
+    "broadsword_fake",
+    "knife_rm42",
+    "sword_forged",
+    "fencing_epee",
+    "fencing_sabre",
+    "wakizashi_fake",
+    "kris_fake", 
+    "machete", 
+    "firemachete_off", 
+    "cutlass", 
+    "tanto", 
+    "kris", 
+    "wakizashi", 
+    "katana", 
+    "broadsword", 
+    "broadfire_off", 
+    "makeshift_machete", 
+    "knife_small_var_knife_steak", 
+    "knife_huge_var_knife_butcher", 
+    "survivor_machete", 
+    "knife_hunting", 
+    "makeshift_knife", 
+    "knife_combat", 
+    "kukri", 
+    "knife_rambo", 
+    "diveknife", 
+    "knife_trench", 
+    "firekatana_off", 
+    "shishkebab_off", 
+    "throwing_knife"
+  ],
+  "fg": "1598_cutlass_fake_0"
+}
