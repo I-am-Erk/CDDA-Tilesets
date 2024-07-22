@@ -4,10 +4,6 @@
     "fg": "battle_axe_mf"
   },
   {
-    "id": "overlay_wielded_knife_butcher",
-    "fg": "butcher_knife_mf"
-  },
-  {
     "id": "overlay_female_wielded_butterfly_swords",
     "fg": "butterfly_swords_f"
   },

@@ -1,1 +1,21 @@
-{"id": ["knife_steak", "knife_butcher", "knife_combat", "diveknife", "makeshift_knife", "primitive_knife", "knife_trench", "switchblade", "kris", "knife_hunting", "knife_rambo", "knife_rm42", "honey_scraper", "bio_blade_weapon", "kris_fake", "knife_folding"], "fg": ["1193_knife_steak_0"], "rotates": false, "bg": []}
+{
+  "id": [
+    "knife_small_var_knife_steak",
+    "knife_huge_var_knife_butcher",
+    "knife_combat",
+    "diveknife",
+    "makeshift_knife",
+    "primitive_knife",
+    "knife_trench",
+    "switchblade",
+    "kris",
+    "knife_hunting",
+    "knife_rambo",
+    "knife_rm42",
+    "honey_scraper",
+    "bio_blade_weapon",
+    "kris_fake",
+    "knife_folding"
+  ],
+  "fg": "1193_knife_steak_0"
+}
