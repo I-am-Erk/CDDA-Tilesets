@@ -1,7 +1,7 @@
 [
   {
     "id": [ "gym_fitness_1" ],
-    "fg": [ "gym_fitness_1_N", "gym_fitness_1_E", "gym_fitness_1_S", "gym_fitness_1_W" ],
+    "fg": [ "gym_fitness_1_N", "gym_fitness_1_W", "gym_fitness_1_S", "gym_fitness_1_E" ],
     "bg": [  ],
     "rotates": true
   },
@@ -9,16 +9,16 @@
     "id": [ "gym_fitness_2ndFloor_1" ],
     "fg": [
       "gym_fitness_2ndFloor_1_North",
-      "gym_fitness_2ndFloor_1_East",
+      "gym_fitness_2ndFloor_1_West",
       "gym_fitness_2ndFloor_1_South",
-      "gym_fitness_2ndFloor_1_West"
+      "gym_fitness_2ndFloor_1_East"
     ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "gym_fitness_roof_1" ],
-    "fg": [ "gym_fitness_roof_1_N", "gym_fitness_roof_1_E", "gym_fitness_roof_1_S", "gym_fitness_roof_1_W" ],
+    "fg": [ "gym_fitness_roof_1_N", "gym_fitness_roof_1_W", "gym_fitness_roof_1_S", "gym_fitness_roof_1_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

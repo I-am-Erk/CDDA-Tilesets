@@ -1,0 +1,12 @@
+[
+  {
+    "id": "t_crossbuck_metal",
+    "fg": "t_crossbuck_metal",
+    "bg": "dirt_tall"
+  },
+  {
+    "id": "t_crossbuck_metal_season_winter",
+    "fg": "t_crossbuck_metal",
+    "bg": "snow_shallow_tall"
+  }
+]

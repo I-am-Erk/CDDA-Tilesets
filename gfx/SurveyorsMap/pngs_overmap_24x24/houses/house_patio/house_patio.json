@@ -1,19 +1,19 @@
 [
   {
     "id": [ "house_patio" ],
-    "fg": [ "house_patio_N", "house_patio_E", "house_patio_S", "house_patio_W" ],
+    "fg": [ "house_patio_N", "house_patio_W", "house_patio_S", "house_patio_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "house_patio_roof" ],
-    "fg": [ "house_patio_roof_N", "house_patio_roof_E", "house_patio_roof_S", "house_patio_roof_W" ],
+    "fg": [ "house_patio_roof_N", "house_patio_roof_W", "house_patio_roof_S", "house_patio_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "house_patio_basement" ],
-    "fg": [ "house_patio_basement_N", "house_patio_basement_E", "house_patio_basement_S", "house_patio_basement_W" ],
+    "fg": [ "house_patio_basement_N", "house_patio_basement_W", "house_patio_basement_S", "house_patio_basement_E" ],
     "bg": [ "solid_earth" ],
     "rotates": true
   }

@@ -1,0 +1,63 @@
+[
+    {
+      "id": [ "parking_2x2_0_0" ],
+      "fg": [ "parking_2x2_0_0_N", "parking_2x2_0_0_W", "parking_2x2_0_0_S", "parking_2x2_0_0_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "parking_2x2_1_0" ],
+      "fg": [ "parking_2x2_1_0_N", "parking_2x2_1_0_W", "parking_2x2_1_0_S", "parking_2x2_1_0_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "parking_2x2_0_1" ],
+      "fg": [ "parking_2x2_0_1_N", "parking_2x2_0_1_W", "parking_2x2_0_1_S", "parking_2x2_0_1_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "parking_2x2_1_1" ],
+      "fg": [ "parking_2x2_1_1_N", "parking_2x2_1_1_W", "parking_2x2_1_1_S", "parking_2x2_1_1_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "parking_2x1_0" ],
+      "fg": [ "parking_2x1_0_N", "parking_2x1_0_W", "parking_2x1_0_S", "parking_2x1_0_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "parking_2x1_1" ],
+      "fg": [ "parking_2x1_1_N", "parking_2x1_1_W", "parking_2x1_1_S", "parking_2x1_1_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "parking_3x1_0" ],
+      "fg": [ "parking_3x1_0_N", "parking_3x1_0_W", "parking_3x1_0_S", "parking_3x1_0_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "parking_3x1_1" ],
+      "fg": [ "parking_3x1_1_N", "parking_3x1_1_W", "parking_3x1_1_S", "parking_3x1_1_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "parking_3x1_2" ],
+      "fg": [ "parking_3x1_2_N", "parking_3x1_2_W", "parking_3x1_2_S", "parking_3x1_2_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "s_lot", "s_lot_no_sidewalk" ],
+      "fg": [ "s_lot_N", "s_lot_W", "s_lot_S", "s_lot_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    }
+  ]
+  

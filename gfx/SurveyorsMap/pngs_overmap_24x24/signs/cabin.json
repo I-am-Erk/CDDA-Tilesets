@@ -1,7 +1,61 @@
 [
   {
-    "id": [ "cabin", "cabin_1", "cabin_2", "cabin_3", "cabin_4", "cabin_5", "cabin_6", "cabin_7", "bandit_cabin", "cabin_strange", "cabin_lake", "cabin_isherwood" ],
+    "id": [
+      "cabin",
+      "cabin_1",
+      "cabin_2",
+      "cabin_3",
+      "cabin_4",
+      "cabin_5",
+      "cabin_6",
+      "cabin_7",
+      "cabin_lakeside",
+      "cabin_lakeside_1",
+      "cabin_lakeside_2",
+      "cabin_lakeside_3",
+      "cabin_lakeside_4",
+      "cabin_lakeside_5",
+      "bandit_cabin",
+      "cabin_strange",
+      "cabin_strange_b",
+      "cabin_lake",
+      "cabin_isherwood",
+      "cabin_prepper",
+      "cabin_liam",
+      "cabin_lapin",
+      "hunter_shack",
+      "hunter_shack_1",
+      "cabin_aban1"
+    ],
     "fg": [ "cabin" ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "cabin_roof",
+      "cabin_roof_1",
+      "cabin_roof_2",
+      "cabin_roof_3",
+      "cabin_roof_4",
+      "cabin_roof_5",
+      "cabin_roof_6",
+      "cabin_roof_7",
+      "bandit_cabin_roof",
+      "cabin_strange_roof",
+      "cabin_lake_roof",
+      "cabin_roof_lapin",
+      "hunter_shack_roof",
+      "hunter_shack_roof_1",
+      "cabin_lakeside_roof",
+      "cabin_lakeside_1_roof",
+      "cabin_lakeside_2_roof",
+      "cabin_lakeside_3_roof",
+      "cabin_lakeside_4_roof",
+      "cabin_lakeside_5_roof",
+      "cabin_aban1_roof"
+    ],
+    "fg": [ "cabin_roof" ],
+    "bg": [ "open_air" ],
     "rotates": true
   }
 ]

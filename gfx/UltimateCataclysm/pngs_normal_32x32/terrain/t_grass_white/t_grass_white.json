@@ -1,0 +1,10 @@
+[
+  {
+    "id": "t_grass_white",
+    "fg": "t_grass_white"
+  },
+  {
+    "id": "t_grass_white_season_winter",
+    "fg": "snow_shallow_center"
+  }
+]

@@ -100,6 +100,14 @@
     "fg": "church_white"
   },
   {
+    "id": "rural_church_parking",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": ["rural_church","rural_church_basement","rural_church_steeple"],
+    "fg": "church_light_red"
+  },
+  {
     "id": "s_library",
     "fg": "public_building_brown"
   },
@@ -340,160 +348,24 @@
     "fg": "big_building_light_blue"
   },
   {
-    "id": "prison_1_1",
-    "fg": "watchtower_light_gray"
+    "id": ["prison_1_1","prison_1_3","prison_1_2f_1", "prison_1_2f_3"],
+    "fg": "watchtower_light_blue"
   },
   {
     "id": "prison_1_2",
-    "fg": "two_story_light_gray"
+    "fg": "parking_dark_gray"
   },
   {
-    "id": "prison_1_3",
-    "fg": "watchtower_light_gray"
+    "id": ["prison_1_4","prison_1_5","prison_1_6","prison_1_7","prison_1_8","prison_1_9","prison_1_2f_4","prison_1_3f_6","prison_1_3f_7"],
+    "fg": "two_story_light_blue"
   },
   {
-    "id": "prison_1_4",
-    "fg": "two_story_light_gray"
+    "id": ["prison_1_2f_2","prison_1_3f_1","prison_1_3f_2","prison_1_3f_3","prison_1_3f_5","prison_1_3f_8"],
+    "fg": "open_air_blue"
   },
   {
-    "id": "prison_1_5",
-    "fg": "two_story_light_gray"
-  },
-  {
-    "id": "prison_1_6",
-    "fg": "two_story_light_gray"
-  },
-  {
-    "id": "prison_1_7",
-    "fg": "watchtower_light_gray"
-  },
-  {
-    "id": "prison_1_8",
-    "fg": "two_story_light_gray"
-  },
-  {
-    "id": "prison_1_9",
-    "fg": "watchtower_light_gray"
-  },
-  {
-    "id": "prison_1_2f_1",
-    "fg": "watchtower_light_gray"
-  },
-  {
-    "id": "prison_1_2f_2",
-    "fg": "two_story_light_gray"
-  },
-  {
-    "id": "prison_1_2f_3",
-    "fg": "watchtower_light_gray"
-  },
-  {
-    "id": "prison_1_2f_4",
-    "fg": "two_story_light_gray"
-  },
-  {
-    "id": "prison_1_2f_5",
-    "fg": "two_story_light_gray"
-  },
-  {
-    "id": "prison_1_2f_6",
-    "fg": "two_story_light_gray"
-  },
-  {
-    "id": "prison_1_2f_7",
-    "fg": "watchtower_light_gray"
-  },
-  {
-    "id": "prison_1_2f_8",
-    "fg": "two_story_light_gray"
-  },
-  {
-    "id": "prison_1_2f_9",
-    "fg": "watchtower_light_gray"
-  },
-  {
-    "id": "prison_1_3f_1",
-    "fg": "watchtower_light_gray"
-  },
-  {
-    "id": "prison_1_3f_2",
-    "fg": "two_story_light_gray"
-  },
-  {
-    "id": "prison_1_3f_3",
-    "fg": "watchtower_light_gray"
-  },
-  {
-    "id": "prison_1_3f_4",
-    "fg": "two_story_light_gray"
-  },
-  {
-    "id": "prison_1_3f_5",
-    "fg": "two_story_light_gray"
-  },
-  {
-    "id": "prison_1_3f_6",
-    "fg": "two_story_light_gray"
-  },
-  {
-    "id": "prison_1_3f_7",
-    "fg": "watchtower_light_gray"
-  },
-  {
-    "id": "prison_1_3f_8",
-    "fg": "two_story_light_gray"
-  },
-  {
-    "id": "prison_1_3f_9",
-    "fg": "watchtower_light_gray"
-  },
-  {
-    "id": "prison_1_b_1",
-    "fg": "two_story_light_gray"
-  },
-  {
-    "id": "prison_1_b_2",
-    "fg": "two_story_light_gray"
-  },
-  {
-    "id": "prison_1_b_3",
-    "fg": "two_story_light_gray"
-  },
-  {
-    "id": "prison_1_b_4",
-    "fg": "two_story_light_gray"
-  },
-  {
-    "id": "prison_1_b_5",
-    "fg": "two_story_light_gray"
-  },
-  {
-    "id": "prison_1_b_6",
-    "fg": "two_story_light_gray"
-  },
-  {
-    "id": "prison_1_b_7",
-    "fg": "two_story_light_gray"
-  },
-  {
-    "id": "prison_1_b_8",
-    "fg": "two_story_light_gray"
-  },
-  {
-    "id": "prison_1_b_9",
-    "fg": "two_story_light_gray"
-  },
-  {
-    "id": "prison_1_b_7_hidden",
-    "fg": "two_story_light_gray"
-  },
-  {
-    "id": "prison_1_b_8_hidden_lab_stairs",
-    "fg": "two_story_light_gray"
-  },
-  {
-    "id": "prison_1_b_9_hidden",
-    "fg": "two_story_light_gray"
+    "id": ["prison_1_2f_5","prison_1_2f_6","prison_1_2f_7","prison_1_2f_8", "prison_1_2f_9","prison_1_3f_4","prison_1_3f_9","prison_1_b_1","prison_1_b_2","prison_1_b_3","prison_1_b_4","prison_1_b_5","prison_1_b_6","prison_1_b_7","prison_1_b_8","prison_1_b_9","prison_1_b_7_hidden","prison_1_b_8_hidden_lab_stairs","prison_1_b_9_hidden"],
+    "fg": "two_story_light_blue"
   },
   {
     "id": [

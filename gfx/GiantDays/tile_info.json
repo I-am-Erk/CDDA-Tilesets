@@ -1,0 +1,25 @@
+[
+  {
+    "height": 20,
+    "width": 20,
+    "pixelscale": 1
+  },
+  {
+    "tiles.png": { "sprites_across": 32 }
+  },
+  {
+    "mobs.png": { "sprites_across": 32 }
+  },
+  {
+    "items.png": { "sprites_across": 32 }
+  },
+  {
+    "large.png": { "sprite_offset_x": -10, "sprite_offset_y": -20, "sprite_width": 40, "sprite_height": 40, "sprites_across": 32 }
+  },
+  {
+    "cursor.png": { "sprite_offset_x": -2, "sprite_offset_y": -2, "sprite_width": 24, "sprite_height": 24, "sprites_across": 1 }
+  },
+  {
+    "fallback.png": { "fallback": true }
+  }
+]

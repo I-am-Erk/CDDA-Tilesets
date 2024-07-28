@@ -1,0 +1,25 @@
+{
+  "id": [
+    "mag_pistol",
+    "recipe_caseless",
+    "recipe_augs",
+    "recipe_mil_augs",
+    "textbook_anarch",
+    "decoy_anarch",
+    "recipe_elfa",
+    "decoy_elfa",
+    "mag_smg",
+    "novel_pulp",
+    "novel_satire",
+    "guidebook",
+    "holybook_bible2",
+    "holybook_quran",
+    "holybook_hadith",
+    "holybook_tanakh",
+    "holybook_bible3",
+    "scots_cookbook",
+    "holybook_kojiki",
+    "holybook_havamal"
+  ],
+  "fg": ["manual_gray"]
+}

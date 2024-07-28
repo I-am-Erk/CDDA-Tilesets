@@ -1,0 +1,45 @@
+[
+
+  {
+    "id": [ "357mag_casing" ],
+    "bg": [ "" ],
+    "fg": [ "4_casing" ]
+  },
+  {
+    "id": [ "357mag_casing_transparent" ],
+    "bg": [ "357mag_b" ],
+    "fg": [ "4_casing" ]
+  },
+
+  {
+    "id": [ "357mag_jhp" ],
+    "bg": [ "357mag_b" ],
+    "fg": [ "357mag_f_jhp" ]
+  },
+  {
+    "id": [ "reloaded_357mag_jhp" ],
+    "bg": [ "357mag_b_r" ],
+    "fg": [ "357mag_f_jhp" ]
+  },
+  {
+    "id": [ "bp_357mag_jhp" ],
+    "bg": [ "357mag_b_bp" ],
+    "fg": [ "357mag_f_jhp" ]
+  },
+  
+  {
+    "id": [ "357mag_fmj" ],
+    "bg": [ "357mag_b" ],
+    "fg": [ "357mag_f_fmj" ]
+  },
+  {
+    "id": [ "reloaded_357mag_fmj" ],
+    "bg": [ "357mag_b_r" ],
+    "fg": [ "357mag_f_fmj" ]
+  },
+  {
+    "id": [ "bp_357mag_fmj" ],
+    "bg": [ "357mag_b_bp" ],
+    "fg": [ "357mag_f_fmj" ]
+  }  
+]

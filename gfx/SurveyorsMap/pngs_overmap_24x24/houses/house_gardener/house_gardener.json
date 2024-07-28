@@ -1,19 +1,19 @@
 [
   {
     "id": [ "house_gardener" ],
-    "fg": [ "house_gardener_N", "house_gardener_E", "house_gardener_S", "house_gardener_W" ],
+    "fg": [ "house_gardener_N", "house_gardener_W", "house_gardener_S", "house_gardener_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "house_gardener_roof" ],
-    "fg": [ "house_gardener_roof_N", "house_gardener_roof_E", "house_gardener_roof_S", "house_gardener_roof_W" ],
+    "fg": [ "house_gardener_roof_N", "house_gardener_roof_W", "house_gardener_roof_S", "house_gardener_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "house_gardener_basement" ],
-    "fg": [ "house_gardener_basement_N", "house_gardener_basement_E", "house_gardener_basement_S", "house_gardener_basement_W" ],
+    "fg": [ "house_gardener_basement_N", "house_gardener_basement_W", "house_gardener_basement_S", "house_gardener_basement_E" ],
     "bg": [ "solid_earth" ],
     "rotates": true
   }

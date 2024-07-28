@@ -1,0 +1,20 @@
+{
+  "id": [
+    "armor_lightplate",
+    "armor_plate",
+    "armor_junk_plate",
+    "armor_mc_plate",
+    "armor_qt_plate",
+    "armor_hc_plate",
+    "armor_lc_plate",
+    "armor_ch_plate",
+    "xl_armor_mc_plate",
+    "xl_armor_qt_plate",
+    "xl_armor_hc_plate",
+    "xl_armor_lc_plate",
+    "xl_armor_ch_plate",
+    "armor_nomad_plate",
+    "armor_nomad_plate_on"
+  ],
+  "fg": "armor_lightplate"
+}

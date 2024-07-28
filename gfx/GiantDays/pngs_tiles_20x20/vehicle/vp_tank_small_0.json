@@ -1,0 +1,1 @@
+{"id": "vp_tank_small", "fg": ["1184_jerrypack_0"], "rotates": false, "multitile": true, "additional_tiles": [{"id": "broken", "fg": ["vp_broken_red"], "bg": []}], "bg": []}

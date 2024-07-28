@@ -1,0 +1,18 @@
+[
+  {
+    "id": [
+      "dog_park",
+      "park_3",
+      "park_4",
+      "park_5",
+      "park_7"
+    ],
+    "fg": "park",
+    "bg": "field"
+  },
+  {
+    "id": [ "park_5_roof", "park_7_roof" ],
+    "fg": "park",
+    "bg": "open_air"
+  }
+]

@@ -110,7 +110,12 @@
       "house_41_roof",
       "house_42",
       "house_42_roof",
-      "house_vacant",
+      "house_fence01",
+      "house_fence01_roof",
+      "house_fence03",
+      "house_fence03_roof",
+      "house_fence04",
+      "house_fence04_roof",
       "house_toolshed",
       "house_toolshed_roof",
       "house_quiverfull",
@@ -236,6 +241,23 @@
       "bungalow06",
       "bungalow07",
       "bungalow08",
+      "bungalow09",
+      "bungalow10",
+      "bungalow11",
+      "bungalow12",
+      "bungalow13",
+      "bungalow14",
+      "bungalow15",
+      "bungalow16",
+      "bungalow17",
+      "bungalow18",
+      "bungalow19",
+      "bungalow20",
+      "bungalow21",
+      "bungalow22",
+      "bungalow23",
+      "bungalow24",
+      "bungalow25",
       "bungalow01_roof",
       "bungalow02_roof",
       "bungalow03_roof",
@@ -243,7 +265,24 @@
       "bungalow05_roof",
       "bungalow06_roof",
       "bungalow07_roof",
-      "bungalow08_roof"
+      "bungalow08_roof",
+      "bungalow09_roof",
+      "bungalow10_roof",
+      "bungalow11_roof",
+      "bungalow12_roof",
+      "bungalow13_roof",
+      "bungalow14_roof",
+      "bungalow15_roof",
+      "bungalow16_roof",
+      "bungalow17_roof",
+      "bungalow18_roof",
+      "bungalow19_roof",
+      "bungalow20_roof",
+      "bungalow21_roof",
+      "bungalow22_roof",
+      "bungalow23_roof",
+      "bungalow24_roof",
+      "bungalow25_roof"
     ],
     "fg": "bungalow_light_gray"
   },
@@ -283,6 +322,14 @@
       "derelict_property"
     ],
     "fg": "cabin_light_gray"
+  },
+  {
+    "id": ["unvitrified_farm_0","unvitrified_farm_1"],
+    "fg": "cabin_dark_gray"
+  },
+  {
+    "id": "unvitrified_orchard",
+    "fg": "small_tree_dark_gray"
   },
   {
     "id": [
@@ -357,6 +404,31 @@
     "fg": "trailer_light_gray"
   },
   {
+    "id": [ "trailer_road", "trailer_road_1parkway", "trailer_road_2parkway" ],
+    "fg": [ "road_edge_ns", "road_edge_ew", "road_edge_ns", "road_edge_ew" ],
+    "rotates": true
+  },
+  {
+    "id": "trailer_road_turn",
+    "fg": [ "road_corner_ne", "road_corner_nw", "road_corner_sw", "road_corner_se" ],
+    "rotates": true
+  },
+  {
+    "id": "trailer_road_3way",
+    "fg": [ "road_t_connection_n", "road_t_connection_w", "road_t_connection_s", "road_t_connection_e" ],
+    "rotates": true
+  },
+  {
+    "id": "trailer_hub_01",
+    "fg": [ "road_edge_ew", "road_edge_ns", "road_edge_ew", "road_edge_ns" ],
+    "rotates": true
+  },
+  {
+    "id": "trailer_hub_11",
+    "fg": "road_center",
+    "rotates": true
+  },
+  {
     "id": "emptyresidentiallot",
     "fg": "square_dark_gray"
   },
@@ -417,6 +489,21 @@
         "nursing_home_sh11"
       ],
     "fg": "parking_dark_gray"
+  },
+  {
+    "id": [ "nursing_home_4", "nursing_home_sh4" ],
+    "fg": [ "road_corner_ne", "road_corner_nw", "road_corner_sw", "road_corner_se" ],
+    "rotates": true
+  },
+  {
+    "id": [ "nursing_home_8", "nursing_home_sh8" ],
+    "fg": [ "road_edge_ns", "road_edge_ew", "road_edge_ns", "road_edge_ew" ],
+    "rotates": true
+  },
+  {
+    "id": [ "nursing_home_12", "nursing_home_sh12" ],
+    "fg": [ "road_t_connection_e", "road_t_connection_n", "road_t_connection_w", "road_t_connection_s" ],
+    "rotates": true
   },
   {
     "id": [
@@ -569,5 +656,37 @@
       "retirement_community_park_9"
     ],
     "fg": "small_tree_green"
+  },
+  {
+    "id": [ "retirement_community_16", "retirement_community_17", "retirement_community_20", "retirement_community_21", "retirement_community_24", "retirement_community_25", "retirement_community_37", "retirement_community_road" ],
+    "fg": [ "road_edge_ns", "road_edge_ew", "road_edge_ns", "road_edge_ew" ],
+    "rotates": true
+  },
+  {
+    "id": [ "retirement_community_10", "retirement_community_11", "retirement_community_12", "retirement_community_29", "retirement_community_31" ],
+    "fg": [ "road_edge_ew", "road_edge_ns", "road_edge_ew", "road_edge_ns" ],
+    "rotates": true
+  },
+  {
+    "id": [ "retirement_community_9", "retirement_community_13", "retirement_community_30" ],
+    "fg": [ "road_t_connection_n", "road_t_connection_w", "road_t_connection_s", "road_t_connection_e" ],
+    "rotates": true
+  },
+  {
+    "id": [ "retirement_community_28", "retirement_community_32" ],
+    "fg": [ "road_t_connection_s", "road_t_connection_e", "road_t_connection_n", "road_t_connection_w" ],
+    "rotates": true
+  },
+  {
+    "id": "deserter_city_gate",
+    "fg": "parking_dark_gray"
+  },
+  {
+    "id": "deserter_city_park",
+    "fg": "park_brown"
+  },
+  {
+    "id": [ "deserter_city_office_1f", "deserter_city_office_1fb", "deserter_city_office_2f", "deserter_city_office_2fb", "deserter_city_office_3f", "deserter_city_office_3fb", "deserter_city_office_roof", "deserter_city_office_roofb" ],
+    "fg": "fortress_brown"
   }
 ]

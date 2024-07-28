@@ -1,0 +1,29 @@
+[
+
+  {
+    "id": [ "700nx_casing" ],
+    "bg": [ "" ],
+    "fg": [ "6_casing" ]
+  },
+  {
+    "id": [ "700nx_casing_transparent" ],
+    "bg": [ "700nx_b" ],
+    "fg": [ "6_casing" ]
+  },
+
+  {
+    "id": [ "700nx" ],
+    "bg": [ "700nx_b" ],
+    "fg": [ "700nx_f" ]
+  },
+  {
+    "id": [ "reloaded_700nx" ],
+    "bg": [ "700nx_b_r" ],
+    "fg": [ "700nx_f" ]
+  },
+  {
+    "id": [ "bp_700nx" ],
+    "bg": [ "700nx_b_bp" ],
+    "fg": [ "700nx_f" ]
+  }
+]

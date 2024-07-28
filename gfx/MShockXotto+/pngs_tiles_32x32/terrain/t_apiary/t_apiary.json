@@ -1,0 +1,12 @@
+[
+  {
+    "id": "t_apiary_empty",
+    "fg": "t_apiary_empty",
+    "bg": "3058_t_floor_waxed_0"
+  },
+  {
+    "id": "t_apiary",
+    "fg": "t_apiary",
+    "bg": "3058_t_floor_waxed_0"
+  }
+]

@@ -1,19 +1,25 @@
 {
   "id": [
+    "mayonnaise",
     "can_coconut",
-     "yoghurt",
-     "pudding",
-     "can_chicken",
-     "horseradish",
-     "con_milk",
-     "flour",
-     "flour_wheat_free",
-     "sugar",
-     "salt",
-     "meal_bone",
-     "meal_bone_tainted",
-     "starch",
-     "mayonnaise"
+    "yoghurt",
+    "pudding",
+    "can_chicken",
+    "horseradish",
+    "con_milk",
+    "flour",
+    "flour_wheat_free",
+    "sugar",
+    "salt",
+    "meal_bone",
+    "meal_bone_tainted",
+    "cottage_cheese",
+    "mascarpone",
+    "mozzarella_cheese",
+    "starch",
+    "cocaine_topical",
+    "sourdough_young_uncovered",
+    "sourdough_split_uncovered"
   ],
-  "fg": ["mayonnaise"]
+  "fg": "mayonnaise"
 }

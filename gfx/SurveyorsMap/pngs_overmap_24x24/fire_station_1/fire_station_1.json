@@ -1,13 +1,13 @@
 [
   {
     "id": [ "fire_station_1" ],
-    "fg": [ "fire_station_1_N", "fire_station_1_E", "fire_station_1_S", "fire_station_1_W" ],
+    "fg": [ "fire_station_1_N", "fire_station_1_W", "fire_station_1_S", "fire_station_1_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "fire_station_roof_1" ],
-    "fg": [ "fire_station_roof_1_N", "fire_station_roof_1_E", "fire_station_roof_1_S", "fire_station_roof_1_W" ],
+    "fg": [ "fire_station_roof_1_N", "fire_station_roof_1_W", "fire_station_roof_1_S", "fire_station_roof_1_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

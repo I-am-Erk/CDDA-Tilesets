@@ -1,6 +1,6 @@
 [
   {
-    "id": [ "pond_field" ],
+    "id": [ "pond_field", "ranch_camp_17" ],
     "fg": [ "pond" ],
     "bg": [ "field" ],
     "rotates": false
@@ -18,7 +18,7 @@
     "rotates": false
   },
   {
-    "id": [ "hot_springs" ],
+    "id": [ "hot_springs", "natural_spring" ],
     "fg": [ "hotsprings" ],
     "bg": [ "field" ],
     "rotates": true

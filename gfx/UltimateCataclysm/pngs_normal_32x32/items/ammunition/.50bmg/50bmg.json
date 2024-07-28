@@ -1,0 +1,99 @@
+[
+
+  {
+    "id": [ "50_casing" ],
+    "bg": [ "" ],
+    "fg": [ "6_casing" ]
+  },
+  {
+    "id": [ "50_casing_transparent" ],
+    "bg": [ "50bmg_b" ],
+    "fg": [ "6_casing" ]
+  },
+
+  {
+    "id": [ "50bmg" ],
+    "bg": [ "50bmg_b" ],
+    "fg": [ "50bmg_f_m33" ]
+  },
+  {
+    "id": [ "//reloaded_50bmg" ],
+    "bg": [ "50bmg_b_r" ],
+    "fg": [ "50bmg_f_m33" ]
+  },
+  {
+    "id": [ "bp_50bmg" ],
+    "bg": [ "50bmg_b_bp" ],
+    "fg": [ "50bmg_f_m33" ]
+  },
+  
+  {
+    "id": [ "50match" ],
+    "bg": [ "50bmg_b" ],
+    "fg": [ "50bmg_f_match" ]
+  },
+  {
+    "id": [ "reloaded_50bmg" ],
+    "bg": [ "50bmg_b_r" ],
+    "fg": [ "50bmg_f_match" ]
+  },
+  {
+    "id": [ "bp_50match" ],
+    "bg": [ "50bmg_b_bp" ],
+    "fg": [ "50bmg_f_match" ]
+  },
+
+  {
+    "id": [ "50_incendiary" ],
+    "bg": [ "50bmg_b" ],
+    "fg": [ "50bmg_f_m17" ]
+  },
+  {
+    "id": [ "reloaded_50_incendiary" ],
+    "bg": [ "50bmg_b_r" ],
+    "fg": [ "50bmg_f_m17" ]
+  },
+  {
+    "id": [ "bp_50_incendiary" ],
+    "bg": [ "50bmg_b_bp" ],
+    "fg": [ "50bmg_f_m17" ]
+  },
+
+  {
+    "id": [ "50ss" ],
+    "bg": [ "50bmg_b" ],
+    "fg": [ "50bmg_f_m2ap" ]
+  },
+  {
+    "id": [ "reloaded_50ss" ],
+    "bg": [ "50bmg_b_r" ],
+    "fg": [ "50bmg_f_m2ap" ]
+  },
+  {
+    "id": [ "bp_50ss" ],
+    "bg": [ "50bmg_b_bp" ],
+    "fg": [ "50bmg_f_m2ap" ]
+  },
+
+  {
+    "id": [ "50_mk211" ],
+    "bg": [ "50bmg_b" ],
+    "fg": [ "50bmg_f_mk211" ]
+  },
+  {
+    "id": [ "reloaded_50_mk211" ],
+    "bg": [ "50bmg_b_r" ],
+    "fg": [ "50bmg_f_mk211" ]
+  },
+  {
+    "id": [ "bp_50_mk211" ],
+    "bg": [ "50bmg_b_bp" ],
+    "fg": [ "50bmg_f_mk211" ]
+  },
+
+  {
+    "id": [ "belt50" ],
+    "bg": [ "50bmg_b" ],
+    "fg": [ "50bmg_f_belt" ]
+  }  
+]

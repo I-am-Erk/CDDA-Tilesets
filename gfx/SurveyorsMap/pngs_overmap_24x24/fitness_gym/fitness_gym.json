@@ -1,13 +1,13 @@
 [
   {
     "id": [ "gym_fitness" ],
-    "fg": [ "gym_fitness_N", "gym_fitness_E", "gym_fitness_S", "gym_fitness_W" ],
+    "fg": [ "gym_fitness_N", "gym_fitness_W", "gym_fitness_S", "gym_fitness_E" ],
     "bg": [  ],
     "rotates": true
   },
   {
     "id": [ "gym_fitness_roof" ],
-    "fg": [ "gym_fitness_roof_N", "gym_fitness_roof_E", "gym_fitness_roof_S", "gym_fitness_roof_W" ],
+    "fg": [ "gym_fitness_roof_N", "gym_fitness_roof_W", "gym_fitness_roof_S", "gym_fitness_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

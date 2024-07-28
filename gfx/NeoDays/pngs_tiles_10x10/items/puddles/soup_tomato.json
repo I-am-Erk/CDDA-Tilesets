@@ -15,7 +15,11 @@
     "mixed_alcohol_strong",
     "oxyacetylene",
     "tomato_juice",
-    "red_pen_ink"
+    "red_pen_ink",
+    "hot_sauce",
+    "wine_marsala",
+    "paint_red",
+    "hair_dye_red"
   ],
   "fg": "soup_tomato"
 }

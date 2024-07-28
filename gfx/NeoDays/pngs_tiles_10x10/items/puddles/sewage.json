@@ -31,6 +31,7 @@
     "imperial_stout",
     "syrup",
     "coffee_syrup",
+    "pekmez",
     "brew_whiskey",
     "hb_beer",
     "brew_hb_beer",
@@ -50,7 +51,11 @@
     "mex_chocolate",
     "wash_moonshine",
     "wash_whiskey",
-    "choc_drink"
+    "choc_drink",
+    "milkshake_choc",
+    "milkshake_deluxe_choc",
+    "paint_brown",
+    "hair_dye_brown"
   ],
 
   "fg": "sewage"

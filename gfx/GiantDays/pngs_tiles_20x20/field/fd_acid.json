@@ -1,0 +1,32 @@
+{
+  "id": "fd_acid",
+  "fg": "fd_acid_0",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "fd_acid_1"
+    },
+    {
+      "id": "corner",
+      "fg": "fd_acid_2"
+    },
+    {
+      "id": "edge",
+      "fg": "fd_acid_3"
+    },
+    {
+      "id": "end_piece",
+      "fg": "fd_acid_4"
+    },
+    {
+      "id": "t_connection",
+      "fg": "fd_acid_5"
+    },
+    {
+      "id": "unconnected",
+      "fg": "fd_acid_0"
+    }
+    ]
+}

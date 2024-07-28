@@ -1,0 +1,24 @@
+{
+  "id": [
+    "vp_door_opaque_right",
+
+    "vp_door_internal_right"
+  ],
+  "//": "this doesn't seem to work and seems to affect every tileset, leaving here when/if fixed",
+  "fg": "vp_door_opaque_right",
+  "bg": "background_black",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_door_broken",
+      "//": "temporary"
+    },
+    {
+      "id": "open",
+      "fg": "vp_door_open",
+      "bg": "background_black"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+[
+
+  {
+    "id": [ "57mm_casing" ],
+    "bg": [ "" ],
+    "fg": [ "4_casing" ]
+  },
+  {
+    "id": [ "57mm_casing_transparent" ],
+    "bg": [ "57x28_b" ],
+    "fg": [ "4_casing" ]
+  },
+
+  {
+    "id": [ "57mm" ],
+    "bg": [ "57x28_b" ],
+    "fg": [ "57x28_f" ]
+  },
+  {
+    "id": [ "reloaded_57mm" ],
+    "bg": [ "57x28_b_r" ],
+    "fg": [ "57x28_f" ]
+  },
+  {
+    "id": [ "bp_57mm" ],
+    "bg": [ "57x28_b_bp" ],
+    "fg": [ "57x28_f" ]
+  }
+]

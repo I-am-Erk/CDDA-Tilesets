@@ -35,10 +35,16 @@
     "macaroni_cooked",
     "ravioli",
     "mre_ravioli",
+    "manti",
     "seed_weed",
     "seed_chili_pepper",
     "pistachio",
-    "birdfood"
+    "birdfood",
+    "seed_melon",
+    "seed_huckleberries",
+    "seed_jerusalem_artichoke",
+    "seed_wild_garlic",
+    "seed_wild_rice"
   ],
   "fg": "seed_wheat"
 }

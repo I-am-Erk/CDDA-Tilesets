@@ -1,0 +1,17 @@
+[
+  {
+    "id": [ "overlay_effect_dazed"  ],
+    "animated": true,
+    "fg": [
+      { "weight": 8, "sprite": "overlay_effect_dazed0" },
+      { "weight": 8, "sprite": "overlay_effect_dazed1" },
+      { "weight": 8, "sprite": "overlay_effect_dazed2" },
+      { "weight": 8, "sprite": "overlay_effect_dazed3" },
+      { "weight": 8, "sprite": "overlay_effect_dazed4" },
+      { "weight": 8, "sprite": "overlay_effect_dazed5" },
+      { "weight": 8, "sprite": "overlay_effect_dazed6" },
+      { "weight": 8, "sprite": "overlay_effect_dazed7" },
+      { "weight": 8, "sprite": "overlay_effect_dazed8" }
+    ]
+  }
+]

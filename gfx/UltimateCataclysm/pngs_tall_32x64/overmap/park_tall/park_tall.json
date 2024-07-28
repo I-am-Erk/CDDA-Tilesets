@@ -1,0 +1,12 @@
+[
+  {
+  	"id": [ "park", "park_2", "park_6" ],
+  	"fg": "park_tall",
+  	"bg": "field_tall"
+  },
+  {
+    "id": "park_roof",
+    "fg": "park_tall",
+    "bg": "open_air_tall"
+  }
+]

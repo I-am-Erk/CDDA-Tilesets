@@ -1,0 +1,15 @@
+[
+  {
+    "id": "vp_seat_swivel_chair",
+    "fg": [ "vp_seat_swivel_chair_north", "vp_seat_swivel_chair_west", "vp_seat_swivel_chair_south", "vp_seat_swivel_chair_east" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "3987_vp_cargo_space_2" ],
+        "bg": [ "vp_seat_swivel_chair_north", "vp_seat_swivel_chair_west", "vp_seat_swivel_chair_south", "vp_seat_swivel_chair_east" ]
+      }
+    ]
+  }
+]

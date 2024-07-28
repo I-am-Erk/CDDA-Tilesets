@@ -1,0 +1,19 @@
+[
+
+  {
+    "id": [ "123ln_casing" ],
+    "bg": [ "" ],
+    "fg": [ "6_casing" ]
+  },
+  {
+    "id": [ "123ln_casing_transparent" ],
+    "bg": [ "123ln_b" ],
+    "fg": [ "6_casing" ]
+  },
+
+  {
+    "id": [ "123ln" ],
+    "bg": [ "123ln_b" ],
+    "fg": [ "123ln_f" ]
+  }
+]

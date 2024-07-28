@@ -1,0 +1,17 @@
+[
+  {
+    "id": "f_machinery_electronic",
+    "fg": [ "f_machinery_light" ],
+    "bg": [  ]
+  },
+  {
+    "id": "f_machinery_light",
+    "fg": [ "f_machinery_light" ],
+    "bg": [  ]
+  },
+  {
+    "id": "f_machinery_heavy",
+    "fg": [ "f_machinery_heavy" ],
+    "bg": [  ]
+  }
+]

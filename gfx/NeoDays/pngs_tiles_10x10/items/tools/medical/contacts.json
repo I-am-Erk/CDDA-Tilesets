@@ -1,0 +1,19 @@
+{
+  "id": [
+    "myopia_contacts_daily",
+    "myopia_contacts_weekly",
+    "bifocal_contacts_daily",
+    "bifocal_contacts_weekly",
+    "hyperopia_contacts_daily",
+    "hyperopia_contacts_weekly",
+    "plano_transition_contacts_daily",
+    "plano_transition_contacts_weekly",
+    "myopia_transition_contacts_daily",
+    "myopia_transition_contacts_weekly",
+    "bifocal_transition_contacts_daily",
+    "bifocal_transition_contacts_weekly",
+    "hyperopia_transition_contacts_daily",
+    "hyperopia_transition_contacts_weekly"
+  ],
+  "fg": "contacts"
+}

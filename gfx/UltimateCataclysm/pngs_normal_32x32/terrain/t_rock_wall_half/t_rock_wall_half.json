@@ -1,0 +1,49 @@
+{
+  "id": [ "t_rock_wall_half", "t_drystone_wall_half" ],
+  "fg": "t_rock_wall_half_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_rock_wall_half_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_rock_wall_half_corner_nw",
+        "t_rock_wall_half_corner_sw",
+        "t_rock_wall_half_corner_se",
+        "t_rock_wall_half_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_rock_wall_half_t_connection_n",
+        "t_rock_wall_half_t_connection_w",
+        "t_rock_wall_half_t_connection_s",
+        "t_rock_wall_half_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_rock_wall_half_edge_ns",
+        "t_rock_wall_half_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_rock_wall_half_end_piece_n",
+        "t_rock_wall_half_end_piece_w",
+        "t_rock_wall_half_end_piece_s",
+        "t_rock_wall_half_end_piece_e"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_rock_wall_half_unconnected"
+    }
+  ]
+}

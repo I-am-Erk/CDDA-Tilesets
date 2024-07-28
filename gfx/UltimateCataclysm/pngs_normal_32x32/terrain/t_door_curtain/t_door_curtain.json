@@ -1,0 +1,12 @@
+[
+  {
+    "id": "t_door_curtain_c",
+    "fg": "t_door_curtain_c",
+    "bg": "t_dirt_center3"
+  },
+  {
+    "id": "t_door_curtain_o",
+    "fg": "t_door_curtain_o",
+    "bg": "t_dirt_center3"
+  }
+]

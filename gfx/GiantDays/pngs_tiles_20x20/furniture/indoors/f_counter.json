@@ -1,0 +1,32 @@
+{
+  "id": "f_counter",
+  "fg": "f_counter_0",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_counter_1"
+    },
+    {
+      "id": "corner",
+      "fg": "f_counter_2"
+    },
+    {
+      "id": "edge",
+      "fg": "f_counter_3"
+    },
+    {
+      "id": "end_piece",
+      "fg": "f_counter_4"
+    },
+    {
+      "id": "t_connection",
+      "fg": "f_counter_5"
+    },
+    {
+      "id": "unconnected",
+      "fg": "f_counter_0"
+    }
+  ]
+}

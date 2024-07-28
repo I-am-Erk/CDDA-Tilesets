@@ -1,13 +1,13 @@
 [
   {
     "id": [ "mortuary" ],
-    "fg": [ "mortuary_N", "mortuary_E", "mortuary_S", "mortuary_W" ],
+    "fg": [ "mortuary_N", "mortuary_W", "mortuary_S", "mortuary_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "mortuary_roof" ],
-    "fg": [ "mortuary_roof_N", "mortuary_roof_E", "mortuary_roof_S", "mortuary_roof_W" ],
+    "fg": [ "mortuary_roof_N", "mortuary_roof_W", "mortuary_roof_S", "mortuary_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

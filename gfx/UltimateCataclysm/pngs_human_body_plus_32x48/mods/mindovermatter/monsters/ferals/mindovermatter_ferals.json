@@ -1,0 +1,12 @@
+[
+  {
+    "id": [ "mon_feral_human_telekin", "mon_feral_human_telekin_dm" ],
+    "fg": "mon_feral_human_telekin",
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": [ "mon_feral_human_vita", "mon_feral_human_vita_dm" ],
+    "fg": "mon_feral_human_vita",
+    "bg": "shadow_32x48_normal"
+  }
+]

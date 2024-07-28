@@ -1,0 +1,15 @@
+{
+  "id": "mon_renfield",
+  "fg": [
+    { "weight": 1, "sprite": "mon_renfield_0" },
+    { "weight": 1, "sprite": "mon_renfield_1" },
+    { "weight": 1, "sprite": "mon_renfield_2" },
+    { "weight": 1, "sprite": "mon_renfield_3" },
+    { "weight": 1, "sprite": "mon_renfield_4" },
+    { "weight": 1, "sprite": "mon_renfield_5" },
+    { "weight": 1, "sprite": "mon_renfield_6" },
+    { "weight": 1, "sprite": "mon_renfield_7" }
+  ],
+  "bg": ["shadow_32x32_normal"],
+  "rotates": false
+}

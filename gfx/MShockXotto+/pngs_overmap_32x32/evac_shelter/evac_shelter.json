@@ -1,10 +1,31 @@
 [
   {
-    "id": [ "shelter", "shelter_vandal", "shelter_1", "shelter_1_vandal", "shelter_2", "shelter_2_vandal" ],
+    "id": [ "shelter", "shelter_1", "shelter_1b", "shelter_2" ],
     "fg": "evac_shelter"
   },
   {
-    "id": [ "shelter_roof", "shelter_roof_1" ],
+    "id": [
+      "shelter_vandal",
+      "shelter_1_vandal",
+      "shelter_1b_vandal",
+      "shelter_2_vandal",
+      "shelter_infested",
+      "shelter_1_infested",
+      "shelter_1b_infested",
+      "shelter_2_infested"
+    ],
+    "fg": "shelter_ruined"
+  },
+  {
+    "id": [ "shelter_survivor", "shelter_1_survivor", "shelter_1b_survivor", "shelter_2_survivor" ],
+    "fg": "shelter_survivor"
+  },
+  {
+    "id": [ "shelter_unfinished", "shelter_1_unfinished", "shelter_1b_unfinished", "shelter_2_unfinished" ],
+    "fg": "shelter_unfinished"
+  },
+  {
+    "id": [ "shelter_roof", "shelter_roof_1", "shelter_roof_1b", "shelter_roof_2" ],
     "fg": "shelter_roof"
   }
 ]

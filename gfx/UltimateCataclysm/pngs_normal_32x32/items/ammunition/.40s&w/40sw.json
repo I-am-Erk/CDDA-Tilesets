@@ -1,0 +1,46 @@
+[
+
+  {
+    "id": [ "40_casing" ],
+    "bg": [ "" ],
+    "fg": [ "4_casing" ]
+  },
+  {
+    "id": [ "40_casing_transparent" ],
+    "bg": [ "40sw_b" ],
+    "fg": [ "4_casing" ]
+  },
+
+  {
+    "id": [ "40sw" ],
+    "bg": [ "40sw_b" ],
+    "fg": [ "40sw_f_jhp" ]
+  },
+  {
+    "id": [ "reloaded_40sw" ],
+    "bg": [ "40sw_b_r" ],
+    "fg": [ "40sw_f_jhp" ]
+  },
+  {
+    "id": [ "bp_40sw" ],
+    "bg": [ "40sw_b_bp" ],
+    "fg": [ "40sw_f_jhp" ]
+  },
+
+  {
+    "id": [ "40fmj" ],
+    "bg": [ "40sw_b" ],
+    "fg": [ "40sw_f_fmj" ]
+  },
+  {
+    "id": [ "reloaded_40fmj" ],
+    "bg": [ "40sw_b_r" ],
+    "fg": [ "40sw_f_fmj" ]
+  },
+  {
+    "id": [ "bp_40fmj" ],
+    "bg": [ "40sw_b_bp" ],
+    "fg": [ "40sw_f_fmj" ]
+  }
+
+]

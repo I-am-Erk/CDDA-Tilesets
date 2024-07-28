@@ -9,7 +9,15 @@
     "deluxe_rice",
     "deluxe_veggy_rice",
     "can_cheese",
-    "chem_sulphur"
+    "cheese_powder",
+    "chem_sulphur",
+    "cheese_grits",
+    "corn_kernels",
+    "hot_corn_casserole",
+    "pan_roasted_corn",
+    "dry_corn",
+    "mustard_powder",
+    "grits"
   ],
   "fg": "can_corn"
 }

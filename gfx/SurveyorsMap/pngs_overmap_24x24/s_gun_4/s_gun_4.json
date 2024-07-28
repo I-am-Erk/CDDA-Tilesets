@@ -1,19 +1,19 @@
 [
   {
-    "id": [ "s_gun_4" ],
-    "fg": [ "s_gun_4_N", "s_gun_4_E", "s_gun_4_S", "s_gun_4_W" ],
-    "bg": [  ],
+    "id": [ "s_gun_4", "s_gun_4_looted" ],
+    "fg": [ "s_gun_4_N", "s_gun_4_W", "s_gun_4_S", "s_gun_4_E" ],
+    "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "s_gun_2ndfloor_4" ],
-    "fg": [ "s_gun_2ndfloor_4_N", "s_gun_2ndfloor_4_E", "s_gun_2ndfloor_4_S", "s_gun_2ndfloor_4_W" ],
+    "fg": [ "s_gun_2ndfloor_4_N", "s_gun_2ndfloor_4_W", "s_gun_2ndfloor_4_S", "s_gun_2ndfloor_4_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "s_gun_roof_4" ],
-    "fg": [ "s_gun_roof_4_N", "s_gun_roof_4_E", "s_gun_roof_4_S", "s_gun_roof_4_W" ],
+    "fg": [ "s_gun_roof_4_N", "s_gun_roof_4_W", "s_gun_roof_4_S", "s_gun_roof_4_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

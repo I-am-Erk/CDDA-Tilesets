@@ -1,0 +1,25 @@
+{
+  "id": [
+    "10mm", "10mm_fmj", "bp_10mm_fmj", "reloaded_10mm", "reloaded_10mm_fmj",
+    "22_fmj", "22_cb", "22_ratshot", "22_lr", "reloaded_22_cb", "reloaded_22_fmj", "reloaded_22_lr", "reloaded_22_ratshot",
+    "32_acp", "reloaded_32_acp",
+    "357", "357_P", "reloaded_357", "reloaded_357_P",
+    "357mag_fmj", "bp_357mag_fmj", "bp_357mag_jgp", "357mag_jhp", "reloaded_357mag_jhp", "reloaded_357mag_fmj",
+    "357sig_fmj", "357sig_jhp", "reloaded_357sig_fmj", "reloaded_357sig_jhp",
+    "38_special", "38_fmj", "reloaded_38_special", "reloaded_38_fmj",
+    "38_super", "38super_fmj", "reloaded_38_super", "reloaded_38super_fmj",
+    "380_p", "380_FMJ", "380_JHP", "bp_380_FMJ", "bp_380_JHP", "reloaded_380_p", "reloaded_380_fmj", "reloaded_380_jhp",
+    "40sw", "40fmj", "reloaded_40sw", "reloaded_40fmj",
+    "44magnum", "44fmj", "reloaded_44magnum", "reloaded_44fmj",
+    "45_acp", "45_jhp", "45_super", "reloaded_45_acp", "reloaded_45_jhp", "reloaded_45_super",
+    "45colt_jhp", "bp_45colt_jhp", "reloaded_45colt_jhp",
+    "45_long_colt", "reloaded_45_long_colt",
+    "454_Casull", "reloaded_454_Casull",
+    "500_Magnum", "reloaded_500_Magnum",
+    "762_25", "762_25hot", "762_25typeP", "reloaded_762_25",
+    "9mm", "9mmP", "9mmP2", "9mmfmj", "reloaded_9mm", "reloaded_9mmP", "reloaded_9mmP2", "reloaded_9mmfmj",
+    "9x18mm", "9x18mmfmj", "9x18mmP2", "reloaded_9x18mm", "reloaded_9x18mmfmj", "reloaded_9x18mmP2"
+  ],
+  "fg": "handgun_round"
+}
+

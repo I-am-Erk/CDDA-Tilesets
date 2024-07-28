@@ -1,0 +1,32 @@
+{
+  "id": "t_window_bars_alarm",
+  "fg": "t_window_bars_alarm_0",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_window_bars_alarm_1"
+    },
+    {
+      "id": "corner",
+      "fg": "t_window_bars_alarm_2"
+    },
+    {
+      "id": "edge",
+      "fg": "t_window_bars_alarm_3"
+    },
+    {
+      "id": "end_piece",
+      "fg": "t_window_bars_alarm_4"
+    },
+    {
+      "id": "t_connection",
+      "fg": "t_window_bars_alarm_5"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_window_bars_alarm_0"
+    }
+  ]
+}

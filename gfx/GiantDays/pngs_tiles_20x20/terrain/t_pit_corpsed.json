@@ -1,0 +1,39 @@
+{
+  "id": "t_pit_corpsed",
+  "fg": "t_pit_corpsed_0",
+  "bg": "t_pit_corpsed_bg",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_pit_corpsed_1",
+      "bg": "t_pit_corpsed_bg"
+    },
+    {
+      "id": "corner",
+      "fg": "t_pit_corpsed_2",
+      "bg": "t_pit_corpsed_bg"
+    },
+    {
+      "id": "edge",
+      "fg": "t_pit_corpsed_3",
+      "bg": "t_pit_corpsed_bg"
+    },
+    {
+      "id": "end_piece",
+      "fg": "t_pit_corpsed_4",
+      "bg": "t_pit_corpsed_bg"
+    },
+    {
+      "id": "t_connection",
+      "fg": "t_pit_corpsed_5",
+      "bg": "t_pit_corpsed_bg"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_pit_corpsed_0",
+      "bg": "t_pit_corpsed_bg"
+    }
+  ]
+}

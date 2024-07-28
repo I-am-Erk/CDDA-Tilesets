@@ -1,0 +1,37 @@
+{
+  "id": [
+    "t_railing",
+    "t_railing_h",
+    "t_railing_v",
+    "t_guardrail_bg_dp"
+  ],
+  "fg": "t_railing_0",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_railing_0"
+    },
+    {
+      "id": "corner",
+      "fg": "t_railing_1"
+    },
+    {
+      "id": "edge",
+      "fg": "t_railing_2"
+    },
+    {
+      "id": "end_piece",
+      "fg": "t_railing_3"
+    },
+    {
+      "id": "t_connection",
+      "fg": "t_railing_4"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_railing_5"
+    }
+  ]
+}

@@ -6,7 +6,7 @@
       "garage_gas_1", "garage_gas_2", "garage_gas_3",
       "garage_gas_roof_1", "garage_gas_roof_2", "garage_gas_roof_3"
     ],
-    "fg": [ "gas_small_faceN", "gas_small_faceE", "gas_small_faceS", "gas_small_faceW" ], 
+    "fg": [ "gas_small_faceN", "gas_small_faceW", "gas_small_faceS", "gas_small_faceE" ], 
     "bg": "field"
   }
 ]

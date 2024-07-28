@@ -1,0 +1,29 @@
+[
+
+  {
+    "id": [ "410shot_hull" ],
+    "bg": [ "" ],
+    "fg": [ "shot_hull" ]
+  },
+  {
+    "id": [ "410shot_hull_transparent" ],
+    "bg": [ "410shot_b" ],
+    "fg": [ "shot_hull" ]
+  },
+
+  {
+    "id": [ "410shot_000" ],
+    "bg": [ "410shot_b" ],
+    "fg": [ "410shot_f_000" ]
+  },
+  {
+    "id": [ "reloaded_410shot_000" ],
+    "bg": [ "410shot_b_r" ],
+    "fg": [ "410shot_f_000" ]
+  },
+  {
+    "id": [ "bp_410shot_000" ],
+    "bg": [ "410shot_b_bp" ],
+    "fg": [ "410shot_f_000" ]
+  }
+]

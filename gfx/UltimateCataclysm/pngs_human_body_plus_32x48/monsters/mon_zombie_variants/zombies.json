@@ -22,7 +22,16 @@
   },
   {
     "id": "mon_zombie_scientist",
-    "fg": [ { "weight": 1, "sprite": "mon_zombie_scientist_f" }, { "weight": 1, "sprite": "mon_zombie_scientist_m" } ],
+    "fg": [
+      { "weight": 100, "sprite": "mon_zombie_scientist_f" },
+      { "weight": 100, "sprite": "mon_zombie_scientist_m" },
+      { "weight": 75, "sprite": "mon_zombie_scientist_crippled" }
+    ],
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_zombie_medical",
+    "fg": [ { "weight": 100, "sprite": "mon_zombie_medical" }, { "weight": 80, "sprite": "mon_zombie_medical_mask_hanging" } ],
     "bg": "shadow_32x48_normal"
   },
   {
@@ -60,12 +69,12 @@
       "corpse_mon_zombie_corrosive",
       "corpse_mon_zombie_screecher",
       "corpse_mon_zombie_runner",
-      "corpse_mon_zombie_child",
       "corpse_mon_zombie_electric",
       "corpse_mon_zombie_fungus",
       "corpse_mon_zombie_child_fungus",
       "corpse_mon_zombie_swimmer",
       "corpse_mon_zombie_mancroc",
+      "corpse_mon_zombie_medical",
       "corpse_mon_zombie_skull",
       "corpse_mon_zombie_survivor",
       "corpse_mon_zombie_soldier_acid_1",

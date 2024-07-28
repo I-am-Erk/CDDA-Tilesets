@@ -1,2 +1,0 @@
-chamons
-https://github.com/crawl/tiles/blob/master/releases/Nov-2015/item/weapon/artefact/urand_skullcrusher.png

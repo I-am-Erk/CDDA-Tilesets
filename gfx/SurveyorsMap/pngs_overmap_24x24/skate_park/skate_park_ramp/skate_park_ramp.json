@@ -1,0 +1,15 @@
+[
+    {
+      "id": [ "skate_park_up" ],
+      "fg": [ "skate_park_up_N", "skate_park_up_W", "skate_park_up_S", "skate_park_up_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "skate_park_down" ],
+      "fg": [ "skate_park_down_N", "skate_park_down_W", "skate_park_down_S", "skate_park_down_E" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    }
+  ]
+  

@@ -1,6 +1,6 @@
 [
-    { "id": ["dahlia_root_season_spring", "salsify_raw_season_spring", "hickory_root_season_spring", "horseradish_root_season_spring", "wild_sarsaparilla_root_season_spring"], "fg": "dahlia_root_season_spring", "bg": [], "rotates": false },
-	{ "id": ["dahlia_root_season_autumn", "salsify_raw_season_autumn", "hickory_root_season_autumn", "horseradish_root_season_autumn", "wild_sarsaparilla_root_season_autumn"], "fg": "dahlia_root_season_autumn", "bg": [], "rotates": false },
-	{ "id": ["dahlia_root_season_winter", "salsify_raw_season_winter", "hickory_root_season_winter", "horseradish_root_season_winter", "wild_sarsaparilla_root_season_winter"], "fg": "dahlia_root_season_winter", "bg": [], "rotates": false },
-	{ "id": ["dahlia_root_season_summer", "salsify_raw_season_summer", "hickory_root_season_summer", "horseradish_root_season_summer", "wild_sarsaparilla_root_season_summer"], "fg": "dahlia_root_season_summer", "bg": [], "rotates": false }
+    { "id": ["dahlia_root_season_spring", "salsify_raw_season_spring", "horseradish_root_season_spring", "wild_sarsaparilla_root_season_spring"], "fg": "dahlia_root_season_spring", "bg": [], "rotates": false },
+	{ "id": ["dahlia_root_season_autumn", "salsify_raw_season_autumn", "horseradish_root_season_autumn", "wild_sarsaparilla_root_season_autumn"], "fg": "dahlia_root_season_autumn", "bg": [], "rotates": false },
+	{ "id": ["dahlia_root_season_winter", "salsify_raw_season_winter", "horseradish_root_season_winter", "wild_sarsaparilla_root_season_winter"], "fg": "dahlia_root_season_winter", "bg": [], "rotates": false },
+	{ "id": ["dahlia_root_season_summer", "salsify_raw_season_summer", "horseradish_root_season_summer", "wild_sarsaparilla_root_season_summer"], "fg": "dahlia_root_season_summer", "bg": [], "rotates": false }
 ]

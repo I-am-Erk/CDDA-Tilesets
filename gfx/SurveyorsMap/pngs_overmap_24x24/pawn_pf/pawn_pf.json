@@ -1,19 +1,19 @@
 [
   {
     "id": [ "pawn_pf" ],
-    "fg": [ "pawn_pf_N", "pawn_pf_E", "pawn_pf_S", "pawn_pf_W" ],
+    "fg": [ "pawn_pf_N", "pawn_pf_W", "pawn_pf_S", "pawn_pf_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "pawn_pf_roof" ],
-    "fg": [ "pawn_pf_roof_N", "pawn_pf_roof_E", "pawn_pf_roof_S", "pawn_pf_roof_W" ],
+    "fg": [ "pawn_pf_roof_N", "pawn_pf_roof_W", "pawn_pf_roof_S", "pawn_pf_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "pawn_pf_under" ],
-    "fg": [ "pawn_pf_under_N", "pawn_pf_under_E", "pawn_pf_under_S", "pawn_pf_under_W" ],
+    "fg": [ "pawn_pf_under_N", "pawn_pf_under_W", "pawn_pf_under_S", "pawn_pf_under_E" ],
     "bg": [ "solid_earth" ],
     "rotates": true
   }

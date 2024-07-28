@@ -1,0 +1,32 @@
+{
+  "id": "t_wall_wattle_half",
+  "fg": "t_wall_wattle_half_0",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_wall_wattle_half_1"
+    },
+    {
+      "id": "corner",
+      "fg": "t_wall_wattle_half_2"
+    },
+    {
+      "id": "edge",
+      "fg": "t_wall_wattle_half_3"
+    },
+    {
+      "id": "end_piece",
+      "fg": "t_wall_wattle_half_4"
+    },
+    {
+      "id": "t_connection",
+      "fg": "t_wall_wattle_half_5"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_wall_wattle_half_0"
+    }
+  ]
+}

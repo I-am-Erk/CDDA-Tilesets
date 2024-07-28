@@ -12,11 +12,14 @@
     "chem_carbide",
     "chem_rocket_fuel",
     "chem_thermite",
-    "chem_zinc_powder",
     "incendiary",
-    "charcoal",
-    "material_sand",
-    "ash"
+    "ash",
+    "cathod_mix",
+    "cac2powder",
+    "iodine_crystal",
+    "chem_manganese_dioxide",
+    "chem_mercury_fulminate",
+    "silicone"
   ],
   "fg": "pepper"
 }

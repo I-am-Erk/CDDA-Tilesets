@@ -1,0 +1,12 @@
+[
+  {
+    "id": [
+      "overlay_worn_duffelbag",
+      "overlay_worn_dry_duffelbag",
+      "overlay_worn_long_duffelbag",
+      "overlay_worn_survivor_dry_duffelbag"
+    ],
+    "fg": "overlay_worn_duffelbag",
+    "bg": [  ]
+  }
+]

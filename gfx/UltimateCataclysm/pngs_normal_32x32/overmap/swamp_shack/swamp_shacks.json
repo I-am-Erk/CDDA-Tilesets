@@ -5,17 +5,17 @@
 	"rotates": true
 },{
 	"id": "hunter_shack_1",
-	"fg": [ "hunter_shack_1_faceS", "hunter_shack_1_faceE", "hunter_shack_1_faceN", "hunter_shack_1_faceW" ],
+	"fg": [ "hunter_shack_1_faceS", "hunter_shack_1_faceW", "hunter_shack_1_faceN", "hunter_shack_1_faceE" ],
 	"bg": "field",
 	"rotates": true
 },{
 	"id": "hunter_shack_roof",
-	"fg": [ "hunter_shack_faceN", "hunter_shack_faceE", "hunter_shack_faceS", "hunter_shack_faceW" ],
+	"fg": [ "hunter_shack_faceS", "hunter_shack_faceE", "hunter_shack_faceN", "hunter_shack_faceW" ],
 	"bg": "open_air",
 	"rotates": true
 },{
 	"id": "hunter_shack_roof_1",
-	"fg": [ "hunter_shack_1_faceS", "hunter_shack_1_faceE", "hunter_shack_1_faceN", "hunter_shack_1_faceW" ],
+	"fg": [ "hunter_shack_1_faceS", "hunter_shack_1_faceW", "hunter_shack_1_faceN", "hunter_shack_1_faceE" ],
 	"bg": "open_air",
 	"rotates": true
 }]

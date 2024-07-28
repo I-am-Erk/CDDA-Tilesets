@@ -1,0 +1,10 @@
+{
+  "id": [
+    "shot_bird", "shot_00", "shot_slug", "shot_he", "shot_flechette", "reloaded_shot_bird", "reloaded_shot_00", "reloaded_shot_slug", "reloaded_shot_flechette", "reloaded_shot_beanbag", "shot_scrap", "shot_scrapbag", "shot_beanbag",
+    "blun_flechette", "blun_shot", "blun_slug", "blun_lead_shot",
+    "signal_flare",
+    "410_birdshot", "410_scrap", "410_shot", "410_slug", "410shot_000", "reloaded_410_000", "reloaded_410_birdshot", "reloaded_410_shot", "reloaded_410_slug", "shot_410", "shot_410_flechette", "shot_410_flechette_reloaded", "shot_410_hull", "shot_410_inc", "shot_410_inc_reloaded", "shot_410_reloaded", "shot_410_slug", "shot_410_slug_reloaded",
+    "generic_no_ammo"
+    ],
+  "fg": "shotgun_shot"
+}

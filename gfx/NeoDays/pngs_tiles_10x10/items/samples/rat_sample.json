@@ -1,0 +1,12 @@
+{
+  "id": [
+    "rat_sample",
+    "snail_sample",
+    "mouse_sample",
+    "ursine_sample",
+    "lupine_sample",
+    "cattle_sample",
+    "insect_sample"
+  ],
+  "fg": "rat_sample"
+}

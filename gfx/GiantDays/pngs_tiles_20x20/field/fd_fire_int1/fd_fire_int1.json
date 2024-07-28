@@ -1,0 +1,8 @@
+{
+  "id": "fd_fire_int1",
+  "animated": true,
+    "fg": [
+      { "weight": 8, "sprite": "fd_fire_int1_1" },
+      { "weight": 8, "sprite": "fd_fire_int1_2" }
+    ]
+}

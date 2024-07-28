@@ -8,9 +8,7 @@
     "casserole",
     "stock_pot",
     "iron_pot",
-    "pot_aluminum",
-    "f_standing_tank"
+    "pot_aluminum"
   ],
-  "fg": "pot_canning",
-  "//": "maybe change to something smaller to help differentiate between these items and the standing tank?"
+  "fg": "pot_canning"
 }

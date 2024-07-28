@@ -1,0 +1,9 @@
+{
+  "id": [
+    "power_armor_basic",
+    "depowered_armor",
+    "power_armor_light",
+    "power_armor_heavy"
+  ],
+  "fg": "power_armor_basic"
+}

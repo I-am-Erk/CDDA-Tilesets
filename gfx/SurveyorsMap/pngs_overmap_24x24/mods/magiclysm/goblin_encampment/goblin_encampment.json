@@ -1,0 +1,133 @@
+[
+    {
+        "id": [ "goblin_1A" ],
+        "fg": [ "goblin_1A_N", "goblin_1A_W", "goblin_1A_S", "goblin_1A_E" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "goblin_1A_roof" ],
+        "fg": [ "goblin_1A_N", "goblin_1A_W", "goblin_1A_S", "goblin_1A_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },{
+        "id": [ "goblin_2A" ],
+        "fg": [ "goblin_2A_N", "goblin_2A_W", "goblin_2A_S", "goblin_2A_E" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "goblin_2A_roof" ],
+        "fg": [ "goblin_2A_roof_N", "goblin_2A_roof_W", "goblin_2A_roof_S", "goblin_2A_roof_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "goblin_3A" ],
+        "fg": [ "goblin_3A_N", "goblin_3A_W", "goblin_3A_S", "goblin_3A_E" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "goblin_3A_roof" ],
+        "fg": [ "goblin_3A_roof_N", "goblin_3A_roof_W", "goblin_3A_roof_S", "goblin_3A_roof_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "goblin_4A" ],
+        "fg": [ "goblin_4A_N", "goblin_4A_W", "goblin_4A_S", "goblin_4A_E" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "goblin_4A_roof" ],
+        "fg": [ "goblin_4A_N", "goblin_4A_W", "goblin_4A_S", "goblin_4A_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "goblin_5A" ],
+        "fg": [ "goblin_5A_N", "goblin_5A_W", "goblin_5A_S", "goblin_5A_E" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "goblin_5A_roof" ],
+        "fg": [ "goblin_5A_N", "goblin_5A_W", "goblin_5A_S", "goblin_5A_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "goblin_1B" ],
+        "fg": [ "goblin_1B_N", "goblin_1B_W", "goblin_1B_S", "goblin_1B_E" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "goblin_1B_roof" ],
+        "fg": [ "goblin_1B_N", "goblin_1B_W", "goblin_1B_S", "goblin_1B_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "goblin_2B", "goblin_3B", "goblin_4B" ],
+        "fg": [ "field" ],
+        "bg": [ "" ],
+        "rotates": true
+      },
+      {
+        "id": [ "goblin_2B_roof", "goblin_3B_roof", "goblin_4B_roof" ],
+        "fg": [ "open_air" ],
+        "bg": [ "" ],
+        "rotates": true
+      },
+      {
+        "id": [ "goblin_5B" ],
+        "fg": [ "goblin_5B_N", "goblin_5B_W", "goblin_5B_S", "goblin_5B_E" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "goblin_5B_roof" ],
+        "fg": [ "goblin_5B_N", "goblin_5B_W", "goblin_5B_S", "goblin_5B_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "goblin_1C" ],
+        "fg": [ "goblin_1C_N", "goblin_1C_W", "goblin_1C_S", "goblin_1C_E" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "goblin_1C_roof" ],
+        "fg": [ "goblin_1C_N", "goblin_1C_W", "goblin_1C_S", "goblin_1C_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "goblin_2C", "goblin_3C", "goblin_4C" ],
+        "fg": [ "goblin_2C_N", "goblin_2C_W", "goblin_2C_S", "goblin_2C_E" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "goblin_2C_roof", "goblin_3C_roof", "goblin_4C_roof" ],
+        "fg": [ "goblin_2C_N", "goblin_2C_W", "goblin_2C_S", "goblin_2C_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "goblin_5C" ],
+        "fg": [ "goblin_5C_N", "goblin_5C_W", "goblin_5C_S", "goblin_5C_E" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "goblin_5C_roof" ],
+        "fg": [ "goblin_5C_N", "goblin_5C_W", "goblin_5C_S", "goblin_5C_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      }
+]

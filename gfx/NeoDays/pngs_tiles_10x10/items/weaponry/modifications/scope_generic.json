@@ -1,0 +1,26 @@
+{
+  "id": [
+    "acog_scope",
+    "bow_scope",
+    "rifle_scope_high_end_mount",
+    "hybrid_sight_4x",
+    "acog_scope_mod",
+    "rifle_scope_mod",
+    "type99_scope",
+    "pistol_scope",
+    "rifle_scope",
+    "riv_scope",
+
+    "bow_sight",
+    "holo_sight",
+    "improve_sights",
+    "offset_sights_mod",
+    "offset_sights",
+    "red_dot_sight",
+    "holo_magnifier",
+    "bow_sight_pin",
+    "tele_sight_pistol",
+    "tele_sight"
+  ],
+  "fg": "scope_generic"
+}

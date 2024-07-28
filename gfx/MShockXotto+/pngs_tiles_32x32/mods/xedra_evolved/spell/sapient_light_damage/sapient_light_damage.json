@@ -1,0 +1,22 @@
+[
+  {
+    "id": [ "explosion_sapient_light_damage" ],
+    "fg": "explosion_sapient_light_damage_edge",
+    "bg": "",
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "corner", "fg": [ "explosion_sapient_light_damage_corner" ], "bg": "" },
+      { "id": "edge", "fg": [ "explosion_sapient_light_damage_edge" ], "bg": "" }
+    ]
+  },
+  {
+    "id": [ "explosion_sapient_light_bash" ],
+    "fg": "explosion_sapient_light_damage_edge",
+    "bg": "",
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "corner", "fg": [ "explosion_sapient_light_damage_corner" ], "bg": "" },
+      { "id": "edge", "fg": [ "explosion_sapient_light_damage_edge" ], "bg": "" }
+    ]
+  }
+]

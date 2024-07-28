@@ -1,0 +1,71 @@
+[
+  {
+    "id": "clear",
+    "fg": "clear_light",
+    "bg": []
+  },
+  {
+    "id": "weather_unknown",
+    "fg": "unknown_weather",
+    "bg": []
+  },
+  {
+    "id": "cloudy",
+    "fg": "cloudy",
+    "bg": [ "clear_light" ]
+  },
+  {
+    "id": "sunny",
+    "fg": "sunny",
+    "bg": [ "clear_light" ]
+  },
+  {
+    "id": "light_drizzle",
+    "fg": "light_drizzle",
+    "bg": [ "clear_dark" ]
+  },
+  {
+    "id": "drizzle",
+    "fg": "drizzle",
+    "bg": [ "clear_dark" ]
+  },
+  {
+    "id": "rain",
+    "fg": "rain",
+    "bg": [ "clear_dark" ]
+  },
+  {
+    "id": "rainstorm",
+    "fg": "rainstorm",
+    "bg": [ "clear_dark" ]
+  },
+  {
+    "id": "thunder",
+    "fg": "thunder",
+    "bg": [ "clear_dark" ]
+  },
+  {
+    "id": "lightning",
+    "fg": "lightning",
+    "bg": [ "clear_dark" ]
+  },
+  {
+    "id": "flurries",
+    "fg": "flurries",
+    "bg": [ "clear_dark" ]
+  },
+  {
+    "id": "snowing",
+    "fg": "snowing",
+    "bg": [ "clear_dark" ]
+  },
+  {
+    "id": "snowstorm",
+    "fg": "snowstorm",
+    "bg": [ "clear_dark" ]
+  },
+  {
+    "id": [ "distant_portal_storm", "early_portal_storm" ],
+    "fg": "distant_portal_storm"
+  }
+]

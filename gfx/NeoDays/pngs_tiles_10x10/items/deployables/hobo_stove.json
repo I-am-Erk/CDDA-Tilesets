@@ -1,6 +1,8 @@
 {
   "id": [
     "hobo_stove",
+    "acetylene_cooker",
+    "biogas_cooker",
     "esbit_stove"
   ],
   "fg": "hobo_stove"

@@ -1,13 +1,13 @@
 [
   {
     "id": [ "recyclecenter" ],
-    "fg": [ "recyclecenter_N", "recyclecenter_E", "recyclecenter_S", "recyclecenter_W" ],
+    "fg": [ "recyclecenter_N", "recyclecenter_W", "recyclecenter_S", "recyclecenter_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "recyclecenter_roof" ],
-    "fg": [ "recyclecenter_roof_N", "recyclecenter_roof_E", "recyclecenter_roof_S", "recyclecenter_roof_W" ],
+    "fg": [ "recyclecenter_roof_N", "recyclecenter_roof_W", "recyclecenter_roof_S", "recyclecenter_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

@@ -1,13 +1,13 @@
 [
   {
     "id": [ "stripclub" ],
-    "fg": [ "stripclub_N", "stripclub_E", "stripclub_S", "stripclub_W" ],
+    "fg": [ "stripclub_N", "stripclub_W", "stripclub_S", "stripclub_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "stripclub_roof" ],
-    "fg": [ "stripclub_roof_N", "stripclub_roof_E", "stripclub_roof_S", "stripclub_roof_W" ],
+    "fg": [ "stripclub_roof_N", "stripclub_roof_W", "stripclub_roof_S", "stripclub_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

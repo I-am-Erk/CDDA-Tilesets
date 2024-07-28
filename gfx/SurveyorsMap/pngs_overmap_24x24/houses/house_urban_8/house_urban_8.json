@@ -1,31 +1,31 @@
 [
   {
     "id": [ "urban_8_1" ],
-    "fg": [ "urban_8_1_N", "urban_8_1_E", "urban_8_1_S", "urban_8_1_W" ],
+    "fg": [ "urban_8_1_N", "urban_8_1_W", "urban_8_1_S", "urban_8_1_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "urban_8_2" ],
-    "fg": [ "urban_8_2_N", "urban_8_2_E", "urban_8_2_S", "urban_8_2_W" ],
+    "fg": [ "urban_8_2_N", "urban_8_2_W", "urban_8_2_S", "urban_8_2_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "urban_8_3" ],
-    "fg": [ "urban_8_3_N", "urban_8_3_E", "urban_8_3_S", "urban_8_3_W" ],
+    "fg": [ "urban_8_3_N", "urban_8_3_W", "urban_8_3_S", "urban_8_3_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "urban_8_4" ],
-    "fg": [ "urban_8_4_N", "urban_8_4_E", "urban_8_4_S", "urban_8_4_W" ],
+    "fg": [ "urban_8_4_N", "urban_8_4_W", "urban_8_4_S", "urban_8_4_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "urban_8_6" ],
-    "fg": [ "urban_8_6_N", "urban_8_6_E", "urban_8_6_S", "urban_8_6_W" ],
+    "fg": [ "urban_8_6_N", "urban_8_6_W", "urban_8_6_S", "urban_8_6_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

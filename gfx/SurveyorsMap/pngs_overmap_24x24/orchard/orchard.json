@@ -13,7 +13,6 @@
     "id": [ 
       "farm_stills_1", 
       "farm_stills_2", 
-      "farm_stills_4", 
       "farm_stills_5", 
       "farm_stills_6", 
       "farm_stills_8", 
@@ -26,15 +25,21 @@
     "rotates": false
   },
   {
-    "id": [ "orchard_stall", "farm_stills_3" ],
+    "id": [ "orchard_stall" ],
     "fg": [ "orchard_1" ],
     "bg": [],
     "rotates": true
   },
   {
-    "id": [ "orchard_processing", "farm_stills_7" ],
+    "id": [ "orchard_processing" ],
     "fg": [ "orchard_2" ],
     "bg": [],
+    "rotates": true
+  },
+  {
+    "id": "orchard_1",
+    "fg": [ "orchard_N", "orchard_E", "orchard_S", "orchard_W" ],
+    "bg": "field",
     "rotates": true
   }
 ]

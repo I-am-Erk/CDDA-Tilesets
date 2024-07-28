@@ -1,7 +1,7 @@
 [
   {
     "id": [ "s_electronicstore" ],
-    "fg": [ "s_electronicstore_N", "s_electronicstore_E", "s_electronicstore_S", "s_electronicstore_W" ],
+    "fg": [ "s_electronicstore_N", "s_electronicstore_W", "s_electronicstore_S", "s_electronicstore_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
@@ -9,16 +9,16 @@
     "id": [ "s_electronicstore_2ndfloor" ],
     "fg": [
       "s_electronicstore_2ndfloor_N",
-      "s_electronicstore_2ndfloor_E",
+      "s_electronicstore_2ndfloor_W",
       "s_electronicstore_2ndfloor_S",
-      "s_electronicstore_2ndfloor_W"
+      "s_electronicstore_2ndfloor_E"
     ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "s_electronicstore_roof" ],
-    "fg": [ "s_electronicstore_roof_N", "s_electronicstore_roof_E", "s_electronicstore_roof_S", "s_electronicstore_roof_W" ],
+    "fg": [ "s_electronicstore_roof_N", "s_electronicstore_roof_W", "s_electronicstore_roof_S", "s_electronicstore_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

@@ -1,0 +1,4 @@
+{
+  "id": ["glockmag", "glock40mag", "glock40bigmag", "lw21mag", "m9bigmag", "m9mag", "usp9mag", "makarovmag", "mosquitomag", "sw22mag", "ppkmag", "sigp230mag", "taurus38mag", "deaglemag", "lw12mag", "m1911bigmag", "m1911mag", "usp45mag", "fn57mag", "sig40mag", "tokarevmag", "glock17_17", "glock17_22", "p226mag_15rd_357sig", "af2011a1mag", "m1991_38smag", "glockbigmag", "bhp9mag_15rd", "bhp9mag_13rd", "bhp40mag", "hptjhpmag", "hptjcpmag", "m1911mag_10rd_38super", "fn1910mag", "p320mag_14rd_357sig", "p320mag_17rd_9x19mm", "p38mag", "j22mag", "cz75mag_12rd", "cz75mag_20rd", "cz75mag_26rd", "wp22mag", "rugerlcpmag", "hptc9mag_8rd", "hptc9mag_10rd", "hptc9mag_15rd", "hptcf380mag_8rd", "hptcf380mag_10rd", "kp32mag", "ppq9mag_15rd", "ppq9mag_10rd", "ppq40mag_12rd", "ppq40mag_10rd", "ppq45mag", "ppq9mag_17rd", "ppq40mag_14rd", "ccpmag", "kpf9mag", "kp3atmag"],
+  "fg": "glockmag"
+}

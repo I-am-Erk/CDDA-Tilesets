@@ -1,11 +1,18 @@
 {
-  "id": "forest_trail",
+  "id": [
+    "forest_trail",
+    "sewer"
+  ],
   "fg": "forest_trail_unconnected",
   "multitile": true,
   "additional_tiles": [
     {
       "id": "center",
       "fg": "forest_trail_center"
+    },
+	{
+      "id": "intersection",
+      "fg": "square_green"
     },
     {
       "id": "corner",

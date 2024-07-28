@@ -1,19 +1,19 @@
 [
   {
     "id": [ "house_15" ],
-    "fg": [ "house_15_N", "house_15_E", "house_15_S", "house_15_W" ],
+    "fg": [ "house_15_N", "house_15_W", "house_15_S", "house_15_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "house_15_roof" ],
-    "fg": [ "house_15_roof_N", "house_15_roof_E", "house_15_roof_S", "house_15_roof_W" ],
+    "fg": [ "house_15_roof_N", "house_15_roof_W", "house_15_roof_S", "house_15_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "house_15_basement" ],
-    "fg": [ "house_15_basement_N", "house_15_basement_E", "house_15_basement_S", "house_15_basement_W" ],
+    "fg": [ "house_15_basement_N", "house_15_basement_W", "house_15_basement_S", "house_15_basement_E" ],
     "bg": [ "solid_earth" ],
     "rotates": true
   }

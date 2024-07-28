@@ -1,0 +1,12 @@
+{
+  "id": [
+    "t_shrub_season_winter",
+    "t_shrub_peanut_season_winter",
+    "t_shrub_peanut_harvested_season_winter",
+    "t_shrub_blueberry_season_winter",
+    "t_shrub_blueberry_harvested_season_winter",
+    "t_shrub_strawberry_season_winter",
+    "t_shrub_strawberry_harvested_season_winter"
+  ],
+  "fg": "t_shrub_season_winter"
+}

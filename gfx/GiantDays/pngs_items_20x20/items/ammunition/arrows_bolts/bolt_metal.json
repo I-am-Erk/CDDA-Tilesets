@@ -1,0 +1,4 @@
+{
+  "id": ["bolt_metal", "bolt_steel", "bolt_steel_target", "bolt_steel_bodkin", "bolt_explosive"],
+  "fg": "bolt_metal"
+}

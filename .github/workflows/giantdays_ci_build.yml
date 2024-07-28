@@ -1,0 +1,22 @@
+name: GiantDays composer
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - 'gfx/GiantDays/**'
+      - '.github/workflows/giantdays_ci_build.yml'
+  pull_request:
+    branches:
+      - master
+    paths:
+      - 'gfx/GiantDays/**'
+      - '.github/workflows/giantdays_ci_build.yml'
+
+jobs:
+  build:
+    uses: ./.github/workflows/composer_template.yml
+    with:
+      tileset: GiantDays
+      composer-args: --use-all

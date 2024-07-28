@@ -1,0 +1,18 @@
+[
+  {
+    "id": "t_grass_golf",
+    "fg": "t_grass_golf"
+  },
+  {
+    "id": "t_grass_golf_season_summer",
+    "fg": "t_grass_golf_season_summer"
+  },
+  {
+    "id": "t_grass_golf_season_autumn",
+    "fg": "t_grass_golf_season_autumn"
+  },
+  {
+    "id": "t_grass_golf_season_winter",
+    "fg": "snow_shallow_center"
+  }
+]

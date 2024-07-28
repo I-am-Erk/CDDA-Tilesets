@@ -1,0 +1,80 @@
+[
+  {
+    "id": [ "lumberyard_0_0", "lumbermill_0_0", "lumbermill_0_0_ocu" ],
+    "fg": [ "lumberyard_0_0_N", "lumberyard_0_0_W", "lumberyard_0_0_S", "lumberyard_0_0_E" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "lumberyard_0_0_roof", "lumbermill_0_0_roof" ],
+    "fg": [ "lumberyard_0_0_roof_N", "lumberyard_0_0_roof_W", "lumberyard_0_0_roof_S", "lumberyard_0_0_roof_E" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "lumberyard_1_0", "lumbermill_1_0", "lumbermill_1_0_ocu" ],
+    "fg": [ "lumberyard_1_0_N", "lumberyard_1_0_W", "lumberyard_1_0_S", "lumberyard_1_0_E" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "lumberyard_1_0_roof", "lumbermill_1_0_roof" ],
+    "fg": [ "lumberyard_1_0_roof_N", "lumberyard_1_0_roof_W", "lumberyard_1_0_roof_S", "lumberyard_1_0_roof_E" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "lumberyard_0_1" ],
+    "fg": [ "lumberyard_0_1_N", "lumberyard_0_1_W", "lumberyard_0_1_S", "lumberyard_0_1_E" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "lumberyard_0_1_roof" ],
+    "fg": [ "lumberyard_0_1_roof_N", "lumberyard_0_1_roof_W", "lumberyard_0_1_roof_S", "lumberyard_0_1_roof_E" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "lumberyard_1_1" ],
+    "fg": [ "lumberyard_1_1_N", "lumberyard_1_1_W", "lumberyard_1_1_S", "lumberyard_1_1_E" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "lumberyard_1_1_roof" ],
+    "fg": [ "" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "lumbermill_0_1", "lumbermill_0_1_ocu" ],
+    "fg": [ "lumbermill_0_1_N", "lumbermill_0_1_W", "lumbermill_0_1_S", "lumbermill_0_1_E" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "lumbermill_0_1_roof" ],
+    "fg": [ "lumbermill_0_1_roof_N", "lumbermill_0_1_roof_W", "lumbermill_0_1_roof_S", "lumbermill_0_1_roof_E" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "lumbermill_1_1", "lumbermill_1_1_ocu" ],
+    "fg": [ "lumbermill_1_1_N", "lumbermill_1_1_W", "lumbermill_1_1_S", "lumbermill_1_1_E" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "lumbermill_1_1_roof" ],
+    "fg": [ "lumbermill_1_1_roof_N", "lumbermill_1_1_roof_W", "lumbermill_1_1_roof_S", "lumbermill_1_1_roof_E" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "lumbermill_dforest" ],
+    "fg": [ "" ],
+    "bg": [ "forest_center" ],
+    "rotates": true
+  }
+]

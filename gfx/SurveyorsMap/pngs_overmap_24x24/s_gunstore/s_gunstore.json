@@ -1,19 +1,19 @@
 [
   {
-    "id": [ "s_gunstore" ],
-    "fg": [ "s_gunstore_N", "s_gunstore_E", "s_gunstore_S", "s_gunstore_W" ],
-    "bg": [  ],
+    "id": [ "s_gunstore", "s_gunstore_looted" ],
+    "fg": [ "s_gunstore_N", "s_gunstore_W", "s_gunstore_S", "s_gunstore_E" ],
+    "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "s_gunstore_2ndfloor" ],
-    "fg": [ "s_gunstore_2ndfloor_N", "s_gunstore_2ndfloor_E", "s_gunstore_2ndfloor_S", "s_gunstore_2ndfloor_W" ],
+    "fg": [ "s_gunstore_2ndfloor_N", "s_gunstore_2ndfloor_W", "s_gunstore_2ndfloor_S", "s_gunstore_2ndfloor_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "s_gunstore_roof" ],
-    "fg": [ "s_gunstore_roof_N", "s_gunstore_roof_E", "s_gunstore_roof_S", "s_gunstore_roof_W" ],
+    "fg": [ "s_gunstore_roof_N", "s_gunstore_roof_W", "s_gunstore_roof_S", "s_gunstore_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

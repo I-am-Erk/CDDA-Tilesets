@@ -1,0 +1,52 @@
+{
+  "id": "f_tatami",
+  "fg": "f_tatami_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_tatami_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_tatami_corner_nw",
+        "f_tatami_corner_sw",
+        "f_tatami_corner_se",
+        "f_tatami_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_tatami_t_connection_n",
+        "f_tatami_t_connection_w",
+        "f_tatami_t_connection_s",
+        "f_tatami_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_tatami_edge_ns",
+        "f_tatami_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_tatami_end_piece_n",
+        "f_tatami_end_piece_w",
+        "f_tatami_end_piece_s",
+        "f_tatami_end_piece_e"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_tatami_unconnected",
+        "f_tatami_unconnected"
+      ]
+    }
+  ]
+}

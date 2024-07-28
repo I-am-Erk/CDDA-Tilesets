@@ -1,0 +1,19 @@
+{
+  "id": "vp_hdhatch_left",
+  "fg": "vp_hddoor_trunk_closed_left",
+  "bg": "background_black",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_door_trunk_broken",
+      "//": "temporary"
+    },
+    {
+      "id": "open",
+      "fg": "vp_hddoor_trunk_open_left",
+      "bg": "background_black"
+    }
+  ]
+}

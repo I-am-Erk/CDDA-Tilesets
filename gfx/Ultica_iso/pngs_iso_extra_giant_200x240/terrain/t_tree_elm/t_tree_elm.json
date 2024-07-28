@@ -15,5 +15,23 @@
     "id": "t_tree_elm_season_winter",
     "fg": "t_tree_elm_winter",
     "bg": "snow_shallow_extra_giant"
+  },
+  
+  {
+    "id": "t_tree_elm_transparent_season_spring",
+    "fg": "t_tree_elm_spring_transparent",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_elm_transparent_season_summer",
+    "fg": "t_tree_elm_summer_transparent",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_elm_transparent_season_autumn",
+    "fg": "t_tree_elm_autumn_transparent",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_elm_transparent_season_winter",
+    "fg": "t_tree_elm_winter_transparent",
+    "bg": "snow_shallow_extra_giant"
   }
 ]

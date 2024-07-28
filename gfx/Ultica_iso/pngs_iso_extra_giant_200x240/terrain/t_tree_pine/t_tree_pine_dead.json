@@ -1,0 +1,73 @@
+[ 
+  {
+    "id": "t_tree_deadpine_season_spring",
+    "fg": "t_tree_pine_dead_spring",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_deadpine_season_summer",
+    "fg": "t_tree_pine_dead_summer",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_deadpine_season_autumn",
+    "fg": "t_tree_pine_dead_autumn",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_deadpine_season_winter",
+    "fg": "t_tree_pine_dead_winter",
+    "bg": "snow_shallow_extra_giant"
+  },
+
+  {
+    "id": "t_tree_deadpine_transparent_season_spring",
+    "fg": "t_tree_pine_dead_spring_transparent",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_deadpine_transparent_season_summer",
+    "fg": "t_tree_pine_dead_summer_transparent",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_deadpine_transparent_season_autumn",
+    "fg": "t_tree_pine_dead_autumn_transparent",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_deadpine_transparent_season_winter",
+    "fg": "t_tree_pine_dead_winter_transparent",
+    "bg": "snow_shallow_extra_giant"
+  },
+  
+  {
+    "id": "t_tree_deadpine_warped_season_spring",
+    "fg": "t_tree_pine_dead_warped_spring",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_deadpine_warped_season_summer",
+    "fg": "t_tree_pine_dead_warped_summer",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_deadpine_warped_season_autumn",
+    "fg": "t_tree_pine_dead_warped_autumn",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_deadpine_warped_season_winter",
+    "fg": "t_tree_pine_dead_warped_winter",
+    "bg": "snow_shallow_extra_giant"
+  },
+
+  {
+    "id": "t_tree_deadpine_warped_transparent_season_spring",
+    "fg": "t_tree_pine_dead_warped_spring_transparent",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_deadpine_warped_transparent_season_summer",
+    "fg": "t_tree_pine_dead_warped_summer_transparent",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_deadpine_warped_transparent_season_autumn",
+    "fg": "t_tree_pine_dead_warped_autumn_transparent",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_deadpine_warped_transparent_season_winter",
+    "fg": "t_tree_pine_dead_warped_winter_transparent",
+    "bg": "snow_shallow_extra_giant"
+  }
+]

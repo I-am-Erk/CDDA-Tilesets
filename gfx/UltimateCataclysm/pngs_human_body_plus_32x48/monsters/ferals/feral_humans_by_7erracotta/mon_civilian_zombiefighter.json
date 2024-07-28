@@ -1,0 +1,9 @@
+{
+  "id": "mon_civilian_zombiefighter",
+  "fg": [
+    { "weight": 1, "sprite": "mon_civilian_zombiefighter_1" },
+    { "weight": 1, "sprite": "mon_civilian_zombiefighter_2" },
+    { "weight": 1, "sprite": "mon_civilian_zombiefighter_3" }
+  ],
+  "bg": "shadow_32x48_normal"
+}

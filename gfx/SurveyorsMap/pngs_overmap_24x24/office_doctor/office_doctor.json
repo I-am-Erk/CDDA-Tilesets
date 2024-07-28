@@ -1,13 +1,13 @@
 [
   {
     "id": [ "office_doctor" ],
-    "fg": [ "office_doctor_N", "office_doctor_E", "office_doctor_S", "office_doctor_W" ],
+    "fg": [ "office_doctor_N", "office_doctor_W", "office_doctor_S", "office_doctor_E" ],
     "bg": [  ],
     "rotates": true
   },
   {
     "id": [ "office_doctor_roof" ],
-    "fg": [ "office_doctor_roof_N", "office_doctor_roof_E", "office_doctor_roof_S", "office_doctor_roof_W" ],
+    "fg": [ "office_doctor_roof_N", "office_doctor_roof_W", "office_doctor_roof_S", "office_doctor_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

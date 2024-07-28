@@ -1,0 +1,86 @@
+{
+  "id": "graffiti",
+  "//": "most text only graffiti are registered as just 'graffiti'. change here if it gets fixed",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "graffiti_TEXT_0"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_TEXT_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_TEXT_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_TEXT_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_TEXT_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_TEXT_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_ART_0"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_ART_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_ART_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_ART_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_ART_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_ART_5"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_ART_6"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_ART_7"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_ART_8"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_A"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_Z"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_AT_SIGN"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_SKULL"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_ZOMBIE"
+    }
+  ]
+}

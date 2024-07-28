@@ -1,13 +1,13 @@
 [
   {
     "id": [ "roadstop_a" ],
-    "fg": [ "roadstop_a_N", "roadstop_a_E", "roadstop_a_S", "roadstop_a_W" ],
+    "fg": [ "roadstop_a_N", "roadstop_a_W", "roadstop_a_S", "roadstop_a_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "roadstop_a_roof" ],
-    "fg": [ "roadstop_a_roof_N", "roadstop_a_roof_E", "roadstop_a_roof_S", "roadstop_a_roof_W" ],
+    "fg": [ "roadstop_a_roof_N", "roadstop_a_roof_W", "roadstop_a_roof_S", "roadstop_a_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

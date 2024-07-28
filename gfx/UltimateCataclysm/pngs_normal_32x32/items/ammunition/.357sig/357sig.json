@@ -1,0 +1,45 @@
+[
+
+  {
+    "id": [ "357sig_casing" ],
+    "bg": [ "" ],
+    "fg": [ "4_casing" ]
+  },
+  {
+    "id": [ "357sig_casing_transparent" ],
+    "bg": [ "357sig_b" ],
+    "fg": [ "4_casing" ]
+  },
+
+  {
+    "id": [ "357sig_jhp" ],
+    "bg": [ "357sig_b" ],
+    "fg": [ "357sig_f_jhp" ]
+  },
+  {
+    "id": [ "reloaded_357sig_jhp" ],
+    "bg": [ "357sig_b_r" ],
+    "fg": [ "357sig_f_jhp" ]
+  },
+  {
+    "id": [ "bp_357sig_jhp" ],
+    "bg": [ "357sig_b_bp" ],
+    "fg": [ "357sig_f_jhp" ]
+  },
+  
+  {
+    "id": [ "357sig_fmj" ],
+    "bg": [ "357sig_b" ],
+    "fg": [ "357sig_f_fmj" ]
+  },
+  {
+    "id": [ "reloaded_357sig_fmj" ],
+    "bg": [ "357sig_b_r" ],
+    "fg": [ "357sig_f_fmj" ]
+  },
+  {
+    "id": [ "bp_357sig_fmj" ],
+    "bg": [ "357sig_b_bp" ],
+    "fg": [ "357sig_f_fmj" ]
+  }  
+]

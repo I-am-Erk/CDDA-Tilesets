@@ -1,5 +1,4 @@
 {
-  "id": [ "overlay_wielded_m16_auto_rifle_var_acr", "overlay_wielded_acr_300blk" ],
-  "fg": "overlay_wielded_m16_auto_rifle_var_acr",
-  "bg": ""
+  "id": [ "overlay_wielded_modular_m16_auto_rifle_var_modular_acr", "overlay_wielded_acr_300blk" ],
+  "fg": "overlay_wielded_m16_auto_rifle_var_acr"
 }

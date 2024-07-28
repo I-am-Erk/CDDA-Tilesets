@@ -1,0 +1,20 @@
+{
+  "id": [
+    "vp_hdboard_vertical",
+    "vp_hdboard_vertical_left",
+    "vp_hdboard_vertical_right",
+    "vp_hdhalfboard_vertical",
+    "vp_hdhalfboard_vertical_left",
+    "vp_hdhalfboard_vertical_right"
+  ],
+  "fg": "vp_hdboard_vertical",
+  "bg": "background_black",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_green"
+    }
+  ]
+}

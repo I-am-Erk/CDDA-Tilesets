@@ -1,0 +1,15 @@
+[
+    {
+      "id": [ "bungalow04" ],
+      "fg": [ "bungalow04_N", "bungalow04_W", "bungalow04_S", "bungalow04_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "bungalow04_roof" ],
+      "fg": [ "bungalow04_roof_N", "bungalow04_roof_W", "bungalow04_roof_S", "bungalow04_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    }
+  ]
+  

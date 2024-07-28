@@ -1,0 +1,2 @@
+The sprites in this folder (unless specified otherwise) are modified from Ultica's
+ammunitions sprites at https://github.com/I-am-Erk/CDDA-Tilesets/tree/master/gfx/UltimateCataclysm/pngs_normal_32x32/items/ammunition

@@ -1,0 +1,9 @@
+{
+  "id": [
+    "mon_ant_larva",
+    "mon_bee_larvae",
+    "mon_wasp_larvae",
+    "mon_maggot"
+  ],
+  "fg": "mon_ant_larva"
+}

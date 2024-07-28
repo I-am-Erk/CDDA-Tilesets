@@ -1,0 +1,13 @@
+{
+  "id": "vp_omnicam",
+  "fg": "vp_omnicamera",
+  "bg": "background_black",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_red"
+    }
+  ]
+}

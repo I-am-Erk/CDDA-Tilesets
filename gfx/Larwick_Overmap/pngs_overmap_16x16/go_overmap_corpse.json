@@ -1,0 +1,82 @@
+[
+  {
+    "id": [
+      "corpse_surface"
+    ],
+    "fg": "skull_light_red"
+  },
+  {
+    "id": [
+      "corpse_tentacle_surface_entry",
+      "corpse_tentacle_entry"
+    ],
+    "fg": "skull_blue"
+  },
+  {
+    "id": "corpse_tentacle",
+    "fg": "skull_light_blue",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "corner",
+        "fg": [
+          "tentacle_corner_nw",
+          "tentacle_corner_sw",
+          "tentacle_corner_se",
+          "tentacle_corner_ne"
+        ]
+      },
+      {
+        "id": "edge",
+        "fg": [
+          "tentacle_edge_ns",
+          "tentacle_edge_ew"
+        ]
+      },
+      {
+        "id": "end_piece",
+        "fg": [
+          "tentacle_end_piece_n",
+          "tentacle_end_piece_w",
+          "tentacle_end_piece_s",
+          "tentacle_end_piece_e"
+        ]
+      }
+    ]
+  },
+  {
+    "id": [
+      "corpse_bowels_mid",
+      "corpse_bowels_empty_edge",
+      "corpse_bowels_lcorner",
+      "corpse_bowels_rcorner",
+      "corpse_bowels_neck_left",
+      "corpse_bowels_neck_right",
+      "corpse_bowels_neck_edge_center"
+    ],
+    "fg": "pond_light_red"
+  },
+  {
+    "id": [
+      "corpse_bowels_tentacle_edge"
+    ],
+    "fg": "pond_red"
+  },
+  {
+    "id": [
+      "corpse_neck",
+      "corpse_neck_center",
+      "corpse_head_neck_center",
+      "corpse_head_neck_l",
+      "corpse_head_neck_r",
+      "corpse_head",
+      "corpse_head_lcorner",
+      "corpse_head_rcorner",
+      "corpse_head_edge",
+      "corpse_under_brain",
+      "corpse_brain",
+      "corpse_head_fin"
+    ],
+    "fg": "skull_red"
+  }
+]

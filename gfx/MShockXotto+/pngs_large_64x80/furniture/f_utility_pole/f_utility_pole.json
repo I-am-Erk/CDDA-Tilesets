@@ -1,0 +1,9 @@
+{
+  "id": "f_utility_pole",
+  "fg": [
+    { "weight": 30, "sprite": "f_utility_pole_0" }, 
+    { "weight": 10, "sprite": "f_utility_pole_1" },
+	{ "weight": 10, "sprite": "f_utility_pole_2" }
+  ],
+  "bg": ""
+}

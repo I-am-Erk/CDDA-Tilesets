@@ -1,0 +1,117 @@
+[
+  {
+    "id": [ "apartments_con_tower_000", "apartments_mod_tower_000" ],
+    "fg": [
+      "apartments_con_tower_4x4_bot_right",
+      "apartments_con_tower_4x4_top_right",
+      "apartments_con_tower_4x4_top_left",
+      "apartments_con_tower_4x4_bot_left"
+    ],
+    "bg": "field_tall",
+    "rotates": true
+  },
+  {
+    "id": [ "apartments_con_tower_100", "apartments_mod_tower_100" ],
+    "fg": [
+      "apartments_con_tower_4x4_bot_left",
+      "apartments_con_tower_4x4_bot_right",
+      "apartments_con_tower_4x4_top_right",
+      "apartments_con_tower_4x4_top_left"
+    ],
+    "bg": "field_tall",
+    "rotates": true
+  },
+  {
+    "id": [ "apartments_con_tower_010", "apartments_mod_tower_010" ],
+    "fg": [
+      "apartments_con_tower_4x4_top_right",
+      "apartments_con_tower_4x4_top_left",
+      "apartments_con_tower_4x4_bot_left",
+      "apartments_con_tower_4x4_bot_right"
+    ],
+    "bg": "field_tall",
+    "rotates": true
+  },
+  {
+    "id": [ "apartments_con_tower_110", "apartments_mod_tower_110" ],
+    "fg": [
+      "apartments_con_tower_4x4_top_left",
+      "apartments_con_tower_4x4_bot_left",
+      "apartments_con_tower_4x4_bot_right",
+      "apartments_con_tower_4x4_top_right"
+    ],
+    "bg": "field_tall",
+    "rotates": true
+  },
+  {
+    "id": [
+      "apartments_con_tower_002",
+      "apartments_con_tower_004",
+      "apartments_mod_tower_001",
+      "apartments_mod_tower_003"
+    ],
+    "fg": [
+      "apartments_con_tower_4x4_bot_right",
+      "apartments_con_tower_4x4_top_right",
+      "apartments_con_tower_4x4_top_left",
+      "apartments_con_tower_4x4_bot_left"
+    ],
+    "bg": "open_air_tall",
+    "rotates": true
+  },
+  {
+    "id": [
+      "apartments_con_tower_102",
+      "apartments_con_tower_104",
+      "apartments_mod_tower_101",
+      "apartments_mod_tower_103"
+    ],
+    "fg": [
+      "apartments_con_tower_4x4_bot_left",
+      "apartments_con_tower_4x4_bot_right",
+      "apartments_con_tower_4x4_top_right",
+      "apartments_con_tower_4x4_top_left"
+    ],
+    "bg": "open_air_tall",
+    "rotates": true
+  },
+  {
+    "id": [
+      "apartments_con_tower_011",
+      "apartments_con_tower_012",
+      "apartments_con_tower_013",
+      "apartments_con_tower_014",
+      "apartments_con_tower_015",
+      "apartments_mod_tower_011",
+      "apartments_mod_tower_012",
+      "apartments_mod_tower_013"
+    ],
+    "fg": [
+      "apartments_con_tower_4x4_top_right",
+      "apartments_con_tower_4x4_top_left",
+      "apartments_con_tower_4x4_bot_left",
+      "apartments_con_tower_4x4_bot_right"
+    ],
+    "bg": "open_air_tall",
+    "rotates": true
+  },
+  {
+    "id": [
+      "apartments_con_tower_111",
+      "apartments_con_tower_112",
+      "apartments_con_tower_113",
+      "apartments_con_tower_114",
+      "apartments_mod_tower_111",
+      "apartments_mod_tower_112",
+      "apartments_mod_tower_113"
+    ],
+    "fg": [
+      "apartments_con_tower_4x4_top_left",
+      "apartments_con_tower_4x4_bot_left",
+      "apartments_con_tower_4x4_bot_right",
+      "apartments_con_tower_4x4_top_right"
+    ],
+    "bg": "open_air_tall",
+    "rotates": true
+  }
+]

@@ -1,0 +1,51 @@
+[
+    {
+      "id": [ "attunement_altar_NW" ],
+      "fg": [ "attunement_altar_NW_N", "attunement_altar_NW_W", "attunement_altar_NW_S", "attunement_altar_NW_E" ],
+      "bg": [ "forest_corner_nw" ],
+      "rotates": true
+    },
+    {
+      "id": [ "attunement_altar_NE" ],
+      "fg": [ "attunement_altar_NE_N", "attunement_altar_NE_W", "attunement_altar_NE_S", "attunement_altar_NE_E" ],
+      "bg": [ "forest_corner_ne" ],
+      "rotates": true
+    },
+    {
+      "id": [ "attunement_altar_SW" ],
+      "fg": [ "attunement_altar_SW_N", "attunement_altar_SW_W", "attunement_altar_SW_S", "attunement_altar_SW_E" ],
+      "bg": [ "forest_corner_sw" ],
+      "rotates": true
+    },
+    {
+      "id": [ "attunement_altar_SE" ],
+      "fg": [ "attunement_altar_SE_N", "attunement_altar_SE_W", "attunement_altar_SE_S", "attunement_altar_SE_E" ],
+      "bg": [ "forest_corner_se" ],
+      "rotates": true
+    },
+    {
+      "id": [ "attunement_altar_NW_roof" ],
+      "fg": [ "attunement_altar_NW_roof_N", "attunement_altar_NW_roof_W", "attunement_altar_NW_roof_S", "attunement_altar_NW_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "attunement_altar_NE_roof" ],
+      "fg": [ "attunement_altar_NE_roof_N", "attunement_altar_NE_roof_W", "attunement_altar_NE_roof_S", "attunement_altar_NE_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "attunement_altar_SW_roof" ],
+      "fg": [ "attunement_altar_SW_roof_N", "attunement_altar_SW_roof_W", "attunement_altar_SW_roof_S", "attunement_altar_SW_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "attunement_altar_SE_roof" ],
+      "fg": [ "attunement_altar_SE_roof_N", "attunement_altar_SE_roof_W", "attunement_altar_SE_roof_S", "attunement_altar_SE_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    }
+  ]
+  

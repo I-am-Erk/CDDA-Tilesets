@@ -1,0 +1,17 @@
+{
+  "id": [
+    "sandwich_pbh",
+    "sandwich_pbh_wheat_free",
+    "sandwich_cheese_grilled",
+    "sandwich_cheese_grilled_wheat_free",
+    "sandwich_cheese",
+    "sandwich_cheese_wheat_free",
+    "sandwich_honey",
+    "sandwich_honey_wheat_free",
+    "sandwich_pbm",
+    "sandwich_pbm_wheat_free",
+    "fish_sandwich",
+    "fish_sandwich_wheat_free"
+  ],
+  "fg": "sandwich_cheese"
+}

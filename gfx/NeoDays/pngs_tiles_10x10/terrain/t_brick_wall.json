@@ -1,0 +1,32 @@
+{
+  "id": "t_brick_wall",
+  "fg": "t_brick_wall_0",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_brick_wall_1"
+    },
+    {
+      "id": "corner",
+      "fg": "t_brick_wall_2"
+    },
+    {
+      "id": "edge",
+      "fg": "t_brick_wall_3"
+    },
+    {
+      "id": "end_piece",
+      "fg": "t_brick_wall_4"
+    },
+    {
+      "id": "t_connection",
+      "fg": "t_brick_wall_5"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_brick_wall_0"
+    }
+  ]
+}

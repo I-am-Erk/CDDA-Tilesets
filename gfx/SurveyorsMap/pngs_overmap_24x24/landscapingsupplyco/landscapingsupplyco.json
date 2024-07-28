@@ -1,13 +1,13 @@
 [
   {
     "id": [ "landscapingsupplyco_1a" ],
-    "fg": [ "landscapingsupplyco_1a_N", "landscapingsupplyco_1a_E", "landscapingsupplyco_1a_S", "landscapingsupplyco_1a_W" ],
+    "fg": [ "landscapingsupplyco_1a_N", "landscapingsupplyco_1a_W", "landscapingsupplyco_1a_S", "landscapingsupplyco_1a_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "landscapingsupplyco_1b" ],
-    "fg": [ "landscapingsupplyco_1b_N", "landscapingsupplyco_1b_E", "landscapingsupplyco_1b_S", "landscapingsupplyco_1b_W" ],
+    "fg": [ "landscapingsupplyco_1b_N", "landscapingsupplyco_1b_W", "landscapingsupplyco_1b_S", "landscapingsupplyco_1b_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
@@ -15,9 +15,9 @@
     "id": [ "landscapingsupplyco_1b_roof" ],
     "fg": [
       "landscapingsupplyco_1b_roof_N",
-      "landscapingsupplyco_1b_roof_E",
+      "landscapingsupplyco_1b_roof_W",
       "landscapingsupplyco_1b_roof_S",
-      "landscapingsupplyco_1b_roof_W"
+      "landscapingsupplyco_1b_roof_E"
     ],
     "bg": [ "open_air" ],
     "rotates": true

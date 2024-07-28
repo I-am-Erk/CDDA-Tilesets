@@ -1,0 +1,29 @@
+[
+
+  {
+    "id": [ "45colt_casing" ],
+    "bg": [ "" ],
+    "fg": [ "4_casing" ]
+  },
+  {
+    "id": [ "45colt_casing_transparent" ],
+    "bg": [ "45colt_b" ],
+    "fg": [ "4_casing" ]
+  },
+
+  {
+    "id": [ "45colt_jhp" ],
+    "bg": [ "45colt_b" ],
+    "fg": [ "45colt_f_jhp" ]
+  },
+  {
+    "id": [ "reloaded_45colt_jhp" ],
+    "bg": [ "45colt_b_r" ],
+    "fg": [ "45colt_f_jhp" ]
+  },
+  {
+    "id": [ "bp_45colt_jhp" ],
+    "bg": [ "45colt_b_bp" ],
+    "fg": [ "45colt_f_jhp" ]
+  }
+]

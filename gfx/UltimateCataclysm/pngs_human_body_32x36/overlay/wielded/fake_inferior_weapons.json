@@ -1,207 +1,98 @@
 [
   {
-    "id": "overlay_wielded_arming_sword_fake",
-    "fg": "arming_sword_mf",
-    "bg": ""
+    "id": [ "overlay_wielded_arming_sword_fake", "overlay_wielded_arming_sword_inferior" ],
+    "fg": "arming_sword_mf"
   },
   {
-    "id": "overlay_wielded_arming_sword_inferior",
-    "fg": "arming_sword_mf",
-    "bg": ""
+    "id": [ "overlay_wielded_battleaxe_fake", "overlay_wielded_battleaxe_inferior" ],
+    "fg": "battle_axe_mf"
   },
   {
-    "id": "overlay_wielded_battleaxe_inferior",
-    "fg": "battle_axe_mf",
-    "bg": ""
-  },
-  {
-    "id": "overlay_wielded_battleaxe_fake",
-    "fg": "battle_axe_mf",
-    "bg": ""
-  },
-  {
-    "id": "overlay_wielded_broadsword_inferior",
-    "fg": "broadsword_mf",
-    "bg": ""
-  },
-  {
-    "id": "overlay_wielded_broadsword_fake",
-    "fg": "broadsword_mf",
-    "bg": ""
+    "id": [ "overlay_wielded_broadsword_fake", "overlay_wielded_broadsword_inferior" ],
+    "fg": "broadsword_mf"
   },
   {
     "id": "overlay_wielded_cavalry_sabre_fake",
-    "fg": "cavalry_saber_mf",
-    "bg": ""
-  },
-  {
-    "id": "overlay_wielded_cutlass_fake",
-    "fg": "cutlass_mf",
-    "bg": ""
+    "fg": "overlay_wielded_cavalry_sabre"
   },
   {
     "id": "overlay_wielded_cutlass_inferior",
-    "fg": "cutlass_mf",
-    "bg": ""
+    "fg": "cutlass_mf"
   },
   {
-    "id": "overlay_wielded_estoc_inferior",
-    "fg": "estoc_mf",
-    "bg": ""
-  },
-  {
-    "id": "overlay_wielded_estoc_fake",
-    "fg": "estoc_mf",
-    "bg": ""
+    "id": [ "overlay_wielded_estoc_fake", "overlay_wielded_estoc_inferior" ],
+    "fg": "estoc_mf"
   },
   {
     "id": "overlay_female_wielded_halberd_fake",
-    "fg": "halberd_f",
-    "bg": ""
+    "fg": "halberd_f"
   },
   {
     "id": "overlay_male_wielded_halberd_fake",
-    "fg": "halberd_m",
-    "bg": ""
+    "fg": "halberd_m"
   },
   {
-    "id": "overlay_wielded_jian_fake",
-    "fg": "jian_mf",
-    "bg": ""
+    "id": [ "overlay_wielded_jian_fake", "overlay_wielded_jian_inferior" ],
+    "fg": "jian_mf"
   },
   {
-    "id": "overlay_wielded_jian_inferior",
-    "fg": "jian_mf",
-    "bg": ""
-  },
-  {
-    "id": "overlay_wielded_katana_fake",
-    "fg": "katana_mf",
-    "bg": ""
-  },
-  {
-    "id": "overlay_wielded_katana_inferior",
-    "fg": "katana_mf",
-    "bg": ""
+    "id": [ "overlay_wielded_katana_fake", "overlay_wielded_katana_inferior" ],
+    "fg": "katana_mf"
   },
   {
     "id": "overlay_wielded_kris_fake",
-    "fg": "kris_mf",
-    "bg": ""
+    "fg": "kris_mf"
   },
   {
-    "id": "overlay_wielded_longsword_fake",
-    "fg": "longsword_mf",
-    "bg": ""
-  },
-  {
-    "id": "overlay_wielded_longsword_inferior",
-    "fg": "longsword_mf",
-    "bg": ""
+    "id": [ "overlay_wielded_longsword_fake", "overlay_wielded_longsword_inferior" ],
+    "fg": "longsword_mf"
   },
   {
     "id": "overlay_female_wielded_lucern_hammerfake",
-    "fg": "lucern_hammer_f",
-    "bg": ""
+    "fg": "lucern_hammer_f"
   },
   {
     "id": "overlay_male_wielded_lucern_hammerfake",
-    "fg": "lucern_hammer_m",
-    "bg": ""
+    "fg": "lucern_hammer_m"
   },
   {
-    "id": "overlay_wielded_mace_inferior",
-    "fg": "mace_mf",
-    "bg": ""
+    "id": [ "overlay_wielded_mace_fake", "overlay_wielded_mace_inferior" ],
+    "fg": "mace_mf"
   },
   {
-    "id": "overlay_wielded_mace_fake",
-    "fg": "mace_mf",
-    "bg": ""
+    "id": [ "overlay_wielded_morningstar_fake", "overlay_wielded_morningstar_inferior" ],
+    "fg": "morningstar_mf"
   },
   {
-    "id": "overlay_wielded_morningstar_fake",
-    "fg": "morningstar_mf",
-    "bg": ""
+    "id": [ "overlay_female_wielded_naginata_fake", "overlay_female_wielded_naginata_inferior" ],
+    "fg": "naginata_f"
   },
   {
-    "id": "overlay_wielded_morningstar_inferior",
-    "fg": "morningstar_mf",
-    "bg": ""
+    "id": [ "overlay_male_wielded_naginata_fake", "overlay_male_wielded_naginata_inferior" ],
+    "fg": "naginata_m"
   },
   {
-    "id": "overlay_female_wielded_naginata_fake",
-    "fg": "naginata_f",
-    "bg": ""
+    "id": [ "overlay_wielded_nodachi_fake", "overlay_wielded_nodachi_inferior" ],
+    "fg": "nodachi_mf"
   },
   {
-    "id": "overlay_male_wielded_naginata_fake",
-    "fg": "naginata_m",
-    "bg": ""
-  },
-  {
-    "id": "overlay_female_wielded_naginata_inferior",
-    "fg": "naginata_f",
-    "bg": ""
-  },
-  {
-    "id": "overlay_male_wielded_naginata_inferior",
-    "fg": "naginata_m",
-    "bg": ""
-  },
-  {
-    "id": "overlay_wielded_nodachi_inferior",
-    "fg": "nodachi_mf",
-    "bg": ""
-  },
-  {
-    "id": "overlay_wielded_nodachi_fake",
-    "fg": "nodachi_mf",
-    "bg": ""
-  },
-  {
-    "id": "overlay_wielded_pike_fake",
-    "fg": "pike_mf",
-    "bg": ""
-  },
-  {
-    "id": "overlay_wielded_pike_inferior",
-    "fg": "pike_mf",
-    "bg": ""
+    "id": [ "overlay_wielded_pike_fake", "overlay_wielded_pike_inferior" ],
+    "fg": "pike_mf"
   },
   {
     "id": "overlay_wielded_rapier_fake",
-    "fg": "rapier_mf",
-    "bg": ""
+    "fg": "rapier_mf"
   },
   {
-    "id": "overlay_wielded_tanto_inferior",
-    "fg": "tanto_mf",
-    "bg": ""
+    "id": [ "overlay_wielded_tanto_fake", "overlay_wielded_tanto_inferior" ],
+    "fg": "tanto_mf"
   },
   {
-    "id": "overlay_wielded_tanto_fake",
-    "fg": "tanto_mf",
-    "bg": ""
+    "id": [ "overlay_wielded_wakizashi_fake", "overlay_wielded_wakizashi_inferior" ],
+    "fg": "wakizashi_mf"
   },
   {
-    "id": "overlay_wielded_wakizashi_fake",
-    "fg": "wakizashi_mf",
-    "bg": ""
-  },
-  {
-    "id": "overlay_wielded_wakizashi_inferior",
-    "fg": "wakizashi_mf",
-    "bg": ""
-  },
-  {
-    "id": "overlay_wielded_zweihander_fake",
-    "fg": "zweihander_mf",
-    "bg": ""
-  },
-  {
-    "id": "overlay_wielded_zweihander_inferior",
-    "fg": "zweihander_mf",
-    "bg": ""
+    "id": [ "overlay_wielded_zweihander_fake", "overlay_wielded_zweihander_inferior" ],
+    "fg": "zweihander_mf"
   }
 ]

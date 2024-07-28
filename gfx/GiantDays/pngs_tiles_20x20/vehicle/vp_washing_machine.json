@@ -1,0 +1,15 @@
+{
+  "id": "vp_washing_machine",
+  "fg": "vp_washing_machine",
+  "bg": "background_black",
+  "//": "change this sprite to full size washing machine, and only use this sprite for the item?",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_machine_broken",
+      "bg": "background_black"
+    }
+  ]
+}

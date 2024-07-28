@@ -1,25 +1,25 @@
 [
   {
     "id": [ "s_apt_2" ],
-    "fg": [ "s_apt_2_N", "s_apt_2_E", "s_apt_2_S", "s_apt_2_W" ],
+    "fg": [ "s_apt_2_N", "s_apt_2_W", "s_apt_2_S", "s_apt_2_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "s_apt_2_2ndfloor" ],
-    "fg": [ "s_apt_2_2ndfloor_N", "s_apt_2_2ndfloor_E", "s_apt_2_2ndfloor_S", "s_apt_2_2ndfloor_W" ],
+    "fg": [ "s_apt_2_2ndfloor_N", "s_apt_2_2ndfloor_W", "s_apt_2_2ndfloor_S", "s_apt_2_2ndfloor_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "s_apt_2_roof" ],
-    "fg": [ "s_apt_2_roof_N", "s_apt_2_roof_E", "s_apt_2_roof_S", "s_apt_2_roof_W" ],
+    "fg": [ "s_apt_2_roof_N", "s_apt_2_roof_W", "s_apt_2_roof_S", "s_apt_2_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "s_apt_2_upper_roof" ],
-    "fg": [ "s_apt_2_upper_roof_N", "s_apt_2_upper_roof_E", "s_apt_2_upper_roof_S", "s_apt_2_upper_roof_W" ],
+    "fg": [ "s_apt_2_upper_roof_N", "s_apt_2_upper_roof_W", "s_apt_2_upper_roof_S", "s_apt_2_upper_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

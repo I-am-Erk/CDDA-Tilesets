@@ -1,0 +1,9 @@
+{
+  "id": "mon_vampire_moroi",
+  "fg": [
+    { "weight": 1, "sprite": "mon_vampire_moroi_0" },
+    { "weight": 1, "sprite": "mon_vampire_moroi_1" }
+      ],
+  "bg": ["shadow_32x32_normal"],
+  "rotates": false
+}

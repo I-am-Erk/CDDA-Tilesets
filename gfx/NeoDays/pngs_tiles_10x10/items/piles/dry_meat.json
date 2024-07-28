@@ -1,6 +1,10 @@
 {
   "id": [
     "dry_meat",
+    "iskender",
+    "cooked_marrow",
+    "pepperbone",
+    "dry_chili",
     "dry_hflesh"
   ],
   "fg": "dry_meat"

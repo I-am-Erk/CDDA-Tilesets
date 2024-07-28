@@ -145,7 +145,7 @@
     "fg": "small_tree_brown"
   },
   {
-    "id": "construction_site",
+    "id": ["construction_site","house_vacant","house_vacant1","house_vacant2","house_vacant3"],
     "fg": "square_dark_gray"
   },
   {
@@ -1146,6 +1146,10 @@
       "nuclear_plant_8_3_7"
     ],
     "fg": "big_building_red"
+  },
+  {
+    "id": "solar_farm",
+    "fg": "square_yellow"
   },
   {
     "id": [

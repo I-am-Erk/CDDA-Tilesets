@@ -1,19 +1,19 @@
 [
   {
     "id": [ "gym" ],
-    "fg": [ "gym_N", "gym_E", "gym_S", "gym_W" ],
+    "fg": [ "gym_N", "gym_W", "gym_S", "gym_E" ],
     "bg": [  ],
     "rotates": true
   },
   {
     "id": [ "gym_roof" ],
-    "fg": [ "gym_roof_N", "gym_roof_E", "gym_roof_S", "gym_roof_W" ],
+    "fg": [ "gym_roof_N", "gym_roof_W", "gym_roof_S", "gym_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "gym_upper_roof" ],
-    "fg": [ "gym_upper_roof_N", "gym_upper_roof_E", "gym_upper_roof_S", "gym_upper_roof_W" ],
+    "fg": [ "gym_upper_roof_N", "gym_upper_roof_W", "gym_upper_roof_S", "gym_upper_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

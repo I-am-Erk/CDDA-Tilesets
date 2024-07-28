@@ -1,0 +1,15 @@
+{
+  "id": [
+    "seed_raw_bamboo",
+    "seed_raw_burdock",
+    "seed_cactus",
+    "seed_cattail",
+    "seed_chicory",
+    "seed_dahlia",
+    "seed_flower",
+    "seed_japanese_knotweed",
+    "seed_salsify_raw",
+    "seed_wintergreen"
+  ],
+  "fg": "seed_raw_bamboo"
+}

@@ -4,7 +4,6 @@
       "touristmap_season_spring",
       "restaurantmap_season_spring",
       "trailmap_season_spring",
-      "flyer_season_spring",
       "necropolis_leaflet_season_spring"
     ],
     "fg": [ "touristmap_season_spring" ],
@@ -15,7 +14,6 @@
       "touristmap_season_summer",
       "restaurantmap_season_summer",
       "trailmap_season_summer",
-      "flyer_season_summer",
       "necropolis_leaflet_season_summer"
     ],
     "fg": [ "touristmap_season_summer" ],
@@ -26,7 +24,6 @@
       "touristmap_season_autumn",
       "restaurantmap_season_autumn",
       "trailmap_season_autumn",
-      "flyer_season_autumn",
       "necropolis_leaflet_season_autumn"
     ],
     "fg": [ "touristmap_season_autumn" ],
@@ -37,7 +34,6 @@
       "touristmap_season_winter",
       "restaurantmap_season_winter",
       "trailmap_season_winter",
-      "flyer_season_winter",
       "necropolis_leaflet_season_winter"
     ],
     "fg": [ "touristmap_season_winter" ],

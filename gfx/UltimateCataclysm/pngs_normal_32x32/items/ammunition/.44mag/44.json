@@ -1,0 +1,46 @@
+[
+
+  {
+    "id": [ "44_casing" ],
+    "bg": [ "" ],
+    "fg": [ "4_casing" ]
+  },
+  {
+    "id": [ "44_casing_transparent" ],
+    "bg": [ "44_b" ],
+    "fg": [ "4_casing" ]
+  },
+
+  {
+    "id": [ "44magnum" ],
+    "bg": [ "44_b" ],
+    "fg": [ "44_f_jhp" ]
+  },
+  {
+    "id": [ "reloaded_44magnum" ],
+    "bg": [ "44_b_r" ],
+    "fg": [ "44_f_jhp" ]
+  },
+  {
+    "id": [ "bp_44magnum" ],
+    "bg": [ "44_b_bp" ],
+    "fg": [ "44_f_jhp" ]
+  },
+
+  {
+    "id": [ "44fmj" ],
+    "bg": [ "44_b" ],
+    "fg": [ "44_f_fmj" ]
+  },
+  {
+    "id": [ "reloaded_44fmj" ],
+    "bg": [ "44_b_r" ],
+    "fg": [ "44_f_fmj" ]
+  },
+  {
+    "id": [ "bp_44fmj" ],
+    "bg": [ "44_b_bp" ],
+    "fg": [ "44_f_fmj" ]
+  }
+
+]

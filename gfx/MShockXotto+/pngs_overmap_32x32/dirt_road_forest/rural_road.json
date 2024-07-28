@@ -1,0 +1,52 @@
+{
+  "id": [ "rural_road", "rural_road_forest" ],
+  "fg": "rural_road_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "rural_road_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "rural_road_corner_nw",
+        "rural_road_corner_sw",
+        "rural_road_corner_se",
+        "rural_road_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "rural_road_t_connection_n",
+        "rural_road_t_connection_w",
+        "rural_road_t_connection_s",
+        "rural_road_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "rural_road_edge_ns",
+        "rural_road_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "rural_road_end_piece_s",
+        "rural_road_end_piece_e",
+        "rural_road_end_piece_n",
+        "rural_road_end_piece_w"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "rural_road_unconnected",
+        "rural_road_unconnected"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+[
+    {
+      "id": [ "magic_academy_basement" ],
+      "fg": [ "magic_academy_basement_N", "magic_academy_basement_W", "magic_academy_basement_S", "magic_academy_basement_E" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    },
+    {
+      "id": [ "magic_academy_ground" ],
+      "fg": [ "magic_academy_ground_N", "magic_academy_ground_W", "magic_academy_ground_S", "magic_academy_ground_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "magic_academy_2nd" ],
+      "fg": [ "magic_academy_2nd_N", "magic_academy_2nd_W", "magic_academy_2nd_S", "magic_academy_2nd_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "magic_academy_3rd" ],
+      "fg": [ "magic_academy_3rd_N", "magic_academy_3rd_W", "magic_academy_3rd_S", "magic_academy_3rd_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [
+        "magic_academy_4th",
+        "magic_academy_5th",
+        "magic_academy_6th",
+        "magic_academy_7th",
+        "magic_academy_8th",
+        "magic_academy_roof"
+      ],
+      "fg": [ "magic_academy_4th_N", "magic_academy_4th_W", "magic_academy_4th_S", "magic_academy_4th_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    }
+  ]
+  

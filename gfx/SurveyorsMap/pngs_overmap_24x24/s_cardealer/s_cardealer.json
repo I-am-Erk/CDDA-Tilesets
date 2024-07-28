@@ -1,13 +1,13 @@
 [
   {
     "id": [ "s_cardealer" ],
-    "fg": [ "s_cardealer_N", "s_cardealer_E", "s_cardealer_S", "s_cardealer_W" ],
+    "fg": [ "s_cardealer_N", "s_cardealer_W", "s_cardealer_S", "s_cardealer_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "s_cardealer_roof" ],
-    "fg": [ "s_cardealer_roof_N", "s_cardealer_roof_E", "s_cardealer_roof_S", "s_cardealer_roof_W" ],
+    "fg": [ "s_cardealer_roof_N", "s_cardealer_roof_W", "s_cardealer_roof_S", "s_cardealer_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

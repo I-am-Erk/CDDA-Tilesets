@@ -1,7 +1,7 @@
 [
   {
     "id": [ "skate_park" ],
-    "fg": [ "skate_park_N", "skate_park_E", "skate_park_S", "skate_park_W" ],
+    "fg": [ "skate_park_N", "skate_park_W", "skate_park_S", "skate_park_E" ],
     "bg": [ "field" ],
     "rotates": true
   }

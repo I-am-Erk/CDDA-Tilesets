@@ -1,25 +1,25 @@
 [
   {
     "id": [ "church_1" ],
-    "fg": [ "church_1_N", "church_1_E", "church_1_S", "church_1_W" ],
+    "fg": [ "church_1_N", "church_1_W", "church_1_S", "church_1_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "church_2ndfloor_1" ],
-    "fg": [ "church_2ndfloor_1_N", "church_2ndfloor_1_E", "church_2ndfloor_1_S", "church_2ndfloor_1_W" ],
+    "fg": [ "church_2ndfloor_1_N", "church_2ndfloor_1_W", "church_2ndfloor_1_S", "church_2ndfloor_1_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "church_3rdfloor_1" ],
-    "fg": [ "church_3rdfloor_1_N", "church_3rdfloor_1_E", "church_3rdfloor_1_S", "church_3rdfloor_1_W" ],
+    "fg": [ "church_3rdfloor_1_N", "church_3rdfloor_1_W", "church_3rdfloor_1_S", "church_3rdfloor_1_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "church_roof_1" ],
-    "fg": [ "church_roof_1_N", "church_roof_1_E", "church_roof_1_S", "church_roof_1_W" ],
+    "fg": [ "church_roof_1_N", "church_roof_1_W", "church_roof_1_S", "church_roof_1_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

@@ -1,0 +1,8 @@
+{
+  "id": [
+    "t_door_locked",
+    "t_door_locked_alarm",
+    "t_door_locked_interior"
+  ],
+  "fg": "t_door_locked"
+}

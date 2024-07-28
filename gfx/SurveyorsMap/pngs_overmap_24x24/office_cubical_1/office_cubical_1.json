@@ -1,13 +1,13 @@
 [
   {
     "id": [ "office_cubical_1" ],
-    "fg": [ "office_cubical_1_N", "office_cubical_1_E", "office_cubical_1_S", "office_cubical_1_W" ],
+    "fg": [ "office_cubical_1_N", "office_cubical_1_W", "office_cubical_1_S", "office_cubical_1_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "office_cubical_roof_1" ],
-    "fg": [ "office_cubical_roof_1_N", "office_cubical_roof_1_E", "office_cubical_roof_1_S", "office_cubical_roof_1_W" ],
+    "fg": [ "office_cubical_roof_1_N", "office_cubical_roof_1_W", "office_cubical_roof_1_S", "office_cubical_roof_1_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

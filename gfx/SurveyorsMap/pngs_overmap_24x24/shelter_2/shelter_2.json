@@ -1,14 +1,20 @@
 [
   {
-    "id": [ "shelter_2", "shelter_2_vandal" ],
-    "fg": [ "shelter_2_N", "shelter_2_E", "shelter_2_S", "shelter_2_W" ],
+    "id": [ "shelter_2", "shelter_2_vandal", "shelter_2_survivor", "shelter_2_unfinished", "shelter_2_infested" ],
+    "fg": [ "shelter_2_N", "shelter_2_W", "shelter_2_S", "shelter_2_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "shelter_roof_2" ],
-    "fg": [ "shelter_roof_2_N", "shelter_roof_2_E", "shelter_roof_2_S", "shelter_roof_2_W" ],
+    "fg": [ "shelter_2_N", "shelter_2_W", "shelter_2_S", "shelter_2_E" ],
     "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "shelter_under_2", "shelter_under_2_vandal", "shelter_under_2_unfinished", "shelter_under_2_infested" ],
+    "fg": [ "shelter_2_N", "shelter_2_W", "shelter_2_S", "shelter_2_E" ],
+    "bg": [ "solid_earth" ],
     "rotates": true
   }
 ]

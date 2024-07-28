@@ -1,0 +1,29 @@
+[
+
+  {
+    "id": [ "270win_casing" ],
+    "bg": [ "" ],
+    "fg": [ "5_casing" ]
+  },
+  {
+    "id": [ "270win_casing_transparent" ],
+    "bg": [ "270win_b" ],
+    "fg": [ "5_casing" ]
+  },
+
+  {
+    "id": [ "270win_jsp" ],
+    "bg": [ "270win_b" ],
+    "fg": [ "270win_f_jsp" ]
+  },
+  {
+    "id": [ "reloaded_270win_jsp" ],
+    "bg": [ "270win_b_r" ],
+    "fg": [ "270win_f_jsp" ]
+  },
+  {
+    "id": [ "bp_270win_jsp" ],
+    "bg": [ "270win_b_bp" ],
+    "fg": [ "270win_f_jsp" ]
+  }
+]

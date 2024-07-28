@@ -1,0 +1,188 @@
+[
+  {
+    "id": [ "hospital_1", "hospital_1_roof" ],
+    "fg": [
+      "hospital_9",
+      "hospital_7",
+      "hospital_1",
+      "hospital_3"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [ "hospital_2", "hospital_2_roof" ],
+    "fg": [
+      "hospital_8",
+      "hospital_4",
+      "hospital_2",
+      "hospital_6"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [ "hospital_3", "hospital_3_roof" ],
+    "fg": [
+      "hospital_7",
+      "hospital_1",
+      "hospital_3",
+      "hospital_9"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [ "hospital_4", "hospital_4_roof" ],
+    "fg": [
+      "hospital_6",
+      "hospital_8",
+      "hospital_4",
+      "hospital_2"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [ "hospital_5", "hospital_5_roof" ],
+    "fg": [
+      "hospital_5",
+      "hospital_5",
+      "hospital_5",
+      "hospital_5"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [ "hospital_6", "hospital_6_roof" ],
+    "fg": [
+      "hospital_4",
+      "hospital_2",
+      "hospital_6",
+      "hospital_8"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [ "hospital_7", "hospital_7_roof" ],
+    "fg": [
+      "hospital_3",
+      "hospital_9",
+      "hospital_7",
+      "hospital_1"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [ "hospital_8", "hospital_8_roof" ],
+    "fg": [
+      "hospital_2",
+      "hospital_6",
+      "hospital_8",
+      "hospital_4"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [ "hospital_9", "hospital_9_roof" ],
+    "fg": [
+      "hospital_1",
+      "hospital_3",
+      "hospital_9",
+      "hospital_7"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "urban_35_1",
+      "urban_35_5",
+      "urban_35_9",
+      "urban_35_13",
+      "urban_35_17",
+      "urban_35_21",
+      "urban_35_25",
+      "urban_35_29"
+    ],
+    "fg": [
+      "hospital_7",
+      "hospital_1",
+      "hospital_3",
+      "hospital_9"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "urban_35_2",
+      "urban_35_6",
+      "urban_35_10",
+      "urban_35_14",
+      "urban_35_18",
+      "urban_35_22",
+      "urban_35_26",
+      "urban_35_30"
+    ],
+    "fg": [
+      "hospital_8",
+      "hospital_4",
+      "hospital_2",
+      "hospital_6"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "urban_35_3",
+      "urban_35_7",
+      "urban_35_11",
+      "urban_35_15",
+      "urban_35_19",
+      "urban_35_23",
+      "urban_35_27",
+      "urban_35_31"
+    ],
+    "fg": [
+      "hospital_1",
+      "hospital_3",
+      "hospital_9",
+      "hospital_7"
+    ],
+    "rotates": true
+  },
+  {
+    "id": [
+      "urban_35_4",
+      "urban_35_8",
+      "urban_35_12",
+      "urban_35_16",
+      "urban_35_20",
+      "urban_35_24",
+      "urban_35_28",
+      "urban_35_32"
+    ],
+    "fg": [
+      "hospital_2",
+      "hospital_6",
+      "hospital_8",
+      "hospital_4"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "urban_35_34",
+    "fg": [
+      "hospital_9",
+      "hospital_7",
+      "hospital_1",
+      "hospital_3"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "urban_35_35",
+    "fg": [
+      "hospital_3",
+      "hospital_9",
+      "hospital_7",
+      "hospital_1"
+    ],
+    "rotates": true
+  }
+]

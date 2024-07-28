@@ -230,5 +230,41 @@
   {
     "id": "ranch_camp_76",
     "fg": "square_dark_gray"
+  },
+  {
+    "id": ["ranch_camp_2","ranch_camp_3","ranch_camp_4","ranch_camp_5","ranch_camp_6","ranch_camp_7","ranch_camp_8","ranch_camp_74","ranch_camp_79","ranch_camp_80"],
+    "fg": [ "wood_fence_edge_ew", "wood_fence_edge_ns", "wood_fence_edge_ew", "wood_fence_edge_ns" ],
+    "rotates": true
+  },
+  {
+    "id": ["ranch_camp_10","ranch_camp_18","ranch_camp_19","ranch_camp_27","ranch_camp_28","ranch_camp_36","ranch_camp_37","ranch_camp_45","ranch_camp_46","ranch_camp_54","ranch_camp_55","ranch_camp_63","ranch_camp_64","ranch_camp_72"],
+    "fg": [ "wood_fence_edge_ns", "wood_fence_edge_ew", "wood_fence_edge_ns", "wood_fence_edge_ew" ],
+    "rotates": true
+  },
+  {
+    "id": "ranch_camp_77",
+    "fg": [ "road_edge_ns", "road_edge_ew", "road_edge_ns", "road_edge_ew" ],
+    "rotates": true
+  },
+  {
+    "id": ["ranch_camp_1"],
+    "fg": [ "wood_fence_corner_nw", "wood_fence_corner_sw", "wood_fence_corner_se", "wood_fence_corner_ne" ],
+    "rotates": true
+  },
+  {
+    "id": ["ranch_camp_9","ranch_camp_69"],
+    "fg": [ "wood_fence_corner_ne", "wood_fence_corner_nw", "wood_fence_corner_sw", "wood_fence_corner_se" ],
+    "rotates": true
+  },
+  {
+    "id": ["ranch_camp_73","ranch_camp_78"],
+    "fg": [ "wood_fence_corner_sw", "wood_fence_corner_se", "wood_fence_corner_ne", "wood_fence_corner_nw" ],
+    "rotates": true
+  },
+  {
+    "id": ["ranch_camp_75","ranch_camp_81"],
+    "fg": [ "wood_fence_corner_se", "wood_fence_corner_ne", "wood_fence_corner_nw", "wood_fence_corner_sw" ],
+    "rotates": true
   }
+  
 ]

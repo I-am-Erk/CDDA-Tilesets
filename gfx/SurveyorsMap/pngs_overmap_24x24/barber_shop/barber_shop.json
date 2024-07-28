@@ -1,0 +1,15 @@
+[
+    {
+      "id": [ "barber_shop" ],
+      "fg": [ "barber_shop_N", "barber_shop_W", "barber_shop_S", "barber_shop_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "barber_shop_roof" ],
+      "fg": [ "barber_shop_roof_N", "barber_shop_roof_W", "barber_shop_roof_S", "barber_shop_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    }
+  ]
+  

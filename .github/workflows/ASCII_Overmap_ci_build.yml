@@ -1,0 +1,22 @@
+name: ASCII_Overmap composer
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - 'gfx/ASCII_Overmap/**'
+      - '.github/workflows/ASCII_Overmap_ci_build.yml'
+  pull_request:
+    branches:
+      - master
+    paths:
+      - 'gfx/ASCII_Overmap/**'
+      - '.github/workflows/ASCII_Overmap_ci_build.yml'
+
+jobs:
+  build:
+    uses: ./.github/workflows/composer_template.yml
+    with:
+      tileset: ASCII_Overmap
+      composer-args: --use-all

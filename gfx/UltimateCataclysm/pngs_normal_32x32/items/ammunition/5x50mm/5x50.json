@@ -1,0 +1,29 @@
+[
+
+  {
+    "id": [ "5x50_hull" ],
+    "bg": [ "" ],
+    "fg": [ "6R_casing" ]
+  },
+  {
+    "id": [ "5x50_hull_transparent" ],
+    "bg": [ "5x50_b" ],
+    "fg": [ "6R_casing" ]
+  },
+
+  {
+    "id": [ "5x50dart" ],
+    "bg": [ "5x50_b" ],
+    "fg": [ "5x50_f_ra110" ]
+  },
+  {
+    "id": [ "reloaded_5x50dart" ],
+    "bg": [ "5x50_b_r" ],
+    "fg": [ "5x50_f_reloaded" ]
+  },
+  {
+    "id": [ "5x50heavy" ],
+    "bg": [ "5x50_b" ],
+    "fg": [ "5x50_f_ra119" ]
+  }
+]

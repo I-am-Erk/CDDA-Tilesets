@@ -1,0 +1,134 @@
+[
+  {
+    "id": [ "luna_park_0_0_0", "miniaturerailway_0_0_0" ],
+    "fg": [
+      "luna_park_bot_left_faceN",
+      "luna_park_bot_left_faceW",
+      "luna_park_bot_left_faceS",
+      "luna_park_bot_left_faceE"
+    ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": "luna_park_1_0_0",
+    "fg": [
+      "luna_park_mid_left_faceN",
+      "luna_park_mid_left_faceW",
+      "luna_park_mid_left_faceS",
+      "luna_park_mid_left_faceE"
+    ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": [ "luna_park_2_0_0", "miniaturerailway_1_0_0" ],
+    "fg": [
+      "luna_park_top_left_faceN",
+      "luna_park_top_left_faceW",
+      "luna_park_top_left_faceS",
+      "luna_park_top_left_faceE"
+    ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": [ "luna_park_0_1_0", "miniaturerailway_0_1_0" ],
+    "fg": [
+      "luna_park_bot_right_faceN",
+      "luna_park_bot_right_faceW",
+      "luna_park_bot_right_faceS",
+      "luna_park_bot_right_faceE"
+    ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": "luna_park_1_1_0",
+    "fg": [
+      "luna_park_mid_right_faceN",
+      "luna_park_mid_right_faceW",
+      "luna_park_mid_right_faceS",
+      "luna_park_mid_right_faceE"
+    ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": [ "luna_park_2_1_0", "miniaturerailway_1_1_0" ],
+    "fg": [
+      "luna_park_top_right_faceN",
+      "luna_park_top_right_faceW",
+      "luna_park_top_right_faceS",
+      "luna_park_top_right_faceE"
+    ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": [ "luna_park_0_0_1", "miniaturerailway_0_0_1" ],
+    "fg": [
+      "luna_park_bot_left_faceN",
+      "luna_park_bot_left_faceW",
+      "luna_park_bot_left_faceS",
+      "luna_park_bot_left_faceE"
+    ],
+    "bg": "open_air",
+    "rotates": true
+  },
+  {
+    "id": "luna_park_1_0_1",
+    "fg": [
+      "luna_park_mid_left_faceN",
+      "luna_park_mid_left_faceW",
+      "luna_park_mid_left_faceS",
+      "luna_park_mid_left_faceE"
+    ],
+    "bg": "open_air",
+    "rotates": true
+  },
+  {
+    "id": [ "luna_park_2_0_1", "miniaturerailway_1_0_1" ],
+    "fg": [
+      "luna_park_top_left_faceN",
+      "luna_park_top_left_faceW",
+      "luna_park_top_left_faceS",
+      "luna_park_top_left_faceE"
+    ],
+    "bg": "open_air",
+    "rotates": true
+  },
+  {
+    "id": [ "luna_park_0_1_1", "miniaturerailway_0_1_1" ],
+    "fg": [
+      "luna_park_bot_right_faceN",
+      "luna_park_bot_right_faceW",
+      "luna_park_bot_right_faceS",
+      "luna_park_bot_right_faceE"
+    ],
+    "bg": "open_air",
+    "rotates": true
+  },
+  {
+    "id": "luna_park_1_1_1",
+    "fg": [
+      "luna_park_mid_right_faceN",
+      "luna_park_mid_right_faceW",
+      "luna_park_mid_right_faceS",
+      "luna_park_mid_right_faceE"
+    ],
+    "bg": "open_air",
+    "rotates": true
+  },
+  {
+    "id": [ "luna_park_2_1_1", "miniaturerailway_1_1_1" ],
+    "fg": [
+      "luna_park_top_right_faceN",
+      "luna_park_top_right_faceW",
+      "luna_park_top_right_faceS",
+      "luna_park_top_right_faceE"
+    ],
+    "bg": "open_air",
+    "rotates": true
+  }
+]

@@ -1,13 +1,13 @@
 [
   {
     "id": [ "pavilion" ],
-    "fg": [ "pavilion_N", "pavilion_E", "pavilion_S", "pavilion_W" ],
+    "fg": [ "pavilion_N", "pavilion_W", "pavilion_S", "pavilion_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "pavilion_roof" ],
-    "fg": [ "pavilion_roof_N", "pavilion_roof_E", "pavilion_roof_S", "pavilion_roof_W" ],
+    "fg": [ "pavilion_roof_N", "pavilion_roof_W", "pavilion_roof_S", "pavilion_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

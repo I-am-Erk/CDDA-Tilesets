@@ -1,6 +1,6 @@
-[
+[ 
   {
-    "id": "t_tree_pistachio",
+    "id": "t_tree_pistachio_season_spring",
     "fg": "t_tree_pistachio_spring",
     "bg": "t_grass_extra_giant"
   }, {
@@ -9,11 +9,65 @@
     "bg": "t_grass_summer_extra_giant"
   }, {
     "id": "t_tree_pistachio_season_autumn",
-    "fg": "t_tree_pistachio_autumn",
+    "fg": "t_tree_pistachio_autumn_yield",
     "bg": "t_grass_autumn_extra_giant"
   }, {
     "id": "t_tree_pistachio_season_winter",
     "fg": "t_tree_pistachio_winter",
     "bg": "snow_shallow_extra_giant"
-  }
+  },
+  
+  {
+    "id": "t_tree_pistachio_harvested_season_spring",
+    "fg": "t_tree_pistachio_spring",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_pistachio_harvested_season_summer",
+    "fg": "t_tree_pistachio_summer",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_pistachio_harvested_season_autumn",
+    "fg": "t_tree_pistachio_autumn",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_pistachio_harvested_season_winter",
+    "fg": "t_tree_pistachio_winter",
+    "bg": "snow_shallow_extra_giant"
+  },
+  
+  {
+    "id": "t_tree_pistachio_transparent_season_spring",
+    "fg": "t_tree_pistachio_spring_transparent",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_pistachio_transparent_season_summer",
+    "fg": "t_tree_pistachio_summer_transparent",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_pistachio_transparent_season_autumn",
+    "fg": "t_tree_pistachio_autumn_yield_transparent",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_pistachio_transparent_season_winter",
+    "fg": "t_tree_pistachio_winter_transparent",
+    "bg": "snow_shallow_extra_giant"
+  },
+  
+  {
+    "id": "t_tree_pistachio_harvested_transparent_season_spring",
+    "fg": "t_tree_pistachio_spring_transparent",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_pistachio_harvested_transparent_season_summer",
+    "fg": "t_tree_pistachio_summer_transparent",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_pistachio_harvested_transparent_season_autumn",
+    "fg": "t_tree_pistachio_autumn_transparent",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_pistachio_harvested_transparent_season_winter",
+    "fg": "t_tree_pistachio_winter_transparent",
+    "bg": "snow_shallow_extra_giant"
+  }  
 ]

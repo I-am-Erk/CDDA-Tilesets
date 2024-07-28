@@ -1,0 +1,10 @@
+[
+    {
+      "id": "t_tree_worm",
+      "fg": [
+        { "weight": 1, "sprite": "t_tree_worm" },
+        { "weight": 1, "sprite": "t_tree_worm1" }
+      ],
+      "bg": ""
+    }
+  ]

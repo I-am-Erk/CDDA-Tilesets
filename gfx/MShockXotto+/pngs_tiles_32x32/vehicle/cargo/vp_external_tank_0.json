@@ -1,12 +1,12 @@
 {
   "id": "vp_external_tank",
   "fg": [
-    "1013_vp_external_diesel_tank_0"
+    "vp_external_tank"
   ],
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
-    { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "1013_vp_external_diesel_tank_0" ] }
+    { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_external_tank" ] }
   ],
   "bg": [
     

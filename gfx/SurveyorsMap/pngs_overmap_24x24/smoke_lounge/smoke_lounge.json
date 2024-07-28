@@ -1,13 +1,13 @@
 [
   {
     "id": [ "smoke_lounge" ],
-    "fg": [ "smoke_lounge_N", "smoke_lounge_E", "smoke_lounge_S", "smoke_lounge_W" ],
+    "fg": [ "smoke_lounge_N", "smoke_lounge_W", "smoke_lounge_S", "smoke_lounge_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "smoke_lounge_roof" ],
-    "fg": [ "smoke_lounge_roof_N", "smoke_lounge_roof_E", "smoke_lounge_roof_S", "smoke_lounge_roof_W" ],
+    "fg": [ "smoke_lounge_roof_N", "smoke_lounge_roof_W", "smoke_lounge_roof_S", "smoke_lounge_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

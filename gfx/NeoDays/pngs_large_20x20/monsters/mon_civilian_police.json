@@ -1,0 +1,15 @@
+{
+  "id": "mon_civilian_police",
+  "fg": [
+    {
+      "weight": 1,
+      "sprite": "mon_civilian_police_m"
+    },
+    {
+      "weight": 1,
+      "sprite": "mon_civilian_police_f"
+    }
+  ],
+  "//": "changing these to simply use character and overlay the gun would be better, but i do not see how to do that whilst keeping variants correct",
+  "//2": "yes the female sprite confines to 10x10, but the male breaks if it is"
+}

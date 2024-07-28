@@ -1,0 +1,35 @@
+{
+  "id": [
+    "t_reb_cage",
+    "t_bars"
+  ],
+  "fg": "t_reb_cage_0",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_reb_cage_1"
+    },
+    {
+      "id": "corner",
+      "fg": "t_reb_cage_2"
+    },
+    {
+      "id": "edge",
+      "fg": "t_reb_cage_3"
+    },
+    {
+      "id": "end_piece",
+      "fg": "t_reb_cage_3"
+    },
+    {
+      "id": "t_connection",
+      "fg": "t_reb_cage_4"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_reb_cage_0"
+    }
+  ]
+}

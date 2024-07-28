@@ -1,0 +1,116 @@
+[
+    {
+      "id": [ "motel_1", "motel_1_no_sidewalk" ],
+      "fg": [ "motel_1_N", "motel_1_W", "motel_1_S", "motel_1_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "motel_1_roof" ],
+      "fg": [ "motel_1_roof_N", "motel_1_roof_W", "motel_1_roof_S", "motel_1_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "2fmotel_1_f2" ],
+      "fg": [ "2fmotel_1_f2_N", "2fmotel_1_f2_W", "2fmotel_1_f2_S", "2fmotel_1_f2_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "2fmotel_1_r" ],
+      "fg": [ "2fmotel_1_r_N", "2fmotel_1_r_W", "2fmotel_1_r_S", "2fmotel_1_r_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "motel_entrance" ],
+      "fg": [ "motel_entrance_N", "motel_entrance_W", "motel_entrance_S", "motel_entrance_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "motel_entrance_roof", "2fmotel_entrance_f2" ],
+      "fg": [ "motel_entrance_roof_N", "motel_entrance_roof_W", "motel_entrance_roof_S", "motel_entrance_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "motel_entrance_no_sidewalk" ],
+      "fg": [
+        "motel_entrance_no_sidewalk_N",
+        "motel_entrance_no_sidewalk_W",
+        "motel_entrance_no_sidewalk_S",
+        "motel_entrance_no_sidewalk_E"
+      ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "motel_2", "motel_2_no_sidewalk" ],
+      "fg": [ "motel_2_N", "motel_2_W", "motel_2_S", "motel_2_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "motel_2_roof", "2fmotel_2_r" ],
+      "fg": [ "motel_2_roof_N", "motel_2_roof_W", "motel_2_roof_S", "motel_2_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "2fmotel_2_f2" ],
+      "fg": [ "2fmotel_2_f2_N", "2fmotel_2_f2_W", "2fmotel_2_f2_S", "2fmotel_2_f2_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "motel_3", "motel_3_no_sidewalk" ],
+      "fg": [ "motel_3_N", "motel_3_W", "motel_3_S", "motel_3_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "motel_3_roof", "2fmotel_3_r" ],
+      "fg": [ "motel_3_roof_N", "motel_3_roof_W", "motel_3_roof_S", "motel_3_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "2fmotel_3_f2" ],
+      "fg": [ "2fmotel_3_f2_N", "2fmotel_3_f2_W", "2fmotel_3_f2_S", "2fmotel_3_f2_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "motel_twd_1" ],
+      "fg": [ "motel_twd_1_N", "motel_twd_1_W", "motel_twd_1_S", "motel_twd_1_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "motel_twd_1_f1" ],
+      "fg": [ "motel_twd_1_f1_N", "motel_twd_1_f1_W", "motel_twd_1_f1_S", "motel_twd_1_f1_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "motel_twd_2" ],
+      "fg": [ "motel_twd_2_N", "motel_twd_2_W", "motel_twd_2_S", "motel_twd_2_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "motel_twd_2_f1" ],
+      "fg": [ "motel_twd_2_f1_N", "motel_twd_2_f1_W", "motel_twd_2_f1_S", "motel_twd_2_f1_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "motel_twd_1_f2" ],
+      "fg": [ "motel_twd_1_f2_N", "motel_twd_1_f2_W", "motel_twd_1_f2_S", "motel_twd_1_f2_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    }
+  ]
+  

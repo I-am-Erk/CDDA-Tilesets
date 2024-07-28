@@ -1,0 +1,7 @@
+[
+  {
+    "id": [ "vp_rockwheel"],
+    "fg": [ "vp_rockwheel_rotN", "vp_rockwheel_rotW", "vp_rockwheel_rotS", "vp_rockwheel_rotE" ],
+    "rotates": true
+  }
+]

@@ -1,7 +1,7 @@
 [
   {
     "id": [ "smallscrapyard" ],
-    "fg": [ "smallscrapyard_N", "smallscrapyard_E", "smallscrapyard_S", "smallscrapyard_W" ],
+    "fg": [ "smallscrapyard_N", "smallscrapyard_W", "smallscrapyard_S", "smallscrapyard_E" ],
     "bg": [ "field" ],
     "rotates": true
   }

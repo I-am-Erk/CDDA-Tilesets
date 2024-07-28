@@ -1,0 +1,16 @@
+[
+  {
+    "id": [ "overlay_prone"  ],
+    "animated": true,
+    "fg": [
+      { "weight": 16, "sprite": "overlay_prone0" },
+      { "weight": 8, "sprite": "overlay_prone1" },
+      { "weight": 8, "sprite": "overlay_prone2" },
+      { "weight": 8, "sprite": "overlay_prone3" },
+      { "weight": 16, "sprite": "overlay_prone4" },
+      { "weight": 8, "sprite": "overlay_prone3" },
+      { "weight": 8, "sprite": "overlay_prone2" },
+      { "weight": 8, "sprite": "overlay_prone1" }
+    ]
+  }
+]

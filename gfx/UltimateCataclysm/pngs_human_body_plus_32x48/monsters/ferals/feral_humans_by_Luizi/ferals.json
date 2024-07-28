@@ -107,14 +107,6 @@
     "bg": "shadow_32x48_normal"
   },
   {
-    "id": "mon_feral_prepper",
-    "fg": [
-      { "weight": 1, "sprite": "mon_feral_prepper" },
-      { "weight": 1, "sprite": "mon_feral_prepper2" }
-    ],
-    "bg": "shadow_32x48_normal"
-  },
-  {
     "id": "mon_feral_sapien_spear",
     "fg": [
       { "weight": 1, "sprite": "mon_feral_sapien_spear" },

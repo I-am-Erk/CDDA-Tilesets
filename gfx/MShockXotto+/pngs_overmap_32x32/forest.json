@@ -2,7 +2,8 @@
 {
 	"id": [
 	"forest",
-	"special_forest"
+	"special_forest",
+  "lumbermill_dforest"
 	],
 	"fg": "forest"	
 },

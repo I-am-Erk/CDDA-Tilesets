@@ -1,0 +1,29 @@
+[
+
+  {
+    "id": [ "32_casing" ],
+    "bg": [ "" ],
+    "fg": [ "4_casing" ]
+  },
+  {
+    "id": [ "32_casing_transparent" ],
+    "bg": [ "32_acp_b" ],
+    "fg": [ "4_casing" ]
+  },
+
+  {
+    "id": [ "32_acp" ],
+    "bg": [ "32_acp_b" ],
+    "fg": [ "32_acp_f" ]
+  },
+  {
+    "id": [ "reloaded_32_acp" ],
+    "bg": [ "32_acp_b_r" ],
+    "fg": [ "32_acp_f" ]
+  },
+  {
+    "id": [ "bp_32_acp" ],
+    "bg": [ "32_acp_b_bp" ],
+    "fg": [ "32_acp_f" ]
+  }
+]

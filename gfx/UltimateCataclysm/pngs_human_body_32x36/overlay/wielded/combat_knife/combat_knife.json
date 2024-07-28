@@ -1,12 +1,4 @@
-[
-  {
-    "id": "overlay_wielded_knife_combat",
-    "fg": "combat_knife_mf",
-    "bg": ""
-  },
-  {
-    "id": "overlay_wielded_knife_combat_mod",
-    "fg": "combat_knife_mf",
-    "bg": ""
-  }
-]
+{
+  "id": "overlay_wielded_knife_combat",
+  "fg": "combat_knife_mf"
+}

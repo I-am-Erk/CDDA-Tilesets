@@ -1,0 +1,52 @@
+{
+  "id": "t_adobe_brick_wall",
+  "fg": "t_adobe_brick_wall_1",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_adobe_brick_wall_0"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_adobe_brick_wall_0",
+        "t_adobe_brick_wall_1",
+        "t_adobe_brick_wall_1",
+        "t_adobe_brick_wall_0"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_adobe_brick_wall_1",
+        "t_adobe_brick_wall_0",
+        "t_adobe_brick_wall_1",
+        "t_adobe_brick_wall_0"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_adobe_brick_wall_0",
+        "t_adobe_brick_wall_1"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_adobe_brick_wall_0",
+        "t_adobe_brick_wall_1",
+        "t_adobe_brick_wall_1",
+        "t_adobe_brick_wall_0"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_adobe_brick_wall_1",
+        "t_adobe_brick_wall_1"
+      ]
+    }
+  ]
+}

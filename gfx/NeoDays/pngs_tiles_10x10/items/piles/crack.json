@@ -10,8 +10,16 @@
     "pine_nuts",
     "cinnamon",
     "fried_seeds",
+    "dry_soybean",
     "sauerkraut",
-    "sauerkraut_onions"
+    "sauerkraut_onions",
+    "chem_compositionb",
+    "chem_lead_azide",
+    "popcorn_raw",
+    "buttercream",
+    "garlic_powder",
+    "chaff",
+    "wild_rice_cooked"
   ],
   "fg": "crack"
 }

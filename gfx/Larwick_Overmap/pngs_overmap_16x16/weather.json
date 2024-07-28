@@ -1,7 +1,20 @@
 [
   {
     "id": "clear",
-    "fg": "square_light_gray",
-    "bg": ""
+    "fg": "square_light_gray"
+  },
+  {
+    "id": [
+      "portal_storm",
+      "close_portal_storm"
+    ],
+    "fg": "portal_red"
+  },
+  {
+    "id": [
+      "early_portal_storm",
+      "distant_portal_storm"
+    ],
+    "fg": "portal_light_red"
   }
 ]

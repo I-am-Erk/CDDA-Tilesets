@@ -13,4 +13,13 @@ book
 # Krita
 *.png-autosave.kra
 *.kra
+*.kra~
 *.png~
+
+# Direnv & Nix
+.direnv
+result
+.local
+
+# Source multitile files
+source

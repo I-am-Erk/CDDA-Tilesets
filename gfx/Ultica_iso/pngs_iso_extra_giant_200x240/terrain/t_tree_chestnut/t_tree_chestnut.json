@@ -1,0 +1,73 @@
+[ 
+  {
+    "id": "t_tree_chestnut_season_spring",
+    "fg": "t_tree_chestnut_spring",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_chestnut_season_summer",
+    "fg": "t_tree_chestnut_summer",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_chestnut_season_autumn",
+    "fg": "t_tree_chestnut_autumn_yield",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_chestnut_season_winter",
+    "fg": "t_tree_chestnut_winter",
+    "bg": "snow_shallow_extra_giant"
+  },
+  
+  {
+    "id": "t_tree_chestnut_harvested_season_spring",
+    "fg": "t_tree_chestnut_spring",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_chestnut_harvested_season_summer",
+    "fg": "t_tree_chestnut_summer",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_chestnut_harvested_season_autumn",
+    "fg": "t_tree_chestnut_autumn",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_chestnut_harvested_season_winter",
+    "fg": "t_tree_chestnut_winter",
+    "bg": "snow_shallow_extra_giant"
+  },
+  
+  {
+    "id": "t_tree_chestnut_transparent_season_spring",
+    "fg": "t_tree_chestnut_spring_transparent",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_chestnut_transparent_season_summer",
+    "fg": "t_tree_chestnut_summer_transparent",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_chestnut_transparent_season_autumn",
+    "fg": "t_tree_chestnut_autumn_yield_transparent",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_chestnut_transparent_season_winter",
+    "fg": "t_tree_chestnut_winter_transparent",
+    "bg": "snow_shallow_extra_giant"
+  },
+  
+  {
+    "id": "t_tree_chestnut_harvested_transparent_season_spring",
+    "fg": "t_tree_chestnut_spring_transparent",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_chestnut_harvested_transparent_season_summer",
+    "fg": "t_tree_chestnut_summer_transparent",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_chestnut_harvested_transparent_season_autumn",
+    "fg": "t_tree_chestnut_autumn_transparent",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_chestnut_harvested_transparent_season_winter",
+    "fg": "t_tree_chestnut_winter_transparent",
+    "bg": "snow_shallow_extra_giant"
+  }  
+]

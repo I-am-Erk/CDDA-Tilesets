@@ -1,0 +1,27 @@
+[
+  {
+    "id": "t_tree_coffee",
+    "fg": "t_tree_coffee",
+    "bg": "t_grass_giant"
+  },
+  {
+    "id": "t_tree_coffee_season_summer",
+    "fg": "t_tree_coffee",
+    "bg": "t_grass_summer_giant"
+  },
+  {
+    "id": "t_tree_coffee_season_autumn",
+    "fg": "t_tree_coffee_season_autumn",
+    "bg": "t_grass_autumn_giant"
+  },
+  {
+    "id": "t_tree_coffee_harvested",
+    "fg": "t_tree_coffee_harvested",
+    "bg": "t_grass_autumn_giant"
+  },
+  {
+    "id": "t_tree_coffee_season_winter",
+    "fg": "t_tree_coffee_season_winter",
+    "bg": "snow_shallow_giant"
+  }
+]

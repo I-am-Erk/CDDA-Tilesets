@@ -1,0 +1,25 @@
+{
+  "id": [
+    "vp_hddoor_trunk",
+    "vp_hddoor_trunk_rear",
+    "vp_hdhatch_rear",
+    "vp_hdhatch",
+    "vp_hdhatch_opaque"
+  ],
+  "fg": "vp_hddoor_trunk_closed_rear",
+  "bg": "background_black",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_hddoor_broken",
+      "//": "temporary"
+    },
+    {
+      "id": "open",
+      "fg": "vp_hddoor_trunk_open_rear",
+      "bg": "background_black"
+    }
+  ]
+}

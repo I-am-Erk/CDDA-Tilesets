@@ -1,0 +1,12 @@
+{
+  "id": "vp_blade_horizontal",
+  "fg": "vp_blade_horizontal",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_blade_vertical_broken"
+    }
+  ]
+}

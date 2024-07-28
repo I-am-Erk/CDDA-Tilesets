@@ -25,5 +25,10 @@
     "id": "mon_zombie_marine",
     "fg": "mon_zombie_marine",
     "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_zombie_marine_upgrade",
+    "fg": "mon_zombie_marine_upgrade",
+    "bg": "shadow_32x48_medium"
   }
 ]

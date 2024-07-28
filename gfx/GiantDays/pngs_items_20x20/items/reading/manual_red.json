@@ -1,0 +1,33 @@
+{
+  "id": [
+    "novel_thriller",
+    "novel_sports",
+    "fairy_tales",
+    "holybook_talmud",
+    "holybook_tripitaka",
+    "holybook_pastafarian",
+    "holybook_slack",
+    "holybook_kallisti",
+    "manual_karate",
+    "manual_aikido",
+    "manual_judo",
+    "manual_tai_chi",
+    "manual_capoeira",
+    "manual_krav_maga",
+    "manual_muay_thai",
+    "manual_ninjutsu",
+    "manual_taekwondo",
+    "manual_zui_quan",
+    "manual_crane",
+    "manual_dragon",
+    "manual_leopard",
+    "manual_tiger",
+    "manual_snake",
+    "manual_centipede",
+    "manual_scorpion",
+    "manual_toad",
+    "manual_lizard",
+    "manual_venom_snake"
+  ],
+  "fg": "manual_red"
+}

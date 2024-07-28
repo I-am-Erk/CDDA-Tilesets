@@ -1,0 +1,21 @@
+{
+  "id": [
+    "qt_chainmail_hauberk",
+    "chainmail_junk_hauberk",
+    "mc_chainmail_hauberk",
+    "lc_chainmail_hauberk",
+    "ch_chainmail_hauberk",
+    "hc_chainmail_hauberk",
+    "ch_chainmail_hauberk_xs",
+    "mc_chainmail_hauberk_xs",
+    "hc_chainmail_hauberk_xs",
+    "qt_chainmail_hauberk_xs",
+    "lc_chainmail_hauberk_xs",
+    "xl_qt_chainmail_hauberk",
+    "xl_ch_chainmail_hauberk",
+    "xl_mc_chainmail_hauberk",
+    "xl_lc_chainmail_hauberk",
+    "xl_hc_chainmail_hauberk"
+  ],
+  "fg": "chainmail_hauberk"
+}

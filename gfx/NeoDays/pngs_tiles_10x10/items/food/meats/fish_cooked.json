@@ -1,0 +1,9 @@
+{
+  "id": [
+    "fish_cooked",
+    "fish_pickled",
+    "salted_fish",
+    "wool_staple"
+  ],
+  "fg": "fish_cooked"
+}

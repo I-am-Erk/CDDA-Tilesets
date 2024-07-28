@@ -6,7 +6,7 @@ a tile_config.json and tilesheet .png file(s) ready for use in CDDA.
 Examples:
 
     %(prog)s ../CDDA-Tilesets/gfx/Retrodays/
-    %(prog)s --use-all ../CDDA-Tilesets/gfx/UltimateCataclysm/
+    %(prog)s --no-use-all ../CDDA-Tilesets/gfx/UltimateCataclysm/
 
 By default, output is written back to the source directory. Pass an output
 directory as the last argument to place output files there instead. The
@@ -225,7 +225,7 @@ class Tileset:
         self,
         source_dir: Path,
         output_dir: Path,
-        use_all: bool = False,
+        no_use_all: bool = False,
         obsolete_fillers: bool = False,
         palette_copies: bool = False,
         palette: bool = False,
@@ -234,7 +234,7 @@ class Tileset:
     ) -> None:
         self.source_dir = source_dir
         self.output_dir = output_dir
-        self.use_all = use_all
+        self.no_use_all = no_use_all
         self.obsolete_fillers = obsolete_fillers
         self.palette_copies = palette_copies
         self.palette = palette
@@ -259,6 +259,7 @@ class Tileset:
         info_path = self.source_dir.joinpath('tile_info.json')
         self.sprite_width = 16
         self.sprite_height = 16
+        self.zlevel_height = 0
         self.pixelscale = 1
         self.iso = False
         self.retract_dist_min = -1.0
@@ -272,6 +273,8 @@ class Tileset:
             self.info = json.load(file)
             self.sprite_width = self.info[0].get('width', self.sprite_width)
             self.sprite_height = self.info[0].get('height', self.sprite_height)
+            self.zlevel_height = self.info[0].get('zlevel_height',
+                                                  self.zlevel_height)
             self.pixelscale = self.info[0].get('pixelscale', self.pixelscale)
             self.retract_dist_min = self.info[0].get('retract_dist_min',
                                                      self.retract_dist_min)
@@ -367,7 +370,7 @@ class Tileset:
             unused: list,
             fillers: bool,
         ) -> None:
-            # the list must be empty without use_all
+            # the list must be on no_use_all
             mode = unused if no_tqdm or run_silent else tqdm(unused)
             for unused_png in mode:
                 if unused_png in self.processed_ids:
@@ -471,6 +474,7 @@ class Tileset:
                 'pixelscale': self.pixelscale,
                 'width': self.sprite_width,
                 'height': self.sprite_height,
+                'zlevel_height': self.zlevel_height,
                 'iso': self.iso,
                 'retract_dist_min': self.retract_dist_min,
                 'retract_dist_max': self.retract_dist_max
@@ -490,21 +494,23 @@ class Tileset:
         '''
         Either warn about unused sprites or return the list
         '''
-        if self.use_all:
-            return self.unreferenced_pngnames[sheet_type]
 
-        for pngname in self.unreferenced_pngnames[sheet_type]:
-            if pngname in self.processed_ids:
-                log.error(
-                    '%(1)s.png not used when %(1)s ID '
-                    'is mentioned in a tile entry',
-                    {'1': pngname})
+        if self.no_use_all:
+            for pngname in self.unreferenced_pngnames[sheet_type]:
+                if pngname in self.processed_ids:
+                    log.error(
+                        '%(1)s.png not used when %(1)s ID '
+                        'is mentioned in a tile entry',
+                        {'1': pngname})
 
-            else:
-                log.warning(
-                    'sprite filename %s was not used in any %s %s entries',
-                    pngname, sheet_type, self.output_conf_file)
-        return []
+                else:
+                    log.warning(
+                        'sprite filename %s was not used in any %s %s entries',
+                        pngname, sheet_type, self.output_conf_file)
+            return []
+
+        return self.unreferenced_pngnames[sheet_type]
+
 
 
 class Tilesheet:
@@ -919,8 +925,11 @@ def main() -> Union[int, ComposingException]:
         'output_dir', nargs='?', type=Path,
         help='Output directory path')
     arg_parser.add_argument(
-        '--use-all', dest='use_all', action='store_true',
+        '--no-use-all', dest='no_use_all', action='store_true',
         help='Add unused images with id being their basename')
+    arg_parser.add_argument(
+        '--use-all', dest='use_all', action='store_true',
+        help='Legacy argument for script compatability, enabled by default')
     arg_parser.add_argument(
         '--obsolete-fillers', dest='obsolete_fillers', action='store_true',
         help='Warn about obsoleted fillers')
@@ -987,7 +996,7 @@ def main() -> Union[int, ComposingException]:
                 args_dict.get('output_dir') or
                 args_dict.get('source_dir')
             ),
-            use_all=args_dict.get('use_all', False),
+            no_use_all=args_dict.get('no_use_all', False),
             obsolete_fillers=args_dict.get('obsolete_fillers', False),
             palette_copies=args_dict.get('palette_copies', False),
             palette=args_dict.get('palette', False),

@@ -1,6 +1,6 @@
 [
   {
-    "id": [ "vp_wheel", "vp_wheel_steerable" ],
+    "id": "vp_wheel",
     "fg": "vp_wheel",
     "multitile": true,
     "additional_tiles": [
@@ -12,7 +12,7 @@
     ]
   },
   {
-    "id": [ "vp_wheel_bicycle", "vp_wheel_bicycle_steerable", "vp_wheel_bicycle_or", "vp_wheel_bicycle_or_steerable" ],
+    "id": [ "vp_wheel_bicycle_front", "vp_wheel_bicycle_or_front" ],
     "fg": [ "vp_wheel_bicycle_rotN", "vp_wheel_bicycle_rotW", "vp_wheel_bicycle_rotS", "vp_wheel_bicycle_rotE" ],
     "multitile": true,
     "additional_tiles": [

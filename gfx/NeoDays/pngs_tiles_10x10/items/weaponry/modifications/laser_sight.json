@@ -1,0 +1,8 @@
+{
+  "id": [
+    "laser_sight",
+    "robofac_laser_sight",
+    "rail_laser_sight"
+  ],
+  "fg": "laser_sight"
+}

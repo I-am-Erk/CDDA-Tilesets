@@ -1,0 +1,15 @@
+{
+  "id": [
+    "charcoal_cooker",
+    "rock_pot",
+    "pot_makeshift",
+    "pot_canning",
+    "pressure_cooker",
+    "casserole",
+    "stock_pot",
+    "iron_pot",
+    "pot_aluminum"
+  ],
+  "fg": "pot_canning",
+  "//": "maybe change to something smaller to help differentiate between these items and the standing tank?"
+}

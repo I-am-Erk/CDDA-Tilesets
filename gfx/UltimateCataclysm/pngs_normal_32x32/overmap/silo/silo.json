@@ -1,18 +1,27 @@
-[{
+[
+  {
     "id": [
-		"2silos",
-		"ranch_camp_57"
-	],
+	  	"2silos",
+		  "ranch_camp_57",
+      "farm_horse_silo"
+	  ],
     "fg": [ "silos_faceNS", "silos_faceEW", "silos_faceNS", "silos_faceEW" ], 
     "bg": "field",
     "rotates": true
- },{
-	"id": [
-	"2silos_1",
-	"2silos_2",
-	"2silos_roof"
-	],
-	"fg": [ "silos_faceNS", "silos_faceEW", "silos_faceNS", "silos_faceEW" ],
-	"bg": "open_air",
-	"rotates": true
-}]
+ },
+ {
+  	"id": [
+  	  "2silos_1",
+	    "2silos_2",
+    	"2silos_roof",
+      "ranch_camp_57_roof",
+      "ranch_camp_57_silo",
+      "ranch_camp_57_silocap",
+      "farm_horse_silo_1",
+      "farm_horse_silo_roof"
+  	],
+	  "fg": [ "silos_faceNS", "silos_faceEW", "silos_faceNS", "silos_faceEW" ],
+  	"bg": "open_air",
+  	"rotates": true
+  }
+]

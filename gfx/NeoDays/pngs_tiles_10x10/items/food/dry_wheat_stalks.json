@@ -1,0 +1,12 @@
+{
+  "id": [
+    "dry_wheat_stalks",
+    "dry_barley_stalks",
+    "dry_oat_stalks",
+    "dry_canola_stalks",
+    "dry_lentil_stalks",
+    "dry_buckwheat_stalks",
+    "dry_wild_rice_stalks"
+  ],
+  "fg": "dry_wheat_stalks"
+}

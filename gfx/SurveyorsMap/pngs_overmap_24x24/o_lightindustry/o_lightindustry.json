@@ -1,0 +1,63 @@
+[
+    {
+      "id": [ "s_lightindustry_road_0", "s_lightindustry_scen_road_0" ],
+      "fg": [ "s_lightindustry_road_0_S", "s_lightindustry_road_0_E", "s_lightindustry_road_0_N", "s_lightindustry_road_0_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "s_lightindustry_road_1", "s_lightindustry_scen_road_1" ],
+      "fg": [ "s_lightindustry_road_1_S", "s_lightindustry_road_1_E", "s_lightindustry_road_1_N", "s_lightindustry_road_1_W" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+        "id": [ "s_lightindustry_00", "s_lightindustry_scen_00" ],
+        "fg": [ "s_lightindustry_00_S", "s_lightindustry_00_E", "s_lightindustry_00_N", "s_lightindustry_00_W" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "s_lightindustry_00_roof", "s_lightindustry_scen_00_roof" ],
+        "fg": [ "s_lightindustry_00_roof_S", "s_lightindustry_00_roof_E", "s_lightindustry_00_roof_N", "s_lightindustry_00_roof_W" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "s_lightindustry_01", "s_lightindustry_scen_01" ],
+        "fg": [ "s_lightindustry_01_S", "s_lightindustry_01_E", "s_lightindustry_01_N", "s_lightindustry_01_W" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "s_lightindustry_01_roof", "s_lightindustry_scen_01_roof" ],
+        "fg": [ "s_lightindustry_01_roof_S", "s_lightindustry_01_roof_E", "s_lightindustry_01_roof_N", "s_lightindustry_01_roof_W" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "s_lightindustry_10", "s_lightindustry_scen_10" ],
+        "fg": [ "s_lightindustry_10_S", "s_lightindustry_10_E", "s_lightindustry_10_N", "s_lightindustry_10_W" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "s_lightindustry_10_roof", "s_lightindustry_scen_10_roof" ],
+        "fg": [ "s_lightindustry_10_roof_S", "s_lightindustry_10_roof_E", "s_lightindustry_10_roof_N", "s_lightindustry_10_roof_W" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "s_lightindustry_11", "s_lightindustry_scen_11" ],
+        "fg": [ "s_lightindustry_11_S", "s_lightindustry_11_E", "s_lightindustry_11_N", "s_lightindustry_11_W" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "s_lightindustry_11_roof", "s_lightindustry_scen_11_roof" ],
+        "fg": [ "s_lightindustry_11_roof_S", "s_lightindustry_11_roof_E", "s_lightindustry_11_roof_N", "s_lightindustry_11_roof_W" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      }
+  ]
+  

@@ -1,8 +1,12 @@
-[{
-	"id": "cave",
-	"fg": "cave",
-	"bg": "field"
-},{
-	"id": "cave_underground",
-	"fg": "cave"
-}]
+[
+  {
+	  "id": "cave",
+  	"fg": "cave",
+	  "bg": "field"
+  },
+  {
+  	"id": "cave_underground",
+	  "fg": "cave",
+    "bg": "t_soil_center"
+  }
+]

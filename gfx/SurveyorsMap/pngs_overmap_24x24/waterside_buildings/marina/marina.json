@@ -1,0 +1,141 @@
+[
+    {
+      "id": [ "marina_5" ],
+      "fg": [ "marina_5_N", "marina_5_W", "marina_5_S", "marina_5_E" ],
+      "bg": [ "deep_river" ],
+      "rotates": true
+    },
+    {
+      "id": [ "marina_4" ],
+      "fg": [ "marina_4_N", "marina_4_W", "marina_4_S", "marina_4_E" ],
+      "bg": [ "deep_river" ],
+      "rotates": true
+    },
+    {
+      "id": [ "marina_3" ],
+      "fg": [ "marina_3_N", "marina_3_W", "marina_3_S", "marina_3_E" ],
+      "bg": [ "deep_river" ],
+      "rotates": true
+    },
+    {
+      "id": [ "marina_2" ],
+      "fg": [ "marina_2_N", "marina_2_W", "marina_2_S", "marina_2_E" ],
+      "bg": [ "deep_river" ],
+      "rotates": true
+    },
+    {
+      "id": [ "marina_1" ],
+      "fg": [ "marina_1_N", "marina_1_W", "marina_1_S", "marina_1_E" ],
+      "bg": [ "deep_river" ],
+      "rotates": true
+    },
+    {
+      "id": [ "marina_10" ],
+      "fg": [ "marina_10_N", "marina_10_W", "marina_10_S", "marina_10_E" ],
+      "bg": [ "deep_river" ],
+      "rotates": true
+    },
+    {
+      "id": [ "marina_9" ],
+      "fg": [ "marina_9_N", "marina_9_W", "marina_9_S", "marina_9_E" ],
+      "bg": [ "deep_river" ],
+      "rotates": true
+    },
+    {
+      "id": [ "marina_8" ],
+      "fg": [ "marina_8_N", "marina_8_W", "marina_8_S", "marina_8_E" ],
+      "bg": [ "deep_river" ],
+      "rotates": true
+    },
+    {
+      "id": [ "marina_7" ],
+      "fg": [ "marina_7_N", "marina_7_W", "marina_7_S", "marina_7_E" ],
+      "bg": [ "deep_river" ],
+      "rotates": true
+    },
+    {
+      "id": [ "marina_6" ],
+      "fg": [ "marina_6_N", "marina_6_W", "marina_6_S", "marina_6_E" ],
+      "bg": [ "deep_river" ],
+      "rotates": true
+    },
+    {
+      "id": [ "marina_15" ],
+      "fg": [ "marina_15_N", "marina_15_W", "marina_15_S", "marina_15_E" ],
+      "bg": [ "river_S" ],
+      "rotates": true
+    },
+    {
+      "id": [ "marina_14" ],
+      "fg": [ "marina_14_N", "marina_14_W", "marina_14_S", "marina_14_E" ],
+      "bg": [ "river_S" ],
+      "rotates": true
+    },
+    {
+      "id": [ "marina_13" ],
+      "fg": [ "marina_13_N", "marina_13_W", "marina_13_S", "marina_13_E" ],
+      "bg": [ "river_S" ],
+      "rotates": true
+    },
+    {
+      "id": [ "marina_12" ],
+      "fg": [ "marina_12_N", "marina_12_W", "marina_12_S", "marina_12_E" ],
+      "bg": [ "river_S" ],
+      "rotates": true
+    },
+    {
+      "id": [ "marina_11" ],
+      "fg": [ "marina_11_N", "marina_11_W", "marina_11_S", "marina_11_E" ],
+      "bg": [ "river_S" ],
+      "rotates": true
+    },
+    {
+      "id": [ "marina_20" ],
+      "fg": [ "marina_20_N", "marina_20_W", "marina_20_S", "marina_20_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "marina_19" ],
+      "fg": [ "marina_19_N", "marina_19_W", "marina_19_S", "marina_19_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "marina_18" ],
+      "fg": [ "marina_18_N", "marina_18_W", "marina_18_S", "marina_18_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "marina_17" ],
+      "fg": [ "marina_17_N", "marina_17_W", "marina_17_S", "marina_17_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "marina_16" ],
+      "fg": [ "marina_16_N", "marina_16_W", "marina_16_S", "marina_16_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "marina_15_roof" ],
+      "fg": [ "marina_15_roof_N", "marina_15_roof_W", "marina_15_roof_S", "marina_15_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "marina_12_roof" ],
+      "fg": [ "marina_12_roof_N", "marina_12_roof_W", "marina_12_roof_S", "marina_12_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "marina_11_roof" ],
+      "fg": [ "marina_11_roof_N", "marina_11_roof_W", "marina_11_roof_S", "marina_11_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    }
+  ]
+  

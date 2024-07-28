@@ -1,0 +1,25 @@
+{
+  "id": [
+    "paper",
+    "recipe_atomic_battery",
+    "scorecard",
+    "sarcophagus_access_code",
+    "flyer",
+    "survnote",
+    "file",
+    "note",
+    "newest_newspaper",
+    "many_years_old_newspaper",
+    "years_old_newspaper",
+    "one_year_old_newspaper",
+    "months_old_newspaper",
+    "weeks_old_newspaper",
+    "newspaper_memorial",
+    "necropolis_leaflet",
+    "black_box_transcript",
+    "large_printout_portal_storm_data",
+    "medium_printout_portal_storm_data",
+    "small_printout_portal_storm_data"
+  ],
+  "fg": "paper"
+}

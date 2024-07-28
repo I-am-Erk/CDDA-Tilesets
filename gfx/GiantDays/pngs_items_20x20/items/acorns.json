@@ -1,0 +1,27 @@
+{
+  "id": [
+    "acorns",
+    "veggy_cooked",
+    "veggy_wild_cooked",
+    "choco_coffee_beans",
+    "maltballs",
+    "datura_seed",
+    "coffee_bean",
+    "roasted_coffee_bean",
+    "seed_broccoli",
+    "raw_beans",
+    "hickory_nut_roasted",
+    "hickory_nut_unshelled",
+    "seed_cabbage",
+    "seed_sunflower",
+    "macaroni_raw",
+    "seed_onion",
+    "mre_veggy",
+    "hickory_nut",
+    "pistachio_roasted",
+    "pistachio_unshelled",
+    "seed_tobacco",
+    "seed_beans"
+  ],
+  "fg": "acorns"
+}

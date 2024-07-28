@@ -1,0 +1,17 @@
+{
+  "id": "f_ladder",
+  "fg": "f_ladder_end_piece_n",
+  "height_3d": 25,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_ladder_end_piece_n",
+        "f_ladder_end_piece_e",
+        "f_ladder_end_piece_s",
+        "f_ladder_end_piece_w"
+      ]
+    }
+  ]
+}

@@ -6,6 +6,8 @@
     "hflesh_shake_fortified",
     "hflesh_shake",
     "mead",
+    "cheese_rehydrated",
+    "rehydrated_eggs",
     "brew_mead",
     "dandelion_wine",
     "brew_dandelion_wine",
@@ -21,7 +23,9 @@
     "crude_lamp_oil",
     "motor_oil",
     "camphine",
-    "chem_turpentine"
+    "chem_turpentine",
+    "paint_yellow",
+    "hair_dye_blond"
   ],
   "fg": "cooking_oil"
 }

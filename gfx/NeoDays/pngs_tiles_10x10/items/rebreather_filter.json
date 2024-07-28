@@ -1,0 +1,14 @@
+{
+  "id": [
+    "rebreather_filter",
+    "rebreather_cartridge_regen",
+    "rebreather_cartridge_o2",
+    "rebreather_cartridge_air",
+    "gasfilter_s",
+    "gasfilter_sm",
+    "gasfilter_m",
+    "gasfilter_med",
+    "gasfilter_l"
+  ],
+  "fg": "rebreather_filter"
+}

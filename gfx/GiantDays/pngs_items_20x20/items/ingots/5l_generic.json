@@ -1,0 +1,11 @@
+{
+  "id": [
+    "5l_tin",
+    "5l_zinc",
+    "5l_iron",
+    "5l_silver",
+    "5l_aluminum"
+  ],
+  "fg": "5l_generic",
+  "//": "filler because of want for materials to be consistent across all items"
+}

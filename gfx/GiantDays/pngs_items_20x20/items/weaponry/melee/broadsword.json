@@ -1,0 +1,12 @@
+{
+  "id": [
+    "broadsword",
+    "broadsword_inferior",
+    "broadsword_fake",
+    "zweihander",
+    "zweihander_inferior",
+    "zweihander_fake",
+    "sword_crude_large"
+  ],
+  "fg": "broadsword"
+}

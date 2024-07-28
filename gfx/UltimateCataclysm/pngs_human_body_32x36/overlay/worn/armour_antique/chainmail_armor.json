@@ -1,82 +1,338 @@
 [
   {
-    "id": "overlay_female_worn_chainmail_suit",
-    "fg": "chainmail_armor_f",
-    "bg": ""
+    "id": [
+      "overlay_female_worn_qt_chainmail_suit",
+      "overlay_female_worn_mc_chainmail_suit",
+      "overlay_female_worn_lc_chainmail_suit",
+      "overlay_female_worn_ch_chainmail_suit",
+      "overlay_female_worn_hc_chainmail_suit",
+      "overlay_female_worn_ch_chainmail_suit_xs",
+      "overlay_female_worn_mc_chainmail_suit_xs",
+      "overlay_female_worn_hc_chainmail_suit_xs",
+      "overlay_female_worn_qt_chainmail_suit_xs",
+      "overlay_female_worn_lc_chainmail_suit_xs",
+      "overlay_female_worn_xl_qt_chainmail_suit",
+      "overlay_female_worn_xl_ch_chainmail_suit",
+      "overlay_female_worn_xl_mc_chainmail_suit",
+      "overlay_female_worn_xl_lc_chainmail_suit",
+      "overlay_female_worn_xl_hc_chainmail_suit",
+      "overlay_female_worn_chainmail_junk_suit"
+    ],
+    "fg": "chainmail_suit_f"
   },
   {
-    "id": "overlay_male_worn_chainmail_suit",
-    "fg": "chainmail_armor_m",
-    "bg": ""
+    "id": [
+      "overlay_male_worn_qt_chainmail_suit",
+      "overlay_male_worn_mc_chainmail_suit",
+      "overlay_male_worn_lc_chainmail_suit",
+      "overlay_male_worn_ch_chainmail_suit",
+      "overlay_male_worn_hc_chainmail_suit",
+      "overlay_male_worn_ch_chainmail_suit_xs",
+      "overlay_male_worn_mc_chainmail_suit_xs",
+      "overlay_male_worn_hc_chainmail_suit_xs",
+      "overlay_male_worn_qt_chainmail_suit_xs",
+      "overlay_male_worn_lc_chainmail_suit_xs",
+      "overlay_male_worn_xl_qt_chainmail_suit",
+      "overlay_male_worn_xl_ch_chainmail_suit",
+      "overlay_male_worn_xl_mc_chainmail_suit",
+      "overlay_male_worn_xl_lc_chainmail_suit",
+      "overlay_male_worn_xl_hc_chainmail_suit",
+      "overlay_male_worn_chainmail_junk_suit"
+    ],
+    "fg": "chainmail_suit_m"
   },
   {
-    "id": "overlay_female_worn_chainmail_feet",
-    "fg": "chainmail_chausses_f",
-    "bg": ""
+    "id": [
+      "overlay_female_worn_lc_chainmail_feet",
+      "overlay_female_worn_mc_chainmail_feet",
+      "overlay_female_worn_ch_chainmail_feet",
+      "overlay_female_worn_qt_chainmail_feet",
+      "overlay_female_worn_hc_chainmail_feet",
+      "overlay_female_worn_xs_mc_chainmail_feet",
+      "overlay_female_worn_xl_mc_chainmail_feet",
+      "overlay_female_worn_xl_lc_chainmail_feet",
+      "overlay_female_worn_xl_ch_chainmail_feet",
+      "overlay_female_worn_xs_ch_chainmail_feet",
+      "overlay_female_worn_xs_hc_chainmail_feet",
+      "overlay_female_worn_xl_qt_chainmail_feet",
+      "overlay_female_worn_xs_qt_chainmail_feet",
+      "overlay_female_worn_xl_hc_chainmail_feet",
+      "overlay_female_worn_xs_lc_chainmail_feet",
+      "overlay_female_worn_chainmail_junk_feet"
+    ],
+    "fg": "chainmail_feet_f"
   },
   {
-    "id": "overlay_male_worn_chainmail_feet",
-    "fg": "chainmail_chausses_m",
-    "bg": ""
+    "id": [
+      "overlay_male_worn_lc_chainmail_feet",
+      "overlay_male_worn_mc_chainmail_feet",
+      "overlay_male_worn_ch_chainmail_feet",
+      "overlay_male_worn_qt_chainmail_feet",
+      "overlay_male_worn_hc_chainmail_feet",
+      "overlay_male_worn_xs_mc_chainmail_feet",
+      "overlay_male_worn_xl_mc_chainmail_feet",
+      "overlay_male_worn_xl_lc_chainmail_feet",
+      "overlay_male_worn_xl_ch_chainmail_feet",
+      "overlay_male_worn_xs_ch_chainmail_feet",
+      "overlay_male_worn_xs_hc_chainmail_feet",
+      "overlay_male_worn_xl_qt_chainmail_feet",
+      "overlay_male_worn_xs_qt_chainmail_feet",
+      "overlay_male_worn_xl_hc_chainmail_feet",
+      "overlay_male_worn_xs_lc_chainmail_feet",
+      "overlay_male_worn_chainmail_junk_feet"
+    ],
+    "fg": "chainmail_feet_m"
   },
   {
-    "id": "overlay_female_worn_chainmail_hood",
-    "fg": "chainmail_coif_f",
-    "bg": ""
+    "id": [
+    "overlay_female_worn_lc_chainmail_hood",
+    "overlay_female_worn_mc_chainmail_hood",
+    "overlay_female_worn_ch_chainmail_hood",
+    "overlay_female_worn_qt_chainmail_hood",
+    "overlay_female_worn_hc_chainmail_hood",
+    "overlay_female_worn_xs_mc_chainmail_hood",
+    "overlay_female_worn_xl_mc_chainmail_hood",
+    "overlay_female_worn_xl_lc_chainmail_hood",
+    "overlay_female_worn_xl_ch_chainmail_hood",
+    "overlay_female_worn_xs_ch_chainmail_hood",
+    "overlay_female_worn_xs_hc_chainmail_hood",
+    "overlay_female_worn_xl_qt_chainmail_hood",
+    "overlay_female_worn_xs_qt_chainmail_hood",
+    "overlay_female_worn_xl_hc_chainmail_hood",
+    "overlay_female_worn_xs_lc_chainmail_hood",
+    "overlay_female_worn_chainmail_junk_hood"
+  ],
+    "fg": "chainmail_coif_f"
   },
   {
-    "id": "overlay_male_worn_chainmail_hood",
-    "fg": "chainmail_coif_m",
-    "bg": ""
+    "id": [
+    "overlay_male_worn_lc_chainmail_hood",
+    "overlay_male_worn_mc_chainmail_hood",
+    "overlay_male_worn_ch_chainmail_hood",
+    "overlay_male_worn_qt_chainmail_hood",
+    "overlay_male_worn_hc_chainmail_hood",
+    "overlay_male_worn_xs_mc_chainmail_hood",
+    "overlay_male_worn_xl_mc_chainmail_hood",
+    "overlay_male_worn_xl_lc_chainmail_hood",
+    "overlay_male_worn_xl_ch_chainmail_hood",
+    "overlay_male_worn_xs_ch_chainmail_hood",
+    "overlay_male_worn_xs_hc_chainmail_hood",
+    "overlay_male_worn_xl_qt_chainmail_hood",
+    "overlay_male_worn_xs_qt_chainmail_hood",
+    "overlay_male_worn_xl_hc_chainmail_hood",
+    "overlay_male_worn_xs_lc_chainmail_hood",
+    "overlay_male_worn_chainmail_junk_hood"
+  ],
+    "fg": "chainmail_coif_m"
   },
   {
-    "id": "overlay_female_worn_chainmail_hands",
-    "fg": "chainmail_gloves_f",
-    "bg": ""
+    "id": [
+      "overlay_female_worn_lc_chainmail_hands",
+      "overlay_female_worn_mc_chainmail_hands",
+      "overlay_female_worn_ch_chainmail_hands",
+      "overlay_female_worn_qt_chainmail_hands",
+      "overlay_female_worn_hc_chainmail_hands",
+      "overlay_female_worn_xs_mc_chainmail_hands",
+      "overlay_female_worn_xl_mc_chainmail_hands",
+      "overlay_female_worn_xl_lc_chainmail_hands",
+      "overlay_female_worn_xl_ch_chainmail_hands",
+      "overlay_female_worn_xs_ch_chainmail_hands",
+      "overlay_female_worn_xs_hc_chainmail_hands",
+      "overlay_female_worn_xl_qt_chainmail_hands",
+      "overlay_female_worn_xs_qt_chainmail_hands",
+      "overlay_female_worn_xl_hc_chainmail_hands",
+      "overlay_female_worn_xs_lc_chainmail_hands",
+      "overlay_female_worn_chainmail_junk_hands"
+    ],
+    "fg": "chainmail_gloves_f"
   },
   {
-    "id": "overlay_male_worn_chainmail_hands",
-    "fg": "chainmail_gloves_m",
-    "bg": ""
+    "id": [
+      "overlay_male_worn_lc_chainmail_hands",
+      "overlay_male_worn_mc_chainmail_hands",
+      "overlay_male_worn_ch_chainmail_hands",
+      "overlay_male_worn_qt_chainmail_hands",
+      "overlay_male_worn_hc_chainmail_hands",
+      "overlay_male_worn_xs_mc_chainmail_hands",
+      "overlay_male_worn_xl_mc_chainmail_hands",
+      "overlay_male_worn_xl_lc_chainmail_hands",
+      "overlay_male_worn_xl_ch_chainmail_hands",
+      "overlay_male_worn_xs_ch_chainmail_hands",
+      "overlay_male_worn_xs_hc_chainmail_hands",
+      "overlay_male_worn_xl_qt_chainmail_hands",
+      "overlay_male_worn_xs_qt_chainmail_hands",
+      "overlay_male_worn_xl_hc_chainmail_hands",
+      "overlay_male_worn_xs_lc_chainmail_hands",
+      "overlay_male_worn_chainmail_junk_hands"
+    ],
+    "fg": "chainmail_gloves_m"
   },
   {
-    "id": "overlay_female_worn_chainmail_hauberk",
-    "fg": "chainmail_hauberk_f",
-    "bg": ""
+    "id": [
+      "overlay_female_worn_qt_chainmail_hauberk",
+      "overlay_female_worn_chainmail_junk_hauberk",
+      "overlay_female_worn_mc_chainmail_hauberk",
+      "overlay_female_worn_lc_chainmail_hauberk",
+      "overlay_female_worn_ch_chainmail_hauberk",
+      "overlay_female_worn_hc_chainmail_hauberk",
+      "overlay_female_worn_ch_chainmail_hauberk_xs",
+      "overlay_female_worn_mc_chainmail_hauberk_xs",
+      "overlay_female_worn_hc_chainmail_hauberk_xs",
+      "overlay_female_worn_qt_chainmail_hauberk_xs",
+      "overlay_female_worn_lc_chainmail_hauberk_xs",
+      "overlay_female_worn_xl_qt_chainmail_hauberk",
+      "overlay_female_worn_xl_ch_chainmail_hauberk",
+      "overlay_female_worn_xl_mc_chainmail_hauberk",
+      "overlay_female_worn_xl_lc_chainmail_hauberk",
+      "overlay_female_worn_xl_hc_chainmail_hauberk"
+    ],
+    "fg": "chainmail_hauberk_f"
   },
   {
-    "id": "overlay_male_worn_chainmail_hauberk",
-    "fg": "chainmail_hauberk_m",
-    "bg": ""
+    "id": [
+      "overlay_male_worn_qt_chainmail_hauberk",
+      "overlay_male_worn_chainmail_junk_hauberk",
+      "overlay_male_worn_mc_chainmail_hauberk",
+      "overlay_male_worn_lc_chainmail_hauberk",
+      "overlay_male_worn_ch_chainmail_hauberk",
+      "overlay_male_worn_hc_chainmail_hauberk",
+      "overlay_male_worn_ch_chainmail_hauberk_xs",
+      "overlay_male_worn_mc_chainmail_hauberk_xs",
+      "overlay_male_worn_hc_chainmail_hauberk_xs",
+      "overlay_male_worn_qt_chainmail_hauberk_xs",
+      "overlay_male_worn_lc_chainmail_hauberk_xs",
+      "overlay_male_worn_xl_qt_chainmail_hauberk",
+      "overlay_male_worn_xl_ch_chainmail_hauberk",
+      "overlay_male_worn_xl_mc_chainmail_hauberk",
+      "overlay_male_worn_xl_lc_chainmail_hauberk",
+      "overlay_male_worn_xl_hc_chainmail_hauberk"
+    ],
+    "fg": "chainmail_hauberk_m"
   },
   {
-    "id": "overlay_female_worn_chainmail_legs",
-    "fg": "chainmail_leggings_f",
-    "bg": ""
+    "id": [
+      "overlay_female_worn_mc_chainmail_legs",
+      "overlay_female_worn_lc_chainmail_legs",
+      "overlay_female_worn_ch_chainmail_legs",
+      "overlay_female_worn_qt_chainmail_legs",
+      "overlay_female_worn_hc_chainmail_legs",
+      "overlay_female_worn_xl_ch_chainmail_legs",
+      "overlay_female_worn_xl_qt_chainmail_legs",
+      "overlay_female_worn_xl_lc_chainmail_legs",
+      "overlay_female_worn_xs_ch_chainmail_legs",
+      "overlay_female_worn_xs_mc_chainmail_legs",
+      "overlay_female_worn_xs_hc_chainmail_legs",
+      "overlay_female_worn_xl_mc_chainmail_legs",
+      "overlay_female_worn_xs_lc_chainmail_legs",
+      "overlay_female_worn_xs_qt_chainmail_legs",
+      "overlay_female_worn_xl_hc_chainmail_legs",
+      "overlay_female_worn_chainmail_junk_legs"
+    ],
+    "fg": "chainmail_leggings_f"
   },
   {
-    "id": "overlay_male_worn_chainmail_legs",
-    "fg": "chainmail_leggings_m",
-    "bg": ""
+    "id": [
+      "overlay_male_worn_mc_chainmail_legs",
+      "overlay_male_worn_lc_chainmail_legs",
+      "overlay_male_worn_ch_chainmail_legs",
+      "overlay_male_worn_qt_chainmail_legs",
+      "overlay_male_worn_hc_chainmail_legs",
+      "overlay_male_worn_xl_ch_chainmail_legs",
+      "overlay_male_worn_xl_qt_chainmail_legs",
+      "overlay_male_worn_xl_lc_chainmail_legs",
+      "overlay_male_worn_xs_ch_chainmail_legs",
+      "overlay_male_worn_xs_mc_chainmail_legs",
+      "overlay_male_worn_xs_hc_chainmail_legs",
+      "overlay_male_worn_xl_mc_chainmail_legs",
+      "overlay_male_worn_xs_lc_chainmail_legs",
+      "overlay_male_worn_xs_qt_chainmail_legs",
+      "overlay_male_worn_xl_hc_chainmail_legs",
+      "overlay_male_worn_chainmail_junk_legs"
+    ],
+    "fg": "chainmail_leggings_m"
   },
   {
-    "id": "overlay_female_worn_chainmail_arms",
-    "fg": "chainmail_sleeves_f",
-    "bg": ""
+    "id": [
+      "overlay_female_worn_lc_chainmail_arms",
+      "overlay_female_worn_mc_chainmail_arms",
+      "overlay_female_worn_ch_chainmail_arms",
+      "overlay_female_worn_qt_chainmail_arms",
+      "overlay_female_worn_hc_chainmail_arms",
+      "overlay_female_worn_xs_mc_chainmail_arms",
+      "overlay_female_worn_xl_mc_chainmail_arms",
+      "overlay_female_worn_xl_lc_chainmail_arms",
+      "overlay_female_worn_xl_ch_chainmail_arms",
+      "overlay_female_worn_xs_ch_chainmail_arms",
+      "overlay_female_worn_xs_hc_chainmail_arms",
+      "overlay_female_worn_xl_qt_chainmail_arms",
+      "overlay_female_worn_xs_qt_chainmail_arms",
+      "overlay_female_worn_xl_hc_chainmail_arms",
+      "overlay_female_worn_xs_lc_chainmail_arms",
+      "overlay_female_worn_chainmail_junk_arms"
+    ],
+    "fg": "chainmail_arms_f"
   },
   {
-    "id": "overlay_male_worn_chainmail_arms",
-    "fg": "chainmail_sleeves_m",
-    "bg": ""
+    "id": [
+      "overlay_male_worn_lc_chainmail_arms",
+      "overlay_male_worn_mc_chainmail_arms",
+      "overlay_male_worn_ch_chainmail_arms",
+      "overlay_male_worn_qt_chainmail_arms",
+      "overlay_male_worn_hc_chainmail_arms",
+      "overlay_male_worn_xs_mc_chainmail_arms",
+      "overlay_male_worn_xl_mc_chainmail_arms",
+      "overlay_male_worn_xl_lc_chainmail_arms",
+      "overlay_male_worn_xl_ch_chainmail_arms",
+      "overlay_male_worn_xs_ch_chainmail_arms",
+      "overlay_male_worn_xs_hc_chainmail_arms",
+      "overlay_male_worn_xl_qt_chainmail_arms",
+      "overlay_male_worn_xs_qt_chainmail_arms",
+      "overlay_male_worn_xl_hc_chainmail_arms",
+      "overlay_male_worn_xs_lc_chainmail_arms",
+      "overlay_male_worn_chainmail_junk_arms"
+    ],
+    "fg": "chainmail_arms_m"
   },
   {
-    "id": "overlay_female_worn_chainmail_vest",
-    "fg": "chainmail_vest_f",
-    "bg": ""
+    "id": [
+      "overlay_female_worn_lc_chainmail_vest",
+      "overlay_female_worn_mc_chainmail_vest",
+      "overlay_female_worn_ch_chainmail_vest",
+      "overlay_female_worn_qt_chainmail_vest",
+      "overlay_female_worn_hc_chainmail_vest",
+      "overlay_female_worn_xs_mc_chainmail_vest",
+      "overlay_female_worn_xl_mc_chainmail_vest",
+      "overlay_female_worn_xl_lc_chainmail_vest",
+      "overlay_female_worn_xl_ch_chainmail_vest",
+      "overlay_female_worn_xs_ch_chainmail_vest",
+      "overlay_female_worn_xs_hc_chainmail_vest",
+      "overlay_female_worn_xl_qt_chainmail_vest",
+      "overlay_female_worn_xs_qt_chainmail_vest",
+      "overlay_female_worn_xl_hc_chainmail_vest",
+      "overlay_female_worn_xs_lc_chainmail_vest",
+      "overlay_female_worn_chainmail_junk_vest"
+    ],
+    "fg": "chainmail_vest_f"
   },
   {
-    "id": "overlay_male_worn_chainmail_vest",
-    "fg": "chainmail_vest_m",
-    "bg": ""
+    "id": [
+      "overlay_male_worn_lc_chainmail_vest",
+      "overlay_male_worn_mc_chainmail_vest",
+      "overlay_male_worn_ch_chainmail_vest",
+      "overlay_male_worn_qt_chainmail_vest",
+      "overlay_male_worn_hc_chainmail_vest",
+      "overlay_male_worn_xs_mc_chainmail_vest",
+      "overlay_male_worn_xl_mc_chainmail_vest",
+      "overlay_male_worn_xl_lc_chainmail_vest",
+      "overlay_male_worn_xl_ch_chainmail_vest",
+      "overlay_male_worn_xs_ch_chainmail_vest",
+      "overlay_male_worn_xs_hc_chainmail_vest",
+      "overlay_male_worn_xl_qt_chainmail_vest",
+      "overlay_male_worn_xs_qt_chainmail_vest",
+      "overlay_male_worn_xl_hc_chainmail_vest",
+      "overlay_male_worn_xs_lc_chainmail_vest",
+      "overlay_male_worn_chainmail_junk_vest"
+    ],
+    "fg": "chainmail_vest_m"
   }
 ]

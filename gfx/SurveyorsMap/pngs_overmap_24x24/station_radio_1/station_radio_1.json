@@ -1,13 +1,13 @@
 [
   {
     "id": [ "station_radio_1" ],
-    "fg": [ "station_radio_1_N", "station_radio_1_E", "station_radio_1_S", "station_radio_1_W" ],
+    "fg": [ "station_radio_1_N", "station_radio_1_W", "station_radio_1_S", "station_radio_1_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "station_radio_roof_1" ],
-    "fg": [ "station_radio_roof_1_N", "station_radio_roof_1_E", "station_radio_roof_1_S", "station_radio_roof_1_W" ],
+    "fg": [ "station_radio_roof_1_N", "station_radio_roof_1_W", "station_radio_roof_1_S", "station_radio_roof_1_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

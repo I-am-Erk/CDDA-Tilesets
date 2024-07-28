@@ -1,0 +1,12 @@
+{
+  "id": "vp_frame_nw",
+  "fg": "vp_frame_nw",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_gray"
+    }
+  ]
+}

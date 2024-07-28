@@ -1,0 +1,46 @@
+[
+
+  {
+    "id": [ "460_casing" ],
+    "bg": [ "" ],
+    "fg": [ "4_casing" ]
+  },
+  {
+    "id": [ "460_casing_transparent" ],
+    "bg": [ "460_b" ],
+    "fg": [ "4_casing" ]
+  },
+
+  {
+    "id": [ "460_rowland" ],
+    "bg": [ "460_b" ],
+    "fg": [ "460_f_casull" ]
+  },
+  {
+    "id": [ "reloaded_460_rowland" ],
+    "bg": [ "460_b_r" ],
+    "fg": [ "460_f_casull" ]
+  },
+  {
+    "id": [ "bp_460_rowland" ],
+    "bg": [ "460_b_bp" ],
+    "fg": [ "460_f_casull" ]
+  },
+
+  {
+    "id": [ "460_fmj" ],
+    "bg": [ "460_b" ],
+    "fg": [ "460_f_hcfn" ]
+  },
+  {
+    "id": [ "reloaded_460_fmj" ],
+    "bg": [ "460_b_r" ],
+    "fg": [ "460_f_hcfn" ]
+  },
+  {
+    "id": [ "bp_460_fmj" ],
+    "bg": [ "460_b_bp" ],
+    "fg": [ "460_f_hcfn" ]
+  }
+  
+]

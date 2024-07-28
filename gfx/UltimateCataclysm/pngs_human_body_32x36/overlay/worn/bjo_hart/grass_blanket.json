@@ -1,0 +1,10 @@
+[
+  {
+    "id": [ "overlay_male_worn_grass_blanket", "overlay_male_worn_grass_sheet" ],
+    "fg": "grass_blanket_m"
+  },
+  {
+    "id": [ "overlay_female_worn_grass_blanket", "overlay_female_worn_grass_sheet" ],
+    "fg": "grass_blanket_f"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "id": "f_glass_fridge",
+  "multitile": true,
+  "fg": [
+    "f_glass_fridge_0",
+    "f_glass_fridge_1",
+    "f_fridge_2",
+    "f_fridge_3"
+  ]
+}

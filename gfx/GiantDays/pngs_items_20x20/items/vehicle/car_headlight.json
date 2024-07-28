@@ -1,0 +1,12 @@
+{
+  "id": [
+    "car_headlight",
+    "wide_headlight_reinforced",
+    "car_wide_headlight",
+    "headlight_reinforced",
+    "floodlight"
+  ],
+  "fg": "vp_headlight",
+  "//": "vehicle part",
+  "rotates": true
+}

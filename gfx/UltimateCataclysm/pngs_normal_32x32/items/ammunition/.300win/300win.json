@@ -1,0 +1,29 @@
+[
+
+  {
+    "id": [ "300_casing" ],
+    "bg": [ "" ],
+    "fg": [ "5_casing" ]
+  },
+  {
+    "id": [ "300_casing_transparent" ],
+    "bg": [ "300win_b" ],
+    "fg": [ "5_casing" ]
+  },
+
+  {
+    "id": [ "300_winmag" ],
+    "bg": [ "300win_b" ],
+    "fg": [ "300win_f" ]
+  },
+  {
+    "id": [ "reloaded_300_winmag" ],
+    "bg": [ "300win_b_r" ],
+    "fg": [ "300win_f" ]
+  },
+  {
+    "id": [ "bp_300_winmag" ],
+    "bg": [ "300win_b_bp" ],
+    "fg": [ "300win_f" ]
+  }
+]

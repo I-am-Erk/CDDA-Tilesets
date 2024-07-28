@@ -1,0 +1,29 @@
+[
+
+  {
+    "id": [ "46mm_casing" ],
+    "bg": [ "" ],
+    "fg": [ "4_casing" ]
+  },
+  {
+    "id": [ "46mm_casing_transparent" ],
+    "bg": [ "46_b" ],
+    "fg": [ "4_casing" ]
+  },
+
+  {
+    "id": [ "46mm" ],
+    "bg": [ "46_b" ],
+    "fg": [ "46_f" ]
+  },
+  {
+    "id": [ "reloaded_46mm" ],
+    "bg": [ "46_b_r" ],
+    "fg": [ "46_f" ]
+  },
+  {
+    "id": [ "bp_46mm" ],
+    "bg": [ "46_b_bp" ],
+    "fg": [ "46_f" ]
+  }
+]

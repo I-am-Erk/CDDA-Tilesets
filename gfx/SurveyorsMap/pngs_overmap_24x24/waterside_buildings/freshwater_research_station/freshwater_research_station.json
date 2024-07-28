@@ -1,0 +1,44 @@
+[
+  {
+    "id": [ "sealab_small_surface" ],
+    "fg": [ "sealab_small_surface_N", "sealab_small_surface_W", "sealab_small_surface_S", "sealab_small_surface_E" ],
+    "bg": [ "deep_river" ],
+    "rotates": true
+  },
+  {
+    "id": [ "sealab_small_roof" ],
+    "fg": [ "sealab_small_roof_N", "sealab_small_roof_W", "sealab_small_roof_S", "sealab_small_roof_E" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "sealab_small_-1" ],
+    "fg": [ "sealab_small_-1_N", "sealab_small_-1_W", "sealab_small_-1_S", "sealab_small_-1_E" ],
+    "bg": [ "deep_river" ],
+    "rotates": true
+  },
+  {
+    "id": [ "sealab_small_-2" ],
+    "fg": [ "sealab_small_-2_N", "sealab_small_-2_W", "sealab_small_-2_S", "sealab_small_-2_E" ],
+    "bg": [ "deep_river" ],
+    "rotates": true
+  },
+  {
+    "id": [ "sealab_small_-3" ],
+    "fg": [ "sealab_small_-3_N", "sealab_small_-3_W", "sealab_small_-3_S", "sealab_small_-3_E" ],
+    "bg": [ "deep_river" ],
+    "rotates": true
+  },
+  {
+    "id": [ "sealab_small_-4" ],
+    "fg": [ "sealab_small_-4_N", "sealab_small_-4_W", "sealab_small_-4_S", "sealab_small_-4_E" ],
+    "bg": [ "deep_river" ],
+    "rotates": true
+  },
+  {
+    "id": [ "sealab_small_-5" ],
+    "fg": [ "sealab_small_-5_N", "sealab_small_-5_W", "sealab_small_-5_S", "sealab_small_-5_E" ],
+    "bg": [ "lake_bed" ],
+    "rotates": true
+  }
+]

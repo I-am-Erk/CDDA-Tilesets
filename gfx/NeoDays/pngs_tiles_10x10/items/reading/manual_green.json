@@ -50,7 +50,11 @@
     "manual_fencing",
     "manual_silat",
     "manual_sojutsu",
-    "ic_reference_electronics"
+    "ic_reference_electronics",
+    "fermenting_book",
+    "offalcooking",
+    "vinegar_maker",
+    "book_lockpick"
   ],
   "fg": "manual_green"
 }

@@ -1,0 +1,57 @@
+[
+  {
+    "id": [
+      "house_detatched2",
+      "house_detatched3",
+      "house_detatched6",
+      "house_detatched7",
+      "house_detatched8",
+      "house_detatched9",
+      "house_01",
+      "house_08",
+      "house_23",
+      "house_garage8",
+      "house_gardener",
+      "house_toolshed"
+    ],
+    "fg": [ "house_park_faceN", "house_park_faceW", "house_park_faceS", "house_park_faceE" ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": [
+      "house_detatched2_roof",
+      "house_detatched3_roof",
+      "house_detatched6_roof",
+      "house_detatched7_roof",
+      "house_detatched8_roof",
+      "house_detatched9_roof",
+      "house_01_roof",
+      "house_08_roof",
+      "house_23_roof",
+      "house_garage8_roof",
+      "house_gardener_roof",
+      "house_toolshed_roof"
+    ],
+    "fg": [ "house_park_faceN", "house_park_faceW", "house_park_faceS", "house_park_faceE" ],
+    "bg": "open_air",
+    "rotates": true
+  },
+  {
+    "id": [
+      "house_detatched2_basement",
+      "house_detatched3_basement",
+      "house_detatched6_basement",
+      "house_detatched7_basement",
+      "house_detatched8_basement",
+      "house_detatched9_basement",
+      "house_08_basement",
+      "house_garage8_basement",
+      "house_gardener_basement",
+      "house_toolshed_basement"
+    ],
+    "fg": [ "house_park_faceN", "house_park_faceW", "house_park_faceS", "house_park_faceE" ],
+    "bg": "t_soil_center",
+    "rotates": true
+  }
+]

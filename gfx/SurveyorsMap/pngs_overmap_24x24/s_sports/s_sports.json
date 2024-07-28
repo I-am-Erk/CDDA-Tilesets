@@ -1,13 +1,13 @@
 [
   {
     "id": [ "s_sports" ],
-    "fg": [ "s_sports_N", "s_sports_E", "s_sports_S", "s_sports_W" ],
+    "fg": [ "s_sports_N", "s_sports_W", "s_sports_S", "s_sports_E" ],
     "bg": [  ],
     "rotates": true
   },
   {
     "id": [ "s_sports_roof" ],
-    "fg": [ "s_sports_roof_N", "s_sports_roof_E", "s_sports_roof_S", "s_sports_roof_W" ],
+    "fg": [ "s_sports_roof_N", "s_sports_roof_W", "s_sports_roof_S", "s_sports_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

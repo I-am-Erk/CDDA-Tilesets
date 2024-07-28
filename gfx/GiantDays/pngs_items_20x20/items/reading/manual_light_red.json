@@ -1,0 +1,12 @@
+{
+  "id": [
+    "mag_cutting",
+    "mag_melee",
+    "manual_melee",
+    "mag_stabbing",
+    "news_regional",
+    "novel_crime2",
+    "novel_war2"
+  ],
+  "fg": "manual_light_red"
+}

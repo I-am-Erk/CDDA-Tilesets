@@ -1,0 +1,17 @@
+[
+  {
+    "id": "t_tree_cottonwood_harvested_season_spring",
+    "fg": "t_tree_cottonwood_harvested_spring",
+    "bg": "t_grass_giant"
+  },
+  {
+    "id": "t_tree_cottonwood_harvested_season_summer",
+    "fg": "t_tree_cottonwood_harvested_summer",
+    "bg": "t_grass_summer_giant"
+  },
+  {
+    "id": "t_tree_cottonwood_harvested_season_autumn",
+    "fg": "t_tree_cottonwood_harvested_autumn",
+    "bg": "t_grass_autumn_giant"
+  }
+]

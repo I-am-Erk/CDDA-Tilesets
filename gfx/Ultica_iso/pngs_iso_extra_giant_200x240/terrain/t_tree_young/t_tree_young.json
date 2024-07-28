@@ -1,6 +1,6 @@
 [
   {
-    "id": "t_tree_young",
+    "id": "t_tree_young_season_spring",
     "fg": "t_tree_young_spring",
     "bg": "t_grass_extra_giant"
   }, {
@@ -14,6 +14,24 @@
   }, {
     "id": "t_tree_young_season_winter",
     "fg": "t_tree_young_winter",
+    "bg": "snow_shallow_extra_giant"
+  },
+  
+  {
+    "id": "t_tree_young_transparent_season_spring",
+    "fg": "t_tree_young_spring_transparent",
+    "bg": "t_grass_extra_giant"
+  }, {
+    "id": "t_tree_young_transparent_season_summer",
+    "fg": "t_tree_young_summer_transparent",
+    "bg": "t_grass_summer_extra_giant"
+  }, {
+    "id": "t_tree_young_transparent_season_autumn",
+    "fg": "t_tree_young_autumn_transparent",
+    "bg": "t_grass_autumn_extra_giant"
+  }, {
+    "id": "t_tree_young_transparent_season_winter",
+    "fg": "t_tree_young_winter_transparent",
     "bg": "snow_shallow_extra_giant"
   }
 ]

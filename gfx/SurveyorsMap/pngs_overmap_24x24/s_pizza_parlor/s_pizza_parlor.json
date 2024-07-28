@@ -1,13 +1,13 @@
 [
   {
     "id": [ "s_pizza_parlor" ],
-    "fg": [ "s_pizza_parlor_N", "s_pizza_parlor_E", "s_pizza_parlor_S", "s_pizza_parlor_W" ],
+    "fg": [ "s_pizza_parlor_N", "s_pizza_parlor_W", "s_pizza_parlor_S", "s_pizza_parlor_E" ],
     "bg": [  ],
     "rotates": true
   },
   {
     "id": [ "s_pizza_parlor_roof" ],
-    "fg": [ "s_pizza_parlor_roof_N", "s_pizza_parlor_roof_E", "s_pizza_parlor_roof_S", "s_pizza_parlor_roof_W" ],
+    "fg": [ "s_pizza_parlor_roof_N", "s_pizza_parlor_roof_W", "s_pizza_parlor_roof_S", "s_pizza_parlor_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

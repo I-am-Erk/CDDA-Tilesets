@@ -1,0 +1,10 @@
+{
+  "id": [
+    "ch_chain_link",
+    "hc_chain_link",
+    "lc_chain_link",
+    "mc_chain_link",
+    "qt_chain_link"
+  ],
+  "fg": "lc_chain_link"
+}

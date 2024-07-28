@@ -1,55 +1,55 @@
 [
   {
     "id": [ "parking_garage_down_0" ],
-    "fg": [ "parking_garage_down_0_N", "parking_garage_down_0_E", "parking_garage_down_0_S", "parking_garage_down_0_W" ],
+    "fg": [ "parking_garage_down_0_N", "parking_garage_down_0_W", "parking_garage_down_0_S", "parking_garage_down_0_E" ],
     "bg": [ "solid_earth" ],
     "rotates": true
   },
   {
     "id": [ "parking_garage_down_1" ],
-    "fg": [ "parking_garage_down_1_N", "parking_garage_down_1_E", "parking_garage_down_1_S", "parking_garage_down_1_W" ],
+    "fg": [ "parking_garage_down_1_N", "parking_garage_down_1_W", "parking_garage_down_1_S", "parking_garage_down_1_E" ],
     "bg": [ "solid_earth" ],
     "rotates": true
   },
   {
     "id": [ "parking_garage_0_0" ],
-    "fg": [ "parking_garage_0_0_N", "parking_garage_0_0_E", "parking_garage_0_0_S", "parking_garage_0_0_W" ],
+    "fg": [ "parking_garage_0_0_N", "parking_garage_0_0_W", "parking_garage_0_0_S", "parking_garage_0_0_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "parking_garage_0_1" ],
-    "fg": [ "parking_garage_0_1_N", "parking_garage_0_1_E", "parking_garage_0_1_S", "parking_garage_0_1_W" ],
+    "fg": [ "parking_garage_0_1_N", "parking_garage_0_1_W", "parking_garage_0_1_S", "parking_garage_0_1_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "parking_garage_1_0", "parking_garage_2_0", "parking_garage_roof_0" ],
-    "fg": [ "parking_garage_1_0_N", "parking_garage_1_0_E", "parking_garage_1_0_S", "parking_garage_1_0_W" ],
+    "fg": [ "parking_garage_1_0_N", "parking_garage_1_0_W", "parking_garage_1_0_S", "parking_garage_1_0_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "parking_garage_1_1" ],
-    "fg": [ "parking_garage_1_1_N", "parking_garage_1_1_E", "parking_garage_1_1_S", "parking_garage_1_1_W" ],
+    "fg": [ "parking_garage_1_1_N", "parking_garage_1_1_W", "parking_garage_1_1_S", "parking_garage_1_1_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "parking_garage_2_1" ],
-    "fg": [ "parking_garage_2_1_N", "parking_garage_2_1_E", "parking_garage_2_1_S", "parking_garage_2_1_W" ],
+    "fg": [ "parking_garage_2_1_N", "parking_garage_2_1_W", "parking_garage_2_1_S", "parking_garage_2_1_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "parking_garage_roof_1" ],
-    "fg": [ "parking_garage_roof_1_N", "parking_garage_roof_1_E", "parking_garage_roof_1_S", "parking_garage_roof_1_W" ],
+    "fg": [ "parking_garage_roof_1_N", "parking_garage_roof_1_W", "parking_garage_roof_1_S", "parking_garage_roof_1_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "parking_garage_roof_top" ],
-    "fg": [ "parking_garage_roof_top_N", "parking_garage_roof_top_E", "parking_garage_roof_top_S", "parking_garage_roof_top_W" ],
+    "fg": [ "parking_garage_roof_top_N", "parking_garage_roof_top_W", "parking_garage_roof_top_S", "parking_garage_roof_top_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

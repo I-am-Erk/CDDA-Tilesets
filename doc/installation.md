@@ -1,5 +1,7 @@
 # Installation
 
+You can select a different tileset than the one included with the game. You have two options: stable or latest. The stable version is tested and reliable, while the latest version is updated frequently and may have new features or bug fixes.
+
 ## Stable
 
 The easiest way to download the tileset would be from the latest release. It is a stable tileset build which you can safely put into the game and run.
@@ -8,7 +10,8 @@ The easiest way to download the tileset would be from the latest release. It is 
 2. Extract archive once it's downloaded.
 3. Put *UltimateCataclysm* folder from extracted files into your `cataclysmdda\gfx` folder. It should look like: `cataclysmdda\gfx\UltimateCataclysm`.
 
-> ⚠ If you have "Missing "tile_config.json" file" error upon loading the tileset, this means that you have downloaded and extracted the source code, and **not** the tileset.
+> [!WARNING]
+> If you have "Missing "tile_config.json" file" error upon loading the tileset, this means that you have downloaded and extracted the source code, and **not** the tileset.
 
 ## Develop
 
@@ -19,18 +22,14 @@ The most up to date build of the tileset (per commit). Might be broken.
 3. Find *Artifacts* drop-down menu, click on it, and then select the artifact.
 4. Proceed with step 2 and 3 from stable installation.
 
+> [!NOTE]
 > Red cross means that the build has failed and no artifacts were produced.
 
 # Building
 
-You will need:
-- Python 3
-- [Libvips](https://libvips.github.io/libvips/install.html)
-- pyvips (install it via python pip: `pip install pyvips`) 
-- [compose.py](https://github.com/CleverRaven/Cataclysm-DDA/blob/master/tools/gfx_tools/compose.py) script from the main [Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) repository
+To create your own tileset, test new sprites, or contribute to the project, please follow the instructions for your operating system:
 
-Once you have everything ready, you can build the tileset:
-```sh
-# Assuming that you are in the root of the tileset repository
-$ python3 <path-to-compose-py-script>/compose.py gfx/UltimateCataclysm
-```
+- For Linux, macOS, or other Unix-like systems, see [this guide](./installation_nix.md).
+- For Windows, see [this guide](./installation_windows.md).
+
+These guides will help you set up the required tools and steps to build the tileset from the source files.

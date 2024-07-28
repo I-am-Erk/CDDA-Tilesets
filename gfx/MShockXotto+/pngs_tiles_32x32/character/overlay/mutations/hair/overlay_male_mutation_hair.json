@@ -1,0 +1,620 @@
+[
+  {
+    "id": "overlay_male_mutation_hair_crewcut_var_black",
+    "fg": [ "overlay_male_mutation_hair_black_crewcut" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_crewcut_var_blond",
+    "fg": [ "overlay_male_mutation_hair_blond_crewcut" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_crewcut_var_blue",
+    "fg": [ "overlay_male_mutation_crewcut_var_blue" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_crewcut_var_brown",
+    "fg": [ "overlay_male_mutation_hair_brown_crewcut" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_crewcut_var_gray",
+    "fg": [ "overlay_male_mutation_hair_gray_crewcut" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_crewcut_var_green",
+    "fg": [ "overlay_male_mutation_crewcut_var_green" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_crewcut_var_pink",
+    "fg": [ "overlay_male_mutation_crewcut_var_pink" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_crewcut_var_purple",
+    "fg": [ "overlay_male_mutation_crewcut_var_purple" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_crewcut_var_red",
+    "fg": [ "overlay_male_mutation_hair_red_crewcut" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_crewcut_var_white",
+    "fg": [ "overlay_male_mutation_hair_white_crewcut" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_long_var_black",
+    "fg": [ "overlay_male_mutation_hair_black_long" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_long_var_blond",
+    "fg": [ "overlay_male_mutation_hair_blond_long" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_long_var_blue",
+    "fg": [ "overlay_male_mutation_long_var_blue" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_long_var_brown",
+    "fg": [ "overlay_male_mutation_hair_brown_long" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_long_var_gray",
+    "fg": [ "overlay_male_mutation_hair_gray_long" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_long_var_green",
+    "fg": [ "overlay_male_mutation_long_var_green" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_long_var_pink",
+    "fg": [ "overlay_male_mutation_long_var_pink" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_long_var_purple",
+    "fg": [ "overlay_male_mutation_long_var_purple" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_long_var_red",
+    "fg": [ "overlay_male_mutation_hair_red_long" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_long_var_white",
+    "fg": [ "overlay_male_mutation_hair_white_long" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_short_var_black",
+    "fg": [ "overlay_male_mutation_hair_black_short" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_short_var_blond",
+    "fg": [ "overlay_male_mutation_hair_blond_short" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_short_var_blue",
+    "fg": [ "overlay_male_mutation_short_var_blue" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_short_var_brown",
+    "fg": [ "overlay_male_mutation_hair_brown_short" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_short_var_gray",
+    "fg": [ "overlay_male_mutation_hair_gray_short" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_short_var_green",
+    "fg": [ "overlay_male_mutation_short_var_green" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_short_var_pink",
+    "fg": [ "overlay_male_mutation_short_var_pink" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_short_var_purple",
+    "fg": [ "overlay_male_mutation_short_var_purple" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_short_var_red",
+    "fg": [ "overlay_male_mutation_hair_red_short" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_short_var_white",
+    "fg": [ "overlay_male_mutation_hair_white_short" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_mullet_var_black",
+    "fg": [ "overlay_mutation_mullet_var_black" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_mullet_var_blond",
+    "fg": [ "overlay_mutation_mullet_var_blond" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_mullet_var_blue",
+    "fg": [ "overlay_mutation_mullet_var_blue" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_mullet_var_brown",
+    "fg": [ "overlay_mutation_mullet_var_brown" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_mullet_var_green",
+    "fg": [ "overlay_mutation_mullet_var_green" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_mullet_var_pink",
+    "fg": [ "overlay_mutation_mullet_var_pink" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_mullet_var_purple",
+    "fg": [ "overlay_mutation_mullet_var_purple" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_mullet_var_red",
+    "fg": [ "overlay_mutation_mullet_var_red" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_mullet_var_white",
+    "fg": [ "overlay_mutation_mullet_var_white" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_buzzcut_var_black",
+    "fg": [ "overlay_male_mutation_buzzcut_var_black" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_buzzcut_var_blond",
+    "fg": [ "overlay_male_mutation_buzzcut_var_blond" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_buzzcut_var_blue",
+    "fg": [ "overlay_male_mutation_buzzcut_var_blue" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_buzzcut_var_brown",
+    "fg": [ "overlay_male_mutation_buzzcut_var_brown" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_buzzcut_var_green",
+    "fg": [ "overlay_male_mutation_buzzcut_var_green" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_buzzcut_var_pink",
+    "fg": [ "overlay_male_mutation_buzzcut_var_pink" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_buzzcut_var_purple",
+    "fg": [ "overlay_male_mutation_buzzcut_var_purple" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_buzzcut_var_red",
+    "fg": [ "overlay_male_mutation_buzzcut_var_red" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_buzzcut_var_white",
+    "fg": [ "overlay_male_mutation_buzzcut_var_white" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_ponytail_var_black",
+    "fg": [ "overlay_mutation_ponytail_var_black" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_ponytail_var_blond",
+    "fg": [ "overlay_mutation_ponytail_var_blond" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_ponytail_var_blue",
+    "fg": [ "overlay_mutation_ponytail_var_blue" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_ponytail_var_brown",
+    "fg": [ "overlay_mutation_ponytail_var_brown" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_ponytail_var_green",
+    "fg": [ "overlay_mutation_ponytail_var_green" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_ponytail_var_pink",
+    "fg": [ "overlay_mutation_ponytail_var_pink" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_ponytail_var_purple",
+    "fg": [ "overlay_mutation_ponytail_var_purple" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_ponytail_var_red",
+    "fg": [ "overlay_mutation_ponytail_var_red" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_ponytail_var_white",
+    "fg": [ "overlay_mutation_ponytail_var_white" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_messy_var_black",
+    "fg": [ "overlay_mutation_messy_var_black" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_messy_var_blond",
+    "fg": [ "overlay_mutation_messy_var_blond" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_messy_var_blue",
+    "fg": [ "overlay_mutation_messy_var_blue" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_messy_var_brown",
+    "fg": [ "overlay_mutation_messy_var_brown" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_messy_var_green",
+    "fg": [ "overlay_mutation_messy_var_green" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_messy_var_pink",
+    "fg": [ "overlay_mutation_messy_var_pink" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_messy_var_purple",
+    "fg": [ "overlay_mutation_messy_var_purple" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_messy_var_red",
+    "fg": [ "overlay_mutation_messy_var_red" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_messy_var_white",
+    "fg": [ "overlay_mutation_messy_var_white" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_medium_var_black",
+    "fg": [ "overlay_male_mutation_hair_black_medium" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_medium_var_blond",
+    "fg": [ "overlay_male_mutation_hair_blond_medium" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_medium_var_blue",
+    "fg": [ "overlay_male_mutation_medium_var_blue" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_medium_var_brown",
+    "fg": [ "overlay_male_mutation_hair_brown_medium" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_medium_var_gray",
+    "fg": [ "overlay_male_mutation_hair_gray_medium" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_medium_var_green",
+    "fg": [ "overlay_male_mutation_medium_var_green" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_medium_var_pink",
+    "fg": [ "overlay_male_mutation_medium_var_pink" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_medium_var_purple",
+    "fg": [ "overlay_male_mutation_medium_var_purple" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_medium_var_red",
+    "fg": [ "overlay_male_mutation_hair_red_medium" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_medium_var_white",
+    "fg": [ "overlay_male_mutation_hair_white_medium" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_short_over_eye_var_black",
+    "fg": [ "overlay_mutation_short_over_eye_var_black" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_short_over_eye_var_blond",
+    "fg": [ "overlay_mutation_short_over_eye_var_blond" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_short_over_eye_var_blue",
+    "fg": [ "overlay_mutation_short_over_eye_var_blue" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_short_over_eye_var_brown",
+    "fg": [ "overlay_mutation_short_over_eye_var_brown" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_short_over_eye_var_green",
+    "fg": [ "overlay_mutation_short_over_eye_var_green" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_short_over_eye_var_pink",
+    "fg": [ "overlay_mutation_short_over_eye_var_pink" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_short_over_eye_var_purple",
+    "fg": [ "overlay_mutation_short_over_eye_var_purple" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_short_over_eye_var_red",
+    "fg": [ "overlay_mutation_short_over_eye_var_red" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_short_over_eye_var_white",
+    "fg": [ "overlay_mutation_short_over_eye_var_white" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_short_no_fringe_var_black",
+    "fg": [ "overlay_mutation_short_no_fringe_var_black" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_short_no_fringe_var_blond",
+    "fg": [ "overlay_mutation_short_no_fringe_var_blond" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_short_no_fringe_var_blue",
+    "fg": [ "overlay_mutation_short_no_fringe_var_blue" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_short_no_fringe_var_brown",
+    "fg": [ "overlay_mutation_short_no_fringe_var_brown" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_short_no_fringe_var_green",
+    "fg": [ "overlay_mutation_short_no_fringe_var_green" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_short_no_fringe_var_pink",
+    "fg": [ "overlay_mutation_short_no_fringe_var_pink" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_short_no_fringe_var_purple",
+    "fg": [ "overlay_mutation_short_no_fringe_var_purple" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_short_no_fringe_var_red",
+    "fg": [ "overlay_mutation_short_no_fringe_var_red" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_short_no_fringe_var_white",
+    "fg": [ "overlay_mutation_short_no_fringe_var_white" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_long_over_eye_var_black",
+    "fg": [ "overlay_mutation_long_over_eye_var_black" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_long_over_eye_var_blond",
+    "fg": [ "overlay_mutation_long_over_eye_var_blond" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_long_over_eye_var_blue",
+    "fg": [ "overlay_mutation_long_over_eye_var_blue" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_long_over_eye_var_brown",
+    "fg": [ "overlay_mutation_long_over_eye_var_brown" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_long_over_eye_var_green",
+    "fg": [ "overlay_mutation_long_over_eye_var_green" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_long_over_eye_var_pink",
+    "fg": [ "overlay_mutation_long_over_eye_var_pink" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_long_over_eye_var_purple",
+    "fg": [ "overlay_mutation_long_over_eye_var_purple" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_long_over_eye_var_red",
+    "fg": [ "overlay_mutation_long_over_eye_var_red" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_hair_long_over_eye_var_white",
+    "fg": [ "overlay_mutation_long_over_eye_var_white" ],
+    "rotates": false,
+    "bg": [  ]
+  }
+]

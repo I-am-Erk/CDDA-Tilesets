@@ -1,25 +1,25 @@
 [
   {
     "id": [ "garden_house_1_floor_1" ],
-    "fg": [ "garden_house_1_floor_1_N", "garden_house_1_floor_1_E", "garden_house_1_floor_1_S", "garden_house_1_floor_1_W" ],
+    "fg": [ "garden_house_1_floor_1_N", "garden_house_1_floor_1_W", "garden_house_1_floor_1_S", "garden_house_1_floor_1_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "garden_house_1_floor_2" ],
-    "fg": [ "garden_house_1_floor_2_N", "garden_house_1_floor_2_E", "garden_house_1_floor_2_S", "garden_house_1_floor_2_W" ],
+    "fg": [ "garden_house_1_floor_2_N", "garden_house_1_floor_2_W", "garden_house_1_floor_2_S", "garden_house_1_floor_2_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "garden_house_1_basement" ],
-    "fg": [ "garden_house_1_basement_N", "garden_house_1_basement_E", "garden_house_1_basement_S", "garden_house_1_basement_W" ],
+    "fg": [ "garden_house_1_basement_N", "garden_house_1_basement_W", "garden_house_1_basement_S", "garden_house_1_basement_E" ],
     "bg": [ "solid_earth" ],
     "rotates": true
   },
   {
     "id": [ "garden_house_1_roof" ],
-    "fg": [ "garden_house_1_roof_N", "garden_house_1_roof_E", "garden_house_1_roof_S", "garden_house_1_roof_W" ],
+    "fg": [ "garden_house_1_roof_N", "garden_house_1_roof_W", "garden_house_1_roof_S", "garden_house_1_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

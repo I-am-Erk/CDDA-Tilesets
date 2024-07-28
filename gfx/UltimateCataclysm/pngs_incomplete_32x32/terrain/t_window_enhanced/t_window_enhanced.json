@@ -1,0 +1,12 @@
+[
+  {
+    "id": "t_window_enhanced",
+    "fg": "t_window_enhanced",
+    "bg": "t_window"
+  },
+  {
+    "id": "t_window_enhanced_noglass",
+    "fg": "t_window_enhanced",
+    "bg": "t_window_empty"
+  }
+]

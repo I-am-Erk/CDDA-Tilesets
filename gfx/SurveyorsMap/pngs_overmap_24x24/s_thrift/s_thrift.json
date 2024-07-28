@@ -1,13 +1,13 @@
 [
   {
     "id": [ "s_thrift" ],
-    "fg": [ "s_thrift_N", "s_thrift_E", "s_thrift_S", "s_thrift_W" ],
+    "fg": [ "s_thrift_N", "s_thrift_W", "s_thrift_S", "s_thrift_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "s_thrift_roof" ],
-    "fg": [ "s_thrift_roof_N", "s_thrift_roof_E", "s_thrift_roof_S", "s_thrift_roof_W" ],
+    "fg": [ "s_thrift_roof_N", "s_thrift_roof_W", "s_thrift_roof_S", "s_thrift_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

@@ -1,13 +1,13 @@
 [
   {
     "id": [ "cs_car_dealership" ],
-    "fg": [ "cs_car_dealership_N", "cs_car_dealership_E", "cs_car_dealership_S", "cs_car_dealership_W" ],
+    "fg": [ "cs_car_dealership_N", "cs_car_dealership_W", "cs_car_dealership_S", "cs_car_dealership_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "cs_car_dealership_roof" ],
-    "fg": [ "cs_car_dealership_roof_N", "cs_car_dealership_roof_E", "cs_car_dealership_roof_S", "cs_car_dealership_roof_W" ],
+    "fg": [ "cs_car_dealership_roof_N", "cs_car_dealership_roof_W", "cs_car_dealership_roof_S", "cs_car_dealership_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

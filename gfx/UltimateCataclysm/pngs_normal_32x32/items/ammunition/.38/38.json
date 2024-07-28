@@ -1,0 +1,77 @@
+[
+
+  {
+    "id": [ "38_casing" ],
+    "bg": [ "" ],
+    "fg": [ "4_casing" ]
+  },
+  {
+    "id": [ "38_casing_transparent" ],
+    "bg": [ "38_b" ],
+    "fg": [ "4_casing" ]
+  },
+
+  {
+    "id": [ "38_special" ],
+    "bg": [ "38_b" ],
+    "fg": [ "38_f_spc" ]
+  },
+  {
+    "id": [ "reloaded_38_special" ],
+    "bg": [ "38_b_r" ],
+    "fg": [ "38_f_spc" ]
+  },
+  {
+    "id": [ "bp_38_special" ],
+    "bg": [ "38_b_bp" ],
+    "fg": [ "38_f_spc" ]
+  },
+
+  {
+    "id": [ "38_fmj" ],
+    "bg": [ "38_b" ],
+    "fg": [ "38_f_fmj" ]
+  },
+  {
+    "id": [ "reloaded_38_fmj" ],
+    "bg": [ "38_b_r" ],
+    "fg": [ "38_f_fmj" ]
+  },
+  {
+    "id": [ "bp_38_fmj" ],
+    "bg": [ "38_b_bp" ],
+    "fg": [ "38_f_fmj" ]
+  },
+
+  {
+    "id": [ "38_super" ],
+    "bg": [ "38_b" ],
+    "fg": [ "38_f_super" ]
+  },
+  {
+    "id": [ "reloaded_38_super" ],
+    "bg": [ "38_b_r" ],
+    "fg": [ "38_f_super" ]
+  },
+  {
+    "id": [ "bp_38_super" ],
+    "bg": [ "38_b_bp" ],
+    "fg": [ "38_f_super" ]
+  },
+
+  {
+    "id": [ "38super_fmj" ],
+    "bg": [ "38_b" ],
+    "fg": [ "38_f_superFMJ" ]
+  },
+  {
+    "id": [ "reloaded_38super_fmj" ],
+    "bg": [ "38_b_r" ],
+    "fg": [ "38_f_superFMJ" ]
+  },
+  {
+    "id": [ "bp_38super_fmj" ],
+    "bg": [ "38_b_bp" ],
+    "fg": [ "38_f_superFMJ" ]
+  }
+]

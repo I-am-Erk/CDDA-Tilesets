@@ -1,0 +1,29 @@
+{
+  "id": "graffiti_TEXT",
+  "fg": [
+    {
+      "weight": 10,
+      "sprite": "graffiti_TEXT_0"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_TEXT_1"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_TEXT_2"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_TEXT_3"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_TEXT_4"
+    },
+    {
+      "weight": 10,
+      "sprite": "graffiti_TEXT_5"
+    }
+  ]
+}

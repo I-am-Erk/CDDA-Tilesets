@@ -1,0 +1,24 @@
+{
+  "id": [
+    "adjustable_stock",
+    "robofac_stock",
+    "wire_stock",
+    "wire_stock_folded",
+    "folding_stock",
+    "folding_stock_folded",
+    "scout_stock",
+    "m26_mass_stock",
+    "high_end_folding_stock",
+    "high_end_folding_stock_folded",
+    "pistol_stock",
+    "recoil_stock",
+    "stock_none",
+    "tail_hook_stock",
+    "under_folding_stock",
+    "under_folding_stock_folded",
+
+    "ugl_buttstock",
+    "butt_hook"
+  ],
+  "fg": "stock_generic"
+}

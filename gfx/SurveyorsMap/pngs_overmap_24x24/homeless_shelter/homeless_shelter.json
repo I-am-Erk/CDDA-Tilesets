@@ -1,0 +1,39 @@
+[
+    {
+      "id": [ "homeless_0_0_0" ],
+      "fg": [ "homeless_0_0_0_N", "homeless_0_0_0_W", "homeless_0_0_0_S", "homeless_0_0_0_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "homeless_0_0_1", "homeless_0_0_2" ],
+      "fg": [ "homeless_0_0_2_N", "homeless_0_0_2_W", "homeless_0_0_2_S", "homeless_0_0_2_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "homeless_0_0_roof" ],
+      "fg": [ "homeless_0_0_roof_N", "homeless_0_0_roof_W", "homeless_0_0_roof_S", "homeless_0_0_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "homeless_0_0_4" ],
+      "fg": [ "homeless_0_0_4_N", "homeless_0_0_4_W", "homeless_0_0_4_S", "homeless_0_0_4_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "homeless_1_0_0" ],
+      "fg": [ "homeless_1_0_0_N", "homeless_1_0_0_W", "homeless_1_0_0_S", "homeless_1_0_0_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "homeless_1_0_1", "homeless_1_0_2", "homeless_1_0_roof" ],
+      "fg": [ "homeless_1_0_1_N", "homeless_1_0_1_W", "homeless_1_0_1_S", "homeless_1_0_1_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    }
+  ]
+  

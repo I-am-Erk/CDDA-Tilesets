@@ -1,0 +1,13 @@
+{
+  "id": [
+    "shotgun_s",
+    "shotgun_d",
+    "rebar_rifle",
+    "doublespeargun",
+    "blunderbuss",
+    "combination_gun",
+    "surv_levershotgun",
+    "m6_asw"
+  ],
+  "fg": "shotgun_s"
+}

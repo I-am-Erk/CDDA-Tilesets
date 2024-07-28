@@ -1,5 +1,8 @@
 {
-  "id": "vp_wheel_caster",
+  "id": [
+    "vp_wheel_caster",
+    "vp_rail_wheel_small_pair"
+  ],
   "fg": "vp_wheel_caster",
   "rotates": true,
   "multitile": true,

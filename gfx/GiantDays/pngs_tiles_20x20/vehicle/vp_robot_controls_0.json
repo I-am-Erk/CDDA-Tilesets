@@ -1,0 +1,12 @@
+{
+  "id": "vp_robot_controls",
+  "fg": "robot_controls",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_gray"
+    }
+  ]
+}

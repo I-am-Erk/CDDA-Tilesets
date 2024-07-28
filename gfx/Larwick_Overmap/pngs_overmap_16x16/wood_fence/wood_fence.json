@@ -1,0 +1,52 @@
+{
+  "id": "wood_fence",
+  "fg": "wood_fence_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "wood_fence_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "wood_fence_corner_nw",
+        "wood_fence_corner_sw",
+        "wood_fence_corner_se",
+        "wood_fence_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "wood_fence_t_connection_n",
+        "wood_fence_t_connection_w",
+        "wood_fence_t_connection_s",
+        "wood_fence_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "wood_fence_edge_ns",
+        "wood_fence_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "wood_fence_end_piece_n",
+        "wood_fence_end_piece_w",
+        "wood_fence_end_piece_s",
+        "wood_fence_end_piece_e"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "wood_fence_unconnected",
+        "wood_fence_unconnected"
+      ]
+    }
+  ]
+}

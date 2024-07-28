@@ -1,0 +1,9 @@
+{
+  "id": [
+    "smart_lamp_on",
+    "electric_lantern_on",
+    "oxylamp_on",
+    "propane_lantern_on"
+  ],
+  "fg": "smart_lamp_on"
+}

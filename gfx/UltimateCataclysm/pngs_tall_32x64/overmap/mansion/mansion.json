@@ -1,0 +1,140 @@
+[
+  {
+    "id": [
+      "mansion_c1",
+      "mansion_c2",
+      "mansion_c3",
+      "mansion_c4",
+      "mansion_c5",
+      "mansion_boarded_c1",
+      "mansion_boarded_c2",
+      "mansion_boarded_c3",
+      "mansion_boarded_c4",
+      "mansion_c1d",
+      "mansion_c2d",
+      "mansion_c3d",
+      "mansion_c4d",
+      "mansion_c5d"
+    ],
+    "fg": [ "mansion_NW", "mansion_SW", "mansion_SE", "mansion_NE" ],
+    "bg": "field_tall",
+    "rotates": true
+  },
+  {
+    "id": [
+      "mansion_e1",
+      "mansion_e2",
+      "mansion_boarded_e1",
+      "mansion_e1d",
+      "mansion_e2d"
+    ],
+    "fg": [ "mansion_N", "mansion_W", "mansion_S", "mansion_E" ],
+    "bg": "field_tall",
+    "rotates": true
+  },
+  {
+    "id": [
+      "mansion_t1",
+      "mansion_t2",
+      "mansion_t4",
+      "mansion_t5",
+      "mansion_t6",
+      "mansion_t7",
+      "mansion_boarded_t2_start",
+      "mansion_boarded_t2",
+      "mansion_boarded_t4",
+      "mansion_t1d",
+      "mansion_t2d",
+      "mansion_t4d",
+      "mansion_t5d",
+      "mansion_t6d",
+      "mansion_t7d",
+      "mansion_boarded_t2d_start",
+      "mansion_boarded_t2d"
+    ],
+    "fg": [ "mansion_S", "mansion_E", "mansion_N", "mansion_W" ],
+    "bg": "field_tall",
+    "rotates": true
+  },
+  {
+    "id": [
+      "mansion_+1",
+      "mansion_+2",
+      "mansion_+3",
+      "mansion_+4",
+      "mansion_+1d",
+      "mansion_+2d",
+      "mansion_+4d"
+    ],
+    "fg": "mansion_CENTER",
+    "bg": "field_tall"
+  },
+  {
+    "id": [
+      "mansion_c1u",
+      "mansion_c2u",
+      "mansion_c3u",
+      "mansion_c4u",
+      "mansion_c5u",
+      "mansion_boarded_c1u",
+      "mansion_boarded_c2u",
+      "mansion_boarded_c3u",
+      "mansion_boarded_c4u",
+      "mansion_c1_roof",
+      "mansion_c2_roof",
+      "mansion_c3_roof",
+      "mansion_c4_roof",
+      "mansion_c5_roof"
+    ],
+    "fg": [ "mansion_NW", "mansion_SW", "mansion_SE", "mansion_NE" ],
+    "bg": "open_air_tall",
+    "rotates": true
+  },
+  {
+    "id": [
+      "mansion_e1u",
+      "mansion_e2u",
+      "mansion_boarded_e1u",
+      "mansion_e1_roof",
+      "mansion_e2_roof"
+    ],
+    "fg": [ "mansion_N", "mansion_W", "mansion_S", "mansion_E" ],
+    "bg": "open_air_tall",
+    "rotates": true
+  },
+  {
+    "id": [
+      "mansion_t1u",
+      "mansion_t2u",
+      "mansion_t4u",
+      "mansion_t5u",
+      "mansion_t6u",
+      "mansion_t7u",
+      "mansion_boarded_t2u",
+      "mansion_boarded_t4u",
+      "mansion_t1_roof",
+      "mansion_t2_roof",
+      "mansion_t4_roof",
+      "mansion_t5_roof",
+      "mansion_t6_roof",
+      "mansion_t7_roof"
+    ],
+    "fg": [ "mansion_S", "mansion_E", "mansion_N", "mansion_W" ],
+    "bg": "open_air_tall",
+    "rotates": true
+  },
+  {
+    "id": [
+      "mansion_+1u",
+      "mansion_+2u",
+      "mansion_+3u",
+      "mansion_+4u",
+      "mansion_+1_roof",
+      "mansion_+2_roof",
+      "mansion_+3_roof",
+      "mansion_+4_roof"
+    ],
+    "fg": "mansion_CENTER",
+    "bg": "open_air_tall"
+  }
+]

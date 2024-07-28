@@ -1,13 +1,13 @@
 [
   {
     "id": [ "s_arcade" ],
-    "fg": [ "s_arcade_N", "s_arcade_E", "s_arcade_S", "s_arcade_W" ],
+    "fg": [ "s_arcade_N", "s_arcade_W", "s_arcade_S", "s_arcade_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "s_arcade_roof" ],
-    "fg": [ "s_arcade_roof_N", "s_arcade_roof_E", "s_arcade_roof_S", "s_arcade_roof_W" ],
+    "fg": [ "s_arcade_roof_N", "s_arcade_roof_W", "s_arcade_roof_S", "s_arcade_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

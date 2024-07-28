@@ -1,0 +1,8 @@
+{
+  "id": [
+    "match_trigger",
+    "m240semi",
+    "m249semi"
+  ],
+  "fg": "trigger_generic"
+}

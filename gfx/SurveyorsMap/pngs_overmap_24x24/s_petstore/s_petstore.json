@@ -1,13 +1,13 @@
 [
   {
     "id": [ "s_petstore" ],
-    "fg": [ "s_petstore_N", "s_petstore_E", "s_petstore_S", "s_petstore_W" ],
+    "fg": [ "s_petstore_N", "s_petstore_W", "s_petstore_S", "s_petstore_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "s_petstore_roof" ],
-    "fg": [ "s_petstore_roof_N", "s_petstore_roof_E", "s_petstore_roof_S", "s_petstore_roof_W" ],
+    "fg": [ "s_petstore_roof_N", "s_petstore_roof_W", "s_petstore_roof_S", "s_petstore_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

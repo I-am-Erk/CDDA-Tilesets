@@ -1,19 +1,19 @@
 [
   {
     "id": [ "s_butcher" ],
-    "fg": [ "s_butcher_N", "s_butcher_E", "s_butcher_S", "s_butcher_W" ],
+    "fg": [ "s_butcher_N", "s_butcher_W", "s_butcher_S", "s_butcher_E" ],
     "bg": [  ],
     "rotates": true
   },
   {
     "id": [ "s_butcher_roof" ],
-    "fg": [ "s_butcher_roof_N", "s_butcher_roof_E", "s_butcher_roof_S", "s_butcher_roof_W" ],
+    "fg": [ "s_butcher_roof_N", "s_butcher_roof_W", "s_butcher_roof_S", "s_butcher_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
   {
     "id": [ "s_butcher_upper_roof" ],
-    "fg": [ "s_butcher_upper_roof_N", "s_butcher_upper_roof_E", "s_butcher_upper_roof_S", "s_butcher_upper_roof_W" ],
+    "fg": [ "s_butcher_upper_roof_N", "s_butcher_upper_roof_W", "s_butcher_upper_roof_S", "s_butcher_upper_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

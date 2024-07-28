@@ -1,0 +1,16 @@
+{
+  "id": "t_generator_broken",
+  "fg": "t_generator_broken_0",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "corner",
+      "fg": "t_generator_broken_0"
+    },
+    {
+      "id": "t_connection",
+      "fg": "t_generator_broken_1"
+    }
+  ]
+}

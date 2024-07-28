@@ -1,0 +1,12 @@
+{
+  "id": [
+    "offset_sight_rail_mod",
+    "offset_sight_rail",
+    "underbarrel_mount",
+    "sights_mount_launcher",
+    "sights_mount_pistol",
+    "rail_mount",
+    "sights_mount"
+  ],
+  "fg": "rail_generic"
+}

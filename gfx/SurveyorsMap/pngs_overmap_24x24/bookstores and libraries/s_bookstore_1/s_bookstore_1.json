@@ -1,13 +1,13 @@
 [
   {
     "id": [ "s_bookstore_1" ],
-    "fg": [ "s_bookstore_1_N", "s_bookstore_1_E", "s_bookstore_1_S", "s_bookstore_1_W" ],
+    "fg": [ "s_bookstore_1_N", "s_bookstore_1_W", "s_bookstore_1_S", "s_bookstore_1_E" ],
     "bg": [  ],
     "rotates": true
   },
   {
     "id": [ "s_bookstore_roof_1" ],
-    "fg": [ "s_bookstore_roof_1_N", "s_bookstore_roof_1_E", "s_bookstore_roof_1_S", "s_bookstore_roof_1_W" ],
+    "fg": [ "s_bookstore_roof_1_N", "s_bookstore_roof_1_W", "s_bookstore_roof_1_S", "s_bookstore_roof_1_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   },
@@ -15,9 +15,9 @@
     "id": [ "s_bookstore_upper_roof_1" ],
     "fg": [
       "s_bookstore_upper_roof_1_N",
-      "s_bookstore_upper_roof_1_E",
+      "s_bookstore_upper_roof_1_W",
       "s_bookstore_upper_roof_1_S",
-      "s_bookstore_upper_roof_1_W"
+      "s_bookstore_upper_roof_1_E"
     ],
     "bg": [ "open_air" ],
     "rotates": true

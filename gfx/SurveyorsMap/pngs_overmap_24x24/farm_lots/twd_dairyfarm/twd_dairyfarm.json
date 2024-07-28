@@ -1,0 +1,120 @@
+[
+    {
+      "id": [ "farm_dairy_twd_1" ],
+      "fg": [ "farm_dairy_twd_1_N", "farm_dairy_twd_1_W", "farm_dairy_twd_1_S", "farm_dairy_twd_1_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "farm_dairy_twd_2" ],
+      "fg": [ "farm_dairy_twd_2_N", "farm_dairy_twd_2_W", "farm_dairy_twd_2_S", "farm_dairy_twd_2_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "farm_dairy_twd_3" ],
+      "fg": [ "farm_dairy_twd_3_N", "farm_dairy_twd_3_W", "farm_dairy_twd_3_S", "farm_dairy_twd_3_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "farm_dairy_twd_3_roof", "farm_dairy_twd_second_floor_3" ],
+      "fg": [ "farm_dairy_twd_3_roof_N", "farm_dairy_twd_3_roof_W", "farm_dairy_twd_3_roof_S", "farm_dairy_twd_3_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "farm_dairy_twd_4" ],
+      "fg": [ "farm_dairy_twd_4_N", "farm_dairy_twd_4_W", "farm_dairy_twd_4_S", "farm_dairy_twd_4_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "farm_dairy_twd_4_roof", "farm_dairy_twd_second_floor_4" ],
+      "fg": [ "farm_dairy_twd_4_roof_N", "farm_dairy_twd_4_roof_W", "farm_dairy_twd_4_roof_S", "farm_dairy_twd_4_roof_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "farm_dairy_twd_5" ],
+      "fg": [ "farm_dairy_twd_5_N", "farm_dairy_twd_5_W", "farm_dairy_twd_5_S", "farm_dairy_twd_5_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "farm_dairy_twd_second_floor_5" ],
+      "fg": [
+        "farm_dairy_twd_second_floor_5_N",
+        "farm_dairy_twd_second_floor_5_W",
+        "farm_dairy_twd_second_floor_5_S",
+        "farm_dairy_twd_second_floor_5_E"
+      ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "farm_dairy_twd_6" ],
+      "fg": [ "farm_dairy_twd_6_N", "farm_dairy_twd_6_W", "farm_dairy_twd_6_S", "farm_dairy_twd_6_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "farm_dairy_twd_second_floor_6" ],
+      "fg": [
+        "farm_dairy_twd_second_floor_6_N",
+        "farm_dairy_twd_second_floor_6_W",
+        "farm_dairy_twd_second_floor_6_S",
+        "farm_dairy_twd_second_floor_6_E"
+      ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "farm_dairy_twd_7" ],
+      "fg": [ "farm_dairy_twd_7_N", "farm_dairy_twd_7_W", "farm_dairy_twd_7_S", "farm_dairy_twd_7_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "farm_dairy_twd_8" ],
+      "fg": [ "farm_dairy_twd_8_N", "farm_dairy_twd_8_W", "farm_dairy_twd_8_S", "farm_dairy_twd_8_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "farm_dairy_twd_9" ],
+      "fg": [ "farm_dairy_twd_9_N", "farm_dairy_twd_9_W", "farm_dairy_twd_9_S", "farm_dairy_twd_9_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "farm_dairy_twd_10" ],
+      "fg": [ "farm_dairy_twd_10_N", "farm_dairy_twd_10_W", "farm_dairy_twd_10_S", "farm_dairy_twd_10_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "farm_dairy_twd_11" ],
+      "fg": [ "farm_dairy_twd_11_N", "farm_dairy_twd_11_W", "farm_dairy_twd_11_S", "farm_dairy_twd_11_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "farm_dairy_twd_12" ],
+      "fg": [ "farm_dairy_twd_12_N", "farm_dairy_twd_12_W", "farm_dairy_twd_12_S", "farm_dairy_twd_12_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "farm_dairy_twd_second_floor_12" ],
+      "fg": [
+        "farm_dairy_twd_second_floor_12_N",
+        "farm_dairy_twd_second_floor_12_W",
+        "farm_dairy_twd_second_floor_12_S",
+        "farm_dairy_twd_second_floor_12_E"
+      ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    }
+  ]
+  

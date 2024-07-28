@@ -1,0 +1,39 @@
+[
+    {
+        "id": [ "dairy_farm_SW" ],
+        "fg": [ "dairy_farm_SW_N", "dairy_farm_SW_W", "dairy_farm_SW_S", "dairy_farm_SW_E" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "dairy_farm_SW_roof" ],
+        "fg": [ "dairy_farm_SW_roof_N", "dairy_farm_SW_roof_W", "dairy_farm_SW_roof_S", "dairy_farm_SW_roof_E"],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "dairy_farm_SE" ],
+        "fg": [ "dairy_farm_SE_N", "dairy_farm_SE_W", "dairy_farm_SE_S", "dairy_farm_SE_E" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "dairy_farm_SE_roof" ],
+        "fg": [ "dairy_farm_SE_roof_N", "dairy_farm_SE_roof_W", "dairy_farm_SE_roof_S", "dairy_farm_SE_roof_E" ],
+        "bg": [ "open_air" ],
+        "rotates": true
+      },
+      {
+        "id": [ "dairy_farm_NW" ],
+        "fg": [ "dairy_farm_NW_N", "dairy_farm_NW_W", "dairy_farm_NW_S", "dairy_farm_NW_E" ],
+        "bg": [ "field" ],
+        "rotates": true
+      },
+      {
+        "id": [ "dairy_farm_NE" ],
+        "fg": [ "dairy_farm_NE_N", "dairy_farm_NE_W", "dairy_farm_NE_S", "dairy_farm_NE_E" ],
+        "bg": [ "field" ],
+        "rotates": true
+      }
+    
+]

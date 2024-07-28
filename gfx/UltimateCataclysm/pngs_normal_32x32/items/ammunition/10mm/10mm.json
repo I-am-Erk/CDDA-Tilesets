@@ -1,0 +1,29 @@
+[
+
+  {
+    "id": [ "10mm_casing" ],
+    "bg": [ "" ],
+    "fg": [ "4_casing" ]
+  },
+  {
+    "id": [ "10mm_casing_transparent" ],
+    "bg": [ "10mm_b" ],
+    "fg": [ "4_casing" ]
+  },
+
+  {
+    "id": [ "10mm_fmj" ],
+    "bg": [ "10mm_b" ],
+    "fg": [ "10mm_f_fmj" ]
+  },
+  {
+    "id": [ "reloaded_10mm_fmj" ],
+    "bg": [ "10mm_b_r" ],
+    "fg": [ "10mm_f_fmj" ]
+  },
+  {
+    "id": [ "bp_10mm_fmj" ],
+    "bg": [ "10mm_b_bp" ],
+    "fg": [ "10mm_f_fmj" ]
+  }
+]

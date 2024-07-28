@@ -1,13 +1,13 @@
 [
   {
     "id": [ "bank" ],
-    "fg": [ "bank_N", "bank_E", "bank_S", "bank_W" ],
+    "fg": [ "bank_N", "bank_W", "bank_S", "bank_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "bank_roof" ],
-    "fg": [ "bank_roof_N", "bank_roof_E", "bank_roof_S", "bank_roof_W" ],
+    "fg": [ "bank_roof_N", "bank_roof_W", "bank_roof_S", "bank_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

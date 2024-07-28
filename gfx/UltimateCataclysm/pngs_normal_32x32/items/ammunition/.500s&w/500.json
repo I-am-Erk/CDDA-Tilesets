@@ -1,0 +1,29 @@
+[
+
+  {
+    "id": [ "500_casing" ],
+    "bg": [ "" ],
+    "fg": [ "4_casing" ]
+  },
+  {
+    "id": [ "500_casing_transparent" ],
+    "bg": [ "500_b" ],
+    "fg": [ "4_casing" ]
+  },
+
+  {
+    "id": [ "500_Magnum" ],
+    "bg": [ "500_b" ],
+    "fg": [ "500_f" ]
+  },
+  {
+    "id": [ "reloaded_500_Magnum" ],
+    "bg": [ "500_b_r" ],
+    "fg": [ "500_f" ]
+  },
+  {
+    "id": [ "bp_500_Magnum" ],
+    "bg": [ "500_b_bp" ],
+    "fg": [ "500_f" ]
+  }
+]

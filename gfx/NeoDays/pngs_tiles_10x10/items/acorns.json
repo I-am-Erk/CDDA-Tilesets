@@ -20,8 +20,24 @@
     "hickory_nut",
     "pistachio_roasted",
     "pistachio_unshelled",
+    "butternut",
+    "butternut_shelled",
+    "butternut_roasted",
     "seed_tobacco",
-    "seed_beans"
+    "seed_beans",
+    "seed_bell_pepper",
+    "seed_bottle_gourd",
+    "seed_eggplant",
+    "seed_elderberries",
+    "seed_grapes",
+    "seed_groundnut",
+    "seed_horseradish",
+    "seed_mayapple",
+    "seed_mulberries",
+    "seed_maianthemum_stellatum",
+    "seed_watermelon",
+    "seed_wildcarrot",
+    "seed_wild_sarsaparilla"
   ],
   "fg": "acorns"
 }

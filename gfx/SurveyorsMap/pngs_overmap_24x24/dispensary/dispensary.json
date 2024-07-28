@@ -1,13 +1,13 @@
 [
   {
     "id": [ "dispensary" ],
-    "fg": [ "dispensary_N", "dispensary_E", "dispensary_S", "dispensary_W" ],
+    "fg": [ "dispensary_N", "dispensary_W", "dispensary_S", "dispensary_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "dispensary_roof" ],
-    "fg": [ "dispensary_roof_N", "dispensary_roof_E", "dispensary_roof_S", "dispensary_roof_W" ],
+    "fg": [ "dispensary_roof_N", "dispensary_roof_W", "dispensary_roof_S", "dispensary_roof_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

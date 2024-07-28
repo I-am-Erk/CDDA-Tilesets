@@ -130,5 +130,38 @@
       },
       { "bg": "snow_shallow_center", "id": "unconnected", "fg": "t_water_moving_dp_unconnected" }
     ]
+  },
+  {
+    "id": "t_water_moving_dp_underground",
+    "multitile": true,
+    "fg": "t_water_moving_dp_unconnected",
+    "bg": "t_rock_floor_center",
+    "additional_tiles": [
+      {
+        "id": "center",
+        "bg": "t_rock_floor_center",
+        "fg": [
+          { "weight": 1, "sprite": "t_water_moving_dp_center" },
+          { "weight": 1, "sprite": "t_water_moving_dp_center2" }
+        ]
+      },
+      {
+        "id": "corner",
+        "bg": "t_rock_floor_center",
+        "fg": [ "t_water_moving_dp_corner_nw", "t_water_moving_dp_corner_sw", "t_water_moving_dp_corner_se", "t_water_moving_dp_corner_ne" ]
+      },
+      {
+        "id": "t_connection",
+        "bg": "t_rock_floor_center",
+        "fg": [ "t_water_moving_dp_t_connection_n", "t_water_moving_dp_t_connection_w", "t_water_moving_dp_t_connection_s", "t_water_moving_dp_t_connection_e" ]
+      },
+      { "id": "edge", "bg": "t_rock_floor_center", "fg": [ "t_water_moving_dp_edge_ns", "t_water_moving_dp_edge_ew" ] },
+      {
+        "id": "end_piece",
+        "bg": "t_rock_floor_center",
+        "fg": [ "t_water_moving_dp_end_piece_n", "t_water_moving_dp_end_piece_w", "t_water_moving_dp_end_piece_s", "t_water_moving_dp_end_piece_e" ]
+      },
+      { "bg": "t_rock_floor_center", "id": "unconnected", "fg": "t_water_moving_dp_unconnected" }
+    ]
   }
 ]

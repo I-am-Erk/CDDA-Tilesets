@@ -1,0 +1,13 @@
+{
+  "id": "vp_minireactor",
+  "fg": "vp_minireactor",
+  "bg": "background_black",
+  "rotates": false,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": "vp_broken_red"
+    }
+  ]
+}

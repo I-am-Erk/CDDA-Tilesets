@@ -2,7 +2,9 @@
   "id": [
     "f_bed",
     "f_floor_mattress",
-    "f_down_mattress"
+    "f_down_mattress",
+    "tr_mattress",
+    "tr_down_mattress"
   ],
   "//": "different sprite(s) for mattresses later",
   "fg": "f_makeshift_bed_0",

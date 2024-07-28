@@ -1,7 +1,8 @@
-[
-  {
-    "id": "mon_zombie_bio_op",
-    "fg": "mon_zombie_bio_op",
-    "bg": "shadow_32x48_normal"
-  }
-]
+{
+  "id": "mon_zombie_bio_op",
+  "fg": [
+    { "weight": 1, "sprite": "mon_zombie_bio_op" },
+    { "weight": 1, "sprite": "mon_zombie_bio_op2" }
+  ],
+  "bg": "shadow_32x48_normal"
+}

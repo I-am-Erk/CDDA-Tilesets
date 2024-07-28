@@ -1,0 +1,177 @@
+[
+    {
+      "id": [ "hotel_tower_1_3" ],
+      "fg": [ "hotel_tower_1_3_N", "hotel_tower_1_3_W", "hotel_tower_1_3_S", "hotel_tower_1_3_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hotel_tower_1_2" ],
+      "fg": [ "hotel_tower_1_2_N", "hotel_tower_1_2_W", "hotel_tower_1_2_S", "hotel_tower_1_2_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hotel_tower_1_1" ],
+      "fg": [ "hotel_tower_1_1_N", "hotel_tower_1_1_W", "hotel_tower_1_1_S", "hotel_tower_1_1_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hotel_tower_1_6" ],
+      "fg": [ "hotel_tower_1_6_N", "hotel_tower_1_6_W", "hotel_tower_1_6_S", "hotel_tower_1_6_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hotel_tower_flr2_1_6", "hotel_tower_flr3_1_6", "hotel_tower_flr4_1_6", "hotel_tower_roof_1_6" ],
+      "fg": [ "hotel_tower_flr2_1_6_N", "hotel_tower_flr2_1_6_W", "hotel_tower_flr2_1_6_S", "hotel_tower_flr2_1_6_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hotel_tower_1_5" ],
+      "fg": [ "hotel_tower_1_5_N", "hotel_tower_1_5_W", "hotel_tower_1_5_S", "hotel_tower_1_5_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hotel_tower_flr2_1_5" ],
+      "fg": [ "hotel_tower_flr2_1_5_N", "hotel_tower_flr2_1_5_W", "hotel_tower_flr2_1_5_S", "hotel_tower_flr2_1_5_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hotel_tower_flr3_1_5", "hotel_tower_flr4_1_5", "hotel_tower_roof_1_5" ],
+      "fg": [ "hotel_tower_flr3_1_5_N", "hotel_tower_flr3_1_5_W", "hotel_tower_flr3_1_5_S", "hotel_tower_flr3_1_5_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hotel_tower_1_4" ],
+      "fg": [ "hotel_tower_1_4_N", "hotel_tower_1_4_W", "hotel_tower_1_4_S", "hotel_tower_1_4_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hotel_tower_flr2_1_4", "hotel_tower_flr3_1_4", "hotel_tower_flr4_1_4", "hotel_tower_roof_1_4" ],
+      "fg": [ "hotel_tower_flr2_1_4_N", "hotel_tower_flr2_1_4_W", "hotel_tower_flr2_1_4_S", "hotel_tower_flr2_1_4_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hotel_tower_1_9" ],
+      "fg": [ "hotel_tower_1_9_N", "hotel_tower_1_9_W", "hotel_tower_1_9_S", "hotel_tower_1_9_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hotel_tower_flr2_1_9", "hotel_tower_flr3_1_9", "hotel_tower_flr4_1_9" ],
+      "fg": [ "hotel_tower_flr2_1_9_N", "hotel_tower_flr2_1_9_W", "hotel_tower_flr2_1_9_S", "hotel_tower_flr2_1_9_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hotel_tower_1_8" ],
+      "fg": [ "hotel_tower_1_8_N", "hotel_tower_1_8_W", "hotel_tower_1_8_S", "hotel_tower_1_8_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hotel_tower_flr2_1_8", "hotel_tower_flr3_1_8", "hotel_tower_flr4_1_8" ],
+      "fg": [ "hotel_tower_1_8_N", "hotel_tower_1_8_W", "hotel_tower_1_8_S", "hotel_tower_1_8_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hotel_tower_1_7" ],
+      "fg": [ "hotel_tower_1_7_N", "hotel_tower_1_7_W", "hotel_tower_1_7_S", "hotel_tower_1_7_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hotel_tower_flr2_1_7", "hotel_tower_flr3_1_7", "hotel_tower_flr4_1_7" ],
+      "fg": [ "hotel_tower_flr2_1_7_N", "hotel_tower_flr2_1_7_W", "hotel_tower_flr2_1_7_S", "hotel_tower_flr2_1_7_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hotel_tower_1_5B" ],
+      "fg": [ "hotel_tower_1_5B_N", "hotel_tower_1_5B_W", "hotel_tower_1_5B_S", "hotel_tower_1_5B_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hotel_tower_flr2_1_5B" ],
+      "fg": [ "hotel_tower_flr2_1_5B_N", "hotel_tower_flr2_1_5B_W", "hotel_tower_flr2_1_5B_S", "hotel_tower_flr2_1_5B_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hotel_tower_1_5C" ],
+      "fg": [ "hotel_tower_1_5C_N", "hotel_tower_1_5C_W", "hotel_tower_1_5C_S", "hotel_tower_1_5C_E" ],
+      "bg": [ "field" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hotel_tower_flr2_1_5C" ],
+      "fg": [ "hotel_tower_flr2_1_5C_N", "hotel_tower_flr2_1_5C_W", "hotel_tower_flr2_1_5C_S", "hotel_tower_flr2_1_5C_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hotel_tower_roof_1_9" ],
+      "fg": [ "hotel_tower_roof_1_9_N", "hotel_tower_roof_1_9_W", "hotel_tower_roof_1_9_S", "hotel_tower_roof_1_9_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hotel_tower_6_1_9" ],
+      "fg": [ "hotel_tower_6_1_9_N", "hotel_tower_6_1_9_W", "hotel_tower_6_1_9_S", "hotel_tower_6_1_9_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hotel_tower_6_1_8" ],
+      "fg": [ "open_air" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hotel_tower_roof_1_8" ],
+      "fg": [ "hotel_tower_roof_1_8_N", "hotel_tower_roof_1_8_W", "hotel_tower_roof_1_8_S", "hotel_tower_roof_1_8_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hotel_tower_roof_1_7" ],
+      "fg": [ "hotel_tower_roof_1_7_N", "hotel_tower_roof_1_7_W", "hotel_tower_roof_1_7_S", "hotel_tower_roof_1_7_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hotel_tower_6_1_7" ],
+      "fg": [ "hotel_tower_6_1_7_N", "hotel_tower_6_1_7_W", "hotel_tower_6_1_7_S", "hotel_tower_6_1_7_E" ],
+      "bg": [ "open_air" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hotel_tower_b_3" ],
+      "fg": [ "hotel_tower_b_3_N", "hotel_tower_b_3_W", "hotel_tower_b_3_S", "hotel_tower_b_3_E" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hotel_tower_b_2" ],
+      "fg": [ "hotel_tower_b_2_N", "hotel_tower_b_2_W", "hotel_tower_b_2_S", "hotel_tower_b_2_E" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    },
+    {
+      "id": [ "hotel_tower_b_1" ],
+      "fg": [ "hotel_tower_b_1_N", "hotel_tower_b_1_W", "hotel_tower_b_1_S", "hotel_tower_b_1_E" ],
+      "bg": [ "solid_earth" ],
+      "rotates": true
+    }
+  ]
+  

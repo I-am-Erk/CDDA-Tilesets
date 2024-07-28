@@ -1,0 +1,13 @@
+{
+  "id": [
+    "processor",
+    "RAM",
+    "amplifier",
+    "transponder",
+    "receiver",
+    "radio_repeater_mod",
+    "circuit",
+    "radio_mod"
+  ],
+  "fg": "processor"
+}

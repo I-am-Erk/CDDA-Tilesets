@@ -1,0 +1,9 @@
+{
+  "id": [
+    "arm_splint",
+    "leg_splint",
+    "2byarm_guard",
+    "2byshin_guard"
+  ],
+  "fg": "arm_splint"
+}

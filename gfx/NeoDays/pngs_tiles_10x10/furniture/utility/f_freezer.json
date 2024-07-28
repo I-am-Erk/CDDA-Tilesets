@@ -1,7 +1,8 @@
 {
   "id": [
     "f_freezer",
-    "vp_ap_freezer"
+    "vp_ap_freezer",
+    "f_sample_freezer"
   ],
   "fg": "f_freezer"
 }
