@@ -1,0 +1,1 @@
+Uses https://github.com/I-am-Erk/CDDA-Tilesets/blob/master/gfx/MShockXotto%2B/pngs_small_20x20/items/copper_wire.png
