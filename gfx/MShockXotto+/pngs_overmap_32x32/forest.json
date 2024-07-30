@@ -1,17 +1,14 @@
 [
-{
-	"id": [
-	"forest",
-	"special_forest",
-  "lumbermill_dforest"
-	],
-	"fg": "forest"	
-},
-{
-	"id": [
-	"forest_thick",
-	"special_forest_thick"
-	],
-	"fg": "forest_thick"
-}
+  {
+    "id": [ "forest", "special_forest", "lumbermill_dforest" ],
+    "fg": "forest"
+  },
+  {
+    "id": [ "forest_thick", "special_forest_thick" ],
+    "fg": "forest_thick"
+  },
+  {
+    "id": [ "forest_water" ],
+    "fg": "forest_water"
+  }
 ]

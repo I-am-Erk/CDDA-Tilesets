@@ -1,0 +1,356 @@
+[
+  {
+    "id": [ "isolated_building$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "cabin"
+  },
+  {
+    "id": [ "isolated_building$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "cabin"
+  },
+  {
+    "id": [ "isolated_building$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "cabin"
+  },
+  {
+    "id": [ "city_building$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "single_houseS"
+  },
+  {
+    "id": [ "city_building$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "single_houseS"
+  },
+  {
+    "id": [ "city_building$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "single_houseS"
+  },
+  {
+    "id": [ "isolated_tower$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "isolated_tower"
+  },
+  {
+    "id": [ "isolated_tower$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "isolated_tower"
+  },
+  {
+    "id": [ "isolated_tower$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "isolated_tower"
+  },
+  {
+    "id": [ "forested$vague", "first_glance_forest$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "forest"
+  },
+  {
+    "id": [ "forested$outlines", "first_glance_forest$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "forest"
+  },
+  {
+    "id": [ "forested$details", "first_glance_forest$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "forest"
+  },
+  {
+    "id": [ "forested_swampy$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "forest_water"
+  },
+  {
+    "id": [ "forested_swampy$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "forest_water"
+  },
+  {
+    "id": [ "forested_swampy$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "forest_water"
+  },
+  {
+    "id": [ "open_land$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": [
+      { "weight": 25, "sprite": "field" },
+      { "weight": 40, "sprite": "field_1" },
+      { "weight": 10, "sprite": "field_2" },
+      { "weight": 25, "sprite": "field_3" }
+    ]
+  },
+  {
+    "id": [ "open_land$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": [
+      { "weight": 25, "sprite": "field" },
+      { "weight": 40, "sprite": "field_1" },
+      { "weight": 10, "sprite": "field_2" },
+      { "weight": 25, "sprite": "field_3" }
+    ]
+  },
+  {
+    "id": [ "open_land$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": [
+      { "weight": 25, "sprite": "field" },
+      { "weight": 40, "sprite": "field_1" },
+      { "weight": 10, "sprite": "field_2" },
+      { "weight": 25, "sprite": "field_3" }
+    ]
+  },
+  {
+    "id": [ "farm_field$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "farm_field"
+  },
+  {
+    "id": [ "farm_field$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "farm_field"
+  },
+  {
+    "id": [ "farm_field$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "farm_field"
+  },
+  {
+    "id": [ "large_pavement$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "s_lot"
+  },
+  {
+    "id": [ "large_pavement$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "s_lot"
+  },
+  {
+    "id": [ "large_pavement$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "s_lot"
+  },
+  {
+    "id": [ "single_water$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "pond_field"
+  },
+  {
+    "id": [ "single_water$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "pond_field"
+  },
+  {
+    "id": [ "single_water$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "pond_field"
+  },
+  {
+    "id": [ "water_body$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "river_center"
+  },
+  {
+    "id": [ "water_body$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "river_center"
+  },
+  {
+    "id": [ "water_body$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "river_center"
+  },
+  {
+    "id": [ "roof_or_air$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": [
+      { "weight": 1, "sprite": "open_air" },
+      { "weight": 1, "sprite": "open_air_1" },
+      { "weight": 1, "sprite": "open_air_2" },
+      { "weight": 1, "sprite": "open_air_3" },
+      { "weight": 1, "sprite": "open_air_4" },
+      { "weight": 1, "sprite": "open_air_5" }
+    ]
+  },
+  {
+    "id": [ "roof_or_air$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": [
+      { "weight": 1, "sprite": "open_air" },
+      { "weight": 1, "sprite": "open_air_1" },
+      { "weight": 1, "sprite": "open_air_2" },
+      { "weight": 1, "sprite": "open_air_3" },
+      { "weight": 1, "sprite": "open_air_4" },
+      { "weight": 1, "sprite": "open_air_5" }
+    ]
+  },
+  {
+    "id": [ "roof_or_air$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": [
+      { "weight": 1, "sprite": "open_air" },
+      { "weight": 1, "sprite": "open_air_1" },
+      { "weight": 1, "sprite": "open_air_2" },
+      { "weight": 1, "sprite": "open_air_3" },
+      { "weight": 1, "sprite": "open_air_4" },
+      { "weight": 1, "sprite": "open_air_5" }
+    ]
+  },
+  {
+    "id": [ "underground_dirt$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": [
+      { "weight": 60, "sprite": "solid_earth" },
+      { "weight": 20, "sprite": "solid_earth_1" },
+      { "weight": 5, "sprite": "solid_earth_2" },
+      { "weight": 5, "sprite": "solid_earth_3" },
+      { "weight": 10, "sprite": "solid_earth_4" }
+    ]
+  },
+  {
+    "id": [ "underground_dirt$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": [
+      { "weight": 60, "sprite": "solid_earth" },
+      { "weight": 20, "sprite": "solid_earth_1" },
+      { "weight": 5, "sprite": "solid_earth_2" },
+      { "weight": 5, "sprite": "solid_earth_3" },
+      { "weight": 10, "sprite": "solid_earth_4" }
+    ]
+  },
+  {
+    "id": [ "underground_dirt$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": [
+      { "weight": 60, "sprite": "solid_earth" },
+      { "weight": 20, "sprite": "solid_earth_1" },
+      { "weight": 5, "sprite": "solid_earth_2" },
+      { "weight": 5, "sprite": "solid_earth_3" },
+      { "weight": 10, "sprite": "solid_earth_4" }
+    ]
+  },
+  {
+    "id": [ "underground_stone$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "empty_rock"
+  },
+  {
+    "id": [ "underground_stone$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "empty_rock"
+  },
+  {
+    "id": [ "underground_stone$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "empty_rock"
+  },
+  {
+    "id": [ "large_building$vague", "large_city_building$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "large_building"
+  },
+  {
+    "id": [ "large_building$outlines", "large_city_building$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "large_building"
+  },
+  {
+    "id": [ "large_building$details", "large_city_building$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "large_building"
+  },
+  {
+    "id": [ "large_structure$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "large_structure"
+  },
+  {
+    "id": [ "large_structure$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "large_structure"
+  },
+  {
+    "id": [ "large_structure$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "large_structure"
+  },
+  {
+    "id": [ "large_ship$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "shipwreck_river_2_south"
+  },
+  {
+    "id": [ "large_ship$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "shipwreck_river_2_south"
+  },
+  {
+    "id": [ "large_ship$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "shipwreck_river_2_south"
+  },
+  {
+    "id": [ "large_outcropping$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "Cave"
+  },
+  {
+    "id": [ "large_outcropping$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "Cave"
+  },
+  {
+    "id": [ "large_outcropping$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "Cave"
+  },
+  {
+    "id": [ "natural_outcropping$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "nest_dermatik"
+  },
+  {
+    "id": [ "natural_outcropping$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "nest_dermatik"
+  },
+  {
+    "id": [ "natural_outcropping$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "nest_dermatik"
+  },
+  {
+    "id": [ "natural_depression$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "crater"
+  },
+  {
+    "id": [ "natural_depression$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "crater"
+  },
+  {
+    "id": [ "natural_depression$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "crater"
+  },
+  {
+    "id": [ "unusual_structure$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "wizardtower2_ground"
+  },
+  {
+    "id": [ "unusual_structure$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "wizardtower2_ground"
+  },
+  {
+    "id": [ "unusual_structure$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "wizardtower2_ground"
+  }
+]
