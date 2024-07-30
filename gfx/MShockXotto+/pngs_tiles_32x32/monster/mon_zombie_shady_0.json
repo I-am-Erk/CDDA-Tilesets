@@ -1,1 +1,1 @@
-{"id": "mon_zombie_shady", "fg": ["2749_mon_zombie_shady_0"], "bg": ["shadow_32x32_normal"], "rotates": false}
+{"id": "mon_zombie_shady", "fg": ["mon_zombie_shady"], "bg": ["shadow_32x32_normal"], "rotates": false}
