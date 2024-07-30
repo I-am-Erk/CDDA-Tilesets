@@ -1,0 +1,317 @@
+[
+  {
+    "id": [ "isolated_building$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "cabin_brown"
+  },
+  {
+    "id": [ "isolated_building$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "cabin_brown"
+  },
+  {
+    "id": [ "isolated_building$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "cabin_brown"
+  },
+  {
+    "id": [ "city_building$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "house_light_gray"
+  },
+  {
+    "id": [ "city_building$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "house_light_gray"
+  },
+  {
+    "id": [ "city_building$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "house_light_gray"
+  },
+  {
+    "id": [ "isolated_tower$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "tower_light_gray"
+  },
+  {
+    "id": [ "isolated_tower$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "tower_light_gray"
+  },
+  {
+    "id": [ "isolated_tower$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "tower_light_gray"
+  },
+  {
+    "id": [ "forested$vague", "first_glance_forest$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "small_tree_green"
+  },
+  {
+    "id": [ "forested$outlines", "first_glance_forest$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "small_tree_green"
+  },
+  {
+    "id": [ "forested$details", "first_glance_forest$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "small_tree_green"
+  },
+  {
+    "id": [ "forested_swampy$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "small_tree_cyan"
+  },
+  {
+    "id": [ "forested_swampy$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "small_tree_cyan"
+  },
+  {
+    "id": [ "forested_swampy$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "small_tree_cyan"
+  },
+  {
+    "id": [ "open_land$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "one_grass_brown"
+  },
+  {
+    "id": [ "open_land$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "one_grass_brown"
+  },
+  {
+    "id": [ "open_land$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "one_grass_brown"
+  },
+  {
+    "id": [ "farm_field$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "two_grass_brown"
+  },
+  {
+    "id": [ "farm_field$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "two_grass_brown"
+  },
+  {
+    "id": [ "farm_field$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "two_grass_brown"
+  },
+  {
+    "id": [ "large_pavement$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "square_dark_gray"
+  },
+  {
+    "id": [ "large_pavement$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "square_dark_gray"
+  },
+  {
+    "id": [ "large_pavement$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "square_dark_gray"
+  },
+  {
+    "id": [ "single_water$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "pond_light_blue"
+  },
+  {
+    "id": [ "single_water$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "pond_light_blue"
+  },
+  {
+    "id": [ "single_water$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "pond_light_blue"
+  },
+  {
+    "id": [ "water_body$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "water_blue"
+  },
+  {
+    "id": [ "water_body$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "water_blue"
+  },
+  {
+    "id": [ "water_body$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "water_blue"
+  },
+  {
+    "id": [ "roof_or_air$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "open_air_blue"
+  },
+  {
+    "id": [ "roof_or_air$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "open_air_blue"
+  },
+  {
+    "id": [ "roof_or_air$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "open_air_blue"
+  },
+  {
+    "id": [ "underground_dirt$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "rock_brown"
+  },
+  {
+    "id": [ "underground_dirt$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "rock_brown"
+  },
+  {
+    "id": [ "underground_dirt$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "rock_brown"
+  },
+  {
+    "id": [ "underground_stone$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "rock_light_gray"
+  },
+  {
+    "id": [ "underground_stone$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "rock_light_gray"
+  },
+  {
+    "id": [ "underground_stone$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "rock_light_gray"
+  },
+  {
+    "id": [ "large_building$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "big_building_light_blue"
+  },
+  {
+    "id": [ "large_building$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "big_building_light_blue"
+  },
+  {
+    "id": [ "large_building$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "big_building_light_blue"
+  },
+  {
+    "id": [ "large_city_building$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "big_building_white"
+  },
+  {
+    "id": [ "large_city_building$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "big_building_white"
+  },
+  {
+    "id": [ "large_city_building$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "big_building_white"
+  },
+  {
+    "id": [ "large_structure$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "building_columns_white"
+  },
+  {
+    "id": [ "large_structure$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "building_columns_white"
+  },
+  {
+    "id": [ "large_structure$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "building_columns_white"
+  },
+  {
+    "id": [ "large_ship$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "anchor_pink"
+  },
+  {
+    "id": [ "large_ship$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "anchor_pink"
+  },
+  {
+    "id": [ "large_ship$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "anchor_pink"
+  },
+  {
+    "id": [ "large_outcropping$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "hive_light_gray"
+  },
+  {
+    "id": [ "large_outcropping$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "hive_light_gray"
+  },
+  {
+    "id": [ "large_outcropping$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "hive_light_gray"
+  },
+  {
+    "id": [ "natural_outcropping$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "hive_brown"
+  },
+  {
+    "id": [ "natural_outcropping$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "hive_brown"
+  },
+  {
+    "id": [ "natural_outcropping$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "hive_brown"
+  },
+  {
+    "id": [ "natural_depression$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "hole_brown"
+  },
+  {
+    "id": [ "natural_depression$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "hole_brown"
+  },
+  {
+    "id": [ "natural_depression$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "hole_brown"
+  },
+  {
+    "id": [ "unusual_structure$vague" ],
+    "fg": "unknown_terrain_vague",
+    "bg": "tower_spiral_magenta"
+  },
+  {
+    "id": [ "unusual_structure$outlines" ],
+    "fg": "unknown_terrain_outlines",
+    "bg": "tower_spiral_magenta"
+  },
+  {
+    "id": [ "unusual_structure$details" ],
+    "fg": "unknown_terrain_details",
+    "bg": "tower_spiral_magenta"
+  }
+]
