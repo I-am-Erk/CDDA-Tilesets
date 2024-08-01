@@ -62,17 +62,17 @@
   {
     "id": [ "forested_swampy$vague" ],
     "fg": "unknown_terrain_vague",
-    "bg": "small_tree_cyan"
+    "bg": "small_tree_green"
   },
   {
     "id": [ "forested_swampy$outlines" ],
     "fg": "unknown_terrain_outlines",
-    "bg": "small_tree_cyan"
+    "bg": "swamp_cyan"
   },
   {
     "id": [ "forested_swampy$details" ],
     "fg": "unknown_terrain_details",
-    "bg": "small_tree_cyan"
+    "bg": "swamp_cyan"
   },
   {
     "id": [ "open_land$vague" ],
