@@ -1,72 +1,58 @@
 [
   {
     "id": "overlay_female_mutation_CHITIN",
-    "fg": "chitin_f",
-    "bg": ""
+    "fg": "chitin_f"
   },
   {
     "id": "overlay_male_mutation_CHITIN",
-    "fg": "chitin_m",
-    "bg": ""
+    "fg": "chitin_m"
   },
   {
     "id": "overlay_female_mutation_CHITIN2",
-    "fg": "chitin2_f",
-    "bg": ""
+    "fg": "chitin2_f"
   },
   {
     "id": "overlay_male_mutation_CHITIN2",
-    "fg": "chitin2_m",
-    "bg": ""
+    "fg": "chitin2_m"
   },
   {
     "id": "overlay_female_mutation_FEATHERS",
-    "fg": "feathers_f",
-    "bg": ""
+    "fg": "feathers_f"
   },
   {
     "id": "overlay_male_mutation_FEATHERS",
-    "fg": "feathers_m",
-    "bg": ""
+    "fg": "feathers_m"
   },
   {
     "id": "overlay_female_mutation_SCALES",
-    "fg": "scales_f",
-    "bg": ""
+    "fg": "scales_f"
   },
   {
     "id": "overlay_male_mutation_SCALES",
-    "fg": "scales_m",
-    "bg": ""
+    "fg": "scales_m"
   },
   {
     "id": "overlay_female_mutation_PLANTSKIN",
-    "fg": "plantskin_f",
-    "bg": ""
+    "fg": "plantskin_f"
   },
   {
     "id": "overlay_male_mutation_PLANTSKIN",
-    "fg": "plantskin_m",
-    "bg": ""
+    "fg": "plantskin_m"
   },
   {
-    "id": "overlay_female_mutation_LUPINE_FUR",
-    "fg": "grayfur_f",
-    "bg": ""
+    "id": [ "overlay_female_mutation_LUPINE_FUR", "overlay_female_mutation_LUPINE_FUR_SUMMER" ],
+    "fg": "overlay_female_mutation_LUPINE_FUR"
   },
   {
-    "id": "overlay_male_mutation_LUPINE_FUR",
-    "fg": "grayfur_m",
-    "bg": ""
+    "id": [ "overlay_male_mutation_LUPINE_FUR", "overlay_male_mutation_LUPINE_FUR_SUMMER" ],
+    "fg": "overlay_male_mutation_LUPINE_FUR"
   },
   {
     "id": [ "overlay_male_mutation_PATCHSKIN1", "overlay_male_mutation_PATCHSKIN2", "overlay_male_mutation_PATCHSKIN3" ],
-    "fg": "patchskin_m",
-    "bg": ""
+    "fg": "patchskin_m"
   },
   {
     "id": [ "overlay_female_mutation_PATCHSKIN1", "overlay_female_mutation_PATCHSKIN2", "overlay_female_mutation_PATCHSKIN3" ],
-    "fg": "patchskin_f",
-    "bg": ""
+    "fg": "patchskin_f"
   }
 ]
