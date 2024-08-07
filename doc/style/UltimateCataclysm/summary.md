@@ -2,7 +2,7 @@
 
 Rules and guidelines are divided between groups: 
 - [General](general.md)
-- [Items](items.md) (things on the floor)
-- [Overlay](overlay.md) (wielded/worn/mutations)
+- [Terrain/Furniture](terrain-furniture.md)
 - [Creatures](creatures.md)
-- [Terrain](terrain.md)
+- [Overlay](overlay.md) (wielded/worn/mutations)
+- [Items](items.md) (things on the floor)
