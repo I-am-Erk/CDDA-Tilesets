@@ -306,6 +306,8 @@ def get_unique_names(objects_list):
             unique_names.add(object_name["str"])
         elif isinstance(object_name, str):
             unique_names.add(object_name)
+        elif obj.get("levels"):
+            unique_names.add("vision_level_object")
     return list(unique_names)
 
 
@@ -353,6 +355,14 @@ def get_all_names_and_ids(objects_list):
                 name = get_object_name(object_id, objects_list)
                 if name:
                     names_and_ids[name].add(object_id)
+                elif obj["levels"]:
+                    levels = obj["levels"]
+                    if (len(levels) > 0 and levels[0].get("name")):
+                        names_and_ids["vision_level_object"].add(object_id+"$vague")
+                    if (len(levels) > 1 and levels[1].get("name")):
+                        names_and_ids["vision_level_object"].add(object_id+"$outlines")
+                    if (len(levels) > 2 and levels[2].get("name")):
+                        names_and_ids["vision_level_object"].add(object_id+"$details")
 
     sorted_results = sorted(
         names_and_ids.items(),
@@ -462,6 +472,7 @@ def main(args):
     game_overmap_dir = os.path.join(game_dir, "data\json\overmap\overmap_terrain")
     game_overmap_mx = os.path.join(game_dir, "data\json\overmap\map_extras.json")
     game_overmap_weather = os.path.join(game_dir, "data\json\weather_type.json")
+    game_overmap_vision_levels = os.path.join(game_dir, "data\\json\\overmap\\vision_levels.json")
     tileset_dir = find_tset_dir(args.tileset_dir)
     game_overmap_hardcoded = os.path.join(tileset_dir,"..\\..\\tools\\special_overmap_symbols.json")
 
@@ -474,6 +485,9 @@ def main(args):
     elif args.part == 'x':
         overmap_objects = read_objects_from_file(game_overmap_mx)
         print(f"{bcolors.BOLD}Overmap extras is selected{bcolors.ENDC}")
+    elif args.part == 'v':
+        overmap_objects = read_objects_from_file(game_overmap_vision_levels)
+        print(f"{bcolors.BOLD}Overmap vision levels objects is selected{bcolors.ENDC}")
     else:
         overmap_objects = read_objects_from_file(game_overmap_hardcoded)
         print(f"{bcolors.BOLD}Hardcoded overmap objects are selected{bcolors.ENDC}")
@@ -508,12 +522,12 @@ def main(args):
         ) or (
             not args.name and (check_substring_in_list(args.id, marked_ids) or check_substring_in_list(args.id, unmarked_ids))
         ) or (
-            args.name in name and (check_substring_in_list(args.id, marked_ids) or check_substring_in_list(args.id, unmarked_ids))
+            (args.name and (args.name in name)) and (check_substring_in_list(args.id, marked_ids) or check_substring_in_list(args.id, unmarked_ids))
         ):
-            if args.part != 'w':
-                print(
-                    f"{bcolors.BOLD}{bcolors.UNDERLINE}{name} ({len(marked_ids)} / {len(unmarked_ids)+len(marked_ids)}):{bcolors.ENDC}"
-                )
+#            if args.part != 'w':
+            print(
+                f"{bcolors.BOLD}{bcolors.UNDERLINE}{name} ({len(marked_ids)} / {len(unmarked_ids)+len(marked_ids)}):{bcolors.ENDC}"
+            )
             for id1 in marked_ids:
                 longest_id = len(max(marked_ids, key=len))
                 if ((not args.id) or (args.id in id1)) and not args.todo:
@@ -604,9 +618,9 @@ if __name__ == "__main__":
     parser.add_argument(
         "-p",
         "--part",
-        choices=["m", "x", "o", "w"],
+        choices=["m", "x", "o", "w", "v"],
         default="m",
-        help="Choose a part of overmap objects to check: 'm' - main part, 'w' - weather, 'x' - map extras, 'o' - other om objects",
+        help="Choose a part of overmap objects to check: 'm' - main part, 'w' - weather, 'x' - map extras, 'o' - other om objects, 'v' - vision levels objects",
     )
     parser.add_argument(
         "-y", "--yes", action="store_true", help="Don't wait for user input."
