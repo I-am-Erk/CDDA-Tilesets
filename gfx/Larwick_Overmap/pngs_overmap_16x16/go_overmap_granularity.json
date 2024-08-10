@@ -32,17 +32,17 @@
   {
     "id": [ "isolated_tower$vague" ],
     "fg": "unknown_terrain_vague",
-    "bg": "tower_light_gray"
+    "bg": "watchtower_light_gray"
   },
   {
     "id": [ "isolated_tower$outlines" ],
     "fg": "unknown_terrain_outlines",
-    "bg": "tower_light_gray"
+    "bg": "watchtower_light_gray"
   },
   {
     "id": [ "isolated_tower$details" ],
     "fg": "unknown_terrain_details",
-    "bg": "tower_light_gray"
+    "bg": "watchtower_light_gray"
   },
   {
     "id": [ "forested$vague", "first_glance_forest$vague" ],
