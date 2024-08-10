@@ -12,6 +12,13 @@
     "fg": "one_grass_brown"
   },
   {
+    "id": [
+      "meadow_end",
+      "meadow_core"
+    ],
+    "fg": "two_grass_brown"
+  },
+  {
     "id": "forest",
     "fg": "small_tree_green"
   },
