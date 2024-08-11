@@ -151,18 +151,15 @@
   },
   {
     "id": [ "roof_or_air$vague" ],
-    "fg": "unknown_terrain_vague",
-    "bg": "open_air_blue"
+    "fg": "unknown_air_vague"
   },
   {
     "id": [ "roof_or_air$outlines" ],
-    "fg": "unknown_terrain_outlines",
-    "bg": "open_air_blue"
+    "fg": "unknown_air_outlines"
   },
   {
     "id": [ "roof_or_air$details" ],
-    "fg": "unknown_terrain_details",
-    "bg": "open_air_blue"
+    "fg": "unknown_air_details"
   },
   {
     "id": [ "underground_dirt$vague" ],
