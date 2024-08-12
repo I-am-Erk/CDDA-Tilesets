@@ -1,6 +1,6 @@
 [
   {
-    "id": [ "vp_folding_seat", "vp_reclining_seat", "vp_seat" ],
+    "id": [ "vp_folding_seat", "vp_reclining_seat_front", "vp_seat_front" ],
     "fg": [ "vp_seat_up", "vp_seat_left", "vp_seat_down", "vp_seat_right" ],
     "multitile": true,
     "additional_tiles": [
@@ -12,7 +12,7 @@
     ]
   },
   {
-    "id": "vp_seat_back",
+    "id": "vp_seat_back_front",
     "fg": [ "vp_seat_back", "vp_seat_back_rotW", "vp_seat_back_rotS", "vp_seat_back_rotE" ],
     "multitile": true,
     "additional_tiles": [
@@ -84,7 +84,7 @@
     ]
   },
   {
-    "id": [ "vp_seat_leather", "vp_reclining_seat_leather" ],
+    "id": [ "vp_seat_leather_front", "vp_reclining_seat_leather_front" ],
     "fg": [ "vp_seat_leather_up", "vp_seat_leather_left", "vp_seat_leather_down", "vp_seat_leather_right" ],
     "multitile": true,
     "additional_tiles": [
@@ -96,7 +96,7 @@
     ]
   },
   {
-    "id": "vp_seat_back_leather",
+    "id": "vp_seat_back_leather_front",
     "fg": [ "vp_seat_back_leather", "vp_seat_back_leather_rotW", "vp_seat_back_leather_rotS", "vp_seat_back_leather_rotE" ],
     "multitile": true,
     "additional_tiles": [

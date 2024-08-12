@@ -1,6 +1,6 @@
 [
   {
-    "id": "vp_hatch",
+    "id": "vp_hatch_front",
     "fg": [ "vp_hatch", "vp_hatch_rotW", "vp_hatch_rotS", "vp_hatch_rotE" ],
     "multitile": true,
     "additional_tiles": [
@@ -16,7 +16,7 @@
     ]
   },
   {
-    "id": "vp_hatch_opaque",
+    "id": "vp_hatch_opaque_front",
     "fg": [ "vp_hatch_opaque", "vp_hatch_opaque_rotW", "vp_hatch_opaque_rotS", "vp_hatch_opaque_rotE" ],
     "multitile": true,
     "additional_tiles": [

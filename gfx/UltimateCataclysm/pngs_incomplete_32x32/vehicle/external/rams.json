@@ -1,6 +1,6 @@
 [
  {
-  "id": "vp_ram_spiked",
+  "id": "vp_ram_spiked_front",
   "fg": "vp_ram_spiked",
   "rotates": true,
   "multitile": true,
@@ -13,7 +13,7 @@
   ]
  }, 
  {
-  "id": "vp_ram_steel",
+  "id": "vp_ram_steel_front",
   "fg": "vp_ram_steel",
   "rotates": true,
   "multitile": true,
@@ -39,7 +39,7 @@
    ]
   },
    {
-  "id": "vp_ram_wood",
+  "id": "vp_ram_wood_front",
   "fg": "vp_ram_wood",
   "rotates": true,
   "multitile": true,

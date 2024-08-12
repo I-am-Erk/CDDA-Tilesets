@@ -1,6 +1,6 @@
 [
   {
-    "id": "vp_door_trunk",
+    "id": "vp_door_trunk_front",
     "fg": [ "vp_door_trunk", "vp_door_trunk_rotW", "vp_door_trunk_rotS", "vp_door_trunk_rotE" ],
     "multitile": true,
     "additional_tiles": [
