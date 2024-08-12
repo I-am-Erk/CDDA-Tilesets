@@ -1,12 +1,4 @@
-[
-  {
-    "id": "overlay_wielded_acoustic_guitar",
-    "fg": "overlay_wielded_acoustic_guitar",
-    "bg": ""
-  },
-  {
-    "id": "overlay_worn_acoustic_guitar",
-    "fg": "overlay_wielded_acoustic_guitar",
-    "bg": ""
-  }
-]
+{
+  "id": [ "overlay_wielded_acoustic_guitar", "overlay_worn_acoustic_guitar" ],
+  "fg": "overlay_wielded_acoustic_guitar"
+}

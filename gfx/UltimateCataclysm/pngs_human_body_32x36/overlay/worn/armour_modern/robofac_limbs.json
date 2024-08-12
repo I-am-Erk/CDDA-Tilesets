@@ -1,102 +1,32 @@
 [
   {
-    "id": "overlay_male_worn_robofac_nomex_vambraces",
-    "fg": "robofac_vambraces_m",
-    "bg": ""
+    "id": [
+      "overlay_male_worn_robofac_nomex_vambraces",
+      "overlay_male_worn_robofac_basic_vambraces",
+      "overlay_male_worn_robofac_rubber_vambraces",
+      "overlay_male_worn_robofac_kevlar_vambraces",
+      "overlay_male_worn_robofac_military_vambraces"
+    ],
+    "fg": "robofac_vambraces_m"
   },
   {
-    "id": "overlay_male_worn_robofac_basic_vambraces",
-    "fg": "robofac_vambraces_m",
-    "bg": ""
+    "id": [
+      "overlay_female_worn_robofac_nomex_vambraces",
+      "overlay_female_worn_robofac_basic_vambraces",
+      "overlay_female_worn_robofac_rubber_vambraces",
+      "overlay_female_worn_robofac_kevlar_vambraces",
+      "overlay_female_worn_robofac_military_vambraces"
+    ],
+    "fg": "robofac_vambraces_f"
   },
   {
-    "id": "overlay_male_worn_robofac_rubber_vambraces",
-    "fg": "robofac_vambraces_m",
-    "bg": ""
-  },
-  {
-    "id": "overlay_male_worn_robofac_kevlar_vambraces",
-    "fg": "robofac_vambraces_m",
-    "bg": ""
-  },
-  {
-    "id": "overlay_male_worn_robofac_military_vambraces",
-    "fg": "robofac_vambraces_m",
-    "bg": ""
-  },
-  {
-    "id": "overlay_female_worn_robofac_nomex_vambraces",
-    "fg": "robofac_vambraces_f",
-    "bg": ""
-  },
-  {
-    "id": "overlay_female_worn_robofac_basic_vambraces",
-    "fg": "robofac_vambraces_f",
-    "bg": ""
-  },
-  {
-    "id": "overlay_female_worn_robofac_rubber_vambraces",
-    "fg": "robofac_vambraces_f",
-    "bg": ""
-  },
-  {
-    "id": "overlay_female_worn_robofac_kevlar_vambraces",
-    "fg": "robofac_vambraces_f",
-    "bg": ""
-  },
-  {
-    "id": "overlay_female_worn_robofac_military_vambraces",
-    "fg": "robofac_vambraces_f",
-    "bg": ""
-  },
-  {
-    "id": "overlay_male_worn_robofac_nomex_greaves",
-    "fg": "robofac_greaves_m",
-    "bg": ""
-  },
-  {
-    "id": "overlay_male_worn_robofac_basic_greaves",
-    "fg": "robofac_greaves_m",
-    "bg": ""
-  },
-  {
-    "id": "overlay_male_worn_robofac_rubber_greaves",
-    "fg": "robofac_greaves_m",
-    "bg": ""
-  },
-  {
-    "id": "overlay_male_worn_robofac_kevlar_greaves",
-    "fg": "robofac_greaves_m",
-    "bg": ""
-  },
-  {
-    "id": "overlay_male_worn_robofac_military_greaves",
-    "fg": "robofac_greaves_m",
-    "bg": ""
-  },
-  {
-    "id": "overlay_female_worn_robofac_nomex_greaves",
-    "fg": "robofac_greaves_f",
-    "bg": ""
-  },
-  {
-    "id": "overlay_female_worn_robofac_basic_greaves",
-    "fg": "robofac_greaves_f",
-    "bg": ""
-  },
-  {
-    "id": "overlay_female_worn_robofac_rubber_greaves",
-    "fg": "robofac_greaves_f",
-    "bg": ""
-  },
-  {
-    "id": "overlay_female_worn_robofac_kevlar_greaves",
-    "fg": "robofac_greaves_f",
-    "bg": ""
-  },
-  {
-    "id": "overlay_female_worn_robofac_military_greaves",
-    "fg": "robofac_greaves_f",
-    "bg": ""
+    "id": [
+      "overlay_worn_robofac_nomex_greaves",
+      "overlay_worn_robofac_basic_greaves",
+      "overlay_worn_robofac_rubber_greaves",
+      "overlay_worn_robofac_kevlar_greaves",
+      "overlay_worn_robofac_military_greaves"
+    ],
+    "fg": "robofac_greaves"
   }
 ]

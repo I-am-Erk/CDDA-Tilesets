@@ -5,18 +5,18 @@
     "rotates": true
   },
   {
-    "id": "vp_ram_military",
+    "id": "vp_ram_military_front",
     "fg": [ "vp_ram_military", "vp_ram_military_left", "vp_ram_military_down", "vp_ram_military_right" ],
     "rotates": true
   },
   {
-    "id": "vp_ram_hardsteel",
+    "id": "vp_ram_hardsteel_front",
     "fg": [ "vp_ram_hardsteel", "vp_ram_hardsteel_left", "vp_ram_hardsteel_down", "vp_ram_hardsteel_right" ],
     "rotates": true
   }
 ,
   {
-    "id": "vp_ram_alloy",
+    "id": "vp_ram_alloy_front",
     "fg": [ "vp_ram_alloy", "vp_ram_alloy_left", "vp_ram_alloy_down", "vp_ram_alloy_right" ],
     "rotates": true
   }

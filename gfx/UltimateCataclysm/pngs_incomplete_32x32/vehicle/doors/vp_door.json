@@ -1,6 +1,6 @@
 [
   {
-    "id": [ "vp_hddoor_trunk", "vp_hdhatch", "vp_hdhatch_opaque" ],
+    "id": [ "vp_hddoor_trunk_front", "vp_hdhatch_front", "vp_hdhatch_opaque" ],
     "fg": [ "vp_hddoor_trunk", "vp_hddoor_trunk_rotW", "vp_hddoor_trunk_rotS", "vp_hddoor_trunk_rotE" ],
     "multitile": true,
     "additional_tiles": [
@@ -16,7 +16,7 @@
     ]
   },
   {
-    "id": [ "vp_hddoor", "vp_hddoor_front" ],
+    "id": "vp_hddoor_front",
     "fg": [ "vp_hddoor_front_rotS", "vp_hddoor_front_rotW", "vp_hddoor_front_rotS", "vp_hddoor_front_rotE" ],
     "multitile": true,
     "additional_tiles": [
@@ -58,7 +58,7 @@
     ]
   },
   {
-    "id": [ "vp_hddoor_opaque", "vp_hddoor_opaque_front" ],
+    "id": "vp_hddoor_opaque_front",
     "fg": [
       "vp_hddoor_opaque_front_rotS",
       "vp_hddoor_opaque_front_rotW",

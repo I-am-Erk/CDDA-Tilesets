@@ -1,136 +1,103 @@
 [
 {
     "id": "material_sand",
-    "fg": "powder_sand",
-    "bg": ""
+    "fg": "powder_sand"
   }, {
     "id": "material_soil",
-    "fg": "powder_soil",
-    "bg": ""
+    "fg": "powder_soil"
   }, {
     "id": "chem_aluminium_powder",
-    "fg": "powder_aluminum",
-    "bg": ""
+    "fg": "powder_aluminum"
   }, {
     "id": "chem_aluminium_sulphate",
-    "fg": "powder_aluminum_sulphate",
-    "bg": ""
+    "fg": "powder_aluminum_sulphate"
   }, {
     "id": "chem_ammonium_nitrate",
-    "fg": "powder_ammonium_nitrate",
-    "bg": ""
+    "fg": "powder_ammonium_nitrate"
   }, {
     "id": "chem_black_powder",
-    "fg": "powder_black_gunpowder",
-    "bg": ""
+    "fg": "powder_black_gunpowder"
   }, {
     "id": "cac2powder",
-    "fg": "powder_calcium_carbide",
-    "bg": ""
+    "fg": "powder_calcium_carbide"
   }, {
     "id": "chilly-p",
-    "fg": "powder_chili",
-    "bg": ""
+    "fg": "powder_chili"
   }, {
     "id": "meal_chitin_piece",
-    "fg": "powder_chitin",
-    "bg": ""
+    "fg": "powder_chitin"
   }, {
     "id": "chem_chromium_oxide",
-    "fg": "powder_chromium_oxide",
-    "bg": ""
+    "fg": "powder_chromium_oxide"
   }, {
     "id": "coffee_raw",
-    "fg": "powder_coffee",
-    "bg": ""
+    "fg": "powder_coffee"
   }, {
     "id": "curry_powder",
-    "fg": "powder_curry",
-    "bg": ""
+    "fg": "powder_curry"
   }, {
     "id": "powder_eggs",
-    "fg": "powder_eggs",
-    "bg": ""
+    "fg": "powder_eggs"
   }, {
     "id": "fungicide",
-    "fg": "powder_fungicide",
-    "bg": ""
+    "fg": "powder_fungicide"
   }, {
     "id": "insecticide",
-    "fg": "powder_insecticide",
-    "bg": ""
+    "fg": "powder_insecticide"
   }, {
     "id": "chem_hmtd",
-    "fg": "powder_hmtd",
-    "bg": ""
+    "fg": "powder_hmtd"
   }, {
     "id": "lemonade_powder",
-    "fg": "powder_lemonade",
-    "bg": ""
+    "fg": "powder_lemonade"
   }, {
     "id": "lye_powder",
-    "fg": "powder_lye",
-    "bg": ""
+    "fg": "powder_lye"
   }, {
     "id": "magnesium",
-    "fg": "powder_magnesium",
-    "bg": ""
+    "fg": "powder_magnesium"
   }, {
     "id": "chem_manganese_dioxide",
-    "fg": "powder_manganese",
-    "bg": ""
+    "fg": "powder_manganese"
   }, {
     "id": "chem_match_head_powder",
-    "fg": "powder_match_head",
-    "bg": ""
+    "fg": "powder_match_head"
   }, {
     "id": "mustard_powder",
-    "fg": "powder_mustard",
-    "bg": ""
+    "fg": "powder_mustard"
   }, {
     "id": "oxy_powder",
-    "fg": "powder_oxidizer",
-    "bg": ""
+    "fg": "powder_oxidizer"
   }, {
     "id": "chem_peptone_broth",
-    "fg": "powder_peptone",
-    "bg": ""
+    "fg": "powder_peptone"
   }, {
     "id": "protein_powder",
-    "fg": "powder_protein",
-    "bg": ""
+    "fg": "powder_protein"
   }, {
     "id": "material_quicklime",
-    "fg": "powder_quicklime",
-    "bg": ""
+    "fg": "powder_quicklime"
   }, {
     "id": "chem_rocket_fuel",
-    "fg": "powder_rocket_fuel",
-    "bg": ""
+    "fg": "powder_rocket_fuel"
   }, {
     "id": "chem_saltpetre",
-    "fg": "powder_salpetre",
-    "bg": ""
+    "fg": "powder_salpetre"
   }, {
     "id": "gunpowder",
-    "fg": "powder_smokeless",
-    "bg": ""
+    "fg": "powder_smokeless"
   }, {
     "id": "chem_thermite",
-    "fg": "powder_thermite",
-    "bg": ""
+    "fg": "powder_thermite"
   }, {
     "id": "tin",
-    "fg": "powder_tin",
-    "bg": ""
+    "fg": "powder_tin"
   }, {
     "id": "yeast",
-    "fg": "powder_yeast",
-    "bg": ""
+    "fg": "powder_yeast"
   }, {
     "id": "chem_zinc_powder",
-    "fg": "powder_zinc",
-    "bg": ""
+    "fg": "powder_zinc"
   }, {
     "id": [
       "sugar",
@@ -143,7 +110,6 @@
       "quikclot",
       "chem_acrylamide"
     ],
-    "fg": "powder_white",
-    "bg": ""
+    "fg": "powder_white"
   }
 ]
