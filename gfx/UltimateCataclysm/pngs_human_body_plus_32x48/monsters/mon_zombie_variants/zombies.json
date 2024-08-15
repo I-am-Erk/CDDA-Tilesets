@@ -55,6 +55,11 @@
     "bg": "shadow_32x48_normal"
   },
   {
+    "id": "mon_zombie_miner",
+    "fg": [ { "weight": 1, "sprite": "mon_zombie_miner_m" }, { "weight": 1, "sprite": "mon_zombie_miner_f" } ],
+    "bg": "shadow_32x48_normal"
+  },
+  {
     "id": [
       "corpse_mon_zombie",
       "corpse_mon_zombie_grappler",
@@ -90,23 +95,15 @@
       "corpse_mon_zombie_prisoner",
       "corpse_mon_zombie_winged"
     ],
-    "fg": "corpse_mon_zombie",
-    "bg": ""
-  },
-  {
-    "id": "corpse_mon_zombie_scientist",
-    "fg": "corpse_mon_zombie_scientist",
-    "bg": ""
+    "fg": "corpse_mon_zombie"
   },
   {
     "id": [ "corpse_mon_zombie_technician", "corpse_mon_zombie_hazmat" ],
-    "fg": "corpse_mon_zombie_technician",
-    "bg": ""
+    "fg": "corpse_mon_zombie_technician"
   },
   {
     "id": [ "corpse_mon_zombie_cop", "corpse_mon_zombie_labsecurity" ],
-    "fg": "corpse_mon_zombie_cop",
-    "bg": ""
+    "fg": "corpse_mon_zombie_cop"
   },
   {
     "id": [
@@ -123,7 +120,6 @@
       "corpse_mon_zombie_soldier_blackops_2",
       "corpse_mon_zombie_soldier_blackops_1"
     ],
-    "fg": "corpse_mon_zombie_tough",
-    "bg": ""
+    "fg": "corpse_mon_zombie_tough"
   }
 ]
