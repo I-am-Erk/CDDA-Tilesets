@@ -1,0 +1,12 @@
+[
+  {
+    "id": [ "sugar", "salt", "coke" ],
+    "fg": [ "powder_white" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "garlic_powder", "chem_peptone_broth", "quikclot" ],
+    "fg": [ "powder_yellow_brown" ],
+    "bg": [  ]
+  }
+]
