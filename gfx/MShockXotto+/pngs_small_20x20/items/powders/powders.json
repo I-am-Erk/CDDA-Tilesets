@@ -1,12 +1,22 @@
 [
   {
-    "id": [ "sugar", "salt", "coke" ],
+    "id": [ "sugar", "salt", "coke", "chem_aluminium_sulphate" ],
     "fg": [ "powder_white" ],
     "bg": [  ]
   },
   {
     "id": [ "garlic_powder", "chem_peptone_broth", "quikclot", "soup_instant_chicken_noodle_powder" ],
     "fg": [ "powder_yellow_brown" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "cinnamon" ],
+    "fg": [ "powder_brown" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "seasoning_salt", "chilly-p" ],
+    "fg": [ "powder_orange" ],
     "bg": [  ]
   }
 ]
