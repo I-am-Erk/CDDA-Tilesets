@@ -5,7 +5,7 @@
     "bg": [  ]
   },
   {
-    "id": [ "garlic_powder", "chem_peptone_broth", "quikclot" ],
+    "id": [ "garlic_powder", "chem_peptone_broth", "quikclot", "soup_instant_chicken_noodle_powder" ],
     "fg": [ "powder_yellow_brown" ],
     "bg": [  ]
   }
