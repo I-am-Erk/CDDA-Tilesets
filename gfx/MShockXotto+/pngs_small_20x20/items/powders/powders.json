@@ -1,22 +1,27 @@
 [
   {
-    "id": [ "sugar", "salt", "coke", "chem_aluminium_sulphate" ],
+    "id": [ "sugar", "salt", "coke", "chem_aluminium_sulphate", "milk_powder" ],
     "fg": [ "powder_white" ],
     "bg": [  ]
   },
   {
-    "id": [ "garlic_powder", "chem_peptone_broth", "quikclot", "soup_instant_chicken_noodle_powder" ],
+    "id": [ "garlic_powder", "chem_peptone_broth", "quikclot", "soup_instant_chicken_noodle_powder", "gelatin_powder" ],
     "fg": [ "powder_yellow_brown" ],
     "bg": [  ]
   },
   {
     "id": [ "cinnamon" ],
-    "fg": [ "powder_brown" ],
+    "fg": [ "powder_brown_light" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "cheese_powder" ],
+    "fg": [ "powder_orange" ],
     "bg": [  ]
   },
   {
     "id": [ "seasoning_salt", "chilly-p" ],
-    "fg": [ "powder_orange" ],
+    "fg": [ "powder_orange_red" ],
     "bg": [  ]
   }
 ]
