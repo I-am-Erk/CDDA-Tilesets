@@ -1,0 +1,35 @@
+[
+  {
+    "id": [
+      "unknown_terrain",
+      "unexplored"
+    ],
+    "fg": [
+      { "weight": 1, "sprite": "unknown_00" },
+      { "weight": 1, "sprite": "unknown_01" },
+      { "weight": 1, "sprite": "unknown_02" },
+      { "weight": 1, "sprite": "unknown_03" },
+      { "weight": 1, "sprite": "unknown_04" },
+      { "weight": 1, "sprite": "unknown_05" },
+      { "weight": 1, "sprite": "unknown_06" },
+      { "weight": 1, "sprite": "unknown_07" },
+      { "weight": 1, "sprite": "unknown_08" },
+      { "weight": 1, "sprite": "unknown_09" },
+      { "weight": 1, "sprite": "unknown_10" },
+      { "weight": 1, "sprite": "unknown_11" },
+      { "weight": 1, "sprite": "unknown_12" },
+      { "weight": 1, "sprite": "unknown_13" },
+      { "weight": 1, "sprite": "unknown_14" },
+      { "weight": 1, "sprite": "unknown_15" },
+      { "weight": 1, "sprite": "unknown_16" },
+      { "weight": 1, "sprite": "unknown_17" },
+      { "weight": 1, "sprite": "unknown_18" },
+      { "weight": 1, "sprite": "unknown_19" },
+      { "weight": 1, "sprite": "unknown_20" },
+      { "weight": 1, "sprite": "unknown_21" },
+      { "weight": 1, "sprite": "unknown_22" },
+      { "weight": 1, "sprite": "unknown_23" },
+      { "weight": 1, "sprite": "unknown_24" }
+    ]
+  }
+]

@@ -1,0 +1,369 @@
+[
+  {
+    "id": [
+      "fema", "FEMA_tlc"
+    ],
+    "rotates": true,
+    "fg": [
+      "fema_camp_var_00", "fema_camp_var_06", "fema_camp_var_08", "fema_camp_var_02"
+    ],
+    "bg": [
+      { "weight": 1, "sprite": "bg_00" },
+      { "weight": 1, "sprite": "bg_01" },
+      { "weight": 1, "sprite": "bg_02" },
+      { "weight": 1, "sprite": "bg_03" },
+      { "weight": 1, "sprite": "bg_04" },
+      { "weight": 1, "sprite": "bg_05" },
+      { "weight": 1, "sprite": "bg_06" },
+      { "weight": 1, "sprite": "bg_07" },
+      { "weight": 1, "sprite": "bg_08" },
+      { "weight": 1, "sprite": "bg_09" },
+      { "weight": 1, "sprite": "bg_10" },
+      { "weight": 1, "sprite": "bg_11" },
+      { "weight": 1, "sprite": "bg_12" },
+      { "weight": 1, "sprite": "bg_13" },
+      { "weight": 1, "sprite": "bg_14" },
+      { "weight": 1, "sprite": "bg_15" },
+      { "weight": 1, "sprite": "bg_16" },
+      { "weight": 1, "sprite": "bg_17" },
+      { "weight": 1, "sprite": "bg_18" },
+      { "weight": 1, "sprite": "bg_19" },
+      { "weight": 1, "sprite": "bg_20" },
+      { "weight": 1, "sprite": "bg_21" },
+      { "weight": 1, "sprite": "bg_22" },
+      { "weight": 1, "sprite": "bg_23" },
+      { "weight": 1, "sprite": "bg_24" }
+    ]
+  },
+  {
+    "id": [
+      "fema_entrance", "FEMA_te"
+    ],
+    "rotates": true,
+    "fg": [
+      "fema_camp_var_01", "fema_camp_var_03", "fema_camp_var_07", "fema_camp_var_05"
+    ],
+    "bg": [
+      { "weight": 1, "sprite": "bg_00" },
+      { "weight": 1, "sprite": "bg_01" },
+      { "weight": 1, "sprite": "bg_02" },
+      { "weight": 1, "sprite": "bg_03" },
+      { "weight": 1, "sprite": "bg_04" },
+      { "weight": 1, "sprite": "bg_05" },
+      { "weight": 1, "sprite": "bg_06" },
+      { "weight": 1, "sprite": "bg_07" },
+      { "weight": 1, "sprite": "bg_08" },
+      { "weight": 1, "sprite": "bg_09" },
+      { "weight": 1, "sprite": "bg_10" },
+      { "weight": 1, "sprite": "bg_11" },
+      { "weight": 1, "sprite": "bg_12" },
+      { "weight": 1, "sprite": "bg_13" },
+      { "weight": 1, "sprite": "bg_14" },
+      { "weight": 1, "sprite": "bg_15" },
+      { "weight": 1, "sprite": "bg_16" },
+      { "weight": 1, "sprite": "bg_17" },
+      { "weight": 1, "sprite": "bg_18" },
+      { "weight": 1, "sprite": "bg_19" },
+      { "weight": 1, "sprite": "bg_20" },
+      { "weight": 1, "sprite": "bg_21" },
+      { "weight": 1, "sprite": "bg_22" },
+      { "weight": 1, "sprite": "bg_23" },
+      { "weight": 1, "sprite": "bg_24" }
+    ]
+  },
+  {
+    "id": [
+      "fema_1_3", "FEMA_trc"
+    ],
+    "rotates": true,
+    "fg": [
+      "fema_camp_var_02", "fema_camp_var_00", "fema_camp_var_06", "fema_camp_var_08"
+    ],
+    "bg": [
+      { "weight": 1, "sprite": "bg_00" },
+      { "weight": 1, "sprite": "bg_01" },
+      { "weight": 1, "sprite": "bg_02" },
+      { "weight": 1, "sprite": "bg_03" },
+      { "weight": 1, "sprite": "bg_04" },
+      { "weight": 1, "sprite": "bg_05" },
+      { "weight": 1, "sprite": "bg_06" },
+      { "weight": 1, "sprite": "bg_07" },
+      { "weight": 1, "sprite": "bg_08" },
+      { "weight": 1, "sprite": "bg_09" },
+      { "weight": 1, "sprite": "bg_10" },
+      { "weight": 1, "sprite": "bg_11" },
+      { "weight": 1, "sprite": "bg_12" },
+      { "weight": 1, "sprite": "bg_13" },
+      { "weight": 1, "sprite": "bg_14" },
+      { "weight": 1, "sprite": "bg_15" },
+      { "weight": 1, "sprite": "bg_16" },
+      { "weight": 1, "sprite": "bg_17" },
+      { "weight": 1, "sprite": "bg_18" },
+      { "weight": 1, "sprite": "bg_19" },
+      { "weight": 1, "sprite": "bg_20" },
+      { "weight": 1, "sprite": "bg_21" },
+      { "weight": 1, "sprite": "bg_22" },
+      { "weight": 1, "sprite": "bg_23" },
+      { "weight": 1, "sprite": "bg_24" }
+    ]
+  },
+
+
+
+
+  {
+    "id": [
+      "fema_2_1", "FEMA_le"
+    ],
+    "rotates": true,
+    "fg": [
+      "fema_camp_var_03", "fema_camp_var_07", "fema_camp_var_05", "fema_camp_var_01"
+    ],
+    "bg": [
+      { "weight": 1, "sprite": "bg_00" },
+      { "weight": 1, "sprite": "bg_01" },
+      { "weight": 1, "sprite": "bg_02" },
+      { "weight": 1, "sprite": "bg_03" },
+      { "weight": 1, "sprite": "bg_04" },
+      { "weight": 1, "sprite": "bg_05" },
+      { "weight": 1, "sprite": "bg_06" },
+      { "weight": 1, "sprite": "bg_07" },
+      { "weight": 1, "sprite": "bg_08" },
+      { "weight": 1, "sprite": "bg_09" },
+      { "weight": 1, "sprite": "bg_10" },
+      { "weight": 1, "sprite": "bg_11" },
+      { "weight": 1, "sprite": "bg_12" },
+      { "weight": 1, "sprite": "bg_13" },
+      { "weight": 1, "sprite": "bg_14" },
+      { "weight": 1, "sprite": "bg_15" },
+      { "weight": 1, "sprite": "bg_16" },
+      { "weight": 1, "sprite": "bg_17" },
+      { "weight": 1, "sprite": "bg_18" },
+      { "weight": 1, "sprite": "bg_19" },
+      { "weight": 1, "sprite": "bg_20" },
+      { "weight": 1, "sprite": "bg_21" },
+      { "weight": 1, "sprite": "bg_22" },
+      { "weight": 1, "sprite": "bg_23" },
+      { "weight": 1, "sprite": "bg_24" }
+    ]
+  },
+  {
+    "id": [
+      "fema_2_2", "FEMA_mid"
+    ],
+    "rotates": true,
+    "fg": [
+      "fema_camp_var_04", "fema_camp_var_04", "fema_camp_var_04", "fema_camp_var_04"
+    ],
+    "bg": [
+      { "weight": 1, "sprite": "bg_00" },
+      { "weight": 1, "sprite": "bg_01" },
+      { "weight": 1, "sprite": "bg_02" },
+      { "weight": 1, "sprite": "bg_03" },
+      { "weight": 1, "sprite": "bg_04" },
+      { "weight": 1, "sprite": "bg_05" },
+      { "weight": 1, "sprite": "bg_06" },
+      { "weight": 1, "sprite": "bg_07" },
+      { "weight": 1, "sprite": "bg_08" },
+      { "weight": 1, "sprite": "bg_09" },
+      { "weight": 1, "sprite": "bg_10" },
+      { "weight": 1, "sprite": "bg_11" },
+      { "weight": 1, "sprite": "bg_12" },
+      { "weight": 1, "sprite": "bg_13" },
+      { "weight": 1, "sprite": "bg_14" },
+      { "weight": 1, "sprite": "bg_15" },
+      { "weight": 1, "sprite": "bg_16" },
+      { "weight": 1, "sprite": "bg_17" },
+      { "weight": 1, "sprite": "bg_18" },
+      { "weight": 1, "sprite": "bg_19" },
+      { "weight": 1, "sprite": "bg_20" },
+      { "weight": 1, "sprite": "bg_21" },
+      { "weight": 1, "sprite": "bg_22" },
+      { "weight": 1, "sprite": "bg_23" },
+      { "weight": 1, "sprite": "bg_24" }
+    ]
+  },
+  {
+    "id": [
+      "fema_2_3", "FEMA_re"
+    ],
+    "rotates": true,
+    "fg": [
+      "fema_camp_var_05", "fema_camp_var_01", "fema_camp_var_03", "fema_camp_var_07"
+    ],
+    "bg": [
+      { "weight": 1, "sprite": "bg_00" },
+      { "weight": 1, "sprite": "bg_01" },
+      { "weight": 1, "sprite": "bg_02" },
+      { "weight": 1, "sprite": "bg_03" },
+      { "weight": 1, "sprite": "bg_04" },
+      { "weight": 1, "sprite": "bg_05" },
+      { "weight": 1, "sprite": "bg_06" },
+      { "weight": 1, "sprite": "bg_07" },
+      { "weight": 1, "sprite": "bg_08" },
+      { "weight": 1, "sprite": "bg_09" },
+      { "weight": 1, "sprite": "bg_10" },
+      { "weight": 1, "sprite": "bg_11" },
+      { "weight": 1, "sprite": "bg_12" },
+      { "weight": 1, "sprite": "bg_13" },
+      { "weight": 1, "sprite": "bg_14" },
+      { "weight": 1, "sprite": "bg_15" },
+      { "weight": 1, "sprite": "bg_16" },
+      { "weight": 1, "sprite": "bg_17" },
+      { "weight": 1, "sprite": "bg_18" },
+      { "weight": 1, "sprite": "bg_19" },
+      { "weight": 1, "sprite": "bg_20" },
+      { "weight": 1, "sprite": "bg_21" },
+      { "weight": 1, "sprite": "bg_22" },
+      { "weight": 1, "sprite": "bg_23" },
+      { "weight": 1, "sprite": "bg_24" }
+    ]
+  },
+
+
+
+
+  {
+    "id": [
+      "fema_3_1", "FEMA_blc"
+    ],
+    "rotates": true,
+    "fg": [
+      "fema_camp_var_06", "fema_camp_var_08", "fema_camp_var_02", "fema_camp_var_00"
+    ],
+    "bg": [
+      { "weight": 1, "sprite": "bg_00" },
+      { "weight": 1, "sprite": "bg_01" },
+      { "weight": 1, "sprite": "bg_02" },
+      { "weight": 1, "sprite": "bg_03" },
+      { "weight": 1, "sprite": "bg_04" },
+      { "weight": 1, "sprite": "bg_05" },
+      { "weight": 1, "sprite": "bg_06" },
+      { "weight": 1, "sprite": "bg_07" },
+      { "weight": 1, "sprite": "bg_08" },
+      { "weight": 1, "sprite": "bg_09" },
+      { "weight": 1, "sprite": "bg_10" },
+      { "weight": 1, "sprite": "bg_11" },
+      { "weight": 1, "sprite": "bg_12" },
+      { "weight": 1, "sprite": "bg_13" },
+      { "weight": 1, "sprite": "bg_14" },
+      { "weight": 1, "sprite": "bg_15" },
+      { "weight": 1, "sprite": "bg_16" },
+      { "weight": 1, "sprite": "bg_17" },
+      { "weight": 1, "sprite": "bg_18" },
+      { "weight": 1, "sprite": "bg_19" },
+      { "weight": 1, "sprite": "bg_20" },
+      { "weight": 1, "sprite": "bg_21" },
+      { "weight": 1, "sprite": "bg_22" },
+      { "weight": 1, "sprite": "bg_23" },
+      { "weight": 1, "sprite": "bg_24" }
+    ]
+  },
+  {
+    "id": [
+      "fema_3_2", "FEMA_entrance"
+    ],
+    "rotates": true,
+    "fg": [
+      "fema_camp_var_07", "fema_camp_var_05", "fema_camp_var_01", "fema_camp_var_03"
+    ],
+    "bg": [
+      { "weight": 1, "sprite": "bg_00" },
+      { "weight": 1, "sprite": "bg_01" },
+      { "weight": 1, "sprite": "bg_02" },
+      { "weight": 1, "sprite": "bg_03" },
+      { "weight": 1, "sprite": "bg_04" },
+      { "weight": 1, "sprite": "bg_05" },
+      { "weight": 1, "sprite": "bg_06" },
+      { "weight": 1, "sprite": "bg_07" },
+      { "weight": 1, "sprite": "bg_08" },
+      { "weight": 1, "sprite": "bg_09" },
+      { "weight": 1, "sprite": "bg_10" },
+      { "weight": 1, "sprite": "bg_11" },
+      { "weight": 1, "sprite": "bg_12" },
+      { "weight": 1, "sprite": "bg_13" },
+      { "weight": 1, "sprite": "bg_14" },
+      { "weight": 1, "sprite": "bg_15" },
+      { "weight": 1, "sprite": "bg_16" },
+      { "weight": 1, "sprite": "bg_17" },
+      { "weight": 1, "sprite": "bg_18" },
+      { "weight": 1, "sprite": "bg_19" },
+      { "weight": 1, "sprite": "bg_20" },
+      { "weight": 1, "sprite": "bg_21" },
+      { "weight": 1, "sprite": "bg_22" },
+      { "weight": 1, "sprite": "bg_23" },
+      { "weight": 1, "sprite": "bg_24" }
+    ]
+  },
+  {
+    "id": [
+      "fema_3_3", "FEMA_brc"
+    ],
+    "rotates": true,
+    "fg": [
+      "fema_camp_var_08", "fema_camp_var_02", "fema_camp_var_00", "fema_camp_var_06"
+    ],
+    "bg": [
+      { "weight": 1, "sprite": "bg_00" },
+      { "weight": 1, "sprite": "bg_01" },
+      { "weight": 1, "sprite": "bg_02" },
+      { "weight": 1, "sprite": "bg_03" },
+      { "weight": 1, "sprite": "bg_04" },
+      { "weight": 1, "sprite": "bg_05" },
+      { "weight": 1, "sprite": "bg_06" },
+      { "weight": 1, "sprite": "bg_07" },
+      { "weight": 1, "sprite": "bg_08" },
+      { "weight": 1, "sprite": "bg_09" },
+      { "weight": 1, "sprite": "bg_10" },
+      { "weight": 1, "sprite": "bg_11" },
+      { "weight": 1, "sprite": "bg_12" },
+      { "weight": 1, "sprite": "bg_13" },
+      { "weight": 1, "sprite": "bg_14" },
+      { "weight": 1, "sprite": "bg_15" },
+      { "weight": 1, "sprite": "bg_16" },
+      { "weight": 1, "sprite": "bg_17" },
+      { "weight": 1, "sprite": "bg_18" },
+      { "weight": 1, "sprite": "bg_19" },
+      { "weight": 1, "sprite": "bg_20" },
+      { "weight": 1, "sprite": "bg_21" },
+      { "weight": 1, "sprite": "bg_22" },
+      { "weight": 1, "sprite": "bg_23" },
+      { "weight": 1, "sprite": "bg_24" }
+    ]
+  },
+  {
+    "id":[
+      "fema_1_3_roof",
+      "fema_entrance_roof",
+      "fema_roof"
+    ],
+    "fg": "empty",
+    "bg": [
+      { "weight": 1, "sprite": "bg_00" },
+      { "weight": 1, "sprite": "bg_01" },
+      { "weight": 1, "sprite": "bg_02" },
+      { "weight": 1, "sprite": "bg_03" },
+      { "weight": 1, "sprite": "bg_04" },
+      { "weight": 1, "sprite": "bg_05" },
+      { "weight": 1, "sprite": "bg_06" },
+      { "weight": 1, "sprite": "bg_07" },
+      { "weight": 1, "sprite": "bg_08" },
+      { "weight": 1, "sprite": "bg_09" },
+      { "weight": 1, "sprite": "bg_10" },
+      { "weight": 1, "sprite": "bg_11" },
+      { "weight": 1, "sprite": "bg_12" },
+      { "weight": 1, "sprite": "bg_13" },
+      { "weight": 1, "sprite": "bg_14" },
+      { "weight": 1, "sprite": "bg_15" },
+      { "weight": 1, "sprite": "bg_16" },
+      { "weight": 1, "sprite": "bg_17" },
+      { "weight": 1, "sprite": "bg_18" },
+      { "weight": 1, "sprite": "bg_19" },
+      { "weight": 1, "sprite": "bg_20" },
+      { "weight": 1, "sprite": "bg_21" },
+      { "weight": 1, "sprite": "bg_22" },
+      { "weight": 1, "sprite": "bg_23" },
+      { "weight": 1, "sprite": "bg_24" }
+    ]
+  }
+]

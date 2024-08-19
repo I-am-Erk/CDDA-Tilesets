@@ -1,0 +1,11 @@
+[
+  {
+    "id": [
+      "church", "church_roof", "church_steeple", "church_steeple_end", "church_steeple_roof",
+      "church_1", "church_2ndfloor_1", "church_3rdfloor_1", "church_roof_1",
+      "rural_church", "rural_church_basement", "rural_church_steeple", "rural_church_steeple_roof"
+    ],
+    "fg": "church",
+    "bg": "bg_high"
+  }
+]

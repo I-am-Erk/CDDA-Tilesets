@@ -1,0 +1,14 @@
+[
+  {
+    "id": [
+      "wind_turbine_ground",
+      "wind_turbine_pillar",
+      "wind_turbine_pillar_platform",
+      "wind_turbine_nacelle",
+      "wind_turbine_roof"
+    ],
+    "rotates": false,
+    "fg": "wind_turbine",
+    "bg": [ "bg_high" ]
+  }
+]

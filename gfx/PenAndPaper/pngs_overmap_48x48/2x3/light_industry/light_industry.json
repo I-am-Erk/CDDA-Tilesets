@@ -1,0 +1,229 @@
+[
+  {
+    "//helper": [
+      "_0_1    2 3 4", " 0 1    2 3 4 ", " 0 1    2 3 4 ", " 0 1    2 3_4_",
+      " 5 6    7 8 9", " 5 6   _7_8 9 ", " 5 6    7 8 9 ", " 5 6    7 8 9 ",
+      "10 11        ", "10 11         ", "10_11_        ", "10 11         "
+    ],
+    "id":[
+      "s_lightindustry_10", "s_lightindustry_10_roof",
+      "s_lightindustry_scen_10", "s_lightindustry_scen_10_roof"
+    ],
+    "rotates": true,
+    "fg": [
+      "light_industry_var_00", "light_industry_var_07", "light_industry_var_11", "light_industry_var_04"
+    ],
+    "bg": [
+      { "weight": 1, "sprite": "bg_00" },
+      { "weight": 1, "sprite": "bg_01" },
+      { "weight": 1, "sprite": "bg_02" },
+      { "weight": 1, "sprite": "bg_03" },
+      { "weight": 1, "sprite": "bg_04" },
+      { "weight": 1, "sprite": "bg_05" },
+      { "weight": 1, "sprite": "bg_06" },
+      { "weight": 1, "sprite": "bg_07" },
+      { "weight": 1, "sprite": "bg_08" },
+      { "weight": 1, "sprite": "bg_09" },
+      { "weight": 1, "sprite": "bg_10" },
+      { "weight": 1, "sprite": "bg_11" },
+      { "weight": 1, "sprite": "bg_12" },
+      { "weight": 1, "sprite": "bg_13" },
+      { "weight": 1, "sprite": "bg_14" },
+      { "weight": 1, "sprite": "bg_15" },
+      { "weight": 1, "sprite": "bg_16" },
+      { "weight": 1, "sprite": "bg_17" },
+      { "weight": 1, "sprite": "bg_18" },
+      { "weight": 1, "sprite": "bg_19" },
+      { "weight": 1, "sprite": "bg_20" },
+      { "weight": 1, "sprite": "bg_21" },
+      { "weight": 1, "sprite": "bg_22" },
+      { "weight": 1, "sprite": "bg_23" },
+      { "weight": 1, "sprite": "bg_24" }
+    ]
+  },
+  {
+    "id":[
+      "s_lightindustry_11", "s_lightindustry_11_roof",
+      "s_lightindustry_scen_11", "s_lightindustry_scen_11_roof"
+    ],
+    "rotates": true,
+    "fg": [
+      "light_industry_var_01", "light_industry_var_02", "light_industry_var_10", "light_industry_var_09"
+    ],
+    "bg": [
+      { "weight": 1, "sprite": "bg_00" },
+      { "weight": 1, "sprite": "bg_01" },
+      { "weight": 1, "sprite": "bg_02" },
+      { "weight": 1, "sprite": "bg_03" },
+      { "weight": 1, "sprite": "bg_04" },
+      { "weight": 1, "sprite": "bg_05" },
+      { "weight": 1, "sprite": "bg_06" },
+      { "weight": 1, "sprite": "bg_07" },
+      { "weight": 1, "sprite": "bg_08" },
+      { "weight": 1, "sprite": "bg_09" },
+      { "weight": 1, "sprite": "bg_10" },
+      { "weight": 1, "sprite": "bg_11" },
+      { "weight": 1, "sprite": "bg_12" },
+      { "weight": 1, "sprite": "bg_13" },
+      { "weight": 1, "sprite": "bg_14" },
+      { "weight": 1, "sprite": "bg_15" },
+      { "weight": 1, "sprite": "bg_16" },
+      { "weight": 1, "sprite": "bg_17" },
+      { "weight": 1, "sprite": "bg_18" },
+      { "weight": 1, "sprite": "bg_19" },
+      { "weight": 1, "sprite": "bg_20" },
+      { "weight": 1, "sprite": "bg_21" },
+      { "weight": 1, "sprite": "bg_22" },
+      { "weight": 1, "sprite": "bg_23" },
+      { "weight": 1, "sprite": "bg_24" }
+    ]
+  },
+  {
+    "id":[
+      "s_lightindustry_road_0",
+      "s_lightindustry_scen_road_0"
+    ],
+    "rotates": true,
+    "fg": [
+      "light_industry_var_05", "light_industry_var_08", "light_industry_var_06", "light_industry_var_03"
+    ],
+    "bg": [
+      { "weight": 1, "sprite": "bg_00" },
+      { "weight": 1, "sprite": "bg_01" },
+      { "weight": 1, "sprite": "bg_02" },
+      { "weight": 1, "sprite": "bg_03" },
+      { "weight": 1, "sprite": "bg_04" },
+      { "weight": 1, "sprite": "bg_05" },
+      { "weight": 1, "sprite": "bg_06" },
+      { "weight": 1, "sprite": "bg_07" },
+      { "weight": 1, "sprite": "bg_08" },
+      { "weight": 1, "sprite": "bg_09" },
+      { "weight": 1, "sprite": "bg_10" },
+      { "weight": 1, "sprite": "bg_11" },
+      { "weight": 1, "sprite": "bg_12" },
+      { "weight": 1, "sprite": "bg_13" },
+      { "weight": 1, "sprite": "bg_14" },
+      { "weight": 1, "sprite": "bg_15" },
+      { "weight": 1, "sprite": "bg_16" },
+      { "weight": 1, "sprite": "bg_17" },
+      { "weight": 1, "sprite": "bg_18" },
+      { "weight": 1, "sprite": "bg_19" },
+      { "weight": 1, "sprite": "bg_20" },
+      { "weight": 1, "sprite": "bg_21" },
+      { "weight": 1, "sprite": "bg_22" },
+      { "weight": 1, "sprite": "bg_23" },
+      { "weight": 1, "sprite": "bg_24" }
+    ]
+  },
+  {
+    "id":[
+      "s_lightindustry_road_1",
+      "s_lightindustry_scen_road_1"
+    ],
+    "rotates": true,
+    "fg": [
+      "light_industry_var_06", "light_industry_var_03", "light_industry_var_05", "light_industry_var_08"
+    ],
+    "bg": [
+      { "weight": 1, "sprite": "bg_00" },
+      { "weight": 1, "sprite": "bg_01" },
+      { "weight": 1, "sprite": "bg_02" },
+      { "weight": 1, "sprite": "bg_03" },
+      { "weight": 1, "sprite": "bg_04" },
+      { "weight": 1, "sprite": "bg_05" },
+      { "weight": 1, "sprite": "bg_06" },
+      { "weight": 1, "sprite": "bg_07" },
+      { "weight": 1, "sprite": "bg_08" },
+      { "weight": 1, "sprite": "bg_09" },
+      { "weight": 1, "sprite": "bg_10" },
+      { "weight": 1, "sprite": "bg_11" },
+      { "weight": 1, "sprite": "bg_12" },
+      { "weight": 1, "sprite": "bg_13" },
+      { "weight": 1, "sprite": "bg_14" },
+      { "weight": 1, "sprite": "bg_15" },
+      { "weight": 1, "sprite": "bg_16" },
+      { "weight": 1, "sprite": "bg_17" },
+      { "weight": 1, "sprite": "bg_18" },
+      { "weight": 1, "sprite": "bg_19" },
+      { "weight": 1, "sprite": "bg_20" },
+      { "weight": 1, "sprite": "bg_21" },
+      { "weight": 1, "sprite": "bg_22" },
+      { "weight": 1, "sprite": "bg_23" },
+      { "weight": 1, "sprite": "bg_24" }
+    ]
+  },
+  {
+    "id":[
+      "s_lightindustry_00", "s_lightindustry_00_roof",
+      "s_lightindustry_scen_00", "s_lightindustry_scen_00_roof"
+    ],
+    "rotates": true,
+    "fg": [
+      "light_industry_var_10", "light_industry_var_09", "light_industry_var_01", "light_industry_var_02"
+    ],
+    "bg": [
+      { "weight": 1, "sprite": "bg_00" },
+      { "weight": 1, "sprite": "bg_01" },
+      { "weight": 1, "sprite": "bg_02" },
+      { "weight": 1, "sprite": "bg_03" },
+      { "weight": 1, "sprite": "bg_04" },
+      { "weight": 1, "sprite": "bg_05" },
+      { "weight": 1, "sprite": "bg_06" },
+      { "weight": 1, "sprite": "bg_07" },
+      { "weight": 1, "sprite": "bg_08" },
+      { "weight": 1, "sprite": "bg_09" },
+      { "weight": 1, "sprite": "bg_10" },
+      { "weight": 1, "sprite": "bg_11" },
+      { "weight": 1, "sprite": "bg_12" },
+      { "weight": 1, "sprite": "bg_13" },
+      { "weight": 1, "sprite": "bg_14" },
+      { "weight": 1, "sprite": "bg_15" },
+      { "weight": 1, "sprite": "bg_16" },
+      { "weight": 1, "sprite": "bg_17" },
+      { "weight": 1, "sprite": "bg_18" },
+      { "weight": 1, "sprite": "bg_19" },
+      { "weight": 1, "sprite": "bg_20" },
+      { "weight": 1, "sprite": "bg_21" },
+      { "weight": 1, "sprite": "bg_22" },
+      { "weight": 1, "sprite": "bg_23" },
+      { "weight": 1, "sprite": "bg_24" }
+    ]
+  },
+  {
+    "id":[
+      "s_lightindustry_01", "s_lightindustry_01_roof",
+      "s_lightindustry_scen_01", "s_lightindustry_scen_01_roof"
+    ],
+    "rotates": true,
+    "fg": [
+      "light_industry_var_11", "light_industry_var_04", "light_industry_var_00", "light_industry_var_07"
+    ],
+    "bg": [
+      { "weight": 1, "sprite": "bg_00" },
+      { "weight": 1, "sprite": "bg_01" },
+      { "weight": 1, "sprite": "bg_02" },
+      { "weight": 1, "sprite": "bg_03" },
+      { "weight": 1, "sprite": "bg_04" },
+      { "weight": 1, "sprite": "bg_05" },
+      { "weight": 1, "sprite": "bg_06" },
+      { "weight": 1, "sprite": "bg_07" },
+      { "weight": 1, "sprite": "bg_08" },
+      { "weight": 1, "sprite": "bg_09" },
+      { "weight": 1, "sprite": "bg_10" },
+      { "weight": 1, "sprite": "bg_11" },
+      { "weight": 1, "sprite": "bg_12" },
+      { "weight": 1, "sprite": "bg_13" },
+      { "weight": 1, "sprite": "bg_14" },
+      { "weight": 1, "sprite": "bg_15" },
+      { "weight": 1, "sprite": "bg_16" },
+      { "weight": 1, "sprite": "bg_17" },
+      { "weight": 1, "sprite": "bg_18" },
+      { "weight": 1, "sprite": "bg_19" },
+      { "weight": 1, "sprite": "bg_20" },
+      { "weight": 1, "sprite": "bg_21" },
+      { "weight": 1, "sprite": "bg_22" },
+      { "weight": 1, "sprite": "bg_23" },
+      { "weight": 1, "sprite": "bg_24" }
+    ]
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "id": [
+      "isolated_road_field_0"
+    ],
+    "fg": [
+      "bullet_bank_var_00", "bullet_bank_var_02", "bullet_bank_var_03", "bullet_bank_var_01"
+    ],
+    "bg": [
+      { "weight": 1, "sprite": "bg_00" },
+      { "weight": 1, "sprite": "bg_01" },
+      { "weight": 1, "sprite": "bg_02" },
+      { "weight": 1, "sprite": "bg_03" },
+      { "weight": 1, "sprite": "bg_04" },
+      { "weight": 1, "sprite": "bg_05" },
+      { "weight": 1, "sprite": "bg_06" },
+      { "weight": 1, "sprite": "bg_07" },
+      { "weight": 1, "sprite": "bg_08" },
+      { "weight": 1, "sprite": "bg_09" },
+      { "weight": 1, "sprite": "bg_10" },
+      { "weight": 1, "sprite": "bg_11" },
+      { "weight": 1, "sprite": "bg_12" },
+      { "weight": 1, "sprite": "bg_13" },
+      { "weight": 1, "sprite": "bg_14" },
+      { "weight": 1, "sprite": "bg_15" },
+      { "weight": 1, "sprite": "bg_16" },
+      { "weight": 1, "sprite": "bg_17" },
+      { "weight": 1, "sprite": "bg_18" },
+      { "weight": 1, "sprite": "bg_19" },
+      { "weight": 1, "sprite": "bg_20" },
+      { "weight": 1, "sprite": "bg_21" },
+      { "weight": 1, "sprite": "bg_22" },
+      { "weight": 1, "sprite": "bg_23" },
+      { "weight": 1, "sprite": "bg_24" }
+    ]
+  },
+  {
+    "id": [
+      "isolated_house_farm_gunsmith", "isolated_house_farm_roof_gunsmith"
+    ],
+    "fg": [
+      "bullet_bank_var_01", "bullet_bank_var_00", "bullet_bank_var_02", "bullet_bank_var_03"
+    ],
+    "bg": [
+      { "weight": 1, "sprite": "bg_00" },
+      { "weight": 1, "sprite": "bg_01" },
+      { "weight": 1, "sprite": "bg_02" },
+      { "weight": 1, "sprite": "bg_03" },
+      { "weight": 1, "sprite": "bg_04" },
+      { "weight": 1, "sprite": "bg_05" },
+      { "weight": 1, "sprite": "bg_06" },
+      { "weight": 1, "sprite": "bg_07" },
+      { "weight": 1, "sprite": "bg_08" },
+      { "weight": 1, "sprite": "bg_09" },
+      { "weight": 1, "sprite": "bg_10" },
+      { "weight": 1, "sprite": "bg_11" },
+      { "weight": 1, "sprite": "bg_12" },
+      { "weight": 1, "sprite": "bg_13" },
+      { "weight": 1, "sprite": "bg_14" },
+      { "weight": 1, "sprite": "bg_15" },
+      { "weight": 1, "sprite": "bg_16" },
+      { "weight": 1, "sprite": "bg_17" },
+      { "weight": 1, "sprite": "bg_18" },
+      { "weight": 1, "sprite": "bg_19" },
+      { "weight": 1, "sprite": "bg_20" },
+      { "weight": 1, "sprite": "bg_21" },
+      { "weight": 1, "sprite": "bg_22" },
+      { "weight": 1, "sprite": "bg_23" },
+      { "weight": 1, "sprite": "bg_24" }
+    ]
+  },
+  {
+    "id": [
+      "isolated_house_farm_blacksmith", "isolated_house_farm_roof_blacksmith"
+    ],
+    "fg": [
+      "bullet_bank_var_02", "bullet_bank_var_03", "bullet_bank_var_01", "bullet_bank_var_00"
+    ],
+    "bg": [
+      { "weight": 1, "sprite": "bg_00" },
+      { "weight": 1, "sprite": "bg_01" },
+      { "weight": 1, "sprite": "bg_02" },
+      { "weight": 1, "sprite": "bg_03" },
+      { "weight": 1, "sprite": "bg_04" },
+      { "weight": 1, "sprite": "bg_05" },
+      { "weight": 1, "sprite": "bg_06" },
+      { "weight": 1, "sprite": "bg_07" },
+      { "weight": 1, "sprite": "bg_08" },
+      { "weight": 1, "sprite": "bg_09" },
+      { "weight": 1, "sprite": "bg_10" },
+      { "weight": 1, "sprite": "bg_11" },
+      { "weight": 1, "sprite": "bg_12" },
+      { "weight": 1, "sprite": "bg_13" },
+      { "weight": 1, "sprite": "bg_14" },
+      { "weight": 1, "sprite": "bg_15" },
+      { "weight": 1, "sprite": "bg_16" },
+      { "weight": 1, "sprite": "bg_17" },
+      { "weight": 1, "sprite": "bg_18" },
+      { "weight": 1, "sprite": "bg_19" },
+      { "weight": 1, "sprite": "bg_20" },
+      { "weight": 1, "sprite": "bg_21" },
+      { "weight": 1, "sprite": "bg_22" },
+      { "weight": 1, "sprite": "bg_23" },
+      { "weight": 1, "sprite": "bg_24" }
+    ]
+  },
+  {
+    "id": [
+      "isolated_road_field_1"
+    ],
+    "fg": [
+      "bullet_bank_var_03", "bullet_bank_var_01", "bullet_bank_var_00", "bullet_bank_var_02"
+    ],
+    "bg": [
+      { "weight": 1, "sprite": "bg_00" },
+      { "weight": 1, "sprite": "bg_01" },
+      { "weight": 1, "sprite": "bg_02" },
+      { "weight": 1, "sprite": "bg_03" },
+      { "weight": 1, "sprite": "bg_04" },
+      { "weight": 1, "sprite": "bg_05" },
+      { "weight": 1, "sprite": "bg_06" },
+      { "weight": 1, "sprite": "bg_07" },
+      { "weight": 1, "sprite": "bg_08" },
+      { "weight": 1, "sprite": "bg_09" },
+      { "weight": 1, "sprite": "bg_10" },
+      { "weight": 1, "sprite": "bg_11" },
+      { "weight": 1, "sprite": "bg_12" },
+      { "weight": 1, "sprite": "bg_13" },
+      { "weight": 1, "sprite": "bg_14" },
+      { "weight": 1, "sprite": "bg_15" },
+      { "weight": 1, "sprite": "bg_16" },
+      { "weight": 1, "sprite": "bg_17" },
+      { "weight": 1, "sprite": "bg_18" },
+      { "weight": 1, "sprite": "bg_19" },
+      { "weight": 1, "sprite": "bg_20" },
+      { "weight": 1, "sprite": "bg_21" },
+      { "weight": 1, "sprite": "bg_22" },
+      { "weight": 1, "sprite": "bg_23" },
+      { "weight": 1, "sprite": "bg_24" }
+    ]
+  },
+  {
+    "id": "isolated_road_field_1_roof",
+    "fg": "empty",
+    "bg": [
+      { "weight": 1, "sprite": "bg_00" },
+      { "weight": 1, "sprite": "bg_01" },
+      { "weight": 1, "sprite": "bg_02" },
+      { "weight": 1, "sprite": "bg_03" },
+      { "weight": 1, "sprite": "bg_04" },
+      { "weight": 1, "sprite": "bg_05" },
+      { "weight": 1, "sprite": "bg_06" },
+      { "weight": 1, "sprite": "bg_07" },
+      { "weight": 1, "sprite": "bg_08" },
+      { "weight": 1, "sprite": "bg_09" },
+      { "weight": 1, "sprite": "bg_10" },
+      { "weight": 1, "sprite": "bg_11" },
+      { "weight": 1, "sprite": "bg_12" },
+      { "weight": 1, "sprite": "bg_13" },
+      { "weight": 1, "sprite": "bg_14" },
+      { "weight": 1, "sprite": "bg_15" },
+      { "weight": 1, "sprite": "bg_16" },
+      { "weight": 1, "sprite": "bg_17" },
+      { "weight": 1, "sprite": "bg_18" },
+      { "weight": 1, "sprite": "bg_19" },
+      { "weight": 1, "sprite": "bg_20" },
+      { "weight": 1, "sprite": "bg_21" },
+      { "weight": 1, "sprite": "bg_22" },
+      { "weight": 1, "sprite": "bg_23" },
+      { "weight": 1, "sprite": "bg_24" }
+    ]
+  }
+]

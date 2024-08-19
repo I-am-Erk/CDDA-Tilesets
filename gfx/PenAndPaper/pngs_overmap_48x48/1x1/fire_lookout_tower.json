@@ -1,0 +1,10 @@
+[
+  {
+    "id": [
+      "ws_fire_lookout_tower_base", "ws_fire_lookout_tower_f1", "ws_fire_lookout_tower_f2", "ws_fire_lookout_tower_f3", "ws_fire_lookout_tower_f4", "ws_fire_lookout_tower_f5"
+    ],
+    "rotates": false,
+    "fg": "fire_lookout_tower",
+    "bg": "bg_high"
+  }
+]

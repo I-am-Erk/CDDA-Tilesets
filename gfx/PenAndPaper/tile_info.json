@@ -1,0 +1,52 @@
+[
+  {
+    "pixelscale": 1,
+    "width": 48,
+    "height": 48,
+    "iso": false,
+    "retract_dist_min": 1.0,
+    "retract_dist_max": 2.0
+  },
+  {
+    "overmap.png": {}
+  },
+  {
+    "icons_and_weather.png": {
+      "sprite_width": 96,
+      "sprite_height": 96,
+      "sprite_offset_x": -48,
+      "sprite_offset_y": -48,
+      "sprites_across": 16
+    }
+  },
+  {
+    "icons-h.png": {
+      "sprite_width": 96,
+      "sprite_height": 48,
+      "sprite_offset_x": -48,
+      "sprites_across": 2
+    }
+  },
+  {
+    "icons-v.png": {
+      "sprite_width": 48,
+      "sprite_height": 96,
+      "sprite_offset_y": -48,
+      "sprites_across": 8
+    }
+  },
+  {
+    "cursor.png": {
+      "sprite_width": 288,
+      "sprite_height": 144,
+      "sprite_offset_x": -240,
+      "sprite_offset_y": -96,
+      "sprites_across": 1
+    }
+  },
+  {
+    "fallback.png": {
+      "fallback": true
+    }
+  }
+]

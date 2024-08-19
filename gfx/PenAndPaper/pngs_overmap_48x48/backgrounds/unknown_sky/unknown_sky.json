@@ -1,0 +1,34 @@
+[
+  {
+    "id": [
+      "unexplored_terrain"
+    ],
+    "fg": [
+      { "weight": 1, "sprite": "unknown_sky_var_00" },
+      { "weight": 1, "sprite": "unknown_sky_var_01" },
+      { "weight": 1, "sprite": "unknown_sky_var_02" },
+      { "weight": 1, "sprite": "unknown_sky_var_03" },
+      { "weight": 1, "sprite": "unknown_sky_var_04" },
+      { "weight": 1, "sprite": "unknown_sky_var_05" },
+      { "weight": 1, "sprite": "unknown_sky_var_06" },
+      { "weight": 1, "sprite": "unknown_sky_var_07" },
+      { "weight": 1, "sprite": "unknown_sky_var_08" },
+      { "weight": 1, "sprite": "unknown_sky_var_09" },
+      { "weight": 1, "sprite": "unknown_sky_var_10" },
+      { "weight": 1, "sprite": "unknown_sky_var_11" },
+      { "weight": 1, "sprite": "unknown_sky_var_12" },
+      { "weight": 1, "sprite": "unknown_sky_var_13" },
+      { "weight": 1, "sprite": "unknown_sky_var_14" },
+      { "weight": 1, "sprite": "unknown_sky_var_15" },
+      { "weight": 1, "sprite": "unknown_sky_var_16" },
+      { "weight": 1, "sprite": "unknown_sky_var_17" },
+      { "weight": 1, "sprite": "unknown_sky_var_18" },
+      { "weight": 1, "sprite": "unknown_sky_var_19" },
+      { "weight": 1, "sprite": "unknown_sky_var_20" },
+      { "weight": 1, "sprite": "unknown_sky_var_21" },
+      { "weight": 1, "sprite": "unknown_sky_var_22" },
+      { "weight": 1, "sprite": "unknown_sky_var_23" },
+      { "weight": 1, "sprite": "unknown_sky_var_24" }
+    ]
+  }
+]

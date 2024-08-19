@@ -1,0 +1,77 @@
+[
+  {
+    "id": [
+      "overmap_horde_0",
+      "overmap_horde_1",
+      "overmap_horde_2"
+    ],
+    "fg": "empty_48x96"
+  },
+  {
+    "id": [
+      "overmap_horde_3",
+      "overmap_horde_4"
+    ],
+    "fg": [
+      { "weight": 1, "sprite": "green_00" },
+      { "weight": 1, "sprite": "green_01" },
+      { "weight": 1, "sprite": "green_02" },
+      { "weight": 1, "sprite": "green_03" },
+      { "weight": 1, "sprite": "green_04" },
+      { "weight": 1, "sprite": "green_05" },
+      { "weight": 1, "sprite": "green_06" },
+      { "weight": 1, "sprite": "green_07" },
+      { "weight": 1, "sprite": "green_08" }
+    ]
+  },
+  {
+    "id": [
+      "overmap_horde_5",
+      "overmap_horde_6"
+    ],
+    "fg": [
+      { "weight": 1, "sprite": "yellow_00" },
+      { "weight": 1, "sprite": "yellow_01" },
+      { "weight": 1, "sprite": "yellow_02" },
+      { "weight": 1, "sprite": "yellow_03" },
+      { "weight": 1, "sprite": "yellow_04" },
+      { "weight": 1, "sprite": "yellow_05" },
+      { "weight": 1, "sprite": "yellow_06" },
+      { "weight": 1, "sprite": "yellow_07" },
+      { "weight": 1, "sprite": "yellow_08" }
+    ]  },
+  {
+    "id": [
+      "overmap_horde_7",
+      "overmap_horde_8"
+    ],
+    "fg": [
+      { "weight": 1, "sprite": "orange_00" },
+      { "weight": 1, "sprite": "orange_01" },
+      { "weight": 1, "sprite": "orange_02" },
+      { "weight": 1, "sprite": "orange_03" },
+      { "weight": 1, "sprite": "orange_04" },
+      { "weight": 1, "sprite": "orange_05" },
+      { "weight": 1, "sprite": "orange_06" },
+      { "weight": 1, "sprite": "orange_07" },
+      { "weight": 1, "sprite": "orange_08" }
+    ]
+  },
+  {
+    "id": [
+      "overmap_horde_9",
+      "overmap_horde_10"
+    ],
+    "fg": [
+      { "weight": 1, "sprite": "red_00" },
+      { "weight": 1, "sprite": "red_01" },
+      { "weight": 1, "sprite": "red_02" },
+      { "weight": 1, "sprite": "red_03" },
+      { "weight": 1, "sprite": "red_04" },
+      { "weight": 1, "sprite": "red_05" },
+      { "weight": 1, "sprite": "red_06" },
+      { "weight": 1, "sprite": "red_07" },
+      { "weight": 1, "sprite": "red_08" }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": [
+      "2silos", "2silos_1", "2silos_2", "2silos_roof",
+      "farm_1_silo", "farm_1_silo_1", "farm_1_silo_2", "farm_1_silo_roof",
+      "farm_horse_silo", "farm_horse_silo_roof", "farm_horse_silo_1"
+    ],
+    "rotates": false,
+    "fg": "silo",
+    "bg": "bg_high"
+  }
+]
