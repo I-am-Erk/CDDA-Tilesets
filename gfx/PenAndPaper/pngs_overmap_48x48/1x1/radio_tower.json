@@ -1,0 +1,16 @@
+[
+  {
+    "id": [
+      "radio_tower", "radio_tower_odd", "radio_tower_even", "radio_tower_top",
+      "radio_tower_1", "radio_tower_roof_1", "radio_tower_odd_1", "radio_tower_even_1", "radio_tower_top_1",
+      "station_radio", "station_radio_roof", "station_radio_tower_even", "station_radio_tower_odd", "station_radio_tower_top",
+      "station_radio_1", "station_radio_roof_1", "station_radio_1_tower_even", "station_radio_1_tower_odd", "station_radio_1_tower_top",
+      "wasp_tower", "wasp_tower_even", "wasp_tower_odd", "wasp_tower_top", "wasp_tower_roof",
+      "wasp_tower_1", "wasp_tower_even_1", "wasp_tower_odd_1", "wasp_tower_top_1", "wasp_tower_roof_1",
+      "wasp_tower_2", "wasp_tower_even_2", "wasp_tower_odd_2", "wasp_tower_top_2", "wasp_tower_roof_2",
+      "radio_tower_even_stair_only"
+    ],
+    "fg": "radio_tower",
+    "bg": "bg_high"
+  }
+]

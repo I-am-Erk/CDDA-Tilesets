@@ -1,0 +1,64 @@
+[
+  {
+    "id": "mission_cursor",
+    "fg": ["mission_pin"],
+    "rotates": false
+  },
+  {
+    "id": "npc_female",
+    "fg": ["npc_pin"],
+    "rotates": false
+  },
+  {
+    "id": "npc_male",
+    "fg": ["npc_pin"],
+    "rotates": false
+  },
+  {
+    "id": "player_male",
+    "fg": ["player_pin"],
+    "rotates": false
+  },
+  {
+    "id": "player_female",
+    "fg": ["player_pin"],
+    "rotates": false
+  },
+  {
+    "id": "overmap_remembered_vehicle",
+    "fg": ["vehicle_pin"],
+    "rotates": false
+  },
+  {
+    "id": "overmap_remembered_vehicle_below",
+    "fg": "vehicle_pin",
+    "bg": "mission_arrow_down",
+    "rotates": false
+  },
+  {
+    "id": "overmap_remembered_vehicle_above",
+    "fg": "vehicle_pin",
+    "bg": "mission_arrow_up",
+    "rotates": false
+  },
+  {
+    "id": "mission_arrow_down",
+    "fg": "mission_arrow_down",
+    "rotates": false
+  },
+  {
+    "id": "mission_arrow_up",
+    "fg": "mission_arrow_up",
+    "rotates": false
+  },
+  {
+    "id": "mission_arrow_e",
+    "fg": "mission_arrow_e",
+    "rotates": false
+  },
+  {
+    "id": "mission_arrow_w",
+    "fg": "mission_arrow_w",
+    "rotates": false
+  }
+]

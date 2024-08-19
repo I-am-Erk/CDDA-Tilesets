@@ -1,0 +1,78 @@
+[
+  {
+    "id":[
+      "airliner_1d", "airliner_1e", "airliner_1f", "airliner_1g", "airliner_1h", "airliner_1i", "airliner_1j",
+      "airliner_3d", "airliner_3e", "airliner_3f", "airliner_3g", "airliner_3h", "airliner_3i", "airliner_3j"
+    ],
+    "fg": "empty",
+    "bg": [
+      { "weight": 1, "sprite": "bg_00" },
+      { "weight": 1, "sprite": "bg_01" },
+      { "weight": 1, "sprite": "bg_02" },
+      { "weight": 1, "sprite": "bg_03" },
+      { "weight": 1, "sprite": "bg_04" },
+      { "weight": 1, "sprite": "bg_05" },
+      { "weight": 1, "sprite": "bg_06" },
+      { "weight": 1, "sprite": "bg_07" },
+      { "weight": 1, "sprite": "bg_08" },
+      { "weight": 1, "sprite": "bg_09" },
+      { "weight": 1, "sprite": "bg_10" },
+      { "weight": 1, "sprite": "bg_11" },
+      { "weight": 1, "sprite": "bg_12" },
+      { "weight": 1, "sprite": "bg_13" },
+      { "weight": 1, "sprite": "bg_14" },
+      { "weight": 1, "sprite": "bg_15" },
+      { "weight": 1, "sprite": "bg_16" },
+      { "weight": 1, "sprite": "bg_17" },
+      { "weight": 1, "sprite": "bg_18" },
+      { "weight": 1, "sprite": "bg_19" },
+      { "weight": 1, "sprite": "bg_20" },
+      { "weight": 1, "sprite": "bg_21" },
+      { "weight": 1, "sprite": "bg_22" },
+      { "weight": 1, "sprite": "bg_23" },
+      { "weight": 1, "sprite": "bg_24" }
+    ]
+  },
+  {
+    "id":[
+      "airliner_2d", "airliner_2e", "airliner_2f", "airliner_2g", "airliner_2h", "airliner_2i", "airliner_2j",
+      "airliner_2b_-1", "airliner_2c_-1",
+      "airliner_2a_1", "airliner_2b_1", "airliner_2c_1"
+    ],
+    "rotates": true,
+    "fg": [
+      { "weight": 1, "sprite": [ "forest_trail_v1_edge_ns", "forest_trail_v1_edge_ew" ] },
+      { "weight": 1, "sprite": [ "forest_trail_v2_edge_ns", "forest_trail_v2_edge_ew" ] },
+      { "weight": 1, "sprite": [ "forest_trail_v3_edge_ns", "forest_trail_v3_edge_ew" ] },
+      { "weight": 1, "sprite": [ "forest_trail_v4_edge_ns", "forest_trail_v4_edge_ew" ] },
+      { "weight": 1, "sprite": [ "forest_trail_v5_edge_ns", "forest_trail_v5_edge_ew" ] }
+    ],
+    "bg": [
+      { "weight": 1, "sprite": "bg_00" },
+      { "weight": 1, "sprite": "bg_01" },
+      { "weight": 1, "sprite": "bg_02" },
+      { "weight": 1, "sprite": "bg_03" },
+      { "weight": 1, "sprite": "bg_04" },
+      { "weight": 1, "sprite": "bg_05" },
+      { "weight": 1, "sprite": "bg_06" },
+      { "weight": 1, "sprite": "bg_07" },
+      { "weight": 1, "sprite": "bg_08" },
+      { "weight": 1, "sprite": "bg_09" },
+      { "weight": 1, "sprite": "bg_10" },
+      { "weight": 1, "sprite": "bg_11" },
+      { "weight": 1, "sprite": "bg_12" },
+      { "weight": 1, "sprite": "bg_13" },
+      { "weight": 1, "sprite": "bg_14" },
+      { "weight": 1, "sprite": "bg_15" },
+      { "weight": 1, "sprite": "bg_16" },
+      { "weight": 1, "sprite": "bg_17" },
+      { "weight": 1, "sprite": "bg_18" },
+      { "weight": 1, "sprite": "bg_19" },
+      { "weight": 1, "sprite": "bg_20" },
+      { "weight": 1, "sprite": "bg_21" },
+      { "weight": 1, "sprite": "bg_22" },
+      { "weight": 1, "sprite": "bg_23" },
+      { "weight": 1, "sprite": "bg_24" }
+    ]
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": [
+      "2farm_1",
+      "2farm_2",
+      "2farm_5",
+      "2farm_9",
+      "2farm_10",
+      "2farm_15",
+      "2farm_16"
+    ],
+    "fg": [
+      { "weight": 1, "sprite": "field_01" },
+      { "weight": 1, "sprite": "field_02" },
+      { "weight": 1, "sprite": "field_03" },
+      { "weight": 1, "sprite": "field_04" },
+      { "weight": 1, "sprite": "field_05" },
+      { "weight": 1, "sprite": "field_06" },
+      { "weight": 1, "sprite": "field_07" },
+      { "weight": 1, "sprite": "field_08" },
+      { "weight": 1, "sprite": "field_09" },
+      { "weight": 1, "sprite": "field_10" },
+      { "weight": 1, "sprite": "field_11" },
+      { "weight": 1, "sprite": "field_12" },
+      { "weight": 1, "sprite": "field_13" },
+      { "weight": 1, "sprite": "field_14" },
+      { "weight": 1, "sprite": "field_15" },
+      { "weight": 1, "sprite": "field_16" },
+      { "weight": 1, "sprite": "field_17" },
+      { "weight": 1, "sprite": "field_18" },
+      { "weight": 1, "sprite": "field_19" },
+      { "weight": 1, "sprite": "field_20" },
+      { "weight": 1, "sprite": "field_21" },
+      { "weight": 1, "sprite": "field_22" },
+      { "weight": 1, "sprite": "field_23" },
+      { "weight": 1, "sprite": "field_24" }
+    ],
+    "bg": [
+      { "weight": 1, "sprite": "bg_00" },
+      { "weight": 1, "sprite": "bg_01" },
+      { "weight": 1, "sprite": "bg_02" },
+      { "weight": 1, "sprite": "bg_03" },
+      { "weight": 1, "sprite": "bg_04" },
+      { "weight": 1, "sprite": "bg_05" },
+      { "weight": 1, "sprite": "bg_06" },
+      { "weight": 1, "sprite": "bg_07" },
+      { "weight": 1, "sprite": "bg_08" },
+      { "weight": 1, "sprite": "bg_09" },
+      { "weight": 1, "sprite": "bg_10" },
+      { "weight": 1, "sprite": "bg_11" },
+      { "weight": 1, "sprite": "bg_12" },
+      { "weight": 1, "sprite": "bg_13" },
+      { "weight": 1, "sprite": "bg_14" },
+      { "weight": 1, "sprite": "bg_15" },
+      { "weight": 1, "sprite": "bg_16" },
+      { "weight": 1, "sprite": "bg_17" },
+      { "weight": 1, "sprite": "bg_18" },
+      { "weight": 1, "sprite": "bg_19" },
+      { "weight": 1, "sprite": "bg_20" },
+      { "weight": 1, "sprite": "bg_21" },
+      { "weight": 1, "sprite": "bg_22" },
+      { "weight": 1, "sprite": "bg_23" },
+      { "weight": 1, "sprite": "bg_24" }
+    ]
+  },
+  {
+    "id": [
+      "2farm_4", "2farm_roof_4",
+      "2farm_7",
+      "2farm_8", "2farm_12"
+    ],
+    "fg": "empty",
+    "bg": [
+      { "weight": 1, "sprite": "bg_00" },
+      { "weight": 1, "sprite": "bg_01" },
+      { "weight": 1, "sprite": "bg_02" },
+      { "weight": 1, "sprite": "bg_03" },
+      { "weight": 1, "sprite": "bg_04" },
+      { "weight": 1, "sprite": "bg_05" },
+      { "weight": 1, "sprite": "bg_06" },
+      { "weight": 1, "sprite": "bg_07" },
+      { "weight": 1, "sprite": "bg_08" },
+      { "weight": 1, "sprite": "bg_09" },
+      { "weight": 1, "sprite": "bg_10" },
+      { "weight": 1, "sprite": "bg_11" },
+      { "weight": 1, "sprite": "bg_12" },
+      { "weight": 1, "sprite": "bg_13" },
+      { "weight": 1, "sprite": "bg_14" },
+      { "weight": 1, "sprite": "bg_15" },
+      { "weight": 1, "sprite": "bg_16" },
+      { "weight": 1, "sprite": "bg_17" },
+      { "weight": 1, "sprite": "bg_18" },
+      { "weight": 1, "sprite": "bg_19" },
+      { "weight": 1, "sprite": "bg_20" },
+      { "weight": 1, "sprite": "bg_21" },
+      { "weight": 1, "sprite": "bg_22" },
+      { "weight": 1, "sprite": "bg_23" },
+      { "weight": 1, "sprite": "bg_24" }
+    ]
+  },
+  {
+    "id": [
+      "2farm_6", "2farm_6_1", "2farm_6_2", "2farm_6_3"
+    ],
+    "fg": "silo",
+    "bg": "bg_high"
+  },
+  {
+    "id": [
+      "2farm_3", "2farm_loft_3", "2farm_roof_3",
+      "2farm_11", "2farm_roof_11"
+    ],
+    "fg": "house_n_var_00",
+    "bg": [
+      { "weight": 1, "sprite": "bg_00" },
+      { "weight": 1, "sprite": "bg_01" },
+      { "weight": 1, "sprite": "bg_02" },
+      { "weight": 1, "sprite": "bg_03" },
+      { "weight": 1, "sprite": "bg_04" },
+      { "weight": 1, "sprite": "bg_05" },
+      { "weight": 1, "sprite": "bg_06" },
+      { "weight": 1, "sprite": "bg_07" },
+      { "weight": 1, "sprite": "bg_08" },
+      { "weight": 1, "sprite": "bg_09" },
+      { "weight": 1, "sprite": "bg_10" },
+      { "weight": 1, "sprite": "bg_11" },
+      { "weight": 1, "sprite": "bg_12" },
+      { "weight": 1, "sprite": "bg_13" },
+      { "weight": 1, "sprite": "bg_14" },
+      { "weight": 1, "sprite": "bg_15" },
+      { "weight": 1, "sprite": "bg_16" },
+      { "weight": 1, "sprite": "bg_17" },
+      { "weight": 1, "sprite": "bg_18" },
+      { "weight": 1, "sprite": "bg_19" },
+      { "weight": 1, "sprite": "bg_20" },
+      { "weight": 1, "sprite": "bg_21" },
+      { "weight": 1, "sprite": "bg_22" },
+      { "weight": 1, "sprite": "bg_23" },
+      { "weight": 1, "sprite": "bg_24" }
+    ]
+  }
+]

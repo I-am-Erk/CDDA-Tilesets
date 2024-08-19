@@ -1,0 +1,58 @@
+[
+  {
+    "id": [
+      "shelter", "shelter_roof", "shelter_under",
+      "shelter_1", "shelter_roof_1", "shelter_under_1",
+      "shelter_1b", "shelter_roof_1b", "shelter_under_1b",
+      "shelter_2", "shelter_roof_2", "shelter_under_2",
+
+      "shelter_survivor", "shelter_roof_survivor", "shelter_under_survivor",
+      "shelter_1_survivor", "shelter_roof_1_survivor", "shelter_under_1_survivor",
+      "shelter_1b_survivor", "shelter_roof_1b_survivor", "shelter_under_1b_survivor",
+      "shelter_2_survivor", "shelter_roof_2_survivor", "shelter_under_2_survivor",
+
+      "shelter_vandal", "shelter_roof_vandal", "shelter_under_vandal",
+      "shelter_1_vandal", "shelter_roof_1_vandal", "shelter_under_1_vandal",
+      "shelter_1b_vandal", "shelter_roof_1b_vandal", "shelter_under_1b_vandal",
+      "shelter_2_vandal", "shelter_roof_2_vandal", "shelter_under_2_vandal",
+
+      "shelter_unfinished", "shelter_under_unfinished",
+      "shelter_1_unfinished", "shelter_under_1_unfinished",
+      "shelter_1b_unfinished", "shelter_under_1b_unfinished",
+      "shelter_2_unfinished", "shelter_under_2_unfinished",
+
+      "shelter_infested", "shelter_roof_infested", "shelter_under_infested",
+      "shelter_1_infested", "shelter_roof_1_infested", "shelter_under_1_infested",
+      "shelter_1b_infested", "shelter_roof_1b_infested", "shelter_under_1b_infested",
+      "shelter_2_infested", "shelter_roof_2_infeseted", "shelter_under_2_infested"
+    ],
+    "fg": "evac_shelter",
+    "bg": [
+      { "weight": 1, "sprite": "bg_00" },
+      { "weight": 1, "sprite": "bg_01" },
+      { "weight": 1, "sprite": "bg_02" },
+      { "weight": 1, "sprite": "bg_03" },
+      { "weight": 1, "sprite": "bg_04" },
+      { "weight": 1, "sprite": "bg_05" },
+      { "weight": 1, "sprite": "bg_06" },
+      { "weight": 1, "sprite": "bg_07" },
+      { "weight": 1, "sprite": "bg_08" },
+      { "weight": 1, "sprite": "bg_09" },
+      { "weight": 1, "sprite": "bg_10" },
+      { "weight": 1, "sprite": "bg_11" },
+      { "weight": 1, "sprite": "bg_12" },
+      { "weight": 1, "sprite": "bg_13" },
+      { "weight": 1, "sprite": "bg_14" },
+      { "weight": 1, "sprite": "bg_15" },
+      { "weight": 1, "sprite": "bg_16" },
+      { "weight": 1, "sprite": "bg_17" },
+      { "weight": 1, "sprite": "bg_18" },
+      { "weight": 1, "sprite": "bg_19" },
+      { "weight": 1, "sprite": "bg_20" },
+      { "weight": 1, "sprite": "bg_21" },
+      { "weight": 1, "sprite": "bg_22" },
+      { "weight": 1, "sprite": "bg_23" },
+      { "weight": 1, "sprite": "bg_24" }
+    ]
+  }
+]

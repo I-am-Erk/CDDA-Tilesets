@@ -1,0 +1,14 @@
+[
+  {
+    "id": [
+      "lighthouse_ground", "lighthouse_z1", "lighthouse_z2", "lighthouse_z3", "lighthouse_z4", "lighthouse_z5", "lighthouse_roof",
+      "lighthouse_small_ground", "lighthouse_small_roof", "lighthouse_small_z1", "lighthouse_small_z2", "lighthouse_small_z3", "lighthouse_small_z4"
+    ],
+    "fg": [
+      "lighthouse"
+    ],
+    "bg": [
+      "bg_high"
+    ]
+  }
+]

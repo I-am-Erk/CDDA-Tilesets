@@ -1,0 +1,203 @@
+[
+  {
+    "id": [
+      "trailer_hub_01"
+    ],
+    "fg": [
+      { "weight": 1, "sprite": "road_v1_center" },
+      { "weight": 1, "sprite": "road_v2_center" },
+      { "weight": 1, "sprite": "road_v3_center" },
+      { "weight": 1, "sprite": "road_v4_center" },
+      { "weight": 1, "sprite": "road_v5_center" }
+    ],
+    "bg": [
+      { "weight": 1, "sprite": "bg_00" },
+      { "weight": 1, "sprite": "bg_01" },
+      { "weight": 1, "sprite": "bg_02" },
+      { "weight": 1, "sprite": "bg_03" },
+      { "weight": 1, "sprite": "bg_04" },
+      { "weight": 1, "sprite": "bg_05" },
+      { "weight": 1, "sprite": "bg_06" },
+      { "weight": 1, "sprite": "bg_07" },
+      { "weight": 1, "sprite": "bg_08" },
+      { "weight": 1, "sprite": "bg_09" },
+      { "weight": 1, "sprite": "bg_10" },
+      { "weight": 1, "sprite": "bg_11" },
+      { "weight": 1, "sprite": "bg_12" },
+      { "weight": 1, "sprite": "bg_13" },
+      { "weight": 1, "sprite": "bg_14" },
+      { "weight": 1, "sprite": "bg_15" },
+      { "weight": 1, "sprite": "bg_16" },
+      { "weight": 1, "sprite": "bg_17" },
+      { "weight": 1, "sprite": "bg_18" },
+      { "weight": 1, "sprite": "bg_19" },
+      { "weight": 1, "sprite": "bg_20" },
+      { "weight": 1, "sprite": "bg_21" },
+      { "weight": 1, "sprite": "bg_22" },
+      { "weight": 1, "sprite": "bg_23" },
+      { "weight": 1, "sprite": "bg_24" }
+    ]
+  },
+  {
+    "id": [
+      "trailer_road",
+      "trailer_road_2parkway",
+      "trailer_road_1parkway"
+    ],
+    "rotates": true,
+    "fg": [
+      { "weight": 1, "sprite":[ "road_v1_edge_ns", "road_v1_edge_ew" ] },
+      { "weight": 1, "sprite":[ "road_v2_edge_ns", "road_v2_edge_ew" ] },
+      { "weight": 1, "sprite":[ "road_v3_edge_ns", "road_v3_edge_ew" ] },
+      { "weight": 1, "sprite":[ "road_v4_edge_ns", "road_v4_edge_ew" ] },
+      { "weight": 1, "sprite":[ "road_v5_edge_ns", "road_v5_edge_ew" ] }
+    ],
+    "bg": [
+      { "weight": 1, "sprite": "bg_00" },
+      { "weight": 1, "sprite": "bg_01" },
+      { "weight": 1, "sprite": "bg_02" },
+      { "weight": 1, "sprite": "bg_03" },
+      { "weight": 1, "sprite": "bg_04" },
+      { "weight": 1, "sprite": "bg_05" },
+      { "weight": 1, "sprite": "bg_06" },
+      { "weight": 1, "sprite": "bg_07" },
+      { "weight": 1, "sprite": "bg_08" },
+      { "weight": 1, "sprite": "bg_09" },
+      { "weight": 1, "sprite": "bg_10" },
+      { "weight": 1, "sprite": "bg_11" },
+      { "weight": 1, "sprite": "bg_12" },
+      { "weight": 1, "sprite": "bg_13" },
+      { "weight": 1, "sprite": "bg_14" },
+      { "weight": 1, "sprite": "bg_15" },
+      { "weight": 1, "sprite": "bg_16" },
+      { "weight": 1, "sprite": "bg_17" },
+      { "weight": 1, "sprite": "bg_18" },
+      { "weight": 1, "sprite": "bg_19" },
+      { "weight": 1, "sprite": "bg_20" },
+      { "weight": 1, "sprite": "bg_21" },
+      { "weight": 1, "sprite": "bg_22" },
+      { "weight": 1, "sprite": "bg_23" },
+      { "weight": 1, "sprite": "bg_24" }
+    ]
+  },
+  {
+    "id": [
+      "trailer_hub_11"
+    ],
+    "rotates": true,
+    "fg": [
+      { "weight": 1, "sprite":[ "road_v1_edge_ew", "road_v1_edge_ns" ] },
+      { "weight": 1, "sprite":[ "road_v2_edge_ew", "road_v2_edge_ns" ] },
+      { "weight": 1, "sprite":[ "road_v3_edge_ew", "road_v3_edge_ns" ] },
+      { "weight": 1, "sprite":[ "road_v4_edge_ew", "road_v4_edge_ns" ] },
+      { "weight": 1, "sprite":[ "road_v5_edge_ew", "road_v5_edge_ns" ] }
+    ],
+    "bg": [
+      { "weight": 1, "sprite": "bg_00" },
+      { "weight": 1, "sprite": "bg_01" },
+      { "weight": 1, "sprite": "bg_02" },
+      { "weight": 1, "sprite": "bg_03" },
+      { "weight": 1, "sprite": "bg_04" },
+      { "weight": 1, "sprite": "bg_05" },
+      { "weight": 1, "sprite": "bg_06" },
+      { "weight": 1, "sprite": "bg_07" },
+      { "weight": 1, "sprite": "bg_08" },
+      { "weight": 1, "sprite": "bg_09" },
+      { "weight": 1, "sprite": "bg_10" },
+      { "weight": 1, "sprite": "bg_11" },
+      { "weight": 1, "sprite": "bg_12" },
+      { "weight": 1, "sprite": "bg_13" },
+      { "weight": 1, "sprite": "bg_14" },
+      { "weight": 1, "sprite": "bg_15" },
+      { "weight": 1, "sprite": "bg_16" },
+      { "weight": 1, "sprite": "bg_17" },
+      { "weight": 1, "sprite": "bg_18" },
+      { "weight": 1, "sprite": "bg_19" },
+      { "weight": 1, "sprite": "bg_20" },
+      { "weight": 1, "sprite": "bg_21" },
+      { "weight": 1, "sprite": "bg_22" },
+      { "weight": 1, "sprite": "bg_23" },
+      { "weight": 1, "sprite": "bg_24" }
+    ]
+  },
+  {
+    "id": [
+      "trailer_road_3way"
+    ],
+    "rotates": true,
+    "fg": [
+      { "weight": 1, "sprite": [ "road_v1_t_connection_n", "road_v1_t_connection_w", "road_v1_t_connection_s", "road_v1_t_connection_e" ] },
+      { "weight": 1, "sprite": [ "road_v2_t_connection_n", "road_v2_t_connection_w", "road_v2_t_connection_s", "road_v2_t_connection_e" ] },
+      { "weight": 1, "sprite": [ "road_v3_t_connection_n", "road_v3_t_connection_w", "road_v3_t_connection_s", "road_v3_t_connection_e" ] },
+      { "weight": 1, "sprite": [ "road_v4_t_connection_n", "road_v4_t_connection_w", "road_v4_t_connection_s", "road_v4_t_connection_e" ] },
+      { "weight": 1, "sprite": [ "road_v5_t_connection_n", "road_v5_t_connection_w", "road_v5_t_connection_s", "road_v5_t_connection_e" ] }
+    ],
+    "bg": [
+      { "weight": 1, "sprite": "bg_00" },
+      { "weight": 1, "sprite": "bg_01" },
+      { "weight": 1, "sprite": "bg_02" },
+      { "weight": 1, "sprite": "bg_03" },
+      { "weight": 1, "sprite": "bg_04" },
+      { "weight": 1, "sprite": "bg_05" },
+      { "weight": 1, "sprite": "bg_06" },
+      { "weight": 1, "sprite": "bg_07" },
+      { "weight": 1, "sprite": "bg_08" },
+      { "weight": 1, "sprite": "bg_09" },
+      { "weight": 1, "sprite": "bg_10" },
+      { "weight": 1, "sprite": "bg_11" },
+      { "weight": 1, "sprite": "bg_12" },
+      { "weight": 1, "sprite": "bg_13" },
+      { "weight": 1, "sprite": "bg_14" },
+      { "weight": 1, "sprite": "bg_15" },
+      { "weight": 1, "sprite": "bg_16" },
+      { "weight": 1, "sprite": "bg_17" },
+      { "weight": 1, "sprite": "bg_18" },
+      { "weight": 1, "sprite": "bg_19" },
+      { "weight": 1, "sprite": "bg_20" },
+      { "weight": 1, "sprite": "bg_21" },
+      { "weight": 1, "sprite": "bg_22" },
+      { "weight": 1, "sprite": "bg_23" },
+      { "weight": 1, "sprite": "bg_24" }
+    ]
+  },
+  {
+    "id": [
+      "trailer_road_turn"
+    ],
+    "rotates": true,
+    "fg": [
+      { "weight": 1, "sprite": [ "road_v1_corner_ne", "road_v1_corner_nw", "road_v1_corner_sw", "road_v1_corner_se" ] },
+      { "weight": 1, "sprite": [ "road_v2_corner_ne", "road_v2_corner_nw", "road_v2_corner_sw", "road_v2_corner_se" ] },
+      { "weight": 1, "sprite": [ "road_v3_corner_ne", "road_v3_corner_nw", "road_v3_corner_sw", "road_v3_corner_se" ] },
+      { "weight": 1, "sprite": [ "road_v4_corner_ne", "road_v4_corner_nw", "road_v4_corner_sw", "road_v4_corner_se" ] },
+      { "weight": 1, "sprite": [ "road_v5_corner_ne", "road_v5_corner_nw", "road_v5_corner_sw", "road_v5_corner_se" ] }
+    ],
+    "bg": [
+      { "weight": 1, "sprite": "bg_00" },
+      { "weight": 1, "sprite": "bg_01" },
+      { "weight": 1, "sprite": "bg_02" },
+      { "weight": 1, "sprite": "bg_03" },
+      { "weight": 1, "sprite": "bg_04" },
+      { "weight": 1, "sprite": "bg_05" },
+      { "weight": 1, "sprite": "bg_06" },
+      { "weight": 1, "sprite": "bg_07" },
+      { "weight": 1, "sprite": "bg_08" },
+      { "weight": 1, "sprite": "bg_09" },
+      { "weight": 1, "sprite": "bg_10" },
+      { "weight": 1, "sprite": "bg_11" },
+      { "weight": 1, "sprite": "bg_12" },
+      { "weight": 1, "sprite": "bg_13" },
+      { "weight": 1, "sprite": "bg_14" },
+      { "weight": 1, "sprite": "bg_15" },
+      { "weight": 1, "sprite": "bg_16" },
+      { "weight": 1, "sprite": "bg_17" },
+      { "weight": 1, "sprite": "bg_18" },
+      { "weight": 1, "sprite": "bg_19" },
+      { "weight": 1, "sprite": "bg_20" },
+      { "weight": 1, "sprite": "bg_21" },
+      { "weight": 1, "sprite": "bg_22" },
+      { "weight": 1, "sprite": "bg_23" },
+      { "weight": 1, "sprite": "bg_24" }
+    ]
+  }
+]
