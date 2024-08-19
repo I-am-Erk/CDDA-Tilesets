@@ -1,0 +1,22 @@
+name: PenAndPaper composer
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - 'gfx/PenAndPaper/**'
+      - '.github/workflows/PenAndPaper_ci_build.yml'
+  pull_request:
+    branches:
+      - master
+    paths:
+      - 'gfx/PenAndPaper/**'
+      - '.github/workflows/PenAndPaper_ci_build.yml'
+
+jobs:
+  build:
+    uses: ./.github/workflows/composer_template.yml
+    with:
+      tileset: PenAndPaper
+      composer-args: --use-all --obsolete-fillers
