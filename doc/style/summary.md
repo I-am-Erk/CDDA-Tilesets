@@ -9,3 +9,4 @@ Different tilesets have different guides:
 - [UltimateCataclysm (Ultica)](./UltimateCataclysm/summary.md)
 - [MShockXotto+](./MShockXotto+/summary.md)
 - [HollowMoon](./HollowMoon/summary.md)
+- [Pen and Paper Overmap](./PenAndPaper/summary.md)
