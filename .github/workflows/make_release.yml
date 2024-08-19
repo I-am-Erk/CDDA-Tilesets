@@ -93,6 +93,10 @@ jobs:
             artifact: Ultica_iso
             tileset_dir: gfx/Ultica_iso
             compose_args: --use-all
+          - name: PenAndPaper
+            artifact: PenAndPaper
+            tileset_dir: gfx/PenAndPaper
+            compose_args: --use-all
     name: ${{ matrix.name }}
     runs-on: ubuntu-latest
     permissions: write-all
