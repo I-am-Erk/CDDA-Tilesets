@@ -23,3 +23,6 @@ result
 
 # Source multitile files
 source
+
+# This particular fallback file should be included
+!gfx/PenAndPaper/fallback.png
