@@ -5,10 +5,26 @@ The idea for this tileset had been floating around for quite some time, and I wa
 For example, the background. Many find it very bright in the SM tileset. And Wist is going to make it darker. In search of inspiration, I looked at old hand-drawn maps. And I decided that the new tileset should be just like that.
 
 <details>
-   <summary>SM backgound circa 2022</summary>
+   <summary>SM background circa 2022</summary>
 
 ![img](./images/SM_example.png)
 
 </details>
 
+<details>
+   <summary>old map, example 1</summary>
+
+![img](./images/old_map1.png)
+
+</details>
+
+<details>
+   <summary>old map, example 2</summary>
+
+![img](./images/old_map2.png)
+
+</details>
+
 The background color should resemble paper in dim light, paper in the light of a flashlight. And the brightness of the map should not be more than 50%. Since most of the time players see unexplored territory (black) and often move at night (the main screen is dark). At the same time, Ultica in winter is quite bright.
+
+Below you can see first attempt to find a sweet spot and current background.
