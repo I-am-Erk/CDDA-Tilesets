@@ -28,3 +28,5 @@ For example, the background. Many find it very bright in the SM tileset. And Wis
 The background color should resemble paper in dim light, paper in the light of a flashlight. And the brightness of the map should not be more than 50%. Since most of the time players see unexplored territory (black) and often move at night (the main screen is dark). At the same time, Ultica in winter is quite bright.
 
 Below you can see first attempt to find a sweet spot and current background.
+![bg_combined](./images/bg_combined.png)
+![bg-2024-08-21](./images/bg-2024-08-21.png)
