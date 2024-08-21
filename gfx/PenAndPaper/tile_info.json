@@ -11,12 +11,31 @@
     "overmap.png": {}
   },
   {
-    "icons_and_weather.png": {
+    "backgrounds.png": {
+      "sprites_across": 5
+    }
+  },
+  {
+    "weather_unknown.png": {
+      "sprites_across": 5
+    }
+  },
+  {
+    "weather.png": {
       "sprite_width": 96,
       "sprite_height": 96,
       "sprite_offset_x": -48,
       "sprite_offset_y": -48,
       "sprites_across": 16
+    }
+  },
+  {
+    "icons.png": {
+      "sprite_width": 96,
+      "sprite_height": 96,
+      "sprite_offset_x": -48,
+      "sprite_offset_y": -48,
+      "sprites_across": 4
     }
   },
   {

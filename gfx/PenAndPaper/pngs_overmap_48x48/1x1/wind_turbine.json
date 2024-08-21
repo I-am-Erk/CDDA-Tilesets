@@ -9,6 +9,12 @@
     ],
     "rotates": false,
     "fg": "wind_turbine",
-    "bg": [ "bg_high" ]
+    "bg": [
+      { "weight": 1, "sprite": "bg_high_1" },
+      { "weight": 1, "sprite": "bg_high_2" },
+      { "weight": 1, "sprite": "bg_high_3" },
+      { "weight": 1, "sprite": "bg_high_4" },
+      { "weight": 1, "sprite": "bg_high_5" }
+    ]
   }
 ]
