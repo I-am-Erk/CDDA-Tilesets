@@ -71,7 +71,7 @@ Even a fluctuation of minus two percent to plus two percent is noticeable on a l
 | background for uncertain areas | background for unknown areas |
 |--------------------------------|------------------------------|
 | ![bg_outlines](./images/bg_outlines_variants.png) | ![bg_unknown](./images/bg_unknown_variants.png) |
-| | |
+
 
 In game you can notice those effects easily:
 ![bg_in_game](./images/backgrounds_in_game.png)
@@ -93,7 +93,7 @@ Note that coloring even a small part of the image (e.g., the entrance to a cave)
 | Pencil | Pen |
 |--------|-----|
 | ![pencil](./images/cave_pencil.png) | ![pen](./images/cave_pen.png) |
-| | |
+
 
 > [!WARNING]
 > The background here is just for better visibility. The actual sprite has a transparent background.
