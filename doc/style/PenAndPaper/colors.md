@@ -72,7 +72,6 @@ Even a fluctuation of minus two percent to plus two percent is noticeable on a l
 |--------------------------------|------------------------------|
 | ![bg_outlines](./images/bg_outlines_variants.png) | ![bg_unknown](./images/bg_unknown_variants.png) |
 
-
 In game you can notice those effects easily:
 ![bg_in_game](./images/backgrounds_in_game.png)
 
@@ -94,7 +93,6 @@ Note that coloring even a small part of the image (e.g., the entrance to a cave)
 |--------|-----|
 | ![pencil](./images/cave_pencil.png) | ![pen](./images/cave_pen.png) |
 
-
 > [!WARNING]
 > The background here is just for better visibility. The actual sprite has a transparent background.
 
@@ -109,6 +107,8 @@ Water bodies (from streams to oceans) have a different blue color than those des
 The pencil is a black "pen" with 50% transparency. Large overmap objects (starting from 2x2 tiles) should have a pencil border line.
 
 Objects on the map should be drawn with dark pens or pencils. White is reserved for extremely important marks like high objects and "stairs" between Z-levels.
+
+*Also used for highlighting autotravels and recently revealed roads so it is pretty common sometimes.*
 
 Bright "highlighters" are for manual player usage.
 
