@@ -1,5 +1,6 @@
 # How to use this overmap tileset
-*This section is moslty for players*
+
+<p align="right"><a href="./usage.ua-UA.md"><img alt="Static Badge" src="https://img.shields.io/badge/lang-UA-blue"></a></p>
 
 To get the most out of this tileset, it’s important to understand that it requires more player interaction.
 
@@ -8,11 +9,12 @@ By default, the color indication on the map is quite minimal, and this is intent
 Of course, the game has an Autonotes feature, and I have tried to ensure that these notes match the style of what the player can add manually. This way, manual notes and Autonotes are meant to complement each other.
 
 Let's take a closer look:
-![screensho](./images/notes_screenshot.png)
+![screenshot](./images/notes_screenshot.png)
 
 As you can see here there are some notes:
+
 1) Yellow "Home" above three buildings. This note is made out of four different notes. These are common notes the player can write using `N` key.
-(`H:`,`o:`,`m:` and `e:` - notes values. As you can see only `:` is used to define the map glyph, and the color is default yellow.
+(`H:`,`o:`,`m:` and `e:` - notes values. As you can see only `:` is used to define the map glyph, and the color is default yellow.)
 2) Below `Home` there is a green stroke. It can be achieved by the note `-:g;`. The stroke of highlighers (bright colors) are relatively wide.
 3) The black `X` mark on the road was made manually.
 4) But the brown circle right near the pencil is autonote (*dead vegetables*)
@@ -31,10 +33,11 @@ You can change several aspects of this overmap tileset on the client side (but o
 - brightness/saturation of background as well
 
 You can download a couple of cursors from here:
+
 - [Orange semitransparent protractor](./images/cursor_protractor.png) - This was the first cursor. It has a couple of nice features: the ruler on the protractor is relatively accurate and almost equal to real centimeters/inches, and it has a couple of “handmade ticks” for 100 and 200 meters/yards(?). But this one can be confusing.
 - [Classic small red circle](./images/cursor_circle.png) - Can be used if you prefer a cursor that doesn’t span across several tiles.
 
 > [!WARNING]
-> You should save it as `cursor.png` in `%GAME% \gfx\PenAndPaper\`. Save original `cursor.png` somewhere just in case.
+> You should save it as `cursor.png` in `\gfx\PenAndPaper\`. Save original `cursor.png` somewhere just in case.
 
 To change brightness/saturation of the tileset use any image editor and adjust those files.
