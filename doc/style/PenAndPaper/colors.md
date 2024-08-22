@@ -1,5 +1,7 @@
 # Used Colors and Pens properties
 
+<p align="right"><a href="./colors.ua-UA.md"><img alt="Static Badge" src="https://img.shields.io/badge/lang-UA-blue"></a></p>
+
 ## At the beginning there was SM_Overmap
 
 The idea for this tileset had been floating around for quite some time, and I wasn’t the first to implement it. A survivor character drawing their own map is a fairly obvious move. The first to implement it was @curstwist with the SurveyorMap tileset. I am very glad that I was able to participate in its creation. However, there we drew player markings on top of the ‘official’ map. I made some decisions there that later turned out to be not the most popular among players.
