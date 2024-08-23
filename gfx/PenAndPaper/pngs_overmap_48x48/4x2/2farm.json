@@ -103,7 +103,13 @@
       "2farm_6", "2farm_6_1", "2farm_6_2", "2farm_6_3"
     ],
     "fg": "silo",
-    "bg": "bg_high"
+    "bg": [
+      { "weight": 1, "sprite": "bg_high_1" },
+      { "weight": 1, "sprite": "bg_high_2" },
+      { "weight": 1, "sprite": "bg_high_3" },
+      { "weight": 1, "sprite": "bg_high_4" },
+      { "weight": 1, "sprite": "bg_high_5" }
+    ]
   },
   {
     "id": [
