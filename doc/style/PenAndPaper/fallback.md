@@ -46,6 +46,7 @@ The last 6 blocks are for bright colors. My idea was to make the characters in t
 
 > [!NOTE]
 > For those who familiar with HSB color space there are some hints:
+>
 > - highlighters have saturation 66% and brightnes 85%
 > - pens have saturation 100% and brightnes 40%
 
@@ -59,13 +60,13 @@ It is also worth noting that the dot symbol has been made significantly larger a
 <tr><th>Pen or pencil</th><th>&nbsp;</th></tr>
 <tr><td>
 
- dark gray   (`dg`) (<i>black pen actually</i>)
- 
- dark cyan   (`C`)
- 
- magenta     (`m`)
- 
- brown       (`br`)
+dark gray   (`dg`) (*black pen actually*)
+
+dark cyan   (`C`)
+
+magenta     (`m`)
+
+brown       (`br`)
 
 </td><td>
 
@@ -89,7 +90,7 @@ white       (`W`)
 </td></tr>
 <tr><td>
 
-light gray  (`lg`) (<i>pencil</i>)
+light gray  (`lg`) (*pencil*)
 
 red         (`R`)
 
@@ -113,7 +114,6 @@ blue        (`B`)
 
   `l`   : arrow right
 
-
 </td></tr>
 </table>
 
@@ -131,16 +131,16 @@ light cyan  (`c`)
 
 pink        (`P`)
 
-yellow      (<i>default</i>)
+yellow      (*default*)
 
 </td><td>
 
    `(`   : dead face
-   
+
    `)`   : happy face
-   
+
  `-`,`/`,`=` : wide strokes
- 
+
    `@`   : human figurine
 
 </td></tr>
