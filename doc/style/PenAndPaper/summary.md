@@ -22,4 +22,4 @@ The overall style of this tileset is to give the map a hand-drawn effect. The fo
 - [Fallback file usage](./fallback.md)
 - [How to use map](./usage.md)
 - [File structure in repository](./file_structure.md)
-- TODO: [Workflow to contribute](./workflow.md)
+- [Workflow to contribute](./workflow.md)
