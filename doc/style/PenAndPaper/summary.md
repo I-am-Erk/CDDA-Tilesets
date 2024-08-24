@@ -1,7 +1,5 @@
 # Pen And Paper Overmap Style Guide
 
-<p align="right"><a href="./summary.ua-UA.md"><img alt="Static Badge" src="https://img.shields.io/badge/lang-UA-blue"></a></p>
-
 The overall style of this tileset is to give the map a hand-drawn effect. The following features of the map in the game should be considered:
 
 1. The map should be done in a consistent style; sprites of the same type should not differ significantly from each other.

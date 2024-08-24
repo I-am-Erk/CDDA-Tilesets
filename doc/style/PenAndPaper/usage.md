@@ -1,7 +1,5 @@
 # How to use this overmap tileset
 
-<p align="right"><a href="./usage.ua-UA.md"><img alt="Static Badge" src="https://img.shields.io/badge/lang-UA-blue"></a></p>
-
 To get the most out of this tileset, it’s important to understand that it requires more player interaction.
 
 By default, the color indication on the map is quite minimal, and this is intentional. It allows the player to mark points of interest and danger zones on the map themselves. Just as we make notes on a real map, the player is expected to add some information manually.

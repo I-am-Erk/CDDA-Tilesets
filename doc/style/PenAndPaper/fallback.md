@@ -1,7 +1,5 @@
 # Fallback file structure and features
 
-<p align="right"><a href="./fallback.ua-UA.md"><img alt="Static Badge" src="https://img.shields.io/badge/lang-UA-blue"></a></p>
-
 This file is used in cases where the game cannot find a suitable sprite for an object. It is also used to display `N`otes on the map. We will take advantage of this feature of the game in the future.
 
 > [!NOTE]

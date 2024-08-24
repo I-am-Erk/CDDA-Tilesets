@@ -1,7 +1,5 @@
 # P&P repository file structure
 
-<p align="right"><a href="./file_structure.ua-UA.md"><img alt="Static Badge" src="https://img.shields.io/badge/lang-UA-blue"></a></p>
-
 - `pngs_overmap_48x48`: This folder contains almost all sprites. Details below.
 - `pngs_backgrounds_48x48`: This folder should contain only background sprites, so players can change the brightness all together with one action, for all sprites including unknown terrains.
 - `pngs_weather_96x96`: To achieve the effect of long diagonal strikes across many tiles, I had to use double-sized sprites (four times bigger in terms of area).
