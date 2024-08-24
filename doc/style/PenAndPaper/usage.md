@@ -23,7 +23,7 @@ As you can see here there are some notes:
 
 Full set of symbols can be found [here](./fallback.md#fallback-additional-features)
 
-## Additinal info
+## Additional info
 
 You can change several aspects of this overmap tileset on the client side (but of course, you have to do it each time after a tileset update).
 
