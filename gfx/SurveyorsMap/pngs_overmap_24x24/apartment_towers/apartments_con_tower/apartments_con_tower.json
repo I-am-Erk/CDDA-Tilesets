@@ -88,7 +88,7 @@
       "rotates": true
     },
     {
-      "id": [ "apartments_con_tower_015" ],
+      "id": [ "apartments_con_tower_015", "apartments_con_tower_115" ],
       "fg": [
         "apartments_con_tower_015_S",
         "apartments_con_tower_015_E",
