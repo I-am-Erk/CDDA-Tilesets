@@ -369,6 +369,12 @@
       { "weight": 1, "sprite": [ "house_n_var_23", "house_w_var_23", "house_s_var_23", "house_e_var_23" ] },
       { "weight": 1, "sprite": [ "house_n_var_24", "house_w_var_24", "house_s_var_24", "house_e_var_24" ] }
     ],
-    "bg": "bg_high"
+    "bg": [
+      { "weight": 1, "sprite": "bg_high_1" },
+      { "weight": 1, "sprite": "bg_high_2" },
+      { "weight": 1, "sprite": "bg_high_3" },
+      { "weight": 1, "sprite": "bg_high_4" },
+      { "weight": 1, "sprite": "bg_high_5" }
+    ]
   }
 ]

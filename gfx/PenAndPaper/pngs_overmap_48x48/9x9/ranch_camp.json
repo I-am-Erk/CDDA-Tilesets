@@ -79,7 +79,13 @@
       "ranch_camp_57", "ranch_camp_57_roof", "ranch_camp_57_silo", "ranch_camp_57_silocap"
     ],
     "fg": "silo",
-    "bg": "bg_high"
+    "bg": [
+      { "weight": 1, "sprite": "bg_high_1" },
+      { "weight": 1, "sprite": "bg_high_2" },
+      { "weight": 1, "sprite": "bg_high_3" },
+      { "weight": 1, "sprite": "bg_high_4" },
+      { "weight": 1, "sprite": "bg_high_5" }
+    ]
   },
   {
     "id": [

@@ -91,7 +91,11 @@
       { "weight": 1, "sprite": "isolated_tower_2_outlines_var_24" }
     ],
     "bg": [
-      "bg_high"
+      { "weight": 1, "sprite": "bg_high_1" },
+      { "weight": 1, "sprite": "bg_high_2" },
+      { "weight": 1, "sprite": "bg_high_3" },
+      { "weight": 1, "sprite": "bg_high_4" },
+      { "weight": 1, "sprite": "bg_high_5" }
     ]
   },
   {
@@ -125,6 +129,12 @@
       { "weight": 1, "sprite": "isolated_tower_3_details_var_23" },
       { "weight": 1, "sprite": "isolated_tower_3_details_var_24" }
     ],
-    "bg": [ "bg_high" ]
+    "bg": [
+      { "weight": 1, "sprite": "bg_high_1" },
+      { "weight": 1, "sprite": "bg_high_2" },
+      { "weight": 1, "sprite": "bg_high_3" },
+      { "weight": 1, "sprite": "bg_high_4" },
+      { "weight": 1, "sprite": "bg_high_5" }
+    ]
   }
 ]
