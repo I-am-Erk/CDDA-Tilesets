@@ -1,0 +1,9 @@
+{
+  "id": "mon_xe_mavka",
+  "fg": [
+    { "weight": 1, "sprite": "mon_xe_mavka_0" },
+    { "weight": 1, "sprite": "mon_xe_mavka_1" }
+  ],
+  "bg": [],
+  "rotates": false
+}
