@@ -5,7 +5,14 @@
   "additional_tiles": [
     {
       "id": "center",
-      "fg": "t_water_hot_center"
+      "fg": [
+        { "weight": 4, "sprite": "t_water_hot" },
+        { "weight": 4, "sprite": "t_water_hot_0" },
+        { "weight": 4, "sprite": "t_water_hot_1" },
+        { "weight": 4, "sprite": "t_water_hot_2" },
+        { "weight": 1, "sprite": "t_water_hot_3" },
+        { "weight": 1, "sprite": "t_water_hot_4" }
+      ]
     },
     {
       "id": "corner",
