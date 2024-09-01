@@ -1,0 +1,40 @@
+{
+  "id": [
+    "t_water_pool",
+    "t_water_pool_outdoor"
+  ],
+  "fg": "t_water_pool_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        { "weight": 4, "sprite": "t_water_pool" },
+        { "weight": 4, "sprite": "t_water_pool_0" },
+        { "weight": 4, "sprite": "t_water_pool_1" },
+        { "weight": 4, "sprite": "t_water_pool_2" },
+        { "weight": 1, "sprite": "t_water_pool_3" },
+        { "weight": 1, "sprite": "t_water_pool_4" }
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [ "t_water_pool_corner_nw", "t_water_pool_corner_sw", "t_water_pool_corner_se", "t_water_pool_corner_ne" ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_water_pool_t_connection_n",
+        "t_water_pool_t_connection_w",
+        "t_water_pool_t_connection_s",
+        "t_water_pool_t_connection_e"
+      ]
+    },
+    { "id": "edge", "fg": [ "t_water_pool_edge_ns", "t_water_pool_edge_ew" ] },
+    {
+      "id": "end_piece",
+      "fg": [ "t_water_pool_end_piece_n", "t_water_pool_end_piece_w", "t_water_pool_end_piece_s", "t_water_pool_end_piece_e" ]
+    },
+    { "id": "unconnected", "fg": [ "t_water_pool_unconnected", "t_water_pool_unconnected" ] }
+  ]
+}
