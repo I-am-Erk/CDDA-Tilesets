@@ -45,6 +45,7 @@ jobs:
           mv "${BUILD_DIR}"/*.png           "$artifact_name"
           cp "$BUILD_DIR/tile_config.json"  "$artifact_name"
           cp "gfx/$TILESET/tileset.txt"     "$artifact_name"
+          [ -f "gfx/$TILESET/layering.json" ] && cp "gfx/$TILESET/layering.json" "$artifact_name"
 
           echo "ARTIFACT-NAME=$artifact_name" >> $GITHUB_OUTPUT
 
