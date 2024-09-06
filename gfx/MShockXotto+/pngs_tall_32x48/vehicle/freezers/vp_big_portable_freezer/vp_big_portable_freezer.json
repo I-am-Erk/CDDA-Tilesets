@@ -1,7 +1,7 @@
-[  {
-    "id": [ "vp_big_portable_freezer"],
+[  
+  {
+    "id": [ "vp_big_portable_freezer" ],
     "rotates": true,
-    "bg": [  ],
     "fg": [ "vp_big_portable_freezer_S", "vp_big_portable_freezer_E", "vp_big_portable_freezer_W", "vp_big_portable_freezer_N" ],
     "multitile": true,
     "additional_tiles": [
