@@ -1,0 +1,40 @@
+[
+  {
+    "id": [
+      "akdrum75",
+      "thompson_drum",
+      "glock_drum_50rd",
+      "glock_drum_100rd",
+      "g3bigmag",
+      "mp5bigmag",
+      "mp5mag_100rd",
+      "btmp9mag_9x19mm_50rd",
+      "ar10mag_50rd",
+      "tec9mag_72rd",
+      "scarhbigmag",
+      "stanag50",
+      "stanag60drum",
+      "stanag90",
+      "stanag100drum",
+      "stanag150",
+      "mka_1919_20",
+      "ruger90",
+      "ruger100",
+      "ruger1022mag_30",
+      "ruger1022mag_55",
+      "ruger1022mag_70",
+      "ruger1022mag_110",
+      "8x40_250_mag",
+      "8x40_500_mag",
+      "saiga30mag",
+      "saiga410mag_30rd",
+      "robofac30",
+      "robofac50",
+      "robofac100",
+      "augmag_100rd",
+      "uzimag_100rd",
+      "p08mag_32rd"
+    ],
+    "fg": "akdrum75"
+  }
+]
