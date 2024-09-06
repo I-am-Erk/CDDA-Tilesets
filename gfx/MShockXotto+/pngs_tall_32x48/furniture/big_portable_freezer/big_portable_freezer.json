@@ -1,5 +1,5 @@
 {
-  "id": [ "f_big_portable_freezer", "vp_ap_big_portable_freezer", "vp_big_portable_freezer" ],
+  "id": [ "f_big_portable_freezer", "vp_ap_big_portable_freezer" ],
   "rotates": true,
   "fg": ["big_portable_freezer_S", "big_portable_freezer_W", "big_portable_freezer_N", "big_portable_freezer_E"],
   "bg": ""
