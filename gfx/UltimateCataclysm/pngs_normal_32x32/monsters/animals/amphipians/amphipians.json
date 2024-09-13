@@ -1,0 +1,17 @@
+[
+  {
+    "id": "mon_freedom_toad",
+    "fg": "mon_freedom_toad",
+    "bg": "shadow_32x32_small"
+  },
+  {
+    "id": "mon_green_frog",
+    "fg": "mon_green_frog",
+    "bg": "shadow_32x32_small"
+  },
+  {
+    "id": "mon_pickerel_frog",
+    "fg": "mon_pickerel_frog",
+    "bg": "shadow_32x32_small"
+  }
+]
