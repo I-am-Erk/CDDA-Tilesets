@@ -1,0 +1,6 @@
+{
+  "id": [ "f_heavy_duty_freezer", "vp_ap_heavy_duty_freezer" ],
+  "rotates": true,
+  "fg": ["heavy_duty_freezer_S", "heavy_duty_freezer_W", "heavy_duty_freezer_N", "heavy_duty_freezer_E"],
+  "bg": ""
+}

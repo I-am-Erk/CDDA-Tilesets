@@ -1,0 +1,6 @@
+{
+  "id": [ "f_minifreezer", "vp_ap_minifreezer" ],
+  "rotates": true,
+  "fg": ["minifreezer_S", "minifreezer_W", "minifreezer_N", "minifreezer_E"],
+  "bg": ""
+}

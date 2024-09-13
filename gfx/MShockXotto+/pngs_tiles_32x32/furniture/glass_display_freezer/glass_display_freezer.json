@@ -1,0 +1,14 @@
+[
+  {
+  "id": [ "f_display_freezer", "vp_ap_display_freezer" ],
+  "rotates": false,
+  "fg": ["ap_display_freezer"],
+  "bg": ""
+ },
+  {
+  "id": [ "f_glass_freezer", "vp_ap_glass_freezer" ],
+  "rotates": false,
+  "fg": ["ap_glass_freezer"],
+  "bg": ""
+ }
+]
