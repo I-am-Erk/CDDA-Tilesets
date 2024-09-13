@@ -1,0 +1,32 @@
+[
+  {
+    "id": "mon_green_worm",
+    "fg": "mon_green_worm",
+    "bg": "shadow_32x32_small"
+  },
+  {
+    "id": "mon_strange_frog",
+    "fg": "mon_strange_frog",
+    "bg": "shadow_32x32_small"
+  },
+  {
+    "id": "mon_vocal_frog",
+    "fg": "mon_vocal_frog",
+    "bg": "shadow_32x32_small"
+  },
+  {
+    "id": "mon_odd_bigfrog",
+    "fg": "mon_odd_bigfrog",
+    "bg": "shadow_32x32_normal"
+  },
+  {
+    "id": "mon_strange_bigfrog",
+    "fg": "mon_strange_bigfrog",
+    "bg": "shadow_32x32_normal"
+  },
+  {
+    "id": "mon_zombullfrog",
+    "fg": "mon_zombullfrog",
+    "bg": "shadow_32x32_normal"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "mon_turtle_painted",
+    "fg": "mon_turtle_painted",
+    "bg": "shadow_32x32_small"
+  },
+  {
+    "id": "mon_turtle_snapping_common",
+    "fg": "mon_turtle_snapping_common",
+    "bg": "shadow_32x32_small"
+  }
+]
