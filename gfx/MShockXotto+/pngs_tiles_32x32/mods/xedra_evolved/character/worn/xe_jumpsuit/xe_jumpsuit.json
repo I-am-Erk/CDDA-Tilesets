@@ -1,0 +1,25 @@
+[
+  {
+    "id": [
+      "overlay_female_worn_xedra_jumpsuit_var_xedra_jumpsuit_eater",
+      "overlay_female_worn_xedra_jumpsuit_var_xedra_jumpsuit_dreamer",
+      "overlay_female_worn_xedra_jumpsuit_var_xedra_jumpsuit_inventor",
+      "overlay_female_worn_xedra_jumpsuit_var_xedra_jumpsuit_dreamsmith"
+    ],
+    "fg": [ "overlay_female_worn_xedra_jumpsuit" ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": [
+      "overlay_male_worn_xedra_jumpsuit_var_xedra_jumpsuit_eater",
+      "overlay_male_worn_xedra_jumpsuit_var_xedra_jumpsuit_dreamer",
+      "overlay_male_worn_xedra_jumpsuit_var_xedra_jumpsuit_inventor",
+      "overlay_male_worn_xedra_jumpsuit_var_xedra_jumpsuit_dreamsmith"
+    ],
+    "fg": [ "overlay_male_worn_xedra_jumpsuit" ],
+    "bg": [  ],
+    "rotates": false
+  }
+]
+ 
