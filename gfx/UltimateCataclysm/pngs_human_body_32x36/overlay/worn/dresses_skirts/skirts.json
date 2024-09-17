@@ -1,12 +1,18 @@
 [
   {
     "id": "overlay_female_worn_skirt_leather",
-    "fg": "skirt_leather_f",
-    "bg": ""
+    "fg": "skirt_leather_f"
   },
   {
     "id": "overlay_male_worn_skirt_leather",
-    "fg": "skirt_leather_m",
-    "bg": ""
+    "fg": "skirt_leather_m"
+  },
+  {
+    "id": [ "overlay_female_worn_cheerleader_skirt", "overlay_female_worn_cheerleader_skirt_short" ],
+    "fg": "cheerleader_skirt_f"
+  },
+  {
+    "id": [ "overlay_male_worn_cheerleader_skirt", "overlay_male_worn_cheerleader_skirt_short" ],
+    "fg": "cheerleader_skirt_m"
   }
 ]
