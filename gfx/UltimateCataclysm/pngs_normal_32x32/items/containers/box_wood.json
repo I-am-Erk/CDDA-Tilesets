@@ -1,0 +1,14 @@
+[
+    {
+      "id": [ "box_large_wood" ],
+      "fg": [ "box_large_wood" ]
+    },
+    {
+      "id": [ "box_medium_wood" ],
+      "fg": [ "box_medium_wood" ]
+    },
+    {
+      "id": [ "box_oversize_wood" ],
+      "fg": [ "box_oversize_wood" ]
+    }
+  ]
