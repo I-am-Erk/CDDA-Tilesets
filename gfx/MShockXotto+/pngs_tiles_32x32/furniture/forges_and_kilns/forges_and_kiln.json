@@ -1,0 +1,12 @@
+[
+  {
+    "id": [
+      "f_kiln_empty",
+      "f_kiln_full",
+      "f_clay_kiln"
+    ],
+    "fg": [ "f_clay_kiln" ],
+    "bg": [  ],
+    "rotates": false
+  }
+]
