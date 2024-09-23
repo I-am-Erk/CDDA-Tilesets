@@ -18,7 +18,7 @@
           { "id": "overlay_female_mutation_DRAGON_MAW_BLACK", "fg": 7 },
           { "id": "overlay_male_mutation_TOE_CLAWS", "fg": 8 },
           { "id": "overlay_female_mutation_TOE_CLAWS", "fg": 9 },
-          { "id": "overlay_male_mutation_DRAGON_FEET", "fg": 8 },
+          { "id": "overlay_female_mutation_DRAGON_FEET", "fg": 8 },
           { "id": "overlay_male_mutation_DRAGON_FEET", "fg": 9 },
 		  { "id": "overlay_male_mutation_DRAGON_WINGS_BLACK", "fg": 10 },
 		  { "id": "overlay_female_mutation_DRAGON_WINGS_BLACK", "fg": 11 }
