@@ -1,0 +1,33 @@
+[
+  {
+    "type": "mod_tileset",
+    "compatibility": [ "UltimateCataclysm" ],
+    "tiles-new": [
+      {
+        "file": "magiclysm_black_dragon.png",
+        "tiles": [
+          { "id": "overlay_male_mutation_DRAGON_SCALES_BLACK", "fg": 0 },
+          { "id": "overlay_female_mutation_DRAGON_SCALES_BLACK", "fg": 1 },
+          { "id": "overlay_male_mutation_DRAGON_TAIL_SCALED", "fg": 2 },
+          { "id": "overlay_female_mutation_DRAGON_TAIL_SCALED", "fg": 3 },
+          { "id": "overlay_male_mutation_DRAGON_TAIL", "fg": 2 },
+          { "id": "overlay_female_mutation_DRAGON_TAIL", "fg": 3 },
+          { "id": "overlay_male_mutation_HORNS_DRAGON", "fg": 4 },
+          { "id": "overlay_female_mutation_HORNS_DRAGON", "fg": 5 },
+          { "id": "overlay_male_mutation_DRAGON_MAW_BLACK", "fg": 6 },
+          { "id": "overlay_female_mutation_DRAGON_MAW_BLACK", "fg": 7 },
+          { "id": "overlay_male_mutation_TOE_CLAWS", "fg": 8 },
+          { "id": "overlay_female_mutation_TOE_CLAWS", "fg": 9 },
+          { "id": "overlay_male_mutation_DRAGON_FEET", "fg": 8 },
+          { "id": "overlay_male_mutation_DRAGON_FEET", "fg": 9 },
+		  { "id": "overlay_male_mutation_DRAGON_WINGS_BLACK", "fg": 10 },
+		  { "id": "overlay_female_mutation_DRAGON_WINGS_BLACK", "fg": 11 }
+        ],
+        "sprite_width": 32,
+        "sprite_height": 36,
+        "sprite_offset_x": 0,
+        "sprite_offset_y": -8
+      }
+    ]
+  }
+]
