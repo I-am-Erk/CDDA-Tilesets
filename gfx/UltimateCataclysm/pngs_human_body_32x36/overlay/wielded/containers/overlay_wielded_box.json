@@ -1,0 +1,14 @@
+[
+    {
+      "id": [ "overlay_wielded_box_large_metal", "overlay_wielded_box_medium_metal", "overlay_wielded_box_oversize_metal" ],
+      "fg": [ "overlay_wielded_box_medium_metal" ]
+    },
+    {
+      "id": [ "overlay_wielded_box_large_wood", "overlay_wielded_box_medium_wood", "overlay_wielded_box_oversize_wood" ],
+      "fg": [ "overlay_wielded_box_medium_wood" ]
+    },
+    {
+      "id": [ "overlay_wielded_box_small_wood", "overlay_wielded_box_compact_wood" ],
+      "fg": [ "overlay_wielded_box_small_wood" ]
+    }
+  ]
