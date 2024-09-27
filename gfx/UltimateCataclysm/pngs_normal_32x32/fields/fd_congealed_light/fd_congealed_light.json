@@ -1,0 +1,52 @@
+{
+  "id": "fd_congealed_light",
+  "fg": "fd_congealed_light_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "fd_congealed_light_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "fd_congealed_light_corner_nw",
+        "fd_congealed_light_corner_sw",
+        "fd_congealed_light_corner_se",
+        "fd_congealed_light_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "fd_congealed_light_t_connection_n",
+        "fd_congealed_light_t_connection_w",
+        "fd_congealed_light_t_connection_s",
+        "fd_congealed_light_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "fd_congealed_light_edge_ns",
+        "fd_congealed_light_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "fd_congealed_light_end_piece_n",
+        "fd_congealed_light_end_piece_w",
+        "fd_congealed_light_end_piece_s",
+        "fd_congealed_light_end_piece_e"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "fd_congealed_light_unconnected",
+        "fd_congealed_light_unconnected"
+      ]
+    }
+  ]
+}
