@@ -20,6 +20,14 @@
     "bg": "t_concrete_tall"
   },
   {
+    "id": "f_LIXA_machinery_electronic",
+	"fg": [
+	  { "weight": 128, "sprite": "f_LIXA_machinery_electronic" },
+      { "weight": 128, "sprite": "f_LIXA_machinery_electronic_2" }
+	],
+    "bg": "t_thconc_floor_center_tall"
+  },
+  {
     "id": "f_machinery_heavy",
     "fg": [ 
       { "weight": 20, "sprite": "f_machinery_heavy1" },
