@@ -1,0 +1,52 @@
+{
+  "id": "f_gravel_mound_tall",
+  "fg": "f_gravel_mound_tall_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_gravel_mound_tall_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_gravel_mound_tall_corner_nw",
+        "f_gravel_mound_tall_corner_sw",
+        "f_gravel_mound_tall_corner_se",
+        "f_gravel_mound_tall_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_gravel_mound_tall_t_connection_n",
+        "f_gravel_mound_tall_t_connection_w",
+        "f_gravel_mound_tall_t_connection_s",
+        "f_gravel_mound_tall_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_gravel_mound_tall_edge_ns",
+        "f_gravel_mound_tall_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_gravel_mound_tall_end_piece_n",
+        "f_gravel_mound_tall_end_piece_w",
+        "f_gravel_mound_tall_end_piece_s",
+        "f_gravel_mound_tall_end_piece_e"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_gravel_mound_tall_unconnected",
+        "f_gravel_mound_tall_unconnected"
+      ]
+    }
+  ]
+}
