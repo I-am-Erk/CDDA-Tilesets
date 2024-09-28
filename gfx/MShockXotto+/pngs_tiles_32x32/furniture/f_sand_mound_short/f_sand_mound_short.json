@@ -1,0 +1,52 @@
+{
+  "id": "f_sand_mound_short",
+  "fg": "f_sand_mound_short_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_sand_mound_short_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_sand_mound_short_corner_nw",
+        "f_sand_mound_short_corner_sw",
+        "f_sand_mound_short_corner_se",
+        "f_sand_mound_short_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_sand_mound_short_t_connection_n",
+        "f_sand_mound_short_t_connection_w",
+        "f_sand_mound_short_t_connection_s",
+        "f_sand_mound_short_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_sand_mound_short_edge_ns",
+        "f_sand_mound_short_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_sand_mound_short_end_piece_n",
+        "f_sand_mound_short_end_piece_w",
+        "f_sand_mound_short_end_piece_s",
+        "f_sand_mound_short_end_piece_e"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_sand_mound_short_unconnected",
+        "f_sand_mound_short_unconnected"
+      ]
+    }
+  ]
+}
