@@ -14,5 +14,21 @@
         "bg": [ "vp_door_trunk_hatch_wheel_left_open", "vp_door_trunk_hatch_wheel_left_open_rotW", "vp_door_trunk_hatch_wheel_left_open_rotS", "vp_door_trunk_hatch_wheel_left_open_rotE" ]
       }
     ]
+  },
+  {
+    "id": [ "vp_door_trunk_wheel_left", "vp_door_trunk_wheel_right" ],
+    "fg": [ "vp_door_trunk_hatch_wheel_left", "vp_door_trunk_hatch_floor_wheel_left_rotW", "vp_door_trunk_hatch_wheel_left_rotS", "vp_door_trunk_hatch_floor_wheel_left_rotE" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "open",
+        "fg": [ "vp_door_trunk_hatch_wheel_left_open", "vp_door_trunk_hatch_floor_wheel_left_open_rotW", "vp_door_trunk_hatch_wheel_left_open_rotS", "vp_door_trunk_hatch_floor_wheel_left_open_rotE" ]
+      },
+      {
+        "id": "broken",
+        "fg": [ "crack_metal_center_large", "crack_metal_center_large", "crack_metal_center_large", "crack_metal_center_large" ],
+        "bg": [ "vp_door_trunk_hatch_wheel_left_open", "vp_door_trunk_hatch_floor_wheel_left_open_rotW", "vp_door_trunk_hatch_wheel_left_open_rotS", "vp_door_trunk_hatch_floor_wheel_left_open_rotE" ]
+      }
+    ]
   }
 ]
