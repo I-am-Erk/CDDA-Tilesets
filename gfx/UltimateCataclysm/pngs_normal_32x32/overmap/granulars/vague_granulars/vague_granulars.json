@@ -1,0 +1,97 @@
+[
+  {
+    "id": [ "alien_tower$vague", "alien_tower$outlines" ],
+    "fg": "alien_tower$vague"
+  },
+  {
+    "id": [ "city_building$vague", "city_building$outlines" ],
+    "fg": "city_building$vague"
+  },
+  {
+    "id": [ "farm_field$vague", "farm_field$outlines" ],
+    "fg": "farm_field$vague"
+  },
+  {
+    "id": [ "forested$vague", "forested$vague$outlines" ],
+    "fg": [ 
+      { "weight": 1, "sprite": "forested$vague" },
+      { "weight": 1, "sprite": "forested2$vague" }
+    ]
+  },
+  {
+    "id": [ "forested_swampy$vague", "forested_swampy$outlines" ],
+    "fg": "forested_swampy$vague"
+  },
+  {
+    "id": [ "industrial_building$vague", "industrial_building$outlines" ],
+    "fg": "industrial_building$vague"
+  },
+  {
+    "id": [ "island$vague", "island$outlines" ],
+    "fg": "island$vague"
+  },
+  {
+    "id": [ "isolated_building$vague", "isolated_building$outlines" ],
+    "fg": "isolated_building$vague"
+  },
+  {
+    "id": [ "isolated_camp$vague", "isolated_camp$outlines" ],
+    "fg": "isolated_camp$vague"
+  },
+  {
+    "id": [ "isolated_electronics$vague", "isolated_electronics$outlines" ],
+    "fg": "isolated_electronics$vague"
+  },
+  {
+    "id": [ "large_building$vague", "large_building$outlines" ],
+    "fg": "large_building$vague"
+  },
+  {
+    "id": [ "large_city_building$vague", "large_city_building$outlines" ],
+    "fg": "large_city_building$vague"
+  },
+  {
+    "id": [ "large_industrial_building$vague", "large_industrial_building$outlines" ],
+    "fg": "large_industrial_building$vague"
+  },
+  {
+    "id": [ "large_pavement$vague", "large_pavement$outlines" ],
+    "fg": "large_pavement$vague"
+  },
+  {
+    "id": [ "natural_depression$vague", "natural_depression$outlines" ],
+    "fg": "natural_depression$vague"
+  },
+  {
+    "id": [ "natural_outcropping$vague", "natural_outcropping$outlines" ],
+    "fg": "natural_outcropping$vague"
+  },
+  {
+    "id": [ "open_land$vague", "open_land$outlines" ],
+    "fg": "open_land$vague"
+  },
+  {
+    "id": [ "roof$vague", "roof$outlines" ],
+    "fg": "roof$vague"
+  },
+  {
+    "id": [ "single_water$vague", "single_water$outlines" ],
+    "fg": "single_water$vague"
+  },
+  {
+    "id": [ "unusual_structure$vague", "unusual_structure$outlines" ],
+    "fg": "unusual_structure$vague"
+  },
+  {
+    "id": [ "warehouse$vague", "warehouse$outlines" ],
+    "fg": "warehouse$vague"
+  },
+  {
+    "id": [ "water_body$vague", "water_body$outlines" ],
+    "fg": "water_body$vague"
+  },
+  {
+    "id": [ "wreckage$vague", "wreckage$outlines" ],
+    "fg": "wreckage$vague"
+  }
+]
