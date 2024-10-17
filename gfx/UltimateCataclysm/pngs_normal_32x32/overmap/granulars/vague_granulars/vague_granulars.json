@@ -11,12 +11,13 @@
     "id": [ "farm_field$vague", "farm_field$outlines" ],
     "fg": "farm_field$vague"
   },
+    {
+    "id": [ "first_glance_forest$vague", "first_glance_forest$outlines" ],
+    "fg": "first_glance_forest$vague"
+  },
   {
-    "id": [ "forested$vague", "forested$vague$outlines" ],
-    "fg": [ 
-      { "weight": 1, "sprite": "forested$vague" },
-      { "weight": 1, "sprite": "forested2$vague" }
-    ]
+    "id": [ "forested$vague", "forested$outlines" ],
+    "fg": "forested$vague"
   },
   {
     "id": [ "forested_swampy$vague", "forested_swampy$outlines" ],
