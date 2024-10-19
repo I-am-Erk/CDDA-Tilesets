@@ -210,10 +210,15 @@
       {
         "item": "water",
         "sprite": [{"id": "puddle_water", "weight": 1}],
-        "layer": 100
+        "layer": 90
       },
       {
         "item": "water_clean",
+        "sprite": [{"id": "puddle_water", "weight": 1}],
+        "layer": 90
+      },
+      {
+        "item": "water_murky",
         "sprite": [{"id": "puddle_water", "weight": 1}],
         "layer": 90
       }
@@ -225,10 +230,15 @@
       {
         "item": "water",
         "sprite": [{"id": "puddle_water", "weight": 1}],
-        "layer": 100
+        "layer": 90
       },
       {
         "item": "water_clean",
+        "sprite": [{"id": "puddle_water", "weight": 1}],
+        "layer": 90
+      },
+      {
+        "item": "water_murky",
         "sprite": [{"id": "puddle_water", "weight": 1}],
         "layer": 90
       }
