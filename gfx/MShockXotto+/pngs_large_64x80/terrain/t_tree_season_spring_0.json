@@ -1,1 +1,1 @@
-{"id": "t_tree_season_spring", "fg": [{"weight": 1, "sprite": "5400_t_tree_0"}, {"weight": 1, "sprite": "5438_t_tree_season_spring_1"}], "bg": ["t_dirt_64x80"], "rotates": false}
+{"id": "t_tree_season_spring", "fg": [{"weight": 1, "sprite": "5400_t_tree_0"}, {"weight": 1, "sprite": "5438_t_tree_season_spring_1"}], "bg": ["t_grass_64x80"], "rotates": false}

@@ -4,13 +4,13 @@
     "3128_t_monkey_bars_0"
   ],
   "bg": [
-    "t_dirt_autumn"
+    "t_grass_autumn"
   ],
   "multitile": true,
   "additional_tiles": [
-    { "id": "edge", "bg": [ "t_dirt_autumn" ], "fg": [  ] },
-    { "id": "corner", "fg": [ "3129_t_monkey_bars_2" ], "bg": [ "t_dirt_autumn" ] },
-    { "id": "center", "fg": [ "3128_t_monkey_bars_0" ], "bg": [ "t_dirt_autumn" ] },
-    { "id": "t_connection", "fg": [ "3130_t_monkey_bars_3" ], "bg": [ "t_dirt_autumn" ] }
+    { "id": "edge", "bg": [ "t_grass_autumn" ], "fg": [  ] },
+    { "id": "corner", "fg": [ "3129_t_monkey_bars_2" ], "bg": [ "t_grass_autumn" ] },
+    { "id": "center", "fg": [ "3128_t_monkey_bars_0" ], "bg": [ "t_grass_autumn" ] },
+    { "id": "t_connection", "fg": [ "3130_t_monkey_bars_3" ], "bg": [ "t_grass_autumn" ] }
   ]
 }
