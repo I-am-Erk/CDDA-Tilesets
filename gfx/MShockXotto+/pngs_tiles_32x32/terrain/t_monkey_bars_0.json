@@ -4,13 +4,13 @@
     "3128_t_monkey_bars_0"
   ],
   "bg": [
-    "t_grass_center2"
+    "t_grass"
   ],
   "rotates": false,
   "multitile": true,
   "additional_tiles": [
-    { "id": "center", "fg": [ "3128_t_monkey_bars_0" ], "bg": [ "t_grass_center2" ] },
-    { "id": "corner", "fg": [ "3129_t_monkey_bars_2" ], "bg": [ "t_grass_center2" ] },
-    { "id": "t_connection", "fg": [ "3130_t_monkey_bars_3" ], "bg": [ "t_grass_center2" ] }
+    { "id": "center", "fg": [ "3128_t_monkey_bars_0" ], "bg": [ "t_grass" ] },
+    { "id": "corner", "fg": [ "3129_t_monkey_bars_2" ], "bg": [ "t_grass" ] },
+    { "id": "t_connection", "fg": [ "3130_t_monkey_bars_3" ], "bg": [ "t_grass" ] }
   ]
 }
