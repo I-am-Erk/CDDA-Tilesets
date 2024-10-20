@@ -7,7 +7,7 @@
       "t_shrub_huckleberry_season_spring"
     ],
     "fg": [ "t_shrub_blueberry_harvested" ],
-    "bg": [ "t_dirt" ]
+    "bg": [ "t_grass" ]
   },
   {
     "id": [
@@ -17,7 +17,7 @@
       "t_shrub_huckleberry_season_summer"
     ],
     "fg": [ "t_shrub_blueberry" ],
-    "bg": [ "t_dirt_summer" ]
+    "bg": [ "t_grass_summer" ]
   },
   {
     "id": [
@@ -27,7 +27,7 @@
       "t_shrub_huckleberry_season_autumn"
     ],
     "fg": [ "t_shrub_blueberry_harvested" ],
-    "bg": [ "t_dirt_autumn" ]
+    "bg": [ "t_grass_autumn" ]
   },
   {
     "id": [

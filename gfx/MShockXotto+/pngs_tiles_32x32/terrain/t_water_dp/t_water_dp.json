@@ -14,25 +14,25 @@
         { "weight": 1, "sprite": "t_water_dp_3" },
         { "weight": 1, "sprite": "t_water_dp_4" }
         ],
-        "bg": [ "t_dirt" ]
+        "bg": [ "t_grass" ]
       },
       {
         "id": "corner",
         "fg": [ "t_water_dp_corner_nw", "t_water_dp_corner_sw", "t_water_dp_corner_se", "t_water_dp_corner_ne" ],
-        "bg": [ "t_dirt" ]
+        "bg": [ "t_grass" ]
       },
       {
         "id": "t_connection",
         "fg": [ "t_water_dp_t_connection_n", "t_water_dp_t_connection_w", "t_water_dp_t_connection_s", "t_water_dp_t_connection_e" ],
-        "bg": [ "t_dirt" ]
+        "bg": [ "t_grass" ]
       },
-      { "id": "edge", "fg": [ "t_water_dp_edge_ns", "t_water_dp_edge_ew" ], "bg": [ "t_dirt" ] },
+      { "id": "edge", "fg": [ "t_water_dp_edge_ns", "t_water_dp_edge_ew" ], "bg": [ "t_grass" ] },
       {
         "id": "end_piece",
         "fg": [ "t_water_dp_end_piece_n", "t_water_dp_end_piece_w", "t_water_dp_end_piece_s", "t_water_dp_end_piece_e" ],
-        "bg": [ "t_dirt" ]
+        "bg": [ "t_grass" ]
       },
-      { "id": "unconnected", "fg": [ "t_water_dp_unconnected", "t_water_dp_unconnected" ], "bg": [ "t_dirt" ] }
+      { "id": "unconnected", "fg": [ "t_water_dp_unconnected", "t_water_dp_unconnected" ], "bg": [ "t_grass" ] }
     ]
   },
   {
@@ -90,25 +90,25 @@
         { "weight": 1, "sprite": "t_water_dp_3" },
         { "weight": 1, "sprite": "t_water_dp_4" }
         ],
-        "bg": [ "t_dirt_summer" ]
+        "bg": [ "t_grass_summer" ]
       },
       {
         "id": "corner",
         "fg": [ "t_water_dp_corner_nw", "t_water_dp_corner_sw", "t_water_dp_corner_se", "t_water_dp_corner_ne" ],
-        "bg": [ "t_dirt_summer" ]
+        "bg": [ "t_grass_summer" ]
       },
       {
         "id": "t_connection",
         "fg": [ "t_water_dp_t_connection_n", "t_water_dp_t_connection_w", "t_water_dp_t_connection_s", "t_water_dp_t_connection_e" ],
-        "bg": [ "t_dirt_summer" ]
+        "bg": [ "t_grass_summer" ]
       },
-      { "id": "edge", "fg": [ "t_water_dp_edge_ns", "t_water_dp_edge_ew" ], "bg": [ "t_dirt_summer" ] },
+      { "id": "edge", "fg": [ "t_water_dp_edge_ns", "t_water_dp_edge_ew" ], "bg": [ "t_grass_summer" ] },
       {
         "id": "end_piece",
         "fg": [ "t_water_dp_end_piece_n", "t_water_dp_end_piece_w", "t_water_dp_end_piece_s", "t_water_dp_end_piece_e" ],
-        "bg": [ "t_dirt_summer" ]
+        "bg": [ "t_grass_summer" ]
       },
-      { "id": "unconnected", "fg": [ "t_water_dp_unconnected", "t_water_dp_unconnected" ], "bg": [ "t_dirt_summer" ] }
+      { "id": "unconnected", "fg": [ "t_water_dp_unconnected", "t_water_dp_unconnected" ], "bg": [ "t_grass_summer" ] }
     ]
   },
   {
@@ -126,25 +126,25 @@
         { "weight": 1, "sprite": "t_water_dp_3" },
         { "weight": 1, "sprite": "t_water_dp_4" }
         ],
-        "bg": [ "t_dirt_autumn" ]
+        "bg": [ "t_grass_autumn" ]
       },
       {
         "id": "corner",
         "fg": [ "t_water_dp_corner_nw", "t_water_dp_corner_sw", "t_water_dp_corner_se", "t_water_dp_corner_ne" ],
-        "bg": [ "t_dirt_autumn" ]
+        "bg": [ "t_grass_autumn" ]
       },
       {
         "id": "t_connection",
         "fg": [ "t_water_dp_t_connection_n", "t_water_dp_t_connection_w", "t_water_dp_t_connection_s", "t_water_dp_t_connection_e" ],
-        "bg": [ "t_dirt_autumn" ]
+        "bg": [ "t_grass_autumn" ]
       },
-      { "id": "edge", "fg": [ "t_water_dp_edge_ns", "t_water_dp_edge_ew" ], "bg": [ "t_dirt_autumn" ] },
+      { "id": "edge", "fg": [ "t_water_dp_edge_ns", "t_water_dp_edge_ew" ], "bg": [ "t_grass_autumn" ] },
       {
         "id": "end_piece",
         "fg": [ "t_water_dp_end_piece_n", "t_water_dp_end_piece_w", "t_water_dp_end_piece_s", "t_water_dp_end_piece_e" ],
-        "bg": [ "t_dirt_autumn" ]
+        "bg": [ "t_grass_autumn" ]
       },
-      { "id": "unconnected", "fg": [ "t_water_dp_unconnected", "t_water_dp_unconnected" ], "bg": [ "t_dirt_autumn" ] }
+      { "id": "unconnected", "fg": [ "t_water_dp_unconnected", "t_water_dp_unconnected" ], "bg": [ "t_grass_autumn" ] }
     ]
   }
 ]

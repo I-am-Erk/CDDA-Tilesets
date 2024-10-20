@@ -4,12 +4,12 @@
     "3248_t_slide_0"
   ],
   "bg": [
-    "t_grass_center2"
+    "t_grass"
   ],
   "rotates": false,
   "multitile": true,
   "additional_tiles": [
-    { "id": "edge", "fg": [ "3248_t_slide_0" ], "bg": [ "t_grass_center2" ] },
-    { "id": "end_piece", "fg": [ "3249_t_slide_2" ], "bg": [ "t_grass_center2" ] }
+    { "id": "edge", "fg": [ "3248_t_slide_0" ], "bg": [ "t_grass" ] },
+    { "id": "end_piece", "fg": [ "3249_t_slide_2" ], "bg": [ "t_grass" ] }
   ]
 }
