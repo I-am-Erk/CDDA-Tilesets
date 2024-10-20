@@ -2,17 +2,17 @@
   {
     "id": [ "t_shrub_blackberry_harvested_season_spring", "t_shrub_blackberry_season_spring"],
     "fg": [ "t_shrub_blackberry_harvested" ],
-    "bg": [ "t_dirt" ]
+    "bg": [ "t_grass" ]
   },
   {
     "id": [ "t_shrub_blackberry_harvested_season_summer", "t_shrub_blackberry_season_summer"],
     "fg": [ "t_shrub_blackberry" ],
-    "bg": [ "t_dirt_summer" ]
+    "bg": [ "t_grass_summer" ]
   },
   {
     "id": [ "t_shrub_blackberry_harvested_season_autumn", "t_shrub_blackberry_season_autumn"],
     "fg": [ "t_shrub_blackberry_harvested" ],
-    "bg": [ "t_dirt_autumn" ]
+    "bg": [ "t_grass_autumn" ]
   },
   {
     "id": [ "t_shrub_blackberry_harvested_season_winter", "t_shrub_blackberry_season_winter"],

@@ -1,172 +1,32 @@
 [
   {
     "id": "t_grass",
-    "multitile": true,
-    "fg": [ "t_grass_unconnected" ],
-    "bg": [ "t_dirt" ],
-    "additional_tiles": [
-      {
-        "id": "center",
-        "bg": [ "t_dirt" ],
-        "fg": [
-          { "weight": 1, "sprite": "t_grass_center" },
-          { "weight": 1, "sprite": "t_grass_center2" },
-          { "weight": 1, "sprite": "t_grass_center3" },
-          { "weight": 1, "sprite": "t_grass_center4" }
-        ]
-      },
-      {
-        "id": "corner",
-        "bg": [ "t_dirt" ],
-        "fg": [ "t_grass_corner_nw", "t_grass_corner_sw", "t_grass_corner_se", "t_grass_corner_ne" ]
-      },
-      {
-        "id": "t_connection",
-        "bg": [ "t_dirt" ],
-        "fg": [ "t_grass_t_connection_n", "t_grass_t_connection_w", "t_grass_t_connection_s", "t_grass_t_connection_e" ]
-      },
-      { "id": "edge", "bg": [ "t_dirt" ], "fg": [ "t_grass_edge_ns", "t_grass_edge_ew" ] },
-      {
-        "id": "end_piece",
-        "bg": [ "t_dirt" ],
-        "fg": [ "t_grass_end_piece_n", "t_grass_end_piece_w", "t_grass_end_piece_s", "t_grass_end_piece_e" ]
-      },
-      { "bg": [ "t_dirt" ], "id": "unconnected", "fg": [ "t_grass_unconnected" ] }
-    ]
+    "fg": [ { "weight": 1, "sprite": "t_grass" }, { "weight": 1, "sprite": "t_grass_1" }, { "weight": 1, "sprite": "t_grass_2" } ]
   },
   {
     "id": "t_grass_season_summer",
-    "multitile": true,
-    "fg": [ "t_grass_summer_unconnected" ],
-    "bg": [ "t_dirt_summer" ],
-    "additional_tiles": [
-      {
-        "id": "center",
-        "bg": [ "t_dirt_summer" ],
-        "fg": [
-          { "weight": 1, "sprite": "t_grass_summer_center" },
-          { "weight": 1, "sprite": "t_grass_summer_center2" },
-          { "weight": 1, "sprite": "t_grass_summer_center3" },
-          { "weight": 1, "sprite": "t_grass_summer_center4" }
-        ]
-      },
-      {
-        "id": "corner",
-        "bg": [ "t_dirt_summer" ],
-        "fg": [ "t_grass_summer_corner_nw", "t_grass_summer_corner_sw", "t_grass_summer_corner_se", "t_grass_summer_corner_ne" ]
-      },
-      {
-        "id": "t_connection",
-        "bg": [ "t_dirt_summer" ],
-        "fg": [
-          "t_grass_summer_t_connection_n",
-          "t_grass_summer_t_connection_w",
-          "t_grass_summer_t_connection_s",
-          "t_grass_summer_t_connection_e"
-        ]
-      },
-      { "id": "edge", "bg": [ "t_dirt_summer" ], "fg": [ "t_grass_summer_edge_ns", "t_grass_summer_edge_ew" ] },
-      {
-        "id": "end_piece",
-        "bg": [ "t_dirt_summer" ],
-        "fg": [
-          "t_grass_summer_end_piece_n",
-          "t_grass_summer_end_piece_w",
-          "t_grass_summer_end_piece_s",
-          "t_grass_summer_end_piece_e"
-        ]
-      },
-      { "bg": [ "t_dirt_summer" ], "id": "unconnected", "fg": [ "t_grass_summer_unconnected" ] }
+    "fg": [
+      { "weight": 1, "sprite": "t_grass_summer" },
+      { "weight": 1, "sprite": "t_grass_summer_1" },
+      { "weight": 1, "sprite": "t_grass_summer_2" }
     ]
   },
   {
     "id": "t_grass_season_autumn",
-    "multitile": true,
-    "fg": [ "t_grass_autumn_unconnected" ],
-    "bg": [ "t_dirt_autumn" ],
-    "additional_tiles": [
-      {
-        "id": "center",
-        "bg": [ "t_dirt_autumn" ],
-        "fg": [
-          { "weight": 1, "sprite": "t_grass_autumn_center" },
-          { "weight": 1, "sprite": "t_grass_autumn_center2" },
-          { "weight": 1, "sprite": "t_grass_autumn_center3" },
-          { "weight": 1, "sprite": "t_grass_autumn_center4" }
-        ]
-      },
-      {
-        "id": "corner",
-        "bg": [ "t_dirt_autumn" ],
-        "fg": [ "t_grass_autumn_corner_nw", "t_grass_autumn_corner_sw", "t_grass_autumn_corner_se", "t_grass_autumn_corner_ne" ]
-      },
-      {
-        "id": "t_connection",
-        "bg": [ "t_dirt_autumn" ],
-        "fg": [
-          "t_grass_autumn_t_connection_n",
-          "t_grass_autumn_t_connection_w",
-          "t_grass_autumn_t_connection_s",
-          "t_grass_autumn_t_connection_e"
-        ]
-      },
-      { "id": "edge", "bg": [ "t_dirt_autumn" ], "fg": [ "t_grass_autumn_edge_ns", "t_grass_autumn_edge_ew" ] },
-      {
-        "id": "end_piece",
-        "bg": [ "t_dirt_autumn" ],
-        "fg": [
-          "t_grass_autumn_end_piece_n",
-          "t_grass_autumn_end_piece_w",
-          "t_grass_autumn_end_piece_s",
-          "t_grass_autumn_end_piece_e"
-        ]
-      },
-      { "bg": [ "t_dirt_autumn" ], "id": "unconnected", "fg": [ "t_grass_autumn_unconnected" ] }
+    "fg": [
+      { "weight": 1, "sprite": "t_grass_autumn" },
+      { "weight": 1, "sprite": "t_grass_autumn_1" },
+      { "weight": 1, "sprite": "t_grass_autumn_2" }
     ]
   },
   {
     "id": "t_grass_season_winter",
-    "multitile": true,
-    "fg": [ "snow_shallow_unconnected" ],
-    "bg": [ "t_dirt_winter" ],
-    "additional_tiles": [
-      {
-        "id": "center",
-        "bg": [ "t_dirt_winter" ],
-        "fg": [
-          { "weight": 1, "sprite": "snow_shallow_center" },
-          { "weight": 1, "sprite": "snow_shallow_center2" },
-          { "weight": 1, "sprite": "snow_shallow_center3" },
-          { "weight": 1, "sprite": "snow_shallow_center4" }
-        ]
-      },
-      {
-        "id": "corner",
-        "bg": [ "t_dirt_winter" ],
-        "fg": [ "snow_shallow_corner_nw", "snow_shallow_corner_sw", "snow_shallow_corner_se", "snow_shallow_corner_ne" ]
-      },
-      {
-        "id": "t_connection",
-        "bg": [ "t_dirt_winter" ],
-        "fg": [
-          "snow_shallow_t_connection_n",
-          "snow_shallow_t_connection_w",
-          "snow_shallow_t_connection_s",
-          "snow_shallow_t_connection_e"
-        ]
-      },
-      { "id": "edge", "bg": [ "t_dirt_winter" ], "fg": [ "snow_shallow_edge_ns", "snow_shallow_edge_ew" ] },
-      {
-        "id": "end_piece",
-        "bg": [ "t_dirt_winter" ],
-        "fg": [
-          "snow_shallow_end_piece_n",
-          "snow_shallow_end_piece_w",
-          "snow_shallow_end_piece_s",
-          "snow_shallow_end_piece_e"
-        ]
-      },
-      { "bg": [ "t_dirt_winter" ], "id": "unconnected", "fg": [ "snow_shallow_unconnected" ] }
+    "fg": [
+      { "weight": 5, "sprite": "t_grass_winter" },
+      { "weight": 1, "sprite": "t_grass_winter_1" },
+      { "weight": 1, "sprite": "t_grass_winter_2" },
+      { "weight": 20, "sprite": "t_grass_winter_3" },
+      { "weight": 1, "sprite": "t_grass_winter_4" }
     ]
   }
 ]

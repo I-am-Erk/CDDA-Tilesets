@@ -4,11 +4,11 @@
     "3248_t_slide_0"
   ],
   "bg": [
-    "t_dirt_summer"
+    "t_grass_summer"
   ],
   "multitile": true,
   "additional_tiles": [
-    { "id": "edge", "fg": [ "3248_t_slide_0" ], "bg": [ "t_dirt_summer" ] },
-    { "id": "end_piece", "fg": [ "3249_t_slide_2" ], "bg": [ "t_dirt_summer" ] }
+    { "id": "edge", "fg": [ "3248_t_slide_0" ], "bg": [ "t_grass_summer" ] },
+    { "id": "end_piece", "fg": [ "3249_t_slide_2" ], "bg": [ "t_grass_summer" ] }
   ]
 }
