@@ -1,0 +1,90 @@
+[
+  {
+    "id": [ "s_lightindustry_00", "s_lightindustry_scen_00" ],
+    "fg": [
+      "industry_light_EW_1",
+      "industry_light_NS_2",
+      "industry_light_EW_4",
+      "industry_light_NS_3"
+    ],
+    "bg": "field_tall",
+    "rotates": true
+  },
+  {
+    "id": [ "s_lightindustry_01", "s_lightindustry_scen_01" ],
+    "fg": [
+      "industry_light_EW_2",
+      "industry_light_NS_4",
+      "industry_light_EW_3",
+      "industry_light_NS_1"
+    ],
+    "bg": "field_tall",
+    "rotates": true
+  },
+  {
+    "id": [ "s_lightindustry_10", "s_lightindustry_scen_10" ],
+    "fg": [
+      "industry_light_EW_3",
+      "industry_light_NS_1",
+      "industry_light_EW_2",
+      "industry_light_NS_4"
+    ],
+    "bg": "field_tall",
+    "rotates": true
+  },
+  {
+    "id": [ "s_lightindustry_11", "s_lightindustry_scen_11" ],
+    "fg": [
+      "industry_light_EW_4",
+      "industry_light_NS_3",
+      "industry_light_EW_1",
+      "industry_light_NS_2"
+    ],
+    "bg": "field_tall",
+    "rotates": true
+  },
+  {
+    "id": [ "s_lightindustry_00_roof", "s_lightindustry_scen_00_roof" ],
+    "fg": [
+      "industry_light_EW_1",
+      "industry_light_NS_2",
+      "industry_light_EW_4",
+      "industry_light_NS_3"
+    ],
+    "bg": "open_air_tall",
+    "rotates": true
+  },
+  {
+    "id": [ "s_lightindustry_01_roof", "s_lightindustry_scen_01_roof" ],
+    "fg": [
+      "industry_light_EW_2",
+      "industry_light_NS_4",
+      "industry_light_EW_3",
+      "industry_light_NS_1"
+    ],
+    "bg": "open_air_tall",
+    "rotates": true
+  },
+  {
+    "id": [ "s_lightindustry_10_roof", "s_lightindustry_scen_10_roof" ],
+    "fg": [
+      "industry_light_EW_3",
+      "industry_light_NS_1",
+      "industry_light_EW_2",
+      "industry_light_NS_4"
+    ],
+    "bg": "open_air_tall",
+    "rotates": true
+  },
+  {
+    "id": [ "s_lightindustry_11_roof", "s_lightindustry_scen_11_roof" ],
+    "fg": [
+      "industry_light_EW_4",
+      "industry_light_NS_3",
+      "industry_light_EW_1",
+      "industry_light_NS_2"
+    ],
+    "bg": "open_air_tall",
+    "rotates": true
+  }
+]

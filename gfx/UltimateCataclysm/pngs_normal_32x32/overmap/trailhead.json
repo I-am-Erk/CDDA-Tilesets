@@ -1,0 +1,12 @@
+[
+  {
+    "id": [ "trailhead_outhouse_z0", "trailhead_shack_z0", "trailhead" ],
+    "fg": "trailhead",
+    "bg": "field"
+  },
+  {
+    "id": [ "trailhead_outhouse_z1", "trailhead_shack_z1" ],
+    "fg": "trailhead",
+    "bg": "open_air"
+  }
+]
