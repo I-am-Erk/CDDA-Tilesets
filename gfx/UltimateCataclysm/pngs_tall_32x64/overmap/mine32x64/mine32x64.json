@@ -1,0 +1,46 @@
+[
+  {
+    "id": "mine_entrance",
+    "fg": [
+      "mine_N_1",
+      "mine_W_1",
+      "mine_S_1",
+      "mine_E_1"
+    ],
+    "bg": "field_tall",
+    "rotates": true
+  },
+  {
+    "id": "mine_entrance_roof",
+    "fg": [
+      "mine_N_1",
+      "mine_W_1",
+      "mine_S_1",
+      "mine_E_1"
+    ],
+    "bg": "open_air_tall",
+    "rotates": true
+  },
+  {
+    "id": "mine_shaft_middle",
+    "fg": [
+      "mine_N_1",
+      "mine_W_1",
+      "mine_S_1",
+      "mine_E_1"
+    ],
+    "bg": "t_dirt_center3_tall",
+    "rotates": true
+  },
+  {
+    "id": "mine_shaft_lower",
+    "fg": [
+      "mine_N_1",
+      "mine_W_1",
+      "mine_S_1",
+      "mine_E_1"
+    ],
+    "bg": "t_rock_floor_center_tall",
+    "rotates": true
+  }
+]
