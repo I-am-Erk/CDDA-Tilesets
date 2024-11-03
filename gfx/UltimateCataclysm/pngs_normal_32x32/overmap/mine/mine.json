@@ -1,0 +1,46 @@
+[
+  {
+    "id": "mine_entrance_loading_zone",
+    "fg": [
+      "mine_N_2",
+      "mine_W_2",
+      "mine_S_2",
+      "mine_E_2"
+    ],
+    "bg": "field",
+    "rotates": true
+  },
+  {
+    "id": "mine_entrance_loading_zone_roof",
+    "fg": [
+      "mine_N_2",
+      "mine_W_2",
+      "mine_S_2",
+      "mine_E_2"
+    ],
+    "bg": "open_air",
+    "rotates": true
+  },
+  {
+    "id": "mine_shaft_middle_east",
+    "fg": [
+      "mine_N_2",
+      "mine_W_2",
+      "mine_S_2",
+      "mine_E_2"
+    ],
+    "bg": "t_dirt_center3",
+    "rotates": true
+  },
+  {
+    "id": "mine_shaft_lower_east",
+    "fg": [
+      "mine_N_2",
+      "mine_W_2",
+      "mine_S_2",
+      "mine_E_2"
+    ],
+    "bg": "t_rock_floor_center",
+    "rotates": true
+  }
+]
