@@ -1,5 +1,17 @@
-{
-  "id": "f_displaycase",
-  "fg": "pickable",
-  "bg": "f_displaycase"
-}
+[
+  {
+    "id": "f_displaycase",
+    "fg": "pickable",
+    "bg": "f_displaycase"
+  },
+  {
+    "id": "f_displaycase_o",
+    "fg": "f_displaycase",
+    "bg": ""
+  },
+  {
+    "id": "f_displaycase_b",
+    "fg": "f_displaycase_b",
+    "bg": ""
+  }
+]
