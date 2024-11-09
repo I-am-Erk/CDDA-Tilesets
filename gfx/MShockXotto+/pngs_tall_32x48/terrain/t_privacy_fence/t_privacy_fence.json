@@ -2,21 +2,21 @@
   {
     "id": "t_privacy_fence",
     "fg": "t_privacy_fence_unconnected",
-    "bg": "t_dirt_tall",
+    "bg": "t_grass_tall",
     "multitile": true,
     "additional_tiles": [
-      { "id": "center", "fg": "t_privacy_fence_unconnected", "bg": "t_dirt_tall" },
+      { "id": "center", "fg": "t_privacy_fence_unconnected", "bg": "t_grass_tall" },
       {
         "id": "corner",
         "fg": [ "t_privacy_fence_corner_nw", "t_privacy_fence_corner_sw", "t_privacy_fence_corner_se", "t_privacy_fence_corner_ne" ],
-        "bg": "t_dirt_tall"
+        "bg": "t_grass_tall"
       },
       {
         "id": "t_connection",
         "fg": [ "t_privacy_fence_edge_ew", "t_privacy_fence_edge_ns", "t_privacy_fence_edge_ew", "t_privacy_fence_edge_ns" ],
-        "bg": "t_dirt_tall"
+        "bg": "t_grass_tall"
       },
-      { "id": "edge", "fg": [ "t_privacy_fence_edge_ns", "t_privacy_fence_edge_ew" ], "bg": "t_dirt_tall" },
+      { "id": "edge", "fg": [ "t_privacy_fence_edge_ns", "t_privacy_fence_edge_ew" ], "bg": "t_grass_tall" },
       {
         "id": "end_piece",
         "fg": [
@@ -25,33 +25,33 @@
           "t_privacy_fence_end_piece_s",
           "t_privacy_fence_end_piece_e"
         ],
-        "bg": "t_dirt_tall"
+        "bg": "t_grass_tall"
       },
       {
         "id": "unconnected",
         "fg": [ "t_privacy_fence_unconnected", "t_privacy_fence_unconnected" ],
-        "bg": "t_dirt_tall"
+        "bg": "t_grass_tall"
       }
     ]
   },
   {
     "id": "t_privacy_fence_season_autumn",
     "fg": "t_privacy_fence_unconnected",
-    "bg": "t_dirt_autumn_tall",
+    "bg": "t_grass_autumn_tall",
     "multitile": true,
     "additional_tiles": [
-      { "id": "center", "fg": "t_privacy_fence_unconnected", "bg": "t_dirt_autumn_tall" },
+      { "id": "center", "fg": "t_privacy_fence_unconnected", "bg": "t_grass_autumn_tall" },
       {
         "id": "corner",
         "fg": [ "t_privacy_fence_corner_nw", "t_privacy_fence_corner_sw", "t_privacy_fence_corner_se", "t_privacy_fence_corner_ne" ],
-        "bg": "t_dirt_autumn_tall"
+        "bg": "t_grass_autumn_tall"
       },
       {
         "id": "t_connection",
         "fg": [ "t_privacy_fence_edge_ew", "t_privacy_fence_edge_ns", "t_privacy_fence_edge_ew", "t_privacy_fence_edge_ns" ],
-        "bg": "t_dirt_autumn_tall"
+        "bg": "t_grass_autumn_tall"
       },
-      { "id": "edge", "fg": [ "t_privacy_fence_edge_ns", "t_privacy_fence_edge_ew" ], "bg": "t_dirt_autumn_tall" },
+      { "id": "edge", "fg": [ "t_privacy_fence_edge_ns", "t_privacy_fence_edge_ew" ], "bg": "t_grass_autumn_tall" },
       {
         "id": "end_piece",
         "fg": [
@@ -60,33 +60,33 @@
           "t_privacy_fence_end_piece_s",
           "t_privacy_fence_end_piece_e"
         ],
-        "bg": "t_dirt_autumn_tall"
+        "bg": "t_grass_autumn_tall"
       },
       {
         "id": "unconnected",
         "fg": [ "t_privacy_fence_unconnected", "t_privacy_fence_unconnected" ],
-        "bg": "t_dirt_autumn_tall"
+        "bg": "t_grass_autumn_tall"
       }
     ]
   },
   {
     "id": "t_privacy_fence_season_summer",
     "fg": "t_privacy_fence_unconnected",
-    "bg": "t_dirt_summer_tall",
+    "bg": "t_grass_summer_tall",
     "multitile": true,
     "additional_tiles": [
-      { "id": "center", "fg": "t_privacy_fence_unconnected", "bg": "t_dirt_summer_tall" },
+      { "id": "center", "fg": "t_privacy_fence_unconnected", "bg": "t_grass_summer_tall" },
       {
         "id": "corner",
         "fg": [ "t_privacy_fence_corner_nw", "t_privacy_fence_corner_sw", "t_privacy_fence_corner_se", "t_privacy_fence_corner_ne" ],
-        "bg": "t_dirt_summer_tall"
+        "bg": "t_grass_summer_tall"
       },
       {
         "id": "t_connection",
         "fg": [ "t_privacy_fence_edge_ew", "t_privacy_fence_edge_ns", "t_privacy_fence_edge_ew", "t_privacy_fence_edge_ns" ],
-        "bg": "t_dirt_summer_tall"
+        "bg": "t_grass_summer_tall"
       },
-      { "id": "edge", "fg": [ "t_privacy_fence_edge_ns", "t_privacy_fence_edge_ew" ], "bg": "t_dirt_summer_tall" },
+      { "id": "edge", "fg": [ "t_privacy_fence_edge_ns", "t_privacy_fence_edge_ew" ], "bg": "t_grass_summer_tall" },
       {
         "id": "end_piece",
         "fg": [
@@ -95,33 +95,33 @@
           "t_privacy_fence_end_piece_s",
           "t_privacy_fence_end_piece_e"
         ],
-        "bg": "t_dirt_summer_tall"
+        "bg": "t_grass_summer_tall"
       },
       {
         "id": "unconnected",
         "fg": [ "t_privacy_fence_unconnected", "t_privacy_fence_unconnected" ],
-        "bg": "t_dirt_summer_tall"
+        "bg": "t_grass_summer_tall"
       }
     ]
   },
   {
     "id": "t_privacy_fence_season_winter",
     "fg": "t_privacy_fence_unconnected",
-    "bg": "t_dirt_winter_tall",
+    "bg": "t_grass_winter_tall",
     "multitile": true,
     "additional_tiles": [
-      { "id": "center", "fg": "t_privacy_fence_unconnected", "bg": "t_dirt_winter_tall" },
+      { "id": "center", "fg": "t_privacy_fence_unconnected", "bg": "t_grass_winter_tall" },
       {
         "id": "corner",
         "fg": [ "t_privacy_fence_corner_nw", "t_privacy_fence_corner_sw", "t_privacy_fence_corner_se", "t_privacy_fence_corner_ne" ],
-        "bg": "t_dirt_winter_tall"
+        "bg": "t_grass_winter_tall"
       },
       {
         "id": "t_connection",
         "fg": [ "t_privacy_fence_edge_ew", "t_privacy_fence_edge_ns", "t_privacy_fence_edge_ew", "t_privacy_fence_edge_ns" ],
-        "bg": "t_dirt_winter_tall"
+        "bg": "t_grass_winter_tall"
       },
-      { "id": "edge", "fg": [ "t_privacy_fence_edge_ns", "t_privacy_fence_edge_ew" ], "bg": "t_dirt_winter_tall" },
+      { "id": "edge", "fg": [ "t_privacy_fence_edge_ns", "t_privacy_fence_edge_ew" ], "bg": "t_grass_winter_tall" },
       {
         "id": "end_piece",
         "fg": [
@@ -130,12 +130,12 @@
           "t_privacy_fence_end_piece_s",
           "t_privacy_fence_end_piece_e"
         ],
-        "bg": "t_dirt_winter_tall"
+        "bg": "t_grass_winter_tall"
       },
       {
         "id": "unconnected",
         "fg": [ "t_privacy_fence_unconnected", "t_privacy_fence_unconnected" ],
-        "bg": "t_dirt_winter_tall"
+        "bg": "t_grass_winter_tall"
       }
     ]
   }
