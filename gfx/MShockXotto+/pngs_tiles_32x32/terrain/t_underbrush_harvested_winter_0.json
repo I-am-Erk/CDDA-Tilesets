@@ -1,1 +1,12 @@
-{"id": "t_underbrush_harvested_winter", "fg": ["3320_t_underbrush_harvested_winter_0"], "bg": ["t_dirt_winter"], "rotates": false}
+{
+  "id": "t_underbrush_harvested_winter",
+  "fg": [
+    "3320_t_underbrush_harvested_winter_0"
+  ],
+  "bg": [
+    { "weight": 1, "sprite": "t_grass_winter" },
+    { "weight": 1, "sprite": "t_grass_winter_1" },
+    { "weight": 1, "sprite": "t_grass_winter_2" }
+  ],
+  "rotates": false
+}

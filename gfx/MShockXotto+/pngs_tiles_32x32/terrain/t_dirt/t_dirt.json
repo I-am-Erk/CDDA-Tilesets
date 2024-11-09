@@ -51,5 +51,59 @@
         ]
       }
     ]
+  },
+  {
+    "id": "t_dirt_season_autumn",
+    "fg": "t_dirt_autumn_unconnected",
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "center", "fg": "t_dirt_autumn_center" },
+      {
+        "id": "corner",
+        "fg": [ "t_dirt_autumn_corner_nw", "t_dirt_autumn_corner_sw", "t_dirt_autumn_corner_se", "t_dirt_autumn_corner_ne" ]
+      },
+      {
+        "id": "t_connection",
+        "fg": [
+          "t_dirt_autumn_t_connection_n",
+          "t_dirt_autumn_t_connection_w",
+          "t_dirt_autumn_t_connection_s",
+          "t_dirt_autumn_t_connection_e"
+        ]
+      },
+      { "id": "edge", "fg": [ "t_dirt_autumn_edge_ns", "t_dirt_autumn_edge_ew" ] },
+      {
+        "id": "end_piece",
+        "fg": [ "t_dirt_autumn_end_piece_n", "t_dirt_autumn_end_piece_w", "t_dirt_autumn_end_piece_s", "t_dirt_autumn_end_piece_e" ]
+      },
+      { "id": "unconnected", "fg": [ "t_dirt_autumn_unconnected", "t_dirt_autumn_unconnected" ] }
+    ]
+  },
+  {
+    "id": "t_dirt_season_summer",
+    "fg": "t_dirt_summer_unconnected",
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "center", "fg": "t_dirt_summer_center" },
+      {
+        "id": "corner",
+        "fg": [ "t_dirt_summer_corner_nw", "t_dirt_summer_corner_sw", "t_dirt_summer_corner_se", "t_dirt_summer_corner_ne" ]
+      },
+      {
+        "id": "t_connection",
+        "fg": [
+          "t_dirt_summer_t_connection_n",
+          "t_dirt_summer_t_connection_w",
+          "t_dirt_summer_t_connection_s",
+          "t_dirt_summer_t_connection_e"
+        ]
+      },
+      { "id": "edge", "fg": [ "t_dirt_summer_edge_ns", "t_dirt_summer_edge_ew" ] },
+      {
+        "id": "end_piece",
+        "fg": [ "t_dirt_summer_end_piece_n", "t_dirt_summer_end_piece_w", "t_dirt_summer_end_piece_s", "t_dirt_summer_end_piece_e" ]
+      },
+      { "id": "unconnected", "fg": [ "t_dirt_summer_unconnected", "t_dirt_summer_unconnected" ] }
+    ]
   }
 ]

@@ -2,21 +2,21 @@
 {
   "id": "t_gutter_downspout",
   "fg": "t_gutter_downspout",
-  "bg": "t_dirt_tall"
+  "bg": "t_grass_tall"
 },
 {
   "id": "t_gutter_downspout_season_autumn",
   "fg": "t_gutter_downspout",
-  "bg": "t_dirt_autumn_tall"
+  "bg": "t_grass_autumn_tall"
 },
 {
   "id": "t_gutter_downspout_season_summer",
   "fg": "t_gutter_downspout",
-  "bg": "t_dirt_summer_tall"
+  "bg": "t_grass_summer_tall"
 },
 {
   "id": "t_gutter_downspout_season_winter",
   "fg": "t_gutter_downspout",
-  "bg": "t_dirt_winter_tall"
+  "bg": "t_grass_winter_tall"
 }
 ]

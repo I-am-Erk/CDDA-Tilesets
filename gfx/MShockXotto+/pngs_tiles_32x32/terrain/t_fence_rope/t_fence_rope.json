@@ -10,9 +10,8 @@
         "fg": "t_fence_rope_unconnected",
         "bg": [
           { "weight": 100, "sprite": "t_grass" },
-          { "weight": 100, "sprite": "t_dirt2" },
-          { "weight": 100, "sprite": "t_dirt3" },
-          { "weight": 100, "sprite": "t_dirt4" }
+          { "weight": 100, "sprite": "t_grass_1" },
+          { "weight": 100, "sprite": "t_grass_2" }
         ]
       },
       {
@@ -20,9 +19,8 @@
         "fg": [ "t_fence_rope_corner_nw", "t_fence_rope_corner_sw", "t_fence_rope_corner_se", "t_fence_rope_corner_ne" ],
         "bg": [
           { "weight": 100, "sprite": "t_grass" },
-          { "weight": 100, "sprite": "t_dirt2" },
-          { "weight": 100, "sprite": "t_dirt3" },
-          { "weight": 100, "sprite": "t_dirt4" }
+          { "weight": 100, "sprite": "t_grass_1" },
+          { "weight": 100, "sprite": "t_grass_2" }
         ]
       },
       {
@@ -30,9 +28,8 @@
         "fg": [ "t_fence_rope_edge_ew", "t_fence_rope_edge_ns", "t_fence_rope_edge_ew", "t_fence_rope_edge_ns" ],
         "bg": [
           { "weight": 100, "sprite": "t_grass" },
-          { "weight": 100, "sprite": "t_dirt2" },
-          { "weight": 100, "sprite": "t_dirt3" },
-          { "weight": 100, "sprite": "t_dirt4" }
+          { "weight": 100, "sprite": "t_grass_1" },
+          { "weight": 100, "sprite": "t_grass_2" }
         ]
       },
       {
@@ -40,9 +37,8 @@
         "fg": [ "t_fence_rope_edge_ns", "t_fence_rope_edge_ew" ],
         "bg": [
           { "weight": 100, "sprite": "t_grass" },
-          { "weight": 100, "sprite": "t_dirt2" },
-          { "weight": 100, "sprite": "t_dirt3" },
-          { "weight": 100, "sprite": "t_dirt4" }
+          { "weight": 100, "sprite": "t_grass_1" },
+          { "weight": 100, "sprite": "t_grass_2" }
         ]
       },
       {
@@ -50,9 +46,8 @@
         "fg": [ "t_fence_rope_end_piece_n", "t_fence_rope_end_piece_w", "t_fence_rope_end_piece_s", "t_fence_rope_end_piece_e" ],
         "bg": [
           { "weight": 100, "sprite": "t_grass" },
-          { "weight": 100, "sprite": "t_dirt2" },
-          { "weight": 100, "sprite": "t_dirt3" },
-          { "weight": 100, "sprite": "t_dirt4" }
+          { "weight": 100, "sprite": "t_grass_1" },
+          { "weight": 100, "sprite": "t_grass_2" }
         ]
       },
       {
@@ -60,9 +55,8 @@
         "fg": [ "t_fence_rope_unconnected", "t_fence_rope_unconnected" ],
         "bg": [
           { "weight": 100, "sprite": "t_grass" },
-          { "weight": 100, "sprite": "t_dirt2" },
-          { "weight": 100, "sprite": "t_dirt3" },
-          { "weight": 100, "sprite": "t_dirt4" }
+          { "weight": 100, "sprite": "t_grass_1" },
+          { "weight": 100, "sprite": "t_grass_2" }
         ]
       }
     ]
@@ -78,9 +72,8 @@
         "fg": "t_fence_rope_unconnected",
         "bg": [
           { "weight": 100, "sprite": "t_grass_summer" },
-          { "weight": 100, "sprite": "t_dirt_summer2" },
-          { "weight": 100, "sprite": "t_dirt_summer3" },
-          { "weight": 100, "sprite": "t_dirt_summer4" }
+          { "weight": 100, "sprite": "t_grass_summer_1" },
+          { "weight": 100, "sprite": "t_grass_summer_2" }
         ]
       },
       {
@@ -88,9 +81,8 @@
         "fg": [ "t_fence_rope_corner_nw", "t_fence_rope_corner_sw", "t_fence_rope_corner_se", "t_fence_rope_corner_ne" ],
         "bg": [
           { "weight": 100, "sprite": "t_grass_summer" },
-          { "weight": 100, "sprite": "t_dirt_summer2" },
-          { "weight": 100, "sprite": "t_dirt_summer3" },
-          { "weight": 100, "sprite": "t_dirt_summer4" }
+          { "weight": 100, "sprite": "t_grass_summer_1" },
+          { "weight": 100, "sprite": "t_grass_summer_2" }
         ]
       },
       {
@@ -98,9 +90,8 @@
         "fg": [ "t_fence_rope_edge_ew", "t_fence_rope_edge_ns", "t_fence_rope_edge_ew", "t_fence_rope_edge_ns" ],
         "bg": [
           { "weight": 100, "sprite": "t_grass_summer" },
-          { "weight": 100, "sprite": "t_dirt_summer2" },
-          { "weight": 100, "sprite": "t_dirt_summer3" },
-          { "weight": 100, "sprite": "t_dirt_summer4" }
+          { "weight": 100, "sprite": "t_grass_summer_1" },
+          { "weight": 100, "sprite": "t_grass_summer_2" }
         ]
       },
       {
@@ -108,9 +99,8 @@
         "fg": [ "t_fence_rope_edge_ns", "t_fence_rope_edge_ew" ],
         "bg": [
           { "weight": 100, "sprite": "t_grass_summer" },
-          { "weight": 100, "sprite": "t_dirt_summer2" },
-          { "weight": 100, "sprite": "t_dirt_summer3" },
-          { "weight": 100, "sprite": "t_dirt_summer4" }
+          { "weight": 100, "sprite": "t_grass_summer_1" },
+          { "weight": 100, "sprite": "t_grass_summer_2" }
         ]
       },
       {
@@ -118,9 +108,8 @@
         "fg": [ "t_fence_rope_end_piece_n", "t_fence_rope_end_piece_w", "t_fence_rope_end_piece_s", "t_fence_rope_end_piece_e" ],
         "bg": [
           { "weight": 100, "sprite": "t_grass_summer" },
-          { "weight": 100, "sprite": "t_dirt_summer2" },
-          { "weight": 100, "sprite": "t_dirt_summer3" },
-          { "weight": 100, "sprite": "t_dirt_summer4" }
+          { "weight": 100, "sprite": "t_grass_summer_1" },
+          { "weight": 100, "sprite": "t_grass_summer_2" }
         ]
       },
       {
@@ -128,9 +117,8 @@
         "fg": [ "t_fence_rope_unconnected", "t_fence_rope_unconnected" ],
         "bg": [
           { "weight": 100, "sprite": "t_grass_summer" },
-          { "weight": 100, "sprite": "t_dirt_summer2" },
-          { "weight": 100, "sprite": "t_dirt_summer3" },
-          { "weight": 100, "sprite": "t_dirt_summer4" }
+          { "weight": 100, "sprite": "t_grass_summer_1" },
+          { "weight": 100, "sprite": "t_grass_summer_2" }
         ]
       }
     ]
@@ -146,9 +134,8 @@
         "fg": "t_fence_rope_unconnected",
         "bg": [
           { "weight": 100, "sprite": "t_grass_autumn" },
-          { "weight": 100, "sprite": "t_dirt_autumn2" },
-          { "weight": 100, "sprite": "t_dirt_autumn3" },
-          { "weight": 100, "sprite": "t_dirt_autumn4" }
+          { "weight": 100, "sprite": "t_grass_autumn_1" },
+          { "weight": 100, "sprite": "t_grass_autumn_2" }
         ]
       },
       {
@@ -156,9 +143,8 @@
         "fg": [ "t_fence_rope_corner_nw", "t_fence_rope_corner_sw", "t_fence_rope_corner_se", "t_fence_rope_corner_ne" ],
         "bg": [
           { "weight": 100, "sprite": "t_grass_autumn" },
-          { "weight": 100, "sprite": "t_dirt_autumn2" },
-          { "weight": 100, "sprite": "t_dirt_autumn3" },
-          { "weight": 100, "sprite": "t_dirt_autumn4" }
+          { "weight": 100, "sprite": "t_grass_autumn_1" },
+          { "weight": 100, "sprite": "t_grass_autumn_2" }
         ]
       },
       {
@@ -166,9 +152,8 @@
         "fg": [ "t_fence_rope_edge_ew", "t_fence_rope_edge_ns", "t_fence_rope_edge_ew", "t_fence_rope_edge_ns" ],
         "bg": [
           { "weight": 100, "sprite": "t_grass_autumn" },
-          { "weight": 100, "sprite": "t_dirt_autumn2" },
-          { "weight": 100, "sprite": "t_dirt_autumn3" },
-          { "weight": 100, "sprite": "t_dirt_autumn4" }
+          { "weight": 100, "sprite": "t_grass_autumn_1" },
+          { "weight": 100, "sprite": "t_grass_autumn_2" }
         ]
       },
       {
@@ -176,9 +161,8 @@
         "fg": [ "t_fence_rope_edge_ns", "t_fence_rope_edge_ew" ],
         "bg": [
           { "weight": 100, "sprite": "t_grass_autumn" },
-          { "weight": 100, "sprite": "t_dirt_autumn2" },
-          { "weight": 100, "sprite": "t_dirt_autumn3" },
-          { "weight": 100, "sprite": "t_dirt_autumn4" }
+          { "weight": 100, "sprite": "t_grass_autumn_1" },
+          { "weight": 100, "sprite": "t_grass_autumn_2" }
         ]
       },
       {
@@ -186,9 +170,8 @@
         "fg": [ "t_fence_rope_end_piece_n", "t_fence_rope_end_piece_w", "t_fence_rope_end_piece_s", "t_fence_rope_end_piece_e" ],
         "bg": [
           { "weight": 100, "sprite": "t_grass_autumn" },
-          { "weight": 100, "sprite": "t_dirt_autumn2" },
-          { "weight": 100, "sprite": "t_dirt_autumn3" },
-          { "weight": 100, "sprite": "t_dirt_autumn4" }
+          { "weight": 100, "sprite": "t_grass_autumn_1" },
+          { "weight": 100, "sprite": "t_grass_autumn_2" }
         ]
       },
       {
@@ -196,9 +179,8 @@
         "fg": [ "t_fence_rope_unconnected", "t_fence_rope_unconnected" ],
         "bg": [
           { "weight": 100, "sprite": "t_grass_autumn" },
-          { "weight": 100, "sprite": "t_dirt_autumn2" },
-          { "weight": 100, "sprite": "t_dirt_autumn3" },
-          { "weight": 100, "sprite": "t_dirt_autumn4" }
+          { "weight": 100, "sprite": "t_grass_autumn_1" },
+          { "weight": 100, "sprite": "t_grass_autumn_2" }
         ]
       }
     ]
@@ -213,60 +195,54 @@
         "id": "center",
         "fg": "t_fence_rope_unconnected",
         "bg": [
-          { "weight": 100, "sprite": "t_dirt_winter" },
-          { "weight": 100, "sprite": "t_dirt_winter2" },
-          { "weight": 100, "sprite": "t_dirt_winter3" },
-          { "weight": 100, "sprite": "t_dirt_winter4" }
+          { "weight": 100, "sprite": "t_grass_winter" },
+          { "weight": 100, "sprite": "t_grass_winter_1" },
+          { "weight": 100, "sprite": "t_grass_winter_2" }
         ]
       },
       {
         "id": "corner",
         "fg": [ "t_fence_rope_corner_nw", "t_fence_rope_corner_sw", "t_fence_rope_corner_se", "t_fence_rope_corner_ne" ],
         "bg": [
-          { "weight": 100, "sprite": "t_dirt_winter" },
-          { "weight": 100, "sprite": "t_dirt_winter2" },
-          { "weight": 100, "sprite": "t_dirt_winter3" },
-          { "weight": 100, "sprite": "t_dirt_winter4" }
+          { "weight": 100, "sprite": "t_grass_winter" },
+          { "weight": 100, "sprite": "t_grass_winter_1" },
+          { "weight": 100, "sprite": "t_grass_winter_2" }
         ]
       },
       {
         "id": "t_connection",
         "fg": [ "t_fence_rope_edge_ew", "t_fence_rope_edge_ns", "t_fence_rope_edge_ew", "t_fence_rope_edge_ns" ],
         "bg": [
-          { "weight": 100, "sprite": "t_dirt_winter" },
-          { "weight": 100, "sprite": "t_dirt_winter2" },
-          { "weight": 100, "sprite": "t_dirt_winter3" },
-          { "weight": 100, "sprite": "t_dirt_winter4" }
+          { "weight": 100, "sprite": "t_grass_winter" },
+          { "weight": 100, "sprite": "t_grass_winter_1" },
+          { "weight": 100, "sprite": "t_grass_winter_2" }
         ]
       },
       {
         "id": "edge",
         "fg": [ "t_fence_rope_edge_ns", "t_fence_rope_edge_ew" ],
         "bg": [
-          { "weight": 100, "sprite": "t_dirt_winter" },
-          { "weight": 100, "sprite": "t_dirt_winter2" },
-          { "weight": 100, "sprite": "t_dirt_winter3" },
-          { "weight": 100, "sprite": "t_dirt_winter4" }
+          { "weight": 100, "sprite": "t_grass_winter" },
+          { "weight": 100, "sprite": "t_grass_winter_1" },
+          { "weight": 100, "sprite": "t_grass_winter_2" }
         ]
       },
       {
         "id": "end_piece",
         "fg": [ "t_fence_rope_end_piece_n", "t_fence_rope_end_piece_w", "t_fence_rope_end_piece_s", "t_fence_rope_end_piece_e" ],
         "bg": [
-          { "weight": 100, "sprite": "t_dirt_winter" },
-          { "weight": 100, "sprite": "t_dirt_winter2" },
-          { "weight": 100, "sprite": "t_dirt_winter3" },
-          { "weight": 100, "sprite": "t_dirt_winter4" }
+          { "weight": 100, "sprite": "t_grass_winter" },
+          { "weight": 100, "sprite": "t_grass_winter_1" },
+          { "weight": 100, "sprite": "t_grass_winter_2" }
         ]
       },
       {
         "id": "unconnected",
         "fg": [ "t_fence_rope_unconnected", "t_fence_rope_unconnected" ],
         "bg": [
-          { "weight": 100, "sprite": "t_dirt_winter" },
-          { "weight": 100, "sprite": "t_dirt_winter2" },
-          { "weight": 100, "sprite": "t_dirt_winter3" },
-          { "weight": 100, "sprite": "t_dirt_winter4" }
+          { "weight": 100, "sprite": "t_grass_winter" },
+          { "weight": 100, "sprite": "t_grass_winter_1" },
+          { "weight": 100, "sprite": "t_grass_winter_2" }
         ]
       }
     ]
