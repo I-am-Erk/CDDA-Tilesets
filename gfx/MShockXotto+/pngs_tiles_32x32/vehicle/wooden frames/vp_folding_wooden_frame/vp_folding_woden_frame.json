@@ -1,0 +1,90 @@
+[
+  {
+    "id": "vp_folding_wooden_frame_vertical_unconnected",
+    "fg": [ "vp_folding_wooden_frame_vertical_unconnected" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_folding_wooden_frame_vertical_unconnected" ] } ]
+  },
+  {
+    "id": "vp_folding_wooden_frame_sw",
+    "fg": [ "vp_folding_wooden_frame_sw" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_folding_wooden_frame_sw" ] } ]
+  },
+  {
+    "id": "vp_folding_wooden_frame_se",
+    "fg": [ "vp_folding_wooden_frame_se" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_folding_wooden_frame_se" ] } ]
+  },
+  {
+    "id": "vp_folding_wooden_frame_nw",
+    "fg": [ "vp_folding_wooden_frame_nw" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_folding_wooden_frame_nw" ] } ]
+  },
+  {
+    "id": "vp_folding_wooden_frame_ne",
+    "fg": [ "vp_folding_wooden_frame_ne" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_folding_wooden_frame_ne" ] } ]
+  },
+  {
+    "id": "vp_folding_wooden_frame_horizontal",
+    "fg": [ "vp_folding_wooden_frame_horizontal" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_folding_wooden_frame_horizontal" ] } ]
+  },
+  {
+    "id": "vp_folding_wooden_frame_horizontal_unconnected",
+    "fg": [ "vp_folding_wooden_frame_horizontal_unconnected" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_folding_wooden_frame_horizontal_unconnected" ] } ]
+  },
+  {
+    "id": "vp_folding_wooden_frame_vertical_T_right",
+    "fg": [ "vp_folding_wooden_frame_vertical_T_right" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_folding_wooden_frame_vertical_T_right" ] } ]
+  },
+  {
+    "id": "vp_folding_wooden_frame_horizontal_rear",
+    "fg": [ "vp_folding_wooden_frame_horizontal_rear" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_folding_wooden_frame_horizontal_rear" ] } ]
+  },
+  {
+    "id": "vp_folding_wooden_frame_vertical_T_left",
+    "fg": [ "vp_folding_wooden_frame_vertical_T_left" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_folding_wooden_frame_vertical_T_left" ] } ]
+  },
+  {
+    "id": "vp_folding_wooden_frame_horizontal_front",
+    "fg": [ "vp_folding_wooden_frame_horizontal_front" ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [ { "id": "broken", "fg": [ "3987_vp_cargo_space_2" ], "bg": [ "vp_folding_wooden_frame_horizontal_front" ] } ]
+  }
+]
