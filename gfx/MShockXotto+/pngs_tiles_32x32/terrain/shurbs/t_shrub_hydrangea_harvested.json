@@ -17,6 +17,6 @@
   {
     "id": "t_shrub_hydrangea_harvested_season_winter",
     "fg": [ "t_shrub_hydrangea_harvested" ],
-    "bg": [ "snow_shallow_center" ]
+    "bg": [ "t_grass_winter" ]
   }
 ]

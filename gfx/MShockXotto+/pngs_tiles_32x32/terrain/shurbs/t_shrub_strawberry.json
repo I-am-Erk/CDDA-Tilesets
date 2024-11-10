@@ -17,6 +17,6 @@
   {
     "id": [ "t_shrub_strawberry_harvested_season_winter", "t_shrub_strawberry_season_winter" ],
     "fg": [ "t_shrub_strawberry_harvested" ],
-    "bg": [ "snow_shallow_center" ]
+    "bg": [ "t_grass_winter" ]
   }
 ]
