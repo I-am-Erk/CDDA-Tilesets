@@ -17,6 +17,6 @@
   {
     "id": "t_shrub_lilac_harvested_season_winter",
     "fg": [ "t_shrub_lilac_harvested" ],
-    "bg": [ "snow_shallow_center" ]
+    "bg": [ "t_grass_winter" ]
   }
 ]

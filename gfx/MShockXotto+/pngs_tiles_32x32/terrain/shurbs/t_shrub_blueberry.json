@@ -37,6 +37,6 @@
       "t_shrub_huckleberry_season_winter"
     ],
     "fg": [ "t_shrub_blueberry_harvested" ],
-    "bg": [ "snow_shallow_center" ]
+    "bg": [ "t_grass_winter" ]
   }
 ]
