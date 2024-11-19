@@ -1,0 +1,7 @@
+{
+  "id": [ "t_fungus_floor_out", "t_fungus_floor_sup", "t_fungus_floor_in" ],
+  "fg": [
+    "t_fungus_floor_in"
+  ],
+  "rotates": false
+}
