@@ -18,7 +18,7 @@
     { "id": "edge", "bg": [ "t_dirt_edge_ns", "t_dirt_edge_ew" ], "fg": [ "t_fungus_edge_ns", "t_fungus_edge_ew" ] },
     {
       "id": "end_piece",
-      "bg": [ "t_fungus_end_piece_n", "t_fungus_end_piece_w", "t_fungus_end_piece_s", "t_fungus_end_piece_e" ],
+      "bg": [ "t_dirt_end_piece_n", "t_dirt_end_piece_w", "t_dirt_end_piece_s", "t_dirt_end_piece_e" ],
       "fg": [ "t_fungus_end_piece_n", "t_fungus_end_piece_w", "t_fungus_end_piece_s", "t_fungus_end_piece_e" ]
     },
     { "id": "unconnected", "bg": [ "t_dirt_unconnected" ], "fg": [ "t_fungus_unconnected" ] }
