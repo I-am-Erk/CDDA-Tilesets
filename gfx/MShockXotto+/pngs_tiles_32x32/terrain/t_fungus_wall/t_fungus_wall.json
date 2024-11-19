@@ -1,7 +1,6 @@
 {
   "id": "t_fungus_wall",
   "fg": "t_fungus_wall_unconnected",
-  "bg": "t_dirt",
   "multitile": true,
   "additional_tiles": [
     {
