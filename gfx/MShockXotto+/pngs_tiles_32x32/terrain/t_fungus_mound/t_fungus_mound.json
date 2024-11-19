@@ -1,27 +1,27 @@
 {
   "id": "t_fungus_mound",
   "fg": "t_fungus_mound",
-  "bg": "t_dirt_unconnected",
+  "bg": "t_fungal_unconnected",
   "multitile": true,
   "additional_tiles": [
-    { "id": "center", "bg": "t_dirt_center" ,"fg": "t_fungus_mound" },
+    { "id": "center", "bg": "t_fungal_center" ,"fg": "t_fungus_mound" },
     {
       "id": "corner",
-      "bg": [ "t_dirt_corner_nw", "t_dirt_corner_sw", "t_dirt_corner_se", "t_dirt_corner_ne" ],
+      "bg": [ "t_fungal_corner_nw", "t_fungal_corner_sw", "t_fungal_corner_se", "t_fungal_corner_ne" ],
       "fg": [ "t_fungus_mound" ]
     },
     {
       "id": "t_connection",
-      "bg": [ "t_dirt_t_connection_n", "t_dirt_t_connection_w", "t_dirt_t_connection_s", "t_dirt_t_connection_e" ],
+      "bg": [ "t_fungal_t_connection_n", "t_fungal_t_connection_w", "t_fungal_t_connection_s", "t_fungal_t_connection_e" ],
       "fg": [ "t_fungus_mound" ]
     },
-    { "id": "edge", "bg": [ "t_dirt_edge_ns", "t_dirt_edge_ew" ], "fg": [ "t_fungus_mound" ]
+    { "id": "edge", "bg": [ "t_fungal_edge_ns", "t_fungal_edge_ew" ], "fg": [ "t_fungus_mound" ]
     },
     {
       "id": "end_piece",
       "bg": [ "t_fungus_end_piece_n", "t_fungus_end_piece_w", "t_fungus_end_piece_s", "t_fungus_end_piece_e" ],
       "fg": [ "t_fungus_mound" ]
     },
-    { "id": "unconnected", "bg": [ "t_dirt_unconnected" ], "fg": [ "t_fungus_mound" ] }
+    { "id": "unconnected", "bg": [ "t_fungal_unconnected" ], "fg": [ "t_fungus_mound" ] }
   ]
 }
