@@ -1,0 +1,7 @@
+[
+  {
+    "id": [ "t_intermodal_crate", "t_intermodal_crate_scripted_source", "t_intermodal_crate_scripted_destination" ],
+    "fg": "t_intermodal_shipping_crate",
+    "bg": "t_metal_floor_center"
+  }
+]
