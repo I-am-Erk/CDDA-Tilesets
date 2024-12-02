@@ -1,0 +1,8 @@
+{
+  "id": "t_broken_prefab",
+  "fg": [
+    { "weight": 100, "sprite": "t_broken_prefab" },
+    { "weight": 100, "sprite": "t_broken_prefab2" }
+  ],
+  "bg": "t_metal_floor_unconnected"
+}
