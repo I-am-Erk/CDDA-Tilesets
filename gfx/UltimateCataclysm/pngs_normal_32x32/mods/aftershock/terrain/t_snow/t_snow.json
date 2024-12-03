@@ -1,0 +1,60 @@
+{
+  "id": "t_snow",
+  "fg": "t_snow_unconnected",
+  "bg": "t_deaddirt_center",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": [
+        { "weight": 100, "sprite": "t_snow_center" },
+        { "weight": 100, "sprite": "t_snow_center2" },
+        { "weight": 100, "sprite": "t_snow_center3" },
+        { "weight": 100, "sprite": "t_snow_center4" }
+      ]
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_snow_corner_nw",
+        "t_snow_corner_sw",
+        "t_snow_corner_se",
+        "t_snow_corner_ne"
+      ],
+      "bg": "t_deaddirt_center"
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_snow_t_connection_n",
+        "t_snow_t_connection_w",
+        "t_snow_t_connection_s",
+        "t_snow_t_connection_e"
+      ],
+      "bg": "t_deaddirt_center"
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_snow_edge_ns",
+        "t_snow_edge_ew"
+      ],
+      "bg": "t_deaddirt_center"
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_snow_end_piece_n",
+        "t_snow_end_piece_w",
+        "t_snow_end_piece_s",
+        "t_snow_end_piece_e"
+      ],
+      "bg": "t_deaddirt_center"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_snow_unconnected",
+      "bg": "t_deaddirt_center"
+    }
+  ]
+}

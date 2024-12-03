@@ -1,0 +1,11 @@
+[
+  {
+    "id": "t_wall_prefab_bglass",
+    "fg": "t_wall_prefab_bglass",
+    "bg": "t_metal_floor_center"
+  },
+  {
+    "id": [ "t_wall_prefab_glass_shutters", "t_wall_prefab_bglass_shutters" ],
+    "fg": "t_wall_prefab_glass_shutters"
+  }
+]
