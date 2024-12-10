@@ -1,0 +1,141 @@
+[
+  {
+    "id": [ "flour", "bread_flour" ],
+    "fg": "flour"
+  },
+  {
+    "id": [ "pizza_cheese", "pizza_veggy", "pizza_meat" ],
+    "fg": "pizza"
+  },
+  {
+    "id": [ "cornmeal", "cereal3", "dry_corn", "corn_kernels", "rehydrated_corn_kernels" ],
+    "fg": "cornmeal"
+  },
+  {
+    "id": [ "dogfood_dry", "dogfood", "catfood_dry", "catfood" ],
+    "fg": "dogfood_dry"
+  },
+  {
+    "id": [ "beans_cooked", "can_beans" ],
+    "fg": "beans_cooked"
+  },
+  {
+    "id": [
+      "egg_fish",
+      "egg_brown_trout",
+      "egg_brook_trout",
+      "egg_lake_trout",
+      "egg_rainbow_trout",
+      "egg_salmon",
+      "egg_kokanee_salmon",
+      "egg_rock_bass",
+      "egg_walleye",
+      "egg_sbass",
+      "egg_lbass",
+      "egg_calico_bass",
+      "egg_muskellunge",
+      "egg_fallfish"
+    ],
+    "fg": "roe"
+  },
+  {
+    "id": [ "egg_pbass", "egg_bullhead", "egg_bullhead_yellow" ],
+    "fg": "roe_2"
+  },
+  {
+    "id": [ "egg_whitefish", "egg_bluegill", "egg_pike", "egg_burbot", "egg_whitefish_round" ],
+    "fg": "roe_6"
+  },
+  {
+    "id": [ "egg_carp", "egg_grass_carp" ],
+    "fg": "roe_3"
+  },
+  {
+    "id": [ "egg_bowfin", "egg_sturgeon_lake", "egg_sturgeon_shortnose" ],
+    "fg": "roe_4"
+  },
+  {
+    "id": [ "egg_pumpkinseed", "egg_redbreast", "egg_green_sunfish", "egg_sunfish" ],
+    "fg": "roe_5"
+  },
+  {
+    "id": [ "egg_pickerel", "egg_pickerel_american" ],
+    "fg": "roe_9"
+  },
+  {
+    "id": "egg_gar_longnose",
+    "fg": "roe_8"
+  },
+  {
+    "id": [ "egg_white_sucker", "egg_goldfish" ],
+    "fg": "roe_7"
+  },
+  {
+    "id": [
+      "seed_hops",
+      "seed_blackberries",
+      "seed_blueberries",
+      "seed_wheat",
+      "roasted_coffee_bean",
+      "seed_chamomile",
+      "coffee_bean",
+      "seed_celery",
+      "fried_seeds",
+      "seed_buckwheat",
+      "seed_oats",
+      "seed_mushroom_morel",
+      "datura_seed",
+      "seed_mushroom",
+      "seed_rhubarb",
+      "seed_wild_herbs",
+      "seed_raw_dandelion",
+      "seed_veggy_wild",
+      "seed_chili_pepper",
+      "seed_dogbane",
+      "seed_mugwort",
+      "seed_bee_balm",
+      "seed_flower",
+      "seed_sunflower",
+      "seed_thyme",
+      "seed_canola",
+      "seed_pumpkin",
+      "seed_beans",
+      "seed_lentils",
+      "soybean_seed",
+      "marloss_seed",
+      "fungal_seeds",
+      "seed_weed",
+      "seed_potato_raw",
+      "seed_cucumber",
+      "seed_corn",
+      "seed_carrot",
+      "garlic_clove",
+      "seed_cactus",
+      "seed_wildcarrot",
+      "seed_cattail",
+      "seed_chicory",
+      "seed_salsify_raw",
+      "seed_dahlia",
+      "seed_garlic",
+      "seed_broccoli",
+      "seed_onion",
+      "seed_zucchini",
+      "seed_cotton_boll",
+      "seed_tomato",
+      "seed_rose",
+      "seed_lettuce",
+      "seed_cabbage",
+      "seed_sugar_beet",
+      "seed_tobacco",
+      "seed_barley",
+      "seed_grapes",
+      "seed_strawberries",
+      "seed_raspberries",
+      "seed_cranberries",
+      "seed_huckleberries",
+      "seed_mulberries",
+      "seed_elderberries"
+    ],
+    "fg": "seeds"
+  }
+]
