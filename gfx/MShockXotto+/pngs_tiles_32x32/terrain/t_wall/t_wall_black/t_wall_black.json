@@ -1,5 +1,5 @@
 {
-  "id": "t_wall_black",
+  "id": [ "t_wall_black", "t_vitrified_wall" ],
   "fg": "t_wall_black_unconnected",
   "multitile": true,
   "additional_tiles": [
