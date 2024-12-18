@@ -1,0 +1,28 @@
+[
+  {
+    "id": "f_vitrified_sofa",
+    "fg": [ "f_vitrified_sofa_0" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "unconnected", "fg": [ "f_vitrified_sofa_0" ], "bg": [  ] },
+      { "id": "corner", "fg": [ "f_vitrified_sofa_1" ], "bg": [  ] },
+      { "id": "edge", "fg": [ "f_vitrified_sofa_2" ], "bg": [  ] },
+      { "id": "end_piece", "fg": [ "f_vitrified_sofa_3" ], "bg": [  ] }
+    ],
+    "bg": [  ]
+  },
+  {
+    "id": "f_vitrified_doll",
+    "fg": [ "f_vitrified_doll_0" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "unconnected", "fg": [ "f_vitrified_doll_0" ], "bg": [  ] },
+      { "id": "corner", "fg": [ "f_vitrified_doll_1" ], "bg": [  ] },
+      { "id": "edge", "fg": [ "f_vitrified_doll_2" ], "bg": [  ] },
+      { "id": "end_piece", "fg": [ "f_vitrified_doll_3" ], "bg": [  ] }
+    ],
+    "bg": [  ]
+  }
+]

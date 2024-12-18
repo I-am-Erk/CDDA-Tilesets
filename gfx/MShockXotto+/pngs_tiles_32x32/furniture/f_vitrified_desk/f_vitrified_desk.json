@@ -1,0 +1,52 @@
+{
+  "id": "f_vitrified_desk",
+  "fg": "f_vitrified_desk_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_vitrified_desk_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_vitrified_desk_corner_nw",
+        "f_vitrified_desk_corner_sw",
+        "f_vitrified_desk_corner_se",
+        "f_vitrified_desk_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_vitrified_desk_t_connection_n",
+        "f_vitrified_desk_t_connection_s",
+        "f_vitrified_desk_t_connection_w",
+        "f_vitrified_desk_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_vitrified_desk_edge_ns",
+        "f_vitrified_desk_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_vitrified_desk_end_piece_n",
+        "f_vitrified_desk_end_piece_w",
+        "f_vitrified_desk_end_piece_s",
+        "f_vitrified_desk_end_piece_e"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_vitrified_desk_unconnected",
+        "f_vitrified_desk_unconnected"
+      ]
+    }
+  ]
+}
