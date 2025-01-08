@@ -176,6 +176,17 @@
 <p>// TODO: Add some info about slice_multitile.py</p>
 <h3><a class="header" href="#slice_variantspy" id="slice_variantspy">slice_variants.py</a></h3>
 <p>// TODO: Add some info about slice_variants.py</p>
+<h3><a class="header" href="#ultica_build_flagspy" id="ultica_build_flagspy">ultica_build_flags.py</a></h3>
+<p>This script uses GIMP to take in flag-like textures in <code>scratch\UltimateCataclysm\items\flags</code> and create contextual versions of those same flags, specifically:</p>
+<ul>
+<li>&quot;postup&quot;, a drooped version for hanging flags on walls</li>
+<li>&quot;hoisted&quot;, a waving version for hanging flags on flagpoles</li>
+<li>&quot;&quot;, a crumpled version for a dropped flag variant item</li>
+</ul>
+<p>To run, install GIMP, put flag textures in the above directory (along with an <code>output</code> folder), and run ultica_build_flags.cmd
+Flag textures should be offset by 2x5 and have a size of 28x18 to appear correctly
+Outputted flags must be moved manually to the appropriate <code>gfx</code> directory
+If script runtime is too slow, move unneeded flags from <code>scratch</code> folder</p>
 <h3><a class="header" href="#unslice_multitilepy" id="unslice_multitilepy">unslice_multitile.py</a></h3>
 <p>// TODO: Add some info about unslice_multitile.py</p>
 
