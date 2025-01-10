@@ -1,0 +1,18 @@
+[
+  {
+    "id": "f_vitrified_bathtub",
+    "fg": [ "f_vitrified_bathtub_0" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "unconnected", "fg": [ "f_vitrified_bathtub_0" ], "bg": [  ] },
+      { "id": "corner", "fg": [ "f_vitrified_bathtub_1" ], "bg": [  ] },
+      { "id": "edge", "fg": [ "f_vitrified_bathtub_2" ], "bg": [  ] },
+      { "id": "end_piece", "fg": [ "f_vitrified_bathtub_3" ], "bg": [  ] },
+      { "id": "center", "fg": [ "f_vitrified_bathtub_4" ], "bg": [  ] },
+      { "id": "t_connection", "fg": [ "f_vitrified_bathtub_5" ], "bg": [  ] }
+    ],
+    "bg": [  ]
+  }
+]
+

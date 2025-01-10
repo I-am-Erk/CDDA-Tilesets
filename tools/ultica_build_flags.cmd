@@ -1,0 +1,1 @@
+gimp-2.10 -idf --batch-interpreter python-fu-eval -b "import sys;sys.path=['.']+sys.path;import ultica_build_flags;ultica_build_flags.run('../scratch/UltimateCataclysm/items/flags')" -b "pdb.gimp_quit(1)"
