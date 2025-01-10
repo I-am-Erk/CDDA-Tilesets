@@ -1,0 +1,10 @@
+{
+  "id": "mon_feral_elf_pipe",
+  "fg": [
+    { "weight": 1, "sprite": "mon_feral_elf_pipe_0" },
+    { "weight": 1, "sprite": "mon_feral_elf_pipe_1" },
+    { "weight": 1, "sprite": "mon_feral_elf_pipe_2" }
+  ],
+  "bg": [],
+  "rotates": false
+}
