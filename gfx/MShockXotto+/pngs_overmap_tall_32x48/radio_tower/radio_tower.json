@@ -1,0 +1,10 @@
+[ 
+ {
+    "id": [ "radio_tower", "radio_tower_1" ],
+    "fg": "radio_tower"
+ },
+  {
+    "id": [ "wasp_tower", "wasp_tower_1" ],
+    "fg": "wasp_tower"
+ }
+  ]
