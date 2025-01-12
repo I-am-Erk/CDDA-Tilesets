@@ -1,13 +1,6 @@
-{
-  "id": [
-    "cabin",
-    "cabin_1",
-    "cabin_2",
-    "cabin_3",
-    "cabin_4",
-    "cabin_5",
-    "cabin_6",
-	"cabin_7"
-  ],
-  "fg": "cabin"
-}
+[ 
+ {
+    "id": [ "cabin", "bandit_cabin", "cabin_1", "cabin_2", "cabin_3", "cabin_4", "cabin_5", "cabin_6", "cabin_7", "cabin_liam", "cabin_prepper", "cabin_strange", "lake_cabin_water" ],
+    "fg": "cabin"
+ }
+]
