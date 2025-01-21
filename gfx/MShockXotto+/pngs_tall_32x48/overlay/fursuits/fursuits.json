@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "overlay_worn_fursuit_var_dragonsuit" ],
+    "fg": [ "overlay_worn_dragonsuit" ]
+  },
+  {
+    "id": [ "overlay_worn_fursuit_var_felinesuit" ],
+    "fg": [ "overlay_worn_felinesuit" ]
+  },
+  {
+    "id": [ "overlay_worn_fursuit_var_sharksuit" ],
+    "fg": [ "overlay_worn_sharksuit" ]
+  }
+]
