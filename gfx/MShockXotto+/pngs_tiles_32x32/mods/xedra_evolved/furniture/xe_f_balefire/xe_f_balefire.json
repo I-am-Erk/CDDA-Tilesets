@@ -2,12 +2,12 @@
   "id": "xe_f_balefire",
   "animated": true,
     "fg": [
-      { "weight": 8, "sprite": "xe_f_balefire1_0" },
-      { "weight": 8, "sprite": "xe_f_balefire1_1" },
-      { "weight": 8, "sprite": "xe_f_balefire1_2" },
-      { "weight": 8, "sprite": "xe_f_balefire1_3" },
-      { "weight": 8, "sprite": "xe_f_balefire1_4" },
-      { "weight": 8, "sprite": "xe_f_balefire1_5" },
-      { "weight": 8, "sprite": "xe_f_balefire1_6" }
+      { "weight": 8, "sprite": "xe_f_balefire_0" },
+      { "weight": 8, "sprite": "xe_f_balefire_1" },
+      { "weight": 8, "sprite": "xe_f_balefire_2" },
+      { "weight": 8, "sprite": "xe_f_balefire_3" },
+      { "weight": 8, "sprite": "xe_f_balefire_4" },
+      { "weight": 8, "sprite": "xe_f_balefire_5" },
+      { "weight": 8, "sprite": "xe_f_balefire_6" }
     ]
 }
