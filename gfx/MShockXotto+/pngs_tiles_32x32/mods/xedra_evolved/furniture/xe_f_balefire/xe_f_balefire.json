@@ -1,0 +1,13 @@
+{
+  "id": "xe_f_balefire",
+  "animated": true,
+    "fg": [
+      { "weight": 8, "sprite": "xe_f_balefire1_0" },
+      { "weight": 8, "sprite": "xe_f_balefire1_1" },
+      { "weight": 8, "sprite": "xe_f_balefire1_2" },
+      { "weight": 8, "sprite": "xe_f_balefire1_3" },
+      { "weight": 8, "sprite": "xe_f_balefire1_4" },
+      { "weight": 8, "sprite": "xe_f_balefire1_5" },
+      { "weight": 8, "sprite": "xe_f_balefire1_6" }
+    ]
+}
