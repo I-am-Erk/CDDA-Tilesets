@@ -296,17 +296,17 @@
   {
     "id": [ "large_outcropping$vague" ],
     "fg": "unknown_terrain_vague",
-    "bg": "Ccave"
+    "bg": "cave"
   },
   {
     "id": [ "large_outcropping$outlines" ],
     "fg": "unknown_terrain_outlines",
-    "bg": "Ccave"
+    "bg": "cave"
   },
   {
     "id": [ "large_outcropping$details" ],
     "fg": "unknown_terrain_details",
-    "bg": "Ccave"
+    "bg": "cave"
   },
   {
     "id": [ "natural_outcropping$vague" ],
