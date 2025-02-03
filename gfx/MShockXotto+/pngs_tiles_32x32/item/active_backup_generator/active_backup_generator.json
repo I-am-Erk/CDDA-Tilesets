@@ -1,0 +1,4 @@
+  {
+    "id": [ "diesel_generator", "active_backup_generator" ],
+    "fg": "active_backup_generator"
+  }
