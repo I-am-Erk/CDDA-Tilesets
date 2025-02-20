@@ -50,5 +50,20 @@
     "id": "mon_feral_swimmer_kickboard",
     "fg": "mon_feral_swimmer_kickboard",
     "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_civilian_police",
+    "fg": "mon_civilian_police",
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_civilian_police_rifle",
+    "fg": "mon_civilian_police_rifle",
+    "bg": "shadow_32x48_normal"
+  },
+  {
+    "id": "mon_civilian_zombiegunner",
+    "fg": "mon_civilian_zombiegunner",
+    "bg": "shadow_32x48_normal"
   }
 ]
