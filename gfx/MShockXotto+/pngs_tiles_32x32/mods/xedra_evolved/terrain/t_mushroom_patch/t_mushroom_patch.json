@@ -1,0 +1,6 @@
+  {
+    "id": "t_mushroom_patch",
+    "fg": [ "t_mushroom_patch" ],
+    "rotates": false,
+    "bg": "t_grass"
+  }
