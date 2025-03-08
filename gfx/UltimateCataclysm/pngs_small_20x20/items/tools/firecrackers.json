@@ -1,0 +1,18 @@
+[
+  {
+    "id": "firecracker_pack_act",
+    "animated": true,
+    "fg": [
+      { "weight": 8, "sprite": "firecracker_pack_act0" },
+      { "weight": 8, "sprite": "firecracker_pack_act1" }
+    ]
+  },
+  {
+    "id": "firecracker_act",
+    "animated": true,
+    "fg": [
+      { "weight": 8, "sprite": "firecracker_act0" },
+      { "weight": 8, "sprite": "firecracker_act1" }
+    ]
+  }
+]
