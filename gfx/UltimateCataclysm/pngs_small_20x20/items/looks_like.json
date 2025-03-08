@@ -1,7 +1,82 @@
 [
-{
-  "id": ["plastic_plate", "soap_holder"],
-  "fg": "ceramic_plate",
-  "bg": ""
-}
+  {
+    "id": [ "plastic_plate", "soap_holder" ],
+    "fg": "ceramic_plate"
+  },
+  {
+    "id": [
+      "357sig_ammo_box_50",
+      "45colt_ammo_box_50",
+      "45colt_ammo_box_20",
+      "38super_ammo_box_50",
+      "30carbine_ammo_box_50",
+      "22lr_ammo_box_100",
+      "10mm_ammo_box_50",
+      "10mm_ammo_box_20",
+      "9mm_ammo_box_100",
+      "9mm_ammo_box_50",
+      "9mm_ammo_box_20",
+      "4570_ammo_box_20",
+      "3006_ammo_box_20",
+      "762_ammo_box_50",
+      "762_ammo_box_20",
+      "460_ammo_box_20",
+      "454_ammo_box_20",
+      "450_ammo_box_20",
+      "410_ammo_box_25",
+      "410_ammo_box_5",
+      "380_ammo_box_20",
+      "357_ammo_box_50",
+      "357_ammo_box_20",
+      "338_ammo_box_20",
+      "308_ammo_box_20",
+      "303_ammo_box_20",
+      "300_ammo_box_20",
+      "223_ammo_box_50",
+      "223_ammo_box_20",
+      "57_ammo_box_50",
+      "45_ammo_box_50",
+      "45_ammo_box_20",
+      "44_ammo_box_20",
+      "40_ammo_box_50",
+      "40_ammo_box_20",
+      "38_ammo_box_50",
+      "38_ammo_box_20",
+      "32_ammo_box_50",
+      "12_ammo_box_10",
+      "12_ammo_box_5",
+      "ammo_box_army_3_clips"
+    ],
+    "fg": "small_ammo_box"
+  },
+  {
+    "id": [
+      "22lr_ammo_box_500",
+      "9mm_ammo_box_250",
+      "3006_ammo_box_100",
+      "380_ammo_box_500",
+      "357_ammo_box_200",
+      "308_ammo_box_100",
+      "223_ammo_box_200",
+      "45_ammo_box_200",
+      "44_ammo_box_200",
+      "44_ammo_box_100",
+      "38_ammo_box_200",
+      "12_ammo_box_25"
+    ],
+    "fg": "medium_ammo_box"
+  },
+  {
+    "id": [
+      "22lr_ammo_box_1000",
+      "10mm_ammo_box_500",
+      "3006_ammo_box_200",
+      "762_ammo_box_500",
+      "45_ammo_box_500",
+      "40_ammo_box_500",
+      "38_ammo_box_500",
+      "12_ammo_box_100"
+    ],
+    "fg": "large_ammo_box"
+  }
 ]
