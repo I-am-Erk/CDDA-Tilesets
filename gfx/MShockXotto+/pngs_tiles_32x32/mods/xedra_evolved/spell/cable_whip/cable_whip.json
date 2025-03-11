@@ -1,15 +1,13 @@
 {
   "id": "explosion_cable_whip",
   "fg": [
-    "cable_whip_0"
+    "cable_whip_1"
   ],
   "rotates": true,
   "multitile": true,
   "additional_tiles": [
-    { "id": "unconnected", "fg": [ "cable_whip_0" ], "bg": [  ] },
     { "id": "corner", "fg": [ "cable_whip_1" ], "bg": [  ] },
-    { "id": "edge", "fg": [ "cable_whip_2" ], "bg": [  ] },
-    { "id": "end_piece", "fg": [ "cable_whip_3" ], "bg": [  ] }
+    { "id": "edge", "fg": [ "cable_whip_2" ], "bg": [  ] }
   ],
   "bg": [
     
