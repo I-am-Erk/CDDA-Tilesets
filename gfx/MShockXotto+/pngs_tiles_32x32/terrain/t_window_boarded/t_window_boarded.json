@@ -2,13 +2,13 @@
   {
     "id": "t_window_boarded",
     "fg": [ "t_window_boarded" ],
-    "bg": [ "987_t_door_frame_1" ],
+    "bg": [ "t_floor" ],
     "rotates": false
   },
   {
     "id": "t_window_boarded_noglass",
     "fg": [ "t_window_boarded_noglass" ],
-    "bg": [ "987_t_door_frame_1" ],
+    "bg": [ "t_floor" ],
     "rotates": false
   }
 ]
