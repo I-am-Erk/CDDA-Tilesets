@@ -1,1 +1,1 @@
-{"id": ["t_door_glass_o", "t_door_glass_frosted_o"], "fg": ["3037_t_door_glass_o_0"], "bg": ["987_t_door_frame_1"], "rotates": false}
+{"id": ["t_door_glass_o", "t_door_glass_frosted_o"], "fg": ["3037_t_door_glass_o_0"], "bg": ["t_floor"], "rotates": false}
