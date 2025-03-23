@@ -1,0 +1,22 @@
+[
+  {
+    "id": "t_apiary_empty",
+    "fg": "t_apiary_empty",
+    "bg": "t_grass_plus"
+  },
+  {
+    "id": "t_apiary_empty_season_summer",
+    "fg": "t_apiary_empty",
+    "bg": "t_grass_summer_plus"
+  },
+  {
+    "id": "t_apiary_empty_season_autumn",
+    "fg": "t_apiary_empty",
+    "bg": "t_grass_autumn_plus"
+  },
+  {
+    "id": "t_apiary_empty_season_winter",
+    "fg": "t_apiary_empty",
+    "bg": "snow_shallow_plus"
+  }
+]
