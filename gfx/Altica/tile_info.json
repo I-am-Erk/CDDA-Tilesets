@@ -8,16 +8,16 @@
     "character.png": { "sprite_width": 32, "sprite_height": 36, "sprite_offset_y": -8 }
   },
   {
-    "tall.png": { "sprite_width": 32, "sprite_height": 42, "sprite_offset_y": -14 }
+    "character_tall.png": { "sprite_width": 32, "sprite_height": 42, "sprite_offset_y": -14 }
   },
   {
     "small.png": { "sprite_width": 20, "sprite_height": 20, "sprite_offset_x": 6, "filler": true }
   },
   {
-    "normal.png": { "filler": true }
+    "normal.png": { "filler": true, "exclude": [ "overlay/mutations", "overlay/worn" ] }
   },
   {
-    "ultica-tall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true }
+    "tall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true }
   },
   {
     "human_body.png": {
@@ -25,7 +25,16 @@
       "sprite_height": 36,
       "sprite_offset_y": -8,
       "filler": true,
-      "exclude": [ "overlay/bionics", "overlay/facial_hair", "overlay/hair", "overlay/mutations", "overlay/skin", "overlay/worn" ]
+      "exclude": [
+        "mods/Xedra_Evolved/Overlay/Worn",
+        "mods/Xedra_Evolved/Overlay/Mutations",
+        "overlay/bionics",
+        "overlay/facial_hair",
+        "overlay/hair",
+        "overlay/mutations",
+        "overlay/skin",
+        "overlay/worn"
+      ]
     }
   },
   {
@@ -53,10 +62,36 @@
     "giant.png": { "sprite_width": 96, "sprite_height": 96, "sprite_offset_x": -32, "sprite_offset_y": -64, "filler": true }
   },
   {
+    "incomplete_small.png": { "sprite_width": 20, "sprite_height": 20, "sprite_offset_x": 6, "filler": true }
+  },
+  {
     "incomplete.png": { "filler": true }
   },
   {
-    "incomplete_large.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -32, "filler": true }
+    "incomplete_tall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true }
+  },
+  {
+    "incomplete_body_plus.png": { "sprite_width": 32, "sprite_height": 48, "sprite_offset_y": -16, "filler": true }
+  },
+  {
+    "incomplete_large.png": {
+      "sprite_width": 64,
+      "sprite_height": 64,
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -32,
+      "filler": true,
+      "sprites_across": 8
+    }
+  },
+  {
+    "incomplete_giant.png": {
+      "sprite_width": 96,
+      "sprite_height": 96,
+      "sprite_offset_x": -32,
+      "sprite_offset_y": -64,
+      "filler": true,
+      "sprites_across": 4
+    }
   },
   {
     "fillerhoder.png": {
@@ -68,10 +103,17 @@
     "filler.png": { "sprite_width": 32, "sprite_height": 32, "filler": true }
   },
   {
-    "filler_tall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true }
+    "filler_tall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true, "sprites_across": 2 }
   },
   {
-    "fillergiant.png": { "sprite_width": 96, "sprite_height": 96, "sprite_offset_x": -32, "sprite_offset_y": -64, "filler": true }
+    "fillergiant.png": {
+      "sprite_width": 96,
+      "sprite_height": 96,
+      "sprite_offset_x": -32,
+      "sprite_offset_y": -64,
+      "filler": true,
+      "sprites_across": 4
+    }
   },
   {
     "fallback.png": {

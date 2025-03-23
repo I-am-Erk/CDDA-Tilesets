@@ -10,7 +10,7 @@
       },
       {
         "id": "broken",
-        "fg": [ "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall" ],
+        "fg": [ "crack_metal_center_large", "crack_metal_center_large", "crack_metal_center_large", "crack_metal_center_large" ],
         "bg": [ "vp_door_trunk_horizontal_2_open", "vp_door_trunk_horizontal_2_open_rotW", "vp_door_trunk_horizontal_2_open_rotS", "vp_door_trunk_horizontal_2_open_rotE" ]
       }
     ]

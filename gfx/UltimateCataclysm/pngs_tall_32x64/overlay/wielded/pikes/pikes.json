@@ -1,17 +1,14 @@
 [
   {
     "id": "overlay_wielded_pike_copper",
-    "fg": "copper_pike_mf",
-    "bg": ""
+    "fg": "copper_pike_mf"
   },
   {
-    "id": "overlay_wielded_pike",
-    "fg": "pike_mf",
-    "bg": ""
+    "id": [ "overlay_wielded_pike", "overlay_wielded_pike_fake", "overlay_wielded_pike_inferior" ], 
+    "fg": "pike_mf"
   },
   {
     "id": "overlay_wielded_pike_wood",
-    "fg": "wooden_pike_mf",
-    "bg": ""
+    "fg": "wooden_pike_mf"
   }
 ]
