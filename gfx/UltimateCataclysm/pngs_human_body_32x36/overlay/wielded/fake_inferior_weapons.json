@@ -76,10 +76,6 @@
     "fg": "nodachi_mf"
   },
   {
-    "id": [ "overlay_wielded_pike_fake", "overlay_wielded_pike_inferior" ],
-    "fg": "pike_mf"
-  },
-  {
     "id": "overlay_wielded_rapier_fake",
     "fg": "rapier_mf"
   },
