@@ -1,0 +1,8 @@
+{
+  "id": "mon_feral_security_psychic",
+  "fg": [
+    { "weight": 1, "sprite": "mon_feral_security_psychic" },
+  ],
+  "bg": ["shadow_32x32_normal"],
+  "rotates": false
+}
