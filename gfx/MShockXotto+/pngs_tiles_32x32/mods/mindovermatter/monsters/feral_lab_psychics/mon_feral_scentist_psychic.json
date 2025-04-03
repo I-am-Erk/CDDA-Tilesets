@@ -1,9 +1,7 @@
 [
   {
     "id": [ "mon_feral_scientist_psychic" ],
-    "fg": [
-      { "weight": 1, "sprite": "mon_feral_scientist_psychic" }
-    ],
+    "fg": "mon_feral_scientist_psychic",
     "bg": [ "shadow_32x32_normal" ],
     "rotates": false
   }
