@@ -158,5 +158,15 @@
     "id": [ "record_patient", "tailor_portfolio", "isherwood_herbal_remedies", "decoy_elfa", "recipe_elfa" ],
     "fg": [ "generic_binder" ],
     "bg": [  ]
+  },
+  {
+    "id": [
+      "textbook_anarch_var_textbook_anarch",
+      "textbook_anarch_var_textbook_anarch_1",
+      "textbook_anarch_var_textbook_anarch_2",
+      "textbook_anarch_var_textbook_anarch_3"
+    ],
+    "fg": [ "textbook_anarch" ],
+    "bg": [ ]
   }
 ]
