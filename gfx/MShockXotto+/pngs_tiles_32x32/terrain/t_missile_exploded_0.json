@@ -1,1 +1,0 @@
-{"id": "t_missile_exploded", "bg": ["t_pavement"], "multitile": true, "additional_tiles": [{"id": "corner", "fg": ["3125_t_missile_exploded_1"], "bg": ["t_pavement"]}, {"id": "center", "fg": ["3124_t_missile_exploded_2"], "bg": ["993_t_missile_exploded_3"]}, {"id": "t_connection", "fg": ["3126_t_missile_exploded_4"], "bg": []}], "fg": []}
