@@ -7,7 +7,7 @@
     {
       "id": "center",
       "fg": "t_fence_metal_unconnected",
-      "bg": "987_t_door_frame_1"
+      "bg": "t_floor"
     },
     {
       "id": "corner",
@@ -17,7 +17,7 @@
         "t_fence_metal_corner_se",
         "t_fence_metal_corner_ne"
       ],
-      "bg": "987_t_door_frame_1"
+      "bg": "t_floor"
     },
     {
       "id": "t_connection",
@@ -27,7 +27,7 @@
         "t_fence_metal_unconnected",
         "t_fence_metal_t_connection_e"
       ],
-      "bg": "987_t_door_frame_1"
+      "bg": "t_floor"
     },
     {
       "id": "edge",
@@ -35,7 +35,7 @@
         "t_fence_metal_edge_ns",
         "t_fence_metal_unconnected"
       ],
-      "bg": "987_t_door_frame_1"
+      "bg": "t_floor"
     },
     {
       "id": "end_piece",
@@ -45,7 +45,7 @@
         "t_fence_metal_end_piece_s",
         "t_fence_metal_unconnected"
       ],
-      "bg": "987_t_door_frame_1"
+      "bg": "t_floor"
     },
     {
       "id": "unconnected",
@@ -53,7 +53,7 @@
         "t_fence_metal_unconnected",
         "t_fence_metal_unconnected"
       ],
-      "bg": "987_t_door_frame_1"
+      "bg": "t_floor"
     }
   ]
 }
