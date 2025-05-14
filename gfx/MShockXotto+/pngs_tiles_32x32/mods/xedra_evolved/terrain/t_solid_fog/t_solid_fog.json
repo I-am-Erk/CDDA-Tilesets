@@ -1,0 +1,53 @@
+[
+ {
+  "id": "t_solid_fog",
+  "fg": "t_solid_fog_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_solid_fog_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "t_solid_fog_corner_nw",
+        "t_solid_fog_corner_sw",
+        "t_solid_fog_corner_se",
+        "t_solid_fog_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "t_solid_fog_t_connection_n",
+        "t_solid_fog_t_connection_w",
+        "t_solid_fog_t_connection_s",
+        "t_solid_fog_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "t_solid_fog_edge_ns",
+        "t_solid_fog_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "t_solid_fog_end_piece_n",
+        "t_solid_fog_end_piece_w",
+        "t_solid_fog_end_piece_s",
+        "t_solid_fog_end_piece_e"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "t_solid_fog_unconnected"
+      ]
+    }
+  ]
+} 
+]
