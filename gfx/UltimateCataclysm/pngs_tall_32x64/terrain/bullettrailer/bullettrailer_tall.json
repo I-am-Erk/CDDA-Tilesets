@@ -33,5 +33,35 @@
     "id": "t_bullettrailer_swall_door_o",
     "fg": "t_bullettrailer_swall_door_o",
     "bg": "t_grass_tall"
+  },
+  {
+    "id": "t_bullettrailer_nwall_westcorner",
+    "fg": "t_bullettrailer_nwall_westcorner",
+    "bg": "t_grass_tall"
+  },
+  {
+    "id": "t_bullettrailer_nwall_eastcorner",
+    "fg": "t_bullettrailer_nwall_eastcorner",
+    "bg": "t_grass_tall"
+  },
+  {
+    "id": "t_bullettrailer_inner_door",
+    "fg": "t_bullettrailer_inner_door",
+    "bg": [
+      { "weight": 1, "sprite": "t_bullettrailer_brownfloor_tall1" },
+      { "weight": 1, "sprite": "t_bullettrailer_brownfloor_tall2" },
+      { "weight": 1, "sprite": "t_bullettrailer_brownfloor_tall3" },
+      { "weight": 1, "sprite": "t_bullettrailer_brownfloor_tall4" }
+    ]
+  },
+  {
+    "id": "t_bullettrailer_inner_door_o",
+    "fg": "t_bullettrailer_inner_door_o",
+    "bg": [
+      { "weight": 1, "sprite": "t_bullettrailer_brownfloor_tall1" },
+      { "weight": 1, "sprite": "t_bullettrailer_brownfloor_tall2" },
+      { "weight": 1, "sprite": "t_bullettrailer_brownfloor_tall3" },
+      { "weight": 1, "sprite": "t_bullettrailer_brownfloor_tall4" }
+    ]
   }
 ]
