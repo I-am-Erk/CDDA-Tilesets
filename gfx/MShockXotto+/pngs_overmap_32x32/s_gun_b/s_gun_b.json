@@ -10,17 +10,5 @@
     "fg": [ "s_gun_b_range_north", "s_gun_b_range_east", "s_gun_b_range_south", "s_gun_b_range_west" ],
     "rotates": true,
     "bg": [  ]
-  },
-  {
-    "id": "s_gun_b_store_roof",
-    "fg": [ "s_gun_b_store_roof_north", "s_gun_b_store_roof_east", "s_gun_b_store_roof_south", "s_gun_b_store_roof_west" ],
-    "rotates": true,
-    "bg": [  ]
-  },
-  {
-    "id": "s_gun_b_range_roof",
-    "fg": [ "s_gun_b_range_roof_north", "s_gun_b_range_roof_east", "s_gun_b_range_roof_south", "s_gun_b_range_roof_west" ],
-    "rotates": true,
-    "bg": [  ]
   }
 ]
