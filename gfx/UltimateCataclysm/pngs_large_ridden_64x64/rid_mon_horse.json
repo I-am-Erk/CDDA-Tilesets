@@ -1,9 +1,6 @@
 [
   {
-    "id": "rid_mon_horse",
-    "fg": [
-    { "weight": 1, "sprite": "rid_mon_horse1" },
-    { "weight": 1, "sprite": "rid_mon_horse2" }
-  ]
+    "id": [ "rid_mon_horse", "rid_mon_horse_police" ],
+    "fg": [ { "weight": 1, "sprite": "rid_mon_horse1" }, { "weight": 1, "sprite": "rid_mon_horse2" } ]
   }
 ]
