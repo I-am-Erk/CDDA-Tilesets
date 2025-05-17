@@ -1,0 +1,26 @@
+[
+  {
+    "id": "s_gun_b_store",
+    "fg": [ "s_gun_b_store_north", "s_gun_b_store_west", "s_gun_b_store_south", "s_gun_b_store_east" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "s_gun_b_roof",
+    "fg": [ "s_gun_b_store_roof_north", "s_gun_b_store_roof_west", "s_gun_b_store_roof_south", "s_gun_b_store_roof_east" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "s_gun_b_range",
+    "fg": [ "s_gun_b_range_north", "s_gun_b_range_west", "s_gun_b_range_south", "s_gun_b_range_east" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "s_gun_b_range_roof",
+    "fg": [ "s_gun_b_range_roof_north", "s_gun_b_range_roof_west", "s_gun_b_range_roof_south", "s_gun_b_range_roof_east" ],
+    "rotates": true,
+    "bg": [  ]
+  }
+]
