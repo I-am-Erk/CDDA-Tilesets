@@ -1,9 +1,0 @@
-{
-  "id": "mon_zombie_prisoner",
-  "fg": [
-    { "weight": 1, "sprite": "mon_zombie_prisoner_0" },
-    { "weight": 1, "sprite": "mon_zombie_prisoner_1" }
-  ],
-  "bg": [ ],
-  "rotates": false
-}
