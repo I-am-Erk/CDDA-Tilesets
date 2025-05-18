@@ -20,31 +20,6 @@
   "bg": ""
 },
 {
-  "id": "broken_c4_hack",
-  "fg": "broken_c4_hack",
-  "bg": ""
-},
-{
-  "id": "broken_EMP_hack",
-  "fg": "broken_EMP_hack",
-  "bg": ""
-},
-{
-  "id": "broken_flashbang_hack",
-  "fg": "broken_flashbang_hack",
-  "bg": ""
-},
-{
-  "id": "broken_gasbomb_hack",
-  "fg": "broken_gasbomb_hack",
-  "bg": ""
-},
-{
-  "id": "broken_manhack",
-  "fg": "broken_manhack",
-  "bg": ""
-},
-{
   "id": "mon_manhack",
   "fg": "mon_manhack",
   "bg": "shadow_32x32_small"
