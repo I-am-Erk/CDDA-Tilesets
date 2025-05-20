@@ -1,1 +1,10 @@
-{"id": "overlay_female_worn_sheriffshirt", "fg": ["503_overlay_female_worn_sheriffshirt_0"], "rotates": false, "bg": []}
+{
+  "id": "overlay_female_worn_postman_shirt_var_sheriff",
+  "fg": [
+    "503_overlay_female_worn_sheriffshirt_0"
+  ],
+  "rotates": false,
+  "bg": [
+    
+  ]
+}
