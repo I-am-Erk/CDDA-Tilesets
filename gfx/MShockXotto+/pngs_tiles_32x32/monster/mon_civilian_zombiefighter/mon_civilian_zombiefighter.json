@@ -1,0 +1,15 @@
+{
+  "id": "mon_civilian_zombiefighter",
+  "fg": [
+    { "weight": 1, "sprite": "mon_civilian_zombiefighter_0" },
+    { "weight": 1, "sprite": "mon_civilian_zombiefighter_1" },
+    { "weight": 1, "sprite": "mon_civilian_zombiefighter_2" },
+    { "weight": 1, "sprite": "mon_civilian_zombiefighter_3" },
+    { "weight": 1, "sprite": "mon_civilian_zombiefighter_4" },
+    { "weight": 1, "sprite": "mon_civilian_zombiefighter_5" },
+    { "weight": 1, "sprite": "mon_civilian_zombiefighter_6" },
+    { "weight": 1, "sprite": "mon_civilian_zombiefighter_7" }
+  ],
+  "bg": [ ],
+  "rotates": false
+}
