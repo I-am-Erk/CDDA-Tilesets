@@ -1,0 +1,20 @@
+[
+  {
+    "id": "t_floor_olight",
+    "fg": [ "overhead_lights" ],
+    "bg": [ "t_floor_taller" ],
+    "rotates": false
+  },
+  {
+    "id": "t_metal_floor_olight",
+    "fg": [ "overhead_lights" ],
+    "bg": [ "t_metal_floor_taller" ],
+    "rotates": false
+  },
+  {
+    "id": "t_thconc_floor_olight",
+    "fg": [ "overhead_lights" ],
+    "bg": [ "t_thconc_floor_taller" ],
+    "rotates": false
+  }
+]
