@@ -14,12 +14,12 @@
     "id": "t_shrub_goblin_fruit_winter",
     "fg": [ "t_shrub_goblin_fruit_winter" ],
     "rotates": false,
-    "bg": "t_grass_season_winter"
+    "bg": "t_grass"
   },
  {
     "id": "t_shrub_goblin_fruit_winter_harvested",
     "fg": [ "t_shrub_goblin_fruit_winter_harvested" ],
     "rotates": false,
-    "bg": "t_grass_season_winter"
+    "bg": "t_grass"
   }
 ]
