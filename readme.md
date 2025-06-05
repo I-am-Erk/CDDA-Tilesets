@@ -85,7 +85,7 @@ Changes the game to an isometric perspective.
 
 Specialized tilesets for the overmap.
 
-### [Larwick Overmap](gfx/Larwick_Overmap)
+#### [Larwick Overmap](gfx/Larwick_Overmap)
 
 #### [ASCII Overmap](gfx/ASCII_Overmap)
 
@@ -97,7 +97,7 @@ Clear and readable.
 A realistic and detailed overmap.
 Shows e.g. the layouts of houses.
 
-### [Pen And Paper](gfx/PenAndPaper)
+#### [Pen And Paper](gfx/PenAndPaper)
 
 A hand-drawn immersive overmap.
 - [You can add map markers, arrows and more to your map.](https://github.com/jneidel/CDDA-Tilesets/blob/master/doc/style/PenAndPaper/usage.md)
