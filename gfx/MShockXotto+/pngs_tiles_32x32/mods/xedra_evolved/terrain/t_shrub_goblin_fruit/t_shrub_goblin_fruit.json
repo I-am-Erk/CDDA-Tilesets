@@ -1,0 +1,194 @@
+[  
+  {
+    "id": [ "t_shrub_goblin_fruit_spring_season_spring" ],
+    "fg": [ "t_shrub_goblin_fruit_spring" ],
+    "rotates": false,
+    "bg": "t_grass"
+  },
+  {
+    "id": [ "t_shrub_goblin_fruit_spring_season_summer" ],
+    "fg": [ "t_shrub_goblin_fruit_spring" ],
+    "rotates": false,
+    "bg": "t_grass_summer"
+  },
+  {
+    "id": [ "t_shrub_goblin_fruit_spring_season_autumn" ],
+    "fg": [ "t_shrub_goblin_fruit_spring" ],
+    "rotates": false,
+    "bg": "t_grass_autumn"
+  },
+  {
+    "id": [ "t_shrub_goblin_fruit_spring_season_winter" ],
+    "fg": [ "t_shrub_goblin_fruit_winter" ],
+    "rotates": false,
+    "bg": "t_grass_winter"
+  },
+  {
+    "id": [ "t_shrub_goblin_fruit_spring_harvested_season_spring" ],
+    "fg": [ "t_shrub_goblin_fruit_spring_harvested" ],
+    "rotates": false,
+    "bg": "t_grass"
+  },
+  {
+    "id": [ "t_shrub_goblin_fruit_spring_harvested_season_summer" ],
+    "fg": [ "t_shrub_goblin_fruit_spring_harvested" ],
+    "rotates": false,
+    "bg": "t_grass_summer"
+  },
+  {
+    "id": [ "t_shrub_goblin_fruit_spring_harvested_season_autumn" ],
+    "fg": [ "t_shrub_goblin_fruit_spring_harvested" ],
+    "rotates": false,
+    "bg": "t_grass_autumn"
+  },
+  {
+    "id": [ "t_shrub_goblin_fruit_spring_harvested_season_winter" ],
+    "fg": [ "t_shrub_goblin_fruit_winter_harvested" ],
+    "rotates": false,
+    "bg": "t_grass_winter"
+  },
+  {
+    "id": [ "t_shrub_goblin_fruit_summer_season_spring" ],
+    "fg": [ "t_shrub_goblin_fruit_spring" ],
+    "rotates": false,
+    "bg": "t_grass"
+  },
+  {
+    "id": [ "t_shrub_goblin_fruit_summer_season_summer" ],
+    "fg": [ "t_shrub_goblin_fruit_spring" ],
+    "rotates": false,
+    "bg": "t_grass_summer"
+  },
+  {
+    "id": [ "t_shrub_goblin_fruit_summer_season_autumn" ],
+    "fg": [ "t_shrub_goblin_fruit_spring" ],
+    "rotates": false,
+    "bg": "t_grass_autumn"
+  },
+  {
+    "id": [ "t_shrub_goblin_fruit_summer_season_winter" ],
+    "fg": [ "t_shrub_goblin_fruit_winter" ],
+    "rotates": false,
+    "bg": "t_grass_winter"
+  },
+  {
+    "id": [ "t_shrub_goblin_fruit_summer_harvested_season_spring" ],
+    "fg": [ "t_shrub_goblin_fruit_spring_harvested" ],
+    "rotates": false,
+    "bg": "t_grass"
+  },
+  {
+    "id": [ "t_shrub_goblin_fruit_summer_harvested_season_summer" ],
+    "fg": [ "t_shrub_goblin_fruit_spring_harvested" ],
+    "rotates": false,
+    "bg": "t_grass_summer"
+  },
+  {
+    "id": [ "t_shrub_goblin_fruit_summer_harvested_season_autumn" ],
+    "fg": [ "t_shrub_goblin_fruit_spring_harvested" ],
+    "rotates": false,
+    "bg": "t_grass_autumn"
+  },
+  {
+    "id": [ "t_shrub_goblin_fruit_summer_harvested_season_winter" ],
+    "fg": [ "t_shrub_goblin_fruit_winter_harvested" ],
+    "rotates": false,
+    "bg": "t_grass_winter"
+  },
+  {
+    "id": [ "t_shrub_goblin_fruit_autumn_season_spring" ],
+    "fg": [ "t_shrub_goblin_fruit_spring" ],
+    "rotates": false,
+    "bg": "t_grass"
+  },
+  {
+    "id": [ "t_shrub_goblin_fruit_autumn_season_summer" ],
+    "fg": [ "t_shrub_goblin_fruit_spring" ],
+    "rotates": false,
+    "bg": "t_grass_summer"
+  },
+  {
+    "id": [ "t_shrub_goblin_fruit_autumn_season_autumn" ],
+    "fg": [ "t_shrub_goblin_fruit_spring" ],
+    "rotates": false,
+    "bg": "t_grass_autumn"
+  },
+  {
+    "id": [ "t_shrub_goblin_fruit_autumn_season_winter" ],
+    "fg": [ "t_shrub_goblin_fruit_winter" ],
+    "rotates": false,
+    "bg": "t_grass_winter"
+  },
+  {
+    "id": [ "t_shrub_goblin_fruit_autumn_harvested_season_spring" ],
+    "fg": [ "t_shrub_goblin_fruit_spring_harvested" ],
+    "rotates": false,
+    "bg": "t_grass"
+  },
+  {
+    "id": [ "t_shrub_goblin_fruit_autumn_harvested_season_summer" ],
+    "fg": [ "t_shrub_goblin_fruit_spring_harvested" ],
+    "rotates": false,
+    "bg": "t_grass_summer"
+  },
+  {
+    "id": [ "t_shrub_goblin_fruit_autumn_harvested_season_autumn" ],
+    "fg": [ "t_shrub_goblin_fruit_spring_harvested" ],
+    "rotates": false,
+    "bg": "t_grass_autumn"
+  },
+  {
+    "id": [ "t_shrub_goblin_fruit_autumn_harvested_season_winter" ],
+    "fg": [ "t_shrub_goblin_fruit_winter_harvested" ],
+    "rotates": false,
+    "bg": "t_grass_winter"
+  },
+    {
+    "id": [ "t_shrub_goblin_fruit_winter_season_spring" ],
+    "fg": [ "t_shrub_goblin_fruit_spring" ],
+    "rotates": false,
+    "bg": "t_grass"
+  },
+  {
+    "id": [ "t_shrub_goblin_fruit_winter_season_summer" ],
+    "fg": [ "t_shrub_goblin_fruit_spring" ],
+    "rotates": false,
+    "bg": "t_grass_summer"
+  },
+  {
+    "id": [ "t_shrub_goblin_fruit_winter_season_autumn" ],
+    "fg": [ "t_shrub_goblin_fruit_spring" ],
+    "rotates": false,
+    "bg": "t_grass_autumn"
+  },
+  {
+    "id": [ "t_shrub_goblin_fruit_winter_season_winter" ],
+    "fg": [ "t_shrub_goblin_fruit_winter" ],
+    "rotates": false,
+    "bg": "t_grass_winter"
+  },
+  {
+    "id": [ "t_shrub_goblin_fruit_winter_harvested_season_spring" ],
+    "fg": [ "t_shrub_goblin_fruit_spring_harvested" ],
+    "rotates": false,
+    "bg": "t_grass"
+  },
+  {
+    "id": [ "t_shrub_goblin_fruit_winter_harvested_season_summer" ],
+    "fg": [ "t_shrub_goblin_fruit_spring_harvested" ],
+    "rotates": false,
+    "bg": "t_grass_summer"
+  },
+  {
+    "id": [ "t_shrub_goblin_fruit_winter_harvested_season_autumn" ],
+    "fg": [ "t_shrub_goblin_fruit_spring_harvested" ],
+    "rotates": false,
+    "bg": "t_grass_autumn"
+  },
+  {
+    "id": [ "t_shrub_goblin_fruit_winter_harvested_season_winter" ],
+    "fg": [ "t_shrub_goblin_fruit_winter_harvested" ],
+    "rotates": false,
+    "bg": "t_grass_winter"
+  }
+]
