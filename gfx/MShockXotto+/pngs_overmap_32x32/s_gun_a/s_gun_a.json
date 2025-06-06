@@ -1,0 +1,8 @@
+[
+  {
+    "id": "s_gun_a",
+    "fg": [ "s_gun_a_north", "s_gun_a_west", "s_gun_a_south", "s_gun_a_east" ],
+    "rotates": true,
+    "bg": [  ]
+  }
+]

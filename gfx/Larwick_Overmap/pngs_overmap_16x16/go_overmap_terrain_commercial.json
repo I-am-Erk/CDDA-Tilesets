@@ -276,55 +276,7 @@
     "fg": "shop_magenta"
   },
   {
-    "id": "s_gun",
-    "fg": "shop_red"
-  },
-  {
-    "id": "s_gun_roof",
-    "fg": "shop_red"
-  },
-  {
-    "id": "s_gun_1",
-    "fg": "shop_red"
-  },
-  {
-    "id": "s_gun_roof_1",
-    "fg": "shop_red"
-  },
-  {
-    "id": "s_gun_2",
-    "fg": "shop_red"
-  },
-  {
-    "id": "s_gun_3",
-    "fg": "shop_red"
-  },
-  {
-    "id": "s_gun_roof_3",
-    "fg": "shop_red"
-  },
-  {
-    "id": "s_gun_4",
-    "fg": "shop_red"
-  },
-  {
-    "id": "s_gun_2ndfloor_4",
-    "fg": "shop_red"
-  },
-  {
-    "id": "s_gun_roof_4",
-    "fg": "shop_red"
-  },
-  {
-    "id": "s_gunstore",
-    "fg": "shop_red"
-  },
-  {
-    "id": "s_gunstore_2ndfloor",
-    "fg": "shop_red"
-  },
-  {
-    "id": "s_gunstore_roof",
+    "id": [ "s_gun_a", "s_gun_b_range", "s_gun_b_store", "s_gun_a_roof", "s_gun_b_roof", "s_gun_b_range_roof" ],
     "fg": "shop_red"
   },
   {
