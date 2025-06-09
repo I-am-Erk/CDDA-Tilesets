@@ -38,7 +38,6 @@ and tries to encapsulate a dark tone and atmosphere of utter desperation of the
 cataclysm.
 
 It is the default tileset used when you use the tiles version of the game.
-Out of all the tilesets it covers the most amount of game entities.
 
 ### [AltiCa](gfx/Altica)
 
