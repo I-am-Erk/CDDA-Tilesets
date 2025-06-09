@@ -18,7 +18,7 @@ Community-made tilesets for [Cataclysm: Dark Days Ahead](https://github.com/Clev
 Tilesets give the game a different aesthetic.
 
 This repository stores individual sprites for UltiCa in PNG format, and also source files with layering in *PSD* (Photoshop), *XCF* (gimp 2.10) or *KRA* (Krita) formats.
-PNGs will then be compiled into a tileset using [a python script](https://github.com/CleverRaven/Cataclysm-DDA/blob/master/tools/gfx_tools/compose.py) maintained by [mlangsdorf](https://github.com/mlange-42).
+PNGs will then be compiled into a tileset using [a python script](https://github.com/CleverRaven/Cataclysm-DDA/blob/master/tools/gfx_tools/compose.py).
 
 For information about installing and contributing see [**documentation**](https://i-am-erk.github.io/CDDA-Tilesets).
 
