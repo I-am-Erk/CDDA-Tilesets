@@ -107,9 +107,3 @@ A hand-drawn immersive overmap.
 - [You can add map markers, arrows and more to your map.](https://github.com/jneidel/CDDA-Tilesets/blob/master/doc/style/PenAndPaper/usage.md)
 - A [reddit showcase](https://www.reddit.com/r/cataclysmdda/comments/1f6l2db/pen_and_paper_overmap_tileset/) of the initial version of the map by the author.
 
-### Third party tilesets
-
-An incomplete list of other tilesets created by the community.
-These are not part of this repository and don't come bundled with the game.
-
-- [UndeadPeople](https://github.com/Theawesomeboophis/UndeadPeopleTileset)
