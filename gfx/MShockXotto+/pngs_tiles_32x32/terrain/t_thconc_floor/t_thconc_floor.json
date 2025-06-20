@@ -1,6 +1,6 @@
 [
   {
-    "id": "t_thconc_floor",
+    "id": ["t_thconc_floor","t_strconc_floor"],
     "fg": [
       { "weight": 1, "sprite": "t_thconc_floor" },
       { "weight": 1, "sprite": "t_thconc_floor_1" },
