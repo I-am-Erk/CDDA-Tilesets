@@ -20,7 +20,24 @@
     "ChibiNormal.png": {
       "sprite_width": 32,
       "sprite_height": 32,
-      "exclude": [ "appliances", "field", "furniture", "item", "misc", "spell", "terrain", "trap", "vehicle" ]
+      "exclude": [
+        "appliances",
+        "field",
+        "furniture",
+        "item",
+        "misc",
+        "spell",
+        "terrain",
+        "trap",
+        "vehicle",
+        "mods/xedra_evolved/terrain",
+        "mods/xedra_evolved/furniture",
+        "mods/Magiclysm/terrain",
+        "mods/Magiclysm/furniture",
+        "mods/Aftershock/terrain",
+        "mods/Aftershock/furniture",
+        "mods/skyisland/furniture"
+      ]
     }
   },
   {
@@ -63,13 +80,7 @@
     "normal.png": { "filler": true, "exclude": [ "overlay/mutations", "overlay/wielded", "overlay/worn" ] }
   },
   {
-    "tall.png": {
-      "sprite_width": 32,
-      "sprite_height": 64,
-      "sprite_offset_y": -32,
-      "filler": true,
-      "exclude": [ "overlay" ]
-    }
+    "tall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true, "exclude": [ "overlay" ] }
   },
   {
     "huge.png": { "sprite_width": 64, "sprite_height": 96, "sprite_offset_x": -16, "sprite_offset_y": -64, "filler": true }
