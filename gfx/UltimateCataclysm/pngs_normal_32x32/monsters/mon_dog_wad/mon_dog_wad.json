@@ -1,0 +1,12 @@
+[
+  {
+    "id": "mon_dog_wad",
+    "fg": "mon_dog_wad",
+    "bg": "shadow_32x32_normal"
+  },
+  {
+    "id": "mon_dog_wad_pup",
+    "fg": "mon_dog_wad_pup",
+    "bg": "shadow_32x32_small"
+  }
+]
