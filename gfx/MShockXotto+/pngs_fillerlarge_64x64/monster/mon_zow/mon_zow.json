@@ -1,0 +1,9 @@
+{
+  "id": "mon_zow",
+  "fg": [
+    { "weight": 1, "sprite": "mon_zow" },
+    { "weight": 1, "sprite": "mon_zow_alt" }
+  ],
+  "bg": "shadow_64x64_large",
+  "rotates": false
+}
