@@ -1,0 +1,18 @@
+{
+  "id": "mon_cat",
+  "fg": [
+    { "weight": 1, "sprite": "mon_cat" },
+    { "weight": 1, "sprite": "mon_cat_black" },
+    { "weight": 1, "sprite": "mon_cat_calico" },
+    { "weight": 1, "sprite": "mon_cat_cow" },
+    { "weight": 1, "sprite": "mon_cat_orange" },
+    { "weight": 1, "sprite": "mon_cat_russianblue" },
+    { "weight": 1, "sprite": "mon_cat_siamese" },
+    { "weight": 1, "sprite": "mon_cat_tabby" },,
+    { "weight": 1, "sprite": "mon_cat_tortoiseshell" },
+    { "weight": 1, "sprite": "mon_cat_tuxedo" },
+    { "weight": 1, "sprite": "mon_cat_white" }
+  ],
+  "bg": "shadow_20x20_normal",
+  "rotates": false
+}
