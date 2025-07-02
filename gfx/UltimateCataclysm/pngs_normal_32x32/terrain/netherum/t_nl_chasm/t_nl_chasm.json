@@ -17,26 +17,26 @@
           { "weight": 100, "sprite": "t_nl_chasm_center7" },
           { "weight": 100, "sprite": "t_nl_chasm_center8" },
           { "weight": 100, "sprite": "t_nl_chasm_center9" },
-          { "weight": 10, "sprite": "t_nl_chasm_center10" }
+          { "weight": 20, "sprite": "t_nl_chasm_center10" }
         ],
         "bg": ""
       },
       {
         "id": "corner",
         "fg": [
+          "t_nl_chasm_corner_nw",
           "t_nl_chasm_center1",
-          "t_nl_chasm_corner_sw",
-          "t_nl_chasm_corner_se",
-          "t_nl_chasm_center2"
+          "t_nl_chasm_center2",
+          "t_nl_chasm_corner_ne"
         ],
         "bg": ""
       },
       {
         "id": "t_connection",
         "fg": [
+          "t_nl_chasm_t_connection_n",
           "t_nl_chasm_center3",
           "t_nl_chasm_center4",
-          "t_nl_chasm_t_connection_s",
           "t_nl_chasm_center5"
         ],
         "bg": ""
@@ -62,8 +62,7 @@
       {
         "id": "unconnected",
         "fg": [
-          "t_nl_chasm_corner_sw",
-          "t_nl_chasm_corner_se"
+          "t_nl_chasm_edge_ew"
         ],
         "bg": ""
       }
