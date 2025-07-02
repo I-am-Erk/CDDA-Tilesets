@@ -1,0 +1,71 @@
+[
+  {
+    "id": "t_nl_chasm",
+    "fg": "t_nl_chasm_center1",
+    "bg": "",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "center",
+        "fg": [
+          { "weight": 100, "sprite": "t_nl_chasm_center1" },
+          { "weight": 100, "sprite": "t_nl_chasm_center2" },
+          { "weight": 100, "sprite": "t_nl_chasm_center3" },
+          { "weight": 100, "sprite": "t_nl_chasm_center4" },
+          { "weight": 100, "sprite": "t_nl_chasm_center5" },
+          { "weight": 100, "sprite": "t_nl_chasm_center6" },
+          { "weight": 100, "sprite": "t_nl_chasm_center7" },
+          { "weight": 100, "sprite": "t_nl_chasm_center8" },
+          { "weight": 100, "sprite": "t_nl_chasm_center9" },
+          { "weight": 20, "sprite": "t_nl_chasm_center10" }
+        ],
+        "bg": ""
+      },
+      {
+        "id": "corner",
+        "fg": [
+          "t_nl_chasm_corner_nw",
+          "t_nl_chasm_center1",
+          "t_nl_chasm_center2",
+          "t_nl_chasm_corner_ne"
+        ],
+        "bg": ""
+      },
+      {
+        "id": "t_connection",
+        "fg": [
+          "t_nl_chasm_t_connection_n",
+          "t_nl_chasm_center3",
+          "t_nl_chasm_center4",
+          "t_nl_chasm_center5"
+        ],
+        "bg": ""
+      },
+      {
+        "id": "edge",
+        "fg": [
+          "t_nl_chasm_center6",
+          "t_nl_chasm_edge_ew"
+        ],
+        "bg": ""
+      },
+      {
+        "id": "end_piece",
+        "fg": [
+          "t_nl_chasm_end_piece_n",
+          "t_nl_chasm_end_piece_w",
+          "t_nl_chasm_center7",
+          "t_nl_chasm_end_piece_e"
+        ],
+        "bg": ""
+      },
+      {
+        "id": "unconnected",
+        "fg": [
+          "t_nl_chasm_edge_ew"
+        ],
+        "bg": ""
+      }
+    ]
+  }
+]
