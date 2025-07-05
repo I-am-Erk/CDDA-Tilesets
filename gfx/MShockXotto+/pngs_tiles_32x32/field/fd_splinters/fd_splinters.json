@@ -1,0 +1,52 @@
+{
+  "id": "fd_splinters",
+  "fg": "fd_splinters_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "fd_splinters_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "fd_splinters_corner_nw",
+        "fd_splinters_corner_sw",
+        "fd_splinters_corner_se",
+        "fd_splinters_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "fd_splinters_t_connection_n",
+        "fd_splinters_t_connection_w",
+        "fd_splinters_t_connection_s",
+        "fd_splinters_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "fd_splinters_edge_ns",
+        "fd_splinters_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "fd_splinters_end_piece_n",
+        "fd_splinters_end_piece_w",
+        "fd_splinters_end_piece_s",
+        "fd_splinters_end_piece_e"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "fd_splinters_unconnected",
+        "fd_splinters_unconnected"
+      ]
+    }
+  ]
+}
