@@ -8,14 +8,6 @@
     "bg": "shadow_32x32_small"
   },
   {
-    "id": "mon_cat_calico",
-    "fg": [
-      { "weight": 1, "sprite": "mon_cat_calico_walk" },
-      { "weight": 1, "sprite": "mon_cat_calico_sit" }
-    ],
-    "bg": "shadow_32x32_small"
-  },
-  {
     "id": "mon_cat_chonker",
     "fg": [
       { "weight": 1, "sprite": "mon_cat_chonker_walk" },
@@ -56,26 +48,10 @@
     "bg": "shadow_32x32_small"
   },
   {
-    "id": "mon_cat_siamese",
-    "fg": [
-      { "weight": 1, "sprite": "mon_cat_siamese_walk" },
-      { "weight": 1, "sprite": "mon_cat_siamese_sit" }
-    ],
-    "bg": "shadow_32x32_small"
-  },
-  {
     "id": "mon_cat_sphynx",
     "fg": [
       { "weight": 1, "sprite": "mon_cat_sphynx_walk" },
       { "weight": 1, "sprite": "mon_cat_sphynx_sit" }
-    ],
-    "bg": "shadow_32x32_small"
-  },
-  {
-    "id": "mon_cat_tabby",
-    "fg": [
-      { "weight": 1, "sprite": "mon_cat_tabby_walk" },
-      { "weight": 1, "sprite": "mon_cat_tabby_sit" }
     ],
     "bg": "shadow_32x32_small"
   },
