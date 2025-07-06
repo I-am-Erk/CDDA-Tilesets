@@ -7,18 +7,21 @@
     {
       "id": "center",
       "fg": [
+        {"weight": 1, "sprite": "fd_dust1_center"},
         {"weight": 1, "sprite": "fd_dust1_center"}
       ]
     },
     {
       "id": "corner",
       "fg": [
+        { "weight": 1, "sprite": [ "fd_dust1_corner_NW", "fd_dust1_corner_SW", "fd_dust1_corner_SE", "fd_dust1_corner_NE" ] },
         { "weight": 1, "sprite": [ "fd_dust1_corner_NW", "fd_dust1_corner_SW", "fd_dust1_corner_SE", "fd_dust1_corner_NE" ] }
       ]
     },
     {
       "id": "t_connection",
       "fg": [
+        { "weight": 1, "sprite": [ "fd_dust1_t_connection_N", "fd_dust1_t_connection_W", "fd_dust1_t_connection_S", "fd_dust1_t_connection_E" ] },
         { "weight": 1, "sprite": [ "fd_dust1_t_connection_N", "fd_dust1_t_connection_W", "fd_dust1_t_connection_S", "fd_dust1_t_connection_E" ] }
       ]
     },
@@ -31,12 +34,14 @@
     {
       "id": "end_piece",
       "fg": [
+        { "weight": 1, "sprite": [ "fd_dust1_end_piece_N", "fd_dust1_end_piece_W", "fd_dust1_end_piece_S", "fd_dust1_end_piece_E" ] },
         { "weight": 1, "sprite": [ "fd_dust1_end_piece_N", "fd_dust1_end_piece_W", "fd_dust1_end_piece_S", "fd_dust1_end_piece_E" ] }
       ]
     },
     {
       "id": "unconnected",
       "fg": [
+        {"weight": 1, "sprite": ["fd_dust1_unconnected", "fd_dust1_unconnected"]},
         {"weight": 1, "sprite": ["fd_dust1_unconnected", "fd_dust1_unconnected"]}
       ]
     }
@@ -50,36 +55,42 @@
     {
       "id": "center",
       "fg": [
+        {"weight": 1, "sprite": "fd_dust2_center"},
         {"weight": 1, "sprite": "fd_dust2_center"}
       ]
     },
     {
       "id": "corner",
       "fg": [
+        { "weight": 1, "sprite": [ "fd_dust2_corner_NW", "fd_dust2_corner_SW", "fd_dust2_corner_SE", "fd_dust2_corner_NE" ] },
         { "weight": 1, "sprite": [ "fd_dust2_corner_NW", "fd_dust2_corner_SW", "fd_dust2_corner_SE", "fd_dust2_corner_NE" ] }
       ]
     },
     {
       "id": "t_connection",
       "fg": [
+        { "weight": 1, "sprite": [ "fd_dust2_t_connection_N", "fd_dust2_t_connection_W", "fd_dust2_t_connection_S", "fd_dust2_t_connection_E" ] },
         { "weight": 1, "sprite": [ "fd_dust2_t_connection_N", "fd_dust2_t_connection_W", "fd_dust2_t_connection_S", "fd_dust2_t_connection_E" ] }
       ]
     },
     {
       "id": "edge",
       "fg": [
+        { "weight": 1, "sprite": [ "fd_dust2_edge_NS", "fd_dust2_edge_EW" ] },
         { "weight": 1, "sprite": [ "fd_dust2_edge_NS", "fd_dust2_edge_EW" ] }
       ]
     },
     {
       "id": "end_piece",
       "fg": [
+        { "weight": 1, "sprite": [ "fd_dust2_end_piece_N", "fd_dust2_end_piece_W", "fd_dust2_end_piece_S", "fd_dust2_end_piece_E" ] },
         { "weight": 1, "sprite": [ "fd_dust2_end_piece_N", "fd_dust2_end_piece_W", "fd_dust2_end_piece_S", "fd_dust2_end_piece_E" ] }
       ]
     },
     {
       "id": "unconnected",
       "fg": [
+        {"weight": 1, "sprite": ["fd_dust2_unconnected", "fd_dust2_unconnected"]},
         {"weight": 1, "sprite": ["fd_dust2_unconnected", "fd_dust2_unconnected"]}
       ]
     }

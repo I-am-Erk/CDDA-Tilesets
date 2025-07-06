@@ -1,0 +1,10 @@
+{
+  "id": "fd_splinters",
+    "fg": [
+      { "weight": 12, "sprite": "fd_splinters_1" },
+      { "weight": 12, "sprite": "fd_splinters_2" },
+      { "weight": 8, "sprite": "fd_splinters_3" },
+      { "weight": 8, "sprite": "fd_splinters_4" },
+      { "weight": 8, "sprite": "fd_splinters_5" }
+    ]
+}
