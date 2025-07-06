@@ -1,0 +1,62 @@
+[
+  {
+    "id": "fd_dust_int1",
+    "fg": "fd_dust1_unconnected",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "center",
+        "fg": [
+          { "weight": 1, "sprite": "fd_dust1_center" },
+          { "weight": 1, "sprite": "fd_dust1_center1" },
+          { "weight": 1, "sprite": "fd_dust1_center2" },
+          { "weight": 1, "sprite": "fd_dust1_center3" }
+        ]
+      },
+      {
+        "id": "corner",
+        "fg": [ "fd_dust1_corner_NW", "fd_dust1_corner_SW", "fd_dust1_corner_SE", "fd_dust1_corner_NE" ]
+      },
+      {
+        "id": "t_connection",
+        "fg": [ "fd_dust1_t_connection_N", "fd_dust1_t_connection_W", "fd_dust1_t_connection_S", "fd_dust1_t_connection_E" ]
+      },
+      { "id": "edge", "fg": [ "fd_dust1_edge_NS", "fd_dust1_edge_EW" ] },
+      {
+        "id": "end_piece",
+        "fg": [ "fd_dust1_end_piece_N", "fd_dust1_end_piece_W", "fd_dust1_end_piece_S", "fd_dust1_end_piece_E" ]
+      },
+      { "id": "unconnected", "fg": [ "fd_dust1_unconnected", "fd_dust1_unconnected" ] }
+    ]
+  },
+  {
+    "id": "fd_dust_int2",
+    "fg": "fd_dust2_unconnected",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "center",
+        "fg": [
+          { "weight": 1, "sprite": "fd_dust2_center" },
+          { "weight": 1, "sprite": "fd_dust2_center1" },
+          { "weight": 1, "sprite": "fd_dust2_center2" },
+          { "weight": 1, "sprite": "fd_dust2_center3" }
+        ]
+      },
+      {
+        "id": "corner",
+        "fg": [ "fd_dust2_corner_NW", "fd_dust2_corner_SW", "fd_dust2_corner_SE", "fd_dust2_corner_NE" ]
+      },
+      {
+        "id": "t_connection",
+        "fg": [ "fd_dust2_t_connection_N", "fd_dust2_t_connection_W", "fd_dust2_t_connection_S", "fd_dust2_t_connection_E" ]
+      },
+      { "id": "edge", "fg": [ "fd_dust2_edge_NS", "fd_dust2_edge_EW" ] },
+      {
+        "id": "end_piece",
+        "fg": [ "fd_dust2_end_piece_N", "fd_dust2_end_piece_W", "fd_dust2_end_piece_S", "fd_dust2_end_piece_E" ]
+      },
+      { "id": "unconnected", "fg": [ "fd_dust2_unconnected", "fd_dust2_unconnected" ] }
+    ]
+  }
+]
