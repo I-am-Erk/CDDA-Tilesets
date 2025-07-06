@@ -1,0 +1,383 @@
+[
+  {
+    "id": [ "fd_mechanical_fluid", "fd_mechanical_fluid_int1" ],
+    "fg": "int1_fd_mechfluid_3_unconnected",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "center",
+        "fg": [
+          { "weight": 1, "sprite": "int1_fd_mechfluid_1_center" },
+          { "weight": 1, "sprite": "int1_fd_mechfluid_2_center" },
+          { "weight": 1, "sprite": "int1_fd_mechfluid_3_center" }
+        ]
+      },
+      {
+        "id": "corner",
+        "fg": [
+          {
+            "weight": 1,
+            "sprite": [
+              "int1_fd_mechfluid_1_corner_nw",
+              "int1_fd_mechfluid_1_corner_sw",
+              "int1_fd_mechfluid_1_corner_se",
+              "int1_fd_mechfluid_1_corner_ne"
+            ]
+          },
+          {
+            "weight": 1,
+            "sprite": [
+              "int1_fd_mechfluid_2_corner_nw",
+              "int1_fd_mechfluid_2_corner_sw",
+              "int1_fd_mechfluid_2_corner_se",
+              "int1_fd_mechfluid_2_corner_ne"
+            ]
+          },
+          {
+            "weight": 1,
+            "sprite": [
+              "int1_fd_mechfluid_3_corner_nw",
+              "int1_fd_mechfluid_3_corner_sw",
+              "int1_fd_mechfluid_3_corner_se",
+              "int1_fd_mechfluid_3_corner_ne"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "t_connection",
+        "fg": [
+          {
+            "weight": 1,
+            "sprite": [
+              "int1_fd_mechfluid_1_t_connection_n",
+              "int1_fd_mechfluid_1_t_connection_w",
+              "int1_fd_mechfluid_1_t_connection_s",
+              "int1_fd_mechfluid_1_t_connection_e"
+            ]
+          },
+          {
+            "weight": 1,
+            "sprite": [
+              "int1_fd_mechfluid_2_t_connection_n",
+              "int1_fd_mechfluid_2_t_connection_w",
+              "int1_fd_mechfluid_2_t_connection_s",
+              "int1_fd_mechfluid_2_t_connection_e"
+            ]
+          },
+          {
+            "weight": 1,
+            "sprite": [
+              "int1_fd_mechfluid_3_t_connection_n",
+              "int1_fd_mechfluid_3_t_connection_w",
+              "int1_fd_mechfluid_3_t_connection_s",
+              "int1_fd_mechfluid_3_t_connection_e"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "edge",
+        "fg": [
+          { "weight": 1, "sprite": [ "int1_fd_mechfluid_1_edge_ns", "int1_fd_mechfluid_1_edge_ew" ] },
+          { "weight": 1, "sprite": [ "int1_fd_mechfluid_2_edge_ns", "int1_fd_mechfluid_2_edge_ew" ] },
+          { "weight": 1, "sprite": [ "int1_fd_mechfluid_3_edge_ns", "int1_fd_mechfluid_3_edge_ew" ] }
+        ]
+      },
+      {
+        "id": "end_piece",
+        "fg": [
+          {
+            "weight": 1,
+            "sprite": [
+              "int1_fd_mechfluid_1_end_piece_n",
+              "int1_fd_mechfluid_1_end_piece_w",
+              "int1_fd_mechfluid_1_end_piece_s",
+              "int1_fd_mechfluid_1_end_piece_e"
+            ]
+          },
+          {
+            "weight": 1,
+            "sprite": [
+              "int1_fd_mechfluid_2_end_piece_n",
+              "int1_fd_mechfluid_2_end_piece_w",
+              "int1_fd_mechfluid_2_end_piece_s",
+              "int1_fd_mechfluid_2_end_piece_e"
+            ]
+          },
+          {
+            "weight": 1,
+            "sprite": [
+              "int1_fd_mechfluid_3_end_piece_n",
+              "int1_fd_mechfluid_3_end_piece_w",
+              "int1_fd_mechfluid_3_end_piece_s",
+              "int1_fd_mechfluid_3_end_piece_e"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unconnected",
+        "fg": [
+          { "weight": 1, "sprite": [ "int1_fd_mechfluid_1_unconnected", "int1_fd_mechfluid_1_unconnected" ] },
+          { "weight": 1, "sprite": [ "int1_fd_mechfluid_2_unconnected", "int1_fd_mechfluid_2_unconnected" ] },
+          { "weight": 1, "sprite": [ "int1_fd_mechfluid_3_unconnected", "int1_fd_mechfluid_3_unconnected" ] }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fd_mechanical_fluid_int2",
+    "fg": "int2_fd_mechfluid_3_unconnected",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "center",
+        "fg": [
+          { "weight": 1, "sprite": "int2_fd_mechfluid_1_center" },
+          { "weight": 1, "sprite": "int2_fd_mechfluid_2_center" },
+          { "weight": 1, "sprite": "int2_fd_mechfluid_3_center" }
+        ]
+      },
+      {
+        "id": "corner",
+        "fg": [
+          {
+            "weight": 1,
+            "sprite": [
+              "int2_fd_mechfluid_1_corner_nw",
+              "int2_fd_mechfluid_1_corner_sw",
+              "int2_fd_mechfluid_1_corner_se",
+              "int2_fd_mechfluid_1_corner_ne"
+            ]
+          },
+          {
+            "weight": 1,
+            "sprite": [
+              "int2_fd_mechfluid_2_corner_nw",
+              "int2_fd_mechfluid_2_corner_sw",
+              "int2_fd_mechfluid_2_corner_se",
+              "int2_fd_mechfluid_2_corner_ne"
+            ]
+          },
+          {
+            "weight": 1,
+            "sprite": [
+              "int2_fd_mechfluid_3_corner_nw",
+              "int2_fd_mechfluid_3_corner_sw",
+              "int2_fd_mechfluid_3_corner_se",
+              "int2_fd_mechfluid_3_corner_ne"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "t_connection",
+        "fg": [
+          {
+            "weight": 1,
+            "sprite": [
+              "int2_fd_mechfluid_1_t_connection_n",
+              "int2_fd_mechfluid_1_t_connection_w",
+              "int2_fd_mechfluid_1_t_connection_s",
+              "int2_fd_mechfluid_1_t_connection_e"
+            ]
+          },
+          {
+            "weight": 1,
+            "sprite": [
+              "int2_fd_mechfluid_2_t_connection_n",
+              "int2_fd_mechfluid_2_t_connection_w",
+              "int2_fd_mechfluid_2_t_connection_s",
+              "int2_fd_mechfluid_2_t_connection_e"
+            ]
+          },
+          {
+            "weight": 1,
+            "sprite": [
+              "int2_fd_mechfluid_3_t_connection_n",
+              "int2_fd_mechfluid_3_t_connection_w",
+              "int2_fd_mechfluid_3_t_connection_s",
+              "int2_fd_mechfluid_3_t_connection_e"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "edge",
+        "fg": [
+          { "weight": 1, "sprite": [ "int2_fd_mechfluid_1_edge_ns", "int2_fd_mechfluid_1_edge_ew" ] },
+          { "weight": 1, "sprite": [ "int2_fd_mechfluid_2_edge_ns", "int2_fd_mechfluid_2_edge_ew" ] },
+          { "weight": 1, "sprite": [ "int2_fd_mechfluid_3_edge_ns", "int2_fd_mechfluid_3_edge_ew" ] }
+        ]
+      },
+      {
+        "id": "end_piece",
+        "fg": [
+          {
+            "weight": 1,
+            "sprite": [
+              "int2_fd_mechfluid_1_end_piece_n",
+              "int2_fd_mechfluid_1_end_piece_w",
+              "int2_fd_mechfluid_1_end_piece_s",
+              "int2_fd_mechfluid_1_end_piece_e"
+            ]
+          },
+          {
+            "weight": 1,
+            "sprite": [
+              "int2_fd_mechfluid_2_end_piece_n",
+              "int2_fd_mechfluid_2_end_piece_w",
+              "int2_fd_mechfluid_2_end_piece_s",
+              "int2_fd_mechfluid_2_end_piece_e"
+            ]
+          },
+          {
+            "weight": 1,
+            "sprite": [
+              "int2_fd_mechfluid_3_end_piece_n",
+              "int2_fd_mechfluid_3_end_piece_w",
+              "int2_fd_mechfluid_3_end_piece_s",
+              "int2_fd_mechfluid_3_end_piece_e"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unconnected",
+        "fg": [
+          { "weight": 1, "sprite": [ "int2_fd_mechfluid_1_unconnected", "int2_fd_mechfluid_1_unconnected" ] },
+          { "weight": 1, "sprite": [ "int2_fd_mechfluid_2_unconnected", "int2_fd_mechfluid_2_unconnected" ] },
+          { "weight": 1, "sprite": [ "int2_fd_mechfluid_3_unconnected", "int2_fd_mechfluid_3_unconnected" ] }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fd_mechanical_fluid_int3",
+    "fg": "int3_fd_mechfluid_3_unconnected",
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "center",
+        "fg": [
+          { "weight": 1, "sprite": "int3_fd_mechfluid_1_center" },
+          { "weight": 1, "sprite": "int3_fd_mechfluid_2_center" },
+          { "weight": 1, "sprite": "int3_fd_mechfluid_3_center" }
+        ]
+      },
+      {
+        "id": "corner",
+        "fg": [
+          {
+            "weight": 1,
+            "sprite": [
+              "int3_fd_mechfluid_1_corner_nw",
+              "int3_fd_mechfluid_1_corner_sw",
+              "int3_fd_mechfluid_1_corner_se",
+              "int3_fd_mechfluid_1_corner_ne"
+            ]
+          },
+          {
+            "weight": 1,
+            "sprite": [
+              "int3_fd_mechfluid_2_corner_nw",
+              "int3_fd_mechfluid_2_corner_sw",
+              "int3_fd_mechfluid_2_corner_se",
+              "int3_fd_mechfluid_2_corner_ne"
+            ]
+          },
+          {
+            "weight": 1,
+            "sprite": [
+              "int3_fd_mechfluid_3_corner_nw",
+              "int3_fd_mechfluid_3_corner_sw",
+              "int3_fd_mechfluid_3_corner_se",
+              "int3_fd_mechfluid_3_corner_ne"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "t_connection",
+        "fg": [
+          {
+            "weight": 1,
+            "sprite": [
+              "int3_fd_mechfluid_1_t_connection_n",
+              "int3_fd_mechfluid_1_t_connection_w",
+              "int3_fd_mechfluid_1_t_connection_s",
+              "int3_fd_mechfluid_1_t_connection_e"
+            ]
+          },
+          {
+            "weight": 1,
+            "sprite": [
+              "int3_fd_mechfluid_2_t_connection_n",
+              "int3_fd_mechfluid_2_t_connection_w",
+              "int3_fd_mechfluid_2_t_connection_s",
+              "int3_fd_mechfluid_2_t_connection_e"
+            ]
+          },
+          {
+            "weight": 1,
+            "sprite": [
+              "int3_fd_mechfluid_3_t_connection_n",
+              "int3_fd_mechfluid_3_t_connection_w",
+              "int3_fd_mechfluid_3_t_connection_s",
+              "int3_fd_mechfluid_3_t_connection_e"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "edge",
+        "fg": [
+          { "weight": 1, "sprite": [ "int3_fd_mechfluid_1_edge_ns", "int3_fd_mechfluid_1_edge_ew" ] },
+          { "weight": 1, "sprite": [ "int3_fd_mechfluid_2_edge_ns", "int3_fd_mechfluid_2_edge_ew" ] },
+          { "weight": 1, "sprite": [ "int3_fd_mechfluid_3_edge_ns", "int3_fd_mechfluid_3_edge_ew" ] }
+        ]
+      },
+      {
+        "id": "end_piece",
+        "fg": [
+          {
+            "weight": 1,
+            "sprite": [
+              "int3_fd_mechfluid_1_end_piece_n",
+              "int3_fd_mechfluid_1_end_piece_w",
+              "int3_fd_mechfluid_1_end_piece_s",
+              "int3_fd_mechfluid_1_end_piece_e"
+            ]
+          },
+          {
+            "weight": 1,
+            "sprite": [
+              "int3_fd_mechfluid_2_end_piece_n",
+              "int3_fd_mechfluid_2_end_piece_w",
+              "int3_fd_mechfluid_2_end_piece_s",
+              "int3_fd_mechfluid_2_end_piece_e"
+            ]
+          },
+          {
+            "weight": 1,
+            "sprite": [
+              "int3_fd_mechfluid_3_end_piece_n",
+              "int3_fd_mechfluid_3_end_piece_w",
+              "int3_fd_mechfluid_3_end_piece_s",
+              "int3_fd_mechfluid_3_end_piece_e"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "unconnected",
+        "fg": [
+          { "weight": 1, "sprite": [ "int3_fd_mechfluid_1_unconnected", "int3_fd_mechfluid_1_unconnected" ] },
+          { "weight": 1, "sprite": [ "int3_fd_mechfluid_2_unconnected", "int3_fd_mechfluid_2_unconnected" ] },
+          { "weight": 1, "sprite": [ "int3_fd_mechfluid_3_unconnected", "int3_fd_mechfluid_3_unconnected" ] }
+        ]
+      }
+    ]
+  }
+]
