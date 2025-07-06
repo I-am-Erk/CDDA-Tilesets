@@ -4,7 +4,15 @@
     "fg": "fd_dust1_unconnected",
     "multitile": true,
     "additional_tiles": [
-      { "id": "center", "fg": [ "fd_dust1_center" ] },
+      {
+        "id": "center",
+        "fg": [
+          { "weight": 1, "sprite": "fd_dust1_center" },
+          { "weight": 1, "sprite": "fd_dust1_center1" },
+          { "weight": 1, "sprite": "fd_dust1_center2" },
+          { "weight": 1, "sprite": "fd_dust1_center3" }
+        ]
+      },
       {
         "id": "corner",
         "fg": [ "fd_dust1_corner_NW", "fd_dust1_corner_SW", "fd_dust1_corner_SE", "fd_dust1_corner_NE" ]
@@ -26,7 +34,15 @@
     "fg": "fd_dust2_unconnected",
     "multitile": true,
     "additional_tiles": [
-      { "id": "center", "fg": [ "fd_dust2_center" ] },
+      {
+        "id": "center",
+        "fg": [
+          { "weight": 1, "sprite": "fd_dust2_center" },
+          { "weight": 1, "sprite": "fd_dust2_center1" },
+          { "weight": 1, "sprite": "fd_dust2_center2" },
+          { "weight": 1, "sprite": "fd_dust2_center3" }
+        ]
+      },
       {
         "id": "corner",
         "fg": [ "fd_dust2_corner_NW", "fd_dust2_corner_SW", "fd_dust2_corner_SE", "fd_dust2_corner_NE" ]
