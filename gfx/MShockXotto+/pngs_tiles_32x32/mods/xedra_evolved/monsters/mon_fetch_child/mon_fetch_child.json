@@ -1,0 +1,8 @@
+{
+  "id": "mon_fetch_child",
+  "fg": [
+    { "weight": 1, "sprite": "mon_fetch_child_0" },
+    { "weight": 1, "sprite": "mon_fetch_child_1" }
+  ],
+  "rotates": false
+}
