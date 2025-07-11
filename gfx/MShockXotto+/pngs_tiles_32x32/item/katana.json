@@ -1,1 +1,1 @@
-{"id": "katana", "fg": ["katana"], "rotates": false, "bg": []}
+{"id": ["katana","katana_fake","katana_inferior"], "fg": ["katana"], "rotates": false, "bg": []}

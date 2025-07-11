@@ -1,1 +1,1 @@
-{"id": "overlay_wielded_longsword", "fg": ["overlay_wielded_longsword"], "rotates": false, "bg": []}
+{"id": ["overlay_wielded_longsword","overlay_wielded_longsword_fake","overlay_wielded_longsword_inferior"], "fg": ["overlay_wielded_longsword"], "rotates": false, "bg": []}

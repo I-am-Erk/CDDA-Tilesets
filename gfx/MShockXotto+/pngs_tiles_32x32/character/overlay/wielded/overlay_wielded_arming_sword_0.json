@@ -1,1 +1,1 @@
-{"id": "overlay_wielded_arming_sword", "fg": ["overlay_wielded_arming_sword"], "rotates": false, "bg": []}
+{"id": ["overlay_wielded_arming_sword","overlay_wielded_arming_sword_fake","overlay_wielded_arming_sword_inferior"], "fg": ["overlay_wielded_arming_sword"], "rotates": false, "bg": []}

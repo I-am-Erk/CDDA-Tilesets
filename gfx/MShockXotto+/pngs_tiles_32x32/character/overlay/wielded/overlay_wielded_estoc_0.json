@@ -1,1 +1,1 @@
-{"id": "overlay_wielded_estoc", "fg": ["overlay_wielded_estoc"], "rotates": false, "bg": []}
+{"id": ["overlay_wielded_estoc","overlay_wielded_estoc_inferior","overlay_wielded_estoc_fake"], "fg": ["overlay_wielded_estoc"], "rotates": false, "bg": []}

@@ -1,1 +1,1 @@
-{"id": "mace", "fg": ["mace"], "rotates": false, "bg": []}
+{"id": ["mace","mace_fake","mace_inferior"], "fg": ["mace"], "rotates": false, "bg": []}

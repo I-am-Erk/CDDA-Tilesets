@@ -1,1 +1,1 @@
-{"id": "overlay_wielded_cutlass", "fg": ["overlay_wielded_cutlass"], "rotates": false, "bg": []}
+{"id": ["overlay_wielded_cutlass","overlay_wielded_cutlass_inferior","overlay_wielded_cutlass_fake"], "fg": ["overlay_wielded_cutlass"], "rotates": false, "bg": []}

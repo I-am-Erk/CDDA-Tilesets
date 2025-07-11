@@ -1,1 +1,1 @@
-{"id": "overlay_wielded_katana", "fg": ["overlay_wielded_katana"], "rotates": false, "bg": []}
+{"id": ["overlay_wielded_katana","overlay_wielded_katana_fake","overlay_wielded_katana_inferior"], "fg": ["overlay_wielded_katana"], "rotates": false, "bg": []}
