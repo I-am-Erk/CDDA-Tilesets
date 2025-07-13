@@ -1,1 +1,1 @@
-{"id": "overlay_wielded_zweihander", "fg": ["3695_overlay_wielded_zweifire_off_0"], "rotates": false, "bg": []}
+{"id": ["overlay_wielded_zweihander","overlay_wielded_zweihander_fake","overlay_wielded_zweihander_inferior"], "fg": ["overlay_wielded_zweihander"], "rotates": false, "bg": []}

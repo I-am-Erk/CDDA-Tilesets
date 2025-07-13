@@ -1,1 +1,1 @@
-{"id": "overlay_wielded_battleaxe", "fg": ["overlay_wielded_ax"], "rotates": false, "bg": []}
+{"id": ["overlay_wielded_battleaxe","overlay_wielded_battleaxe_fake","overlay_wielded_battleaxe_inferior"], "fg": ["overlay_wielded_battleaxe"], "rotates": false, "bg": []}
