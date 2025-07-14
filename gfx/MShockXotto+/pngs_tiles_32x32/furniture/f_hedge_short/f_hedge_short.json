@@ -1,0 +1,56 @@
+{
+  "id": "f_hedge_short",
+  "multitile": true,
+  "fg": "f_hedge_short",
+  "bg": "",
+  "additional_tiles": [
+    {
+      "id": "center",
+      "bg": "",
+      "fg": "f_hedge_short"
+    },
+    {
+      "id": "corner",
+      "bg": "",
+      "fg": [
+        "f_hedge_short_nw",
+        "f_hedge_short_sw",
+        "f_hedge_short_se",
+        "f_hedge_short_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "bg": "",
+      "fg": [
+        "f_hedge_short",
+        "f_hedge_short",
+        "f_hedge_short",
+        "f_hedge_short"
+      ]
+    },
+    {
+      "id": "edge",
+      "bg": "",
+      "fg": [
+        "f_hedge_short_ns",
+        "f_hedge_short"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "bg": "",
+      "fg": [
+        "f_hedge_short_n",
+        "f_hedge_short_w",
+        "f_hedge_short_s",
+        "f_hedge_short_e"
+      ]
+    },
+    {
+      "bg": "",
+      "id": "unconnected",
+      "fg": [ "f_hedge_short",  "f_hedge_short" ]
+    }
+  ]
+}
