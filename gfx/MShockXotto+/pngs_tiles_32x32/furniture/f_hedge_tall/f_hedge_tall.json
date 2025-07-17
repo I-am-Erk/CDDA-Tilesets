@@ -1,0 +1,56 @@
+{
+  "id": "f_hedge_tall",
+  "multitile": true,
+  "fg": "f_hedge_tall",
+  "bg": "",
+  "additional_tiles": [
+    {
+      "id": "center",
+      "bg": "",
+      "fg": "f_hedge_tall"
+    },
+    {
+      "id": "corner",
+      "bg": "",
+      "fg": [
+        "f_hedge_tall_nw",
+        "f_hedge_tall_sw",
+        "f_hedge_tall_se",
+        "f_hedge_tall_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "bg": "",
+      "fg": [
+        "f_hedge_tall",
+        "f_hedge_tall",
+        "f_hedge_tall",
+        "f_hedge_tall"
+      ]
+    },
+    {
+      "id": "edge",
+      "bg": "",
+      "fg": [
+        "f_hedge_tall_ns",
+        "f_hedge_tall"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "bg": "",
+      "fg": [
+        "f_hedge_tall_n",
+        "f_hedge_tall_w",
+        "f_hedge_tall_s",
+        "f_hedge_tall_e"
+      ]
+    },
+    {
+      "bg": "",
+      "id": "unconnected",
+      "fg": [ "f_hedge_tall",  "f_hedge_tall" ]
+    }
+  ]
+}
