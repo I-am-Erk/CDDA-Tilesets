@@ -1,25 +1,6 @@
 [
   {
-    "id": [
-      "s_gun",
-      "s_gun_looted",
-      "s_gun_roof",
-      "s_gun_1",
-      "s_gun_1_roof",
-      "s_gun_2",
-      "s_gun_2_roof",
-      "s_gun_3",
-      "s_gun_3_looted",
-      "s_gun_3_roof",
-      "s_gun_4",
-      "s_gun_4_looted",
-      "s_gun_2ndfloor_4",
-      "s_gun_4_roof",
-      "s_gunstore",
-      "s_gunstore_looted",
-      "s_gunstore_2ndfloor",
-      "s_gunstore_roof"
-    ],
+    "id": [ "s_gun_a", "s_gun_a_roof", "s_gun_b_store", "s_gun_b_roof", "s_gun_b_range", "s_gun_b_range_roof" ],
     "fg": "s_gunstore"
   }
 ]
