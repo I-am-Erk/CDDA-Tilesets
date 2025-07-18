@@ -1,0 +1,14 @@
+[
+  {
+    "id": [ "s_gun_b_store" ],
+    "fg": [ "s_gun_b_store_north", "s_gun_b_store_west", "s_gun_b_store_south", "s_gun_b_store_east" ],
+    "bg": [ "3163_house_01_1", "3164_house_01_2", "3165_house_01_3", "3166_house_01_4" ],
+    "rotates": true
+  },
+  {
+    "id": [ "s_gun_b_range" ],
+    "fg": [ "s_gun_b_range_north", "s_gun_b_store_east", "s_gun_b_range_south", "s_gun_b_store_west" ],
+    "bg": [ "3163_house_01_1", "3164_house_01_2", "3165_house_01_3", "3166_house_01_4" ],
+    "rotates": true
+  }
+]
