@@ -1,0 +1,15 @@
+[
+  {
+    "id": [ "meadow_core" ],
+    "fg": [
+      { "weight": 25, "sprite": "meadow_0" },
+      { "weight": 25, "sprite": "meadow_1" },
+      { "weight": 5, "sprite": "meadow_2" }
+    ]
+  },
+  {
+    "id": [ "meadow_end" ],
+    "//": "Ideally the edges and corners would be less dense and directional but with the way the ids + lack of connect groups for overmap stuff that's not super viable rn",
+    "fg": [ { "weight": 25, "sprite": "meadow_0" }, { "weight": 25, "sprite": "meadow_1" } ]
+  }
+]
