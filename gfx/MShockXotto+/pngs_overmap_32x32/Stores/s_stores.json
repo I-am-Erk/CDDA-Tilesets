@@ -88,5 +88,23 @@
     "fg": [ "s_liquor" ],
     "rotates": false,
     "bg": [ "store_background" ]
+  },
+  {
+    "id": ["furniture"],
+    "fg": [ "furniture" ],
+    "rotates": false,
+    "bg": [ "store_background" ]
+  ,
+  {
+    "id": ["s_grocery", "s_grocery_1"],
+    "fg": [ "s_grocery" ],
+    "rotates": false,
+    "bg": [ "store_background" ]
+  },
+  {
+    "id": ["mil_surplus", "mil_surplus_1", "mil_surplus_2"],
+    "fg": [ "mil_surplus" ],
+    "rotates": false,
+    "bg": [ "store_background" ]
   }
 ]

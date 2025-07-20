@@ -1,0 +1,8 @@
+[
+  {
+    "id": ["office_doctor", "office_doctor_1", "office_doctor_2"],
+    "fg": [ "office_doctor" ],
+    "rotates": false,
+    "bg": [  ]
+  }
+]

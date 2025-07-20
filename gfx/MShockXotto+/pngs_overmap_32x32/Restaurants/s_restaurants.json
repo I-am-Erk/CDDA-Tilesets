@@ -22,5 +22,11 @@
     "fg": [ "s_restaurant" ],
     "rotates": false,
     "bg": [ "restaurant_background" ]
+  },
+  {
+    "id": ["s_restaurant_coffee", "s_restaurant_coffee_1", "s_restaurant_coffee_2"],
+    "fg": [ "s_restaurant_coffee" ],
+    "rotates": false,
+    "bg": [ "restaurant_background" ]
   }
 ]
