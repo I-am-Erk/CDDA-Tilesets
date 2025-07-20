@@ -76,5 +76,17 @@
     "fg": [ "s_music" ],
     "rotates": false,
     "bg": [ "store_background" ]
+  },
+  {
+    "id": ["s_petstore", "s_petstore_1", "s_petstore_2"],
+    "fg": [ "s_petstore" ],
+    "rotates": false,
+    "bg": [ "store_background" ]
+  },
+  {
+    "id": ["s_liquor"],
+    "fg": [ "s_liquor" ],
+    "rotates": false,
+    "bg": [ "store_background" ]
   }
 ]
