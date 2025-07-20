@@ -70,5 +70,11 @@
     "fg": [ "s_weldingstore" ],
     "rotates": false,
     "bg": [ "store_background" ]
+  },
+  {
+    "id": ["s_music"],
+    "fg": [ "s_music" ],
+    "rotates": false,
+    "bg": [ "store_background" ]
   }
 ]
