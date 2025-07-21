@@ -1,0 +1,15 @@
+[
+  {
+    "id": [ "mon_feral_zebra_agent_p90" ],
+    "fg": [
+      { "weight": 1, "sprite": "mon_feral_zebra_agent_p90_0" },
+      { "weight": 1, "sprite": "mon_feral_zebra_agent_p90_1" },
+      { "weight": 1, "sprite": "mon_feral_zebra_agent_p90_2" },
+      { "weight": 1, "sprite": "mon_feral_zebra_agent_p90_3" },
+      { "weight": 1, "sprite": "mon_feral_zebra_agent_p90_4" },
+      { "weight": 1, "sprite": "mon_feral_zebra_agent_p90_5" }
+    ],
+    "bg": [ ],
+    "rotates": false
+  }
+]
