@@ -1,13 +1,57 @@
 [
   {
-    "id": "t_sidewalk",
-    "fg": [ ],
-    "bg": [
-        { "weight": 100, "sprite": "t_sidewalk_0" },
-        { "weight": 1, "sprite": "t_sidewalk_1" },
-        { "weight": 2, "sprite": "t_sidewalk_2" },
-        { "weight": 2, "sprite": "t_sidewalk_3" }
-    ],
-    "rotates": true
+    "id": [ "t_sidewalk" ],
+    "multitile": true,
+    "fg": "t_sidewalk_unconnected",
+    "bg": "",
+    "additional_tiles": [
+      { "id": "center", 
+		"bg": "", 
+		"fg": [
+				{"weight":1600, "sprite":"t_sidewalk_center" },
+				{"weight":1, "sprite":"t_sidewalk_center_dmg1" },
+				{"weight":1, "sprite":"t_sidewalk_center_dmg1_1" },
+				{"weight":1, "sprite":"t_sidewalk_center_dmg1_2" },
+				{"weight":1, "sprite":"t_sidewalk_center_dmg1_3" },
+				{"weight":1, "sprite":"t_sidewalk_center_dmg2" },
+				{"weight":1, "sprite":"t_sidewalk_center_dmg2_1" },
+				{"weight":1, "sprite":"t_sidewalk_center_dmg2_2" },
+				{"weight":1, "sprite":"t_sidewalk_center_dmg2_3" },
+				{"weight":1, "sprite":"t_sidewalk_center_dmg2_4" },
+				{"weight":4, "sprite":"t_sidewalk_center_dmg3" },
+				{"weight":4, "sprite":"t_sidewalk_center_dmg3_1" },
+				{"weight":4, "sprite":"t_sidewalk_center_dmg3_2" },
+				{"weight":4, "sprite":"t_sidewalk_center_dmg3_3" },
+				{"weight":2, "sprite":"t_sidewalk_center_dmg4" },
+				{"weight":2, "sprite":"t_sidewalk_center_dmg4_1" },
+				{"weight":4, "sprite":"t_sidewalk_center_dmg5" },
+				{"weight":4, "sprite":"t_sidewalk_center_dmg5_1" },
+				{"weight":4, "sprite":"t_sidewalk_center_dmg5_2" },
+				{"weight":4, "sprite":"t_sidewalk_center_dmg6" },
+				{"weight":1, "sprite":"t_sidewalk_center_dmg7" },
+				{"weight":1, "sprite":"t_sidewalk_center_dmg8" },
+				{"weight":1, "sprite":"t_sidewalk_center_dmg9" },
+				{"weight":1, "sprite":"t_sidewalk_center_dmg9_1" },
+				{"weight":1, "sprite":"t_sidewalk_center_dmg9_2" }
+			] 
+	  },
+      {
+        "id": "corner",
+        "bg": "",
+        "fg": [ "t_sidewalk_corner_nw", "t_sidewalk_corner_sw", "t_sidewalk_corner_se", "t_sidewalk_corner_ne" ]
+      },
+      {
+        "id": "t_connection",
+        "bg": "",
+        "fg": [ "t_sidewalk_t_connection_n", "t_sidewalk_t_connection_w", "t_sidewalk_t_connection_s", "t_sidewalk_t_connection_e" ]
+      },
+      { "id": "edge", "bg": "", "fg": [ "t_sidewalk_edge_ns", "t_sidewalk_edge_ew" ] },
+      {
+        "id": "end_piece",
+        "bg": "",
+        "fg": [ "t_sidewalk_end_piece_n", "t_sidewalk_end_piece_w", "t_sidewalk_end_piece_s", "t_sidewalk_end_piece_e" ]
+      },
+      { "bg": "", "id": "unconnected", "fg": "t_sidewalk_unconnected" }
+    ]
   }
 ]
