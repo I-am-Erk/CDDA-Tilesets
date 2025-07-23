@@ -1,52 +1,132 @@
-{
-  "id": "road",
-  "fg": "road_unconnected",
-  "multitile": true,
-  "additional_tiles": [
-    {
-      "id": "center",
-      "fg": "road_center"
-    },
-    {
-      "id": "corner",
-      "fg": [
-        "road_corner_nw",
-        "road_corner_sw",
-        "road_corner_se",
-        "road_corner_ne"
-      ]
-    },
-    {
-      "id": "t_connection",
-      "fg": [
-        "road_t_connection_n",
-        "road_t_connection_w",
-        "road_t_connection_s",
-        "road_t_connection_e"
-      ]
-    },
-    {
-      "id": "edge",
-      "fg": [
-        "road_edge_ns",
-        "road_edge_ew"
-      ]
-    },
-    {
-      "id": "end_piece",
-      "fg": [
-        "road_end_piece_n",
-        "road_end_piece_w",
-        "road_end_piece_s",
-        "road_end_piece_e"
-      ]
-    },
-    {
-      "id": "unconnected",
-      "fg": [
-        "road_unconnected",
-        "road_unconnected"
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "road",
+    "fg": "road_unconnected",
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "center", "fg": "road_center" },
+      { "id": "corner", "fg": [ "road_corner_nw", "road_corner_sw", "road_corner_se", "road_corner_ne" ] },
+      {
+        "id": "t_connection",
+        "fg": [ "road_t_connection_n", "road_t_connection_w", "road_t_connection_s", "road_t_connection_e" ]
+      },
+      { "id": "edge", "fg": [ "road_edge_ns", "road_edge_ew" ] },
+      { "id": "end_piece", "fg": [ "road_end_piece_n", "road_end_piece_w", "road_end_piece_s", "road_end_piece_e" ] },
+      { "id": "unconnected", "fg": [ "road_unconnected", "road_unconnected" ] }
+    ]
+  },
+  {
+    "id": [ "trailer_road", "trailer_road_1parkway", "trailer_road_2parkway" ],
+    "fg": "road_edge_ns",
+    "rotates": true
+  },
+  {
+    "id": "trailer_hub_11",
+    "fg": "road_edge_ew",
+    "rotates": true
+  },
+  {
+    "id": "trailer_road_turn",
+    "fg": "road_corner_ne",
+    "rotates": true
+  },
+  {
+    "id": "trailer_road_3way",
+    "fg": "road_t_connection_n",
+    "rotates": true
+  },
+  {
+    "id": "trailer_hub_01",
+    "fg": "road_center"
+  },
+  {
+    "id": "nursing_home_8",
+    "fg": "road_edge_ns",
+    "rotates": true
+  },
+  {
+    "id": "nursing_home_4",
+    "fg": "road_corner_ne",
+    "rotates": true
+  },
+  {
+    "id": "nursing_home_12",
+    "fg": "road_t_connection_e",
+    "rotates": true
+  },
+  {
+    "id": [ "lab_surface_parking_blockA2", "lab_surface_parking_blockE2" ],
+    "fg": "road_edge_ns",
+    "rotates": true
+  },
+  {
+    "id": "s_air_runway_l",
+    "fg": "road_end_piece_w",
+    "rotates": true
+  },
+  {
+    "id": "s_air_runway_r",
+    "fg": "road_end_piece_e",
+    "rotates": true
+  },
+  {
+    "id": [ "s_air_runway", "s_air_runway_B", "s_air_runway_term", "s_air_runway_hangars" ],
+    "fg": "road_edge_ew",
+    "rotates": true
+  },
+  {
+    "id": "runway_start",
+    "fg": "road_end_piece_w",
+    "rotates": true
+  },
+  {
+    "id": "runway_end",
+    "fg": "road_end_piece_e",
+    "rotates": true
+  },
+  {
+    "id": [ "runway", "runway_fuel", "runway_fuel2", "runway_wild", "runway_carts", "runway_hangar", "runway_hangar2" ],
+    "fg": "road_edge_ew",
+    "rotates": true
+  },
+  {
+    "id": "ranch_camp_77",
+    "fg": "road_end_piece_n",
+    "rotates": true
+  },
+  {
+    "id": "car_theater_3_0",
+    "fg": "road_edge_ns",
+    "rotates": true
+  },
+  {
+    "id": [ "speedway_5_8", "speedway_8_5" ],
+    "fg": "road_t_connection_e",
+    "rotates": true
+  },
+  {
+    "id": [ "speedway_5_9", "speedway_8_6", "speedway_8_4", "speedway_8_3", "speedway_8_2" ],
+    "fg": "road_edge_ns",
+    "rotates": true
+  },
+  {
+    "id": "speedway_5_7",
+    "fg": "road_corner_nw",
+    "rotates": true
+  },
+  {
+    "id": [ "speedway_6_7", "speedway_7_7", "speedway_7_5" ],
+    "fg": "road_edge_ew",
+    "rotates": true
+  },
+  {
+    "id": "speedway_8_7",
+    "fg": "road_corner_se",
+    "rotates": true
+  },
+  {
+    "id": "speedway_8_1",
+    "fg": "road_corner_ne",
+    "rotates": true
+  }
+]
