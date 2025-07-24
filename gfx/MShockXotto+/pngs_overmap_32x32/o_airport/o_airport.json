@@ -1,0 +1,17 @@
+[
+  {
+    "id": "s_air_runway_l",
+    "fg": "road_end_piece_w",
+    "rotates": true
+  },
+  {
+    "id": "s_air_runway_r",
+    "fg": "road_end_piece_e",
+    "rotates": true
+  },
+  {
+    "id": [ "s_air_runway", "s_air_runway_B", "s_air_runway_term", "s_air_runway_hangars" ],
+    "fg": "road_edge_ew",
+    "rotates": true
+  }
+]
