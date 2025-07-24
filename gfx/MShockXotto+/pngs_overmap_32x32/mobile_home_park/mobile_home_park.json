@@ -1,0 +1,26 @@
+[
+  {
+    "id": [ "trailer_road", "trailer_road_1parkway", "trailer_road_2parkway" ],
+    "fg": "road_edge_ns",
+    "rotates": true
+  },
+  {
+    "id": "trailer_hub_11",
+    "fg": "road_edge_ew",
+    "rotates": true
+  },
+  {
+    "id": "trailer_road_turn",
+    "fg": "road_corner_ne",
+    "rotates": true
+  },
+  {
+    "id": "trailer_road_3way",
+    "fg": "road_t_connection_n",
+    "rotates": true
+  },
+  {
+    "id": "trailer_hub_01",
+    "fg": "road_center"
+  }
+]

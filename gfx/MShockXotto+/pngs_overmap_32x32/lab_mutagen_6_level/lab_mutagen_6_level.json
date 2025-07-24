@@ -1,0 +1,7 @@
+[
+  {
+    "id": [ "lab_surface_parking_blockA2", "lab_surface_parking_blockE2" ],
+    "fg": "road_edge_ns",
+    "rotates": true
+  }
+]

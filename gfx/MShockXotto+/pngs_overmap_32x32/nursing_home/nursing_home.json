@@ -1,0 +1,17 @@
+[
+  {
+    "id": "nursing_home_8",
+    "fg": "road_edge_ns",
+    "rotates": true
+  },
+  {
+    "id": "nursing_home_4",
+    "fg": "road_corner_ne",
+    "rotates": true
+  },
+  {
+    "id": "nursing_home_12",
+    "fg": "road_t_connection_e",
+    "rotates": true
+  }
+]

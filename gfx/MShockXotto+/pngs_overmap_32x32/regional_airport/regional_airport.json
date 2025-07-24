@@ -1,0 +1,17 @@
+[
+  {
+    "id": "runway_start",
+    "fg": "road_end_piece_w",
+    "rotates": true
+  },
+  {
+    "id": "runway_end",
+    "fg": "road_end_piece_e",
+    "rotates": true
+  },
+  {
+    "id": [ "runway", "runway_fuel", "runway_fuel2", "runway_wild", "runway_carts", "runway_hangar", "runway_hangar2" ],
+    "fg": "road_edge_ew",
+    "rotates": true
+  }
+]

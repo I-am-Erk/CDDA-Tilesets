@@ -1,0 +1,32 @@
+[
+  {
+    "id": [ "speedway_5_8", "speedway_8_5" ],
+    "fg": "road_t_connection_e",
+    "rotates": true
+  },
+  {
+    "id": [ "speedway_5_9", "speedway_8_6", "speedway_8_4", "speedway_8_3", "speedway_8_2" ],
+    "fg": "road_edge_ns",
+    "rotates": true
+  },
+  {
+    "id": "speedway_5_7",
+    "fg": "road_corner_nw",
+    "rotates": true
+  },
+  {
+    "id": [ "speedway_6_7", "speedway_7_7", "speedway_7_5" ],
+    "fg": "road_edge_ew",
+    "rotates": true
+  },
+  {
+    "id": "speedway_8_7",
+    "fg": "road_corner_se",
+    "rotates": true
+  },
+  {
+    "id": "speedway_8_1",
+    "fg": "road_corner_ne",
+    "rotates": true
+  }
+]
