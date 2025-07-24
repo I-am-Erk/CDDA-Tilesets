@@ -1,82 +1,94 @@
 [
   {
-    "id": [ "refctr_SW1e" ],
-    "fg": [ { "weight": 1, "sprite": "refctr_TL" }, { "weight": 1, "sprite": "refctr_TL1" } ]
-  },
-  {
-    "id": [ "refctr_NW1a" ],
-    "fg": [ { "weight": 1, "sprite": "refctr_TR" }, { "weight": 1, "sprite": "refctr_TR1" } ]
-  },
-  {
-    "id": [ "refctr_NE1a" ],
-    "fg": [ { "weight": 1, "sprite": "refctr_BR" }, { "weight": 1, "sprite": "refctr_BR1" } ]
-  },
-  {
-    "id": [ "refctr_SE1e" ],
-    "fg": [ { "weight": 1, "sprite": "refctr_BL" }, { "weight": 1, "sprite": "refctr_BL1" } ]
-  },
-  {
-    "id": [
-      "refctr_NW2a",
-      "refctr_NW3a",
-      "refctr_NW4a",
-      "refctr_NW5a",
-      "refctr_N1a",
-      "refctr_N2a",
-      "refctr_N3a",
-      "refctr_N4a",
-      "refctr_N5a"
+    "id": "refctr_fence_h",
+    "fg": [
+      { "weight": 2, "sprite": [ "refctr_fence_N", "refctr_fence_W", "refctr_fence_S", "refctr_fence_E" ] },
+      { "weight": 1, "sprite": [ "refctr_fence_N1", "refctr_fence_W1", "refctr_fence_S1", "refctr_fence_E1" ] }
     ],
-    "fg": [ { "weight": 1, "sprite": "refctr_R" }, { "weight": 1, "sprite": "refctr_R1" } ]
+    "rotates": true
+  },
+  {
+    "id": "refctr_fence_v",
+    "fg": [
+      { "weight": 2, "sprite": [ "refctr_fence_E", "refctr_fence_N", "refctr_fence_W", "refctr_fence_S" ] },
+      { "weight": 1, "sprite": [ "refctr_fence_E1", "refctr_fence_N1", "refctr_fence_W1", "refctr_fence_S1" ] }
+    ],
+    "rotates": true
+  },
+  {
+    "id": "refctr_fence_NE",
+    "fg": [
+      { "weight": 2, "sprite": [ "refctr_fence_NE", "refctr_fence_NW", "refctr_fence_SW", "refctr_fence_SE" ] },
+      { "weight": 1, "sprite": [ "refctr_fence_NE1", "refctr_fence_NW1", "refctr_fence_SW1", "refctr_fence_SE1" ] }
+    ],
+    "rotates": true
+  },
+  {
+    "id": "refctr_fence_NW",
+    "fg": [
+      { "weight": 2, "sprite": [ "refctr_fence_NW", "refctr_fence_SW", "refctr_fence_SE", "refctr_fence_NE" ] },
+      { "weight": 1, "sprite": [ "refctr_fence_NW1", "refctr_fence_SW1", "refctr_fence_SE1", "refctr_fence_NE1" ] }
+    ],
+    "rotates": true
+  },
+  {
+    "id": [ "refctr_fence_SW", "refctr_fence_entrance_R" ],
+    "fg": [
+      { "weight": 2, "sprite": [ "refctr_fence_SW", "refctr_fence_SE", "refctr_fence_NE", "refctr_fence_NW" ] },
+      { "weight": 1, "sprite": [ "refctr_fence_SW1", "refctr_fence_SE1", "refctr_fence_NE1", "refctr_fence_NW1" ] }
+    ],
+    "rotates": true
+  },
+  {
+    "id": [ "refctr_fence_SE", "refctr_fence_entrance_L" ],
+    "fg": [
+      { "weight": 2, "sprite": [ "refctr_fence_SE", "refctr_fence_NE", "refctr_fence_NW", "refctr_fence_SW" ] },
+      { "weight": 1, "sprite": [ "refctr_fence_SE1", "refctr_fence_NE1", "refctr_fence_NW1", "refctr_fence_SW1" ] }
+    ],
+    "rotates": true
   },
   {
     "id": [
-      "refctr_SW2e",
-      "refctr_SW3e",
-      "refctr_SW4e",
-      "refctr_SW5e",
-      "refctr_S1e",
-      "refctr_S2e",
+      "refctr_road",
       "refctr_S3e",
-      "refctr_S4e",
-      "refctr_S5e"
+      "evac_center_6",
+      "evac_center_11",
+      "evac_center_16",
+      "evac_center_10",
+      "evac_center_15",
+      "evac_center_20"
     ],
-    "fg": [ { "weight": 1, "sprite": "refctr_L" }, { "weight": 1, "sprite": "refctr_L1" } ]
+    "fg": "road_edge_ns",
+    "rotates": true
   },
   {
-    "id": [
-      "refctr_SE1d",
-      "refctr_SE1c",
-      "refctr_SE1b",
-      "refctr_SE1a",
-      "refctr_E1e",
-      "refctr_E1d",
-      "refctr_E1c",
-      "refctr_E1b",
-      "refctr_E1a",
-      "refctr_NE1e",
-      "refctr_NE1d",
-      "refctr_NE1c",
-      "refctr_NE1b"
-    ],
-    "fg": [ { "weight": 1, "sprite": "refctr_B" }, { "weight": 1, "sprite": "refctr_B1" } ]
+    "id": [ "evac_center_2", "evac_center_3", "evac_center_4", "evac_center_22", "evac_center_24" ],
+    "fg": "road_edge_ew",
+    "rotates": true
   },
   {
-    "id": [
-      "refctr_SW1d",
-      "refctr_SW1c",
-      "refctr_SW1b",
-      "refctr_SW1a",
-      "refctr_W1e",
-      "refctr_W1d",
-      "refctr_W1c",
-      "refctr_W1b",
-      "refctr_W1a",
-      "refctr_NW1e",
-      "refctr_NW1d",
-      "refctr_NW1c",
-      "refctr_NW1b"
-    ],
-    "fg": [ { "weight": 80, "sprite": "refctr_T" }, { "weight": 20, "sprite": "refctr_T1" } ]
+    "id": "evac_center_23",
+    "fg": "road_t_connection_n",
+    "rotates": true
+  },
+  {
+    "id": "evac_center_5",
+    "fg": "road_corner_ne",
+    "rotates": true
+  },
+  {
+    "id": "evac_center_1",
+    "fg": "road_corner_nw",
+    "rotates": true
+  },
+  {
+    "id": "evac_center_21",
+    "fg": "road_corner_sw",
+    "rotates": true
+  },
+  {
+    "id": "evac_center_25",
+    "fg": "road_corner_se",
+    "rotates": true
   }
 ]
