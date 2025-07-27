@@ -1,0 +1,16 @@
+{
+  "id": "f_sleep_pod",
+  "fg": [
+    "f_sleep_pod_0"
+  ],
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "unconnected", "fg": [ "f_sleep_pod_0" ], "bg": [  ] },
+    { "id": "edge", "fg": [ "f_sleep_pod_1" ], "bg": [  ] },
+    { "id": "end_piece", "fg": [ "f_sleep_pod_2" ], "bg": [  ] }
+  ],
+  "bg": [
+    
+  ]
+}
