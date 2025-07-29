@@ -1,0 +1,52 @@
+{
+  "id": "f_afs_sofa",
+  "fg": "f_afs_sofa_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_afs_sofa_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_afs_sofa_corner_nw",
+        "f_afs_sofa_corner_sw",
+        "f_afs_sofa_corner_se",
+        "f_afs_sofa_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_afs_sofa_t_connection_n",
+        "f_afs_sofa_t_connection_w",
+        "f_afs_sofa_t_connection_s",
+        "f_afs_sofa_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_afs_sofa_edge_ns",
+        "f_afs_sofa_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_afs_sofa_end_piece_n",
+        "f_afs_sofa_end_piece_w",
+        "f_afs_sofa_end_piece_s",
+        "f_afs_sofa_end_piece_e"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_afs_sofa_unconnected",
+        "f_afs_sofa_unconnected"
+      ]
+    }
+  ]
+}
