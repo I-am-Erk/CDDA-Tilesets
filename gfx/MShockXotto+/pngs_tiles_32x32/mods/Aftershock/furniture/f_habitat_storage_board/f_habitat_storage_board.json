@@ -1,0 +1,52 @@
+{
+  "id": "f_habitat_storage_board",
+  "fg": "f_habitat_storage_board_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "f_habitat_storage_board_center"
+    },
+    {
+      "id": "corner",
+      "fg": [
+        "f_habitat_storage_board_corner_nw",
+        "f_habitat_storage_board_corner_sw",
+        "f_habitat_storage_board_corner_se",
+        "f_habitat_storage_board_corner_ne"
+      ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "f_habitat_storage_board_t_connection_n",
+        "f_habitat_storage_board_t_connection_w",
+        "f_habitat_storage_board_t_connection_s",
+        "f_habitat_storage_board_t_connection_e"
+      ]
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "f_habitat_storage_board_edge_ns",
+        "f_habitat_storage_board_edge_ew"
+      ]
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "f_habitat_storage_board_end_piece_n",
+        "f_habitat_storage_board_end_piece_w",
+        "f_habitat_storage_board_end_piece_s",
+        "f_habitat_storage_board_end_piece_e"
+      ]
+    },
+    {
+      "id": "unconnected",
+      "fg": [
+        "f_habitat_storage_board_unconnected",
+        "f_habitat_storage_board_unconnected"
+      ]
+    }
+  ]
+}
