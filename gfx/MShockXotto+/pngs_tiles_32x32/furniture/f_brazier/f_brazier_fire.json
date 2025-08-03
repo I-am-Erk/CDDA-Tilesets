@@ -1,0 +1,13 @@
+{
+  "id": "f_brazier_fire",
+  "animated": true,
+    "fg": [
+      { "weight": 8, "sprite": "f_brazier_fire" },
+      { "weight": 8, "sprite": "f_brazier_fire2" },
+      { "weight": 8, "sprite": "f_brazier_fire3" },
+      { "weight": 8, "sprite": "f_brazier_fire4" },
+      { "weight": 8, "sprite": "f_brazier_fire5" },
+      { "weight": 8, "sprite": "f_brazier_fire6" },
+      { "weight": 8, "sprite": "f_brazier_fire7" }
+    ]
+}
