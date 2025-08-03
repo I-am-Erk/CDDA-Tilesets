@@ -1,0 +1,8 @@
+[
+  {
+    "id": ["park", "park_1", "park_2", "park_3", "park_4", "park_5", "park_6", "park_7"],
+    "fg": [ "park" ],
+    "rotates": false,
+    "bg": [  ]
+  }
+]

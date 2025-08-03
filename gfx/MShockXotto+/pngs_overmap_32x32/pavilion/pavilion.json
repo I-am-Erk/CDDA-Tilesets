@@ -1,6 +1,6 @@
 [
   {
-    "id": "pavilion",
+    "id": ["pavilion", "pavilion_1"],
     "fg": [ "pavilion_north","pavilion_east","pavilion_south","pavilion_west" ],
     "rotates": true,
     "bg": [  ]

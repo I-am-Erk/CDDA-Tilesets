@@ -5,7 +5,8 @@
     "landfill",
     "junkyard 1a",
     "smallscrapyard",
-    "cs_city_dump_small"
+    "cs_city_dump_small",
+    "dumpsite_edge"
   ],
   "fg": "dump"
 }

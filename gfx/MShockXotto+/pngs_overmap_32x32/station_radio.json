@@ -1,0 +1,8 @@
+[
+  {
+    "id": ["station_radio", "station_radio_1"],
+    "fg": [ "station_radio" ],
+    "rotates": false,
+    "bg": [ "" ]
+  }
+]
