@@ -108,7 +108,8 @@
         { "item": "stick_long", "sprite": [{"id": "brazier_wood", "weight": 1}], "layer": 90 },
         { "item": "splinter", "sprite": [{"id": "brazier_wood", "weight": 1}], "layer": 90 },
         { "item": "tinder", "sprite": [{"id": "brazier_wood", "weight": 1}], "layer": 90 },
-        { "item": "ash", "sprite": [{"id": "brazier_ashes", "weight": 2}], "layer": 80 }
+        { "item": "ash", "sprite": [{"id": "brazier_ashes", "weight": 1}], "layer": 80 },
+        { "item": "corpse_ash", "sprite": [{"id": "brazier_ashes", "weight": 1}], "layer": 80 }
       ],
       "field_variants": [
         { "field": "fd_fire", "sprite": [{"id": "f_brazier_fire", "weight": 3}] }
