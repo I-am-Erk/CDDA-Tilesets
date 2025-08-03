@@ -1,72 +1,12 @@
 [
   {
-    "id": "water",
+    "id": ["water","salt_water"],
     "fg": [ "water" ],
-    "bg": [ ]
-  },
-  {
-    "id": "water_clean",
-    "fg": [ "water_clean" ],
-    "bg": [ ]
-  },
-  {
-    "id": "gasoline",
-    "fg": [ "gasoline" ],
-    "bg": [ ]
-  },
-  {
-    "id": "diesel",
-    "fg": [ "diesel" ],
-    "bg": [ ]
-  },
-  {
-    "id": "biodiesel",
-    "fg": [ "biodiesel" ],
-    "bg": [ ]
-  },
-  {
-    "id": "flamethrower_fuel",
-    "fg": [ "flamethrower_fuel" ],
-    "bg": [ ]
-  },
-  {
-    "id": "avgas",
-    "fg": [ "avgas" ],
-    "bg": [ ]
-  },
-  {
-    "id": "lamp_oil",
-    "fg": [ "lamp_oil" ],
-    "bg": [ ]
-  },
-  {
-    "id": "motor_oil",
-    "fg": [ "motor_oil" ],
-    "bg": [ ]
-  },
-  {
-    "id": "napalm",
-    "fg": [ "napalm" ],
-    "bg": [ ]
-  },
-  {
-    "id": "gelled_gasoline",
-    "fg": [ "gelled_gasoline" ],
-    "bg": [ ]
-  },
-  {
-    "id": "blood",
-    "fg": [ "blood" ],
     "bg": [ ]
   },
   {
     "id": [ "oj", "lemonade" ],
     "fg": "oj",
-    "bg": [ ]
-  },
-  {
-    "id": [ "salt_water" ],
-    "fg": "water",
     "bg": [ ]
   }
 ]
