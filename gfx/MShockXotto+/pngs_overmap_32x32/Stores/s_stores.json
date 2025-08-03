@@ -1,0 +1,74 @@
+[
+  {
+    "id": ["s_bookstore", "s_bookstore_1", "s_bookstore_2"],
+    "fg": [ "s_bookstore" ],
+    "rotates": false,
+    "bg": [ "store_background" ]
+  },
+  {
+    "id": ["s_cosmetic"],
+    "fg": [ "s_cosmetic" ],
+    "rotates": false,
+    "bg": [ "store_background" ]
+  },
+  {
+    "id": ["s_camping"],
+    "fg": [ "s_camping" ],
+    "rotates": false,
+    "bg": [ "store_background" ]
+  },
+  {
+    "id": ["s_hunting"],
+    "fg": [ "s_hunting" ],
+    "rotates": false,
+    "bg": [ "store_background" ]
+  },
+  {
+    "id": ["s_games"],
+    "fg": [ "s_games" ],
+    "rotates": false,
+    "bg": [ "store_background" ]
+  },
+  {
+    "id": ["s_sports"],
+    "fg": [ "s_sports" ],
+    "rotates": false,
+    "bg": [ "store_background" ]
+  },
+  {
+    "id": ["s_bike_shop", "s_bike_shop_1"],
+    "fg": [ "s_bike_shop" ],
+    "rotates": false,
+    "bg": [ "store_background" ]
+  },
+  {
+    "id": ["s_clothes", "s_clothes_1", "s_clothes_2", "s_clothes_3", "s_clothes_4", "s_clothes_5", "s_clothes_6"],
+    "fg": [ "s_clothes" ],
+    "rotates": false,
+    "bg": [ "store_background" ]
+  },
+  {
+    "id": ["s_electronics", "s_electronics_1", "s_electronicstore"],
+    "fg": [ "s_electronics" ],
+    "rotates": false,
+    "bg": [ "store_background" ]
+  },
+  {
+    "id": ["s_pharm", "s_pharm_1"],
+    "fg": [ "s_pharm" ],
+    "rotates": false,
+    "bg": [ "store_background" ]
+  },
+  {
+    "id": ["s_gardening"],
+    "fg": [ "s_gardening" ],
+    "rotates": false,
+    "bg": [ "store_background" ]
+  },
+  {
+    "id": ["s_weldingstore"],
+    "fg": [ "s_weldingstore" ],
+    "rotates": false,
+    "bg": [ "store_background" ]
+  }
+]

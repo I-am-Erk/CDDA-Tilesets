@@ -1,0 +1,26 @@
+[
+  {
+    "id": ["s_butcher", "s_butcher_1", "s_butcher_2"],
+    "fg": [ "s_butcher" ],
+    "rotates": false,
+    "bg": [ "restaurant_background" ]
+  },
+  {
+    "id": ["s_pizza_parlor", "s_pizza_parlor_1"],
+    "fg": [ "s_pizza_parlor" ],
+    "rotates": false,
+    "bg": [ "restaurant_background" ]
+  },
+  {
+    "id": ["s_diner"],
+    "fg": [ "s_diner" ],
+    "rotates": false,
+    "bg": [ "restaurant_background" ]
+  },
+  {
+    "id": ["s_restaurant", "s_restaurant_1", "s_restaurant_2", "s_restaurant_3"],
+    "fg": [ "s_restaurant" ],
+    "rotates": false,
+    "bg": [ "restaurant_background" ]
+  }
+]
