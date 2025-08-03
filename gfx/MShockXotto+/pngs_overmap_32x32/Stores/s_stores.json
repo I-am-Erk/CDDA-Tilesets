@@ -94,7 +94,7 @@
     "fg": [ "furniture" ],
     "rotates": false,
     "bg": [ "store_background" ]
-  ,
+  },
   {
     "id": ["s_grocery", "s_grocery_1"],
     "fg": [ "s_grocery" ],
@@ -104,6 +104,42 @@
   {
     "id": ["mil_surplus", "mil_surplus_1", "mil_surplus_2"],
     "fg": [ "mil_surplus" ],
+    "rotates": false,
+    "bg": [ "store_background" ]
+  },
+  {
+    "id": ["s_dive_shop"],
+    "fg": [ "s_dive_shop" ],
+    "rotates": false,
+    "bg": [ "store_background" ]
+  },
+  {
+    "id": ["s_jewelry"],
+    "fg": [ "s_jewelry" ],
+    "rotates": false,
+    "bg": [ "store_background" ]
+  },
+  {
+    "id": ["craft_shop_3"],
+    "fg": [ "craft_shop_3" ],
+    "rotates": false,
+    "bg": [ "store_background" ]
+  },
+  {
+    "id": ["craft_shop_2"],
+    "fg": [ "craft_shop_2" ],
+    "rotates": false,
+    "bg": [ "store_background" ]
+  },
+  {
+    "id": ["craft_shop_1"],
+    "fg": [ "craft_shop_1" ],
+    "rotates": false,
+    "bg": [ "store_background" ]
+  },
+  {
+    "id": ["craft_shop"],
+    "fg": [ "craft_shop" ],
     "rotates": false,
     "bg": [ "store_background" ]
   }

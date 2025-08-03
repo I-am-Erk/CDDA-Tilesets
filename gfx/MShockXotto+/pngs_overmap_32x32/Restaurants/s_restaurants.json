@@ -28,5 +28,17 @@
     "fg": [ "s_restaurant_coffee" ],
     "rotates": false,
     "bg": [ "restaurant_background" ]
+  },
+  {
+    "id": ["s_teashop", "s_teashop_1"],
+    "fg": [ "s_teashop" ],
+    "rotates": false,
+    "bg": [ "restaurant_background" ]
+  },
+  {
+    "id": ["candy_shop", "candy_shop_1"],
+    "fg": [ "candy_shop" ],
+    "rotates": false,
+    "bg": [ "restaurant_background" ]
   }
 ]
