@@ -60,7 +60,9 @@
     "bg": [
       { "weight": 1, "sprite": "t_grass_winter" },
       { "weight": 1, "sprite": "t_grass_winter_1" },
-      { "weight": 1, "sprite": "t_grass_winter_2" }
+      { "weight": 1, "sprite": "t_grass_winter_2" },
+      { "weight": 1, "sprite": "t_grass_winter_3" },
+      { "weight": 1, "sprite": "t_grass_winter_4" }
     ]
   }
 ]
