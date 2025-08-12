@@ -1,0 +1,36 @@
+[
+  {
+    "id": "t_dirtmound_season_spring",
+    "fg": "t_dirtmound",
+    "bg": [ { "weight": 1, "sprite": "t_grass" }, { "weight": 1, "sprite": "t_grass_1" }, { "weight": 1, "sprite": "t_grass_2" } ]
+  },
+  {
+    "id": "t_dirtmound_season_summer",
+    "fg": "t_dirtmound",
+    "bg": [
+      { "weight": 1, "sprite": "t_grass_summer" },
+      { "weight": 1, "sprite": "t_grass_summer_1" },
+      { "weight": 1, "sprite": "t_grass_summer_2" }
+    ]
+  },
+  {
+    "id": "t_dirtmound_season_autumn",
+    "fg": "t_dirtmound",
+    "bg": [
+      { "weight": 1, "sprite": "t_grass_autumn" },
+      { "weight": 1, "sprite": "t_grass_autumn_1" },
+      { "weight": 1, "sprite": "t_grass_autumn_2" }
+    ]
+  },
+  {
+    "id": "t_dirtmound_season_winter",
+    "fg": "t_dirtmound",
+    "bg": [
+      { "weight": 1, "sprite": "t_grass_winter" },
+      { "weight": 1, "sprite": "t_grass_winter_1" },
+      { "weight": 1, "sprite": "t_grass_winter_2" },
+      { "weight": 1, "sprite": "t_grass_winter_3" },
+      { "weight": 1, "sprite": "t_grass_winter_4" }
+    ]
+  }
+]

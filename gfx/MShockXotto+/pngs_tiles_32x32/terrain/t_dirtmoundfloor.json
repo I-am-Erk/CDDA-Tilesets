@@ -1,0 +1,11 @@
+[
+  {
+    "id": "t_dirtmoundfloor",
+    "fg": "t_dirtmound",
+    "bg": [
+      { "weight": 1, "sprite": "t_dirtfloor" },
+      { "weight": 1, "sprite": "t_dirtfloor_2" },
+      { "weight": 1, "sprite": "t_dirtfloor_3" }
+    ]
+  }
+]

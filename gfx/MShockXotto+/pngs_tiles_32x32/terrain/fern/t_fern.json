@@ -1,0 +1,68 @@
+[
+  {
+    "id": "t_fern_season_spring",
+    "fg": "t_fern_season_spring",
+    "bg": [ { "weight": 1, "sprite": "t_grass" }, { "weight": 1, "sprite": "t_grass_1" }, { "weight": 1, "sprite": "t_grass_2" } ]
+  },
+  {
+    "id": "t_fern_season_summer",
+    "fg": "t_fern_season_summer",
+    "bg": [
+      { "weight": 1, "sprite": "t_grass_summer" },
+      { "weight": 1, "sprite": "t_grass_summer_1" },
+      { "weight": 1, "sprite": "t_grass_summer_2" }
+    ]
+  },
+  {
+    "id": "t_fern_season_autumn",
+    "fg": "t_fern_season_autumn",
+    "bg": [
+      { "weight": 1, "sprite": "t_grass_autumn" },
+      { "weight": 1, "sprite": "t_grass_autumn_1" },
+      { "weight": 1, "sprite": "t_grass_autumn_2" }
+    ]
+  },
+  {
+    "id": "t_fern_season_winter",
+    "fg": "t_fern_season_winter",
+    "bg": [
+      { "weight": 1, "sprite": "t_grass_winter" },
+      { "weight": 1, "sprite": "t_grass_winter_1" },
+      { "weight": 1, "sprite": "t_grass_winter_2" }
+    ]
+  },
+  {
+    "id": "t_fern_harvested_season_spring",
+    "fg": "t_fern_harvested_season_spring",
+    "bg": [ { "weight": 1, "sprite": "t_grass" }, { "weight": 1, "sprite": "t_grass_1" }, { "weight": 1, "sprite": "t_grass_2" } ]
+  },
+  {
+    "id": "t_fern_harvested_season_summer",
+    "fg": "t_fern_harvested_season_summer",
+    "bg": [
+      { "weight": 1, "sprite": "t_grass_summer" },
+      { "weight": 1, "sprite": "t_grass_summer_1" },
+      { "weight": 1, "sprite": "t_grass_summer_2" }
+    ]
+  },
+  {
+    "id": "t_fern_harvested_season_autumn",
+    "fg": "t_fern_harvested_season_autumn",
+    "bg": [
+      { "weight": 1, "sprite": "t_grass_autumn" },
+      { "weight": 1, "sprite": "t_grass_autumn_1" },
+      { "weight": 1, "sprite": "t_grass_autumn_2" }
+    ]
+  },
+  {
+    "id": "t_fern_harvested_season_winter",
+    "fg": "t_fern_harvested_season_winter",
+    "bg": [
+      { "weight": 1, "sprite": "t_grass_winter" },
+      { "weight": 1, "sprite": "t_grass_winter_1" },
+      { "weight": 1, "sprite": "t_grass_winter_2" },
+      { "weight": 1, "sprite": "t_grass_winter_3" },
+      { "weight": 1, "sprite": "t_grass_winter_4" }
+    ]
+  }
+]
