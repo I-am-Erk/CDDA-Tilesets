@@ -1,0 +1,86 @@
+[
+  {
+    "id": "t_underbrush_season_spring",
+    "fg": [ "t_underbrush" ],
+    "bg": [ { "weight": 1, "sprite": "t_grass" }, { "weight": 1, "sprite": "t_grass_1" }, { "weight": 1, "sprite": "t_grass_2" } ]
+  },
+  {
+    "id": "t_underbrush_season_summer",
+    "fg": [ "t_underbrush" ],
+    "bg": [
+      { "weight": 1, "sprite": "t_grass_summer" },
+      { "weight": 1, "sprite": "t_grass_summer_1" },
+      { "weight": 1, "sprite": "t_grass_summer_2" }
+    ]
+  },
+  {
+    "id": "t_underbrush_season_autumn",
+    "fg": [ "t_underbrush" ],
+    "bg": [
+      { "weight": 1, "sprite": "t_grass_autumn" },
+      { "weight": 1, "sprite": "t_grass_autumn_1" },
+      { "weight": 1, "sprite": "t_grass_autumn_2" }
+    ]
+  },
+  {
+    "id": "t_underbrush_season_winter",
+    "fg": [ "t_underbrush_season_winter" ],
+    "bg": [
+      { "weight": 1, "sprite": "t_grass_winter" },
+      { "weight": 1, "sprite": "t_grass_winter_1" },
+      { "weight": 1, "sprite": "t_grass_winter_2" }
+    ]
+  },
+  {
+    "id": [
+      "t_underbrush_harvested_spring_season_spring",
+      "t_underbrush_harvested_summer_season_spring",
+      "t_underbrush_harvested_autumn_season_spring",
+      "t_underbrush_harvested_winter_season_spring"
+    ],
+    "fg": [ "t_underbrush_harvested" ],
+    "bg": [ { "weight": 1, "sprite": "t_grass" }, { "weight": 1, "sprite": "t_grass_1" }, { "weight": 1, "sprite": "t_grass_2" } ]
+  },
+  {
+    "id": [
+      "t_underbrush_harvested_spring_season_summer",
+      "t_underbrush_harvested_summer_season_summer",
+      "t_underbrush_harvested_autumn_season_summer",
+      "t_underbrush_harvested_winter_season_summer"
+    ],
+    "fg": [ "t_underbrush_harvested" ],
+    "bg": [
+      { "weight": 1, "sprite": "t_grass_summer" },
+      { "weight": 1, "sprite": "t_grass_summer_1" },
+      { "weight": 1, "sprite": "t_grass_summer_2" }
+    ]
+  },
+  {
+    "id": [
+      "t_underbrush_harvested_spring_season_autumn",
+      "t_underbrush_harvested_summer_season_autumn",
+      "t_underbrush_harvested_autumn_season_autumn",
+      "t_underbrush_harvested_winter_season_autumn"
+    ],
+    "fg": [ "t_underbrush_harvested" ],
+    "bg": [
+      { "weight": 1, "sprite": "t_grass_autumn" },
+      { "weight": 1, "sprite": "t_grass_autumn_1" },
+      { "weight": 1, "sprite": "t_grass_autumn_2" }
+    ]
+  },
+  {
+    "id": [
+      "t_underbrush_harvested_spring_season_winter",
+      "t_underbrush_harvested_summer_season_winter",
+      "t_underbrush_harvested_autumn_season_winter",
+      "t_underbrush_harvested_winter_season_winter"
+    ],
+    "fg": [ "t_underbrush_harvested_season_winter" ],
+    "bg": [
+      { "weight": 1, "sprite": "t_grass_winter" },
+      { "weight": 1, "sprite": "t_grass_winter_1" },
+      { "weight": 1, "sprite": "t_grass_winter_2" }
+    ]
+  }
+]
