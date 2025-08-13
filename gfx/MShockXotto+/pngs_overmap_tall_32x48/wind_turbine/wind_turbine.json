@@ -1,0 +1,24 @@
+[
+  {
+    "id": [ "wind_turbine_ground" ],
+    "fg": [ { "sprite": "wind_turbine_ground", "weight": 1 }, { "sprite": "wind_turbine_ground_1", "weight": 1 } ],
+    "bg": [
+      { "sprite": "field_32x48", "weight": 1 },
+      { "sprite": "field_32x48_1", "weight": 1 },
+      { "sprite": "field_32x48_2", "weight": 1 },
+      { "sprite": "field_32x48_3", "weight": 1 }
+    ]
+  },
+  {
+    "id": [ "wind_turbine_pillar", "wind_turbine_pillar_platform", "wind_turbine_nacelle", "wind_turbine_roof" ],
+    "fg": [ { "sprite": "wind_turbine_roof", "weight": 1 }, { "sprite": "wind_turbine_roof_1", "weight": 1 } ],
+    "bg": [
+      { "sprite": "open_air_32x48", "weight": 1 },
+      { "sprite": "open_air_32x48_1", "weight": 1 },
+      { "sprite": "open_air_32x48_2", "weight": 1 },
+      { "sprite": "open_air_32x48_3", "weight": 1 },
+      { "sprite": "open_air_32x48_4", "weight": 1 },
+      { "sprite": "open_air_32x48_5", "weight": 1 }
+    ]
+  }
+]
