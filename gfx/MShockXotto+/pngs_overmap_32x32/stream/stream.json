@@ -1,0 +1,52 @@
+[
+  {
+    "id": "stream",
+    "fg": [
+      { "sprite": "stream_north", "weight": 6 },
+      { "sprite": "stream_north_1", "weight": 6 },
+      { "sprite": "stream_north_2", "weight": 6 },
+      { "sprite": "stream_north_3", "weight": 6 },
+      { "sprite": "stream_north_4", "weight": 1 },
+      { "sprite": "stream_north_5", "weight": 1 }
+    ],
+    "bg": [
+      { "weight": 25, "sprite": "field" },
+      { "weight": 40, "sprite": "field_1" },
+      { "weight": 10, "sprite": "field_2" },
+      { "weight": 25, "sprite": "field_3" }
+    ],
+    "rotates": true
+  },
+  {
+    "id": "stream_end",
+    "fg": [
+      { "sprite": "stream_end_north", "weight": 3 },
+      { "sprite": "stream_end_north_1", "weight": 3 },
+      { "sprite": "stream_end_north_2", "weight": 1 }
+    ],
+    "bg": [
+      { "weight": 25, "sprite": "field" },
+      { "weight": 40, "sprite": "field_1" },
+      { "weight": 10, "sprite": "field_2" },
+      { "weight": 25, "sprite": "field_3" }
+    ],
+    "rotates": true
+  },
+  {
+    "id": "stream_corner",
+    "fg": [
+      { "sprite": "stream_corner_north", "weight": 1 },
+      { "sprite": "stream_corner_north_1", "weight": 1 },
+      { "sprite": "stream_corner_north_2", "weight": 1 },
+      { "sprite": "stream_corner_north_3", "weight": 1 },
+      { "sprite": "stream_corner_north_4", "weight": 1 }
+    ],
+    "bg": [
+      { "weight": 25, "sprite": "field" },
+      { "weight": 40, "sprite": "field_1" },
+      { "weight": 10, "sprite": "field_2" },
+      { "weight": 25, "sprite": "field_3" }
+    ],
+    "rotates": true
+  }
+]
