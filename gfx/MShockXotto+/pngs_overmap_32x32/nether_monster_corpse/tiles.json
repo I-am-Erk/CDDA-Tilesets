@@ -1,0 +1,12 @@
+[
+  {
+    "id": "corpse_tentacle_surface_entry",
+    "fg": "corpse_tentacle_surface_entry",
+    "bg": [
+      { "weight": 1, "sprite": "field" },
+      { "weight": 1, "sprite": "field_1" },
+      { "weight": 1, "sprite": "field_2" },
+      { "weight": 1, "sprite": "field_3" }
+    ]
+  }
+]
