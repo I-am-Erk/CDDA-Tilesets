@@ -1,0 +1,30 @@
+[
+  {
+    "id": [ "hw_clover_leaf_bridge_-1_0", "hw_clover_leaf_bridge_-1_1" ],
+    "fg": "hw_clover_leaf_bridge_ramp_w",
+    "bg": [
+      { "weight": 1, "sprite": "open_air" },
+      { "weight": 1, "sprite": "open_air_1" },
+      { "weight": 1, "sprite": "open_air_2" },
+      { "weight": 1, "sprite": "open_air_3" },
+      { "weight": 1, "sprite": "open_air_4" },
+      { "weight": 1, "sprite": "open_air_5" }
+    ]
+  },
+  {
+    "id": [ "hw_clover_leaf_bridge_0_0", "hw_clover_leaf_bridge_0_1" ],
+    "fg": "hw_clover_leaf_bridge"
+  },
+  {
+    "id": [ "hw_clover_leaf_bridge_2_0", "hw_clover_leaf_bridge_2_1" ],
+    "fg": "hw_clover_leaf_bridge_ramp_e",
+    "bg": [
+      { "weight": 1, "sprite": "open_air" },
+      { "weight": 1, "sprite": "open_air_1" },
+      { "weight": 1, "sprite": "open_air_2" },
+      { "weight": 1, "sprite": "open_air_3" },
+      { "weight": 1, "sprite": "open_air_4" },
+      { "weight": 1, "sprite": "open_air_5" }
+    ]
+  }
+]
