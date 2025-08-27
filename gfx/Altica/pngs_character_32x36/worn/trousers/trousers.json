@@ -120,16 +120,6 @@
     "bg": ""
   },
   {
-    "id": "overlay_female_worn_pants_leather",
-    "fg": "pants_leather_f",
-    "bg": ""
-  },
-  {
-    "id": "overlay_fale_worn_pants_leather",
-    "fg": "pants_leather_f",
-    "bg": ""
-  },
-  {
     "id": "overlay_female_worn_pants",
     "fg": "pants_f",
     "bg": ""
