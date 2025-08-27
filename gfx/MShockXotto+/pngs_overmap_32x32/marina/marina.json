@@ -1,0 +1,117 @@
+[
+  {
+    "id": "marina_1",
+    "fg": [ "marina_1_north", "marina_1_west", "marina_1_south", "marina_1_east" ],
+    "bg": "lake_shore",
+    "rotates": true
+  },
+  {
+    "id": "marina_2",
+    "fg": [ "marina_2_north", "marina_2_west", "marina_2_south", "marina_2_east" ],
+    "bg": "lake_shore",
+    "rotates": true
+  },
+  {
+    "id": "marina_3",
+    "fg": [ "marina_3_north", "marina_3_west", "marina_3_south", "marina_3_east" ],
+    "bg": "lake_shore",
+    "rotates": true
+  },
+  {
+    "id": "marina_4",
+    "fg": [ "marina_4_north", "marina_4_west", "marina_4_south", "marina_4_east" ],
+    "bg": "lake_shore",
+    "rotates": true
+  },
+  {
+    "id": "marina_5",
+    "fg": [ "marina_5_north", "marina_5_west", "marina_5_south", "marina_5_east" ],
+    "bg": "lake_shore",
+    "rotates": true
+  },
+  {
+    "id": "marina_6",
+    "fg": [ "marina_6_north", "marina_6_west", "marina_6_south", "marina_6_east" ],
+    "bg": "lake_shore",
+    "rotates": true
+  },
+  {
+    "id": "marina_7",
+    "fg": [ "marina_7_north", "marina_7_west", "marina_7_south", "marina_7_east" ],
+    "bg": "lake_shore",
+    "rotates": true
+  },
+  {
+    "id": "marina_8",
+    "fg": [ "marina_8_north", "marina_8_west", "marina_8_south", "marina_8_east" ],
+    "bg": "lake_shore",
+    "rotates": true
+  },
+  {
+    "id": "marina_9",
+    "fg": [ "marina_9_north", "marina_9_west", "marina_9_south", "marina_9_east" ],
+    "bg": "lake_shore",
+    "rotates": true
+  },
+  {
+    "id": "marina_10",
+    "fg": [ "marina_10_north", "marina_10_west", "marina_10_south", "marina_10_east" ],
+    "bg": "lake_shore",
+    "rotates": true
+  },
+  {
+    "id": "marina_11",
+    "fg": [ "marina_11_north", "marina_11_west", "marina_11_south", "marina_11_east" ],
+    "bg": "lake_shore",
+    "rotates": true
+  },
+  {
+    "id": "marina_12",
+    "fg": [ "marina_12_north", "marina_12_west", "marina_12_south", "marina_12_east" ],
+    "bg": "lake_shore",
+    "rotates": true
+  },
+  {
+    "id": "marina_13",
+    "fg": [ "marina_13_north", "marina_13_west", "marina_13_south", "marina_13_east" ],
+    "bg": "lake_shore",
+    "rotates": true
+  },
+  {
+    "id": "marina_14",
+    "fg": [ "marina_14_north", "marina_14_west", "marina_14_south", "marina_14_east" ],
+    "bg": "lake_shore",
+    "rotates": true
+  },
+  {
+    "id": "marina_15",
+    "fg": [ "marina_15_north", "marina_15_west", "marina_15_south", "marina_15_east" ],
+    "bg": "lake_shore",
+    "rotates": true
+  },
+  {
+    "id": "marina_16",
+    "fg": [ "marina_16_north", "marina_16_west", "marina_16_south", "marina_16_east" ],
+    "rotates": true
+  },
+  {
+    "id": "marina_17",
+    "fg": [ "marina_17_north", "marina_17_west", "marina_17_south", "marina_17_east" ],
+    "rotates": true
+  },
+  {
+    "id": "marina_18",
+    "fg": [ "marina_18_north", "marina_18_west", "marina_18_south", "marina_18_east" ],
+    "rotates": true
+  },
+  {
+    "id": "marina_19",
+    "fg": [ "marina_19_north", "marina_19_west", "marina_19_south", "marina_19_east" ],
+    "rotates": true
+  },
+  {
+    "id": "marina_20",
+    "fg": [ "marina_20_north", "marina_20_west", "marina_20_south", "marina_20_east" ],
+    "rotates": true
+  }
+]
