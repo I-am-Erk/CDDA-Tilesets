@@ -1,0 +1,9 @@
+  {
+    "id": "t_floor_primitive",
+    "fg": [ ],
+    "bg": [
+        { "weight": 1, "sprite": "t_floor_primitive_0" },
+        { "weight": 1, "sprite": "t_floor_primitive_1" },
+        { "weight": 1, "sprite": "t_floor_primitive_2" }
+    ]
+  }
