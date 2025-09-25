@@ -1,0 +1,10 @@
+{
+  "id": "mon_tusked_moose",
+  "fg": [
+    { "weight": 1, "sprite": "mon_tusked_moose_0" },
+    { "weight": 1, "sprite": "mon_tusked_moose_1" },
+    { "weight": 1, "sprite": "mon_tusked_moose_2" }
+  ],
+  "bg": [ ],
+  "rotates": false
+}
