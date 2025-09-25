@@ -1,0 +1,11 @@
+{
+  "id": "overlay_female_worn_afs_energy_shield",
+  "animated": true,
+  "fg": [
+    { "weight": 1, "sprite": "overlay_worn_afs_energy_shield_0" },
+    { "weight": 1, "sprite": "overlay_worn_afs_energy_shield_1" },
+    { "weight": 2, "sprite": "overlay_worn_afs_energy_shield_2" },
+    { "weight": 2, "sprite": "overlay_worn_afs_energy_shield_3" },
+    { "weight": 20, "sprite": "overlay_worn_afs_energy_shield_4" }
+  ]
+}
