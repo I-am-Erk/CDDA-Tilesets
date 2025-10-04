@@ -1,4 +1,4 @@
-# Common tools (scrips)
+# Common tools (scripts)
 
 These are the tools that works the same way on every operating system.
 
