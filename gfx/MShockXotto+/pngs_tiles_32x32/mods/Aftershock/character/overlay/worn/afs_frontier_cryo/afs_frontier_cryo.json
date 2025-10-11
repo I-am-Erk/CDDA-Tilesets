@@ -1,0 +1,12 @@
+[
+  {
+    "id": [ "overlay_female_worn_afs_frontier_cryo", "overlay_female_worn_afs_frontier_cryo_on" ],
+    "fg": [ "overlay_female_worn_afs_frontier_cryo" ],
+    "bg": [  ]
+  },
+  {
+    "id": [ "overlay_male_worn_afs_frontier_cryo", "overlay_male_worn_afs_frontier_cryo_on" ],
+    "fg": [ "overlay_male_worn_afs_frontier_cryo" ],
+    "bg": [  ]
+  }
+]
