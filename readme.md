@@ -76,7 +76,7 @@ HollowMoon is a retro style tileset aiming to emulate the style of the early Gam
 
 ### [Mushroom Dream](gfx/Mushroom-Dream)
 
-Mushroom Dream is a high quality tileset entierly made by @AlbertTheTerrible . We host here a small stub of the tileset that was initially released under cc by sa, a more complete version released under a more restrictive license is available on Albert's parteon.
+Mushroom Dream is a high quality tileset entierly made by AlbertTheTerrible. We host here a small stub of the tileset that was initially released under cc by sa, a more complete version released under a more restrictive license is available on [Albert's parteon](https://www.patreon.com/alberttheterrible).
 
 ### Isometric tilesets
 
@@ -91,7 +91,9 @@ Changes the game to an isometric perspective.
 Specialized tilesets for the overmap.
 
 #### [Larwick Overmap](gfx/Larwick_Overmap)
-Overmap tileset initially released as a mod by Larwick, like Retrodays it uses simple symbols and a small color palette to emulate the style of old console graphics
+
+Overmap tileset initially released as a mod by Larwick, like Retrodays it uses simple symbols and a small color palette to emulate the style of old console graphics.
+
 #### [ASCII Overmap](gfx/ASCII_Overmap)
 
 The map from the ASCII version of the game.
