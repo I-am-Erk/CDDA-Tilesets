@@ -22,6 +22,8 @@ PNGs will then be compiled into a tileset using [a python script](https://github
 
 For information about installing and contributing see [**documentation**](https://i-am-erk.github.io/CDDA-Tilesets).
 
+## Licensing
+Cataclysm:Dark Days Ahead and the Ultimate Cataclysm tileset is the result of contributions from volunteers under the Creative Commons Attribution ShareAlike 3.0 license. The code and content of the game is free to use, modify, and redistribute for any purpose whatsoever. See [Creative Commons](http://creativecommons.org/licenses/by-sa/3.0/) for details. Some code distributed with the project is not part of the project and is released under different software licenses, the files covered by different software licenses have their own license notices.
 ## Tilesets
 
 All of the tileset in this repository are included in a release of the game.
