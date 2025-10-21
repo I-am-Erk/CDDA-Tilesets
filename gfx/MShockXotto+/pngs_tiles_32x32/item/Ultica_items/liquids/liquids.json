@@ -1,10 +1,5 @@
 [
   {
-    "id": ["water","salt_water"],
-    "fg": [ "water" ],
-    "bg": [ ]
-  },
-  {
     "id": [ "oj", "lemonade" ],
     "fg": "oj",
     "bg": [ ]
