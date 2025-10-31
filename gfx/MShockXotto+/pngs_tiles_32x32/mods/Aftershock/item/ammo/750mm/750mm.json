@@ -1,0 +1,17 @@
+[ 
+  {
+    "id": "afs_7.50mm_caseless",
+    "fg": [ "afs_750mm_caseless" ],
+    "bg": [ ]
+  },
+  {
+    "id": "afs_7.50mm_rp",
+    "fg": [ "afs_750mm_rp" ],
+    "bg": [ ]
+  },
+  {
+    "id": "afs_7.50mm_ap_caseless",
+    "fg": [ "afs_750mm_ap_caseless" ],
+    "bg": [ ]
+  }
+]
