@@ -29,8 +29,7 @@ Cataclysm:Dark Days Ahead and the Ultimate Cataclysm tileset is the result of co
 All of the tileset in this repository are included in a release of the game.
 You can just load into the game and see what they are like for yourself.
 
-Use [this discord](https://discord.gg/kAXNZuy) to discuss and contribute to most
-of these community-driven tilesets!
+Use [this discord](https://discord.gg/kAXNZuy) to discuss and contribute to this project.
 Development is constantly ongoing!
 
 ### [UltiCa](gfx/UltimateCataclysm)
@@ -56,7 +55,7 @@ the Chibi part, and the Ultica tileset for the rest of the world.
 
 ### [RetroDays](gfx/Retrodays)
 
-RetroDays present a very simple and retro aesthetic reminiscent of  old console ASCII graphics, with a very limited color palette and small 10x10 sprites
+RetroDays present a very simple and retro aesthetic reminiscent of old console ASCII graphics, with a very limited color palette and small 10x10 sprites
 
 ### [NeoDays](gfx/NeoDays)
 
@@ -105,8 +104,4 @@ A realistic and detailed overmap.
 Shows e.g. the layouts of houses.
 
 #### [Pen And Paper](gfx/PenAndPaper)
-
-A hand-drawn immersive overmap.
-- [You can add map markers, arrows and more to your map.](https://github.com/jneidel/CDDA-Tilesets/blob/master/doc/style/PenAndPaper/usage.md)
-- A [reddit showcase](https://www.reddit.com/r/cataclysmdda/comments/1f6l2db/pen_and_paper_overmap_tileset/) of the initial version of the map by the author.
 
