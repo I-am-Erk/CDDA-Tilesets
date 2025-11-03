@@ -105,3 +105,4 @@ Shows e.g. the layouts of houses.
 
 #### [Pen And Paper](gfx/PenAndPaper)
 
+Hand drawn maps.
