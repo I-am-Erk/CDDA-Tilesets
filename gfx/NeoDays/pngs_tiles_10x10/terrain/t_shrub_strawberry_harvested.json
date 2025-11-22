@@ -2,7 +2,8 @@
   "id": [
     "t_shrub_strawberry_harvested",
     "t_shrub_strawberry_season_spring",
-    "t_shrub_strawberry_season_autumn"
+    "t_shrub_strawberry_season_autumn",
+    "t_shrub_rose_harvested"
   ],
   "fg": "t_shrub_strawberry_harvested"
 }
