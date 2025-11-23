@@ -23,7 +23,8 @@
     "godcotrader_accounting_records_clean",
     "large_printout_portal_storm_data",
     "medium_printout_portal_storm_data",
-    "small_printout_portal_storm_data"
+    "small_printout_portal_storm_data",
+    "flyer_evac"
   ],
   "fg": "paper"
 }
