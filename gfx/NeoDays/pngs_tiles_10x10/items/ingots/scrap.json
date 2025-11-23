@@ -3,7 +3,8 @@
     "scrap",
     "silver_small",
     "bismuth",
-    "tin"
+    "scrap_tin",
+    "scrap_aluminum"
   ],
   "fg": "scrap"
 }
