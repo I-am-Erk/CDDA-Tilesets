@@ -1,0 +1,25 @@
+[
+  {
+    "id": "vp_integrated_trashcan",
+    "fg": [
+      "vp_integrated_trashcan_north",
+      "vp_integrated_trashcan_west",
+      "vp_integrated_trashcan_south",
+      "vp_integrated_trashcan_east"
+    ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "3987_vp_cargo_space_2" ],
+        "bg": [
+          "vp_integrated_trashcan_north",
+          "vp_integrated_trashcan_west",
+          "vp_integrated_trashcan_south",
+          "vp_integrated_trashcan_east"
+        ]
+      }
+    ]
+  }
+]
