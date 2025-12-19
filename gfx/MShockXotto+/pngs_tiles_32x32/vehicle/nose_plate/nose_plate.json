@@ -1,0 +1,15 @@
+[
+  {
+    "id": "vp_nose_plate",
+    "fg": [ "vp_nose_plate_north", "vp_nose_plate_west", "vp_nose_plate_south", "vp_nose_plate_east" ],
+    "rotates": true,
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "3987_vp_cargo_space_2" ],
+        "bg": [ "vp_nose_plate_north", "vp_nose_plate_west", "vp_nose_plate_south", "vp_nose_plate_east" ]
+      }
+    ]
+  }
+]
