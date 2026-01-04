@@ -10,10 +10,84 @@ The main thing that we want to keep from the previous tilesets is the anime/cart
 
 ## Monsters
 
+[Original guide by Drawsstuff available at google docs](https://docs.google.com/document/d/1NaTCK1ijU2jTWY5__6r1WMypo38X2FZai6gtqo1nVp0/edit?usp=sharing)
+
 ![monsters](image/monsters.png)
 
-- Black outline RGBA(0,0,0,255)
-- Round shadow directly below the monster RGBA(0,0,0,115)
+### Optional but Helpful
+
+While not strictly necessary, these tools and knowledge will help:
+
+- A visual editing program ([**Aseprite**](https://github.com/aseprite/aseprite) is recommended)
+- Basic pixel art fundamentals such as **Jaggies**, **Hue Shifting**, **Anti-Aliasing**, **Banding**, etc. If you need to learn these, check out these [guides](https://pixeljoint.com/forum/forum_posts.asp?TID=11299&PID=139318#139318) and [tutorials](https://makegames.tumblr.com/post/42648699708/pixel-art-tutorial).
+
+### Finding References
+
+References are essential when creating any sprite. Start by gathering visual references for what you want to create.
+
+![image search](image/image_search.png)
+
+Not all creatures in Cataclysm have real-world counterparts. You can create your own references through **photobashing** (combining multiple images) or drawing your own. Photobashed references don't need to be perfect—they just serve as a visual guide.
+
+![lizard driver example](image/lizard_driver.png)
+
+Your own hand-drawn references work great too. You can shrink your drawings into pixel art size and use them as tracing tools.
+
+> [!WARNING]
+> Avoid AI for reference materials. While AI results may look polished, they often introduce errors in anatomy and shading that will affect your sprite quality.
+
+### Sprite Size
+
+The most common sprite size is **32x32**, which works fine for anything human-sized or smaller. For larger creatures (megafauna, bosses, etc.), consider using **64x64** or larger sizes. A bigger sprite better conveys size and threat while providing more room for detail.
+
+### Creating the Outline
+
+1. Start with a clear outline in **pure black RGBA(0,0,0,255)**
+2. Only the outward-facing outline strictly needs to be black, but outline everything for now
+3. Refine by removing jaggies as needed
+4. Later, recolor any internal black lines if needed
+
+![outline refinement](image/outline-1.png)
+
+### Picking Colors
+
+Use existing color palettes from established MSX+ sprites when possible. Study sprites by Dandy in particular for good examples.
+
+If you create your own palette, keep it to **2–5 colors** and use **[Hue Shifting](https://www.blue-canary.net/miniature-painting/painting-tips-and-guides/hue-shifting/)**: start with cool dark colors and gradually shift toward warm tones. You can also mix multiple color ramps from existing palettes.
+
+[Lospec](https://lospec.com/palette-list) has community palettes available for download and use.
+
+![picking colors example](image/byzone-1.png)
+
+Start with the darkest (non-black) color in your palette and build up. Since you're working with limited colors in a cartoony style, dark colors serve double duty for both shading and base color (like fur).
+
+### Shading
+
+Build up color gradually from dark to light. The characteristic MSX+ style uses **rectangular blocks of color** for shading:
+
+![shading with blocks](image/byzone-2.png)
+
+Sparingly use the lightest colors from your palette.
+
+![shading with blocks](image/byzone-cutout.png)
+
+Use a little anti-aliasing on larger sprites (64x64+), but keep it minimal to maintain the clean, cartoon aesthetic.
+
+![shading progression](image/byzone-3.png)
+
+### Polish
+
+Take breaks and view your work with fresh eyes. Ask for feedback if you hit a wall. Small adjustments—brightness, inner line colors, alternative shading—often make the difference between good and great.
+
+### Shadows
+
+Add shadows **after** the sprite is complete:
+
+- Use pure black with transparency set to 115 : **RGBA(0,0,0,115)**
+- Shape as a **circle directly below the monster**
+- For large sprites, use tools like the filled ellipse tool in Aseprite
+
+![final sprite with shadow](image/byzone-final.png)
 
 ## Items
 
