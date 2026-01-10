@@ -1,0 +1,10 @@
+{
+  "id": "vp_ap_apartment_freezer",
+  "rotates": true,
+  "fg": [
+    "vp_ap_apartment_freezer_S",
+    "vp_ap_apartment_freezer_W",
+    "vp_ap_apartment_freezer_N",
+    "vp_ap_apartment_freezer_E"
+  ]
+}
