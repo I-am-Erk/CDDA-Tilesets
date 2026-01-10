@@ -18,7 +18,7 @@ The main thing that we want to keep from the previous tilesets is the anime/cart
 
 While not strictly necessary, these tools and knowledge will help:
 
-- A visual editing program ([**Aseprite**](https://github.com/aseprite/aseprite) is recommended)
+- A visual editing program ([**Aseprite**](https://github.com/aseprite/aseprite) is a good option)
 - Basic pixel art fundamentals such as **Jaggies**, **Hue Shifting**, **Anti-Aliasing**, **Banding**, etc. If you need to learn these, check out these [guides](https://pixeljoint.com/forum/forum_posts.asp?TID=11299&PID=139318#139318) and [tutorials](https://makegames.tumblr.com/post/42648699708/pixel-art-tutorial).
 
 ### Finding References
@@ -86,7 +86,9 @@ Add shadows **after** the sprite is complete:
 - Use pure black with transparency set to 115 : **RGBA(0,0,0,115)**
 - Shape as a **circle directly below the monster**
 - For large sprites, use tools like the filled ellipse tool in Aseprite
-- You can reuse existing shadow sprites if they fit: ![shadow_64x64_large](../../../gfx/MShockXotto+/pngs_fillerlarge_64x64/monster/shadow_64x64_large.png), ![shadow_64x64_medium](../../../gfx/MShockXotto+/pngs_fillerlarge_64x64/monster/shadow_64x64_large.png), ![shadow_32x32_normal](../../../gfx/MShockXotto+/pngs_tiles_32x32/monster/shadow_32x32_normal.png), ![shadow_32x32_small](../../../gfx/MShockXotto+/pngs_tiles_32x32/monster/shadow_32x32_small.png), ![shadow_20x20_normal](../../../gfx/MShockXotto+/pngs_small_20x20/monsters/shadow_20x20_normal.png), ![shadow_32x64_normal](../../../gfx/MShockXotto+/pngs_fillertall_32x64/monster/shadow_32x64_normal.png)
+
+> [!Tip]
+> You can use one of those shadows: ![shadow_64x64_large](../../../gfx/MShockXotto+/pngs_fillerlarge_64x64/monster/shadow_64x64_large.png) ![shadow_64x64_medium](../../../gfx/MShockXotto+/pngs_fillerlarge_64x64/monster/shadow_64x64_large.png) ![shadow_32x64_normal](../../../gfx/MShockXotto+/pngs_fillertall_32x64/monster/shadow_32x64_normal.png) ![shadow_32x32_normal](../../../gfx/MShockXotto+/pngs_tiles_32x32/monster/shadow_32x32_normal.png) ![shadow_32x32_small](../../../gfx/MShockXotto+/pngs_tiles_32x32/monster/shadow_32x32_small.png) ![shadow_20x20_normal](../../../gfx/MShockXotto+/pngs_small_20x20/monsters/shadow_20x20_normal.png)
 
 ![final sprite with shadow](image/byzone-final.png)
 
