@@ -1,10 +1,10 @@
 {
   "id": "t_gates_control_concrete",
   "fg": [
-    "t_gates_control_concrete"
+    "t_gates_control"
   ],
   "bg": [
-    
+    "t_concrete_wall_unconnected"
   ],
   "rotates": false
 }
