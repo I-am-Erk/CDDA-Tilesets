@@ -408,6 +408,59 @@ The main thing that we want to keep from the previous tilesets is the anime/cart
 <li>Black outline RGBA(0,0,0,255)</li>
 <li>Round shadow directly below the monster RGBA(0,0,0,115)</li>
 </ul>
+<h3><a class="header" href="#optional-but-helpful" id="optional-but-helpful">Optional but Helpful</a></h3>
+<p>While not strictly necessary, these tools and knowledge will help:</p>
+<ul>
+<li>A visual editing program (<a href="https://github.com/aseprite/aseprite"><strong>Aseprite</strong></a> is a good option)</li>
+<li>Basic pixel art fundamentals such as <strong>Jaggies</strong>, <strong>Hue Shifting</strong>, <strong>Anti-Aliasing</strong>, <strong>Banding</strong>, etc. If you need to learn these, check out these <a href="https://pixeljoint.com/forum/forum_posts.asp?TID=11299&amp;PID=139318#139318">guides</a> and <a href="https://makegames.tumblr.com/post/42648699708/pixel-art-tutorial">tutorials</a>.</li>
+</ul>
+<h3><a class="header" href="#finding-references" id="finding-references">Finding References</a></h3>
+<p>References are essential when creating any sprite. Start by gathering visual references for what you want to create.</p>
+<p><img src="style/MShockXotto+/image/image_search.png" alt="image search" /></p>
+<p>Not all creatures in Cataclysm have real-world counterparts. You can create your own references through <strong>photobashing</strong> (combining multiple images) or drawing your own. Photobashed references don't need to be perfect—they just serve as a visual guide.</p>
+<p><img src="style/MShockXotto+/image/lizard_driver.png" alt="lizard driver example" /></p>
+<p>Your own hand-drawn references work great too. You can shrink your drawings into pixel art size and use them as tracing tools.</p>
+<blockquote>
+<p>[!WARNING]
+Avoid AI for reference materials. While AI results may look polished, they often introduce errors in anatomy and shading that will affect your sprite quality.</p>
+</blockquote>
+<h3><a class="header" href="#sprite-size" id="sprite-size">Sprite Size</a></h3>
+<p>The most common sprite size is <strong>32x32</strong>, which works fine for anything human-sized or smaller. For larger creatures (megafauna, bosses, etc.), consider using <strong>64x64</strong> or larger sizes. A bigger sprite better conveys size and threat while providing more room for detail.</p>
+<h3><a class="header" href="#creating-the-outline" id="creating-the-outline">Creating the Outline</a></h3>
+<ol>
+<li>Start with a clear outline in <strong>pure black RGBA(0,0,0,255)</strong></li>
+<li>Only the outward-facing outline strictly needs to be black, but outline everything for now</li>
+<li>Refine by removing jaggies as needed</li>
+<li>Later, recolor any internal black lines if needed</li>
+</ol>
+<p><img src="style/MShockXotto+/image/outline-1.png" alt="outline refinement" /></p>
+<h3><a class="header" href="#picking-colors" id="picking-colors">Picking Colors</a></h3>
+<p>Use existing color palettes from established MSX+ sprites when possible. Study sprites by Dandy in particular for good examples.</p>
+<p>If you create your own palette, keep it to <strong>2–5 colors</strong> and use <strong><a href="https://www.blue-canary.net/miniature-painting/painting-tips-and-guides/hue-shifting/">Hue Shifting</a></strong>: start with cool dark colors and gradually shift toward warm tones. You can also mix multiple color ramps from existing palettes.</p>
+<p><a href="https://lospec.com/palette-list">Lospec</a> has community palettes available for download and use.</p>
+<p><img src="style/MShockXotto+/image/byzone-1.png" alt="picking colors example" /></p>
+<p>Start with the darkest (non-black) color in your palette and build up. Since you're working with limited colors in a cartoony style, dark colors serve double duty for both shading and base color (like fur).</p>
+<h3><a class="header" href="#shading" id="shading">Shading</a></h3>
+<p>Build up color gradually from dark to light. The characteristic MSX+ style uses <strong>rectangular blocks of color</strong> for shading:</p>
+<p><img src="style/MShockXotto+/image/byzone-2.png" alt="shading with blocks" /></p>
+<p>Sparingly use the lightest colors from your palette.</p>
+<p><img src="style/MShockXotto+/image/byzone-cutout.png" alt="shading with blocks" /></p>
+<p>Use a little anti-aliasing on larger sprites (64x64+), but keep it minimal to maintain the clean, cartoon aesthetic.</p>
+<p><img src="style/MShockXotto+/image/byzone-3.png" alt="shading progression" /></p>
+<h3><a class="header" href="#polish" id="polish">Polish</a></h3>
+<p>Take breaks and view your work with fresh eyes. Ask for feedback if you hit a wall. Small adjustments—brightness, inner line colors, alternative shading—often make the difference between good and great.</p>
+<h3><a class="header" href="#shadows" id="shadows">Shadows</a></h3>
+<p>Add shadows <strong>after</strong> the sprite is complete:</p>
+<ul>
+<li>Use pure black with transparency set to 115 : <strong>RGBA(0,0,0,115)</strong></li>
+<li>Shape as a <strong>circle directly below the monster</strong></li>
+<li>For large sprites, use tools like the filled ellipse tool in Aseprite</li>
+</ul>
+<blockquote>
+<p>[!Tip]
+You can use one of those shadows: <img src="style/MShockXotto+/../../../gfx/MShockXotto+/pngs_fillerlarge_64x64/monster/shadow_64x64_large.png" alt="shadow_64x64_large" /> <img src="style/MShockXotto+/../../../gfx/MShockXotto+/pngs_fillerlarge_64x64/monster/shadow_64x64_large.png" alt="shadow_64x64_medium" /> <img src="style/MShockXotto+/../../../gfx/MShockXotto+/pngs_fillertall_32x64/monster/shadow_32x64_normal.png" alt="shadow_32x64_normal" /> <img src="style/MShockXotto+/../../../gfx/MShockXotto+/pngs_tiles_32x32/monster/shadow_32x32_normal.png" alt="shadow_32x32_normal" /> <img src="style/MShockXotto+/../../../gfx/MShockXotto+/pngs_tiles_32x32/monster/shadow_32x32_small.png" alt="shadow_32x32_small" /> <img src="style/MShockXotto+/../../../gfx/MShockXotto+/pngs_small_20x20/monsters/shadow_20x20_normal.png" alt="shadow_20x20_normal" /></p>
+</blockquote>
+<p><img src="style/MShockXotto+/image/byzone-final.png" alt="final sprite with shadow" /></p>
 <h2><a class="header" href="#items-1" id="items-1">Items</a></h2>
 <p><img src="style/MShockXotto+/image/items.png" alt="items" /></p>
 <ul>
