@@ -646,5 +646,9 @@
         "isolated_house_farm_roof_blacksmith"
       ],
     "fg": "cabin_light_gray"
+  },
+  {
+    "id": "billboard_0",
+    "fg": "billboard_light_gray"
   }
 ]
