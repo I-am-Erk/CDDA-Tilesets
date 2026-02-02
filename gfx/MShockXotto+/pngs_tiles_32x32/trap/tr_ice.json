@@ -1,0 +1,14 @@
+[
+  {
+    "id": "tr_thin_ice",
+    "fg": [ "empty_32x32" ],
+    "bg": [ "" ],
+    "rotates": false
+  },
+  {
+    "id": "tr_thick_ice",
+    "fg": [ "empty_32x32" ],
+    "bg": [ "" ],
+    "rotates": false
+  }
+]
