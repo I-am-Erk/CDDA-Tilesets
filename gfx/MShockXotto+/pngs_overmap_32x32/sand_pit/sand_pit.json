@@ -1,8 +1,56 @@
 [
- {
-  "id": "sand_pit",
-  "fg": [ "sand_pit_NW", "sand_pit_N", "sand_pit_NE", "sand_pit_W", "sand_pit_M", "sand_pit_E", "sand_pit_SW", "sand_pit_S", "sand_pit_SE"],
-  "rotates": false,
-  "bg": [ ]
-}
+  {
+    "id": "sand_pit_NW",
+    "fg": [ "sand_pit_NW" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "sand_pit_N",
+    "fg": [ "sand_pit_N" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "sand_pit_NE",
+    "fg": [ "sand_pit_NE" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "sand_pit_W",
+    "fg": [ "sand_pit_W" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "sand_pit_M",
+    "fg": [ "sand_pit_M" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "sand_pit_E",
+    "fg": [ "sand_pit_E" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "sand_pit_SW",
+    "fg": [ "sand_pit_SW" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "sand_pit_S",
+    "fg": [ "sand_pit_S" ],
+    "rotates": false,
+    "bg": [  ]
+  },
+  {
+    "id": "sand_pit_SE",
+    "fg": [ "sand_pit_SE" ],
+    "rotates": false,
+    "bg": [  ]
+  }
 ]
