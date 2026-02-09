@@ -1,0 +1,8 @@
+[
+ {
+  "id": "sand_pit",
+  "fg": [ "sand_pit_NW", "sand_pit_N", "sand_pit_NE", "sand_pit_W", "sand_pit_M", "sand_pit_E", "sand_pit_SW", "sand_pit_S", "sand_pit_SE"],
+  "rotates": false,
+  "bg": [ ]
+}
+]
