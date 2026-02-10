@@ -61,6 +61,16 @@ args.add_argument(
 args_dict = vars(args.parse_args())
 
 rename_dict = {
+    "sand_pit_0": "sand_pit_NW",
+    "sand_pit_1": "sand_pit_N",
+    "sand_pit_2": "sand_pit_NE",
+    "sand_pit_3": "sand_pit_W",
+    "sand_pit_4": "sand_pit_M",
+    "sand_pit_5": "sand_pit_E",
+    "sand_pit_6": "sand_pit_SW",
+    "sand_pit_7": "sand_pit_S",
+    "sand_pit_8": "sand_pit_SE",
+    #
     "marina_0": "marina_5",
     "marina_1": "marina_4",
     "marina_2": "marina_3",
