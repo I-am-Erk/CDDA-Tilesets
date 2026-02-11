@@ -1,0 +1,47 @@
+[
+  {
+    "id": "sand_pit_NW",
+    "fg": [ "sand_pit_NW_north", "sand_pit_NW_west", "sand_pit_NW_south", "sand_pit_NW_east" ],
+    "rotates": true
+  },
+  {
+    "id": "sand_pit_N",
+    "fg": [ "sand_pit_N_north", "sand_pit_N_west", "sand_pit_N_south", "sand_pit_N_east" ],
+    "rotates": true
+  },
+  {
+    "id": "sand_pit_NE",
+    "fg": [ "sand_pit_NE_north", "sand_pit_NE_west", "sand_pit_NE_south", "sand_pit_NE_east" ],
+    "rotates": true
+  },
+  {
+    "id": "sand_pit_W",
+    "fg": [ "sand_pit_W_north", "sand_pit_W_west", "sand_pit_W_south", "sand_pit_W_east" ],
+    "rotates": true
+  },
+  {
+    "id": "sand_pit_M",
+    "fg": [ "sand_pit_M_north", "sand_pit_M_west", "sand_pit_M_south", "sand_pit_M_east" ],
+    "rotates": true
+  },
+  {
+    "id": "sand_pit_E",
+    "fg": [ "sand_pit_E_north", "sand_pit_E_west", "sand_pit_E_south", "sand_pit_E_east" ],
+    "rotates": true
+  },
+  {
+    "id": "sand_pit_SW",
+    "fg": [ "sand_pit_SW_north", "sand_pit_SW_west", "sand_pit_SW_south", "sand_pit_SW_east" ],
+    "rotates": true
+  },
+  {
+    "id": "sand_pit_S",
+    "fg": [ "sand_pit_S_north", "sand_pit_S_west", "sand_pit_S_south", "sand_pit_S_east" ],
+    "rotates": true
+  },
+  {
+    "id": "sand_pit_SE",
+    "fg": [ "sand_pit_SE_north", "sand_pit_SE_west", "sand_pit_SE_south", "sand_pit_SE_east" ],
+    "rotates": true
+  }
+]
