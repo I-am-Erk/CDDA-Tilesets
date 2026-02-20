@@ -1,0 +1,62 @@
+[
+  {
+    "id": [ "overlay_worn_acidchitin_armor_horse_horse", "overlay_worn_acidchitin_armor_horse_horse_police" ],
+    "fg": "overlay_worn_acidchitin_armor_horse_horse",
+    "bg": ""
+  },
+  {
+    "id": [ "overlay_worn_bronze_armor_horse_horse", "overlay_worn_bronze_armor_horse_horse_police" ],
+    "fg": "overlay_worn_bronze_armor_horse_horse",
+    "bg": ""
+  },
+  {
+    "id": [ "overlay_worn_chainmail_armor_horse_hose", "overlay_worn_chainmail_armor_horse_hose_police" ],
+    "fg": "overlay_worn_chainmail_armor_horse_hose",
+    "bg": ""
+  },
+  {
+    "id": [ "overlay_worn_chitin_armor_horse_horse", "overlay_worn_chitin_armor_horse_horse_police" ],
+    "fg": "overlay_worn_chitin_armor_horse_horse",
+    "bg": ""
+  },
+  {
+    "id": [ "overlay_worn_iron_armor_horse_horse", "overlay_worn_iron_armor_horse_horse_police" ],
+    "fg": "overlay_worn_iron_armor_horse_horse",
+    "bg": ""
+  },
+  {
+    "id": [ "overlay_worn_kevlar_armor_horse_horse", "overlay_worn_kevlar_armor_horse_horse_police" ],
+    "fg": "overlay_worn_kevlar_armor_horse_horse",
+    "bg": ""
+  },
+  {
+    "id": [ "overlay_worn_leather_armor_horse_horse", "overlay_worn_leather_armor_horse_horse_police" ],
+    "fg": "overlay_worn_leather_armor_horse_horse",
+    "bg": ""
+  },
+  {
+    "id": [ "overlay_worn_leatherbone_armor_horse_horse", "overlay_worn_leatherbone_armor_horse_horse_police" ],
+    "fg": "overlay_worn_leatherbone_armor_horse_horse",
+    "bg": ""
+  },
+  {
+    "id": [ "overlay_worn_rubber_armor_horse_horse", "overlay_worn_rubber_armor_horse_horse_police" ],
+    "fg": "overlay_worn_rubber_armor_horse_horse",
+    "bg": ""
+  },
+  {
+    "id": [ "overlay_worn_steel_armor_horse_horse", "overlay_worn_steel_armor_horse_horse_police" ],
+    "fg": "overlay_worn_steel_armor_horse_horse",
+    "bg": ""
+  },
+  {
+    "id": [ "overlay_worn_tack_horse", "overlay_worn_tack_horse_police" ],
+    "fg": "overlay_worn_tack_horse",
+    "bg": ""
+  },
+  {
+    "id": [ "overlay_worn_saddlebag_horse", "overlay_worn_saddlebag_horse_police" ],
+    "fg": "overlay_worn_saddlebag_horse",
+    "bg": ""
+  }
+]
