@@ -5,7 +5,7 @@
     "fg": [ "t_alien_meadow_grass_long_unconnected" ],
     "bg": [ "t_grass" ],
     "additional_tiles": [
-      { "id": "center", "bg": [ "t_grass" ], "fg": [ { "weight": 1, "sprite": "t_alien_meadow_grass_long_center" } ] },
+      { "id": "center", "bg": [ "t_grass" ], "fg": [ "t_alien_meadow_grass_long_center" ] },
       {
         "id": "corner",
         "bg": [ "t_grass" ],
@@ -50,7 +50,7 @@
     "fg": [ "t_alien_meadow_grass_long_unconnected" ],
     "bg": [ "t_grass_summer" ],
     "additional_tiles": [
-      { "id": "center", "bg": [ "t_grass_summer" ], "fg": [ { "weight": 1, "sprite": "t_alien_meadow_grass_long_center" } ] },
+      { "id": "center", "bg": [ "t_grass_summer" ], "fg": [ "t_alien_meadow_grass_long_center" ] },
       {
         "id": "corner",
         "bg": [ "t_grass_summer" ],
@@ -95,7 +95,7 @@
     "fg": [ "t_alien_meadow_grass_long_unconnected" ],
     "bg": [ "t_grass_autumn" ],
     "additional_tiles": [
-      { "id": "center", "bg": [ "t_grass_autumn" ], "fg": [ { "weight": 1, "sprite": "t_alien_meadow_grass_long_center" } ] },
+      { "id": "center", "bg": [ "t_grass_autumn" ], "fg": [ "t_alien_meadow_grass_long_center" ] },
       {
         "id": "corner",
         "bg": [ "t_grass_autumn" ],
@@ -140,7 +140,7 @@
     "fg": [ "t_alien_meadow_grass_long_unconnected" ],
     "bg": [ "t_grass_winter" ],
     "additional_tiles": [
-      { "id": "center", "bg": [ "t_grass_winter" ], "fg": [ { "weight": 1, "sprite": "t_alien_meadow_grass_long_center" } ] },
+      { "id": "center", "bg": [ "t_grass_winter" ], "fg": [ "t_alien_meadow_grass_long_center" ] },
       {
         "id": "corner",
         "bg": [ "t_grass_winter" ],
