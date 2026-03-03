@@ -52,11 +52,11 @@
     "id": "t_alien_meadow_grass_season_summer",
     "multitile": true,
     "fg": [ "t_alien_meadow_grass_unconnected" ],
-    "bg": [ "t_grass_season_summer" ],
+    "bg": [ "t_grass_summer" ],
     "additional_tiles": [
       {
         "id": "center",
-        "bg": [ "t_grass_season_summer" ],
+        "bg": [ "t_grass_summer" ],
         "fg": [
           { "weight": 1, "sprite": "t_alien_meadow_grass_center" },
           { "weight": 1, "sprite": "t_alien_meadow_grass_center2" },
@@ -65,7 +65,7 @@
       },
       {
         "id": "corner",
-        "bg": [ "t_grass_season_summer" ],
+        "bg": [ "t_grass_summer" ],
         "fg": [
           "t_alien_meadow_grass_corner_nw",
           "t_alien_meadow_grass_corner_sw",
@@ -75,7 +75,7 @@
       },
       {
         "id": "t_connection",
-        "bg": [ "t_grass_season_summer" ],
+        "bg": [ "t_grass_summer" ],
         "fg": [
           "t_alien_meadow_grass_t_connection_n",
           "t_alien_meadow_grass_t_connection_w",
@@ -85,12 +85,12 @@
       },
       {
         "id": "edge",
-        "bg": [ "t_grass_season_summer" ],
+        "bg": [ "t_grass_summer" ],
         "fg": [ "t_alien_meadow_grass_edge_ns", "t_alien_meadow_grass_edge_ew" ]
       },
       {
         "id": "end_piece",
-        "bg": [ "t_grass_season_summer" ],
+        "bg": [ "t_grass_summer" ],
         "fg": [
           "t_alien_meadow_grass_end_piece_n",
           "t_alien_meadow_grass_end_piece_w",
@@ -98,18 +98,18 @@
           "t_alien_meadow_grass_end_piece_e"
         ]
       },
-      { "bg": [ "t_grass_season_summer" ], "id": "unconnected", "fg": [ "t_alien_meadow_grass_unconnected" ] }
+      { "bg": [ "t_grass_summer" ], "id": "unconnected", "fg": [ "t_alien_meadow_grass_unconnected" ] }
     ]
   },
   {
     "id": "t_alien_meadow_grass_season_autumn",
     "multitile": true,
     "fg": [ "t_alien_meadow_grass_unconnected" ],
-    "bg": [ "t_grass_season_autumn" ],
+    "bg": [ "t_grass_autumn" ],
     "additional_tiles": [
       {
         "id": "center",
-        "bg": [ "t_grass_season_autumn" ],
+        "bg": [ "t_grass_autumn" ],
         "fg": [
           { "weight": 1, "sprite": "t_alien_meadow_grass_center" },
           { "weight": 1, "sprite": "t_alien_meadow_grass_center2" },
@@ -118,7 +118,7 @@
       },
       {
         "id": "corner",
-        "bg": [ "t_grass_season_autumn" ],
+        "bg": [ "t_grass_autumn" ],
         "fg": [
           "t_alien_meadow_grass_corner_nw",
           "t_alien_meadow_grass_corner_sw",
@@ -128,7 +128,7 @@
       },
       {
         "id": "t_connection",
-        "bg": [ "t_grass_season_autumn" ],
+        "bg": [ "t_grass_autumn" ],
         "fg": [
           "t_alien_meadow_grass_t_connection_n",
           "t_alien_meadow_grass_t_connection_w",
@@ -138,12 +138,12 @@
       },
       {
         "id": "edge",
-        "bg": [ "t_grass_season_autumn" ],
+        "bg": [ "t_grass_autumn" ],
         "fg": [ "t_alien_meadow_grass_edge_ns", "t_alien_meadow_grass_edge_ew" ]
       },
       {
         "id": "end_piece",
-        "bg": [ "t_grass_season_autumn" ],
+        "bg": [ "t_grass_autumn" ],
         "fg": [
           "t_alien_meadow_grass_end_piece_n",
           "t_alien_meadow_grass_end_piece_w",
@@ -151,18 +151,18 @@
           "t_alien_meadow_grass_end_piece_e"
         ]
       },
-      { "bg": [ "t_grass_season_autumn" ], "id": "unconnected", "fg": [ "t_alien_meadow_grass_unconnected" ] }
+      { "bg": [ "t_grass_autumn" ], "id": "unconnected", "fg": [ "t_alien_meadow_grass_unconnected" ] }
     ]
   },
   {
     "id": "t_alien_meadow_grass_season_winter",
     "multitile": true,
     "fg": [ "t_alien_meadow_grass_unconnected" ],
-    "bg": [ "t_grass_season_winter" ],
+    "bg": [ "t_grass_winter" ],
     "additional_tiles": [
       {
         "id": "center",
-        "bg": [ "t_grass_season_winter" ],
+        "bg": [ "t_grass_winter" ],
         "fg": [
           { "weight": 1, "sprite": "t_alien_meadow_grass_center" },
           { "weight": 1, "sprite": "t_alien_meadow_grass_center2" },
@@ -171,7 +171,7 @@
       },
       {
         "id": "corner",
-        "bg": [ "t_grass_season_winter" ],
+        "bg": [ "t_grass_winter" ],
         "fg": [
           "t_alien_meadow_grass_corner_nw",
           "t_alien_meadow_grass_corner_sw",
@@ -181,7 +181,7 @@
       },
       {
         "id": "t_connection",
-        "bg": [ "t_grass_season_winter" ],
+        "bg": [ "t_grass_winter" ],
         "fg": [
           "t_alien_meadow_grass_t_connection_n",
           "t_alien_meadow_grass_t_connection_w",
@@ -191,12 +191,12 @@
       },
       {
         "id": "edge",
-        "bg": [ "t_grass_season_winter" ],
+        "bg": [ "t_grass_winter" ],
         "fg": [ "t_alien_meadow_grass_edge_ns", "t_alien_meadow_grass_edge_ew" ]
       },
       {
         "id": "end_piece",
-        "bg": [ "t_grass_season_winter" ],
+        "bg": [ "t_grass_winter" ],
         "fg": [
           "t_alien_meadow_grass_end_piece_n",
           "t_alien_meadow_grass_end_piece_w",
@@ -204,7 +204,7 @@
           "t_alien_meadow_grass_end_piece_e"
         ]
       },
-      { "bg": [ "t_grass_season_winter" ], "id": "unconnected", "fg": [ "t_alien_meadow_grass_unconnected" ] }
+      { "bg": [ "t_grass_winter" ], "id": "unconnected", "fg": [ "t_alien_meadow_grass_unconnected" ] }
     ]
   }
 ]
