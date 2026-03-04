@@ -13,7 +13,7 @@
     "fg": [ { "weight": 25, "sprite": "meadow_0" }, { "weight": 25, "sprite": "meadow_1" } ]
   },
   {
-    "id": [ "alien_meadow_core" ],
+    "id": [ "alien_meadow_core", "alien_meadow_join" ],
     "fg": [
       { "weight": 25, "sprite": "alien_meadow_0" },
       { "weight": 25, "sprite": "alien_meadow_1" },
