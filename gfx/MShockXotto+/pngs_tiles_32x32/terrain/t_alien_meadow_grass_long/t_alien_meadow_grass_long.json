@@ -3,12 +3,12 @@
     "id": "t_alien_meadow_grass_long",
     "multitile": true,
     "fg": [ "t_alien_meadow_grass_long_unconnected" ],
-    "bg": [ "t_grass" ],
+    "bg": [ "t_dirt_center" ],
     "additional_tiles": [
-      { "id": "center", "bg": [ "t_grass" ], "fg": [ "t_alien_meadow_grass_long_center" ] },
+      { "id": "center", "bg": [ "t_dirt_center" ], "fg": [ "t_alien_meadow_grass_long_center" ] },
       {
         "id": "corner",
-        "bg": [ "t_grass" ],
+        "bg": [ "t_dirt_center" ],
         "fg": [
           "t_alien_meadow_grass_long_corner_nw",
           "t_alien_meadow_grass_long_corner_sw",
@@ -18,7 +18,7 @@
       },
       {
         "id": "t_connection",
-        "bg": [ "t_grass" ],
+        "bg": [ "t_dirt_center" ],
         "fg": [
           "t_alien_meadow_grass_long_t_connection_n",
           "t_alien_meadow_grass_long_t_connection_w",
@@ -28,12 +28,12 @@
       },
       {
         "id": "edge",
-        "bg": [ "t_grass" ],
+        "bg": [ "t_dirt_center" ],
         "fg": [ "t_alien_meadow_grass_long_edge_ns", "t_alien_meadow_grass_long_edge_ew" ]
       },
       {
         "id": "end_piece",
-        "bg": [ "t_grass" ],
+        "bg": [ "t_dirt_center" ],
         "fg": [
           "t_alien_meadow_grass_long_end_piece_n",
           "t_alien_meadow_grass_long_end_piece_w",
@@ -41,19 +41,19 @@
           "t_alien_meadow_grass_long_end_piece_e"
         ]
       },
-      { "bg": [ "t_grass" ], "id": "unconnected", "fg": [ "t_alien_meadow_grass_long_unconnected" ] }
+      { "bg": [ "t_dirt_center" ], "id": "unconnected", "fg": [ "t_alien_meadow_grass_long_unconnected" ] }
     ]
   },
   {
     "id": "t_alien_meadow_grass_long_season_summer",
     "multitile": true,
     "fg": [ "t_alien_meadow_grass_long_unconnected" ],
-    "bg": [ "t_grass_summer" ],
+    "bg": [ "t_dirt_summer_center" ],
     "additional_tiles": [
-      { "id": "center", "bg": [ "t_grass_summer" ], "fg": [ "t_alien_meadow_grass_long_center" ] },
+      { "id": "center", "bg": [ "t_dirt_summer_center" ], "fg": [ "t_alien_meadow_grass_long_center" ] },
       {
         "id": "corner",
-        "bg": [ "t_grass_summer" ],
+        "bg": [ "t_dirt_summer_center" ],
         "fg": [
           "t_alien_meadow_grass_long_corner_nw",
           "t_alien_meadow_grass_long_corner_sw",
@@ -63,7 +63,7 @@
       },
       {
         "id": "t_connection",
-        "bg": [ "t_grass_summer" ],
+        "bg": [ "t_dirt_summer_center" ],
         "fg": [
           "t_alien_meadow_grass_long_t_connection_n",
           "t_alien_meadow_grass_long_t_connection_w",
@@ -73,12 +73,12 @@
       },
       {
         "id": "edge",
-        "bg": [ "t_grass_summer" ],
+        "bg": [ "t_dirt_summer_center" ],
         "fg": [ "t_alien_meadow_grass_long_edge_ns", "t_alien_meadow_grass_long_edge_ew" ]
       },
       {
         "id": "end_piece",
-        "bg": [ "t_grass_summer" ],
+        "bg": [ "t_dirt_summer_center" ],
         "fg": [
           "t_alien_meadow_grass_long_end_piece_n",
           "t_alien_meadow_grass_long_end_piece_w",
@@ -86,19 +86,19 @@
           "t_alien_meadow_grass_long_end_piece_e"
         ]
       },
-      { "bg": [ "t_grass_summer" ], "id": "unconnected", "fg": [ "t_alien_meadow_grass_long_unconnected" ] }
+      { "bg": [ "t_dirt_summer_center" ], "id": "unconnected", "fg": [ "t_alien_meadow_grass_long_unconnected" ] }
     ]
   },
   {
     "id": "t_alien_meadow_grass_long_season_autumn",
     "multitile": true,
     "fg": [ "t_alien_meadow_grass_long_unconnected" ],
-    "bg": [ "t_grass_autumn" ],
+    "bg": [ "t_dirt_autumn_center" ],
     "additional_tiles": [
-      { "id": "center", "bg": [ "t_grass_autumn" ], "fg": [ "t_alien_meadow_grass_long_center" ] },
+      { "id": "center", "bg": [ "t_dirt_autumn_center" ], "fg": [ "t_alien_meadow_grass_long_center" ] },
       {
         "id": "corner",
-        "bg": [ "t_grass_autumn" ],
+        "bg": [ "t_dirt_autumn_center" ],
         "fg": [
           "t_alien_meadow_grass_long_corner_nw",
           "t_alien_meadow_grass_long_corner_sw",
@@ -108,7 +108,7 @@
       },
       {
         "id": "t_connection",
-        "bg": [ "t_grass_autumn" ],
+        "bg": [ "t_dirt_autumn_center" ],
         "fg": [
           "t_alien_meadow_grass_long_t_connection_n",
           "t_alien_meadow_grass_long_t_connection_w",
@@ -118,12 +118,12 @@
       },
       {
         "id": "edge",
-        "bg": [ "t_grass_autumn" ],
+        "bg": [ "t_dirt_autumn_center" ],
         "fg": [ "t_alien_meadow_grass_long_edge_ns", "t_alien_meadow_grass_long_edge_ew" ]
       },
       {
         "id": "end_piece",
-        "bg": [ "t_grass_autumn" ],
+        "bg": [ "t_dirt_autumn_center" ],
         "fg": [
           "t_alien_meadow_grass_long_end_piece_n",
           "t_alien_meadow_grass_long_end_piece_w",
@@ -131,19 +131,19 @@
           "t_alien_meadow_grass_long_end_piece_e"
         ]
       },
-      { "bg": [ "t_grass_autumn" ], "id": "unconnected", "fg": [ "t_alien_meadow_grass_long_unconnected" ] }
+      { "bg": [ "t_dirt_autumn_center" ], "id": "unconnected", "fg": [ "t_alien_meadow_grass_long_unconnected" ] }
     ]
   },
   {
     "id": "t_alien_meadow_grass_long_season_winter",
     "multitile": true,
     "fg": [ "t_alien_meadow_grass_long_unconnected" ],
-    "bg": [ "t_grass_winter" ],
+    "bg": [ "t_dirt_winter_center" ],
     "additional_tiles": [
-      { "id": "center", "bg": [ "t_grass_winter" ], "fg": [ "t_alien_meadow_grass_long_center" ] },
+      { "id": "center", "bg": [ "t_dirt_winter_center" ], "fg": [ "t_alien_meadow_grass_long_center" ] },
       {
         "id": "corner",
-        "bg": [ "t_grass_winter" ],
+        "bg": [ "t_dirt_winter_center" ],
         "fg": [
           "t_alien_meadow_grass_long_corner_nw",
           "t_alien_meadow_grass_long_corner_sw",
@@ -153,7 +153,7 @@
       },
       {
         "id": "t_connection",
-        "bg": [ "t_grass_winter" ],
+        "bg": [ "t_dirt_winter_center" ],
         "fg": [
           "t_alien_meadow_grass_long_t_connection_n",
           "t_alien_meadow_grass_long_t_connection_w",
@@ -163,12 +163,12 @@
       },
       {
         "id": "edge",
-        "bg": [ "t_grass_winter" ],
+        "bg": [ "t_dirt_winter_center" ],
         "fg": [ "t_alien_meadow_grass_long_edge_ns", "t_alien_meadow_grass_long_edge_ew" ]
       },
       {
         "id": "end_piece",
-        "bg": [ "t_grass_winter" ],
+        "bg": [ "t_dirt_winter_center" ],
         "fg": [
           "t_alien_meadow_grass_long_end_piece_n",
           "t_alien_meadow_grass_long_end_piece_w",
@@ -176,7 +176,7 @@
           "t_alien_meadow_grass_long_end_piece_e"
         ]
       },
-      { "bg": [ "t_grass_winter" ], "id": "unconnected", "fg": [ "t_alien_meadow_grass_long_unconnected" ] }
+      { "bg": [ "t_dirt_winter_center" ], "id": "unconnected", "fg": [ "t_alien_meadow_grass_long_unconnected" ] }
     ]
   }
 ]
