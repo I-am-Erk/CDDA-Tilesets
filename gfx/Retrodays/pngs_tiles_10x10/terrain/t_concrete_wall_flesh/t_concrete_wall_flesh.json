@@ -1,0 +1,32 @@
+{
+  "id": "t_concrete_wall_flesh",
+  "fg": "t_concrete_wall_flesh_0",
+  "rotates": true,
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "center",
+      "fg": "t_concrete_wall_flesh_1"
+    },
+    {
+      "id": "corner",
+      "fg": "t_concrete_wall_flesh_2"
+    },
+    {
+      "id": "edge",
+      "fg": "t_concrete_wall_flesh_3"
+    },
+    {
+      "id": "end_piece",
+      "fg": "t_concrete_wall_flesh_4"
+    },
+    {
+      "id": "t_connection",
+      "fg": "t_concrete_wall_flesh_5"
+    },
+    {
+      "id": "unconnected",
+      "fg": "t_concrete_wall_flesh_0"
+    }
+  ]
+}
