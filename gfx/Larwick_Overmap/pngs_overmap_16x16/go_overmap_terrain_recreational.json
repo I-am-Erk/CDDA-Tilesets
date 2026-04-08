@@ -276,22 +276,22 @@
   },
   {
     "id": ["speedway_1_0","speedway_0_1"],
-    "fg": ["speedway2_road_corner_nw","speedway2_road_corner_sw","speedway2_road_corner_se","speedway2_road_corner_ne"],
+    "fg": ["speedway2_road_corner_nw","speedway2_road_corner_ne","speedway2_road_corner_se","speedway2_road_corner_sw"],
     "rotates": true
   },
   {
     "id": "speedway_1_4",
-    "fg": ["speedway2_road_corner_ne","speedway2_road_corner_nw","speedway2_road_corner_sw","speedway2_road_corner_se"],
+    "fg": ["speedway2_road_corner_ne","speedway2_road_corner_se","speedway2_road_corner_sw","speedway2_road_corner_nw"],
     "rotates": true
   },
   {
     "id": "speedway_6_1",
-    "fg": ["speedway2_road_corner_sw","speedway2_road_corner_se","speedway2_road_corner_ne","speedway2_road_corner_nw"],
+    "fg": ["speedway2_road_corner_sw","speedway2_road_corner_nw","speedway2_road_corner_ne","speedway2_road_corner_se"],
     "rotates": true
   },
   {
     "id": ["speedway_7_4","speedway_6_5"],
-    "fg": ["speedway2_road_corner_se","speedway2_road_corner_ne","speedway2_road_corner_nw","speedway2_road_corner_sw"],
+    "fg": ["speedway2_road_corner_se","speedway2_road_corner_sw","speedway2_road_corner_nw","speedway2_road_corner_ne"],
     "rotates": true
   },
   {
@@ -306,22 +306,22 @@
   },
   {
     "id": ["speedway_6_4"],
-    "fg": ["speedway1_road_corner_nw","speedway1_road_corner_sw","speedway1_road_corner_se","speedway1_road_corner_ne"],
+    "fg": ["speedway1_road_corner_nw","speedway1_road_corner_ne","speedway1_road_corner_se","speedway1_road_corner_sw"],
     "rotates": true
   },
   {
     "id": ["speedway_6_0","speedway_7_1"],
-    "fg": ["speedway1_road_corner_ne","speedway1_road_corner_nw","speedway1_road_corner_sw","speedway1_road_corner_se"],
+    "fg": ["speedway1_road_corner_ne","speedway1_road_corner_se","speedway1_road_corner_sw","speedway1_road_corner_nw"],
     "rotates": true
   },
   {
     "id": ["speedway_0_4","speedway_1_5"],
-    "fg": ["speedway1_road_corner_sw","speedway1_road_corner_se","speedway1_road_corner_ne","speedway1_road_corner_nw"],
+    "fg": ["speedway1_road_corner_sw","speedway1_road_corner_nw","speedway1_road_corner_ne","speedway1_road_corner_se"],
     "rotates": true
   },
   {
     "id": ["speedway_1_1"],
-    "fg": ["speedway1_road_corner_se","speedway1_road_corner_ne","speedway1_road_corner_nw","speedway1_road_corner_sw"],
+    "fg": ["speedway1_road_corner_se","speedway1_road_corner_sw","speedway1_road_corner_nw","speedway1_road_corner_ne"],
     "rotates": true
   },
   {
@@ -354,27 +354,27 @@
   },
   {
     "id": "speedway_8_1",
-    "fg": ["road_corner_ne","road_corner_nw","road_corner_sw","road_corner_se"],
+    "fg": ["road_corner_ne","road_corner_se","road_corner_sw","road_corner_nw"],
     "rotates": true
   },
   {
     "id": "speedway_8_5",
-    "fg": ["road_t_connection_e","road_t_connection_n","road_t_connection_w","road_t_connection_s"],
+    "fg": ["road_t_connection_e","road_t_connection_s","road_t_connection_w","road_t_connection_n"],
     "rotates": true
   },
   {
     "id": "speedway_5_7",
-    "fg": ["road_t_connection_w","road_t_connection_s","road_t_connection_e","road_t_connection_n"],
+    "fg": ["road_t_connection_w","road_t_connection_n","road_t_connection_e","road_t_connection_s"],
     "rotates": true
   },
   {
     "id": "speedway_8_7",
-    "fg": ["road_corner_se","road_corner_ne","road_corner_nw","road_corner_sw"],
+    "fg": ["road_corner_se","road_corner_sw","road_corner_nw","road_corner_ne"],
     "rotates": true
   },
   {
     "id": "speedway_5_8",
-    "fg": ["road_t_connection_e","road_t_connection_n","road_t_connection_w","road_t_connection_s"],
+    "fg": ["road_t_connection_e","road_t_connection_s","road_t_connection_w","road_t_connection_n"],
     "rotates": true
   },
   {
