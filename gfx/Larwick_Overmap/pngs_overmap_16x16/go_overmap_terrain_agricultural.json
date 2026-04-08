@@ -543,34 +543,6 @@
     "fg": "barn_brown"
   },
   {
-    "id": "farm_dairy_twd_11",
-    "rotates": true,
-    "fg": "dirt_road_edge_ns",
-    "//": "temporary fix"
-  },
-  {
-    "id": "farm_dairy_twd_7",
-    "rotates": true,
-    "fg": [
-      "dirt_road_t_connection_n",
-      "dirt_road_t_connection_e",
-      "dirt_road_t_connection_s",
-      "dirt_road_t_connection_w"
-    ],
-    "//": "temporary fix"
-  },
-  {
-    "id": "farm_dairy_twd_8",
-    "rotates": true,
-    "fg": [
-      "dirt_road_corner_ne",
-      "dirt_road_corner_se",
-      "dirt_road_corner_sw",
-      "dirt_road_corner_nw"
-    ],
-    "//": "temporary fix"
-  },
-  {
     "id": [
       "hayfield_straight",
       "hayfield_turnL",
@@ -588,11 +560,6 @@
     "fg": "sign_brown"
   },
   {
-    "id": ["paddock_trailhead_5","paddock_trailhead_8"],
-    "fg": ["forest_trail_edge_ns","forest_trail_edge_ew","forest_trail_edge_ns","forest_trail_edge_ew"],
-    "rotates": true
-  },
-  {
     "id": ["farm_horse_house_1","farm_horse_house_1_2ndfloor","farm_horse_house_1_roof"],
     "fg": "cabin_brown"
   },
@@ -603,26 +570,6 @@
   {
     "id": ["farm_horse_stable_1","farm_horse_stable_1_hayloft","farm_horse_stable_1_roof","farm_horse_carriage_house_1","farm_horse_carriage_house_1_roof"],
     "fg": "barn_brown"
-  },
-  {
-    "id": "farm_horse_track_large_1",
-    "fg": ["road_corner_nw","road_corner_sw","road_corner_se","road_corner_ne"],
-    "rotates": true
-  },
-  {
-    "id": "farm_horse_track_large_2",
-    "fg": ["road_corner_ne","road_corner_nw","road_corner_sw","road_corner_se"],
-    "rotates": true
-  },
-  {
-    "id": "farm_horse_track_large_3",
-    "fg": ["road_corner_sw","road_corner_se","road_corner_ne","road_corner_nw"],
-    "rotates": true
-  },
-  {
-    "id": "farm_horse_track_large_4",
-    "fg": ["road_corner_se","road_corner_ne","road_corner_nw","road_corner_sw"],
-    "rotates": true
   },
   {
     "id": ["farm_horse_ring_1","farm_horse_ring_2","farm_horse_ring_3","farm_horse_ring_4"],

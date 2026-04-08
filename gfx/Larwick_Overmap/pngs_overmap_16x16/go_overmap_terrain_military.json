@@ -136,21 +136,6 @@
     "fg": "bunker_red"
   },
   {
-    "id": ["mil_base_4a","mil_base_4f"],
-    "fg": ["road_t_connection_w","road_t_connection_s","road_t_connection_e","road_t_connection_n"],
-    "rotates": true
-  },
-  {
-    "id": "mil_base_4j",
-    "fg": ["road_corner_sw","road_corner_se","road_corner_ne","road_corner_nw"],
-    "rotates": true
-  },
-  {
-    "id": "mil_base_6f",
-    "fg": ["road_t_connection_n","road_t_connection_w","road_t_connection_s","road_t_connection_e"],
-    "rotates": true
-  },
-  {
     "id": ["mil_base_5a","mil_base_6a","mil_base_7a","mil_base_8f","mil_base_6g","mil_base_7g","mil_base_6h","mil_base_7h","mil_base_8h"],
     "fg": "parking_dark_gray"
   },
@@ -161,16 +146,6 @@
   {
     "id": ["mil_base_1b1","mil_base_3b1","mil_base_5b1","mil_base_8b1","mil_base_1g1","mil_base_8g1","mil_base_1k1","mil_base_4k1","mil_base_8k1"],
     "fg": "watchtower_light_red"
-  },
-  {
-    "id": ["mil_base_road_entrance","mil_base_4b","mil_base_4c","mil_base_4d","mil_base_4e","mil_base_4g","mil_base_4h","mil_base_4i"],
-    "fg": ["road_edge_ns","road_edge_ew","road_edge_ns","road_edge_ew"],
-    "rotates": true
-  },
-  {
-    "id": ["mil_base_5f","mil_base_5j","mil_base_6j","mil_base_7j"],
-    "fg": ["road_edge_ew","road_edge_ns","road_edge_ew","road_edge_ns"],
-    "rotates": true
   },
   {
     "id": ["mil_base_3i","mil_base_3i1","mil_base_3i2","mil_base_3i3","mil_base_3i4"],

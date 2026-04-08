@@ -1,45 +1,5 @@
 [
   {
-    "id": [ "refctr_fence_h" ],
-    "fg": [ "h_line_white", "v_line_white", "h_line_white", "v_line_white" ],
-    "rotates": true
-  },
-  {
-    "id": [ "refctr_fence_v" ],
-    "fg": [ "v_line_white", "h_line_white", "v_line_white", "h_line_white" ],
-    "rotates": true
-  },
-  {
-    "id": [ "refctr_fence_entrance_L" ],
-    "fg": [ "h_line_white-gray", "v_line_gray-white", "h_line_gray-white", "v_line_white-gray" ],
-    "rotates": true
-  },
-  {
-    "id": [ "refctr_fence_entrance_R" ],
-    "fg": [ "h_line_gray-white", "v_line_white-gray", "h_line_white-gray", "v_line_gray-white" ],
-    "rotates": true
-  },
-  {
-    "id": [ "refctr_fence_NW" ],
-    "fg": [ "corner_se_white", "corner_ne_white", "corner_nw_white", "corner_sw_white" ],
-    "rotates": true
-  },
-  {
-    "id": [ "refctr_fence_NE" ],
-    "fg": [ "corner_sw_white", "corner_se_white", "corner_ne_white", "corner_nw_white" ],
-    "rotates": true
-  },
-  {
-    "id": [ "refctr_fence_SE" ],
-    "fg": [ "corner_nw_white", "corner_sw_white", "corner_se_white", "corner_ne_white" ],
-    "rotates": true
-  },
-  {
-    "id": [ "refctr_fence_SW" ],
-    "fg": [ "corner_ne_white", "corner_nw_white", "corner_sw_white", "corner_se_white" ],
-    "rotates": true
-  },
-  {
     "id": [
       "evac_center_7",
       "evac_center_8",
@@ -66,45 +26,5 @@
       "evac_center_19_z1"
     ],
     "fg": "industry_white"
-  },
-  {
-    "id": [ "evac_center_2", "evac_center_3", "evac_center_4", "evac_center_22", "evac_center_24" ],
-    "fg": [ "road_edge_ew", "road_edge_ns", "road_edge_ew", "road_edge_ns" ],
-    "rotates": true
-  },
-  {
-    "id": [ "refctr_road", "refctr_S3e" ],
-    "fg": [ "road_edge_ns", "road_edge_ew", "road_edge_ns", "road_edge_ew" ],
-    "rotates": true
-  },
-  {
-    "id": [ "evac_center_6", "evac_center_11", "evac_center_16", "evac_center_10", "evac_center_15", "evac_center_20" ],
-    "fg": [ "road_edge_ns", "road_edge_ew", "road_edge_ns", "road_edge_ew" ],
-    "rotates": true
-  },
-  {
-    "id": "evac_center_23",
-    "fg": [ "road_t_connection_n", "road_t_connection_w", "road_t_connection_s", "road_t_connection_e" ],
-    "rotates": true
-  },
-  {
-    "id": "evac_center_1",
-    "fg": [ "road_corner_nw", "road_corner_sw", "road_corner_se", "road_corner_ne" ],
-    "rotates": true
-  },
-  {
-    "id": "evac_center_5",
-    "fg": [ "road_corner_ne", "road_corner_nw", "road_corner_sw", "road_corner_se" ],
-    "rotates": true
-  },
-  {
-    "id": "evac_center_21",
-    "fg": [ "road_corner_sw", "road_corner_se", "road_corner_ne", "road_corner_nw" ],
-    "rotates": true
-  },
-  {
-    "id": "evac_center_25",
-    "fg": [ "road_corner_se", "road_corner_ne", "road_corner_nw", "road_corner_sw" ],
-    "rotates": true
   }
 ]

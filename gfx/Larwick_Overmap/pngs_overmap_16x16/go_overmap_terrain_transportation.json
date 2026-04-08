@@ -189,21 +189,6 @@
     "fg": "public_building_light_cyan"
   },
   {
-    "id": [
-      "runway",
-      "runway_start",
-      "runway_hangar",
-      "runway_hangar2",
-      "runway_carts",
-      "runway_wild",
-      "runway_fuel",
-      "runway_fuel2",
-      "runway_end"
-    ],
-    "rotates": true,
-    "fg": "h_runway"
-  },
-  {
     "id": "s_air_parking",
     "fg": "parking_dark_gray"
   },
@@ -232,18 +217,6 @@
   {
     "id": "s_air_helicopter_pad",
     "fg": "helipad_cyan"
-  },
-  {
-    "id": [
-      "s_air_runway",
-      "s_air_runway_r",
-      "s_air_runway_hangars",
-      "s_air_runway_term",
-      "s_air_runway_B",
-      "s_air_runway_l"
-    ],
-    "rotates": true,
-    "fg": "h_runway"
   },
   {
     "id": "bus_stat_0",
