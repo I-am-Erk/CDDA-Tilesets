@@ -10,40 +10,40 @@
   {
     "id": "refctr_fence_v",
     "fg": [
-      { "weight": 2, "sprite": [ "refctr_fence_E", "refctr_fence_N", "refctr_fence_W", "refctr_fence_S" ] },
-      { "weight": 1, "sprite": [ "refctr_fence_E1", "refctr_fence_N1", "refctr_fence_W1", "refctr_fence_S1" ] }
+      { "weight": 2, "sprite": [ "refctr_fence_W", "refctr_fence_S", "refctr_fence_E", "refctr_fence_N" ] },
+      { "weight": 1, "sprite": [ "refctr_fence_W1", "refctr_fence_S1", "refctr_fence_E1", "refctr_fence_N1" ] }
     ],
     "rotates": true
   },
   {
     "id": "refctr_fence_NE",
     "fg": [
-      { "weight": 2, "sprite": [ "refctr_fence_NE", "refctr_fence_NW", "refctr_fence_SW", "refctr_fence_SE" ] },
-      { "weight": 1, "sprite": [ "refctr_fence_NE1", "refctr_fence_NW1", "refctr_fence_SW1", "refctr_fence_SE1" ] }
+      { "weight": 2, "sprite": [ "refctr_fence_NE", "refctr_fence_SE", "refctr_fence_SW", "refctr_fence_NW" ] },
+      { "weight": 1, "sprite": [ "refctr_fence_NE1", "refctr_fence_SE1", "refctr_fence_SW1", "refctr_fence_NW1" ] }
     ],
     "rotates": true
   },
   {
     "id": "refctr_fence_NW",
     "fg": [
-      { "weight": 2, "sprite": [ "refctr_fence_NW", "refctr_fence_SW", "refctr_fence_SE", "refctr_fence_NE" ] },
-      { "weight": 1, "sprite": [ "refctr_fence_NW1", "refctr_fence_SW1", "refctr_fence_SE1", "refctr_fence_NE1" ] }
+      { "weight": 2, "sprite": [ "refctr_fence_NW", "refctr_fence_NE", "refctr_fence_SE", "refctr_fence_SW" ] },
+      { "weight": 1, "sprite": [ "refctr_fence_NW1", "refctr_fence_NE1", "refctr_fence_SE1", "refctr_fence_SW1" ] }
     ],
     "rotates": true
   },
   {
     "id": [ "refctr_fence_SW", "refctr_fence_entrance_R" ],
     "fg": [
-      { "weight": 2, "sprite": [ "refctr_fence_SW", "refctr_fence_SE", "refctr_fence_NE", "refctr_fence_NW" ] },
-      { "weight": 1, "sprite": [ "refctr_fence_SW1", "refctr_fence_SE1", "refctr_fence_NE1", "refctr_fence_NW1" ] }
+      { "weight": 2, "sprite": [ "refctr_fence_SW", "refctr_fence_NW", "refctr_fence_NE", "refctr_fence_SE" ] },
+      { "weight": 1, "sprite": [ "refctr_fence_SW1", "refctr_fence_NW1", "refctr_fence_NE1", "refctr_fence_SE1" ] }
     ],
     "rotates": true
   },
   {
     "id": [ "refctr_fence_SE", "refctr_fence_entrance_L" ],
     "fg": [
-      { "weight": 2, "sprite": [ "refctr_fence_SE", "refctr_fence_NE", "refctr_fence_NW", "refctr_fence_SW" ] },
-      { "weight": 1, "sprite": [ "refctr_fence_SE1", "refctr_fence_NE1", "refctr_fence_NW1", "refctr_fence_SW1" ] }
+      { "weight": 2, "sprite": [ "refctr_fence_SE", "refctr_fence_SW", "refctr_fence_NW", "refctr_fence_NE" ] },
+      { "weight": 1, "sprite": [ "refctr_fence_SE1", "refctr_fence_SW1", "refctr_fence_NW1", "refctr_fence_NE1" ] }
     ],
     "rotates": true
   },
@@ -68,27 +68,27 @@
   },
   {
     "id": "evac_center_23",
-    "fg": "road_t_connection_n",
+    "fg": [ "road_t_connection_n", "road_t_connection_e", "road_t_connection_s", "road_t_connection_w" ],
     "rotates": true
   },
   {
     "id": "evac_center_5",
-    "fg": "road_corner_ne",
+    "fg": [ "road_corner_ne", "road_corner_se", "road_corner_sw", "road_corner_nw" ],
     "rotates": true
   },
   {
     "id": "evac_center_1",
-    "fg": "road_corner_nw",
+    "fg": [ "road_corner_nw", "road_corner_ne", "road_corner_se", "road_corner_sw" ],
     "rotates": true
   },
   {
     "id": "evac_center_21",
-    "fg": "road_corner_sw",
+    "fg": [ "road_corner_sw", "road_corner_nw", "road_corner_ne", "road_corner_se" ],
     "rotates": true
   },
   {
     "id": "evac_center_25",
-    "fg": "road_corner_se",
+    "fg": [ "road_corner_se", "road_corner_sw", "road_corner_nw", "road_corner_ne" ],
     "rotates": true
   }
 ]

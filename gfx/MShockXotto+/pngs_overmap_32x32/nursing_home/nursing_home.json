@@ -6,12 +6,12 @@
   },
   {
     "id": "nursing_home_4",
-    "fg": "road_corner_ne",
+    "fg": [ "road_corner_ne", "road_corner_se", "road_corner_sw", "road_corner_nw" ],
     "rotates": true
   },
   {
     "id": "nursing_home_12",
-    "fg": "road_t_connection_e",
+    "fg": [ "road_t_connection_e", "road_t_connection_s", "road_t_connection_w", "road_t_connection_n" ],
     "rotates": true
   }
 ]

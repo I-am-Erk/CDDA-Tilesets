@@ -11,12 +11,12 @@
   },
   {
     "id": "trailer_road_turn",
-    "fg": "road_corner_ne",
+    "fg": [ "road_corner_ne", "road_corner_se", "road_corner_sw", "road_corner_nw" ],
     "rotates": true
   },
   {
     "id": "trailer_road_3way",
-    "fg": "road_t_connection_n",
+    "fg": [ "road_t_connection_n", "road_t_connection_e", "road_t_connection_s", "road_t_connection_w" ],
     "rotates": true
   },
   {

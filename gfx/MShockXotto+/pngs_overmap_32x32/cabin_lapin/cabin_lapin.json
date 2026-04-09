@@ -2,9 +2,9 @@
   "id": "cabin_lapin",
   "fg": [
     "cabin_lapin_north",
-    "cabin_lapin_east",
+    "cabin_lapin_west",
     "cabin_lapin_south",
-    "cabin_lapin_west"
+    "cabin_lapin_east"
   ],
   "rotates": true,
   "bg": [

@@ -1,12 +1,12 @@
 [
   {
     "id": "s_air_runway_l",
-    "fg": "road_end_piece_w",
+    "fg": [ "road_end_piece_w", "road_end_piece_n", "road_end_piece_e", "road_end_piece_s" ],
     "rotates": true
   },
   {
     "id": "s_air_runway_r",
-    "fg": "road_end_piece_e",
+    "fg": [ "road_end_piece_e", "road_end_piece_s", "road_end_piece_w", "road_end_piece_n" ],
     "rotates": true
   },
   {

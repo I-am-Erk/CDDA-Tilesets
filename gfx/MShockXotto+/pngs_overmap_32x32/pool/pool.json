@@ -7,7 +7,7 @@
   },
   {
     "id": "pool",
-    "fg": [ "pool_north","pool_east","pool_south","pool_west" ],
+    "fg": [ "pool_north","pool_west","pool_south","pool_east" ],
     "rotates": true,
     "bg": [  ]
   }

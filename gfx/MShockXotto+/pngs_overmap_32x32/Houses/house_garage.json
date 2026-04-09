@@ -10,7 +10,7 @@
       "house_garage7",
       "house_garage8"
     ],
-    "fg": [ "house_garage_N", "house_garage_E", "house_garage_S", "house_garage_W" ],
+    "fg": [ "house_garage_N", "house_garage_W", "house_garage_S", "house_garage_E" ],
     "bg": [  ],
     "rotates": true
   },
@@ -25,7 +25,7 @@
       "house_garage7_roof",
       "house_garage8_roof"
     ],
-    "fg": [ "house_garage_roof_N", "house_garage_roof_E", "house_garage_roof_S", "house_garage_roof_W" ],
+    "fg": [ "house_garage_roof_N", "house_garage_roof_W", "house_garage_roof_S", "house_garage_roof_E" ],
     "bg": [  ],
     "rotates": true
   }

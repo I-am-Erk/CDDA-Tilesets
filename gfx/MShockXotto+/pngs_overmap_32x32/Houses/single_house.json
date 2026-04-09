@@ -1,7 +1,7 @@
 [
   {
     "id": [ "generic_city_house", "generic_city_house_no_sidewalk" ],
-    "fg": [ "single_houseN", "single_houseE", "single_houseS", "single_houseW" ],
+    "fg": [ "single_houseN", "single_houseW", "single_houseS", "single_houseE" ],
     "bg": [  ],
     "rotates": true
   },
@@ -73,7 +73,7 @@
       "urban_18_10",
       "2farm_11"
     ],
-    "fg": [ "single_house_roofN", "single_house_roofE", "single_house_roofS", "single_house_roofW" ],
+    "fg": [ "single_house_roofN", "single_house_roofW", "single_house_roofS", "single_house_roofE" ],
     "bg": [  ],
     "rotates": true
   }

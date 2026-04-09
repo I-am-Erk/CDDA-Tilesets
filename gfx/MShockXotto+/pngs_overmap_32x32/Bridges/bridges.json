@@ -1,7 +1,7 @@
 [
 {
   "id": "bridgehead_ground",
-  "fg": [ "bridgehead_ground_N", "bridgehead_ground_E", "bridgehead_ground_S", "bridgehead_ground_W" ],
+  "fg": [ "bridgehead_ground_N", "bridgehead_ground_W", "bridgehead_ground_S", "bridgehead_ground_E" ],
   "rotates": true,
   "bg": [ ]
 },

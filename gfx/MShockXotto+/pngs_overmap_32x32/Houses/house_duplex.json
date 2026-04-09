@@ -13,7 +13,7 @@
       "house_duplex8",
       "house_duplex9"
     ],
-    "fg": [ "house_duplex_north", "house_duplex_east", "house_duplex_south", "house_duplex_west" ],
+    "fg": [ "house_duplex_north", "house_duplex_west", "house_duplex_south", "house_duplex_east" ],
     "bg": [  ],
     "rotates": true
   },
@@ -31,7 +31,7 @@
       "house_duplex8_roof",
       "house_duplex9_roof"
     ],
-    "fg": [ "house_duplex_roof_north", "house_duplex_roof_east", "house_duplex_roof_south", "house_duplex_roof_west" ],
+    "fg": [ "house_duplex_roof_north", "house_duplex_roof_west", "house_duplex_roof_south", "house_duplex_roof_east" ],
     "bg": [  ],
     "rotates": true
   }
