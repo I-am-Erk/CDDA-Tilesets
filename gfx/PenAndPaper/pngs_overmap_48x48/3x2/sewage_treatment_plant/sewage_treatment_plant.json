@@ -10,7 +10,7 @@
     ],
     "rotates": true,
     "fg": [
-      "sewage_treatment_plant_var_02", "sewage_treatment_plant_var_10", "sewage_treatment_plant_var_09", "sewage_treatment_plant_var_01"
+      "sewage_treatment_plant_var_02", "sewage_treatment_plant_var_01", "sewage_treatment_plant_var_09", "sewage_treatment_plant_var_10"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -46,7 +46,7 @@
     ],
     "rotates": true,
     "fg": [
-      "sewage_treatment_plant_var_03", "sewage_treatment_plant_var_05", "sewage_treatment_plant_var_08", "sewage_treatment_plant_var_06"
+      "sewage_treatment_plant_var_03", "sewage_treatment_plant_var_06", "sewage_treatment_plant_var_08", "sewage_treatment_plant_var_05"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -82,7 +82,7 @@
     ],
     "rotates": true,
     "fg": [
-      "sewage_treatment_plant_var_04", "sewage_treatment_plant_var_00", "sewage_treatment_plant_var_07", "sewage_treatment_plant_var_11"
+      "sewage_treatment_plant_var_04", "sewage_treatment_plant_var_11", "sewage_treatment_plant_var_07", "sewage_treatment_plant_var_00"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -118,7 +118,7 @@
     ],
     "rotates": true,
     "fg": [
-      "sewage_treatment_plant_var_07", "sewage_treatment_plant_var_11", "sewage_treatment_plant_var_04", "sewage_treatment_plant_var_00"
+      "sewage_treatment_plant_var_07", "sewage_treatment_plant_var_00", "sewage_treatment_plant_var_04", "sewage_treatment_plant_var_11"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -154,7 +154,7 @@
     ],
     "rotates": true,
     "fg": [
-      "sewage_treatment_plant_var_08", "sewage_treatment_plant_var_06", "sewage_treatment_plant_var_03", "sewage_treatment_plant_var_05"
+      "sewage_treatment_plant_var_08", "sewage_treatment_plant_var_05", "sewage_treatment_plant_var_03", "sewage_treatment_plant_var_06"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -190,7 +190,7 @@
     ],
     "rotates": true,
     "fg": [
-      "sewage_treatment_plant_var_09", "sewage_treatment_plant_var_01", "sewage_treatment_plant_var_02", "sewage_treatment_plant_var_10"
+      "sewage_treatment_plant_var_09", "sewage_treatment_plant_var_10", "sewage_treatment_plant_var_02", "sewage_treatment_plant_var_01"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },

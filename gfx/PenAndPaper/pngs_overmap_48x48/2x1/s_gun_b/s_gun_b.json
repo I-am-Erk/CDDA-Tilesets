@@ -2,7 +2,7 @@
   {
     "id": [ "s_gun_b_store", "s_gun_b_roof" ],
     "rotates": true,
-    "fg": [ "s_gun_b_var_01", "s_gun_b_var_03", "s_gun_b_var_02", "s_gun_b_var_00" ],
+    "fg": [ "s_gun_b_var_01", "s_gun_b_var_00", "s_gun_b_var_02", "s_gun_b_var_03" ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },
@@ -34,7 +34,7 @@
   {
     "id": [ "s_gun_b_range", "s_gun_b_range_roof" ],
     "rotates": true,
-    "fg": [ "s_gun_b_var_02", "s_gun_b_var_00", "s_gun_b_var_01", "s_gun_b_var_03" ],
+    "fg": [ "s_gun_b_var_02", "s_gun_b_var_03", "s_gun_b_var_01", "s_gun_b_var_00" ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },

@@ -6,7 +6,7 @@
     ],
     "rotates": true,
     "fg": [
-      "lumbermill_var_00", "lumbermill_var_02", "lumbermill_var_03", "lumbermill_var_01"
+      "lumbermill_var_00", "lumbermill_var_01", "lumbermill_var_03", "lumbermill_var_02"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -43,7 +43,7 @@
     ],
     "rotates": true,
     "fg": [
-      "lumbermill_var_01", "lumbermill_var_00", "lumbermill_var_02", "lumbermill_var_03"
+      "lumbermill_var_01", "lumbermill_var_03", "lumbermill_var_02", "lumbermill_var_00"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -80,7 +80,7 @@
     ],
     "rotates": true,
     "fg": [
-      "lumbermill_var_02", "lumbermill_var_03", "lumbermill_var_01", "lumbermill_var_00"
+      "lumbermill_var_02", "lumbermill_var_00", "lumbermill_var_01", "lumbermill_var_03"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -117,7 +117,7 @@
     ],
     "rotates": true,
     "fg": [
-      "lumbermill_var_03", "lumbermill_var_01", "lumbermill_var_00", "lumbermill_var_02"
+      "lumbermill_var_03", "lumbermill_var_02", "lumbermill_var_00", "lumbermill_var_01"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },

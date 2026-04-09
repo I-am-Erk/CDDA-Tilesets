@@ -11,7 +11,7 @@
     ],
     "rotates": true,
     "fg": [
-      "shipwreck_var_01", "shipwreck_var_03", "shipwreck_var_02", "shipwreck_var_00"
+      "shipwreck_var_01", "shipwreck_var_00", "shipwreck_var_02", "shipwreck_var_03"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -48,7 +48,7 @@
     ],
     "rotates": true,
     "fg": [
-      "shipwreck_var_02", "shipwreck_var_00", "shipwreck_var_01", "shipwreck_var_03"
+      "shipwreck_var_02", "shipwreck_var_03", "shipwreck_var_01", "shipwreck_var_00"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },

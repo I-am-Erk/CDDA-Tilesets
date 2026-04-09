@@ -15,7 +15,7 @@
     ],
     "rotates": true,
     "fg": [
-      "beehive_var_00", "beehive_var_06", "beehive_var_08", "beehive_var_02"
+      "beehive_var_00", "beehive_var_02", "beehive_var_08", "beehive_var_06"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -52,7 +52,7 @@
     ],
     "rotates": true,
     "fg": [
-      "beehive_var_01", "beehive_var_03", "beehive_var_07", "beehive_var_05"
+      "beehive_var_01", "beehive_var_05", "beehive_var_07", "beehive_var_03"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -89,7 +89,7 @@
     ],
     "rotates": true,
     "fg": [
-      "beehive_var_02", "beehive_var_00", "beehive_var_06", "beehive_var_08"
+      "beehive_var_02", "beehive_var_08", "beehive_var_06", "beehive_var_00"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -130,7 +130,7 @@
     ],
     "rotates": true,
     "fg": [
-      "beehive_var_03", "beehive_var_07", "beehive_var_05", "beehive_var_01"
+      "beehive_var_03", "beehive_var_01", "beehive_var_05", "beehive_var_07"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -204,7 +204,7 @@
     ],
     "rotates": true,
     "fg": [
-      "beehive_var_05", "beehive_var_01", "beehive_var_03", "beehive_var_07"
+      "beehive_var_05", "beehive_var_07", "beehive_var_03", "beehive_var_01"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -245,7 +245,7 @@
     ],
     "rotates": true,
     "fg": [
-      "beehive_var_06", "beehive_var_08", "beehive_var_02", "beehive_var_00"
+      "beehive_var_06", "beehive_var_00", "beehive_var_02", "beehive_var_08"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -282,7 +282,7 @@
     ],
     "rotates": true,
     "fg": [
-      "beehive_var_07", "beehive_var_05", "beehive_var_01", "beehive_var_03"
+      "beehive_var_07", "beehive_var_03", "beehive_var_01", "beehive_var_05"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -319,7 +319,7 @@
     ],
     "rotates": true,
     "fg": [
-      "beehive_var_08", "beehive_var_02", "beehive_var_00", "beehive_var_06"
+      "beehive_var_08", "beehive_var_06", "beehive_var_00", "beehive_var_02"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },

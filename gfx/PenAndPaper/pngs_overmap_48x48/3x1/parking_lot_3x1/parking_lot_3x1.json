@@ -10,7 +10,7 @@
     ],
     "rotates": true,
     "fg": [
-      "parking_lot_3x1_var_01", "parking_lot_3x1_var_08", "parking_lot_3x1_var_03", "parking_lot_3x1_var_00"
+      "parking_lot_3x1_var_01", "parking_lot_3x1_var_00", "parking_lot_3x1_var_03", "parking_lot_3x1_var_08"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -82,7 +82,7 @@
     ],
     "rotates": true,
     "fg": [
-      "parking_lot_3x1_var_03", "parking_lot_3x1_var_00", "parking_lot_3x1_var_01", "parking_lot_3x1_var_08"
+      "parking_lot_3x1_var_03", "parking_lot_3x1_var_08", "parking_lot_3x1_var_01", "parking_lot_3x1_var_00"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },

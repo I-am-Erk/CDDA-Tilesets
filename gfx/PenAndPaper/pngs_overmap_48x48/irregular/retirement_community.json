@@ -178,23 +178,23 @@
     "fg": [
       {
         "weight": 1,
-        "sprite": [ "sewers_v1_corner_ne", "sewers_v1_corner_nw", "sewers_v1_corner_sw", "sewers_v1_corner_se"  ]
+        "sprite": [ "sewers_v1_corner_ne", "sewers_v1_corner_se", "sewers_v1_corner_sw", "sewers_v1_corner_nw"  ]
       },
       {
         "weight": 1,
-        "sprite": [ "sewers_v2_corner_ne", "sewers_v2_corner_nw", "sewers_v2_corner_sw", "sewers_v2_corner_se"  ]
+        "sprite": [ "sewers_v2_corner_ne", "sewers_v2_corner_se", "sewers_v2_corner_sw", "sewers_v2_corner_nw"  ]
       },
       {
         "weight": 1,
-        "sprite": [ "sewers_v3_corner_ne", "sewers_v3_corner_nw", "sewers_v3_corner_sw", "sewers_v3_corner_se"  ]
+        "sprite": [ "sewers_v3_corner_ne", "sewers_v3_corner_se", "sewers_v3_corner_sw", "sewers_v3_corner_nw"  ]
       },
       {
         "weight": 1,
-        "sprite": [ "sewers_v4_corner_ne", "sewers_v4_corner_nw", "sewers_v4_corner_sw", "sewers_v4_corner_se"  ]
+        "sprite": [ "sewers_v4_corner_ne", "sewers_v4_corner_se", "sewers_v4_corner_sw", "sewers_v4_corner_nw"  ]
       },
       {
         "weight": 1,
-        "sprite": [ "sewers_v5_corner_ne", "sewers_v5_corner_nw", "sewers_v5_corner_sw", "sewers_v5_corner_se"  ]
+        "sprite": [ "sewers_v5_corner_ne", "sewers_v5_corner_se", "sewers_v5_corner_sw", "sewers_v5_corner_nw"  ]
       }
     ],
     "bg": [
@@ -535,23 +535,23 @@
     "fg": [
       {
         "weight": 1,
-        "sprite": [ "road_v1_t_connection_n", "road_v1_t_connection_w", "road_v1_t_connection_s", "road_v1_t_connection_e" ]
+        "sprite": [ "road_v1_t_connection_n", "road_v1_t_connection_e", "road_v1_t_connection_s", "road_v1_t_connection_w" ]
       },
       {
         "weight": 1,
-        "sprite": [ "road_v2_t_connection_n", "road_v2_t_connection_w", "road_v2_t_connection_s", "road_v2_t_connection_e" ]
+        "sprite": [ "road_v2_t_connection_n", "road_v2_t_connection_e", "road_v2_t_connection_s", "road_v2_t_connection_w" ]
       },
       {
         "weight": 1,
-        "sprite": [ "road_v3_t_connection_n", "road_v3_t_connection_w", "road_v3_t_connection_s", "road_v3_t_connection_e" ]
+        "sprite": [ "road_v3_t_connection_n", "road_v3_t_connection_e", "road_v3_t_connection_s", "road_v3_t_connection_w" ]
       },
       {
         "weight": 1,
-        "sprite": [ "road_v4_t_connection_n", "road_v4_t_connection_w", "road_v4_t_connection_s", "road_v4_t_connection_e" ]
+        "sprite": [ "road_v4_t_connection_n", "road_v4_t_connection_e", "road_v4_t_connection_s", "road_v4_t_connection_w" ]
       },
       {
         "weight": 1,
-        "sprite": [ "road_v5_t_connection_n", "road_v5_t_connection_w", "road_v5_t_connection_s", "road_v5_t_connection_e" ]
+        "sprite": [ "road_v5_t_connection_n", "road_v5_t_connection_e", "road_v5_t_connection_s", "road_v5_t_connection_w" ]
       }
     ],
     "bg": [
@@ -591,23 +591,23 @@
     "fg": [
       {
         "weight": 1,
-        "sprite": [ "road_v1_t_connection_s", "road_v1_t_connection_e", "road_v1_t_connection_n", "road_v1_t_connection_w" ]
+        "sprite": [ "road_v1_t_connection_s", "road_v1_t_connection_w", "road_v1_t_connection_n", "road_v1_t_connection_e" ]
       },
       {
         "weight": 1,
-        "sprite": [ "road_v2_t_connection_s", "road_v2_t_connection_e", "road_v2_t_connection_n", "road_v2_t_connection_w" ]
+        "sprite": [ "road_v2_t_connection_s", "road_v2_t_connection_w", "road_v2_t_connection_n", "road_v2_t_connection_e" ]
       },
       {
         "weight": 1,
-        "sprite": [ "road_v3_t_connection_s", "road_v3_t_connection_e", "road_v3_t_connection_n", "road_v3_t_connection_w" ]
+        "sprite": [ "road_v3_t_connection_s", "road_v3_t_connection_w", "road_v3_t_connection_n", "road_v3_t_connection_e" ]
       },
       {
         "weight": 1,
-        "sprite": [ "road_v4_t_connection_s", "road_v4_t_connection_e", "road_v4_t_connection_n", "road_v4_t_connection_w" ]
+        "sprite": [ "road_v4_t_connection_s", "road_v4_t_connection_w", "road_v4_t_connection_n", "road_v4_t_connection_e" ]
       },
       {
         "weight": 1,
-        "sprite": [ "road_v5_t_connection_s", "road_v5_t_connection_e", "road_v5_t_connection_n", "road_v5_t_connection_w" ]
+        "sprite": [ "road_v5_t_connection_s", "road_v5_t_connection_w", "road_v5_t_connection_n", "road_v5_t_connection_e" ]
       }
     ],
     "bg": [

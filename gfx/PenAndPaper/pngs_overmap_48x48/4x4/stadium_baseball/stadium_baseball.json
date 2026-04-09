@@ -6,7 +6,7 @@
       "stadium_0_1_2"
     ],
     "rotates": true,
-    "fg": ["stadium_baseball_var_00", "stadium_baseball_var_12", "stadium_baseball_var_15", "stadium_baseball_var_03"],
+    "fg": ["stadium_baseball_var_00", "stadium_baseball_var_03", "stadium_baseball_var_15", "stadium_baseball_var_12"],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },
@@ -42,7 +42,7 @@
       "stadium_1_1_2"
     ],
     "rotates": true,
-    "fg": ["stadium_baseball_var_01", "stadium_baseball_var_08", "stadium_baseball_var_14", "stadium_baseball_var_07"],
+    "fg": ["stadium_baseball_var_01", "stadium_baseball_var_07", "stadium_baseball_var_14", "stadium_baseball_var_08"],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },
@@ -78,7 +78,7 @@
       "stadium_2_1_2"
     ],
     "rotates": true,
-    "fg": ["stadium_baseball_var_02", "stadium_baseball_var_04", "stadium_baseball_var_13", "stadium_baseball_var_11"],
+    "fg": ["stadium_baseball_var_02", "stadium_baseball_var_11", "stadium_baseball_var_13", "stadium_baseball_var_04"],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },
@@ -114,7 +114,7 @@
       "stadium_3_1_2"
     ],
     "rotates": true,
-    "fg": ["stadium_baseball_var_03", "stadium_baseball_var_00", "stadium_baseball_var_12", "stadium_baseball_var_15"],
+    "fg": ["stadium_baseball_var_03", "stadium_baseball_var_15", "stadium_baseball_var_12", "stadium_baseball_var_00"],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },
@@ -154,7 +154,7 @@
       "stadium_0_2_2"
     ],
     "rotates": true,
-    "fg": ["stadium_baseball_var_04", "stadium_baseball_var_13", "stadium_baseball_var_11", "stadium_baseball_var_02"],
+    "fg": ["stadium_baseball_var_04", "stadium_baseball_var_02", "stadium_baseball_var_11", "stadium_baseball_var_13"],
         "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },
@@ -190,7 +190,7 @@
       "stadium_1_2_2"
     ],
     "rotates": true,
-    "fg": ["stadium_baseball_var_05", "stadium_baseball_var_09", "stadium_baseball_var_10", "stadium_baseball_var_06"],
+    "fg": ["stadium_baseball_var_05", "stadium_baseball_var_06", "stadium_baseball_var_10", "stadium_baseball_var_09"],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },
@@ -226,7 +226,7 @@
       "stadium_2_2_2"
     ],
     "rotates": true,
-    "fg": ["stadium_baseball_var_06", "stadium_baseball_var_05", "stadium_baseball_var_09", "stadium_baseball_var_10"],
+    "fg": ["stadium_baseball_var_06", "stadium_baseball_var_10", "stadium_baseball_var_09", "stadium_baseball_var_05"],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },
@@ -262,7 +262,7 @@
       "stadium_3_2_2"
     ],
     "rotates": true,
-    "fg": ["stadium_baseball_var_07", "stadium_baseball_var_01", "stadium_baseball_var_08", "stadium_baseball_var_14"],
+    "fg": ["stadium_baseball_var_07", "stadium_baseball_var_14", "stadium_baseball_var_08", "stadium_baseball_var_01"],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },
@@ -302,7 +302,7 @@
       "stadium_0_3_2"
     ],
     "rotates": true,
-    "fg": ["stadium_baseball_var_08", "stadium_baseball_var_14", "stadium_baseball_var_07", "stadium_baseball_var_01"],
+    "fg": ["stadium_baseball_var_08", "stadium_baseball_var_01", "stadium_baseball_var_07", "stadium_baseball_var_14"],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },
@@ -338,7 +338,7 @@
       "stadium_1_3_2"
     ],
     "rotates": true,
-    "fg": ["stadium_baseball_var_09", "stadium_baseball_var_10", "stadium_baseball_var_06", "stadium_baseball_var_05"],
+    "fg": ["stadium_baseball_var_09", "stadium_baseball_var_05", "stadium_baseball_var_06", "stadium_baseball_var_10"],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },
@@ -374,7 +374,7 @@
       "stadium_2_3_2"
     ],
     "rotates": true,
-    "fg": ["stadium_baseball_var_10", "stadium_baseball_var_06", "stadium_baseball_var_05", "stadium_baseball_var_09"],
+    "fg": ["stadium_baseball_var_10", "stadium_baseball_var_09", "stadium_baseball_var_05", "stadium_baseball_var_06"],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },
@@ -410,7 +410,7 @@
       "stadium_3_3_2"
     ],
     "rotates": true,
-    "fg": ["stadium_baseball_var_11", "stadium_baseball_var_02", "stadium_baseball_var_04", "stadium_baseball_var_13"],
+    "fg": ["stadium_baseball_var_11", "stadium_baseball_var_13", "stadium_baseball_var_04", "stadium_baseball_var_02"],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },
@@ -450,7 +450,7 @@
       "stadium_0_4_2"
     ],
     "rotates": true,
-    "fg": ["stadium_baseball_var_12", "stadium_baseball_var_15", "stadium_baseball_var_03", "stadium_baseball_var_00"],
+    "fg": ["stadium_baseball_var_12", "stadium_baseball_var_00", "stadium_baseball_var_03", "stadium_baseball_var_15"],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },
@@ -486,7 +486,7 @@
       "stadium_1_4_2"
     ],
     "rotates": true,
-    "fg": ["stadium_baseball_var_13", "stadium_baseball_var_11", "stadium_baseball_var_02", "stadium_baseball_var_04"],
+    "fg": ["stadium_baseball_var_13", "stadium_baseball_var_04", "stadium_baseball_var_02", "stadium_baseball_var_11"],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },
@@ -522,7 +522,7 @@
       "stadium_2_4_2"
     ],
     "rotates": true,
-    "fg": ["stadium_baseball_var_14", "stadium_baseball_var_07", "stadium_baseball_var_01", "stadium_baseball_var_08"],
+    "fg": ["stadium_baseball_var_14", "stadium_baseball_var_08", "stadium_baseball_var_01", "stadium_baseball_var_07"],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },
@@ -558,7 +558,7 @@
       "stadium_3_4_2"
     ],
     "rotates": true,
-    "fg": ["stadium_baseball_var_15", "stadium_baseball_var_03", "stadium_baseball_var_00", "stadium_baseball_var_12"],
+    "fg": ["stadium_baseball_var_15", "stadium_baseball_var_12", "stadium_baseball_var_00", "stadium_baseball_var_03"],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },

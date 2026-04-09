@@ -7,7 +7,7 @@
     ],
     "rotates": true,
     "fg": [
-      "motel_twd_var_01", "motel_twd_var_03", "motel_twd_var_02", "motel_twd_var_00"
+      "motel_twd_var_01", "motel_twd_var_00", "motel_twd_var_02", "motel_twd_var_03"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -44,7 +44,7 @@
     ],
     "rotates": true,
     "fg": [
-      "motel_twd_var_02", "motel_twd_var_00", "motel_twd_var_01", "motel_twd_var_03"
+      "motel_twd_var_02", "motel_twd_var_03", "motel_twd_var_01", "motel_twd_var_00"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },

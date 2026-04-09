@@ -10,7 +10,7 @@
     ],
     "rotates": true,
     "fg": [
-      "template3x1_var_01", "template3x1_var_08", "template3x1_var_03", "template3x1_var_00"
+      "template3x1_var_01", "template3x1_var_00", "template3x1_var_03", "template3x1_var_08"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -82,7 +82,7 @@
     ],
     "rotates": true,
     "fg": [
-      "template3x1_var_03", "template3x1_var_00", "template3x1_var_01", "template3x1_var_08"
+      "template3x1_var_03", "template3x1_var_08", "template3x1_var_01", "template3x1_var_00"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },

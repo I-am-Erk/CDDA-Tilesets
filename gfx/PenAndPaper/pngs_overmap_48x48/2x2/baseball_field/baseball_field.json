@@ -5,7 +5,7 @@
     ],
     "rotates": true,
     "fg": [
-      "baseball_field_var_00", "baseball_field_var_02", "baseball_field_var_03", "baseball_field_var_01"
+      "baseball_field_var_00", "baseball_field_var_01", "baseball_field_var_03", "baseball_field_var_02"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -41,7 +41,7 @@
     ],
     "rotates": true,
     "fg": [
-      "baseball_field_var_01", "baseball_field_var_00", "baseball_field_var_02", "baseball_field_var_03"
+      "baseball_field_var_01", "baseball_field_var_03", "baseball_field_var_02", "baseball_field_var_00"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -77,7 +77,7 @@
     ],
     "rotates": true,
     "fg": [
-      "baseball_field_var_02", "baseball_field_var_03", "baseball_field_var_01", "baseball_field_var_00"
+      "baseball_field_var_02", "baseball_field_var_00", "baseball_field_var_01", "baseball_field_var_03"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -113,7 +113,7 @@
     ],
     "rotates": true,
     "fg": [
-      "baseball_field_var_03", "baseball_field_var_01", "baseball_field_var_00", "baseball_field_var_02"
+      "baseball_field_var_03", "baseball_field_var_02", "baseball_field_var_00", "baseball_field_var_01"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },

@@ -303,11 +303,11 @@
     ],
     "rotates": true,
     "fg": [
-      { "weight": 1, "sprite": [ "river_v1_t_connection_n", "river_v1_t_connection_w", "river_v1_t_connection_s", "river_v1_t_connection_e" ] },
-      { "weight": 1, "sprite": [ "river_v2_t_connection_n", "river_v2_t_connection_w", "river_v2_t_connection_s", "river_v2_t_connection_e" ] },
-      { "weight": 1, "sprite": [ "river_v3_t_connection_n", "river_v3_t_connection_w", "river_v3_t_connection_s", "river_v3_t_connection_e" ] },
-      { "weight": 1, "sprite": [ "river_v4_t_connection_n", "river_v4_t_connection_w", "river_v4_t_connection_s", "river_v4_t_connection_e" ] },
-      { "weight": 1, "sprite": [ "river_v5_t_connection_n", "river_v5_t_connection_w", "river_v5_t_connection_s", "river_v5_t_connection_e" ] }
+      { "weight": 1, "sprite": [ "river_v1_t_connection_n", "river_v1_t_connection_e", "river_v1_t_connection_s", "river_v1_t_connection_w" ] },
+      { "weight": 1, "sprite": [ "river_v2_t_connection_n", "river_v2_t_connection_e", "river_v2_t_connection_s", "river_v2_t_connection_w" ] },
+      { "weight": 1, "sprite": [ "river_v3_t_connection_n", "river_v3_t_connection_e", "river_v3_t_connection_s", "river_v3_t_connection_w" ] },
+      { "weight": 1, "sprite": [ "river_v4_t_connection_n", "river_v4_t_connection_e", "river_v4_t_connection_s", "river_v4_t_connection_w" ] },
+      { "weight": 1, "sprite": [ "river_v5_t_connection_n", "river_v5_t_connection_e", "river_v5_t_connection_s", "river_v5_t_connection_w" ] }
     ],
   "bg": [
       { "weight": 1, "sprite": "bg_00" },

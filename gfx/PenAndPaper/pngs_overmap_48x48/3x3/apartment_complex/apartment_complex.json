@@ -15,7 +15,7 @@
     ],
     "rotates": true,
     "fg": [
-      "apartment_complex_var_01", "apartment_complex_var_03", "apartment_complex_var_07", "apartment_complex_var_05"
+      "apartment_complex_var_01", "apartment_complex_var_05", "apartment_complex_var_07", "apartment_complex_var_03"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -117,7 +117,7 @@
     ],
     "rotates": true,
     "fg": [
-      "apartment_complex_var_06", "apartment_complex_var_08", "apartment_complex_var_02", "apartment_complex_var_00"
+      "apartment_complex_var_06", "apartment_complex_var_00", "apartment_complex_var_02", "apartment_complex_var_08"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -167,7 +167,7 @@
     ],
     "rotates": true,
     "fg": [
-      "apartment_complex_var_07", "apartment_complex_var_05", "apartment_complex_var_01", "apartment_complex_var_03"
+      "apartment_complex_var_07", "apartment_complex_var_03", "apartment_complex_var_01", "apartment_complex_var_05"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },

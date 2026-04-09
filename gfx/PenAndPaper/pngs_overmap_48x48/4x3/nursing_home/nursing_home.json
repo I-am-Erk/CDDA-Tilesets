@@ -12,7 +12,7 @@
     ],
     "rotates": true,
     "fg": [
-      "nursing_home_var_02", "nursing_home_var_10", "nursing_home_var_09", "nursing_home_var_01"
+      "nursing_home_var_02", "nursing_home_var_01", "nursing_home_var_09", "nursing_home_var_10"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -50,7 +50,7 @@
     ],
     "rotates": true,
     "fg": [
-      "nursing_home_var_03", "nursing_home_var_05", "nursing_home_var_08", "nursing_home_var_06"
+      "nursing_home_var_03", "nursing_home_var_06", "nursing_home_var_08", "nursing_home_var_05"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -88,7 +88,7 @@
     ],
     "rotates": true,
     "fg": [
-      "nursing_home_var_04", "nursing_home_var_00", "nursing_home_var_07", "nursing_home_var_11"
+      "nursing_home_var_04", "nursing_home_var_11", "nursing_home_var_07", "nursing_home_var_00"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -126,7 +126,7 @@
     ],
     "rotates": true,
     "fg": [
-      "nursing_home_var_07", "nursing_home_var_11", "nursing_home_var_04", "nursing_home_var_00"
+      "nursing_home_var_07", "nursing_home_var_00", "nursing_home_var_04", "nursing_home_var_11"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -164,7 +164,7 @@
     ],
     "rotates": true,
     "fg": [
-      "nursing_home_var_08", "nursing_home_var_06", "nursing_home_var_03", "nursing_home_var_05"
+      "nursing_home_var_08", "nursing_home_var_05", "nursing_home_var_03", "nursing_home_var_06"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -202,7 +202,7 @@
     ],
     "rotates": true,
     "fg": [
-      "nursing_home_var_09", "nursing_home_var_01", "nursing_home_var_02", "nursing_home_var_10"
+      "nursing_home_var_09", "nursing_home_var_10", "nursing_home_var_02", "nursing_home_var_01"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -396,7 +396,7 @@
     ],
     "rotates": true,
     "fg": [
-      "nursing_home_sh_var_02", "nursing_home_sh_var_10", "nursing_home_sh_var_09", "nursing_home_sh_var_01"
+      "nursing_home_sh_var_02", "nursing_home_sh_var_01", "nursing_home_sh_var_09", "nursing_home_sh_var_10"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -432,7 +432,7 @@
     ],
     "rotates": true,
     "fg": [
-      "nursing_home_sh_var_03", "nursing_home_sh_var_05", "nursing_home_sh_var_08", "nursing_home_sh_var_06"
+      "nursing_home_sh_var_03", "nursing_home_sh_var_06", "nursing_home_sh_var_08", "nursing_home_sh_var_05"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -468,7 +468,7 @@
     ],
     "rotates": true,
     "fg": [
-      "nursing_home_sh_var_04", "nursing_home_sh_var_00", "nursing_home_sh_var_07", "nursing_home_sh_var_11"
+      "nursing_home_sh_var_04", "nursing_home_sh_var_11", "nursing_home_sh_var_07", "nursing_home_sh_var_00"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -504,7 +504,7 @@
     ],
     "rotates": true,
     "fg": [
-      "nursing_home_sh_var_07", "nursing_home_sh_var_11", "nursing_home_sh_var_04", "nursing_home_sh_var_00"
+      "nursing_home_sh_var_07", "nursing_home_sh_var_00", "nursing_home_sh_var_04", "nursing_home_sh_var_11"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -540,7 +540,7 @@
     ],
     "rotates": true,
     "fg": [
-      "nursing_home_sh_var_08", "nursing_home_sh_var_06", "nursing_home_sh_var_03", "nursing_home_sh_var_05"
+      "nursing_home_sh_var_08", "nursing_home_sh_var_05", "nursing_home_sh_var_03", "nursing_home_sh_var_06"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -576,7 +576,7 @@
     ],
     "rotates": true,
     "fg": [
-      "nursing_home_sh_var_09", "nursing_home_sh_var_01", "nursing_home_sh_var_02", "nursing_home_sh_var_10"
+      "nursing_home_sh_var_09", "nursing_home_sh_var_10", "nursing_home_sh_var_02", "nursing_home_sh_var_01"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },

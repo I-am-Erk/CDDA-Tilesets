@@ -9,7 +9,7 @@
     ],
     "rotates": true,
     "fg": [
-      "parking_2x2_var_00", "parking_2x2_var_02", "parking_2x2_var_03", "parking_2x2_var_01"
+      "parking_2x2_var_00", "parking_2x2_var_01", "parking_2x2_var_03", "parking_2x2_var_02"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -45,7 +45,7 @@
     ],
     "rotates": true,
     "fg": [
-      "parking_2x2_var_01", "parking_2x2_var_00", "parking_2x2_var_02", "parking_2x2_var_03"
+      "parking_2x2_var_01", "parking_2x2_var_03", "parking_2x2_var_02", "parking_2x2_var_00"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -81,7 +81,7 @@
     ],
     "rotates": true,
     "fg": [
-      "parking_2x2_var_02", "parking_2x2_var_03", "parking_2x2_var_01", "parking_2x2_var_00"
+      "parking_2x2_var_02", "parking_2x2_var_00", "parking_2x2_var_01", "parking_2x2_var_03"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -117,7 +117,7 @@
     ],
     "rotates": true,
     "fg": [
-      "parking_2x2_var_03", "parking_2x2_var_01", "parking_2x2_var_00", "parking_2x2_var_02"
+      "parking_2x2_var_03", "parking_2x2_var_02", "parking_2x2_var_00", "parking_2x2_var_01"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },

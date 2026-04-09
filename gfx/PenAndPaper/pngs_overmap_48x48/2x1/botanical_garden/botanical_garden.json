@@ -5,7 +5,7 @@
     ],
     "rotates": true,
     "fg": [
-      "botanical_garden_var_01", "botanical_garden_var_03", "botanical_garden_var_02", "botanical_garden_var_00"
+      "botanical_garden_var_01", "botanical_garden_var_00", "botanical_garden_var_02", "botanical_garden_var_03"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -41,7 +41,7 @@
     ],
     "rotates": true,
     "fg": [
-      "botanical_garden_var_02", "botanical_garden_var_00", "botanical_garden_var_01", "botanical_garden_var_03"
+      "botanical_garden_var_02", "botanical_garden_var_03", "botanical_garden_var_01", "botanical_garden_var_00"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },

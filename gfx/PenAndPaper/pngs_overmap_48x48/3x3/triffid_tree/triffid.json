@@ -137,7 +137,7 @@
     ],
     "rotates": true,
     "fg": [
-      "tf_roots_var_08", "tf_roots_var_02", "tf_roots_var_00", "tf_roots_var_06"
+      "tf_roots_var_08", "tf_roots_var_06", "tf_roots_var_00", "tf_roots_var_02"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -173,7 +173,7 @@
     ],
     "rotates": true,
     "fg": [
-      "tf_roots_var_07", "tf_roots_var_05", "tf_roots_var_01", "tf_roots_var_03"
+      "tf_roots_var_07", "tf_roots_var_03", "tf_roots_var_01", "tf_roots_var_05"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -209,7 +209,7 @@
     ],
     "rotates": true,
     "fg": [
-      "tf_roots_var_06", "tf_roots_var_08", "tf_roots_var_02", "tf_roots_var_00"
+      "tf_roots_var_06", "tf_roots_var_00", "tf_roots_var_02", "tf_roots_var_08"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -245,7 +245,7 @@
     ],
     "rotates": true,
     "fg": [
-      "tf_roots_var_05", "tf_roots_var_01", "tf_roots_var_03", "tf_roots_var_07"
+      "tf_roots_var_05", "tf_roots_var_07", "tf_roots_var_03", "tf_roots_var_01"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -317,7 +317,7 @@
     ],
     "rotates": true,
     "fg": [
-      "tf_roots_var_03", "tf_roots_var_07", "tf_roots_var_05", "tf_roots_var_01"
+      "tf_roots_var_03", "tf_roots_var_01", "tf_roots_var_05", "tf_roots_var_07"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -353,7 +353,7 @@
     ],
     "rotates": true,
     "fg": [
-      "tf_roots_var_02", "tf_roots_var_00", "tf_roots_var_06", "tf_roots_var_08"
+      "tf_roots_var_02", "tf_roots_var_08", "tf_roots_var_06", "tf_roots_var_00"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -389,7 +389,7 @@
     ],
     "rotates": true,
     "fg": [
-      "tf_roots_var_01", "tf_roots_var_03", "tf_roots_var_07", "tf_roots_var_05"
+      "tf_roots_var_01", "tf_roots_var_05", "tf_roots_var_07", "tf_roots_var_03"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -425,7 +425,7 @@
     ],
     "rotates": true,
     "fg": [
-      "tf_roots_var_00", "tf_roots_var_06", "tf_roots_var_08", "tf_roots_var_02"
+      "tf_roots_var_00", "tf_roots_var_02", "tf_roots_var_08", "tf_roots_var_06"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },

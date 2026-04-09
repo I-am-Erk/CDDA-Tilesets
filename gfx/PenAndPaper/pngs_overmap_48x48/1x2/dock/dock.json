@@ -10,7 +10,7 @@
     ],
     "rotates": true,
     "fg": [
-      "dock_var_03", "dock_var_02", "dock_var_00", "dock_var_01"
+      "dock_var_03", "dock_var_01", "dock_var_00", "dock_var_02"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -46,7 +46,7 @@
     ],
     "rotates": true,
     "fg": [
-      "dock_var_00", "dock_var_01", "dock_var_03", "dock_var_02"
+      "dock_var_00", "dock_var_02", "dock_var_03", "dock_var_01"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },

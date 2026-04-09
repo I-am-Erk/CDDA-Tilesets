@@ -9,7 +9,7 @@
     ],
     "rotates": true,
     "fg": [
-      "large_power_substation_var_00", "large_power_substation_var_02", "large_power_substation_var_03", "large_power_substation_var_01"
+      "large_power_substation_var_00", "large_power_substation_var_01", "large_power_substation_var_03", "large_power_substation_var_02"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -45,7 +45,7 @@
     ],
     "rotates": true,
     "fg": [
-      "large_power_substation_var_01", "large_power_substation_var_00", "large_power_substation_var_02", "large_power_substation_var_03"
+      "large_power_substation_var_01", "large_power_substation_var_03", "large_power_substation_var_02", "large_power_substation_var_00"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -81,7 +81,7 @@
     ],
     "rotates": true,
     "fg": [
-      "large_power_substation_var_02", "large_power_substation_var_03", "large_power_substation_var_01", "large_power_substation_var_00"
+      "large_power_substation_var_02", "large_power_substation_var_00", "large_power_substation_var_01", "large_power_substation_var_03"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -117,7 +117,7 @@
     ],
     "rotates": true,
     "fg": [
-      "large_power_substation_var_03", "large_power_substation_var_01", "large_power_substation_var_00", "large_power_substation_var_02"
+      "large_power_substation_var_03", "large_power_substation_var_02", "large_power_substation_var_00", "large_power_substation_var_01"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },

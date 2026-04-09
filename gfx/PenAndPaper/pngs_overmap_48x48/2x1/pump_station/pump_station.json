@@ -39,7 +39,7 @@
     ],
     "rotates": true,
     "fg": [
-      "pump_station_var_00", "pump_station_var_01", "pump_station_var_03", "pump_station_var_02"
+      "pump_station_var_00", "pump_station_var_02", "pump_station_var_03", "pump_station_var_01"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -76,7 +76,7 @@
     ],
     "rotates": true,
     "fg": [
-      "pump_station_var_03", "pump_station_var_02", "pump_station_var_00", "pump_station_var_01"
+      "pump_station_var_03", "pump_station_var_01", "pump_station_var_00", "pump_station_var_02"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },

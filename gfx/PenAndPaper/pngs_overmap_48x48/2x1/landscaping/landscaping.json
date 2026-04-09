@@ -10,7 +10,7 @@
     ],
     "rotates": true,
     "fg": [
-      "landscaping_var_01", "landscaping_var_03", "landscaping_var_02", "landscaping_var_00"
+      "landscaping_var_01", "landscaping_var_00", "landscaping_var_02", "landscaping_var_03"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -46,7 +46,7 @@
     ],
     "rotates": true,
     "fg": [
-      "landscaping_var_02", "landscaping_var_00", "landscaping_var_01", "landscaping_var_03"
+      "landscaping_var_02", "landscaping_var_03", "landscaping_var_01", "landscaping_var_00"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },

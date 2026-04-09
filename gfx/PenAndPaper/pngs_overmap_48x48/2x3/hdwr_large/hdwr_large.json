@@ -10,7 +10,7 @@
     ],
     "rotates": true,
     "fg": [
-      "hdwr_large_var_00", "hdwr_large_var_02", "hdwr_large_var_03", "hdwr_large_var_01"
+      "hdwr_large_var_00", "hdwr_large_var_01", "hdwr_large_var_03", "hdwr_large_var_02"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -47,7 +47,7 @@
     ],
     "rotates": true,
     "fg": [
-      "hdwr_large_var_01", "hdwr_large_var_00", "hdwr_large_var_02", "hdwr_large_var_03"
+      "hdwr_large_var_01", "hdwr_large_var_03", "hdwr_large_var_02", "hdwr_large_var_00"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -84,7 +84,7 @@
     ],
     "rotates": true,
     "fg": [
-      "hdwr_large_var_02", "hdwr_large_var_03", "hdwr_large_var_01", "hdwr_large_var_00"
+      "hdwr_large_var_02", "hdwr_large_var_00", "hdwr_large_var_01", "hdwr_large_var_03"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -121,7 +121,7 @@
     ],
     "rotates": true,
     "fg": [
-      "hdwr_large_var_03", "hdwr_large_var_01", "hdwr_large_var_00", "hdwr_large_var_02"
+      "hdwr_large_var_03", "hdwr_large_var_02", "hdwr_large_var_00", "hdwr_large_var_01"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },

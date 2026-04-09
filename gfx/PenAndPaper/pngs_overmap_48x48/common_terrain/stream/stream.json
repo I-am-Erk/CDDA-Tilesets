@@ -76,11 +76,11 @@
     ],
     "rotates": true,
     "fg": [
-      { "weight": 1, "sprite": [ "stream_v1_corner_se", "stream_v1_corner_ne", "stream_v1_corner_nw", "stream_v1_corner_sw" ] },
-      { "weight": 1, "sprite": [ "stream_v2_corner_se", "stream_v2_corner_ne", "stream_v2_corner_nw", "stream_v2_corner_sw" ] },
-      { "weight": 1, "sprite": [ "stream_v3_corner_se", "stream_v3_corner_ne", "stream_v3_corner_nw", "stream_v3_corner_sw" ] },
-      { "weight": 1, "sprite": [ "stream_v4_corner_se", "stream_v4_corner_ne", "stream_v4_corner_nw", "stream_v4_corner_sw" ] },
-      { "weight": 1, "sprite": [ "stream_v5_corner_se", "stream_v5_corner_ne", "stream_v5_corner_nw", "stream_v5_corner_sw" ] }
+      { "weight": 1, "sprite": [ "stream_v1_corner_se", "stream_v1_corner_sw", "stream_v1_corner_nw", "stream_v1_corner_ne" ] },
+      { "weight": 1, "sprite": [ "stream_v2_corner_se", "stream_v2_corner_sw", "stream_v2_corner_nw", "stream_v2_corner_ne" ] },
+      { "weight": 1, "sprite": [ "stream_v3_corner_se", "stream_v3_corner_sw", "stream_v3_corner_nw", "stream_v3_corner_ne" ] },
+      { "weight": 1, "sprite": [ "stream_v4_corner_se", "stream_v4_corner_sw", "stream_v4_corner_nw", "stream_v4_corner_ne" ] },
+      { "weight": 1, "sprite": [ "stream_v5_corner_se", "stream_v5_corner_sw", "stream_v5_corner_nw", "stream_v5_corner_ne" ] }
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },

@@ -139,7 +139,7 @@
     ],
     "rotates": true,
     "fg": [
-      "rfgctr_fence_var_06", "rfgctr_fence_var_01", "rfgctr_fence_var_00", "rfgctr_fence_var_05"
+      "rfgctr_fence_var_06", "rfgctr_fence_var_05", "rfgctr_fence_var_00", "rfgctr_fence_var_01"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -175,7 +175,7 @@
     ],
     "rotates": true,
     "fg": [
-      "rfgctr_fence_var_05", "rfgctr_fence_var_06", "rfgctr_fence_var_01", "rfgctr_fence_var_00"
+      "rfgctr_fence_var_05", "rfgctr_fence_var_00", "rfgctr_fence_var_01", "rfgctr_fence_var_06"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -211,7 +211,7 @@
     ],
     "rotates": true,
     "fg": [
-      "rfgctr_fence_var_01", "rfgctr_fence_var_00", "rfgctr_fence_var_05", "rfgctr_fence_var_06"
+      "rfgctr_fence_var_01", "rfgctr_fence_var_06", "rfgctr_fence_var_05", "rfgctr_fence_var_00"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -247,7 +247,7 @@
     ],
     "rotates": true,
     "fg": [
-      "rfgctr_fence_var_00", "rfgctr_fence_var_05", "rfgctr_fence_var_06", "rfgctr_fence_var_01"
+      "rfgctr_fence_var_00", "rfgctr_fence_var_01", "rfgctr_fence_var_06", "rfgctr_fence_var_05"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },

@@ -9,7 +9,7 @@
     ],
     "rotates": true,
     "fg": [
-      "fishing_pond_var_00", "fishing_pond_var_02", "fishing_pond_var_03", "fishing_pond_var_01"
+      "fishing_pond_var_00", "fishing_pond_var_01", "fishing_pond_var_03", "fishing_pond_var_02"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -45,7 +45,7 @@
     ],
     "rotates": true,
     "fg": [
-      "fishing_pond_var_01", "fishing_pond_var_00", "fishing_pond_var_02", "fishing_pond_var_03"
+      "fishing_pond_var_01", "fishing_pond_var_03", "fishing_pond_var_02", "fishing_pond_var_00"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -81,7 +81,7 @@
     ],
     "rotates": true,
     "fg": [
-      "fishing_pond_var_02", "fishing_pond_var_03", "fishing_pond_var_01", "fishing_pond_var_00"
+      "fishing_pond_var_02", "fishing_pond_var_00", "fishing_pond_var_01", "fishing_pond_var_03"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -117,7 +117,7 @@
     ],
     "rotates": true,
     "fg": [
-      "fishing_pond_var_03", "fishing_pond_var_01", "fishing_pond_var_00", "fishing_pond_var_02"
+      "fishing_pond_var_03", "fishing_pond_var_02", "fishing_pond_var_00", "fishing_pond_var_01"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },

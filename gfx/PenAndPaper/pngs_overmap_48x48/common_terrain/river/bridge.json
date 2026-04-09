@@ -5,11 +5,11 @@
       "bridgehead_ramp"
     ],
     "fg": [
-      { "weight": 1, "sprite": [ "bridge_v1_end_piece_n", "bridge_v1_end_piece_w", "bridge_v1_end_piece_s", "bridge_v1_end_piece_e" ] },
-      { "weight": 1, "sprite": [ "bridge_v2_end_piece_n", "bridge_v2_end_piece_w", "bridge_v2_end_piece_s", "bridge_v2_end_piece_e" ] },
-      { "weight": 1, "sprite": [ "bridge_v3_end_piece_n", "bridge_v3_end_piece_w", "bridge_v3_end_piece_s", "bridge_v3_end_piece_e" ] },
-      { "weight": 1, "sprite": [ "bridge_v4_end_piece_n", "bridge_v4_end_piece_w", "bridge_v4_end_piece_s", "bridge_v4_end_piece_e" ] },
-      { "weight": 1, "sprite": [ "bridge_v5_end_piece_n", "bridge_v5_end_piece_w", "bridge_v5_end_piece_s", "bridge_v5_end_piece_e" ] }
+      { "weight": 1, "sprite": [ "bridge_v1_end_piece_n", "bridge_v1_end_piece_e", "bridge_v1_end_piece_s", "bridge_v1_end_piece_w" ] },
+      { "weight": 1, "sprite": [ "bridge_v2_end_piece_n", "bridge_v2_end_piece_e", "bridge_v2_end_piece_s", "bridge_v2_end_piece_w" ] },
+      { "weight": 1, "sprite": [ "bridge_v3_end_piece_n", "bridge_v3_end_piece_e", "bridge_v3_end_piece_s", "bridge_v3_end_piece_w" ] },
+      { "weight": 1, "sprite": [ "bridge_v4_end_piece_n", "bridge_v4_end_piece_e", "bridge_v4_end_piece_s", "bridge_v4_end_piece_w" ] },
+      { "weight": 1, "sprite": [ "bridge_v5_end_piece_n", "bridge_v5_end_piece_e", "bridge_v5_end_piece_s", "bridge_v5_end_piece_w" ] }
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },

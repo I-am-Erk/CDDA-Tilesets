@@ -5,7 +5,7 @@
     ],
     "rotates": true,
     "fg": [
-      "fema_camp_var_00", "fema_camp_var_06", "fema_camp_var_08", "fema_camp_var_02"
+      "fema_camp_var_00", "fema_camp_var_02", "fema_camp_var_08", "fema_camp_var_06"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -41,7 +41,7 @@
     ],
     "rotates": true,
     "fg": [
-      "fema_camp_var_01", "fema_camp_var_03", "fema_camp_var_07", "fema_camp_var_05"
+      "fema_camp_var_01", "fema_camp_var_05", "fema_camp_var_07", "fema_camp_var_03"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -77,7 +77,7 @@
     ],
     "rotates": true,
     "fg": [
-      "fema_camp_var_02", "fema_camp_var_00", "fema_camp_var_06", "fema_camp_var_08"
+      "fema_camp_var_02", "fema_camp_var_08", "fema_camp_var_06", "fema_camp_var_00"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -117,7 +117,7 @@
     ],
     "rotates": true,
     "fg": [
-      "fema_camp_var_03", "fema_camp_var_07", "fema_camp_var_05", "fema_camp_var_01"
+      "fema_camp_var_03", "fema_camp_var_01", "fema_camp_var_05", "fema_camp_var_07"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -189,7 +189,7 @@
     ],
     "rotates": true,
     "fg": [
-      "fema_camp_var_05", "fema_camp_var_01", "fema_camp_var_03", "fema_camp_var_07"
+      "fema_camp_var_05", "fema_camp_var_07", "fema_camp_var_03", "fema_camp_var_01"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -229,7 +229,7 @@
     ],
     "rotates": true,
     "fg": [
-      "fema_camp_var_06", "fema_camp_var_08", "fema_camp_var_02", "fema_camp_var_00"
+      "fema_camp_var_06", "fema_camp_var_00", "fema_camp_var_02", "fema_camp_var_08"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -265,7 +265,7 @@
     ],
     "rotates": true,
     "fg": [
-      "fema_camp_var_07", "fema_camp_var_05", "fema_camp_var_01", "fema_camp_var_03"
+      "fema_camp_var_07", "fema_camp_var_03", "fema_camp_var_01", "fema_camp_var_05"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -301,7 +301,7 @@
     ],
     "rotates": true,
     "fg": [
-      "fema_camp_var_08", "fema_camp_var_02", "fema_camp_var_00", "fema_camp_var_06"
+      "fema_camp_var_08", "fema_camp_var_06", "fema_camp_var_00", "fema_camp_var_02"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },

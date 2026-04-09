@@ -7,7 +7,7 @@
     ],
     "rotates": true,
     "fg": [
-      "hunting_lodge_var_00", "hunting_lodge_var_01","hunting_lodge_var_03", "hunting_lodge_var_02"
+      "hunting_lodge_var_00", "hunting_lodge_var_02","hunting_lodge_var_03", "hunting_lodge_var_01"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -45,7 +45,7 @@
     ],
     "rotates": true,
     "fg": [
-      "hunting_lodge_var_00", "hunting_lodge_var_01","hunting_lodge_var_03", "hunting_lodge_var_02"
+      "hunting_lodge_var_00", "hunting_lodge_var_02","hunting_lodge_var_03", "hunting_lodge_var_01"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },

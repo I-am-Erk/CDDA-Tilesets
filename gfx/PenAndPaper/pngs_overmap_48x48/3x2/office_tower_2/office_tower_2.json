@@ -14,7 +14,7 @@
     ],
     "rotates": true,
     "fg": [
-      "office_tower_2_var_02", "office_tower_2_var_10", "office_tower_2_var_09", "office_tower_2_var_01"
+      "office_tower_2_var_02", "office_tower_2_var_01", "office_tower_2_var_09", "office_tower_2_var_10"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -53,7 +53,7 @@
     ],
     "rotates": true,
     "fg": [
-      "office_tower_2_var_03", "office_tower_2_var_05", "office_tower_2_var_08", "office_tower_2_var_06"
+      "office_tower_2_var_03", "office_tower_2_var_06", "office_tower_2_var_08", "office_tower_2_var_05"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -92,7 +92,7 @@
     ],
     "rotates": true,
     "fg": [
-      "office_tower_2_var_04", "office_tower_2_var_00", "office_tower_2_var_07", "office_tower_2_var_11"
+      "office_tower_2_var_04", "office_tower_2_var_11", "office_tower_2_var_07", "office_tower_2_var_00"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -132,7 +132,7 @@
     ],
     "rotates": true,
     "fg": [
-      "office_tower_2_var_07", "office_tower_2_var_11", "office_tower_2_var_04", "office_tower_2_var_00"
+      "office_tower_2_var_07", "office_tower_2_var_00", "office_tower_2_var_04", "office_tower_2_var_11"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -172,7 +172,7 @@
     ],
     "rotates": true,
     "fg": [
-      "office_tower_2_var_08", "office_tower_2_var_06", "office_tower_2_var_03", "office_tower_2_var_05"
+      "office_tower_2_var_08", "office_tower_2_var_05", "office_tower_2_var_03", "office_tower_2_var_06"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -211,7 +211,7 @@
     ],
     "rotates": true,
     "fg": [
-      "office_tower_2_var_09", "office_tower_2_var_01", "office_tower_2_var_02", "office_tower_2_var_10"
+      "office_tower_2_var_09", "office_tower_2_var_10", "office_tower_2_var_02", "office_tower_2_var_01"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },

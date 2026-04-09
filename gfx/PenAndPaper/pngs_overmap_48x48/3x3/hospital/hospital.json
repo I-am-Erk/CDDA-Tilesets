@@ -15,7 +15,7 @@
     ],
     "rotates": true,
     "fg": [
-      "hospital_var_00", "hospital_var_06", "hospital_var_08", "hospital_var_02"
+      "hospital_var_00", "hospital_var_02", "hospital_var_08", "hospital_var_06"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -52,7 +52,7 @@
     ],
     "rotates": true,
     "fg": [
-      "hospital_var_01", "hospital_var_03", "hospital_var_07", "hospital_var_05"
+      "hospital_var_01", "hospital_var_05", "hospital_var_07", "hospital_var_03"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -89,7 +89,7 @@
     ],
     "rotates": true,
     "fg": [
-      "hospital_var_02", "hospital_var_00", "hospital_var_06", "hospital_var_08"
+      "hospital_var_02", "hospital_var_08", "hospital_var_06", "hospital_var_00"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -130,7 +130,7 @@
     ],
     "rotates": true,
     "fg": [
-      "hospital_var_03", "hospital_var_07", "hospital_var_05", "hospital_var_01"
+      "hospital_var_03", "hospital_var_01", "hospital_var_05", "hospital_var_07"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -204,7 +204,7 @@
     ],
     "rotates": true,
     "fg": [
-      "hospital_var_05", "hospital_var_01", "hospital_var_03", "hospital_var_07"
+      "hospital_var_05", "hospital_var_07", "hospital_var_03", "hospital_var_01"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -245,7 +245,7 @@
     ],
     "rotates": true,
     "fg": [
-      "hospital_var_06", "hospital_var_08", "hospital_var_02", "hospital_var_00"
+      "hospital_var_06", "hospital_var_00", "hospital_var_02", "hospital_var_08"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -282,7 +282,7 @@
     ],
     "rotates": true,
     "fg": [
-      "hospital_var_07", "hospital_var_05", "hospital_var_01", "hospital_var_03"
+      "hospital_var_07", "hospital_var_03", "hospital_var_01", "hospital_var_05"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -319,7 +319,7 @@
     ],
     "rotates": true,
     "fg": [
-      "hospital_var_08", "hospital_var_02", "hospital_var_00", "hospital_var_06"
+      "hospital_var_08", "hospital_var_06", "hospital_var_00", "hospital_var_02"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },

@@ -13,7 +13,7 @@
     ],
     "rotates": true,
     "fg": [
-      "homeless_shelter_var_03", "homeless_shelter_var_02", "homeless_shelter_var_00", "homeless_shelter_var_01"
+      "homeless_shelter_var_03", "homeless_shelter_var_01", "homeless_shelter_var_00", "homeless_shelter_var_02"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -52,7 +52,7 @@
     ],
     "rotates": true,
     "fg": [
-      "homeless_shelter_var_00", "homeless_shelter_var_01", "homeless_shelter_var_03", "homeless_shelter_var_02"
+      "homeless_shelter_var_00", "homeless_shelter_var_02", "homeless_shelter_var_03", "homeless_shelter_var_01"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },

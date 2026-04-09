@@ -11,7 +11,7 @@
     ],
     "rotates": true,
     "fg": [
-      "light_industry_var_00", "light_industry_var_07", "light_industry_var_11", "light_industry_var_04"
+      "light_industry_var_00", "light_industry_var_04", "light_industry_var_11", "light_industry_var_07"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -48,7 +48,7 @@
     ],
     "rotates": true,
     "fg": [
-      "light_industry_var_01", "light_industry_var_02", "light_industry_var_10", "light_industry_var_09"
+      "light_industry_var_01", "light_industry_var_09", "light_industry_var_10", "light_industry_var_02"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -85,7 +85,7 @@
     ],
     "rotates": true,
     "fg": [
-      "light_industry_var_05", "light_industry_var_08", "light_industry_var_06", "light_industry_var_03"
+      "light_industry_var_05", "light_industry_var_03", "light_industry_var_06", "light_industry_var_08"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -122,7 +122,7 @@
     ],
     "rotates": true,
     "fg": [
-      "light_industry_var_06", "light_industry_var_03", "light_industry_var_05", "light_industry_var_08"
+      "light_industry_var_06", "light_industry_var_08", "light_industry_var_05", "light_industry_var_03"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -159,7 +159,7 @@
     ],
     "rotates": true,
     "fg": [
-      "light_industry_var_10", "light_industry_var_09", "light_industry_var_01", "light_industry_var_02"
+      "light_industry_var_10", "light_industry_var_02", "light_industry_var_01", "light_industry_var_09"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -196,7 +196,7 @@
     ],
     "rotates": true,
     "fg": [
-      "light_industry_var_11", "light_industry_var_04", "light_industry_var_00", "light_industry_var_07"
+      "light_industry_var_11", "light_industry_var_07", "light_industry_var_00", "light_industry_var_04"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },

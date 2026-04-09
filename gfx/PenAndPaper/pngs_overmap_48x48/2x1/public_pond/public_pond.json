@@ -5,7 +5,7 @@
     ],
     "rotates": true,
     "fg": [
-      "public_pond_var_01", "public_pond_var_03", "public_pond_var_02", "public_pond_var_00"
+      "public_pond_var_01", "public_pond_var_00", "public_pond_var_02", "public_pond_var_03"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -41,7 +41,7 @@
     ],
     "rotates": true,
     "fg": [
-      "public_pond_var_02", "public_pond_var_00", "public_pond_var_01", "public_pond_var_03"
+      "public_pond_var_02", "public_pond_var_03", "public_pond_var_01", "public_pond_var_00"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },

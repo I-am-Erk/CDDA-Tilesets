@@ -38,7 +38,7 @@
     ],
     "rotates": true,
     "fg": [
-      "campground_var_00", "campground_var_02", "campground_var_03", "campground_var_01"
+      "campground_var_00", "campground_var_01", "campground_var_03", "campground_var_02"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -74,7 +74,7 @@
     ],
     "rotates": true,
     "fg": [
-      "campground_var_01", "campground_var_00", "campground_var_02", "campground_var_03"
+      "campground_var_01", "campground_var_03", "campground_var_02", "campground_var_00"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -110,7 +110,7 @@
     ],
     "rotates": true,
     "fg": [
-      "campground_var_02", "campground_var_03", "campground_var_01", "campground_var_00"
+      "campground_var_02", "campground_var_00", "campground_var_01", "campground_var_03"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -146,7 +146,7 @@
     ],
     "rotates": true,
     "fg": [
-      "campground_var_03", "campground_var_01", "campground_var_00", "campground_var_02"
+      "campground_var_03", "campground_var_02", "campground_var_00", "campground_var_01"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },

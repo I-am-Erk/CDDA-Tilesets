@@ -8,7 +8,7 @@
       "exodii_base_x0y0z4"
     ],
     "rotates": true,
-    "fg": ["exodii_base_var_00", "exodii_base_var_12", "exodii_base_var_15", "exodii_base_var_03"],
+    "fg": ["exodii_base_var_00", "exodii_base_var_03", "exodii_base_var_15", "exodii_base_var_12"],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },
@@ -46,7 +46,7 @@
       "exodii_base_x1y0z4"
     ],
     "rotates": true,
-    "fg": ["exodii_base_var_01", "exodii_base_var_08", "exodii_base_var_14", "exodii_base_var_07"],
+    "fg": ["exodii_base_var_01", "exodii_base_var_07", "exodii_base_var_14", "exodii_base_var_08"],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },
@@ -84,7 +84,7 @@
       "exodii_base_x2y0z4"
     ],
     "rotates": true,
-    "fg": ["exodii_base_var_02", "exodii_base_var_04", "exodii_base_var_13", "exodii_base_var_11"],
+    "fg": ["exodii_base_var_02", "exodii_base_var_11", "exodii_base_var_13", "exodii_base_var_04"],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },
@@ -122,7 +122,7 @@
       "exodii_base_x3y0z4"
     ],
     "rotates": true,
-    "fg": ["exodii_base_var_03", "exodii_base_var_00", "exodii_base_var_12", "exodii_base_var_15"],
+    "fg": ["exodii_base_var_03", "exodii_base_var_15", "exodii_base_var_12", "exodii_base_var_00"],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },
@@ -164,7 +164,7 @@
       "exodii_base_x0y1z4"
     ],
     "rotates": true,
-    "fg": ["exodii_base_var_04", "exodii_base_var_13", "exodii_base_var_11", "exodii_base_var_02"],
+    "fg": ["exodii_base_var_04", "exodii_base_var_02", "exodii_base_var_11", "exodii_base_var_13"],
         "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },
@@ -202,7 +202,7 @@
       "exodii_base_x1y1z4"
     ],
     "rotates": true,
-    "fg": ["exodii_base_var_05", "exodii_base_var_09", "exodii_base_var_10", "exodii_base_var_06"],
+    "fg": ["exodii_base_var_05", "exodii_base_var_06", "exodii_base_var_10", "exodii_base_var_09"],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },
@@ -240,7 +240,7 @@
       "exodii_base_x2y1z4"
     ],
     "rotates": true,
-    "fg": ["exodii_base_var_06", "exodii_base_var_05", "exodii_base_var_09", "exodii_base_var_10"],
+    "fg": ["exodii_base_var_06", "exodii_base_var_10", "exodii_base_var_09", "exodii_base_var_05"],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },
@@ -278,7 +278,7 @@
       "exodii_base_x3y1z4"
     ],
     "rotates": true,
-    "fg": ["exodii_base_var_07", "exodii_base_var_01", "exodii_base_var_08", "exodii_base_var_14"],
+    "fg": ["exodii_base_var_07", "exodii_base_var_14", "exodii_base_var_08", "exodii_base_var_01"],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },
@@ -320,7 +320,7 @@
       "exodii_base_x0y2z4"
     ],
     "rotates": true,
-    "fg": ["exodii_base_var_08", "exodii_base_var_14", "exodii_base_var_07", "exodii_base_var_01"],
+    "fg": ["exodii_base_var_08", "exodii_base_var_01", "exodii_base_var_07", "exodii_base_var_14"],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },
@@ -358,7 +358,7 @@
       "exodii_base_x1y2z4"
     ],
     "rotates": true,
-    "fg": ["exodii_base_var_09", "exodii_base_var_10", "exodii_base_var_06", "exodii_base_var_05"],
+    "fg": ["exodii_base_var_09", "exodii_base_var_05", "exodii_base_var_06", "exodii_base_var_10"],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },
@@ -396,7 +396,7 @@
       "exodii_base_x2y2z4"
     ],
     "rotates": true,
-    "fg": ["exodii_base_var_10", "exodii_base_var_06", "exodii_base_var_05", "exodii_base_var_09"],
+    "fg": ["exodii_base_var_10", "exodii_base_var_09", "exodii_base_var_05", "exodii_base_var_06"],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },
@@ -434,7 +434,7 @@
       "exodii_base_x3y2z4"
     ],
     "rotates": true,
-    "fg": ["exodii_base_var_11", "exodii_base_var_02", "exodii_base_var_04", "exodii_base_var_13"],
+    "fg": ["exodii_base_var_11", "exodii_base_var_13", "exodii_base_var_04", "exodii_base_var_02"],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },
@@ -476,7 +476,7 @@
       "exodii_base_x0y3z4"
     ],
     "rotates": true,
-    "fg": ["exodii_base_var_12", "exodii_base_var_15", "exodii_base_var_03", "exodii_base_var_00"],
+    "fg": ["exodii_base_var_12", "exodii_base_var_00", "exodii_base_var_03", "exodii_base_var_15"],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },
@@ -514,7 +514,7 @@
       "exodii_base_x1y3z4"
     ],
     "rotates": true,
-    "fg": ["exodii_base_var_13", "exodii_base_var_11", "exodii_base_var_02", "exodii_base_var_04"],
+    "fg": ["exodii_base_var_13", "exodii_base_var_04", "exodii_base_var_02", "exodii_base_var_11"],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },
@@ -552,7 +552,7 @@
       "exodii_base_x2y3z4"
     ],
     "rotates": true,
-    "fg": ["exodii_base_var_14", "exodii_base_var_07", "exodii_base_var_01", "exodii_base_var_08"],
+    "fg": ["exodii_base_var_14", "exodii_base_var_08", "exodii_base_var_01", "exodii_base_var_07"],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },
@@ -590,7 +590,7 @@
       "exodii_base_x3y3z4"
     ],
     "rotates": true,
-    "fg": ["exodii_base_var_15", "exodii_base_var_03", "exodii_base_var_00", "exodii_base_var_12"],
+    "fg": ["exodii_base_var_15", "exodii_base_var_12", "exodii_base_var_00", "exodii_base_var_03"],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
       { "weight": 1, "sprite": "bg_01" },

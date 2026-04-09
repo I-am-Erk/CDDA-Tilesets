@@ -14,7 +14,7 @@
     ],
     "rotates": true,
     "fg": [
-      "template3x3_var_00", "template3x3_var_06", "template3x3_var_08", "template3x3_var_02"
+      "template3x3_var_00", "template3x3_var_02", "template3x3_var_08", "template3x3_var_06"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -50,7 +50,7 @@
     ],
     "rotates": true,
     "fg": [
-      "template3x3_var_01", "template3x3_var_03", "template3x3_var_07", "template3x3_var_05"
+      "template3x3_var_01", "template3x3_var_05", "template3x3_var_07", "template3x3_var_03"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -86,7 +86,7 @@
     ],
     "rotates": true,
     "fg": [
-      "template3x3_var_02", "template3x3_var_00", "template3x3_var_06", "template3x3_var_08"
+      "template3x3_var_02", "template3x3_var_08", "template3x3_var_06", "template3x3_var_00"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -126,7 +126,7 @@
     ],
     "rotates": true,
     "fg": [
-      "template3x3_var_03", "template3x3_var_07", "template3x3_var_05", "template3x3_var_01"
+      "template3x3_var_03", "template3x3_var_01", "template3x3_var_05", "template3x3_var_07"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -198,7 +198,7 @@
     ],
     "rotates": true,
     "fg": [
-      "template3x3_var_05", "template3x3_var_01", "template3x3_var_03", "template3x3_var_07"
+      "template3x3_var_05", "template3x3_var_07", "template3x3_var_03", "template3x3_var_01"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -238,7 +238,7 @@
     ],
     "rotates": true,
     "fg": [
-      "template3x3_var_06", "template3x3_var_08", "template3x3_var_02", "template3x3_var_00"
+      "template3x3_var_06", "template3x3_var_00", "template3x3_var_02", "template3x3_var_08"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -274,7 +274,7 @@
     ],
     "rotates": true,
     "fg": [
-      "template3x3_var_07", "template3x3_var_05", "template3x3_var_01", "template3x3_var_03"
+      "template3x3_var_07", "template3x3_var_03", "template3x3_var_01", "template3x3_var_05"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -310,7 +310,7 @@
     ],
     "rotates": true,
     "fg": [
-      "template3x3_var_08", "template3x3_var_02", "template3x3_var_00", "template3x3_var_06"
+      "template3x3_var_08", "template3x3_var_06", "template3x3_var_00", "template3x3_var_02"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },

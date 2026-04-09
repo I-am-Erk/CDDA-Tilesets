@@ -10,7 +10,7 @@
     ],
     "rotates": true,
     "fg": [
-      "template3x2_var_02", "template3x2_var_10", "template3x2_var_09", "template3x2_var_01"
+      "template3x2_var_02", "template3x2_var_01", "template3x2_var_09", "template3x2_var_10"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -46,7 +46,7 @@
     ],
     "rotates": true,
     "fg": [
-      "template3x2_var_03", "template3x2_var_05", "template3x2_var_08", "template3x2_var_06"
+      "template3x2_var_03", "template3x2_var_06", "template3x2_var_08", "template3x2_var_05"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -82,7 +82,7 @@
     ],
     "rotates": true,
     "fg": [
-      "template3x2_var_04", "template3x2_var_00", "template3x2_var_07", "template3x2_var_11"
+      "template3x2_var_04", "template3x2_var_11", "template3x2_var_07", "template3x2_var_00"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -118,7 +118,7 @@
     ],
     "rotates": true,
     "fg": [
-      "template3x2_var_07", "template3x2_var_11", "template3x2_var_04", "template3x2_var_00"
+      "template3x2_var_07", "template3x2_var_00", "template3x2_var_04", "template3x2_var_11"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -154,7 +154,7 @@
     ],
     "rotates": true,
     "fg": [
-      "template3x2_var_08", "template3x2_var_06", "template3x2_var_03", "template3x2_var_05"
+      "template3x2_var_08", "template3x2_var_05", "template3x2_var_03", "template3x2_var_06"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -190,7 +190,7 @@
     ],
     "rotates": true,
     "fg": [
-      "template3x2_var_09", "template3x2_var_01", "template3x2_var_02", "template3x2_var_10"
+      "template3x2_var_09", "template3x2_var_10", "template3x2_var_02", "template3x2_var_01"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },

@@ -5,7 +5,7 @@
     ],
     "rotates": true,
     "fg": [
-      "mi-go_camp_var_01", "mi-go_camp_var_03", "mi-go_camp_var_02", "mi-go_camp_var_00"
+      "mi-go_camp_var_01", "mi-go_camp_var_00", "mi-go_camp_var_02", "mi-go_camp_var_03"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
@@ -41,7 +41,7 @@
     ],
     "rotates": true,
     "fg": [
-      "mi-go_camp_var_02", "mi-go_camp_var_00", "mi-go_camp_var_01", "mi-go_camp_var_03"
+      "mi-go_camp_var_02", "mi-go_camp_var_03", "mi-go_camp_var_01", "mi-go_camp_var_00"
     ],
     "bg": [
       { "weight": 1, "sprite": "bg_00" },
