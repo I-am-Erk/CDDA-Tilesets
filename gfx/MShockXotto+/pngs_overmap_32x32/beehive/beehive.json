@@ -1,0 +1,47 @@
+[
+  {
+    "id": "Bee Hive_NW",
+    "fg": [ "bee_hive_NW_north", "bee_hive_NW_west", "bee_hive_NW_south", "bee_hive_NW_east" ],
+    "rotates": true
+  },
+  {
+    "id": "Bee Hive_N",
+    "fg": [ "bee_hive_N_north", "bee_hive_N_west", "bee_hive_N_south", "bee_hive_N_east" ],
+    "rotates": true
+  },
+  {
+    "id": "Bee Hive_NE",
+    "fg": [ "bee_hive_NE_north", "bee_hive_NE_west", "bee_hive_NE_south", "bee_hive_NE_east" ],
+    "rotates": true
+  },
+  {
+    "id": "Bee Hive_W",
+    "fg": [ "bee_hive_W_north", "bee_hive_W_west", "bee_hive_W_south", "bee_hive_W_east" ],
+    "rotates": true
+  },
+  {
+    "id": "Bee Hive_M",
+    "fg": [ "bee_hive_M_north", "bee_hive_M_west", "bee_hive_M_south", "bee_hive_M_east" ],
+    "rotates": true
+  },
+  {
+    "id": "Bee Hive_E",
+    "fg": [ "bee_hive_E_north", "bee_hive_E_west", "bee_hive_E_south", "bee_hive_E_east" ],
+    "rotates": true
+  },
+  {
+    "id": "Bee Hive_SW",
+    "fg": [ "bee_hive_SW_north", "bee_hive_SW_west", "bee_hive_SW_south", "bee_hive_SW_east" ],
+    "rotates": true
+  },
+  {
+    "id": "Bee Hive_S",
+    "fg": [ "bee_hive_S_north", "bee_hive_S_west", "bee_hive_S_south", "bee_hive_S_east" ],
+    "rotates": true
+  },
+  {
+    "id": "Bee Hive_SE",
+    "fg": [ "bee_hive_SE_north", "bee_hive_SE_west", "bee_hive_SE_south", "bee_hive_SE_east" ],
+    "rotates": true
+  }
+]
