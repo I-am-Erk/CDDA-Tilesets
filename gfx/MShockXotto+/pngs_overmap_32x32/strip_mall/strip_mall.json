@@ -1,0 +1,12 @@
+[
+  {
+    "id": [ "strip_mall_1", "strip_mall_2", "strip_mall_3", "strip_mall_4" ],
+    "fg": [ "strip_mall" ],
+    "bg": [  ]
+  },
+  {
+    "id": "strip_mall_5",
+    "fg": "s_lot",
+    "bg": [  ]
+  }
+]
