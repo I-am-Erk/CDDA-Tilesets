@@ -1,0 +1,42 @@
+[
+  {
+    "id": "overlay_male_mutation_BIONIC_LEG_BASIC_LEFT",
+    "fg": [ "overlay_male_mutation_BIONIC_LEG_BASIC_LEFT_left", "overlay_male_mutation_BIONIC_LEG_BASIC_LEFT_right" ],
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_BIONIC_LEG_BASIC_RIGHT",
+    "fg": [ "overlay_male_mutation_BIONIC_LEG_BASIC_RIGHT_left", "overlay_male_mutation_BIONIC_LEG_BASIC_RIGHT_right" ],
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_female_mutation_BIONIC_LEG_BASIC_LEFT",
+    "fg": [ "overlay_female_mutation_BIONIC_LEG_BASIC_LEFT_left", "overlay_female_mutation_BIONIC_LEG_BASIC_LEFT_right" ],
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_female_mutation_BIONIC_LEG_BASIC_RIGHT",
+    "fg": [ "overlay_female_mutation_BIONIC_LEG_BASIC_RIGHT_left", "overlay_female_mutation_BIONIC_LEG_BASIC_RIGHT_right" ],
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_BIONIC_ARM_BASIC_LEFT",
+    "fg": [ "overlay_male_mutation_BIONIC_ARM_BASIC_LEFT_left", "overlay_male_mutation_BIONIC_ARM_BASIC_LEFT_right" ],
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_male_mutation_BIONIC_ARM_BASIC_RIGHT",
+    "fg": [ "overlay_male_mutation_BIONIC_ARM_BASIC_RIGHT_left", "overlay_male_mutation_BIONIC_ARM_BASIC_RIGHT_right" ],
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_female_mutation_BIONIC_ARM_BASIC_LEFT",
+    "fg": [ "overlay_female_mutation_BIONIC_ARM_BASIC_LEFT_left", "overlay_female_mutation_BIONIC_ARM_BASIC_LEFT_right" ],
+    "bg": [  ]
+  },
+  {
+    "id": "overlay_female_mutation_BIONIC_ARM_BASIC_RIGHT",
+    "fg": [ "overlay_female_mutation_BIONIC_ARM_BASIC_RIGHT_left", "overlay_female_mutation_BIONIC_ARM_BASIC_RIGHT_right" ],
+    "bg": [  ]
+  }
+]
