@@ -1,13 +1,13 @@
 [
   {
     "id": "vp_saddle_motor",
-    "fg": [ "saddle_motor_rotN", "saddle_motor_rotW", "saddle_motor_rotS", "saddle_motor_rotE" ],
+    "fg": [ "saddle_motor_rotN", "saddle_motor_rotE", "saddle_motor_rotS", "saddle_motor_rotW" ],
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": "3987_vp_cargo_space_2",
-        "bg": [ "saddle_motor_rotN", "saddle_motor_rotW", "saddle_motor_rotS", "saddle_motor_rotE" ]
+        "bg": [ "saddle_motor_rotN", "saddle_motor_rotE", "saddle_motor_rotS", "saddle_motor_rotW" ]
       }
     ]
   }

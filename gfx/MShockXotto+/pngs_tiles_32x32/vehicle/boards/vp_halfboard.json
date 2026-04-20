@@ -1,7 +1,7 @@
 [
   {
     "id": "vp_halfboard_ne",
-    "fg": [ "vp_halfboard_ne", "vp_halfboard_ne_rotW", "vp_halfboard_ne_rotS", "vp_halfboard_ne_rotE" ],
+    "fg": [ "vp_halfboard_ne", "vp_halfboard_ne_rotE", "vp_halfboard_ne_rotS", "vp_halfboard_ne_rotW" ],
     "rotates": true,
     "bg": [  ],
     "multitile": true,
@@ -9,13 +9,13 @@
       {
         "id": "broken",
         "fg": [ "3987_vp_cargo_space_2" ],
-        "bg": [ "vp_halfboard_ne", "vp_halfboard_ne_rotW", "vp_halfboard_ne_rotS", "vp_halfboard_ne_rotE" ]
+        "bg": [ "vp_halfboard_ne", "vp_halfboard_ne_rotE", "vp_halfboard_ne_rotS", "vp_halfboard_ne_rotW" ]
       }
     ]
   },
   {
     "id": "vp_halfboard_nw",
-    "fg": [ "vp_halfboard_nw", "vp_halfboard_nw_rotW", "vp_halfboard_nw_rotS", "vp_halfboard_nw_rotE" ],
+    "fg": [ "vp_halfboard_nw", "vp_halfboard_nw_rotE", "vp_halfboard_nw_rotS", "vp_halfboard_nw_rotW" ],
     "rotates": true,
     "bg": [  ],
     "multitile": true,
@@ -23,13 +23,13 @@
       {
         "id": "broken",
         "fg": [ "3987_vp_cargo_space_2" ],
-        "bg": [ "vp_halfboard_nw", "vp_halfboard_nw_rotW", "vp_halfboard_nw_rotS", "vp_halfboard_nw_rotE" ]
+        "bg": [ "vp_halfboard_nw", "vp_halfboard_nw_rotE", "vp_halfboard_nw_rotS", "vp_halfboard_nw_rotW" ]
       }
     ]
   },
   {
     "id": "vp_halfboard_se",
-    "fg": [ "vp_halfboard_se", "vp_halfboard_se_rotW", "vp_halfboard_se_rotS", "vp_halfboard_se_rotE" ],
+    "fg": [ "vp_halfboard_se", "vp_halfboard_se_rotE", "vp_halfboard_se_rotS", "vp_halfboard_se_rotW" ],
     "rotates": true,
     "bg": [  ],
     "multitile": true,
@@ -37,13 +37,13 @@
       {
         "id": "broken",
         "fg": [ "3987_vp_cargo_space_2" ],
-        "bg": [ "vp_halfboard_se", "vp_halfboard_se_rotW", "vp_halfboard_se_rotS", "vp_halfboard_se_rotE" ]
+        "bg": [ "vp_halfboard_se", "vp_halfboard_se_rotE", "vp_halfboard_se_rotS", "vp_halfboard_se_rotW" ]
       }
     ]
   },
   {
     "id": "vp_halfboard_sw",
-    "fg": [ "vp_halfboard_sw", "vp_halfboard_sw_rotW", "vp_halfboard_sw_rotS", "vp_halfboard_sw_rotE" ],
+    "fg": [ "vp_halfboard_sw", "vp_halfboard_sw_rotE", "vp_halfboard_sw_rotS", "vp_halfboard_sw_rotW" ],
     "rotates": true,
     "bg": [  ],
     "multitile": true,
@@ -51,7 +51,7 @@
       {
         "id": "broken",
         "fg": [ "3987_vp_cargo_space_2" ],
-        "bg": [ "vp_halfboard_sw", "vp_halfboard_sw_rotW", "vp_halfboard_sw_rotS", "vp_halfboard_sw_rotE" ]
+        "bg": [ "vp_halfboard_sw", "vp_halfboard_sw_rotE", "vp_halfboard_sw_rotS", "vp_halfboard_sw_rotW" ]
       }
     ]
   },
@@ -59,56 +59,8 @@
     "id": "vp_halfboard_vertical_left",
     "fg": [
       "vp_halfboard_vertical_left",
-      "vp_halfboard_vertical_left_rotW_right_rotE",
-      "vp_halfboard_vertical_right",
-      "vp_halfboard_vertical_left_rotE_right_rotW"
-    ],
-    "rotates": true,
-    "bg": [  ],
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": [ "3987_vp_cargo_space_2" ],
-        "bg": [
-          "vp_halfboard_vertical_left",
-          "vp_halfboard_vertical_left_rotW_right_rotE",
-          "vp_halfboard_vertical_right",
-          "vp_halfboard_vertical_left_rotE_right_rotW"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "vp_halfboard_vertical_2_left",
-    "fg": [
-      "vp_halfboard_vertical_2_left",
-      "vp_halfboard_vertical_2_left_rotW",
-      "vp_halfboard_vertical_2_right",
-      "vp_halfboard_vertical_2_left_rotE"
-    ],
-    "rotates": true,
-    "bg": [  ],
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": [ "3987_vp_cargo_space_2" ],
-        "bg": [
-          "vp_halfboard_vertical_2_left",
-          "vp_halfboard_vertical_2_left_rotW",
-          "vp_halfboard_vertical_2_right",
-          "vp_halfboard_vertical_2_left_rotE"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "vp_halfboard_vertical_right",
-    "fg": [
-      "vp_halfboard_vertical_right",
       "vp_halfboard_vertical_left_rotE_right_rotW",
-      "vp_halfboard_vertical_left",
+      "vp_halfboard_vertical_right",
       "vp_halfboard_vertical_left_rotW_right_rotE"
     ],
     "rotates": true,
@@ -119,10 +71,58 @@
         "id": "broken",
         "fg": [ "3987_vp_cargo_space_2" ],
         "bg": [
-          "vp_halfboard_vertical_right",
-          "vp_halfboard_vertical_left_rotE_right_rotW",
           "vp_halfboard_vertical_left",
+          "vp_halfboard_vertical_left_rotE_right_rotW",
+          "vp_halfboard_vertical_right",
           "vp_halfboard_vertical_left_rotW_right_rotE"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vp_halfboard_vertical_2_left",
+    "fg": [
+      "vp_halfboard_vertical_2_left",
+      "vp_halfboard_vertical_2_left_rotE",
+      "vp_halfboard_vertical_2_right",
+      "vp_halfboard_vertical_2_left_rotW"
+    ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "3987_vp_cargo_space_2" ],
+        "bg": [
+          "vp_halfboard_vertical_2_left",
+          "vp_halfboard_vertical_2_left_rotE",
+          "vp_halfboard_vertical_2_right",
+          "vp_halfboard_vertical_2_left_rotW"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vp_halfboard_vertical_right",
+    "fg": [
+      "vp_halfboard_vertical_right",
+      "vp_halfboard_vertical_left_rotW_right_rotE",
+      "vp_halfboard_vertical_left",
+      "vp_halfboard_vertical_left_rotE_right_rotW"
+    ],
+    "rotates": true,
+    "bg": [  ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": [ "3987_vp_cargo_space_2" ],
+        "bg": [
+          "vp_halfboard_vertical_right",
+          "vp_halfboard_vertical_left_rotW_right_rotE",
+          "vp_halfboard_vertical_left",
+          "vp_halfboard_vertical_left_rotE_right_rotW"
         ]
       }
     ]
@@ -131,9 +131,9 @@
     "id": "vp_halfboard_vertical_2_right",
     "fg": [
       "vp_halfboard_vertical_2_right",
-      "vp_halfboard_vertical_2_right_rotW",
+      "vp_halfboard_vertical_2_right_rotE",
       "vp_halfboard_vertical_2_left",
-      "vp_halfboard_vertical_2_right_rotE"
+      "vp_halfboard_vertical_2_right_rotW"
     ],
     "rotates": true,
     "bg": [  ],
@@ -144,9 +144,9 @@
         "fg": [ "3987_vp_cargo_space_2" ],
         "bg": [
           "vp_halfboard_vertical_2_right",
-          "vp_halfboard_vertical_2_right_rotW",
+          "vp_halfboard_vertical_2_right_rotE",
           "vp_halfboard_vertical_2_left",
-          "vp_halfboard_vertical_2_right_rotE"
+          "vp_halfboard_vertical_2_right_rotW"
         ]
       }
     ]
@@ -155,9 +155,9 @@
     "id": "vp_halfboard_vertical_t_left",
     "fg": [
       "vp_halfboard_vertical_t_left_rotN",
-      "vp_halfboard_vertical_t_left_rotW",
+      "vp_halfboard_vertical_t_left_rotE",
       "vp_halfboard_vertical_t_left_rotS",
-      "vp_halfboard_vertical_t_left_rotE"
+      "vp_halfboard_vertical_t_left_rotW"
     ],
     "rotates": true,
     "bg": [  ],
@@ -168,9 +168,9 @@
         "fg": [ "3987_vp_cargo_space_2" ],
         "bg": [
           "vp_halfboard_vertical_t_left_rotN",
-          "vp_halfboard_vertical_t_left_rotW",
+          "vp_halfboard_vertical_t_left_rotE",
           "vp_halfboard_vertical_t_left_rotS",
-          "vp_halfboard_vertical_t_left_rotE"
+          "vp_halfboard_vertical_t_left_rotW"
         ]
       }
     ]
@@ -179,9 +179,9 @@
     "id": "vp_halfboard_vertical_t_right",
     "fg": [
       "vp_halfboard_vertical_t_right_rotN",
-      "vp_halfboard_vertical_t_right_rotW",
+      "vp_halfboard_vertical_t_right_rotE",
       "vp_halfboard_vertical_t_right_rotS",
-      "vp_halfboard_vertical_t_right_rotE"
+      "vp_halfboard_vertical_t_right_rotW"
     ],
     "rotates": true,
     "bg": [  ],
@@ -192,9 +192,9 @@
         "fg": [ "3987_vp_cargo_space_2" ],
         "bg": [
           "vp_halfboard_vertical_t_right_rotN",
-          "vp_halfboard_vertical_t_right_rotW",
+          "vp_halfboard_vertical_t_right_rotE",
           "vp_halfboard_vertical_t_right_rotS",
-          "vp_halfboard_vertical_t_right_rotE"
+          "vp_halfboard_vertical_t_right_rotW"
         ]
       }
     ]
@@ -211,9 +211,9 @@
     "id": "vp_halfboard_horizontal_front",
     "fg": [
       "vp_halfboard_horizontal_front",
-      "vp_halfboard_horizontal_front_rotW",
+      "vp_halfboard_horizontal_front_rotE",
       "vp_halfboard_horizontal_front_rotS",
-      "vp_halfboard_horizontal_front_rotE"
+      "vp_halfboard_horizontal_front_rotW"
     ],
     "rotates": true,
     "bg": [  ],
@@ -224,9 +224,9 @@
         "fg": [ "3987_vp_cargo_space_2" ],
         "bg": [
           "vp_halfboard_horizontal_front",
-          "vp_halfboard_horizontal_front_rotW",
+          "vp_halfboard_horizontal_front_rotE",
           "vp_halfboard_horizontal_front_rotS",
-          "vp_halfboard_horizontal_front_rotE"
+          "vp_halfboard_horizontal_front_rotW"
         ]
       }
     ]
@@ -235,9 +235,9 @@
     "id": "vp_halfboard_horizontal_2_front",
     "fg": [
       "vp_halfboard_horizontal_2_front",
-      "vp_halfboard_horizontal_2_front_rotW",
+      "vp_halfboard_horizontal_2_front_rotE",
       "vp_halfboard_horizontal_2_front_rotS",
-      "vp_halfboard_horizontal_2_front_rotE"
+      "vp_halfboard_horizontal_2_front_rotW"
     ],
     "rotates": true,
     "bg": [  ],
@@ -248,9 +248,9 @@
         "fg": [ "3987_vp_cargo_space_2" ],
         "bg": [
           "vp_halfboard_horizontal_2_front",
-          "vp_halfboard_horizontal_2_front_rotW",
+          "vp_halfboard_horizontal_2_front_rotE",
           "vp_halfboard_horizontal_2_front_rotS",
-          "vp_halfboard_horizontal_2_front_rotE"
+          "vp_halfboard_horizontal_2_front_rotW"
         ]
       }
     ]
@@ -259,9 +259,9 @@
     "id": "vp_halfboard_horizontal_rear",
     "fg": [
       "vp_halfboard_horizontal_rear",
-      "vp_halfboard_horizontal_rear_rotW",
+      "vp_halfboard_horizontal_rear_rotE",
       "vp_halfboard_horizontal_rear_rotS",
-      "vp_halfboard_horizontal_rear_rotE"
+      "vp_halfboard_horizontal_rear_rotW"
     ],
     "rotates": true,
     "bg": [  ],
@@ -272,9 +272,9 @@
         "fg": [ "3987_vp_cargo_space_2" ],
         "bg": [
           "vp_halfboard_horizontal_rear",
-          "vp_halfboard_horizontal_rear_rotW",
+          "vp_halfboard_horizontal_rear_rotE",
           "vp_halfboard_horizontal_rear_rotS",
-          "vp_halfboard_horizontal_rear_rotE"
+          "vp_halfboard_horizontal_rear_rotW"
         ]
       }
     ]
@@ -283,9 +283,9 @@
     "id": "vp_halfboard_horizontal_2_rear",
     "fg": [
       "vp_halfboard_horizontal_2_rear",
-      "vp_halfboard_horizontal_2_rear_rotW",
+      "vp_halfboard_horizontal_2_rear_rotE",
       "vp_halfboard_horizontal_2_rear_rotS",
-      "vp_halfboard_horizontal_2_rear_rotE"
+      "vp_halfboard_horizontal_2_rear_rotW"
     ],
     "rotates": true,
     "bg": [  ],
@@ -296,9 +296,9 @@
         "fg": [ "3987_vp_cargo_space_2" ],
         "bg": [
           "vp_halfboard_horizontal_2_rear",
-          "vp_halfboard_horizontal_2_rear_rotW",
+          "vp_halfboard_horizontal_2_rear_rotE",
           "vp_halfboard_horizontal_2_rear_rotS",
-          "vp_halfboard_horizontal_2_rear_rotE"
+          "vp_halfboard_horizontal_2_rear_rotW"
         ]
       }
     ]
@@ -313,7 +313,7 @@
   },
   {
     "id": "vp_halfboard_cover",
-    "fg": [ "vp_halfboard_cover", "vp_halfboard_cover_rotW", "vp_halfboard_cover_rotS", "vp_halfboard_cover_rotE" ],
+    "fg": [ "vp_halfboard_cover", "vp_halfboard_cover_rotE", "vp_halfboard_cover_rotS", "vp_halfboard_cover_rotW" ],
     "rotates": true,
     "bg": [  ],
     "multitile": true,
@@ -321,7 +321,7 @@
       {
         "id": "broken",
         "fg": [ "3987_vp_cargo_space_2" ],
-        "bg": [ "vp_halfboard_cover", "vp_halfboard_cover_rotW", "vp_halfboard_cover_rotS", "vp_halfboard_cover_rotE" ]
+        "bg": [ "vp_halfboard_cover", "vp_halfboard_cover_rotE", "vp_halfboard_cover_rotS", "vp_halfboard_cover_rotW" ]
       }
     ]
   }

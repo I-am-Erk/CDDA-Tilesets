@@ -8,7 +8,7 @@
   },
   {
     "id": [ "vp_wheel_bicycle", "vp_wheel_bicycle_steerable" ],
-    "fg": [ "vp_wheel_bicycle_rotN", "vp_wheel_bicycle_rotW", "vp_wheel_bicycle_rotS", "vp_wheel_bicycle_rotE" ],
+    "fg": [ "vp_wheel_bicycle_rotN", "vp_wheel_bicycle_rotW", "vp_wheel_bicycle_rotS", "vp_wheel_bicycle_rotW" ],
     "rotates": true,
     "bg": [  ],
     "multitile": true,
@@ -17,16 +17,16 @@
         "id": "broken",
         "fg": [
           "broken_vp_wheel_bicycle_rotN",
-          "broken_vp_wheel_bicycle_rotW",
+          "broken_vp_wheel_bicycle_rotE",
           "broken_vp_wheel_bicycle_rotS",
-          "broken_vp_wheel_bicycle_rotE"
+          "broken_vp_wheel_bicycle_rotW"
         ]
       }
     ]
   },
   {
     "id": [ "vp_wheel_bicycle_or" ],
-    "fg": [ "vp_wheel_bicycle_or_rotN", "vp_wheel_bicycle_or_rotW", "vp_wheel_bicycle_or_rotS", "vp_wheel_bicycle_or_rotE" ],
+    "fg": [ "vp_wheel_bicycle_or_rotN", "vp_wheel_bicycle_or_rotE", "vp_wheel_bicycle_or_rotS", "vp_wheel_bicycle_or_rotW" ],
     "rotates": true,
     "bg": [  ],
     "multitile": true,
@@ -34,13 +34,13 @@
       {
         "id": "broken",
         "fg": [ "3987_vp_cargo_space_2" ],
-        "bg": [ "vp_wheel_bicycle_or_rotN", "vp_wheel_bicycle_or_rotW", "vp_wheel_bicycle_or_rotS", "vp_wheel_bicycle_or_rotE" ]
+        "bg": [ "vp_wheel_bicycle_or_rotN", "vp_wheel_bicycle_or_rotE", "vp_wheel_bicycle_or_rotS", "vp_wheel_bicycle_or_rotW" ]
       }
     ]
   },
   {
     "id": [ "vp_wheel_bicycle_or_rear" ],
-    "fg": [ "vp_wheel_bicycle_or_rotS", "vp_wheel_bicycle_or_rotE", "vp_wheel_bicycle_or_rotN", "vp_wheel_bicycle_or_rotW" ],
+    "fg": [ "vp_wheel_bicycle_or_rotS", "vp_wheel_bicycle_or_rotW", "vp_wheel_bicycle_or_rotN", "vp_wheel_bicycle_or_rotE" ],
     "rotates": true,
     "bg": [  ],
     "multitile": true,
@@ -48,13 +48,13 @@
       {
         "id": "broken",
         "fg": [ "3987_vp_cargo_space_2" ],
-        "bg": [ "vp_wheel_bicycle_or_rotS", "vp_wheel_bicycle_or_rotE", "vp_wheel_bicycle_or_rotN", "vp_wheel_bicycle_or_rotW" ]
+        "bg": [ "vp_wheel_bicycle_or_rotS", "vp_wheel_bicycle_or_rotW", "vp_wheel_bicycle_or_rotN", "vp_wheel_bicycle_or_rotE" ]
       }
     ]
   },
   {
     "id": [ "vp_wheel_small", "vp_wheel_small_steerable" ],
-    "fg": [ "vp_wheel_small_rotN", "vp_wheel_small_rotW", "vp_wheel_small_rotS", "vp_wheel_small_rotE" ],
+    "fg": [ "vp_wheel_small_rotN", "vp_wheel_small_rotE", "vp_wheel_small_rotS", "vp_wheel_small_rotW" ],
     "rotates": true,
     "bg": [  ],
     "multitile": true,
@@ -62,13 +62,13 @@
       {
         "id": "broken",
         "fg": [ "3987_vp_cargo_space_2" ],
-        "bg": [ "vp_wheel_small_rotN", "vp_wheel_small_rotW", "vp_wheel_small_rotS", "vp_wheel_small_rotE" ]
+        "bg": [ "vp_wheel_small_rotN", "vp_wheel_small_rotE", "vp_wheel_small_rotS", "vp_wheel_small_rotW" ]
       }
     ]
   },
   {
     "id": [ "vp_wheel_bicycle_rear" ],
-    "fg": [ "vp_wheel_bicycle_rotS", "vp_wheel_bicycle_rotE", "vp_wheel_bicycle_rotN", "vp_wheel_bicycle_rotW" ],
+    "fg": [ "vp_wheel_bicycle_rotS", "vp_wheel_bicycle_rotW", "vp_wheel_bicycle_rotN", "vp_wheel_bicycle_rotE" ],
     "rotates": true,
     "bg": [  ],
     "multitile": true,
@@ -76,7 +76,7 @@
       {
         "id": "broken",
         "fg": [ "3987_vp_cargo_space_2" ],
-        "bg": [ "vp_wheel_bicycle_rotS", "vp_wheel_bicycle_rotE", "vp_wheel_bicycle_rotN", "vp_wheel_bicycle_rotW" ]
+        "bg": [ "vp_wheel_bicycle_rotS", "vp_wheel_bicycle_rotW", "vp_wheel_bicycle_rotN", "vp_wheel_bicycle_rotE" ]
       }
     ]
   },
@@ -97,7 +97,7 @@
   },
   {
     "id": [ "vp_wheel_wood" ],
-    "fg": [ "vp_wheel_wood_rotN", "vp_wheel_wood_rotW", "vp_wheel_wood_rotS", "vp_wheel_wood_rotE" ],
+    "fg": [ "vp_wheel_wood_rotN", "vp_wheel_wood_rotE", "vp_wheel_wood_rotS", "vp_wheel_wood_rotW" ],
     "rotates": true,
     "bg": [  ],
     "multitile": true,
@@ -105,13 +105,13 @@
       {
         "id": "broken",
         "fg": [ "3987_vp_cargo_space_2" ],
-        "bg": [ "vp_wheel_wood_rotN", "vp_wheel_wood_rotW", "vp_wheel_wood_rotS", "vp_wheel_wood_rotE" ]
+        "bg": [ "vp_wheel_wood_rotN", "vp_wheel_wood_rotE", "vp_wheel_wood_rotS", "vp_wheel_wood_rotW" ]
       }
     ]
   },
   {
     "id": [ "vp_wheel_wood_b" ],
-    "fg": [ "vp_wheel_wood_b_rotN", "vp_wheel_wood_b_rotW", "vp_wheel_wood_b_rotS", "vp_wheel_wood_b_rotE" ],
+    "fg": [ "vp_wheel_wood_b_rotN", "vp_wheel_wood_b_rotE", "vp_wheel_wood_b_rotS", "vp_wheel_wood_b_rotW" ],
     "rotates": true,
     "bg": [  ],
     "multitile": true,
@@ -119,13 +119,13 @@
       {
         "id": "broken",
         "fg": [ "3987_vp_cargo_space_2" ],
-        "bg": [ "vp_wheel_wood_b_rotN", "vp_wheel_wood_b_rotW", "vp_wheel_wood_b_rotS", "vp_wheel_wood_b_rotE" ]
+        "bg": [ "vp_wheel_wood_b_rotN", "vp_wheel_wood_b_rotE", "vp_wheel_wood_b_rotS", "vp_wheel_wood_b_rotW" ]
       }
     ]
   },
   {
     "id": [ "vp_yoke_harness" ],
-    "fg": [ "vp_yoke_harness_up", "vp_yoke_harness_left", "vp_yoke_harness_down", "vp_yoke_harness_right" ],
+    "fg": [ "vp_yoke_harness_up", "vp_yoke_harness_right", "vp_yoke_harness_down", "vp_yoke_harness_left" ],
     "rotates": true,
     "bg": [  ],
     "multitile": true,
@@ -133,7 +133,7 @@
       {
         "id": "broken",
         "fg": [ "3987_vp_cargo_space_2" ],
-        "bg": [ "vp_yoke_harness_up", "vp_yoke_harness_left", "vp_yoke_harness_down", "vp_yoke_harness_right" ]
+        "bg": [ "vp_yoke_harness_up", "vp_yoke_harness_right", "vp_yoke_harness_down", "vp_yoke_harness_left" ]
       }
     ]
   }

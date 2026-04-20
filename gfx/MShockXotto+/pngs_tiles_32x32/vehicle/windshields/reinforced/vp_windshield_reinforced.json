@@ -8,9 +8,9 @@
     ],
     "fg": [
       "vp_reinforced_windshield_horizontal_front",
-      "vp_reinforced_windshield_horizontal_front_rotW",
+      "vp_reinforced_windshield_horizontal_front_rotE",
       "vp_reinforced_windshield_horizontal_front_rotS",
-      "vp_reinforced_windshield_horizontal_front_rotE"
+      "vp_reinforced_windshield_horizontal_front_rotW"
     ],
     "bg": [  ],
     "rotates": true,
@@ -21,9 +21,9 @@
         "fg": [ "3987_vp_cargo_space_2" ],
         "bg": [
           "vp_reinforced_windshield_horizontal_front",
-          "vp_reinforced_windshield_horizontal_front_rotW",
+          "vp_reinforced_windshield_horizontal_front_rotE",
           "vp_reinforced_windshield_horizontal_front_rotS",
-          "vp_reinforced_windshield_horizontal_front_rotE"
+          "vp_reinforced_windshield_horizontal_front_rotW"
         ]
       }
     ]
@@ -48,9 +48,9 @@
     "id": "vp_reinforced_windshield_nw",
     "fg": [
       "vp_windshield_reinforced_nw",
-      "vp_windshield_reinforced_nw_rotW",
+      "vp_windshield_reinforced_nw_rotE",
       "vp_windshield_reinforced_se",
-      "vp_windshield_reinforced_nw_rotE"
+      "vp_windshield_reinforced_nw_rotW"
     ],
     "bg": [  ],
     "rotates": true,
@@ -61,9 +61,9 @@
         "fg": [ "3987_vp_cargo_space_2" ],
         "bg": [
           "vp_windshield_reinforced_nw",
-          "vp_windshield_reinforced_nw_rotW",
+          "vp_windshield_reinforced_nw_rotE",
           "vp_windshield_reinforced_se",
-          "vp_windshield_reinforced_nw_rotE"
+          "vp_windshield_reinforced_nw_rotW"
         ]
       }
     ]
@@ -72,9 +72,9 @@
     "id": "vp_reinforced_windshield_ne",
     "fg": [
       "vp_windshield_reinforced_ne",
-      "vp_windshield_reinforced_ne_rotW",
+      "vp_windshield_reinforced_ne_rotE",
       "vp_windshield_reinforced_sw",
-      "vp_windshield_reinforced_ne_rotE"
+      "vp_windshield_reinforced_ne_rotW"
     ],
     "bg": [  ],
     "rotates": true,
@@ -85,9 +85,9 @@
         "fg": [ "3987_vp_cargo_space_2" ],
         "bg": [
           "vp_windshield_reinforced_ne",
-          "vp_windshield_reinforced_ne_rotW",
+          "vp_windshield_reinforced_ne_rotE",
           "vp_windshield_reinforced_sw",
-          "vp_windshield_reinforced_ne_rotE"
+          "vp_windshield_reinforced_ne_rotW"
         ]
       }
     ]
@@ -144,9 +144,9 @@
     "id": "vp_reinforced_windshield_full_horizontal_front",
     "fg": [
       "vp_reinforced_windshield_full_horizontal_front",
-      "vp_reinforced_windshield_full_horizontal_front_rotW",
+      "vp_reinforced_windshield_full_horizontal_front_rotE",
       "vp_reinforced_windshield_full_horizontal_front_rotS",
-      "vp_reinforced_windshield_full_horizontal_front_rotE"
+      "vp_reinforced_windshield_full_horizontal_front_rotW"
     ],
     "bg": [  ],
     "rotates": true,
@@ -157,9 +157,9 @@
         "fg": [ "3987_vp_cargo_space_2" ],
         "bg": [
           "vp_reinforced_windshield_full_horizontal_front",
-          "vp_reinforced_windshield_full_horizontal_front_rotW",
+          "vp_reinforced_windshield_full_horizontal_front_rotE",
           "vp_reinforced_windshield_full_horizontal_front_rotS",
-          "vp_reinforced_windshield_full_horizontal_front_rotE"
+          "vp_reinforced_windshield_full_horizontal_front_rotW"
         ]
       }
     ]
@@ -168,9 +168,9 @@
     "id": "vp_reinforced_windshield_full_nw",
     "fg": [
       "vp_reinforced_windshield_full_nw",
-      "vp_reinforced_windshield_full_nw_rotW",
+      "vp_reinforced_windshield_full_nw_rotE",
       "vp_reinforced_windshield_full_nw_rotS",
-      "vp_reinforced_windshield_full_nw_rotE"
+      "vp_reinforced_windshield_full_nw_rotW"
     ],
     "bg": [  ],
     "rotates": true,
@@ -181,9 +181,9 @@
         "fg": [ "3987_vp_cargo_space_2" ],
         "bg": [
           "vp_reinforced_windshield_full_nw",
-          "vp_reinforced_windshield_full_nw_rotW",
+          "vp_reinforced_windshield_full_nw_rotE",
           "vp_reinforced_windshield_full_nw_rotS",
-          "vp_reinforced_windshield_full_nw_rotE"
+          "vp_reinforced_windshield_full_nw_rotW"
         ]
       }
     ]

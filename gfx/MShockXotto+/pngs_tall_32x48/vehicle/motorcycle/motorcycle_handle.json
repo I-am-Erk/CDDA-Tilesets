@@ -1,13 +1,13 @@
 [
   {
     "id": "vp_frame_handle",
-    "fg": [ "handle_motor_rotN", "handle_motor_rotW", "handle_motor_rotS", "handle_motor_rotE" ],
+    "fg": [ "handle_motor_rotN", "handle_motor_rotE", "handle_motor_rotS", "handle_motor_rotW" ],
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": "3987_vp_cargo_space_2",
-        "bg": [ "handle_motor_rotN", "handle_motor_rotW", "handle_motor_rotS", "handle_motor_rotE" ]
+        "bg": [ "handle_motor_rotN", "handle_motor_rotE", "handle_motor_rotS", "handle_motor_rotW" ]
       }
     ]
   }

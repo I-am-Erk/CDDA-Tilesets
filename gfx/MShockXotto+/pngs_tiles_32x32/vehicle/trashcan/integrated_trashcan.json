@@ -3,9 +3,9 @@
     "id": "vp_integrated_trashcan",
     "fg": [
       "vp_integrated_trashcan_north",
-      "vp_integrated_trashcan_west",
+      "vp_integrated_trashcan_east",
       "vp_integrated_trashcan_south",
-      "vp_integrated_trashcan_east"
+      "vp_integrated_trashcan_west"
     ],
     "rotates": true,
     "multitile": true,
@@ -15,9 +15,9 @@
         "fg": [ "3987_vp_cargo_space_2" ],
         "bg": [
           "vp_integrated_trashcan_north",
-          "vp_integrated_trashcan_west",
+          "vp_integrated_trashcan_east",
           "vp_integrated_trashcan_south",
-          "vp_integrated_trashcan_east"
+          "vp_integrated_trashcan_west"
         ]
       }
     ]

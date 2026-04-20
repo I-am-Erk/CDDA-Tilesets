@@ -11,9 +11,9 @@
     "id": [ "vp_clothboard_vertical_left", "vp_clothboard_wheel_left" ],
     "fg": [
       "vp_clothboard_vertical_left",
-      "vp_clothboard_vertical_right_rotW",
+      "vp_clothboard_vertical_right_rotE",
       "vp_clothboard_vertical_right",
-      "vp_clothboard_vertical_left_rotE"
+      "vp_clothboard_vertical_left_rotW"
     ],
     "rotates": true,
     "multitile": true,
@@ -23,9 +23,9 @@
         "fg": [ "3987_vp_cargo_space_2" ],
         "bg": [
           "vp_clothboard_vertical_left",
-          "vp_clothboard_vertical_right_rotW",
+          "vp_clothboard_vertical_right_rotE",
           "vp_clothboard_vertical_right",
-          "vp_clothboard_vertical_left_rotE"
+          "vp_clothboard_vertical_left_rotW"
         ]
       }
     ],
@@ -35,9 +35,9 @@
     "id": [ "vp_clothboard_vertical_right", "vp_clothboard_wheel_right" ],
     "fg": [
       "vp_clothboard_vertical_right",
-      "vp_clothboard_vertical_left_rotW",
+      "vp_clothboard_vertical_left_rotE",
       "vp_clothboard_vertical_left",
-      "vp_clothboard_vertical_right_rotE"
+      "vp_clothboard_vertical_right_rotW"
     ],
     "rotates": true,
     "multitile": true,
@@ -47,9 +47,9 @@
         "fg": [ "3987_vp_cargo_space_2" ],
         "bg": [
           "vp_clothboard_vertical_right",
-          "vp_clothboard_vertical_left_rotW",
+          "vp_clothboard_vertical_left_rotE",
           "vp_clothboard_vertical_left",
-          "vp_clothboard_vertical_right_rotE"
+          "vp_clothboard_vertical_right_rotW"
         ]
       }
     ],

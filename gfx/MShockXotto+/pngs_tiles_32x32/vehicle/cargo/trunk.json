@@ -17,7 +17,7 @@
   },
   {
     "id": "vp_box_wheelbarrow",
-    "fg": [ "vp_box_wheelbarrow_rotN", "vp_box_wheelbarrow_rotW", "vp_box_wheelbarrow_rotS", "vp_box_wheelbarrow_rotE" ],
+    "fg": [ "vp_box_wheelbarrow_rotN", "vp_box_wheelbarrow_rotE", "vp_box_wheelbarrow_rotS", "vp_box_wheelbarrow_rotW" ],
     "rotates": true,
     "bg": [  ],
     "multitile": true,
@@ -25,7 +25,7 @@
       {
         "id": "broken",
         "fg": [ "3987_vp_cargo_space_2" ],
-        "bg": [ "vp_box_wheelbarrow_rotN", "vp_box_wheelbarrow_rotW", "vp_box_wheelbarrow_rotS", "vp_box_wheelbarrow_rotE" ]
+        "bg": [ "vp_box_wheelbarrow_rotN", "vp_box_wheelbarrow_rotE", "vp_box_wheelbarrow_rotS", "vp_box_wheelbarrow_rotW" ]
       }
     ]
   },

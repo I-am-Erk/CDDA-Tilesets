@@ -1,14 +1,14 @@
 [
   {
     "id": [ "vp_saddle", "vp_saddle_pedal" ],
-    "fg": [ "saddle_pedal_rotN", "saddle_pedal_rotW", "saddle_pedal_rotS", "saddle_pedal_rotE" ],
+    "fg": [ "saddle_pedal_rotN", "saddle_pedal_rotE", "saddle_pedal_rotS", "saddle_pedal_rotW" ],
     "rotates": true,
     "bg": [  ],
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
-        "fg": [ "broken_saddle_pedal_rotN", "broken_saddle_pedal_rotW", "broken_saddle_pedal_rotS", "broken_saddle_pedal_rotE" ]
+        "fg": [ "broken_saddle_pedal_rotN", "broken_saddle_pedal_rotE", "broken_saddle_pedal_rotS", "broken_saddle_pedal_rotW" ]
       }
     ]
   }
