@@ -1,16 +1,21 @@
 [
   {
     "id": "vp_hddoor_opaque_full_left",
-    "fg": [ "vp_hddoor_opaque_left_rotN", "vp_hddoor_opaque_left_rotW", "vp_hddoor_opaque_left_rotS", "vp_hddoor_opaque_left_rotE" ],
+    "fg": [
+      "vp_hddoor_opaque_left_rotN",
+      "vp_hddoor_opaque_left_rotE",
+      "vp_hddoor_opaque_left_rotS",
+      "vp_hddoor_opaque_left_rotW"
+    ],
     "multitile": true,
     "additional_tiles": [
       {
         "id": "open",
         "fg": [
           "vp_hddoor_opaque_left_open_rotN",
-          "vp_hddoor_opaque_left_open_rotW",
+          "vp_hddoor_opaque_left_open_rotE",
           "vp_hddoor_opaque_left_open_rotS",
-          "vp_hddoor_opaque_left_open_rotE"
+          "vp_hddoor_opaque_left_open_rotW"
         ]
       },
       {
@@ -18,25 +23,30 @@
         "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
         "bg": [
           "vp_hddoor_opaque_left_open_rotN",
-          "vp_hddoor_opaque_left_open_rotW",
+          "vp_hddoor_opaque_left_open_rotE",
           "vp_hddoor_opaque_left_open_rotS",
-          "vp_hddoor_opaque_left_open_rotE"
+          "vp_hddoor_opaque_left_open_rotW"
         ]
       }
     ]
   },
   {
     "id": "vp_hddoor_opaque_full_right",
-    "fg": [ "vp_hddoor_opaque_right_rotN", "vp_hddoor_opaque_right_rotW", "vp_hddoor_opaque_right_rotS", "vp_hddoor_opaque_right_rotE" ],
+    "fg": [
+      "vp_hddoor_opaque_right_rotN",
+      "vp_hddoor_opaque_right_rotE",
+      "vp_hddoor_opaque_right_rotS",
+      "vp_hddoor_opaque_right_rotW"
+    ],
     "multitile": true,
     "additional_tiles": [
       {
         "id": "open",
         "fg": [
           "vp_hddoor_opaque_right_open_rotN",
-          "vp_hddoor_opaque_right_open_rotW",
+          "vp_hddoor_opaque_right_open_rotE",
           "vp_hddoor_opaque_right_open_rotS",
-          "vp_hddoor_opaque_right_open_rotE"
+          "vp_hddoor_opaque_right_open_rotW"
         ]
       },
       {
@@ -44,9 +54,9 @@
         "fg": [ "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48", "crack_metal_center_32x48" ],
         "bg": [
           "vp_hddoor_opaque_right_open_rotN",
-          "vp_hddoor_opaque_right_open_rotW",
+          "vp_hddoor_opaque_right_open_rotE",
           "vp_hddoor_opaque_right_open_rotS",
-          "vp_hddoor_opaque_right_open_rotE"
+          "vp_hddoor_opaque_right_open_rotW"
         ]
       }
     ]

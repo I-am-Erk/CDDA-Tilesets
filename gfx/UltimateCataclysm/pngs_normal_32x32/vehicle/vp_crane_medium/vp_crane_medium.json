@@ -1,13 +1,13 @@
 [
   {
     "id": [ "vp_crane_medium" ],
-    "fg": [ "vp_crane_medium_rotN", "vp_crane_medium_rotW", "vp_crane_medium_rotS", "vp_crane_medium_rotE" ],
+    "fg": [ "vp_crane_medium_rotN", "vp_crane_medium_rotE", "vp_crane_medium_rotS", "vp_crane_medium_rotW" ],
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": [ "vp_crane_medium_rotN", "vp_crane_medium_rotW", "vp_crane_medium_rotS", "vp_crane_medium_rotE" ]
+        "bg": [ "vp_crane_medium_rotN", "vp_crane_medium_rotE", "vp_crane_medium_rotS", "vp_crane_medium_rotW" ]
       }
     ]
   }

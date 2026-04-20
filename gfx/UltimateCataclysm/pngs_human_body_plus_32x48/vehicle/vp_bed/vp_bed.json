@@ -1,14 +1,10 @@
 [
   {
     "id": "vp_bed",
-    "fg": [ "vp_bed_faceN", "vp_bed_faceW", "vp_bed_faceS", "vp_bed_faceE" ],
+    "fg": [ "vp_bed_faceN", "vp_bed_faceE", "vp_bed_faceS", "vp_bed_faceW" ],
     "multitile": true,
     "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": [ "vp_bed_faceN", "vp_bed_faceW", "vp_bed_faceS", "vp_bed_faceE" ]
-      }
+      { "id": "broken", "fg": "crack_metal_center", "bg": [ "vp_bed_faceN", "vp_bed_faceE", "vp_bed_faceS", "vp_bed_faceW" ] }
     ]
   }
 ]

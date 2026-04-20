@@ -1,7 +1,7 @@
 [
   {
-    "id": [ "vp_vehicle_scoop"],
-    "fg": [ "vp_vehicle_scoop_rotN", "vp_vehicle_scoop_rotW", "vp_vehicle_scoop_rotS", "vp_vehicle_scoop_rotE" ],
+    "id": [ "vp_vehicle_scoop" ],
+    "fg": [ "vp_vehicle_scoop_rotN", "vp_vehicle_scoop_rotE", "vp_vehicle_scoop_rotS", "vp_vehicle_scoop_rotW" ],
     "rotates": true
   }
 ]

@@ -3,35 +3,29 @@
     "id": "vp_wheel",
     "fg": "vp_wheel",
     "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": "vp_wheel"
-      }
-    ]
+    "additional_tiles": [ { "id": "broken", "fg": "crack_metal_center", "bg": "vp_wheel" } ]
   },
   {
     "id": [ "vp_wheel_bicycle_front", "vp_wheel_bicycle_or_front" ],
-    "fg": [ "vp_wheel_bicycle_rotN", "vp_wheel_bicycle_rotW", "vp_wheel_bicycle_rotS", "vp_wheel_bicycle_rotE" ],
+    "fg": [ "vp_wheel_bicycle_rotN", "vp_wheel_bicycle_rotE", "vp_wheel_bicycle_rotS", "vp_wheel_bicycle_rotW" ],
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": [ "vp_wheel_bicycle_rotN", "vp_wheel_bicycle_rotW", "vp_wheel_bicycle_rotS", "vp_wheel_bicycle_rotE" ]
+        "bg": [ "vp_wheel_bicycle_rotN", "vp_wheel_bicycle_rotE", "vp_wheel_bicycle_rotS", "vp_wheel_bicycle_rotE" ]
       }
     ]
   },
   {
     "id": [ "vp_wheel_bicycle_rear", "vp_wheel_bicycle_or_rear" ],
-    "fg": [ "vp_wheel_bicycle_rotS", "vp_wheel_bicycle_rotE", "vp_wheel_bicycle_rotN", "vp_wheel_bicycle_rotW" ],
+    "fg": [ "vp_wheel_bicycle_rotS", "vp_wheel_bicycle_rotW", "vp_wheel_bicycle_rotN", "vp_wheel_bicycle_rotE" ],
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": [ "vp_wheel_bicycle_rotS", "vp_wheel_bicycle_rotE", "vp_wheel_bicycle_rotN", "vp_wheel_bicycle_rotW" ]
+        "bg": [ "vp_wheel_bicycle_rotS", "vp_wheel_bicycle_rotW", "vp_wheel_bicycle_rotN", "vp_wheel_bicycle_rotE" ]
       }
     ]
   }

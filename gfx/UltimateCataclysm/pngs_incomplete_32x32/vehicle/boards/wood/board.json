@@ -3,74 +3,8 @@
     "id": "vp_woodboard_ne",
     "fg": [
       "vp_woodboard_ne_rotN_sw_rotS",
-      "vp_woodboard_ne_rotW_sw_rotE",
-      "vp_woodboard_sw_rotN_ne_rotS",
-      "vp_woodboard_sw_rotw_ne_rotE"
-    ],
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": [
-          "vp_woodboard_ne_rotN_sw_rotS",
-          "vp_woodboard_ne_rotW_sw_rotE",
-          "vp_woodboard_sw_rotN_ne_rotS",
-          "vp_woodboard_sw_rotw_ne_rotE"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "vp_woodboard_nw",
-    "fg": [
-      "vp_woodboard_nw_rotN_se_rotS",
-      "vp_woodboard_nw_rotw_se_rotE",
-      "vp_woodboard_se_rotN_nw_rotS",
-      "vp_woodboard_se_rotW_nw_rotE"
-    ],
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": [
-          "vp_woodboard_nw_rotN_se_rotS",
-          "vp_woodboard_nw_rotw_se_rotE",
-          "vp_woodboard_se_rotN_nw_rotS",
-          "vp_woodboard_se_rotW_nw_rotE"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "vp_woodboard_se",
-    "fg": [
-      "vp_woodboard_se_rotN_nw_rotS",
-      "vp_woodboard_se_rotW_nw_rotE",
-      "vp_woodboard_nw_rotN_se_rotS",
-      "vp_woodboard_nw_rotw_se_rotE"
-    ],
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": [
-          "vp_woodboard_se_rotN_nw_rotS",
-          "vp_woodboard_se_rotW_nw_rotE",
-          "vp_woodboard_nw_rotN_se_rotS",
-          "vp_woodboard_nw_rotw_se_rotE"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "vp_woodboard_sw",
-    "fg": [
-      "vp_woodboard_sw_rotN_ne_rotS",
       "vp_woodboard_sw_rotw_ne_rotE",
-      "vp_woodboard_ne_rotN_sw_rotS",
+      "vp_woodboard_sw_rotN_ne_rotS",
       "vp_woodboard_ne_rotW_sw_rotE"
     ],
     "multitile": true,
@@ -79,10 +13,76 @@
         "id": "broken",
         "fg": "crack_metal_center",
         "bg": [
-          "vp_woodboard_sw_rotN_ne_rotS",
-          "vp_woodboard_sw_rotw_ne_rotE",
           "vp_woodboard_ne_rotN_sw_rotS",
+          "vp_woodboard_sw_rotw_ne_rotE",
+          "vp_woodboard_sw_rotN_ne_rotS",
           "vp_woodboard_ne_rotW_sw_rotE"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vp_woodboard_nw",
+    "fg": [
+      "vp_woodboard_nw_rotN_se_rotS",
+      "vp_woodboard_se_rotW_nw_rotE",
+      "vp_woodboard_se_rotN_nw_rotS",
+      "vp_woodboard_nw_rotw_se_rotE"
+    ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [
+          "vp_woodboard_nw_rotN_se_rotS",
+          "vp_woodboard_se_rotW_nw_rotE",
+          "vp_woodboard_se_rotN_nw_rotS",
+          "vp_woodboard_nw_rotw_se_rotE"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vp_woodboard_se",
+    "fg": [
+      "vp_woodboard_se_rotN_nw_rotS",
+      "vp_woodboard_nw_rotw_se_rotE",
+      "vp_woodboard_nw_rotN_se_rotS",
+      "vp_woodboard_se_rotW_nw_rotE"
+    ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [
+          "vp_woodboard_se_rotN_nw_rotS",
+          "vp_woodboard_nw_rotw_se_rotE",
+          "vp_woodboard_nw_rotN_se_rotS",
+          "vp_woodboard_se_rotW_nw_rotE"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vp_woodboard_sw",
+    "fg": [
+      "vp_woodboard_sw_rotN_ne_rotS",
+      "vp_woodboard_ne_rotW_sw_rotE",
+      "vp_woodboard_ne_rotN_sw_rotS",
+      "vp_woodboard_sw_rotw_ne_rotE"
+    ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [
+          "vp_woodboard_sw_rotN_ne_rotS",
+          "vp_woodboard_ne_rotW_sw_rotE",
+          "vp_woodboard_ne_rotN_sw_rotS",
+          "vp_woodboard_sw_rotw_ne_rotE"
         ]
       }
     ]
@@ -91,30 +91,8 @@
     "id": "vp_woodboard_vertical_left",
     "fg": [
       "vp_woodboard_vertical_left_rotN_right_rotS",
-      "vp_woodboard_horizontal_rear_rotN_front_rotS",
-      "vp_woodboard_vertical_right_rotN_left_rotS",
-      "vp_woodboard_horizontal_front_rotN_rear_rotS"
-    ],
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": "crack_metal_center",
-        "bg": [
-          "vp_woodboard_vertical_left_rotN_right_rotS",
-          "vp_woodboard_horizontal_rear_rotN_front_rotS",
-          "vp_woodboard_vertical_right_rotN_left_rotS",
-          "vp_woodboard_horizontal_front_rotN_rear_rotS"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "vp_woodboard_vertical_right",
-    "fg": [
-      "vp_woodboard_vertical_right_rotN_left_rotS",
       "vp_woodboard_horizontal_front_rotN_rear_rotS",
-      "vp_woodboard_vertical_left_rotN_right_rotS",
+      "vp_woodboard_vertical_right_rotN_left_rotS",
       "vp_woodboard_horizontal_rear_rotN_front_rotS"
     ],
     "multitile": true,
@@ -123,25 +101,21 @@
         "id": "broken",
         "fg": "crack_metal_center",
         "bg": [
-          "vp_woodboard_vertical_right_rotN_left_rotS",
-          "vp_woodboard_horizontal_front_rotN_rear_rotS",
           "vp_woodboard_vertical_left_rotN_right_rotS",
+          "vp_woodboard_horizontal_front_rotN_rear_rotS",
+          "vp_woodboard_vertical_right_rotN_left_rotS",
           "vp_woodboard_horizontal_rear_rotN_front_rotS"
         ]
       }
     ]
   },
   {
-    "id": [
-      "vp_woodboard_horizontal",
-      "vp_woodboard_vertical",
-      "vp_woodboard_horizontal_front"
-    ],
+    "id": "vp_woodboard_vertical_right",
     "fg": [
-      "vp_woodboard_horizontal_front_rotN_rear_rotS",
-      "vp_woodboard_horizontal_front_rotW_rear_rotE",
+      "vp_woodboard_vertical_right_rotN_left_rotS",
       "vp_woodboard_horizontal_rear_rotN_front_rotS",
-      "vp_woodboard_horizontal_rear_rotW_front_rotE"
+      "vp_woodboard_vertical_left_rotN_right_rotS",
+      "vp_woodboard_horizontal_front_rotN_rear_rotS"
     ],
     "multitile": true,
     "additional_tiles": [
@@ -149,20 +123,20 @@
         "id": "broken",
         "fg": "crack_metal_center",
         "bg": [
-          "vp_woodboard_horizontal_front_rotN_rear_rotS",
-          "vp_woodboard_horizontal_front_rotW_rear_rotE",
+          "vp_woodboard_vertical_right_rotN_left_rotS",
           "vp_woodboard_horizontal_rear_rotN_front_rotS",
-          "vp_woodboard_horizontal_rear_rotW_front_rotE"
+          "vp_woodboard_vertical_left_rotN_right_rotS",
+          "vp_woodboard_horizontal_front_rotN_rear_rotS"
         ]
       }
     ]
   },
   {
-    "id": "vp_woodboard_horizontal_rear",
+    "id": [ "vp_woodboard_horizontal", "vp_woodboard_vertical", "vp_woodboard_horizontal_front" ],
     "fg": [
-      "vp_woodboard_horizontal_rear_rotN_front_rotS",
-      "vp_woodboard_horizontal_rear_rotW_front_rotE",
       "vp_woodboard_horizontal_front_rotN_rear_rotS",
+      "vp_woodboard_horizontal_rear_rotW_front_rotE",
+      "vp_woodboard_horizontal_rear_rotN_front_rotS",
       "vp_woodboard_horizontal_front_rotW_rear_rotE"
     ],
     "multitile": true,
@@ -171,10 +145,32 @@
         "id": "broken",
         "fg": "crack_metal_center",
         "bg": [
-          "vp_woodboard_horizontal_rear_rotN_front_rotS",
-          "vp_woodboard_horizontal_rear_rotW_front_rotE",
           "vp_woodboard_horizontal_front_rotN_rear_rotS",
+          "vp_woodboard_horizontal_rear_rotW_front_rotE",
+          "vp_woodboard_horizontal_rear_rotN_front_rotS",
           "vp_woodboard_horizontal_front_rotW_rear_rotE"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "vp_woodboard_horizontal_rear",
+    "fg": [
+      "vp_woodboard_horizontal_rear_rotN_front_rotS",
+      "vp_woodboard_horizontal_front_rotW_rear_rotE",
+      "vp_woodboard_horizontal_front_rotN_rear_rotS",
+      "vp_woodboard_horizontal_rear_rotW_front_rotE"
+    ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "broken",
+        "fg": "crack_metal_center",
+        "bg": [
+          "vp_woodboard_horizontal_rear_rotN_front_rotS",
+          "vp_woodboard_horizontal_front_rotW_rear_rotE",
+          "vp_woodboard_horizontal_front_rotN_rear_rotS",
+          "vp_woodboard_horizontal_rear_rotW_front_rotE"
         ]
       }
     ]

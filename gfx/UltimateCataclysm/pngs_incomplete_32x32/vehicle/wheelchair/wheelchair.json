@@ -1,13 +1,13 @@
 [
   {
     "id": "vp_basketsm_wheelchair",
-    "fg": [ "wheelchair_north", "wheelchair_west", "wheelchair_south", "wheelchair_east" ],
+    "fg": [ "wheelchair_north", "wheelchair_east", "wheelchair_south", "wheelchair_west" ],
     "multitile": true,
     "additional_tiles": [
       {
         "id": "broken",
         "fg": "crack_metal_center",
-        "bg": [ "wheelchair_north", "wheelchair_west", "wheelchair_south", "wheelchair_east" ]
+        "bg": [ "wheelchair_north", "wheelchair_east", "wheelchair_south", "wheelchair_west" ]
       }
     ]
   }

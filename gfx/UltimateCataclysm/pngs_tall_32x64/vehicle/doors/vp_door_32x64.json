@@ -1,117 +1,117 @@
 [
   {
     "id": [ "vp_door_rear", "vp_door_horizontal_rear" ],
-    "fg": [ "vp_door_rear", "vp_door_full_left_rotS", "vp_door_rear_rotS", "vp_door_full_left" ],
+    "fg": [ "vp_door_rear", "vp_door_full_left", "vp_door_rear_rotS", "vp_door_full_left_rotS" ],
     "multitile": true,
     "additional_tiles": [
       {
         "id": "open",
-        "fg": [
-          "vp_door_rear_open",
-          "vp_door_full_left_open_rotS",
-          "vp_door_rear_open_rotS",
-          "vp_door_full_left_open"
-        ]
+        "fg": [ "vp_door_rear_open", "vp_door_full_left_open", "vp_door_rear_open_rotS", "vp_door_full_left_open_rotS" ]
       },
       {
         "id": "broken",
         "fg": [ "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall" ],
-        "bg": [
-          "vp_door_rear_open",
-          "vp_door_full_left_open_rotS",
-          "vp_door_rear_open_rotS",
-          "vp_door_full_left_open"
-        ]
+        "bg": [ "vp_door_rear_open", "vp_door_full_left_open", "vp_door_rear_open_rotS", "vp_door_full_left_open_rotS" ]
       }
     ]
   },
   {
     "id": [ "vp_door_front", "vp_door_horizontal_front" ],
-    "fg": [ "vp_door_rear_rotS", "vp_door_full_left", "vp_door_rear", "vp_door_full_left_rotS" ],
+    "fg": [ "vp_door_rear_rotS", "vp_door_full_left_rotS", "vp_door_rear", "vp_door_full_left" ],
     "multitile": true,
     "additional_tiles": [
       {
         "id": "open",
-        "fg": [ "vp_door_rear_open_rotS", "vp_door_full_left_open", "vp_door_rear_open", "vp_door_full_left_open_rotS" ]
+        "fg": [ "vp_door_rear_open_rotS", "vp_door_full_left_open_rotS", "vp_door_rear_open", "vp_door_full_left_open" ]
       },
       {
         "id": "broken",
         "fg": [ "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall" ],
-        "bg": [ "vp_door_rear_open_rotS", "vp_door_full_left_open", "vp_door_rear_open", "vp_door_full_left_open_rotS" ]
+        "bg": [ "vp_door_rear_open_rotS", "vp_door_full_left_open_rotS", "vp_door_rear_open", "vp_door_full_left_open" ]
       }
     ]
   },
   {
-    "id": [ "vp_door_opaque_rear", "vp_door_opaque_horizontal_rear" ], 
-    "fg": [ "vp_door_opaque_rear", "vp_door_full_left_rotS", "vp_door_opaque_rear_rotS", "vp_door_full_left" ],
+    "id": [ "vp_door_opaque_rear", "vp_door_opaque_horizontal_rear" ],
+    "fg": [ "vp_door_opaque_rear", "vp_door_full_left", "vp_door_opaque_rear_rotS", "vp_door_full_left_rotS" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "open",
+        "fg": [ "vp_door_rear_open", "vp_door_opaque_full_left_open", "vp_door_rear_open_rotS", "vp_door_opaque_full_left_open_rotS" ]
+      },
+      {
+        "id": "broken",
+        "fg": [ "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall" ],
+        "bg": [ "vp_door_rear_open", "vp_door_opaque_full_left_open", "vp_door_rear_open_rotS", "vp_door_opaque_full_left_open_rotS" ]
+      }
+    ]
+  },
+  {
+    "id": [ "vp_door_opaque_front", "vp_door_opaque_horizontal_front" ],
+    "fg": [ "vp_door_opaque_rear_rotS", "vp_door_full_left_rotS", "vp_door_opaque_rear", "vp_door_full_left" ],
+    "multitile": true,
+    "additional_tiles": [
+      {
+        "id": "open",
+        "fg": [ "vp_door_rear_open_rotS", "vp_door_opaque_full_left_open_rotS", "vp_door_rear_open", "vp_door_opaque_full_left_open" ]
+      },
+      {
+        "id": "broken",
+        "fg": [ "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall" ],
+        "bg": [ "vp_door_rear_open_rotS", "vp_door_opaque_full_left_open_rotS", "vp_door_rear_open", "vp_door_opaque_full_left_open" ]
+      }
+    ]
+  },
+  {
+    "id": "vp_door_sliding_front",
+    "fg": [ "vp_door_full_left_rotS", "vp_door_opaque_full_right_rotE", "vp_door_full_left", "vp_door_opaque_rear_rotS" ],
     "multitile": true,
     "additional_tiles": [
       {
         "id": "open",
         "fg": [
-          "vp_door_rear_open",
-          "vp_door_opaque_full_left_open_rotS",
-          "vp_door_rear_open_rotS",
-          "vp_door_opaque_full_left_open"
+          "vp_door_sliding_open_faceE",
+          "vp_door_sliding_vertical_left_open_rotW_right_open_rotE",
+          "vp_door_sliding_open_faceW",
+          "vp_door_sliding_open_faceN"
         ]
       },
       {
         "id": "broken",
         "fg": [ "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall" ],
         "bg": [
-          "vp_door_rear_open",
-          "vp_door_opaque_full_left_open_rotS",
-          "vp_door_rear_open_rotS",
-          "vp_door_opaque_full_left_open"
+          "vp_door_sliding_open_faceE",
+          "vp_door_sliding_vertical_left_open_rotW_right_open_rotE",
+          "vp_door_sliding_open_faceW",
+          "vp_door_sliding_open_faceN"
         ]
       }
     ]
   },
   {
-    "id": [ "vp_door_opaque_front", "vp_door_opaque_horizontal_front" ],
-    "fg": [ "vp_door_opaque_rear_rotS", "vp_door_full_left", "vp_door_opaque_rear", "vp_door_full_left_rotS" ],
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "open",
-        "fg": [ "vp_door_rear_open_rotS", "vp_door_opaque_full_left_open", "vp_door_rear_open", "vp_door_opaque_full_left_open_rotS" ]
-      },
-      {
-        "id": "broken",
-        "fg": [ "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall" ],
-        "bg": [ "vp_door_rear_open_rotS", "vp_door_opaque_full_left_open", "vp_door_rear_open", "vp_door_opaque_full_left_open_rotS" ]
-      }
-    ]
-  },
-  {
-    "id": "vp_door_sliding_front",
-    "fg": [ "vp_door_full_left_rotS", "vp_door_opaque_rear_rotS", "vp_door_full_left", "vp_door_opaque_full_right_rotE" ],
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "open",
-        "fg": [ "vp_door_sliding_open_faceE", "vp_door_sliding_open_faceN", "vp_door_sliding_open_faceW", "vp_door_sliding_vertical_left_open_rotW_right_open_rotE" ]
-      },
-      {
-        "id": "broken",
-        "fg": [ "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall" ],
-        "bg": [ "vp_door_sliding_open_faceE", "vp_door_sliding_open_faceN", "vp_door_sliding_open_faceW", "vp_door_sliding_vertical_left_open_rotW_right_open_rotE" ]
-      }
-    ]
-  },
-  {
     "id": "vp_door_sliding_left",
-    "fg": [ "vp_door_sliding_left", "vp_door_full_left", "vp_door_opaque_rear", "vp_door_full_left_rotS" ],
+    "fg": [ "vp_door_sliding_left", "vp_door_full_left_rotS", "vp_door_opaque_rear", "vp_door_full_left" ],
     "multitile": true,
     "additional_tiles": [
       {
         "id": "open",
-        "fg": [ "vp_door_sliding_left_open", "vp_door_sliding_open_faceW", "vp_door_sliding_rear_left_open", "vp_door_sliding_open_faceE" ]
+        "fg": [
+          "vp_door_sliding_left_open",
+          "vp_door_sliding_open_faceE",
+          "vp_door_sliding_rear_left_open",
+          "vp_door_sliding_open_faceW"
+        ]
       },
       {
         "id": "broken",
         "fg": [ "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall", "crack_metal_center_tall" ],
-        "bg": [ "vp_door_sliding_left_open", "vp_door_sliding_open_faceW", "vp_door_sliding_rear_left_open", "vp_door_sliding_open_faceE" ]
+        "bg": [
+          "vp_door_sliding_left_open",
+          "vp_door_sliding_open_faceE",
+          "vp_door_sliding_rear_left_open",
+          "vp_door_sliding_open_faceW"
+        ]
       }
     ]
   }
