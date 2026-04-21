@@ -3,50 +3,25 @@
   "fg": "forest_trail_unconnected",
   "multitile": true,
   "additional_tiles": [
-    {
-      "id": "center",
-      "fg": "forest_trail_center"
-    },
+    { "id": "center", "fg": "forest_trail_center" },
     {
       "id": "corner",
-      "fg": [
-        "forest_trail_corner_nw",
-        "forest_trail_corner_sw",
-        "forest_trail_corner_se",
-        "forest_trail_corner_ne"
-      ]
+      "fg": [ "forest_trail_corner_nw", "forest_trail_corner_ne", "forest_trail_corner_se", "forest_trail_corner_sw" ]
     },
     {
       "id": "t_connection",
       "fg": [
         "forest_trail_t_connection_n",
-        "forest_trail_t_connection_w",
+        "forest_trail_t_connection_e",
         "forest_trail_t_connection_s",
-        "forest_trail_t_connection_e"
+        "forest_trail_t_connection_w"
       ]
     },
-    {
-      "id": "edge",
-      "fg": [
-        "forest_trail_edge_ns",
-        "forest_trail_edge_ew"
-      ]
-    },
+    { "id": "edge", "fg": [ "forest_trail_edge_ns", "forest_trail_edge_ew" ] },
     {
       "id": "end_piece",
-      "fg": [
-        "forest_trail_end_piece_n",
-        "forest_trail_end_piece_w",
-        "forest_trail_end_piece_s",
-        "forest_trail_end_piece_e"
-      ]
+      "fg": [ "forest_trail_end_piece_n", "forest_trail_end_piece_e", "forest_trail_end_piece_s", "forest_trail_end_piece_w" ]
     },
-    {
-      "id": "unconnected",
-      "fg": [
-        "forest_trail_unconnected",
-        "forest_trail_unconnected"
-      ]
-    }
+    { "id": "unconnected", "fg": [ "forest_trail_unconnected", "forest_trail_unconnected" ] }
   ]
 }
