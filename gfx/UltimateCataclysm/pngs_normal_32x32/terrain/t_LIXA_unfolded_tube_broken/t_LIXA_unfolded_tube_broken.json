@@ -9,9 +9,9 @@
       "bg": "t_thconc_floor_center",
       "fg": [
         "t_LIXA_unfolded_tube_broken_n",
-        "t_LIXA_unfolded_tube_broken_w",
+        "t_LIXA_unfolded_tube_broken_e",
         "t_LIXA_unfolded_tube_broken_s",
-        "t_LIXA_unfolded_tube_broken_e"
+        "t_LIXA_unfolded_tube_broken_w"
       ]
     },
     {
@@ -19,9 +19,9 @@
       "bg": "t_thconc_floor_center",
       "fg": [
         "t_LIXA_unfolded_tube_broken_n",
-        "t_LIXA_unfolded_tube_broken_w",
+        "t_LIXA_unfolded_tube_broken_e",
         "t_LIXA_unfolded_tube_broken_s",
-        "t_LIXA_unfolded_tube_broken_e"
+        "t_LIXA_unfolded_tube_broken_w"
       ]
     }
   ]

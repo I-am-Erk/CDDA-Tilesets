@@ -8,23 +8,23 @@
       { "id": "center", "fg": "t_fence_rope_center", "bg": "t_grass" },
       {
         "id": "corner",
-        "fg": [ "t_fence_rope_corner_nw", "t_fence_rope_corner_sw", "t_fence_rope_corner_se", "t_fence_rope_corner_ne" ],
+        "fg": [ "t_fence_rope_corner_nw", "t_fence_rope_corner_ne", "t_fence_rope_corner_se", "t_fence_rope_corner_sw" ],
         "bg": "t_grass"
       },
       {
         "id": "t_connection",
         "fg": [
           "t_fence_rope_t_connection_n",
-          "t_fence_rope_t_connection_w",
+          "t_fence_rope_t_connection_e",
           "t_fence_rope_t_connection_s",
-          "t_fence_rope_t_connection_e"
+          "t_fence_rope_t_connection_w"
         ],
         "bg": "t_grass"
       },
       { "id": "edge", "fg": [ "t_fence_rope_edge_ns", "t_fence_rope_edge_ew" ], "bg": "t_grass" },
       {
         "id": "end_piece",
-        "fg": [ "t_fence_rope_end_piece_n", "t_fence_rope_end_piece_w", "t_fence_rope_end_piece_s", "t_fence_rope_end_piece_e" ],
+        "fg": [ "t_fence_rope_end_piece_n", "t_fence_rope_end_piece_e", "t_fence_rope_end_piece_s", "t_fence_rope_end_piece_w" ],
         "bg": "t_grass"
       },
       { "id": "unconnected", "fg": [ "t_fence_rope_unconnected", "t_fence_rope_unconnected" ], "bg": "t_grass" }
@@ -39,23 +39,23 @@
       { "id": "center", "fg": "t_fence_rope_center", "bg": "t_dirt_season_summer_center" },
       {
         "id": "corner",
-        "fg": [ "t_fence_rope_corner_nw", "t_fence_rope_corner_sw", "t_fence_rope_corner_se", "t_fence_rope_corner_ne" ],
+        "fg": [ "t_fence_rope_corner_nw", "t_fence_rope_corner_ne", "t_fence_rope_corner_se", "t_fence_rope_corner_sw" ],
         "bg": "t_grass_summer"
       },
       {
         "id": "t_connection",
         "fg": [
           "t_fence_rope_t_connection_n",
-          "t_fence_rope_t_connection_w",
+          "t_fence_rope_t_connection_e",
           "t_fence_rope_t_connection_s",
-          "t_fence_rope_t_connection_e"
+          "t_fence_rope_t_connection_w"
         ],
         "bg": "t_grass_summer"
       },
       { "id": "edge", "fg": [ "t_fence_rope_edge_ns", "t_fence_rope_edge_ew" ], "bg": "t_grass_summer" },
       {
         "id": "end_piece",
-        "fg": [ "t_fence_rope_end_piece_n", "t_fence_rope_end_piece_w", "t_fence_rope_end_piece_s", "t_fence_rope_end_piece_e" ],
+        "fg": [ "t_fence_rope_end_piece_n", "t_fence_rope_end_piece_e", "t_fence_rope_end_piece_s", "t_fence_rope_end_piece_w" ],
         "bg": "t_grass_summer"
       },
       {
@@ -74,23 +74,23 @@
       { "id": "center", "fg": "t_fence_rope_center", "bg": "t_dirt_season_autumn_center" },
       {
         "id": "corner",
-        "fg": [ "t_fence_rope_corner_nw", "t_fence_rope_corner_sw", "t_fence_rope_corner_se", "t_fence_rope_corner_ne" ],
+        "fg": [ "t_fence_rope_corner_nw", "t_fence_rope_corner_ne", "t_fence_rope_corner_se", "t_fence_rope_corner_sw" ],
         "bg": "t_grass_autumn"
       },
       {
         "id": "t_connection",
         "fg": [
           "t_fence_rope_t_connection_n",
-          "t_fence_rope_t_connection_w",
+          "t_fence_rope_t_connection_e",
           "t_fence_rope_t_connection_s",
-          "t_fence_rope_t_connection_e"
+          "t_fence_rope_t_connection_w"
         ],
         "bg": "t_grass_autumn"
       },
       { "id": "edge", "fg": [ "t_fence_rope_edge_ns", "t_fence_rope_edge_ew" ], "bg": "t_grass_autumn" },
       {
         "id": "end_piece",
-        "fg": [ "t_fence_rope_end_piece_n", "t_fence_rope_end_piece_w", "t_fence_rope_end_piece_s", "t_fence_rope_end_piece_e" ],
+        "fg": [ "t_fence_rope_end_piece_n", "t_fence_rope_end_piece_e", "t_fence_rope_end_piece_s", "t_fence_rope_end_piece_w" ],
         "bg": "t_grass_autumn"
       },
       {
@@ -109,23 +109,23 @@
       { "id": "center", "fg": "t_fence_rope_center", "bg": "snow_shallow_center" },
       {
         "id": "corner",
-        "fg": [ "t_fence_rope_corner_nw", "t_fence_rope_corner_sw", "t_fence_rope_corner_se", "t_fence_rope_corner_ne" ],
+        "fg": [ "t_fence_rope_corner_nw", "t_fence_rope_corner_ne", "t_fence_rope_corner_se", "t_fence_rope_corner_sw" ],
         "bg": "snow_shallow_center"
       },
       {
         "id": "t_connection",
         "fg": [
           "t_fence_rope_t_connection_n",
-          "t_fence_rope_t_connection_w",
+          "t_fence_rope_t_connection_e",
           "t_fence_rope_t_connection_s",
-          "t_fence_rope_t_connection_e"
+          "t_fence_rope_t_connection_w"
         ],
         "bg": "snow_shallow_center"
       },
       { "id": "edge", "fg": [ "t_fence_rope_edge_ns", "t_fence_rope_edge_ew" ], "bg": "snow_shallow_center" },
       {
         "id": "end_piece",
-        "fg": [ "t_fence_rope_end_piece_n", "t_fence_rope_end_piece_w", "t_fence_rope_end_piece_s", "t_fence_rope_end_piece_e" ],
+        "fg": [ "t_fence_rope_end_piece_n", "t_fence_rope_end_piece_e", "t_fence_rope_end_piece_s", "t_fence_rope_end_piece_w" ],
         "bg": "snow_shallow_center"
       },
       {

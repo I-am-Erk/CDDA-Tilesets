@@ -23,49 +23,21 @@
       },
       {
         "id": "corner",
-        "fg": [
-          "t_nl_chasm_corner_nw",
-          "t_nl_chasm_center1",
-          "t_nl_chasm_center2",
-          "t_nl_chasm_corner_ne"
-        ],
+        "fg": [ "t_nl_chasm_corner_nw", "t_nl_chasm_corner_ne", "t_nl_chasm_center2", "t_nl_chasm_center1" ],
         "bg": ""
       },
       {
         "id": "t_connection",
-        "fg": [
-          "t_nl_chasm_t_connection_n",
-          "t_nl_chasm_center3",
-          "t_nl_chasm_center4",
-          "t_nl_chasm_center5"
-        ],
+        "fg": [ "t_nl_chasm_t_connection_n", "t_nl_chasm_center5", "t_nl_chasm_center4", "t_nl_chasm_center3" ],
         "bg": ""
       },
-      {
-        "id": "edge",
-        "fg": [
-          "t_nl_chasm_center6",
-          "t_nl_chasm_edge_ew"
-        ],
-        "bg": ""
-      },
+      { "id": "edge", "fg": [ "t_nl_chasm_center6", "t_nl_chasm_edge_ew" ], "bg": "" },
       {
         "id": "end_piece",
-        "fg": [
-          "t_nl_chasm_end_piece_n",
-          "t_nl_chasm_end_piece_w",
-          "t_nl_chasm_center7",
-          "t_nl_chasm_end_piece_e"
-        ],
+        "fg": [ "t_nl_chasm_end_piece_n", "t_nl_chasm_end_piece_e", "t_nl_chasm_center7", "t_nl_chasm_end_piece_w" ],
         "bg": ""
       },
-      {
-        "id": "unconnected",
-        "fg": [
-          "t_nl_chasm_edge_ew"
-        ],
-        "bg": ""
-      }
+      { "id": "unconnected", "fg": [ "t_nl_chasm_edge_ew" ], "bg": "" }
     ]
   }
 ]

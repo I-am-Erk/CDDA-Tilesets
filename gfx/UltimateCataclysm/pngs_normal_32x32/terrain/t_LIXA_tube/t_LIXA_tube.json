@@ -7,22 +7,12 @@
     {
       "id": "t_connection",
       "bg": "t_metal_floor_center",
-      "fg": [
-        "t_LIXA_tube_n",
-        "t_LIXA_tube_w",
-        "t_LIXA_tube_s",
-        "t_LIXA_tube_e"
-      ]
+      "fg": [ "t_LIXA_tube_n", "t_LIXA_tube_e", "t_LIXA_tube_s", "t_LIXA_tube_w" ]
     },
     {
       "id": "end_piece",
       "bg": "t_metal_floor_center",
-      "fg": [
-        "t_LIXA_tube_n",
-        "t_LIXA_tube_w",
-        "t_LIXA_tube_s",
-        "t_LIXA_tube_e"
-      ]
+      "fg": [ "t_LIXA_tube_n", "t_LIXA_tube_e", "t_LIXA_tube_s", "t_LIXA_tube_w" ]
     }
   ]
 }

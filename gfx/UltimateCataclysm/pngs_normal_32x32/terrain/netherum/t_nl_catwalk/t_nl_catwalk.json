@@ -21,15 +21,15 @@
       "fg": [
         {
           "weight": 2,
-          "sprite": [ "t_nl_catwalk_corner_nw_1", "t_nl_catwalk_corner_sw_1", "t_nl_catwalk_corner_ne_1", "t_nl_catwalk_corner_se_1" ]
+          "sprite": [ "t_nl_catwalk_corner_nw_1", "t_nl_catwalk_corner_se_1", "t_nl_catwalk_corner_ne_1", "t_nl_catwalk_corner_sw_1" ]
         },
         {
           "weight": 2,
-          "sprite": [ "t_nl_catwalk_corner_nw_2", "t_nl_catwalk_corner_sw_2", "t_nl_catwalk_corner_ne_2", "t_nl_catwalk_corner_se_2" ]
+          "sprite": [ "t_nl_catwalk_corner_nw_2", "t_nl_catwalk_corner_se_2", "t_nl_catwalk_corner_ne_2", "t_nl_catwalk_corner_sw_2" ]
         },
         {
           "weight": 1,
-          "sprite": [ "t_nl_catwalk_corner_nw_3", "t_nl_catwalk_corner_sw_3", "t_nl_catwalk_corner_ne_3", "t_nl_catwalk_corner_se_3" ]
+          "sprite": [ "t_nl_catwalk_corner_nw_3", "t_nl_catwalk_corner_se_3", "t_nl_catwalk_corner_ne_3", "t_nl_catwalk_corner_sw_3" ]
         }
       ]
     },
@@ -41,18 +41,18 @@
           "weight": 1,
           "sprite": [
             "t_nl_catwalk_t_connection_n_1",
-            "t_nl_catwalk_t_connection_w_1",
+            "t_nl_catwalk_t_connection_e_1",
             "t_nl_catwalk_t_connection_s_1",
-            "t_nl_catwalk_t_connection_e_1"
+            "t_nl_catwalk_t_connection_w_1"
           ]
         },
         {
           "weight": 1,
           "sprite": [
             "t_nl_catwalk_t_connection_n_2",
-            "t_nl_catwalk_t_connection_w_2",
+            "t_nl_catwalk_t_connection_e_2",
             "t_nl_catwalk_t_connection_s_2",
-            "t_nl_catwalk_t_connection_e_2"
+            "t_nl_catwalk_t_connection_w_2"
           ]
         }
       ]
@@ -73,18 +73,18 @@
           "weight": 1,
           "sprite": [
             "t_nl_catwalk_end_piece_n_1",
-            "t_nl_catwalk_end_piece_w_1",
+            "t_nl_catwalk_end_piece_e_1",
             "t_nl_catwalk_end_piece_s_1",
-            "t_nl_catwalk_end_piece_e_1"
+            "t_nl_catwalk_end_piece_w_1"
           ]
         },
         {
           "weight": 1,
           "sprite": [
             "t_nl_catwalk_end_piece_n_2",
-            "t_nl_catwalk_end_piece_w_2",
+            "t_nl_catwalk_end_piece_e_2",
             "t_nl_catwalk_end_piece_s_2",
-            "t_nl_catwalk_end_piece_e_2"
+            "t_nl_catwalk_end_piece_w_2"
           ]
         }
       ]

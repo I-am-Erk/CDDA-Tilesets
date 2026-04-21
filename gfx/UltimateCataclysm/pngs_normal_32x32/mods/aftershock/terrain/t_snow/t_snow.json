@@ -15,46 +15,20 @@
     },
     {
       "id": "corner",
-      "fg": [
-        "t_snow_corner_nw",
-        "t_snow_corner_sw",
-        "t_snow_corner_se",
-        "t_snow_corner_ne"
-      ],
+      "fg": [ "t_snow_corner_nw", "t_snow_corner_ne", "t_snow_corner_se", "t_snow_corner_sw" ],
       "bg": "t_deaddirt_center"
     },
     {
       "id": "t_connection",
-      "fg": [
-        "t_snow_t_connection_n",
-        "t_snow_t_connection_w",
-        "t_snow_t_connection_s",
-        "t_snow_t_connection_e"
-      ],
+      "fg": [ "t_snow_t_connection_n", "t_snow_t_connection_e", "t_snow_t_connection_s", "t_snow_t_connection_w" ],
       "bg": "t_deaddirt_center"
     },
-    {
-      "id": "edge",
-      "fg": [
-        "t_snow_edge_ns",
-        "t_snow_edge_ew"
-      ],
-      "bg": "t_deaddirt_center"
-    },
+    { "id": "edge", "fg": [ "t_snow_edge_ns", "t_snow_edge_ew" ], "bg": "t_deaddirt_center" },
     {
       "id": "end_piece",
-      "fg": [
-        "t_snow_end_piece_n",
-        "t_snow_end_piece_w",
-        "t_snow_end_piece_s",
-        "t_snow_end_piece_e"
-      ],
+      "fg": [ "t_snow_end_piece_n", "t_snow_end_piece_e", "t_snow_end_piece_s", "t_snow_end_piece_w" ],
       "bg": "t_deaddirt_center"
     },
-    {
-      "id": "unconnected",
-      "fg": "t_snow_unconnected",
-      "bg": "t_deaddirt_center"
-    }
+    { "id": "unconnected", "fg": "t_snow_unconnected", "bg": "t_deaddirt_center" }
   ]
 }

@@ -12,16 +12,16 @@
     { "id": "center", "fg": "t_gutter_unconnected" },
     {
       "id": "corner",
-      "fg": [ "t_gutter_corner_nw", "t_gutter_corner_sw", "t_gutter_corner_se", "t_gutter_corner_ne" ]
+      "fg": [ "t_gutter_corner_nw", "t_gutter_corner_ne", "t_gutter_corner_se", "t_gutter_corner_sw" ]
     },
     {
       "id": "t_connection",
-      "fg": [ "t_gutter_t_connection_n", "t_gutter_t_connection_w", "t_gutter_t_connection_s", "t_gutter_t_connection_e" ]
+      "fg": [ "t_gutter_t_connection_n", "t_gutter_t_connection_e", "t_gutter_t_connection_s", "t_gutter_t_connection_w" ]
     },
     { "id": "edge", "fg": [ "t_gutter_edge_ns", "t_gutter_edge_ew" ] },
     {
       "id": "end_piece",
-      "fg": [ "t_gutter_end_piece_n", "t_gutter_end_piece_w", "t_gutter_end_piece_s", "t_gutter_end_piece_e" ]
+      "fg": [ "t_gutter_end_piece_n", "t_gutter_end_piece_e", "t_gutter_end_piece_s", "t_gutter_end_piece_w" ]
     },
     { "id": "unconnected", "fg": [ "t_gutter_unconnected" ] }
   ]

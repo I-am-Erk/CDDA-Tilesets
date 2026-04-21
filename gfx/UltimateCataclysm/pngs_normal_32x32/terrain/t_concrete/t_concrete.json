@@ -9,18 +9,18 @@
       {
         "id": "corner",
         "bg": "",
-        "fg": [ "t_concrete_corner_nw", "t_concrete_corner_sw", "t_concrete_corner_se", "t_concrete_corner_ne" ]
+        "fg": [ "t_concrete_corner_nw", "t_concrete_corner_ne", "t_concrete_corner_se", "t_concrete_corner_sw" ]
       },
       {
         "id": "t_connection",
         "bg": "",
-        "fg": [ "t_concrete_t_connection_n", "t_concrete_t_connection_w", "t_concrete_t_connection_s", "t_concrete_t_connection_e" ]
+        "fg": [ "t_concrete_t_connection_n", "t_concrete_t_connection_e", "t_concrete_t_connection_s", "t_concrete_t_connection_w" ]
       },
       { "id": "edge", "bg": "", "fg": [ "t_concrete_edge_ns", "t_concrete_edge_ew" ] },
       {
         "id": "end_piece",
         "bg": "",
-        "fg": [ "t_concrete_end_piece_n", "t_concrete_end_piece_w", "t_concrete_end_piece_s", "t_concrete_end_piece_e" ]
+        "fg": [ "t_concrete_end_piece_n", "t_concrete_end_piece_e", "t_concrete_end_piece_s", "t_concrete_end_piece_w" ]
       },
       { "bg": "", "id": "unconnected", "fg": "t_concrete_unconnected" }
     ]

@@ -3,47 +3,35 @@
   "fg": "t_strconc_wall_p_unconnected",
   "multitile": true,
   "additional_tiles": [
-    {
-      "id": "center",
-      "fg": "t_strconc_wall_p_center"
-    },
+    { "id": "center", "fg": "t_strconc_wall_p_center" },
     {
       "id": "corner",
       "fg": [
         "t_strconc_wall_p_corner_nw",
-        "t_strconc_wall_p_corner_sw",
+        "t_strconc_wall_p_corner_ne",
         "t_strconc_wall_p_corner_se",
-        "t_strconc_wall_p_corner_ne"
+        "t_strconc_wall_p_corner_sw"
       ]
     },
     {
       "id": "t_connection",
       "fg": [
         "t_strconc_wall_p_t_connection_n",
-        "t_strconc_wall_p_t_connection_w",
+        "t_strconc_wall_p_t_connection_e",
         "t_strconc_wall_p_t_connection_s",
-        "t_strconc_wall_p_t_connection_e"
+        "t_strconc_wall_p_t_connection_w"
       ]
     },
-    {
-      "id": "edge",
-      "fg": [
-        "t_strconc_wall_p_edge_ns",
-        "t_strconc_wall_p_edge_ew"
-      ]
-    },
+    { "id": "edge", "fg": [ "t_strconc_wall_p_edge_ns", "t_strconc_wall_p_edge_ew" ] },
     {
       "id": "end_piece",
       "fg": [
         "t_strconc_wall_p_end_piece_n",
-        "t_strconc_wall_p_end_piece_w",
+        "t_strconc_wall_p_end_piece_e",
         "t_strconc_wall_p_end_piece_s",
-        "t_strconc_wall_p_end_piece_e"
+        "t_strconc_wall_p_end_piece_w"
       ]
     },
-    {
-      "id": "unconnected",
-      "fg": "t_strconc_wall_p_unconnected"
-    }
+    { "id": "unconnected", "fg": "t_strconc_wall_p_unconnected" }
   ]
 }

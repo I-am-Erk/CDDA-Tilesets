@@ -5,18 +5,14 @@
     "bg": "t_grass",
     "multitile": true,
     "additional_tiles": [
-      {
-        "id": "center",
-        "fg": "t_palisade_embrasure_center",
-        "bg": "t_grass"
-      },
+      { "id": "center", "fg": "t_palisade_embrasure_center", "bg": "t_grass" },
       {
         "id": "corner",
         "fg": [
           "t_palisade_embrasure_corner_nw",
-          "t_palisade_embrasure_corner_sw",
+          "t_palisade_embrasure_corner_ne",
           "t_palisade_embrasure_corner_se",
-          "t_palisade_embrasure_corner_ne"
+          "t_palisade_embrasure_corner_sw"
         ],
         "bg": "t_grass"
       },
@@ -24,20 +20,13 @@
         "id": "t_connection",
         "fg": [
           "t_palisade_embrasure_t_connection_n",
-          "t_palisade_embrasure_t_connection_w",
+          "t_palisade_embrasure_t_connection_e",
           "t_palisade_embrasure_t_connection_s",
-          "t_palisade_embrasure_t_connection_e"
+          "t_palisade_embrasure_t_connection_w"
         ],
         "bg": "t_grass"
       },
-      {
-        "id": "edge",
-        "fg": [
-          "t_palisade_embrasure_edge_ns",
-          "t_palisade_embrasure_unconnected"
-        ],
-        "bg": "t_grass"
-      },
+      { "id": "edge", "fg": [ "t_palisade_embrasure_edge_ns", "t_palisade_embrasure_unconnected" ], "bg": "t_grass" },
       {
         "id": "end_piece",
         "fg": [
@@ -48,11 +37,7 @@
         ],
         "bg": "t_grass"
       },
-      {
-        "id": "unconnected",
-        "fg": "t_palisade_embrasure_unconnected",
-        "bg": "t_grass"
-      }
+      { "id": "unconnected", "fg": "t_palisade_embrasure_unconnected", "bg": "t_grass" }
     ]
   },
   {
@@ -61,18 +46,14 @@
     "bg": "t_grass_summer",
     "multitile": true,
     "additional_tiles": [
-      {
-        "id": "center",
-        "fg": "t_palisade_embrasure_center",
-        "bg": "t_grass_summer"
-      },
+      { "id": "center", "fg": "t_palisade_embrasure_center", "bg": "t_grass_summer" },
       {
         "id": "corner",
         "fg": [
           "t_palisade_embrasure_corner_nw",
-          "t_palisade_embrasure_corner_sw",
+          "t_palisade_embrasure_corner_ne",
           "t_palisade_embrasure_corner_se",
-          "t_palisade_embrasure_corner_ne"
+          "t_palisade_embrasure_corner_sw"
         ],
         "bg": "t_grass_summer"
       },
@@ -80,18 +61,15 @@
         "id": "t_connection",
         "fg": [
           "t_palisade_embrasure_t_connection_n",
-          "t_palisade_embrasure_t_connection_w",
+          "t_palisade_embrasure_t_connection_e",
           "t_palisade_embrasure_t_connection_s",
-          "t_palisade_embrasure_t_connection_e"
+          "t_palisade_embrasure_t_connection_w"
         ],
         "bg": "t_grass_summer"
       },
       {
         "id": "edge",
-        "fg": [
-          "t_palisade_embrasure_edge_ns",
-          "t_palisade_embrasure_unconnected"
-        ],
+        "fg": [ "t_palisade_embrasure_edge_ns", "t_palisade_embrasure_unconnected" ],
         "bg": "t_grass_summer"
       },
       {
@@ -104,31 +82,23 @@
         ],
         "bg": "t_grass_summer"
       },
-      {
-        "id": "unconnected",
-        "fg": "t_palisade_embrasure_unconnected",
-        "bg": "t_grass_summer"
-      }
+      { "id": "unconnected", "fg": "t_palisade_embrasure_unconnected", "bg": "t_grass_summer" }
     ]
   },
-    {
+  {
     "id": "t_palisade_embrasure_season_autumn",
     "fg": "t_palisade_embrasure_unconnected",
     "bg": "t_grass_autumn",
     "multitile": true,
     "additional_tiles": [
-      {
-        "id": "center",
-        "fg": "t_palisade_embrasure_center",
-        "bg": "t_grass_autumn"
-      },
+      { "id": "center", "fg": "t_palisade_embrasure_center", "bg": "t_grass_autumn" },
       {
         "id": "corner",
         "fg": [
           "t_palisade_embrasure_corner_nw",
-          "t_palisade_embrasure_corner_sw",
+          "t_palisade_embrasure_corner_ne",
           "t_palisade_embrasure_corner_se",
-          "t_palisade_embrasure_corner_ne"
+          "t_palisade_embrasure_corner_sw"
         ],
         "bg": "t_grass_autumn"
       },
@@ -136,18 +106,15 @@
         "id": "t_connection",
         "fg": [
           "t_palisade_embrasure_t_connection_n",
-          "t_palisade_embrasure_t_connection_w",
+          "t_palisade_embrasure_t_connection_e",
           "t_palisade_embrasure_t_connection_s",
-          "t_palisade_embrasure_t_connection_e"
+          "t_palisade_embrasure_t_connection_w"
         ],
         "bg": "t_grass_autumn"
       },
       {
         "id": "edge",
-        "fg": [
-          "t_palisade_embrasure_edge_ns",
-          "t_palisade_embrasure_unconnected"
-        ],
+        "fg": [ "t_palisade_embrasure_edge_ns", "t_palisade_embrasure_unconnected" ],
         "bg": "t_grass_autumn"
       },
       {
@@ -160,31 +127,23 @@
         ],
         "bg": "t_grass_autumn"
       },
-      {
-        "id": "unconnected",
-        "fg": "t_palisade_embrasure_unconnected",
-        "bg": "t_grass_autumn"
-      }
+      { "id": "unconnected", "fg": "t_palisade_embrasure_unconnected", "bg": "t_grass_autumn" }
     ]
   },
-    {
+  {
     "id": "t_palisade_embrasure_season_winter",
     "fg": "t_palisade_embrasure_unconnected",
     "bg": "snow_shallow_center",
     "multitile": true,
     "additional_tiles": [
-      {
-        "id": "center",
-        "fg": "t_palisade_embrasure_center",
-        "bg": "snow_shallow_center"
-      },
+      { "id": "center", "fg": "t_palisade_embrasure_center", "bg": "snow_shallow_center" },
       {
         "id": "corner",
         "fg": [
           "t_palisade_embrasure_corner_nw",
-          "t_palisade_embrasure_corner_sw",
+          "t_palisade_embrasure_corner_ne",
           "t_palisade_embrasure_corner_se",
-          "t_palisade_embrasure_corner_ne"
+          "t_palisade_embrasure_corner_sw"
         ],
         "bg": "snow_shallow_center"
       },
@@ -192,18 +151,15 @@
         "id": "t_connection",
         "fg": [
           "t_palisade_embrasure_t_connection_n",
-          "t_palisade_embrasure_t_connection_w",
+          "t_palisade_embrasure_t_connection_e",
           "t_palisade_embrasure_t_connection_s",
-          "t_palisade_embrasure_t_connection_e"
+          "t_palisade_embrasure_t_connection_w"
         ],
         "bg": "snow_shallow_center"
       },
       {
         "id": "edge",
-        "fg": [
-          "t_palisade_embrasure_edge_ns",
-          "t_palisade_embrasure_unconnected"
-        ],
+        "fg": [ "t_palisade_embrasure_edge_ns", "t_palisade_embrasure_unconnected" ],
         "bg": "snow_shallow_center"
       },
       {
@@ -216,11 +172,7 @@
         ],
         "bg": "snow_shallow_center"
       },
-      {
-        "id": "unconnected",
-        "fg": "t_palisade_embrasure_unconnected",
-        "bg": "snow_shallow_center"
-      }
+      { "id": "unconnected", "fg": "t_palisade_embrasure_unconnected", "bg": "snow_shallow_center" }
     ]
   }
 ]
