@@ -9,20 +9,24 @@
       {
         "id": "corner",
         "bg": "",
-        "fg": [ "f_console_corner_nw", "f_console_corner_sw", "f_console_corner_se", "f_console_corner_ne" ]
+        "fg": [ "f_console_corner_nw", "f_console_corner_ne", "f_console_corner_se", "f_console_corner_sw" ]
       },
       {
         "id": "t_connection",
         "bg": "",
-        "fg": [ "f_console_t_connection_n", "f_console_t_connection_w", "f_console_t_connection_s", "f_console_t_connection_e" ]
+        "fg": [ "f_console_t_connection_n", "f_console_t_connection_e", "f_console_t_connection_s", "f_console_t_connection_w" ]
       },
       { "id": "edge", "bg": "", "fg": [ "f_console_edge_ns", "f_console_edge_ew" ] },
       {
         "id": "end_piece",
         "bg": "",
-        "fg": [ "f_console_end_piece_n", "f_console_end_piece_w", "f_console_end_piece_s", "f_console_end_piece_e" ]
+        "fg": [ "f_console_end_piece_n", "f_console_end_piece_e", "f_console_end_piece_s", "f_console_end_piece_w" ]
       },
-      { "bg": "", "id": "unconnected", "fg": [ "f_console_unconnected", "f_console_unconnected_faceW", "f_console_unconnected", "f_console_unconnected_faceE" ] }
+      {
+        "bg": "",
+        "id": "unconnected",
+        "fg": [ "f_console_unconnected", "f_console_unconnected_faceE", "f_console_unconnected", "f_console_unconnected_faceW" ]
+      }
     ]
   },
   {
@@ -37,9 +41,9 @@
         "bg": "",
         "fg": [
           "f_console_broken_corner_nw",
-          "f_console_broken_corner_sw",
+          "f_console_broken_corner_ne",
           "f_console_broken_corner_se",
-          "f_console_broken_corner_ne"
+          "f_console_broken_corner_sw"
         ]
       },
       {
@@ -47,9 +51,9 @@
         "bg": "",
         "fg": [
           "f_console_broken_t_connection_n",
-          "f_console_broken_t_connection_w",
+          "f_console_broken_t_connection_e",
           "f_console_broken_t_connection_s",
-          "f_console_broken_t_connection_e"
+          "f_console_broken_t_connection_w"
         ]
       },
       { "id": "edge", "bg": "", "fg": [ "f_console_broken_edge_ns", "f_console_broken_edge_ew" ] },
@@ -58,12 +62,21 @@
         "bg": "",
         "fg": [
           "f_console_broken_end_piece_n",
-          "f_console_broken_end_piece_w",
+          "f_console_broken_end_piece_e",
           "f_console_broken_end_piece_s",
-          "f_console_broken_end_piece_e"
+          "f_console_broken_end_piece_w"
         ]
       },
-      { "bg": "", "id": "unconnected", "fg": [ "f_console_broken_unconnected_faceS", "f_console_broken_unconnected_faceW", "f_console_broken_unconnected_faceS", "f_console_broken_unconnected_faceE" ] }
+      {
+        "bg": "",
+        "id": "unconnected",
+        "fg": [
+          "f_console_broken_unconnected_faceS",
+          "f_console_broken_unconnected_faceE",
+          "f_console_broken_unconnected_faceS",
+          "f_console_broken_unconnected_faceW"
+        ]
+      }
     ]
   }
 ]

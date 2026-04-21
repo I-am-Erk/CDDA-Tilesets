@@ -4,19 +4,15 @@
   "fg": "f_planter_harvest_unconnected",
   "bg": "",
   "additional_tiles": [
-    {
-      "id": "center",
-      "bg": "",
-      "fg": "f_planter_harvest_center"
-    },
+    { "id": "center", "bg": "", "fg": "f_planter_harvest_center" },
     {
       "id": "corner",
       "bg": "",
       "fg": [
         "f_planter_harvest_corner_nw",
-        "f_planter_harvest_corner_sw",
+        "f_planter_harvest_corner_ne",
         "f_planter_harvest_corner_se",
-        "f_planter_harvest_corner_ne"
+        "f_planter_harvest_corner_sw"
       ]
     },
     {
@@ -24,33 +20,22 @@
       "bg": "",
       "fg": [
         "f_planter_harvest_t_connection_n",
-        "f_planter_harvest_t_connection_w",
+        "f_planter_harvest_t_connection_e",
         "f_planter_harvest_t_connection_s",
-        "f_planter_harvest_t_connection_e"
+        "f_planter_harvest_t_connection_w"
       ]
     },
-    {
-      "id": "edge",
-      "bg": "",
-      "fg": [
-        "f_planter_harvest_edge_ns",
-        "f_planter_harvest_edge_ew"
-      ]
-    },
+    { "id": "edge", "bg": "", "fg": [ "f_planter_harvest_edge_ns", "f_planter_harvest_edge_ew" ] },
     {
       "id": "end_piece",
       "bg": "",
       "fg": [
         "f_planter_harvest_end_piece_n",
-        "f_planter_harvest_end_piece_w",
+        "f_planter_harvest_end_piece_e",
         "f_planter_harvest_end_piece_s",
-        "f_planter_harvest_end_piece_e"
+        "f_planter_harvest_end_piece_w"
       ]
     },
-    {
-      "bg": "",
-      "id": "unconnected",
-      "fg": [ "f_planter_harvest_unconnected", "f_planter_harvest_unconnected" ]
-    }
+    { "bg": "", "id": "unconnected", "fg": [ "f_planter_harvest_unconnected", "f_planter_harvest_unconnected" ] }
   ]
 }
