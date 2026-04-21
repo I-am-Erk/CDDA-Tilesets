@@ -3,50 +3,17 @@
   "fg": "fd_dust_unconnected",
   "multitile": true,
   "additional_tiles": [
-    {
-      "id": "center",
-      "fg": "fd_dust_center"
-    },
-    {
-      "id": "corner",
-      "fg": [
-        "fd_dust_corner_nw",
-        "fd_dust_corner_sw",
-        "fd_dust_corner_se",
-        "fd_dust_corner_ne"
-      ]
-    },
+    { "id": "center", "fg": "fd_dust_center" },
+    { "id": "corner", "fg": [ "fd_dust_corner_nw", "fd_dust_corner_ne", "fd_dust_corner_se", "fd_dust_corner_sw" ] },
     {
       "id": "t_connection",
-      "fg": [
-        "fd_dust_t_connection_n",
-        "fd_dust_t_connection_w",
-        "fd_dust_t_connection_s",
-        "fd_dust_t_connection_e"
-      ]
+      "fg": [ "fd_dust_t_connection_n", "fd_dust_t_connection_e", "fd_dust_t_connection_s", "fd_dust_t_connection_w" ]
     },
-    {
-      "id": "edge",
-      "fg": [
-        "fd_dust_edge_ns",
-        "fd_dust_edge_ew"
-      ]
-    },
+    { "id": "edge", "fg": [ "fd_dust_edge_ns", "fd_dust_edge_ew" ] },
     {
       "id": "end_piece",
-      "fg": [
-        "fd_dust_end_piece_n",
-        "fd_dust_end_piece_w",
-        "fd_dust_end_piece_s",
-        "fd_dust_end_piece_e"
-      ]
+      "fg": [ "fd_dust_end_piece_n", "fd_dust_end_piece_e", "fd_dust_end_piece_s", "fd_dust_end_piece_w" ]
     },
-    {
-      "id": "unconnected",
-      "fg": [
-        "fd_dust_unconnected",
-        "fd_dust_unconnected"
-      ]
-    }
+    { "id": "unconnected", "fg": [ "fd_dust_unconnected", "fd_dust_unconnected" ] }
   ]
 }

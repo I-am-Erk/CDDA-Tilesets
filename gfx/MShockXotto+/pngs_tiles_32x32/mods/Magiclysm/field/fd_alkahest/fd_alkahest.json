@@ -3,50 +3,25 @@
   "fg": "fd_alkahest_unconnected",
   "multitile": true,
   "additional_tiles": [
-    {
-      "id": "center",
-      "fg": "fd_alkahest_center"
-    },
+    { "id": "center", "fg": "fd_alkahest_center" },
     {
       "id": "corner",
-      "fg": [
-        "fd_alkahest_corner_nw",
-        "fd_alkahest_corner_sw",
-        "fd_alkahest_corner_se",
-        "fd_alkahest_corner_ne"
-      ]
+      "fg": [ "fd_alkahest_corner_nw", "fd_alkahest_corner_ne", "fd_alkahest_corner_se", "fd_alkahest_corner_sw" ]
     },
     {
       "id": "t_connection",
       "fg": [
         "fd_alkahest_t_connection_n",
-        "fd_alkahest_t_connection_w",
+        "fd_alkahest_t_connection_e",
         "fd_alkahest_t_connection_s",
-        "fd_alkahest_t_connection_e"
+        "fd_alkahest_t_connection_w"
       ]
     },
-    {
-      "id": "edge",
-      "fg": [
-        "fd_alkahest_edge_ns",
-        "fd_alkahest_edge_ew"
-      ]
-    },
+    { "id": "edge", "fg": [ "fd_alkahest_edge_ns", "fd_alkahest_edge_ew" ] },
     {
       "id": "end_piece",
-      "fg": [
-        "fd_alkahest_end_piece_n",
-        "fd_alkahest_end_piece_w",
-        "fd_alkahest_end_piece_s",
-        "fd_alkahest_end_piece_e"
-      ]
+      "fg": [ "fd_alkahest_end_piece_n", "fd_alkahest_end_piece_e", "fd_alkahest_end_piece_s", "fd_alkahest_end_piece_w" ]
     },
-    {
-      "id": "unconnected",
-      "fg": [
-        "fd_alkahest_unconnected",
-        "fd_alkahest_unconnected"
-      ]
-    }
+    { "id": "unconnected", "fg": [ "fd_alkahest_unconnected", "fd_alkahest_unconnected" ] }
   ]
 }

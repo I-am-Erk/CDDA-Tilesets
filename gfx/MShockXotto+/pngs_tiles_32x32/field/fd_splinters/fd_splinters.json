@@ -3,50 +3,25 @@
   "fg": "fd_splinters_unconnected",
   "multitile": true,
   "additional_tiles": [
-    {
-      "id": "center",
-      "fg": "fd_splinters_center"
-    },
+    { "id": "center", "fg": "fd_splinters_center" },
     {
       "id": "corner",
-      "fg": [
-        "fd_splinters_corner_nw",
-        "fd_splinters_corner_sw",
-        "fd_splinters_corner_se",
-        "fd_splinters_corner_ne"
-      ]
+      "fg": [ "fd_splinters_corner_nw", "fd_splinters_corner_ne", "fd_splinters_corner_se", "fd_splinters_corner_sw" ]
     },
     {
       "id": "t_connection",
       "fg": [
         "fd_splinters_t_connection_n",
-        "fd_splinters_t_connection_w",
+        "fd_splinters_t_connection_e",
         "fd_splinters_t_connection_s",
-        "fd_splinters_t_connection_e"
+        "fd_splinters_t_connection_w"
       ]
     },
-    {
-      "id": "edge",
-      "fg": [
-        "fd_splinters_edge_ns",
-        "fd_splinters_edge_ew"
-      ]
-    },
+    { "id": "edge", "fg": [ "fd_splinters_edge_ns", "fd_splinters_edge_ew" ] },
     {
       "id": "end_piece",
-      "fg": [
-        "fd_splinters_end_piece_n",
-        "fd_splinters_end_piece_w",
-        "fd_splinters_end_piece_s",
-        "fd_splinters_end_piece_e"
-      ]
+      "fg": [ "fd_splinters_end_piece_n", "fd_splinters_end_piece_e", "fd_splinters_end_piece_s", "fd_splinters_end_piece_w" ]
     },
-    {
-      "id": "unconnected",
-      "fg": [
-        "fd_splinters_unconnected",
-        "fd_splinters_unconnected"
-      ]
-    }
+    { "id": "unconnected", "fg": [ "fd_splinters_unconnected", "fd_splinters_unconnected" ] }
   ]
 }
