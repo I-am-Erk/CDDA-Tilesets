@@ -15,16 +15,16 @@
       },
       {
         "id": "corner",
-        "fg": [ "fd_dust1_corner_NW", "fd_dust1_corner_SW", "fd_dust1_corner_SE", "fd_dust1_corner_NE" ]
+        "fg": [ "fd_dust1_corner_NW", "fd_dust1_corner_NE", "fd_dust1_corner_SE", "fd_dust1_corner_SW" ]
       },
       {
         "id": "t_connection",
-        "fg": [ "fd_dust1_t_connection_N", "fd_dust1_t_connection_W", "fd_dust1_t_connection_S", "fd_dust1_t_connection_E" ]
+        "fg": [ "fd_dust1_t_connection_N", "fd_dust1_t_connection_E", "fd_dust1_t_connection_S", "fd_dust1_t_connection_W" ]
       },
       { "id": "edge", "fg": [ "fd_dust1_edge_NS", "fd_dust1_edge_EW" ] },
       {
         "id": "end_piece",
-        "fg": [ "fd_dust1_end_piece_N", "fd_dust1_end_piece_W", "fd_dust1_end_piece_S", "fd_dust1_end_piece_E" ]
+        "fg": [ "fd_dust1_end_piece_N", "fd_dust1_end_piece_E", "fd_dust1_end_piece_S", "fd_dust1_end_piece_W" ]
       },
       { "id": "unconnected", "fg": [ "fd_dust1_unconnected", "fd_dust1_unconnected" ] }
     ]
@@ -45,16 +45,16 @@
       },
       {
         "id": "corner",
-        "fg": [ "fd_dust2_corner_NW", "fd_dust2_corner_SW", "fd_dust2_corner_SE", "fd_dust2_corner_NE" ]
+        "fg": [ "fd_dust2_corner_NW", "fd_dust2_corner_NE", "fd_dust2_corner_SE", "fd_dust2_corner_SW" ]
       },
       {
         "id": "t_connection",
-        "fg": [ "fd_dust2_t_connection_N", "fd_dust2_t_connection_W", "fd_dust2_t_connection_S", "fd_dust2_t_connection_E" ]
+        "fg": [ "fd_dust2_t_connection_N", "fd_dust2_t_connection_E", "fd_dust2_t_connection_S", "fd_dust2_t_connection_W" ]
       },
       { "id": "edge", "fg": [ "fd_dust2_edge_NS", "fd_dust2_edge_EW" ] },
       {
         "id": "end_piece",
-        "fg": [ "fd_dust2_end_piece_N", "fd_dust2_end_piece_W", "fd_dust2_end_piece_S", "fd_dust2_end_piece_E" ]
+        "fg": [ "fd_dust2_end_piece_N", "fd_dust2_end_piece_E", "fd_dust2_end_piece_S", "fd_dust2_end_piece_W" ]
       },
       { "id": "unconnected", "fg": [ "fd_dust2_unconnected", "fd_dust2_unconnected" ] }
     ]

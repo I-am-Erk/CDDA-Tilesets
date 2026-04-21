@@ -19,27 +19,27 @@
             "weight": 1,
             "sprite": [
               "int1_fd_mechfluid_1_corner_nw",
-              "int1_fd_mechfluid_1_corner_sw",
+              "int1_fd_mechfluid_1_corner_ne",
               "int1_fd_mechfluid_1_corner_se",
-              "int1_fd_mechfluid_1_corner_ne"
+              "int1_fd_mechfluid_1_corner_sw"
             ]
           },
           {
             "weight": 1,
             "sprite": [
               "int1_fd_mechfluid_2_corner_nw",
-              "int1_fd_mechfluid_2_corner_sw",
+              "int1_fd_mechfluid_2_corner_ne",
               "int1_fd_mechfluid_2_corner_se",
-              "int1_fd_mechfluid_2_corner_ne"
+              "int1_fd_mechfluid_2_corner_sw"
             ]
           },
           {
             "weight": 1,
             "sprite": [
               "int1_fd_mechfluid_3_corner_nw",
-              "int1_fd_mechfluid_3_corner_sw",
+              "int1_fd_mechfluid_3_corner_ne",
               "int1_fd_mechfluid_3_corner_se",
-              "int1_fd_mechfluid_3_corner_ne"
+              "int1_fd_mechfluid_3_corner_sw"
             ]
           }
         ]
@@ -51,27 +51,27 @@
             "weight": 1,
             "sprite": [
               "int1_fd_mechfluid_1_t_connection_n",
-              "int1_fd_mechfluid_1_t_connection_w",
+              "int1_fd_mechfluid_1_t_connection_e",
               "int1_fd_mechfluid_1_t_connection_s",
-              "int1_fd_mechfluid_1_t_connection_e"
+              "int1_fd_mechfluid_1_t_connection_w"
             ]
           },
           {
             "weight": 1,
             "sprite": [
               "int1_fd_mechfluid_2_t_connection_n",
-              "int1_fd_mechfluid_2_t_connection_w",
+              "int1_fd_mechfluid_2_t_connection_e",
               "int1_fd_mechfluid_2_t_connection_s",
-              "int1_fd_mechfluid_2_t_connection_e"
+              "int1_fd_mechfluid_2_t_connection_w"
             ]
           },
           {
             "weight": 1,
             "sprite": [
               "int1_fd_mechfluid_3_t_connection_n",
-              "int1_fd_mechfluid_3_t_connection_w",
+              "int1_fd_mechfluid_3_t_connection_e",
               "int1_fd_mechfluid_3_t_connection_s",
-              "int1_fd_mechfluid_3_t_connection_e"
+              "int1_fd_mechfluid_3_t_connection_w"
             ]
           }
         ]
@@ -91,27 +91,27 @@
             "weight": 1,
             "sprite": [
               "int1_fd_mechfluid_1_end_piece_n",
-              "int1_fd_mechfluid_1_end_piece_w",
+              "int1_fd_mechfluid_1_end_piece_e",
               "int1_fd_mechfluid_1_end_piece_s",
-              "int1_fd_mechfluid_1_end_piece_e"
+              "int1_fd_mechfluid_1_end_piece_w"
             ]
           },
           {
             "weight": 1,
             "sprite": [
               "int1_fd_mechfluid_2_end_piece_n",
-              "int1_fd_mechfluid_2_end_piece_w",
+              "int1_fd_mechfluid_2_end_piece_e",
               "int1_fd_mechfluid_2_end_piece_s",
-              "int1_fd_mechfluid_2_end_piece_e"
+              "int1_fd_mechfluid_2_end_piece_w"
             ]
           },
           {
             "weight": 1,
             "sprite": [
               "int1_fd_mechfluid_3_end_piece_n",
-              "int1_fd_mechfluid_3_end_piece_w",
+              "int1_fd_mechfluid_3_end_piece_e",
               "int1_fd_mechfluid_3_end_piece_s",
-              "int1_fd_mechfluid_3_end_piece_e"
+              "int1_fd_mechfluid_3_end_piece_w"
             ]
           }
         ]
@@ -146,27 +146,27 @@
             "weight": 1,
             "sprite": [
               "int2_fd_mechfluid_1_corner_nw",
-              "int2_fd_mechfluid_1_corner_sw",
+              "int2_fd_mechfluid_1_corner_ne",
               "int2_fd_mechfluid_1_corner_se",
-              "int2_fd_mechfluid_1_corner_ne"
+              "int2_fd_mechfluid_1_corner_sw"
             ]
           },
           {
             "weight": 1,
             "sprite": [
               "int2_fd_mechfluid_2_corner_nw",
-              "int2_fd_mechfluid_2_corner_sw",
+              "int2_fd_mechfluid_2_corner_ne",
               "int2_fd_mechfluid_2_corner_se",
-              "int2_fd_mechfluid_2_corner_ne"
+              "int2_fd_mechfluid_2_corner_sw"
             ]
           },
           {
             "weight": 1,
             "sprite": [
               "int2_fd_mechfluid_3_corner_nw",
-              "int2_fd_mechfluid_3_corner_sw",
+              "int2_fd_mechfluid_3_corner_ne",
               "int2_fd_mechfluid_3_corner_se",
-              "int2_fd_mechfluid_3_corner_ne"
+              "int2_fd_mechfluid_3_corner_sw"
             ]
           }
         ]
@@ -178,27 +178,27 @@
             "weight": 1,
             "sprite": [
               "int2_fd_mechfluid_1_t_connection_n",
-              "int2_fd_mechfluid_1_t_connection_w",
+              "int2_fd_mechfluid_1_t_connection_e",
               "int2_fd_mechfluid_1_t_connection_s",
-              "int2_fd_mechfluid_1_t_connection_e"
+              "int2_fd_mechfluid_1_t_connection_w"
             ]
           },
           {
             "weight": 1,
             "sprite": [
               "int2_fd_mechfluid_2_t_connection_n",
-              "int2_fd_mechfluid_2_t_connection_w",
+              "int2_fd_mechfluid_2_t_connection_e",
               "int2_fd_mechfluid_2_t_connection_s",
-              "int2_fd_mechfluid_2_t_connection_e"
+              "int2_fd_mechfluid_2_t_connection_w"
             ]
           },
           {
             "weight": 1,
             "sprite": [
               "int2_fd_mechfluid_3_t_connection_n",
-              "int2_fd_mechfluid_3_t_connection_w",
+              "int2_fd_mechfluid_3_t_connection_e",
               "int2_fd_mechfluid_3_t_connection_s",
-              "int2_fd_mechfluid_3_t_connection_e"
+              "int2_fd_mechfluid_3_t_connection_w"
             ]
           }
         ]
@@ -218,27 +218,27 @@
             "weight": 1,
             "sprite": [
               "int2_fd_mechfluid_1_end_piece_n",
-              "int2_fd_mechfluid_1_end_piece_w",
+              "int2_fd_mechfluid_1_end_piece_e",
               "int2_fd_mechfluid_1_end_piece_s",
-              "int2_fd_mechfluid_1_end_piece_e"
+              "int2_fd_mechfluid_1_end_piece_w"
             ]
           },
           {
             "weight": 1,
             "sprite": [
               "int2_fd_mechfluid_2_end_piece_n",
-              "int2_fd_mechfluid_2_end_piece_w",
+              "int2_fd_mechfluid_2_end_piece_e",
               "int2_fd_mechfluid_2_end_piece_s",
-              "int2_fd_mechfluid_2_end_piece_e"
+              "int2_fd_mechfluid_2_end_piece_w"
             ]
           },
           {
             "weight": 1,
             "sprite": [
               "int2_fd_mechfluid_3_end_piece_n",
-              "int2_fd_mechfluid_3_end_piece_w",
+              "int2_fd_mechfluid_3_end_piece_e",
               "int2_fd_mechfluid_3_end_piece_s",
-              "int2_fd_mechfluid_3_end_piece_e"
+              "int2_fd_mechfluid_3_end_piece_w"
             ]
           }
         ]
@@ -273,27 +273,27 @@
             "weight": 1,
             "sprite": [
               "int3_fd_mechfluid_1_corner_nw",
-              "int3_fd_mechfluid_1_corner_sw",
+              "int3_fd_mechfluid_1_corner_ne",
               "int3_fd_mechfluid_1_corner_se",
-              "int3_fd_mechfluid_1_corner_ne"
+              "int3_fd_mechfluid_1_corner_sw"
             ]
           },
           {
             "weight": 1,
             "sprite": [
               "int3_fd_mechfluid_2_corner_nw",
-              "int3_fd_mechfluid_2_corner_sw",
+              "int3_fd_mechfluid_2_corner_ne",
               "int3_fd_mechfluid_2_corner_se",
-              "int3_fd_mechfluid_2_corner_ne"
+              "int3_fd_mechfluid_2_corner_sw"
             ]
           },
           {
             "weight": 1,
             "sprite": [
               "int3_fd_mechfluid_3_corner_nw",
-              "int3_fd_mechfluid_3_corner_sw",
+              "int3_fd_mechfluid_3_corner_ne",
               "int3_fd_mechfluid_3_corner_se",
-              "int3_fd_mechfluid_3_corner_ne"
+              "int3_fd_mechfluid_3_corner_sw"
             ]
           }
         ]
@@ -305,27 +305,27 @@
             "weight": 1,
             "sprite": [
               "int3_fd_mechfluid_1_t_connection_n",
-              "int3_fd_mechfluid_1_t_connection_w",
+              "int3_fd_mechfluid_1_t_connection_e",
               "int3_fd_mechfluid_1_t_connection_s",
-              "int3_fd_mechfluid_1_t_connection_e"
+              "int3_fd_mechfluid_1_t_connection_w"
             ]
           },
           {
             "weight": 1,
             "sprite": [
               "int3_fd_mechfluid_2_t_connection_n",
-              "int3_fd_mechfluid_2_t_connection_w",
+              "int3_fd_mechfluid_2_t_connection_e",
               "int3_fd_mechfluid_2_t_connection_s",
-              "int3_fd_mechfluid_2_t_connection_e"
+              "int3_fd_mechfluid_2_t_connection_w"
             ]
           },
           {
             "weight": 1,
             "sprite": [
               "int3_fd_mechfluid_3_t_connection_n",
-              "int3_fd_mechfluid_3_t_connection_w",
+              "int3_fd_mechfluid_3_t_connection_e",
               "int3_fd_mechfluid_3_t_connection_s",
-              "int3_fd_mechfluid_3_t_connection_e"
+              "int3_fd_mechfluid_3_t_connection_w"
             ]
           }
         ]
@@ -345,27 +345,27 @@
             "weight": 1,
             "sprite": [
               "int3_fd_mechfluid_1_end_piece_n",
-              "int3_fd_mechfluid_1_end_piece_w",
+              "int3_fd_mechfluid_1_end_piece_e",
               "int3_fd_mechfluid_1_end_piece_s",
-              "int3_fd_mechfluid_1_end_piece_e"
+              "int3_fd_mechfluid_1_end_piece_w"
             ]
           },
           {
             "weight": 1,
             "sprite": [
               "int3_fd_mechfluid_2_end_piece_n",
-              "int3_fd_mechfluid_2_end_piece_w",
+              "int3_fd_mechfluid_2_end_piece_e",
               "int3_fd_mechfluid_2_end_piece_s",
-              "int3_fd_mechfluid_2_end_piece_e"
+              "int3_fd_mechfluid_2_end_piece_w"
             ]
           },
           {
             "weight": 1,
             "sprite": [
               "int3_fd_mechfluid_3_end_piece_n",
-              "int3_fd_mechfluid_3_end_piece_w",
+              "int3_fd_mechfluid_3_end_piece_e",
               "int3_fd_mechfluid_3_end_piece_s",
-              "int3_fd_mechfluid_3_end_piece_e"
+              "int3_fd_mechfluid_3_end_piece_w"
             ]
           }
         ]

@@ -3,50 +3,30 @@
   "fg": "fd_electricity_unconnected",
   "multitile": true,
   "additional_tiles": [
-    {
-      "id": "center",
-      "fg": "fd_electricity_center"
-    },
+    { "id": "center", "fg": "fd_electricity_center" },
     {
       "id": "corner",
-      "fg": [
-        "fd_electricity_corner_nw",
-        "fd_electricity_corner_sw",
-        "fd_electricity_corner_se",
-        "fd_electricity_corner_ne"
-      ]
+      "fg": [ "fd_electricity_corner_nw", "fd_electricity_corner_ne", "fd_electricity_corner_se", "fd_electricity_corner_sw" ]
     },
     {
       "id": "t_connection",
       "fg": [
         "fd_electricity_t_connection_n",
-        "fd_electricity_t_connection_w",
+        "fd_electricity_t_connection_e",
         "fd_electricity_t_connection_s",
-        "fd_electricity_t_connection_e"
+        "fd_electricity_t_connection_w"
       ]
     },
-    {
-      "id": "edge",
-      "fg": [
-        "fd_electricity_edge_ns",
-        "fd_electricity_edge_ew"
-      ]
-    },
+    { "id": "edge", "fg": [ "fd_electricity_edge_ns", "fd_electricity_edge_ew" ] },
     {
       "id": "end_piece",
       "fg": [
         "fd_electricity_end_piece_n",
-        "fd_electricity_end_piece_w",
+        "fd_electricity_end_piece_e",
         "fd_electricity_end_piece_s",
-        "fd_electricity_end_piece_e"
+        "fd_electricity_end_piece_w"
       ]
     },
-    {
-      "id": "unconnected",
-      "fg": [
-        "fd_electricity_unconnected",
-        "fd_electricity_unconnected"
-      ]
-    }
+    { "id": "unconnected", "fg": [ "fd_electricity_unconnected", "fd_electricity_unconnected" ] }
   ]
 }

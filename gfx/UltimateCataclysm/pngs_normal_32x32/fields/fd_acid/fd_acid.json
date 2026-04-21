@@ -23,35 +23,35 @@
       "fg": [
         {
           "weight": 8,
-          "sprite": [ "fd_acid_0_corner_nw", "fd_acid_0_corner_sw", "fd_acid_0_corner_se", "fd_acid_0_corner_ne" ]
+          "sprite": [ "fd_acid_0_corner_nw", "fd_acid_0_corner_ne", "fd_acid_0_corner_se", "fd_acid_0_corner_sw" ]
         },
         {
           "weight": 8,
-          "sprite": [ "fd_acid_1_corner_nw", "fd_acid_1_corner_sw", "fd_acid_1_corner_se", "fd_acid_1_corner_ne" ]
+          "sprite": [ "fd_acid_1_corner_nw", "fd_acid_1_corner_ne", "fd_acid_1_corner_se", "fd_acid_1_corner_sw" ]
         },
         {
           "weight": 8,
-          "sprite": [ "fd_acid_2_corner_nw", "fd_acid_2_corner_sw", "fd_acid_2_corner_se", "fd_acid_2_corner_ne" ]
+          "sprite": [ "fd_acid_2_corner_nw", "fd_acid_2_corner_ne", "fd_acid_2_corner_se", "fd_acid_2_corner_sw" ]
         },
         {
           "weight": 8,
-          "sprite": [ "fd_acid_3_corner_nw", "fd_acid_3_corner_sw", "fd_acid_3_corner_se", "fd_acid_3_corner_ne" ]
+          "sprite": [ "fd_acid_3_corner_nw", "fd_acid_3_corner_ne", "fd_acid_3_corner_se", "fd_acid_3_corner_sw" ]
         },
         {
           "weight": 8,
-          "sprite": [ "fd_acid_4_corner_nw", "fd_acid_4_corner_sw", "fd_acid_4_corner_se", "fd_acid_4_corner_ne" ]
+          "sprite": [ "fd_acid_4_corner_nw", "fd_acid_4_corner_ne", "fd_acid_4_corner_se", "fd_acid_4_corner_sw" ]
         },
         {
           "weight": 8,
-          "sprite": [ "fd_acid_5_corner_nw", "fd_acid_5_corner_sw", "fd_acid_5_corner_se", "fd_acid_5_corner_ne" ]
+          "sprite": [ "fd_acid_5_corner_nw", "fd_acid_5_corner_ne", "fd_acid_5_corner_se", "fd_acid_5_corner_sw" ]
         },
         {
           "weight": 8,
-          "sprite": [ "fd_acid_6_corner_nw", "fd_acid_6_corner_sw", "fd_acid_6_corner_se", "fd_acid_6_corner_ne" ]
+          "sprite": [ "fd_acid_6_corner_nw", "fd_acid_6_corner_ne", "fd_acid_6_corner_se", "fd_acid_6_corner_sw" ]
         },
         {
           "weight": 8,
-          "sprite": [ "fd_acid_7_corner_nw", "fd_acid_7_corner_sw", "fd_acid_7_corner_se", "fd_acid_7_corner_ne" ]
+          "sprite": [ "fd_acid_7_corner_nw", "fd_acid_7_corner_ne", "fd_acid_7_corner_se", "fd_acid_7_corner_sw" ]
         }
       ]
     },
@@ -61,35 +61,35 @@
       "fg": [
         {
           "weight": 8,
-          "sprite": [ "fd_acid_0_t_connection_n", "fd_acid_0_t_connection_w", "fd_acid_0_t_connection_s", "fd_acid_0_t_connection_e" ]
+          "sprite": [ "fd_acid_0_t_connection_n", "fd_acid_0_t_connection_e", "fd_acid_0_t_connection_s", "fd_acid_0_t_connection_w" ]
         },
         {
           "weight": 8,
-          "sprite": [ "fd_acid_1_t_connection_n", "fd_acid_1_t_connection_w", "fd_acid_1_t_connection_s", "fd_acid_1_t_connection_e" ]
+          "sprite": [ "fd_acid_1_t_connection_n", "fd_acid_1_t_connection_e", "fd_acid_1_t_connection_s", "fd_acid_1_t_connection_w" ]
         },
         {
           "weight": 8,
-          "sprite": [ "fd_acid_2_t_connection_n", "fd_acid_2_t_connection_w", "fd_acid_2_t_connection_s", "fd_acid_2_t_connection_e" ]
+          "sprite": [ "fd_acid_2_t_connection_n", "fd_acid_2_t_connection_e", "fd_acid_2_t_connection_s", "fd_acid_2_t_connection_w" ]
         },
         {
           "weight": 8,
-          "sprite": [ "fd_acid_3_t_connection_n", "fd_acid_3_t_connection_w", "fd_acid_3_t_connection_s", "fd_acid_3_t_connection_e" ]
+          "sprite": [ "fd_acid_3_t_connection_n", "fd_acid_3_t_connection_e", "fd_acid_3_t_connection_s", "fd_acid_3_t_connection_w" ]
         },
         {
           "weight": 8,
-          "sprite": [ "fd_acid_4_t_connection_n", "fd_acid_4_t_connection_w", "fd_acid_4_t_connection_s", "fd_acid_4_t_connection_e" ]
+          "sprite": [ "fd_acid_4_t_connection_n", "fd_acid_4_t_connection_e", "fd_acid_4_t_connection_s", "fd_acid_4_t_connection_w" ]
         },
         {
           "weight": 8,
-          "sprite": [ "fd_acid_5_t_connection_n", "fd_acid_5_t_connection_w", "fd_acid_5_t_connection_s", "fd_acid_5_t_connection_e" ]
+          "sprite": [ "fd_acid_5_t_connection_n", "fd_acid_5_t_connection_e", "fd_acid_5_t_connection_s", "fd_acid_5_t_connection_w" ]
         },
         {
           "weight": 8,
-          "sprite": [ "fd_acid_6_t_connection_n", "fd_acid_6_t_connection_w", "fd_acid_6_t_connection_s", "fd_acid_6_t_connection_e" ]
+          "sprite": [ "fd_acid_6_t_connection_n", "fd_acid_6_t_connection_e", "fd_acid_6_t_connection_s", "fd_acid_6_t_connection_w" ]
         },
         {
           "weight": 8,
-          "sprite": [ "fd_acid_7_t_connection_n", "fd_acid_7_t_connection_w", "fd_acid_7_t_connection_s", "fd_acid_7_t_connection_e" ]
+          "sprite": [ "fd_acid_7_t_connection_n", "fd_acid_7_t_connection_e", "fd_acid_7_t_connection_s", "fd_acid_7_t_connection_w" ]
         }
       ]
     },
@@ -113,35 +113,35 @@
       "fg": [
         {
           "weight": 8,
-          "sprite": [ "fd_acid_0_end_piece_n", "fd_acid_0_end_piece_w", "fd_acid_0_end_piece_s", "fd_acid_0_end_piece_e" ]
+          "sprite": [ "fd_acid_0_end_piece_n", "fd_acid_0_end_piece_e", "fd_acid_0_end_piece_s", "fd_acid_0_end_piece_w" ]
         },
         {
           "weight": 8,
-          "sprite": [ "fd_acid_1_end_piece_n", "fd_acid_1_end_piece_w", "fd_acid_1_end_piece_s", "fd_acid_1_end_piece_e" ]
+          "sprite": [ "fd_acid_1_end_piece_n", "fd_acid_1_end_piece_e", "fd_acid_1_end_piece_s", "fd_acid_1_end_piece_w" ]
         },
         {
           "weight": 8,
-          "sprite": [ "fd_acid_2_end_piece_n", "fd_acid_2_end_piece_w", "fd_acid_2_end_piece_s", "fd_acid_2_end_piece_e" ]
+          "sprite": [ "fd_acid_2_end_piece_n", "fd_acid_2_end_piece_e", "fd_acid_2_end_piece_s", "fd_acid_2_end_piece_w" ]
         },
         {
           "weight": 8,
-          "sprite": [ "fd_acid_3_end_piece_n", "fd_acid_3_end_piece_w", "fd_acid_3_end_piece_s", "fd_acid_3_end_piece_e" ]
+          "sprite": [ "fd_acid_3_end_piece_n", "fd_acid_3_end_piece_e", "fd_acid_3_end_piece_s", "fd_acid_3_end_piece_w" ]
         },
         {
           "weight": 8,
-          "sprite": [ "fd_acid_4_end_piece_n", "fd_acid_4_end_piece_w", "fd_acid_4_end_piece_s", "fd_acid_4_end_piece_e" ]
+          "sprite": [ "fd_acid_4_end_piece_n", "fd_acid_4_end_piece_e", "fd_acid_4_end_piece_s", "fd_acid_4_end_piece_w" ]
         },
         {
           "weight": 8,
-          "sprite": [ "fd_acid_5_end_piece_n", "fd_acid_5_end_piece_w", "fd_acid_5_end_piece_s", "fd_acid_5_end_piece_e" ]
+          "sprite": [ "fd_acid_5_end_piece_n", "fd_acid_5_end_piece_e", "fd_acid_5_end_piece_s", "fd_acid_5_end_piece_w" ]
         },
         {
           "weight": 8,
-          "sprite": [ "fd_acid_6_end_piece_n", "fd_acid_6_end_piece_w", "fd_acid_6_end_piece_s", "fd_acid_6_end_piece_e" ]
+          "sprite": [ "fd_acid_6_end_piece_n", "fd_acid_6_end_piece_e", "fd_acid_6_end_piece_s", "fd_acid_6_end_piece_w" ]
         },
         {
           "weight": 8,
-          "sprite": [ "fd_acid_7_end_piece_n", "fd_acid_7_end_piece_w", "fd_acid_7_end_piece_s", "fd_acid_7_end_piece_e" ]
+          "sprite": [ "fd_acid_7_end_piece_n", "fd_acid_7_end_piece_e", "fd_acid_7_end_piece_s", "fd_acid_7_end_piece_w" ]
         }
       ]
     },
