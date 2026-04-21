@@ -1,30 +1,27 @@
 [
   {
     "id": [
-	    "shelter",
-	    "shelter_2",
-	    "shelter_vandal",
-	    "shelter_2_vandal",
+      "shelter",
+      "shelter_2",
+      "shelter_vandal",
+      "shelter_2_vandal",
       "shelter_infested",
       "shelter_2_infested",
       "shelter_survivor",
       "shelter_2_survivor"
-	  ],
-    "fg": [ "otr_evac_shelter_1_faceN", "otr_evac_shelter_1_faceW", "otr_evac_shelter_1_faceS", "otr_evac_shelter_1_faceE" ],
+    ],
+    "fg": [ "otr_evac_shelter_1_faceN", "otr_evac_shelter_1_faceE", "otr_evac_shelter_1_faceS", "otr_evac_shelter_1_faceW" ],
     "bg": "field",
     "rotates": true
   },
   {
-	  "id": [
-	   "shelter_roof",
-		 "shelter_roof_2"
-		],
-	  "fg": [ "otr_evac_shelter_1_faceN", "otr_evac_shelter_1_faceW", "otr_evac_shelter_1_faceS", "otr_evac_shelter_1_faceE" ],
-	  "bg": "open_air",
-	  "rotates": true
+    "id": [ "shelter_roof", "shelter_roof_2" ],
+    "fg": [ "otr_evac_shelter_1_faceN", "otr_evac_shelter_1_faceE", "otr_evac_shelter_1_faceS", "otr_evac_shelter_1_faceW" ],
+    "bg": "open_air",
+    "rotates": true
   },
   {
-	  "id": [
+    "id": [
       "shelter_under",
       "shelter_under_2",
       "shelter_under_vandal",
@@ -32,9 +29,9 @@
       "shelter_under_infested",
       "shelter_under_2_infested"
     ],
-	  "fg": [ "otr_evac_shelter_1_faceN", "otr_evac_shelter_1_faceW", "otr_evac_shelter_1_faceS", "otr_evac_shelter_1_faceE" ],
+    "fg": [ "otr_evac_shelter_1_faceN", "otr_evac_shelter_1_faceE", "otr_evac_shelter_1_faceS", "otr_evac_shelter_1_faceW" ],
     "bg": "t_soil_center",
-	  "rotates": true
+    "rotates": true
   },
   {
     "id": [
@@ -51,12 +48,12 @@
     "bg": "field"
   },
   {
-	  "id": [ "shelter_roof_1", "shelter_roof_1b" ],
-	  "fg": "evac_shelter_1",
-	  "bg": "open_air"
+    "id": [ "shelter_roof_1", "shelter_roof_1b" ],
+    "fg": "evac_shelter_1",
+    "bg": "open_air"
   },
   {
-	  "id": [
+    "id": [
       "shelter_under_1",
       "shelter_under_1b",
       "shelter_under_1_vandal",
@@ -64,7 +61,7 @@
       "shelter_under_1_infested",
       "shelter_under_1b_infested"
     ],
-	  "fg": "evac_shelter_1",
+    "fg": "evac_shelter_1",
     "bg": "t_soil_center"
   }
 ]

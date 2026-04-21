@@ -9,12 +9,7 @@
       "office_tower_collapse_b_a0",
       "office_tower_2_a1_tower_lab"
     ],
-    "fg": [
-      "office_tower_2_a1_faceN",
-      "office_tower_2_a1_faceW",
-      "office_tower_2_a1_faceS",
-      "office_tower_2_a1_faceE"
-    ],
+    "fg": [ "office_tower_2_a1_faceN", "office_tower_2_a1_faceE", "office_tower_2_a1_faceS", "office_tower_2_a1_faceW" ],
     "rotates": true
   },
   {
@@ -26,26 +21,12 @@
       "office_tower_collapse_a1",
       "office_tower_collapse_b_a1"
     ],
-    "fg": [
-      "office_tower_2_a2_faceN",
-      "office_tower_2_a2_faceW",
-      "office_tower_2_a2_faceS",
-      "office_tower_2_a2_faceE"
-    ],
+    "fg": [ "office_tower_2_a2_faceN", "office_tower_2_a2_faceE", "office_tower_2_a2_faceS", "office_tower_2_a2_faceW" ],
     "rotates": true
   },
   {
-    "id": [
-      "office_tower_2_a3",
-      "office_tower_collapse_a2",
-      "office_tower_collapse_b_a2"
-      ],
-    "fg": [
-      "office_tower_2_a3_faceN",
-      "office_tower_2_a3_faceW",
-      "office_tower_2_a3_faceS",
-      "office_tower_2_a3_faceE"
-    ],
+    "id": [ "office_tower_2_a3", "office_tower_collapse_a2", "office_tower_collapse_b_a2" ],
+    "fg": [ "office_tower_2_a3_faceN", "office_tower_2_a3_faceE", "office_tower_2_a3_faceS", "office_tower_2_a3_faceW" ],
     "rotates": true
   },
   {
@@ -57,12 +38,7 @@
       "office_tower_collapse_b0",
       "office_tower_collapse_b_b0"
     ],
-    "fg": [
-      "office_tower_2_b1_faceN",
-      "office_tower_2_b1_faceW",
-      "office_tower_2_b1_faceS",
-      "office_tower_2_b1_faceE"
-    ],
+    "fg": [ "office_tower_2_b1_faceN", "office_tower_2_b1_faceE", "office_tower_2_b1_faceS", "office_tower_2_b1_faceW" ],
     "rotates": true
   },
   {
@@ -74,12 +50,7 @@
       "office_tower_collapse_b1",
       "office_tower_collapse_b_b1"
     ],
-    "fg": [
-      "office_tower_2_b2_faceN",
-      "office_tower_2_b2_faceW",
-      "office_tower_2_b2_faceS",
-      "office_tower_2_b2_faceE"
-    ],
+    "fg": [ "office_tower_2_b2_faceN", "office_tower_2_b2_faceE", "office_tower_2_b2_faceS", "office_tower_2_b2_faceW" ],
     "rotates": true
   },
   {
@@ -91,20 +62,11 @@
       "office_tower_collapse_b2",
       "office_tower_collapse_b_b2"
     ],
-    "fg": [
-      "office_tower_2_b3_faceN",
-      "office_tower_2_b3_faceW",
-      "office_tower_2_b3_faceS",
-      "office_tower_2_b3_faceE"
-    ],
+    "fg": [ "office_tower_2_b3_faceN", "office_tower_2_b3_faceE", "office_tower_2_b3_faceS", "office_tower_2_b3_faceW" ],
     "rotates": true
   },
   {
-    "id": [
-      "tower_lab",
-      "tower_lab_stairs",
-      "tower_lab_finale"
-    ],
+    "id": [ "tower_lab", "tower_lab_stairs", "tower_lab_finale" ],
     "fg": "office_tower_2_a3_faceW"
   },
   {

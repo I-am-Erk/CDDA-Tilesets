@@ -16,19 +16,13 @@
       "mansion_c4d",
       "mansion_c5d"
     ],
-    "fg": [ "mansion_NW", "mansion_SW", "mansion_SE", "mansion_NE" ],
+    "fg": [ "mansion_NW", "mansion_NE", "mansion_SE", "mansion_SW" ],
     "bg": "field_tall",
     "rotates": true
   },
   {
-    "id": [
-      "mansion_e1",
-      "mansion_e2",
-      "mansion_boarded_e1",
-      "mansion_e1d",
-      "mansion_e2d"
-    ],
-    "fg": [ "mansion_N", "mansion_W", "mansion_S", "mansion_E" ],
+    "id": [ "mansion_e1", "mansion_e2", "mansion_boarded_e1", "mansion_e1d", "mansion_e2d" ],
+    "fg": [ "mansion_N", "mansion_E", "mansion_S", "mansion_W" ],
     "bg": "field_tall",
     "rotates": true
   },
@@ -52,20 +46,12 @@
       "mansion_boarded_t2d_start",
       "mansion_boarded_t2d"
     ],
-    "fg": [ "mansion_S", "mansion_E", "mansion_N", "mansion_W" ],
+    "fg": [ "mansion_S", "mansion_W", "mansion_N", "mansion_E" ],
     "bg": "field_tall",
     "rotates": true
   },
   {
-    "id": [
-      "mansion_+1",
-      "mansion_+2",
-      "mansion_+3",
-      "mansion_+4",
-      "mansion_+1d",
-      "mansion_+2d",
-      "mansion_+4d"
-    ],
+    "id": [ "mansion_+1", "mansion_+2", "mansion_+3", "mansion_+4", "mansion_+1d", "mansion_+2d", "mansion_+4d" ],
     "fg": "mansion_CENTER",
     "bg": "field_tall"
   },
@@ -86,19 +72,13 @@
       "mansion_c4_roof",
       "mansion_c5_roof"
     ],
-    "fg": [ "mansion_NW", "mansion_SW", "mansion_SE", "mansion_NE" ],
+    "fg": [ "mansion_NW", "mansion_NE", "mansion_SE", "mansion_SW" ],
     "bg": "open_air_tall",
     "rotates": true
   },
   {
-    "id": [
-      "mansion_e1u",
-      "mansion_e2u",
-      "mansion_boarded_e1u",
-      "mansion_e1_roof",
-      "mansion_e2_roof"
-    ],
-    "fg": [ "mansion_N", "mansion_W", "mansion_S", "mansion_E" ],
+    "id": [ "mansion_e1u", "mansion_e2u", "mansion_boarded_e1u", "mansion_e1_roof", "mansion_e2_roof" ],
+    "fg": [ "mansion_N", "mansion_E", "mansion_S", "mansion_W" ],
     "bg": "open_air_tall",
     "rotates": true
   },
@@ -119,7 +99,7 @@
       "mansion_t6_roof",
       "mansion_t7_roof"
     ],
-    "fg": [ "mansion_S", "mansion_E", "mansion_N", "mansion_W" ],
+    "fg": [ "mansion_S", "mansion_W", "mansion_N", "mansion_E" ],
     "bg": "open_air_tall",
     "rotates": true
   },

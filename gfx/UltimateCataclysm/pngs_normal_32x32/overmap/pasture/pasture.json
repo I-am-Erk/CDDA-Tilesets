@@ -1,6 +1,6 @@
 [
   {
-	  "id": [
+    "id": [
       "ranch_camp_11",
       "ranch_camp_12",
       "ranch_camp_13",
@@ -43,62 +43,56 @@
       "ranch_camp_70",
       "ranch_camp_71"
     ],
-  	"fg": "pasture_center",
-  	"rotates": true
+    "fg": "pasture_center",
+    "rotates": true
   },
   {
-	  "id": "2farm_4",
-	  "fg": [ "pasture_end_n", "pasture_end_e", "pasture_end_s", "pasture_end_w" ],
-  	"rotates": true
+    "id": "2farm_4",
+    "fg": [ "pasture_end_n", "pasture_end_w", "pasture_end_s", "pasture_end_e" ],
+    "rotates": true
   },
   {
-	  "id": [
-      "paddock_d_U_gap",
-      "paddock_d_D_gap",
-      "paddock_special_3",
-      "paddock_special_4",
-      "paddock_d_U_butt"
-    ],
-	  "fg": [ "pasture_end_s", "pasture_end_e", "pasture_end_n", "pasture_end_w" ],
-  	"rotates": true
+    "id": [ "paddock_d_U_gap", "paddock_d_D_gap", "paddock_special_3", "paddock_special_4", "paddock_d_U_butt" ],
+    "fg": [ "pasture_end_s", "pasture_end_w", "pasture_end_n", "pasture_end_e" ],
+    "rotates": true
   },
   {
-	  "id": [ "2farm_8", "paddock_d_D_butt" ],
-	  "fg": [ "pasture_end_s", "pasture_end_e", "pasture_end_n", "pasture_end_w" ],
-  	"rotates": true
+    "id": [ "2farm_8", "paddock_d_D_butt" ],
+    "fg": [ "pasture_end_s", "pasture_end_w", "pasture_end_n", "pasture_end_e" ],
+    "rotates": true
   },
   {
-	  "id": [ "dairy_farm_NW", "paddock_L_butt", "paddock_L_gap" ],
-	  "fg": [ "pasture_end_w", "pasture_end_s", "pasture_end_e", "pasture_end_n" ],
-	  "rotates": true
+    "id": [ "dairy_farm_NW", "paddock_L_butt", "paddock_L_gap" ],
+    "fg": [ "pasture_end_w", "pasture_end_n", "pasture_end_e", "pasture_end_s" ],
+    "rotates": true
   },
   {
-	  "id": [ "dairy_farm_NE", "paddock_trailhead_5", "paddock_R_butt" ],
-	  "fg": [ "pasture_end_e", "pasture_end_n", "pasture_end_w", "pasture_end_s" ],
-	  "rotates": true
+    "id": [ "dairy_farm_NE", "paddock_trailhead_5", "paddock_R_butt" ],
+    "fg": [ "pasture_end_e", "pasture_end_s", "pasture_end_w", "pasture_end_n" ],
+    "rotates": true
   },
   {
-	  "id": [ "ranch_camp_9", "splitrail_fence_UR", "paddock_trailhead_9" ],
-	  "fg": [ "pasture_corner_ne", "pasture_corner_nw", "pasture_corner_sw", "pasture_corner_se" ],
-	  "rotates": true
+    "id": [ "ranch_camp_9", "splitrail_fence_UR", "paddock_trailhead_9" ],
+    "fg": [ "pasture_corner_ne", "pasture_corner_se", "pasture_corner_sw", "pasture_corner_nw" ],
+    "rotates": true
   },
   {
-	  "id": [ "ranch_camp_1", "splitrail_fence_UL" ],
-	  "fg": [ "pasture_corner_nw", "pasture_corner_sw", "pasture_corner_se", "pasture_corner_ne" ],
-	  "rotates": true
+    "id": [ "ranch_camp_1", "splitrail_fence_UL" ],
+    "fg": [ "pasture_corner_nw", "pasture_corner_nw", "pasture_corner_se", "pasture_corner_sw" ],
+    "rotates": true
   },
   {
-	  "id": [ "ranch_camp_73", "ranch_camp_78", "paddock_special_1", "splitrail_fence_DL" ],
-	  "fg": [ "pasture_corner_sw", "pasture_corner_se", "pasture_corner_ne", "pasture_corner_nw" ],
-  	"rotates": true
+    "id": [ "ranch_camp_73", "ranch_camp_78", "paddock_special_1", "splitrail_fence_DL" ],
+    "fg": [ "pasture_corner_sw", "pasture_corner_nw", "pasture_corner_ne", "pasture_corner_se" ],
+    "rotates": true
   },
   {
-  	"id": [ "ranch_camp_75", "ranch_camp_81", "paddock_DR", "paddock_trailhead_7" ],
-  	"fg": [ "pasture_corner_se", "pasture_corner_nw", "pasture_corner_ne", "pasture_corner_sw" ],
-  	"rotates": true
+    "id": [ "ranch_camp_75", "ranch_camp_81", "paddock_DR", "paddock_trailhead_7" ],
+    "fg": [ "pasture_corner_se", "pasture_corner_sw", "pasture_corner_ne", "pasture_corner_nw" ],
+    "rotates": true
   },
   {
-  	"id": [
+    "id": [
       "ranch_camp_10",
       "ranch_camp_19",
       "ranch_camp_28",
@@ -107,11 +101,11 @@
       "ranch_camp_55",
       "ranch_camp_64"
     ],
-  	"fg": [ "pasture_not_w", "pasture_not_s", "pasture_not_e", "pasture_not_n" ],
-	  "rotates": true
+    "fg": [ "pasture_not_w", "pasture_not_n", "pasture_not_e", "pasture_not_s" ],
+    "rotates": true
   },
   {
-	  "id": [
+    "id": [
       "ranch_camp_2",
       "ranch_camp_3",
       "ranch_camp_4",
@@ -122,11 +116,11 @@
       "splitrail_fence_gap",
       "splitrail_fence_butt"
     ],
-	  "fg": [ "pasture_not_n", "pasture_not_w", "pasture_not_s", "pasture_not_e" ],
-	  "rotates": true
+    "fg": [ "pasture_not_n", "pasture_not_e", "pasture_not_s", "pasture_not_w" ],
+    "rotates": true
   },
   {
-  	"id": [
+    "id": [
       "ranch_camp_18",
       "ranch_camp_27",
       "ranch_camp_36",
@@ -135,23 +129,23 @@
       "ranch_camp_63",
       "ranch_camp_72"
     ],
-  	"fg": [ "pasture_not_e", "pasture_not_n", "pasture_not_w", "pasture_not_s" ],
-  	"rotates": true
-  },
-  {
-    "id": "splitrail_fence_inner",
-    "fg": [ "pasture_not_s", "pasture_not_n", "pasture_not_e", "pasture_not_w" ],
-    "rotates": true
-  },
-  {
-    "id": "ranch_camp_69",
     "fg": [ "pasture_not_e", "pasture_not_s", "pasture_not_w", "pasture_not_n" ],
     "rotates": true
   },
   {
-  	"id": [ "ranch_camp_58", "ranch_camp_59", "ranch_camp_74", "ranch_camp_79", "ranch_camp_80" ],
-  	"fg": [ "pasture_not_s", "pasture_not_e", "pasture_not_n", "pasture_not_w" ],
-  	"rotates": true
+    "id": "splitrail_fence_inner",
+    "fg": [ "pasture_not_s", "pasture_not_w", "pasture_not_e", "pasture_not_n" ],
+    "rotates": true
+  },
+  {
+    "id": "ranch_camp_69",
+    "fg": [ "pasture_not_e", "pasture_not_n", "pasture_not_w", "pasture_not_s" ],
+    "rotates": true
+  },
+  {
+    "id": [ "ranch_camp_58", "ranch_camp_59", "ranch_camp_74", "ranch_camp_79", "ranch_camp_80" ],
+    "fg": [ "pasture_not_s", "pasture_not_w", "pasture_not_n", "pasture_not_e" ],
+    "rotates": true
   },
   {
     "id": [ "paddock", "paddock_R_gap", "paddock_C", "paddock_end_DL", "paddock_end_UL", "paddock_end_DR", "paddock_end_UR" ],
@@ -183,16 +177,16 @@
   },
   {
     "id": "splitrail_fence_DR",
-    "fg": [ "pasture_corner_se", "pasture_corner_ne", "pasture_corner_nw", "pasture_corner_sw" ],
+    "fg": [ "pasture_corner_se", "pasture_corner_sw", "pasture_corner_nw", "pasture_corner_ne" ],
     "rotates": true
   },
   {
     "id": "farm_horse_track_large_1",
     "fg": [
       "t_railroad_rubble_corner_ne",
-      "t_railroad_rubble_corner_sw",
+      "t_railroad_rubble_corner_se",
       "t_railroad_rubble_corner_nw",
-      "t_railroad_rubble_corner_se"
+      "t_railroad_rubble_corner_sw"
     ],
     "bg": "field",
     "rotates": true
@@ -201,9 +195,9 @@
     "id": "farm_horse_track_large_2",
     "fg": [
       "t_railroad_rubble_corner_se",
-      "t_railroad_rubble_corner_nw",
+      "t_railroad_rubble_corner_ne",
       "t_railroad_rubble_corner_sw",
-      "t_railroad_rubble_corner_ne"
+      "t_railroad_rubble_corner_nw"
     ],
     "bg": "field",
     "rotates": true
@@ -212,9 +206,9 @@
     "id": "farm_horse_track_large_3",
     "fg": [
       "t_railroad_rubble_corner_nw",
-      "t_railroad_rubble_corner_se",
+      "t_railroad_rubble_corner_sw",
       "t_railroad_rubble_corner_ne",
-      "t_railroad_rubble_corner_sw"
+      "t_railroad_rubble_corner_se"
     ],
     "bg": "field",
     "rotates": true
@@ -223,9 +217,9 @@
     "id": "farm_horse_track_large_4",
     "fg": [
       "t_railroad_rubble_corner_sw",
-      "t_railroad_rubble_corner_ne",
+      "t_railroad_rubble_corner_nw",
       "t_railroad_rubble_corner_se",
-      "t_railroad_rubble_corner_nw"
+      "t_railroad_rubble_corner_ne"
     ],
     "bg": "field",
     "rotates": true
@@ -234,9 +228,9 @@
     "id": "farm_horse_track_1",
     "fg": [
       "t_railroad_rubble_end_piece_n",
-      "t_railroad_rubble_end_piece_w",
+      "t_railroad_rubble_end_piece_e",
       "t_railroad_rubble_end_piece_s",
-      "t_railroad_rubble_end_piece_e"
+      "t_railroad_rubble_end_piece_w"
     ],
     "bg": "field",
     "rotates": true
@@ -245,9 +239,9 @@
     "id": "farm_horse_track_2",
     "fg": [
       "t_railroad_rubble_end_piece_s",
-      "t_railroad_rubble_end_piece_e",
+      "t_railroad_rubble_end_piece_w",
       "t_railroad_rubble_end_piece_n",
-      "t_railroad_rubble_end_piece_w"
+      "t_railroad_rubble_end_piece_e"
     ],
     "bg": "field",
     "rotates": true
