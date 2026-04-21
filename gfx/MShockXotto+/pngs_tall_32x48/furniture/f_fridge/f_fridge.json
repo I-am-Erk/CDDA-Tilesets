@@ -1,6 +1,14 @@
 {
-  "id": [ "f_fridge", "vp_ap_fridge" ],
+  "id": [
+    "f_fridge",
+    "vp_ap_fridge"
+  ],
   "rotates": true,
-  "fg": ["f_fridge", "f_fridge_W", "f_fridge_N", "f_fridge_E"],
+  "fg": [
+    "f_fridge",
+    "f_fridge_E",
+    "f_fridge_N",
+    "f_fridge_W"
+  ],
   "bg": ""
 }
