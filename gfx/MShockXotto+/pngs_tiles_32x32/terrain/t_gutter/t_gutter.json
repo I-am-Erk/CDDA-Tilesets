@@ -6,7 +6,7 @@
     { "id": "center", "fg": "t_gutter_center" },
     {
       "id": "corner",
-      "fg": [ "t_gutter_corner_nw", "t_gutter_corner_sw", "t_gutter_corner_se", "t_gutter_corner_ne" ]
+      "fg": [ "t_gutter_corner_nw", "t_gutter_corner_ne", "t_gutter_corner_se", "t_gutter_corner_sw" ]
     },
     {
       "id": "t_connection",

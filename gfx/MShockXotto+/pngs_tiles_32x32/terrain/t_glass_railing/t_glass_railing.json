@@ -6,48 +6,33 @@
   "additional_tiles": [
     {
       "id": "corner",
-      "fg": [
-        "t_glass_railing_corner_nw",
-        "t_glass_railing_corner_sw",
-        "t_glass_railing_corner_se",
-        "t_glass_railing_corner_ne"
-      ],
+      "fg": [ "t_glass_railing_corner_nw", "t_glass_railing_corner_ne", "t_glass_railing_corner_se", "t_glass_railing_corner_sw" ],
       "bg": "t_pavement"
     },
     {
       "id": "t_connection",
       "fg": [
         "t_glass_railing_t_connection_n",
-        "t_glass_railing_t_connection_w",
+        "t_glass_railing_t_connection_e",
         "t_glass_railing_t_connection_s",
-        "t_glass_railing_t_connection_e"
+        "t_glass_railing_t_connection_w"
       ],
       "bg": "t_pavement"
     },
-    {
-      "id": "edge",
-      "fg": [
-        "t_glass_railing_edge_ns",
-        "t_glass_railing_edge_ew"
-      ],
-      "bg": "t_pavement"
-    },
+    { "id": "edge", "fg": [ "t_glass_railing_edge_ns", "t_glass_railing_edge_ew" ], "bg": "t_pavement" },
     {
       "id": "end_piece",
       "fg": [
         "t_glass_railing_end_piece_n",
-        "t_glass_railing_end_piece_w",
+        "t_glass_railing_end_piece_e",
         "t_glass_railing_end_piece_s",
-        "t_glass_railing_end_piece_e"
+        "t_glass_railing_end_piece_w"
       ],
       "bg": "t_pavement"
     },
     {
       "id": "unconnected",
-      "fg": [
-        "t_glass_railing_unconnected",
-        "t_glass_railing_unconnected"
-      ],
+      "fg": [ "t_glass_railing_unconnected", "t_glass_railing_unconnected" ],
       "bg": "t_pavement"
     }
   ]

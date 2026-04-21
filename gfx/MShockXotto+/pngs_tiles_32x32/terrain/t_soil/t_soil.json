@@ -7,9 +7,9 @@
     {
       "id": "corner",
       "fg": [
-        { "weight": 2, "sprite": [ "t_soil_corner_nw", "t_soil_corner_sw", "t_soil_corner_se", "t_soil_corner_ne" ] },
-        { "weight": 1, "sprite": [ "t_soil_corner_nw", "t_soil_corner_sw2", "t_soil_corner_se", "t_soil_corner_ne" ] },
-        { "weight": 1, "sprite": [ "t_soil_corner_nw", "t_soil_corner_sw", "t_soil_corner_se2", "t_soil_corner_ne" ] }
+        { "weight": 2, "sprite": [ "t_soil_corner_nw", "t_soil_corner_ne", "t_soil_corner_se", "t_soil_corner_sw" ] },
+        { "weight": 1, "sprite": [ "t_soil_corner_nw", "t_soil_corner_ne", "t_soil_corner_se", "t_soil_corner_sw2" ] },
+        { "weight": 1, "sprite": [ "t_soil_corner_nw", "t_soil_corner_ne", "t_soil_corner_se2", "t_soil_corner_sw" ] }
       ]
     },
     {
@@ -17,11 +17,11 @@
       "fg": [
         {
           "weight": 2,
-          "sprite": [ "t_soil_t_connection_n", "t_soil_t_connection_w", "t_soil_t_connection_s", "t_soil_t_connection_e" ]
+          "sprite": [ "t_soil_t_connection_n", "t_soil_t_connection_e", "t_soil_t_connection_s", "t_soil_t_connection_w" ]
         },
         {
           "weight": 1,
-          "sprite": [ "t_soil_t_connection_n", "t_soil_t_connection_w", "t_soil_t_connection_s2", "t_soil_t_connection_e" ]
+          "sprite": [ "t_soil_t_connection_n", "t_soil_t_connection_e", "t_soil_t_connection_s2", "t_soil_t_connection_w" ]
         }
       ]
     },
@@ -35,18 +35,18 @@
     {
       "id": "end_piece",
       "fg": [
-        { "weight": 2, "sprite": [ "t_soil_end_piece_n", "t_soil_end_piece_w", "t_soil_end_piece_s", "t_soil_end_piece_e" ] },
+        { "weight": 2, "sprite": [ "t_soil_end_piece_n", "t_soil_end_piece_e", "t_soil_end_piece_s", "t_soil_end_piece_w" ] },
         {
           "weight": 1,
-          "sprite": [ "t_soil_end_piece_n", "t_soil_end_piece_w2", "t_soil_end_piece_s", "t_soil_end_piece_e" ]
+          "sprite": [ "t_soil_end_piece_n", "t_soil_end_piece_e", "t_soil_end_piece_s", "t_soil_end_piece_w2" ]
         },
         {
           "weight": 1,
-          "sprite": [ "t_soil_end_piece_n", "t_soil_end_piece_w", "t_soil_end_piece_s2", "t_soil_end_piece_e" ]
+          "sprite": [ "t_soil_end_piece_n", "t_soil_end_piece_e", "t_soil_end_piece_s2", "t_soil_end_piece_w" ]
         },
         {
           "weight": 1,
-          "sprite": [ "t_soil_end_piece_n", "t_soil_end_piece_w", "t_soil_end_piece_s", "t_soil_end_piece_e2" ]
+          "sprite": [ "t_soil_end_piece_n", "t_soil_end_piece_e2", "t_soil_end_piece_s", "t_soil_end_piece_w" ]
         }
       ]
     },

@@ -19,19 +19,19 @@
       "fg": [
         {
           "weight": 20,
-          "sprite": [ "t_wall_warped_corner_nw", "t_wall_warped_corner_sw", "t_wall_warped_corner_se", "t_wall_warped_corner_ne" ]
+          "sprite": [ "t_wall_warped_corner_nw", "t_wall_warped_corner_ne", "t_wall_warped_corner_se", "t_wall_warped_corner_sw" ]
         },
         {
           "weight": 20,
-          "sprite": [ "t_wall_warped_2_corner_nw", "t_wall_warped_2_corner_sw", "t_wall_warped_2_corner_se", "t_wall_warped_2_corner_ne" ]
+          "sprite": [ "t_wall_warped_2_corner_nw", "t_wall_warped_2_corner_ne", "t_wall_warped_2_corner_se", "t_wall_warped_2_corner_sw" ]
         },
         {
           "weight": 40,
-          "sprite": [ "t_wall_warped_1_corner_nw", "t_wall_warped_1_corner_sw", "t_wall_warped_1_corner_se", "t_wall_warped_1_corner_ne" ]
+          "sprite": [ "t_wall_warped_1_corner_nw", "t_wall_warped_1_corner_ne", "t_wall_warped_1_corner_se", "t_wall_warped_1_corner_sw" ]
         },
         {
           "weight": 20,
-          "sprite": [ "t_wall_warped_2_corner_nw", "t_wall_warped_2_corner_sw", "t_wall_warped_2_corner_se", "t_wall_warped_2_corner_ne" ]
+          "sprite": [ "t_wall_warped_2_corner_nw", "t_wall_warped_2_corner_ne", "t_wall_warped_2_corner_se", "t_wall_warped_2_corner_sw" ]
         }
       ]
     },
@@ -41,19 +41,39 @@
       "fg": [
         {
           "weight": 20,
-          "sprite": [ "t_wall_warped_t_connection_n", "t_wall_warped_t_connection_w", "t_wall_warped_t_connection_s", "t_wall_warped_t_connection_e" ]
+          "sprite": [
+            "t_wall_warped_t_connection_n",
+            "t_wall_warped_t_connection_e",
+            "t_wall_warped_t_connection_s",
+            "t_wall_warped_t_connection_w"
+          ]
         },
         {
           "weight": 20,
-          "sprite": [ "t_wall_warped_2_t_connection_n", "t_wall_warped_2_t_connection_w", "t_wall_warped_2_t_connection_s", "t_wall_warped_2_t_connection_e" ]
+          "sprite": [
+            "t_wall_warped_2_t_connection_n",
+            "t_wall_warped_2_t_connection_e",
+            "t_wall_warped_2_t_connection_s",
+            "t_wall_warped_2_t_connection_w"
+          ]
         },
         {
           "weight": 40,
-          "sprite": [ "t_wall_warped_1_t_connection_n", "t_wall_warped_1_t_connection_w", "t_wall_warped_1_t_connection_s", "t_wall_warped_1_t_connection_e" ]
+          "sprite": [
+            "t_wall_warped_1_t_connection_n",
+            "t_wall_warped_1_t_connection_e",
+            "t_wall_warped_1_t_connection_s",
+            "t_wall_warped_1_t_connection_w"
+          ]
         },
         {
           "weight": 20,
-          "sprite": [ "t_wall_warped_2_t_connection_n", "t_wall_warped_2_t_connection_w", "t_wall_warped_2_t_connection_s", "t_wall_warped_2_t_connection_e" ]
+          "sprite": [
+            "t_wall_warped_2_t_connection_n",
+            "t_wall_warped_2_t_connection_e",
+            "t_wall_warped_2_t_connection_s",
+            "t_wall_warped_2_t_connection_w"
+          ]
         }
       ]
     },
@@ -73,19 +93,34 @@
       "fg": [
         {
           "weight": 20,
-          "sprite": [ "t_wall_warped_end_piece_n", "t_wall_warped_end_piece_w", "t_wall_warped_end_piece_s", "t_wall_warped_end_piece_e" ]
+          "sprite": [ "t_wall_warped_end_piece_n", "t_wall_warped_end_piece_e", "t_wall_warped_end_piece_s", "t_wall_warped_end_piece_w" ]
         },
         {
           "weight": 20,
-          "sprite": [ "t_wall_warped_2_end_piece_n", "t_wall_warped_2_end_piece_w", "t_wall_warped_2_end_piece_s", "t_wall_warped_2_end_piece_e" ]
+          "sprite": [
+            "t_wall_warped_2_end_piece_n",
+            "t_wall_warped_2_end_piece_e",
+            "t_wall_warped_2_end_piece_s",
+            "t_wall_warped_2_end_piece_w"
+          ]
         },
         {
           "weight": 40,
-          "sprite": [ "t_wall_warped_1_end_piece_n", "t_wall_warped_1_end_piece_w", "t_wall_warped_1_end_piece_s", "t_wall_warped_1_end_piece_e" ]
+          "sprite": [
+            "t_wall_warped_1_end_piece_n",
+            "t_wall_warped_1_end_piece_e",
+            "t_wall_warped_1_end_piece_s",
+            "t_wall_warped_1_end_piece_w"
+          ]
         },
         {
           "weight": 20,
-          "sprite": [ "t_wall_warped_2_end_piece_n", "t_wall_warped_2_end_piece_w", "t_wall_warped_2_end_piece_s", "t_wall_warped_2_end_piece_e" ]
+          "sprite": [
+            "t_wall_warped_2_end_piece_n",
+            "t_wall_warped_2_end_piece_e",
+            "t_wall_warped_2_end_piece_s",
+            "t_wall_warped_2_end_piece_w"
+          ]
         }
       ]
     },

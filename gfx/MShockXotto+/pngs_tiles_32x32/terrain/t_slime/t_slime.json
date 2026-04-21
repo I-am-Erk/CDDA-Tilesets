@@ -3,50 +3,17 @@
   "fg": "t_slime_unconnected",
   "multitile": true,
   "additional_tiles": [
-    {
-      "id": "center",
-      "fg": "t_slime_center"
-    },
-    {
-      "id": "corner",
-      "fg": [
-        "t_slime_corner_nw",
-        "t_slime_corner_sw",
-        "t_slime_corner_se",
-        "t_slime_corner_ne"
-      ]
-    },
+    { "id": "center", "fg": "t_slime_center" },
+    { "id": "corner", "fg": [ "t_slime_corner_nw", "t_slime_corner_ne", "t_slime_corner_se", "t_slime_corner_sw" ] },
     {
       "id": "t_connection",
-      "fg": [
-        "t_slime_t_connection_n",
-        "t_slime_t_connection_w",
-        "t_slime_t_connection_s",
-        "t_slime_t_connection_e"
-      ]
+      "fg": [ "t_slime_t_connection_n", "t_slime_t_connection_e", "t_slime_t_connection_s", "t_slime_t_connection_w" ]
     },
-    {
-      "id": "edge",
-      "fg": [
-        "t_slime_edge_ns",
-        "t_slime_edge_ew"
-      ]
-    },
+    { "id": "edge", "fg": [ "t_slime_edge_ns", "t_slime_edge_ew" ] },
     {
       "id": "end_piece",
-      "fg": [
-        "t_slime_end_piece_n",
-        "t_slime_end_piece_w",
-        "t_slime_end_piece_s",
-        "t_slime_end_piece_e"
-      ]
+      "fg": [ "t_slime_end_piece_n", "t_slime_end_piece_e", "t_slime_end_piece_s", "t_slime_end_piece_w" ]
     },
-    {
-      "id": "unconnected",
-      "fg": [
-        "t_slime_unconnected",
-        "t_slime_unconnected"
-      ]
-    }
+    { "id": "unconnected", "fg": [ "t_slime_unconnected", "t_slime_unconnected" ] }
   ]
 }

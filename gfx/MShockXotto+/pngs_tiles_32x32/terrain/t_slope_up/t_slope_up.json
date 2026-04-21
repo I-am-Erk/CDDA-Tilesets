@@ -19,19 +19,19 @@
       "fg": [
         {
           "weight": 15,
-          "sprite": [ "t_slope_up_1_corner_nw", "t_slope_up_1_corner_sw", "t_slope_up_1_corner_se", "t_slope_up_1_corner_ne" ]
+          "sprite": [ "t_slope_up_1_corner_nw", "t_slope_up_1_corner_ne", "t_slope_up_1_corner_se", "t_slope_up_1_corner_sw" ]
         },
         {
           "weight": 15,
-          "sprite": [ "t_slope_up_2_corner_nw", "t_slope_up_2_corner_sw", "t_slope_up_2_corner_se", "t_slope_up_2_corner_ne" ]
+          "sprite": [ "t_slope_up_2_corner_nw", "t_slope_up_2_corner_ne", "t_slope_up_2_corner_se", "t_slope_up_2_corner_sw" ]
         },
         {
           "weight": 15,
-          "sprite": [ "t_slope_up_3_corner_nw", "t_slope_up_3_corner_sw", "t_slope_up_3_corner_se", "t_slope_up_3_corner_ne" ]
+          "sprite": [ "t_slope_up_3_corner_nw", "t_slope_up_3_corner_ne", "t_slope_up_3_corner_se", "t_slope_up_3_corner_sw" ]
         },
         {
           "weight": 15,
-          "sprite": [ "t_slope_up_2_corner_nw", "t_slope_up_2_corner_sw", "t_slope_up_2_corner_se", "t_slope_up_2_corner_ne" ]
+          "sprite": [ "t_slope_up_2_corner_nw", "t_slope_up_2_corner_ne", "t_slope_up_2_corner_se", "t_slope_up_2_corner_sw" ]
         }
       ]
     },
@@ -43,36 +43,36 @@
           "weight": 15,
           "sprite": [
             "t_slope_up_1_t_connection_n",
-            "t_slope_up_1_t_connection_w",
+            "t_slope_up_1_t_connection_e",
             "t_slope_up_1_t_connection_s",
-            "t_slope_up_1_t_connection_e"
+            "t_slope_up_1_t_connection_w"
           ]
         },
         {
           "weight": 15,
           "sprite": [
             "t_slope_up_2_t_connection_n",
-            "t_slope_up_2_t_connection_w",
+            "t_slope_up_2_t_connection_e",
             "t_slope_up_2_t_connection_s",
-            "t_slope_up_2_t_connection_e"
+            "t_slope_up_2_t_connection_w"
           ]
         },
         {
           "weight": 15,
           "sprite": [
             "t_slope_up_3_t_connection_n",
-            "t_slope_up_3_t_connection_w",
+            "t_slope_up_3_t_connection_e",
             "t_slope_up_3_t_connection_s",
-            "t_slope_up_3_t_connection_e"
+            "t_slope_up_3_t_connection_w"
           ]
         },
         {
           "weight": 15,
           "sprite": [
             "t_slope_up_2_t_connection_n",
-            "t_slope_up_2_t_connection_w",
+            "t_slope_up_2_t_connection_e",
             "t_slope_up_2_t_connection_s",
-            "t_slope_up_2_t_connection_e"
+            "t_slope_up_2_t_connection_w"
           ]
         }
       ]

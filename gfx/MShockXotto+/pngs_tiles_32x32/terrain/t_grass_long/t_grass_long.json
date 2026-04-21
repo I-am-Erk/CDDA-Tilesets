@@ -11,16 +11,16 @@
       },
       {
         "id": "corner",
-        "fg": [ "t_grass_long_corner_nw", "t_grass_long_corner_sw", "t_grass_long_corner_se", "t_grass_long_corner_ne" ],
+        "fg": [ "t_grass_long_corner_nw", "t_grass_long_corner_ne", "t_grass_long_corner_se", "t_grass_long_corner_sw" ],
         "bg": [ { "weight": 1, "sprite": "t_grass" }, { "weight": 1, "sprite": "t_grass_1" }, { "weight": 1, "sprite": "t_grass_2" } ]
       },
       {
         "id": "t_connection",
         "fg": [
           "t_grass_long_t_connection_n",
-          "t_grass_long_t_connection_w",
+          "t_grass_long_t_connection_e",
           "t_grass_long_t_connection_s",
-          "t_grass_long_t_connection_e"
+          "t_grass_long_t_connection_w"
         ],
         "bg": [ { "weight": 1, "sprite": "t_grass" }, { "weight": 1, "sprite": "t_grass_1" }, { "weight": 1, "sprite": "t_grass_2" } ]
       },
@@ -31,7 +31,7 @@
       },
       {
         "id": "end_piece",
-        "fg": [ "t_grass_long_end_piece_n", "t_grass_long_end_piece_w", "t_grass_long_end_piece_s", "t_grass_long_end_piece_e" ],
+        "fg": [ "t_grass_long_end_piece_n", "t_grass_long_end_piece_e", "t_grass_long_end_piece_s", "t_grass_long_end_piece_w" ],
         "bg": [ { "weight": 1, "sprite": "t_grass" }, { "weight": 1, "sprite": "t_grass_1" }, { "weight": 1, "sprite": "t_grass_2" } ]
       },
       {
@@ -59,9 +59,9 @@
         "id": "corner",
         "fg": [
           "t_grass_long_autumn_corner_nw",
-          "t_grass_long_autumn_corner_sw",
+          "t_grass_long_autumn_corner_ne",
           "t_grass_long_autumn_corner_se",
-          "t_grass_long_autumn_corner_ne"
+          "t_grass_long_autumn_corner_sw"
         ],
         "bg": [
           { "weight": 1, "sprite": "t_grass_autumn" },
@@ -73,9 +73,9 @@
         "id": "t_connection",
         "fg": [
           "t_grass_long_autumn_t_connection_n",
-          "t_grass_long_autumn_t_connection_w",
+          "t_grass_long_autumn_t_connection_e",
           "t_grass_long_autumn_t_connection_s",
-          "t_grass_long_autumn_t_connection_e"
+          "t_grass_long_autumn_t_connection_w"
         ],
         "bg": [
           { "weight": 1, "sprite": "t_grass_autumn" },
@@ -96,9 +96,9 @@
         "id": "end_piece",
         "fg": [
           "t_grass_long_autumn_end_piece_n",
-          "t_grass_long_autumn_end_piece_w",
+          "t_grass_long_autumn_end_piece_e",
           "t_grass_long_autumn_end_piece_s",
-          "t_grass_long_autumn_end_piece_e"
+          "t_grass_long_autumn_end_piece_w"
         ],
         "bg": [
           { "weight": 1, "sprite": "t_grass_autumn" },
@@ -135,9 +135,9 @@
         "id": "corner",
         "fg": [
           "t_grass_long_summer_corner_nw",
-          "t_grass_long_summer_corner_sw",
+          "t_grass_long_summer_corner_ne",
           "t_grass_long_summer_corner_se",
-          "t_grass_long_summer_corner_ne"
+          "t_grass_long_summer_corner_sw"
         ],
         "bg": [
           { "weight": 1, "sprite": "t_grass_summer" },
@@ -149,9 +149,9 @@
         "id": "t_connection",
         "fg": [
           "t_grass_long_summer_t_connection_n",
-          "t_grass_long_summer_t_connection_w",
+          "t_grass_long_summer_t_connection_e",
           "t_grass_long_summer_t_connection_s",
-          "t_grass_long_summer_t_connection_e"
+          "t_grass_long_summer_t_connection_w"
         ],
         "bg": [
           { "weight": 1, "sprite": "t_grass_summer" },
@@ -172,9 +172,9 @@
         "id": "end_piece",
         "fg": [
           "t_grass_long_summer_end_piece_n",
-          "t_grass_long_summer_end_piece_w",
+          "t_grass_long_summer_end_piece_e",
           "t_grass_long_summer_end_piece_s",
-          "t_grass_long_summer_end_piece_e"
+          "t_grass_long_summer_end_piece_w"
         ],
         "bg": [
           { "weight": 1, "sprite": "t_grass_summer" },
@@ -211,9 +211,9 @@
         "id": "corner",
         "fg": [
           "t_grass_long_winter_corner_nw",
-          "t_grass_long_winter_corner_sw",
+          "t_grass_long_winter_corner_ne",
           "t_grass_long_winter_corner_se",
-          "t_grass_long_winter_corner_ne"
+          "t_grass_long_winter_corner_sw"
         ],
         "bg": [
           { "weight": 100, "sprite": "t_grass_winter" },
@@ -225,9 +225,9 @@
         "id": "t_connection",
         "fg": [
           "t_grass_long_winter_t_connection_n",
-          "t_grass_long_winter_t_connection_w",
+          "t_grass_long_winter_t_connection_e",
           "t_grass_long_winter_t_connection_s",
-          "t_grass_long_winter_t_connection_e"
+          "t_grass_long_winter_t_connection_w"
         ],
         "bg": [
           { "weight": 100, "sprite": "t_grass_winter" },
@@ -248,9 +248,9 @@
         "id": "end_piece",
         "fg": [
           "t_grass_long_winter_end_piece_n",
-          "t_grass_long_winter_end_piece_w",
+          "t_grass_long_winter_end_piece_e",
           "t_grass_long_winter_end_piece_s",
-          "t_grass_long_winter_end_piece_e"
+          "t_grass_long_winter_end_piece_w"
         ],
         "bg": [
           { "weight": 100, "sprite": "t_grass_winter" },
