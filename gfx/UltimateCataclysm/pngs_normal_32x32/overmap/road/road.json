@@ -8,7 +8,7 @@
       { "id": "center", "fg": "road_center" },
       {
         "id": "corner",
-        "fg": [ "road_corner_nw", "road_corner_ne", "road_corner_se", "road_corner_sw" ],
+        "fg": [ "road_corner_se", "road_corner_sw", "road_corner_nw", "road_corner_ne" ],
         "bg": "field"
       },
       {

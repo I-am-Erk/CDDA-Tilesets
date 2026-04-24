@@ -6,7 +6,7 @@
     { "id": "center", "fg": "forest_trail_center" },
     {
       "id": "corner",
-      "fg": [ "forest_trail_corner_nw", "forest_trail_corner_ne", "forest_trail_corner_se", "forest_trail_corner_sw" ]
+      "fg": [ "forest_trail_corner_se", "forest_trail_corner_sw", "forest_trail_corner_nw", "forest_trail_corner_ne" ]
     },
     {
       "id": "t_connection",
