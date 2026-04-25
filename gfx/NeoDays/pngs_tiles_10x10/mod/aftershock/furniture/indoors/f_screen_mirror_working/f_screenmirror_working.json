@@ -1,0 +1,12 @@
+{
+  "id": "f_screenmirror_working",
+  "animated": true,
+  "fg": [
+    { "weight": 1, "sprite": "f_screenmirror_1" },
+    { "weight": 1, "sprite": "f_screenmirror_2" },
+    { "weight": 1, "sprite": "f_screenmirror_3" },
+    { "weight": 1, "sprite": "f_screenmirror_4" },
+    { "weight": 1, "sprite": "f_screenmirror_5" },
+    { "weight": 1, "sprite": "f_screenmirror_6" }
+  ]
+}
