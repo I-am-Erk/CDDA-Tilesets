@@ -19,7 +19,7 @@
     { "id": "edge", "fg": [ "243_t_fence_h_5", "244_t_fence_h_6", "243_t_fence_h_5", "244_t_fence_h_6" ], "bg": [  ] },
     {
       "id": "end_piece",
-      "fg": [ "245_t_fence_h_7", "244_t_fence_h_6", "243_t_fence_h_5", "238_t_fence_h_0" ],
+      "fg": [ "243_t_fence_h_5", "238_t_fence_h_0", "245_t_fence_h_7", "244_t_fence_h_6" ],
       "bg": [  ]
     },
     {
