@@ -17,7 +17,7 @@
     },
     {
       "id": "end_piece",
-      "fg": [ "877_t_slime_13", "876_t_slime_12", "875_t_slime_11", "878_t_slime_14" ],
+      "fg": [ "875_t_slime_11", "878_t_slime_14", "877_t_slime_13", "876_t_slime_12" ],
       "bg": [  ]
     },
     { "id": "center", "fg": [ "879_t_slime_15" ], "bg": [  ] }

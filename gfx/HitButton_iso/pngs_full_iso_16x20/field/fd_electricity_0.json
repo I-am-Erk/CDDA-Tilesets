@@ -21,7 +21,7 @@
     },
     {
       "id": "end_piece",
-      "fg": [ "477_fd_electricity_13", "476_fd_electricity_12", "475_fd_electricity_11", "478_fd_electricity_14" ],
+      "fg": [ "475_fd_electricity_11", "478_fd_electricity_14", "477_fd_electricity_13", "476_fd_electricity_12" ],
       "bg": [  ]
     },
     { "id": "center", "fg": [ "479_fd_electricity_15" ], "bg": [  ] }

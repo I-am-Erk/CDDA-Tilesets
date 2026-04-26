@@ -21,7 +21,7 @@
     },
     {
       "id": "end_piece",
-      "fg": [ "749_t_pit_shallow_13", "748_t_pit_shallow_12", "747_t_pit_shallow_11", "750_t_pit_shallow_14" ],
+      "fg": [ "747_t_pit_shallow_11", "750_t_pit_shallow_14", "749_t_pit_shallow_13", "748_t_pit_shallow_12" ],
       "bg": [  ]
     },
     { "id": "center", "fg": [ "751_t_pit_shallow_15" ], "bg": [  ] }

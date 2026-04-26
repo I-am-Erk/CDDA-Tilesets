@@ -13,7 +13,7 @@
     { "id": "edge", "fg": [ "433_fd_sap_1", "434_fd_sap_2" ], "bg": [  ] },
     { "id": "corner", "fg": [ "435_fd_sap_3", "438_fd_sap_6", "437_fd_sap_5", "436_fd_sap_4" ], "bg": [  ] },
     { "id": "t_connection", "fg": [ "439_fd_sap_7", "442_fd_sap_10", "441_fd_sap_9", "440_fd_sap_8" ], "bg": [  ] },
-    { "id": "end_piece", "fg": [ "445_fd_sap_13", "444_fd_sap_12", "443_fd_sap_11", "446_fd_sap_14" ], "bg": [  ] },
+    { "id": "end_piece", "fg": [ "443_fd_sap_11", "446_fd_sap_14", "445_fd_sap_13", "444_fd_sap_12" ], "bg": [  ] },
     { "id": "center", "fg": [ "447_fd_sap_15" ], "bg": [  ] }
   ],
   "bg": [

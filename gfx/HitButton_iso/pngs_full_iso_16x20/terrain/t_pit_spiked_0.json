@@ -21,7 +21,7 @@
     },
     {
       "id": "end_piece",
-      "fg": [ "797_t_pit_spiked_13", "796_t_pit_spiked_12", "795_t_pit_spiked_11", "798_t_pit_spiked_14" ],
+      "fg": [ "795_t_pit_spiked_11", "798_t_pit_spiked_14", "797_t_pit_spiked_13", "796_t_pit_spiked_12" ],
       "bg": [  ]
     },
     { "id": "center", "fg": [ "799_t_pit_spiked_15" ], "bg": [  ] }

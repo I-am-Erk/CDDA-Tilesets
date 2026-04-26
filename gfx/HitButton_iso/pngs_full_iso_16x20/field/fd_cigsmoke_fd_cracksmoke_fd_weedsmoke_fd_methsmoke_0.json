@@ -24,7 +24,7 @@
     },
     {
       "id": "end_piece",
-      "fg": [ "333_fd_cigsmoke_13", "332_fd_cigsmoke_12", "331_fd_cigsmoke_11", "334_fd_cigsmoke_14" ],
+      "fg": [ "331_fd_cigsmoke_11", "334_fd_cigsmoke_14", "333_fd_cigsmoke_13", "332_fd_cigsmoke_12" ],
       "bg": [  ]
     },
     { "id": "center", "fg": [ "335_fd_cigsmoke_15" ], "bg": [  ] }

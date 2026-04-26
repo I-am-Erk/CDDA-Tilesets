@@ -17,7 +17,7 @@
     },
     {
       "id": "end_piece",
-      "fg": [ "60_f_counter_13", "59_f_counter_12", "58_f_counter_11", "61_f_counter_14" ],
+      "fg": [ "58_f_counter_11", "61_f_counter_14", "60_f_counter_13", "59_f_counter_12" ],
       "bg": [  ]
     },
     { "id": "unconnected", "fg": [ "62_f_counter_0" ], "bg": [  ] },

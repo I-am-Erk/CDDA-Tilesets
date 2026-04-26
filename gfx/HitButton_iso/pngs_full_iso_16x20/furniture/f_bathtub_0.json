@@ -21,7 +21,7 @@
     },
     {
       "id": "end_piece",
-      "fg": [ "1069_f_bathtub_13", "1068_f_bathtub_12", "1067_f_bathtub_11", "1070_f_bathtub_14" ],
+      "fg": [ "1067_f_bathtub_11", "1070_f_bathtub_14", "1069_f_bathtub_13", "1068_f_bathtub_12" ],
       "bg": [  ]
     },
     { "id": "center", "fg": [ "1071_f_bathtub_15" ], "bg": [  ] }

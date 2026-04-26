@@ -22,7 +22,7 @@
     },
     {
       "id": "end_piece",
-      "fg": [ "381_fd_toxic_gas_13", "380_fd_toxic_gas_12", "379_fd_toxic_gas_11", "382_fd_toxic_gas_14" ],
+      "fg": [ "379_fd_toxic_gas_11", "382_fd_toxic_gas_14", "381_fd_toxic_gas_13", "380_fd_toxic_gas_12" ],
       "bg": [  ]
     },
     { "id": "center", "fg": [ "383_fd_toxic_gas_15" ], "bg": [  ] }

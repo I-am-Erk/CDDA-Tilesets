@@ -21,7 +21,7 @@
     },
     {
       "id": "end_piece",
-      "fg": [ "461_fd_sludge_13", "460_fd_sludge_12", "459_fd_sludge_11", "462_fd_sludge_14" ],
+      "fg": [ "459_fd_sludge_11", "462_fd_sludge_14", "461_fd_sludge_13", "460_fd_sludge_12" ],
       "bg": [  ]
     },
     { "id": "center", "fg": [ "463_fd_sludge_15" ], "bg": [  ] }

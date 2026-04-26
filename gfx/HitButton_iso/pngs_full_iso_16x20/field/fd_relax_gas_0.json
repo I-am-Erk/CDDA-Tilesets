@@ -21,7 +21,7 @@
     },
     {
       "id": "end_piece",
-      "fg": [ "349_fd_relax_gas_13", "348_fd_relax_gas_12", "347_fd_relax_gas_11", "350_fd_relax_gas_14" ],
+      "fg": [ "347_fd_relax_gas_11", "350_fd_relax_gas_14", "349_fd_relax_gas_13", "348_fd_relax_gas_12" ],
       "bg": [  ]
     },
     { "id": "center", "fg": [ "351_fd_relax_gas_15" ], "bg": [  ] }

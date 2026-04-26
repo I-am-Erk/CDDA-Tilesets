@@ -11,7 +11,7 @@
     { "id": "center", "fg": [ "319_fd_smoke_1" ], "bg": [  ] },
     {
       "id": "end_piece",
-      "fg": [ "317_fd_smoke_4", "316_fd_smoke_3", "315_fd_smoke_2", "318_fd_smoke_5" ],
+      "fg": [ "315_fd_smoke_2", "318_fd_smoke_5", "317_fd_smoke_4", "316_fd_smoke_3" ],
       "bg": [  ]
     },
     { "id": "unconnected", "fg": [ "304_fd_smoke_0" ], "bg": [  ] },

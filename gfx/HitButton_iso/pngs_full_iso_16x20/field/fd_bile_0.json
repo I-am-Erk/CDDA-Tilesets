@@ -17,7 +17,7 @@
     },
     {
       "id": "end_piece",
-      "fg": [ "397_fd_bile_13", "396_fd_bile_12", "395_fd_bile_11", "398_fd_bile_14" ],
+      "fg": [ "395_fd_bile_11", "398_fd_bile_14", "397_fd_bile_13", "396_fd_bile_12" ],
       "bg": [  ]
     },
     { "id": "center", "fg": [ "399_fd_bile_15" ], "bg": [  ] }

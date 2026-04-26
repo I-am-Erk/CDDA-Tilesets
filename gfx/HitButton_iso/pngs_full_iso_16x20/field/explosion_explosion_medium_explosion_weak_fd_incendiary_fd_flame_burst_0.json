@@ -25,7 +25,7 @@
     },
     {
       "id": "end_piece",
-      "fg": [ "365_explosion_13", "364_explosion_12", "363_explosion_11", "366_explosion_14" ],
+      "fg": [ "363_explosion_11", "366_explosion_14", "365_explosion_13", "364_explosion_12" ],
       "bg": [  ]
     },
     { "id": "center", "fg": [ "367_explosion_15" ], "bg": [  ] }

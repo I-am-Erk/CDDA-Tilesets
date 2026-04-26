@@ -12,7 +12,7 @@
     { "id": "edge", "fg": [ "753_t_pit_1", "754_t_pit_2" ], "bg": [  ] },
     { "id": "corner", "fg": [ "755_t_pit_3", "758_t_pit_6", "757_t_pit_5", "756_t_pit_4" ], "bg": [  ] },
     { "id": "t_connection", "fg": [ "759_t_pit_7", "762_t_pit_10", "761_t_pit_9", "760_t_pit_8" ], "bg": [  ] },
-    { "id": "end_piece", "fg": [ "765_t_pit_13", "764_t_pit_12", "763_t_pit_11", "766_t_pit_14" ], "bg": [  ] },
+    { "id": "end_piece", "fg": [ "763_t_pit_11", "766_t_pit_14", "765_t_pit_13", "764_t_pit_12" ], "bg": [  ] },
     { "id": "center", "fg": [ "767_t_pit_15" ], "bg": [  ] }
   ],
   "bg": [

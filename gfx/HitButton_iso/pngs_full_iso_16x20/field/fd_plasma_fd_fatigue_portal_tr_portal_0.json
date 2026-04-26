@@ -23,7 +23,7 @@
     },
     {
       "id": "end_piece",
-      "fg": [ "1949_fd_plasma_13", "1948_fd_plasma_12", "1947_fd_plasma_11", "1950_fd_plasma_14" ],
+      "fg": [ "1947_fd_plasma_11", "1950_fd_plasma_14", "1949_fd_plasma_13", "1948_fd_plasma_12" ],
       "bg": [  ]
     },
     { "id": "center", "fg": [ "1951_fd_plasma_15" ], "bg": [  ] }

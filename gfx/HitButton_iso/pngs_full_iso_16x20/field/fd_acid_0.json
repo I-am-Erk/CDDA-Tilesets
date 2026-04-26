@@ -17,7 +17,7 @@
     },
     {
       "id": "end_piece",
-      "fg": [ "413_fd_acid_13", "412_fd_acid_12", "411_fd_acid_11", "414_fd_acid_14" ],
+      "fg": [ "411_fd_acid_11", "414_fd_acid_14", "413_fd_acid_13", "412_fd_acid_12" ],
       "bg": [  ]
     },
     { "id": "center", "fg": [ "415_fd_acid_15" ], "bg": [  ] }

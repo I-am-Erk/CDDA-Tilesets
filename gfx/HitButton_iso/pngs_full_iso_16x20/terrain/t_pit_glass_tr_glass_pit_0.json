@@ -22,7 +22,7 @@
     },
     {
       "id": "end_piece",
-      "fg": [ "781_t_pit_glass_13", "780_t_pit_glass_12", "779_t_pit_glass_11", "782_t_pit_glass_14" ],
+      "fg": [ "779_t_pit_glass_11", "782_t_pit_glass_14", "781_t_pit_glass_13", "780_t_pit_glass_12" ],
       "bg": [  ]
     },
     { "id": "center", "fg": [ "783_t_pit_glass_15" ], "bg": [  ] }
