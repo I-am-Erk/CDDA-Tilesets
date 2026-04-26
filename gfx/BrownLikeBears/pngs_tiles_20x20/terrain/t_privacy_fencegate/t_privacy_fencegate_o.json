@@ -8,12 +8,7 @@
       { "id": "center", "fg": "t_privacy_fencegate_o_h", "bg": "1_t_dirt_0" },
       {
         "id": "t_connection",
-        "fg": [
-          "t_privacy_fencegate_o_h",
-          "t_privacy_fencegate_o_v",
-          "t_privacy_fencegate_o_h",
-          "t_privacy_fencegate_o_v"
-        ],
+        "fg": [ "t_privacy_fencegate_o_h", "t_privacy_fencegate_o_v", "t_privacy_fencegate_o_h", "t_privacy_fencegate_o_v" ],
         "bg": "1_t_dirt_0"
       },
       { "id": "edge", "fg": [ "t_privacy_fencegate_o_v", "t_privacy_fencegate_o_h" ], "bg": "1_t_dirt_0" },
@@ -34,12 +29,7 @@
       { "id": "center", "fg": "t_privacy_fencegate_o_h", "bg": "t_dirt_summer" },
       {
         "id": "t_connection",
-        "fg": [
-          "t_privacy_fencegate_o_h",
-          "t_privacy_fencegate_o_v",
-          "t_privacy_fencegate_o_h",
-          "t_privacy_fencegate_o_v"
-        ],
+        "fg": [ "t_privacy_fencegate_o_h", "t_privacy_fencegate_o_v", "t_privacy_fencegate_o_h", "t_privacy_fencegate_o_v" ],
         "bg": "t_dirt_summer"
       },
       { "id": "edge", "fg": [ "t_privacy_fencegate_o_v", "t_privacy_fencegate_o_h" ], "bg": "t_dirt_summer" },
@@ -60,12 +50,7 @@
       { "id": "center", "fg": "t_privacy_fencegate_o_h", "bg": "t_dirt_autumn" },
       {
         "id": "t_connection",
-        "fg": [
-          "t_privacy_fencegate_o_h",
-          "t_privacy_fencegate_o_v",
-          "t_privacy_fencegate_o_h",
-          "t_privacy_fencegate_o_v"
-        ],
+        "fg": [ "t_privacy_fencegate_o_h", "t_privacy_fencegate_o_v", "t_privacy_fencegate_o_h", "t_privacy_fencegate_o_v" ],
         "bg": "t_dirt_autumn"
       },
       { "id": "edge", "fg": [ "t_privacy_fencegate_o_v", "t_privacy_fencegate_o_h" ], "bg": "t_dirt_autumn" },
@@ -86,12 +71,7 @@
       { "id": "center", "fg": "t_privacy_fencegate_o_h", "bg": "t_dirt_winter" },
       {
         "id": "t_connection",
-        "fg": [
-          "t_privacy_fencegate_o_h",
-          "t_privacy_fencegate_o_v",
-          "t_privacy_fencegate_o_h",
-          "t_privacy_fencegate_o_v"
-        ],
+        "fg": [ "t_privacy_fencegate_o_h", "t_privacy_fencegate_o_v", "t_privacy_fencegate_o_h", "t_privacy_fencegate_o_v" ],
         "bg": "t_dirt_winter"
       },
       { "id": "edge", "fg": [ "t_privacy_fencegate_o_v", "t_privacy_fencegate_o_h" ], "bg": "t_dirt_winter" },
@@ -104,5 +84,3 @@
     ]
   }
 ]
-
-
