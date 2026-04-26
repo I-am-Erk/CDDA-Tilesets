@@ -15,7 +15,7 @@
     { "id": "edge", "fg": [ "crater_edge_ns", "crater_edge_ew" ] },
     {
       "id": "end_piece",
-      "fg": [ "crater_end_piece_s", "crater_end_piece_w", "crater_end_piece_n", "crater_end_piece_e" ]
+      "fg": [ "crater_end_piece_n", "crater_end_piece_e", "crater_end_piece_s", "crater_end_piece_w" ]
     },
     { "id": "unconnected", "fg": [ "crater_unconnected", "crater_unconnected" ] }
   ]

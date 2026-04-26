@@ -20,7 +20,7 @@
       {
         "id": "end_piece",
         "bg": "solid_earth",
-        "fg": [ "sewer_end_piece_s", "sewer_end_piece_w", "sewer_end_piece_n", "sewer_end_piece_e" ]
+        "fg": [ "sewer_end_piece_n", "sewer_end_piece_e", "sewer_end_piece_s", "sewer_end_piece_w" ]
       },
       { "id": "unconnected", "bg": "solid_earth", "fg": "sewer_unconnected" }
     ]

@@ -30,10 +30,10 @@
       {
         "id": "end_piece",
         "fg": [
-          "railroad_track_small_end_s",
-          "railroad_track_small_end_w",
           "railroad_track_small_end_n",
-          "railroad_track_small_end_e"
+          "railroad_track_small_end_e",
+          "railroad_track_small_end_s",
+          "railroad_track_small_end_w"
         ],
         "bg": "solid_earth"
       },

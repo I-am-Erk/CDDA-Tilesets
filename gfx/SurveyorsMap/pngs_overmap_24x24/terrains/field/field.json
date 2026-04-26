@@ -57,7 +57,7 @@
     { "id": "edge", "fg": [ "field_edge_ns", "field_edge_ew" ] },
     {
       "id": "end_piece",
-      "fg": [ "field_end_piece_s", "field_end_piece_w", "field_end_piece_n", "field_end_piece_e" ]
+      "fg": [ "field_end_piece_n", "field_end_piece_e", "field_end_piece_s", "field_end_piece_w" ]
     },
     { "id": "unconnected", "fg": [ "field_unconnected", "field_unconnected" ] }
   ]

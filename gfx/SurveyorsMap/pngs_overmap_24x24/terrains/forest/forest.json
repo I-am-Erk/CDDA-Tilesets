@@ -15,7 +15,7 @@
     { "id": "edge", "fg": [ "forest_edge_ns", "forest_edge_ew" ] },
     {
       "id": "end_piece",
-      "fg": [ "forest_end_piece_s", "forest_end_piece_w", "forest_end_piece_n", "forest_end_piece_e" ]
+      "fg": [ "forest_end_piece_n", "forest_end_piece_e", "forest_end_piece_s", "forest_end_piece_w" ]
     },
     { "id": "unconnected", "fg": [ "forest_unconnected", "forest_unconnected" ] }
   ]

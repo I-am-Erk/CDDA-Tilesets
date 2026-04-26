@@ -19,7 +19,7 @@
       { "id": "edge", "fg": [ "dirt_road_edge_ns", "dirt_road_edge_ew" ], "bg": "field" },
       {
         "id": "end_piece",
-        "fg": [ "dirt_road_end_piece_s", "dirt_road_end_piece_w", "dirt_road_end_piece_n", "dirt_road_end_piece_e" ],
+        "fg": [ "dirt_road_end_piece_n", "dirt_road_end_piece_e", "dirt_road_end_piece_s", "dirt_road_end_piece_w" ],
         "bg": "field"
       },
       { "id": "unconnected", "fg": [ "dirt_road_unconnected", "dirt_road_unconnected" ], "bg": "field" }
@@ -45,7 +45,7 @@
       { "id": "edge", "fg": [ "rural_road_edge_ns", "rural_road_edge_ew" ], "bg": "forest_center" },
       {
         "id": "end_piece",
-        "fg": [ "rural_road_end_piece_s", "rural_road_end_piece_w", "rural_road_end_piece_n", "rural_road_end_piece_e" ],
+        "fg": [ "rural_road_end_piece_n", "rural_road_end_piece_e", "rural_road_end_piece_s", "rural_road_end_piece_w" ],
         "bg": "forest_center"
       },
       { "id": "unconnected", "fg": [ "rural_road_unconnected", "rural_road_unconnected" ], "bg": "forest_center" }

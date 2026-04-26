@@ -21,10 +21,10 @@
     {
       "id": "end_piece",
       "fg": [
-        "om_forest_path2_end_piece_s",
-        "om_forest_path2_end_piece_w",
         "om_forest_path2_end_piece_n",
-        "om_forest_path2_end_piece_e"
+        "om_forest_path2_end_piece_e",
+        "om_forest_path2_end_piece_s",
+        "om_forest_path2_end_piece_w"
       ]
     },
     { "id": "unconnected", "fg": [ "om_forest_path2_unconnected", "om_forest_path2_unconnected" ] }
