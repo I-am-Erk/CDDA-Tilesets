@@ -26,10 +26,10 @@
     {
       "id": "end_piece",
       "fg": [
-        "t_wall_wood_season_winter_end_piece_s",
-        "t_wall_wood_season_winter_end_piece_w",
         "t_wall_wood_season_winter_end_piece_n",
-        "t_wall_wood_season_winter_end_piece_e"
+        "t_wall_wood_season_winter_end_piece_e",
+        "t_wall_wood_season_winter_end_piece_s",
+        "t_wall_wood_season_winter_end_piece_w"
       ]
     },
     {

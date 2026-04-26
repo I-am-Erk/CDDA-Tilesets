@@ -26,10 +26,10 @@
     {
       "id": "end_piece",
       "fg": [
-        "t_rock_wall_season_spring_end_piece_s",
-        "t_rock_wall_season_spring_end_piece_w",
         "t_rock_wall_season_spring_end_piece_n",
-        "t_rock_wall_season_spring_end_piece_e"
+        "t_rock_wall_season_spring_end_piece_e",
+        "t_rock_wall_season_spring_end_piece_s",
+        "t_rock_wall_season_spring_end_piece_w"
       ]
     },
     {

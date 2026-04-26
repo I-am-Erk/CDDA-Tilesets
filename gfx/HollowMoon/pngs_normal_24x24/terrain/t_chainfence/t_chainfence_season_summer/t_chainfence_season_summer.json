@@ -33,9 +33,9 @@
     {
       "id": "end_piece",
       "fg": [
-        "t_chainfence_season_summer_end_piece_s",
-        "t_chainfence_season_summer_unconnected",
         "t_chainfence_season_summer_end_piece_n",
+        "t_chainfence_season_summer_unconnected",
+        "t_chainfence_season_summer_end_piece_s",
         "t_chainfence_season_summer_unconnected"
       ],
       "bg": ""

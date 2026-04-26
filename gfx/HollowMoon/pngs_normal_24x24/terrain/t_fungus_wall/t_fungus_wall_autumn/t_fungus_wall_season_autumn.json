@@ -26,10 +26,10 @@
     {
       "id": "end_piece",
       "fg": [
-        "t_fungus_wall_season_autumn_end_piece_s",
-        "t_fungus_wall_season_autumn_end_piece_w",
         "t_fungus_wall_season_autumn_end_piece_n",
-        "t_fungus_wall_season_autumn_end_piece_e"
+        "t_fungus_wall_season_autumn_end_piece_e",
+        "t_fungus_wall_season_autumn_end_piece_s",
+        "t_fungus_wall_season_autumn_end_piece_w"
       ]
     },
     {

@@ -26,10 +26,10 @@
     {
       "id": "end_piece",
       "fg": [
-        "t_fence_season_summer_end_piece_s",
-        "t_fence_season_summer_end_piece_w",
         "t_fence_season_summer_end_piece_n",
-        "t_fence_season_summer_end_piece_e"
+        "t_fence_season_summer_end_piece_e",
+        "t_fence_season_summer_end_piece_s",
+        "t_fence_season_summer_end_piece_w"
       ]
     },
     { "id": "unconnected", "fg": [ "t_fence_season_summer_unconnected", "t_fence_season_summer_unconnected" ] }

@@ -26,10 +26,10 @@
     {
       "id": "end_piece",
       "fg": [
-        "t_paper_season_autumn_end_piece_s",
-        "t_paper_season_autumn_end_piece_w",
         "t_paper_season_autumn_end_piece_n",
-        "t_paper_season_autumn_end_piece_e"
+        "t_paper_season_autumn_end_piece_e",
+        "t_paper_season_autumn_end_piece_s",
+        "t_paper_season_autumn_end_piece_w"
       ]
     },
     { "id": "unconnected", "fg": [ "t_paper_season_autumn_unconnected", "t_paper_season_autumn_unconnected" ] }

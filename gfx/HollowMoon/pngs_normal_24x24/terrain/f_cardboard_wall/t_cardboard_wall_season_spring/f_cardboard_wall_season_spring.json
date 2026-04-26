@@ -26,10 +26,10 @@
     {
       "id": "end_piece",
       "fg": [
-        "f_cardboard_wall_season_spring_end_piece_s",
-        "f_cardboard_wall_season_spring_end_piece_w",
         "f_cardboard_wall_season_spring_end_piece_n",
-        "f_cardboard_wall_season_spring_end_piece_e"
+        "f_cardboard_wall_season_spring_end_piece_e",
+        "f_cardboard_wall_season_spring_end_piece_s",
+        "f_cardboard_wall_season_spring_end_piece_w"
       ]
     },
     {

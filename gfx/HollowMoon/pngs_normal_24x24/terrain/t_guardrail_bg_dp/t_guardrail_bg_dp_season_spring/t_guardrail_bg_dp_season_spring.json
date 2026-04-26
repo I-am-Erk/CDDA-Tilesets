@@ -33,10 +33,10 @@
     {
       "id": "end_piece",
       "fg": [
-        "t_guardrail_bg_dp_season_spring_end_piece_s",
-        "t_guardrail_bg_dp_season_spring_end_piece_w",
         "t_guardrail_bg_dp_season_spring_end_piece_n",
-        "t_guardrail_bg_dp_season_spring_end_piece_e"
+        "t_guardrail_bg_dp_season_spring_end_piece_e",
+        "t_guardrail_bg_dp_season_spring_end_piece_s",
+        "t_guardrail_bg_dp_season_spring_end_piece_w"
       ],
       "bg": ""
     },

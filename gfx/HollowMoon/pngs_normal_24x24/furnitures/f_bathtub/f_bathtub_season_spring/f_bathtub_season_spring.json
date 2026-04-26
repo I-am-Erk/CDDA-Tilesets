@@ -26,10 +26,10 @@
     {
       "id": "end_piece",
       "fg": [
-        "f_bathtub_season_spring_end_piece_s",
-        "f_bathtub_season_spring_end_piece_w",
         "f_bathtub_season_spring_end_piece_n",
-        "f_bathtub_season_spring_end_piece_e"
+        "f_bathtub_season_spring_end_piece_e",
+        "f_bathtub_season_spring_end_piece_s",
+        "f_bathtub_season_spring_end_piece_w"
       ]
     },
     { "id": "unconnected", "fg": [ "f_bathtub_season_spring_unconnected", "f_bathtub_season_spring_unconnected" ] }
