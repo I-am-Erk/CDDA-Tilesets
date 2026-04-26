@@ -1,44 +1,40 @@
 [
   {
-    "id": [ 
-      "orchard",
-      "orchard_tree_apple",
-      "farm_stills_11"
-    ],
+    "id": [ "orchard", "orchard_tree_apple", "farm_stills_11" ],
     "fg": [ "orchard" ],
-    "bg": [],
+    "bg": [  ],
     "rotates": false
   },
   {
-    "id": [ 
-      "farm_stills_1", 
-      "farm_stills_2", 
-      "farm_stills_5", 
-      "farm_stills_6", 
-      "farm_stills_8", 
-      "farm_stills_9", 
-      "farm_stills_10", 
-      "farm_stills_12" 
+    "id": [
+      "farm_stills_1",
+      "farm_stills_2",
+      "farm_stills_5",
+      "farm_stills_6",
+      "farm_stills_8",
+      "farm_stills_9",
+      "farm_stills_10",
+      "farm_stills_12"
     ],
     "fg": [ "veg_fields" ],
-    "bg": [],
+    "bg": [  ],
     "rotates": false
   },
   {
     "id": [ "orchard_stall" ],
     "fg": [ "orchard_1" ],
-    "bg": [],
+    "bg": [  ],
     "rotates": true
   },
   {
     "id": [ "orchard_processing" ],
     "fg": [ "orchard_2" ],
-    "bg": [],
+    "bg": [  ],
     "rotates": true
   },
   {
     "id": "orchard_1",
-    "fg": [ "orchard_N", "orchard_E", "orchard_S", "orchard_W" ],
+    "fg": [ "orchard_N", "orchard_W", "orchard_S", "orchard_E" ],
     "bg": "field",
     "rotates": true
   }

@@ -1,13 +1,13 @@
 [
   {
     "id": [ "salon" ],
-    "fg": [ "salon_N", "salon_W", "salon_S", "salon_E" ],
+    "fg": [ "salon_N", "salon_E", "salon_S", "salon_W" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "salon_roof" ],
-    "fg": [ "salon_roof_N", "salon_roof_W", "salon_roof_S", "salon_roof_E" ],
+    "fg": [ "salon_roof_N", "salon_roof_E", "salon_roof_S", "salon_roof_W" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

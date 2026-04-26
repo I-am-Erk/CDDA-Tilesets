@@ -7,37 +7,37 @@
   },
   {
     "id": [ "Cemetery_1a" ],
-    "fg": [ "cem2_h_l", "cem2_v_t", "cem2_h_r", "cem2_v_b" ],
+    "fg": [ "cem2_h_l", "cem2_v_b", "cem2_h_r", "cem2_v_t" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "Cemetery_1b" ],
-    "fg": [ "cem2_h_r", "cem2_v_b", "cem2_h_l", "cem2_v_t" ],
+    "fg": [ "cem2_h_r", "cem2_v_t", "cem2_h_l", "cem2_v_b" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": "cemetery_4square_00",
-    "fg": [ "cem4_00_n", "cem4_00_e", "cem4_00_s", "cem4_00_w" ],
+    "fg": [ "cem4_00_n", "cem4_00_w", "cem4_00_s", "cem4_00_e" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": "cemetery_4square_01",
-    "fg": [ "cem4_10_n", "cem4_10_e", "cem4_10_s", "cem4_10_w" ],
+    "fg": [ "cem4_10_n", "cem4_10_w", "cem4_10_s", "cem4_10_e" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": "cemetery_4square_10",
-    "fg": [ "cem4_01_n", "cem4_01_e", "cem4_01_s", "cem4_01_w" ],
+    "fg": [ "cem4_01_n", "cem4_01_w", "cem4_01_s", "cem4_01_e" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": "cemetery_4square_11",
-    "fg": [ "cem4_11_n", "cem4_11_e", "cem4_11_s", "cem4_11_w" ],
+    "fg": [ "cem4_11_n", "cem4_11_w", "cem4_11_s", "cem4_11_e" ],
     "bg": [ "field" ],
     "rotates": true
   }

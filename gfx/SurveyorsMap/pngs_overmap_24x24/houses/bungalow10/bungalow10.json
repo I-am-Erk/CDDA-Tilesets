@@ -1,15 +1,14 @@
 [
-    {
-      "id": [ "bungalow10" ],
-      "fg": [ "bungalow10_N", "bungalow10_W", "bungalow10_S", "bungalow10_E" ],
-      "bg": [ "field" ],
-      "rotates": true
-    },
-    {
-      "id": [ "bungalow10_roof" ],
-      "fg": [ "bungalow10_roof_N", "bungalow10_roof_W", "bungalow10_roof_S", "bungalow10_roof_E" ],
-      "bg": [ "open_air" ],
-      "rotates": true
-    }
-  ]
-  
+  {
+    "id": [ "bungalow10" ],
+    "fg": [ "bungalow10_N", "bungalow10_E", "bungalow10_S", "bungalow10_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "bungalow10_roof" ],
+    "fg": [ "bungalow10_roof_N", "bungalow10_roof_E", "bungalow10_roof_S", "bungalow10_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

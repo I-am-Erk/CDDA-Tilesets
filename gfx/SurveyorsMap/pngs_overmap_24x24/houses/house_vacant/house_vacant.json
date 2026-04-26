@@ -1,7 +1,7 @@
 [
   {
     "id": [ "house_vacant" ],
-    "fg": [ "house_vacant_N", "house_vacant_W", "house_vacant_S", "house_vacant_E" ],
+    "fg": [ "house_vacant_N", "house_vacant_E", "house_vacant_S", "house_vacant_W" ],
     "bg": [ "field" ],
     "rotates": true
   }

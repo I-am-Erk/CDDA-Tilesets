@@ -1,13 +1,13 @@
 [
   {
     "id": [ "s_bike_shop" ],
-    "fg": [ "s_bike_shop_N", "s_bike_shop_W", "s_bike_shop_S", "s_bike_shop_E" ],
+    "fg": [ "s_bike_shop_N", "s_bike_shop_E", "s_bike_shop_S", "s_bike_shop_W" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "s_bike_shop_roof" ],
-    "fg": [ "s_bike_shop_roof_N", "s_bike_shop_roof_W", "s_bike_shop_roof_S", "s_bike_shop_roof_E" ],
+    "fg": [ "s_bike_shop_roof_N", "s_bike_shop_roof_E", "s_bike_shop_roof_S", "s_bike_shop_roof_W" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

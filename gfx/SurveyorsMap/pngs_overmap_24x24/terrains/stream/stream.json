@@ -8,7 +8,7 @@
       {
         "id": "corner",
         "bg": "field",
-        "fg": [ "stream_corner_SE", "stream_corner_NE", "stream_corner_NW", "stream_corner_SW" ]
+        "fg": [ "stream_corner_SE", "stream_corner_SW", "stream_corner_NW", "stream_corner_NE" ]
       },
       { "id": "end", "bg": "field", "fg": [ "stream_end_N", "stream_end_W", "stream_end_S", "stream_end_E" ] }
     ]

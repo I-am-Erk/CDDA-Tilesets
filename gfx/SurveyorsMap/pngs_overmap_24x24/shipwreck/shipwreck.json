@@ -1,45 +1,25 @@
 [
   {
     "id": [ "shipwreck_river_1" ],
-    "fg": [ 
-      "shipwreck_1_N",
-      "shipwreck_1_W",
-      "shipwreck_1_S",
-      "shipwreck_1_E"
-    ],
+    "fg": [ "shipwreck_1_N", "shipwreck_1_E", "shipwreck_1_S", "shipwreck_1_W" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "shipwreck_river_2" ],
-    "fg": [
-      "shipwreck_2_N",
-      "shipwreck_2_W",
-      "shipwreck_2_S",
-      "shipwreck_2_E"
-    ],
+    "fg": [ "shipwreck_2_N", "shipwreck_2_E", "shipwreck_2_S", "shipwreck_2_W" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "shipwreck_river_3" ],
-    "fg": [ 
-      "shipwreck_1_N",
-      "shipwreck_1_W",
-      "shipwreck_1_S",
-      "shipwreck_1_E"
-    ],
+    "fg": [ "shipwreck_1_N", "shipwreck_1_E", "shipwreck_1_S", "shipwreck_1_W" ],
     "bg": [ "solid_earth" ],
     "rotates": true
   },
   {
     "id": [ "shipwreck_river_4" ],
-    "fg": [
-      "shipwreck_2_N",
-      "shipwreck_2_W",
-      "shipwreck_2_S",
-      "shipwreck_2_E"
-    ],
+    "fg": [ "shipwreck_2_N", "shipwreck_2_E", "shipwreck_2_S", "shipwreck_2_W" ],
     "bg": [ "solid_earth" ],
     "rotates": true
   }

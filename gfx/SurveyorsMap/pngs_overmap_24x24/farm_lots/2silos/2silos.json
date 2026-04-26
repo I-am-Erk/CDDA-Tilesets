@@ -1,13 +1,13 @@
 [
   {
     "id": [ "2silos" ],
-    "fg": [ "2silos_S", "2silos_E", "2silos_N", "2silos_W" ],
+    "fg": [ "2silos_S", "2silos_W", "2silos_N", "2silos_E" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "2silos_1", "2silos_2", "2silos_roof" ],
-    "fg": [ "2silos_S", "2silos_E", "2silos_N", "2silos_W" ],
+    "fg": [ "2silos_S", "2silos_W", "2silos_N", "2silos_E" ],
     "bg": [ "open_air" ],
     "rotates": true
   }

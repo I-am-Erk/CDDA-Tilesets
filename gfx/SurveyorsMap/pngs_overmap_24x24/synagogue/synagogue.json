@@ -1,21 +1,20 @@
 [
-    {
-      "id": [ "synagogue" ],
-      "fg": [ "synagogue_N", "synagogue_W", "synagogue_S", "synagogue_E" ],
-      "bg": [ "field" ],
-      "rotates": true
-    },
-    {
-      "id": [ "synagogue_roof" ],
-      "fg": [ "synagogue_roof_N", "synagogue_roof_W", "synagogue_roof_S", "synagogue_roof_E" ],
-      "bg": [ "open_air" ],
-      "rotates": true
-    },
-    {
-      "id": [ "synagogue_upper_roof" ],
-      "fg": [ "synagogue_upper_roof_NWSE" ],
-      "bg": [ "open_air" ],
-      "rotates": true
-    }
-  ]
-  
+  {
+    "id": [ "synagogue" ],
+    "fg": [ "synagogue_N", "synagogue_E", "synagogue_S", "synagogue_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  },
+  {
+    "id": [ "synagogue_roof" ],
+    "fg": [ "synagogue_roof_N", "synagogue_roof_E", "synagogue_roof_S", "synagogue_roof_W" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  },
+  {
+    "id": [ "synagogue_upper_roof" ],
+    "fg": [ "synagogue_upper_roof_NWSE" ],
+    "bg": [ "open_air" ],
+    "rotates": true
+  }
+]

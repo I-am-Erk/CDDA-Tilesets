@@ -1,8 +1,8 @@
 [
-    {
-        "id": [ "orc_village" ],
-        "fg": [ "orc_village_N", "orc_village_W", "orc_village_S", "orc_village_E" ],
-        "bg": [ "field" ],
-        "rotates": true
-      }
+  {
+    "id": [ "orc_village" ],
+    "fg": [ "orc_village_N", "orc_village_E", "orc_village_S", "orc_village_W" ],
+    "bg": [ "field" ],
+    "rotates": true
+  }
 ]

@@ -19,7 +19,7 @@
   },
   {
     "id": [ "magic_basement" ],
-    "fg": [ "magic_basement_N", "magic_basement_W", "magic_basement_S", "magic_basement_E" ],
+    "fg": [ "magic_basement_N", "magic_basement_E", "magic_basement_S", "magic_basement_W" ],
     "bg": [ "solid_earth" ],
     "rotates": true
   },
@@ -55,7 +55,12 @@
   },
   {
     "id": [ "standing_teleport_stones" ],
-    "fg": [ "standing_teleport_stones_N", "standing_teleport_stones_W", "standing_teleport_stones_S", "standing_teleport_stones_E" ],
+    "fg": [
+      "standing_teleport_stones_N",
+      "standing_teleport_stones_E",
+      "standing_teleport_stones_S",
+      "standing_teleport_stones_W"
+    ],
     "bg": [ "forest_unconnected" ],
     "rotates": true
   }

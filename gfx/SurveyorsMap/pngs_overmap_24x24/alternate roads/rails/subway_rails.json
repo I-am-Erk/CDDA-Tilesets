@@ -10,9 +10,9 @@
         "id": "corner",
         "fg": [
           "railroad_track_small_corner_nw",
-          "railroad_track_small_corner_sw",
+          "railroad_track_small_corner_ne",
           "railroad_track_small_corner_se",
-          "railroad_track_small_corner_ne"
+          "railroad_track_small_corner_sw"
         ],
         "bg": "solid_earth"
       },
@@ -20,9 +20,9 @@
         "id": "t_connection",
         "fg": [
           "railroad_track_small_t_connection_n",
-          "railroad_track_small_t_connection_w",
+          "railroad_track_small_t_connection_e",
           "railroad_track_small_t_connection_s",
-          "railroad_track_small_t_connection_e"
+          "railroad_track_small_t_connection_w"
         ],
         "bg": "solid_earth"
       },
@@ -30,9 +30,9 @@
       {
         "id": "end_piece",
         "fg": [
-          "railroad_track_small_end_n",
-          "railroad_track_small_end_w",
           "railroad_track_small_end_s",
+          "railroad_track_small_end_w",
+          "railroad_track_small_end_n",
           "railroad_track_small_end_e"
         ],
         "bg": "solid_earth"

@@ -1,7 +1,7 @@
 [
   {
     "id": [ "house_library" ],
-    "fg": [ "house_library_N", "house_library_W", "house_library_S", "house_library_E" ],
+    "fg": [ "house_library_N", "house_library_E", "house_library_S", "house_library_W" ],
     "bg": [ "field" ],
     "rotates": true
   }

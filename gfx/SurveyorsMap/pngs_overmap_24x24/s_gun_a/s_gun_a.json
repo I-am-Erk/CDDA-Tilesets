@@ -1,13 +1,13 @@
 [
   {
     "id": [ "s_gun_a" ],
-    "fg": [ "s_gun_a_north", "s_gun_a_west", "s_gun_a_south", "s_gun_a_east" ],
+    "fg": [ "s_gun_a_north", "s_gun_a_east", "s_gun_a_south", "s_gun_a_west" ],
     "bg": [ "field" ],
     "rotates": true
   },
   {
     "id": [ "s_gun_a_roof" ],
-    "fg": [ "s_gun_a_roof_north", "s_gun_a_roof_west", "s_gun_a_roof_south", "s_gun_a_roof_east" ],
+    "fg": [ "s_gun_a_roof_north", "s_gun_a_roof_east", "s_gun_a_roof_south", "s_gun_a_roof_west" ],
     "bg": [ "open_air" ],
     "rotates": true
   }
