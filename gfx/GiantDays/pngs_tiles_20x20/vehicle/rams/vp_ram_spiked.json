@@ -1,5 +1,10 @@
 {
   "id": "vp_ram_spiked",
-  "fg": [ "vp_ram_spiked", "vp_ram_spiked_left", "vp_ram_spiked_down", "vp_ram_spiked_right" ],
+  "fg": [
+    "vp_ram_spiked",
+    "vp_ram_spiked_right",
+    "vp_ram_spiked_down",
+    "vp_ram_spiked_left"
+  ],
   "rotates": true
 }
