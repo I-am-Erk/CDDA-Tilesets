@@ -73,22 +73,22 @@
     {
       "id": "corner",
       "fg": [
-        { "weight": 1, "sprite": [ "forest_trail_v1_corner_nw", "forest_trail_v1_corner_sw", "forest_trail_v1_corner_se", "forest_trail_v1_corner_ne" ] },
+        { "weight": 1, "sprite": [ "forest_trail_v1_corner_nw", "forest_trail_v1_corner_ne", "forest_trail_v1_corner_se", "forest_trail_v1_corner_sw" ] },
         {
           "weight": 1,
-          "sprite": [ "forest_trail_v2_corner_nw", "forest_trail_v2_corner_sw", "forest_trail_v2_corner_se", "forest_trail_v2_corner_ne" ]
+          "sprite": [ "forest_trail_v2_corner_nw", "forest_trail_v2_corner_ne", "forest_trail_v2_corner_se", "forest_trail_v2_corner_sw" ]
         },
         {
           "weight": 1,
-          "sprite": [ "forest_trail_v3_corner_nw", "forest_trail_v3_corner_sw", "forest_trail_v3_corner_se", "forest_trail_v3_corner_ne" ]
+          "sprite": [ "forest_trail_v3_corner_nw", "forest_trail_v3_corner_ne", "forest_trail_v3_corner_se", "forest_trail_v3_corner_sw" ]
         },
         {
           "weight": 1,
-          "sprite": [ "forest_trail_v4_corner_nw", "forest_trail_v4_corner_sw", "forest_trail_v4_corner_se", "forest_trail_v4_corner_ne" ]
+          "sprite": [ "forest_trail_v4_corner_nw", "forest_trail_v4_corner_ne", "forest_trail_v4_corner_se", "forest_trail_v4_corner_sw" ]
         },
         {
           "weight": 1,
-          "sprite": [ "forest_trail_v5_corner_nw", "forest_trail_v5_corner_sw", "forest_trail_v5_corner_se", "forest_trail_v5_corner_ne" ]
+          "sprite": [ "forest_trail_v5_corner_nw", "forest_trail_v5_corner_ne", "forest_trail_v5_corner_se", "forest_trail_v5_corner_sw" ]
         }
       ],
       "bg": [
@@ -124,23 +124,23 @@
       "fg": [
         {
           "weight": 1,
-          "sprite": [ "forest_trail_v1_t_connection_n", "forest_trail_v1_t_connection_w", "forest_trail_v1_t_connection_s", "forest_trail_v1_t_connection_e" ]
+          "sprite": [ "forest_trail_v1_t_connection_n", "forest_trail_v1_t_connection_e", "forest_trail_v1_t_connection_s", "forest_trail_v1_t_connection_w" ]
         },
         {
           "weight": 1,
-          "sprite": [ "forest_trail_v2_t_connection_n", "forest_trail_v2_t_connection_w", "forest_trail_v2_t_connection_s", "forest_trail_v2_t_connection_e" ]
+          "sprite": [ "forest_trail_v2_t_connection_n", "forest_trail_v2_t_connection_e", "forest_trail_v2_t_connection_s", "forest_trail_v2_t_connection_w" ]
         },
         {
           "weight": 1,
-          "sprite": [ "forest_trail_v3_t_connection_n", "forest_trail_v3_t_connection_w", "forest_trail_v3_t_connection_s", "forest_trail_v3_t_connection_e" ]
+          "sprite": [ "forest_trail_v3_t_connection_n", "forest_trail_v3_t_connection_e", "forest_trail_v3_t_connection_s", "forest_trail_v3_t_connection_w" ]
         },
         {
           "weight": 1,
-          "sprite": [ "forest_trail_v4_t_connection_n", "forest_trail_v4_t_connection_w", "forest_trail_v4_t_connection_s", "forest_trail_v4_t_connection_e" ]
+          "sprite": [ "forest_trail_v4_t_connection_n", "forest_trail_v4_t_connection_e", "forest_trail_v4_t_connection_s", "forest_trail_v4_t_connection_w" ]
         },
         {
           "weight": 1,
-          "sprite": [ "forest_trail_v5_t_connection_n", "forest_trail_v5_t_connection_w", "forest_trail_v5_t_connection_s", "forest_trail_v5_t_connection_e" ]
+          "sprite": [ "forest_trail_v5_t_connection_n", "forest_trail_v5_t_connection_e", "forest_trail_v5_t_connection_s", "forest_trail_v5_t_connection_w" ]
         }
       ],
       "bg": [
@@ -213,23 +213,23 @@
       "fg": [
         {
           "weight": 1,
-          "sprite": [ "forest_trail_v1_end_piece_n", "forest_trail_v1_end_piece_w", "forest_trail_v1_end_piece_s", "forest_trail_v1_end_piece_e" ]
+          "sprite": [ "forest_trail_v1_end_piece_s", "forest_trail_v1_end_piece_w", "forest_trail_v1_end_piece_n", "forest_trail_v1_end_piece_e" ]
         },
         {
           "weight": 1,
-          "sprite": [ "forest_trail_v2_end_piece_n", "forest_trail_v2_end_piece_w", "forest_trail_v2_end_piece_s", "forest_trail_v2_end_piece_e" ]
+          "sprite": [ "forest_trail_v2_end_piece_s", "forest_trail_v2_end_piece_w", "forest_trail_v2_end_piece_n", "forest_trail_v2_end_piece_e" ]
         },
         {
           "weight": 1,
-          "sprite": [ "forest_trail_v3_end_piece_n", "forest_trail_v3_end_piece_w", "forest_trail_v3_end_piece_s", "forest_trail_v3_end_piece_e" ]
+          "sprite": [ "forest_trail_v3_end_piece_s", "forest_trail_v3_end_piece_w", "forest_trail_v3_end_piece_n", "forest_trail_v3_end_piece_e" ]
         },
         {
           "weight": 1,
-          "sprite": [ "forest_trail_v4_end_piece_n", "forest_trail_v4_end_piece_w", "forest_trail_v4_end_piece_s", "forest_trail_v4_end_piece_e" ]
+          "sprite": [ "forest_trail_v4_end_piece_s", "forest_trail_v4_end_piece_w", "forest_trail_v4_end_piece_n", "forest_trail_v4_end_piece_e" ]
         },
         {
           "weight": 1,
-          "sprite": [ "forest_trail_v5_end_piece_n", "forest_trail_v5_end_piece_w", "forest_trail_v5_end_piece_s", "forest_trail_v5_end_piece_e" ]
+          "sprite": [ "forest_trail_v5_end_piece_s", "forest_trail_v5_end_piece_w", "forest_trail_v5_end_piece_n", "forest_trail_v5_end_piece_e" ]
         }
       ],
       "bg": [

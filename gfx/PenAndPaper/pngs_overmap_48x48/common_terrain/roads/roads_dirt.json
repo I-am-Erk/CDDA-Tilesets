@@ -76,23 +76,23 @@
         "id": "corner",
         "fg": [
           { "weight": 1,
-            "sprite": [ "dirt_v1_corner_nw", "dirt_v1_corner_sw", "dirt_v1_corner_se", "dirt_v1_corner_ne" ]
+            "sprite": [ "dirt_v1_corner_nw", "dirt_v1_corner_ne", "dirt_v1_corner_se", "dirt_v1_corner_sw" ]
           },
           {
             "weight": 1,
-            "sprite": [ "dirt_v2_corner_nw", "dirt_v2_corner_sw", "dirt_v2_corner_se", "dirt_v2_corner_ne" ]
+            "sprite": [ "dirt_v2_corner_nw", "dirt_v2_corner_ne", "dirt_v2_corner_se", "dirt_v2_corner_sw" ]
           },
           {
             "weight": 1,
-            "sprite": [ "dirt_v3_corner_nw", "dirt_v3_corner_sw", "dirt_v3_corner_se", "dirt_v3_corner_ne" ]
+            "sprite": [ "dirt_v3_corner_nw", "dirt_v3_corner_ne", "dirt_v3_corner_se", "dirt_v3_corner_sw" ]
           },
           {
             "weight": 1,
-            "sprite": [ "dirt_v4_corner_nw", "dirt_v4_corner_sw", "dirt_v4_corner_se", "dirt_v4_corner_ne" ]
+            "sprite": [ "dirt_v4_corner_nw", "dirt_v4_corner_ne", "dirt_v4_corner_se", "dirt_v4_corner_sw" ]
           },
           {
             "weight": 1,
-            "sprite": [ "dirt_v5_corner_nw", "dirt_v5_corner_sw", "dirt_v5_corner_se", "dirt_v5_corner_ne" ]
+            "sprite": [ "dirt_v5_corner_nw", "dirt_v5_corner_ne", "dirt_v5_corner_se", "dirt_v5_corner_sw" ]
           }
         ],
         "bg": [
@@ -128,23 +128,23 @@
         "fg": [
           {
             "weight": 1,
-            "sprite": [ "dirt_v1_t_connection_n", "dirt_v1_t_connection_w", "dirt_v1_t_connection_s", "dirt_v1_t_connection_e" ]
+            "sprite": [ "dirt_v1_t_connection_n", "dirt_v1_t_connection_e", "dirt_v1_t_connection_s", "dirt_v1_t_connection_w" ]
           },
           {
             "weight": 1,
-            "sprite": [ "dirt_v2_t_connection_n", "dirt_v2_t_connection_w", "dirt_v2_t_connection_s", "dirt_v2_t_connection_e" ]
+            "sprite": [ "dirt_v2_t_connection_n", "dirt_v2_t_connection_e", "dirt_v2_t_connection_s", "dirt_v2_t_connection_w" ]
           },
           {
             "weight": 1,
-            "sprite": [ "dirt_v3_t_connection_n", "dirt_v3_t_connection_w", "dirt_v3_t_connection_s", "dirt_v3_t_connection_e" ]
+            "sprite": [ "dirt_v3_t_connection_n", "dirt_v3_t_connection_e", "dirt_v3_t_connection_s", "dirt_v3_t_connection_w" ]
           },
           {
             "weight": 1,
-            "sprite": [ "dirt_v4_t_connection_n", "dirt_v4_t_connection_w", "dirt_v4_t_connection_s", "dirt_v4_t_connection_e" ]
+            "sprite": [ "dirt_v4_t_connection_n", "dirt_v4_t_connection_e", "dirt_v4_t_connection_s", "dirt_v4_t_connection_w" ]
           },
           {
             "weight": 1,
-            "sprite": [ "dirt_v5_t_connection_n", "dirt_v5_t_connection_w", "dirt_v5_t_connection_s", "dirt_v5_t_connection_e" ]
+            "sprite": [ "dirt_v5_t_connection_n", "dirt_v5_t_connection_e", "dirt_v5_t_connection_s", "dirt_v5_t_connection_w" ]
           }
         ],
         "bg": [
@@ -217,23 +217,23 @@
         "fg": [
           {
             "weight": 1,
-            "sprite": [ "dirt_v1_end_piece_s", "dirt_v1_end_piece_e", "dirt_v1_end_piece_n", "dirt_v1_end_piece_w" ]
+            "sprite": [ "dirt_v1_end_piece_n", "dirt_v1_end_piece_e", "dirt_v1_end_piece_s", "dirt_v1_end_piece_w" ]
           },
           {
             "weight": 1,
-            "sprite": [ "dirt_v2_end_piece_s", "dirt_v2_end_piece_e", "dirt_v2_end_piece_n", "dirt_v2_end_piece_w" ]
+            "sprite": [ "dirt_v2_end_piece_n", "dirt_v2_end_piece_e", "dirt_v2_end_piece_s", "dirt_v2_end_piece_w" ]
           },
           {
             "weight": 1,
-            "sprite": [ "dirt_v3_end_piece_s", "dirt_v3_end_piece_e", "dirt_v3_end_piece_n", "dirt_v3_end_piece_w" ]
+            "sprite": [ "dirt_v3_end_piece_n", "dirt_v3_end_piece_e", "dirt_v3_end_piece_s", "dirt_v3_end_piece_w" ]
           },
           {
             "weight": 1,
-            "sprite": [ "dirt_v4_end_piece_s", "dirt_v4_end_piece_e", "dirt_v4_end_piece_n", "dirt_v4_end_piece_w" ]
+            "sprite": [ "dirt_v4_end_piece_n", "dirt_v4_end_piece_e", "dirt_v4_end_piece_s", "dirt_v4_end_piece_w" ]
           },
           {
             "weight": 1,
-            "sprite": [ "dirt_v5_end_piece_s", "dirt_v5_end_piece_e", "dirt_v5_end_piece_n", "dirt_v5_end_piece_w" ]
+            "sprite": [ "dirt_v5_end_piece_n", "dirt_v5_end_piece_e", "dirt_v5_end_piece_s", "dirt_v5_end_piece_w" ]
           }
         ],
         "bg": [
