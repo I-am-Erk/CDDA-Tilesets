@@ -15,12 +15,12 @@
       },
       {
         "id": "corner",
-        "fg": [ "502_t_concrete_wall_2", "503_t_concrete_wall_3", "504_t_concrete_wall_4", "505_t_concrete_wall_5" ],
+        "fg": [ "502_t_concrete_wall_2", "505_t_concrete_wall_5", "504_t_concrete_wall_4", "503_t_concrete_wall_3" ],
         "bg": [  ]
       },
       {
         "id": "t_connection",
-        "fg": [ "506_t_concrete_wall_6", "507_t_concrete_wall_7", "508_t_concrete_wall_8", "509_t_concrete_wall_9" ],
+        "fg": [ "506_t_concrete_wall_6", "509_t_concrete_wall_9", "508_t_concrete_wall_8", "507_t_concrete_wall_7" ],
         "bg": [  ]
       },
       { "id": "center", "fg": [ "510_t_concrete_wall_10" ], "bg": [  ] }
@@ -42,12 +42,12 @@
       },
       {
         "id": "corner",
-        "fg": [ "502_sconc_wall_2", "503_sconc_wall_3", "504_sconc_wall_4", "505_sconc_wall_5" ],
+        "fg": [ "502_sconc_wall_2", "505_sconc_wall_5", "504_sconc_wall_4", "503_sconc_wall_3" ],
         "bg": [  ]
       },
       {
         "id": "t_connection",
-        "fg": [ "506_sconc_wall_6", "507_sconc_wall_7", "508_sconc_wall_8", "509_sconc_wall_9" ],
+        "fg": [ "506_sconc_wall_6", "509_sconc_wall_9", "508_sconc_wall_8", "507_sconc_wall_7" ],
         "bg": [  ]
       },
       { "id": "center", "fg": [ "510_sconc_wall_10" ], "bg": [  ] }
