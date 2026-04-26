@@ -109,37 +109,37 @@
         {
           "weight": 1,
           "sprite": [
-            "t_pavement_y_spring_end_piece_s",
-            "t_pavement_y_spring_end_piece_w",
             "t_pavement_y_spring_end_piece_n",
-            "t_pavement_y_spring_end_piece_e"
+            "t_pavement_y_spring_end_piece_e",
+            "t_pavement_y_spring_end_piece_s",
+            "t_pavement_y_spring_end_piece_w"
           ]
         },
         {
           "weight": 1,
           "sprite": [
-            "t_pavement_y_spring1_end_piece_s",
-            "t_pavement_y_spring1_end_piece_w",
             "t_pavement_y_spring1_end_piece_n",
-            "t_pavement_y_spring1_end_piece_e"
+            "t_pavement_y_spring1_end_piece_e",
+            "t_pavement_y_spring1_end_piece_s",
+            "t_pavement_y_spring1_end_piece_w"
           ]
         },
         {
           "weight": 1,
           "sprite": [
-            "t_pavement_y_spring2_end_piece_s",
-            "t_pavement_y_spring2_end_piece_w",
             "t_pavement_y_spring2_end_piece_n",
-            "t_pavement_y_spring2_end_piece_e"
+            "t_pavement_y_spring2_end_piece_e",
+            "t_pavement_y_spring2_end_piece_s",
+            "t_pavement_y_spring2_end_piece_w"
           ]
         },
         {
           "weight": 1,
           "sprite": [
-            "t_pavement_y_spring3_end_piece_s",
-            "t_pavement_y_spring3_end_piece_w",
             "t_pavement_y_spring3_end_piece_n",
-            "t_pavement_y_spring3_end_piece_e"
+            "t_pavement_y_spring3_end_piece_e",
+            "t_pavement_y_spring3_end_piece_s",
+            "t_pavement_y_spring3_end_piece_w"
           ]
         }
       ]

@@ -13,7 +13,7 @@
     { "id": "edge", "fg": [ "f_bench_edge_ns", "f_bench_edge_ew" ] },
     {
       "id": "end_piece",
-      "fg": [ "f_bench_end_piece_s", "f_bench_end_piece_w", "f_bench_end_piece_n", "f_bench_end_piece_e" ]
+      "fg": [ "f_bench_end_piece_n", "f_bench_end_piece_e", "f_bench_end_piece_s", "f_bench_end_piece_w" ]
     },
     { "id": "unconnected", "fg": [ "f_bench_unconnected", "f_bench_unconnected" ] }
   ]

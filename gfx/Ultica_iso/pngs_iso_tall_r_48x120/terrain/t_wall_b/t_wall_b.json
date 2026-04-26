@@ -15,7 +15,7 @@
     { "id": "edge", "fg": [ "t_wall_b_edge_ns", "t_wall_b_edge_ew" ] },
     {
       "id": "end_piece",
-      "fg": [ "t_wall_b_end_piece_s", "t_wall_b_end_piece_w", "t_wall_b_end_piece_n", "t_wall_b_end_piece_e" ]
+      "fg": [ "t_wall_b_end_piece_n", "t_wall_b_end_piece_e", "t_wall_b_end_piece_s", "t_wall_b_end_piece_w" ]
     },
     { "id": "unconnected", "fg": [ "t_wall_b_unconnected", "t_wall_b_unconnected" ] }
   ]

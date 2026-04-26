@@ -20,7 +20,7 @@
     { "id": "edge", "fg": [ "t_carpet_red_edge_ns", "t_carpet_red_edge_ew" ] },
     {
       "id": "end_piece",
-      "fg": [ "t_carpet_red_end_piece_s", "t_carpet_red_end_piece_w", "t_carpet_red_end_piece_n", "t_carpet_red_end_piece_e" ]
+      "fg": [ "t_carpet_red_end_piece_n", "t_carpet_red_end_piece_e", "t_carpet_red_end_piece_s", "t_carpet_red_end_piece_w" ]
     },
     { "id": "unconnected", "fg": [ "t_carpet_red_unconnected", "t_carpet_red_unconnected" ] }
   ]

@@ -21,10 +21,10 @@
     {
       "id": "end_piece",
       "fg": [
-        "t_carpet_yellow_end_piece_s",
-        "t_carpet_yellow_end_piece_w",
         "t_carpet_yellow_end_piece_n",
-        "t_carpet_yellow_end_piece_e"
+        "t_carpet_yellow_end_piece_e",
+        "t_carpet_yellow_end_piece_s",
+        "t_carpet_yellow_end_piece_w"
       ]
     },
     { "id": "unconnected", "fg": [ "t_carpet_yellow_unconnected", "t_carpet_yellow_unconnected" ] }

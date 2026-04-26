@@ -16,7 +16,7 @@
     { "id": "edge", "fg": [ "f_counter_edge_ns", "f_counter_edge_ew" ] },
     {
       "id": "end_piece",
-      "fg": [ "f_counter_end_piece_s", "f_counter_end_piece_w", "f_counter_end_piece_n", "f_counter_end_piece_e" ]
+      "fg": [ "f_counter_end_piece_n", "f_counter_end_piece_e", "f_counter_end_piece_s", "f_counter_end_piece_w" ]
     },
     { "id": "unconnected", "fg": [ "f_counter_unconnected", "f_counter_unconnected" ] }
   ]

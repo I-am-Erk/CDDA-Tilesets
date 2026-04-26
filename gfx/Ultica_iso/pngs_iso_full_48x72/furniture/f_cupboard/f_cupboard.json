@@ -20,10 +20,10 @@
     {
       "id": "end_piece",
       "fg": [
-        "f_cupboard_end_piece_s_faceW",
-        "f_cupboard_end_piece_w_faceS",
         "f_cupboard_end_piece_n_faceW",
         "f_cupboard_end_piece_e_faceS",
+        "f_cupboard_end_piece_s_faceW",
+        "f_cupboard_end_piece_w_faceS",
         "f_cupboard_end_piece_n_faceE",
         "f_cupboard_end_piece_w_faceN",
         "f_cupboard_end_piece_s_faceE",

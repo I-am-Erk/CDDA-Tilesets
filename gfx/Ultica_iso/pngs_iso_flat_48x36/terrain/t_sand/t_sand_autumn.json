@@ -20,7 +20,7 @@
     { "id": "edge", "fg": [ "t_sand_autumn_edge_ns", "t_sand_autumn_edge_ew" ] },
     {
       "id": "end_piece",
-      "fg": [ "t_sand_autumn_end_piece_s", "t_sand_autumn_end_piece_w", "t_sand_autumn_end_piece_n", "t_sand_autumn_end_piece_e" ]
+      "fg": [ "t_sand_autumn_end_piece_n", "t_sand_autumn_end_piece_e", "t_sand_autumn_end_piece_s", "t_sand_autumn_end_piece_w" ]
     },
     { "id": "unconnected", "fg": [ "t_sand_autumn_unconnected", "t_sand_autumn_unconnected" ] }
   ]

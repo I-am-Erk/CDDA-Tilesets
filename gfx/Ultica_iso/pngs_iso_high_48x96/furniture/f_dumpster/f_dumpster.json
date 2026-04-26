@@ -15,7 +15,7 @@
     { "id": "edge", "fg": [ "f_dumpster_edge_ns", "f_dumpster_edge_ew" ] },
     {
       "id": "end_piece",
-      "fg": [ "f_dumpster_end_piece_s", "f_dumpster_end_piece_w", "f_dumpster_end_piece_n", "f_dumpster_end_piece_e" ]
+      "fg": [ "f_dumpster_end_piece_n", "f_dumpster_end_piece_e", "f_dumpster_end_piece_s", "f_dumpster_end_piece_w" ]
     },
     { "id": "unconnected", "fg": [ "f_dumpster_unconnected", "f_dumpster_unconnected" ] }
   ]

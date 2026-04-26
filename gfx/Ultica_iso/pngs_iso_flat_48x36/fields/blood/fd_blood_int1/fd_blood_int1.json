@@ -20,7 +20,7 @@
     { "id": "edge", "fg": [ "fd_blood_int1_edge_ns", "fd_blood_int1_edge_ew" ] },
     {
       "id": "end_piece",
-      "fg": [ "fd_blood_int1_end_piece_s", "fd_blood_int1_end_piece_w", "fd_blood_int1_end_piece_n", "fd_blood_int1_end_piece_e" ]
+      "fg": [ "fd_blood_int1_end_piece_n", "fd_blood_int1_end_piece_e", "fd_blood_int1_end_piece_s", "fd_blood_int1_end_piece_w" ]
     },
     { "id": "unconnected", "fg": [ "fd_blood_int1_unconnected", "fd_blood_int1_unconnected" ] }
   ]

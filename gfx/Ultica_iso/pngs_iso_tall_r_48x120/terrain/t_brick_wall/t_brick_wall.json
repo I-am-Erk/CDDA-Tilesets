@@ -148,35 +148,35 @@
       "fg": [
         {
           "weight": 1,
-          "sprite": [ "t_brick_wall1_end_piece_s", "t_brick_wall1_end_piece_w", "t_brick_wall1_end_piece_n", "t_brick_wall1_end_piece_e" ]
+          "sprite": [ "t_brick_wall1_end_piece_n", "t_brick_wall1_end_piece_e", "t_brick_wall1_end_piece_s", "t_brick_wall1_end_piece_w" ]
         },
         {
           "weight": 1,
-          "sprite": [ "t_brick_wall2_end_piece_s", "t_brick_wall2_end_piece_w", "t_brick_wall2_end_piece_n", "t_brick_wall2_end_piece_e" ]
+          "sprite": [ "t_brick_wall2_end_piece_n", "t_brick_wall2_end_piece_e", "t_brick_wall2_end_piece_s", "t_brick_wall2_end_piece_w" ]
         },
         {
           "weight": 1,
-          "sprite": [ "t_brick_wall3_end_piece_s", "t_brick_wall3_end_piece_w", "t_brick_wall3_end_piece_n", "t_brick_wall3_end_piece_e" ]
+          "sprite": [ "t_brick_wall3_end_piece_n", "t_brick_wall3_end_piece_e", "t_brick_wall3_end_piece_s", "t_brick_wall3_end_piece_w" ]
         },
         {
           "weight": 1,
-          "sprite": [ "t_brick_wall4_end_piece_s", "t_brick_wall4_end_piece_w", "t_brick_wall4_end_piece_n", "t_brick_wall4_end_piece_e" ]
+          "sprite": [ "t_brick_wall4_end_piece_n", "t_brick_wall4_end_piece_e", "t_brick_wall4_end_piece_s", "t_brick_wall4_end_piece_w" ]
         },
         {
           "weight": 1,
-          "sprite": [ "t_brick_wall5_end_piece_s", "t_brick_wall5_end_piece_w", "t_brick_wall5_end_piece_n", "t_brick_wall5_end_piece_e" ]
+          "sprite": [ "t_brick_wall5_end_piece_n", "t_brick_wall5_end_piece_e", "t_brick_wall5_end_piece_s", "t_brick_wall5_end_piece_w" ]
         },
         {
           "weight": 1,
-          "sprite": [ "t_brick_wall6_end_piece_s", "t_brick_wall6_end_piece_w", "t_brick_wall6_end_piece_n", "t_brick_wall6_end_piece_e" ]
+          "sprite": [ "t_brick_wall6_end_piece_n", "t_brick_wall6_end_piece_e", "t_brick_wall6_end_piece_s", "t_brick_wall6_end_piece_w" ]
         },
         {
           "weight": 1,
-          "sprite": [ "t_brick_wall7_end_piece_s", "t_brick_wall7_end_piece_w", "t_brick_wall7_end_piece_n", "t_brick_wall7_end_piece_e" ]
+          "sprite": [ "t_brick_wall7_end_piece_n", "t_brick_wall7_end_piece_e", "t_brick_wall7_end_piece_s", "t_brick_wall7_end_piece_w" ]
         },
         {
           "weight": 1,
-          "sprite": [ "t_brick_wall8_end_piece_s", "t_brick_wall8_end_piece_w", "t_brick_wall8_end_piece_n", "t_brick_wall8_end_piece_e" ]
+          "sprite": [ "t_brick_wall8_end_piece_n", "t_brick_wall8_end_piece_e", "t_brick_wall8_end_piece_s", "t_brick_wall8_end_piece_w" ]
         }
       ]
     },

@@ -89,37 +89,37 @@
         {
           "weight": 1,
           "sprite": [
-            "t_zebra_winter_end_piece_s",
-            "t_zebra_winter_end_piece_w",
             "t_zebra_winter_end_piece_n",
-            "t_zebra_winter_end_piece_e"
+            "t_zebra_winter_end_piece_e",
+            "t_zebra_winter_end_piece_s",
+            "t_zebra_winter_end_piece_w"
           ]
         },
         {
           "weight": 1,
           "sprite": [
-            "t_zebra_winter1_end_piece_s",
-            "t_zebra_winter1_end_piece_w",
             "t_zebra_winter1_end_piece_n",
-            "t_zebra_winter1_end_piece_e"
+            "t_zebra_winter1_end_piece_e",
+            "t_zebra_winter1_end_piece_s",
+            "t_zebra_winter1_end_piece_w"
           ]
         },
         {
           "weight": 1,
           "sprite": [
-            "t_zebra_winter2_end_piece_s",
-            "t_zebra_winter2_end_piece_w",
             "t_zebra_winter2_end_piece_n",
-            "t_zebra_winter2_end_piece_e"
+            "t_zebra_winter2_end_piece_e",
+            "t_zebra_winter2_end_piece_s",
+            "t_zebra_winter2_end_piece_w"
           ]
         },
         {
           "weight": 1,
           "sprite": [
-            "t_zebra_winter3_end_piece_s",
-            "t_zebra_winter3_end_piece_w",
             "t_zebra_winter3_end_piece_n",
-            "t_zebra_winter3_end_piece_e"
+            "t_zebra_winter3_end_piece_e",
+            "t_zebra_winter3_end_piece_s",
+            "t_zebra_winter3_end_piece_w"
           ]
         }
       ]

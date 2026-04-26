@@ -17,10 +17,10 @@
     {
       "id": "end_piece",
       "fg": [
-        "f_desk_end_piece_s_faceW",
-        "f_desk_end_piece_w_faceS",
         "f_desk_end_piece_n_faceW",
         "f_desk_end_piece_e_faceS",
+        "f_desk_end_piece_s_faceW",
+        "f_desk_end_piece_w_faceS",
         "f_desk_end_piece_n_faceE",
         "f_desk_end_piece_w_faceN",
         "f_desk_end_piece_s_faceE",

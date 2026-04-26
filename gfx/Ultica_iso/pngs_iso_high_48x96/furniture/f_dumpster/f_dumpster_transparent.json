@@ -26,10 +26,10 @@
     {
       "id": "end_piece",
       "fg": [
-        "f_dumpster_transparent_end_piece_s",
-        "f_dumpster_transparent_end_piece_w",
         "f_dumpster_transparent_end_piece_n",
-        "f_dumpster_transparent_end_piece_e"
+        "f_dumpster_transparent_end_piece_e",
+        "f_dumpster_transparent_end_piece_s",
+        "f_dumpster_transparent_end_piece_w"
       ]
     },
     { "id": "unconnected", "fg": [ "f_dumpster_transparent_unconnected", "f_dumpster_transparent_unconnected" ] }
