@@ -225,16 +225,16 @@ def main(args):
                         "id": "corner",
                         "fg": [
                             f"{args.tile}_corner_nw",
-                            f"{args.tile}_corner_sw",
+                            f"{args.tile}_corner_ne",
                             f"{args.tile}_corner_se",
-                            f"{args.tile}_corner_ne"],
+                            f"{args.tile}_corner_sw"],
                     }, {
                         "id": "t_connection",
                         "fg": [
                             f"{args.tile}_t_connection_n",
-                            f"{args.tile}_t_connection_w",
+                            f"{args.tile}_t_connection_e",
                             f"{args.tile}_t_connection_s",
-                            f"{args.tile}_t_connection_e"],
+                            f"{args.tile}_t_connection_w"],
                     }, {
                         "id": "edge",
                         "fg": [
@@ -244,9 +244,9 @@ def main(args):
                         "id": "end_piece",
                         "fg": [
                             f"{args.tile}_end_piece_n",
-                            f"{args.tile}_end_piece_w",
+                            f"{args.tile}_end_piece_e",
                             f"{args.tile}_end_piece_s",
-                            f"{args.tile}_end_piece_e"],
+                            f"{args.tile}_end_piece_w"],
                     }, {
                         "id": "unconnected",
                         # two copies because multitiles are assumed to rotate
