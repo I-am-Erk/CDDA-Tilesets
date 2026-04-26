@@ -18,7 +18,7 @@
     { "id": "edge", "fg": [ "t_railing_edge_ns", "t_railing_edge_ew" ], "bg": "4_t_pavement_0" },
     {
       "id": "end_piece",
-      "fg": [ "t_railing_end_piece_s", "t_railing_end_piece_w", "t_railing_end_piece_n", "t_railing_end_piece_e" ],
+      "fg": [ "t_railing_end_piece_n", "t_railing_end_piece_e", "t_railing_end_piece_s", "t_railing_end_piece_w" ],
       "bg": "4_t_pavement_0"
     },
     { "id": "unconnected", "fg": [ "t_railing_unconnected", "t_railing_unconnected" ], "bg": "4_t_pavement_0" }

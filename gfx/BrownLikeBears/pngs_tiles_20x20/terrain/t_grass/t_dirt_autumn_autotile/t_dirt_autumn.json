@@ -23,7 +23,7 @@
     { "id": "edge", "fg": [ "t_dirt_autumn_edge_ns", "t_dirt_autumn_edge_ew" ], "bg": "" },
     {
       "id": "end_piece",
-      "fg": [ "t_dirt_autumn_end_piece_s", "t_dirt_autumn_end_piece_w", "t_dirt_autumn_end_piece_n", "t_dirt_autumn_end_piece_e" ],
+      "fg": [ "t_dirt_autumn_end_piece_n", "t_dirt_autumn_end_piece_e", "t_dirt_autumn_end_piece_s", "t_dirt_autumn_end_piece_w" ],
       "bg": ""
     },
     { "id": "unconnected", "fg": [ "t_dirt_autumn_unconnected", "t_dirt_autumn_unconnected" ], "bg": "" }

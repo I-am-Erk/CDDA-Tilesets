@@ -19,10 +19,10 @@
     {
       "id": "end_piece",
       "fg": [
-        "t_metal_railing_end_piece_s",
-        "t_metal_railing_end_piece_w",
         "t_metal_railing_end_piece_n",
-        "t_metal_railing_end_piece_e"
+        "t_metal_railing_end_piece_e",
+        "t_metal_railing_end_piece_s",
+        "t_metal_railing_end_piece_w"
       ],
       "bg": "3_t_sidewalk_0"
     },

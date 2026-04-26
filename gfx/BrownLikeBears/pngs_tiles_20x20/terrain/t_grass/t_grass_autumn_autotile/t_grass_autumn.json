@@ -24,10 +24,10 @@
     {
       "id": "end_piece",
       "fg": [
-        "t_grass_autumn_end_piece_s",
-        "t_grass_autumn_end_piece_w",
         "t_grass_autumn_end_piece_n",
-        "t_grass_autumn_end_piece_e"
+        "t_grass_autumn_end_piece_e",
+        "t_grass_autumn_end_piece_s",
+        "t_grass_autumn_end_piece_w"
       ],
       "bg": ""
     },

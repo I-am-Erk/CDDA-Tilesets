@@ -31,12 +31,14 @@ def decide_switch(to_be_switched: dict, modified: bool) -> bool:
     if 'additional_tiles' in to_be_switched:
         for item in to_be_switched['additional_tiles']:
             if item['id'] == 'corner' or item['id'] == 't_connection':
-                modified = switch(item, 1, 3, modified)
+                pass
+               ## modified = switch(item, 1, 3, modified)
             elif item['id'] == 'end_piece':
                 modified = switch(item, 0, 2, modified)
-    elif 'rotates' in to_be_switched:
-        if to_be_switched['rotates']:
-            modified = switch(to_be_switched, 1, 3, modified)
+                switch(item, 1, 3, modified)
+   # elif 'rotates' in to_be_switched:
+   #     if to_be_switched['rotates']:
+   #         modified = switch(to_be_switched, 1, 3, modified)
     return modified
 
 

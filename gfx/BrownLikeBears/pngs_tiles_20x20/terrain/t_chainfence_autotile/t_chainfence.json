@@ -24,7 +24,7 @@
       { "id": "edge", "fg": [ "t_chainfence_edge_ns", "t_chainfence_edge_ew" ], "bg": "1_t_dirt_0" },
       {
         "id": "end_piece",
-        "fg": [ "t_chainfence_end_piece_s", "t_chainfence_end_piece_w", "t_chainfence_end_piece_n", "t_chainfence_end_piece_e" ],
+        "fg": [ "t_chainfence_end_piece_n", "t_chainfence_end_piece_e", "t_chainfence_end_piece_s", "t_chainfence_end_piece_w" ],
         "bg": "1_t_dirt_0"
       },
       { "id": "unconnected", "fg": [ "t_chainfence_unconnected", "t_chainfence_unconnected" ], "bg": "1_t_dirt_0" }
@@ -55,7 +55,7 @@
       { "id": "edge", "fg": [ "t_chainfence_edge_ns", "t_chainfence_edge_ew" ], "bg": "t_dirt_summer" },
       {
         "id": "end_piece",
-        "fg": [ "t_chainfence_end_piece_s", "t_chainfence_end_piece_w", "t_chainfence_end_piece_n", "t_chainfence_end_piece_e" ],
+        "fg": [ "t_chainfence_end_piece_n", "t_chainfence_end_piece_e", "t_chainfence_end_piece_s", "t_chainfence_end_piece_w" ],
         "bg": "t_dirt_summer"
       },
       { "id": "unconnected", "fg": [ "t_chainfence_unconnected", "t_chainfence_unconnected" ], "bg": "t_dirt_summer" }
@@ -86,7 +86,7 @@
       { "id": "edge", "fg": [ "t_chainfence_edge_ns", "t_chainfence_edge_ew" ], "bg": "t_dirt_autumn" },
       {
         "id": "end_piece",
-        "fg": [ "t_chainfence_end_piece_s", "t_chainfence_end_piece_w", "t_chainfence_end_piece_n", "t_chainfence_end_piece_e" ],
+        "fg": [ "t_chainfence_end_piece_n", "t_chainfence_end_piece_e", "t_chainfence_end_piece_s", "t_chainfence_end_piece_w" ],
         "bg": "t_dirt_autumn"
       },
       { "id": "unconnected", "fg": [ "t_chainfence_unconnected", "t_chainfence_unconnected" ], "bg": "t_dirt_autumn" }
@@ -117,7 +117,7 @@
       { "id": "edge", "fg": [ "t_chainfence_edge_ns", "t_chainfence_edge_ew" ], "bg": "t_dirt_winter" },
       {
         "id": "end_piece",
-        "fg": [ "t_chainfence_end_piece_s", "t_chainfence_end_piece_w", "t_chainfence_end_piece_n", "t_chainfence_end_piece_e" ],
+        "fg": [ "t_chainfence_end_piece_n", "t_chainfence_end_piece_e", "t_chainfence_end_piece_s", "t_chainfence_end_piece_w" ],
         "bg": "t_dirt_winter"
       },
       { "id": "unconnected", "fg": [ "t_chainfence_unconnected", "t_chainfence_unconnected" ], "bg": "t_dirt_winter" }

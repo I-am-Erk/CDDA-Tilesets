@@ -25,10 +25,10 @@
       {
         "id": "end_piece",
         "fg": [
-          "t_splitrail_fence_end_piece_s",
-          "t_splitrail_fence_end_piece_w",
           "t_splitrail_fence_end_piece_n",
-          "t_splitrail_fence_end_piece_e"
+          "t_splitrail_fence_end_piece_e",
+          "t_splitrail_fence_end_piece_s",
+          "t_splitrail_fence_end_piece_w"
         ],
         "bg": "1_t_dirt_0"
       },
@@ -65,10 +65,10 @@
       {
         "id": "end_piece",
         "fg": [
-          "t_splitrail_fence_end_piece_s",
-          "t_splitrail_fence_end_piece_w",
           "t_splitrail_fence_end_piece_n",
-          "t_splitrail_fence_end_piece_e"
+          "t_splitrail_fence_end_piece_e",
+          "t_splitrail_fence_end_piece_s",
+          "t_splitrail_fence_end_piece_w"
         ],
         "bg": "t_dirt_summer"
       },
@@ -105,10 +105,10 @@
       {
         "id": "end_piece",
         "fg": [
-          "t_splitrail_fence_end_piece_s",
-          "t_splitrail_fence_end_piece_w",
           "t_splitrail_fence_end_piece_n",
-          "t_splitrail_fence_end_piece_e"
+          "t_splitrail_fence_end_piece_e",
+          "t_splitrail_fence_end_piece_s",
+          "t_splitrail_fence_end_piece_w"
         ],
         "bg": "t_dirt_autumn"
       },
@@ -145,10 +145,10 @@
       {
         "id": "end_piece",
         "fg": [
-          "t_splitrail_fence_end_piece_s",
-          "t_splitrail_fence_end_piece_w",
           "t_splitrail_fence_end_piece_n",
-          "t_splitrail_fence_end_piece_e"
+          "t_splitrail_fence_end_piece_e",
+          "t_splitrail_fence_end_piece_s",
+          "t_splitrail_fence_end_piece_w"
         ],
         "bg": "t_dirt_winter"
       },
