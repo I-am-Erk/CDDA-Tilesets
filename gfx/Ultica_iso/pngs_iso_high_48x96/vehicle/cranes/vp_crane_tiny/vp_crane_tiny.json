@@ -2,11 +2,13 @@
   "id": "vp_crane_tiny",
   "fg": [
     "vp_crane_tiny_end_piece_n",
-    "vp_crane_tiny_end_piece_w",
+    "vp_crane_tiny_end_piece_e",
     "vp_crane_tiny_end_piece_s",
-    "vp_crane_tiny_end_piece_e"
+    "vp_crane_tiny_end_piece_w"
   ],
   "rotates": true,
-  "bg": [],
+  "bg": [
+    
+  ],
   "multitile": true
 }

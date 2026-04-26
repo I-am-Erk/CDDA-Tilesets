@@ -5,29 +5,93 @@
   "additional_tiles": [
     {
       "id": "center",
-      "fg": [ 
-        { "weight": 1, "sprite":"t_pavement_y_winter_center"  },
-        { "weight": 1, "sprite":"t_pavement_y_winter1_center" }, 
-        { "weight": 1, "sprite":"t_pavement_y_winter2_center" }, 
-        { "weight": 1, "sprite":"t_pavement_y_winter3_center" }
+      "fg": [
+        { "weight": 1, "sprite": "t_pavement_y_winter_center" },
+        { "weight": 1, "sprite": "t_pavement_y_winter1_center" },
+        { "weight": 1, "sprite": "t_pavement_y_winter2_center" },
+        { "weight": 1, "sprite": "t_pavement_y_winter3_center" }
       ]
     },
     {
       "id": "corner",
       "fg": [
-        { "weight": 1, "sprite": [ "t_pavement_y_winter_corner_nw", "t_pavement_y_winter_corner_sw", "t_pavement_y_winter_corner_se", "t_pavement_y_winter_corner_ne" ] },
-        { "weight": 1, "sprite": [ "t_pavement_y_winter1_corner_nw", "t_pavement_y_winter1_corner_sw", "t_pavement_y_winter1_corner_se", "t_pavement_y_winter1_corner_ne" ] },
-        { "weight": 1, "sprite": [ "t_pavement_y_winter2_corner_nw", "t_pavement_y_winter2_corner_sw", "t_pavement_y_winter2_corner_se", "t_pavement_y_winter2_corner_ne" ] },
-        { "weight": 1, "sprite": [ "t_pavement_y_winter3_corner_nw", "t_pavement_y_winter3_corner_sw", "t_pavement_y_winter3_corner_se", "t_pavement_y_winter3_corner_ne" ] }
+        {
+          "weight": 1,
+          "sprite": [
+            "t_pavement_y_winter_corner_nw",
+            "t_pavement_y_winter_corner_ne",
+            "t_pavement_y_winter_corner_se",
+            "t_pavement_y_winter_corner_sw"
+          ]
+        },
+        {
+          "weight": 1,
+          "sprite": [
+            "t_pavement_y_winter1_corner_nw",
+            "t_pavement_y_winter1_corner_ne",
+            "t_pavement_y_winter1_corner_se",
+            "t_pavement_y_winter1_corner_sw"
+          ]
+        },
+        {
+          "weight": 1,
+          "sprite": [
+            "t_pavement_y_winter2_corner_nw",
+            "t_pavement_y_winter2_corner_ne",
+            "t_pavement_y_winter2_corner_se",
+            "t_pavement_y_winter2_corner_sw"
+          ]
+        },
+        {
+          "weight": 1,
+          "sprite": [
+            "t_pavement_y_winter3_corner_nw",
+            "t_pavement_y_winter3_corner_ne",
+            "t_pavement_y_winter3_corner_se",
+            "t_pavement_y_winter3_corner_sw"
+          ]
+        }
       ]
     },
     {
       "id": "t_connection",
       "fg": [
-        { "weight": 1, "sprite": [ "t_pavement_y_winter_t_connection_n", "t_pavement_y_winter_t_connection_w", "t_pavement_y_winter_t_connection_s", "t_pavement_y_winter_t_connection_e" ] },
-        { "weight": 1, "sprite": [ "t_pavement_y_winter1_t_connection_n", "t_pavement_y_winter1_t_connection_w", "t_pavement_y_winter1_t_connection_s", "t_pavement_y_winter1_t_connection_e" ] },
-        { "weight": 1, "sprite": [ "t_pavement_y_winter2_t_connection_n", "t_pavement_y_winter2_t_connection_w", "t_pavement_y_winter2_t_connection_s", "t_pavement_y_winter2_t_connection_e" ] },
-        { "weight": 1, "sprite": [ "t_pavement_y_winter3_t_connection_n", "t_pavement_y_winter3_t_connection_w", "t_pavement_y_winter3_t_connection_s", "t_pavement_y_winter3_t_connection_e" ] }
+        {
+          "weight": 1,
+          "sprite": [
+            "t_pavement_y_winter_t_connection_n",
+            "t_pavement_y_winter_t_connection_e",
+            "t_pavement_y_winter_t_connection_s",
+            "t_pavement_y_winter_t_connection_w"
+          ]
+        },
+        {
+          "weight": 1,
+          "sprite": [
+            "t_pavement_y_winter1_t_connection_n",
+            "t_pavement_y_winter1_t_connection_e",
+            "t_pavement_y_winter1_t_connection_s",
+            "t_pavement_y_winter1_t_connection_w"
+          ]
+        },
+        {
+          "weight": 1,
+          "sprite": [
+            "t_pavement_y_winter2_t_connection_n",
+            "t_pavement_y_winter2_t_connection_e",
+            "t_pavement_y_winter2_t_connection_s",
+            "t_pavement_y_winter2_t_connection_w"
+          ]
+        },
+        {
+          "weight": 1,
+          "sprite": [
+            "t_pavement_y_winter3_t_connection_n",
+            "t_pavement_y_winter3_t_connection_e",
+            "t_pavement_y_winter3_t_connection_s",
+            "t_pavement_y_winter3_t_connection_w"
+          ]
+        }
       ]
     },
     {
@@ -42,10 +106,42 @@
     {
       "id": "end_piece",
       "fg": [
-        { "weight": 1, "sprite": [ "t_pavement_y_winter_end_piece_n", "t_pavement_y_winter_end_piece_w", "t_pavement_y_winter_end_piece_s", "t_pavement_y_winter_end_piece_e" ] },
-        { "weight": 1, "sprite": [ "t_pavement_y_winter1_end_piece_n", "t_pavement_y_winter1_end_piece_w", "t_pavement_y_winter1_end_piece_s", "t_pavement_y_winter1_end_piece_e" ] },
-        { "weight": 1, "sprite": [ "t_pavement_y_winter2_end_piece_n", "t_pavement_y_winter2_end_piece_w", "t_pavement_y_winter2_end_piece_s", "t_pavement_y_winter2_end_piece_e" ] },
-        { "weight": 1, "sprite": [ "t_pavement_y_winter3_end_piece_n", "t_pavement_y_winter3_end_piece_w", "t_pavement_y_winter3_end_piece_s", "t_pavement_y_winter3_end_piece_e" ] }
+        {
+          "weight": 1,
+          "sprite": [
+            "t_pavement_y_winter_end_piece_s",
+            "t_pavement_y_winter_end_piece_w",
+            "t_pavement_y_winter_end_piece_n",
+            "t_pavement_y_winter_end_piece_e"
+          ]
+        },
+        {
+          "weight": 1,
+          "sprite": [
+            "t_pavement_y_winter1_end_piece_s",
+            "t_pavement_y_winter1_end_piece_w",
+            "t_pavement_y_winter1_end_piece_n",
+            "t_pavement_y_winter1_end_piece_e"
+          ]
+        },
+        {
+          "weight": 1,
+          "sprite": [
+            "t_pavement_y_winter2_end_piece_s",
+            "t_pavement_y_winter2_end_piece_w",
+            "t_pavement_y_winter2_end_piece_n",
+            "t_pavement_y_winter2_end_piece_e"
+          ]
+        },
+        {
+          "weight": 1,
+          "sprite": [
+            "t_pavement_y_winter3_end_piece_s",
+            "t_pavement_y_winter3_end_piece_w",
+            "t_pavement_y_winter3_end_piece_n",
+            "t_pavement_y_winter3_end_piece_e"
+          ]
+        }
       ]
     },
     {

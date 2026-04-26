@@ -4,37 +4,10 @@
   "fg": "f_locker_faceS",
   "multitile": true,
   "additional_tiles": [
-    {
-      "id": "center",
-      "fg": "f_locker_faceS"
-    },
-    {
-      "id": "corner",
-      "fg": [
-        "f_locker_faceW",
-        "f_locker_faceS",
-        "f_locker_faceS",
-        "f_locker_faceN"
-      ]
-    },
-    {
-      "id": "t_connection",
-      "fg": [
-        "f_locker_faceN",
-        "f_locker_faceW",
-        "f_locker_faceS",
-        "f_locker_faceE"
-      ]
-    },
-    {
-      "id": "edge",
-      "fg": [
-        "f_locker_faceW",
-        "f_locker_faceS",
-        "f_locker_faceE",
-        "f_locker_faceN"
-      ]
-    },
+    { "id": "center", "fg": "f_locker_faceS" },
+    { "id": "corner", "fg": [ "f_locker_faceW", "f_locker_faceN", "f_locker_faceS", "f_locker_faceS" ] },
+    { "id": "t_connection", "fg": [ "f_locker_faceN", "f_locker_faceE", "f_locker_faceS", "f_locker_faceW" ] },
+    { "id": "edge", "fg": [ "f_locker_faceW", "f_locker_faceS", "f_locker_faceE", "f_locker_faceN" ] },
     {
       "id": "end_piece",
       "fg": [
@@ -48,14 +21,6 @@
         "f_locker_faceN"
       ]
     },
-    {
-      "id": "unconnected",
-      "fg": [
-        "f_locker_faceS",
-        "f_locker_faceW",
-        "f_locker_faceN",
-        "f_locker_faceE"
-      ]
-    }
+    { "id": "unconnected", "fg": [ "f_locker_faceS", "f_locker_faceW", "f_locker_faceN", "f_locker_faceE" ] }
   ]
 }
