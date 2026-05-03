@@ -1,0 +1,74 @@
+{
+  "id": "BG_t_nl_metal_wall",
+  "fg": [
+    { "weight": 100, "sprite": "BG_t_nl_metal_wall_edge_ew_0" },
+    { "weight": 15, "sprite": "BG_t_nl_metal_wall_edge_ew_1wires" },
+    { "weight": 10, "sprite": "BG_t_nl_metal_wall_edge_ew_2cables" },
+    { "weight": 2, "sprite": "BG_t_nl_metal_wall_edge_ew_3rune" },
+    { "weight": 15, "sprite": "BG_t_nl_metal_wall_edge_ew_4panels" },
+    { "weight": 8, "sprite": "BG_t_nl_metal_wall_edge_ew_5twist" },
+    { "weight": 50, "sprite": "BG_t_nl_metal_wall_edge_ew_6tilt" },
+    { "weight": 20, "sprite": "BG_t_nl_metal_wall_edge_ew_7bashed" },
+    { "weight": 30, "sprite": "BG_t_nl_metal_wall_edge_ew_8rack" },
+    { "weight": 5, "sprite": "BG_t_nl_metal_wall_edge_ew_9melt" }
+  ],
+  "bg": "",
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "center", "fg": "BG_t_nl_metal_wall_center_0", "bg": "" },
+    {
+      "id": "corner",
+      "fg": [
+        "BG_t_nl_metal_wall_corner_nw_0",
+        "BG_t_nl_metal_wall_corner_ne_0",
+        "BG_t_nl_metal_wall_corner_se_0",
+        "BG_t_nl_metal_wall_corner_sw_0"
+      ],
+      "bg": ""
+    },
+    {
+      "id": "t_connection",
+      "fg": [
+        "BG_t_nl_metal_wall_t_connection_n_0",
+        "BG_t_nl_metal_wall_t_connection_e_0",
+        "BG_t_nl_metal_wall_t_connection_s_0",
+        "BG_t_nl_metal_wall_t_connection_w_0"
+      ],
+      "bg": ""
+    },
+    {
+      "id": "edge",
+      "fg": [
+        "BG_t_nl_metal_wall_edge_ns_0",
+        [
+          { "weight": 100, "sprite": "BG_t_nl_metal_wall_edge_ew_0" },
+          { "weight": 15, "sprite": "BG_t_nl_metal_wall_edge_ew_1wires" },
+          { "weight": 10, "sprite": "BG_t_nl_metal_wall_edge_ew_2cables" },
+          { "weight": 2, "sprite": "BG_t_nl_metal_wall_edge_ew_3rune" },
+          { "weight": 15, "sprite": "BG_t_nl_metal_wall_edge_ew_4panels" },
+          { "weight": 8, "sprite": "BG_t_nl_metal_wall_edge_ew_5twist" },
+          { "weight": 50, "sprite": "BG_t_nl_metal_wall_edge_ew_6tilt" },
+          { "weight": 20, "sprite": "BG_t_nl_metal_wall_edge_ew_7bashed" },
+          { "weight": 30, "sprite": "BG_t_nl_metal_wall_edge_ew_8rack" },
+          { "weight": 5, "sprite": "BG_t_nl_metal_wall_edge_ew_9melt" }
+        ]
+      ],
+      "bg": ""
+    },
+    {
+      "id": "end_piece",
+      "fg": [
+        "BG_t_nl_metal_wall_end_piece_n_0",
+        "BG_t_nl_metal_wall_end_piece_e_0",
+        "BG_t_nl_metal_wall_end_piece_s_0",
+        "BG_t_nl_metal_wall_end_piece_w_0"
+      ],
+      "bg": ""
+    },
+    {
+      "id": "unconnected",
+      "fg": [ "BG_t_nl_metal_wall_unconnected_0", "BG_t_nl_metal_wall_unconnected_0" ],
+      "bg": ""
+    }
+  ]
+}
