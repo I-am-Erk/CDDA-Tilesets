@@ -1,6 +1,17 @@
 {
   "id": "t_nl_metal_wall",
-  "fg": "t_nl_metalwall_unconnected",
+  "fg": [
+    { "weight": 100, "sprite": "t_nl_metal_wall_unconnected" },
+    { "weight": 15, "sprite":  "t_nl_metal_wall_edge_ew_1wires" },
+    { "weight": 10, "sprite":  "t_nl_metal_wall_edge_ew_2cables" },
+    { "weight": 2, "sprite":   "t_nl_metal_wall_edge_ew_3rune" },
+    { "weight": 15, "sprite":  "t_nl_metal_wall_edge_ew_4panels" },
+    { "weight": 8, "sprite":   "t_nl_metal_wall_edge_ew_5twist" },
+    { "weight": 50, "sprite":  "t_nl_metal_wall_edge_ew_6tilt" },
+    { "weight": 20, "sprite":  "t_nl_metal_wall_edge_ew_7bashed" },
+    { "weight": 30, "sprite":  "t_nl_metal_wall_edge_ew_8rack" },
+    { "weight": 5, "sprite":   "t_nl_metal_wall_edge_ew_9melt" }
+  ],
   "multitile": true,
   "additional_tiles": [
     {
