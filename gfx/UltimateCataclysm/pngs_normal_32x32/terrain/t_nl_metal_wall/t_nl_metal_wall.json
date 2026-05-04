@@ -1,5 +1,5 @@
 {
-  "id": "BG_t_nl_metal_wall",
+  "id": "t_nl_metal_wall",
   "fg": [
     { "weight": 100, "sprite": "BG_t_nl_metal_wall_edge_ew_0" },
     { "weight": 15, "sprite": "BG_t_nl_metal_wall_edge_ew_1wires" },
@@ -39,19 +39,16 @@
     {
       "id": "edge",
       "fg": [
-        "BG_t_nl_metal_wall_edge_ns_0",
-        [
-          { "weight": 100, "sprite": "BG_t_nl_metal_wall_edge_ew_0" },
-          { "weight": 15, "sprite": "BG_t_nl_metal_wall_edge_ew_1wires" },
-          { "weight": 10, "sprite": "BG_t_nl_metal_wall_edge_ew_2cables" },
-          { "weight": 2, "sprite": "BG_t_nl_metal_wall_edge_ew_3rune" },
-          { "weight": 15, "sprite": "BG_t_nl_metal_wall_edge_ew_4panels" },
-          { "weight": 8, "sprite": "BG_t_nl_metal_wall_edge_ew_5twist" },
-          { "weight": 50, "sprite": "BG_t_nl_metal_wall_edge_ew_6tilt" },
-          { "weight": 20, "sprite": "BG_t_nl_metal_wall_edge_ew_7bashed" },
-          { "weight": 30, "sprite": "BG_t_nl_metal_wall_edge_ew_8rack" },
-          { "weight": 5, "sprite": "BG_t_nl_metal_wall_edge_ew_9melt" }
-        ]
+        { "weight": 100, "sprite": [ "BG_t_nl_metal_wall_edge_ns_0", "BG_t_nl_metal_wall_edge_ew_0" ] },
+        { "weight": 15, "sprite": [ "BG_t_nl_metal_wall_edge_ns_0", "BG_t_nl_metal_wall_edge_ew_1wires" ] },
+        { "weight": 10, "sprite": [ "BG_t_nl_metal_wall_edge_ns_0", "BG_t_nl_metal_wall_edge_ew_2cables" ] },
+        { "weight": 2, "sprite": [ "BG_t_nl_metal_wall_edge_ns_0", "BG_t_nl_metal_wall_edge_ew_3rune" ] },
+        { "weight": 15, "sprite": [ "BG_t_nl_metal_wall_edge_ns_0", "BG_t_nl_metal_wall_edge_ew_4panels" ] },
+        { "weight": 8, "sprite": [ "BG_t_nl_metal_wall_edge_ns_0", "BG_t_nl_metal_wall_edge_ew_5twist" ] },
+        { "weight": 50, "sprite": [ "BG_t_nl_metal_wall_edge_ns_0", "BG_t_nl_metal_wall_edge_ew_6tilt" ] },
+        { "weight": 20, "sprite": [ "BG_t_nl_metal_wall_edge_ns_0", "BG_t_nl_metal_wall_edge_ew_7bashed" ] },
+        { "weight": 30, "sprite": [ "BG_t_nl_metal_wall_edge_ns_0", "BG_t_nl_metal_wall_edge_ew_8rack" ] },
+        { "weight": 5, "sprite": [ "BG_t_nl_metal_wall_edge_ns_0", "BG_t_nl_metal_wall_edge_ew_9melt" ] }
       ],
       "bg": ""
     },
