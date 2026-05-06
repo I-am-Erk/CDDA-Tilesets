@@ -1,2 +1,7 @@
 [
+  {
+    "id": "mon_zomborg",
+    "fg": "mon_zomborg",
+    "bg": "shadow_32x48_normal"
+  }
 ]
