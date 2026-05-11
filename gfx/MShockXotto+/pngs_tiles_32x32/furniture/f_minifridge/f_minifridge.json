@@ -1,0 +1,14 @@
+{
+  "id": [
+    "f_minifridge",
+    "vp_ap_minifridge"
+  ],
+  "rotates": true,
+  "fg": [
+    "minifridge_S",
+    "minifridge_E",
+    "minifridge_N",
+    "minifridge_W"
+  ],
+  "bg": ""
+}
