@@ -1,0 +1,37 @@
+[
+{
+  "id": "t_nl_obelisk_0",
+  "fg": "t_nl_obelisk_0",
+  "bg": "t_metal_floor_center_tall"
+},
+{
+  "id": "t_nl_obelisk_1",
+  "fg": "t_nl_obelisk_1",
+  "bg": "t_metal_floor_center_tall"
+},
+{
+  "id": "t_nl_obelisk_2",
+  "fg": "t_nl_obelisk_2",
+  "bg": "t_metal_floor_center_tall"
+},
+{
+  "id": "t_nl_obelisk_3",
+  "fg": "t_nl_obelisk_3",
+  "bg": "t_metal_floor_center_tall"
+},
+{
+  "id": "t_nl_obelisk_mission_boiler",
+  "fg": "t_nl_obelisk_mission_boiler",
+  "bg": "t_metal_floor_center_tall"
+},
+{
+  "id": "t_nl_obelisk_mission_water_cooler",
+  "fg": "t_nl_obelisk_mission_water_cooler",
+  "bg": "t_metal_floor_center_tall"
+},
+{
+  "id": "t_nl_water_cooler",
+  "fg": "t_nl_water_cooler",
+  "bg": "t_metal_floor_center_tall"
+}
+]
