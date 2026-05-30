@@ -6,7 +6,7 @@
   },
   {
     "id": "t_tree_pine_season_autumn",
-    "fg": [ "t_tree" ],
+    "fg": [ "t_tree_pine" ],
     "bg": [ "t_grass_autumn_64x80" ]
   },
   {
