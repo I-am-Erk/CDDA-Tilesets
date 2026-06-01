@@ -1,0 +1,14 @@
+[
+  {
+    "id": "Cemetery_1a",
+    "fg": [ "Cemetery_1a_north", "Cemetery_1a_west", "Cemetery_1a_south", "Cemetery_1a_east" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "Cemetery_1b",
+    "fg": [ "Cemetery_1b_north", "Cemetery_1b_west", "Cemetery_1b_south", "Cemetery_1b_east" ],
+    "rotates": true,
+    "bg": [  ]
+  }
+]
