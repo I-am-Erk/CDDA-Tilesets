@@ -1,0 +1,92 @@
+[
+	{
+    "id": "hw_three_lane_merge_w",
+    "fg": [ "hw_three_lane_merge_w_north" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "hw_three_lane_merge_e",
+    "fg": [ "hw_three_lane_merge_e_north" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "hw_three_lane",
+    "fg": [ "hw_three_lane_north" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "hw_diamond_interchange_-1_-2",
+    "fg": [ "hw_diamond_interchange_-1_-2_north" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "hw_diamond_interchange_0_-2",
+    "fg": [ "hw_diamond_interchange_0_-2_north" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "hw_diamond_interchange_1_-2",
+    "fg": [ "hw_diamond_interchange_1_-2_north" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "hw_diamond_interchange_2_-2",
+    "fg": [ "hw_diamond_interchange_2_-2_north" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "hw_diamond_interchange_-2_-1",
+    "fg": [ "hw_diamond_interchange_-2_-1_north" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "hw_diamond_interchange_-1_-1",
+    "fg": [ "hw_diamond_interchange_-1_-1_north" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "hw_diamond_interchange_2_-1",
+    "fg": [ "hw_diamond_interchange_2_-1_north" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "hw_diamond_interchange_3_-1",
+    "fg": [ "hw_diamond_interchange_3_-1_north" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "hw_diamond_interchange_-2_0",
+    "fg": [ "hw_diamond_interchange_-2_0_north" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "hw_diamond_interchange_-1_0",
+    "fg": [ "hw_diamond_interchange_-1_0_north" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "hw_diamond_interchange_2_0",
+    "fg": [ "hw_diamond_interchange_2_0_north" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "hw_diamond_interchange_3_0",
+    "fg": [ "hw_diamond_interchange_3_0_north" ],
+    "rotates": true,
+    "bg": [  ]
+  }
+]
