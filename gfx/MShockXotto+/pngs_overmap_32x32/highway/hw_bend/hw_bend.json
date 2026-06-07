@@ -7,7 +7,7 @@
   },
   {
     "id": "hw_bend_1_4",
-    "fg": [ "hw_bend_0_4_north" ],
+    "fg": [ "hw_bend_1_4_north" ],
     "rotates": true,
     "bg": [  ]
   },
