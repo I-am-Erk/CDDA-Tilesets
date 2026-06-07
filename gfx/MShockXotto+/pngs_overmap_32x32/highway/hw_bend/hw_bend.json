@@ -67,7 +67,7 @@
   },
   {
     "id": "hw_bend_3_1",
-    "fg": [ "hw_bend_3_1_northh" ],
+    "fg": [ "hw_bend_3_1_north" ],
     "rotates": true,
     "bg": [  ]
   },
