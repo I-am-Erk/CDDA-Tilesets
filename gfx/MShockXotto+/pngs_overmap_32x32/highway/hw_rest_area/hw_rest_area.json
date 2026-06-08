@@ -1,0 +1,50 @@
+[
+	{
+    "id": "hw_rest_area_parking_-1_3",
+    "fg": [ "hw_rest_area_parking_-1_3_north" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "hw_rest_area_parking_-1_2",
+    "fg": [ "hw_rest_area_parking_-1_2_north" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "hw_rest_area_parking_-1_0",
+    "fg": [ "hw_rest_area_parking_-1_0_north" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "hw_rest_area_parking_-1_-1",
+    "fg": [ "hw_rest_area_parking_-1_-1_north" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "hw_rest_area_parking_-1_-2",
+    "fg": [ "hw_rest_area_parking_-1_-2_north" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "hw_rest_area_parking_-2_2",
+    "fg": [ "hw_rest_area_parking_-2_2_north" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "hw_rest_area_parking_-2_0",
+    "fg": [ "hw_rest_area_parking_-2_-1_north" ],
+    "rotates": true,
+    "bg": [  ]
+  },
+  {
+    "id": "hw_rest_area_parking_-2_-1",
+    "fg": [ "hw_rest_area_parking_-2_-1_north" ],
+    "rotates": true,
+    "bg": [  ]
+  }
+	]
