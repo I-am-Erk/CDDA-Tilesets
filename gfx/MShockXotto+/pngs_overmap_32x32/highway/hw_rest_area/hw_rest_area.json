@@ -37,7 +37,7 @@
   },
   {
     "id": "hw_rest_area_parking_-2_0",
-    "fg": [ "hw_rest_area_parking_-2_-1_north" ],
+    "fg": [ "hw_rest_area_parking_-2_0_north" ],
     "rotates": true,
     "bg": [  ]
   },
