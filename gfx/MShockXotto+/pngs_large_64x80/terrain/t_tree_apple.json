@@ -1,0 +1,42 @@
+[
+  {
+    "id": "t_tree_apple_season_spring",
+    "fg": [ "t_tree_apple_season_spring" ],
+    "bg": [ "t_grass_64x80" ]
+  },
+  {
+    "id": "t_tree_apple_season_autumn",
+    "fg": [ "t_tree_apple_season_autumn" ],
+    "bg": [ "t_grass_autumn_64x80" ]
+  },
+  {
+    "id": "t_tree_apple_season_summer",
+    "fg": [ "t_tree_apple_season_summer" ],
+    "bg": [ "t_grass_summer_64x80" ]
+  },
+  {
+    "id": [ "t_tree_apple_season_winter", "t_tree_crabapple_season_winter" ],
+    "fg": [ "t_tree_apple_season_winter" ],
+    "bg": [ "t_grass_winter_64x80" ]
+  },
+  {
+    "id": [ "t_tree_apple_harvested_season_autumn", "t_tree_crabapple_harvested_season_autumn" ],
+    "fg": [ "t_tree_apple_harvested_season_autumn" ],
+    "bg": [ "t_grass_autumn_64x80" ]
+  },
+  {
+    "id": "t_tree_crabapple_season_spring",
+    "fg": [ "t_tree_crabapple_season_spring" ],
+    "bg": [ "t_grass_64x80" ]
+  },
+  {
+    "id": "t_tree_crabapple_season_autumn",
+    "fg": [ "t_tree_crabapple_season_autumn" ],
+    "bg": [ "t_grass_autumn_64x80" ]
+  },
+  {
+    "id": "t_tree_crabapple_season_summer",
+    "fg": [ "t_tree_crabapple_season_summer" ],
+    "bg": [ "t_grass_summer_64x80" ]
+  }
+]
