@@ -35,8 +35,10 @@
     {
       "id": "end_piece",
       "fg": [
-        "t_string_x_edge_ns",
-        "t_string_x_edge_ew"
+        "t_string_x_end_piece_n",
+        "t_string_x_end_piece_w",
+        "t_string_x_end_piece_s",
+        "t_string_x_end_piece_e"
       ]
     },
     {
