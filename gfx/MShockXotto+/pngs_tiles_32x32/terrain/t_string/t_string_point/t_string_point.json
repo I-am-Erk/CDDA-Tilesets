@@ -1,0 +1,42 @@
+[
+  {
+    "id": "t_string_point_big",
+    "fg": [
+      { "weight": 1, "sprite": "t_string_point_big_0" },
+      { "weight": 1, "sprite": "t_string_point_big_1" },
+      { "weight": 1, "sprite": "t_string_point_big_2" }
+    ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "t_string_point_big_gray",
+    "fg": [
+      { "weight": 1, "sprite": "t_string_point_big_gray_0" },
+      { "weight": 1, "sprite": "t_string_point_big_gray_1" },
+      { "weight": 1, "sprite": "t_string_point_big_gray_2" }
+    ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "t_string_point_small",
+    "fg": [
+      { "weight": 1, "sprite": "t_string_point_small_0" },
+      { "weight": 1, "sprite": "t_string_point_small_1" },
+      { "weight": 1, "sprite": "t_string_point_small_2" }
+    ],
+    "bg": [  ],
+    "rotates": false
+  },
+  {
+    "id": "t_string_point_small_gray",
+    "fg": [
+      { "weight": 1, "sprite": "t_string_point_small_gray_0" },
+      { "weight": 1, "sprite": "t_string_point_small_gray_1" },
+      { "weight": 1, "sprite": "t_string_point_small_gray_2" }
+    ],
+    "bg": [  ],
+    "rotates": false
+  }
+]
