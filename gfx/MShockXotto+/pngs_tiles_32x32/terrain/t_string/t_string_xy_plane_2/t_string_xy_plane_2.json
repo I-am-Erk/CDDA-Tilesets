@@ -1,0 +1,15 @@
+{
+  "id": "t_string_xy_plane_2",
+  "animated": true,
+    "fg": [
+      { "weight": 1, "sprite": "t_string_xy_plane_2_0" },
+      { "weight": 2, "sprite": "t_string_xy_plane_2_1" },
+      { "weight": 3, "sprite": "t_string_xy_plane_2_2" },
+      { "weight": 4, "sprite": "t_string_xy_plane_2_3" },
+      { "weight": 5, "sprite": "t_string_xy_plane_2_4" },
+      { "weight": 6, "sprite": "t_string_xy_plane_2_5" },
+      { "weight": 7, "sprite": "t_string_xy_plane_2_6" },
+      { "weight": 8, "sprite": "t_string_xy_plane_2_7" },
+      { "weight": 9, "sprite": "t_string_xy_plane_2_8" }
+    ]
+}
