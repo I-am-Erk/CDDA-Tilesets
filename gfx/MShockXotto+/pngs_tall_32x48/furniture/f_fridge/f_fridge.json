@@ -5,9 +5,9 @@
   ],
   "rotates": true,
   "fg": [
-    "f_fridge",
-    "f_fridge_E",
     "f_fridge_N",
+    "f_fridge_E",
+    "f_fridge",
     "f_fridge_W"
   ],
   "bg": ""
