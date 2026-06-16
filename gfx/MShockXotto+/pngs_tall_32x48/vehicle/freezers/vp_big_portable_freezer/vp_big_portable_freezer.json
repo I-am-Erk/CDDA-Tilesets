@@ -1,15 +1,232 @@
 [
   {
-    "id": [ "vp_big_portable_freezer" ],
-    "rotates": true,
-    "fg": [ "vp_big_portable_freezer_N", "vp_big_portable_freezer_E", "vp_big_portable_freezer_S", "vp_big_portable_freezer_W" ],
-    "multitile": true,
-    "additional_tiles": [
-      {
-        "id": "broken",
-        "fg": [ "3987_vp_cargo_space_2" ],
-        "bg": [ "vp_big_portable_freezer_N", "vp_big_portable_freezer_E", "vp_big_portable_freezer_S", "vp_big_portable_freezer_W" ]
-      }
-    ]
-  }
+  "id": "vp_big_portable_freezer",
+  "rotates": true,
+  "fg": [
+    "vp_big_portable_freezer_N", //Pointing North
+    "vp_big_portable_freezer_E", //Pointing East
+    "vp_big_portable_freezer_S", //Pointing South
+    "vp_big_portable_freezer_W" //Pointing West
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [ "3987_vp_cargo_space_2" ],
+      "bg": [
+        "vp_big_portable_freezer_N",
+        "vp_big_portable_freezer_E",
+        "vp_big_portable_freezer_S",
+        "vp_big_portable_freezer_W"
+      ]
+    }
+  ]
+},
+{
+  "id": "vp_big_portable_freezer_up",
+  "rotates": true,
+  "fg": [
+    "vp_big_portable_freezer_N", //Pointing North
+    "vp_big_portable_freezer_E", //Pointing East
+    "vp_big_portable_freezer_S", //Pointing South
+    "vp_big_portable_freezer_W" //Pointing West
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [ "3987_vp_cargo_space_2" ],
+      "bg": [
+        "vp_big_portable_freezer_N",
+        "vp_big_portable_freezer_E",
+        "vp_big_portable_freezer_S",
+        "vp_big_portable_freezer_W"
+      ]
+    }
+  ]
+},
+{
+  "id": "vp_big_portable_freezer_down",
+  "rotates": true,
+  "fg": [
+    "vp_big_portable_freezer_S", //Pointing North
+    "vp_big_portable_freezer_W", //Pointing East
+    "vp_big_portable_freezer_N", //Pointing South
+    "vp_big_portable_freezer_E" //Pointing West
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [ "3987_vp_cargo_space_2" ],
+      "bg": [
+        "vp_big_portable_freezer_N",
+        "vp_big_portable_freezer_E",
+        "vp_big_portable_freezer_S",
+        "vp_big_portable_freezer_W"
+      ]
+    }
+  ]
+},
+{
+  "id": "vp_big_portable_freezer_left",
+  "rotates": true,
+  "fg": [
+    "vp_big_portable_freezer_W", //Pointing North
+    "vp_big_portable_freezer_N", //Pointing East
+    "vp_big_portable_freezer_E", //Pointing South
+    "vp_big_portable_freezer_S" //Pointing West
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [ "3987_vp_cargo_space_2" ],
+      "bg": [
+        "vp_big_portable_freezer_N",
+        "vp_big_portable_freezer_E",
+        "vp_big_portable_freezer_S",
+        "vp_big_portable_freezer_W"
+      ]
+    }
+  ]
+},
+{
+  "id": "vp_big_portable_freezer_right",
+  "rotates": true,
+  "fg": [
+    "vp_big_portable_freezer_E", //Pointing North
+    "vp_big_portable_freezer_S", //Pointing East
+    "vp_big_portable_freezer_W", //Pointing South
+    "vp_big_portable_freezer_N" //Pointing West
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [ "3987_vp_cargo_space_2" ],
+      "bg": [
+        "vp_big_portable_freezer_N",
+        "vp_big_portable_freezer_E",
+        "vp_big_portable_freezer_S",
+        "vp_big_portable_freezer_W"
+      ]
+    }
+  ]
+},
+{
+  "id": "vp_big_portable_fridge",
+  "rotates": true,
+  "fg": [
+    "vp_big_portable_freezer_N", //Pointing North
+    "vp_big_portable_freezer_E", //Pointing East
+    "vp_big_portable_freezer_S", //Pointing South
+    "vp_big_portable_freezer_W" //Pointing West
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [ "3987_vp_cargo_space_2" ],
+      "bg": [
+        "vp_big_portable_freezer_N",
+        "vp_big_portable_freezer_E",
+        "vp_big_portable_freezer_S",
+        "vp_big_portable_freezer_W"
+      ]
+    }
+  ]
+},
+{
+  "id": "vp_big_portable_fridge_up", //With vehicle pointing north, fridge/freezer points north
+  "rotates": true,
+  "fg": [
+    "vp_big_portable_freezer_N", //Pointing North
+    "vp_big_portable_freezer_E", //Pointing East
+    "vp_big_portable_freezer_S", //Pointing South
+    "vp_big_portable_freezer_W" //Pointing West
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [ "3987_vp_cargo_space_2" ],
+      "bg": [
+        "vp_big_portable_freezer_N",
+        "vp_big_portable_freezer_E",
+        "vp_big_portable_freezer_S",
+        "vp_big_portable_freezer_W"
+      ]
+    }
+  ]
+},
+{
+  "id": "vp_big_portable_fridge_down", //with vehicle pointing north, fridge/freezer points south 
+  "rotates": true,
+  "fg": [
+    "vp_big_portable_freezer_S",
+    "vp_big_portable_freezer_W",
+    "vp_big_portable_freezer_N",
+    "vp_big_portable_freezer_E" 
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [ "3987_vp_cargo_space_2" ],
+      "bg": [
+        "vp_big_portable_freezer_N",
+        "vp_big_portable_freezer_E",
+        "vp_big_portable_freezer_S",
+        "vp_big_portable_freezer_W"
+      ]
+    }
+  ]
+},
+{
+  "id": "vp_big_portable_fridge_left", //with vehicle pointing north, fridge/freezer points west 
+  "rotates": true,
+  "fg": [
+    "vp_big_portable_freezer_W", 
+    "vp_big_portable_freezer_N", 
+    "vp_big_portable_freezer_E", 
+    "vp_big_portable_freezer_S" 
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [ "3987_vp_cargo_space_2" ],
+      "bg": [
+        "vp_big_portable_freezer_N",
+        "vp_big_portable_freezer_E",
+        "vp_big_portable_freezer_S",
+        "vp_big_portable_freezer_W"
+      ]
+    }
+  ]
+},
+{
+  "id": "vp_big_portable_fridge_right", //with vehicle pointing north, fridge/freezer points east 
+  "rotates": true,
+  "fg": [
+    "vp_big_portable_freezer_E",
+    "vp_big_portable_freezer_S",
+    "vp_big_portable_freezer_W",
+    "vp_big_portable_freezer_N"
+  ],
+  "multitile": true,
+  "additional_tiles": [
+    {
+      "id": "broken",
+      "fg": [ "3987_vp_cargo_space_2" ],
+      "bg": [
+        "vp_big_portable_freezer_N",
+        "vp_big_portable_freezer_E",
+        "vp_big_portable_freezer_S",
+        "vp_big_portable_freezer_W"
+      ]
+    }
+  ]
+}
 ]
