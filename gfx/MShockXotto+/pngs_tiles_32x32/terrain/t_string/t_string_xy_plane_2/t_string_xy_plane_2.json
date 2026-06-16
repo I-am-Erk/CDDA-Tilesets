@@ -9,7 +9,6 @@
       { "weight": 5, "sprite": "t_string_xy_plane_2_4" },
       { "weight": 6, "sprite": "t_string_xy_plane_2_5" },
       { "weight": 7, "sprite": "t_string_xy_plane_2_6" },
-      { "weight": 8, "sprite": "t_string_xy_plane_2_7" },
-      { "weight": 9, "sprite": "t_string_xy_plane_2_8" }
+      { "weight": 8, "sprite": "t_string_xy_plane_2_7" }
     ]
 }
