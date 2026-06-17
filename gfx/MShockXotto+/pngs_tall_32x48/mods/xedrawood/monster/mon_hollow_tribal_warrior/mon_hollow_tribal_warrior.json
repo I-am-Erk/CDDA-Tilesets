@@ -1,0 +1,15 @@
+{
+  "id": "mon_hollow_tribal_warrior",
+  "fg": [
+    { "weight": 1, "sprite": "mon_hollow_tribal_warrior_0" },
+    { "weight": 1, "sprite": "mon_hollow_tribal_warrior_1" },
+    { "weight": 1, "sprite": "mon_hollow_tribal_warrior_2" },
+    { "weight": 1, "sprite": "mon_hollow_tribal_warrior_3" },
+    { "weight": 1, "sprite": "mon_hollow_tribal_warrior_4" },
+    { "weight": 1, "sprite": "mon_hollow_tribal_warrior_5" },
+    { "weight": 1, "sprite": "mon_hollow_tribal_warrior_6" },
+    { "weight": 1, "sprite": "mon_hollow_tribal_warrior_7" }
+  ],
+  "bg": [ ],
+  "rotates": false
+}
