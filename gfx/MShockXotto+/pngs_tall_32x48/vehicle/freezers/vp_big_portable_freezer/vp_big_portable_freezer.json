@@ -60,11 +60,11 @@
       "id": "broken",
       "fg": [ "3987_vp_cargo_space_2" ],
       "bg": [
-        "vp_big_portable_freezer_N",
-        "vp_big_portable_freezer_E",
-        "vp_big_portable_freezer_S",
-        "vp_big_portable_freezer_W"
-      ]
+    "vp_big_portable_freezer_S",
+    "vp_big_portable_freezer_W",
+    "vp_big_portable_freezer_N",
+    "vp_big_portable_freezer_E"
+  ]
     }
   ]
 },
@@ -83,11 +83,11 @@
       "id": "broken",
       "fg": [ "3987_vp_cargo_space_2" ],
       "bg": [
-        "vp_big_portable_freezer_N",
-        "vp_big_portable_freezer_E",
-        "vp_big_portable_freezer_S",
-        "vp_big_portable_freezer_W"
-      ]
+    "vp_big_portable_freezer_W",
+    "vp_big_portable_freezer_N",
+    "vp_big_portable_freezer_E",
+    "vp_big_portable_freezer_S" 
+  ]
     }
   ]
 },
@@ -106,11 +106,11 @@
       "id": "broken",
       "fg": [ "3987_vp_cargo_space_2" ],
       "bg": [
-        "vp_big_portable_freezer_N",
-        "vp_big_portable_freezer_E",
-        "vp_big_portable_freezer_S",
-        "vp_big_portable_freezer_W"
-      ]
+    "vp_big_portable_freezer_E",
+    "vp_big_portable_freezer_S",
+    "vp_big_portable_freezer_W",
+    "vp_big_portable_freezer_N"
+  ]
     }
   ]
 },
@@ -129,11 +129,11 @@
       "id": "broken",
       "fg": [ "3987_vp_cargo_space_2" ],
       "bg": [
-        "vp_big_portable_freezer_N",
-        "vp_big_portable_freezer_E",
-        "vp_big_portable_freezer_S",
-        "vp_big_portable_freezer_W"
-      ]
+    "vp_big_portable_freezer_N",
+    "vp_big_portable_freezer_E",
+    "vp_big_portable_freezer_S",
+    "vp_big_portable_freezer_W"
+  ]
     }
   ]
 },
@@ -152,11 +152,11 @@
       "id": "broken",
       "fg": [ "3987_vp_cargo_space_2" ],
       "bg": [
-        "vp_big_portable_freezer_N",
-        "vp_big_portable_freezer_E",
-        "vp_big_portable_freezer_S",
-        "vp_big_portable_freezer_W"
-      ]
+    "vp_big_portable_freezer_N",
+    "vp_big_portable_freezer_E",
+    "vp_big_portable_freezer_S",
+    "vp_big_portable_freezer_W"
+  ]
     }
   ]
 },
@@ -175,11 +175,11 @@
       "id": "broken",
       "fg": [ "3987_vp_cargo_space_2" ],
       "bg": [
-        "vp_big_portable_freezer_N",
-        "vp_big_portable_freezer_E",
-        "vp_big_portable_freezer_S",
-        "vp_big_portable_freezer_W"
-      ]
+    "vp_big_portable_freezer_S",
+    "vp_big_portable_freezer_W",
+    "vp_big_portable_freezer_N",
+    "vp_big_portable_freezer_E" 
+  ]
     }
   ]
 },
@@ -198,11 +198,11 @@
       "id": "broken",
       "fg": [ "3987_vp_cargo_space_2" ],
       "bg": [
-        "vp_big_portable_freezer_N",
-        "vp_big_portable_freezer_E",
-        "vp_big_portable_freezer_S",
-        "vp_big_portable_freezer_W"
-      ]
+    "vp_big_portable_freezer_W", 
+    "vp_big_portable_freezer_N", 
+    "vp_big_portable_freezer_E", 
+    "vp_big_portable_freezer_S" 
+  ]
     }
   ]
 },
@@ -221,11 +221,11 @@
       "id": "broken",
       "fg": [ "3987_vp_cargo_space_2" ],
       "bg": [
-        "vp_big_portable_freezer_N",
-        "vp_big_portable_freezer_E",
-        "vp_big_portable_freezer_S",
-        "vp_big_portable_freezer_W"
-      ]
+    "vp_big_portable_freezer_E",
+    "vp_big_portable_freezer_S",
+    "vp_big_portable_freezer_W",
+    "vp_big_portable_freezer_N"
+  ]
     }
   ]
 }
