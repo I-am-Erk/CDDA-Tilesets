@@ -1,0 +1,13 @@
+{
+  "id": "t_string_xy_plane_3",
+  "animated": true,
+    "fg": [
+      { "weight": 1, "sprite": "t_string_xy_plane_3_0" },
+      { "weight": 2, "sprite": "t_string_xy_plane_3_1" },
+      { "weight": 3, "sprite": "t_string_xy_plane_3_2" },
+      { "weight": 4, "sprite": "t_string_xy_plane_3_3" },
+      { "weight": 5, "sprite": "t_string_xy_plane_3_4" },
+      { "weight": 6, "sprite": "t_string_xy_plane_3_5" },
+      { "weight": 7, "sprite": "t_string_xy_plane_3_6" }
+    ]
+}
