@@ -133,6 +133,18 @@
       ]
     },
     {
+      "context": "f_board_map",
+      "item_variants": [
+        { "item": "trailmap", "sprite": [ { "id": "f_board_map_filled", "weight": 1 } ], "layer": 90 }
+      ]
+    },
+    {
+      "context": "f_board_map_b",
+      "item_variants": [
+        { "item": "trailmap", "sprite": [ { "id": "f_board_map_b_filled", "weight": 1 } ], "layer": 90 }
+      ]
+    },
+    {
       "context": "f_brazier",
       "item_variants": [
         { "item": "log", "sprite": [ { "id": "brazier_wood", "weight": 1 } ], "layer": 90 },
