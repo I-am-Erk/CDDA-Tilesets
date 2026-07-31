@@ -5,9 +5,9 @@
     "additional_tiles": [
       { "id": "unconnected", "fg": [ "f_highland_sarcophagus" ], "bg": [  ] },
       { "id": "edge", "fg": [ "f_highland_sarcophagus_edge_ns", "f_highland_sarcophagus_edge_ew" ], "bg": [  ] },
-      { "id": "end_piece", "fg": [ "f_highland_sarcophagus_end_piece_s", "f_highland_sarcophagus_end_piece_n",
-"f_highland_sarcophagus_end_piece_e",
-"f_highland_sarcophagus_end_piece_w" ], "bg": [  ] }
+      { "id": "end_piece", "fg": [ "f_highland_sarcophagus_end_piece_n", "f_highland_sarcophagus_end_piece_w",
+"f_highland_sarcophagus_end_piece_s",
+"f_highland_sarcophagus_end_piece_e" ], "bg": [  ] }
     ],
     "bg": [  ]
   }
