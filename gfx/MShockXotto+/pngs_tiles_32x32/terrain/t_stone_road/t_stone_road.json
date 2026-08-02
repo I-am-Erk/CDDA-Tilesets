@@ -1,0 +1,11 @@
+  {
+    "id": "t_stone_road",
+    "fg": [ ],
+    "bg": [
+        { "weight": 1, "sprite": "t_stone_road_0" },
+        { "weight": 1, "sprite": "t_stone_road_1" },
+        { "weight": 1, "sprite": "t_stone_road_2" },
+        { "weight": 1, "sprite": "t_stone_road_3" },
+        { "weight": 1, "sprite": "t_stone_road_4" }
+    ]
+  }
