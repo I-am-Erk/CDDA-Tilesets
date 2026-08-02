@@ -3,9 +3,9 @@
   "rotates": true,
   "fg": [
     "f_dresser_faceS",
-    "f_dresser_faceE",
+    "f_dresser_faceW",
     "f_dresser_faceN",
-    "f_dresser_faceW"
+    "f_dresser_faceE"
   ],
   "bg": ""
 }
