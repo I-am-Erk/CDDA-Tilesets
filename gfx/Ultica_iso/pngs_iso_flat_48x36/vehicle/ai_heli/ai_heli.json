@@ -1,0 +1,92 @@
+[
+  {
+    "id": "vp_NBC_seal",
+    "fg": "vp_NBC_seal",
+    "height_3d": 2
+  },
+  {
+    "id": "vp_aisle_curtain",
+    "fg": "vp_aisle_curtain",
+    "height_3d": 2
+  },
+  {
+    "id": "vp_aisle_lights",
+    "fg": "vp_aisle_lights",
+    "height_3d": 2
+  },
+  {
+    "id": "vp_frame_cover",
+    "fg": "vp_frame_cover",
+    "height_3d": 2
+  },
+  {
+    "id": "vp_frame_cross",
+    "fg": "vp_frame_cross",
+    "height_3d": 2
+  },
+  {
+    "id": "vp_frame_horizontal",
+    "fg": "vp_frame_horizontal",
+    "height_3d": 2
+  },
+  {
+    "id": "vp_frame_horizontal_2",
+    "fg": "vp_frame_horizontal_2",
+    "height_3d": 2
+  },
+  {
+    "id": "vp_frame_ne",
+    "fg": "vp_frame_ne",
+    "height_3d": 2
+  },
+  {
+    "id": "vp_frame_nw",
+    "fg": "vp_frame_nw",
+    "height_3d": 2
+  },
+  {
+    "id": "vp_frame_se",
+    "fg": "vp_frame_se",
+    "height_3d": 2
+  },
+  {
+    "id": "vp_frame_sw",
+    "fg": "vp_frame_sw",
+    "height_3d": 2
+  },
+  {
+    "id": "vp_frame_vertical",
+    "fg": "vp_frame_vertical",
+    "height_3d": 2
+  },
+  {
+    "id": "vp_frame_vertical_2",
+    "fg": "vp_frame_vertical_2",
+    "height_3d": 2
+  },
+  {
+    "id": "vp_plating_military",
+    "fg": "vp_plating_military",
+    "height_3d": 2
+  },
+  {
+    "id": "vp_plating_steel",
+    "fg": "vp_plating_steel",
+    "height_3d": 2
+  },
+  {
+    "id": "vp_roof",
+    "fg": "vp_roof",
+    "height_3d": 2
+  },
+  {
+    "id": "vp_xlframe_cross",
+    "fg": "vp_xlframe_cross",
+    "height_3d": 2
+  },
+  {
+    "id": "vp_xlframe_vertical",
+    "fg": "vp_xlframe_vertical",
+    "height_3d": 2
+  }
+]

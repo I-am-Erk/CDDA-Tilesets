@@ -1,0 +1,27 @@
+[
+  {
+    "id": "vp_engine_electric_super",
+    "fg": "vp_engine_electric_super",
+    "height_3d": 15
+  },
+  {
+    "id": "vp_engine_inline4",
+    "fg": "vp_engine_inline4",
+    "height_3d": 15
+  },
+  {
+    "id": "vp_xlhalfboard_horizontal",
+    "fg": "vp_xlhalfboard_horizontal",
+    "height_3d": 15
+  },
+  {
+    "id": "vp_xlhalfboard_ne",
+    "fg": "vp_xlhalfboard_ne",
+    "height_3d": 15
+  },
+  {
+    "id": "vp_xlhalfboard_nw",
+    "fg": "vp_xlhalfboard_nw",
+    "height_3d": 15
+  }
+]

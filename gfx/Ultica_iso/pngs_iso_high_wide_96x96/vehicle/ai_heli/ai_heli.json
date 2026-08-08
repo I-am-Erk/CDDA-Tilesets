@@ -1,0 +1,17 @@
+[
+  {
+    "id": "vp_heavy_duty_military_blackhawk_rotors",
+    "fg": "vp_heavy_duty_military_blackhawk_rotors",
+    "height_3d": 36
+  },
+  {
+    "id": "vp_heavy_duty_military_osprey_rotors",
+    "fg": "vp_heavy_duty_military_osprey_rotors",
+    "height_3d": 36
+  },
+  {
+    "id": "vp_heavy_duty_military_rotor",
+    "fg": "vp_heavy_duty_military_rotor",
+    "height_3d": 36
+  }
+]

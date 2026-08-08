@@ -1,0 +1,72 @@
+[
+  {
+    "id": "vp_cam_control",
+    "fg": "vp_cam_control",
+    "height_3d": 24
+  },
+  {
+    "id": "vp_controls",
+    "fg": "vp_controls",
+    "height_3d": 24
+  },
+  {
+    "id": "vp_controls_electronic",
+    "fg": "vp_controls_electronic",
+    "height_3d": 24
+  },
+  {
+    "id": "vp_dashboard",
+    "fg": "vp_dashboard",
+    "height_3d": 24
+  },
+  {
+    "id": "vp_medium_storage_battery",
+    "fg": "vp_medium_storage_battery",
+    "height_3d": 24
+  },
+  {
+    "id": "vp_minireactor",
+    "fg": "vp_minireactor",
+    "height_3d": 24
+  },
+  {
+    "id": "vp_seatbelt",
+    "fg": "vp_seatbelt",
+    "height_3d": 24
+  },
+  {
+    "id": "vp_seatbelt_heavyduty",
+    "fg": "vp_seatbelt_heavyduty",
+    "height_3d": 24
+  },
+  {
+    "id": "vp_small_storage_battery",
+    "fg": "vp_small_storage_battery",
+    "height_3d": 24
+  },
+  {
+    "id": "vp_storage_battery",
+    "fg": "vp_storage_battery",
+    "height_3d": 24
+  },
+  {
+    "id": "vp_tank",
+    "fg": "vp_tank",
+    "height_3d": 24
+  },
+  {
+    "id": "vp_tank_55gal_drum",
+    "fg": "vp_tank_55gal_drum",
+    "height_3d": 24
+  },
+  {
+    "id": "vp_wheel_mount_light",
+    "fg": "vp_wheel_mount_light",
+    "height_3d": 24
+  },
+  {
+    "id": "vp_wheel_mount_light_steerable",
+    "fg": "vp_wheel_mount_light_steerable",
+    "height_3d": 24
+  }
+]

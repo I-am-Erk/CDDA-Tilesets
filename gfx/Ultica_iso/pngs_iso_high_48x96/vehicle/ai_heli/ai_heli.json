@@ -1,0 +1,107 @@
+[
+  {
+    "id": "vp_aluminum_board_se",
+    "fg": "vp_aluminum_board_se",
+    "height_3d": 32
+  },
+  {
+    "id": "vp_aluminum_board_sw",
+    "fg": "vp_aluminum_board_sw",
+    "height_3d": 32
+  },
+  {
+    "id": "vp_aluminum_halfboard_cover",
+    "fg": "vp_aluminum_halfboard_cover",
+    "height_3d": 32
+  },
+  {
+    "id": "vp_aluminum_halfboard_vertical",
+    "fg": "vp_aluminum_halfboard_vertical",
+    "height_3d": 32
+  },
+  {
+    "id": "vp_board_vertical",
+    "fg": "vp_board_vertical",
+    "height_3d": 32
+  },
+  {
+    "id": "vp_door",
+    "fg": "vp_door",
+    "height_3d": 32
+  },
+  {
+    "id": "vp_door_internal",
+    "fg": "vp_door_internal",
+    "height_3d": 32
+  },
+  {
+    "id": "vp_gyrocopter_rotors",
+    "fg": "vp_gyrocopter_rotors",
+    "height_3d": 32
+  },
+  {
+    "id": "vp_halfboard_horizontal",
+    "fg": "vp_halfboard_horizontal",
+    "height_3d": 32
+  },
+  {
+    "id": "vp_halfboard_vertical",
+    "fg": "vp_halfboard_vertical",
+    "height_3d": 32
+  },
+  {
+    "id": "vp_halfboard_vertical_2",
+    "fg": "vp_halfboard_vertical_2",
+    "height_3d": 32
+  },
+  {
+    "id": "vp_hatch_opaque",
+    "fg": "vp_hatch_opaque",
+    "height_3d": 32
+  },
+  {
+    "id": "vp_hellfire_turret",
+    "fg": "vp_hellfire_turret",
+    "height_3d": 32
+  },
+  {
+    "id": "vp_laser_designator_part",
+    "fg": "vp_laser_designator_part",
+    "height_3d": 32
+  },
+  {
+    "id": "vp_mounted_25mm_autocannon",
+    "fg": "vp_mounted_25mm_autocannon",
+    "height_3d": 32
+  },
+  {
+    "id": "vp_mounted_m134",
+    "fg": "vp_mounted_m134",
+    "height_3d": 32
+  },
+  {
+    "id": "vp_mounted_plasma_gun",
+    "fg": "vp_mounted_plasma_gun",
+    "height_3d": 32
+  },
+  {
+    "id": "vp_small_civilian_rotors",
+    "fg": "vp_small_civilian_rotors",
+    "height_3d": 32
+  },
+  {
+    "id": "vp_stowboard_horizontal",
+    "fg": "vp_stowboard_horizontal",
+    "height_3d": 32
+  },
+  {
+    "id": "vp_stowboard_vertical",
+    "fg": "vp_stowboard_vertical",
+    "height_3d": 32
+  },
+  {
+    "id": "vp_turret_mount",
+    "fg": "vp_turret_mount",
+    "height_3d": 32
+  }
+]
