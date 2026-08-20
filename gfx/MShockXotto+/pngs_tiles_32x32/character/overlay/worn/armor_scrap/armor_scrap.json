@@ -1,0 +1,17 @@
+[
+  {
+    "id": [ "overlay_worn_armguard_scrap", "overlay_worn_xl_armguard_scrap", "overlay_worn_xs_armguard_scrap" ],
+    "fg": "overlay_worn_armguard_scrap",
+    "bg": [  ]
+  },
+  {
+    "id": [ "overlay_worn_legguard_scrap", "overlay_worn_xl_legguard_scrap", "overlay_worn_xs_legguard_scrap" ],
+    "fg": "overlay_worn_legguard_scrap",
+    "bg": [  ]
+  },
+  {
+    "id": [ "overlay_worn_armor_scrapsuit", "overlay_worn_armor_xl_scrapsuit", "overlay_worn_armor_xs_scrapsuit" ],
+    "fg": "overlay_worn_armor_scrapsuit",
+    "bg": [  ]
+  }
+]
