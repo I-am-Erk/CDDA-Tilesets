@@ -1,0 +1,12 @@
+[
+  {
+    "id": "t_highland_holy_grass",
+    "fg": [
+      { "weight": 1, "sprite": "t_highland_holy_grass1" },
+      { "weight": 1, "sprite": "t_highland_holy_grass2" },
+      { "weight": 1, "sprite": "t_highland_holy_grass3" },
+      { "weight": 1, "sprite": "t_highland_holy_grass4" }
+    ],
+    "bg": ""
+  }
+]
