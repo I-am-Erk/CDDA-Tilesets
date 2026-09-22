@@ -1,0 +1,22 @@
+name: MShockXotto+ composer
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - 'gfx/MShockXotto\+_Portraits/**'
+      - '.github/workflows/msx_portraits_ci_build.yml'
+  pull_request:
+    branches:
+      - master
+    paths:
+      - 'gfx/MShockXotto\+_Portraits/**'
+      - '.github/workflows/msx_portraits_ci_build.yml'
+
+jobs:
+  build:
+    uses: ./.github/workflows/composer_template.yml
+    with:
+      tileset: MShockXotto+_Portraits
+      composer-args: --use-all

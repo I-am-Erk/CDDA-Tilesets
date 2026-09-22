@@ -65,6 +65,10 @@ jobs:
             artifact: MshockXotto+
             tileset_dir: gfx/MShockXotto+
             compose_args: --use-all
+          - name: MShockXotto+_Portraits
+            artifact: MshockXotto+_Portraits
+            tileset_dir: gfx/MShockXotto+_Portraits
+            compose_args: --use-all
           - name: NeoDays
             artifact: NeoDaysTileset
             tileset_dir: gfx/NeoDays
