@@ -1,26 +1,60 @@
-{
-  "id": "fd_blood",
-  "fg": "fd_blood_unconnected",
-  "bg": "",
-  "multitile": true,
-  "additional_tiles": [
-    { "id": "center", "fg": "fd_blood_center", "bg": "" },
-    {
-      "id": "corner",
-      "fg": [ "fd_blood_corner_nw", "fd_blood_corner_ne", "fd_blood_corner_se", "fd_blood_corner_sw" ],
-      "bg": ""
-    },
-    {
-      "id": "t_connection",
-      "fg": [ "fd_blood_t_connection_n", "fd_blood_t_connection_e", "fd_blood_t_connection_s", "fd_blood_t_connection_w" ],
-      "bg": ""
-    },
-    { "id": "edge", "fg": [ "fd_blood_edge_ns", "fd_blood_edge_ew" ], "bg": "" },
-    {
-      "id": "end_piece",
-      "fg": [ "fd_blood_end_piece_n", "fd_blood_end_piece_e", "fd_blood_end_piece_s", "fd_blood_end_piece_w" ],
-      "bg": ""
-    },
-    { "id": "unconnected", "fg": [ "fd_blood_unconnected", "fd_blood_unconnected" ], "bg": "" }
-  ]
-}
+[
+  {
+    "id": "fd_blood",
+    "fg": "fd_blood_unconnected",
+    "bg": "",
+    "multitile": true,
+    "additional_tiles": [
+      { "id": "center", "fg": "fd_blood_center", "bg": "" },
+      {
+        "id": "corner",
+        "fg": [ "fd_blood_corner_nw", "fd_blood_corner_ne", "fd_blood_corner_se", "fd_blood_corner_sw" ],
+        "bg": ""
+      },
+      {
+        "id": "t_connection",
+        "fg": [ "fd_blood_t_connection_n", "fd_blood_t_connection_e", "fd_blood_t_connection_s", "fd_blood_t_connection_w" ],
+        "bg": ""
+      },
+      { "id": "edge", "fg": [ "fd_blood_edge_ns", "fd_blood_edge_ew" ], "bg": "" },
+      {
+        "id": "end_piece",
+        "fg": [ "fd_blood_end_piece_n", "fd_blood_end_piece_e", "fd_blood_end_piece_s", "fd_blood_end_piece_w" ],
+        "bg": ""
+      },
+      { "id": "unconnected", "fg": [ "fd_blood_unconnected", "fd_blood_unconnected" ], "bg": "" }
+    ]
+  },
+  {
+    "id": "fd_blood_footprint_n",
+    "fg": [
+      { "weight": 1, "sprite": "fd_blood_footprint_n"},
+      { "weight": 1, "sprite": "fd_blood_footprint_n_2"}
+    ],
+    "bg": ""
+  },
+  {
+    "id": "fd_blood_footprint_e",
+    "fg": [
+      { "weight": 1, "sprite": "fd_blood_footprint_e"},
+      { "weight": 1, "sprite": "fd_blood_footprint_e_2"}
+    ],
+    "bg": ""
+  },
+  {
+    "id": "fd_blood_footprint_s",
+    "fg": [
+      { "weight": 1, "sprite": "fd_blood_footprint_s"},
+      { "weight": 1, "sprite": "fd_blood_footprint_s_2"}
+    ],
+    "bg": ""
+  },
+  {
+    "id": "fd_blood_footprint_w",
+    "fg": [
+      { "weight": 1, "sprite": "fd_blood_footprint_w"},
+      { "weight": 1, "sprite": "fd_blood_footprint_w_2"}
+    ],
+    "bg": ""
+  }
+]
