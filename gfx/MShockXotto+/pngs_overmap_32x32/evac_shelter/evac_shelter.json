@@ -26,6 +26,7 @@
   },
   {
     "id": [ "shelter_roof", "shelter_roof_1", "shelter_roof_1b", "shelter_roof_2" ],
-    "fg": "shelter_roof"
+    "fg": "shelter_roof",
+    "bg": "open_air"
   }
 ]

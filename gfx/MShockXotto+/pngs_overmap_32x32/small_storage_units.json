@@ -1,8 +1,11 @@
 [
- {
-  "id": [ "small_storage_units", "small_storage_units_1" ],
-  "fg": [ "small_storage_units" ],
-  "rotates": false,
-  "bg": [ ]
-}
+  {
+    "id": [ "small_storage_units", "small_storage_units_1" ],
+    "fg": "small_storage_units"
+  },
+  {
+    "id": [ "small_storage_units_roof", "small_storage_units_1_roof" ],
+    "fg": "small_storage_units_roof",
+    "bg": "open_air"
+  }
 ]
