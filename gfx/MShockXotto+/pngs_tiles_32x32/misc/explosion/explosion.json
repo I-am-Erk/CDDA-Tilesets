@@ -7,7 +7,7 @@
   "fg": "explosion_unconnected",
   "multitile": true,
   "additional_tiles": [
-    { "id": "center", "fg": "explosion" },
+    { "id": "center", "fg": "explosion_center" },
     {
       "id": "corner",
       "fg": [ "explosion_corner_nw", "explosion_corner_ne", "explosion_corner_se", "explosion_corner_sw" ]
