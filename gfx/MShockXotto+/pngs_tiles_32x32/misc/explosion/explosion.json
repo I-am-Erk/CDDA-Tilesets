@@ -1,0 +1,26 @@
+{
+  "id": [
+    "explosion",
+    "explosion_medium",
+    "explosion_weak"
+  ],
+  "fg": "explosion_unconnected",
+  "multitile": true,
+  "additional_tiles": [
+    { "id": "center", "fg": "explosion" },
+    {
+      "id": "corner",
+      "fg": [ "explosion_corner_nw", "explosion_corner_ne", "explosion_corner_se", "explosion_corner_sw" ]
+    },
+    {
+      "id": "t_connection",
+      "fg": [ "explosion_t_connection_n", "explosion_t_connection_e", "explosion_t_connection_s", "explosion_t_connection_w" ]
+    },
+    { "id": "edge", "fg": [ "explosion_edge_ns", "explosion_edge_ew" ] },
+    {
+      "id": "end_piece",
+      "fg": [ "explosion_end_piece_n", "explosion_end_piece_e", "explosion_end_piece_s", "explosion_end_piece_w" ]
+    },
+    { "id": "unconnected", "fg": [ "explosion_unconnected", "explosion_unconnected" ] }
+  ]
+}
