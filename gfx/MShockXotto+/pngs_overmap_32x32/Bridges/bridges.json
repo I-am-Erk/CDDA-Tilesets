@@ -1,14 +1,26 @@
 [
-{
-  "id": "bridgehead_ground",
-  "fg": [ "bridgehead_ground_N", "bridgehead_ground_W", "bridgehead_ground_S", "bridgehead_ground_E" ],
-  "rotates": true,
-  "bg": [ ]
-},
-{
-  "id": "bridge",
-  "fg": [ "bridge_N", "bridge_W", "bridge_N", "bridge_W" ],
-  "rotates": true,
-  "bg": [ ]
-}
+  {
+    "id": "bridgehead_ground",
+    "fg": [ "bridgehead_ground_N", "bridgehead_ground_W", "bridgehead_ground_S", "bridgehead_ground_E" ],
+    "bg": [ "river_north", "river_west", "river_south", "river_east" ],
+    "rotates": true
+  },
+  {
+    "id": "bridge",
+    "fg": [ "bridge_support_N", "bridge_support_W", "bridge_support_N", "bridge_support_W" ],
+    "rotates": true,
+    "bg": "river_center"
+  },
+  {
+    "id": "bridgehead_ramp",
+    "fg": [ "bridgehead_ramp_N", "bridgehead_ramp_W", "bridgehead_ramp_S", "bridgehead_ramp_E" ],
+    "rotates": true,
+    "bg": "open_air"
+  },
+  {
+    "id": "bridge_road",
+    "fg": [ "bridge_N", "bridge_W", "bridge_N", "bridge_W" ],
+    "rotates": true,
+    "bg": "open_air"
+  }
 ]

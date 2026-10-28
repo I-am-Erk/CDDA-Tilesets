@@ -74,7 +74,7 @@
       "2farm_11"
     ],
     "fg": [ "single_house_roofN", "single_house_roofE", "single_house_roofS", "single_house_roofW" ],
-    "bg": [  ],
+    "bg": "open_air",
     "rotates": true
   }
 ]
