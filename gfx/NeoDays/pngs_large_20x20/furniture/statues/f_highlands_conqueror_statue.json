@@ -1,0 +1,14 @@
+[
+  {
+    "id": "t_highlands_conqueror_statue",
+    "fg": [
+      { "weight": 1, "sprite": "t_highlands_conqueror1" },
+      { "weight": 1, "sprite": "t_highlands_conqueror2" },
+      { "weight": 1, "sprite": "t_highlands_conqueror3" },
+      { "weight": 1, "sprite": "t_highlands_conqueror4" },
+      { "weight": 1, "sprite": "t_highlands_conqueror5" },
+      { "weight": 1, "sprite": "t_highlands_conqueror6" }
+    ],
+    "bg": ""
+  }
+]
