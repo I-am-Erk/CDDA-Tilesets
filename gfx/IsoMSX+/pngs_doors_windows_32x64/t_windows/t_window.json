@@ -1,0 +1,32 @@
+[
+  {
+    "id": "t_window_no_curtains_open",
+    "multitile": true,
+    "fg": [
+      "t_window_no_curtains_open_s",
+      "t_window_no_curtains_open_n",
+      "t_window_no_curtains_open_w",
+      "t_window_no_curtains_open_e"
+    ]
+  },
+  {
+    "id": "t_window_no_curtains",
+    "multitile": true,
+    "fg": [ "t_window_no_curtains_s", "t_window_no_curtains_n", "t_window_no_curtains_w", "t_window_no_curtains_e" ]
+  },
+  {
+    "id": "t_window_domestic",
+    "multitile": true,
+    "fg": [ "t_window_domestic_s", "t_window_domestic_n", "t_window_domestic_w", "t_window_domestic_e" ]
+  },
+  {
+    "id": "t_window_open",
+    "multitile": true,
+    "fg": [ "t_window_open_s", "t_window_open_n", "t_window_open_w", "t_window_open_e" ]
+  },
+  {
+    "id": "t_curtains",
+    "multitile": true,
+    "fg": [ "t_curtains_s", "t_curtains_n", "t_curtains_w", "t_curtains_e" ]
+  }
+]
