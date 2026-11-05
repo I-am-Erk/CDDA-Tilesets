@@ -1,24 +1,36 @@
 [
   {
     "pixelscale": 1,
+    "width": 32,
     "height": 20,
+    "zlevel_height": 64,
     "iso": true,
-    "width": 32
+    "retract_dist_min": 1.8,
+    "retract_dist_max": 3.0
   },
   {
-    "furniture.png": { "sprite_width": 32, "sprite_height": 32 }
+    "furniture.png": { "sprite_width": 32, "sprite_height": 32, "sprite_offset_x": 0, "sprite_offset_y": -9 }
   },
   {
-    "furniture_tall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_x": 0, "sprite_offset_y": -44 }
+    "furniture_tall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_x": 0, "sprite_offset_y": -40 }
   },
   {
-    "large.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -44 }
+    "large.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -40 }
   },
   {
-    "terrain.png": { "sprite_width": 32, "sprite_height": 20 }
+    "terrain.png": { "sprite_width": 32, "sprite_height": 20, "sprite_offset_x": 0, "sprite_offset_y": 4 }
   },
   {
-    "wall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_x": 0, "sprite_offset_y": -44 }
+    "terrain_tall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_x": 0, "sprite_offset_y": -40 }
+  },
+  {
+    "cursor.png": { "sprite_width": 32, "sprite_height": 32, "sprite_offset_x": 0, "sprite_offset_y": -8 }
+  },
+  {
+    "wall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_x": 0, "sprite_offset_y": -40, "sprite_offset_y_retracted": -14 }
+  },
+  {
+    "doors_windows.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_x": 0, "sprite_offset_y": -40 }
   },
   {
     "tiles.png": {
@@ -32,6 +44,7 @@
         "furniture",
         "vehicle",
         "trap",
+        "misc/cursors",
         "mods/Magiclysm/terrain",
         "mods/Magiclysm/vehicle",
         "mods/xedra_evolved/terrain"
