@@ -5,13 +5,13 @@ on:
     branches:
       - master
     paths:
-      - 'gfx/IsoMSX+/**'
+      - 'gfx/IsoMSX\+/**'
       - '.github/workflows/isomsx_ci_build.yml'
   pull_request:
     branches:
       - master
     paths:
-      - 'gfx/IsoMSX+/**'
+      - 'gfx/IsoMSX\+/**'
       - '.github/workflows/isomsx_ci_build.yml'
 
 jobs:
