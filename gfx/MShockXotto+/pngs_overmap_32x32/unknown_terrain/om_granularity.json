@@ -165,40 +165,9 @@
     "bg": "river_center"
   },
   {
-    "id": [ "roof_or_air$vague" ],
+    "id": [ "roof_or_air$vague", "roof_or_air$outlines", "roof_or_air$details" ],
     "fg": "unknown_terrain_vague",
-    "bg": [
-      { "weight": 1, "sprite": "open_air" },
-      { "weight": 1, "sprite": "open_air_1" },
-      { "weight": 1, "sprite": "open_air_2" },
-      { "weight": 1, "sprite": "open_air_3" },
-      { "weight": 1, "sprite": "open_air_4" },
-      { "weight": 1, "sprite": "open_air_5" }
-    ]
-  },
-  {
-    "id": [ "roof_or_air$outlines" ],
-    "fg": "unknown_terrain_outlines",
-    "bg": [
-      { "weight": 1, "sprite": "open_air" },
-      { "weight": 1, "sprite": "open_air_1" },
-      { "weight": 1, "sprite": "open_air_2" },
-      { "weight": 1, "sprite": "open_air_3" },
-      { "weight": 1, "sprite": "open_air_4" },
-      { "weight": 1, "sprite": "open_air_5" }
-    ]
-  },
-  {
-    "id": [ "roof_or_air$details" ],
-    "fg": "unknown_terrain_details",
-    "bg": [
-      { "weight": 1, "sprite": "open_air" },
-      { "weight": 1, "sprite": "open_air_1" },
-      { "weight": 1, "sprite": "open_air_2" },
-      { "weight": 1, "sprite": "open_air_3" },
-      { "weight": 1, "sprite": "open_air_4" },
-      { "weight": 1, "sprite": "open_air_5" }
-    ]
+    "bg": "open_air"
   },
   {
     "id": [ "underground_dirt$vague" ],

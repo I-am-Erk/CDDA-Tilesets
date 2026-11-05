@@ -1,0 +1,11 @@
+[
+  {
+    "id": [ "dollarstore", "dollarstore_1" ],
+    "fg": "dollarstore_1"
+  },
+  {
+    "id": [ "dollarstore_roof", "dollarstore_roof_1" ],
+    "fg": "dollarstore_roof_1",
+    "bg": "open_air"
+  }
+]

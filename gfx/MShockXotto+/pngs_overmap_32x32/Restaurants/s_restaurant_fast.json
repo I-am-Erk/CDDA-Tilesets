@@ -1,0 +1,15 @@
+[
+  {
+    "id": [ "s_restaurant_fast", "s_restaurant_fast_1" ],
+    "fg": "s_restaurant_fast"
+  },
+  {
+    "id": [
+      "s_restaurant_fast_roof",
+      "s_restaurant_fast_roof_1",
+      "s_restaurant_foodplace_roof",
+      "s_restaurant_foodplace_upper_roof"
+    ],
+    "fg": "s_restaurant_fast_roof"
+  }
+]
