@@ -44,15 +44,92 @@
         "furniture",
         "vehicle",
         "trap",
+        "mods/Aftershock/furniture",
+        "mods/Aftershock/terrain",
+        "mods/Aftershock/graffiti",
+        "mods/innawoods/terrain",
         "misc/cursors",
         "mods/Magiclysm/terrain",
         "mods/Magiclysm/vehicle",
-        "mods/xedra_evolved/terrain"
+        "mods/Magiclysm/field",
+        "mods/My_Sweet_Cataclysm/field",
+        "mods/skyisland/furniture",
+        "mods/xedra_evolved/terrain",
+        "mods/Xedra_evolved/furniture"
       ]
     }
   },
   {
     "small.png": { "sprite_width": 20, "sprite_height": 20, "sprite_offset_x": 6, "sprite_offset_y": 0, "filler": true }
+  },
+  {
+    "wide.png": {
+      "sprite_width": 48,
+      "sprite_height": 48,
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -16,
+      "filler": true,
+      "exclude": [ "mods/mindovermatter/terrain" ]
+    }
+  },
+  {
+    "widecenter.png": {
+      "sprite_width": 48,
+      "sprite_height": 48,
+      "sprite_offset_x": -8,
+      "sprite_offset_y": -16,
+      "filler": true,
+      "exclude": [ "vehicle" ]
+    }
+  },
+  {
+    "tall.png": {
+      "sprite_width": 32,
+      "sprite_height": 48,
+      "sprite_offset_x": 0,
+      "sprite_offset_y": -16,
+      "filler": true,
+      "exclude": [
+        "furniture",
+        "terrain",
+        "vehicle",
+        "mods/aftershock_exoplanet/furniture",
+        "mods/Magiclysm/furniture",
+        "mods/Xedra_evolved/furnitures"
+      ]
+    }
+  },
+  {
+    "largeNonIso.png": {
+      "sprite_width": 64,
+      "sprite_height": 80,
+      "sprite_offset_x": -16,
+      "sprite_offset_y": -48,
+      "filler": true,
+      "exclude": [ "furniture", "terrain", "mods/Magiclysm/furnitures" ]
+    }
+  },
+  {
+    "big.png": {
+      "sprite_width": 80,
+      "sprite_height": 64,
+      "sprite_offset_x": -48,
+      "sprite_offset_y": -32,
+      "filler": true,
+      "exclude": [ "mods/magiclysm/f_sojourners_palm" ]
+    }
+  },
+  {
+    "huge.png": { "sprite_width": 128, "sprite_height": 128, "sprite_offset_x": -64, "sprite_offset_y": -96, "filler": true }
+  },
+  {
+    "fillerlarge.png": { "sprite_width": 64, "sprite_height": 64, "sprite_offset_x": -16, "sprite_offset_y": -32, "filler": true }
+  },
+  {
+    "fillernormal.png": { "sprite_width": 32, "sprite_height": 32, "filler": true }
+  },
+  {
+    "fillertall.png": { "sprite_width": 32, "sprite_height": 64, "sprite_offset_y": -32, "filler": true }
   },
   {
     "fallback.png": { "sprite_width": 20, "sprite_height": 20, "sprite_offset_x": 6, "sprite_offset_y": -6, "fallback": true }
