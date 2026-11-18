@@ -2,7 +2,8 @@
   {
     "pixelscale": 1,
     "width": 32,
-    "height": 32
+    "height": 32,
+    "supports_overmap_transparency": true
   },
   {
     "tiles.png": {  }

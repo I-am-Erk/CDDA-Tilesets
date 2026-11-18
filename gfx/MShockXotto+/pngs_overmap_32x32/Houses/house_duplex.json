@@ -32,7 +32,7 @@
       "house_duplex9_roof"
     ],
     "fg": [ "house_duplex_roof_north", "house_duplex_roof_east", "house_duplex_roof_south", "house_duplex_roof_west" ],
-    "bg": [  ],
+    "bg": "open_air",
     "rotates": true
   }
 ]
